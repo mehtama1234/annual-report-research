@@ -1,0 +1,11 @@
+sector,industry,company,ticker,target_annual_year,target_quarter_1,target_quarter_2,target_quarter_3,annual_report_collected,annual_filing_collected,q_latest_collected,q_minus_1_collected,q_minus_2_collected,call_transcript_latest,collected_by,last_updated,status,next_action
+Technology,Consumer Services,Apple Inc.,AAPL,2025,FY2026 Q3,FY2026 Q2,FY2026 Q1,no,no,no,no,no,no,,2026-08-08,seeded,Create raw folders and collect Apple 2025 annual plus FY2026 Q3 Q2 Q1 materials
+Technology,Application Software,Microsoft Corporation,MSFT,2025,FY2026 Q4,FY2026 Q3,FY2026 Q2,no,no,no,no,no,no,,2026-08-08,seeded,Collect Microsoft 2025 annual from IR then FY2026 Q4 Q3 Q2 materials
+Financial,Money Center Banks,JPMorgan Chase & Co.,JPM,2025,2Q26,1Q26,4Q25,yes,partial,yes,yes,yes,partial,,2026-08-08,in-progress,Add 2Q26 transcript and filing plus 1Q26 press release and 4Q25 press release or 10-K artifact
+Financial,Money Center Banks,Bank of America Corporation,BAC,2025,2Q26,1Q26,4Q25,yes,yes,yes,yes,yes,yes,,2026-08-08,in-progress,Extract themes and summarize the annual plus three-quarter evidence set
+Consumer Goods,Personal Products,Procter & Gamble Co.,PG,2025,FY2026 Q4,FY2026 Q3,FY2026 Q2,no,no,no,no,no,no,,2026-08-08,seeded,Collect P&G 2025 annual then FY2026 Q4 Q3 Q2 materials
+Consumer Goods,Processed & Packaged Goods,PepsiCo Inc.,PEP,2025,Q2 2026,Q1 2026,Q4 2025,no,no,no,no,no,no,,2026-08-08,seeded,Collect PepsiCo 2025 annual and Q2 2026 Q1 2026 Q4 2025 materials
+Healthcare,Managed Health Care,UnitedHealth Group Incorporated,UNH,2025,Q2 2026,Q1 2026,Q4 2025,no,no,no,no,no,no,,2026-08-08,seeded,Collect UNH 2025 Form 10-K annual packet and Q2 2026 Q1 2026 Q4 2025 materials
+Healthcare,Drug Manufacturers - General,Pfizer Inc.,PFE,2025,Q2 2026,Q1 2026,Q4 2025,no,no,no,no,no,no,,2026-08-08,seeded,Collect Pfizer 2025 annual and Q2 2026 Q1 2026 Q4 2025 materials
+Industrial Goods,Construction & Farm Machinery,Caterpillar Inc.,CAT,2025,Q2 2026,Q1 2026,Q4 2025,no,no,no,no,no,no,,2026-08-08,seeded,Collect Caterpillar 2025 annual and Q2 2026 Q1 2026 Q4 2025 materials
+Industrial Goods,Aerospace/Defense Products & Services,Honeywell International Inc.,HON,2025,Q2 2026,Q1 2026,Q4 2025,no,no,no,no,no,no,,2026-08-08,seeded,Collect Honeywell 2025 annual from IR and Q2 2026 Q1 2026 Q4 2025 materials

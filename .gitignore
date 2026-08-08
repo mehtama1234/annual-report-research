@@ -1,0 +1,4 @@
+# Local extraction and scratch output
+tmp/
+scratch/
+*.log

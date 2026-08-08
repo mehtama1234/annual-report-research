@@ -1,0 +1,6 @@
+sector_slug,sector_name,annualreports_sector_name,priority,company_count_target,covered_companies,coverage_status,notes
+technology,Technology,Technology,1,15,0,not-started,Good pilot for AI capex cloud semis software and platform themes
+financial,Financial,Financial,1,15,0,not-started,Banks insurers asset managers payments and credit
+consumer-goods,Consumer Goods,Consumer Goods,1,15,0,not-started,Brand pricing household demand and channel shifts
+healthcare,Healthcare,Healthcare,1,15,0,not-started,Payers pharma devices providers and policy exposure
+industrial-goods,Industrial Goods,Industrial Goods,1,15,0,not-started,Capex cycles reshoring automation and labor constraints

@@ -20,6 +20,7 @@ This synthesis is based on the completed industrial-goods packets currently in t
   - [MYR Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/myr-group-inc/company-packet.md)
 - Skilled-trades mechanical and electrical field execution:
   - [Comfort Systems USA, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
+  - [EMCOR Group, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/emcor-group-inc/company-packet.md)
 - HVAC, controls, and thermal systems:
   - [Trane Technologies plc](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-equipment-components/trane-technologies-plc/company-packet.md)
 - Aerospace and defense:
@@ -64,6 +65,7 @@ The packet set shows several different industrial models, but the strongest name
 - `Quanta` is driven by utility construction, transmission and substation work, load-center and mission-critical infrastructure buildout, and the ability to convert record backlog into executed work through craft-skilled field capacity.
 - `MYR` is driven by specialty electrical construction across transmission and distribution plus commercial and industrial work, with direct exposure to substations, emergency restoration, data centers, EV charging, airports, manufacturing, water and waste-water, and other complex electrical environments.
 - `Comfort Systems` is driven by HVAC, electrical contracting, modular and building-services execution, with unusually visible exposure to backlog conversion, burn-rate acceleration, and the practical limits of skilled-trades capacity.
+- `EMCOR` is driven by electrical and mechanical construction, facilities services, building services, and industrial services, with direct evidence that data centers, AI-linked electrical and cooling complexity, healthcare, water, and institutional projects are landing as record remaining performance obligations.
 - `Trane` is driven by commercial HVAC, data-center cooling, controls, services, and building-system backlog.
 - `Caterpillar` is seeing power generation, energy, construction, mining, and installed-base services support.
 - `ABM` shows how the same cycle reaches outsourced technical operations in airports, manufacturing sites, battery systems, semiconductor fabs, and datacenter-related services.
@@ -84,6 +86,7 @@ The industrial evidence set shows that AI demand is already expressing itself th
 - utility construction, transmission and substation execution, and craft-skilled infrastructure deployment at `Quanta`
 - specialty electrical construction, transmission and distribution execution, and data-center plus industrial facility wiring and systems work at `MYR`
 - HVAC, electrical, modular, and mechanical systems execution at `Comfort Systems`
+- electrical and mechanical construction, facilities services, and data-center-linked building-systems execution at `EMCOR`
 - HVAC, thermal management, and liquid cooling at `Trane`
 - engines, turbines, and power-related infrastructure at `Caterpillar`
 - datacenter-related services and battery-energy-storage support at `ABM`
@@ -107,6 +110,7 @@ Examples:
 - `Quanta` moved from year-end `2025` backlog of `$43.98B` and RPO of `$23.76B` to Q1 `2026` backlog of `$48.5B` and RPO of `$26.2B`, then to Q2 `2026` backlog of `$53.4B` and RPO of `$33.6B`, which shows how power and mission-critical demand are landing as executable field work.
 - `MYR` moved from year-end `2025` backlog of `$2.82B` to Q1 `2026` backlog of `$2.84B` and Q2 `2026` backlog of `$3.16B`, while maintaining strong `Commercial and Industrial` exposure and a sharp second-quarter rise in `Transmission and Distribution` backlog.
 - `Comfort Systems` moved from year-end `2025` backlog of `$11.94B` to Q1 `2026` backlog of `$12.45B` and Q2 `2026` backlog of `$14.06B`, making it one of the clearest cases where demand is abundant but execution capacity and labor throughput still matter directly.
+- `EMCOR` moved from year-end `2025` remaining performance obligations of `$13.25B` to Q1 `2026` RPO of `$15.62B` and Q2 `2026` RPO of `$17.14B`, with the biggest recent growth coming from network and communications, healthcare, water and wastewater, and institutional work.
 
 This suggests the stronger industrial businesses are being driven by constrained project pipelines and fulfillment capacity, not by fragile spot demand.
 
@@ -138,12 +142,14 @@ This is useful because it broadens the industrial read away from machinery and d
 
 ### 6. Services and labor-heavy execution are part of industrial reality
 
-`Comfort Systems` and `ABM` are the clearest reminders that industrial value is not only embedded in manufactured equipment.
+`Comfort Systems`, `EMCOR`, and `ABM` are the clearest reminders that industrial value is not only embedded in manufactured equipment.
 
 Their packets add:
 
 - direct skilled-trades execution
 - HVAC and electrical contracting
+- large-scale electrical and mechanical construction
+- facilities and building services
 - modular and offsite systems work
 - airport operations
 - semiconductor-fab support
@@ -152,6 +158,8 @@ Their packets add:
 - battery-energy-storage and technical environments
 
 `Comfort Systems` is especially useful because it shows a condition that sits underneath many other industrial stories in the archive: demand can be very strong and backlog can be very large, but revenue still has to be turned by enough capable field labor, project supervision, and execution discipline.
+
+`EMCOR` adds a different but related read: a larger platform can span electrical, mechanical, building, and industrial work at once, but it still lives or dies on mix, execution quality, labor availability, and the ability to convert complex project demand into profitable field performance.
 
 This means industrial growth also depends on field labor, contract mix, pricing discipline, local execution, and the ability to operate complex physical systems after they are built.
 
@@ -169,6 +177,7 @@ They are selling systems:
 - `Quanta`: utility construction, power-infrastructure execution, front-end services, fabrication depth, and craft-skilled field capacity
 - `MYR`: specialty electrical construction, transmission and distribution execution, commercial-and-industrial wiring, and project-selective field capacity across utility and large-facility work
 - `Comfort Systems`: skilled-trades execution, HVAC and electrical contracting, modular delivery, and workforce depth as an operating advantage
+- `EMCOR`: electrical and mechanical construction, facilities services, building and industrial services, and scaled execution depth across multiple end markets
 - `Trane`: cooling, controls, and service layers
 - `Caterpillar`: engines, power, service network, and installed-base economics
 - `Northrop`: mission systems and production capacity
@@ -182,7 +191,7 @@ That suggests the more durable industrial moats are shifting toward system integ
 |---|---|---|
 | Power and electrical infrastructure | Eaton, Hubbell, nVent, Powell, Quanta, MYR | electrification, grid modernization, transmission and distribution components, utility controls and communications, data-center power demand, electrical architecture, connection and protection systems, liquid cooling, custom switchgear, engineered-to-order power control, utility construction, specialty electrical field execution, and backlog and capacity expansion |
 | Critical digital infrastructure power and thermal | Vertiv | hyperscale and colocation demand, critical power and cooling systems, backlog expansion, deployment complexity, and strong cash conversion |
-| Cooling and building systems | Trane, Comfort Systems | HVAC, controls, liquid cooling, services, building-system demand, modular delivery, skilled-trades execution, and high-visibility commercial backlog |
+| Cooling and building systems | Trane, Comfort Systems, EMCOR | HVAC, controls, liquid cooling, services, building-system demand, modular delivery, skilled-trades execution, facilities services, and high-visibility commercial backlog |
 | Heavy equipment and energy-linked machinery | Caterpillar | infrastructure, mining, power generation, installed-base service monetization |
 | Defense and deterrence industrial base | Northrop, Honeywell | budget-backed demand, aerospace systems, strategic modernization, production scale |
 | Transport and environmental infrastructure | Union Pacific, Waste Management | regulated or network infrastructure, pricing discipline, throughput, operational leverage |
@@ -200,6 +209,7 @@ Across the completed industrial-goods set, the broader signals are:
 - `Quanta` extends the same value chain into the construction and field-services layer, which is where transmission work, substations, load-center infrastructure, and other power projects actually get built, modified, and connected.
 - `MYR` reinforces that same conclusion with a more focused contractor showing how transmission work, substations, data-center wiring, and commercial-and-industrial electrical projects are landing in specialty backlog and field labor demand.
 - `Comfort Systems` adds the broader skilled-trades and building-systems layer, where HVAC, electrical, modular, and service execution depends on labor depth and local operating quality rather than only on demand or equipment availability.
+- `EMCOR` reinforces that same conclusion at larger scale, while also showing that AI and data-center demand do not stop at power equipment. They also create demand for electrical fit-out, mechanical systems, environmental controls, communications cabling, retrofit work, and ongoing facilities services.
 - The direct winners are not only grid or building names; they also include operators explicitly centered on critical digital infrastructure deployment.
 - Government and regulated spending still matter materially through defense, rail, waste, and infrastructure policy.
 - Industrial value is concentrating in businesses with installed bases, backlog visibility, system depth, and execution capability.
@@ -216,6 +226,7 @@ The clearest links are:
 - `Quanta` translating the same load-growth wave into transmission, substation, utility, load-center, and mission-critical infrastructure execution
 - `MYR` translating the same load-growth and electrification wave into specialty electrical construction across utility networks and large-load commercial-and-industrial sites
 - `Comfort Systems` translating the same building and infrastructure intensity into HVAC, electrical, modular, and service deployment that still depends on enough technically capable labor in the field
+- `EMCOR` translating the same wave into large-scale electrical and mechanical construction plus facilities-service work across data centers, high-tech manufacturing, healthcare, and institutional settings
 - `Caterpillar` linking infrastructure growth to engines, turbines, and energy systems
 - `ABM` showing how datacenter and semiconductor complexity creates demand for outsourced operations
 - `Honeywell` and `Northrop` showing that control systems, aerospace electronics, and automation still matter deeply inside industrial outcomes
@@ -257,6 +268,7 @@ The archive will likely be easiest to extend if Industrial Goods is grouped into
 - utility construction and craft-skilled field execution
 - specialty electrical construction across utility and large-facility projects
 - skilled-trades HVAC and electrical contracting
+- scaled electrical and mechanical construction plus facilities services
 - critical digital infrastructure power and thermal
 - cooling and building systems
 - heavy equipment and energy-linked machinery

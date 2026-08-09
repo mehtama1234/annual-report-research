@@ -29,6 +29,7 @@ This synthesis is based on the completed Services packets currently in the archi
   - [Costco Wholesale Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md)
   - [Best Buy Co., Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/electronics-stores/best-buy-co-inc/company-packet.md)
   - [Kohl's Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/department-stores/kohls-corporation/company-packet.md)
+  - [Ross Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
 - Labor intermediation:
   - [Robert Half Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/staffing-employment-services/robert-half-inc/company-packet.md)
 
@@ -61,6 +62,7 @@ The newer packet base makes this much more obvious.
 - `Walmart`, `Kroger`, and `Costco` show that the shopping trip is increasingly monetized through membership, advertising, marketplace, loyalty, or traffic density rather than only basket margin.
 - `Best Buy` shows a weaker but still important version of the same pattern in consumer electronics, where services, Marketplace, Best Buy Ads, repair, trade-in, and omnichannel support are meant to widen the economics beyond the hardware sale.
 - `Kohl's` shows what the weaker middle looks like in department stores, where loyalty, value messaging, Sephora adjacency, and omnichannel tools still have to fight a structurally pressured base business.
+- `Ross` shows the traffic-resilient value winner in the same broad consumer lane, where off-price sourcing, in-store discovery, and compelling branded bargains can still produce very strong sales and earnings growth without a classic membership or loyalty engine.
 - `Caesars` shows loyalty and wallet design connecting physical gaming, digital wagering, and cross-property entertainment spend.
 - `Hilton` and `Delta` show loyalty systems operating as economic infrastructure rather than as marketing decoration.
 
@@ -91,6 +93,8 @@ This matters for the sector read because it shows Services is not only populated
 
 `Kohl's` pushes this one step further. The business is not simply cyclical; it is structurally pressured, with fiscal `2025` net sales down `4.0%` and comparable sales down `3.1%`. Even so, the packet still matters because it shows a national operator using Sephora, loyalty, omnichannel work, value architecture, and inventory discipline to slow deterioration and improve cash generation. That makes Kohl's a more direct counterweight to the sector's stronger relationship systems than Best Buy alone.
 
+`Ross` then completes the comparison. It serves a similarly value-conscious consumer, but the format is clearly winning rather than merely stabilizing. Fiscal `2025` sales increased `8%` to `$22.8B`, comparable store sales increased `5%`, Q4 `2025` comparable store sales increased `9%`, and Q1 `2026` comparable store sales increased `17%`. That makes Ross one of the archive's best proofs that value and traffic density can still be a major advantage when the merchandising model is right.
+
 ### 3. Logistics and field services are being run for quality, density, and automation
 
 The older Services brief already pointed this way, but the broader set sharpens it.
@@ -114,6 +118,7 @@ The completed packet set now says this directly.
 - `Walmart` and `Kroger` are routine shopping systems increasingly layering ads, membership, and ecosystem services on top.
 - `Best Buy` is a lower-frequency routine, but still a useful one: repair, trade-in, setup, support, and upgrade cycles are all attempts to keep the relationship active between major device purchases.
 - `Kohl's` is the weaker version of the same idea: a large installed customer base, loyalty tools, and repeated shopping intent exist, but the routine is less durable and more promotion-sensitive than at the stronger retail-service systems.
+- `Ross` is important because it shows a different routine entirely: repeat bargain-hunting and discovery behavior can be durable even without a formal loyalty system if the value proposition stays sharp.
 - `Netflix` is a recurring attention habit rather than only a content business.
 
 This is important because it means some of the archive’s best consumer evidence is sitting inside Services rather than only inside Consumer Goods.
@@ -136,7 +141,7 @@ That makes Services useful not only for consumer and experience signals, but als
 | Logistics and route-density systems | CHRW, UPS, Rollins, APi, Cintas | automation, route density, customer mix, recurring service, compliance-heavy service intensity, network productivity |
 | Recurring consumer-routine systems | Starbucks, McDonald's, Domino's, Netflix | stored value, loyalty, direct ordering, subscription habit, repeat behavior, convenience as moat |
 | Experience and cultural-attention systems | Live Nation, Hilton, Disney, Caesars, Delta | travel demand, scarcity, fandom, loyalty, venue and destination throughput, premium mix |
-| Membership and retail-service systems | Costco, Walmart, Kroger, Best Buy, Kohl's | membership, basket frequency, retail media, marketplace layers, service attachment, value-sensitive consumer behavior, upgrade-cycle dependence, promotion-sensitive traffic |
+| Membership and retail-service systems | Costco, Walmart, Kroger, Best Buy, Kohl's, Ross | membership, basket frequency, retail media, marketplace layers, service attachment, value-sensitive consumer behavior, upgrade-cycle dependence, promotion-sensitive traffic, off-price traffic resilience |
 | Labor intermediation | Robert Half | staffing, permanent placement, consulting resilience, employer confidence |
 
 ## Cultural and economic signals
@@ -148,6 +153,7 @@ Across the completed Services set, the broader signals are:
 - the strongest service models increasingly monetize through a second layer such as loyalty, advertising, sponsorship, subscriptions, stored value, or marketplace economics
 - even weaker or more cyclical service-retail hybrids are trying to move in the same direction by adding service, support, seller, or advertising layers around a mature core transaction
 - large but weaker middle-position retailers still show that those tools do not guarantee recovery if the core shopping habit is less distinctive and more discount-dependent
+- the value end of the market is not uniformly weak; Ross shows that the right off-price format can still take share aggressively even when weaker middle-market formats struggle
 - logistics and field-service winners are defending margins through density, automation, and customer-quality management rather than through broad macro strength
 - service demand remains highly segmented: freight is still mixed, staffing is still healing, but loyalty-heavy consumer systems and selective experiences remain strong
 
@@ -162,6 +168,7 @@ The completed set shows that technology in Services is usually embedded rather t
 - `Walmart` and `Kroger` show media and ecosystem layers on top of core retail traffic.
 - `Best Buy` shows AI-enabled search and agentic-shopping preparation on the front end, but more importantly shows technology being used to support customer recognition, digital conversion, Marketplace scale, Best Buy Ads, and service positioning.
 - `Kohl's` shows the less glamorous side of the same story: omnichannel and loyalty tooling can help manage traffic, conversion, and personalized value delivery, but they do not automatically create a moat.
+- `Ross` shows that technology can matter more quietly through sourcing, allocation, marketing engagement, and store-execution support rather than through a flashy consumer interface.
 - `Live Nation`, `Disney`, `Hilton`, `Delta`, and `Caesars` each show a different mix of loyalty, digital distribution, ticketing, booking, or wallet infrastructure.
 
 The right reading is that Services is one of the archive’s clearest sectors for seeing technology as interface control, not only as software spend.
@@ -171,6 +178,7 @@ The right reading is that Services is one of the archive’s clearest sectors fo
 - `Live Nation`, `Disney`, `Netflix`, `Costco`, `Walmart`, and `McDonald's` may overstate the health of the broader consumer because they are unusually advantaged systems.
 - `Best Buy` is a useful counterweight because it shows how much harder the same second-layer strategy is when the underlying merchandise demand is cyclical and less habitual.
 - `Kohl's` is an even harsher counterweight because it shows that large customer files, loyalty programs, and national scale can still coexist with persistent sales pressure.
+- `Ross` tempers that pessimism by showing that physical retail formats are not all trapped if they have a stronger structural merchandise and value proposition.
 - freight and staffing still show that broad service demand is not uniformly strong
 - some membership or loyalty economics can look stronger than they are if they are supported by temporary value-seeking behavior rather than a durable moat
 - experience demand may be more vulnerable than current results imply if labor-market or consumer softness broadens

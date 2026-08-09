@@ -1,6 +1,6 @@
 # T. Rowe Price IR Source Links
 
-Date verified: 2026-08-08
+Date verified: 2026-08-09
 
 ## Primary IR pages
 
@@ -29,6 +29,7 @@ Date verified: 2026-08-08
 - The SEC filing chain for `2025` annual, `4Q25`, `1Q26`, and `2Q26` is saved locally under `raw/sec/...`.
 - Several `investors.troweprice.com/static-files/...` assets were verified through browser search and page inspection but stalled or failed through local machine fetches during this pass, so they are logged here even where the binary artifact is not yet saved locally.
 - The `2025` annual report PDF URL is verified above.
+- AnnualReports.com did not confirm the `2025` annual package on the same date. As of `2026-08-09`, the T. Rowe Price AnnualReports page still showed `2024` as the most recent annual report, so the official IR page is the current source of truth for the `2025` annual-report URL.
 - Browser-side verification on `2026-08-09` confirms the file resolves as a `2025 Annual Report` PDF with `116` pages, and the IR page advertises the file size as `4.7 MB`.
 - Repeated shell fetch attempts from this machine using `requests`, `curl`, `wget`, `http.client`, and Node `http2` either stalled after connect or failed with transport-level errors, so no valid local `2025-annual-report.pdf` artifact is saved yet.
 - Additional IPv4-only checks on `2026-08-09` tightened the failure mode: `wget --spider` timed out while waiting for response headers after a successful TLS connection, and `curl -I --http1.1` likewise hung after connect without returning headers or payload.

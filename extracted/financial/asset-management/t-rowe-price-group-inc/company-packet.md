@@ -1,6 +1,6 @@
 # T. Rowe Price Group, Inc. Packet
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-09
 
 ## Snapshot
 
@@ -18,6 +18,7 @@ Date baseline: 2026-08-08
 ## Annual report takeaways
 
 - T. Rowe Price is the clearest asset-management read added to the workspace so far: end-of-period AUM, average AUM, net flows, effective fee rate, product mix, and distribution channel all matter directly to earnings.
+- The annual-report source chain is asymmetric: official T. Rowe Price IR already exposes the `2025` annual report, but AnnualReports still lagged at `2024` on `2026-08-09`, and the official PDF binary still could not be pulled to disk from this machine.
 - The `2025` annual report shows record ending AUM of `$1.78 trillion` and average AUM of `$1.677 trillion`, but those headline asset levels coexisted with `-$56.9 billion` of net outflows.
 - Total revenue reached `$7.31 billion`, investment advisory revenue reached `$6.60 billion`, GAAP diluted EPS was `$9.24`, and adjusted EPS was `$9.72`.
 - The most important structural pressure in the annual materials is fee compression. Effective fee rate dropped to `39.4` basis points from `41.0` basis points because clients kept shifting toward lower-priced vehicles and strategies.

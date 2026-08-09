@@ -1,6 +1,6 @@
 # T. Rowe Price Group, Inc.
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-09
 
 ## Identity
 
@@ -35,8 +35,8 @@ Date baseline: 2026-08-08
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/t-rowe-price-group-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/financial/asset-management/t-rowe-price-group-inc/annualreports-verification.md) | Metadata verified on `2026-08-08`; direct HTML artifact still missing locally. |
-| 2025 | Annual report source links note | https://investors.troweprice.com/financials/annual-reports-proxy-statements | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/asset-management/t-rowe-price-group-inc/ir-source-links.md) | Official annual-report PDF URL was verified, but local shell and Playwright browser attempts on `2026-08-09` still failed to retrieve the binary from this machine; IPv4-only `wget` and `curl` checks also timed out after connect without receiving response headers. |
+| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/t-rowe-price-group-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/financial/asset-management/t-rowe-price-group-inc/annualreports-verification.md) | Metadata verified on `2026-08-09`; AnnualReports still lagged at `2024`, and the direct HTML artifact is still missing locally. |
+| 2025 | Annual report source links note | https://investors.troweprice.com/financials/annual-reports-proxy-statements | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/asset-management/t-rowe-price-group-inc/ir-source-links.md) | Official annual-report PDF URL was verified from T. Rowe Price IR, but local shell and Playwright browser attempts on `2026-08-09` still failed to retrieve the binary from this machine; IPv4-only `wget` and `curl` checks also timed out after connect without receiving response headers. |
 | 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1113169/000162828026008002/trow-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/asset-management/t-rowe-price-group-inc/2025-10k.html) | Filed annual report for `2025`. |
 
 ## Last three quarters
@@ -50,7 +50,7 @@ Date baseline: 2026-08-08
 ## What changed
 
 - T. Rowe Price adds a fourth distinct Financial-sector model to the archive: public-markets asset management driven by AUM, flows, fee rate, product mix, and retirement-platform distribution rather than by deposits, card spend, or underwriting float.
-- AnnualReports metadata and official IR pages confirm the company cleanly fits `Financial / Asset Management`, with `TROW` on `NASDAQ` and headquarters in Baltimore.
+- AnnualReports metadata and official IR pages confirm the company cleanly fits `Financial / Asset Management`, with `TROW` on `NASDAQ` and headquarters in Baltimore, but AnnualReports itself was still lagging at `2024` on `2026-08-09` while official IR already exposed the `2025` annual report.
 - The `2025` annual report shows record year-end AUM of `$1.78 trillion`, average AUM of `$1.677 trillion`, net outflows of `$56.9 billion`, investment advisory revenue of `$6.60 billion`, total revenue of `$7.31 billion`, GAAP EPS of `$9.24`, and adjusted EPS of `$9.72`.
 - The annual narrative is explicit that one of the core operating tensions is mix pressure: the effective fee rate fell to `39.4` basis points from `41.0` basis points as clients kept shifting toward lower-priced vehicles and strategies.
 - Management also frames the business as being reshaped by product and channel migration rather than by pure market beta: fixed income, multi-asset, alternatives, ETFs, target-date products, and separately managed accounts were the relative bright spots while equity and mutual-fund outflows remained heavy.

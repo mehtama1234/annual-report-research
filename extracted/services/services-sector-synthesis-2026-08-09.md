@@ -42,6 +42,7 @@ Related focused memo:
 - [Value Retail and Consumer Routines](/home/manishmehta/ui-projects/annual-report-research/extracted/services/themes/value-retail-and-consumer-routines-2026-08-09.md)
 - [Recurring Consumer Routines and Loyalty](/home/manishmehta/ui-projects/annual-report-research/extracted/services/themes/recurring-consumer-routines-and-loyalty-2026-08-09.md)
 - [Travel Loyalty and Wallet Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/services/themes/travel-loyalty-and-wallet-systems-2026-08-09.md)
+- [Recurring Consumer Interface Framework](/home/manishmehta/ui-projects/annual-report-research/extracted/services/themes/recurring-consumer-interface-framework-2026-08-09.md)
 
 ## Executive read
 

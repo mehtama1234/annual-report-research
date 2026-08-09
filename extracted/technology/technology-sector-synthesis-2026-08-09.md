@@ -27,6 +27,10 @@ This synthesis is based on the completed technology packets currently in the arc
 
 The source window is the `2025` annual report plus each company’s last three reported quarters in scope as of `2026-08-09`.
 
+Related focused memo:
+
+- [Technology Interface Framework](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/themes/technology-interface-framework-2026-08-09.md)
+
 ## Executive read
 
 The completed technology set now supports a clear sector conclusion: `Technology` in the 2025 annuals and late-2025 / 2026 quarterlies is no longer best read as one homogeneous growth sector. It has already separated into at least five economic layers:

@@ -9,6 +9,11 @@
 
 ## In-scope result pages
 
+- FY2025 annual report PDF on AnnualReports.com:
+  - https://www.annualreports.com/Click/24659
+- FY2025 annual report PDF on SEC (`ARS` filing dated 2026-02-27):
+  - https://www.sec.gov/Archives/edgar/data/796343/000079634326000045/adbe2025annualreporta.pdf
+
 - FY2026 Q2 results reported 2026-06-11:
   - https://news.adobe.com/news/2026/06/adobe-q2fy26-financial-results
 - FY2026 Q1 results reported 2026-03-12:
@@ -32,3 +37,9 @@
 - FY2026 Q2 filing and earnings release exhibit:
   - [adbe-20260529.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/adobe-inc/adbe-20260529.htm)
   - [adbeex991q226.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/adobe-inc/adbeex991q226.htm)
+
+## Annual-report retrieval status
+
+- The `2025` annual-report PDF is source-verified on both AnnualReports.com and SEC.
+- Direct SEC shell fetches from this machine returned the SEC undeclared-automation block page instead of the PDF.
+- The temporary blocked-response file that had been saved locally as `2025-annual-report.pdf` was removed from the workspace on `2026-08-09` because it was not a valid PDF artifact.

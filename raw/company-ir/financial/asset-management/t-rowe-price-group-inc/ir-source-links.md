@@ -28,3 +28,4 @@ Date verified: 2026-08-08
 - `2026-q2-earnings-release.pdf` downloaded successfully.
 - The SEC filing chain for `2025` annual, `4Q25`, `1Q26`, and `2Q26` is saved locally under `raw/sec/...`.
 - Several `investors.troweprice.com/static-files/...` assets were verified through browser search and page inspection but stalled or failed through shell fetches during this pass, so they are logged here even where the binary artifact is not yet saved locally.
+- The `2025` annual report PDF URL is verified above, but repeated shell fetches stalled without returning the file from this machine on `2026-08-09`.

@@ -8,6 +8,9 @@ Official investor-relations entry point:
 
 Primary saved annual and quarterly source chain used for this archive:
 
+- FY2025 annual report PDF (`ARS` filing dated 2026-04-06):
+  - https://www.sec.gov/Archives/edgar/data/1373715/000137371526000041/now2025ars.pdf
+
 - FY2025 Form 10-K filing:
   - https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/now-20251231.htm
 - Q4 FY2025 / full-year FY2025 earnings filing:
@@ -30,3 +33,5 @@ Primary saved annual and quarterly source chain used for this archive:
 Archive note:
 
 - Direct shell fetches from the ServiceNow IR site were inconsistent, so the local archive relies on the official IR home URL for provenance and the SEC filing-plus-exhibit chain for saved annual and quarterly artifacts.
+- Direct SEC shell fetches for the `2025` annual-report PDF returned the SEC undeclared-automation block page instead of the PDF.
+- The temporary blocked-response file that had been saved locally as `2025-annual-report.pdf` was removed from the workspace on `2026-08-09` because it was not a valid PDF artifact.

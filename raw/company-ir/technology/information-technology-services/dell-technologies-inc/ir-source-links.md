@@ -11,6 +11,9 @@
 
 ## In-scope result pages
 
+- FY2025 annual report PDF (`ARS` filing dated 2025-05-16):
+  - https://www.sec.gov/Archives/edgar/data/1571996/000119312525121713/d836850dars.pdf
+
 - FY2027 Q1 results reported 2026-05-28:
   - https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-delivers-first-quarter-fiscal-2027-financial
 - FY2026 Q4 / full-year FY2026 results reported 2026-02-26:
@@ -26,3 +29,5 @@
 - The local archive therefore relies on:
   - verified IR page URLs above, and
   - locally saved SEC filing HTML artifacts under `raw/sec/.../dell-technologies-inc/`
+- Direct SEC shell fetches for the `2025` annual-report PDF returned the SEC undeclared-automation block page instead of the PDF.
+- The temporary blocked-response file that had been saved locally as `2025-annual-report.pdf` was removed from the workspace on `2026-08-09` because it was not a valid PDF artifact.

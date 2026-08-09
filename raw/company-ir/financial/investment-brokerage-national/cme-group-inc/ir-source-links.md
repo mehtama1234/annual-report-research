@@ -7,9 +7,17 @@ Date verified: 2026-08-08
 - Investor relations home: https://www.cmegroup.com/investor-relations.html
 - Financial information hub: https://www.cmegroup.com/investor-relations/financial-information.html
 - Quarterly statements page: https://www.cmegroup.com/investor-relations/financial-information/quarterly-statements.html
+- AnnualReports.com company page: https://www.annualreports.com/Company/cme-group-inc
 - Q1 2026 earnings event page: https://investor.cmegroup.com/events/event-details/cme-group-inc-first-quarter-2026-earnings-conference-call
 - Q2 2026 earnings event page: https://investor.cmegroup.com/events/event-details/cme-group-inc-second-quarter-2026-earnings-conference-call
 - 4Q25 / FY2025 release PDF: https://cmegroupinc.gcs-web.com/node/54901/pdf
+
+## Verified annual-report links
+
+- FY2025 annual report PDF on AnnualReports.com:
+  - https://www.annualreports.com/Click/26823
+- FY2025 annual report PDF on SEC (`ARS` filing dated 2026-03-23):
+  - https://www.sec.gov/Archives/edgar/data/1156375/000162828026020510/ars_2026.pdf
 
 ## Verified quarter-material links observed on official pages
 
@@ -22,3 +30,4 @@ Date verified: 2026-08-08
 
 - The SEC filing chain for `2025` annual, `4Q25`, `1Q26`, and `2Q26` is saved locally under `raw/sec/...`.
 - Direct shell fetches to several CME IR static-file and event-page endpoints returned incomplete placeholder HTML during this pass, so some official quarter files are URL-verified but not yet saved locally.
+- The `2025` annual-report PDF is source-verified on both AnnualReports.com and SEC, but no valid local annual-report PDF artifact is saved yet.

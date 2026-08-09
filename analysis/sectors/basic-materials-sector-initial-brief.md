@@ -10,6 +10,7 @@ Scope of this brief:
 - Nutrien Ltd.
 - Dow Inc.
 - Alcoa Corporation
+- Reliance, Inc.
 
 Collection window:
 
@@ -21,22 +22,22 @@ Collection window:
 - Sector: Basic Materials
 - AnnualReports.com sector label: Basic Materials
 - Covered industries: Major Integrated Oil & Gas; Copper; Steel & Iron; Agricultural Chemicals; Chemicals - Major Diversified; Aluminum
-- Covered companies: Exxon Mobil; Freeport-McMoRan; Nucor; Nutrien; Dow; Alcoa
+- Covered companies: Exxon Mobil; Freeport-McMoRan; Nucor; Nutrien; Dow; Alcoa; Reliance
 
 ## Current collection status
 
-This is now an active starter sector inside the archive. The six-name starter set is now packetized at the company level and the first sector synthesis memo now exists.
+This is now an active starter sector inside the archive. The seven-name starter set is now packetized at the company level and the first sector synthesis memo now exists.
 
 What is already done:
 
 - the `2025` annual filing is saved locally for each starter name
 - the latest three reported quarters in scope are saved locally for each starter name
-- company profiles, company packets, and source ledgers now exist for all six starter names
+- company profiles, company packets, and source ledgers now exist for all seven starter names
 - the local archive now includes direct annual-report IR artifacts for `Freeport-McMoRan`, `Nucor`, `Nutrien`, `Dow`, and `Alcoa`, while `Exxon` remains annual-materials complete through filing and IR-page evidence
 
 What is not done yet:
 
-- widen the starter set beyond the current six-name pilot
+- widen the starter set beyond the current seven-name pilot
 
 ## Why this first tranche makes sense
 
@@ -55,6 +56,7 @@ The roles are intentionally different:
 - `Nutrien` gives the fertilizer and agricultural-inputs read.
 - `Dow` gives the chemicals, plastics, coatings, and materials-science conversion layer.
 - `Alcoa` gives the bauxite, alumina, smelting, restart, and tariff-sensitive aluminum layer.
+- `Reliance` gives the metals service-center, downstream processing, quick-turn logistics, and industrial-distribution layer.
 
 That is enough to start reading the sector as a set of linked input systems rather than as one commodity price trade.
 
@@ -70,6 +72,7 @@ The more useful frame will probably be:
 - fertilizer and crop inputs as food-system and farm-economics exposure
 - diversified chemicals as the application and conversion layer between feedstocks and finished goods
 - aluminum as the power-intensive conversion metal between mined inputs and downstream fabrication
+- metals service-center density as the downstream logistics and processing layer between mills and real end-market demand
 
 That would make Basic Materials one of the clearest places where:
 
@@ -93,6 +96,7 @@ As of `2026-08-09`, AnnualReports.com browse pages are still useful for discover
 4. Nutrien
 5. Dow
 6. Alcoa
+7. Reliance
 
 That order is intentional:
 
@@ -101,3 +105,4 @@ That order is intentional:
 - Nutrien adds the agricultural-input and farm-economics layer through potash, nitrogen, phosphate, retail agronomy, and farmer-input demand
 - Dow now adds the chemicals and materials-science layer through packaging plastics industrial intermediates silicones coatings and restructuring-led earnings repair
 - Alcoa now adds the aluminum layer through bauxite alumina smelting energy intensity restart execution tariff pass-through and acquisition-supported upstream scale
+- Reliance now adds the metal-service-center layer through small-order distribution value-added processing rapid fulfillment market-share gains pricing pass-through and project-linked industrial demand

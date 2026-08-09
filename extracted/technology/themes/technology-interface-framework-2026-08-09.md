@@ -10,7 +10,7 @@ This memo turns the completed `Technology` packet set into an interface-based fr
 - [Technology Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/technology-interface-research-index-2026-08-09.md)
 - hyperscale and platform software: Microsoft, Alphabet, ServiceNow, Adobe
 - consumer and ecosystem platforms: Apple, Meta, Spotify, Snap
-- infrastructure, networking, security, and systems: NVIDIA, Cisco, Palo Alto Networks, Dell, HP, Intel
+- infrastructure, networking, security, and systems: NVIDIA, Cisco, Arista, Palo Alto Networks, Dell, HP, Intel
 - implementation layer: Accenture
 
 ## Executive read
@@ -41,7 +41,7 @@ Examples:
 - `ServiceNow` sits inside enterprise orchestration, control, AI governance, and recurring workflow administration.
 - `Adobe` sits inside recurring creative and document workflow.
 - `Palo Alto` sits inside enterprise trust, platformized security, identity, and observability.
-- `Cisco` and `Dell` sit inside network and datacenter architecture decisions tied to AI buildout.
+- `Cisco`, `Arista`, and `Dell` sit inside network and datacenter architecture decisions tied to AI buildout.
 - `Apple`, `Meta`, and `Spotify` sit inside recurring consumer-attention, identity, and platform-usage loops.
 - `NVIDIA` sits inside full-stack AI infrastructure dependence rather than only chip unit demand.
 - `Accenture` sits inside enterprise reinvention and implementation demand once the tool and infrastructure decisions are already in motion.
@@ -65,7 +65,7 @@ For example:
 
 - `Microsoft` and `ServiceNow` are different product families, but both benefit from becoming operating layers inside enterprise workflows.
 - `Alphabet`, `Meta`, and `Spotify` are all consumer digital platforms, but each monetizes repeated attention through different interface structures: search-and-video utility, social identity and ad performance, or recurring cultural subscription and discovery.
-- `NVIDIA`, `Cisco`, and `Dell` all benefit from the same AI buildout, but at different dependency points in the infrastructure stack.
+- `NVIDIA`, `Cisco`, `Arista`, and `Dell` all benefit from the same AI buildout, but at different dependency points in the infrastructure stack.
 
 ### 3. The second monetization layer is the main quality marker here too
 
@@ -105,7 +105,7 @@ This is one of the strongest cross-company conclusions.
 - `Microsoft` and `Alphabet` win because they own broad infrastructure and distribution layers.
 - `NVIDIA` wins because it is not only a chip provider but a full AI-factory and accelerated-computing platform.
 - `ServiceNow` and `Palo Alto` win because control, governance, and trust matter more as architectures get more complex.
-- `Cisco` and `Dell` show that the infrastructure buildout spreads into networking, systems integration, and architecture control.
+- `Cisco`, `Arista`, and `Dell` show that the infrastructure buildout spreads into networking, systems integration, and architecture control.
 
 That means the highest-quality earnings pools increasingly come from dependence on a stack layer or control plane, not only from isolated application functionality.
 
@@ -138,7 +138,7 @@ That makes the technology story less about a clean vendor hierarchy and more abo
 |---|---|---|---|
 | Hyperscale AI and cloud interface | Microsoft, Alphabet | recurring cloud usage, AI consumption, enterprise and consumer platform dependence | subscriptions, cloud spend, AI seats, ads, subscriptions, infrastructure leverage |
 | Enterprise workflow and control interface | ServiceNow, Adobe | recurring enterprise workflow and document or process dependence | subscription revenue, RPO, AI features, workflow expansion, cash conversion |
-| Security and trust interface | Palo Alto, Cisco | recurring security, observability, network-control, and trust dependence | platformization, support, subscriptions, cross-sell, control-plane expansion |
+| Security and trust interface | Palo Alto, Cisco, Arista | recurring security, observability, network-control, and trust dependence | platformization, support, subscriptions, cross-sell, control-plane expansion |
 | Consumer ecosystem and attention interface | Apple, Meta, Spotify, Snap | recurring device usage, identity, listening, sharing, or viewing habit | services, ads, subscriptions, creator and platform monetization |
 | AI infrastructure and systems interface | NVIDIA, Dell, HP, Intel | recurring capacity buildout and enterprise architecture dependence | chips, systems, networking, storage, support, datacenter economics |
 | Implementation and reinvention interface | Accenture | recurring enterprise redesign, deployment, and managed-change demand | bookings, managed services, consulting, AI implementation breadth |

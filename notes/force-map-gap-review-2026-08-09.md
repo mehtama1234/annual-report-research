@@ -220,6 +220,10 @@ Best new anchor candidates:
 
 Priority: high if the force map is expected to cover property capital rotation and the office-to-logistics/data-center/housing shift directly.
 
+Operational next step recorded in:
+
+- `indexes/next-tranche-real-estate-reckoning.csv`
+
 ## Practical ranking
 
 If the goal is to improve the bridge fastest, the best next collection priorities are:

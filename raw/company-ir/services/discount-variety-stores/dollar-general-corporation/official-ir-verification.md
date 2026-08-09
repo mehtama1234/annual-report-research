@@ -31,6 +31,7 @@ Press-release detail pages verified:
 
 - Direct scripted fetches of Dollar General's IR HTML pages returned a client-side placeholder shell in this environment on `2026-08-09`, so the local archive does not include reliable raw IR HTML snapshots for those pages.
 - The official IR chain is still verified through browser-accessible pages plus the SEC filing stack, which is sufficient to confirm the annual-report year and the target quarter window.
+- The `ARS` filing listed on the official SEC-filings page was resolved through the SEC submissions index as accession `0001104659-26-040416` with primary document `tm265050d2_ars.pdf`, and the annual-report PDF was then collected successfully from the SEC archive as [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/discount-variety-stores/dollar-general-corporation/2025-annual-report.pdf).
 
 ## Why this matters
 

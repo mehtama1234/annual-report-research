@@ -25,7 +25,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q1 2026
   - quarter 2: Q4 2025
   - quarter 3: Q3 2025
-- Latest annual report collected locally: no, official annual-report page verified but direct annual-report artifact not saved
+- Latest annual report collected locally: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes, filing chain plus browser-verified official results page
 - Quarter minus 1 collected: yes
@@ -38,6 +38,7 @@ Date baseline: 2026-08-09
 |---|---|---|---|---|
 | 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/dollar-general-corporation | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/discount-variety-stores/dollar-general-corporation/annualreports-verification.md) | Confirms AnnualReports still showed the `2024` package on `2026-08-09`. |
 | 2025 | Official IR verification note | https://investor.dollargeneral.com/financials-sec-filings/annual-reports | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/discount-variety-stores/dollar-general-corporation/official-ir-verification.md) | Confirms Dollar General's IR site exposed the `2025 Annual Report` entry even though scripted HTML capture was blocked in this environment. |
+| 2025 | Annual report PDF (`ARS`) | https://www.sec.gov/Archives/edgar/data/29534/000110465926040416/tm265050d2_ars.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/discount-variety-stores/dollar-general-corporation/2025-annual-report.pdf) | Annual Report to Security Holders filed `2026-04-07`, collected from the SEC archive on `2026-08-09`. |
 | 2025 | Form `10-K` | https://www.sec.gov/Archives/edgar/data/29534/000110465926032325/dg-20260130x10k.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/discount-variety-stores/dollar-general-corporation/2025-10k.html) | Annual filing for the year ended `2026-01-30`, filed `2026-03-20`. |
 
 ## Last three quarters
@@ -54,6 +55,7 @@ Date baseline: 2026-08-09
 - The annual filing says Dollar General ended fiscal `2025` with `20,893` stores in the United States and Mexico, and by late February `2026` it had `20,959` stores. The company remains heavily weighted toward consumables, with consumables accounting for `81.0%` of fiscal `2025` sales.
 - The packet is useful because it combines improving fundamentals with a still-pressured format. Fiscal `2025` net sales increased `5.2%`, same-store sales increased `3.0%`, operating profit increased `28.6%`, and diluted EPS increased `34.1%`, but management is still leaning hard on shrink reduction, mature-store remodels, inventory discipline, and mix repair.
 - Dollar General is especially useful as a bridge case between Dollar Tree and Ross. It had stronger traffic than Dollar Tree in the target window, but it is still a consumables-heavy, low-ticket convenience chain rather than an off-price discovery format.
+- The archive quality is now materially stronger because the official annual-report artifact is on disk rather than only the `10-K` HTML and the IR verification note.
 
 ## Open questions
 

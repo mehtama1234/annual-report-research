@@ -18,7 +18,7 @@ Date baseline: 2026-08-09
 ## Annual report takeaways
 
 - Dollar General is a high-value archive addition because it gives the value-retail work a scaled rural and neighborhood discount chain that is not built around membership, advertising, or a broad digital ecosystem.
-- The `2025` annual evidence chain is current through official and SEC sources, but the direct annual-report artifact was not cleanly collectible in this environment. AnnualReports still showed `2024` as the most recent package on `2026-08-09`, while Dollar General's IR pages already exposed a `2025 Annual Report` entry and the `2025` `10-K` was filed on `2026-03-20`.
+- The `2025` annual evidence chain is now complete with an official annual-report artifact on disk. AnnualReports still showed `2024` as the most recent package on `2026-08-09`, while Dollar General's IR pages already exposed a `2025 Annual Report` entry and the SEC `ARS` filing provided the collectible annual-report PDF.
 - The annual filing shows a very large everyday-essentials network. Dollar General ended fiscal `2025` with `20,893` stores, opened `589` new stores during the year, remodeled `2,000` stores through `Project Renovate`, remodeled `2,254` stores through `Project Elevate`, and closed `290` stores.
 - Fiscal `2025` net sales increased `5.2%` to `$42.7B`, same-store sales increased `3.0%`, operating profit increased `28.6%` to `$2.2B`, and diluted EPS increased `34.1%` to `$6.85`.
 - The strategically important point is that Dollar General is still a consumables-heavy, convenience-led chain. Consumables were `81.0%` of fiscal `2025` sales, which makes the model economically different from Ross's more discretionary off-price discovery format and from Walmart's broader monetization stack.
@@ -56,6 +56,7 @@ Date baseline: 2026-08-09
 
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/discount-variety-stores/dollar-general-corporation/annualreports-verification.md)
 - [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/discount-variety-stores/dollar-general-corporation/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/discount-variety-stores/dollar-general-corporation/2025-annual-report.pdf)
 - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/discount-variety-stores/dollar-general-corporation/2025-10k.html)
 - [2025-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/discount-variety-stores/dollar-general-corporation/2025-q3-8k.html)
 - [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/discount-variety-stores/dollar-general-corporation/2025-q3-10q.html)

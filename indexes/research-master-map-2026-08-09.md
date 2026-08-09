@@ -67,7 +67,7 @@ Current sector coverage from `coverage-tracker.csv`:
 | Healthcare | 10 | 8 |
 | Industrial Goods | 22 | 13 |
 | Real Estate | 6 | 5 |
-| Retail | 2 | 0 |
+| Retail | 3 | 3 |
 | Services | 25 | 10 |
 | Technology | 18 | 13 |
 | Utilities | 14 | 7 |

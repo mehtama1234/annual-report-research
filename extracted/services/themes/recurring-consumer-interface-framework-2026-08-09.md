@@ -12,6 +12,10 @@ This memo consolidates the current Services theme work into one cross-category f
 
 It is based on the current `2025` annual reports plus late-`2025` and `2026` quarterlies already packetized in the archive.
 
+Related repo-level extension:
+
+- [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
+
 ## Executive read
 
 The strongest current conclusion across the archive is that many of the better consumer-facing businesses are no longer best understood as single transactions or even as single products.

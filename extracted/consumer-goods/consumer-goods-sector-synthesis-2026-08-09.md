@@ -20,6 +20,10 @@ This synthesis is based on the completed consumer-goods packets currently in the
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-09`.
 
+Related cross-sector memo:
+
+- [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
+
 ## Executive read
 
 The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the 2025 annuals and late-2025 / 2026 quarterlies is not one simple brand-pricing story. It is a sector splitting across at least four different demand and earnings models:

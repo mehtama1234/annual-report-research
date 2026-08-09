@@ -39,4 +39,6 @@ Date checked: 2026-08-09
 ## Collection notes
 
 - The official financial-results page cleanly exposes the `FY 2025`, `Q1 2026`, and `Q2 2026` chain needed for this archive.
-- The page did not expose a separate glossy `2025` annual report PDF in the FY 2025 row during this pass; the filed `10-K` and the official quarter-summary artifacts are the annual-cycle evidence base saved locally.
+- The official financial-results page did not expose a separate glossy `2025` annual report PDF in the FY 2025 row during this pass.
+- The official `2025` annual report is now saved locally through the SEC `ARS` filing path:
+  - https://www.sec.gov/Archives/edgar/data/1050915/000119312526150305/d878482dars.pdf

@@ -22,7 +22,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
-- Latest annual report collected: no official annual-report PDF collected
+- Latest annual report collected: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
@@ -34,6 +34,7 @@ Date baseline: 2026-08-09
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
 | 2025 | Quanta AnnualReports metadata verification | https://www.annualreports.com/Company/quanta-services-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/general-contractors/quanta-services-inc/annualreports-verification.md) | AnnualReports confirms the `Industrial Goods` / `General Contractors` classification and, as of `2026-08-09`, still labels `2024` as the most recent hosted annual package. |
+| 2025 | SEC ARS annual report PDF | https://www.sec.gov/Archives/edgar/data/1050915/000119312526150305/d878482dars.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/quanta-services-inc/2025-annual-report.pdf) | Official annual report artifact saved locally through the SEC `ARS` filing path. |
 | 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1050915/000105091526000006/pwr-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-contractors/quanta-services-inc/2025-10k.html) | Filed annual package covering the year ended `2025-12-31` and the company's infrastructure-services operating model. |
 | 2025 | SEC submissions JSON | https://data.sec.gov/submissions/CIK0001050915.json | [submissions-cik0001050915.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-contractors/quanta-services-inc/submissions-cik0001050915.json) | Confirms CIK, ticker, fiscal year-end, and the authoritative annual plus trailing-three-quarter filing chain. |
 
@@ -53,6 +54,7 @@ Date baseline: 2026-08-09
 - The electric and load-center buildout is the cleanest strategic read. AnnualReports highlights transmission, distribution, substations, renewable generation, and emergency restoration, while the 2026 releases repeatedly tie the opportunity set to electric-grid investment, power generation, mission-critical infrastructure, technology and load-center markets, and rising electricity demand driven by data centers, electrification, and grid modernization.
 - Labor and field execution matter directly. Management repeatedly emphasizes the company's self-perform capabilities and craft-skilled workforce, which makes Quanta a useful bridge between equipment providers and the actual field buildout layer.
 - Acquisitions are part of the operating model, not a side detail. The `2026` materials show Quanta using acquisitions to deepen electrical, mechanical, fabrication, right-of-way, and front-end service capabilities across utility, industrial, technology, and energy markets.
+- The evidence base is materially stronger now that the official `2025` annual report artifact is saved locally rather than inferred only from the filed `10-K` and year-end results chain.
 
 ## Open questions
 

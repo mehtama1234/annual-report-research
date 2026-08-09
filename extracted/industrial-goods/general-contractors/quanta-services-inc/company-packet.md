@@ -23,6 +23,7 @@ Date baseline: 2026-08-09
 - Full-year `2025` results were strong. Revenue reached `$28.48 billion`, GAAP diluted EPS reached `$6.80`, adjusted diluted EPS reached `$10.75`, net income attributable to common stock reached `$1.03 billion`, and adjusted EBITDA reached `$2.88 billion`.
 - Year-end backlog is the key operating signal. Remaining performance obligations ended `2025` at `$23.76 billion`, total backlog ended `2025` at `$43.98 billion`, and management specifically highlighted all-time highs in Electric Infrastructure Solutions segment RPO and total backlog.
 - Quanta matters for the broader archive because it shows where electrification, grid modernization, data-center load growth, and infrastructure policy actually become work in the field rather than just order flow at an equipment OEM.
+- The annual-report evidence chain is now complete at the artifact level because the official `2025` annual report PDF is saved locally.
 
 ## Quarter-by-quarter takeaways
 
@@ -60,6 +61,7 @@ Date baseline: 2026-08-09
 
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/general-contractors/quanta-services-inc/annualreports-verification.md)
 - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/quanta-services-inc/ir-source-links.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/quanta-services-inc/2025-annual-report.pdf)
 - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-contractors/quanta-services-inc/2025-10k.html)
 - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-contractors/quanta-services-inc/2025-q4-8k.html)
 - [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-contractors/quanta-services-inc/2025-q4-earnings-release-sec-ex99.html)

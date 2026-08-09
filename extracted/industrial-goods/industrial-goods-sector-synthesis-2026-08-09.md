@@ -11,6 +11,7 @@ This synthesis is based on the completed industrial-goods packets currently in t
 - Electrical and power infrastructure:
   - [Eaton Corporation plc](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/eaton-corporation/company-packet.md)
   - [nVent Electric plc](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/nvent-electric-plc/company-packet.md)
+  - [Powell Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/powell-industries-inc/company-packet.md)
 - Critical digital infrastructure power and thermal:
   - [Vertiv Holdings Co](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/vertiv-holdings-co/company-packet.md)
 - HVAC, controls, and thermal systems:
@@ -51,6 +52,7 @@ The packet set shows several different industrial models, but the strongest name
 
 - `Eaton` is driven by electrification, power quality, data-center power systems, and aerospace.
 - `nVent` is driven by electrical connection and protection, enclosures, power-utility exposure, liquid cooling, and infrastructure demand led by data centers.
+- `Powell` is driven by custom-engineered switchgear and electrical-energy-control demand across electric utility, LNG, petrochemical, and data-center-related projects.
 - `Vertiv` is driven by critical digital infrastructure, hyperscale and colocation deployments, power and thermal complexity, and backlog-heavy AI infrastructure demand.
 - `Trane` is driven by commercial HVAC, data-center cooling, controls, services, and building-system backlog.
 - `Caterpillar` is seeing power generation, energy, construction, mining, and installed-base services support.
@@ -66,6 +68,7 @@ The industrial evidence set shows that AI demand is already expressing itself th
 
 - electrical distribution and grid support at `Eaton`
 - electrical connection, protection, enclosures, and liquid cooling at `nVent`
+- custom-engineered switchgear, medium-voltage control gear, and behind-the-meter power-distribution design at `Powell`
 - critical digital infrastructure, power systems, and thermal deployment at `Vertiv`
 - HVAC, thermal management, and liquid cooling at `Trane`
 - engines, turbines, and power-related infrastructure at `Caterpillar`
@@ -84,6 +87,7 @@ Examples:
 - `Trane` moved from record backlog into even stronger 2026 bookings and visibility.
 - `Eaton` and other electrical names repeatedly stressed backlog, orders, and capacity expansion.
 - `nVent` moved from full-year 2025 momentum into Q1 2026 record sales, orders, and a `$2.6B` backlog, then followed with another record Q2 2026 and sharply higher guidance.
+- `Powell` moved from a `$1.6B` backlog in Q1 FY2026 to a record `$2.4B` backlog in Q3 FY2026 while Q3 orders jumped to `$934M`, including a data-center order above `$400M`.
 - `Vertiv` exited Q4 2025 with backlog at `$15.0B`, book-to-bill around `2.9x`, and then carried that demand into Q1 and Q2 2026 revenue, margin, and cash conversion.
 
 This suggests the stronger industrial businesses are being driven by constrained project pipelines and fulfillment capacity, not by fragile spot demand.
@@ -136,6 +140,7 @@ They are selling systems:
 
 - `Eaton`: electrical architecture and power resilience
 - `nVent`: electrical connection, protection, enclosure, and liquid-cooling subsystems
+- `Powell`: custom-engineered switchgear, power control, and project-specific electrical distribution systems
 - `Vertiv`: critical digital infrastructure, power train, thermal stack, and deployment speed
 - `Trane`: cooling, controls, and service layers
 - `Caterpillar`: engines, power, service network, and installed-base economics
@@ -148,7 +153,7 @@ That suggests the more durable industrial moats are shifting toward system integ
 
 | Role | Companies | What they reveal |
 |---|---|---|
-| Power and electrical infrastructure | Eaton, nVent | electrification, data-center power demand, electrical architecture, connection and protection systems, liquid cooling, backlog and capacity expansion |
+| Power and electrical infrastructure | Eaton, nVent, Powell | electrification, data-center power demand, electrical architecture, connection and protection systems, liquid cooling, custom switchgear, engineered-to-order power control, backlog and capacity expansion |
 | Critical digital infrastructure power and thermal | Vertiv | hyperscale and colocation demand, critical power and cooling systems, backlog expansion, deployment complexity, and strong cash conversion |
 | Cooling and building systems | Trane | HVAC, controls, liquid cooling, services, high-visibility commercial backlog |
 | Heavy equipment and energy-linked machinery | Caterpillar | infrastructure, mining, power generation, installed-base service monetization |
@@ -163,6 +168,7 @@ Across the completed industrial-goods set, the broader signals are:
 - AI is a physical buildout as much as a digital one.
 - Power, cooling, and resilient facility systems are becoming more strategically important.
 - More of the value chain is filling in: not only platforms like `Eaton` and `Vertiv`, but also upstream connection, enclosure, and liquid-cooling providers like `nVent`.
+- That value chain now extends further into custom switchgear and electrical-control equipment through `Powell`, which gives a cleaner read on how large-load projects are actually getting power routed and managed.
 - The direct winners are not only grid or building names; they also include operators explicitly centered on critical digital infrastructure deployment.
 - Government and regulated spending still matter materially through defense, rail, waste, and infrastructure policy.
 - Industrial value is concentrating in businesses with installed bases, backlog visibility, system depth, and execution capability.
@@ -175,6 +181,7 @@ Industrial Goods in this archive is not separate from Technology. It is one of t
 The clearest links are:
 
 - `Eaton`, `nVent`, `Vertiv`, and `Trane` translating AI demand into power and cooling requirements
+- `Powell` translating AI and large-load growth into switchgear, behind-the-meter power design, and custom electrical-control demand
 - `Caterpillar` linking infrastructure growth to engines, turbines, and energy systems
 - `ABM` showing how datacenter and semiconductor complexity creates demand for outsourced operations
 - `Honeywell` and `Northrop` showing that control systems, aerospace electronics, and automation still matter deeply inside industrial outcomes
@@ -211,6 +218,7 @@ The archive will likely be easiest to extend if Industrial Goods is grouped into
 
 - power and electrical architecture
 - electrical connection and protection
+- custom switchgear and engineered power control
 - critical digital infrastructure power and thermal
 - cooling and building systems
 - heavy equipment and energy-linked machinery

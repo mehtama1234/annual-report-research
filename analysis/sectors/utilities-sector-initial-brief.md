@@ -7,6 +7,7 @@ Scope of this brief:
 - American Electric Power Company, Inc.
 - NextEra Energy, Inc.
 - Duke Energy Corporation
+- Alliant Energy Corporation
 
 Collection window:
 
@@ -17,21 +18,21 @@ Collection window:
 
 - Sector: Utilities
 - AnnualReports.com sector label: Utilities
-- Covered industries: Electric Utilities
-- Covered companies: AEP; NextEra Energy; Duke Energy
+- Covered industries: Electric Utilities; Diversified Utilities
+- Covered companies: AEP; NextEra Energy; Duke Energy; Alliant Energy
 
 ## What is happening
 
-- Demand: the utilities signal is not about flat retail load. AEP shows signed incremental load expanding from `56 GW` at year-end 2025 to `69 GW` by Q2 2026. NextEra increasingly frames demand through hyperscalers, data-center hubs, and full power-solution capability. Duke shows the more traditional regulated-utility version of the same pattern, moving from about `4.5 GW` of secured data-center ESAs in the annual-report framing to about `7.6 GW` secured by Q1 2026.
-- Capital intensity: all three companies show utilities re-rating around build capacity, but in different ways. AEP's five-year capital plan moved from `$72B` to `$78B` within one quarter. NextEra shows a similarly capex-heavy posture through FPL rate-base growth and an Energy Resources backlog that stood around `29.8 GW` at the end of `2025` and kept expanding in `2026`. Duke entered `2026` with a `$103B` capital plan for `2026` through `2030`, a `~14 GW` generation-addition program through `2031`, and a large gas-turbine procurement program.
-- Affordability politics: unlike many sectors, utility growth has to be sold as affordable. AEP repeatedly argues that large-load customers can offset residential cost pressure. NextEra makes a similar case through FPL's low customer bills and continued Florida customer growth. Duke also leans hard on the claim that large-load customers pay their fair share and that new growth can help spread fixed costs while keeping rates below the national average.
-- Power bottlenecks: this is one of the archive's clearest reminders that AI and industrial growth are constrained by physical systems. AEP emphasizes grid approvals, gas turbines, and transmission execution. NextEra emphasizes backlog conversion, storage, hub strategy, and the ability to assemble full power solutions. Duke emphasizes regulated recovery, dispatchable generation, turbine procurement, and the physical speed-to-power problem for data centers and advanced manufacturing.
-- Business model split: AEP is the cleaner regulated-grid and transmission buildout story. NextEra is a hybrid model that combines a large regulated utility with a renewables-storage-gas-transmission development platform. Duke is the cleaner traditional multi-jurisdiction regulated utility growth case, where the earnings engine is still heavily regulatory but the demand signal is increasingly driven by data centers and economic-development load.
+- Demand: the utilities signal is not about flat retail load. AEP shows signed incremental load expanding from `56 GW` at year-end 2025 to `69 GW` by Q2 2026. NextEra increasingly frames demand through hyperscalers, data-center hubs, and full power-solution capability. Duke shows the more traditional regulated-utility version of the same pattern, moving from about `4.5 GW` of secured data-center ESAs in the annual-report framing to about `7.6 GW` secured by Q1 2026. Alliant shows the smaller-system version, with contracted demand reaching about `3.4 GW` and management tying that to roughly `60%` projected demand growth by `2031` from `2025` levels.
+- Capital intensity: all four companies show utilities re-rating around build capacity, but in different ways. AEP's five-year capital plan moved from `$72B` to `$78B` within one quarter. NextEra shows a similarly capex-heavy posture through FPL rate-base growth and an Energy Resources backlog that stood around `29.8 GW` at the end of `2025` and kept expanding in `2026`. Duke entered `2026` with a `$103B` capital plan for `2026` through `2030`, a `~14 GW` generation-addition program through `2031`, and a large gas-turbine procurement program. Alliant is smaller in absolute dollars but still shows the same shape through a `$13.4B` `2026` to `2029` capital plan and explicit customer-specific load investments.
+- Affordability politics: unlike many sectors, utility growth has to be sold as affordable. AEP repeatedly argues that large-load customers can offset residential cost pressure. NextEra makes a similar case through FPL's low customer bills and continued Florida customer growth. Duke also leans hard on the claim that large-load customers pay their fair share and that new growth can help spread fixed costs while keeping rates below the national average. Alliant makes the same case in a more regional form through Iowa base-rate stability and retail electric rates below national averages.
+- Power bottlenecks: this is one of the archive's clearest reminders that AI and industrial growth are constrained by physical systems. AEP emphasizes grid approvals, gas turbines, and transmission execution. NextEra emphasizes backlog conversion, storage, hub strategy, and the ability to assemble full power solutions. Duke emphasizes regulated recovery, dispatchable generation, turbine procurement, and the physical speed-to-power problem for data centers and advanced manufacturing. Alliant shows that even smaller regional utilities now have to solve the same siting, generation, and rate-structure problem.
+- Business model split: AEP is the cleaner regulated-grid and transmission buildout story. NextEra is a hybrid model that combines a large regulated utility with a renewables-storage-gas-transmission development platform. Duke is the cleaner traditional multi-jurisdiction regulated utility growth case, where the earnings engine is still heavily regulatory but the demand signal is increasingly driven by data centers and economic-development load. Alliant is the cleaner small-to-mid-scale regional regulated growth case, where the absolute system is smaller but the incremental large-load impact is proportionally more visible.
 
 ## Strongest early signals
 
 1. Utilities are becoming growth infrastructure, not just defensive yield vehicles.
-   AEP, NextEra, and Duke all show this, but from different angles: regulated grid expansion on one side, hybrid utility-plus-development scale on another, and a classic regulated multi-state utility platform converting large-load demand into capital spending on the third.
+   AEP, NextEra, Duke, and Alliant all show this, but from different angles: regulated grid expansion on one side, hybrid utility-plus-development scale on another, a classic regulated multi-state utility platform on the third, and a smaller regional regulated utility with proportionally large-load sensitivity on the fourth.
 
 2. Load growth is now a strategic asset.
    Signed large-load agreements, hub pipelines, and hyperscaler demand are shaping capex, rate-base growth, backlog, affordability claims, and management guidance.
@@ -63,25 +64,28 @@ Collection window:
 - AEP is the cleaner regulated-grid and affordability case, centered on transmission, generation adequacy, and turning signed load into rate base.
 - NextEra is the cleaner utility-plus-development case, centered on FPL rate-base compounding plus Energy Resources backlog and large-load hub strategy.
 - Duke is the cleaner traditional regulated utility growth case, centered on multi-state electric and gas regulation, large-load ESAs, a very large capital plan, and “all-of-the-above” generation expansion.
+- Alliant is the cleaner regional and smaller-scale regulated growth case, centered on Iowa and Wisconsin regulatory tools, customer-specific rate structures, and large-load demand that is meaningful relative to a smaller system base.
 - AEP reads more like the power-bottleneck utility. NextEra reads more like the power-solution platform.
 - Duke reads more like the regulated speed-to-power and economic-development utility.
-- The cross-sector link still holds: all three companies supply the power-system side of themes that were already emerging through Equinix, Digital Realty, Prologis, Eaton, Trane, Honeywell, CBRE, and JLL.
+- Alliant reads more like the smaller utility proving that the same load-growth and affordability logic is spreading beyond the biggest platforms.
+- The cross-sector link still holds: all four companies supply the power-system side of themes that were already emerging through Equinix, Digital Realty, Prologis, Eaton, Trane, Honeywell, CBRE, and JLL.
 
 ## What this likely means
 
 - Utilities should become a priority expansion area in the archive because the sector now looks like a control point for several existing themes: digital infrastructure, industrial buildout, affordability politics, renewable-and-storage backlog, and capital-intensity concentration.
-- The current three-name sample is already useful:
+- The current four-name sample is meaningfully better:
   - AEP for transmission, affordability, and signed-load conversion
   - NextEra for utility-plus-development scale and backlog economics
   - Duke for classic regulated utility growth, data-center ESAs, and dispatchable-generation buildout
+  - Alliant for smaller-system regulated growth, customer-specific rate structures, and proportionally larger data-center demand impact
 - The next utilities additions should likely test at least three things:
   - a transmission-heavier comparison
-  - a utility with a weaker growth footprint to see whether AEP and Duke are unusually advantaged
+  - a utility with a weaker growth footprint to see whether AEP, Duke, and Alliant are unusually advantaged
   - a more merchant or generation-exposed utility if the goal is to separate regulated-grid economics from broader electricity-market exposure
 
 ## Gaps
 
-- Need a fourth utility name before treating this as a durable sector synthesis beyond electric-utility leaders.
+- Need a fifth utility name before treating this as a durable sector synthesis beyond the current leaders and higher-visibility demand winners.
 - Need a power-generation and merchant-exposure counterexample only if the goal is to separate regulated-grid economics from broader electricity-market exposure.
 
 ## Source pointers
@@ -95,3 +99,6 @@ Collection window:
 - [Duke company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/utilities/electric-utilities/duke-energy-corporation/company-packet.md)
 - [Duke company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/utilities/electric-utilities/duke-energy-corporation/company-profile.md)
 - [Duke source ledger](/home/manishmehta/ui-projects/annual-report-research/extracted/utilities/electric-utilities/duke-energy-corporation/source-ledger.md)
+- [Alliant company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/utilities/electric-utilities/alliant-energy-corporation/company-packet.md)
+- [Alliant company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/utilities/electric-utilities/alliant-energy-corporation/company-profile.md)
+- [Alliant source ledger](/home/manishmehta/ui-projects/annual-report-research/extracted/utilities/electric-utilities/alliant-energy-corporation/source-ledger.md)

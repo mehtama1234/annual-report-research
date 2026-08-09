@@ -36,11 +36,12 @@ What is already done:
 - the `2025` annual filing is saved locally for each starter name
 - the latest three reported quarters in scope are saved locally for each starter name
 - company profiles, company packets, and source ledgers now exist for all ten starter names
-- the local archive now includes direct annual-report IR artifacts for `Freeport-McMoRan`, `Nucor`, `Nutrien`, `CF Industries`, `Dow`, and `Alcoa`, while `Exxon` remains annual-materials complete through filing and IR-page evidence
+- the local archive now includes direct annual-report artifacts for `ExxonMobil`, `Freeport-McMoRan`, `Nucor`, `Nutrien`, `CF Industries`, `Dow`, and `Alcoa`
 
 What is not done yet:
 
 - widen the starter set beyond the current ten-name pilot
+- close the last starter-name annual-report artifact gap for `Clearwater Paper`, where the annual report is browser-verified but not yet saved locally from this machine
 
 ## Why this first tranche makes sense
 
@@ -93,6 +94,24 @@ That would make Basic Materials one of the clearest places where:
 
 all show up directly in earnings quality.
 
+## What the current evidence now supports more clearly
+
+- `ExxonMobil` materially strengthens the sector because the official `2025` annual report artifact is now saved locally, not just the annual-reports landing page and the `10-K`. That improves the integrated-energy evidence chain for the sector's largest system operator.
+- `Clearwater` is still useful in the sector brief even before the final annual-report PDF is saved locally because the proxy-backed annual chain, the `10-K`, and the full `Q4 2025` through `Q2 2026` quarter set already make the packaging and paperboard read analytically usable.
+- The sector now reads even more like a linked input stack:
+  - `ExxonMobil` for the energy and refined-products base layer
+  - `Freeport` and `Alcoa` for metal and power-intensive conversion layers
+  - `Nucor` and `Reliance` for domestic industrial throughput and downstream metal processing
+  - `Nutrien` and `CF Industries` for agricultural-input and nitrogen spread exposure
+  - `Dow` for chemical conversion
+  - `West Fraser` and `Clearwater` for shelter and everyday packaged-goods materials
+
+## Collection reality inside the sector
+
+- As of `2026-08-09`, `9` of the `10` starter names now have the `2025` annual-report artifact saved locally.
+- The only remaining starter-name annual-report artifact gap is `Clearwater Paper`.
+- That means the sector brief is no longer waiting on its biggest anchor names. The remaining collection risk is now at the edge of the set rather than in the center of it.
+
 ## Important collection note
 
 As of `2026-08-09`, AnnualReports.com browse pages are still useful for discovery and sector taxonomy, but at least several starter names still appear lagged on their hosted annual package timing relative to the official `2025` filing window. For this reason, the current starter tranche is being built primarily from SEC-hosted materials first.
@@ -113,6 +132,7 @@ As of `2026-08-09`, AnnualReports.com browse pages are still useful for discover
 That order is intentional:
 
 - Exxon and Freeport are the clearest links to energy, metals, electrification, and infrastructure
+- Exxon is no longer just filing-complete; the official `2025` annual report PDF is now on disk, which makes the energy-system layer materially stronger in the archive
 - Nucor then widens the read into domestic industrial and construction throughput
 - Nutrien adds the agricultural-input and farm-economics layer through potash, nitrogen, phosphate, retail agronomy, and farmer-input demand
 - CF Industries now adds the cleaner nitrogen-and-ammonia producer layer through fertilizer benchmark sensitivity natural-gas cost pass-through asset utilization Yazoo outage recovery Blue Point low-carbon ammonia construction and aggressive shareholder return
@@ -120,4 +140,4 @@ That order is intentional:
 - Alcoa now adds the aluminum layer through bauxite alumina smelting energy intensity restart execution tariff pass-through and acquisition-supported upstream scale
 - Reliance now adds the metal-service-center layer through small-order distribution value-added processing rapid fulfillment market-share gains pricing pass-through and project-linked industrial demand
 - West Fraser now adds the lumber and engineered-wood layer through housing affordability repair-and-remodel demand tariffs mill high-grading U.S. South capacity shift OSB pulp and renewable-building-materials exposure
-- Clearwater now adds the paperboard and packaging layer through SBS oversupply operating-rate pressure volume-versus-price tension fixed-cost reduction and the direct link between basic materials and everyday packaged goods
+- Clearwater now adds the paperboard and packaging layer through SBS oversupply operating-rate pressure volume-versus-price tension fixed-cost reduction and the direct link between basic materials and everyday packaged goods, though the final annual-report PDF artifact remains the one unresolved annual-document gap in the starter set

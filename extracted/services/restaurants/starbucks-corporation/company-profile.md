@@ -25,7 +25,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q3 2026
   - quarter 2: Q2 2026
   - quarter 3: Q1 2026
-- Latest annual report collected locally: no
+- Latest annual report collected locally: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes, filing chain
 - Quarter minus 1 collected: yes
@@ -36,6 +36,7 @@ Date baseline: 2026-08-09
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
+| 2025 | Official annual report PDF | https://d18rn0p25nwr6d.cloudfront.net/CIK-0000829224/9b249159-6343-4dfb-8b07-8ba6dea60628.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/restaurants/starbucks-corporation/2025-annual-report.pdf) | Official investor-relations annual report PDF exposed from the Starbucks SEC filing detail page and collected on `2026-08-09`. |
 | 2025 | Official annual reports page verified | https://investor.starbucks.com/financials/annual-reports/default.aspx | see [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/restaurants/starbucks-corporation/official-ir-verification.md) | Official investor-relations annual-reports page verified, but direct shell fetching from the IR host returned Cloudflare challenge HTML on `2026-08-09`. |
 | 2025 | Form `10-K` | https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/restaurants/starbucks-corporation/2025-10k.html) | Annual filing for the year ended `2025-09-28`, filed `2025-11-14`. |
 | 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/starbucks-corp | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/restaurants/starbucks-corporation/annualreports-verification.md) | Confirms AnnualReports still lagged at `2024` on `2026-08-09`. |
@@ -55,6 +56,7 @@ Date baseline: 2026-08-09
 - The annual filing also makes the customer-balance and loyalty architecture explicit. Stored value cards and rewards are integrated with the Starbucks mobile app, cards are automatically tied to Starbucks Rewards in nearly all major markets, and deferred revenue includes unredeemed stored-value balances plus unredeemed Stars.
 - The company disclosed a very large stored-value and loyalty liability base. The annual filing shows the stored value cards and loyalty-program deferred-revenue balance ended fiscal `2025` at roughly `$1.75B`, after more than `$15.2B` of annual deferred card activations, reloads, and Stars earned.
 - Quarterlies show that `Back to Starbucks` is not just branding language. Q1 through Q3 fiscal `2026` all showed positive comparable sales growth, with Q2 and Q3 also showing stronger transaction growth and improving margin posture, even while labor investment, tariff pressure, and the China transaction complicated the top-line and margin picture.
+- The archive quality is now materially better because the packet no longer relies only on the SEC HTML filing for the annual artifact. The official Starbucks annual-report PDF is also saved locally, which makes the annual chain cleaner for later review work across consumer habit and loyalty themes.
 
 ## Open questions
 

@@ -22,6 +22,8 @@ Official URLs verified:
 
 - Annual reports page:
   - https://investor.starbucks.com/financials/annual-reports/default.aspx
+- Official annual report PDF URL exposed on the SEC filing details page within the IR stack:
+  - https://d18rn0p25nwr6d.cloudfront.net/CIK-0000829224/9b249159-6343-4dfb-8b07-8ba6dea60628.pdf
 - Quarterly results page:
   - https://investor.starbucks.com/financials/quarterly-results-and-data/default.aspx
 - Financial releases index:
@@ -39,8 +41,9 @@ Collection note:
 
 - The official URLs above are verified from live investor pages and indexed official results pages.
 - Direct shell fetches against the Starbucks IR host returned Cloudflare challenge HTML rather than evidence pages on `2026-08-09`.
-- Because of that behavior, the Cloudflare challenge files were discarded and are not retained as source artifacts.
-- The local evidence chain for this packet therefore relies on the official SEC filing set for the annual report year and last three fiscal quarters in scope.
+- The annual report PDF itself was then collected successfully from the CloudFront document URL exposed by the live Starbucks SEC filing detail page and saved locally as [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/restaurants/starbucks-corporation/2025-annual-report.pdf).
+- The Cloudflare challenge files from the main IR host were discarded and are not retained as source artifacts.
+- The local evidence chain for this packet now includes both the official annual report PDF and the official SEC filing set for the annual report year and last three fiscal quarters in scope.
 
 Interpretation:
 

@@ -1,0 +1,52 @@
+# Technology Interface Research Index
+
+Date baseline: 2026-08-09
+
+## Scope
+
+This index turns the current technology-interface framework into a practical research map. It tracks:
+
+- the current technology interface type
+- the main company packet already in the archive
+- the strongest current evidence anchor
+- the next meaningful archive gap or extension
+
+Use this alongside:
+
+- [Technology Interface Framework](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/themes/technology-interface-framework-2026-08-09.md)
+- [Recurring Behavior Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/recurring-behavior-crosswalk-2026-08-09.md)
+- [technology-interface-research-index-2026-08-09.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/technology-interface-research-index-2026-08-09.csv)
+
+## Interface map
+
+| Interface type | Company | Packet | Strongest current evidence | Main open gap or next move |
+|---|---|---|---|---|
+| Hyperscale AI and cloud interface | Microsoft Corporation | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/microsoft-corporation/company-packet.md) | Azure above `$100B` annual revenue, Microsoft 365 Copilot above `30M` paid seats, and commercial RPO above `$625B` | The next useful move is adding another hyperscale or enterprise-data platform comparison rather than raw archive repair. |
+| Hyperscale AI and cloud interface | Alphabet Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/alphabet-inc/company-packet.md) | Cloud backlog above `$500B`, YouTube above `$60B` annual revenue, subscriptions above `325M`, and capex guidance near `$200B` | The next useful move is adding another consumer-plus-enterprise AI distribution comparison rather than repairing the current packet. |
+| Enterprise workflow and control interface | ServiceNow, Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/servicenow-inc/company-packet.md) | subscription revenue, cRPO, and RPO progression plus ServiceNow AI crossing `$1B` ACV | No local standalone transcript artifact is saved; another control-layer software name could sharpen the workflow bucket later. |
+| Enterprise workflow and control interface | Adobe Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/adobe-inc/company-packet.md) | ARR progression from `$25.20B` to `$27.10B`, steady RPO around `$22B`, and AI-first ARR above `$500M` | No local Adobe-hosted annual-report binary is saved; one more document or design-workflow comparison could test how broad this bucket really is. |
+| Security and trust interface | Palo Alto Networks, Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-packet.md) | subscription-and-support mix at `80.5%` of revenue with NGS ARR up to `$8.1B` and RPO up to `$18.4B` | The next useful move is another security or observability comparison rather than more archive repair on this name. |
+| Security and trust interface | Cisco Systems Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/cisco-systems-inc/company-packet.md) | recurring revenue above half of sales and AI infrastructure order expectations raised from above `$2B` to `$9B` | No standalone transcript artifact is saved locally; a second networking-control comparison would help separate AI diffusion from company-specific execution. |
+| Consumer ecosystem and attention interface | Apple Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/consumer-services/apple-inc/company-packet.md) | installed base above `2.5B` active devices, Services gross margin at `75.4%`, and continued holiday-scale earnings power | Direct annual-report PDF artifact is still not saved locally; the next useful move is another premium ecosystem comparison rather than more collection repair. |
+| Consumer ecosystem and attention interface | Meta Platforms, Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/meta-platforms-inc/company-packet.md) | `3.58B` DAP, revenue above `$200B`, and explicit willingness to fund very large AI infrastructure from the same attention base | AnnualReports still lagged on the 2025 package as of 2026-08-09; another consumer-attention platform would improve the contrast set. |
+| Consumer ecosystem and attention interface | Spotify Technology S.A. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/spotify-technology-sa/company-packet.md) | `300M` Premium subscribers, `777M` MAUs, improving operating income, and two-sided monetization through subscriptions plus ads | Direct annual-report binary is still not saved locally; one more cultural-distribution platform would test whether this pattern extends beyond audio. |
+| Consumer ecosystem and attention interface | Snap Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/snap-inc/company-packet.md) | useful lower-moat contrast with revenue scale near `$6B` but continued losses and weaker monetization structure | The next useful move is not archive repair but a stronger comparison name that clarifies what durable attention ownership looks like. |
+| AI infrastructure and systems interface | NVIDIA Corporation | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-specialized/nvidia-corporation/company-packet.md) | FY2026 revenue at `$215.9B`, Data Center at `$193.7B`, and AI-factory framing across chips, systems, and networking | The next useful move is adding another memory or infrastructure semiconductor so the bucket does not rely too heavily on one dominant winner. |
+| AI infrastructure and systems interface | Dell Technologies Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/dell-technologies-inc/company-packet.md) | AI server backlog around `$9B`, FY2026 AI-optimized server orders above `$64B`, and FY2027 Q1 AI revenue at `$16.1B` | No local annual-report PDF is saved; another enterprise systems vendor would help test how much of this is broad architecture demand versus Dell-specific execution. |
+| AI infrastructure and systems interface | HP Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/computer-hardware/hp-inc/company-packet.md) | a useful contrast case showing PC-and-print scale without the same direct AI infrastructure monetization | No standalone transcript artifact is saved locally; the next useful move is another lower-intensity hardware comparison rather than deeper collection work here. |
+| AI infrastructure and systems interface | Intel Corporation | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-broad-line/intel-corporation/company-packet.md) | capital-heavy foundry and packaging turnaround with revenue recovery but much lower quality than NVIDIA's infrastructure economics | No transcript PDFs are saved for all three in-scope quarters; another stressed infrastructure or memory name would help pressure-test the residual bucket. |
+| Implementation and reinvention interface | Accenture plc | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/accenture-plc/company-packet.md) | FY2025 generative-AI bookings at `$5.9B` and continued FY2026 bookings strength in implementation-heavy enterprise reinvention work | The next useful move is another implementation or managed-services comparison to test whether this layer scales similarly outside Accenture. |
+
+## Highest-priority archive gaps inside the current technology framework
+
+1. `Technology` still lacks the operational markdown and CSV index layer that already exists for `Consumer` and `Financial`; this file closes that gap, but the crosswalk still needs explicit technology-side rows.
+2. The consumer-attention bucket would benefit from one more strong platform comparison beyond `Meta`, `Spotify`, and the weaker `Snap` contrast.
+3. The AI infrastructure bucket is conceptually strong but still leans heavily on `NVIDIA`; one more memory, storage, or infrastructure semiconductor would make the framework more defensible.
+4. The workflow and security side is strong, but one more enterprise control-layer or observability name would improve generalizability.
+5. Standalone transcript and direct annual-report artifacts remain uneven across some technology packets even where the packet evidence is already analytically usable.
+
+## Highest-priority synthesis extensions
+
+1. Extend the [Recurring Behavior Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/recurring-behavior-crosswalk-2026-08-09.md) so the technology interface types sit explicitly beside consumer and financial recurring behavior types.
+2. Add one more infrastructure semiconductor or memory-oriented name before broadening the AI systems theory much further.
+3. Add one more stronger-moat consumer internet or cultural platform before making the consumer-technology side of the framework too general.

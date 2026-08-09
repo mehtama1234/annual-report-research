@@ -11,15 +11,14 @@ This note compares:
 
 ## Current result
 
-Mapped force slugs: `17`
+Mapped force slugs: `18`
 
-Unmapped force slugs: `3`
+Unmapped force slugs: `2`
 
 Unmapped list:
 
 1. `the-graying-market`
 2. `the-immigration-squeeze`
-3. `the-labor-squeeze`
 
 ## Why these remain open
 
@@ -36,7 +35,11 @@ It is weaker in:
 
 - senior housing and age-linked consumer services
 - immigration- and labor-bottleneck operators
-- additional skilled-trades and caregiving bottleneck operators
+- additional age-linked and immigration-sensitive bottleneck operators
+
+Recently closed:
+
+- `the-labor-squeeze` is now mapped through Comfort Systems USA, with ABM, HCA, and Cintas as supporting evidence.
 
 So the remaining force gaps are mostly not tagging failures. They are exposure gaps.
 
@@ -92,43 +95,16 @@ Best new anchor candidates:
 
 Priority: medium-high if labor-policy and immigration exposure are meant to be a named cross-sector theme.
 
-### 3. `the-labor-squeeze`
-
-Current archive companies with partial relevance:
-
-- ABM
-- HCA Healthcare
-- UPS
-- Rollins
-- Cintas
-- Eaton
-
-Why they are only partial:
-
-- The archive already shows labor scarcity, wage pass-through, and route-density or service-productivity responses.
-- It is lighter on direct skilled-trades, construction labor, and caregiving bottlenecks.
-
-Best new anchor candidates:
-
-- Comfort Systems USA
-- Quanta Services
-- EMCOR
-- Kelly Services
-- BrightSpring Health
-
-Priority: medium. This is the easiest uncovered force to improve using the current archive plus a few targeted additions.
-
 ## Practical ranking
 
 If the goal is to improve the bridge fastest, the best next collection priorities are:
 
-1. `the-labor-squeeze`
-2. `the-graying-market`
-3. `the-immigration-squeeze`
+1. `the-graying-market`
+2. `the-immigration-squeeze`
 
 ## Recommendation
 
-Do not force the three remaining slugs into `force-map.csv` yet with weak evidence.
+Do not force the two remaining slugs into `force-map.csv` yet with weak evidence.
 
 Use the current file for high-confidence mappings only, and treat this note as the queue for the next company-selection pass.
 

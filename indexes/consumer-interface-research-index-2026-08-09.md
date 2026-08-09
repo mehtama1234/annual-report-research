@@ -14,6 +14,7 @@ This index turns the current consumer-interface framework into a practical resea
 Use this alongside the repo-level framework:
 
 - [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
+- [consumer-interface-research-index-2026-08-09.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/consumer-interface-research-index-2026-08-09.csv)
 
 ## Interface map
 

@@ -11,14 +11,13 @@ This note compares:
 
 ## Current result
 
-Mapped force slugs: `18`
+Mapped force slugs: `19`
 
-Unmapped force slugs: `2`
+Unmapped force slugs: `1`
 
 Unmapped list:
 
-1. `the-graying-market`
-2. `the-immigration-squeeze`
+1. `the-immigration-squeeze`
 
 ## Why these remain open
 
@@ -33,44 +32,19 @@ The current annual-report archive is strong in:
 
 It is weaker in:
 
-- senior housing and age-linked consumer services
 - immigration- and labor-bottleneck operators
 - additional age-linked and immigration-sensitive bottleneck operators
 
 Recently closed:
 
 - `the-labor-squeeze` is now mapped through Comfort Systems USA, with ABM, HCA, and Cintas as supporting evidence.
+- `the-graying-market` is now mapped through Brookdale Senior Living, with UnitedHealth, HCA, and Abbott as supporting evidence.
 
 So the remaining force gaps are mostly not tagging failures. They are exposure gaps.
 
 ## Best next anchors by uncovered force
 
-### 1. `the-graying-market`
-
-Current archive companies with partial relevance:
-
-- UnitedHealth Group
-- Abbott
-- Johnson & Johnson
-- Thermo Fisher
-- Chubb
-
-Why they are only partial:
-
-- The archive already captures healthcare utilization, chronic care, diagnostics, medtech, and insurance economics.
-- It is still light on direct senior housing, elder-care services, and age-targeted consumption.
-
-Best new anchor candidates:
-
-- Brookdale Senior Living
-- Welltower
-- Ventas
-- Humana
-- Align Technology
-
-Priority: medium-high. Healthcare evidence is already present, so this is more about refining the force with age-specific operators.
-
-### 2. `the-immigration-squeeze`
+### 1. `the-immigration-squeeze`
 
 Current archive companies with partial relevance:
 
@@ -99,12 +73,11 @@ Priority: medium-high if labor-policy and immigration exposure are meant to be a
 
 If the goal is to improve the bridge fastest, the best next collection priorities are:
 
-1. `the-graying-market`
-2. `the-immigration-squeeze`
+1. `the-immigration-squeeze`
 
 ## Recommendation
 
-Do not force the two remaining slugs into `force-map.csv` yet with weak evidence.
+Do not force the one remaining slug into `force-map.csv` yet with weak evidence.
 
 Use the current file for high-confidence mappings only, and treat this note as the queue for the next company-selection pass.
 

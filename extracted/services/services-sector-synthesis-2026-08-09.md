@@ -27,6 +27,7 @@ This synthesis is based on the completed Services packets currently in the archi
   - [The Kroger Company](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-grocery-stores/the-kroger-company/company-packet.md)
   - [Walmart Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/walmart-inc/company-packet.md)
   - [Costco Wholesale Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md)
+  - [Dollar Tree, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/dollar-tree-inc/company-packet.md)
   - [Best Buy Co., Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/electronics-stores/best-buy-co-inc/company-packet.md)
   - [Kohl's Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/department-stores/kohls-corporation/company-packet.md)
   - [Ross Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
@@ -60,6 +61,7 @@ The newer packet base makes this much more obvious.
 - `McDonald's` shows low-ticket frequency, familiarity, and digital ordering at global scale.
 - `Domino's` shows direct ordering, repeat behavior, and a tightly controlled convenience loop.
 - `Walmart`, `Kroger`, and `Costco` show that the shopping trip is increasingly monetized through membership, advertising, marketplace, loyalty, or traffic density rather than only basket margin.
+- `Dollar Tree` shows a different low-ticket value format where the core lever is not a membership or media layer but multi-price architecture, low absolute price points, and store-format simplification after the Family Dollar sale.
 - `Best Buy` shows a weaker but still important version of the same pattern in consumer electronics, where services, Marketplace, Best Buy Ads, repair, trade-in, and omnichannel support are meant to widen the economics beyond the hardware sale.
 - `Kohl's` shows what the weaker middle looks like in department stores, where loyalty, value messaging, Sephora adjacency, and omnichannel tools still have to fight a structurally pressured base business.
 - `Ross` shows the traffic-resilient value winner in the same broad consumer lane, where off-price sourcing, in-store discovery, and compelling branded bargains can still produce very strong sales and earnings growth without a classic membership or loyalty engine.
@@ -95,6 +97,8 @@ This matters for the sector read because it shows Services is not only populated
 
 `Ross` then completes the comparison. It serves a similarly value-conscious consumer, but the format is clearly winning rather than merely stabilizing. Fiscal `2025` sales increased `8%` to `$22.8B`, comparable store sales increased `5%`, Q4 `2025` comparable store sales increased `9%`, and Q1 `2026` comparable store sales increased `17%`. That makes Ross one of the archive's best proofs that value and traffic density can still be a major advantage when the merchandising model is right.
 
+`Dollar Tree` sharpens the same comparison from another angle. The company is also in value retail, but the quarter trail is more ticket-led than traffic-led. Q3 `2025` comparable store sales increased `4.2%` with traffic down `0.3%`, and Q1 `2026` comparable store sales increased `3.5%` with traffic down `1.0%`. That makes Dollar Tree a useful middle case: better than the weak middle, but still proving out a post-Family-Dollar standalone model through multi-price mix and store-format work rather than through obvious traffic strength.
+
 ### 3. Logistics and field services are being run for quality, density, and automation
 
 The older Services brief already pointed this way, but the broader set sharpens it.
@@ -117,6 +121,7 @@ The completed packet set now says this directly.
 - `Costco` is a warehouse routine and membership habit.
 - `Walmart` and `Kroger` are routine shopping systems increasingly layering ads, membership, and ecosystem services on top.
 - `Best Buy` is a lower-frequency routine, but still a useful one: repair, trade-in, setup, support, and upgrade cycles are all attempts to keep the relationship active between major device purchases.
+- `Dollar Tree` is a fast low-ticket routine and discovery trip, but with a more fragile traffic pattern than Walmart or Costco. The packet suggests the routine is being preserved through assortment and price architecture rather than through a stronger loyalty interface.
 - `Kohl's` is the weaker version of the same idea: a large installed customer base, loyalty tools, and repeated shopping intent exist, but the routine is less durable and more promotion-sensitive than at the stronger retail-service systems.
 - `Ross` is important because it shows a different routine entirely: repeat bargain-hunting and discovery behavior can be durable even without a formal loyalty system if the value proposition stays sharp.
 - `Netflix` is a recurring attention habit rather than only a content business.
@@ -141,7 +146,7 @@ That makes Services useful not only for consumer and experience signals, but als
 | Logistics and route-density systems | CHRW, UPS, Rollins, APi, Cintas | automation, route density, customer mix, recurring service, compliance-heavy service intensity, network productivity |
 | Recurring consumer-routine systems | Starbucks, McDonald's, Domino's, Netflix | stored value, loyalty, direct ordering, subscription habit, repeat behavior, convenience as moat |
 | Experience and cultural-attention systems | Live Nation, Hilton, Disney, Caesars, Delta | travel demand, scarcity, fandom, loyalty, venue and destination throughput, premium mix |
-| Membership and retail-service systems | Costco, Walmart, Kroger, Best Buy, Kohl's, Ross | membership, basket frequency, retail media, marketplace layers, service attachment, value-sensitive consumer behavior, upgrade-cycle dependence, promotion-sensitive traffic, off-price traffic resilience |
+| Membership and retail-service systems | Costco, Walmart, Kroger, Dollar Tree, Best Buy, Kohl's, Ross | membership, basket frequency, retail media, marketplace layers, value architecture, service attachment, value-sensitive consumer behavior, upgrade-cycle dependence, promotion-sensitive traffic, off-price traffic resilience |
 | Labor intermediation | Robert Half | staffing, permanent placement, consulting resilience, employer confidence |
 
 ## Cultural and economic signals
@@ -152,6 +157,7 @@ Across the completed Services set, the broader signals are:
 - value and convenience still matter, but so do identity, fandom, travel, and experience scarcity
 - the strongest service models increasingly monetize through a second layer such as loyalty, advertising, sponsorship, subscriptions, stored value, or marketplace economics
 - even weaker or more cyclical service-retail hybrids are trying to move in the same direction by adding service, support, seller, or advertising layers around a mature core transaction
+- discount value formats are splitting internally: Dollar Tree shows ticket-led value broadening through multi-price architecture, while Ross shows stronger traffic-led off-price share capture
 - large but weaker middle-position retailers still show that those tools do not guarantee recovery if the core shopping habit is less distinctive and more discount-dependent
 - the value end of the market is not uniformly weak; Ross shows that the right off-price format can still take share aggressively even when weaker middle-market formats struggle
 - logistics and field-service winners are defending margins through density, automation, and customer-quality management rather than through broad macro strength
@@ -167,6 +173,7 @@ The completed set shows that technology in Services is usually embedded rather t
 - `Netflix` shows recommendation and ad monetization inside a recurring entertainment interface.
 - `Walmart` and `Kroger` show media and ecosystem layers on top of core retail traffic.
 - `Best Buy` shows AI-enabled search and agentic-shopping preparation on the front end, but more importantly shows technology being used to support customer recognition, digital conversion, Marketplace scale, Best Buy Ads, and service positioning.
+- `Dollar Tree` shows a quieter technology layer: supply-chain modernization, store refresh, delivery access, and pricing-mix control matter even without a strong consumer-facing software moat.
 - `Kohl's` shows the less glamorous side of the same story: omnichannel and loyalty tooling can help manage traffic, conversion, and personalized value delivery, but they do not automatically create a moat.
 - `Ross` shows that technology can matter more quietly through sourcing, allocation, marketing engagement, and store-execution support rather than through a flashy consumer interface.
 - `Live Nation`, `Disney`, `Hilton`, `Delta`, and `Caesars` each show a different mix of loyalty, digital distribution, ticketing, booking, or wallet infrastructure.
@@ -177,6 +184,7 @@ The right reading is that Services is one of the archive’s clearest sectors fo
 
 - `Live Nation`, `Disney`, `Netflix`, `Costco`, `Walmart`, and `McDonald's` may overstate the health of the broader consumer because they are unusually advantaged systems.
 - `Best Buy` is a useful counterweight because it shows how much harder the same second-layer strategy is when the underlying merchandise demand is cyclical and less habitual.
+- `Dollar Tree` is another useful counterweight because it shows that even a successful value format can still rely more on price and mix than on traffic strength, which limits how much moat we should infer from positive comps alone.
 - `Kohl's` is an even harsher counterweight because it shows that large customer files, loyalty programs, and national scale can still coexist with persistent sales pressure.
 - `Ross` tempers that pessimism by showing that physical retail formats are not all trapped if they have a stronger structural merchandise and value proposition.
 - freight and staffing still show that broad service demand is not uniformly strong

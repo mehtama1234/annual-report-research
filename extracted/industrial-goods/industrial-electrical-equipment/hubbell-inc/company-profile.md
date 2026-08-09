@@ -22,7 +22,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
-- Latest annual report collected: no official annual-report PDF saved locally
+- Latest annual report collected: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
@@ -34,7 +34,8 @@ Date baseline: 2026-08-09
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
 | 2025 | Hubbell AnnualReports taxonomy verification | https://www.annualreports.com/FeaturedProgram/14 | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/industrial-electrical-equipment/hubbell-inc/annualreports-verification.md) | AnnualReports evidence found in this pass showed Hubbell in a featured listing with legacy taxonomy `Consumer Goods / Electronic Equipment`, which appears stale relative to the current operating mix. |
-| 2025 | Annual report source-link note | https://investor.hubbell.com/ar2025/ | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-electrical-equipment/hubbell-inc/ir-source-links.md) | The direct annual report PDF URL was verified, but no valid local PDF artifact was saved during this pass because the hosted download path repeatedly timed out in this environment. |
+| 2025 | Annual report source-link note | https://investor.hubbell.com/ar2025/ | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-electrical-equipment/hubbell-inc/ir-source-links.md) | Preserves the official annual-report landing page plus the browser-verified direct hosted PDF URL. |
+| 2025 | SEC ARS annual report PDF | https://www.sec.gov/Archives/edgar/data/48898/000130817926000124/hubb014454-ars.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-electrical-equipment/hubbell-inc/2025-annual-report.pdf) | Official annual report artifact saved locally through the SEC `ARS` filing path. |
 | 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/48898/000162828026007500/hubb-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/hubbell-inc/2025-10k.html) | Formal annual filing covering Hubbell's Utility Solutions and Electrical Solutions segments across grid, utility, and behind-the-meter electrical infrastructure. |
 
 ## Last three quarters
@@ -53,6 +54,7 @@ Date baseline: 2026-08-09
 - The direct annual report content adds a second important layer. The shareholder letter explicitly tied `2025` and the forward outlook to load growth, grid resiliency, transmission and substation investment, and an expanding modern grid. It also called out data-center exposure within the portfolio map.
 - Q4 2025 set up the year with strong growth and a constructive `2026` outlook. Q1 2026 then showed transmission, substation, and distribution strength alongside strong data-center and light-industrial demand. Q2 2026 made the structural picture clearer still, with management explicitly saying grid modernization, load growth, and data-center investment drove double-digit organic growth.
 - Hubbell is also useful because it is not only a generic electrical-products company. It sits directly in critical utility components, communications and controls, and behind-the-meter electrical infrastructure, making it a strong bridge name across Industrials, Utilities, Technology, and Real Estate.
+- The evidence chain is materially stronger now that the official `2025` annual report artifact is saved locally instead of only URL-verified.
 
 ## Open questions
 

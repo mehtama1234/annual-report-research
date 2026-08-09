@@ -22,6 +22,7 @@ Date baseline: 2026-08-09
 - The `10-K` says the Utility Solutions segment provides critical components that allow the grid to transmit and distribute energy and make the grid smarter and more flexible. It specifically calls out T&D components, protection and control devices, smart meters, and communications systems.
 - The annual report also makes the strategic demand setup explicit. Management tied `2025` and the outlook into load growth, grid resiliency, transmission and substation demand, and an expanding modern grid, while also showing data-center exposure inside the portfolio map.
 - Hubbell is analytically useful because it is not only broad electrical exposure. It sits right at the component and control layer of the grid and the edge of the utility system, which gives the archive a stronger bridge between regulated utilities, industrial electrical equipment, and AI- and load-driven infrastructure demand.
+- The annual-report evidence chain is now complete at the artifact level because the official `2025` annual report PDF is saved locally.
 
 ## Quarter-by-quarter takeaways
 
@@ -59,6 +60,7 @@ Date baseline: 2026-08-09
 
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/industrial-electrical-equipment/hubbell-inc/annualreports-verification.md)
 - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-electrical-equipment/hubbell-inc/ir-source-links.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-electrical-equipment/hubbell-inc/2025-annual-report.pdf)
 - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/hubbell-inc/2025-10k.html)
 - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/hubbell-inc/2025-q4-8k.html)
 - [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/hubbell-inc/2025-q4-earnings-release-sec-ex99.html)

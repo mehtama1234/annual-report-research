@@ -39,6 +39,7 @@ This synthesis is based on the completed industrial-goods packets currently in t
   - [Builders FirstSource, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-building-materials/builders-firstsource-inc/company-packet.md)
 - Residential construction and homebuilding:
   - [D.R. Horton, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/residential-construction/d-r-horton-inc/company-packet.md)
+  - [Lennar Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/residential-construction/lennar-corporation/company-packet.md)
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-09`.
 
@@ -57,6 +58,7 @@ That infrastructure intensity shows up across several different forms:
 - outsourced technical operations around airports, fabs, warehouses, and mission-critical facilities
 - housing-supply-chain, prefabrication, and repair-and-remodel support
 - direct homebuilder demand, incentives, and homeownership affordability management
+- direct homebuilder land-light strategy, inventory turns, and integrated financial capture
 
 The key implication is that industrial strength in this archive is increasingly tied to long-duration physical bottlenecks and system buildouts, not just to ordinary capital-goods replacement cycles.
 
@@ -82,6 +84,7 @@ The packet set shows several different industrial models, but the strongest name
 - `ABM` shows how the same cycle reaches outsourced technical operations in airports, manufacturing sites, battery systems, semiconductor fabs, and datacenter-related services.
 - `Builders FirstSource` shows that part of the industrial story still runs through shelter, affordability, prefabrication, and the physical builder workflow rather than through digital infrastructure or grid capex alone.
 - `D.R. Horton` shows that the same shelter story also reaches the actual builder level, where demand is being defended through incentives, first-time-buyer price points, lot control, integrated mortgage capture, and return discipline rather than through a clean rebound in housing demand.
+- `Lennar` shows the same shelter pressure from a different angle, where affordability is being managed through land-light capital structure, faster cycle times, volume prioritization, and integrated financial services rather than waiting for rates or pricing to normalize.
 
 This does not look like a simple rebound in light industrial demand. It looks like a broad physical buildout where multiple layers of the real-world stack are tightening at the same time.
 
@@ -213,6 +216,8 @@ That matters because it links Industrial Goods back to a wider shelter chain alr
 
 So part of the industrial sector is still expressing the housing economy directly. It shows up through builders, trusses, components, workflow, mortgage capture, lot control, and local construction productivity rather than through classic macro housing language alone.
 
+`Lennar` sharpens that same point because it makes builder strategy itself part of the industrial read. Incentives around `13%` to `14%`, lower average selling prices, shorter cycle times, and less land on balance sheet are not just financial choices. They are operating tools used to keep the shelter machine moving under affordability pressure.
+
 ### 8. Industrial winners are increasingly system providers, not just product sellers
 
 The strongest names in this set are not simply shipping units.
@@ -236,6 +241,7 @@ They are selling systems:
 - `ABM`: ongoing operation of critical environments
 - `Builders FirstSource`: housing-supply-chain density, value-added components, prefabrication, digital workflow, and affordability-linked builder demand
 - `D.R. Horton`: national builder scale, first-time-buyer orientation, incentives, lot-control discipline, integrated mortgage and title capture, and affordability-linked closings
+- `Lennar`: national builder scale, land-light strategy, production-first and volume-prioritized execution, integrated mortgage and title capture, and affordability-linked closings
 
 That suggests the more durable industrial moats are shifting toward system integration, service depth, installed base, and operating know-how.
 
@@ -252,7 +258,7 @@ That suggests the more durable industrial moats are shifting toward system integ
 | Transport and environmental infrastructure | Union Pacific, Waste Management | regulated or network infrastructure, pricing discipline, throughput, operational leverage |
 | Outsourced technical operations | ABM | airports, fabs, datacenters, battery systems, labor-intensive physical infrastructure support |
 | Homebuilding supply chain and prefabrication | Builders FirstSource | starts sensitivity, repair-and-remodel exposure, prefabricated components, value-added distribution, digital workflow, and affordability-linked builder demand |
-| Residential construction and homebuilder execution | D.R. Horton | direct homeownership affordability exposure, incentives, first-time-buyer mix, lot-control strategy, mortgage and title capture, and disciplined return management at the actual construction-and-closing layer |
+| Residential construction and homebuilder execution | D.R. Horton, Lennar | direct homeownership affordability exposure, incentives, first-time-buyer and broad-market builder mix, lot-control and land-light strategy, mortgage and title capture, disciplined return management, and the actual construction-and-closing response to constrained affordability |
 
 ## Cultural and economic signals
 
@@ -271,6 +277,7 @@ Across the completed industrial-goods set, the broader signals are:
 - `EMCOR` reinforces that same conclusion at larger scale, while also showing that AI and data-center demand do not stop at power equipment. They also create demand for electrical fit-out, mechanical systems, environmental controls, communications cabling, retrofit work, and ongoing facilities services.
 - Housing affordability and shelter efficiency remain industrial questions too, not only consumer or real-estate questions.
 - Homeownership itself is being operationally engineered through incentives, entry-level price points, mortgage capture, and lot discipline rather than waiting for an easy demand rebound.
+- Homeownership itself is also being capital-structure engineered through land-light strategy, faster cycle times, and lower balance-sheet land exposure rather than waiting for an easy demand rebound.
 - The direct winners are not only grid or building names; they also include operators explicitly centered on critical digital infrastructure deployment.
 - Government and regulated spending still matter materially through defense, rail, waste, and infrastructure policy.
 - Industrial value is concentrating in businesses with installed bases, backlog visibility, system depth, and execution capability.
@@ -321,6 +328,7 @@ That means the center of gravity is moving toward:
 - service-heavy operation of complex physical assets
 - homebuilding supply chain and prefabrication
 - residential construction and homebuilder execution
+- residential construction and comparative homebuilder execution
 
 ## Useful organizing frame going forward
 

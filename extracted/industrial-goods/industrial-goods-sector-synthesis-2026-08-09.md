@@ -18,6 +18,8 @@ This synthesis is based on the completed industrial-goods packets currently in t
 - Utility construction and field execution:
   - [Quanta Services, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/quanta-services-inc/company-packet.md)
   - [MYR Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/myr-group-inc/company-packet.md)
+- Telecom and digital-infrastructure field execution:
+  - [Dycom Industries Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md)
 - Skilled-trades mechanical and electrical field execution:
   - [Comfort Systems USA, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
   - [EMCOR Group, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/emcor-group-inc/company-packet.md)
@@ -64,6 +66,7 @@ The packet set shows several different industrial models, but the strongest name
 - `Vertiv` is driven by critical digital infrastructure, hyperscale and colocation deployments, power and thermal complexity, and backlog-heavy AI infrastructure demand.
 - `Quanta` is driven by utility construction, transmission and substation work, load-center and mission-critical infrastructure buildout, and the ability to convert record backlog into executed work through craft-skilled field capacity.
 - `MYR` is driven by specialty electrical construction across transmission and distribution plus commercial and industrial work, with direct exposure to substations, emergency restoration, data centers, EV charging, airports, manufacturing, water and waste-water, and other complex electrical environments.
+- `Dycom` is driven by fiber-to-the-home, long-haul and middle-mile fiber, wireless activity, hyperscaler and data-center-related communications infrastructure, utility-adjacent locating and field work, and now a widening inside-the-facility building-systems and structured-cabling layer.
 - `Comfort Systems` is driven by HVAC, electrical contracting, modular and building-services execution, with unusually visible exposure to backlog conversion, burn-rate acceleration, and the practical limits of skilled-trades capacity.
 - `EMCOR` is driven by electrical and mechanical construction, facilities services, building services, and industrial services, with direct evidence that data centers, AI-linked electrical and cooling complexity, healthcare, water, and institutional projects are landing as record remaining performance obligations.
 - `Trane` is driven by commercial HVAC, data-center cooling, controls, services, and building-system backlog.
@@ -85,6 +88,7 @@ The industrial evidence set shows that AI demand is already expressing itself th
 - critical digital infrastructure, power systems, and thermal deployment at `Vertiv`
 - utility construction, transmission and substation execution, and craft-skilled infrastructure deployment at `Quanta`
 - specialty electrical construction, transmission and distribution execution, and data-center plus industrial facility wiring and systems work at `MYR`
+- telecom, long-haul and metro fiber, wireless, and inside-the-facility digital-infrastructure execution at `Dycom`
 - HVAC, electrical, modular, and mechanical systems execution at `Comfort Systems`
 - electrical and mechanical construction, facilities services, and data-center-linked building-systems execution at `EMCOR`
 - HVAC, thermal management, and liquid cooling at `Trane`
@@ -109,6 +113,7 @@ Examples:
 - `Vertiv` exited Q4 2025 with backlog at `$15.0B`, book-to-bill around `2.9x`, and then carried that demand into Q1 and Q2 2026 revenue, margin, and cash conversion.
 - `Quanta` moved from year-end `2025` backlog of `$43.98B` and RPO of `$23.76B` to Q1 `2026` backlog of `$48.5B` and RPO of `$26.2B`, then to Q2 `2026` backlog of `$53.4B` and RPO of `$33.6B`, which shows how power and mission-critical demand are landing as executable field work.
 - `MYR` moved from year-end `2025` backlog of `$2.82B` to Q1 `2026` backlog of `$2.84B` and Q2 `2026` backlog of `$3.16B`, while maintaining strong `Commercial and Industrial` exposure and a sharp second-quarter rise in `Transmission and Distribution` backlog.
+- `Dycom` moved from fiscal Q3 `2026` backlog of `$8.22B` to fiscal Q4 `2026` backlog of `$9.54B`, then to fiscal Q1 `2027` backlog of `$11.91B` with `2.2x` book-to-bill, showing how fiber, hyperscaler connectivity, and data-center-adjacent project awards are converting into longer-duration visible work.
 - `Comfort Systems` moved from year-end `2025` backlog of `$11.94B` to Q1 `2026` backlog of `$12.45B` and Q2 `2026` backlog of `$14.06B`, making it one of the clearest cases where demand is abundant but execution capacity and labor throughput still matter directly.
 - `EMCOR` moved from year-end `2025` remaining performance obligations of `$13.25B` to Q1 `2026` RPO of `$15.62B` and Q2 `2026` RPO of `$17.14B`, with the biggest recent growth coming from network and communications, healthcare, water and wastewater, and institutional work.
 
@@ -142,10 +147,11 @@ This is useful because it broadens the industrial read away from machinery and d
 
 ### 6. Services and labor-heavy execution are part of industrial reality
 
-`Comfort Systems`, `EMCOR`, and `ABM` are the clearest reminders that industrial value is not only embedded in manufactured equipment.
+`Dycom`, `Comfort Systems`, `EMCOR`, and `ABM` are the clearest reminders that industrial value is not only embedded in manufactured equipment.
 
 Their packets add:
 
+- direct telecom and fiber field execution
 - direct skilled-trades execution
 - HVAC and electrical contracting
 - large-scale electrical and mechanical construction
@@ -156,6 +162,8 @@ Their packets add:
 - datacenter-related services
 - facility engineering
 - battery-energy-storage and technical environments
+
+`Dycom` is especially important because it shows how the AI and data-center buildout is spreading through communications and network construction. The industrial story is not just power gear, cooling, and switchgear. It also includes trenching, permitting, splicing, wireless work, long-haul fiber, and now structured cabling inside critical facilities.
 
 `Comfort Systems` is especially useful because it shows a condition that sits underneath many other industrial stories in the archive: demand can be very strong and backlog can be very large, but revenue still has to be turned by enough capable field labor, project supervision, and execution discipline.
 
@@ -176,6 +184,7 @@ They are selling systems:
 - `Vertiv`: critical digital infrastructure, power train, thermal stack, and deployment speed
 - `Quanta`: utility construction, power-infrastructure execution, front-end services, fabrication depth, and craft-skilled field capacity
 - `MYR`: specialty electrical construction, transmission and distribution execution, commercial-and-industrial wiring, and project-selective field capacity across utility and large-facility work
+- `Dycom`: fiber and wireless infrastructure execution, route engineering, underground locating, communications field labor, and now building-systems plus structured-cabling depth inside digital facilities
 - `Comfort Systems`: skilled-trades execution, HVAC and electrical contracting, modular delivery, and workforce depth as an operating advantage
 - `EMCOR`: electrical and mechanical construction, facilities services, building and industrial services, and scaled execution depth across multiple end markets
 - `Trane`: cooling, controls, and service layers
@@ -190,6 +199,7 @@ That suggests the more durable industrial moats are shifting toward system integ
 | Role | Companies | What they reveal |
 |---|---|---|
 | Power and electrical infrastructure | Eaton, Hubbell, nVent, Powell, Quanta, MYR | electrification, grid modernization, transmission and distribution components, utility controls and communications, data-center power demand, electrical architecture, connection and protection systems, liquid cooling, custom switchgear, engineered-to-order power control, utility construction, specialty electrical field execution, and backlog and capacity expansion |
+| Telecom and digital-infrastructure field execution | Dycom | fiber-to-the-home, long-haul and middle-mile fiber, wireless activity, hyperscaler connectivity, BEAD-sensitive broadband construction, inside-the-facility structured cabling, and labor-constrained communications execution |
 | Critical digital infrastructure power and thermal | Vertiv | hyperscale and colocation demand, critical power and cooling systems, backlog expansion, deployment complexity, and strong cash conversion |
 | Cooling and building systems | Trane, Comfort Systems, EMCOR | HVAC, controls, liquid cooling, services, building-system demand, modular delivery, skilled-trades execution, facilities services, and high-visibility commercial backlog |
 | Heavy equipment and energy-linked machinery | Caterpillar | infrastructure, mining, power generation, installed-base service monetization |
@@ -208,6 +218,7 @@ Across the completed industrial-goods set, the broader signals are:
 - That value chain now extends further into custom switchgear and electrical-control equipment through `Powell`, which gives a cleaner read on how large-load projects are actually getting power routed and managed.
 - `Quanta` extends the same value chain into the construction and field-services layer, which is where transmission work, substations, load-center infrastructure, and other power projects actually get built, modified, and connected.
 - `MYR` reinforces that same conclusion with a more focused contractor showing how transmission work, substations, data-center wiring, and commercial-and-industrial electrical projects are landing in specialty backlog and field labor demand.
+- `Dycom` extends the same physical-demand chain into communications and digital-network deployment, showing that AI-related capex also needs route engineering, fiber placement, splicing, wireless work, and increasingly inside-the-facility cabling and building-systems integration.
 - `Comfort Systems` adds the broader skilled-trades and building-systems layer, where HVAC, electrical, modular, and service execution depends on labor depth and local operating quality rather than only on demand or equipment availability.
 - `EMCOR` reinforces that same conclusion at larger scale, while also showing that AI and data-center demand do not stop at power equipment. They also create demand for electrical fit-out, mechanical systems, environmental controls, communications cabling, retrofit work, and ongoing facilities services.
 - The direct winners are not only grid or building names; they also include operators explicitly centered on critical digital infrastructure deployment.

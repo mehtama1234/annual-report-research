@@ -19,7 +19,8 @@ Date baseline: 2026-08-08
 ## Reconciliation notes
 
 - T. Rowe Price now has a clean SEC filing chain on disk for the target annual report and the last three quarters.
-- The official IR annual-report and transcript URLs were verified and logged, but several `static-files` binary assets did not download cleanly through shell fetches during this pass.
+- The official IR annual-report and transcript URLs were verified and logged, but several `static-files` binary assets did not download cleanly through local machine fetches during this pass.
+- A local Playwright / Chromium browser pass on `2026-08-09` also hit `403 Access Denied` on both the annual-reports page and the direct annual-report asset URL, which confirms the remaining gap is an edge-denial problem from this machine rather than a missing source URL.
 - The one directly saved IR binary artifact in this pass is the `2Q26` earnings release PDF.
 
 ## Missing evidence

@@ -27,7 +27,8 @@ Date verified: 2026-08-08
 
 - `2026-q2-earnings-release.pdf` downloaded successfully.
 - The SEC filing chain for `2025` annual, `4Q25`, `1Q26`, and `2Q26` is saved locally under `raw/sec/...`.
-- Several `investors.troweprice.com/static-files/...` assets were verified through browser search and page inspection but stalled or failed through shell fetches during this pass, so they are logged here even where the binary artifact is not yet saved locally.
+- Several `investors.troweprice.com/static-files/...` assets were verified through browser search and page inspection but stalled or failed through local machine fetches during this pass, so they are logged here even where the binary artifact is not yet saved locally.
 - The `2025` annual report PDF URL is verified above.
 - Browser-side verification on `2026-08-09` confirms the file resolves as a `2025 Annual Report` PDF with `116` pages, and the IR page advertises the file size as `4.7 MB`.
 - Repeated shell fetch attempts from this machine using `requests`, `curl`, `wget`, `http.client`, and Node `http2` either stalled after connect or failed with transport-level errors, so no valid local `2025-annual-report.pdf` artifact is saved yet.
+- A local Playwright / Chromium browser pass on `2026-08-09` also failed from this machine: the annual-reports page and the direct `static-files` annual-report URL both returned `403 Access Denied` HTML from the edge rather than the PDF binary.

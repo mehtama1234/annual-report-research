@@ -66,7 +66,7 @@ This is now a single archive-quality tail item, not a broad evidence-chain gap. 
 
 2. A small annual-report tail remains.
    Only `1` company still lacks the annual-report binary in the archive.
-   The remaining gap is T. Rowe Price, where the official `2025` annual-report PDF is browser-verified but still not retrievable from this machine through standard shell clients.
+   The remaining gap is T. Rowe Price, where the official `2025` annual-report PDF is browser-verified but still not retrievable from this machine: standard shell clients stall or fail after connect, and a local Playwright / Chromium browser pass on `2026-08-09` returned `403 Access Denied` on both the annual-reports page and the direct asset URL.
 
 3. Services and Industrial Goods are good enough for synthesis but still lighter than Financial and Technology in commentary depth.
 

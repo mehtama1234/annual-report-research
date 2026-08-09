@@ -19,8 +19,11 @@ This synthesis is based on the completed Basic Materials packets currently in th
   - [Clearwater Paper Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/paper-paper-products/clearwater-paper-corp/company-packet.md)
 - Agricultural inputs:
   - [Nutrien Ltd.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/agricultural-chemicals/nutrien/company-packet.md)
+  - [CF Industries Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/agricultural-chemicals/cf-industries-holdings-inc/company-packet.md)
 - Diversified chemicals and materials science:
   - [Dow Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/chemicals-major-diversified/dow-inc/company-packet.md)
+- Coatings and controlled distribution:
+  - [The Sherwin-Williams Company](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/specialty-chemicals/the-sherwin-williams-company/company-packet.md)
 - Aluminum system:
   - [Alcoa Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/aluminum/alcoa-corporation/company-packet.md)
 
@@ -30,7 +33,7 @@ The source window is the `2025` annual report plus the last three reported quart
 
 The local evidence now supports a clear conclusion: `Basic Materials` is not one commodity bucket and not one inflation trade.
 
-The nine-company set breaks the sector into distinct but connected physical systems:
+The eleven-company set breaks the sector into distinct but connected physical systems:
 
 - energy supply and refining
 - copper extraction and mine execution
@@ -38,8 +41,10 @@ The nine-company set breaks the sector into distinct but connected physical syst
 - metals distribution, processing, and service-center logistics
 - lumber, OSB, pulp, and housing-input production
 - paperboard, fiber, and packaging-substrate production
-- fertilizer production and agricultural distribution
+- integrated agricultural distribution and crop-input production
+- nitrogen, ammonia, and fertilizer export production
 - chemicals conversion, plastics, silicones, and coatings
+- coatings distribution, contractor workflow, repaint, and maintenance demand
 - aluminum refining, smelting, casting, and energy-intensive restart execution
 
 The best way to read the sector is not by asking whether “materials are up or down.” It is by asking which bottleneck matters:
@@ -49,8 +54,9 @@ The best way to read the sector is not by asking whether “materials are up or 
 - steel and manufacturing throughput
 - metal availability, processing density, and quick-turn project fulfillment
 - housing affordability, repair-and-remodel demand, and building-material throughput
-- crop nutrients and farm economics
+- crop nutrients, fertilizer exports, and farm economics
 - polyethylene, feedstocks, and downstream chemical applications
+- coatings demand, branch density, repaint cycles, and raw-material pass-through
 - bauxite, alumina, smelting capacity, and tariff-sensitive metal premiums
 - metals-service-center scale, value-added processing, and downstream pricing pass-through
 - forest-products capacity, wood-panel economics, and tariff-sensitive building-material demand
@@ -69,14 +75,16 @@ Each company sits at a different chokepoint in the real economy:
 - `West Fraser` is a lumber, panel, pulp, and housing-input system tied to mortgage rates, affordability, repair and remodeling, trade restrictions, and portfolio optimization.
 - `Clearwater` is a paperboard and packaging-materials system tied to SBS operating rates, food-service and folding-carton demand, import pressure, cost reduction, and maintenance execution.
 - `Nutrien` is a crop-input and agricultural-distribution system tied to acreage, grain prices, grower economics, and global fertilizer flows.
+- `CF Industries` is a nitrogen-and-ammonia production system tied to fertilizer pricing, natural-gas input costs, export positioning, and low-carbon ammonia expansion.
 - `Dow` is a chemicals and materials-science system tied to polyethylene margins, feedstock flexibility, plastics demand, silicones and coatings mix, and restructuring execution.
+- `Sherwin-Williams` is a coatings and controlled-distribution system tied to pro demand, commercial and residential repaint, contractor access, pricing actions, and raw-material inflation.
 - `Alcoa` is an upstream aluminum system tied to bauxite and alumina supply, smelter restart timing, energy costs, tariffs, and metal-premium pass-through.
 
 That means the sector is better understood as infrastructure for the physical economy than as a single cyclical risk trade.
 
 ### 2. Capital discipline is real, but so is heavy reinvestment
 
-All four names show some version of the same tension:
+Across the completed set, the same tension keeps appearing:
 
 - strong shareholder-return language
 - meaningful capital expenditures
@@ -91,7 +99,9 @@ The differences matter:
 - `West Fraser` kept funding large modernization projects and dividends through a weak cycle while using closures and restarts to improve mill quality and long-term cost position.
 - `Clearwater` is balancing liquidity, outage-heavy maintenance, working-capital improvement, selective buybacks, and restructuring actions while waiting for packaging-market conditions to improve.
 - `Nutrien` is trying to improve free-cash-flow quality while still funding core assets, automation, and selective growth.
+- `CF Industries` is returning substantial capital while still funding reliability, debottlenecking, and low-carbon ammonia expansion.
 - `Dow` is trying to preserve dividends and flexibility while cutting costs, shrinking weaker assets, and resetting the earnings base through Transform to Outperform.
+- `Sherwin-Williams` is returning material cash to shareholders while still funding a very large controlled-distribution footprint and using pricing and branch-density adjustments to defend earnings quality.
 - `Alcoa` is mixing debt reduction and remediation with restart spending, selective growth, and now the proposed AliGroup acquisition.
 
 So the sector is not in harvest mode. The better read is selective reinvestment in strategic assets while still returning capital.
@@ -110,13 +120,14 @@ The clearest examples:
 - `Nutrien` sits inside food security, fertilizer affordability, and farm productivity.
 - `ExxonMobil` still matters because energy security, refining throughput, and product movement remain central to the broader industrial system.
 - `Dow` matters because packaging resins, silicones, performance materials, and industrial intermediates sit in the middle of real downstream production systems rather than at the edge of them.
+- `Sherwin-Williams` matters because contractor-facing coatings and maintenance demand sit between commodity inputs and the actual upkeep of homes, commercial property, infrastructure, and industrial assets.
 - `Alcoa` matters because aluminum links power-intensive upstream processing to transport, packaging, wire, construction, and industrial fabrication, while tariff policy and regional premiums can move economics quickly.
 
 This is one of the strongest sector-level findings: the local evidence makes Basic Materials look politically and strategically important, not just cyclical.
 
 ### 4. The sector is being shaped by policy and geopolitics at least as much as by demand
 
-Across the four names, policy is not background noise.
+Across the completed set, policy is not background noise.
 
 Examples:
 
@@ -127,7 +138,9 @@ Examples:
 - `West Fraser` is exposed to softwood duties, Section 232 tariffs, and Section 338 tariff risk, all of which directly affect planning, margins, and portfolio economics.
 - `Clearwater` is less directly tariff-driven than steel or lumber, but domestic capacity additions, imports, operating rates, and restructuring decisions function as direct earnings variables.
 - `Nutrien` is exposed to fertilizer trade flows, natural-gas costs, export restrictions, and geopolitics affecting crop inputs.
+- `CF Industries` is exposed to nitrogen trade flows, natural-gas economics, carbon-policy positioning, and blue-ammonia project economics.
 - `Dow` is exposed to environmental standards, regional feedstock economics, European cost pressure, and conflict-driven supply disruptions that can quickly change polyethylene and chemical margins.
+- `Sherwin-Williams` is less exposed to sanctions or mine politics than other materials names, but raw-material inflation, pricing power, and soft end-market demand are still direct earnings variables.
 - `Alcoa` is exposed to Section 232 tariffs, Midwest and Rotterdam premium changes, energy-price shocks connected to the Middle East conflict, and permitting and remediation decisions across the operating footprint.
 
 The implication is simple: in this sector, regulation and geopolitics are earnings variables, not just risk-factor footnotes.
@@ -142,17 +155,19 @@ What they show instead:
 - `Reliance` also rebounded sharply from a softer `Q4 2025` into much stronger `Q1 2026` and `Q2 2026`, helped by pricing, record tons sold, market-share gains, and project volume.
 - `West Fraser` improved more gradually: `Q4 2025` was the trough quarter, `Q1 2026` was still distorted by large duty adjustments, and `Q2 2026` finally showed a clearer underlying recovery with all core segments positive on adjusted EBITDA.
 - `Nutrien` also stepped up sharply by `Q2 2026`, especially as potash, nitrogen, and retail execution lined up.
+- `CF Industries` also improved meaningfully through the current window as fertilizer pricing, high utilization, and Yazoo outage recovery supported the nitrogen side of the sector.
 - `Clearwater` improved meaningfully versus the prior-year full-year base by `Q4 2025`, but `Q1 2026` and especially `Q2 2026` show that the packaging-materials pocket is still in a pricing and outage-driven downcycle even with better volumes.
 - `Freeport` improved as Grasberg recovered and copper pricing stayed supportive, but mine execution still dominates the story.
 - `ExxonMobil` remained highly cash generative, but quarter-to-quarter results were more visibly affected by disruptions, timing effects, and integrated mix.
 - `Dow` moved from a depressed `Q4 2025` and still-soft `Q1 2026` into a much stronger `Q2 2026` as polyethylene pricing and self-help actions finally showed through.
+- `Sherwin-Williams` showed a steadier pattern, moving from a solid `Q4 2025` into stronger `Q1 2026` and `Q2 2026` as pro demand, commercial share gains, and residential repaint remained healthy even with weak new residential and muted DIY conditions.
 - `Alcoa` moved from a strong `Q4 2025` and resilient but disruption-heavy `Q1 2026` into a quarterly-record `Q2 2026` as San Ciprian restarted fully and aluminum shipments and pricing strengthened.
 
 So “the sector is recovering” is too simple. Some businesses are rebounding off weak quarters, some are executing through disruption, and some are monetizing already-strong strategic positions.
 
 ### 6. Technology matters here indirectly through physical buildout
 
-None of these companies is a direct AI software beneficiary, but all four touch the hardware of the modern economy.
+None of these companies is a direct AI software beneficiary, but all of them touch the hardware of the modern economy.
 
 The chain looks like this:
 
@@ -163,7 +178,9 @@ The chain looks like this:
 - `West Fraser` is less tied to digital infrastructure and more tied to shelter, housing turnover, and renovation activity, which broadens the sector away from a pure industrial-policy or electrification lens.
 - `Clearwater` is farther from AI infrastructure but closer to everyday consumer packaging, which broadens the sector into the physical systems behind routine household and food-service consumption.
 - `Nutrien` is farther from digital infrastructure but still shows how the real economy depends on hard production systems and logistics.
+- `CF Industries` is also farther from digital infrastructure, but it reminds the archive that food production and industrial energy economics remain foundational physical systems.
 - `Dow` sits in between feedstocks and applications, with direct exposure to electronics, packaging, coatings, construction materials, and even data-center-related industrial solutions demand.
+- `Sherwin-Williams` adds another indirect infrastructure link because management specifically tied recent strength to commercial, protective and marine, and data-center and semiconductor-infrastructure-related project demand.
 - `Alcoa` supplies a processed metal that still matters to grid equipment, wire, transport, packaging, and industrial fabrication, which is another reminder that digital growth still rests on heavy upstream systems.
 
 That makes Basic Materials a useful counterweight to software-only narratives. The digital economy still rests on mined, refined, fabricated, and transported physical inputs.
@@ -178,8 +195,10 @@ That makes Basic Materials a useful counterweight to software-only narratives. T
 | Downstream metals logistics and processing | Reliance | service-center scale, value-added processing, quick-turn fulfillment, pricing pass-through, and industrial project execution |
 | Wood products and housing-input infrastructure | West Fraser | lumber, OSB, pulp, housing affordability, repair and remodeling, tariffs, and mill-portfolio high-grading |
 | Paperboard and packaging substrate infrastructure | Clearwater Paper | SBS operating rates, paperboard pricing, fiber packaging, cost reduction, maintenance execution, and packaged-goods exposure |
-| Food-system and farm-input infrastructure | Nutrien | potash, nitrogen, phosphate, agronomy, acreage demand, and grower-economics dependence |
+| Integrated food-system and farm-input infrastructure | Nutrien | potash, nitrogen, phosphate, agronomy, acreage demand, and grower-economics dependence |
+| Nitrogen and ammonia production infrastructure | CF Industries | ammonia, granular urea, UAN, natural-gas input economics, exports, and low-carbon ammonia expansion |
 | Conversion chemistry and materials science | Dow | plastics, silicones, coatings, industrial intermediates, margin sensitivity, and restructuring-led earnings repair |
+| Coatings and contractor-access infrastructure | Sherwin-Williams | controlled distribution, branch density, pro demand, repaint cycles, targeted pricing, and maintenance-linked built-environment demand |
 | Aluminum conversion and restart system | Alcoa | bauxite, alumina, smelting, tariff pass-through, energy intensity, restart execution, and acquisition-led upstream expansion |
 
 ## Cultural and economic signals
@@ -195,6 +214,8 @@ Across the completed Basic Materials set, the broader signals are:
 - real-world bottlenecks remain central to growth stories
 - shareholder return is important, but reinvestment in asset quality still dominates
 - chemicals conversion and downstream materials applications matter as much as upstream extraction
+- fertilizer and crop-input systems are not one thing; retail-distribution and pure nitrogen production behave differently
+- maintenance and repaint demand are part of this sector too, not just mining smelting and chemicals conversion
 - restart execution and energy-intensive metals processing remain core to the physical economy as well
 
 The bigger cultural read is that production, logistics, energy, metals, and agricultural inputs are not legacy leftovers. They remain the substrate of everything else.
@@ -210,7 +231,9 @@ The most useful working frame for this sector is:
 - `West Fraser` for the wood-products and housing-materials system that turns forests into shelter, panels, pulp, and renewable building inputs
 - `Clearwater` for the paperboard and fiber-packaging system that turns forest-derived inputs into consumer-goods and food-service packaging
 - `Nutrien` for food production, farm economics, and fertilizer flows
+- `CF Industries` for nitrogen economics, export leverage, low-carbon ammonia, and natural-gas-linked fertilizer pricing
 - `Dow` for chemicals conversion, plastics and materials applications, and restructuring-sensitive margin recovery
+- `Sherwin-Williams` for contractor-facing coatings, pricing power, repaint and maintenance demand, and the upstream bridge into the home-improvement track
 - `Alcoa` for the aluminum chain, smelter restart execution, tariff-sensitive premiums, and acquisition-backed upstream scale
 
 That is a much better frame than “materials are cyclical.”

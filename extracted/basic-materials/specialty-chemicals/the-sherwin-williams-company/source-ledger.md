@@ -1,0 +1,36 @@
+# Source Ledger
+
+Date baseline: 2026-08-09
+
+## Sources
+
+| ID | Source | Date | Type | Why it matters | Tag | Local path |
+|---|---|---|---|---|---|---|
+| SHW-T1 | AnnualReports.com Sherwin-Williams verification note | 2026-08-09 | Aggregator verification note | Confirms sector and industry labeling and that AnnualReports already exposed the `2025` annual package | `[Reported]` | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/basic-materials/specialty-chemicals/the-sherwin-williams-company/annualreports-verification.md) |
+| SHW-T2 | Official IR verification note | 2026-08-09 | Official IR verification note | Confirms the official annual-report, press-release, events, and transcript URL chain for the target window | `[Disclosed]` | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/official-ir-verification.md) |
+| SHW-T3 | SEC submissions index | 2026-08-09 collected | SEC submissions JSON | Verifies filer identity, fiscal year-end, and filing sequence | `[Filed]` | [submissions-cik0000089800.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/submissions-cik0000089800.json) |
+| SHW-T4 | 2025 annual report PDF | 2026-08-09 collected | Official annual report PDF | Preserves the shareholder annual report artifact for the year ended `2025-12-31` | `[Disclosed]` | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-annual-report.pdf) |
+| SHW-T5 | 2025 Form `10-K` | 2026-02-19 filed / 2026-08-09 collected | SEC filing HTML | Annual filing for the year ended `2025-12-31` | `[Filed]` | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-10k.html) |
+| SHW-T6 | Q4 2025 earnings release | 2026-01-29 filed / 2026-08-09 collected | Official earnings-release exhibit HTML | Preserves fourth-quarter and full-year `2025` operating language and outlook | `[Disclosed]` | [2025-q4-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-q4-earnings-release.html) |
+| SHW-T7 | Q4 2025 earnings `8-K` | 2026-01-29 filed / 2026-08-09 collected | SEC filing HTML | Filing wrapper for fourth-quarter and full-year `2025` results | `[Filed]` | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-q4-8k.html) |
+| SHW-T8 | Q4 2025 earnings-call transcript | 2026-08-09 collected | Official transcript PDF | Captures management discussion around cautious demand, Suvinil, Protective & Marine, commercial, and residential repaint | `[Disclosed]` | [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-q4-earnings-call-transcript.pdf) |
+| SHW-T9 | Q1 2026 earnings release | 2026-04-28 filed / 2026-08-09 collected | Official earnings-release exhibit HTML | Preserves first-quarter `2026` results and management framing around demand softness and share gains | `[Disclosed]` | [2026-q1-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-earnings-release.html) |
+| SHW-T10 | Q1 2026 earnings `8-K` | 2026-04-28 filed / 2026-08-09 collected | SEC filing HTML | Filing wrapper for first-quarter `2026` results | `[Filed]` | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-8k.html) |
+| SHW-T11 | Q1 2026 Form `10-Q` | 2026-04-28 filed / 2026-08-09 collected | SEC filing HTML | Filed first-quarter report | `[Filed]` | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-10q.html) |
+| SHW-T12 | Q1 2026 earnings-call transcript | 2026-08-09 collected | Official transcript PDF | Captures management discussion around Protective & Marine, commercial, repaint, and continued new-residential weakness | `[Disclosed]` | [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-earnings-call-transcript.pdf) |
+| SHW-T13 | Q2 2026 earnings release | 2026-07-28 filed / 2026-08-09 collected | Official earnings-release exhibit HTML | Preserves second-quarter `2026` results and the pricing and pro-demand narrative | `[Disclosed]` | [2026-q2-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-earnings-release.html) |
+| SHW-T14 | Q2 2026 earnings `8-K` | 2026-07-28 filed / 2026-08-09 collected | SEC filing HTML | Filing wrapper for second-quarter `2026` results | `[Filed]` | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-8k.html) |
+| SHW-T15 | Q2 2026 Form `10-Q` | 2026-07-28 filed / 2026-08-09 collected | SEC filing HTML | Filed second-quarter report | `[Filed]` | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-10q.html) |
+| SHW-T16 | Q2 2026 earnings-call transcript | 2026-08-09 collected | Official transcript PDF | Captures management discussion around pricing, pro segments, commercial, repaint, and challenged new residential demand | `[Disclosed]` | [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-earnings-call-transcript.pdf) |
+
+## Reconciliation notes
+
+- Sherwin-Williams now has the official annual report PDF on disk plus the core SEC filing chain for the annual filing and the last three quarters in scope.
+- The local quarter set uses `Q2 2026`, `Q1 2026`, and `Q4 2025` because those were the last three reported quarters available as of `2026-08-09`.
+- The annual-report and transcript PDFs were collectible directly from company-hosted file URLs, while the official results text was most reliably collectible through the SEC-hosted Exhibit `99.1` files.
+- Sherwin-Williams is classified as `Basic Materials / Specialty Chemicals`, but the more useful cross-packet read is that it bridges upstream coatings and downstream built-environment demand next to Lowe's and Home Depot.
+
+## Missing evidence
+
+- No direct local HTML snapshot of the AnnualReports company page is saved because the packet relies on a browser-verified verification note rather than a raw HTML capture.
+- No direct local HTML snapshot of the Sherwin-Williams investor pages is saved because shell fetches to those pages triggered a Cloudflare challenge on `2026-08-09`.

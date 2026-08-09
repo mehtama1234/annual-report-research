@@ -23,14 +23,15 @@ Date baseline: 2026-08-08
 | BX-T15 | Blackstone 2Q26 Form 10-Q | 2026-08-07 filed / 2026-08-08 collected | SEC filing HTML | Filed most recent quarter report | `[Filed]` | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/asset-management/blackstone-inc/2026-q2-10q.html) |
 | BX-T16 | Blackstone 2Q26 earnings 8-K | 2026-07-23 filed / 2026-08-08 collected | SEC filing HTML | Filing wrapper for most recent quarter release | `[Filed]` | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/asset-management/blackstone-inc/2026-q2-8k.html) |
 | BX-T17 | Blackstone 2Q26 investor-call transcript | 2026-07-18 | Transcript PDF | Management framing for AI, data-center, power, insurance, and wealth themes in the most recent quarter | `[Disclosed]` | [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/financial/asset-management/blackstone-inc/2026-q2-earnings-call-transcript.pdf) |
+| BX-T18 | Blackstone 2025 annual report PDF | 2026-08-08 collected | Official annual report PDF | Official designed annual-report package saved locally | `[Disclosed]` | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/asset-management/blackstone-inc/2025-annual-report.pdf) |
 
 ## Reconciliation notes
 
 - Blackstone now has a clean SEC filing chain on disk for the target annual report and the last three quarters.
+- The official `2025` annual report PDF is now saved locally.
 - The official quarterly earnings releases, supplements, and investor-call transcripts are now saved locally from the q4cdn-hosted IR assets.
 - AnnualReports still lagged at `2024` and used legacy Blackstone Group naming, so the annual-report metadata note is useful mainly as taxonomy verification rather than as the primary annual source.
 
 ## Missing evidence
 
-- A local copy of the official `2025` annual report PDF.
 - A direct saved AnnualReports.com HTML artifact if shell access to `annualreports.com` becomes reliable later.

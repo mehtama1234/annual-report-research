@@ -23,7 +23,7 @@ Date baseline: 2026-08-08
   - quarter 1: 2Q26
   - quarter 2: 1Q26
   - quarter 3: 4Q25
-- Latest annual report collected: no
+- Latest annual report collected: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
@@ -35,7 +35,8 @@ Date baseline: 2026-08-08
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
 | 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/the-blackstone-group-lp | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/financial/asset-management/blackstone-inc/annualreports-verification.md) | Metadata verified on `2026-08-08`; AnnualReports still lagged at `2024` and the page still used legacy Blackstone Group naming. |
-| 2025 | Blackstone IR source links note | https://ir.blackstone.com/overview/default.aspx | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/asset-management/blackstone-inc/ir-source-links.md) | Official quarterly release, supplement, and transcript URLs were verified and collected locally; a local `2025` annual report PDF is still missing. |
+| 2025 | Blackstone IR source links note | https://ir.blackstone.com/overview/default.aspx | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/asset-management/blackstone-inc/ir-source-links.md) | Official quarterly release, supplement, transcript, and annual-report URLs were verified and collected locally. |
+| 2025 | Annual report PDF | https://ir.blackstone.com/overview/default.aspx | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/asset-management/blackstone-inc/2025-annual-report.pdf) | Official designed annual-report package saved locally. |
 | 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1393818/000119312526082531/d48618d10k.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/asset-management/blackstone-inc/2025-10k.html) | Filed annual report for `2025`. |
 
 ## Last three quarters

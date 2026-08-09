@@ -23,7 +23,7 @@ Date baseline: 2026-08-08
   - quarter 1: 2Q26
   - quarter 2: 1Q26
   - quarter 3: 4Q25
-- Latest annual report collected: no
+- Latest annual report collected: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
@@ -36,6 +36,7 @@ Date baseline: 2026-08-08
 |---|---|---|---|---|
 | 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/sp-global-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/financial/investment-brokerage-national/sp-global-inc/annualreports-verification.md) | Metadata verified on `2026-08-08`; AnnualReports was still lagging at `2024`. |
 | 2025 | IR source-links note | https://investor.spglobal.com/investor-relations-overview/default.aspx | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/investment-brokerage-national/sp-global-inc/ir-source-links.md) | Official annual and quarter-material URLs verified. |
+| 2025 | Annual report PDF | https://investor.spglobal.com/investor-relations-overview/default.aspx | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/investment-brokerage-national/sp-global-inc/2025-annual-report.pdf) | Official designed annual-report package saved locally. |
 | 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/64040/000006404026000013/spgi-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/investment-brokerage-national/sp-global-inc/2025-10k.html) | Filed annual report for `2025`. |
 
 ## Last three quarters

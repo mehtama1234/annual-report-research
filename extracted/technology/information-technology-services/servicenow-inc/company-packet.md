@@ -46,6 +46,6 @@
 
 ## Open archive limitations
 
-- AnnualReports still lagged at `2024` on 2026-08-09, so the local archive relies on the verified company-page metadata plus the saved SEC annual and quarterly chain rather than a current hosted annual-report PDF.
+- AnnualReports still lagged at `2024` on 2026-08-09, but the official `2025` annual report PDF is now saved locally and the SEC annual and quarterly chain remains on disk.
 - Direct shell fetches from ServiceNow IR were inconsistent, so the quarterly proof set is SEC-based even though the official IR home URL is logged.
 - No standalone prepared-remarks or transcript artifacts are saved locally yet.

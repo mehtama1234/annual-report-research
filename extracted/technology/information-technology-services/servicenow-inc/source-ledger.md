@@ -27,6 +27,8 @@
 
 ## Saved local artifacts
 
+- Annual report PDF:
+  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/information-technology-services/servicenow-inc/2025-annual-report.pdf)
 - SEC submission index:
   - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/information-technology-services/servicenow-inc/sec-submissions.json)
 - Annual filing:

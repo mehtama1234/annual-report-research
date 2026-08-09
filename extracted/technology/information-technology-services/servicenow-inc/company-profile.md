@@ -22,7 +22,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
-- Latest annual report collected: no local annual-report binary saved; AnnualReports metadata verified separately and still lagged at `2024`
+- Latest annual report collected: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
@@ -34,6 +34,7 @@ Date baseline: 2026-08-09
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
 | 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/servicenow-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/information-technology-services/servicenow-inc/annualreports-verification.md) | Confirms AnnualReports company-page metadata and that the hosted package still lagged at `2024` on 2026-08-09. |
+| 2025 | Annual report PDF | https://investors.servicenow.com/ | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/information-technology-services/servicenow-inc/2025-annual-report.pdf) | Official designed annual-report package saved locally. |
 | 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/now-20251231.htm | [now-20251231.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/information-technology-services/servicenow-inc/now-20251231.htm) | Saved FY2025 annual filing from SEC. |
 | 2025 | ServiceNow IR source links | https://investors.servicenow.com/ | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/information-technology-services/servicenow-inc/ir-source-links.md) | Logs the official IR home plus the SEC annual and quarterly artifact chain used for this archive. |
 

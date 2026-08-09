@@ -22,7 +22,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q2 FY2026
   - quarter 2: Q1 FY2026
   - quarter 3: Q4 FY2025
-- Latest annual report collected: verified online, but no local Adobe-hosted annual-report download saved
+- Latest annual report collected: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
@@ -34,6 +34,7 @@ Date baseline: 2026-08-09
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
 | 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/adobe-systems-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/application-software/adobe-inc/annualreports-verification.md) | Confirms AnnualReports metadata and that the hosted 2025 package is current under legacy Adobe Systems naming. |
+| 2025 | Annual report PDF | https://www.adobe.com/investor-relations.html | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/adobe-inc/2025-annual-report.pdf) | Official designed annual-report package saved locally. |
 | 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/adbe-20251128.htm | [adbe-20251128.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/adobe-inc/adbe-20251128.htm) | Standalone 2025 annual filing captured from SEC. |
 | 2025 | Adobe IR source links | https://www.adobe.com/investor-relations.html | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/adobe-inc/ir-source-links.md) | Logs the official IR and newsroom entry points used for quarterly verification. |
 

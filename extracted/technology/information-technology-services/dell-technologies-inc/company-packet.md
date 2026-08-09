@@ -44,5 +44,5 @@
 ## Open archive limitations
 
 - AnnualReports still lagged at `2024` on 2026-08-09, so Dell IR and SEC are the source of truth for the 2025 annual package.
-- Dell-hosted static-file PDFs timed out repeatedly from the shell on 2026-08-09, so this archive currently relies on verified IR URLs plus the saved SEC filing HTML chain rather than local Dell-hosted PDF copies.
+- Dell-hosted static-file PDFs timed out repeatedly from the shell on 2026-08-09, but the official `2025` annual report PDF was still recovered and saved locally alongside the SEC filing HTML chain.
 - No standalone prepared-remarks or transcript artifacts are saved locally yet.

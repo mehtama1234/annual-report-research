@@ -14,16 +14,17 @@ Date baseline: 2026-08-08
 | SPGI-T6 | S&P Global 1Q26 earnings 8-K | 2026-04-28 filed / 2026-08-08 collected | SEC filing HTML | Filing wrapper for prior quarter release | `[Filed]` | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/investment-brokerage-national/sp-global-inc/2026-q1-8k.html) |
 | SPGI-T7 | S&P Global 2Q26 Form 10-Q | 2026-07-28 filed / 2026-08-08 collected | SEC filing HTML | Filed most recent quarter report | `[Filed]` | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/investment-brokerage-national/sp-global-inc/2026-q2-10q.html) |
 | SPGI-T8 | S&P Global 2Q26 earnings 8-K | 2026-07-28 filed / 2026-08-08 collected | SEC filing HTML | Filing wrapper for most recent quarter release | `[Filed]` | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/investment-brokerage-national/sp-global-inc/2026-q2-8k.html) |
+| SPGI-T9 | S&P Global 2025 annual report PDF | 2026-08-08 collected | Official annual report PDF | Official designed annual-report package saved locally | `[Disclosed]` | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/investment-brokerage-national/sp-global-inc/2025-annual-report.pdf) |
 
 ## Reconciliation notes
 
 - S&P Global now has a full SEC filing chain on disk for the target annual report and the last three quarters.
+- The official `2025` annual report PDF is now saved locally.
 - Official S&P Global IR release pages and overview pages were verified on the web, but direct shell fetches to those pages and to guessed static-file URLs ran into Cloudflare challenge pages.
 - The locally saved placeholder HTML and PDF files from those blocked fetches are not treated as evidence in the extracted summaries.
 
 ## Missing evidence
 
 - A direct saved AnnualReports.com HTML artifact if shell access to `annualreports.com` becomes reliable later.
-- A local copy of the official `2025` annual report PDF.
 - Local copies of the official `4Q25`, `1Q26`, and `2Q26` earnings-release PDFs and supplemental slide decks if a later fetch pass succeeds.
 - Local transcript artifacts if S&P Global posts or preserves them publicly in a later archive pass.

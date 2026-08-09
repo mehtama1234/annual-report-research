@@ -13,6 +13,8 @@ This synthesis is based on the completed Basic Materials packets currently in th
 - Steel and domestic manufacturing:
   - [Nucor Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/steel-iron/nucor-corporation/company-packet.md)
   - [Reliance, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/steel-iron/reliance-steel-aluminum-co/company-packet.md)
+- Wood products and housing inputs:
+  - [West Fraser Timber Co. Ltd.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/lumber-wood-production/west-fraser-timber-co-ltd/company-packet.md)
 - Agricultural inputs:
   - [Nutrien Ltd.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/agricultural-chemicals/nutrien/company-packet.md)
 - Diversified chemicals and materials science:
@@ -26,12 +28,13 @@ The source window is the `2025` annual report plus the last three reported quart
 
 The local evidence now supports a clear conclusion: `Basic Materials` is not one commodity bucket and not one inflation trade.
 
-The seven-company set breaks the sector into distinct but connected physical systems:
+The eight-company set breaks the sector into distinct but connected physical systems:
 
 - energy supply and refining
 - copper extraction and mine execution
 - steel production and domestic fabrication
 - metals distribution, processing, and service-center logistics
+- lumber, OSB, pulp, and housing-input production
 - fertilizer production and agricultural distribution
 - chemicals conversion, plastics, silicones, and coatings
 - aluminum refining, smelting, casting, and energy-intensive restart execution
@@ -42,10 +45,12 @@ The best way to read the sector is not by asking whether “materials are up or 
 - copper and mine supply
 - steel and manufacturing throughput
 - metal availability, processing density, and quick-turn project fulfillment
+- housing affordability, repair-and-remodel demand, and building-material throughput
 - crop nutrients and farm economics
 - polyethylene, feedstocks, and downstream chemical applications
 - bauxite, alumina, smelting capacity, and tariff-sensitive metal premiums
 - metals-service-center scale, value-added processing, and downstream pricing pass-through
+- forest-products capacity, wood-panel economics, and tariff-sensitive building-material demand
 
 ## What is actually going on
 
@@ -57,6 +62,7 @@ Each company sits at a different chokepoint in the real economy:
 - `Freeport` is a copper-and-mining system tied to ore quality, ramp-ups, and project execution.
 - `Nucor` is a domestic steel and fabricated-products system tied to industrial demand, construction, power, and trade policy.
 - `Reliance` is a downstream metals service-center and processing system tied to quick-turn fulfillment, industrial demand, pricing pass-through, and project execution.
+- `West Fraser` is a lumber, panel, pulp, and housing-input system tied to mortgage rates, affordability, repair and remodeling, trade restrictions, and portfolio optimization.
 - `Nutrien` is a crop-input and agricultural-distribution system tied to acreage, grain prices, grower economics, and global fertilizer flows.
 - `Dow` is a chemicals and materials-science system tied to polyethylene margins, feedstock flexibility, plastics demand, silicones and coatings mix, and restructuring execution.
 - `Alcoa` is an upstream aluminum system tied to bauxite and alumina supply, smelter restart timing, energy costs, tariffs, and metal-premium pass-through.
@@ -77,6 +83,7 @@ The differences matter:
 - `Freeport` has to keep funding mine recovery, brownfield growth, and project options.
 - `Nucor` is spending aggressively to widen product mix and exposure to higher-value end markets.
 - `Reliance` is returning significant cash while still funding capex, inventory support, and processing-network capability across a fragmented distribution market.
+- `West Fraser` kept funding large modernization projects and dividends through a weak cycle while using closures and restarts to improve mill quality and long-term cost position.
 - `Nutrien` is trying to improve free-cash-flow quality while still funding core assets, automation, and selective growth.
 - `Dow` is trying to preserve dividends and flexibility while cutting costs, shrinking weaker assets, and resetting the earnings base through Transform to Outperform.
 - `Alcoa` is mixing debt reduction and remediation with restart spending, selective growth, and now the proposed AliGroup acquisition.
@@ -91,6 +98,7 @@ The clearest examples:
 
 - `Nucor` frames itself as a domestic manufacturing platform helped by U.S. trade policy and industrial buildout.
 - `Reliance` frames itself as the distribution and processing layer that helps metal actually reach infrastructure, aerospace, defense, semiconductor, and manufacturing customers quickly.
+- `West Fraser` frames itself as a lower-cost, modernized wood-products platform that should benefit when housing affordability improves, especially because more capacity now sits in the U.S. South.
 - `Freeport` sits inside electrification, transmission, and power infrastructure because copper is unavoidable there.
 - `Nutrien` sits inside food security, fertilizer affordability, and farm productivity.
 - `ExxonMobil` still matters because energy security, refining throughput, and product movement remain central to the broader industrial system.
@@ -109,6 +117,7 @@ Examples:
 - `Freeport` is exposed to operating rights, permitting, and the political reality of large mining assets.
 - `Nucor` explicitly benefits from supportive U.S. trade policy and lower unfairly traded imports.
 - `Reliance` is exposed to tariffs, mill lead times, material availability, and government project awards, with the DHS border wall contract becoming an explicit earnings factor in `2026`.
+- `West Fraser` is exposed to softwood duties, Section 232 tariffs, and Section 338 tariff risk, all of which directly affect planning, margins, and portfolio economics.
 - `Nutrien` is exposed to fertilizer trade flows, natural-gas costs, export restrictions, and geopolitics affecting crop inputs.
 - `Dow` is exposed to environmental standards, regional feedstock economics, European cost pressure, and conflict-driven supply disruptions that can quickly change polyethylene and chemical margins.
 - `Alcoa` is exposed to Section 232 tariffs, Midwest and Rotterdam premium changes, energy-price shocks connected to the Middle East conflict, and permitting and remediation decisions across the operating footprint.
@@ -123,6 +132,7 @@ What they show instead:
 
 - `Nucor` had the sharpest visible earnings rebound from a softer `Q4 2025` into much stronger `Q1 2026` and `Q2 2026`.
 - `Reliance` also rebounded sharply from a softer `Q4 2025` into much stronger `Q1 2026` and `Q2 2026`, helped by pricing, record tons sold, market-share gains, and project volume.
+- `West Fraser` improved more gradually: `Q4 2025` was the trough quarter, `Q1 2026` was still distorted by large duty adjustments, and `Q2 2026` finally showed a clearer underlying recovery with all core segments positive on adjusted EBITDA.
 - `Nutrien` also stepped up sharply by `Q2 2026`, especially as potash, nitrogen, and retail execution lined up.
 - `Freeport` improved as Grasberg recovered and copper pricing stayed supportive, but mine execution still dominates the story.
 - `ExxonMobil` remained highly cash generative, but quarter-to-quarter results were more visibly affected by disruptions, timing effects, and integrated mix.
@@ -141,6 +151,7 @@ The chain looks like this:
 - `Freeport` supplies copper needed for grids, electrification, and power-heavy infrastructure.
 - `Nucor` benefits from data-center, power, and industrial construction demand.
 - `Reliance` benefits from that same buildout one step downstream, where data-center, semiconductor, aerospace, and infrastructure demand show up through order flow, pricing, and processing utilization.
+- `West Fraser` is less tied to digital infrastructure and more tied to shelter, housing turnover, and renovation activity, which broadens the sector away from a pure industrial-policy or electrification lens.
 - `Nutrien` is farther from digital infrastructure but still shows how the real economy depends on hard production systems and logistics.
 - `Dow` sits in between feedstocks and applications, with direct exposure to electronics, packaging, coatings, construction materials, and even data-center-related industrial solutions demand.
 - `Alcoa` supplies a processed metal that still matters to grid equipment, wire, transport, packaging, and industrial fabrication, which is another reminder that digital growth still rests on heavy upstream systems.
@@ -155,6 +166,7 @@ That makes Basic Materials a useful counterweight to software-only narratives. T
 | Metals bottleneck and mine execution | Freeport-McMoRan | copper scarcity, mining disruption risk, project execution, and electrification exposure |
 | Domestic industrial throughput | Nucor | steel, fabrication, recycling, industrial policy, and U.S. manufacturing leverage |
 | Downstream metals logistics and processing | Reliance | service-center scale, value-added processing, quick-turn fulfillment, pricing pass-through, and industrial project execution |
+| Wood products and housing-input infrastructure | West Fraser | lumber, OSB, pulp, housing affordability, repair and remodeling, tariffs, and mill-portfolio high-grading |
 | Food-system and farm-input infrastructure | Nutrien | potash, nitrogen, phosphate, agronomy, acreage demand, and grower-economics dependence |
 | Conversion chemistry and materials science | Dow | plastics, silicones, coatings, industrial intermediates, margin sensitivity, and restructuring-led earnings repair |
 | Aluminum conversion and restart system | Alcoa | bauxite, alumina, smelting, tariff pass-through, energy intensity, restart execution, and acquisition-led upstream expansion |
@@ -166,6 +178,7 @@ Across the completed Basic Materials set, the broader signals are:
 - the physical economy is back in the foreground
 - strategic domestic capacity matters
 - downstream processing density and logistics speed matter too
+- housing and shelter costs are also embedded in this sector
 - policy can move earnings as directly as volumes or pricing
 - real-world bottlenecks remain central to growth stories
 - shareholder return is important, but reinvestment in asset quality still dominates
@@ -182,6 +195,7 @@ The most useful working frame for this sector is:
 - `Freeport` for copper and power-system dependence
 - `Nucor` for domestic industrial buildout and trade-sensitive manufacturing
 - `Reliance` for the downstream metals-service-center and processing network that turns mill output into usable industrial supply
+- `West Fraser` for the wood-products and housing-materials system that turns forests into shelter, panels, pulp, and renewable building inputs
 - `Nutrien` for food production, farm economics, and fertilizer flows
 - `Dow` for chemicals conversion, plastics and materials applications, and restructuring-sensitive margin recovery
 - `Alcoa` for the aluminum chain, smelter restart execution, tariff-sensitive premiums, and acquisition-backed upstream scale
@@ -204,9 +218,10 @@ The cleanest current conclusion is:
 
 The strongest names in the local archive are not only selling materials. They are operating critical inputs into energy, electrification, manufacturing, infrastructure, food production, and chemical conversion into end-use products.
 
-Alcoa extends that conclusion by adding the aluminum system, where energy intensity, smelter restarts, tariffs, and regional premiums all directly shape earnings quality. Reliance extends it again by showing that metals-service-center density, quick-turn logistics, and value-added processing are also strategic parts of the physical economy.
+Alcoa extends that conclusion by adding the aluminum system, where energy intensity, smelter restarts, tariffs, and regional premiums all directly shape earnings quality. Reliance extends it again by showing that metals-service-center density, quick-turn logistics, and value-added processing are also strategic parts of the physical economy. West Fraser extends it further by showing that housing affordability, renewable building materials, and tariff-sensitive wood-product flows are part of the same basic-materials map.
 
 ## Next best extensions
 
 - Add another mining or aluminum-adjacent name if the goal is to deepen the electrification and metal-supply read beyond copper, steel, primary aluminum, and downstream metals processing.
+- Add a paper, tissue, or packaging-adjacent name if the goal is to push the new forest-products and shelter layer beyond lumber and engineered wood into fiber and packaging economics.
 - Add a paper, packaging, or forest-products name if the goal is to widen the sector into less policy-explicit but still infrastructure-linked materials demand.

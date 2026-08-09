@@ -19,6 +19,9 @@ This synthesis is based on the completed Services packets currently in the archi
   - [Netflix, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/music-video-stores/netflix-inc/company-packet.md)
   - [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
   - [Delta Air Lines, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
+  - [United Airlines Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/united-airlines-holdings-inc/company-packet.md)
+  - [Southwest Airlines Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/regional-airlines/southwest-airlines-co/company-packet.md)
+  - [MGM Resorts International](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md)
 - Restaurants and routine consumer systems:
   - [Starbucks Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/starbucks-corporation/company-packet.md)
   - [McDonald's Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/mcdonalds-corporation/company-packet.md)
@@ -78,7 +81,8 @@ The newer packet base makes this much more obvious.
 - `Kohl's` shows what the weaker middle looks like in department stores, where loyalty, value messaging, Sephora adjacency, and omnichannel tools still have to fight a structurally pressured base business.
 - `Ross` shows the traffic-resilient value winner in the same broad consumer lane, where off-price sourcing, in-store discovery, and compelling branded bargains can still produce very strong sales and earnings growth without a classic membership or loyalty engine.
 - `Caesars` shows loyalty and wallet design connecting physical gaming, digital wagering, and cross-property entertainment spend.
-- `Hilton` and `Delta` show loyalty systems operating as economic infrastructure rather than as marketing decoration.
+- `MGM` shows a broader destination-and-gaming relationship platform where Las Vegas, regional gaming, Macau, and digital extensions reinforce each other without collapsing into one single wallet story.
+- `Hilton`, `Delta`, `United`, and `Southwest` now show four different travel-relationship patterns operating as economic infrastructure rather than as marketing decoration.
 
 That means an important part of Services is no longer best read as “transactions.” It is recurring relationship control.
 
@@ -90,7 +94,10 @@ The archive now has a better experience-economy stack than it did before.
 - `Hilton` shows travel and lodging resilience through RevPAR, loyalty, and pipeline growth.
 - `Disney` shows that premium experience demand can still be monetized across parks and destination behavior, not only through streaming.
 - `Delta` shows travel demand through premium mix, loyalty economics, and branded network relevance.
+- `United` shows a more premium-network and operationally driven airline relationship model.
+- `Southwest` shows a lower-friction domestic airline trying to widen the economics of the trip through segmentation, managed-business demand, and Rapid Rewards engagement.
 - `Caesars` adds another physical-experience case where entertainment, loyalty, and digital extension reinforce one another.
+- `MGM` adds a second gaming and destination platform where the relationship is broadened through resort breadth, repeat-play exposure, conventions, Macau, and digital adjacency.
 
 The sector implication is that in-person demand remains healthy when it offers access, status, identity, or scarcity. This is not a generic discretionary boom. It is a selective experience-and-membership pattern.
 

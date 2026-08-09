@@ -31,4 +31,5 @@ Date verified: 2026-08-08
 - The `2025` annual report PDF URL is verified above.
 - Browser-side verification on `2026-08-09` confirms the file resolves as a `2025 Annual Report` PDF with `116` pages, and the IR page advertises the file size as `4.7 MB`.
 - Repeated shell fetch attempts from this machine using `requests`, `curl`, `wget`, `http.client`, and Node `http2` either stalled after connect or failed with transport-level errors, so no valid local `2025-annual-report.pdf` artifact is saved yet.
+- Additional IPv4-only checks on `2026-08-09` tightened the failure mode: `wget --spider` timed out while waiting for response headers after a successful TLS connection, and `curl -I --http1.1` likewise hung after connect without returning headers or payload.
 - A local Playwright / Chromium browser pass on `2026-08-09` also failed from this machine: the annual-reports page and the direct `static-files` annual-report URL both returned `403 Access Denied` HTML from the edge rather than the PDF binary.

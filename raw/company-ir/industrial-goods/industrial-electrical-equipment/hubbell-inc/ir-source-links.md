@@ -12,7 +12,7 @@ Date checked: 2026-08-09
 
 - Annual report page: https://investor.hubbell.com/ar2025/
 - Direct annual report PDF URL verified in browser: https://hubbell.gcs-web.com/static-files/73707063-cfe0-4b9a-835b-560ed0f8ccc1
-- Capture note: the annual report PDF content was verified directly, but repeated shell download attempts for the binary hung in this environment during this pass.
+- Capture note: the annual report PDF content was verified directly, but repeated shell download attempts for the binary timed out in this environment during this pass, so no valid local PDF artifact is retained here.
 
 ## Quarter results in scope
 

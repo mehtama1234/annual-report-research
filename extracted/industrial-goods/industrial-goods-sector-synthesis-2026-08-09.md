@@ -10,6 +10,8 @@ This synthesis is based on the completed industrial-goods packets currently in t
   - [Caterpillar Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/construction-farm-machinery/caterpillar-inc/company-packet.md)
 - Electrical and power infrastructure:
   - [Eaton Corporation plc](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/eaton-corporation/company-packet.md)
+- Critical digital infrastructure power and thermal:
+  - [Vertiv Holdings Co](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/vertiv-holdings-co/company-packet.md)
 - HVAC, controls, and thermal systems:
   - [Trane Technologies plc](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-equipment-components/trane-technologies-plc/company-packet.md)
 - Aerospace and defense:
@@ -47,6 +49,7 @@ The key implication is that industrial strength in this archive is increasingly 
 The packet set shows several different industrial models, but the strongest names share a similar demand signature:
 
 - `Eaton` is driven by electrification, power quality, data-center power systems, and aerospace.
+- `Vertiv` is driven by critical digital infrastructure, hyperscale and colocation deployments, power and thermal complexity, and backlog-heavy AI infrastructure demand.
 - `Trane` is driven by commercial HVAC, data-center cooling, controls, services, and building-system backlog.
 - `Caterpillar` is seeing power generation, energy, construction, mining, and installed-base services support.
 - `ABM` shows how the same cycle reaches outsourced technical operations in airports, manufacturing sites, battery systems, semiconductor fabs, and datacenter-related services.
@@ -60,6 +63,7 @@ This is one of the strongest cross-sector bridges in the whole archive.
 The industrial evidence set shows that AI demand is already expressing itself through:
 
 - electrical distribution and grid support at `Eaton`
+- critical digital infrastructure, power systems, and thermal deployment at `Vertiv`
 - HVAC, thermal management, and liquid cooling at `Trane`
 - engines, turbines, and power-related infrastructure at `Caterpillar`
 - datacenter-related services and battery-energy-storage support at `ABM`
@@ -76,6 +80,7 @@ Examples:
 - `Northrop` exited 2025 with record backlog and pushed it even higher in 2026, showing a multi-year defense-production engine.
 - `Trane` moved from record backlog into even stronger 2026 bookings and visibility.
 - `Eaton` and other electrical names repeatedly stressed backlog, orders, and capacity expansion.
+- `Vertiv` exited Q4 2025 with backlog at `$15.0B`, book-to-bill around `2.9x`, and then carried that demand into Q1 and Q2 2026 revenue, margin, and cash conversion.
 
 This suggests the stronger industrial businesses are being driven by constrained project pipelines and fulfillment capacity, not by fragile spot demand.
 
@@ -126,6 +131,7 @@ The strongest names in this set are not simply shipping units.
 They are selling systems:
 
 - `Eaton`: electrical architecture and power resilience
+- `Vertiv`: critical digital infrastructure, power train, thermal stack, and deployment speed
 - `Trane`: cooling, controls, and service layers
 - `Caterpillar`: engines, power, service network, and installed-base economics
 - `Northrop`: mission systems and production capacity
@@ -138,6 +144,7 @@ That suggests the more durable industrial moats are shifting toward system integ
 | Role | Companies | What they reveal |
 |---|---|---|
 | Power and electrical infrastructure | Eaton | electrification, data-center power demand, thermal and power architecture, backlog and capacity expansion |
+| Critical digital infrastructure power and thermal | Vertiv | hyperscale and colocation demand, critical power and cooling systems, backlog expansion, deployment complexity, and strong cash conversion |
 | Cooling and building systems | Trane | HVAC, controls, liquid cooling, services, high-visibility commercial backlog |
 | Heavy equipment and energy-linked machinery | Caterpillar | infrastructure, mining, power generation, installed-base service monetization |
 | Defense and deterrence industrial base | Northrop, Honeywell | budget-backed demand, aerospace systems, strategic modernization, production scale |
@@ -150,6 +157,7 @@ Across the completed industrial-goods set, the broader signals are:
 
 - AI is a physical buildout as much as a digital one.
 - Power, cooling, and resilient facility systems are becoming more strategically important.
+- The direct winners are not only grid or building names; they also include operators explicitly centered on critical digital infrastructure deployment.
 - Government and regulated spending still matter materially through defense, rail, waste, and infrastructure policy.
 - Industrial value is concentrating in businesses with installed bases, backlog visibility, system depth, and execution capability.
 - Labor and field operations remain important, even in sectors increasingly discussed through AI and automation language.
@@ -160,7 +168,7 @@ Industrial Goods in this archive is not separate from Technology. It is one of t
 
 The clearest links are:
 
-- `Eaton` and `Trane` translating AI demand into power and cooling requirements
+- `Eaton`, `Vertiv`, and `Trane` translating AI demand into power and cooling requirements
 - `Caterpillar` linking infrastructure growth to engines, turbines, and energy systems
 - `ABM` showing how datacenter and semiconductor complexity creates demand for outsourced operations
 - `Honeywell` and `Northrop` showing that control systems, aerospace electronics, and automation still matter deeply inside industrial outcomes
@@ -184,6 +192,7 @@ The cleanest current conclusion is:
 That means the center of gravity is moving toward:
 
 - electrification and power systems
+- critical digital infrastructure power and thermal systems
 - thermal and building infrastructure
 - long-cycle backlog and capacity-constrained fulfillment
 - defense and regulated infrastructure
@@ -194,6 +203,7 @@ That means the center of gravity is moving toward:
 The archive will likely be easiest to extend if Industrial Goods is grouped into these working buckets:
 
 - power and electrical architecture
+- critical digital infrastructure power and thermal
 - cooling and building systems
 - heavy equipment and energy-linked machinery
 - defense and aerospace industrial base
@@ -202,6 +212,6 @@ The archive will likely be easiest to extend if Industrial Goods is grouped into
 
 ## Next best extensions
 
-- Add one more pure-play power or transformer-grid name if the goal is to deepen the electrical bottleneck thesis.
+- Add one more pure-play power or transformer-grid name if the goal is to deepen the upstream electrical bottleneck thesis beyond `Eaton` and `Vertiv`.
 - Add another defense prime or systems supplier if the goal is to pressure-test whether `Northrop` is representative of the defense layer.
 - Add another field-service or facilities-operations name only if it adds a distinct angle beyond `ABM` on execution-heavy infrastructure support.

@@ -35,6 +35,6 @@ Date baseline: 2026-08-09
 
 ## Collection note
 
-- The static-file host served the documents correctly through browser-side access on `2026-08-09`, but repeated shell-side attempts to save those binaries locally failed because of transport-level connection errors in this environment.
-- The archive therefore preserves the official URLs here and relies on the SEC-hosted annual and quarterly filing chain for the raw local artifacts saved in this pass.
-
+- The official `2025` annual report is now also saved locally through the SEC `ARS` filing path:
+  - https://www.sec.gov/Archives/edgar/data/1035267/000103526726000025/a2025_annualreportxv4.pdf
+- The archive therefore preserves both the official IR URL verification layer and the stronger local SEC-hosted annual-report artifact.

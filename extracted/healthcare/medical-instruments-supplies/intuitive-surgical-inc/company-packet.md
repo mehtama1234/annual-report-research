@@ -21,6 +21,7 @@ Date baseline: 2026-08-09
 - Fiscal `2025` revenue was approximately `$10.12B`, up `21%` from `2024`.
 - The `2025` annual report makes the business model unusually explicit: systems matter, but the real engine is the installed base, procedure growth, instruments and accessories, service revenue, and utilization.
 - This matters because Intuitive gives Healthcare a medtech model built more on recurring platform economics and surgical-workflow embedment than on one-time product cycles alone.
+- The annual-report evidence chain is now complete at the artifact level because the official `2025` annual report PDF is saved locally.
 
 ## Quarter-by-quarter takeaways
 
@@ -54,6 +55,7 @@ Date baseline: 2026-08-09
 
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/healthcare/medical-instruments-supplies/intuitive-surgical-inc/annualreports-verification.md)
 - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/intuitive-surgical-inc/ir-source-links.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/intuitive-surgical-inc/2025-annual-report.pdf)
 - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/medical-instruments-supplies/intuitive-surgical-inc/2025-10k.html)
 - [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/intuitive-surgical-inc/2025-q4-results-release.html)
 - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/medical-instruments-supplies/intuitive-surgical-inc/2025-q4-8k.html)

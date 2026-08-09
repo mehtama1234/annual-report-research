@@ -38,13 +38,15 @@ Official URLs verified:
 - Q2 2026 results page:
   - https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-inc-reports-second-quarter-2026-results
 - Official annual report PDF URL exposed on IR:
-  - https://investor.caesars.com/static-files/77fcf922-b105-4713-ac2e-2f5ec317d548
+  - https://investor.caesars.com/static-files/c3fbec19-0b97-4be1-8d7a-d706c9820559
 
 Collection note:
 
 - The live IR chain is internally consistent for the annual and quarterly window in scope.
 - The quarter packet preserves the earnings release text through the matching SEC-hosted Exhibit `99.1` files for durability.
-- The official annual report PDF URL is verified from the live IR site, but the shell download stalled during collection, so the local packet currently relies on the SEC `10-K` HTML for the annual artifact on disk.
+- The official annual report PDF URL above is the current live object exposed by the Caesars `Annuals & Proxies` page as of `2026-08-09`; an earlier static-file URL previously logged in this repo was stale.
+- The live PDF object is browser-verifiable and resolves as a `195` page PDF in the web fetch path, but direct local shell clients still failed to collect it from this environment on `2026-08-09`: `curl` over HTTP/2 returned `INTERNAL_ERROR`, and forced HTTP/1.1 plus `requests` / `wget` hung after connect with no body transfer.
+- Because of that transport behavior, the local packet still relies on the SEC `10-K` HTML for the annual artifact on disk.
 
 Interpretation:
 

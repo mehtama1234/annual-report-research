@@ -25,7 +25,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
-- Latest annual report collected locally: no, official IR PDF URL verified but local download stalled
+- Latest annual report collected locally: no, current official IR PDF URL verified but transport from this environment still fails after connect
 - Latest annual filing collected: yes
 - Latest quarter collected: yes, filing chain plus press release
 - Quarter minus 1 collected: yes
@@ -38,7 +38,7 @@ Date baseline: 2026-08-09
 |---|---|---|---|---|
 | 2025 | Form `10-K` | https://www.sec.gov/Archives/edgar/data/1590895/000159089526000011/czr-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/resorts-casinos/caesars-entertainment-corporation/2025-10k.html) | Annual filing for the year ended `2025-12-31`, filed `2026-02-17`. |
 | 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/caesars-entertainment-corporation | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/resorts-casinos/caesars-entertainment-corporation/annualreports-verification.md) | Confirms Caesars classification coverage and documents the current AnnualReports click-through mismatch on `2026-08-09`. |
-| 2025 | Official IR verification note | https://investor.caesars.com/ | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/resorts-casinos/caesars-entertainment-corporation/official-ir-verification.md) | Confirms the official annual-report and quarterly-results chain, including the verified annual PDF URL. |
+| 2025 | Official IR verification note | https://investor.caesars.com/ | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/resorts-casinos/caesars-entertainment-corporation/official-ir-verification.md) | Confirms the official annual-report and quarterly-results chain, including the current live annual PDF object and the remaining machine-local transport failure. |
 
 ## Last three quarters
 

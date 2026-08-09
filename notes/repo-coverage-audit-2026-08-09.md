@@ -26,7 +26,7 @@ Those files previously contained unescaped commas in company names, linked-compa
 
 Coverage tracker totals:
 
-- annual reports collected: `53 / 55`
+- annual reports collected: `54 / 55`
 - annual filings collected: `55 / 55`
 - latest quarter collected: `55 / 55`
 - prior quarter collected: `55 / 55`
@@ -38,7 +38,7 @@ Coverage tracker totals:
 | Sector | Companies | Annual reports | Annual filings | Latest transcripts |
 |---|---:|---:|---:|---:|
 | Consumer Goods | 6 | 6 | 6 | 1 |
-| Financial | 17 | 15 | 17 | 5 |
+| Financial | 17 | 16 | 17 | 5 |
 | Healthcare | 6 | 6 | 6 | 1 |
 | Industrial Goods | 8 | 8 | 8 | 0 |
 | Services | 5 | 5 | 5 | 0 |
@@ -49,9 +49,8 @@ Coverage tracker totals:
 These are the remaining annual-report gaps in the tracker:
 
 1. Financial / T. Rowe Price Group, Inc.
-2. Financial / Blackstone Inc.
 
-These are now a narrow archive-quality tail, not broad evidence-chain gaps. In both cases the SEC filing chain and quarterlies are already present.
+This is now a single archive-quality tail item, not a broad evidence-chain gap. The SEC filing chain and quarterlies are already present.
 
 ## What the archive already says
 
@@ -66,7 +65,7 @@ These are now a narrow archive-quality tail, not broad evidence-chain gaps. In b
    Only `13 / 55` companies have the latest transcript saved locally.
 
 2. A small annual-report tail remains.
-   Only `2` companies still lack the annual-report binary in the archive.
+   Only `1` company still lacks the annual-report binary in the archive.
 
 3. Services and Industrial Goods are good enough for synthesis but still lighter than Financial and Technology in commentary depth.
 
@@ -75,8 +74,8 @@ These are now a narrow archive-quality tail, not broad evidence-chain gaps. In b
 
 ## Next collection priorities
 
-1. Close the 2 remaining annual-report gaps first.
-   That is the cleanest path to a nearly complete `2025` annual archive.
+1. Close the final remaining annual-report gap first.
+   That is the cleanest path to a functionally complete `2025` annual archive.
 
 2. Raise transcript density in Financial.
    That sector has the most analytical leverage and still the largest commentary gap.
@@ -89,4 +88,4 @@ These are now a narrow archive-quality tail, not broad evidence-chain gaps. In b
 
 ## Working conclusion
 
-This repo is no longer just a file dump. It is now a structured research archive with clean trackers, near-complete annual and quarterly coverage, and enough sector breadth to support deeper synthesis work. The next phase should focus less on basic collection and more on closing the remaining annual-report gaps and improving transcript-backed interpretation where it matters most.
+This repo is no longer just a file dump. It is now a structured research archive with clean trackers, near-complete annual and quarterly coverage, and enough sector breadth to support deeper synthesis work. The next phase should focus less on basic collection and more on closing the final annual-report gap and improving transcript-backed interpretation where it matters most.

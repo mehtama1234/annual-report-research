@@ -43,7 +43,11 @@ That project is broader and more horizontal than the annual-report repo. It is b
 
 A scan of `/home/manishmehta/projects` did not surface another active company-earnings / annual-report archive comparable to `annual-report-research`.
 
-The README in `annual-report-research` references `projects/Misc/ui-projects/strategy-under-a-force/` as an adjacent layer, but no local directory matching `strategy-under-a-force` was found in the inspected paths.
+The adjacent path referenced in the README does exist:
+
+- `/home/manishmehta/projects/Misc/ui-projects/strategy-under-a-force/`
+
+That workspace is a force-driven narrative layer with many subprojects such as `the-compute-buildout`, `the-admin-burden-economy`, `value-migration`, `the-energy-transition`, and `real-estate-is-the-moat`. It is not a second filing archive.
 
 ## Structural comparison
 
@@ -100,7 +104,7 @@ The strongest immediate alignments are:
 
 1. Treat `annual-report-research` as the only evidence base for public-company proof points from `2025` and `2026`.
 
-2. Add a bridge index inside `annual-report-research`, for example:
+2. Keep using the bridge indexes already inside `annual-report-research`, especially:
 
    - `indexes/force-map.csv`
 
@@ -129,4 +133,4 @@ The repo layout is directionally correct.
 - `ibis-industries` should remain the wide industry and force narrative system.
 - The next useful piece is a small bridge layer, not a merger.
 
-That bridge is the fastest path to making sector, industrial, consumer, cultural, and other recurring themes more explicit across both workspaces.
+That bridge already exists in early form, and tightening it is the fastest path to making sector, industrial, consumer, cultural, and other recurring themes more explicit across both workspaces.

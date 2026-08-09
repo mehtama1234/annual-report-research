@@ -87,11 +87,16 @@ The clearest evidence chains already in the archive are:
   - NextEra
   - Duke
   - Alliant
+  - Avista
   - Exelon
   - Consolidated Edison
   - Vistra
   - Constellation
   - NRG
+  - Atmos
+  - American Water
+  - Edison
+  - Fortis
 - Industrial Goods:
   - Caterpillar
   - Honeywell
@@ -187,7 +192,7 @@ The archive is strongest where named public-company evidence is the missing link
 
 - Utilities:
   - a more stressed conventional-generation or fuel-concentrated utility
-  - or a more purely regulated gas or hydro utility
+  - or another unusually different ownership, fuel, or jurisdiction model after the current cross-border, hydro-sensitive, gas-only, water, and wildfire-stressed cases
 - Consumer:
   - a cleaner live-experience or status-through-experience public-company set
 - Cultural:

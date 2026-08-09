@@ -15,6 +15,8 @@ This synthesis is based on the completed industrial-goods packets currently in t
   - [Powell Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/powell-industries-inc/company-packet.md)
 - Critical digital infrastructure power and thermal:
   - [Vertiv Holdings Co](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/vertiv-holdings-co/company-packet.md)
+- Utility construction and field execution:
+  - [Quanta Services, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/quanta-services-inc/company-packet.md)
 - HVAC, controls, and thermal systems:
   - [Trane Technologies plc](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-equipment-components/trane-technologies-plc/company-packet.md)
 - Aerospace and defense:
@@ -56,6 +58,7 @@ The packet set shows several different industrial models, but the strongest name
 - `nVent` is driven by electrical connection and protection, enclosures, power-utility exposure, liquid cooling, and infrastructure demand led by data centers.
 - `Powell` is driven by custom-engineered switchgear and electrical-energy-control demand across electric utility, LNG, petrochemical, and data-center-related projects.
 - `Vertiv` is driven by critical digital infrastructure, hyperscale and colocation deployments, power and thermal complexity, and backlog-heavy AI infrastructure demand.
+- `Quanta` is driven by utility construction, transmission and substation work, load-center and mission-critical infrastructure buildout, and the ability to convert record backlog into executed work through craft-skilled field capacity.
 - `Trane` is driven by commercial HVAC, data-center cooling, controls, services, and building-system backlog.
 - `Caterpillar` is seeing power generation, energy, construction, mining, and installed-base services support.
 - `ABM` shows how the same cycle reaches outsourced technical operations in airports, manufacturing sites, battery systems, semiconductor fabs, and datacenter-related services.
@@ -73,6 +76,7 @@ The industrial evidence set shows that AI demand is already expressing itself th
 - electrical connection, protection, enclosures, and liquid cooling at `nVent`
 - custom-engineered switchgear, medium-voltage control gear, and behind-the-meter power-distribution design at `Powell`
 - critical digital infrastructure, power systems, and thermal deployment at `Vertiv`
+- utility construction, transmission and substation execution, and craft-skilled infrastructure deployment at `Quanta`
 - HVAC, thermal management, and liquid cooling at `Trane`
 - engines, turbines, and power-related infrastructure at `Caterpillar`
 - datacenter-related services and battery-energy-storage support at `ABM`
@@ -93,6 +97,7 @@ Examples:
 - `nVent` moved from full-year 2025 momentum into Q1 2026 record sales, orders, and a `$2.6B` backlog, then followed with another record Q2 2026 and sharply higher guidance.
 - `Powell` moved from a `$1.6B` backlog in Q1 FY2026 to a record `$2.4B` backlog in Q3 FY2026 while Q3 orders jumped to `$934M`, including a data-center order above `$400M`.
 - `Vertiv` exited Q4 2025 with backlog at `$15.0B`, book-to-bill around `2.9x`, and then carried that demand into Q1 and Q2 2026 revenue, margin, and cash conversion.
+- `Quanta` moved from year-end `2025` backlog of `$43.98B` and RPO of `$23.76B` to Q1 `2026` backlog of `$48.5B` and RPO of `$26.2B`, then to Q2 `2026` backlog of `$53.4B` and RPO of `$33.6B`, which shows how power and mission-critical demand are landing as executable field work.
 
 This suggests the stronger industrial businesses are being driven by constrained project pipelines and fulfillment capacity, not by fragile spot demand.
 
@@ -147,6 +152,7 @@ They are selling systems:
 - `nVent`: electrical connection, protection, enclosure, and liquid-cooling subsystems
 - `Powell`: custom-engineered switchgear, power control, and project-specific electrical distribution systems
 - `Vertiv`: critical digital infrastructure, power train, thermal stack, and deployment speed
+- `Quanta`: utility construction, power-infrastructure execution, front-end services, fabrication depth, and craft-skilled field capacity
 - `Trane`: cooling, controls, and service layers
 - `Caterpillar`: engines, power, service network, and installed-base economics
 - `Northrop`: mission systems and production capacity
@@ -158,7 +164,7 @@ That suggests the more durable industrial moats are shifting toward system integ
 
 | Role | Companies | What they reveal |
 |---|---|---|
-| Power and electrical infrastructure | Eaton, Hubbell, nVent, Powell | electrification, grid modernization, transmission and distribution components, utility controls and communications, data-center power demand, electrical architecture, connection and protection systems, liquid cooling, custom switchgear, engineered-to-order power control, backlog and capacity expansion |
+| Power and electrical infrastructure | Eaton, Hubbell, nVent, Powell, Quanta | electrification, grid modernization, transmission and distribution components, utility controls and communications, data-center power demand, electrical architecture, connection and protection systems, liquid cooling, custom switchgear, engineered-to-order power control, utility construction, field execution, and backlog and capacity expansion |
 | Critical digital infrastructure power and thermal | Vertiv | hyperscale and colocation demand, critical power and cooling systems, backlog expansion, deployment complexity, and strong cash conversion |
 | Cooling and building systems | Trane | HVAC, controls, liquid cooling, services, high-visibility commercial backlog |
 | Heavy equipment and energy-linked machinery | Caterpillar | infrastructure, mining, power generation, installed-base service monetization |
@@ -175,6 +181,7 @@ Across the completed industrial-goods set, the broader signals are:
 - More of the value chain is filling in: not only platforms like `Eaton` and `Vertiv`, but also upstream connection, enclosure, and liquid-cooling providers like `nVent`.
 - `Hubbell` extends that value chain further into transmission and distribution components, smart-grid and protection devices, and the edge and behind-the-meter electrical layer.
 - That value chain now extends further into custom switchgear and electrical-control equipment through `Powell`, which gives a cleaner read on how large-load projects are actually getting power routed and managed.
+- `Quanta` extends the same value chain into the construction and field-services layer, which is where transmission work, substations, load-center infrastructure, and other power projects actually get built, modified, and connected.
 - The direct winners are not only grid or building names; they also include operators explicitly centered on critical digital infrastructure deployment.
 - Government and regulated spending still matter materially through defense, rail, waste, and infrastructure policy.
 - Industrial value is concentrating in businesses with installed bases, backlog visibility, system depth, and execution capability.
@@ -188,6 +195,7 @@ The clearest links are:
 
 - `Eaton`, `Hubbell`, `nVent`, `Vertiv`, and `Trane` translating AI demand into power and cooling requirements
 - `Powell` translating AI and large-load growth into switchgear, behind-the-meter power design, and custom electrical-control demand
+- `Quanta` translating the same load-growth wave into transmission, substation, utility, load-center, and mission-critical infrastructure execution
 - `Caterpillar` linking infrastructure growth to engines, turbines, and energy systems
 - `ABM` showing how datacenter and semiconductor complexity creates demand for outsourced operations
 - `Honeywell` and `Northrop` showing that control systems, aerospace electronics, and automation still matter deeply inside industrial outcomes
@@ -226,6 +234,7 @@ The archive will likely be easiest to extend if Industrial Goods is grouped into
 - utility components, controls, and grid hardening
 - electrical connection and protection
 - custom switchgear and engineered power control
+- utility construction and craft-skilled field execution
 - critical digital infrastructure power and thermal
 - cooling and building systems
 - heavy equipment and energy-linked machinery

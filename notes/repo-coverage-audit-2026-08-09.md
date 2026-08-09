@@ -1,0 +1,97 @@
+# Repo Coverage Audit
+
+Date baseline: 2026-08-09
+
+## Current state
+
+The research workspace is now committed and machine-parseable.
+
+- repo: `annual-report-research`
+- branch: `main`
+- latest archive snapshot before this audit: `c345343`
+
+Tracker normalization completed in this pass:
+
+- `indexes/companies.csv`
+- `indexes/coverage-tracker.csv`
+- `indexes/theme-tracker.csv`
+
+Those files previously contained unescaped commas in company names, linked-company lists, and notes fields. They now parse cleanly as CSV.
+
+## Coverage totals
+
+- companies tracked: `55`
+- themes tracked: `17`
+- total theme evidence count: `360`
+
+Coverage tracker totals:
+
+- annual reports collected: `48 / 55`
+- annual filings collected: `55 / 55`
+- latest quarter collected: `55 / 55`
+- prior quarter collected: `55 / 55`
+- third quarter collected: `55 / 55`
+- latest call transcript collected: `13 / 55`
+
+## Sector snapshot
+
+| Sector | Companies | Annual reports | Annual filings | Latest transcripts |
+|---|---:|---:|---:|---:|
+| Consumer Goods | 6 | 6 | 6 | 1 |
+| Financial | 17 | 13 | 17 | 5 |
+| Healthcare | 6 | 6 | 6 | 1 |
+| Industrial Goods | 8 | 8 | 8 | 0 |
+| Services | 5 | 5 | 5 | 0 |
+| Technology | 13 | 10 | 13 | 6 |
+
+## Missing annual-report binaries
+
+These are the remaining annual-report gaps in the tracker:
+
+1. Technology / Adobe Inc.
+2. Technology / ServiceNow, Inc.
+3. Technology / Dell Technologies Inc.
+4. Financial / T. Rowe Price Group, Inc.
+5. Financial / Blackstone Inc.
+6. Financial / CME Group Inc.
+7. Financial / S&P Global Inc.
+
+These are mostly archive-quality gaps, not evidence-chain gaps. In most cases the SEC filing chain and quarterlies are already present.
+
+## What the archive already says
+
+- Technology is broad enough to support a strong first-pass AI stack and workflow-infrastructure read across platform owners, semiconductors, control layers, cybersecurity, enterprise services, and weaker incumbents.
+- Financial is the deepest sector by company count and the best place to study hidden infrastructure economics: scale banks, payments, insurance, public-markets asset management, alternatives, custody, exchanges, and ratings/data.
+- Consumer Goods, Healthcare, Industrial Goods, and Services now each have enough breadth for sector-level synthesis, even where transcript depth is still thin.
+- Cross-sector work is already substantial enough to support themes around operating infrastructure, trust and automation, regulation, and capital concentration.
+
+## Main weaknesses
+
+1. Transcript coverage is thin.
+   Only `13 / 55` companies have the latest transcript saved locally.
+
+2. A small annual-report tail remains.
+   Only `7` companies still lack the annual-report binary in the archive.
+
+3. Services and Industrial Goods are good enough for synthesis but still lighter than Financial and Technology in commentary depth.
+
+4. AnnualReports.com lag remains common.
+   Several company pages still show `2024` even where official IR or SEC already provides the correct `2025` annual package.
+
+## Next collection priorities
+
+1. Close the 7 annual-report gaps first.
+   That is the cleanest path to a nearly complete `2025` annual archive.
+
+2. Raise transcript density in Financial.
+   That sector has the most analytical leverage and still the largest commentary gap.
+
+3. Add transcript depth in Services and Industrial Goods.
+   Those sectors now have enough company breadth that management language would materially improve theme quality.
+
+4. Continue turning the sector packets into stronger cross-sector memos.
+   The repo already has enough evidence to sharpen industrial, consumer, cultural, and institutional-operating themes without waiting for full transcript completeness.
+
+## Working conclusion
+
+This repo is no longer just a file dump. It is now a structured research archive with clean trackers, near-complete annual and quarterly coverage, and enough sector breadth to support deeper synthesis work. The next phase should focus less on basic collection and more on closing the remaining annual-report gaps and improving transcript-backed interpretation where it matters most.

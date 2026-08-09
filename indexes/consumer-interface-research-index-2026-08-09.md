@@ -46,6 +46,7 @@ Use this alongside the repo-level framework:
 | Travel marketplace interface | Booking Holdings Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/services/transportation-services/booking-holdings/company-packet.md) | merchant mix, direct and app behavior, alternative-accommodations scale, Connected Trip, and payments-linked trip orchestration | This gives the travel lane the missing distribution-platform layer; the next useful move is a cruise or gaming comparison to test how far the travel-interface model extends beyond airlines, hotels, and booking marketplaces. |
 | Destination-and-cruise interface | Carnival Corporation & plc | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/general-entertainment/carnival-corporation-plc/company-packet.md) | prepaid vacation demand, onboard monetization, deposit float, pricing power, and destination control inside a cruise operator | This gives the travel lane the missing cruise comparison and shows how the consumer-wallet logic extends into bundled destination vacations rather than only airlines, hotels, gaming, and booking marketplaces. |
 | Wallet-linked entertainment interface | Caesars Entertainment, Inc. | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md) | one rewards identity plus universal wallet across resorts, sportsbook, racebook, and iGaming | Direct annual-report artifact and standalone transcript files are still not saved locally. |
+| Destination-and-gaming interface | MGM Resorts International | [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md) | diversified destination portfolio across Las Vegas, regional gaming, Macau, and digital extensions rather than a single wallet mechanic | This gives Caesars a stronger comparison case by showing a broader resort-and-gaming platform with cleaner annual-report evidence and a useful AnnualReports lag example. |
 
 ## Highest-priority archive gaps inside the current framework
 
@@ -54,10 +55,10 @@ Use this alongside the repo-level framework:
 2. Standalone transcript coverage is still uneven outside the best-documented names like `Netflix` and `Hilton`.
 3. Retail is stronger than before but still needs one more direct Retail company-page packet if the archive is going to claim the current `Amazon` / `Nike` / `Bath & Body Works` split is broadly representative; `Target` and `Burlington` materially improve the retail-like comparison set, but AnnualReports still classifies them under `Services` and `Consumer Goods` rather than formal `Retail`.
 4. Consumer Goods now fits the framework conceptually, and Carnival improves it by adding a destination-and-cruise interface, but the sector would still benefit from one more name that sharpens either indulgence, wellness, or routine beverage behavior.
-5. Travel and wallet systems are stronger now that Booking and Carnival join Delta, Hilton, Marriott, and Caesars, but the next useful extension is still one more airline or gaming comparison to test whether the current pattern is mostly a best-operator effect.
+5. Travel and wallet systems are stronger now that Booking, Carnival, Caesars, and MGM join Delta, Hilton, and Marriott, but the next useful extension is still one more airline comparison to test whether the current pattern is mostly a best-operator effect.
 
 ## Highest-priority synthesis extensions
 
 1. Add a structured index or CSV version of this map if the goal is machine-friendly sorting by interface type, sector, or open gap.
 2. Extend the same interface framework into `Financial` to compare consumer routines against payments, card, wealth, and asset-gathering systems.
-3. Add one more retail and one more travel or destination operator before broadening the theory much further.
+3. Add one more retail and one more airline or payments-adjacent travel operator before broadening the theory much further.

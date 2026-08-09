@@ -12,6 +12,7 @@ This memo pulls together the current Services packets that are most useful for u
 - [Booking Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/transportation-services/booking-holdings/company-packet.md)
 - [Carnival Corporation & plc](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/general-entertainment/carnival-corporation-plc/company-packet.md)
 - [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
+- [MGM Resorts International](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md)
 
 ## Executive read
 
@@ -27,6 +28,7 @@ Each company does that differently:
 - `Booking` turns trip planning and booking into a marketplace, merchant-payments, app-engagement, and cross-vertical travel orchestration system.
 - `Carnival` turns a prepaid vacation into a bundled destination, onboard-spend, and deposit-float system.
 - `Caesars` turns resort visits and digital wagering into one rewards and wallet-linked customer loop.
+- `MGM` turns destination demand into a diversified resort, regional gaming, Macau, and digital-extension system with several monetization surfaces rather than one pure wallet mechanic.
 
 So the stronger reading is that travel and entertainment are increasingly relationship businesses with trips attached, not just trip businesses with marketing attached.
 
@@ -42,6 +44,7 @@ The filings are unusually explicit.
 - `Booking` is not a status currency in the Delta sense, but it is explicit that the strategic stack now runs through direct mix, mobile app engagement, Genius participation, Connected Trip transactions, and a widening merchant-payments surface.
 - `Carnival` is less loyalty-explicit than Delta or Caesars, but the packet shows how record deposits, forward-booked occupancy, onboard monetization, and pre-cruise spend can also form a durable customer-value layer.
 - `Caesars` says Caesars Rewards is core to cross-market strategy and is designed to increase both visit frequency and spend across physical and digital channels.
+- `MGM` is less explicit than Caesars about one wallet layer, but the packet shows a meaningful relationship system across MGM Rewards, repeat destination behavior, regional play, Macau exposure, and digital extensions including both MGM Digital and BetMGM adjacency.
 
 That means the archive can now say something more precise: in travel and destination services, loyalty is part of the operating structure itself.
 
@@ -77,6 +80,11 @@ That means the archive can now say something more precise: in travel and destina
 - The company explicitly tied Caesars Rewards, sportsbook, racebook, iGaming, and one universal wallet together.
 - That makes Caesars one of the clearest physical-plus-digital relationship systems in the archive.
 
+`MGM` owns the guest through destination breadth and cross-surface gaming exposure.
+
+- The clearest evidence is that the `2025` through `Q2 2026` materials consistently break the business into Las Vegas Strip Resorts, Regional Operations, MGM China, MGM Digital, and the BetMGM North America venture rather than into one narrow resort story.
+- This is not only a casino operator attached to hotel rooms. It is a destination platform where stays, conventions, premium entertainment, repeat regional play, Macau demand, and digital extensions all matter.
+
 ### 3. The strongest travel models widen the wallet beyond the core trip
 
 All five names show a second economic layer beyond the basic service consumed.
@@ -87,6 +95,7 @@ All five names show a second economic layer beyond the basic service consumed.
 - `Booking`: merchant payments, cross-vertical trip orchestration, direct demand capture, app repeat behavior, and advertising or other ancillary monetization
 - `Carnival`: deposits, onboard spend, pre-cruise sales, exclusive destinations, and pricing power across a bundled vacation product
 - `Caesars`: digital wagering, universal wallet usage, cross-market rewards engagement
+- `MGM`: digital gaming exposure, diversified resort demand, Macau earnings, regional repeat play, and convention or luxury-driven destination monetization
 
 The common point is that the best travel and destination businesses are trying to make the customer more valuable between trips, around the trip, or across multiple kinds of spend.
 
@@ -113,6 +122,7 @@ The cultural reading is strong here.
 - `Booking` shows that trip planning itself has become a habit surface where convenience, perceived breadth, repeat app use, and smoother multi-step travel management matter culturally as well as financially.
 - `Carnival` shows that the vacation product itself can become a bundled consumer environment where anticipation, prepaid commitment, onboard convenience, and private-destination access matter culturally as well as financially.
 - `Caesars` shows a more explicit wallet-and-tier system where entertainment, wagering, travel, and rewards identity are fused together.
+- `MGM` shows a slightly different cultural layer: destination aspiration, premium Las Vegas positioning, convention gravity, and digital wagering adjacency inside one brand family.
 
 The cultural point is that these companies are monetizing more than movement or nights stayed. They are monetizing belonging, preference, and the desire for a smoother repeat experience.
 
@@ -126,6 +136,7 @@ The cultural point is that these companies are monetizing more than movement or 
 | Travel marketplace and orchestration layer | Booking | planning, search, booking, mobile repeat behavior, direct acquisition, Connected Trip | merchant payments, cross-vertical trip capture, supply density, ancillary and ad revenue, transaction-layer economics |
 | Cruise and destination vacation system | Carnival | prepaid booking, onboard spend, itinerary control, exclusive destinations | deposit float, onboard and pre-cruise monetization, pricing integrity, bundled vacation wallet capture |
 | Gaming and destination wallet system | Caesars | rewards identity across resorts and digital wagering | digital EBITDA, cross-market spend capture, universal wallet continuity |
+| Destination resort and gaming platform | MGM | stays, gaming, conventions, regional repeat play, Macau, and digital extensions | diversified segment mix across Las Vegas, Regional Operations, MGM China, MGM Digital, and BetMGM adjacency |
 
 ## Most important takeaways for the broader project
 
@@ -136,10 +147,11 @@ The cultural point is that these companies are monetizing more than movement or 
 - Booking is the clearest proof in the travel stack that trip planning, booking, and payments orchestration can become a defensible consumer interface with its own merchant and direct-demand economics.
 - Carnival is the clearest proof in the travel stack that a capital-heavy operator can still widen the wallet through deposits, onboard monetization, and destination control rather than only through loyalty points or marketplace reach.
 - Caesars is the clearest proof that physical hospitality and digital wagering can be tied into one rewards and wallet loop.
+- MGM is the clearest proof that a large destination operator can widen the customer relationship through portfolio breadth and digital extensions even without making the entire story about one universal wallet.
 - This cluster is one of the best places in the archive for seeing how consumer behavior, status, software-linked identity, and business-model quality connect.
 
 ## Next best extensions
 
-- Add another airline or gaming operator if the goal is to test whether the current loyalty-and-status and travel-interface conclusions are specific to the strongest brands now that cruise is represented directly.
-- Add a gaming or cruise operator if the goal is to widen the destination-and-wallet comparison.
+- Add another airline operator if the goal is to test whether the current loyalty-and-status and travel-interface conclusions are specific to the strongest brands now that cruise and a second gaming operator are represented directly.
+- Add a payments-linked travel or membership operator if the goal is to widen the destination-and-wallet comparison beyond airlines, hotels, cruise, and gaming.
 - Build a follow-on memo comparing travel loyalty systems against restaurant and retail routine systems so the broader archive has one cross-category map of recurring consumer interfaces.

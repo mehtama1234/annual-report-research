@@ -12,6 +12,10 @@ This memo extends the recurring-consumer-interface framework beyond `Services` b
 
 It is based on the current `2025` annual reports plus late-`2025` and `2026` quarterlies already packetized in the archive.
 
+Operational index:
+
+- [Consumer Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/consumer-interface-research-index-2026-08-09.md)
+
 ## Executive read
 
 The broader archive now supports a stronger claim than sector-by-sector summaries alone.

@@ -18,6 +18,7 @@ Related cross-sector memo:
 Important classification note:
 
 - [Best Buy Co., Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/electronics-stores/best-buy-co-inc/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Services / Electronics Stores` because that is how AnnualReports classifies it. It should therefore be read as an adjacent counterexample rather than counted inside the formal Retail coverage base.
+- [Target Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/target-corp/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Services / Discount, Variety Stores` because that is how AnnualReports classifies it. It should therefore be read as adjacent mass-retail evidence rather than counted inside the formal Retail coverage base.
 
 ## Executive read
 

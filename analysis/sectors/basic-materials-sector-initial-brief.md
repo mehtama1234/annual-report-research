@@ -12,6 +12,7 @@ Scope of this brief:
 - Alcoa Corporation
 - Reliance, Inc.
 - West Fraser Timber Co. Ltd.
+- Clearwater Paper Corp
 
 Collection window:
 
@@ -22,18 +23,18 @@ Collection window:
 
 - Sector: Basic Materials
 - AnnualReports.com sector label: Basic Materials
-- Covered industries: Major Integrated Oil & Gas; Copper; Steel & Iron; Agricultural Chemicals; Chemicals - Major Diversified; Aluminum; Lumber, Wood Production
-- Covered companies: Exxon Mobil; Freeport-McMoRan; Nucor; Nutrien; Dow; Alcoa; Reliance; West Fraser
+- Covered industries: Major Integrated Oil & Gas; Copper; Steel & Iron; Agricultural Chemicals; Chemicals - Major Diversified; Aluminum; Lumber, Wood Production; Paper & Paper Products
+- Covered companies: Exxon Mobil; Freeport-McMoRan; Nucor; Nutrien; Dow; Alcoa; Reliance; West Fraser; Clearwater
 
 ## Current collection status
 
-This is now an active starter sector inside the archive. The eight-name starter set is now packetized at the company level and the first sector synthesis memo now exists.
+This is now an active starter sector inside the archive. The nine-name starter set is now packetized at the company level and the first sector synthesis memo now exists.
 
 What is already done:
 
 - the `2025` annual filing is saved locally for each starter name
 - the latest three reported quarters in scope are saved locally for each starter name
-- company profiles, company packets, and source ledgers now exist for all eight starter names
+- company profiles, company packets, and source ledgers now exist for all nine starter names
 - the local archive now includes direct annual-report IR artifacts for `Freeport-McMoRan`, `Nucor`, `Nutrien`, `Dow`, and `Alcoa`, while `Exxon` remains annual-materials complete through filing and IR-page evidence
 
 What is not done yet:
@@ -59,6 +60,7 @@ The roles are intentionally different:
 - `Alcoa` gives the bauxite, alumina, smelting, restart, and tariff-sensitive aluminum layer.
 - `Reliance` gives the metals service-center, downstream processing, quick-turn logistics, and industrial-distribution layer.
 - `West Fraser` gives the lumber, wood-products, housing-inputs, repair-and-remodel, and renewable-building-materials layer.
+- `Clearwater` gives the paperboard, fiber-packaging, and everyday-packaged-goods layer through SBS operating rates, packaging demand, pricing pressure, and cost-reduction execution.
 
 That is enough to start reading the sector as a set of linked input systems rather than as one commodity price trade.
 
@@ -76,6 +78,7 @@ The more useful frame will probably be:
 - aluminum as the power-intensive conversion metal between mined inputs and downstream fabrication
 - metals service-center density as the downstream logistics and processing layer between mills and real end-market demand
 - wood products as the housing, shelter, and renewable-building-materials layer between forests and real construction demand
+- paperboard as the fiber-packaging and consumer-goods-materials layer between forestry-derived inputs and everyday packaged products
 
 That would make Basic Materials one of the clearest places where:
 
@@ -101,6 +104,7 @@ As of `2026-08-09`, AnnualReports.com browse pages are still useful for discover
 6. Alcoa
 7. Reliance
 8. West Fraser
+9. Clearwater
 
 That order is intentional:
 
@@ -111,3 +115,4 @@ That order is intentional:
 - Alcoa now adds the aluminum layer through bauxite alumina smelting energy intensity restart execution tariff pass-through and acquisition-supported upstream scale
 - Reliance now adds the metal-service-center layer through small-order distribution value-added processing rapid fulfillment market-share gains pricing pass-through and project-linked industrial demand
 - West Fraser now adds the lumber and engineered-wood layer through housing affordability repair-and-remodel demand tariffs mill high-grading U.S. South capacity shift OSB pulp and renewable-building-materials exposure
+- Clearwater now adds the paperboard and packaging layer through SBS oversupply operating-rate pressure volume-versus-price tension fixed-cost reduction and the direct link between basic materials and everyday packaged goods

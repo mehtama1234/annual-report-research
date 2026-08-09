@@ -15,6 +15,7 @@ It is based on the current `2025` annual reports plus late-`2025` and `2026` qua
 Operational index:
 
 - [Consumer Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/consumer-interface-research-index-2026-08-09.md)
+- [Recurring Behavior Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/recurring-behavior-crosswalk-2026-08-09.md)
 
 ## Executive read
 

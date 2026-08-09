@@ -7,6 +7,7 @@ Date baseline: 2026-08-09
 This memo pulls together the current Services packets that are most useful for understanding how travel, lodging, gaming, and destination demand are being monetized through loyalty, status, partner ecosystems, and wallet-like customer relationships:
 
 - [Delta Air Lines, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
+- [United Airlines Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/united-airlines-holdings-inc/company-packet.md)
 - [Hilton Worldwide Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
 - [Marriott International, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/marriott-international-inc/company-packet.md)
 - [Booking Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/transportation-services/booking-holdings/company-packet.md)
@@ -23,6 +24,7 @@ What matters is that these companies are not only selling flights, hotel stays, 
 Each company does that differently:
 
 - `Delta` turns the passenger relationship into a miles, co-brand, partner, and premium-revenue system.
+- `United` turns the passenger relationship into a premium-network, operational-reliability, connectivity, and brand-loyal-customer system.
 - `Hilton` turns branded stay behavior into a global fee and pipeline compounder built on repeat travel, owner demand, and loyalty-linked distribution.
 - `Marriott` turns branded stay behavior into a larger-scale global distribution, loyalty, meetings, and co-brand system with unusually explicit Bonvoy concentration.
 - `Booking` turns trip planning and booking into a marketplace, merchant-payments, app-engagement, and cross-vertical travel orchestration system.
@@ -39,6 +41,7 @@ So the stronger reading is that travel and entertainment are increasingly relati
 The filings are unusually explicit.
 
 - `Delta` says SkyMiles is designed to deepen customer engagement through a growing partner ecosystem and deliver high-margin, resilient cash flows.
+- `United` is less explicit than Delta about one giant partner-funded loyalty engine, but it repeatedly says it is winning "brand-loyal customers" through product, reliability, premium cabins, digital tools, and connectivity investments while loyalty revenue still grew in both `Q1 2026` and `Q2 2026`.
 - `Hilton` is less dramatic in disclosure language, but the packet shows loyalty-linked travel demand, branded booking preference, and owner willingness to sign more Hilton flags across a growing global room base.
 - `Marriott` goes further than Hilton in explicit loyalty concentration, stating that in `2025` about `75%` of U.S. room nights and `68%` of global room nights were booked by loyalty members, while co-branded cards remained a significant funding source for the program.
 - `Booking` is not a status currency in the Delta sense, but it is explicit that the strategic stack now runs through direct mix, mobile app engagement, Genius participation, Connected Trip transactions, and a widening merchant-payments surface.
@@ -54,6 +57,11 @@ That means the archive can now say something more precise: in travel and destina
 
 - The clearest evidence is the scale of the partner economics: American Express remuneration reached `$8.2B` in `2025`.
 - This is not only a card program attached to an airline. It is a partner-funded revenue engine that supports brand preference and premium mix.
+
+`United` owns the traveler through premium-network breadth, reliability, digital utility, and onboard product improvement.
+
+- The clearest evidence is the quarter trail around premium revenue growth, loyalty revenue growth, record or near-record customer satisfaction, Starlink rollout, and management's willingness to moderate capacity rather than dilute revenue quality when fuel costs rise.
+- This is not the same as Delta's miles-economics disclosure. It is a different airline relationship model where operational trust and product design are doing more of the visible work.
 
 `Hilton` owns the guest through brand-system trust and repeat stay behavior.
 
@@ -87,9 +95,10 @@ That means the archive can now say something more precise: in travel and destina
 
 ### 3. The strongest travel models widen the wallet beyond the core trip
 
-All five names show a second economic layer beyond the basic service consumed.
+All eight companies show a second economic layer beyond the basic service consumed.
 
 - `Delta`: co-brand spend, sold miles, partner ecosystem monetization, premium revenue
+- `United`: premium mix, loyalty revenue, business demand, connectivity-led product differentiation, and international-network yield recovery
 - `Hilton`: fee streams, owner signings, pipeline growth, brand-system scale
 - `Marriott`: co-branded card fees, loyalty-funded distribution, meetings and branded-stay scale, owner signings
 - `Booking`: merchant payments, cross-vertical trip orchestration, direct demand capture, app repeat behavior, and advertising or other ancillary monetization
@@ -104,6 +113,7 @@ The common point is that the best travel and destination businesses are trying t
 The archive now supports a more segmented read on experience demand.
 
 - `Delta` shows premium travel and loyalty-linked spend still supporting the airline even in a tougher operating backdrop.
+- `United` shows that a second airline can also widen the relationship, but through a different mix: revenue discipline, network breadth, operational reliability, app utility, premium segmentation, and connectivity investment rather than a filing-dominant co-brand cash engine.
 - `Hilton` shows travel and meetings demand converting into RevPAR, signings, room growth, and capital returns inside an asset-light model.
 - `Marriott` shows that branded stay demand, meetings exposure, loyalty concentration, and co-brand economics can all remain constructive even while Middle East disruption dents international RevPAR.
 - `Booking` shows that the marketplace and distribution layer can keep growing through merchant expansion, direct behavior, and room-night scale even while geopolitical disruption changes corridor-level demand and hurts some long-haul travel patterns.
@@ -117,6 +127,7 @@ So this is not one generic leisure story. It is several distinct relationship sy
 The cultural reading is strong here.
 
 - `Delta` shows that airline status, premium access, and co-brand earning create a prestige and habit loop beyond transportation alone.
+- `United` shows that reliability, premium cabins, app-led convenience, and always-on connectivity can also become part of the cultural value proposition, not just the transport utility.
 - `Hilton` shows that branded stays and repeat travel are partly about trust, familiarity, and status-coded consumption as well as room demand.
 - `Marriott` shows that repeated branded stays, program membership, and co-brand participation are part status system, part convenience system, and part distribution advantage.
 - `Booking` shows that trip planning itself has become a habit surface where convenience, perceived breadth, repeat app use, and smoother multi-step travel management matter culturally as well as financially.
@@ -131,6 +142,7 @@ The cultural point is that these companies are monetizing more than movement or 
 | Model | Company | Primary relationship surface | Attached monetization layer |
 |---|---|---|---|
 | Airline loyalty currency | Delta | miles, status, co-brand spend, premium traveler identity | partner remuneration, sold miles, premium mix, diversified revenue |
+| Premium-network airline relationship system | United | reliability, premium cabins, digital self-service, connectivity, network breadth | premium mix, loyalty revenue, business demand, higher unit revenue, and better yield recovery |
 | Asset-light branded stay network | Hilton | repeat branded lodging and travel trust | fees, RevPAR-linked growth, pipeline expansion, owner signings |
 | Loyalty-heavy branded stay network | Marriott | Marriott Bonvoy concentration, branded booking preference, meetings and stay trust | co-branded card fees, loyalty-funded distribution, fees, pipeline expansion, owner signings |
 | Travel marketplace and orchestration layer | Booking | planning, search, booking, mobile repeat behavior, direct acquisition, Connected Trip | merchant payments, cross-vertical trip capture, supply density, ancillary and ad revenue, transaction-layer economics |
@@ -142,6 +154,7 @@ The cultural point is that these companies are monetizing more than movement or 
 
 - The archive now supports a stronger travel-and-experience conclusion: the better operators are not just filling seats, rooms, or casinos; they are widening the customer relationship around those core transactions.
 - Delta is the clearest proof that a loyalty currency can become a major partner and payments business.
+- United is the clearest proof in the airline set that the same widening can also happen through premium product, reliability, connectivity, and brand-loyal-customer behavior even when the filings are less explicit about one giant partner-currency engine.
 - Hilton is the cleanest proof that repeat travel trust and brand-system scale can drive fee compounding without heavy asset ownership.
 - Marriott is the strongest proof in the lodging set that loyalty concentration and co-brand economics can materially widen the economics of a stay network.
 - Booking is the clearest proof in the travel stack that trip planning, booking, and payments orchestration can become a defensible consumer interface with its own merchant and direct-demand economics.
@@ -152,6 +165,6 @@ The cultural point is that these companies are monetizing more than movement or 
 
 ## Next best extensions
 
-- Add another airline operator if the goal is to test whether the current loyalty-and-status and travel-interface conclusions are specific to the strongest brands now that cruise and a second gaming operator are represented directly.
+- The airline comparison is materially stronger now that United sits beside Delta, so the next airline move should be either a weaker carrier or one with a different model rather than a basic second check.
 - Add a payments-linked travel or membership operator if the goal is to widen the destination-and-wallet comparison beyond airlines, hotels, cruise, and gaming.
 - Build a follow-on memo comparing travel loyalty systems against restaurant and retail routine systems so the broader archive has one cross-category map of recurring consumer interfaces.

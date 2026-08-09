@@ -21,6 +21,7 @@ This synthesis is based on the completed Services packets currently in the archi
   - [Delta Air Lines, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
   - [United Airlines Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/united-airlines-holdings-inc/company-packet.md)
   - [Southwest Airlines Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/regional-airlines/southwest-airlines-co/company-packet.md)
+  - [Sun Country Airlines Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/air-delivery-freight-services/sun-country-airlines-holdings-inc/company-packet.md)
   - [MGM Resorts International](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md)
 - Restaurants and routine consumer systems:
   - [Starbucks Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/starbucks-corporation/company-packet.md)
@@ -82,7 +83,7 @@ The newer packet base makes this much more obvious.
 - `Ross` shows the traffic-resilient value winner in the same broad consumer lane, where off-price sourcing, in-store discovery, and compelling branded bargains can still produce very strong sales and earnings growth without a classic membership or loyalty engine.
 - `Caesars` shows loyalty and wallet design connecting physical gaming, digital wagering, and cross-property entertainment spend.
 - `MGM` shows a broader destination-and-gaming relationship platform where Las Vegas, regional gaming, Macau, and digital extensions reinforce each other without collapsing into one single wallet story.
-- `Hilton`, `Delta`, `United`, and `Southwest` now show four different travel-relationship patterns operating as economic infrastructure rather than as marketing decoration.
+- `Hilton`, `Delta`, `United`, `Southwest`, and `Sun Country` now show five different travel and air-transport relationship patterns operating as economic infrastructure rather than as marketing decoration.
 
 That means an important part of Services is no longer best read as “transactions.” It is recurring relationship control.
 
@@ -96,10 +97,13 @@ The archive now has a better experience-economy stack than it did before.
 - `Delta` shows travel demand through premium mix, loyalty economics, and branded network relevance.
 - `United` shows a more premium-network and operationally driven airline relationship model.
 - `Southwest` shows a lower-friction domestic airline trying to widen the economics of the trip through segmentation, managed-business demand, and Rapid Rewards engagement.
+- `Sun Country` shows a thinner traveler-facing relationship model where the core advantage is flexible aircraft deployment across scheduled service, charter, and Amazon cargo rather than a thick loyalty or premium-status layer.
 - `Caesars` adds another physical-experience case where entertainment, loyalty, and digital extension reinforce one another.
 - `MGM` adds a second gaming and destination platform where the relationship is broadened through resort breadth, repeat-play exposure, conventions, Macau, and digital adjacency.
 
 The sector implication is that in-person demand remains healthy when it offers access, status, identity, or scarcity. This is not a generic discretionary boom. It is a selective experience-and-membership pattern.
+
+`Sun Country` is the main counterweight inside that same lane. It still serves leisure travelers and charter customers, but the packet shows that a meaningful part of the economics can come from capacity allocation and outsourced cargo flying rather than from status, wallet depth, or premium demand. That gives the Services set a better travel contrast and a cleaner way to see where the relationship layer is truly thick versus thin.
 
 ### 2A. Services also contains a housing-maintenance and pro-trade layer
 

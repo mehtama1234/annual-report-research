@@ -23,19 +23,17 @@ Collection window:
 
 ## Current collection status
 
-This is now an active starter sector inside the archive, but it is not yet at the same extraction depth as Technology, Financial, Healthcare, Industrial Goods, Consumer Goods, Services, or Real Estate.
+This is now an active starter sector inside the archive. The four-name starter set is now packetized at the company level, but the sector still needs a finished synthesis memo.
 
 What is already done:
 
-- the `2025` annual SEC filing is saved locally for each starter name
-- the latest three reported quarters in scope are saved locally through SEC filings or foreign-issuer `6-K` results
-- folder structure now exists under `raw/sec/basic-materials/`
+- the `2025` annual filing is saved locally for each starter name
+- the latest three reported quarters in scope are saved locally for each starter name
+- company profiles, company packets, and source ledgers now exist for all four starter names
+- the local archive now includes direct annual-report IR artifacts for `Freeport-McMoRan`, `Nucor`, and `Nutrien`, while `Exxon` remains annual-materials complete through filing and IR-page evidence
 
 What is not done yet:
 
-- company profiles
-- company packets
-- source ledgers
 - a finished sector synthesis memo
 
 ## Why this first tranche makes sense
@@ -92,4 +90,4 @@ That order is intentional:
 
 - Exxon and Freeport are the clearest links to energy, metals, electrification, and infrastructure
 - Nucor then widens the read into domestic industrial and construction throughput
-- Nutrien then adds the agricultural-input and farm-economics layer
+- Nutrien now adds the agricultural-input and farm-economics layer through potash, nitrogen, phosphate, retail agronomy, and farmer-input demand

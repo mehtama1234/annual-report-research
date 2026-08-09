@@ -37,6 +37,10 @@ This synthesis is based on the completed Services packets currently in the archi
 
 The source window is the `2025` annual report plus each company’s last three reported quarters in scope as of `2026-08-09`.
 
+Related focused memo:
+
+- [Value Retail and Consumer Routines](/home/manishmehta/ui-projects/annual-report-research/extracted/services/themes/value-retail-and-consumer-routines-2026-08-09.md)
+
 ## Executive read
 
 The completed Services set now supports a much clearer sector conclusion than the earlier brief did: `Services` is not one coherent demand bucket. It is a wide operating layer that now splits into four economically different groups:

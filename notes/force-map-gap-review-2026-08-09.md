@@ -11,13 +11,9 @@ This note compares:
 
 ## Current result
 
-Mapped force slugs: `19`
+Mapped force slugs: `20`
 
-Unmapped force slugs: `1`
-
-Unmapped list:
-
-1. `the-immigration-squeeze`
+Unmapped force slugs: `0`
 
 ## Why these remain open
 
@@ -32,53 +28,27 @@ The current annual-report archive is strong in:
 
 It is weaker in:
 
-- immigration- and labor-bottleneck operators
-- additional age-linked and immigration-sensitive bottleneck operators
+- additional direct agriculture, food-processing, and homebuilding labor-bottleneck operators
+- broader immigration-sensitive coverage outside the current BrightView anchor
 
 Recently closed:
 
 - `the-labor-squeeze` is now mapped through Comfort Systems USA, with ABM, HCA, and Cintas as supporting evidence.
 - `the-graying-market` is now mapped through Brookdale Senior Living, with UnitedHealth, HCA, and Abbott as supporting evidence.
+- `the-immigration-squeeze` is now mapped through BrightView Holdings, with adjacent labor-heavy operators such as ABM, Waste Management, and UPS serving as weaker secondary context rather than primary anchors.
 
-So the remaining force gaps are mostly not tagging failures. They are exposure gaps.
+So the force-map bridge is now fully covered at the slug level.
 
-## Best next anchors by uncovered force
+## What remains to improve
 
-### 1. `the-immigration-squeeze`
+The remaining work is no longer to close a missing slug. It is to widen confidence and breadth:
 
-Current archive companies with partial relevance:
-
-- ABM
-- HCA Healthcare
-- Rollins
-- Waste Management
-- UPS
-
-Why they are only partial:
-
-- These companies are labor-intensive and exposed to wage, turnover, and field-service staffing pressure.
-- They do not directly express farm-labor, food-processing, construction-labor, or immigration-policy dependence as the center of the story.
-
-Best new anchor candidates:
-
-- Tyson Foods
-- Lennar
-- D.R. Horton
-- BrightView
-- United Rentals
-
-Priority: medium-high if labor-policy and immigration exposure are meant to be a named cross-sector theme.
-
-## Practical ranking
-
-If the goal is to improve the bridge fastest, the best next collection priorities are:
-
-1. `the-immigration-squeeze`
+- add more direct immigration-sensitive operators beyond BrightView
+- add more direct age-linked operators beyond Brookdale
+- deepen transcript and IR coverage where the filing chain is strong but management-tone coverage is still thin
 
 ## Recommendation
 
-Do not force the one remaining slug into `force-map.csv` yet with weak evidence.
+Keep the force-map itself high-confidence and complete.
 
-Use the current file for high-confidence mappings only, and treat this note as the queue for the next company-selection pass.
-
-That keeps the bridge index credible while making the remaining thematic gaps explicit.
+Use future collection passes to improve depth around already mapped forces rather than to patch missing slugs.

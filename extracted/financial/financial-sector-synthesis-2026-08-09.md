@@ -32,6 +32,10 @@ This synthesis is based on the completed financial packets currently in the arch
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-09`: `Q4 2025`, `Q1 2026`, and `Q2 2026`.
 
+Related focused memo:
+
+- [Financial Interface Framework](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/themes/financial-interface-framework-2026-08-09.md)
+
 ## Executive read
 
 The financial archive now supports a direct conclusion: `Financial` is not one interest-rate trade and not one credit-cycle trade. It is a layered sector with distinct earnings engines:

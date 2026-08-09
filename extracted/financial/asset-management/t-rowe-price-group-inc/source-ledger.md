@@ -22,7 +22,7 @@ Date baseline: 2026-08-09
 - AnnualReports still lagged at `2024` on `2026-08-09`, so the official T. Rowe Price IR annual-reports page is the source of truth for the current `2025` annual-report URL.
 - The official IR annual-report and transcript URLs were verified and logged, but several `static-files` binary assets did not download cleanly through local machine fetches during this pass.
 - Follow-up IPv4-only fetch tests on `2026-08-09` still failed after connection establishment: `wget --spider` timed out waiting for response headers and `curl -I --http1.1` hung without headers or payload.
-- A local Playwright / Chromium browser pass on `2026-08-09` also hit `403 Access Denied` on both the annual-reports page and the direct annual-report asset URL, which confirms the remaining gap is an edge-denial problem from this machine rather than a missing source URL.
+- An earlier local Playwright / Chromium browser pass on `2026-08-09` hit `403 Access Denied` on both the annual-reports page and the direct annual-report asset URL, and a later fully working local Playwright Chromium runtime still did not produce a usable download event or PDF binary from the direct static-file URL. Together those checks confirm the remaining gap is a machine-local delivery failure rather than a missing source URL. See [browser-runtime-annual-report-attempt-2026-08-09.md](/home/manishmehta/ui-projects/annual-report-research/notes/browser-runtime-annual-report-attempt-2026-08-09.md).
 - The one directly saved IR binary artifact in this pass is the `2Q26` earnings release PDF.
 
 ## Missing evidence

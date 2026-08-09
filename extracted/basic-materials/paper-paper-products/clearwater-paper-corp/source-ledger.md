@@ -36,6 +36,7 @@ Use evidence tags:
 - The correct trailing-quarter set as of `2026-08-09` is `Q2 2026`, `Q1 2026`, and `Q4 2025`.
 - AnnualReports remains useful for sector and industry taxonomy and for confirming that the site labeled a `2025` annual report and Form `10-K`, but the local annual anchor for Clearwater is the clean SEC `10-K`, not the AnnualReports-hosted PDF artifact.
 - Clearwater IR did confirm the existence of a current annual-reports page and the proxy statement explicitly states that the `2025` Annual Report to Stockholders was made available with the proxy package, but a separate clean annual-report PDF was not directly recovered during this pass.
+- A later local Playwright Chromium runtime attempt on `2026-08-09` materially strengthened the blocker evidence: even with a working local browser runtime, the live AnnualReports click path for Clearwater's `2025` annual report still failed from this machine with `net::ERR_CONNECTION_REFUSED`. See [browser-runtime-annual-report-attempt-2026-08-09.md](/home/manishmehta/ui-projects/annual-report-research/notes/browser-runtime-annual-report-attempt-2026-08-09.md).
 - The quarterly evidence chain is strong: each in-scope quarter now has an official earnings-release PDF, official supplemental presentation PDF, and the related SEC filing chain saved locally.
 
 ## Missing evidence

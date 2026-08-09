@@ -22,7 +22,7 @@ Date baseline: 2026-08-09
 ## Reconciliation notes
 
 - Caesars now has the core SEC filing chain on disk for the fiscal `2025` annual filing and the last three quarters in scope.
-- The local packet does not yet include the official annual report PDF even though the current live Caesars IR page exposes a real `195` page PDF object, because machine-local shell clients still fail after connect against that object from this environment.
+- The local packet does not yet include the official annual report PDF even though the current live Caesars IR page exposes a real `195` page PDF object, because machine-local shell clients still fail after connect against that object from this environment and a later working local Playwright Chromium runtime still returned HTTP `403` `Access Denied` from the same official static-file URL. See [browser-runtime-annual-report-attempt-2026-08-09.md](/home/manishmehta/ui-projects/annual-report-research/notes/browser-runtime-annual-report-attempt-2026-08-09.md).
 - That gap does not materially weaken the annual evidence chain because the local SEC `10-K` is already on disk and contains the loyalty, digital-wallet, and segment disclosures needed for the current packet.
 - AnnualReports.com is useful for discovery and classification, but its current Caesars click-through path is not reliable enough to anchor the annual artifact for this packet.
 

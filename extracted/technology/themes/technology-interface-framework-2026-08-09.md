@@ -10,7 +10,7 @@ This memo turns the completed `Technology` packet set into an interface-based fr
 - [Technology Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/technology-interface-research-index-2026-08-09.md)
 - hyperscale and platform software: Microsoft, Alphabet, ServiceNow, Adobe
 - consumer and ecosystem platforms: Apple, Meta, Spotify, Snap
-- infrastructure, networking, security, and systems: NVIDIA, Cisco, Arista, Palo Alto Networks, Dell, HP, Intel
+- infrastructure, networking, security, and systems: NVIDIA, Cisco, Arista, Palo Alto Networks, Dell, HP, Intel, Micron
 - implementation layer: Accenture
 
 ## Executive read
@@ -42,6 +42,7 @@ Examples:
 - `Adobe` sits inside recurring creative and document workflow.
 - `Palo Alto` sits inside enterprise trust, platformized security, identity, and observability.
 - `Cisco`, `Arista`, and `Dell` sit inside network and datacenter architecture decisions tied to AI buildout.
+- `Micron` sits inside the memory-bandwidth, storage-density, and supply-assurance layer that AI systems increasingly depend on.
 - `Apple`, `Meta`, and `Spotify` sit inside recurring consumer-attention, identity, and platform-usage loops.
 - `NVIDIA` sits inside full-stack AI infrastructure dependence rather than only chip unit demand.
 - `Accenture` sits inside enterprise reinvention and implementation demand once the tool and infrastructure decisions are already in motion.
@@ -140,7 +141,7 @@ That makes the technology story less about a clean vendor hierarchy and more abo
 | Enterprise workflow and control interface | ServiceNow, Adobe | recurring enterprise workflow and document or process dependence | subscription revenue, RPO, AI features, workflow expansion, cash conversion |
 | Security and trust interface | Palo Alto, Cisco, Arista | recurring security, observability, network-control, and trust dependence | platformization, support, subscriptions, cross-sell, control-plane expansion |
 | Consumer ecosystem and attention interface | Apple, Meta, Spotify, Snap | recurring device usage, identity, listening, sharing, or viewing habit | services, ads, subscriptions, creator and platform monetization |
-| AI infrastructure and systems interface | NVIDIA, Dell, HP, Intel | recurring capacity buildout and enterprise architecture dependence | chips, systems, networking, storage, support, datacenter economics |
+| AI infrastructure and systems interface | NVIDIA, Dell, HP, Intel, Micron | recurring capacity buildout and enterprise architecture dependence | chips, systems, networking, storage, support, datacenter economics |
 | Implementation and reinvention interface | Accenture | recurring enterprise redesign, deployment, and managed-change demand | bookings, managed services, consulting, AI implementation breadth |
 
 ## Most important takeaways for the broader project
@@ -155,4 +156,4 @@ That makes the technology story less about a clean vendor hierarchy and more abo
 
 - Add a technology interface index in markdown and CSV, parallel to the consumer and financial indexes.
 - Extend the recurring-behavior crosswalk to include technology-side interface types explicitly.
-- Add one more consumer-internet platform or one more memory or infrastructure name if the goal is to pressure-test the current attention and infrastructure buckets.
+- Add one more consumer-internet platform or one more power, cooling, or analog infrastructure name if the goal is to pressure-test the current attention and infrastructure buckets.

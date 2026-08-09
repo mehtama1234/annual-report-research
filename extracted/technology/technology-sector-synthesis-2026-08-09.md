@@ -21,6 +21,7 @@ This synthesis is based on the completed technology packets currently in the arc
 - Semiconductors:
   - [NVIDIA Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-specialized/nvidia-corporation/company-packet.md)
   - [Intel Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-broad-line/intel-corporation/company-packet.md)
+  - [Micron Technology, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-memory-chips/micron-technology-inc/company-packet.md)
 - Systems and services layer:
   - [Dell Technologies Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/dell-technologies-inc/company-packet.md)
   - [HP Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/computer-hardware/hp-inc/company-packet.md)
@@ -54,6 +55,7 @@ The packet set already divides into different roles:
 - `NVIDIA` is the clearest picks-and-shovels infrastructure winner.
 - `ServiceNow`, `Adobe`, and `Palo Alto Networks` occupy higher-value enterprise workflow, document, governance, and security layers.
 - `Cisco`, `Arista`, and `Dell` show that AI demand is diffusing into network, storage, and datacenter systems architecture rather than stopping at chips and cloud.
+- `Micron` closes the memory and storage layer of that same buildout, tying HBM, server-memory density, and data-center SSD demand directly to AI infrastructure.
 - `Apple` remains a premium ecosystem and installed-base monetization story, not the cleanest AI monetization story in the set.
 - `Snap` is a much weaker-moat consumer platform despite sharing a broad internet label with Alphabet.
 - `Intel` is the main stressed incumbent and turnaround case, showing that AI demand does not lift all semiconductor names equally.
@@ -66,6 +68,7 @@ This means the right question is not “which tech companies have AI?” The bet
 This is one of the strongest patterns in the archive.
 
 - `NVIDIA` describes AI as infrastructure and datacenters as AI factories.
+- `Micron` shows the same buildout from the memory side, with HBM, LP server DRAM, and SSD demand ramping into a supply-constrained environment and new multi-year customer contracting.
 - `Microsoft` links its moat directly to datacenter capacity, Azure scale, and booked enterprise AI demand.
 - `Alphabet` shows the same through huge capex, Cloud backlog, TPUs, and full-stack model deployment.
 - `Cisco`, `Arista`, and `Dell` confirm that spending is spreading into network and datacenter architecture layers.
@@ -116,7 +119,7 @@ The sector implication is that AI adoption is not only creating demand for compu
 
 The contrast set matters:
 
-- `NVIDIA`, `Microsoft`, `Alphabet`, `Palo Alto`, and `Arista` are the clearest structural winners.
+- `NVIDIA`, `Microsoft`, `Alphabet`, `Palo Alto`, `Arista`, and `Micron` are the clearest structural winners.
 - `ServiceNow`, `Adobe`, and `Cisco` show high-quality secondary layers.
 - `Apple` remains very strong, but through ecosystem and monetization strength rather than the same direct AI infrastructure economics.
 - `Intel` is the clearest stressed incumbent, where capital intensity, execution risk, and foundry ambition complicate the story.
@@ -130,7 +133,7 @@ This is important because headline sector strength can hide a much wider spread 
 | Role | Companies | What they reveal |
 |---|---|---|
 | Hyperscale AI platforms | Microsoft, Alphabet | cloud scale, model distribution, enterprise AI monetization, huge capex and backlog |
-| AI infrastructure and semis | NVIDIA, Intel | dominant AI compute and networking economics versus stressed incumbent turnaround and foundry execution risk |
+| AI infrastructure and semis | NVIDIA, Micron, Intel | dominant AI compute economics, the memory-and-storage bottleneck layer, and a stressed incumbent turnaround contrast |
 | Enterprise workflow and security control | ServiceNow, Adobe, Palo Alto | orchestration, document workflow, AI governance, platformization, enterprise trust |
 | Network and systems layer | Cisco, Arista, Dell, HP | AI spending diffusion into networking, AI fabrics, enterprise infrastructure, servers, and more cyclical endpoint hardware |
 | Consumer ecosystem and attention platforms | Apple, Snap | premium installed-base monetization versus lower-quality ad-dependent consumer-platform economics |
@@ -145,6 +148,7 @@ Across the completed technology set, the broader signals are:
 - Enterprises increasingly want integrated vendors that can provide infrastructure, governance, workflow, and security together.
 - Consumer value is concentrating in ecosystems with trusted hardware, services, and identity layers rather than in weaker attention platforms.
 - The spending cycle is spreading from chips and cloud into networking, enterprise control software, security, and implementation services.
+- The memory and storage layer is now clearly part of that same spending cycle rather than a side effect of it.
 
 ## Technology and labor read
 
@@ -191,6 +195,6 @@ The archive will likely be easiest to extend if Technology is grouped into these
 
 ## Next best extensions
 
-- Add another pure infrastructure or memory-linked semiconductor name if the goal is to pressure-test whether `NVIDIA` is too dominant to generalize from.
+- Add another power, cooling, analog, or storage-adjacent infrastructure name if the goal is to broaden the AI buildout read beyond compute, networking, and memory.
 - Add another consumer internet platform if the goal is to sharpen the contrast between strong ecosystem monetization and weaker ad-dependent attention models.
 - Add one more enterprise software control-layer name only if it adds a distinct angle beyond `ServiceNow`, `Adobe`, and `Palo Alto`.

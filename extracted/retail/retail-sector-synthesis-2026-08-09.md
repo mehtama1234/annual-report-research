@@ -11,6 +11,10 @@ This synthesis is based on the completed Retail packets currently in the archive
 
 The source window is the `2025` annual report plus each company’s last three reported quarters in scope as of `2026-08-09`.
 
+Important classification note:
+
+- [Best Buy Co., Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/electronics-stores/best-buy-co-inc/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Services / Electronics Stores` because that is how AnnualReports classifies it. It should therefore be read as an adjacent counterexample rather than counted inside the formal Retail coverage base.
+
 ## Executive read
 
 The current Retail set is still narrow, but it already supports a useful sector conclusion: retail is separating into very different economic models, and the important divide is no longer “stores versus e-commerce.” The better divide is:
@@ -19,6 +23,8 @@ The current Retail set is still narrow, but it already supports a useful sector 
 - brand-led consumer retail where margin quality depends on channel control, product cadence, and direct relationship ownership
 
 `Amazon` is the clearest ecosystem case. `Nike` is the clearest branded-control case. Together they show that the strongest retail operators are trying to own more of the customer relationship, the data layer, and the monetization stack rather than only the unit sale.
+
+Best Buy sharpens the same conclusion from just outside the formal sector boundary: once a retailer lacks Amazon's ecosystem dominance or Nike's brand power, it has to work much harder to create a second layer through services, marketplace activity, advertising, and omnichannel support.
 
 ## What is actually going on
 
@@ -69,6 +75,8 @@ The current two-name set also shows how concentrated strong consumer relationshi
 
 That suggests the sector is rewarding either very deep utility or very strong identity. Middle-ground retail without one of those strengths is likely in a weaker position.
 
+Best Buy reinforces that point. It is large and credible, but its packet reads as a stabilization effort rather than a pure winner story: category demand is uneven, appliances and home theater are soft pockets, and attached-profit initiatives matter precisely because the core electronics sale is not enough on its own.
+
 ## Themes by role
 
 | Role | Companies | What they reveal |
@@ -98,6 +106,7 @@ The right reading is that retail technology matters most where it improves inter
 ## Risks and counterpoints
 
 - the current Retail set is still too narrow to stand in for the whole sector
+- Best Buy's placement under `Services` is a reminder that the archive's taxonomy and the economic reality are not perfectly aligned; some of the most useful retail evidence currently lives outside the formal Retail folder
 - `Amazon` is so structurally advantaged that it can overstate how healthy or scalable the broader retail model really is
 - `Nike` is also not a generic retailer; it is a scaled global brand with unusual pricing and identity power
 - both names may overrepresent the winners and understate what weaker retail formats are facing around traffic, margin pressure, and promotional intensity

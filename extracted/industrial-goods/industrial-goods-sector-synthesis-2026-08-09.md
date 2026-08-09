@@ -18,6 +18,8 @@ This synthesis is based on the completed industrial-goods packets currently in t
 - Utility construction and field execution:
   - [Quanta Services, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/quanta-services-inc/company-packet.md)
   - [MYR Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/myr-group-inc/company-packet.md)
+- Skilled-trades mechanical and electrical field execution:
+  - [Comfort Systems USA, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
 - HVAC, controls, and thermal systems:
   - [Trane Technologies plc](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-equipment-components/trane-technologies-plc/company-packet.md)
 - Aerospace and defense:
@@ -61,6 +63,7 @@ The packet set shows several different industrial models, but the strongest name
 - `Vertiv` is driven by critical digital infrastructure, hyperscale and colocation deployments, power and thermal complexity, and backlog-heavy AI infrastructure demand.
 - `Quanta` is driven by utility construction, transmission and substation work, load-center and mission-critical infrastructure buildout, and the ability to convert record backlog into executed work through craft-skilled field capacity.
 - `MYR` is driven by specialty electrical construction across transmission and distribution plus commercial and industrial work, with direct exposure to substations, emergency restoration, data centers, EV charging, airports, manufacturing, water and waste-water, and other complex electrical environments.
+- `Comfort Systems` is driven by HVAC, electrical contracting, modular and building-services execution, with unusually visible exposure to backlog conversion, burn-rate acceleration, and the practical limits of skilled-trades capacity.
 - `Trane` is driven by commercial HVAC, data-center cooling, controls, services, and building-system backlog.
 - `Caterpillar` is seeing power generation, energy, construction, mining, and installed-base services support.
 - `ABM` shows how the same cycle reaches outsourced technical operations in airports, manufacturing sites, battery systems, semiconductor fabs, and datacenter-related services.
@@ -80,6 +83,7 @@ The industrial evidence set shows that AI demand is already expressing itself th
 - critical digital infrastructure, power systems, and thermal deployment at `Vertiv`
 - utility construction, transmission and substation execution, and craft-skilled infrastructure deployment at `Quanta`
 - specialty electrical construction, transmission and distribution execution, and data-center plus industrial facility wiring and systems work at `MYR`
+- HVAC, electrical, modular, and mechanical systems execution at `Comfort Systems`
 - HVAC, thermal management, and liquid cooling at `Trane`
 - engines, turbines, and power-related infrastructure at `Caterpillar`
 - datacenter-related services and battery-energy-storage support at `ABM`
@@ -102,6 +106,7 @@ Examples:
 - `Vertiv` exited Q4 2025 with backlog at `$15.0B`, book-to-bill around `2.9x`, and then carried that demand into Q1 and Q2 2026 revenue, margin, and cash conversion.
 - `Quanta` moved from year-end `2025` backlog of `$43.98B` and RPO of `$23.76B` to Q1 `2026` backlog of `$48.5B` and RPO of `$26.2B`, then to Q2 `2026` backlog of `$53.4B` and RPO of `$33.6B`, which shows how power and mission-critical demand are landing as executable field work.
 - `MYR` moved from year-end `2025` backlog of `$2.82B` to Q1 `2026` backlog of `$2.84B` and Q2 `2026` backlog of `$3.16B`, while maintaining strong `Commercial and Industrial` exposure and a sharp second-quarter rise in `Transmission and Distribution` backlog.
+- `Comfort Systems` moved from year-end `2025` backlog of `$11.94B` to Q1 `2026` backlog of `$12.45B` and Q2 `2026` backlog of `$14.06B`, making it one of the clearest cases where demand is abundant but execution capacity and labor throughput still matter directly.
 
 This suggests the stronger industrial businesses are being driven by constrained project pipelines and fulfillment capacity, not by fragile spot demand.
 
@@ -133,15 +138,20 @@ This is useful because it broadens the industrial read away from machinery and d
 
 ### 6. Services and labor-heavy execution are part of industrial reality
 
-`ABM` is the best reminder that industrial value is not only embedded in manufactured equipment.
+`Comfort Systems` and `ABM` are the clearest reminders that industrial value is not only embedded in manufactured equipment.
 
-Its packet adds:
+Their packets add:
 
+- direct skilled-trades execution
+- HVAC and electrical contracting
+- modular and offsite systems work
 - airport operations
 - semiconductor-fab support
 - datacenter-related services
 - facility engineering
 - battery-energy-storage and technical environments
+
+`Comfort Systems` is especially useful because it shows a condition that sits underneath many other industrial stories in the archive: demand can be very strong and backlog can be very large, but revenue still has to be turned by enough capable field labor, project supervision, and execution discipline.
 
 This means industrial growth also depends on field labor, contract mix, pricing discipline, local execution, and the ability to operate complex physical systems after they are built.
 
@@ -158,6 +168,7 @@ They are selling systems:
 - `Vertiv`: critical digital infrastructure, power train, thermal stack, and deployment speed
 - `Quanta`: utility construction, power-infrastructure execution, front-end services, fabrication depth, and craft-skilled field capacity
 - `MYR`: specialty electrical construction, transmission and distribution execution, commercial-and-industrial wiring, and project-selective field capacity across utility and large-facility work
+- `Comfort Systems`: skilled-trades execution, HVAC and electrical contracting, modular delivery, and workforce depth as an operating advantage
 - `Trane`: cooling, controls, and service layers
 - `Caterpillar`: engines, power, service network, and installed-base economics
 - `Northrop`: mission systems and production capacity
@@ -171,7 +182,7 @@ That suggests the more durable industrial moats are shifting toward system integ
 |---|---|---|
 | Power and electrical infrastructure | Eaton, Hubbell, nVent, Powell, Quanta, MYR | electrification, grid modernization, transmission and distribution components, utility controls and communications, data-center power demand, electrical architecture, connection and protection systems, liquid cooling, custom switchgear, engineered-to-order power control, utility construction, specialty electrical field execution, and backlog and capacity expansion |
 | Critical digital infrastructure power and thermal | Vertiv | hyperscale and colocation demand, critical power and cooling systems, backlog expansion, deployment complexity, and strong cash conversion |
-| Cooling and building systems | Trane | HVAC, controls, liquid cooling, services, high-visibility commercial backlog |
+| Cooling and building systems | Trane, Comfort Systems | HVAC, controls, liquid cooling, services, building-system demand, modular delivery, skilled-trades execution, and high-visibility commercial backlog |
 | Heavy equipment and energy-linked machinery | Caterpillar | infrastructure, mining, power generation, installed-base service monetization |
 | Defense and deterrence industrial base | Northrop, Honeywell | budget-backed demand, aerospace systems, strategic modernization, production scale |
 | Transport and environmental infrastructure | Union Pacific, Waste Management | regulated or network infrastructure, pricing discipline, throughput, operational leverage |
@@ -188,6 +199,7 @@ Across the completed industrial-goods set, the broader signals are:
 - That value chain now extends further into custom switchgear and electrical-control equipment through `Powell`, which gives a cleaner read on how large-load projects are actually getting power routed and managed.
 - `Quanta` extends the same value chain into the construction and field-services layer, which is where transmission work, substations, load-center infrastructure, and other power projects actually get built, modified, and connected.
 - `MYR` reinforces that same conclusion with a more focused contractor showing how transmission work, substations, data-center wiring, and commercial-and-industrial electrical projects are landing in specialty backlog and field labor demand.
+- `Comfort Systems` adds the broader skilled-trades and building-systems layer, where HVAC, electrical, modular, and service execution depends on labor depth and local operating quality rather than only on demand or equipment availability.
 - The direct winners are not only grid or building names; they also include operators explicitly centered on critical digital infrastructure deployment.
 - Government and regulated spending still matter materially through defense, rail, waste, and infrastructure policy.
 - Industrial value is concentrating in businesses with installed bases, backlog visibility, system depth, and execution capability.
@@ -203,6 +215,7 @@ The clearest links are:
 - `Powell` translating AI and large-load growth into switchgear, behind-the-meter power design, and custom electrical-control demand
 - `Quanta` translating the same load-growth wave into transmission, substation, utility, load-center, and mission-critical infrastructure execution
 - `MYR` translating the same load-growth and electrification wave into specialty electrical construction across utility networks and large-load commercial-and-industrial sites
+- `Comfort Systems` translating the same building and infrastructure intensity into HVAC, electrical, modular, and service deployment that still depends on enough technically capable labor in the field
 - `Caterpillar` linking infrastructure growth to engines, turbines, and energy systems
 - `ABM` showing how datacenter and semiconductor complexity creates demand for outsourced operations
 - `Honeywell` and `Northrop` showing that control systems, aerospace electronics, and automation still matter deeply inside industrial outcomes
@@ -243,6 +256,7 @@ The archive will likely be easiest to extend if Industrial Goods is grouped into
 - custom switchgear and engineered power control
 - utility construction and craft-skilled field execution
 - specialty electrical construction across utility and large-facility projects
+- skilled-trades HVAC and electrical contracting
 - critical digital infrastructure power and thermal
 - cooling and building systems
 - heavy equipment and energy-linked machinery

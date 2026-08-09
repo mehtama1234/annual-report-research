@@ -27,6 +27,10 @@ Two existing projects already cover adjacent work:
 
 This workspace fills the missing middle: a disciplined repository of annual reports, 10-Ks, 10-Qs, earnings releases, and call materials organized by sector, industry, and company.
 
+For the current cross-project fit, see:
+
+- [Annual report stack alignment](/home/manishmehta/ui-projects/annual-report-research/analysis/annual-report-stack-alignment-2026-08-09.md)
+
 ## Folder layout
 
 ```text

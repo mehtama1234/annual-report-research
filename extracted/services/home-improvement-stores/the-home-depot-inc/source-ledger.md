@@ -1,0 +1,35 @@
+# Source Ledger
+
+Date baseline: 2026-08-09
+
+## Sources
+
+| ID | Source | Date | Type | Why it matters | Tag | Local path |
+|---|---|---|---|---|---|---|
+| HD-T1 | AnnualReports.com Home Depot verification note | 2026-08-09 | Aggregator verification note | Confirms sector / industry labeling and that AnnualReports lists the latest package as the `2025 Annual Report and Form 10K` | `[Reported]` | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/home-improvement-stores/the-home-depot-inc/annualreports-verification.md) |
+| HD-T2 | Official IR verification note | 2026-08-09 | Official IR verification note | Confirms the official annual-report, quarterly-earnings, events, and transcript URL chain for the target window | `[Disclosed]` | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/home-improvement-stores/the-home-depot-inc/official-ir-verification.md) |
+| HD-T3 | SEC submissions index | 2026-08-09 collected | SEC submissions JSON | Verifies filer identity, fiscal year-end, and filing sequence | `[Filed]` | [submissions-cik0000354950.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/home-improvement-stores/the-home-depot-inc/submissions-cik0000354950.json) |
+| HD-T4 | 2025 annual report PDF | 2026-08-09 collected | Official annual report PDF | Preserves the shareholder annual report artifact for the fiscal year ended `2026-02-01` | `[Disclosed]` | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/home-improvement-stores/the-home-depot-inc/2025-annual-report.pdf) |
+| HD-T5 | 2025 Form `10-K` | 2026-03-18 filed / 2026-08-09 collected | SEC filing HTML | Annual filing for the year ended `2026-02-01` | `[Filed]` | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/home-improvement-stores/the-home-depot-inc/2025-10k.html) |
+| HD-T6 | Q3 2025 earnings release | 2025-11-18 published / 2026-08-09 collected | Official earnings-release PDF | Preserves the third-quarter narrative around softer storm demand, housing pressure, and the `GMS` contribution | `[Disclosed]` | [2025-q3-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/home-improvement-stores/the-home-depot-inc/2025-q3-earnings-release.pdf) |
+| HD-T7 | Q3 2025 earnings `8-K` | 2025-11-24 filed / 2026-08-09 collected | SEC filing HTML | Filing wrapper for third-quarter fiscal `2025` results | `[Filed]` | [2025-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/home-improvement-stores/the-home-depot-inc/2025-q3-8k.html) |
+| HD-T8 | Q3 2025 Form `10-Q` | 2025-11-25 filed / 2026-08-09 collected | SEC filing HTML | Filed third-quarter report | `[Filed]` | [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/home-improvement-stores/the-home-depot-inc/2025-q3-10q.html) |
+| HD-T9 | Q3 2025 earnings-call transcript | 2026-08-09 collected | Official transcript PDF | Captures management discussion around storms, housing pressure, and `GMS` margin effects | `[Disclosed]` | [2025-q3-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/services/home-improvement-stores/the-home-depot-inc/2025-q3-earnings-call-transcript.pdf) |
+| HD-T10 | Q4 2025 earnings release | 2026-02-24 published / 2026-08-09 collected | Official earnings-release PDF | Preserves fourth-quarter and full-year fiscal `2025` results and guidance | `[Disclosed]` | [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/home-improvement-stores/the-home-depot-inc/2025-q4-earnings-release.pdf) |
+| HD-T11 | Q4 2025 earnings `8-K` | 2026-02-24 filed / 2026-08-09 collected | SEC filing HTML | Filing wrapper for fourth-quarter and full-year fiscal `2025` results | `[Filed]` | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/home-improvement-stores/the-home-depot-inc/2025-q4-8k.html) |
+| HD-T12 | Q4 2025 earnings-call transcript | 2026-08-09 collected | Official transcript PDF | Captures management discussion around stable underlying demand and fiscal `2026` outlook | `[Disclosed]` | [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/services/home-improvement-stores/the-home-depot-inc/2025-q4-earnings-call-transcript.pdf) |
+| HD-T13 | Q1 2026 earnings release | 2026-05-19 published / 2026-08-09 collected | Official earnings-release PDF | Preserves the first-quarter fiscal `2026` narrative around steady demand and housing pressure | `[Disclosed]` | [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/home-improvement-stores/the-home-depot-inc/2026-q1-earnings-release.pdf) |
+| HD-T14 | Q1 2026 earnings `8-K` | 2026-05-19 filed / 2026-08-09 collected | SEC filing HTML | Filing wrapper for first-quarter fiscal `2026` results | `[Filed]` | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/home-improvement-stores/the-home-depot-inc/2026-q1-8k.html) |
+| HD-T15 | Q1 2026 Form `10-Q` | 2026-05-27 filed / 2026-08-09 collected | SEC filing HTML | Filed first-quarter report | `[Filed]` | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/home-improvement-stores/the-home-depot-inc/2026-q1-10q.html) |
+| HD-T16 | Q1 2026 earnings-call transcript | 2026-08-09 collected | Official transcript PDF | Captures the `SRS` / `GMS` branch-network, delivery-asset, and cross-sell discussion | `[Disclosed]` | [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/services/home-improvement-stores/the-home-depot-inc/2026-q1-earnings-call-transcript.pdf) |
+
+## Reconciliation notes
+
+- Home Depot now has the official annual report PDF on disk plus the core SEC filing chain for the annual filing and the last three quarters in scope.
+- The archive labels the annual package as target year `2025` even though the fiscal year ended `2026-02-01`, because that filing sits inside the late-`2025` / `2026` archive window.
+- Home Depot's own quarter labels are fiscal `Q3 2025`, `Q4 2025`, and `Q1 2026`; the archive maps those directly to the calendar-window sequence `Q3 2025`, `Q4 2025`, and `Q1 2026`.
+
+## Missing evidence
+
+- No direct local HTML snapshot of the AnnualReports company page is saved; the packet relies on a verification note because the company page was browser-verifiable even though one shell fetch attempt failed.
+- No separate local copies of webcast replay pages or non-GAAP reconciliation PDFs are included in this first packet because the core annual, quarter, filing, and transcript chain is already complete.

@@ -32,6 +32,8 @@ This synthesis is based on the completed Services packets currently in the archi
   - [Best Buy Co., Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/electronics-stores/best-buy-co-inc/company-packet.md)
   - [Kohl's Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/department-stores/kohls-corporation/company-packet.md)
   - [Ross Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
+- Housing maintenance and pro-trade distribution:
+  - [The Home Depot, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/home-improvement-stores/the-home-depot-inc/company-packet.md)
 - Labor intermediation:
   - [Robert Half Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/staffing-employment-services/robert-half-inc/company-packet.md)
 
@@ -46,11 +48,12 @@ Related focused memo:
 
 ## Executive read
 
-The completed Services set now supports a much clearer sector conclusion than the earlier brief did: `Services` is not one coherent demand bucket. It is a wide operating layer that now splits into four economically different groups:
+The completed Services set now supports a much clearer sector conclusion than the earlier brief did: `Services` is not one coherent demand bucket. It is a wide operating layer that now splits into five economically different groups:
 
 - logistics and physical-service networks
 - recurring consumer-routine and membership systems
 - experience, travel, and cultural-attention systems
+- housing maintenance and pro-trade distribution systems
 - labor and business-service intermediation
 
 The strongest cross-company pattern is that the winning service models are not simply “benefiting from spending.” They are reducing friction, deepening routine, monetizing recurring relationships, or absorbing complexity on behalf of customers. That can mean route density and automation in logistics, loyalty and stored value in restaurants, ad layers and subscriptions in media, membership and retail media in mass retail, or outsourcing and compliance in field services.
@@ -91,7 +94,18 @@ The archive now has a better experience-economy stack than it did before.
 
 The sector implication is that in-person demand remains healthy when it offers access, status, identity, or scarcity. This is not a generic discretionary boom. It is a selective experience-and-membership pattern.
 
-### 2A. Services also contains a retail-adjacent electronics layer
+### 2A. Services also contains a housing-maintenance and pro-trade layer
+
+`Home Depot` adds a structurally different service-retail case than the other consumer-facing names in the set.
+
+- fiscal `2025` sales reached `$164.7B` with comparable sales up `0.3%`, but management repeatedly said underlying demand was stable rather than strong because housing affordability pressure and consumer uncertainty were still constraining larger projects
+- `Q3 2025` results showed how storm demand and housing pressure can swing outcomes quickly, while also showing that the `GMS` acquisition added about `$900M` of quarterly sales
+- `Q1 2026` management said the combined Home Depot plus `SRS` platform now included over `1,300` SRS branches, roughly `16,000` delivery assets, over `5,000` sales associates, and a cross-sell run rate of about `$400M`
+- the packet therefore reads less like pure retail and more like a built-environment operating system spanning stores, delivery, trade relationships, and maintenance demand
+
+This matters for the sector read because it shows Services also contains businesses that monetize housing upkeep, contractor workflow, and physical-project complexity rather than recurring membership alone.
+
+### 2B. Services also contains a retail-adjacent electronics layer
 
 `Best Buy` is useful precisely because it is not as structurally advantaged as the strongest membership or media systems in the set.
 
@@ -159,6 +173,7 @@ That makes Services useful not only for consumer and experience signals, but als
 | Recurring consumer-routine systems | Starbucks, McDonald's, Domino's, Netflix | stored value, loyalty, direct ordering, subscription habit, repeat behavior, convenience as moat |
 | Experience and cultural-attention systems | Live Nation, Hilton, Disney, Caesars, Delta | travel demand, scarcity, fandom, loyalty, venue and destination throughput, premium mix |
 | Membership and retail-service systems | Costco, Walmart, Kroger, Dollar Tree, Dollar General, Best Buy, Kohl's, Ross | membership, basket frequency, retail media, marketplace layers, value architecture, service attachment, value-sensitive consumer behavior, neighborhood convenience, upgrade-cycle dependence, promotion-sensitive traffic, off-price traffic resilience |
+| Housing maintenance and pro-trade systems | Home Depot | repair and remodel demand, housing pressure, storm sensitivity, pro distribution, trade-credit and delivery infrastructure |
 | Labor intermediation | Robert Half | staffing, permanent placement, consulting resilience, employer confidence |
 
 ## Cultural and economic signals
@@ -171,6 +186,7 @@ Across the completed Services set, the broader signals are:
 - even weaker or more cyclical service-retail hybrids are trying to move in the same direction by adding service, support, seller, or advertising layers around a mature core transaction
 - discount value formats are splitting internally: Dollar Tree shows ticket-led value broadening through multi-price architecture, while Ross shows stronger traffic-led off-price share capture
 - Dollar General sits between those poles, showing that the consumables-heavy neighborhood format can still produce positive traffic and margin recovery when shrink, damages, and store conditions are improving
+- Home Depot shows that part of consumer-facing Services is really about maintaining the built environment, where housing turnover can stay weak while repair, storm work, and pro-trade distribution still matter
 - large but weaker middle-position retailers still show that those tools do not guarantee recovery if the core shopping habit is less distinctive and more discount-dependent
 - the value end of the market is not uniformly weak; Ross shows that the right off-price format can still take share aggressively even when weaker middle-market formats struggle
 - logistics and field-service winners are defending margins through density, automation, and customer-quality management rather than through broad macro strength

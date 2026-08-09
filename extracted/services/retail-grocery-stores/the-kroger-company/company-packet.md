@@ -56,6 +56,7 @@ Date baseline: 2026-08-09
 
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/retail-grocery-stores/the-kroger-company/annualreports-verification.md)
 - [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/retail-grocery-stores/the-kroger-company/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/retail-grocery-stores/the-kroger-company/2025-annual-report.pdf)
 - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/retail-grocery-stores/the-kroger-company/2025-10k.html)
 - [2025-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/retail-grocery-stores/the-kroger-company/2025-q3-press-release.html)
 - [2025-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/retail-grocery-stores/the-kroger-company/2025-q3-8k.html)

@@ -25,6 +25,8 @@ Official URLs verified:
   - https://ir.kroger.com/overview/default.aspx
 - Annual reports page:
   - https://ir.kroger.com/financials/annual-reports/default.aspx
+- 2025 annual report PDF:
+  - https://d18rn0p25nwr6d.cloudfront.net/CIK-0000056873/7b99445c-4ee6-4439-a8b3-45165487d1e0.pdf
 - Quarterly results page:
   - https://ir.kroger.com/financials/quarterly-results/default.aspx
 - SEC filings page:
@@ -39,7 +41,7 @@ Official URLs verified:
 Collection note:
 
 - Kroger's live IR site is behind Cloudflare for direct shell reads, so this verification relies on current search-index coverage plus the matching SEC-hosted Exhibit `99.1` files saved locally for the quarter window.
-- The official IR annual-reports page is clearly on fiscal `2025`, but the local packet does not yet include the annual report PDF artifact itself.
+- The annual-reports page exposed a direct CloudFront-hosted `2025` annual report PDF, and that artifact was saved locally on `2026-08-09`.
 
 Interpretation:
 

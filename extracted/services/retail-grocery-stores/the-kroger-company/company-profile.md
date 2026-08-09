@@ -25,7 +25,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q1 2026
   - quarter 2: Q4 2025
   - quarter 3: Q3 2025
-- Latest annual report collected locally: no, official IR annual-reports page verified but PDF not captured locally
+- Latest annual report collected locally: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes, filing chain plus press release
 - Quarter minus 1 collected: yes
@@ -36,6 +36,7 @@ Date baseline: 2026-08-09
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
+| 2025 | Official annual report PDF | https://d18rn0p25nwr6d.cloudfront.net/CIK-0000056873/7b99445c-4ee6-4439-a8b3-45165487d1e0.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/retail-grocery-stores/the-kroger-company/2025-annual-report.pdf) | Official Kroger annual report PDF collected from the IR filing-details chain. |
 | 2025 | Form `10-K` | https://www.sec.gov/Archives/edgar/data/56873/000110465926037723/kr-20260131x10k.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/retail-grocery-stores/the-kroger-company/2025-10k.html) | Annual filing for the fiscal year ended `2026-01-31`, filed `2026-03-31`. |
 | 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/the-kroger-company | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/retail-grocery-stores/the-kroger-company/annualreports-verification.md) | Confirms industry coverage and documents that AnnualReports still shows `2024` as most recent on `2026-08-09`. |
 | 2025 | Official IR verification note | https://ir.kroger.com/financials/annual-reports/default.aspx | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/retail-grocery-stores/the-kroger-company/official-ir-verification.md) | Confirms the official annual-report and quarterly-results chain for fiscal `2025`. |

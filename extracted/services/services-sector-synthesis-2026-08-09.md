@@ -1,0 +1,181 @@
+# Services Sector Synthesis
+
+Date baseline: 2026-08-09
+
+## Coverage base
+
+This synthesis is based on the completed Services packets currently in the archive:
+
+- Logistics, delivery, and field services:
+  - [C.H. Robinson Worldwide Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/air-delivery-freight-services/ch-robinson-worldwide-inc/company-packet.md)
+  - [United Parcel Service, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/air-delivery-freight-services/united-parcel-service-inc/company-packet.md)
+  - [Rollins, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/personal-services/rollins-inc/company-packet.md)
+  - [APi Group Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/business-services/api-group-corporation/company-packet.md)
+  - [Cintas Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/business-services/cintas-corporation/company-packet.md)
+- Experience, lodging, and entertainment:
+  - [Live Nation Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/entertainment-diversified/live-nation-entertainment-inc/company-packet.md)
+  - [Hilton Worldwide Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
+  - [Walt Disney Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/entertainment-diversified/walt-disney-co/company-packet.md)
+  - [Netflix, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/music-video-stores/netflix-inc/company-packet.md)
+  - [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
+  - [Delta Air Lines, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
+- Restaurants and routine consumer systems:
+  - [Starbucks Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/starbucks-corporation/company-packet.md)
+  - [McDonald's Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/mcdonalds-corporation/company-packet.md)
+  - [Domino's Pizza, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/dominos-pizza-inc/company-packet.md)
+- Retail and membership systems still classified under Services in this archive:
+  - [The Kroger Company](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-grocery-stores/the-kroger-company/company-packet.md)
+  - [Walmart Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/walmart-inc/company-packet.md)
+  - [Costco Wholesale Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md)
+- Labor intermediation:
+  - [Robert Half Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/staffing-employment-services/robert-half-inc/company-packet.md)
+
+The source window is the `2025` annual report plus each company’s last three reported quarters in scope as of `2026-08-09`.
+
+## Executive read
+
+The completed Services set now supports a much clearer sector conclusion than the earlier brief did: `Services` is not one coherent demand bucket. It is a wide operating layer that now splits into four economically different groups:
+
+- logistics and physical-service networks
+- recurring consumer-routine and membership systems
+- experience, travel, and cultural-attention systems
+- labor and business-service intermediation
+
+The strongest cross-company pattern is that the winning service models are not simply “benefiting from spending.” They are reducing friction, deepening routine, monetizing recurring relationships, or absorbing complexity on behalf of customers. That can mean route density and automation in logistics, loyalty and stored value in restaurants, ad layers and subscriptions in media, membership and retail media in mass retail, or outsourcing and compliance in field services.
+
+## What is actually going on
+
+### 1. Services is increasingly a relationship-and-interface sector
+
+The newer packet base makes this much more obvious.
+
+- `Netflix` turns entertainment into a recurring interface with subscription habit, recommendation quality, and a growing ad layer.
+- `Disney` shows a broader franchise-and-membership system spanning streaming, parks, sports, theatrical, and merchandise.
+- `Starbucks` shows stored value, loyalty, mobile ordering, and repeat beverage routines.
+- `McDonald's` shows low-ticket frequency, familiarity, and digital ordering at global scale.
+- `Domino's` shows direct ordering, repeat behavior, and a tightly controlled convenience loop.
+- `Walmart`, `Kroger`, and `Costco` show that the shopping trip is increasingly monetized through membership, advertising, marketplace, loyalty, or traffic density rather than only basket margin.
+- `Caesars` shows loyalty and wallet design connecting physical gaming, digital wagering, and cross-property entertainment spend.
+- `Hilton` and `Delta` show loyalty systems operating as economic infrastructure rather than as marketing decoration.
+
+That means an important part of Services is no longer best read as “transactions.” It is recurring relationship control.
+
+### 2. Experience demand is still durable, but it is selective
+
+The archive now has a better experience-economy stack than it did before.
+
+- `Live Nation` shows very strong demand for scarce live experiences, sponsorship, and venue throughput.
+- `Hilton` shows travel and lodging resilience through RevPAR, loyalty, and pipeline growth.
+- `Disney` shows that premium experience demand can still be monetized across parks and destination behavior, not only through streaming.
+- `Delta` shows travel demand through premium mix, loyalty economics, and branded network relevance.
+- `Caesars` adds another physical-experience case where entertainment, loyalty, and digital extension reinforce one another.
+
+The sector implication is that in-person demand remains healthy when it offers access, status, identity, or scarcity. This is not a generic discretionary boom. It is a selective experience-and-membership pattern.
+
+### 3. Logistics and field services are being run for quality, density, and automation
+
+The older Services brief already pointed this way, but the broader set sharpens it.
+
+- `C.H. Robinson` emphasizes workflow automation, gross-profit discipline, and cost-to-serve control inside a still-mixed freight market.
+- `UPS` is explicitly redesigning network economics around revenue quality, package mix, and lower Amazon dependency rather than pure volume pursuit.
+- `Rollins` shows the power and limits of recurring route businesses: resilient recurring revenue, but still weaker lead generation when consumers delay new service starts.
+- `APi` shows how recurring compliance-heavy inspection and monitoring services become stickier than one-time project demand.
+- `Cintas` remains one of the clearest examples of route density, retention, cross-sell, and outsourced operating discipline.
+
+So one major Services bucket is really about network quality and service density, not just topline demand.
+
+### 4. Services is one of the archive’s best windows into routine consumer behavior
+
+The completed packet set now says this directly.
+
+- `Starbucks` is a routine business where loyalty, payment, mobile ordering, and store operations are tightly integrated.
+- `McDonald's` is a routine business where convenience, familiarity, and digital ordering reinforce frequency.
+- `Domino's` is a routine business where owned digital ordering and repeat behavior matter more than broad restaurant sentiment.
+- `Costco` is a warehouse routine and membership habit.
+- `Walmart` and `Kroger` are routine shopping systems increasingly layering ads, membership, and ecosystem services on top.
+- `Netflix` is a recurring attention habit rather than only a content business.
+
+This is important because it means some of the archive’s best consumer evidence is sitting inside Services rather than only inside Consumer Goods.
+
+### 5. Labor and service intermediation are still soft, but improving
+
+`Robert Half` is still one of the cleanest labor-market reads in the archive.
+
+- year-over-year labor demand was still soft through much of the observed window
+- sequential improvement through the first half of `2026` was still visible
+- permanent placement improved more than the earlier weak labor backdrop would have implied
+- Protiviti provided a more resilient consulting and compliance layer than a pure staffing model would
+
+That makes Services useful not only for consumer and experience signals, but also for white-collar hiring confidence and outsourced expert-capacity demand.
+
+## Themes by role
+
+| Role | Companies | What they reveal |
+|---|---|---|
+| Logistics and route-density systems | CHRW, UPS, Rollins, APi, Cintas | automation, route density, customer mix, recurring service, compliance-heavy service intensity, network productivity |
+| Recurring consumer-routine systems | Starbucks, McDonald's, Domino's, Netflix | stored value, loyalty, direct ordering, subscription habit, repeat behavior, convenience as moat |
+| Experience and cultural-attention systems | Live Nation, Hilton, Disney, Caesars, Delta | travel demand, scarcity, fandom, loyalty, venue and destination throughput, premium mix |
+| Membership and retail-service systems | Costco, Walmart, Kroger | membership, basket frequency, retail media, ecosystem monetization, value-sensitive consumer behavior |
+| Labor intermediation | Robert Half | staffing, permanent placement, consulting resilience, employer confidence |
+
+## Cultural and economic signals
+
+Across the completed Services set, the broader signals are:
+
+- routine and membership are becoming more economically important than one-time transactions
+- value and convenience still matter, but so do identity, fandom, travel, and experience scarcity
+- the strongest service models increasingly monetize through a second layer such as loyalty, advertising, sponsorship, subscriptions, stored value, or marketplace economics
+- logistics and field-service winners are defending margins through density, automation, and customer-quality management rather than through broad macro strength
+- service demand remains highly segmented: freight is still mixed, staffing is still healing, but loyalty-heavy consumer systems and selective experiences remain strong
+
+## Services and technology read
+
+The completed set shows that technology in Services is usually embedded rather than theatrical.
+
+- `CHRW` uses automation and `Lean AI` to compress freight workflows.
+- `UPS` emphasizes automation, routing, and network redesign.
+- `Starbucks`, `McDonald's`, and `Domino's` show mobile ordering, direct ordering, and payment-linked habit loops.
+- `Netflix` shows recommendation and ad monetization inside a recurring entertainment interface.
+- `Walmart` and `Kroger` show media and ecosystem layers on top of core retail traffic.
+- `Live Nation`, `Disney`, `Hilton`, `Delta`, and `Caesars` each show a different mix of loyalty, digital distribution, ticketing, booking, or wallet infrastructure.
+
+The right reading is that Services is one of the archive’s clearest sectors for seeing technology as interface control, not only as software spend.
+
+## Risks and counterpoints
+
+- `Live Nation`, `Disney`, `Netflix`, `Costco`, `Walmart`, and `McDonald's` may overstate the health of the broader consumer because they are unusually advantaged systems.
+- freight and staffing still show that broad service demand is not uniformly strong
+- some membership or loyalty economics can look stronger than they are if they are supported by temporary value-seeking behavior rather than a durable moat
+- experience demand may be more vulnerable than current results imply if labor-market or consumer softness broadens
+- some of the sector’s strongest models now depend on adding higher-margin layers to a mature core business, which raises the question of how much further those layers can expand
+
+## Working conclusion
+
+The cleanest current conclusion is:
+
+`Services` in the 2025 annuals and late-2025 / 2026 quarterlies is best understood as a sector of recurring relationships, selective experiences, and outsourced operating systems rather than as a generic read on discretionary demand.
+
+The strongest winners are the companies that do one or more of the following:
+
+- turn routine into a loyalty or subscription system
+- turn audience or traffic into advertising, sponsorship, or marketplace economics
+- turn route density and repetition into service-margin strength
+- turn loyalty, points, or membership into a durable behavioral moat
+- turn operational complexity into a service customers do not want to rebuild internally
+
+## Useful organizing frame going forward
+
+The archive will likely be easiest to extend if Services is grouped into these working buckets:
+
+- logistics and route-density services
+- recurring consumer-routine platforms
+- experience and travel systems
+- membership and retail-service ecosystems
+- labor and outsourcing intermediaries
+- loyalty and wallet-driven entertainment systems
+
+## Next best extensions
+
+- Add another pure restaurant or convenience-heavy service name if the goal is to pressure-test how durable the routine-and-loyalty pattern really is.
+- Add another travel or leisure operator if the goal is to sharpen the difference between premium experience resilience and broader consumer softness.
+- Add another staffing or outsourcing name only if it adds a distinct labor-market or white-collar intermediation angle beyond Robert Half.

@@ -22,6 +22,7 @@ Date baseline: 2026-08-09
 - The company’s operating profile is broad enough to matter for several higher-level themes at once: commodity exposure, LNG and gas infrastructure, refining utilization, diesel output, chemical feedstock advantage, structural cost discipline, and the geopolitical value of flexible energy supply.
 - ExxonMobil is also useful because it puts hard numbers behind “capital discipline plus scale.” In `2025` it completed `$20.0 billion` of buybacks, maintained a strong balance sheet, and still spent `$29.0 billion` of cash capital expenditures.
 - The annual filing also shows that the segment mix matters. `2025` earnings were led by Upstream at `$21.4 billion`, then Energy Products at `$7.4 billion`, while Chemical Products were much weaker at `$0.8 billion`. That reinforces that this is an integrated but still internally differentiated earnings system.
+- The annual-report evidence chain is now complete at the artifact level because the official `2025` annual report PDF is saved locally.
 
 ## Quarter-by-quarter takeaways
 
@@ -59,6 +60,7 @@ Date baseline: 2026-08-09
 ## Source pointers
 
 - [annual-reports-proxy-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/annual-reports-proxy-page.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/2025-annual-report.pdf)
 - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/2025-10k.html)
 - [2025-results-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/2025-results-page.html)
 - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/2025-q4-8k.html)

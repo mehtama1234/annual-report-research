@@ -22,7 +22,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
-- Latest annual report collected: official annual-report page saved; annual-report PDF not yet saved locally
+- Latest annual report collected: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
@@ -34,6 +34,7 @@ Date baseline: 2026-08-09
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
 | 2025 | ExxonMobil annual reports and proxy page | https://investor.exxonmobil.com/company-information/annual-reports-proxy | [annual-reports-proxy-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/annual-reports-proxy-page.html) | Confirms the official `2025` annual report is posted on investor relations. |
+| 2025 | Official annual report PDF | https://d1io3yog0oux5.cloudfront.net/_b044759d05551efa0816f0a3afa0a183/exxonmobil/db/2301/22637/annual_report/2025+Annual+Report+PDF.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/2025-annual-report.pdf) | Official annual report artifact saved locally from the ExxonMobil investor-relations page. |
 | 2025 | Exxon Mobil Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/2025-10k.html) | Core annual filing for the year ended `2025-12-31`. |
 | 2025 | ExxonMobil announces 2025 results | https://corporate.exxonmobil.com/news/news-releases/2026/0130-exxonmobil-announces-2025-results | [2025-results-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/2025-results-page.html) | Official full-year and `Q4 2025` results release with annual and quarterly metrics. |
 
@@ -56,6 +57,7 @@ Date baseline: 2026-08-09
 - Operational issues: `Q1 2026` was heavily affected by Middle East supply disruption and timing effects from derivatives versus physical settlements. `Q2 2026` still carried Middle East impacts but showed how much portfolio integration, reliability, and trading or logistics flexibility can stabilize results.
 - Technology and infrastructure linkage: ExxonMobil is one of the clearest energy-system enablers in the archive. Its read touches LNG, Guyana, Permian growth, refining and diesel output, high-value products, and a broader “reliable energy when it matters most” message that matters for industrial and power-system themes.
 - Management tone: management remains disciplined and expansive at the same time. The tone is that ExxonMobil’s advantage comes from portfolio quality, integration, structural cost savings, and capital-allocation capacity rather than only from commodity price direction.
+- The annual evidence chain is materially stronger now that the official `2025` annual report PDF is saved locally instead of only the annual-reports landing page.
 
 ## Open questions
 

@@ -86,6 +86,15 @@ The strongest current crosswalks are:
     - infrastructure labor bottlenecks
     - reshoring and capex intensity
 
+- `commodity-whiplash`
+  - closest `ibis-industries` forces:
+    - `commodity-whiplash`
+    - `atoms-strike-back`
+  - useful for:
+    - fertilizer and agricultural-input volatility
+    - copper and aluminum price-plus-restart economics
+    - tariffs, duties, energy inputs, and physical-system instability
+
 - `services-freight-brokerage-and-productivity`
   - closest `ibis-industries` forces:
     - `the-fractional-worker`

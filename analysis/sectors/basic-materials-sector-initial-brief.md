@@ -8,6 +8,7 @@ Scope of this brief:
 - Freeport-McMoRan Inc.
 - Nucor Corporation
 - Nutrien Ltd.
+- CF Industries Holdings, Inc.
 - Dow Inc.
 - Alcoa Corporation
 - Reliance, Inc.
@@ -24,22 +25,22 @@ Collection window:
 - Sector: Basic Materials
 - AnnualReports.com sector label: Basic Materials
 - Covered industries: Major Integrated Oil & Gas; Copper; Steel & Iron; Agricultural Chemicals; Chemicals - Major Diversified; Aluminum; Lumber, Wood Production; Paper & Paper Products
-- Covered companies: Exxon Mobil; Freeport-McMoRan; Nucor; Nutrien; Dow; Alcoa; Reliance; West Fraser; Clearwater
+- Covered companies: Exxon Mobil; Freeport-McMoRan; Nucor; Nutrien; CF Industries; Dow; Alcoa; Reliance; West Fraser; Clearwater
 
 ## Current collection status
 
-This is now an active starter sector inside the archive. The nine-name starter set is now packetized at the company level and the first sector synthesis memo now exists.
+This is now an active starter sector inside the archive. The ten-name starter set is now packetized at the company level and the first sector synthesis memo now exists.
 
 What is already done:
 
 - the `2025` annual filing is saved locally for each starter name
 - the latest three reported quarters in scope are saved locally for each starter name
-- company profiles, company packets, and source ledgers now exist for all nine starter names
-- the local archive now includes direct annual-report IR artifacts for `Freeport-McMoRan`, `Nucor`, `Nutrien`, `Dow`, and `Alcoa`, while `Exxon` remains annual-materials complete through filing and IR-page evidence
+- company profiles, company packets, and source ledgers now exist for all ten starter names
+- the local archive now includes direct annual-report IR artifacts for `Freeport-McMoRan`, `Nucor`, `Nutrien`, `CF Industries`, `Dow`, and `Alcoa`, while `Exxon` remains annual-materials complete through filing and IR-page evidence
 
 What is not done yet:
 
-- widen the starter set beyond the current eight-name pilot
+- widen the starter set beyond the current ten-name pilot
 
 ## Why this first tranche makes sense
 
@@ -56,6 +57,7 @@ The roles are intentionally different:
 - `Freeport-McMoRan` gives the copper and critical-inputs read.
 - `Nucor` gives the steel and industrial-construction demand read.
 - `Nutrien` gives the fertilizer and agricultural-inputs read.
+- `CF Industries` gives the purer nitrogen, ammonia-utilization, natural-gas-cost, and commodity-whiplash read inside agricultural chemicals.
 - `Dow` gives the chemicals, plastics, coatings, and materials-science conversion layer.
 - `Alcoa` gives the bauxite, alumina, smelting, restart, and tariff-sensitive aluminum layer.
 - `Reliance` gives the metals service-center, downstream processing, quick-turn logistics, and industrial-distribution layer.
@@ -74,6 +76,7 @@ The more useful frame will probably be:
 - copper and mined inputs as electrification and grid-build bottlenecks
 - steel as industrial, construction, and manufacturing-throughput exposure
 - fertilizer and crop inputs as food-system and farm-economics exposure
+- focused nitrogen production as the tighter read on fertilizer pricing, plant utilization, natural-gas costs, and clean-ammonia expansion
 - diversified chemicals as the application and conversion layer between feedstocks and finished goods
 - aluminum as the power-intensive conversion metal between mined inputs and downstream fabrication
 - metals service-center density as the downstream logistics and processing layer between mills and real end-market demand
@@ -100,17 +103,19 @@ As of `2026-08-09`, AnnualReports.com browse pages are still useful for discover
 2. Freeport-McMoRan
 3. Nucor
 4. Nutrien
-5. Dow
-6. Alcoa
-7. Reliance
-8. West Fraser
-9. Clearwater
+5. CF Industries
+6. Dow
+7. Alcoa
+8. Reliance
+9. West Fraser
+10. Clearwater
 
 That order is intentional:
 
 - Exxon and Freeport are the clearest links to energy, metals, electrification, and infrastructure
 - Nucor then widens the read into domestic industrial and construction throughput
 - Nutrien adds the agricultural-input and farm-economics layer through potash, nitrogen, phosphate, retail agronomy, and farmer-input demand
+- CF Industries now adds the cleaner nitrogen-and-ammonia producer layer through fertilizer benchmark sensitivity natural-gas cost pass-through asset utilization Yazoo outage recovery Blue Point low-carbon ammonia construction and aggressive shareholder return
 - Dow now adds the chemicals and materials-science layer through packaging plastics industrial intermediates silicones coatings and restructuring-led earnings repair
 - Alcoa now adds the aluminum layer through bauxite alumina smelting energy intensity restart execution tariff pass-through and acquisition-supported upstream scale
 - Reliance now adds the metal-service-center layer through small-order distribution value-added processing rapid fulfillment market-share gains pricing pass-through and project-linked industrial demand

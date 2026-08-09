@@ -48,9 +48,11 @@ Date baseline: 2026-08-08
 ## What changed
 
 - Coverage is strongest for BAC so far: 2025 annual report plus all three in-scope earnings releases, transcripts, and filing artifacts are saved.
-- BAC is now the first company in the workspace with a near-complete annual-plus-quarterly evidence chain for the current collection window.
-- This is enough to begin sector-level earnings-theme extraction for large banks.
+- 2025 annual materials show revenue of `$113.1 billion`, net income of `$30.5 billion`, diluted EPS of `$3.81`, average deposits of `$1.98 trillion`, and average loans and leases of `$1.14 trillion`.
+- BAC’s annual narrative centers on `Responsible Growth`, disciplined expense management, strong credit discipline, and continued investment in technology, AI, and digital channels.
+- 1Q26 and 2Q26 both show broad-based segment contribution, positive operating leverage, rising deposits and loans, and improving or stable credit quality.
+- BAC now provides a strong bank-sector template for comparing consumer resilience, investment-banking activity, markets leverage, capital return, and technology-enabled productivity.
 
 ## Open questions
 
-- Fill summary notes from the actual earnings texts.
+- Deepen side-by-side comparison versus JPM on consumer-credit tone, capital return, and dependence on market-facing revenue.

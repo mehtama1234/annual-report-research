@@ -24,8 +24,9 @@ Date baseline: 2026-08-08
 
 - BAC now has the cleanest complete three-quarter earnings-release, transcript, and filing set in the workspace.
 - The annual report is collected from the official IR archive.
-- Remaining gap is not source collection but deeper extraction and synthesis.
+- Annual extraction now confirms the main strategic frame: `Responsible Growth`, technology leadership, AI-enabled productivity, strong deposit and loan growth, and constructive `2026` macro positioning.
+- Quarterly extraction now confirms that BAC is reporting broad-based growth across segments rather than relying on one narrow earnings engine.
 
 ## Missing evidence
 
-- Deeper note extraction from annual report, filings, and quarterly calls
+- More detailed segment-by-segment extraction from the 10-K and 10-Q filings if the next pass needs finer financial decomposition

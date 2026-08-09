@@ -26,20 +26,20 @@ Date baseline: 2026-08-08
 
 ### Most recent quarter: 2Q26
 
-- Results: earnings press release and presentation are on disk.
+- Results: earnings press release, transcript, presentation, and 10-Q are on disk.
 - Management message: very strong results, helped by favorable market activity and gains related to Visa and certain equity investments.
 - Structural themes: markets leverage, capital-markets activity, large-bank scale, and balance-sheet optionality.
 
 ### Quarter minus 1: 1Q26
 
-- Results: filed 10-Q is on disk.
-- Management message: add once 1Q26 press release and transcript are collected.
+- Results: SEC-backed earnings release and filed 10-Q are on disk.
+- Management message: performance was strong across businesses, with record Markets revenue and continued Payments strength.
 - Structural themes: capital treatment, regulatory capital discussion, and continued scale advantages.
 
 ### Quarter minus 2: 4Q25
 
-- Results: 4Q25 earnings-call transcript is on disk.
-- Management message: full-year 2025 results and outlook discussion are available in transcript form.
+- Results: SEC-backed earnings release, 2025 10-K, and 4Q25 earnings-call transcript are on disk.
+- Management message: full-year 2025 results and 2026 outlook are available through both the release and the transcript.
 - Structural themes: capital return, full-year operating momentum, and big-bank revenue mix.
 
 ## Signals to feed into higher-level analysis
@@ -55,5 +55,10 @@ Date baseline: 2026-08-08
 - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/money-center-banks/jpmorgan-chase-co/2025-annual-report.pdf)
 - [2026-q2-earnings-press-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/money-center-banks/jpmorgan-chase-co/2026-q2-earnings-press-release.pdf)
 - [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/money-center-banks/jpmorgan-chase-co/2026-q2-earnings-presentation.pdf)
+- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/financial/money-center-banks/jpmorgan-chase-co/2026-q2-earnings-call-transcript.pdf)
+- [2026-q2-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2026-q2-10q.pdf)
+- [2026-q1-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2026-q1-earnings-release-sec-ex99-1.html)
 - [2026-q1-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2026-q1-10q.pdf)
+- [2025-q4-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2025-q4-earnings-release-sec-ex99-1.html)
+- [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2025-10k.pdf)
 - [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/financial/money-center-banks/jpmorgan-chase-co/2025-q4-earnings-call-transcript.pdf)

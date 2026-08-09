@@ -1,6 +1,6 @@
 # Annual Report Research Workspace
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-09
 
 This workspace is for collecting, organizing, and analyzing company annual reports, quarterly earnings materials, and cross-company themes by sector and industry.
 
@@ -8,7 +8,7 @@ Primary collection window for this project:
 
 - `2025` annual reports and annual filings
 - `2026` quarterly earnings materials as the primary quarterly focus
-- the trailing quarter from late `2025` only when needed to complete the last three reported quarters as of `2026-08-08`
+- the trailing quarter from late `2025` only when needed to complete the last three reported quarters as of `2026-08-09`
 
 It is intentionally split into three layers:
 
@@ -78,7 +78,7 @@ For most calendar-year reporters, the expected quarterly window is:
 - `2026 Q1`
 - `2025 Q4`
 
-For off-calendar fiscal reporters, use the latest three reported fiscal quarters available as of `2026-08-08`, keeping the same principle: prioritize `2026` quarters and pull in late `2025` only when required. Label them precisely.
+For off-calendar fiscal reporters, use the latest three reported fiscal quarters available as of `2026-08-09`, keeping the same principle: prioritize `2026` quarters and pull in late `2025` only when required. Label them precisely.
 
 ## Operating rule
 

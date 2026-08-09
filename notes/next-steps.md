@@ -7,7 +7,7 @@ Pick 3 to 5 sectors first, then collect a small but complete company set before 
 Collection window for this phase:
 
 - annual reports: `2025`
-- quarterlies: latest three reported quarters available as of `2026-08-08`
+- quarterlies: latest three reported quarters available as of `2026-08-09`
 - in many cases: `2026 Q2`, `2026 Q1`, and `2025 Q4`
 
 Suggested pilot sectors:
@@ -46,3 +46,12 @@ raw/
 - Use lowercase kebab-case for sector, industry, and company folder names.
 - Prefix dated files with the reporting period when possible.
 - Prefer `2026-q2-earnings-release.pdf` over generic filenames.
+
+## Reuse from `ibis-industries`
+
+- Use `ibis-industries` as an input layer for cross-sector force ideas, not as a direct file-source replacement.
+- Prefer annual-report and earnings evidence in this repo when making company-level claims.
+- Pull recurring force labels and industry context from `ibis-industries` when deciding:
+  - which sectors need another company
+  - which cross-sector themes deserve a memo
+  - which cultural or industrial signals need stronger coverage

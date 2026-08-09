@@ -14,6 +14,11 @@ This memo turns the completed `Financial` packet set into an interface-based fra
 - alternatives: Blackstone, Apollo, KKR, Ares, Carlyle
 - market and data infrastructure: CME Group, S&P Global
 
+Operational indexes:
+
+- [Financial Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/financial-interface-research-index-2026-08-09.md)
+- [financial-interface-research-index-2026-08-09.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/financial-interface-research-index-2026-08-09.csv)
+
 ## Executive read
 
 The clearest current conclusion is that `Financial` is increasingly a sector of owned financial interfaces rather than a sector of plain product spread.

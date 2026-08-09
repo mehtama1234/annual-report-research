@@ -60,6 +60,7 @@ Date baseline: 2026-08-09
 
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/internet-information-providers/spotify-technology-sa/annualreports-verification.md)
 - [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/spotify-technology-sa/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/spotify-technology-sa/2025-annual-report.pdf)
 - [2025-20f.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/spotify-technology-sa/2025-20f.html)
 - [2025-q4-6k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/spotify-technology-sa/2025-q4-6k.html)
 - [2025-q4-ex991.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/spotify-technology-sa/2025-q4-ex991.html)

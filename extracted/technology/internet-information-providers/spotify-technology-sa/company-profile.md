@@ -23,7 +23,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
-- Latest annual report collected: no
+- Latest annual report collected: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
@@ -36,6 +36,7 @@ Date baseline: 2026-08-09
 |---|---|---|---|---|
 | 2025 | Spotify AnnualReports.com verification note | https://www.annualreports.com/Company/spotify-technology-sa | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/internet-information-providers/spotify-technology-sa/annualreports-verification.md) | Confirms AnnualReports.com still showed `2024 Annual Report` on `2026-08-09`, so the aggregator lagged Spotify's official reporting stack. |
 | 2025 | Spotify official IR verification note | https://investors.spotify.com/overview/default.aspx | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/spotify-technology-sa/official-ir-verification.md) | Confirms the `2025` annual reporting year and latest-quarter update stack on the official investor site. |
+| 2025 | Official annual report PDF | https://d18rn0p25nwr6d.cloudfront.net/CIK-0001639920/f4bc1f07-b4f8-4004-941e-e7ac8fd74d86.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/spotify-technology-sa/2025-annual-report.pdf) | Official investor-relations annual report PDF exposed from the Spotify SEC filing detail page and collected on `2026-08-09`. |
 | 2025 | Spotify Form `20-F` | https://www.sec.gov/Archives/edgar/data/1639920/000162828026006874/ck0001639920-20251231.htm | [2025-20f.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/spotify-technology-sa/2025-20f.html) | Annual filing for the year ended `2025-12-31`, filed `2026-02-10`. |
 | 2025 | SEC submissions index | https://data.sec.gov/submissions/CIK0001639920.json | [submissions-cik0001639920.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/spotify-technology-sa/submissions-cik0001639920.json) | Verifies the `20-F` and `6-K` filing dates, accession numbers, and filer identity. |
 
@@ -55,6 +56,7 @@ Date baseline: 2026-08-09
 - Cultural reach plus monetization: Spotify turns listening behavior into subscriber growth, ad-supported audience scale, and increasingly AI-assisted personalization. That makes it a useful bridge between cultural behavior and recurring platform economics.
 - Margin trajectory matters: the `2025` through `2026` filing window shows not only user growth but also sustained gross-margin improvement and a much more profitable operating model than the old “growth first, profits later” Spotify read.
 - Creator economy signal: Spotify is also a useful indicator of how platform economics and creator payouts interact. Management highlighted more than `$11B` paid to the music industry in `2025`, which supports the read that platform scale is reshaping cultural distribution rather than only aggregating passive demand.
+- The archive quality is now materially stronger because the official `2025` annual-report PDF is on disk rather than only the SEC HTML filing and IR verification note.
 
 ## Open questions
 

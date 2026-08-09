@@ -15,6 +15,7 @@ Verified on the live IR stack:
   - the latest reported quarter is `Q2 2026`
   - shareholder-update materials are available for `Q2 2026`, `Q1 2026`, and `Q4 2025`
   - annual-report navigation includes the `2025` reporting year
+  - the SEC filing detail page for the `2025` `20-F` exposes a direct PDF download on Spotify's document CDN
 
 Capture notes:
 
@@ -23,7 +24,9 @@ Capture notes:
   - `Q4 2025`
   - `Q1 2026`
   - `Q2 2026`
-- The `2025` annual-report PDF filename on Spotify's CDN could not be resolved directly during this collection pass, so the annual evidence chain relies on the official-site verification note plus the filed `2025` `20-F`.
+- The official `2025` annual-report PDF URL was resolved from the live SEC filing detail page and collected successfully:
+  - https://d18rn0p25nwr6d.cloudfront.net/CIK-0001639920/f4bc1f07-b4f8-4004-941e-e7ac8fd74d86.pdf
+- The local evidence chain now includes the official annual report PDF as [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/spotify-technology-sa/2025-annual-report.pdf) in addition to the filed `2025` `20-F`.
 
 Interpretation:
 

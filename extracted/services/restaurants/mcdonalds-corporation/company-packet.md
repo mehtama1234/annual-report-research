@@ -59,6 +59,7 @@ Date baseline: 2026-08-09
 
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/restaurants/mcdonalds-corporation/annualreports-verification.md)
 - [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/restaurants/mcdonalds-corporation/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/restaurants/mcdonalds-corporation/2025-annual-report.pdf)
 - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2025-10k.html)
 - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2025-q4-8k.html)
 - [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2026-q1-8k.html)

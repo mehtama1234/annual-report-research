@@ -37,6 +37,7 @@ Collection note:
 
 - The official URLs above are verified.
 - Direct shell download of the corporate-hosted annual-report PDF and some IR HTML pages timed out repeatedly from this environment on `2026-08-09`.
+- The annual-report artifact was then recovered through the SEC `ARS` filing disclosed in the SEC submissions index: accession `0001104659-26-040396`, primary document `tm2610049d2_ars.pdf`, filed `2026-04-07`. That PDF is now saved locally as [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/restaurants/mcdonalds-corporation/2025-annual-report.pdf).
 - The quarter earnings-release artifacts for `Q1 2026` and `Q4 2025` were still captured locally through the matching SEC exhibit PDFs, and the official IR URL chain is preserved here for follow-up mirroring.
 
 Interpretation:

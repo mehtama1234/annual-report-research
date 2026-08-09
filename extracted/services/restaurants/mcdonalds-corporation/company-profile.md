@@ -24,7 +24,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
-- Latest annual report collected locally: no
+- Latest annual report collected locally: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes, filing chain
 - Quarter minus 1 collected: yes
@@ -36,6 +36,7 @@ Date baseline: 2026-08-09
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
 | 2025 | Official annual report URL verified | https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/MCD%202025%20Annual%20Report.pdf | see [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/restaurants/mcdonalds-corporation/official-ir-verification.md) | Official annual-report PDF URL verified, but direct shell download timed out from this environment on `2026-08-09`. |
+| 2025 | Annual Report to Security Holders (`ARS`) PDF | https://www.sec.gov/Archives/edgar/data/63908/000110465926040396/tm2610049d2_ars.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/restaurants/mcdonalds-corporation/2025-annual-report.pdf) | Filed `2026-04-07` and collected from the SEC archive on `2026-08-09`; provides the official annual-report artifact on disk. |
 | 2025 | Form `10-K` | https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2025-10k.html) | Annual filing for the year ended `2025-12-31`, filed `2026-02-24`. |
 | 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/mcdonalds-corporation | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/restaurants/mcdonalds-corporation/annualreports-verification.md) | Confirms AnnualReports still lagged at `2024` on `2026-08-09`. |
 
@@ -54,6 +55,7 @@ Date baseline: 2026-08-09
 - The late-`2025` and `2026` quarterlies show that loyalty metrics are now prominent management disclosures. By Q4 `2025`, full-year systemwide sales to loyalty members had increased `20%` to nearly `$37B`, with nearly `210M` 90-day active loyalty users. By Q2 `2026`, trailing-twelve-month loyalty sales had increased over `20%` to `$40B`, with nearly `220M` 90-day active users.
 - Quarter trends were mixed but still useful. Q1 `2026` showed stronger global comparable sales growth of `3.8%`; Q2 `2026` slowed to `1.3%`, with U.S. comparable sales growth of `0.8%`, which is useful evidence that the loyalty and value engine still matters even in a softer consumer backdrop.
 - This company is especially relevant for the loyalty-economy work because it gives the archive a direct large-scale operator example where loyalty users, loyalty sales, and active-user counts are disclosed as central business metrics.
+- The archive quality is now materially stronger because the official annual-report artifact is on disk through the SEC `ARS` filing rather than only the `10-K` HTML and the IR verification note.
 
 ## Open questions
 

@@ -35,6 +35,8 @@ This synthesis is based on the completed industrial-goods packets currently in t
   - [Waste Management, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/waste-management/waste-management-inc/company-packet.md)
 - Outsourced facilities and technical operations:
   - [ABM Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
+- Homebuilding supply chain and prefabrication:
+  - [Builders FirstSource, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-building-materials/builders-firstsource-inc/company-packet.md)
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-09`.
 
@@ -51,6 +53,7 @@ That infrastructure intensity shows up across several different forms:
 - defense modernization
 - environmental and regulated infrastructure
 - outsourced technical operations around airports, fabs, warehouses, and mission-critical facilities
+- housing-supply-chain, prefabrication, and repair-and-remodel support
 
 The key implication is that industrial strength in this archive is increasingly tied to long-duration physical bottlenecks and system buildouts, not just to ordinary capital-goods replacement cycles.
 
@@ -74,8 +77,11 @@ The packet set shows several different industrial models, but the strongest name
 - `Trane` is driven by commercial HVAC, data-center cooling, controls, services, and building-system backlog.
 - `Caterpillar` is seeing power generation, energy, construction, mining, and installed-base services support.
 - `ABM` shows how the same cycle reaches outsourced technical operations in airports, manufacturing sites, battery systems, semiconductor fabs, and datacenter-related services.
+- `Builders FirstSource` shows that part of the industrial story still runs through shelter, affordability, prefabrication, and the physical builder workflow rather than through digital infrastructure or grid capex alone.
 
 This does not look like a simple rebound in light industrial demand. It looks like a broad physical buildout where multiple layers of the real-world stack are tightening at the same time.
+
+It also means the sector is not purely an AI-and-power buildout story. Housing-linked industrial demand is still present, but it is showing up through pressure: weaker starts, affordability strain, commodity deflation, and the push toward value-added prefabrication and more efficient builder workflow.
 
 ### 2. AI and digital demand are showing up physically outside Technology
 
@@ -176,9 +182,32 @@ Their packets add:
 
 `EMCOR` adds a different but related read: a larger platform can span electrical, mechanical, building, and industrial work at once, but it still lives or dies on mix, execution quality, labor availability, and the ability to convert complex project demand into profitable field performance.
 
+`Builders FirstSource` adds a different operating constraint. When affordability weakens, starts soften, and commodity prices deflate, the industrial response is not only volume pressure. It also becomes a push toward prefabricated components, value-added distribution, productivity-oriented digital tools, tighter working-capital control, and more selective capital deployment.
+
 This means industrial growth also depends on field labor, contract mix, pricing discipline, local execution, and the ability to operate complex physical systems after they are built.
 
-### 7. Industrial winners are increasingly system providers, not just product sellers
+### 7. Housing and shelter still matter inside industrials
+
+`Builders FirstSource` broadens the industrial read in an important way.
+
+Its packet shows that industrial demand is also tied to:
+
+- homebuilding inputs and builder workflow
+- prefabricated components used as labor-substitution and cycle-time tools
+- repair-and-remodel exposure alongside new residential construction
+- housing affordability sensitivity
+- commodity deflation and product-mix pressure
+- value-added distribution tied to jobsite efficiency and digital ordering
+
+That matters because it links Industrial Goods back to a wider shelter chain already visible elsewhere in the archive:
+
+- `West Fraser` on lumber and wood products
+- `Sherwin-Williams` on coatings and repaint demand
+- `Lowe's` and `Home Depot` on repair, remodel, and homeowner/pro demand
+
+So part of the industrial sector is still expressing the housing economy directly. It just shows up in a more operational way through builders, trusses, components, workflow, and local construction productivity rather than through classic homebuilder-equity language alone.
+
+### 8. Industrial winners are increasingly system providers, not just product sellers
 
 The strongest names in this set are not simply shipping units.
 
@@ -199,6 +228,7 @@ They are selling systems:
 - `Caterpillar`: engines, power, service network, and installed-base economics
 - `Northrop`: mission systems and production capacity
 - `ABM`: ongoing operation of critical environments
+- `Builders FirstSource`: housing-supply-chain density, value-added components, prefabrication, digital workflow, and affordability-linked builder demand
 
 That suggests the more durable industrial moats are shifting toward system integration, service depth, installed base, and operating know-how.
 
@@ -214,6 +244,7 @@ That suggests the more durable industrial moats are shifting toward system integ
 | Defense and deterrence industrial base | Northrop, Honeywell | budget-backed demand, aerospace systems, strategic modernization, production scale |
 | Transport and environmental infrastructure | Union Pacific, Waste Management | regulated or network infrastructure, pricing discipline, throughput, operational leverage |
 | Outsourced technical operations | ABM | airports, fabs, datacenters, battery systems, labor-intensive physical infrastructure support |
+| Homebuilding supply chain and prefabrication | Builders FirstSource | starts sensitivity, repair-and-remodel exposure, prefabricated components, value-added distribution, digital workflow, and affordability-linked builder demand |
 
 ## Cultural and economic signals
 
@@ -230,6 +261,7 @@ Across the completed industrial-goods set, the broader signals are:
 - `Dycom` extends the same physical-demand chain into communications and digital-network deployment, showing that AI-related capex also needs route engineering, fiber placement, splicing, wireless work, and increasingly inside-the-facility cabling and building-systems integration.
 - `Comfort Systems` adds the broader skilled-trades and building-systems layer, where HVAC, electrical, modular, and service execution depends on labor depth and local operating quality rather than only on demand or equipment availability.
 - `EMCOR` reinforces that same conclusion at larger scale, while also showing that AI and data-center demand do not stop at power equipment. They also create demand for electrical fit-out, mechanical systems, environmental controls, communications cabling, retrofit work, and ongoing facilities services.
+- Housing affordability and shelter efficiency remain industrial questions too, not only consumer or real-estate questions.
 - The direct winners are not only grid or building names; they also include operators explicitly centered on critical digital infrastructure deployment.
 - Government and regulated spending still matter materially through defense, rail, waste, and infrastructure policy.
 - Industrial value is concentrating in businesses with installed bases, backlog visibility, system depth, and execution capability.
@@ -278,6 +310,7 @@ That means the center of gravity is moving toward:
 - long-cycle backlog and capacity-constrained fulfillment
 - defense and regulated infrastructure
 - service-heavy operation of complex physical assets
+- homebuilding supply chain and prefabrication
 
 ## Useful organizing frame going forward
 
@@ -298,6 +331,7 @@ The archive will likely be easiest to extend if Industrial Goods is grouped into
 - defense and aerospace industrial base
 - transport and environmental infrastructure
 - outsourced technical and facilities operations
+- homebuilding supply chain and prefabrication
 
 ## Next best extensions
 

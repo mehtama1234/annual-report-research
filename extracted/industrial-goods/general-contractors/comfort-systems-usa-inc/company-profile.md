@@ -22,7 +22,7 @@ Date baseline: 2026-08-09
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
-- Latest annual report collected: no official annual-report PDF collected
+- Latest annual report collected: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
@@ -34,6 +34,7 @@ Date baseline: 2026-08-09
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
 | 2025 | Comfort Systems USA AnnualReports metadata verification | https://www.annualreports.com/Company/comfort-systems-usa | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/general-contractors/comfort-systems-usa-inc/annualreports-verification.md) | AnnualReports confirms the `Industrial Goods` / `General Contractors` classification and, as of `2026-08-09`, still labels `2024` as the most recent hosted annual package. |
+| 2025 | Annual Report to Security Holders (`ARS`) PDF | https://www.sec.gov/Archives/edgar/data/1035983/000130817926000246/fix015387-ars.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-annual-report.pdf) | Filed `2026-04-09` and collected from the SEC archive on `2026-08-09`. |
 | 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1035983/000110465926017530/fix-20251231x10k.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-10k.html) | Filed annual package covering the year ended `2025-12-31` and the company's HVAC, electrical, and building-services operating model. |
 | 2025 | SEC submissions JSON | https://data.sec.gov/submissions/CIK0001035983.json | [submissions-cik0001035983.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/submissions-cik0001035983.json) | Confirms CIK, ticker, exchange, December fiscal year-end, and the authoritative annual plus trailing-three-quarter filing chain. |
 
@@ -53,6 +54,7 @@ Date baseline: 2026-08-09
 - Workforce capacity is an explicit risk variable. The filings and releases repeatedly tie results to team execution, and the forward-looking-risk language specifically flags the risk of contractual commitments exceeding labor resources and the risk of failing to utilize the workforce properly.
 - The company is analytically useful because it sits inside the skilled-trades bottleneck rather than simply buying labor from someone else. That makes it a cleaner `the-labor-squeeze` operator than the archive previously had.
 - Management tone is direct and operational. The company keeps emphasizing execution, burn, bookings, pipelines, and workforce quality rather than broad macro optimism.
+- The archive quality is now materially stronger because the official annual-report artifact is on disk rather than only the `10-K` HTML and supporting IR pages.
 
 ## Open questions
 

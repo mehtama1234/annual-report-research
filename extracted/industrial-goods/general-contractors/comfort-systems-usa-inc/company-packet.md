@@ -19,6 +19,7 @@ Date baseline: 2026-08-09
 
 - Comfort Systems is the right next Industrial Goods name because it closes a gap the archive still had: direct skilled-trades and labor-capacity exposure inside commercial, industrial, and institutional building work.
 - AnnualReports classifies the company as `Industrial Goods / General Contractors`, which is a better fit than the temporary holding path this packet started under. The business reads as an operator of HVAC, electrical, modular, and building-services execution capacity rather than as a machinery OEM.
+- The annual evidence chain is now complete with an official annual-report artifact on disk through the SEC `ARS` filing, rather than only the `10-K` and quarter materials.
 - The `2025` annual filing chain shows an unusually strong year. Full-year revenue reached `$9.10 billion`, net income reached `$1.02 billion`, diluted EPS reached `$28.88`, and operating cash flow reached `$1.19 billion`.
 - Year-end backlog was the key operating signal. Backlog reached `$11.94 billion` at `2025-12-31`, up from `$5.99 billion` a year earlier, and same-store backlog reached `$11.58 billion`.
 - Comfort Systems matters for the labor work because management keeps tying results to execution quality, team depth, and the ability to convert demand into completed work, while the risk disclosures explicitly warn about taking on commitments that exceed labor resources.
@@ -59,6 +60,7 @@ Date baseline: 2026-08-09
 
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/general-contractors/comfort-systems-usa-inc/annualreports-verification.md)
 - [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-annual-report.pdf)
 - [investor-home.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/investor-home.html)
 - [presentations.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/presentations.html)
 - [sec-filings-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/sec-filings-page.html)

@@ -11,19 +11,16 @@ This note compares:
 
 ## Current result
 
-Mapped force slugs: `13`
+Mapped force slugs: `16`
 
-Unmapped force slugs: `7`
+Unmapped force slugs: `4`
 
 Unmapped list:
 
 1. `commodity-whiplash`
-2. `the-experience-economy`
-3. `the-fractional-worker`
-4. `the-graying-market`
-5. `the-immigration-squeeze`
-6. `the-labor-squeeze`
-7. `the-real-estate-reckoning`
+2. `the-graying-market`
+3. `the-immigration-squeeze`
+4. `the-labor-squeeze`
 
 ## Why these remain open
 
@@ -38,12 +35,10 @@ The current annual-report archive is strong in:
 
 It is weaker in:
 
-- travel and leisure
-- entertainment and venue operators
 - agriculture and commodity producers
-- homebuilding and real-estate owners
-- staffing and labor-market intermediaries
+- homebuilding and property-capital edge cases outside the current real-estate set
 - senior housing and age-linked consumer services
+- immigration- and labor-bottleneck operators
 
 So the remaining force gaps are mostly not tagging failures. They are exposure gaps.
 
@@ -72,53 +67,7 @@ Best new anchor candidates:
 
 Priority: high if you want the force map to reflect producer and farm-cycle economics rather than only downstream pass-through.
 
-### 2. `the-experience-economy`
-
-Current archive companies with partial relevance:
-
-- Apple
-- American Express
-
-Why they are only partial:
-
-- They touch premium consumption, travel, or ecosystem spending, but they are not direct operators of experience-heavy demand pools.
-
-Best new anchor candidates:
-
-- Disney
-- Live Nation
-- Airbnb
-- Marriott
-- Hilton
-- Booking Holdings
-
-Priority: high if cultural and consumer themes are supposed to include leisure, travel, live events, and premium memory spending.
-
-### 3. `the-fractional-worker`
-
-Current archive companies with partial relevance:
-
-- Accenture
-- Cintas
-- ABM
-- APi
-
-Why they are only partial:
-
-- These companies show outsourcing, contracted labor, and managed-services dependence.
-- They do not directly represent staffing platforms, expert-on-demand markets, or the fractionalization of knowledge work.
-
-Best new anchor candidates:
-
-- Robert Half
-- ManpowerGroup
-- Upwork
-- Fiverr
-- Insperity
-
-Priority: medium. The current archive already captures some outsourcing logic, but not the labor-market platform version of it.
-
-### 4. `the-graying-market`
+### 2. `the-graying-market`
 
 Current archive companies with partial relevance:
 
@@ -143,7 +92,7 @@ Best new anchor candidates:
 
 Priority: medium-high. Healthcare evidence is already present, so this is more about refining the force with age-specific operators.
 
-### 5. `the-immigration-squeeze`
+### 3. `the-immigration-squeeze`
 
 Current archive companies with partial relevance:
 
@@ -168,7 +117,7 @@ Best new anchor candidates:
 
 Priority: medium-high if labor-policy and immigration exposure are meant to be a named cross-sector theme.
 
-### 6. `the-labor-squeeze`
+### 4. `the-labor-squeeze`
 
 Current archive companies with partial relevance:
 
@@ -194,51 +143,18 @@ Best new anchor candidates:
 
 Priority: medium. This is the easiest uncovered force to improve using the current archive plus a few targeted additions.
 
-### 7. `the-real-estate-reckoning`
-
-Current archive companies with partial relevance:
-
-- Trane Technologies
-- Eaton
-- ABM
-- UPS
-- Waste Management
-
-Why they are only partial:
-
-- These companies benefit from retrofit, power, logistics, facilities operations, and data-center demand.
-- They do not directly represent office distress, multifamily strain, REIT capital structure, or commercial-property repricing.
-
-Best new anchor candidates:
-
-- Prologis
-- Equinix
-- Digital Realty
-- AvalonBay
-- CBRE
-- Jones Lang LaSalle
-
-Priority: high if the force map is expected to cover property capital rotation and the office-to-logistics/data-center/housing shift directly.
-
-Operational next step recorded in:
-
-- `indexes/next-tranche-real-estate-reckoning.csv`
-
 ## Practical ranking
 
 If the goal is to improve the bridge fastest, the best next collection priorities are:
 
-1. `the-real-estate-reckoning`
-2. `the-experience-economy`
-3. `commodity-whiplash`
-4. `the-labor-squeeze`
-5. `the-graying-market`
-6. `the-immigration-squeeze`
-7. `the-fractional-worker`
+1. `commodity-whiplash`
+2. `the-labor-squeeze`
+3. `the-graying-market`
+4. `the-immigration-squeeze`
 
 ## Recommendation
 
-Do not force these seven slugs into `force-map.csv` yet with weak evidence.
+Do not force the four remaining slugs into `force-map.csv` yet with weak evidence.
 
 Use the current file for high-confidence mappings only, and treat this note as the queue for the next company-selection pass.
 

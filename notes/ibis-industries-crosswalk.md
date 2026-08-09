@@ -107,6 +107,15 @@ The strongest current crosswalks are:
     - automation acceptance
     - premium versus value social splits
 
+- `experience-status-and-community`
+  - closest `ibis-industries` forces:
+    - `the-experience-economy`
+    - `the-channel-shift`
+  - useful for:
+    - live-event demand
+    - travel and lodging demand
+    - premium access, membership, and status-linked spending
+
 - `institutional-operating-infrastructure`
   - closest `ibis-industries` forces:
     - `the-compliance-tax`
@@ -116,6 +125,15 @@ The strongest current crosswalks are:
     - outsourced operations
     - hidden workflow systems
     - compliance-heavy service layers
+
+- `labor-intermediation-and-fractional-work`
+  - closest `ibis-industries` forces:
+    - `the-fractional-worker`
+    - `the-labor-squeeze`
+  - useful for:
+    - staffing platforms
+    - contract talent and permanent placement
+    - managed-services and external execution layers
 
 - `capital-intensity-and-investment-concentration`
   - closest `ibis-industries` forces:

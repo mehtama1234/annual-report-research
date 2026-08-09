@@ -29,5 +29,6 @@
 - The local archive therefore relies on:
   - verified IR page URLs above, and
   - locally saved SEC filing HTML artifacts under `raw/sec/.../dell-technologies-inc/`
-- Direct SEC shell fetches for the `2025` annual-report PDF returned the SEC undeclared-automation block page instead of the PDF.
-- The temporary blocked-response file that had been saved locally as `2025-annual-report.pdf` was removed from the workspace on `2026-08-09` because it was not a valid PDF artifact.
+- A direct SEC shell fetch for the `2025` annual-report PDF succeeded on `2026-08-09` once the request used a declared research user agent.
+- The valid local artifact is now saved as:
+  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/information-technology-services/dell-technologies-inc/2025-annual-report.pdf)

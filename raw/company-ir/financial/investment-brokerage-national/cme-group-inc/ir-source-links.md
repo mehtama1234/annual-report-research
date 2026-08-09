@@ -30,4 +30,6 @@ Date verified: 2026-08-08
 
 - The SEC filing chain for `2025` annual, `4Q25`, `1Q26`, and `2Q26` is saved locally under `raw/sec/...`.
 - Direct shell fetches to several CME IR static-file and event-page endpoints returned incomplete placeholder HTML during this pass, so some official quarter files are URL-verified but not yet saved locally.
-- The `2025` annual-report PDF is source-verified on both AnnualReports.com and SEC, but no valid local annual-report PDF artifact is saved yet.
+- A direct SEC shell fetch for the `2025` annual-report PDF succeeded on `2026-08-09` once the request used a declared research user agent.
+- The valid local artifact is now saved as:
+  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/investment-brokerage-national/cme-group-inc/2025-annual-report.pdf)

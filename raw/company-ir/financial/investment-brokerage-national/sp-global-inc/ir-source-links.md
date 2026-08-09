@@ -32,5 +32,6 @@ Date verified: 2026-08-08
 
 - The full SEC filing chain for `2025` annual, `4Q25`, `1Q26`, and `2Q26` is saved locally under `raw/sec/...`.
 - Direct shell fetches to several S&P Global IR files and release pages hit Cloudflare challenge pages during this pass, so some locally saved HTML and placeholder PDF files in this folder are not reliable artifacts and are not used as evidence in the extracted summaries.
-- Direct SEC shell fetches for the `2025` annual-report PDF returned the SEC undeclared-automation block page instead of the PDF.
-- The temporary blocked-response file that had been saved locally as `2025-annual-report.pdf` was removed from the workspace on `2026-08-09` because it was not a valid PDF artifact.
+- A direct SEC shell fetch for the `2025` annual-report PDF succeeded on `2026-08-09` once the request used a declared research user agent.
+- The valid local artifact is now saved as:
+  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/investment-brokerage-national/sp-global-inc/2025-annual-report.pdf)

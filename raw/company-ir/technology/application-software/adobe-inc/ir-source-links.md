@@ -41,5 +41,6 @@
 ## Annual-report retrieval status
 
 - The `2025` annual-report PDF is source-verified on both AnnualReports.com and SEC.
-- Direct SEC shell fetches from this machine returned the SEC undeclared-automation block page instead of the PDF.
-- The temporary blocked-response file that had been saved locally as `2025-annual-report.pdf` was removed from the workspace on `2026-08-09` because it was not a valid PDF artifact.
+- A direct SEC shell fetch succeeded on `2026-08-09` once the request used a declared research user agent.
+- The valid local artifact is now saved as:
+  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/adobe-inc/2025-annual-report.pdf)

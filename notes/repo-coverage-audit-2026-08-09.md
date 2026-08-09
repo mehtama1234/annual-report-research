@@ -26,7 +26,7 @@ Those files previously contained unescaped commas in company names, linked-compa
 
 Coverage tracker totals:
 
-- annual reports collected: `48 / 55`
+- annual reports collected: `53 / 55`
 - annual filings collected: `55 / 55`
 - latest quarter collected: `55 / 55`
 - prior quarter collected: `55 / 55`
@@ -38,25 +38,20 @@ Coverage tracker totals:
 | Sector | Companies | Annual reports | Annual filings | Latest transcripts |
 |---|---:|---:|---:|---:|
 | Consumer Goods | 6 | 6 | 6 | 1 |
-| Financial | 17 | 13 | 17 | 5 |
+| Financial | 17 | 15 | 17 | 5 |
 | Healthcare | 6 | 6 | 6 | 1 |
 | Industrial Goods | 8 | 8 | 8 | 0 |
 | Services | 5 | 5 | 5 | 0 |
-| Technology | 13 | 10 | 13 | 6 |
+| Technology | 13 | 13 | 13 | 6 |
 
 ## Missing annual-report binaries
 
 These are the remaining annual-report gaps in the tracker:
 
-1. Technology / Adobe Inc.
-2. Technology / ServiceNow, Inc.
-3. Technology / Dell Technologies Inc.
-4. Financial / T. Rowe Price Group, Inc.
-5. Financial / Blackstone Inc.
-6. Financial / CME Group Inc.
-7. Financial / S&P Global Inc.
+1. Financial / T. Rowe Price Group, Inc.
+2. Financial / Blackstone Inc.
 
-These are mostly archive-quality gaps, not evidence-chain gaps. In most cases the SEC filing chain and quarterlies are already present.
+These are now a narrow archive-quality tail, not broad evidence-chain gaps. In both cases the SEC filing chain and quarterlies are already present.
 
 ## What the archive already says
 
@@ -71,7 +66,7 @@ These are mostly archive-quality gaps, not evidence-chain gaps. In most cases th
    Only `13 / 55` companies have the latest transcript saved locally.
 
 2. A small annual-report tail remains.
-   Only `7` companies still lack the annual-report binary in the archive.
+   Only `2` companies still lack the annual-report binary in the archive.
 
 3. Services and Industrial Goods are good enough for synthesis but still lighter than Financial and Technology in commentary depth.
 
@@ -80,7 +75,7 @@ These are mostly archive-quality gaps, not evidence-chain gaps. In most cases th
 
 ## Next collection priorities
 
-1. Close the 7 annual-report gaps first.
+1. Close the 2 remaining annual-report gaps first.
    That is the cleanest path to a nearly complete `2025` annual archive.
 
 2. Raise transcript density in Financial.

@@ -16,6 +16,8 @@ This synthesis is based on the completed Basic Materials packets currently in th
   - [Nutrien Ltd.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/agricultural-chemicals/nutrien/company-packet.md)
 - Diversified chemicals and materials science:
   - [Dow Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/chemicals-major-diversified/dow-inc/company-packet.md)
+- Aluminum system:
+  - [Alcoa Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/aluminum/alcoa-corporation/company-packet.md)
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-09`: `Q4 2025`, `Q1 2026`, and `Q2 2026`.
 
@@ -23,13 +25,14 @@ The source window is the `2025` annual report plus the last three reported quart
 
 The local evidence now supports a clear conclusion: `Basic Materials` is not one commodity bucket and not one inflation trade.
 
-The five-company set breaks the sector into distinct but connected physical systems:
+The six-company set breaks the sector into distinct but connected physical systems:
 
 - energy supply and refining
 - copper extraction and mine execution
 - steel production and domestic fabrication
 - fertilizer production and agricultural distribution
 - chemicals conversion, plastics, silicones, and coatings
+- aluminum refining, smelting, casting, and energy-intensive restart execution
 
 The best way to read the sector is not by asking whether “materials are up or down.” It is by asking which bottleneck matters:
 
@@ -38,6 +41,7 @@ The best way to read the sector is not by asking whether “materials are up or 
 - steel and manufacturing throughput
 - crop nutrients and farm economics
 - polyethylene, feedstocks, and downstream chemical applications
+- bauxite, alumina, smelting capacity, and tariff-sensitive metal premiums
 
 ## What is actually going on
 
@@ -50,6 +54,7 @@ Each company sits at a different chokepoint in the real economy:
 - `Nucor` is a domestic steel and fabricated-products system tied to industrial demand, construction, power, and trade policy.
 - `Nutrien` is a crop-input and agricultural-distribution system tied to acreage, grain prices, grower economics, and global fertilizer flows.
 - `Dow` is a chemicals and materials-science system tied to polyethylene margins, feedstock flexibility, plastics demand, silicones and coatings mix, and restructuring execution.
+- `Alcoa` is an upstream aluminum system tied to bauxite and alumina supply, smelter restart timing, energy costs, tariffs, and metal-premium pass-through.
 
 That means the sector is better understood as infrastructure for the physical economy than as a single cyclical risk trade.
 
@@ -68,6 +73,7 @@ The differences matter:
 - `Nucor` is spending aggressively to widen product mix and exposure to higher-value end markets.
 - `Nutrien` is trying to improve free-cash-flow quality while still funding core assets, automation, and selective growth.
 - `Dow` is trying to preserve dividends and flexibility while cutting costs, shrinking weaker assets, and resetting the earnings base through Transform to Outperform.
+- `Alcoa` is mixing debt reduction and remediation with restart spending, selective growth, and now the proposed AliGroup acquisition.
 
 So the sector is not in harvest mode. The better read is selective reinvestment in strategic assets while still returning capital.
 
@@ -82,6 +88,7 @@ The clearest examples:
 - `Nutrien` sits inside food security, fertilizer affordability, and farm productivity.
 - `ExxonMobil` still matters because energy security, refining throughput, and product movement remain central to the broader industrial system.
 - `Dow` matters because packaging resins, silicones, performance materials, and industrial intermediates sit in the middle of real downstream production systems rather than at the edge of them.
+- `Alcoa` matters because aluminum links power-intensive upstream processing to transport, packaging, wire, construction, and industrial fabrication, while tariff policy and regional premiums can move economics quickly.
 
 This is one of the strongest sector-level findings: the local evidence makes Basic Materials look politically and strategically important, not just cyclical.
 
@@ -96,6 +103,7 @@ Examples:
 - `Nucor` explicitly benefits from supportive U.S. trade policy and lower unfairly traded imports.
 - `Nutrien` is exposed to fertilizer trade flows, natural-gas costs, export restrictions, and geopolitics affecting crop inputs.
 - `Dow` is exposed to environmental standards, regional feedstock economics, European cost pressure, and conflict-driven supply disruptions that can quickly change polyethylene and chemical margins.
+- `Alcoa` is exposed to Section 232 tariffs, Midwest and Rotterdam premium changes, energy-price shocks connected to the Middle East conflict, and permitting and remediation decisions across the operating footprint.
 
 The implication is simple: in this sector, regulation and geopolitics are earnings variables, not just risk-factor footnotes.
 
@@ -110,6 +118,7 @@ What they show instead:
 - `Freeport` improved as Grasberg recovered and copper pricing stayed supportive, but mine execution still dominates the story.
 - `ExxonMobil` remained highly cash generative, but quarter-to-quarter results were more visibly affected by disruptions, timing effects, and integrated mix.
 - `Dow` moved from a depressed `Q4 2025` and still-soft `Q1 2026` into a much stronger `Q2 2026` as polyethylene pricing and self-help actions finally showed through.
+- `Alcoa` moved from a strong `Q4 2025` and resilient but disruption-heavy `Q1 2026` into a quarterly-record `Q2 2026` as San Ciprian restarted fully and aluminum shipments and pricing strengthened.
 
 So “the sector is recovering” is too simple. Some businesses are rebounding off weak quarters, some are executing through disruption, and some are monetizing already-strong strategic positions.
 
@@ -124,6 +133,7 @@ The chain looks like this:
 - `Nucor` benefits from data-center, power, and industrial construction demand.
 - `Nutrien` is farther from digital infrastructure but still shows how the real economy depends on hard production systems and logistics.
 - `Dow` sits in between feedstocks and applications, with direct exposure to electronics, packaging, coatings, construction materials, and even data-center-related industrial solutions demand.
+- `Alcoa` supplies a processed metal that still matters to grid equipment, wire, transport, packaging, and industrial fabrication, which is another reminder that digital growth still rests on heavy upstream systems.
 
 That makes Basic Materials a useful counterweight to software-only narratives. The digital economy still rests on mined, refined, fabricated, and transported physical inputs.
 
@@ -136,6 +146,7 @@ That makes Basic Materials a useful counterweight to software-only narratives. T
 | Domestic industrial throughput | Nucor | steel, fabrication, recycling, industrial policy, and U.S. manufacturing leverage |
 | Food-system and farm-input infrastructure | Nutrien | potash, nitrogen, phosphate, agronomy, acreage demand, and grower-economics dependence |
 | Conversion chemistry and materials science | Dow | plastics, silicones, coatings, industrial intermediates, margin sensitivity, and restructuring-led earnings repair |
+| Aluminum conversion and restart system | Alcoa | bauxite, alumina, smelting, tariff pass-through, energy intensity, restart execution, and acquisition-led upstream expansion |
 
 ## Cultural and economic signals
 
@@ -147,6 +158,7 @@ Across the completed Basic Materials set, the broader signals are:
 - real-world bottlenecks remain central to growth stories
 - shareholder return is important, but reinvestment in asset quality still dominates
 - chemicals conversion and downstream materials applications matter as much as upstream extraction
+- restart execution and energy-intensive metals processing remain core to the physical economy as well
 
 The bigger cultural read is that production, logistics, energy, metals, and agricultural inputs are not legacy leftovers. They remain the substrate of everything else.
 
@@ -159,6 +171,7 @@ The most useful working frame for this sector is:
 - `Nucor` for domestic industrial buildout and trade-sensitive manufacturing
 - `Nutrien` for food production, farm economics, and fertilizer flows
 - `Dow` for chemicals conversion, plastics and materials applications, and restructuring-sensitive margin recovery
+- `Alcoa` for the aluminum chain, smelter restart execution, tariff-sensitive premiums, and acquisition-backed upstream scale
 
 That is a much better frame than “materials are cyclical.”
 
@@ -178,7 +191,9 @@ The cleanest current conclusion is:
 
 The strongest names in the local archive are not only selling materials. They are operating critical inputs into energy, electrification, manufacturing, infrastructure, food production, and chemical conversion into end-use products.
 
+Alcoa extends that conclusion by adding the aluminum system, where energy intensity, smelter restarts, tariffs, and regional premiums all directly shape earnings quality.
+
 ## Next best extensions
 
-- Add another mining or aluminum name if the goal is to deepen the electrification and metal-supply read beyond copper and steel.
+- Add another mining or aluminum-adjacent name if the goal is to deepen the electrification and metal-supply read beyond copper, steel, and primary aluminum.
 - Add a paper, packaging, or forest-products name if the goal is to widen the sector into less policy-explicit but still infrastructure-linked materials demand.

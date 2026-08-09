@@ -15,6 +15,8 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [Monster Beverage Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
 - Home improvement and built environment:
   - [Lowe's Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
+- Off-price and bargain discovery:
+  - [Burlington Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-packet.md)
 - Beauty and discretionary personal products:
   - [Coty Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/coty-inc/company-packet.md)
   - [The Estee Lauder Companies Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md)
@@ -29,12 +31,13 @@ Related cross-sector memo:
 
 ## Executive read
 
-The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the 2025 annuals and late-2025 / 2026 quarterlies is not one simple brand-pricing story. It is a sector splitting across at least six different demand and earnings models:
+The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the 2025 annuals and late-2025 / 2026 quarterlies is not one simple brand-pricing story. It is a sector splitting across at least seven different demand and earnings models:
 
 - everyday staples and household-care platforms
 - broad food and beverage portfolios shaped by affordability, convenience, and health-adjacent demand
 - functional-energy and identity-driven beverage systems
 - home-improvement and built-environment demand systems
+- off-price and bargain-discovery retail systems
 - beauty and discretionary personal-products portfolios with much higher execution, channel, and category sensitivity
 - packaging and container platforms that sit upstream of branded demand but still reflect consumer affordability, foodservice activity, and packaging-format economics
 
@@ -44,7 +47,7 @@ The strongest pattern is that consumer resilience is real, but it is increasingl
 
 ### 1. Consumer goods is fragmenting by category quality and value-chain position, not just by brand strength
 
-The nine-company set already breaks into distinct economic roles:
+The ten-company set already breaks into distinct economic roles:
 
 - `Procter & Gamble` is a broad daily-use and brand-superiority platform.
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
@@ -52,11 +55,23 @@ The nine-company set already breaks into distinct economic roles:
 - `PepsiCo` is a broad food-and-beverage portfolio balancing affordability, convenience, and functional demand.
 - `Monster Beverage` is a functional-energy and lifestyle-brand platform built on repeat stimulation demand, innovation cadence, and global distribution reach.
 - `Lowe's` is a home-improvement and built-environment operator sitting between consumer project demand, housing pressure, home services, and pro-oriented distribution.
+- `Burlington` is an off-price and bargain-discovery retailer built on physical traffic, opportunistic buying, branded value perception, and repeat treasure-hunt behavior.
 - `Coty` is a more stressed beauty portfolio with clear execution and category weakness.
 - `Estee Lauder` is a recovering prestige-beauty platform.
 - `Graphic Packaging` is a packaging-and-foodservice infrastructure platform sitting behind multiple branded consumer channels.
 
-This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, beauty exposure, home-improvement demand, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, trend-sensitive, or physically embedded in the delivery layer behind the shelf.
+This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, beauty exposure, home-improvement demand, off-price bargain discovery, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, value-hunt-driven, trend-sensitive, or physically embedded in the delivery layer behind the shelf.
+
+### 1B. Consumer Goods also contains an off-price bargain-discovery layer
+
+`Burlington` is the current reason this synthesis needs that sentence.
+
+- the annual filing shows a nationally recognized off-price retailer with more than `99%` of net sales still coming from stores
+- the year-end base was already large, with `1,212` stores, `52.8 million` gross square feet, and six distribution centers as of `2026-01-31`
+- the quarter trail then strengthened from `Q3 2025` total sales growth of `7%` and comp growth of `1%`, to `Q4 2025` growth of `11%` and `4%`, to `Q1 2026` growth of `14%` and `6%`
+- AnnualReports.com places Burlington in `Consumer Goods`, while a close off-price analogue like Ross sits in `Services`
+
+This matters for the same reason Lowe's mattered earlier: the archive cannot treat top-level sector labels as economic truth. Consumer behavior that looks like retail traffic, value hunting, and branded-bargain discovery can still arrive under the `Consumer Goods` umbrella in the source taxonomy.
 
 ### 1A. Consumer Goods also contains a built-environment and home-improvement layer
 
@@ -174,6 +189,7 @@ This remains a sector where mature cash engines matter. But the important nuance
 | Food and beverage value portfolio | PepsiCo | affordability, convenience, international diversification, functional and health-adjacent mix |
 | Functional-energy and lifestyle beverage platform | Monster Beverage | repeat stimulation demand, innovation cadence, international expansion, brand intensity, Coca-Cola-supported distribution reach |
 | Home-improvement and built-environment platform | Lowe's | housing pressure, Pro penetration, online growth, home services, loyalty, and distribution scale |
+| Off-price and bargain-discovery platform | Burlington | branded value hunt behavior, physical traffic, opportunistic buying, store-base expansion, and value-seeking consumer demand |
 | Stressed beauty portfolio | Coty | execution-sensitive beauty demand, weaker Consumer Beauty, strategic-review pressure, geopolitical sensitivity |
 | Recovering prestige beauty platform | Estee Lauder | restructuring-led recovery, fragrance strength, China recovery, premium mix improvement |
 | Packaging and consumer-delivery infrastructure platform | Graphic Packaging | affordability pass-through, packaging middleware, footprint optimization, recycled-material positioning, capex-to-cash-flow transition |
@@ -184,6 +200,7 @@ Across the completed consumer-goods set, the broader signals are:
 
 - the consumer is pressured, but not absent
 - value and premium can both work, while the generic middle is less reliable
+- bargain discovery and off-price branded value still behave like a real recurring consumer draw, not just a residual clearance channel
 - trusted routine-use categories still anchor demand
 - health and functional positioning are economically relevant
 - some consumer demand is really built-environment demand, where home maintenance, installations, and Pro workflow matter as much as normal retail traffic

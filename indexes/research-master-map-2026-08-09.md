@@ -62,7 +62,7 @@ Current sector coverage from `coverage-tracker.csv`:
 | Sector | Companies tracked | Fully packetized base cases |
 |---|---:|---:|
 | Basic Materials | 11 | 7 |
-| Consumer Goods | 9 | 8 |
+| Consumer Goods | 10 | 9 |
 | Financial | 17 | 13 |
 | Healthcare | 10 | 8 |
 | Industrial Goods | 22 | 13 |

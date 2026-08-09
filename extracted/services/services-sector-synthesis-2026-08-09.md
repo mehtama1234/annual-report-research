@@ -40,6 +40,7 @@ The source window is the `2025` annual report plus each company’s last three r
 Related focused memo:
 
 - [Value Retail and Consumer Routines](/home/manishmehta/ui-projects/annual-report-research/extracted/services/themes/value-retail-and-consumer-routines-2026-08-09.md)
+- [Recurring Consumer Routines and Loyalty](/home/manishmehta/ui-projects/annual-report-research/extracted/services/themes/recurring-consumer-routines-and-loyalty-2026-08-09.md)
 
 ## Executive read
 

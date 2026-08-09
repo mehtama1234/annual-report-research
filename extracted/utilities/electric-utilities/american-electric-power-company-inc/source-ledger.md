@@ -1,0 +1,46 @@
+# Source Ledger
+
+Date baseline: 2026-08-09
+
+## Sources
+
+| ID | Source | Date | Type | Why it matters | Tag | Local path |
+|---|---|---|---|---|---|---|
+| AEP-T1 | AnnualReports.com AEP company page | 2026-08-09 | Aggregator metadata | Confirms AEP is classified as `Utilities / Electric Utilities` and that the current annual package shown is `2025 Annual Report and Form 10K` | `[Reported]` | not saved locally |
+| AEP-T2 | AEP filings and reports page | 2026-08-09 | Official IR page | Confirms the in-scope Q2 2026, Q1 2026, Q4 2025, and `2025 AEP 10K Filing` materials and direct IR file paths | `[Disclosed]` | [financial-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/financial-page.html) |
+| AEP-T3 | AEP investor overview page | 2026-08-09 | Official IR page | Gives the current investor landing-page context and key filings links | `[Disclosed]` | [investors-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/investors-page.html) |
+| AEP-T4 | AEP facts page | 2026-08-09 | Official company page | Provides scale and identity facts including customers, states served, assets, service territory, and employee count | `[Disclosed]` | [facts-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/facts-page.html) |
+| AEP-T5 | AEP events and presentations page | 2026-08-09 | Official IR page | Confirms the earnings-webcast dates and the Q4 2025 through Q2 2026 resource chain | `[Disclosed]` | [events-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/events-page.html) |
+| AEP-T6 | AEP SEC-filings page | 2026-08-09 | Official IR page | Confirms the official filing dates and filing-PDF cloudfront paths for the `2025` `10-K`, Q1 `2026` `10-Q` and `8-K`, and Q2 `2026` `10-Q` and `8-K` | `[Disclosed]` | [sec-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/sec-page.html) |
+| AEP-T7 | AEP 2025 annual report / 10-K PDF | 2026-02-12 | Annual report PDF | Core annual narrative and filing package for the fiscal year ended `2025-12-31` | `[Disclosed]` | [2025-aep-10k-ir.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2025-aep-10k-ir.pdf) |
+| AEP-T8 | AEP 2025 Form 10-K PDF | 2026-02-12 | Filing PDF | Filing-chain evidence for the official `10-K` | `[Filed]` | [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/utilities/electric-utilities/american-electric-power-company-inc/2025-10k.pdf) |
+| AEP-T9 | AEP Q4 2025 earnings release | 2026-02-12 | Earnings release PDF | Full-year `2025` and fourth-quarter results, initial `2026` guidance, and early large-load framing | `[Disclosed]` | [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2025-q4-earnings-release.pdf) |
+| AEP-T10 | AEP Q4 2025 earnings presentation | 2026-02-12 | Presentation PDF | Supplemental quarter detail on load growth, capital plan, and operating segments | `[Disclosed]` | [2025-q4-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2025-q4-earnings-presentation.pdf) |
+| AEP-T11 | AEP Q4 2025 supplemental schedules | 2026-02-12 | Supplemental PDF | Additional quarter detail behind the year-end earnings release | `[Disclosed]` | [2025-q4-supplemental-slides.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2025-q4-supplemental-slides.pdf) |
+| AEP-T12 | AEP Q4 2025 Form 8-K | 2026-02-12 | Filing PDF | Filing wrapper for the fourth-quarter and full-year release | `[Filed]` | [2025-q4-8k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/utilities/electric-utilities/american-electric-power-company-inc/2025-q4-8k.pdf) |
+| AEP-T13 | AEP Q1 2026 earnings release | 2026-05-05 | Earnings release PDF | First-quarter results, load-growth acceleration, and the move from a `$72B` to `$78B` capital plan | `[Disclosed]` | [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2026-q1-earnings-release.pdf) |
+| AEP-T14 | AEP Q1 2026 earnings presentation | 2026-05-05 | Presentation PDF | Supplemental detail on capital-plan expansion, rate-base growth, and customer-load concentration | `[Disclosed]` | [2026-q1-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2026-q1-earnings-presentation.pdf) |
+| AEP-T15 | AEP Q1 2026 supplemental schedules | 2026-05-05 | Supplemental PDF | Additional quarter detail for Q1 `2026` | `[Disclosed]` | [2026-q1-supplemental-slides.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2026-q1-supplemental-slides.pdf) |
+| AEP-T16 | AEP Q1 2026 IR-hosted 10-Q PDF | 2026-05-05 | Filing PDF | IR path for the quarter ended `2026-03-31` | `[Disclosed]` | [2026-q1-10q-ir.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2026-q1-10q-ir.pdf) |
+| AEP-T17 | AEP Q1 2026 Form 10-Q | 2026-05-05 | Filing PDF | Official filing artifact for the quarter ended `2026-03-31` | `[Filed]` | [2026-q1-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/utilities/electric-utilities/american-electric-power-company-inc/2026-q1-10q.pdf) |
+| AEP-T18 | AEP Q1 2026 Form 8-K | 2026-05-05 | Filing PDF | Filing wrapper for the Q1 `2026` results release | `[Filed]` | [2026-q1-8k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/utilities/electric-utilities/american-electric-power-company-inc/2026-q1-8k.pdf) |
+| AEP-T19 | AEP Q2 2026 earnings release | 2026-07-30 | Earnings release PDF | Most recent quarter results, guidance raise, affordability framing, and gas-turbine update | `[Disclosed]` | [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2026-q2-earnings-release.pdf) |
+| AEP-T20 | AEP Q2 2026 earnings presentation | 2026-07-30 | Presentation PDF | Supplemental detail on guidance, load growth, and capital deployment | `[Disclosed]` | [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2026-q2-earnings-presentation.pdf) |
+| AEP-T21 | AEP Q2 2026 supplemental schedules | 2026-07-30 | Supplemental PDF | Additional quarter detail for Q2 `2026` | `[Disclosed]` | [2026-q2-supplemental-slides.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2026-q2-supplemental-slides.pdf) |
+| AEP-T22 | AEP Q2 2026 IR-hosted 10-Q PDF | 2026-07-30 | Filing PDF | IR path for the quarter ended `2026-06-30` | `[Disclosed]` | [2026-q2-10q-ir.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/electric-utilities/american-electric-power-company-inc/2026-q2-10q-ir.pdf) |
+| AEP-T23 | AEP Q2 2026 Form 10-Q | 2026-07-30 | Filing PDF | Official filing artifact for the quarter ended `2026-06-30` | `[Filed]` | [2026-q2-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/utilities/electric-utilities/american-electric-power-company-inc/2026-q2-10q.pdf) |
+| AEP-T24 | AEP Q2 2026 Form 8-K | 2026-07-30 | Filing PDF | Filing wrapper for the Q2 `2026` results release | `[Filed]` | [2026-q2-8k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/utilities/electric-utilities/american-electric-power-company-inc/2026-q2-8k.pdf) |
+
+## Reconciliation notes
+
+- AEP now has a complete annual evidence chain for current scope: the official `2025` AEP annual-report PDF and the filing-linked `10-K` PDF are both saved locally.
+- The trailing three-quarter window is covered with official evidence:
+  - `Q2 2026`: release, presentation, supplemental schedules, IR `10-Q`, filing `10-Q`, and filing `8-K`
+  - `Q1 2026`: release, presentation, supplemental schedules, IR `10-Q`, filing `10-Q`, and filing `8-K`
+  - `Q4 2025`: release, presentation, supplemental schedules, `10-K`, and filing `8-K`
+- AnnualReports verification for taxonomy and archive presence was completed via browser access, but the direct company-page HTML artifact was not saved locally because direct shell access to annualreports.com failed during collection.
+
+## Missing evidence
+
+- No standalone official earnings-call transcript artifact is saved for the current scope window.
+- No direct AnnualReports company-page HTML file is saved locally.

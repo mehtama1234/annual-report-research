@@ -1,0 +1,2032 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- begin spin_special_output(head_start) -->
+<style type="text/css" wd_script_id="ir_secfilings_style" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">
+.wd_selectors {
+	width: 100%;
+	overflow: auto;
+	margin: 0;
+}
+
+.wd_selector {
+	float: right;
+	margin: 0 0 5px 5px;
+	white-space: nowrap;
+}
+
+table.wd_sec_filings {
+	width: 100%;
+}
+
+table.wd_sec_filings th {
+	border-top: 1px solid #bbbbbb;
+	border-bottom: 1px solid #bbbbbb;
+	text-align: left;
+	margin: 0;
+	padding: 3px;
+}
+
+table.wd_sec_filings td {
+	border-bottom: 1px solid #dddddd;
+	text-align: left;
+	margin: 0;
+	padding: 3px;
+}
+
+table.wd_sec_filings td.wd_filing_type {
+	white-space:nowrap;
+}
+
+table.wd_sec_filings td.wd_document_format {
+	white-space:nowrap;
+}
+
+table.wd_sec_filings td.wd_filing_date {
+	white-space:nowrap;
+}
+
+table.wd_sec_filings a.wd_document {
+	margin: 0 8px 0 0;
+}
+
+table.wd_sec_filings a.wd_document img {
+	border: 0;
+}
+@media(max-width:767px){
+	table.wd_sec_filings td.wd_filing_type {
+		color: #0066CC;
+		cursor: pointer;
+	}
+	table.wd_sec_filings th.wd_description, table.wd_sec_filings td.wd_description {
+		display: none;
+	}
+}
+#ir_tooltip {
+	background-color: #FFFFFF;
+	padding: 5px;
+	border: 2px solid #0066CC;
+	border-radius:4px;
+	-webkit-border-radius:4px;
+	-moz-border-radius: 4px;
+}
+</style>
+<link href="css/wd_wcag.css" type="text/css" rel="stylesheet" wd_script_id="wd_wcag.css">
+<script type="text/javascript" src="js/jquery-webdriver.js" wd_script_id="jquery-webdriver.js" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw=="></script>
+<script type="text/javascript" src="js/webdriver.js" wd_script_id="webdriver.js" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw=="></script>
+<script type="text/javascript" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">webDriver.push_jQuery();</script>
+<script type="text/javascript" src="js/jquery-ui.js" wd_script_id="jquery-ui.js" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw=="></script>
+<script type="text/javascript" wd_script_id="ir_secfilings_script" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">
+(function($) {
+	function ir_tooltip_hide() {
+		$(document)
+			.unbind("keydown.ir_tooltip")
+			.unbind("click.ir_tooltip");
+		$("#ir_tooltip").fadeOut();
+	}
+	
+	function ir_tooltip_show() {
+		var $this = $(this);
+		var $desc = $this.closest("tr").find(".wd_description");
+		if ($desc.is(":visible")) {
+			ir_tooltip_hide();
+			return;
+		}
+			
+		$("#ir_tooltip")
+			.hide()
+			.html($desc.html())
+			.fadeIn()
+			.position({my: "left top", at: "left bottom", of: $this});
+		$(document)
+			.unbind("keydown.ir_tooltip")
+			.bind("keydown.ir_tooltip", function(e) {
+				if (e.keyCode == 27) {
+					e.preventDefault();
+					ir_tooltip_hide();
+				}
+			})
+			.unbind("click.ir_tooltip")
+			.bind("click.ir_tooltip", function(e) {
+				e.preventDefault();
+				ir_tooltip_hide();
+			});
+	}
+	
+	$(function () {
+		$("#ir_tooltip").bind("click", function() {ir_tooltip_hide();});
+		$("td.wd_filing_type").bind("click", function() {ir_tooltip_show.call(this); return false;});
+	});
+})(webDriver.jQuery);
+</script>
+<style type="text/css" wd_script_id="ir_filer_label_style" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">
+				div.wd_filer_label {
+					text-align: right;
+					margin: 5px 0;
+				}
+				div.wd_filer_label span.wd_exchange {
+					color: #999999;
+				}
+
+				div.wd_filer_label span.wd_exchange:after {
+					content: ": ";
+				}
+			</style>
+<script type="text/javascript" src="js/wd_resize.js" wd_script_id="wd_resize.js" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw=="></script>
+<link href="css/wd_linkmenu.css" type="text/css" rel="stylesheet" wd_script_id="wd_linkmenu.css">
+<script type="text/javascript" wd_script_id="wd_linkmenu_script" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">
+(function($, undefined) {
+	webDriver.resizeLinkMenu = function() {
+		$(this).data("wd_linkmenu_element").wd_linkmenu("resize");
+		return false;
+	};
+	
+	var wd_linkmenu = function(element, options) {
+		this.init(element, options);
+	};
+	
+	wd_linkmenu.prototype = {
+		init: function(element, options) {
+			var self = this;
+			
+			this.$element = $(element);
+			this._options = {
+				"class": "",
+				"label": "Menu",
+			};
+			
+			this.options(options);
+			
+			this.$active = this.$orig_active = this.$element.find(".wd_linkmenu-active");
+			var label = this.$active ? this.$active.text() : this._options["label"];
+			
+			this.$header = $("<div>")
+					.addClass("wd_linkmenu-header")
+					.attr("tabindex","0")
+					.data("wd_linkmenu_element", this.$element)
+					.attr("wd_resize", "resizeLinkMenu")
+					.on("click.wd_linkmenu", function(event) {
+						self.toggle();
+						event.preventDefault();
+					})
+					.insertBefore(this.$element)
+			;
+			if (this._options["class"])
+				this.$header.addClass(this._options["class"]);
+			var attr_string = this.$element.attr("wd_linkmenu_header");
+			if (attr_string) {
+				var attrs = JSON.parse(attr_string);
+				for(var name in attrs)
+					this.$header.attr(name, attrs[name]);
+			}
+			this.$label = $("<span>")
+					.addClass("wd_linkmenu-label")
+					.text(label)
+					.appendTo(this.$header);
+			this.$icon = $("<span class=\"wd_linkmenu-icon fa fa-chevron-down\" title=\"Open\"><\/span>")
+					.appendTo(this.$header);
+
+			this.$items = this.$element.children(".wd_linkmenu-item");
+			this.$items
+					.addClass("wd_linkmenu-listitem")
+					.prop("tabIndex", -1)
+			;
+			
+			// Remove any non-items (e.g. unintended text nodes)
+			this.$element.empty();
+			this.$element.append(this.$items);
+
+			this.$element.addClass("wd_linkmenu-list");
+			
+			// TODO: make tabs treat show/hide similar to Load, Resize
+			this.$element.closest("div.wd_assets").bind("wd_assets_show", function() {self.resize();});
+			this.$element.closest("div.wd_tab_content").bind("wd_tab_show", function() {self.resize();});
+
+			this.$element
+					.appendTo($("body"))
+					.hide()
+			;
+			
+			this.need_size = true;
+			this.resize();
+
+			this.$header.on("keydown.wd_linkmenu", function(event) {self.onkeydown(event,false);});
+			this.$header.on("blur.wd_linkmenu", function() {self.onblur();});
+			
+			this.$element.on("keydown.wd_linkmenu", function(event) {self.onkeydown(event,true);});
+			this.$element.on("blur.wd_linkmenu", function() {self.onblur();});
+			this.$element.on("mousemove.wd_linkmenu", function(event) {self.onmousemove(event);});
+			this.$items.not(".wd_disabled").on("click.wd_linkmenu", function() {self.onitemclick(this);})
+		},
+		
+		options: function(options) {
+			if (options) {
+				$.extend(this._options, options);
+			} else {
+				return this._options;
+			}
+		},
+		
+		reload: function(options) {
+			if (options) {
+				this.options(options);
+			}
+			
+			this.reset();
+		},
+
+		reset: function() {
+		},
+
+		onkeydown: function(event, on_item) {
+			var key = event.which || event.keyCode;
+			var used = false;
+			switch (key) {
+				case 13: // Return
+				case 32: // Space
+					if (!on_item) {
+						this.toggle();
+						used = true;
+					}
+					break;
+				case 27: // Escape
+					this.close();
+					used = true;
+					break;
+				case 9: // Tab
+					if (on_item)
+						this.$header[0].focus(); // Move focus back to normal flow
+					break;
+				case 33: // Page Up
+				case 36: // Home
+					if (!on_item)
+						this.open();
+					this.first();
+					used = true;
+					break;
+				case 34: // Page Down
+				case 35: // End
+					if (!on_item)
+						this.open();
+					this.last();
+					used = true;
+					break;
+				case 38: // Up
+				case 37: // Left
+					if (!on_item)
+						this.open();
+					this.prev();
+					used = true;
+					break;
+				case 40: // Down
+				case 39: // Right
+					if (!on_item)
+						this.open();
+					this.next();
+					used = true;
+					break;
+			}
+			
+			if (used) {
+				event.stopImmediatePropagation();
+				event.preventDefault();
+			}
+		},
+
+		onmousemove: function(event) {
+			var $item = $(event.target);
+			if ($item.hasClass("wd_linkmenu-listitem"))
+				this.goto($item);
+		},
+				
+		onitemclick: function(item) {
+			$item = $(item);
+			this.$label.text($item.text());
+			this.$orig_active = this.$active = $item;
+			this.close();
+			this.$header[0].focus();
+		},
+				
+		open: function() {
+			var self = this;
+			$(document).on("mousedown.wd_linkmenu touchstart.wd_linkmenu", function(event) {
+				if ($(event.target).closest(self.$header.add(self.$element)).length == 0)
+					self.close();
+			});
+			
+			this.$header.addClass("wd_linkmenu-active");
+			this.$element
+					.show()
+					.position({my:"left top",at:"left bottom",of:this.$header})
+			;
+			this.goto(this.$active);
+		},
+				
+		close: function() {
+			this.$element.hide();
+			this.set_active(this.$orig_active);
+			this.$header.removeClass("wd_linkmenu-active");
+			
+			$(document).off(".wd_linkmenu");
+		},
+				
+		onblur: function() {
+			if (!this.ignore_blur)
+				this.close();
+			this.ignore_blur = false;
+		},
+				
+		toggle: function() {
+			this.$element.is(":visible") ? this.close() : this.open();
+		},
+				
+		set_active: function($item) {
+			if ($item.length > 0) {
+				if (this.$active)
+					this.$active.removeClass("wd_linkmenu-active");
+				this.$active = $item;
+				this.$active.addClass("wd_linkmenu-active");
+			}
+		},
+				
+		goto: function($item) {
+			if ($item.length > 0) {
+				this.set_active($item);
+				this.ignore_blur = true;
+				this.$active[0].focus();
+			}
+		},
+				
+		next: function() {
+			if (!this.$active)
+				this.first();
+			else
+				this.goto(this.$active.next());
+		},
+
+		prev: function() {
+			if (!this.$active)
+				this.last();
+			else
+				this.goto(this.$active.prev());
+		},
+				
+		first: function() {
+			this.goto(this.$items.first());
+		},
+		
+		last: function() {
+			this.goto(this.$items.last());
+		},
+		
+		destroy: function() {
+			this.$items
+				.removeClass("wd_linkmenu-listitem")
+				.off(".wd_linkmenu")
+			;
+			this.$element
+				.off(".wd_linkmenu")
+				.removeClass("wd_linkmenu-list")
+				.insertBefore(this.$header)
+			;
+			this.$header.remove();
+		},
+		
+		resize: function() {
+			if (this.need_size && this.$label.is(":visible")) {
+				var temp_show = !this.$element.is(":visible");
+				if (temp_show) {
+					this.$element.show();
+				}
+				
+				this.$label.width("auto");
+				this.$element.width("auto");
+				this.$label.width(this.$element.width());
+				this.$element.width(this.$header.width());
+
+				if (temp_show) {
+					this.$element.hide();
+				}
+				this.need_size = false;
+			}
+		}
+	};
+
+	$.fn.wd_linkmenu = function(options) {
+		var args = Array.prototype.slice.call(arguments, 1);
+		var result = this;
+		
+		this.each(function() {
+			var instance = $(this).data("wd_linkmenu");
+			if (typeof options == "string") {
+				var res = instance[options].apply(instance, args);
+				if (typeof res != "undefined") {
+					result = res;
+					return false;
+				}
+			} else {
+                if (!instance) {
+					instance = new wd_linkmenu(this, options);
+					$(this).data("wd_linkmenu", instance);
+				}
+				
+                instance.reload(options);
+			}
+        });
+		
+		return result;
+    };
+})(webDriver.jQuery);
+</script>
+<script type="text/javascript" wd_script_id="wd_linkmenu_init_script" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">
+			webDriver.jQuery(function($) {
+				$(".wd_linkmenu").each(function() {
+					var $menu = $(this);
+					$menu.wd_linkmenu();
+				});
+			});
+		</script>
+<script type="text/javascript" wd_script_id="featurebox_financial_script" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">
+			var ir_featurebox = {
+				featureboxes: new Array,
+				ticker_data: new Array,
+
+				update: function(index, ticker, filer) {
+					var item_id = ticker || filer;
+					if (!this.featureboxes[index]) {
+						this.featureboxes[index] = {
+							ticker: ticker,
+							filer: filer,
+							chart: false,
+							size: false
+						};
+					}
+
+					if (!this.ticker_data[item_id])
+						this.ticker_data[item_id] = {};
+
+					if (ticker && webDriver.jQuery("#ir_featurebox_"+index+"-quote").length)
+						this.update_quote(index, ticker);
+
+					if (ticker && webDriver.jQuery("#ir_featurebox_"+index+"-chart").length)
+						this.update_chart(index, ticker);
+
+					if (ticker && webDriver.jQuery("#ir_featurebox_"+index+"-data").length)
+						this.update_data(index, ticker);
+
+					if (filer && webDriver.jQuery("#ir_featurebox_"+index+"-filings").length)
+						this.update_filings(index, filer);
+
+					if (webDriver.jQuery("#ir_featurebox_"+index+"-footer").length)
+						this.update_labels(index, ticker, filer);
+				},
+
+				update_labels: function(index, ticker, filer) {
+					var item_id = ticker || filer;
+					if (!this.ticker_data[item_id]["labels"]) {
+						webDriver.jQuery("#ir_featurebox_"+index+"-footer").html("");
+						webDriver.jQuery.getJSON(
+							"index.php",
+							{
+								ajax: "ir_featurebox",
+								ticker: ticker,
+								filer: filer,
+								data: "labels"
+							},
+							function(data) {
+								ir_featurebox.ticker_data[item_id]["labels"] = data;
+								ir_featurebox.update_labels(index, ticker, filer);
+							}
+						);
+					} else {
+						webDriver.jQuery("#ir_featurebox_"+index+"-footer").html(this.ticker_data[item_id]["labels"].footer);
+					}
+				}
+			};
+		</script>
+<style type="text/css" wd_script_id="ir_ticker_label_style" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">
+				div.wd_ticker_label {
+					text-align: right;
+					margin: 5px 0;
+				}
+				div.wd_ticker_label span.wd_exchange {
+					color: #999999;
+				}
+
+				div.wd_ticker_label span.wd_exchange:after {
+					content: ": ";
+				}
+			</style>
+<style type="text/css" wd_script_id="ir_featurebox_data_style" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">
+				div.wd_chart-quote {
+					width: 100%;
+					overflow: auto;
+				}
+
+				div.wd_chart-quote-item {
+					width: 49%;
+					float: left;
+					margin: 10px 0;
+				}
+
+				div.wd_chart-quote-value {
+					margin: 0;
+					font-weight: bold;
+				}
+
+				div.wd_chart-quote-value-down {
+					color: #cc0000;
+				}
+
+				div.wd_chart-quote-value-up {
+					color: #00cc00;
+				}
+
+				div.wd_chart-quote-label {
+					margin: 0;
+					color: #999999;
+				}
+
+				div.wd_chart-quote-footer {
+					margin: 5px 0 0 0;
+					font-size: .75em;
+					color: #999999;
+				}
+				</style>
+<link href="thirdparty/font-awesome/css/font-awesome.min.css" type="text/css" rel="stylesheet" wd_script_id="font-awesome.min.css">
+<script type="text/javascript" wd_script_id="ir_featurebox_data_script" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">
+					ir_featurebox.update_data = function(index, ticker) {
+						if (!this.ticker_data[ticker]["data"]) {
+							webDriver.jQuery("#ir_featurebox_"+index+"-data").html('<center><span class="wd_loading_rotate" ><span class="fa-spin fa-fw fa fa-circle-o-notch" style="font-size: 3em;"></span><span class="wd_sr-only">Loading...</span></span></center>');
+							webDriver.jQuery.get(
+								"index.php",
+								{
+									ajax: "ir_featurebox",
+									ticker: ticker,
+									data: "data"
+								},
+								function(data) {
+									ir_featurebox.ticker_data[ticker]["data"] = data;
+									ir_featurebox.update_data(index, ticker);
+								}
+							);
+						} else {
+							webDriver.jQuery("#ir_featurebox_"+index+"-data").html(this.ticker_data[ticker]["data"]);
+						}
+					}
+				</script>
+<style type="text/css" wd_script_id="featurebox_financial_style" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">
+			div.wd_chart-quote-footer {
+				margin: 5px 0 0 0;
+				font-size: .75em;
+				color: #999999;
+			}
+		</style>
+<style type="text/css" wd_script_id="featureboxes_style" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">
+		.wd_featurebox_icon {
+			display: inline;
+		}
+		.wd_featurebox_icon img {
+			vertical-align: middle;
+		}
+		div.wd_featurebox_group div.wd_tabs_wrapper {
+			border: none;
+			border-bottom: 1px solid #E1E1E1;
+			padding: 0 0 5px 0;
+		}
+		div.wd_featurebox_group div.wd_featurebox {
+			border: none;
+			padding: 8px 0 0 0;
+		}
+		div.wd_featurebox_group li.wd_tab {
+			float: none;
+			color: #666666;
+		}
+		div.wd_featurebox_group li.wd_tab-active {
+			border: none;
+			background-color: transparent;
+			color: #000000;
+			font-weight: bold;
+		}
+		div.wd_featurebox_group li.wd_tab-inactive {
+			cursor: auto;
+		}
+	</style>
+<script type="text/javascript" nonce="NmEwZGFmNzFlMDIxYzVjODM0MGU5ZDQ0NjE5ZmNhY2EwNThiYTlmMw==">webDriver.pop_jQuery();</script>
+
+<!-- end spin_special_output(head_start) -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-ML7T8QX8');</script>
+<!-- End Google Tag Manager -->
+	<!-- IrwinIQ Tag Manager -->
+<script>
+(function(w,d){
+var _mtm = w._mtm = w._mtm || [];
+_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+var g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.async=true; g.src='https://analytics.imirwin.com/js/container_gT5oX6rM.js'; s.parentNode.insertBefore(g,s);
+})(window, document);
+</script>
+<!-- End IrwinIQ Tag Manager --> 
+
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+  <!-- The SEO Framework by Sybre Waaijer -->
+	  <title>Iridium Satellite Communications  - SEC Filings</title>
+	  
+ <meta name="keywords" content="" />
+ <meta name="description" content="" />
+ <meta name="twitter:card" content="summary" />
+ <meta property="og:site_name" content="Iridium Satellite Communications " />
+ <meta property="og:url" content="https://investor.iridium.com/sec-filings" />
+    
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","url":"https://www.iridium.com/","name":"Iridium Satellite Communications","potentialAction":{"@type":"SearchAction","target":"https://www.iridium.com/search/{search_term_string}/","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.iridium.com/","name":"Iridium Satellite Communications","logo":"https://www.iridium.com/wp-content/uploads/2019/11/cropped-IridiumLogoFavicon.png"}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 9.70ms meta | 0.59ms boot -->
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Iridium Satellite Communications &raquo; Feed" href="https://www.iridium.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Iridium Satellite Communications &raquo; Comments Feed" href="https://www.iridium.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.iridium.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2.1628856864"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Iridium v.3.9" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='css/admin-bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='css/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='front-main-css-css'  href='css/front.main.css' type='text/css' media='all' />
+<link rel='stylesheet' id='iridium-login-box-style-css'  href='css/iridium_login_box.css' type='text/css' media='all' />
+<link rel='stylesheet' id='et_monarch-css-css'  href='css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&#038;ver=1628856864' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='css/style-static.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='typekit-css'  href='https://use.typekit.net/qkf5mga.css?ver=5.4.2.1628856864' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-styles-css'  href='//cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.css?ver=1.0.1.1628856864' type='text/css' media='all' />
+<link rel='stylesheet' id='layout-styles-css'  href='css/layout.css' type='text/css' media='all' />
+<link rel='stylesheet' id='i-blog-post-styles-css'  href='css/post.css' type='text/css' media='all' />
+<link rel='stylesheet' id='homepage-styles-css'  href='css/homepage.css' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800&#038;subset=latin%2Clatin-ext&#038;display=swap&#038;ver=1628856864' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='css/style-divi.css' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin%2Clatin-ext&#038;display=swap&#038;ver=1628856864' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='css/front.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='css/shortcodes_responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='css/magnific_popup.css' type='text/css' media='all' />
+<!-- <script type='text/javascript' src='https://www.iridium.com/wp-content/plugins/anythingslider-divi/js/as_clear_local_storage.js?ver=5.4.2.1628856864'></script>
+<script type='text/javascript' src='https://www.iridium.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp.1628856864'></script>
+<script type='text/javascript' src='https://www.iridium.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1.1628856864'></script> -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var irp_ajax = {"url":"https:\/\/www.iridium.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='js/jquery.sticky.js'></script>
+<script type='text/javascript' src='js/front.main.js'></script>
+<script type='text/javascript' src='js/swiper.js'></script>
+<script type='text/javascript' src='js/stickybits.min.js'></script>
+<script type='text/javascript' src='js/jquery.stickybits.min.js'></script>
+<script type='text/javascript' src='https://static.addtoany.com/menu/page.js?ver=1.1628856864'></script>
+<script type='text/javascript' src='js/es6-promise.auto.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"www_iridium_com"}};
+/* ]]> */
+</script>
+<!-- <script type='text/javascript' src='https://www.iridium.com/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=5.4.2.1628856864'></script> -->
+<link rel='https://api.w.org/' href='https://www.iridium.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.iridium.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.iridium.com/wp-includes/wlwmanifest.xml" /> 
+<link rel="alternate" type="application/json+oembed" href="https://www.iridium.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.iridium.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.iridium.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.iridium.com%2F&#038;format=xml" />
+<!-- Custom Twitter Feeds CSS -->
+<style type='text/css'>
+#ctf_mod_link{ display: block; }
+</style>
+		<script type='text/javascript'>
+			if (typeof ajaxurl === 'undefined') {
+				var ajaxurl = 'https://www.iridium.com/wp-admin/admin-ajax.php';
+			}
+			if (typeof resturl === 'undefined') {
+				var resturl = 'https://www.iridium.com/wp-json/';
+			}
+		</script>
+		<script>
+		jQuery(document).ready(function($) {
+			setTimeout(function() {
+				if ($(document).find(".popmake")) {
+					var timers = $(document).find(".popmake .et_pb_countdown_timer");
+					timers.each(function() {
+						timer = $(this);
+						var days = timer.find(".days");
+						var hours = timer.find(".hours");
+						var mins = timer.find(".minutes");
+						var secs = timer.find(".seconds");
+						var sep = timer.find(".sep");
+						
+						//	Change the data attribute for display on desktop
+						days.data("full", "DAYS");
+						hours.data("full", "HOURS");
+						mins.data("full", "MINS");
+						secs.data("full", "SECS");
+						
+						//	Change the data attribute for display on mobile
+						days.data("short", "DAYS");
+						hours.data("short", "HOURS");
+						mins.data("short", "MINS");
+						secs.data("short", "SECS");
+						
+						//	Change the : separator to a |
+						sep.each(function(){
+							$(this).find("p").html("|");
+						});
+						
+						//	This applies the changes. et_countdown_timer_labels is a Divi function.
+						window.et_countdown_timer_labels(timer);
+					});
+				}
+			}, 0);
+		});
+	</script><style type="text/css" id="et-social-custom-css">
+				 .et_monarch .widget_monarchwidget .et_social_networks ul li, .et_monarch .widget_monarchwidget.et_social_circle li i { background: #9c9c9c !important; } .et_monarch .widget_monarchwidget.et_social_rounded .et_social_icons_container li:hover, .et_monarch .widget_monarchwidget.et_social_rectangle .et_social_icons_container li:hover, .et_monarch .widget_monarchwidget.et_social_circle .et_social_icons_container li:hover i.et_social_icon { background: #bababa !important; } .et_monarch .widget_monarchwidget .et_social_icon, .et_monarch .widget_monarchwidget.et_social_networks .et_social_network_label, .et_monarch .widget_monarchwidget .et_social_sidebar_count { color: #ffffff; } .et_monarch .widget_monarchwidget .et_social_icons_container li:hover .et_social_icon, .et_monarch .widget_monarchwidget.et_social_networks .et_social_icons_container li:hover .et_social_network_label, .et_monarch .widget_monarchwidget .et_social_icons_container li:hover .et_social_sidebar_count { color: #ffffff !important; } 
+			</style>		<style>
+			.gforms-menu-icon {
+				float: left;
+				width: 26px !important;
+				height: 30px !important;
+				background-repeat: no-repeat;
+				background-position: 0 6px;
+				background-size: 20px;
+			}
+
+			@media screen and ( max-width: 782px ) {
+				#wpadminbar #wp-admin-bar-gform-forms .ab-item {
+					line-height: 53px;
+					height: 46px !important;
+					width: 52px !important;
+					display: block;
+					background-size: 36px 36px;
+					background-position: 7px 6px;
+				}
+
+				#wpadminbar li#wp-admin-bar-gform-forms {
+					display: block;
+				}
+
+			}
+		</style>
+
+<link rel="icon" href="https://www.iridium.com/wp-content/uploads/2019/11/cropped-IridiumLogoFavicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.iridium.com/wp-content/uploads/2019/11/cropped-IridiumLogoFavicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.iridium.com/wp-content/uploads/2019/11/cropped-IridiumLogoFavicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.iridium.com/wp-content/uploads/2019/11/cropped-IridiumLogoFavicon-270x270.png" />
+<style id="et-divi-customizer-global-cached-inline-styles">.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce-message,.woocommerce-error,.woocommerce-info{background:#005f9b!important}#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.woocommerce div.product span.price,.woocommerce-page div.product span.price,.woocommerce #content div.product span.price,.woocommerce-page #content div.product span.price,.woocommerce div.product p.price,.woocommerce-page div.product p.price,.woocommerce #content div.product p.price,.woocommerce-page #content div.product p.price,.et_pb_member_social_links a:hover,.woocommerce .star-rating span:before,.woocommerce-page .star-rating span:before,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.tagged_as a,.posted_in a{color:#005f9b}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.woocommerce a.button.alt,.woocommerce-page a.button.alt,.woocommerce button.button.alt,.woocommerce button.button.alt.disabled,.woocommerce-page button.button.alt,.woocommerce-page button.button.alt.disabled,.woocommerce input.button.alt,.woocommerce-page input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce-page #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.et_pb_contact p input[type="checkbox"]:checked+label i:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button{color:#005f9b}.footer-widget h4{color:#005f9b}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#005f9b}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#005f9b}a{color:#005f9b}#top-header,#et-secondary-nav li ul{background-color:#ffffff}#top-header,#top-header a{color:#686868}#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,#top-menu li.current_page_item>a,.et_color_scheme_red #top-menu li.current-menu-ancestor>a,.et_color_scheme_red #top-menu li.current-menu-item>a,.et_color_scheme_red #top-menu li.current_page_item>a,.et_color_scheme_pink #top-menu li.current-menu-ancestor>a,.et_color_scheme_pink #top-menu li.current-menu-item>a,.et_color_scheme_pink #top-menu li.current_page_item>a,.et_color_scheme_orange #top-menu li.current-menu-ancestor>a,.et_color_scheme_orange #top-menu li.current-menu-item>a,.et_color_scheme_orange #top-menu li.current_page_item>a,.et_color_scheme_green #top-menu li.current-menu-ancestor>a,.et_color_scheme_green #top-menu li.current-menu-item>a,.et_color_scheme_green #top-menu li.current_page_item>a{color:#005f9b}#main-footer{background-color:#ffffff}#footer-widgets .footer-widget a,#footer-widgets .footer-widget li a,#footer-widgets .footer-widget li a:hover{color:#005f9b}.footer-widget{color:#ffffff}#main-footer .footer-widget h4{color:#005f9b}.footer-widget li:before{border-color:#005f9b}#et-footer-nav{background-color:#ffffff}#footer-bottom{background-color:rgba(255,255,255,0.32)}.et_slide_in_menu_container,.et_slide_in_menu_container .et-search-field{letter-spacing:px}.et_slide_in_menu_container .et-search-field::-moz-placeholder{letter-spacing:px}.et_slide_in_menu_container .et-search-field::-webkit-input-placeholder{letter-spacing:px}.et_slide_in_menu_container .et-search-field:-ms-input-placeholder{letter-spacing:px}@media only screen and (min-width:981px){#logo{max-height:59%}.et_pb_svg_logo #logo{height:59%}.et-fixed-header#top-header,.et-fixed-header#top-header #et-secondary-nav li ul{background-color:#ffffff}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a,.et-fixed-header #top-menu li.current_page_item>a{color:#005f9b!important}.et-fixed-header#top-header a{color:#686868}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}@media all and (min-width:981px){.countdown-desktop{height:560px}}#main-header{margin-top:-1px}.home .et_pb_button_0_wrapper{width:100%}.et-pb-arrow-next{opacity:1;right:22px}.et-pb-arrow-prev{opacity:1;left:22px}@media screen and (min-width:1140px){.i-curtains__item{flex:1}.i-curtains__item:focus,.i-curtains__item:hover{flex:2}}</style>
+
+	<style>
+		body #supernav .nav__item.supernav .nav__children[data-depth="1"] {
+			top: 87px !important; 
+		}
+		.dropdown__menu {
+			top: 88px;
+		}
+	</style>
+    <!-- NEW HEADER/FOOTER FILES -->
+     <link rel="preload" href="html/fonts/icomoon.woff2" as="font" crossorigin="anonymous" />
+
+        <link rel="preconnect" href="https://use.typekit.net/" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://p.typekit.net/" crossorigin="anonymous" />
+        <link rel="preconnect" href="https://cloud.typenetwork.com/" crossorigin="anonymous" />
+
+        <link rel="stylesheet" href="html/css/vmd4fkj.css" />
+
+        <link rel="stylesheet" href="html/css/style.css" />
+
+        <link rel="stylesheet" href="html/css/static.css" />
+        
+        <link rel="icon" href="favicon.ico" />
+        <link
+            rel="icon"
+            href="favicon.svg"
+            type="image/svg+xml"
+        />
+        <link
+            rel="apple-touch-icon"
+            href="apple-touch-icon.png"
+        />
+        <meta name="theme-color" content="#ff0000" />
+
+        <script type="application/json" data-drupal-selector="drupal-settings-json">
+            {
+                "path": {
+                    "baseUrl": "\/",
+                    "scriptPath": null,
+                    "pathPrefix": "",
+                    "currentPath": null,
+                    "isFront": null,
+                    "currentLanguage": null
+                },
+                "pluralDelimiter": "\u0003",
+                "suppressDeprecationErrors": true
+            }
+        </script>
+        <script src="html/js/drupalSettingsLoader.js"></script>
+
+        <script>
+            if (["iridium.com, stage.investorroom.com"].includes(window.location.hostname)) {
+                window.markerConfig = {
+                    project: "67c779bc4c3b7d4f15129ae7",
+                    source: "snippet",
+                };
+
+                !(function (e, r, a) {
+                    if (!e.__Marker) {
+                        e.__Marker = {};
+                        var t = [],
+                            n = {
+                                __cs: t,
+                            };
+                        [
+                            "show",
+                            "hide",
+                            "isVisible",
+                            "capture",
+                            "cancelCapture",
+                            "unload",
+                            "reload",
+                            "isExtensionInstalled",
+                            "setReporter",
+                            "clearReporter",
+                            "setCustomData",
+                            "on",
+                            "off",
+                        ].forEach(function (e) {
+                            n[e] = function () {
+                                var r = Array.prototype.slice.call(arguments);
+                                r.unshift(e), t.push(r);
+                            };
+                        }),
+                            (e.Marker = n);
+                        var s = r.createElement("script");
+                        (s.async = 1), (s.src = "https://edge.marker.io/latest/shim.js");
+                        var i = r.getElementsByTagName("script")[0];
+                        i.parentNode.insertBefore(s, i);
+                    }
+                })(window, document);
+            }
+        </script>
+        <script charset="utf-8" src="html/js/2.v2.33.0.46af2d13218c237a79f6.js"></script>
+        <script charset="utf-8" src="html/js/3.v2.33.0.084dc9c0f9e28458fb43.js"></script>
+        <style type="text/css">
+            .resize-observer[data-v-8859cc6c] {
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: -1;
+                width: 100%;
+                height: 100%;
+                border: none;
+                background-color: transparent;
+                pointer-events: none;
+                display: block;
+                overflow: hidden;
+                opacity: 0;
+            }
+            .resize-observer[data-v-8859cc6c] object {
+                display: block;
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
+                overflow: hidden;
+                pointer-events: none;
+                z-index: -1;
+            }
+        </style>
+    <!-- NEW HEADER/FOOTER FILES -->
+    <link rel="stylesheet" media="all" href="https://use.typekit.net/hvo5jxh.css" />
+        <link href="thirdparty/font-awesome/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/wdcontent.css">
+	
+
+<!-- begin spin_special_output(head_end) -->
+<link rel="canonical" href="https://investor.iridium.com/sec-filings" />
+<!-- end spin_special_output(head_end) -->
+</head>
+<body class="wd_pageid_127 home page-template-default page page-id-1229 page-parent logged-in admin-bar no-customize-support et_monarch et_pb_button_helper_class et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_only_menu et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns1 et_cover_background et_pb_gutter osx et_pb_gutters3 et_right_sidebar et_divi_theme et-db cookies-set cookies-accepted">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-ML7T8QX8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a href="#mainContent" id="skiplink" class="skiplink">Skip to content</a>
+<div class="page-container">
+<header class="site-header js-site-header js-navigation" data-test="10">
+                <div class="site-header-inner" data-bg-color-btm="dark-multi">
+                    <button
+                        type="button"
+                        class="hamburger-toggle-btn btn--ui-icon--header-menu js-hamburger-nav-open"
+                        aria-controls="js-site-header-hamburger-nav"
+                        aria-expanded="false"
+                    >
+                        <span class="sr-text">Open vertical navigation</span>
+                    </button>
+
+                    <nav class="site-header-main-nav js-site-header-main-nav" aria-label="Primary horizontal">
+                        <ul class="nav-list js-nav-list">                            
+                            <li class="item">
+                                <a
+                                    href="https://www.iridium.com/markets"
+                                    class="link btn--secondary -noline-initial"
+                                    ><span>Markets</span></a
+                                >
+                            </li>
+                            <li class="item">
+                                <a
+                                    href="https://www.iridium.com/services"
+                                    class="link btn--secondary -noline-initial"
+                                    ><span>Services</span></a
+                                >
+                            </li>
+                            <li class="item">
+                                <a
+                                    href="https://www.iridium.com/products"
+                                    class="link btn--secondary -noline-initial"
+                                    ><span>Products</span></a
+                                >
+                            </li>
+                            <li class="item">
+                                <a
+                                    href="https://www.iridium.com/partners"
+                                    class="link btn--secondary -noline-initial"
+                                    ><span>Partners</span></a
+                                >
+                            </li>
+
+                            <li class="separator"></li>
+
+                            <li class="logo">
+                                <a
+                                    href="https://www.iridium.com/"
+                                    aria-label="Iridium Satellite Communications"
+                                >
+                                    <img
+                                        src="images/iridium-logo-white-text.svg"
+                                        class="iridium-logo-svg"
+                                        width="180"
+                                        height="33"
+                                        alt="Iridium Satellite Communications"
+                                    />
+                                </a>
+                            </li>
+                            <li class="item">
+                                <a
+                                    href="https://www.iridium.com/discover"
+                                    class="link btn--secondary -noline-initial"
+                                    ><span>Discover</span></a
+                                >
+                            </li>
+                            <li class="item">
+                                <a
+                                    href="https://www.iridium.com/company"
+                                    class="link btn--secondary -noline-initial"
+                                    ><span>Company</span></a
+                                >
+                            </li>
+                            <li class="item">
+                                <a
+                                    href="https://www.iridium.com/company/investor-relations"
+                                    class="link btn--secondary -noline-initial"
+                                    ><span>Investors</span></a
+                                >
+                            </li>                            
+                            <li class="item">
+                                <a
+                                    href="https://www.iridium.com/login"
+                                    class="link btn--secondary -noline-initial external"
+                                    ><span>Login</span></a
+                                >
+                            </li>
+                        </ul>
+                    </nav>
+
+                    <button
+                        type="button"
+                        class="search-toggle-btn btn--ui-icon--header-search js-search-overlay-open"
+                        aria-controls="js-search-overlay-form"
+                        aria-expanded="false"
+                    >
+                        <span class="sr-text">Show/Hide Sitewide Search Form</span>
+                    </button>
+                </div>
+
+                <!-- components/site-header/search-overlay/search-overlay.twig -->
+
+                <div class="search-overlay js-search-overlay" data-once="searchOverlay">
+                    <div class="search-overlay-inner js-search-overlay-inner">
+                        <button
+                            type="button"
+                            class="search-overlay-close btn--ui-icon--overlay-close js-search-overlay-close"
+                            aria-expanded="false"
+                            aria-controls="search-overlay"
+                            aria-label="Close search overlay"
+                        ></button>
+
+                        <div class="search-overlay-main">
+                            <header class="header">
+                                <h1 class="h1 title">Search</h1>
+                            </header>
+
+                            <form
+                                id="js-search-overlay-form"
+                                class="search-overlay-form"
+                                role="search"
+                                method="GET"
+                                action="https://www.iridium.com/search"
+                                aria-label="Sitewite search form"
+                                data-once="formValidation"
+                            >
+                                <input
+                                    class="js-search-overlay-input"
+                                    type="search"
+                                    name="keywords"
+                                    aria-label="Search Term(s)"
+                                    placeholder="Search Iridium…"
+                                />
+                                <button
+                                    class="btn--ui-icon--overlay-submit-search js-search-overlay-submit"
+                                    type="submit"
+                                    aria-label="Search"
+                                    disabled=""
+                                ></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+                <nav
+                    class="hamburger-nav js-navigation js-hamburger-nav"
+                    aria-label="Primary full menu"
+                    data-active-level="0"
+                    data-desktop-bp="900"
+                    id="hamburger-nav"
+                    data-bg-color-btm="transparent"
+                    data-once="hamburgerNav"
+                >
+                    <div class="hamburger-nav-inner js-hamburger-nav-inner" data-lenis-prevent="">
+                        <button
+                            type="button"
+                            aria-label="Back"
+                            class="hamburger-nav-back btn--ui-icon--overlay-back js-hamburger-nav-back"
+                        ></button>
+
+                        <button
+                            type="button"
+                            class="hamburger-nav-close btn--ui-icon--overlay-close js-hamburger-nav-close"
+                            aria-expanded="false"
+                            aria-controls="hamburger-nav"
+                            aria-label="Close vertical navigation"
+                        ></button>
+
+                        <div class="hamburger-nav-main">
+												  <div class="tablist" role="tablist" aria-orientation="vertical" aria-label="Primary full menu tablist">
+												    <button class="h6 tablist-item js-hamburger-nav-tablist-item item" role="tab" id="tab--hamburger-nav--a5711207-17ac-4c9a-86fb-31da915cb02d" aria-controls="tabpanel--hamburger-nav--a5711207-17ac-4c9a-86fb-31da915cb02d" aria-selected="false" type="button">
+												      <span>Markets</span>
+												    </button>
+												    <button class="h6 tablist-item js-hamburger-nav-tablist-item item" role="tab" id="tab--hamburger-nav--78f50f37-c570-4d90-834a-3bd91965e6ea" aria-controls="tabpanel--hamburger-nav--78f50f37-c570-4d90-834a-3bd91965e6ea" aria-selected="false" type="button">
+												      <span>Services</span>
+												    </button>
+												    <button class="h6 tablist-item js-hamburger-nav-tablist-item item" role="tab" id="tab--hamburger-nav--d3deef19-79d3-43e0-8948-37c3ceeb19d8" aria-controls="tabpanel--hamburger-nav--d3deef19-79d3-43e0-8948-37c3ceeb19d8" aria-selected="false" type="button">
+												      <span>Products</span>
+												    </button>
+												    <button class="h6 tablist-item js-hamburger-nav-tablist-item item" role="tab" id="tab--hamburger-nav--b23de0d7-3361-4326-a8d8-9255d050037a" aria-controls="tabpanel--hamburger-nav--b23de0d7-3361-4326-a8d8-9255d050037a" aria-selected="false" type="button">
+												      <span>Partners</span>
+												    </button>
+												  </div>
+												  <hr class="hashline-accent">
+												  <ul class="linkslist">
+												    <li class="linkslist-item item">
+												      <a href="https://www.iridium.com/discover" class="link btn--secondary -noline-initial" data-drupal-link-system-path="node/78">
+												        <span>Discover</span>
+												      </a>
+												    </li>
+												    <li class="linkslist-item item">
+												      <a href="https://www.iridium.com/company" class="link btn--secondary -noline-initial" data-drupal-link-system-path="node/12">
+												        <span>Company</span>
+												      </a>
+												    </li>
+												    <li class="linkslist-item item">
+												      <a href="https://www.iridium.com/company/investor-relations" class="link btn--secondary -noline-initial" data-drupal-link-system-path="node/13">
+												        <span>Investors</span>
+												      </a>
+												    </li>
+												    <li class="linkslist-item item">
+												      <a href="https://www.iridium.com/login" class="link btn--secondary -noline-initial external" target="_blank" rel="noreferrer">
+												        <span>Login</span>
+												      </a>
+												    </li>
+												    <li class="linkslist-item item">
+												      <a href="https://www.iridium.com/products" class="link btn--secondary -noline-initial" data-drupal-link-system-path="node/7">
+												        <span>All Products</span>
+												      </a>
+												    </li>
+												  </ul>
+												  <div class="tablist-panel js-hamburger-nav-tablist-panel" role="tabpanel" id="tabpanel--hamburger-nav--a5711207-17ac-4c9a-86fb-31da915cb02d" aria-labelledby="tab--hamburger-nav--a5711207-17ac-4c9a-86fb-31da915cb02d" aria-hidden="true">
+												    <div class="intro wysiwyg-content">
+												      <div class="intro-title h1">Markets</div>
+												      <div class="intro-description">
+												        <a href="https://www.iridium.com/markets" class="view-all btn--secondary" data-drupal-link-system-path="node/10">
+												          <span>Browse all Markets</span>
+												        </a>
+												      </div>
+												    </div>
+												    <ul class="cards">
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/markets/iot" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/21">
+												          <span>IoT</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/IMG_Heavy%20Equipment_Shutterstock_101449477_XL%20300dpi_17FEB17-min.jpg?itok=P-EkQjhu 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/IMG_Heavy Equipment_Shutterstock_101449477_XL 300dpi_17FEB17-min.jpg" alt="A yellow front-end loader moves piles of black coal in an industrial mining area, with tire tracks visible on the ground and storage structures in the background.">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/markets/aviation" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/27">
+												          <span>Aviation</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/Market_Aviation.png?itok=gFDOzQa0 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/Market_Aviation.png" alt="Plane over setting sun">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/markets/maritime" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/28">
+												          <span>Maritime</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/Markets_Maritime-zoomed-out_0.jpg?itok=iUUTvNeN 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/Markets_Maritime-zoomed-out_0.jpg" alt="Menu_Maritime">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/markets/empowering-autonomous-systems" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/1296">
+												          <span>Autonomous</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/AdobeStock_906231696.jpeg?itok=HAGyZqAS 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/AdobeStock_906231696.jpeg" alt="long range drones in action, dynamic and cinematic view, high-definition shots">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/markets/governments" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/29">
+												          <span>Governments</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/us-destroyer-DDG-118.png?itok=PVSB9r69 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/us-destroyer-DDG-118.png" alt="photo of United States Destroyer DDG-118">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/markets/land-mobile" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/30">
+												          <span>Land Mobile</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/Market_Land%20Mobile.png?itok=YR-LCMow 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/Market_Land Mobile.png" alt="Market_Land Mobile">
+												        </picture>
+												      </li>
+												    </ul>
+												  </div>
+												  <div class="tablist-panel js-hamburger-nav-tablist-panel" role="tabpanel" id="tabpanel--hamburger-nav--78f50f37-c570-4d90-834a-3bd91965e6ea" aria-labelledby="tab--hamburger-nav--78f50f37-c570-4d90-834a-3bd91965e6ea" aria-hidden="true">
+												    <div class="intro wysiwyg-content">
+												      <div class="intro-title h1">Services</div>
+												      <div class="intro-description">
+												        <a href="https://www.iridium.com/services" class="view-all btn--secondary" data-drupal-link-system-path="node/8">
+												          <span>Browse all Services</span>
+												        </a>
+												      </div>
+												    </div>
+												    <ul class="cards">
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/iridium-pnt" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/175">
+												          <span>Positioning, Navigation and Timing ( PNT )</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/PNT_thumbnail%20PM.png?itok=mIQXl0jU 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/PNT_thumbnail PM.png" alt="Ship on the water - featuring navigation and connectivity details">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/services/safety-security" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/33">
+												          <span>Safety &amp; Security</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/coast-guard-training-operation_1.jpg?itok=2G3Q37Lb 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/coast-guard-training-operation_1.jpg" alt="Picture of Coast Guard training operation action">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/services/data-messaging" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/34">
+												          <span>IoT, Data &amp; Messaging</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/GettyImages-1313434578.jpg?itok=-o-Vwbxw 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/GettyImages-1313434578.jpg" alt="Aerial view of Blue Sea surface with red buoys">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/services/iridium-ntn-direct" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/1280">
+												          <span>Iridium NTN Direct</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/Iridium-NTN-Direct_thumbnail%E2%80%AFPM.png?itok=defH_O6G 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/Iridium-NTN-Direct_thumbnailPM.png" alt="Person standing on a mountain - connecting a satellite phone to a satellite">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/services/voice" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/164">
+												          <span>Voice</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/poletopolegraded4.jpg?itok=4d6Ssnf0 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/poletopolegraded4.jpg" alt="Person in winter clothing holding a device and standing next to a large vessel.">
+												        </picture>
+												      </li>
+												    </ul>
+												  </div>
+												  <div class="tablist-panel js-hamburger-nav-tablist-panel" role="tabpanel" id="tabpanel--hamburger-nav--d3deef19-79d3-43e0-8948-37c3ceeb19d8" aria-labelledby="tab--hamburger-nav--d3deef19-79d3-43e0-8948-37c3ceeb19d8" aria-hidden="true">
+												    <div class="intro wysiwyg-content">
+												      <div class="intro-title h1">Products</div>
+												      <div class="intro-description">
+												        <a href="https://www.iridium.com/products" class="view-all btn--secondary" data-drupal-link-system-path="node/7">
+												          <span>Browse all Products</span>
+												        </a>
+												      </div>
+												    </div>
+												    <ul class="cards">
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/products/develop-anything" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/112">
+												          <span>Develop Anything</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/iStock-1438569504.jpg?itok=v4SsSYBb 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/iStock-1438569504.jpg" alt="3D illustration of a CPU over a generic mainboarddev">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/products/track-monitor-anything" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/113">
+												          <span>Track &amp; Monitor Anything</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/IMG_Maritime_Scientific%20Vessel_Shutterstock_292134422_L_041119.jpg?itok=fbiQrTUV 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/IMG_Maritime_Scientific Vessel_Shutterstock_292134422_L_041119.jpg" alt="IMG_Maritime_Scientific Vessel_Shutterstock_292134422_L_041119">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/products/talk-anywhere" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/114">
+												          <span>Talk Anywhere</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/richardgiordano_rr_day3-192.jpg?itok=YzG1wIFe 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/richardgiordano_rr_day3-192.jpg" alt="A woman using device">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/products/apps" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/115">
+												          <span>Apps</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/GettyImages-523753025.jpg?itok=s4n3smIj 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/GettyImages-523753025.jpg" alt="An eclipse of the Sun by the world make rising sun in space, sky - Elements of this image furnished by NASA ">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/products/critical-connectivity-anywhere" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/116">
+												          <span>Critical Connectivity Anywhere</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/Solutions.jpeg?itok=TeXM809v 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/Solutions.jpeg" alt="hydroelectric dam on a river with water flowing through the turbines.">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/products/message-anywhere" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/117">
+												          <span>Message Anywhere</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/GettyImages-1284089973.jpg?itok=2JBMEEli 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/GettyImages-1284089973.jpg" alt="Male hiker walks along mountain ridge crest, in distance">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/products/accessories" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/118">
+												          <span>Accessories</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/iStock-2160041309.jpg?itok=aFnuApeb 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/iStock-2160041309.jpg" alt="Global network connection. World map point and line composition concept of global business.">
+												        </picture>
+												      </li>
+												    </ul>
+												  </div>
+												  <div class="tablist-panel js-hamburger-nav-tablist-panel" role="tabpanel" id="tabpanel--hamburger-nav--b23de0d7-3361-4326-a8d8-9255d050037a" aria-labelledby="tab--hamburger-nav--b23de0d7-3361-4326-a8d8-9255d050037a" aria-hidden="true">
+												    <div class="intro wysiwyg-content">
+												      <div class="intro-title h1">Partners</div>
+												      <div class="intro-description">
+												        <p>With over 500+ value-added partners, our partner ecosystem enables leading global technology companies to leverage our unique network to manufacture, develop, market, and support innovative applications for a variety of different markets and industries. </p>
+												        <a href="https://www.iridium.com/partners" class="view-all btn--secondary" data-drupal-link-system-path="node/36">
+												          <span>Browse all Partners</span>
+												        </a>
+												      </div>
+												    </div>
+												    <ul class="cards">
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/partners" class="h6 card-item-title -noline-initial link js-link-event-link" data-drupal-link-system-path="node/36">
+												          <span>Become a Partner or Developer</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/iridium-partner-conference-suzi-mcbride-2025.jpg?itok=cDrAHiw6 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/iridium-partner-conference-suzi-mcbride-2025.jpg" alt="Picture of Suzi McBride at Iridium Partner Conference 2025">
+												        </picture>
+												      </li>
+												      <li class="card-item js-link-event" data-bg-color-btm="dark-multi">
+												        <a href="https://www.iridium.com/login?action=lostpassword" class="h6 card-item-title -noline-initial link js-link-event-link" target="_blank" rel="noreferrer">
+												          <span>Partner Portal</span>
+												        </a>
+												        <picture loading="lazy" width="330" height="190" class="media -sixteen-nine">
+												          <source srcset="images/RG2_6125.jpg?itok=5jkrDm37 1x" media="(min-width: 1200px)" type="image/webp" width="535" height="310">
+												          <img loading="lazy" width="330" height="190" src="images/RG2_6125.jpg" alt="Iridium Partners at IPC 2025">
+												        </picture>
+												      </li>
+												    </ul>
+												  </div>
+												</div>
+                    </div>
+                </nav>
+            </header>
+
+	<main id="mainContent">		
+        <article class="grid-container">
+                    <article
+                        class="hero-standard any-hero js-any-hero -dark-hero"
+                        data-size="standard"
+                        data-bg-color-btm="purple--700"
+                    >
+
+                        <div class="hero-standard-background">
+                        				                    		<img src="/image/Iridium+satellite+constellation+in+space+-+frame+at+0m17s.jpg" alt="" />
+		                    	                            <!-- <div class="video-wrapper">
+                                <video
+                                    disablepictureinpicture="true"
+                                    data-desktop-breakpoint="1000"
+                                    data-desktop-mp4-src="ice_ship.mp4"
+                                    data-tablet-mp4-src="ice_ship.mp4"
+                                    data-mobile-mp4-src="ice_ship.mp4"
+                                    data-desktop-webm-src="video-desktop.webm"
+                                    data-tablet-webm-src="video-tablet.webm"
+                                    data-mobile-webm-src="video-mobile.webm"
+                                    class="js-responsive-video video media"
+                                    autoplay="true"
+                                    muted="true"
+                                    loop="true"
+                                    playsinline="true"
+                                >
+                                    <source src="video-desktop.webm" type="video/webm" />
+                                </video>
+                                <button data-state="playing" class="btn--ui-icon--pause js-video-toggle" aria-label="Pause background video">
+															    <span class="sr-text"></span>
+															  </button>
+                            </div> -->
+                        </div>
+
+                        <div class="hero-standard-inner">
+                            <div class="breadcrumbs js-breadcrumbs-nav" data-once="breadCrumbs">
+                                <ul class="breadcrumbs-list">
+                                    <li class="item breadcrumbs-list-item">
+                                        <a
+                                            href="https://www.iridium.com/"
+                                            aria-label="Home"
+                                        ></a>
+                                    </li>
+                                    <li class="item breadcrumbs-list-item">
+                                        <a href="#" class="link -link -noline-initial"><span>Investors</span></a>
+				    </li>
+				    <li class="item breadcrumbs-list-item">
+  <a href="quarterly-results" target="_self" class="link -link -noline-initial"><span>Financial Information</span></a>
+</li>
+<li class="item breadcrumbs-list-item"><span>SEC Filings</span></li>                                </ul>
+                            </div>
+
+                            <div class="hero-standard-text">
+                                <h1 class="title">SEC Filings</h1>
+                            </div>
+                        </div>
+                    </article>
+
+                </article>
+		<nav class="et_pb_row wd_mainnav">
+		<div class="wd_current_nav_page">SEC Filings</div>
+		<ul class="nav wd_desktopnav">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+	<a href="https://www.iridium.com/company" target="_self">Company Overview</a>
+	<i class="navicon ndqicon-arw-d"></i>	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/image/2024_Fact_Sheet_Iridium_Communications.pdf" target="_self">Overview & Fact Sheet</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.iridiummuseum.com/" target="_self">Iridium Museum</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.iridium.com/partners" target="_self">Partner Ecosystem</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.iridium.com/case-studies/" target="_self">Case Studies</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.iridium.com/discover/iridium-articles" target="_self">Iridium Articles</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://aireon.com/" target="_self">Aireon Partnership</a></li>
+</ul>
+	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+	<a href="press-releases" target="_self">News & Events</a>
+	<i class="navicon ndqicon-arw-d"></i>	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/press-releases" target="_self">Press Releases</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/events" target="_self">Events</a></li>
+</ul>
+	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+	<a href="quarterly-results" target="_self">Financial Information</a>
+	<i class="navicon ndqicon-arw-d"></i>	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/quarterly-results" target="_self">Quarterly Results</a></li>
+ 
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/sec-filings" target="_self">SEC Filings</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/annual-reports" target="_self">Annual Reports</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/proxy" target="_self">Proxy Statements</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/insider-transactions" target="_self">Insider Transactions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/key-ratios" target="_self">Key Ratios</a></li>
+</ul>
+	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+	<a href="corporate-governance" target="_self">Corporate Governance</a>
+	<i class="navicon ndqicon-arw-d"></i>	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/corporate-governance" target="_self">Governance Documents</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/management" target="_self">Management</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/board-of-directors" target="_self">Board of Directors</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/board-committees" target="_self">Board Committees</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/advisory-board" target="_self">Advisory Board</a></li>
+</ul>
+	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+	<a href="stock-quote" target="_self">Stock Information</a>
+	<i class="navicon ndqicon-arw-d"></i>	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/stock-quote" target="_self">Stock Quotation</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/interactive-chart" target="_self">Interactive Chart</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/historical-stock-price" target="_self">Historical Stock Price</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/Common-Stock-Dividend" target="_self">Common Stock Dividend</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/preferred-stock-series-a" target="_self">Preferred Stock – Series A</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/preferred-stock-series-b" target="_self">Preferred Stock – Series B</a></li>
+</ul>
+	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
+	<a href="https://www.iridium.com/company-info/corporate-social-responsibility/" target="_self">Corporate Responsibility</a>
+	<i class="navicon ndqicon-arw-d"></i>	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="image/Iridium-Sustainability-Report_2024.pdf" target="_blank">2024 ESG Report</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.iridium.com/company/corporate-social-responsibility" target="_self">Corporate Social Responsibility</a></li>
+</ul>
+	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page ">
+	<a href="https://investor.iridium.com/faq" target="_self">FAQs</a>
+		</li>
+</ul>
+	<ul class="wd_mobilenav">
+<li>
+	<a href="https://www.iridium.com/company" target="_self">Company Overview</a>
+		<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/image/2024_Fact_Sheet_Iridium_Communications.pdf" target="_self">Overview & Fact Sheet</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.iridiummuseum.com/" target="_self">Iridium Museum</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.iridium.com/partners" target="_self">Partner Ecosystem</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.iridium.com/case-studies/" target="_self">Case Studies</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.iridium.com/discover/iridium-articles" target="_self">Iridium Articles</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://aireon.com/" target="_self">Aireon Partnership</a></li>
+</ul>
+</li>
+<li>
+	<a href="press-releases" target="_self">News & Events</a>
+		<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/press-releases" target="_self">Press Releases</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/events" target="_self">Events</a></li>
+</ul>
+</li>
+<li>
+	<a href="quarterly-results" target="_self">Financial Information</a>
+		<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/quarterly-results" target="_self">Quarterly Results</a></li>
+ 
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/sec-filings" target="_self">SEC Filings</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/annual-reports" target="_self">Annual Reports</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/proxy" target="_self">Proxy Statements</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/insider-transactions" target="_self">Insider Transactions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/key-ratios" target="_self">Key Ratios</a></li>
+</ul>
+</li>
+<li>
+	<a href="corporate-governance" target="_self">Corporate Governance</a>
+		<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/corporate-governance" target="_self">Governance Documents</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/management" target="_self">Management</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/board-of-directors" target="_self">Board of Directors</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/board-committees" target="_self">Board Committees</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/advisory-board" target="_self">Advisory Board</a></li>
+</ul>
+</li>
+<li>
+	<a href="stock-quote" target="_self">Stock Information</a>
+		<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/stock-quote" target="_self">Stock Quotation</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/interactive-chart" target="_self">Interactive Chart</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/historical-stock-price" target="_self">Historical Stock Price</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/Common-Stock-Dividend" target="_self">Common Stock Dividend</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/preferred-stock-series-a" target="_self">Preferred Stock – Series A</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://investor.iridium.com/preferred-stock-series-b" target="_self">Preferred Stock – Series B</a></li>
+</ul>
+</li>
+<li>
+	<a href="https://www.iridium.com/company-info/corporate-social-responsibility/" target="_self">Corporate Responsibility</a>
+		<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="image/Iridium-Sustainability-Report_2024.pdf" target="_blank">2024 ESG Report</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.iridium.com/company/corporate-social-responsibility" target="_self">Corporate Social Responsibility</a></li>
+</ul>
+</li>
+<li>
+	<a href="https://investor.iridium.com/faq" target="_self">FAQs</a>
+	</li>
+</ul>
+		</nav>
+
+		<div class="et-main-area">
+			<div id="main-content">
+				<div class="et_pb_section  et_pb_section_1 et_section_regular">
+					<div class=" et_pb_row et_pb_row_0">
+						<div class="et_pb_column et_pb_column_4_4  et_pb_column_0 et_pb_css_mix_blend_mode_passthrough et-last-child">
+							<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_0">
+								<div class="et_pb_text_inner">
+								<h1 class="page_header">SEC Filings</h1><div id="wd_printable_content" class="fr-view"><p>Select the filing type and date range you wish to view from the drop-down menus below.</p>
+<div class="wd_ir_secfilings">
+<div class="wd_filer_label"><span class="wd_exchange">NASDAQ</span><span class="wd_symbol">IRDM</span></div><div class="wd_selectors"><div class="wd_selector"><span class="wd_label">Year</span><span role="menu" wd_linkmenu_header="{&quot;title&quot;:&quot;Year&quot;}" class="wd_linkmenu"><a href="https://investor.iridium.com/sec-filings?year=" aria-label="Show filings for Trailing 12-Months" role="menuitem" aria-current="true" class="wd_linkmenu-item wd_linkmenu-active">Trailing 12-Months</a><a href="https://investor.iridium.com/sec-filings?year=2026" aria-label="Show filings for Calendar Year 2026" role="menuitem" class="wd_linkmenu-item">Calendar Year 2026</a><a href="https://investor.iridium.com/sec-filings?year=2025" aria-label="Show filings for Calendar Year 2025" role="menuitem" class="wd_linkmenu-item">Calendar Year 2025</a><a href="https://investor.iridium.com/sec-filings?year=2024" aria-label="Show filings for Calendar Year 2024" role="menuitem" class="wd_linkmenu-item">Calendar Year 2024</a><a href="https://investor.iridium.com/sec-filings?year=2023" aria-label="Show filings for Calendar Year 2023" role="menuitem" class="wd_linkmenu-item">Calendar Year 2023</a><a href="https://investor.iridium.com/sec-filings?year=2022" aria-label="Show filings for Calendar Year 2022" role="menuitem" class="wd_linkmenu-item">Calendar Year 2022</a><a href="https://investor.iridium.com/sec-filings?year=2021" aria-label="Show filings for Calendar Year 2021" role="menuitem" class="wd_linkmenu-item">Calendar Year 2021</a><a href="https://investor.iridium.com/sec-filings?year=2020" aria-label="Show filings for Calendar Year 2020" role="menuitem" class="wd_linkmenu-item">Calendar Year 2020</a><a href="https://investor.iridium.com/sec-filings?year=2019" aria-label="Show filings for Calendar Year 2019" role="menuitem" class="wd_linkmenu-item">Calendar Year 2019</a><a href="https://investor.iridium.com/sec-filings?year=2018" aria-label="Show filings for Calendar Year 2018" role="menuitem" class="wd_linkmenu-item">Calendar Year 2018</a><a href="https://investor.iridium.com/sec-filings?year=2017" aria-label="Show filings for Calendar Year 2017" role="menuitem" class="wd_linkmenu-item">Calendar Year 2017</a><a href="https://investor.iridium.com/sec-filings?year=2016" aria-label="Show filings for Calendar Year 2016" role="menuitem" class="wd_linkmenu-item">Calendar Year 2016</a></span></div><div class="wd_selector"><span class="wd_label">View</span><span role="menu" wd_linkmenu_header="{&quot;title&quot;:&quot;Category&quot;}" class="wd_linkmenu"><a href="https://investor.iridium.com/sec-filings?cat=" aria-label="Show filings for All Filings" role="menuitem" aria-current="true" class="wd_linkmenu-item wd_linkmenu-active">All Filings</a><a href="https://investor.iridium.com/sec-filings?cat=1" aria-label="Show filings for Annual Filings" role="menuitem" class="wd_linkmenu-item">Annual Filings</a><a href="https://investor.iridium.com/sec-filings?cat=2" aria-label="Show filings for Quarterly Filings" role="menuitem" class="wd_linkmenu-item">Quarterly Filings</a><a href="https://investor.iridium.com/sec-filings?cat=3" aria-label="Show filings for Current Filings" role="menuitem" class="wd_linkmenu-item">Current Filings</a><a href="https://investor.iridium.com/sec-filings?cat=4" aria-label="Show filings for Registration Statements" role="menuitem" class="wd_linkmenu-item">Registration Statements</a><a href="https://investor.iridium.com/sec-filings?cat=5" aria-label="Show filings for Section 16" role="menuitem" class="wd_linkmenu-item">Section 16</a><a href="https://investor.iridium.com/sec-filings?cat=7" aria-label="Show filings for Proxy &amp; Information Statements" role="menuitem" class="wd_linkmenu-item">Proxy & Information Statements</a><a href="https://investor.iridium.com/sec-filings?cat=8" aria-label="Show filings for Other" role="menuitem" class="wd_linkmenu-item">Other</a></span></div></div><div id="ir_tooltip" style="position:absolute;display:none;"></div><table class="wd_sec_filings" cellpadding="0" cellspacing="0" border="0"><thead><tr><th scope="col" class="wd_filing_type">Form</th><th scope="col" class="wd_description">Description</th><th scope="col" class="wd_filing_date">Date</th><th scope="col" class="wd_document_format">Format</th></tr></thead><tbody><tr><td scope="row" class="wd_filing_type">425</td><td class="wd_description">Filing of certain prospectuses and communications in connection with business combination transactions</td><td class="wd_filing_date">Aug 6, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320251468&type=HTML&symbol=IRDM&cdn=9d972f9cc7791ab0a8bf1fd6786de52c&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-08-06"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320251468&type=DOC&symbol=IRDM&cdn=9d972f9cc7791ab0a8bf1fd6786de52c&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-08-06" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320251468&type=PDF&symbol=IRDM&cdn=9d972f9cc7791ab0a8bf1fd6786de52c&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-08-06" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320251468&type=XLS&symbol=IRDM&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-08-06" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">SCHEDULE 13D/A</td><td class="wd_description">SCHEDULE 13D/A</td><td class="wd_filing_date">Aug 4, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320243046&type=HTML&symbol=IRDM&cdn=e86205fc992e99fb6914b18b321e837f&companyName=Iridium+Communications+Inc&formType=SCHEDULE+13D%2FA&dateFiled=2026-08-04"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open SCHEDULE 13D/A in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320243046&type=DOC&symbol=IRDM&cdn=e86205fc992e99fb6914b18b321e837f&companyName=Iridium+Communications+Inc&formType=SCHEDULE+13D%2FA&dateFiled=2026-08-04" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open SCHEDULE 13D/A in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320243046&type=PDF&symbol=IRDM&cdn=e86205fc992e99fb6914b18b321e837f&companyName=Iridium+Communications+Inc&formType=SCHEDULE+13D%2FA&dateFiled=2026-08-04" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open SCHEDULE 13D/A in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320243046&type=XLS&symbol=IRDM&cdn=e86205fc992e99fb6914b18b321e837f&companyName=Iridium+Communications+Inc&formType=SCHEDULE+13D%2FA&dateFiled=2026-08-04" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open SCHEDULE 13D/A in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">10-Q</td><td class="wd_description">Quarterly report which provides a continuing view of a company's financial position</td><td class="wd_filing_date">Jul 22, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320206990&type=HTML&symbol=IRDM&cdn=8355bca31a0736dec59342b5c3502ae3&companyName=Iridium+Communications+Inc&formType=10-Q&dateFiled=2026-07-22"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Quarterly report which provides a continuing view of a company's financial position in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320206990&type=DOC&symbol=IRDM&cdn=8355bca31a0736dec59342b5c3502ae3&companyName=Iridium+Communications+Inc&formType=10-Q&dateFiled=2026-07-22" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Quarterly report which provides a continuing view of a company's financial position in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320206990&type=PDF&symbol=IRDM&cdn=8355bca31a0736dec59342b5c3502ae3&companyName=Iridium+Communications+Inc&formType=10-Q&dateFiled=2026-07-22" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Quarterly report which provides a continuing view of a company's financial position in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320206990&type=XLS&symbol=IRDM&cdn=8355bca31a0736dec59342b5c3502ae3&companyName=Iridium+Communications+Inc&formType=10-Q&dateFiled=2026-07-22" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Quarterly report which provides a continuing view of a company's financial position in XLS file.</span></a><a class="wd_document wd_document_xbrl_viewer" href="#" onclick="window.open('https://investor.iridium.com/sec-filings?filer=Ticker%3AIRDM&item=1019404&action=view&pagetemplate=basic','_blank','width=800,height=600,scrollbars,resizable'); return false;"><img src="images/webdriver/fileicons/16/sec_xbrl.png" alt=""><span class="wd_sr-only">Open Quarterly report which provides a continuing view of a company's financial position in XBLR Viewer.</span></a><a class="wd_document wd_document_xbrl_download" href="#" onclick="window.open('https://investor.iridium.com/sec-filings?filer=Ticker%3AIRDM&item=1019404&action=download&pagetemplate=popup','_blank','width=800,height=200,scrollbars,resizable'); return false;"><img src="images/webdriver/fileicons/16/sec_xbrl_download.png" alt=""><span class="wd_sr-only">Open Quarterly report which provides a continuing view of a company's financial position in XBLR file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">8-K</td><td class="wd_description">Report of unscheduled material events or corporate event</td><td class="wd_filing_date">Jul 22, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320206982&type=HTML&symbol=IRDM&cdn=b15e54d7f59161d74b45257b561ba4e7&companyName=Iridium+Communications+Inc&formType=8-K&dateFiled=2026-07-22"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320206982&type=DOC&symbol=IRDM&cdn=b15e54d7f59161d74b45257b561ba4e7&companyName=Iridium+Communications+Inc&formType=8-K&dateFiled=2026-07-22" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320206982&type=PDF&symbol=IRDM&cdn=b15e54d7f59161d74b45257b561ba4e7&companyName=Iridium+Communications+Inc&formType=8-K&dateFiled=2026-07-22" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320206982&type=XLS&symbol=IRDM&cdn=b15e54d7f59161d74b45257b561ba4e7&companyName=Iridium+Communications+Inc&formType=8-K&dateFiled=2026-07-22" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in XLS file.</span></a><a class="wd_document wd_document_xbrl_viewer" href="#" onclick="window.open('https://investor.iridium.com/sec-filings?filer=Ticker%3AIRDM&item=1019403&action=view&pagetemplate=basic','_blank','width=800,height=600,scrollbars,resizable'); return false;"><img src="images/webdriver/fileicons/16/sec_xbrl.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in XBLR Viewer.</span></a><a class="wd_document wd_document_xbrl_download" href="#" onclick="window.open('https://investor.iridium.com/sec-filings?filer=Ticker%3AIRDM&item=1019403&action=download&pagetemplate=popup','_blank','width=800,height=200,scrollbars,resizable'); return false;"><img src="images/webdriver/fileicons/16/sec_xbrl_download.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in XBLR file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">3</td><td class="wd_description">Initial filing by director officer or owner of more than ten percent.</td><td class="wd_filing_date">Jul 13, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320191833&type=HTML&symbol=IRDM&cdn=a68c32eae3f23602f505e6090a3de346&companyName=Iridium+Communications+Inc&formType=3&dateFiled=2026-07-13"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Initial filing by director officer or owner of more than ten percent. in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320191833&type=DOC&symbol=IRDM&cdn=a68c32eae3f23602f505e6090a3de346&companyName=Iridium+Communications+Inc&formType=3&dateFiled=2026-07-13" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Initial filing by director officer or owner of more than ten percent. in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320191833&type=PDF&symbol=IRDM&cdn=a68c32eae3f23602f505e6090a3de346&companyName=Iridium+Communications+Inc&formType=3&dateFiled=2026-07-13" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Initial filing by director officer or owner of more than ten percent. in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320191833&type=XLS&symbol=IRDM&cdn=a68c32eae3f23602f505e6090a3de346&companyName=Iridium+Communications+Inc&formType=3&dateFiled=2026-07-13" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Initial filing by director officer or owner of more than ten percent. in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">4</td><td class="wd_description">Statement of changes in beneficial ownership of securities</td><td class="wd_filing_date">Jul 13, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320191834&type=HTML&symbol=IRDM&cdn=627fbc13305e2e0d0e7dfa045d830df4&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-13"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320191834&type=DOC&symbol=IRDM&cdn=627fbc13305e2e0d0e7dfa045d830df4&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-13" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320191834&type=PDF&symbol=IRDM&cdn=627fbc13305e2e0d0e7dfa045d830df4&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-13" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320191834&type=XLS&symbol=IRDM&cdn=627fbc13305e2e0d0e7dfa045d830df4&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-13" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">8-K</td><td class="wd_description">Report of unscheduled material events or corporate event</td><td class="wd_filing_date">Jul 7, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320182293&type=HTML&symbol=IRDM&cdn=7512c068cd3b439b1253d93a66a78371&companyName=Iridium+Communications+Inc&formType=8-K&dateFiled=2026-07-07"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320182293&type=DOC&symbol=IRDM&cdn=7512c068cd3b439b1253d93a66a78371&companyName=Iridium+Communications+Inc&formType=8-K&dateFiled=2026-07-07" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320182293&type=PDF&symbol=IRDM&cdn=7512c068cd3b439b1253d93a66a78371&companyName=Iridium+Communications+Inc&formType=8-K&dateFiled=2026-07-07" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320182293&type=XLS&symbol=IRDM&cdn=7512c068cd3b439b1253d93a66a78371&companyName=Iridium+Communications+Inc&formType=8-K&dateFiled=2026-07-07" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in XLS file.</span></a><a class="wd_document wd_document_xbrl_viewer" href="#" onclick="window.open('https://investor.iridium.com/sec-filings?filer=Ticker%3AIRDM&item=1018110&action=view&pagetemplate=basic','_blank','width=800,height=600,scrollbars,resizable'); return false;"><img src="images/webdriver/fileicons/16/sec_xbrl.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in XBLR Viewer.</span></a><a class="wd_document wd_document_xbrl_download" href="#" onclick="window.open('https://investor.iridium.com/sec-filings?filer=Ticker%3AIRDM&item=1018110&action=download&pagetemplate=popup','_blank','width=800,height=200,scrollbars,resizable'); return false;"><img src="images/webdriver/fileicons/16/sec_xbrl_download.png" alt=""><span class="wd_sr-only">Open Report of unscheduled material events or corporate event in XBLR file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">425</td><td class="wd_description">Filing of certain prospectuses and communications in connection with business combination transactions</td><td class="wd_filing_date">Jul 7, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320182307&type=HTML&symbol=IRDM&cdn=b35a22c6f13c01b117c287a68ffad690&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-07-07"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320182307&type=DOC&symbol=IRDM&cdn=b35a22c6f13c01b117c287a68ffad690&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-07-07" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320182307&type=PDF&symbol=IRDM&cdn=b35a22c6f13c01b117c287a68ffad690&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-07-07" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320182307&type=XLS&symbol=IRDM&cdn=b35a22c6f13c01b117c287a68ffad690&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-07-07" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">425</td><td class="wd_description">Filing of certain prospectuses and communications in connection with business combination transactions</td><td class="wd_filing_date">Jul 6, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320178618&type=HTML&symbol=IRDM&cdn=681fc8e5709e8e33d9bc6e804ef3032a&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-07-06"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320178618&type=DOC&symbol=IRDM&cdn=681fc8e5709e8e33d9bc6e804ef3032a&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-07-06" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320178618&type=PDF&symbol=IRDM&cdn=681fc8e5709e8e33d9bc6e804ef3032a&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-07-06" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320178618&type=XLS&symbol=IRDM&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-07-06" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">4</td><td class="wd_description">Statement of changes in beneficial ownership of securities</td><td class="wd_filing_date">Jul 2, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174480&type=HTML&symbol=IRDM&cdn=cd8a92a63d97ae68094f2d6d1ced21d3&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174480&type=DOC&symbol=IRDM&cdn=cd8a92a63d97ae68094f2d6d1ced21d3&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174480&type=PDF&symbol=IRDM&cdn=cd8a92a63d97ae68094f2d6d1ced21d3&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174480&type=XLS&symbol=IRDM&cdn=cd8a92a63d97ae68094f2d6d1ced21d3&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">4</td><td class="wd_description">Statement of changes in beneficial ownership of securities</td><td class="wd_filing_date">Jul 2, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174509&type=HTML&symbol=IRDM&cdn=b5531531d57493e36842bf8cb891eea0&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174509&type=DOC&symbol=IRDM&cdn=b5531531d57493e36842bf8cb891eea0&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174509&type=PDF&symbol=IRDM&cdn=b5531531d57493e36842bf8cb891eea0&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174509&type=XLS&symbol=IRDM&cdn=b5531531d57493e36842bf8cb891eea0&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">4</td><td class="wd_description">Statement of changes in beneficial ownership of securities</td><td class="wd_filing_date">Jul 2, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174516&type=HTML&symbol=IRDM&cdn=acd3607bdfa0697f8b0ec00a03100363&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174516&type=DOC&symbol=IRDM&cdn=acd3607bdfa0697f8b0ec00a03100363&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174516&type=PDF&symbol=IRDM&cdn=acd3607bdfa0697f8b0ec00a03100363&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174516&type=XLS&symbol=IRDM&cdn=acd3607bdfa0697f8b0ec00a03100363&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">4</td><td class="wd_description">Statement of changes in beneficial ownership of securities</td><td class="wd_filing_date">Jul 2, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174527&type=HTML&symbol=IRDM&cdn=79f91571fe38b78f9629fce28e3f22d6&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174527&type=DOC&symbol=IRDM&cdn=79f91571fe38b78f9629fce28e3f22d6&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174527&type=PDF&symbol=IRDM&cdn=79f91571fe38b78f9629fce28e3f22d6&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174527&type=XLS&symbol=IRDM&cdn=79f91571fe38b78f9629fce28e3f22d6&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">4</td><td class="wd_description">Statement of changes in beneficial ownership of securities</td><td class="wd_filing_date">Jul 2, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174529&type=HTML&symbol=IRDM&cdn=97bfc289056650caad0dbc80a4aeda4c&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174529&type=DOC&symbol=IRDM&cdn=97bfc289056650caad0dbc80a4aeda4c&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174529&type=PDF&symbol=IRDM&cdn=97bfc289056650caad0dbc80a4aeda4c&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174529&type=XLS&symbol=IRDM&cdn=97bfc289056650caad0dbc80a4aeda4c&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">4</td><td class="wd_description">Statement of changes in beneficial ownership of securities</td><td class="wd_filing_date">Jul 2, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174551&type=HTML&symbol=IRDM&cdn=eba528efc678f07fba290b03fb5ec354&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174551&type=DOC&symbol=IRDM&cdn=eba528efc678f07fba290b03fb5ec354&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174551&type=PDF&symbol=IRDM&cdn=eba528efc678f07fba290b03fb5ec354&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174551&type=XLS&symbol=IRDM&cdn=eba528efc678f07fba290b03fb5ec354&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">4</td><td class="wd_description">Statement of changes in beneficial ownership of securities</td><td class="wd_filing_date">Jul 2, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174566&type=HTML&symbol=IRDM&cdn=908d10d2c00dec7e6c55078ae6c3c420&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174566&type=DOC&symbol=IRDM&cdn=908d10d2c00dec7e6c55078ae6c3c420&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174566&type=PDF&symbol=IRDM&cdn=908d10d2c00dec7e6c55078ae6c3c420&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174566&type=XLS&symbol=IRDM&cdn=908d10d2c00dec7e6c55078ae6c3c420&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">4</td><td class="wd_description">Statement of changes in beneficial ownership of securities</td><td class="wd_filing_date">Jul 2, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174567&type=HTML&symbol=IRDM&cdn=ae2b5faf0b861187dddcad1d1f05a6ba&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174567&type=DOC&symbol=IRDM&cdn=ae2b5faf0b861187dddcad1d1f05a6ba&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174567&type=PDF&symbol=IRDM&cdn=ae2b5faf0b861187dddcad1d1f05a6ba&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174567&type=XLS&symbol=IRDM&cdn=ae2b5faf0b861187dddcad1d1f05a6ba&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">4</td><td class="wd_description">Statement of changes in beneficial ownership of securities</td><td class="wd_filing_date">Jul 2, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174582&type=HTML&symbol=IRDM&cdn=b3f1b99b68a2be5592b7220b8223cb22&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174582&type=DOC&symbol=IRDM&cdn=b3f1b99b68a2be5592b7220b8223cb22&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174582&type=PDF&symbol=IRDM&cdn=b3f1b99b68a2be5592b7220b8223cb22&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320174582&type=XLS&symbol=IRDM&cdn=b3f1b99b68a2be5592b7220b8223cb22&companyName=Iridium+Communications+Inc&formType=4&dateFiled=2026-07-02" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Statement of changes in beneficial ownership of securities in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">425</td><td class="wd_description">Filing of certain prospectuses and communications in connection with business combination transactions</td><td class="wd_filing_date">Jun 29, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162498&type=HTML&symbol=IRDM&cdn=d5a3ecd1cd96555f3ed514af6efc56d6&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162498&type=DOC&symbol=IRDM&cdn=d5a3ecd1cd96555f3ed514af6efc56d6&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162498&type=PDF&symbol=IRDM&cdn=d5a3ecd1cd96555f3ed514af6efc56d6&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162498&type=XLS&symbol=IRDM&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">425</td><td class="wd_description">Filing of certain prospectuses and communications in connection with business combination transactions</td><td class="wd_filing_date">Jun 29, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162974&type=HTML&symbol=IRDM&cdn=1f25d3cef7490a1dda6cf61940933f12&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162974&type=DOC&symbol=IRDM&cdn=1f25d3cef7490a1dda6cf61940933f12&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162974&type=PDF&symbol=IRDM&cdn=1f25d3cef7490a1dda6cf61940933f12&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162974&type=XLS&symbol=IRDM&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">425</td><td class="wd_description">Filing of certain prospectuses and communications in connection with business combination transactions</td><td class="wd_filing_date">Jun 29, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162976&type=HTML&symbol=IRDM&cdn=7aca5195b8f9da86897e5eac55ce38c6&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162976&type=DOC&symbol=IRDM&cdn=7aca5195b8f9da86897e5eac55ce38c6&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162976&type=PDF&symbol=IRDM&cdn=7aca5195b8f9da86897e5eac55ce38c6&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162976&type=XLS&symbol=IRDM&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">425</td><td class="wd_description">Filing of certain prospectuses and communications in connection with business combination transactions</td><td class="wd_filing_date">Jun 29, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162995&type=HTML&symbol=IRDM&cdn=ae2f5814e0f8529674691001e83476e5&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162995&type=DOC&symbol=IRDM&cdn=ae2f5814e0f8529674691001e83476e5&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162995&type=PDF&symbol=IRDM&cdn=ae2f5814e0f8529674691001e83476e5&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162995&type=XLS&symbol=IRDM&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">425</td><td class="wd_description">Filing of certain prospectuses and communications in connection with business combination transactions</td><td class="wd_filing_date">Jun 29, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162998&type=HTML&symbol=IRDM&cdn=b2d58f118efe1b5fd397e5de0e0a5977&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162998&type=DOC&symbol=IRDM&cdn=b2d58f118efe1b5fd397e5de0e0a5977&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162998&type=PDF&symbol=IRDM&cdn=b2d58f118efe1b5fd397e5de0e0a5977&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320162998&type=XLS&symbol=IRDM&cdn=b2d58f118efe1b5fd397e5de0e0a5977&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">425</td><td class="wd_description">Filing of certain prospectuses and communications in connection with business combination transactions</td><td class="wd_filing_date">Jun 29, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320163028&type=HTML&symbol=IRDM&cdn=959457bbbab12f2b92438a528fdbc162&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320163028&type=DOC&symbol=IRDM&cdn=959457bbbab12f2b92438a528fdbc162&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320163028&type=PDF&symbol=IRDM&cdn=959457bbbab12f2b92438a528fdbc162&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320163028&type=XLS&symbol=IRDM&cdn=959457bbbab12f2b92438a528fdbc162&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in XLS file.</span></a></td></tr><tr><td scope="row" class="wd_filing_type">425</td><td class="wd_description">Filing of certain prospectuses and communications in connection with business combination transactions</td><td class="wd_filing_date">Jun 29, 2026</td><td class="wd_document_format"><a class="wd_document wd_document_html" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320163023&type=HTML&symbol=IRDM&cdn=85cd13e7a35c8a79b3d4acd08eb12ff2&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29"  target="_blank"><img src="images/webdriver/fileicons/16/sec_html.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in HTML.</span></a><a class="wd_document wd_document_doc" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320163023&type=DOC&symbol=IRDM&cdn=85cd13e7a35c8a79b3d4acd08eb12ff2&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_doc.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in DOC file.</span></a><a class="wd_document wd_document_pdf" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320163023&type=PDF&symbol=IRDM&cdn=85cd13e7a35c8a79b3d4acd08eb12ff2&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_pdf.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in PDF file.</span></a><a class="wd_document wd_document_xls" href="https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=320163023&type=XLS&symbol=IRDM&companyName=Iridium+Communications+Inc&formType=425&dateFiled=2026-06-29" ><img src="images/webdriver/fileicons/16/sec_xls.png" alt=""><span class="wd_sr-only">Open Filing of certain prospectuses and communications in connection with business combination transactions in XLS file.</span></a></td></tr></tbody><tfoot><tr><td colspan="4"><b>1-25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://investor.iridium.com/index.php?o=25&amp;s=127">26-50</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://investor.iridium.com/index.php?o=50&amp;s=127">51-75</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://investor.iridium.com/index.php?o=75&amp;s=127">76-100</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://investor.iridium.com/index.php?o=100&amp;s=127">101-125</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://investor.iridium.com/index.php?o=125&amp;s=127">126-143</a></b></td></tr></tfoot></table>
+</div>
+</div><div class="wd_featureboxes_bottom wd_featureboxes-vertical fr-view">
+<div id="wd_featurebox-standard_12" class="wd_featurebox_container wd_featurebox-standard"><div class="wd_featurebox_title">Quick Links</div><div class="wd_featurebox"><p><a href="annual-reports">+ Annual Reports</a></p>
+
+<p><a href="sec-filings">+ SEC Filings</a></p>
+
+<p><a href="analyst-coverage">+ Analyst Coverage</a></p>
+
+<p><a href="board-of-directors">+ Board of Directors</a></p>
+
+<p><a href="management">+ Management</a></p>
+
+<p><a href="https://www.iridium.com/company-info/corporate-social-responsibility/">+ Corporate Responsibility</a></p>
+
+<p><a href="contacts">+ Contact Us</a></p>
+
+<p><a href="alerts?type=1">+ Investor Alerts</a></p>
+</div></div><div id="wd_featurebox-financial_2" class="wd_featurebox_container wd_featurebox-financial"><div class="wd_featurebox_title">Stock Quote</div><div class="wd_featurebox"><div class="wd_ticker_label"><span class="wd_exchange">NASDAQ</span><span class="wd_symbol">IRDM</span></div><div class="wd_quote-container" id="ir_featurebox_2-data"></div><div class="wd_chart-quote-footer" id="ir_featurebox_2-footer"></div><script type="text/javascript">webDriver.jQuery(function() {ir_featurebox.update(2, "IRDM", false);});</script></div></div><div id="wd_featurebox-standard_13" class="wd_featurebox_container wd_featurebox-standard"><div class="wd_featurebox_title">For More Information</div><div class="wd_featurebox"><p>Kenneth Levy<br />
+1676 International Drive<br />
+Suite 1100<br />
+McLean, VA 22102<br />
+(703) 287-7570<br />
+<a href="contacts">Contact Us</a></p>
+</div></div></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+</main>
+
+<footer data-bg-color-btm="purple" class="site-footer">
+                <div class="site-footer-inner">
+                    <div class="site-footer-top">
+                        <picture class="site-footer-logo">
+                            <a href="https://www.iridium.com/">
+                                <img src="images/logo.svg" width="180" height="33" alt="Iridium Communications Inc" />
+                            </a>
+                        </picture>
+                    </div>
+
+                    <div class="site-footer-middle">
+                          <nav class="site-footer-navigation left">
+											      <ul>
+											          <li>
+											        <a href="https://www.iridium.com/company/careers" class="-simple-link -noline-initial" data-drupal-link-system-path="node/19"><span>Careers</span></a>
+											      </li>
+											          <li>
+											        <a href="https://www.iridium.com/company/investor-relations" class="-simple-link -noline-initial" data-drupal-link-system-path="node/13"><span>Investors</span></a>
+											      </li>
+											          <li>
+											        <a href="https://www.iridium.com/company/news-media" class="-simple-link -noline-initial" data-drupal-link-system-path="node/86"><span>News &amp; Media</span></a>
+											      </li>
+											          <li>
+											        <a href="https://www.iridium.com/login" class="-simple-link -noline-initial" target="_blank" rel="noreferrer"><span>Login</span></a>
+											      </li>
+											      </ul>
+
+											  </nav>
+
+                        <div class="site-footer-copy">
+                            <h2 class="h3">Unmatched connectivity and reliability</h2>
+                            <a href="https://www.iridium.com/network" class="btn btn--primary"><span>Explore the network</span></a>
+                        </div>
+
+                        <nav class="site-footer-navigation right">
+										      <ul>
+										          <li>
+										        <a href="https://www.iridium.com/products/develop-anything" class="-simple-link -noline-initial" data-drupal-link-system-path="node/112"><span>Developer Resources</span></a>
+										      </li>
+										          <li>
+										        <a href="https://www.iridium.com/who-is-my-sp/" class="-simple-link -noline-initial" target="_blank" rel="noreferrer"><span>Find My Service Provider </span></a>
+										      </li>
+										          <li>
+										        <a href="https://messaging.iridium.com/" class="-simple-link -noline-initial" target="_blank" rel="noreferrer"><span>Send a Satellite Message</span></a>
+										      </li>
+										          <li>
+										        <a href="https://www.iridium.com/company/contact" class="-simple-link -noline-initial" data-drupal-link-system-path="node/81"><span>Contact Us</span></a>
+										      </li>
+										      </ul>
+
+										  </nav>
+                    </div>
+
+                    <div class="site-footer-bottom">
+                        <div class="site-footer-copyright">
+                            <p>&copy; 2026 Iridium Communications Inc. All rights reserved.</p>
+                        </div>
+
+                        <nav class="site-footer-social" aria-label="Footer Navigation">
+								          <ul class="nav--inline">
+								                  <li>
+								            <a href="https://www.facebook.com/MyIridium" target="_blank" aria-label="Facebook" class="icon icon-social-facebook">
+								            </a>
+								          </li>
+								                  <li>
+								            <a href="https://x.com/IridiumComm" target="_blank" aria-label="x" class="icon icon-social-x">
+								            </a>
+								          </li>
+								                  <li>
+								            <a href="https://www.youtube.com/user/IridiumComm" target="_blank" aria-label="YouTube" class="icon icon-social-youtube">
+								            </a>
+								          </li>
+								                  <li>
+								            <a href="https://linkedin.com/company/iridium" target="_blank" aria-label="LinkedIn" class="icon icon-social-linkedin">
+								            </a>
+								          </li>
+								              </ul>
+								      </nav>
+
+                        <nav class="site-footer-legal" aria-label="Footer Navigation">
+                            <ul class="nav--inline">
+                                <li>
+                                    <a href="https://www.iridium.com/general-terms-and-conditions-use" target="" aria-current="false">Terms of Use</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.iridium.com/privacy-policy/" target="" aria-current="false">Privacy Policy</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.iridium.com/privacy-notice-collection-ca-residents" target="" aria-current="false">Privacy Notice at Collection for CA Residents</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.iridium.com/cookie-policy" target="" aria-current="false">Cookie Policy</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.iridium.com/all-policies" target="" aria-current="false">All Policies</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </footer>
+</div>		
+<script type='text/javascript' src='js/hoverintent-js.min.js'></script>
+<script type='text/javascript' src='js/admin-bar.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='js/frontend-builder-global-functions.js'></script>
+<script type='text/javascript' src='js/idle-timer.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/www.iridium.com\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/www.iridium.com\/","stats_nonce":"3fea7e0f6f","share_counts":"39b75522dc","follow_counts":"7e99e3c66d","total_counts":"4a84c960bc","media_single":"c572a4fff8","media_total":"c570ba7fff","generate_all_window_nonce":"51376f9570","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='js/custom.js'></script>
+<script type='text/javascript' src='js/jquery.mobile.custom.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='js/custom.js'></script>
+<script type='text/javascript' src='js/homepage-login.js'></script>
+<script type='text/javascript' src='//cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.js?ver=1.0.1.1628856864'></script>
+<script type='text/javascript' src='js/supernav.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/www.iridium.com\/wp-admin\/admin-ajax.php","nonce":"2010c49565","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"7862400","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='js/jquery.fitvids.js'></script>
+<script type='text/javascript' src='js/waypoints.min.js'></script>
+<script type='text/javascript' src='js/jquery.magnific-popup.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.iridium.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.iridium.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.iridium.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"ef5ebed5b0","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"19697b6d4e","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"1229","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='js/frontend-builder-scripts.js'></script>
+<script type='text/javascript' src='js/common.js'></script>
+<script type='text/javascript' src='js/wp-embed.min.js'></script>
+   <!--[if lte IE 8]>
+      <script type="text/javascript">
+         document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+      </script>
+   <![endif]-->
+   <!--[if gte IE 9]><!-->
+      <script type="text/javascript">
+         (function() {
+            var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+                  request = true;
+      
+            b[c] = b[c].replace( rcs, ' ' );
+            // The customizer requires postMessage and CORS (if the site is cross domain).
+            b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+         }());
+      </script>	
+      
+
+	  <script type="text/javascript">
+				jQuery(document).ready(function($) {
+					// $('#top-header').load('https://www.iridium.com #top-header > *', function(response, status, xhr) {
+					// 	if (status == 'success') {
+					// 		let superNavScript = document.createElement('script');
+					// 		superNavScript.setAttribute('src', 'https://www.iridium.com/wp-content/themes/Iridium/js/supernav.js');
+					// 		document.head.appendChild(superNavScript);
+					// 		$('#top-header').find('li.loginout').remove();	//	remove the login/logout nav element
+					// 		$('#user_password').remove(); // remove #user_password input for wcag
+					// 		$('#top-header a').each(function() {			//	fix the links to https://www.iridium.com
+					// 			let h = $(this).attr('href');
+					// 			if (h.charAt(0) == '/') {
+					// 				$(this).attr('href', 'https://www.iridium.com' + h);
+					// 			}
+					// 		});
+					// 	}
+					// });
+					$('.footer__wrap').load('https://www.iridium.com .footer__wrap > *', function(response, status, xhr) {
+						if (status == 'success') {
+							$('.footer__wrap a').each(function() {			//	fix the links to https://www.iridium.com
+								let h = $(this).attr('href');
+								if (h.charAt(0) == '/') {
+									$(this).attr('href', 'https://www.iridium.com' + h);
+								}
+							});
+							$('.iridium-socials a').each(function() {
+								$(this).removeClass('fab').addClass('fa');
+								$(this).append('<span class="wd_sr-only">View Iridium on ' + this.classList[1].split('-')[1] + '</span>');
+							});
+							$('.fa-linkedin-in').removeClass('fa-linkedin-in').addClass('fa-linkedin');
+						}
+					});
+				});
+			</script>
+      <!-- Added by Aeeiee -->
+
+<!-- WD SCRIPTS -->			  
+  <script type="text/javascript">
+
+   jQuery(document).ready(function($){
+   jQuery('.wd_current_nav_page').click(function(){
+      jQuery(this).toggleClass("active");
+      jQuery('.wd_mobilenav').toggleClass("active");
+   });
+   // $('.wd_featureboxes_top .wd_featurebox_container').each(function(){
+   // 	var topLink = $(this).find('a').attr('href');
+   // 	$(this).wrap('<a href="'+topLink+'"></a>');
+   // });
+
+   $('.subscribe_link > a').append('<span class="wd_sr-only">View Iridium Investor Alerts</span>');
+   $('#wd_featurebox-standard_13 .wd_featurebox').prepend('<i class="fas fa-user"></i>');
+
+   // REORDER PDF
+   $(".wd_standard .item table.wd_attachment td.wd_attachment_info").each(function() {
+      $(this).prependTo($(this).parent());
+   });
+   $('<td class="wd_attachment_date"></td>').insertAfter(".wd_standard .item table.wd_attachment tr td.wd_attachment_info");
+
+   $(".wd_standard .item table.wd_attachment td.wd_attachment_info").each(function() {
+      var date = $(this).parent().find('td.wd_attachment_date');
+      $(this).find('span.wd_attachment_description').appendTo(date);
+   });
+
+   
+
+
+
+   $( ".wd_pageid_115 .wd_attribute_index:contains('1')" ).addClass("wd_staricon");
+   $( ".wd_pageid_115 .wd_attribute_index:contains('2')" ).addClass("wd_iicon");
+
+var replace_text = "I acknowledge that my personal information will be used by Iridium as explained in Iridium's <a href=\"https://www.iridium.com/privacy-policy\" target=\"_blank\">Privacy Policy</a>, and consent to receiving marketing communications from Iridium about products and services that may be interest to me. I can withdraw my consent to receiving marketing communications at any time by Unsubscribing using a link provided in such emails or by sending my request to iridium.online@iridium.com.";
+$(".wd_form_field_pos_left_inline label").html(replace_text);
+});
+</script>
+
+<!-- Necessary JavaScript -->
+
+<script>
+$(document).ready(function() {
+$('.wd_featureboxes_top .wd_featurebox_container').each(function() {
+  var fbox_link = $(this).find('.wd_featurebox_title a').attr('href');
+ 
+  var title_lbl = $(this).find('.wd_featurebox_title a').text();
+
+  $(this).find('.wd_featurebox_title').html(title_lbl);
+
+
+
+  $(this).wrap('<a href="'+ fbox_link +'"></a>');
+
+
+});
+
+
+$('#searchToggle').click(function(){
+	$('html').toggleClass('search-open');
+	$('#searchform input[type="text"]').focus();
+});
+
+$('.wd_pageid_64.wd_item_page .wd_standard-detail > *:not(h1, table').wrapAll('<div class="text_content" />');
+
+});
+</script>	
+
+
+<script src="js/wd_access.js"></script>
+<!-- ALL SCRIPTS BELOW ARE FROM NEW HEADER/FOOTER/SITE -->
+ <template id="modal-template">
+            <!-- components/modal/modal.twig -->
+
+            <dialog class="modal js-any-modal" aria-hidden="true">
+                <div class="inner" role="document">
+                    <div class="scrollable">
+                        <button
+                            type="button"
+                            class="js-modal-close btn--ui-icon--overlay-close"
+                            aria-label="Close modal"
+                        ></button>
+
+                        <div class="content"></div>
+                    </div>
+                </div>
+            </dialog>
+        </template>
+
+        <script src="html/js/jquery.min.js"></script>
+
+        <script src="html/js/once.min.js"></script>
+        <script src="html/js/drupal.js"></script>
+        <script src="html/js/drupal.init.js"></script>
+
+        <script src="html/js/bundle.js"></script>
+
+        <script src="html/js/static.js"></script>
+        <script>
+          const smallScreenQuery = window.matchMedia("(max-width: 899px)");
+
+          function handleSmallScreenChange(event) {
+              if (event.matches) {
+                  document.getElementById('hamburger-nav').setAttribute('data-active-level', '0');
+		  document.querySelector('.js-hamburger-nav-tablist-item:first-child').setAttribute('aria-selected', false);
+                  document.querySelector('.js-hamburger-nav-tablist-panel').setAttribute('aria-hidden', true);
+              } else {
+                  document.getElementById('hamburger-nav').setAttribute('data-active-level', '1');
+              }
+          }
+
+          // Initial check
+          handleSmallScreenChange(smallScreenQuery);
+
+          // Listen for changes
+          smallScreenQuery.addEventListener("change", handleSmallScreenChange);
+
+          document.querySelector('.search-toggle-btn').addEventListener('click', function () {
+              document.querySelector('html').setAttribute('data-search-overlay-open', !document.querySelector('html').hasAttribute('data-search-overlay-open'));
+              this.setAttribute('aria-expanded', document.querySelector('html').hasAttribute('data-search-overlay-open'));
+          });
+
+          document.querySelector('.search-overlay-close').addEventListener('click', function () {
+              document.querySelector('html').removeAttribute('data-search-overlay-open');
+              document.querySelector('.search-toggle-btn').setAttribute('aria-expanded', 'false');
+          });          
+          document.querySelector('.hamburger-toggle-btn').addEventListener('click', function () {
+              document.querySelector('html').setAttribute('data-hamburger-open', !document.querySelector('html').hasAttribute('data-hamburger-open'));
+              this.setAttribute('aria-expanded', document.querySelector('html').hasAttribute('data-hamburger-open'));
+              document.querySelector('.js-hamburger-nav-tablist-item:first-child').setAttribute('aria-selected', true);
+              document.querySelector('.js-hamburger-nav-tablist-panel').setAttribute('aria-hidden', false);
+              //handleSmallScreenChange(smallScreenQuery);
+          });
+
+          document.querySelector('.hamburger-nav-close').addEventListener('click', function () {
+              document.querySelector('html').removeAttribute('data-hamburger-open');
+              document.querySelector('.js-hamburger-nav-tablist-item[aria-selected=true]').setAttribute('aria-selected', false);
+              document.querySelector('.js-hamburger-nav-tablist-panel[aria-hidden=false]').setAttribute('aria-hidden', true);
+              document.querySelector('.hamburger-toggle-btn').setAttribute('aria-expanded', 'false');
+          });
+	  document.querySelector('.hamburger-nav-back').addEventListener('click', function () {
+              document.getElementById('hamburger-nav').setAttribute('data-active-level', '0');
+              
+          });
+	  			document.querySelector('.js-search-overlay-input').addEventListener('input', function (e) {
+	  				document.querySelector('.js-search-overlay-submit').disabled = !e.currentTarget.value;
+	  			});
+          // Hamburger nav tablist functionality
+          const tabs = document.querySelectorAll('.js-hamburger-nav-tablist-item');
+          const tabPanels = document.querySelectorAll('.js-hamburger-nav-tablist-panel');
+          tabs.forEach((tab, index) => {
+              tab.addEventListener('click', () => {
+		  if (smallScreenQuery.matches) {
+                      // On small screens, set active level to 2 when a tab is clicked
+                      document.getElementById('hamburger-nav').setAttribute('data-active-level', '1');
+                  } else {
+                      // On large screens, ensure active level is 1
+                      document.getElementById('hamburger-nav').setAttribute('data-active-level', '0');
+                  }
+                  // Deselect all tabs and hide all panels
+                  tabs.forEach(t => t.setAttribute('aria-selected', false));
+                  tabPanels.forEach(panel => panel.setAttribute('aria-hidden', true));
+
+                  // Select the clicked tab and show the corresponding panel
+                  tab.setAttribute('aria-selected', true);
+                  tabPanels[index].setAttribute('aria-hidden', false);
+              });
+          });
+        </script>
+<!-- End ALL SCRIPTS BELOW ARE FROM NEW HEADER/FOOTER/SITE -->
+
+<!-- begin spin_special_output(body_end) -->
+<script wd_script_id="piwik_tracking_code"></script>
+<!-- Piwik Tracking Code -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+
+  _paq.push(["setCustomVariable", 1, "Content Type", "IR: SEC Filings", "page"]);
+
+  _paq.push(["setCustomVariable", 3, "Navigation Page", "Financial Information : SEC Filings", "page"]);
+
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+  (function() {
+    var u="//stats.drivetheweb.com/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", 4840]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0];
+    g.type="text/javascript"; g.async=true; g.defer=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript>
+	<img src="https://stats.drivetheweb.com/piwik.php?idsite=4840&rec=1" style="border:0" alt="" />
+</noscript>
+<!-- End Piwik Tracking Code -->
+		
+<!-- end spin_special_output(body_end) -->
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a28f749dfd242ca1',t:'MTc4NjM2OTY3OQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>      

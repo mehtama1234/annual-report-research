@@ -1,6 +1,6 @@
 # Builders FirstSource, Inc. Official IR Verification
 
-Date checked: 2026-08-09
+Date checked: 2026-08-10
 
 Investor relations home:
 
@@ -35,10 +35,10 @@ Official URLs verified:
 
 Collection note:
 
-- Builders FirstSource investor-relations HTML pages were browser-verifiable but Cloudflare-challenged from the shell on `2026-08-09`, so the local packet uses browser-verified IR URLs plus direct company-hosted PDFs and the SEC filing-and-exhibit chain for durable local evidence.
+- Builders FirstSource investor-relations HTML pages were browser-verifiable but Cloudflare-challenged from the shell on `2026-08-10`, so the local packet uses browser-verified IR URLs plus direct company-hosted PDFs and the SEC filing-and-exhibit chain for durable local evidence.
 - No standalone local call-transcript files are included in this first packet because the core annual, quarter, filing, and presentation chain is already complete and direct transcript files were not cleanly surfaced in the official source stack during this pass.
 
 Interpretation:
 
-- Builders FirstSource has a current and internally consistent evidence chain for the `2025` annual package and the `Q2 2026` / `Q1 2026` / `Q4 2025` quarter window as of `2026-08-09`.
+- Builders FirstSource has a current and internally consistent evidence chain for the `2025` annual package and the `Q2 2026` / `Q1 2026` / `Q4 2025` quarter window as of `2026-08-10`.
 - The key archive value is that management repeatedly frames the business through housing starts pressure, commodity deflation, value-added solutions, digital capabilities, productivity savings, and cash discipline rather than through a simple cyclical lumber read.

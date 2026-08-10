@@ -12,6 +12,7 @@ This memo pulls together the current Services packets that are most useful for u
 - [Hilton Worldwide Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
 - [Marriott International, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/marriott-international-inc/company-packet.md)
 - [Booking Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/transportation-services/booking-holdings/company-packet.md)
+- [Expedia Group, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/transportation-services/expedia-group-inc/company-packet.md)
 - [Carnival Corporation & plc](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/general-entertainment/carnival-corporation-plc/company-packet.md)
 - [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
 - [MGM Resorts International](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md)
@@ -34,6 +35,7 @@ Each company does that differently:
 - `Hilton` turns branded stay behavior into a global fee and pipeline compounder built on repeat travel, owner demand, and loyalty-linked distribution.
 - `Marriott` turns branded stay behavior into a larger-scale global distribution, loyalty, meetings, and co-brand system with unusually explicit Bonvoy concentration.
 - `Booking` turns trip planning and booking into a marketplace, merchant-payments, app-engagement, and cross-vertical travel orchestration system.
+- `Expedia` turns trip planning and booking into a flagship-brand marketplace layered with `One Key` loyalty, a large B2B travel business, and an explicit advertising network.
 - `Carnival` turns a prepaid vacation into a bundled destination, onboard-spend, and deposit-float system.
 - `Caesars` turns resort visits and digital wagering into one rewards and wallet-linked customer loop.
 - `MGM` turns destination demand into a diversified resort, regional gaming, Macau, and digital-extension system with several monetization surfaces rather than one pure wallet mechanic.
@@ -55,6 +57,7 @@ The filings are unusually explicit.
 - `Hilton` is less dramatic in disclosure language, but the packet shows loyalty-linked travel demand, branded booking preference, and owner willingness to sign more Hilton flags across a growing global room base.
 - `Marriott` goes further than Hilton in explicit loyalty concentration, stating that in `2025` about `75%` of U.S. room nights and `68%` of global room nights were booked by loyalty members, while co-branded cards remained a significant funding source for the program.
 - `Booking` is not a status currency in the Delta sense, but it is explicit that the strategic stack now runs through direct mix, mobile app engagement, Genius participation, Connected Trip transactions, and a widening merchant-payments surface.
+- `Expedia` is not a classic airline or hotel status currency either, but it is explicit that the relationship stack now runs through `One Key`, three flagship consumer brands, the largest B2B travel business, and a premier advertising network.
 - `Carnival` is less loyalty-explicit than Delta or Caesars, but the packet shows how record deposits, forward-booked occupancy, onboard monetization, and pre-cruise spend can also form a durable customer-value layer.
 - `Caesars` says Caesars Rewards is core to cross-market strategy and is designed to increase both visit frequency and spend across physical and digital channels.
 - `MGM` is less explicit than Caesars about one wallet layer, but the packet shows a meaningful relationship system across MGM Rewards, repeat destination behavior, regional play, Macau exposure, and digital extensions including both MGM Digital and BetMGM adjacency.
@@ -93,6 +96,11 @@ That means the archive can now say something more precise: in travel and destina
 - The clearest evidence is the merchant shift, the direct and app mix, the Genius participation level, and the explicit Connected Trip roadmap.
 - This is not just a referral business attached to hotels and airlines. It is a consumer-travel control surface trying to capture more of the trip workflow and transaction stack.
 
+`Expedia` owns the traveler through flagship consumer brands, cross-brand loyalty, B2B distribution, and advertising-supported marketplace reach.
+
+- The clearest evidence is the `One Key` rollout, the size of the B2B business, the visibility of `EG Advertising`, and the explicit IR framing around Expedia, Hotels.com, Vrbo, B2B, and advertising as one ecosystem.
+- This is not just another OTA attached to hotel inventory. It is a thicker travel-relationship platform trying to own both the consumer-facing trip workflow and the partner-facing travel-distribution stack.
+
 `Carnival` owns the guest through a bundled vacation environment with deposits collected well in advance, itinerary control, onboard spend, and exclusive destinations.
 
 - The clearest evidence is the record deposit base, the growing pre-cruise and onboard spend, the long booking curve, and management's emphasis on pricing integrity.
@@ -118,6 +126,7 @@ All eight companies show a second economic layer beyond the basic service consum
 - `Hilton`: fee streams, owner signings, pipeline growth, brand-system scale
 - `Marriott`: co-branded card fees, loyalty-funded distribution, meetings and branded-stay scale, owner signings
 - `Booking`: merchant payments, cross-vertical trip orchestration, direct demand capture, app repeat behavior, and advertising or other ancillary monetization
+- `Expedia`: cross-brand loyalty, B2B travel distribution, merchant and agency economics, advertising-network monetization, and first-party-data-supported travel intent capture
 - `Carnival`: deposits, onboard spend, pre-cruise sales, exclusive destinations, and pricing power across a bundled vacation product
 - `Caesars`: digital wagering, universal wallet usage, cross-market rewards engagement
 - `MGM`: digital gaming exposure, diversified resort demand, Macau earnings, regional repeat play, and convention or luxury-driven destination monetization
@@ -150,6 +159,7 @@ The cultural reading is strong here.
 - `Hilton` shows that branded stays and repeat travel are partly about trust, familiarity, and status-coded consumption as well as room demand.
 - `Marriott` shows that repeated branded stays, program membership, and co-brand participation are part status system, part convenience system, and part distribution advantage.
 - `Booking` shows that trip planning itself has become a habit surface where convenience, perceived breadth, repeat app use, and smoother multi-step travel management matter culturally as well as financially.
+- `Expedia` shows that trip planning and trip management can also be monetized through a brand family and loyalty identity that follows the traveler across leisure lodging, alternative accommodations, flights, packages, B2B channels, and advertising surfaces.
 - `Carnival` shows that the vacation product itself can become a bundled consumer environment where anticipation, prepaid commitment, onboard convenience, and private-destination access matter culturally as well as financially.
 - `Caesars` shows a more explicit wallet-and-tier system where entertainment, wagering, travel, and rewards identity are fused together.
 - `MGM` shows a slightly different cultural layer: destination aspiration, premium Las Vegas positioning, convention gravity, and digital wagering adjacency inside one brand family.
@@ -167,6 +177,7 @@ The cultural point is that these companies are monetizing more than movement or 
 | Asset-light branded stay network | Hilton | repeat branded lodging and travel trust | fees, RevPAR-linked growth, pipeline expansion, owner signings |
 | Loyalty-heavy branded stay network | Marriott | Marriott Bonvoy concentration, branded booking preference, meetings and stay trust | co-branded card fees, loyalty-funded distribution, fees, pipeline expansion, owner signings |
 | Travel marketplace and orchestration layer | Booking | planning, search, booking, mobile repeat behavior, direct acquisition, Connected Trip | merchant payments, cross-vertical trip capture, supply density, ancillary and ad revenue, transaction-layer economics |
+| Travel marketplace and loyalty-network layer | Expedia | flagship consumer brands, One Key loyalty, B2B distribution, and advertising-supported trip orchestration | B2B revenue, merchant and agency mix, advertising-network monetization, first-party data, and cross-brand repeat behavior |
 | Cruise and destination vacation system | Carnival | prepaid booking, onboard spend, itinerary control, exclusive destinations | deposit float, onboard and pre-cruise monetization, pricing integrity, bundled vacation wallet capture |
 | Gaming and destination wallet system | Caesars | rewards identity across resorts and digital wagering | digital EBITDA, cross-market spend capture, universal wallet continuity |
 | Destination resort and gaming platform | MGM | stays, gaming, conventions, regional repeat play, Macau, and digital extensions | diversified segment mix across Las Vegas, Regional Operations, MGM China, MGM Digital, and BetMGM adjacency |
@@ -181,6 +192,7 @@ The cultural point is that these companies are monetizing more than movement or 
 - Hilton is the cleanest proof that repeat travel trust and brand-system scale can drive fee compounding without heavy asset ownership.
 - Marriott is the strongest proof in the lodging set that loyalty concentration and co-brand economics can materially widen the economics of a stay network.
 - Booking is the clearest proof in the travel stack that trip planning, booking, and payments orchestration can become a defensible consumer interface with its own merchant and direct-demand economics.
+- Expedia is the clearest proof in the travel stack that the same intermediary layer can widen further into cross-brand loyalty, B2B distribution, and a media network rather than only merchant and direct-demand optimization.
 - Carnival is the clearest proof in the travel stack that a capital-heavy operator can still widen the wallet through deposits, onboard monetization, and destination control rather than only through loyalty points or marketplace reach.
 - Caesars is the clearest proof that physical hospitality and digital wagering can be tied into one rewards and wallet loop.
 - MGM is the clearest proof that a large destination operator can widen the customer relationship through portfolio breadth and digital extensions even without making the entire story about one universal wallet.
@@ -188,6 +200,6 @@ The cultural point is that these companies are monetizing more than movement or 
 
 ## Next best extensions
 
-- The airline comparison is materially stronger now that Frontier joins Southwest beside Delta and United, so the next airline move should be a payments-linked travel operator or membership-heavy intermediary rather than a basic fifth check.
-- Add a payments-linked travel or membership operator if the goal is to widen the destination-and-wallet comparison beyond airlines, hotels, cruise, and gaming.
+- The airline comparison is materially stronger now that Frontier joins Southwest beside Delta and United and Expedia joins Booking in the intermediary lane, so the next travel move should be a payments-linked travel operator or destination-membership system rather than a basic fifth airline or third generic OTA check.
+- Add a payments-linked travel or membership operator if the goal is to widen the destination-and-wallet comparison beyond airlines, hotels, cruise, gaming, and booking marketplaces.
 - Build a follow-on memo comparing travel loyalty systems against restaurant and retail routine systems so the broader archive has one cross-category map of recurring consumer interfaces.

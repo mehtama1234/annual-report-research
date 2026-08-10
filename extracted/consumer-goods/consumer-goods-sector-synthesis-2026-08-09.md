@@ -34,6 +34,8 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [The Estee Lauder Companies Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md)
 - Packaging and containers:
   - [Graphic Packaging Holding Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md)
+- Marketplace and recommerce:
+  - [eBay Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/internet-service-providers/ebay/company-packet.md)
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-10`.
 
@@ -62,6 +64,7 @@ The completed consumer-goods set supports a clear sector conclusion: `Consumer G
 - off-price and bargain-discovery retail systems
 - beauty and discretionary personal-products portfolios with much higher execution, channel, and category sensitivity
 - packaging and container platforms that sit upstream of branded demand but still reflect consumer affordability, foodservice activity, and packaging-format economics
+- marketplace and recommerce platforms where category culture, seller supply, and advertising matter more than owned-inventory scale
 
 The strongest pattern is that consumer resilience is real, but it is increasingly portfolio-shaped. The sector is less about automatic pricing power and more about category mix, affordability architecture, trusted routine-use demand, international breadth, and productivity-funded reinvestment.
 

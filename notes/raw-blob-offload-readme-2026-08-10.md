@@ -1,0 +1,84 @@
+# Raw Blob Offload Readme
+
+Date: 2026-08-10
+
+Purpose: preserve the local-only heavy `raw/**` payload outside Git while keeping extracted research, indexes, notes, analysis, and site outputs in remote `main`.
+
+## Scope
+
+- Source repo: `/home/manishmehta/ui-projects/annual-report-research`
+- Base remote commit: `738321d8129930e02138cda17c659fbe227b857f`
+- Local raw delta commit context: `e5d5efa846beedddd7bfb81341253b4e94f89f0f`
+- Raw paths offloaded: `2,172`
+- Payload bytes after staged text redaction: `2,386,047,551`
+- Drive upload size: `2.228 GiB` / `2,392,504,449` bytes
+
+## Drive Location
+
+- Drive folder path: `gdrive:annual-report-research/raw-blob-offloads/local-main-delta-2026-08-10`
+- Tar object: `annual-report-raw-blob-offload-local-main-delta-2026-08-10.tar`
+- Tar Drive link: `https://drive.google.com/open?id=1ELztJl2JIwWl24jVkDRnCb-snJBqQTR0`
+- Checksum object: `annual-report-raw-blob-offload-local-main-delta-2026-08-10.tar.sha256`
+- Checksum Drive link: `https://drive.google.com/open?id=1M-POBbhBvh2IuNO7L1tdMVFQ7T7gGZce`
+
+Tar SHA256:
+
+```text
+dead29400e6cd4e5a097b09946638d7d1eec6e50aad3680e79649b18a8ed608c  annual-report-raw-blob-offload-local-main-delta-2026-08-10.tar
+```
+
+## Repo Manifest Files
+
+- `indexes/raw-blob-offload-manifest-2026-08-10.csv`
+- `indexes/raw-blob-offload-summary-2026-08-10.tsv`
+
+The CSV is file-level. Each row records:
+
+- `local_path`
+- `drive_url`
+- `bytes`
+- `sha256`
+- `source_family`
+- `sector`
+- `industry`
+- `company_slug`
+- `as_of_date`
+- `offloaded_by_commit`
+- `notes`
+
+The `drive_url` points to the Drive tar object plus the internal `payload/...` path.
+
+## Bucket Coverage
+
+The offload covers the local-only raw delta across the heavy buckets called out in the handoff note, including:
+
+- `raw/sec/energy`
+- `raw/company-ir/energy`
+- `raw/company-ir/basic-materials`
+- `raw/sec/basic-materials`
+- `raw/company-ir/technology`
+- `raw/sec/consumer-goods`
+- `raw/company-ir/consumer-goods`
+- `raw/company-ir/financial`
+
+## Redaction Audit
+
+The repo working tree was not modified for redaction. Redaction was applied only to the staged upload copy before tar creation.
+
+- Text-like staged files scanned: `1,660`
+- Text-like staged files redacted: `13`
+- Remaining token-pattern matches in text-like staged files: `0`
+
+The tar includes:
+
+- `redaction-targets.txt`
+- `redaction-remaining.txt`
+- `raw-delta-paths.txt`
+- `raw-blob-offload-manifest-2026-08-10.csv`
+- `raw-blob-offload-summary.tsv`
+
+## Git Handling
+
+The heavy raw payload itself remains excluded from remote `main`. This readme, the CSV manifest, and the TSV bucket summary are the lightweight Git pointers for the Drive offload.
+
+Manifest commit: to be reported by the committing thread after push.

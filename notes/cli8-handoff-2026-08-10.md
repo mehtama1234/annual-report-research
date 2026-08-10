@@ -3,7 +3,7 @@
 Date: 2026-08-10
 Repo: `/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer`
 Branch: `cli8-distribution-middle-layer`
-Commit hash: `fe8607e`
+Commit hash: `pending`
 
 ## Completed companies
 
@@ -28,9 +28,10 @@ Commit hash: `fe8607e`
 19. `Cintas Corporation`: asset access and operating support; strongest route-based workplace-services and recurring operating-support packet in the set.
 20. `Rollins, Inc.`: asset access and operating support; strongest recurring field-services and residential-plus-commercial route-density packet in the set.
 21. `BrightView Holdings, Inc.`: asset access and operating support; strongest recurring site-maintenance and immigration-linked field-labor packet in the set.
-22. `Hyatt Hotels Corporation`: service-layer physical interface; strongest proof that branded service infrastructure belongs inside the same middle-layer frontier.
-23. `Hilton Worldwide Holdings Inc.`: service-layer physical interface; strongest second global lodging and owner-network comparison packet in the set.
-24. `Marriott International, Inc.`: service-layer physical interface; strongest third global lodging and loyalty-concentration comparison packet in the set.
+22. `Motorola Solutions, Inc.`: asset access and operating support; strongest institutional safety, mission-critical communications, and security-workflow technology extension in the set.
+23. `Hyatt Hotels Corporation`: service-layer physical interface; strongest proof that branded service infrastructure belongs inside the same middle-layer frontier.
+24. `Hilton Worldwide Holdings Inc.`: service-layer physical interface; strongest second global lodging and owner-network comparison packet in the set.
+25. `Marriott International, Inc.`: service-layer physical interface; strongest third global lodging and loyalty-concentration comparison packet in the set.
 
 ## Partial companies
 
@@ -41,8 +42,8 @@ Commit hash: `fe8607e`
 1. Procurement power and channel ownership matter more than ownership of the underlying goods.
 2. Institutional replenishment is one of the clearest recurring-demand engines in the archive, now spanning food, drug distribution, alternate-site specialty therapy delivery, and therapy-enabling product layers.
 3. Working-capital discipline, route density, backlog conversion, and fleet utilization are core economic drivers rather than secondary metrics.
-4. Service attachment keeps widening the moat: specialty support, project logistics, inspection and monitoring, uniforms and safety routes, owner relationships, digital procurement, climate-control workflow, and maintenance coordination all deepen embeddedness.
-5. Cultural and societal shifts still pass through this layer: cautious consumers, project outsourcing, specialty-care growth, workplace-compliance outsourcing, premium travel demand, climate-control dependence, immigration-linked field-labor tightness, energy-and-process infrastructure strain, and digital-infrastructure build-out all reshape middle-layer operators.
+4. Service attachment keeps widening the moat: specialty support, project logistics, inspection and monitoring, uniforms and safety routes, security workflow, owner relationships, digital procurement, climate-control workflow, and maintenance coordination all deepen embeddedness.
+5. Cultural and societal shifts still pass through this layer: cautious consumers, project outsourcing, specialty-care growth, workplace-compliance outsourcing, institutional hardening, public-safety digitization, premium travel demand, climate-control dependence, immigration-linked field-labor tightness, energy-and-process infrastructure strain, and digital-infrastructure build-out all reshape middle-layer operators.
 
 ## Sub-lanes covered
 
@@ -54,13 +55,13 @@ Commit hash: `fe8607e`
 ## Best next targets
 
 1. One medical-equipment or medical-supply distributor to widen healthcare replenishment beyond drug channels, alternate-site service delivery, and therapy-enabling components.
-2. One protection-services or security-services operator to deepen the asset-access and operating-support lane beyond `APi`, `BrightView`, `Cintas`, and `Rollins`.
+2. One more literal protection-services operator to complement `Motorola Solutions` with guarding, monitoring, or manned security execution.
 3. One true healthcare distribution-channel operator if broader proof is needed beyond drug distribution, specialty-treatment routing, and therapy-enabling components.
-4. One medical-supply or protection-services extension now remains more urgent than another wholesale-infrastructure or fourth-lodging packet because contractor, HVAC, waterworks, procurement, process-heavy distribution, branded lodging, outsourced field-maintenance support, specialty-therapy routing, and therapy-enabling product layers are already broadly covered.
+4. One medical-supply or literal protection-services extension now remains more urgent than another wholesale-infrastructure or fourth-lodging packet because contractor, HVAC, waterworks, procurement, process-heavy distribution, branded lodging, outsourced field-maintenance support, specialty-therapy routing, therapy-enabling product layers, and institutional security technology are already broadly covered.
 
 ## Deliverables now present
 
-1. Raw source archive for all twenty-four completed packets.
+1. Raw source archive for all twenty-five completed packets.
 2. Extracted company packets and thematic interpretation for each completed company.
 3. One frontier synthesis note:
    [distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md)
@@ -71,6 +72,6 @@ Commit hash: `fe8607e`
 
 1. `Cencora` and `WESCO` are analytically complete but still rely partly on verification notes and SEC chronology because direct official binaries resisted shell retrieval.
 2. `Grainger` uses official year-end company-snapshot evidence rather than a locally saved full annual-report PDF.
-3. `Builders FirstSource`, `Ferguson`, `APi`, `BrightView`, `Cintas`, `ABM`, `Fastenal`, `MSC`, `Option Care`, `Rollins`, `West`, `Core & Main`, `Applied Industrial`, `Watsco`, `DNOW`, `Hilton`, and `Marriott` were imported from neighboring local archive passes and normalized into this worktree, including local path repair and date-baseline updates.
+3. `Builders FirstSource`, `Ferguson`, `APi`, `BrightView`, `Cintas`, `ABM`, `Fastenal`, `MSC`, `Option Care`, `Rollins`, `West`, `Core & Main`, `Applied Industrial`, `Watsco`, `DNOW`, `Hilton`, `Marriott`, and `Motorola Solutions` were imported from neighboring local archive passes and normalized into this worktree, including local path repair and date-baseline updates.
 4. `Applied Industrial` is analytically coherent but still preserves part of its SEC quarter chain through authoritative source-link notes because direct SEC binary capture was blocked during the earlier neighboring pass.
 5. `West` is analytically coherent but still lacks a locally saved official `2025` annual-report PDF; the verified IR static-file URL is preserved in the packet source ledger, and the annual plus quarter filing chain is otherwise complete.

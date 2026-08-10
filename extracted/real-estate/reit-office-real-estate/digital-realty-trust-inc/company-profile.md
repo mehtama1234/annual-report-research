@@ -1,6 +1,6 @@
 # Digital Realty Trust Inc.
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -56,6 +56,11 @@ Date baseline: 2026-08-09
 - Operational issues: bookings and backlog surged through 2026, with the backlog growing from `$817M` at Digital Realty’s share at year-end 2025 to `$1.0B` in Q1 2026 and `$1.4B` in Q2 2026.
 - Consumer / cultural signals: the company is not consumer-facing, but it is part of the physical substrate behind AI, cloud, and distributed enterprise workloads.
 - Management tone: management is highly assertive on AI demand, connectivity-rich assets, private-capital strategy, and the runway for multi-year growth.
+
+## Working interpretation
+
+- Digital Realty is one of the archive’s clearest proof points that old real-estate taxonomy can obscure modern infrastructure economics. The company is labeled as office real estate by the source tree while actually operating as a datacenter-capacity and powered-land platform.
+- The deeper pattern is that AI and cloud demand are reinforcing a recurring ownership model where bookings, backlog, and development capacity matter at least as much as traditional occupancy and rental-growth metrics.
 
 ## Open questions
 

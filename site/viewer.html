@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Markdown Viewer</title>
+  <link rel="stylesheet" href="/site/site.css">
+</head>
+<body>
+  <main class="viewer-shell">
+    <nav class="viewer-nav">
+      <a href="/site/index.html">Back to index</a>
+      <code id="path-label"></code>
+    </nav>
+    <article id="content" class="markdown-body">
+      <p>Loading…</p>
+    </article>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const file = params.get("file");
+    const content = document.getElementById("content");
+    const label = document.getElementById("path-label");
+
+    if (!file) {
+      content.innerHTML = "<p>Missing <code>file</code> query parameter.</p>";
+    } else {
+      label.textContent = file;
+      fetch("/" + file)
+        .then((response) => {
+          if (!response.ok) throw new Error("HTTP " + response.status);
+          return response.text();
+        })
+        .then((markdown) => {
+          marked.setOptions({ gfm: true, breaks: false });
+          content.innerHTML = marked.parse(markdown);
+        })
+        .catch((error) => {
+          content.innerHTML = "<p>Could not load this Markdown file.</p><pre>" + error.message + "</pre>";
+        });
+    }
+  </script>
+</body>
+</html>

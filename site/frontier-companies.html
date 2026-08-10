@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Completed Frontier Companies</title>
+  <link rel="stylesheet" href="/site/site.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <p class="eyebrow">Frontier Browser</p>
+      <h1>Completed Companies</h1>
+      <p class="lede">Full browser index for the `66` completed companies in the media, influence, consumer interface, and edge infrastructure frontier.</p>
+      <p><a href="/site/index.html">Back to preview index</a></p>
+    </header>
+
+    <section class="panel">
+      <div id="company-groups"></div>
+    </section>
+  </main>
+
+  <script src="/site/frontier-companies.js"></script>
+  <script>
+    const groups = document.getElementById("company-groups");
+
+    function viewerLink(file) {
+      return `/site/viewer.html?file=${encodeURIComponent(file)}`;
+    }
+
+    for (const lane of window.frontierCompanies) {
+      const section = document.createElement("section");
+      section.className = "company-group";
+
+      const title = document.createElement("h2");
+      title.textContent = `${lane.name} (${lane.items.length})`;
+      section.appendChild(title);
+
+      const grid = document.createElement("div");
+      grid.className = "company-grid";
+
+      for (const item of lane.items) {
+        const card = document.createElement("article");
+        card.className = "company-card";
+
+        const name = document.createElement("h3");
+        name.textContent = item.name;
+        card.appendChild(name);
+
+        const note = document.createElement("p");
+        note.className = "company-note";
+        note.textContent = item.note;
+        card.appendChild(note);
+
+        const links = document.createElement("div");
+        links.className = "company-links";
+
+        const packet = document.createElement("a");
+        packet.href = viewerLink(`${item.folder}/company-packet.md`);
+        packet.textContent = "Packet";
+        links.appendChild(packet);
+
+        const profile = document.createElement("a");
+        profile.href = viewerLink(`${item.folder}/company-profile.md`);
+        profile.textContent = "Profile";
+        links.appendChild(profile);
+
+        const ledger = document.createElement("a");
+        ledger.href = viewerLink(`${item.folder}/source-ledger.md`);
+        ledger.textContent = "Source ledger";
+        links.appendChild(ledger);
+
+        card.appendChild(links);
+        grid.appendChild(card);
+      }
+
+      section.appendChild(grid);
+      groups.appendChild(section);
+    }
+  </script>
+</body>
+</html>

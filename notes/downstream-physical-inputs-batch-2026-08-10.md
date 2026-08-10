@@ -126,6 +126,7 @@ This batch should explicitly surface:
 - `Vertiv Holdings Co` packet chain written
 - `Equinix, Inc.` packet chain written as a cross-thread digital-infrastructure ownership bridge
 - `Digital Realty Trust, Inc.` packet chain written as a second datacenter-property comparison
+- `American Tower Corporation` packet chain written as a wireless-edge and global tower-ownership comparison
 - Vulcan is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, making it the cleanest heavy-materials anchor in the batch
 - Westlake is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, giving the batch a conversion-materials and building-products bridge between chemicals, housing, and water infrastructure
 - Bunge is now the strongest completed packet in the batch because the annual report, latest three quarters, transcripts, presentations, company-hosted quarter filings, and direct SEC filing references were all collected or preserved locally
@@ -158,10 +159,11 @@ This batch should explicitly surface:
 - Vertiv now adds the critical digital infrastructure power, cooling, and deployment-systems layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` SEC-anchored evidence stack and a strong read on hyperscale and colocation urgency, backlog-heavy AI demand, margin and cash conversion, infrastructure-density complexity, and the way compute growth becomes a power-and-thermal capex problem
 - Equinix now adds the datacenter-campus ownership, interconnection, and recurring digital-infrastructure revenue layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on ecosystem density, record bookings and interconnection adds, AI- and cloud-linked guidance raises, and the way some specialty real estate now behaves more like platform infrastructure than a classic property business
 - Digital Realty now adds the powered-land, hyperscale-leasing, and private-capital-enabled datacenter-property layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on taxonomy dislocation, record small-scale plus interconnection leasing, backlog growth, large hyperscale demand, and the way digital-capacity ownership is being pulled into the same AI infrastructure wave
+- American Tower now adds the global tower, carrier-lease, and wireless-edge layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` AnnualReports-and-SEC-anchored evidence stack and a strong read on recurring site economics, CoreSite as the datacenter bridge, mobile-data and AI-linked infrastructure demand, DISH churn as a carrier-risk reset, and the way bandwidth dependence becomes physical-rent economics before it appears in consumer software narratives
 
 Current batch split:
 
-- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `CECO Environmental Corp.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`, `CRH plc`, `Cemex, S.A.B. de C.V.`, `Watsco, Inc.`, `Ferguson Enterprises Inc.`, `Fastenal Company`, `DNOW Inc.`, `W.W. Grainger, Inc.`, `MSC Industrial Direct Co., Inc.`, `Quanta Services, Inc.`, `EMCOR Group, Inc.`, `ABM Industries, Inc.`, `Dycom Industries Inc.`, `Comfort Systems USA, Inc.`, `Vertiv Holdings Co`, `Equinix, Inc.`, `Digital Realty Trust, Inc.`
+- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `CECO Environmental Corp.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`, `CRH plc`, `Cemex, S.A.B. de C.V.`, `Watsco, Inc.`, `Ferguson Enterprises Inc.`, `Fastenal Company`, `DNOW Inc.`, `W.W. Grainger, Inc.`, `MSC Industrial Direct Co., Inc.`, `Quanta Services, Inc.`, `EMCOR Group, Inc.`, `ABM Industries, Inc.`, `Dycom Industries Inc.`, `Comfort Systems USA, Inc.`, `Vertiv Holdings Co`, `Equinix, Inc.`, `Digital Realty Trust, Inc.`, `American Tower Corporation`
 - partial: none
 
 ## CECO latest-quarter note
@@ -173,7 +175,7 @@ Current batch split:
 
 ## Next recommended names after this batch
 
-- `Amphenol Corporation` if the archive next needs a components-and-connectivity-hardware bridge between network demand and the installed physical layer
-- `Crown Castle Inc.` if the archive next needs the tower, small-cell, and metro-fiber ownership layer between telecom construction and end-market wireless usage
+- `Crown Castle Inc.` if the archive next needs the domestic tower, small-cell, and metro-fiber ownership layer to compare with American Tower’s more global model
+- `Amphenol Corporation` if the archive next needs the components-and-connectivity-hardware bridge between network demand and the installed physical layer
+- `SBA Communications Corporation` if the archive next needs a cleaner pure-play tower leasing comparison without the CoreSite datacenter layer
 - `Generac Holdings Inc.` if the archive next needs backup-power, distributed-resilience, and emergency-power comparison against the critical-infrastructure power names
-- `American Tower Corporation` if the archive next needs the global tower ownership and edge-wireless-infrastructure layer as a comparison against future `Crown Castle` work

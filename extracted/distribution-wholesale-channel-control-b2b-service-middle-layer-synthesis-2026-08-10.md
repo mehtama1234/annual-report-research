@@ -31,6 +31,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Stryker Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/stryker-corporation/company-packet.md)
   - [West Pharmaceutical Services, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/west-pharmaceutical-services-inc/company-packet.md)
 - asset access and operating support:
+  - [Herc Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/rental-leasing-services/herc-holdings-inc/company-packet.md)
   - [ABM Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
   - [ADT Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/adt-inc/company-packet.md)
   - [APi Group Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/api-group-corporation/company-packet.md)
@@ -48,13 +49,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a thirty-five-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a thirty-six-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current thirty-five completed names show thirty-five related but distinct middle-layer roles:
+The current thirty-six completed names show thirty-six related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -78,6 +79,7 @@ The current thirty-five completed names show thirty-five related but distinct mi
 - `Option Care` controls alternate-site infusion routing, specialty-drug administration workflow, and recurring treatment delivery outside the hospital.
 - `Stryker` controls a hospital-procedure and capital-equipment layer where implants, robotics, and enabling technologies shape institutional procurement and clinical workflow.
 - `West` controls a healthcare physical interface where injectable components, containment, and delivery systems sit between therapy makers and recurring patient use.
+- `Herc` converts equipment ownership into rented access, fleet density, specialty reach, and project flexibility under a second flagship rental model.
 - `ABM` controls outsourced facilities operations, technical-services support, and recurring uptime inside airports, campuses, warehouses, and technical environments.
 - `ADT` controls recurring monitoring, installation, retention, and smart-security workflow across residential and small-business customers.
 - `APi` controls inspection, monitoring, and safety-oriented service relationships tied to facilities and critical infrastructure.
@@ -143,6 +145,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Rollins`: keeping homes and commercial properties serviced through recurring pest and termite routes, relationship channels, and local branch execution
 - `The GEO Group`: keeping governments supplied with secure-capacity, transport, reentry, and monitored-supervision infrastructure they may not want to build or expand internally at the same speed
 - `United Rentals`: keeping projects, industrial sites, and contractors operating without forcing them to own the entire fleet
+- `Herc`: keeping contractors and industrial projects supplied with fleet access, specialty equipment, and metro-density support without requiring ownership
 - `Hyatt`: keeping branded hospitality, loyalty, owner relationships, and travel-related physical service systems functioning at scale
 - `Hilton`: keeping branded hospitality, loyalty participation, owner economics, and global lodging demand flowing through an asset-light platform
 - `Marriott`: keeping branded hospitality, loyalty-funded demand, owner signings, meetings exposure, and a very large global lodging network flowing through an asset-light platform
@@ -185,6 +188,7 @@ The packets now point to the same conclusion from different directions:
 - `Rollins` benefits from route density, recurring service behavior, acquisitions, and the tendency of property owners to outsource a routine but locally executed maintenance burden.
 - `The GEO Group` benefits from contract optionality, labor deployment, facility readiness, electronic-monitoring scale, and the willingness of governments to outsource surge capacity, supervision, and transport instead of internalizing all of it.
 - `United Rentals` benefits from fleet scale, specialty breadth, and its ability to absorb capital intensity for customers.
+- `Herc` benefits from branch density, specialty expansion, and its ability to monetize outsourced ownership after the H&E integration.
 - `Hyatt` benefits from brand distribution, loyalty participation, and fee-based owner-network relationships.
 - `Hilton` benefits from owner demand for brand affiliation, loyalty-driven stay behavior, global scale, and a fee-based lodging model with limited real-estate intensity.
 - `Marriott` benefits from owner demand for brand affiliation, Marriott Bonvoy concentration, co-branded card economics, meetings exposure, and a fee-based lodging model with limited real-estate intensity.
@@ -226,6 +230,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Rollins` depends heavily on local staffing, demand-generation mix, weather, and recurring route efficiency because a softer consumer lead environment can still compress margin even when the recurring base remains durable.
 - `The GEO Group` is highly exposed to labor costs, facility activation timing, political and legal pressure, government budget cycles, detention and supervision volume shifts, leverage management, and the operational value of idle capacity.
 - `United Rentals` effectively turns fleet ownership, utilization, and used-equipment recycling into the core product.
+- `Herc` shows that fleet ownership itself becomes the service when customers prefer flexible access, uptime, and timing optionality over owning machines.
 - `Hyatt` uses its balance sheet, asset sales, and owner/franchise structure to move toward fee-rich and more asset-light hospitality economics.
 - `Hilton` depends heavily on travel-demand resilience, RevPAR mix, owner signing appetite, and pipeline conversion because the fee-based model still needs healthy branded system throughput.
 
@@ -262,6 +267,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Rollins`: technology as part of demand generation, pricing tools, route visibility, and local operating discipline rather than as a branded end product
 - `The GEO Group`: technology as part of electronic monitoring, SmartLINK usage, case management, and supervision workflow rather than as a stand-alone public-safety software product
 - `United Rentals`: market-leading technology platforms supporting asset visibility, customer response, and fleet economics
+- `Herc`: branch density, integration execution, specialty reach, and fleet optimization supporting outsourced asset-access economics
 - `Hyatt`: technology as part of loyalty depth, owner coordination, and more responsive branded guest operations
 - `Hilton`: technology as part of booking flow, loyalty participation, revenue management, and system-wide branded hospitality distribution
 
@@ -296,6 +302,7 @@ This is already visible across the completed set:
 - employers, commercial sites, and workplace operators at `Cintas`
 - households, home builders, and commercial property operators at `Rollins`
 - contractors, industrial operators, and infrastructure projects at `United Rentals`
+- contractors, industrial operators, and mega-project workflows at `Herc`
 - business transient, group travel, owner networks, and destination hospitality systems at `Hyatt`
 - business transient, group travel, owner networks, loyalty-linked travelers, and global lodging systems at `Hilton`
 
@@ -349,7 +356,7 @@ That makes the middle layer an early read on industrial and digital-capacity exp
 
 ### Capital-light behavior at the customer level creates capital-heavy opportunity in the middle
 
-`United Rentals` is the cleanest version of this. Customers want flexibility and uptime without tying up balance sheets in owned equipment. The intermediary takes the capital burden and turns it into a recurring service model.
+`United Rentals` is the clearest flagship version of this, and `Herc` now confirms it from a second scaled operator. Customers want flexibility and uptime without tying up balance sheets in owned equipment. The intermediary takes the capital burden and turns it into a recurring service model.
 
 `ABM`, `ADT`, `APi`, `BrightView`, `Cintas`, and `Rollins` show a service analogue. Customers increasingly outsource specialized operating burdens like monitored security, facilities uptime, inspections, monitoring, landscape maintenance, hygiene, uniforms, first aid, safety, fire protection, and routine property maintenance rather than staffing and optimizing them all in-house.
 

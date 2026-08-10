@@ -10,6 +10,7 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [Procter & Gamble Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/procter-gamble-co/company-packet.md)
   - [Kimberly-Clark Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/kimberly-clark-corp/company-packet.md)
   - [Colgate-Palmolive Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/colgate-palmolive-co/company-packet.md)
+  - [Church & Dwight Co. Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/cleaning-products/church-dwight-co-inc/company-packet.md)
 - Food and beverage:
   - [PepsiCo Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-packet.md)
   - [Monster Beverage Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
@@ -55,11 +56,12 @@ The strongest pattern is that consumer resilience is real, but it is increasingl
 
 ### 1. Consumer goods is fragmenting by category quality and value-chain position, not just by brand strength
 
-The twelve-company set already breaks into distinct economic roles:
+The thirteen-company set already breaks into distinct economic roles:
 
 - `Procter & Gamble` is a broad daily-use and brand-superiority platform.
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
 - `Colgate-Palmolive` is a routine-use oral-care and pet-nutrition platform.
+- `Church & Dwight` is a narrower routine-use household and personal-care platform with more active portfolio pruning, brand incubation, and eCommerce growth.
 - `PepsiCo` is a broad food-and-beverage portfolio balancing affordability, convenience, and functional demand.
 - `Mondelez International` is a focused indulgence-and-snacking platform balancing iconic brands, emerging-markets strength, cocoa-cost pressure, and structural cost-savings execution.
 - `The Coca-Cola Company` is a global routine beverage and brand-system platform built on repeat refreshment occasions, bottler execution, pack-price-channel architecture, and cultural activation.
@@ -110,7 +112,7 @@ The local evidence suggests that price is now only one lever inside a broader co
 
 ### 3. Staples resilience is real, but it is operational rather than effortless
 
-`P&G`, `Kimberly-Clark`, and `Colgate` are the clearest proof.
+`P&G`, `Kimberly-Clark`, `Colgate`, and `Church & Dwight` are the clearest proof.
 
 They show:
 
@@ -174,6 +176,7 @@ The current archive supports a more specific demand view than generic “consume
 - `Monster Beverage` adds the stronger stimulation, performance, and identity-driven side of functional consumption, where routine use behaves more like a habit system than an ordinary refreshment purchase.
 - `P&G` and `Kimberly-Clark` show how care, hygiene, safety, and daily-use trust remain strong anchors.
 - `Colgate` adds science, efficacy, and professional-adjacent trust through oral care plus the recurring pet-health layer.
+- `Church & Dwight` adds a different version of the same defense: narrower category breadth, but a stronger acquisition-and-digital-refresh engine inside repeat-use household and personal-care demand.
 
 This suggests that consumer-goods demand is increasingly sorting around:
 
@@ -194,7 +197,7 @@ That is a more useful reading frame than broad discretionary-versus-staples labe
 - the operating segments are `Self Care`, `Skin Health and Beauty`, and `Essential Health`
 - the quarter chain shows the real mechanism: Q4 `2025`, Q1 `2026`, and Q2 `2026` all returned to net sales growth, but performance still depends heavily on seasonal incidence, category mix, eCommerce momentum, and brand execution across need states
 
-This matters because it widens the current routine-use lane. `P&G`, `Kimberly-Clark`, and `Colgate` already show broad staples, hygiene, and efficacy-driven care. Kenvue adds a more explicit self-care, pain, allergy, wound-care, oral-care, and skin-health read where trust and routine matter, but so do seasonal volatility and more active consumer activation.
+This matters because it widens the current routine-use lane. `P&G`, `Kimberly-Clark`, `Colgate`, and `Church & Dwight` already show broad staples, hygiene, efficacy-driven care, and a narrower but more digitally active household-and-personal-care model. Kenvue adds a more explicit self-care, pain, allergy, wound-care, oral-care, and skin-health read where trust and routine matter, but so do seasonal volatility and more active consumer activation.
 
 ### 7B. Snacking now has a cleaner split between broad convenience and focused indulgence
 
@@ -244,6 +247,7 @@ This remains a sector where mature cash engines matter. But the important nuance
 | Broad daily-use staples platform | Procter & Gamble | superiority, category breadth, execution discipline, cash-return capacity |
 | Hygiene and care necessity platform | Kimberly-Clark | trusted care demand, productivity, value architecture, resilient household and hygiene mix |
 | Routine oral care and pet-health platform | Colgate-Palmolive | habitual demand, efficacy trust, strong margin discipline, pet-category headwinds and resilience |
+| Narrower routine-use household and personal-care platform | Church & Dwight | balanced value and premium mix, portfolio pruning, acquisition-led brand incubation, strong eCommerce growth, and repeat-use household and personal-care demand |
 | Food and beverage value portfolio | PepsiCo | affordability, convenience, international diversification, functional and health-adjacent mix |
 | Affordable indulgence and snacking platform | Mondelez International | iconic snack brands, cocoa-cost sensitivity, emerging-markets strength, brand investment, and structural cost savings |
 | Global routine beverage and brand-system platform | The Coca-Cola Company | repeat refreshment occasions, bottler execution, zero-sugar recruitment, revenue growth management, cultural activation, connected packaging, and first-party data capture |
@@ -263,6 +267,7 @@ Across the completed consumer-goods set, the broader signals are:
 - affordable indulgence can still work when iconic brands and small-ticket habits stay intact, even if commodity inflation compresses earnings
 - bargain discovery and off-price branded value still behave like a real recurring consumer draw, not just a residual clearance channel
 - trusted routine-use categories still anchor demand
+- narrower routine-use portfolios can still work when portfolio shaping and eCommerce growth are strong
 - routine beverage systems still scale when brand trust, distribution reach, and pack-price execution stay aligned
 - health and functional positioning are economically relevant
 - some consumer demand is really built-environment demand, where home maintenance, installations, and Pro workflow matter as much as normal retail traffic
@@ -279,7 +284,7 @@ The local evidence suggests the sector is being filtered through channel and ret
 - `Coca-Cola` adds a cleaner route-to-market and consumer-recruitment layer where bottler execution, away-from-home presence, and cultural campaigns can move both volume and first-party data capture.
 - `Monster Beverage` adds a different channel point: its growth depends heavily on global bottler and distributor execution and the strategic relationship with The Coca-Cola Company rather than on broad retailer concentration alone.
 - `Coty` and `Estee Lauder` show stronger exposure to channel and regional execution quality.
-- `P&G`, `Kimberly-Clark`, and `Colgate` benefit from stronger routine-use placement and broader distribution defensibility.
+- `P&G`, `Kimberly-Clark`, `Colgate`, and `Church & Dwight` benefit from stronger routine-use placement and broader distribution defensibility, though Church & Dwight gets there with a smaller portfolio and more active brand refresh.
 - `Graphic Packaging` shows that channels do not only shape brand sell-through; they also shape packaging utilization, innovation sales, and the economics of upstream plant networks.
 
 The better reading is that consumer-goods earnings are now shaped by where demand shows up, how it is merchandised, and whether the company can defend trust and mix through the channel rather than only through brand scale.

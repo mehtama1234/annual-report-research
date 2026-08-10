@@ -3,7 +3,7 @@
 Date: 2026-08-10
 Repo: `/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer`
 Branch: `cli8-distribution-middle-layer`
-Commit hash: `e573ed1`
+Commit hash: `eb125f6`
 
 ## Completed companies
 

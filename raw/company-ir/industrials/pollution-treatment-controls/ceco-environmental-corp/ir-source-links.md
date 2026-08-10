@@ -32,6 +32,14 @@ Date verified: 2026-08-10
 
 ### Q2 2026
 
+- Quarterly results page:
+  - https://investors.cecoenviro.com/financials-filings/quarterly-results
+- Press release PDF:
+  - https://investors.cecoenviro.com/static-files/5f6b54c9-0103-44d4-8c45-e0759d773e65
+- Presentation PDF:
+  - https://investors.cecoenviro.com/static-files/917f3f78-1dc7-42a5-9555-1d3194f838ae
+- News release page:
+  - https://investors.cecoenviro.com/news-releases/news-release-details/ceco-environmental-reports-second-quarter-2026-results
 - Event page:
   - https://investors.cecoenviro.com/events/event-details/q2-2026-earnings-call
 - Webcast link:
@@ -42,6 +50,7 @@ Date verified: 2026-08-10
 ## Collection note
 
 - The URLs above were verified from official CECO investor-relations pages on `2026-08-10`.
-- Local copies of the `2025` annual report, the `Q4 2025` release and presentation, the `Q1 2026` release and presentation, the `Q2 2026` event page, and the `2026-08-05` rescheduling release were saved in the current workspace.
+- Local copies of the `2025` annual report, the `Q4 2025` release and presentation, the `Q1 2026` release and presentation, the `Q2 2026` release and presentation, the `Q2 2026` event page, and the `2026-08-05` rescheduling release were saved in the current workspace.
 - The direct `Q4 2025` and `Q1 2026` release / presentation file URLs were not preserved separately during collection, so this note keeps the official quarter hub plus the direct SEC references rather than guessing stale static-file links.
-- As of `2026-08-10 02:45 PDT` (`05:45 EDT`), the quarterly-results page still exposed a `Q2 2026` webcast link but not the corresponding earnings release PDF, presentation PDF, or company-hosted `10-Q` artifact.
+- As of later verification on Monday, `2026-08-10`, the quarterly-results page exposed the `Q2 2026` press release PDF, presentation PDF, and webcast link.
+- A company-hosted `Q2 2026` `10-Q` PDF link was still not exposed on the quarter page as of that same verification.

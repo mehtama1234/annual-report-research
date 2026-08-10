@@ -22,6 +22,9 @@ Date verified: 2026-08-10
 - `Q1 2026` earnings Form `8-K` filed `2026-04-28`:
   - filing index: https://www.sec.gov/Archives/edgar/data/3197/000119312526183496/0001193125-26-183496-index.htm
   - primary filing document: https://www.sec.gov/Archives/edgar/data/3197/000119312526183496/ceco-20260428.htm
+- `Q2 2026` earnings Form `8-K` filed `2026-08-10`:
+  - filing index: https://www.sec.gov/Archives/edgar/data/3197/000119312526341191/0001193125-26-341191-index.htm
+  - primary filing document: https://www.sec.gov/Archives/edgar/data/3197/000119312526341191/ceco-20260810.htm
 
 ## Confirmed post-quarter context
 
@@ -32,5 +35,5 @@ Date verified: 2026-08-10
 ## Q2 2026 gap note
 
 - The correct trailing-quarter set as of `2026-08-10` should be `Q2 2026`, `Q1 2026`, and `Q4 2025`.
-- However, the SEC `10-Q` Atom feed rechecked with a declared user agent at `2026-08-10 02:45 PDT` (`05:45 EDT`) still did not show a `Q2 2026` Form `10-Q`, and the official CECO IR quarter page still showed only the webcast before the scheduled `08:30 EDT` earnings call.
-- This note preserves the confirmed annual and reported-quarter SEC references while documenting the as-collected filing gap for the latest quarter.
+- Later on Monday, `2026-08-10`, CECO had posted the `Q2 2026` earnings release and filed the related earnings `8-K`.
+- The SEC submissions feed still did not show a `Q2 2026` Form `10-Q` at that later verification point, so the remaining latest-quarter filing gap is specifically the unposted `10-Q`, not the full earnings-release chain.

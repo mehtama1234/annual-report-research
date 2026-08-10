@@ -118,7 +118,7 @@ This batch should explicitly surface:
 - Westlake is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, giving the batch a conversion-materials and building-products bridge between chemicals, housing, and water infrastructure
 - Bunge is now the strongest completed packet in the batch because the annual report, latest three quarters, transcripts, presentations, company-hosted quarter filings, and direct SEC filing references were all collected or preserved locally
 - Mueller is now also completed with locally saved annual and quarter artifacts plus direct SEC filing references, giving the batch a downstream installed-systems and metal-fabrication anchor
-- CECO now adds the pollution-and-treatment-controls lane with a complete annual / `Q4 2025` / `Q1 2026` evidence stack and a clearly documented `Q2 2026` reporting gap tied to the first Thermon combined quarter
+- CECO now adds the pollution-and-treatment-controls lane with a complete annual / `Q4 2025` / `Q1 2026` / `Q2 2026` evidence stack, a strong read on Thermon as a scale-and-thermal-infrastructure extension, and a clearly documented note that the latest-quarter earnings release, presentation, and earnings `8-K` were live on Monday, `2026-08-10`, while the `10-Q` still had not appeared in the SEC submissions feed at the time of verification
 - Core & Main now adds the distribution and water-infrastructure channel layer with a complete `2025` annual / `Q1 2026` / `Q4 2025` / `Q3 2025` evidence stack and a strong read on pricing discipline, private label, acquisitions, and aging-water replacement demand
 - United Rentals now adds the rental-and-leasing layer with a complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` evidence stack and a clear read on fleet productivity, specialty mix, large-project demand, and capital-allocation discipline
 - WESCO now adds the industrial and electronics distribution layer with a complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` evidence stack and a strong read on data-center demand, backlog quality, grid and utility exposure, procurement-platform dependence, and digital-transformation leverage
@@ -141,19 +141,18 @@ This batch should explicitly surface:
 
 Current batch split:
 
-- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`, `CRH plc`, `Cemex, S.A.B. de C.V.`, `Watsco, Inc.`, `Ferguson Enterprises Inc.`, `Fastenal Company`, `DNOW Inc.`, `W.W. Grainger, Inc.`, `MSC Industrial Direct Co., Inc.`
-- partial: `CECO Environmental Corp.`
+- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `CECO Environmental Corp.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`, `CRH plc`, `Cemex, S.A.B. de C.V.`, `Watsco, Inc.`, `Ferguson Enterprises Inc.`, `Fastenal Company`, `DNOW Inc.`, `W.W. Grainger, Inc.`, `MSC Industrial Direct Co., Inc.`
+- partial: none
 
-## CECO gap note
+## CECO latest-quarter note
 
-- At `2026-08-10 02:45 PDT` (`05:45 EDT`), CECO’s official quarterly-results page still showed only a webcast link for `Q2 2026`.
-- The official `2026-08-05` rescheduling release said CECO needed additional time to complete financial reporting and review processes after the Thermon acquisition, expected to release results premarket on `2026-08-10`, and still expected to timely file the Form `10-Q`.
-- The scheduled earnings call on the official event page was still `2026-08-10 08:30 EDT`, so this run occurred before the stated call window rather than after a missed posting.
-- The SEC recent-submissions `10-Q` feed rechecked at the same time still did not show the `Q2 2026` `10-Q`, and the collected CECO IR pages still did not expose the latest-quarter press release, presentation, or company-hosted `10-Q`.
-- That makes the CECO packet source-complete for the annual report, `Q4 2025`, and `Q1 2026`, but only gap-scoped partial for the latest quarter.
+- Earlier on `2026-08-10`, CECO’s quarterly-results page still showed only the webcast link and the batch correctly carried the name as a timing-gap partial before the scheduled `08:30 EDT` call window.
+- Later on Monday, `2026-08-10`, CECO posted the `Q2 2026` earnings release and presentation and filed the related earnings `8-K`, giving the packet a usable latest-quarter evidence chain.
+- The remaining disclosure gap is narrower: a `Q2 2026` `10-Q` still had not appeared in the SEC submissions feed at the time of the later verification.
+- That means CECO is now complete to the actual reported-quarter state required by the archive window, with the unfiled `10-Q` explicitly documented rather than silently ignored.
 
 ## Next recommended names after this batch
 
-- `EMCOR Group, Inc.` if the archive next needs a stronger mechanical, electrical, and recurring-services comparison against Ferguson's distribution-heavy model and Sterling's site-and-mission-critical mix
-- `Quanta Services, Inc.` if the archive next needs a larger-scale transmission, utility, and mission-critical-contractor comparison against AECOM’s advisory-heavy model and Valmont’s component-heavy model
-- `MRC Global Inc.` if the archive next needs a more utility, gas-distribution, and pipeline-oriented distributor comparison against DNOW’s now-broader post-merger platform
+- `ABM Industries, Inc.` if the archive next needs the outsourced facilities, airport operations, semiconductor-fab support, and datacenter-adjacent technical-services layer
+- `Comfort Systems USA, Inc.` if the archive next needs a stronger skilled-trades, HVAC, electrical, modular, and labor-capacity comparison against EMCOR and Ferguson
+- `Dycom Industries Inc.` if the archive next needs the telecom, fiber, hyperscaler-connectivity, and inside-plant structured-cabling field-execution layer

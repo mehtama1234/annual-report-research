@@ -32,11 +32,14 @@ Date baseline: 2026-08-10
 
 ### Most recent quarter: Q2 2026
 
-- This quarter is only partially captured in the current source set.
-- The official `2026-08-05` rescheduling release said CECO moved its second-quarter `2026` earnings call from `2026-08-06` to `2026-08-10` because it needed additional time to complete financial reporting and review processes after the Thermon acquisition.
-- That same release said the second quarter would be CECO’s first reporting period as a combined company, that results were expected premarket on Monday, `2026-08-10`, and that the company continued to expect to timely file its Form `10-Q`.
-- The official quarterly-results page collected on `2026-08-10` showed only a webcast link for `Q2 2026`, and the SEC recent-submissions set collected the same day did not yet show the quarter’s `10-Q` or earnings `8-K`.
-- The analytical value is still real even without the numbers: the quarter shows how acquisition-led scale can improve strategic positioning while simultaneously making reporting, comparability, and integration more fragile.
+- CECO ultimately reported the quarter on Monday, `2026-08-10`, after rescheduling the release from `2026-08-06` because it needed more time to complete financial reporting and review processes following the Thermon acquisition.
+- This was the first reported quarter as a combined company after the Thermon close on `2026-06-01`, so comparability and integration matter as much as the raw numbers.
+- Orders were `$798.5M`, up `191%`, backlog was `$1.819B`, up `164%`, and revenue was `$285.0M`, up `54%`.
+- Gross profit was `$86.5M`, gross margin was `30.3%`, non-GAAP gross profit was `$96.0M`, and non-GAAP gross margin was `33.7%`.
+- GAAP net loss was `$(34.8)M`, GAAP diluted EPS was `$(0.80)`, non-GAAP net income was `$21.5M`, non-GAAP diluted EPS was `$0.47`, and adjusted EBITDA was `$40.2M`, up `73%`.
+- Free cash flow was `$(24.3)M`, but adjusted free cash flow was `$53.2M` after excluding cash payments related to the Thermon transaction.
+- Management said Thermon integration was progressing ahead of initial synergy objectives and raised full-year consolidated `2026` outlook to revenue of `$1.300B-$1.375B` and adjusted EBITDA of `$200M-$225M`.
+- The filed latest-quarter SEC artifact as of Monday, `2026-08-10`, is the earnings `8-K`. A `Q2 2026` `10-Q` still did not appear in the SEC submissions feed at the time of this verification.
 
 ### Quarter minus 1: Q1 2026
 
@@ -64,7 +67,7 @@ Date baseline: 2026-08-10
 
 - CECO’s results are sensitive to project timing, order lumpiness, and backlog conversion. Large awards can make the growth story look powerful before the revenue and cash profile fully catches up.
 - Cash conversion remains a key operating pressure. The strongest growth quarter in the set, `Q1 2026`, still produced negative free cash flow.
-- Integration risk is now central. The company explicitly said the first combined quarter with Thermon required additional reporting time, which signals real finance and systems complexity even before the full synergy story can be assessed.
+- Integration risk is now central. The company explicitly said the first combined quarter with Thermon required additional reporting time, then reported a strong quarter while still not yet showing the `10-Q` in the SEC submissions feed later on Monday, `2026-08-10`, which makes the operating story stronger than the reporting cadence.
 - Environmental and industrial markets remain attractive, but they are not frictionless. Margin quality depends on execution, procurement, project delivery, and mix, not just on the topline order number.
 - CECO also sits in a lane where regulation, permitting, and customer capex discipline matter. Environmental infrastructure demand is recurring in purpose, but not always smooth in quarter-to-quarter timing.
 

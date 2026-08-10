@@ -13,6 +13,7 @@ This synthesis is based on the completed consumer-goods packets currently in the
 - Food and beverage:
   - [PepsiCo Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-packet.md)
   - [Monster Beverage Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
+  - [The Coca-Cola Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md)
 - Home improvement and built environment:
   - [Lowe's Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
 - Off-price and bargain discovery:
@@ -31,10 +32,11 @@ Related cross-sector memo:
 
 ## Executive read
 
-The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the 2025 annuals and late-2025 / 2026 quarterlies is not one simple brand-pricing story. It is a sector splitting across at least seven different demand and earnings models:
+The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the 2025 annuals and late-2025 / 2026 quarterlies is not one simple brand-pricing story. It is a sector splitting across at least eight different demand and earnings models:
 
 - everyday staples and household-care platforms
 - broad food and beverage portfolios shaped by affordability, convenience, and health-adjacent demand
+- global routine beverage and brand-system demand
 - functional-energy and identity-driven beverage systems
 - home-improvement and built-environment demand systems
 - off-price and bargain-discovery retail systems
@@ -47,12 +49,13 @@ The strongest pattern is that consumer resilience is real, but it is increasingl
 
 ### 1. Consumer goods is fragmenting by category quality and value-chain position, not just by brand strength
 
-The ten-company set already breaks into distinct economic roles:
+The eleven-company set already breaks into distinct economic roles:
 
 - `Procter & Gamble` is a broad daily-use and brand-superiority platform.
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
 - `Colgate-Palmolive` is a routine-use oral-care and pet-nutrition platform.
 - `PepsiCo` is a broad food-and-beverage portfolio balancing affordability, convenience, and functional demand.
+- `The Coca-Cola Company` is a global routine beverage and brand-system platform built on repeat refreshment occasions, bottler execution, pack-price-channel architecture, and cultural activation.
 - `Monster Beverage` is a functional-energy and lifestyle-brand platform built on repeat stimulation demand, innovation cadence, and global distribution reach.
 - `Lowe's` is a home-improvement and built-environment operator sitting between consumer project demand, housing pressure, home services, and pro-oriented distribution.
 - `Burlington` is an off-price and bargain-discovery retailer built on physical traffic, opportunistic buying, branded value perception, and repeat treasure-hunt behavior.
@@ -60,7 +63,7 @@ The ten-company set already breaks into distinct economic roles:
 - `Estee Lauder` is a recovering prestige-beauty platform.
 - `Graphic Packaging` is a packaging-and-foodservice infrastructure platform sitting behind multiple branded consumer channels.
 
-This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, beauty exposure, home-improvement demand, off-price bargain discovery, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, value-hunt-driven, trend-sensitive, or physically embedded in the delivery layer behind the shelf.
+This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, routine beverage systems, beauty exposure, home-improvement demand, off-price bargain discovery, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, value-hunt-driven, trend-sensitive, culturally activated, or physically embedded in the delivery layer behind the shelf.
 
 ### 1B. Consumer Goods also contains an off-price bargain-discovery layer
 
@@ -89,6 +92,7 @@ This matters because it shows the archive cannot rely on top-level sector labels
 This is one of the strongest recurring patterns in the archive.
 
 - `PepsiCo` talks about affordability actions, value, convenience, and execution repair rather than just price.
+- `Coca-Cola` shows the same point through explicit revenue growth management and pack-price-channel architecture, where volume growth still matters and pricing is only one lever.
 - `P&G` emphasizes superiority, productivity, reinvestment, and a difficult consumer backdrop.
 - `Kimberly-Clark` uses price:value architecture, innovation, and brand trust to support the model.
 - `Colgate` shows that narrow routine-use categories can still keep very strong margin discipline, but even there the story is not only price.
@@ -128,6 +132,7 @@ So beauty should be read as a more cyclical and execution-sensitive pocket insid
 This is clearest in `PepsiCo`, but it matters across the set.
 
 - `PepsiCo` repeatedly shows stronger international momentum than North America.
+- `Coca-Cola` adds an even purer version of that logic because the business is explicitly managed as a global beverage system across more than `200` countries and territories, with local pack and affordability choices shaping unit growth.
 - `Monster Beverage` adds a more category-intense version of the same point, with net sales to customers outside the United States reaching roughly `42%` of `Q4 2025` net sales and EMEA growing `32.6%` in dollars in that quarter.
 - `P&G` benefits from global portfolio breadth across categories and regions.
 - `Estee Lauder` shows that recovery can hinge on specific international geographies such as mainland China.
@@ -155,6 +160,7 @@ So the completed set now supports a better sector frame: consumer demand is medi
 The current archive supports a more specific demand view than generic “consumer resilience.”
 
 - `PepsiCo` points toward hydration, protein, functional, and permissible-consumption framing.
+- `Coca-Cola` shows how a legacy beverage company is trying to preserve routine refreshment demand through zero-sugar growth, smaller-pack architecture, affordability options, and global event-led recruitment rather than through static flagship-brand strength alone.
 - `Monster Beverage` adds the stronger stimulation, performance, and identity-driven side of functional consumption, where routine use behaves more like a habit system than an ordinary refreshment purchase.
 - `P&G` and `Kimberly-Clark` show how care, hygiene, safety, and daily-use trust remain strong anchors.
 - `Colgate` adds science, efficacy, and professional-adjacent trust through oral care plus the recurring pet-health layer.
@@ -162,11 +168,28 @@ The current archive supports a more specific demand view than generic “consume
 This suggests that consumer-goods demand is increasingly sorting around:
 
 - routine necessity
+- routine refreshment and trusted beverage habits
 - trusted efficacy
 - health-adjacent positioning
 - value architecture
 
 That is a more useful reading frame than broad discretionary-versus-staples labels alone.
+
+### 7A. Beverage is already splitting into three different consumer systems
+
+The beverage evidence set is now materially stronger because it no longer rests on only PepsiCo and Monster.
+
+- `PepsiCo` is the broad snacks-plus-beverage and convenience-portfolio case.
+- `The Coca-Cola Company` is the cleaner routine beverage, brand-system, bottler-execution, and cultural-distribution case.
+- `Monster Beverage` is the functional-energy, stimulation, and identity-heavy case.
+
+That matters because these are not small stylistic differences. They imply different economic defenses:
+
+- PepsiCo relies more on portfolio breadth and cross-category shelf economics.
+- Coca-Cola relies more on global beverage routines, route-to-market scale, revenue growth management, and culturally amplified brand reach.
+- Monster relies more on category intensity, brand identity, and innovation-backed repeat energy use.
+
+This is a stronger analytical frame than calling all three companies simply “beverage names.”
 
 ### 8. Capital return is still a core part of the sector identity
 
@@ -187,6 +210,7 @@ This remains a sector where mature cash engines matter. But the important nuance
 | Hygiene and care necessity platform | Kimberly-Clark | trusted care demand, productivity, value architecture, resilient household and hygiene mix |
 | Routine oral care and pet-health platform | Colgate-Palmolive | habitual demand, efficacy trust, strong margin discipline, pet-category headwinds and resilience |
 | Food and beverage value portfolio | PepsiCo | affordability, convenience, international diversification, functional and health-adjacent mix |
+| Global routine beverage and brand-system platform | The Coca-Cola Company | repeat refreshment occasions, bottler execution, zero-sugar recruitment, revenue growth management, cultural activation, connected packaging, and first-party data capture |
 | Functional-energy and lifestyle beverage platform | Monster Beverage | repeat stimulation demand, innovation cadence, international expansion, brand intensity, Coca-Cola-supported distribution reach |
 | Home-improvement and built-environment platform | Lowe's | housing pressure, Pro penetration, online growth, home services, loyalty, and distribution scale |
 | Off-price and bargain-discovery platform | Burlington | branded value hunt behavior, physical traffic, opportunistic buying, store-base expansion, and value-seeking consumer demand |
@@ -202,6 +226,7 @@ Across the completed consumer-goods set, the broader signals are:
 - value and premium can both work, while the generic middle is less reliable
 - bargain discovery and off-price branded value still behave like a real recurring consumer draw, not just a residual clearance channel
 - trusted routine-use categories still anchor demand
+- routine beverage systems still scale when brand trust, distribution reach, and pack-price execution stay aligned
 - health and functional positioning are economically relevant
 - some consumer demand is really built-environment demand, where home maintenance, installations, and Pro workflow matter as much as normal retail traffic
 - energy, performance, and lifestyle identity can be economically relevant in their own right rather than only as subcategories inside a broader beverage portfolio
@@ -214,6 +239,7 @@ Across the completed consumer-goods set, the broader signals are:
 The local evidence suggests the sector is being filtered through channel and retail structure more than simple category demand labels would imply.
 
 - `PepsiCo` makes retailer concentration explicit through Walmart exposure.
+- `Coca-Cola` adds a cleaner route-to-market and consumer-recruitment layer where bottler execution, away-from-home presence, and cultural campaigns can move both volume and first-party data capture.
 - `Monster Beverage` adds a different channel point: its growth depends heavily on global bottler and distributor execution and the strategic relationship with The Coca-Cola Company rather than on broad retailer concentration alone.
 - `Coty` and `Estee Lauder` show stronger exposure to channel and regional execution quality.
 - `P&G`, `Kimberly-Clark`, and `Colgate` benefit from stronger routine-use placement and broader distribution defensibility.
@@ -240,6 +266,7 @@ That means the sector’s center of gravity is moving toward:
 
 - daily-use trust and efficacy
 - portfolio and category architecture
+- global routine beverage and cultural-distribution execution
 - functional-energy and identity-driven beverage demand
 - home-improvement and built-environment exposure
 - value and premium segmentation
@@ -253,6 +280,7 @@ The archive will likely be easiest to extend if Consumer Goods is grouped into t
 
 - broad staples and daily-use household platforms
 - food and beverage portfolios with value and health-adjacent demand
+- global routine beverage and brand-system platforms
 - functional-energy and performance-oriented beverage systems
 - routine-care and pet-health systems
 - prestige beauty recovery

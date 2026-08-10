@@ -27,6 +27,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Becton, Dickinson and Company](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/becton-dickinson-and-company/company-packet.md)
   - [Boston Scientific Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/boston-scientific-corporation/company-packet.md)
   - [Abbott Laboratories](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md)
+  - [Thermo Fisher Scientific Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md)
   - [AdaptHealth Corp.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-appliances-equipment/adapthealth-corp/company-packet.md)
   - [Avanos Medical, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-appliances-equipment/avanos-medical-inc/company-packet.md)
   - [Accendra Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-equipment-wholesale/accendra-health-inc/company-packet.md)
@@ -57,13 +58,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a forty-four-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a forty-five-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current forty-four completed names show forty-four related but distinct middle-layer roles:
+The current forty-five completed names show forty-five related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -84,6 +85,7 @@ The current forty-four completed names show forty-four related but distinct midd
 - `Becton, Dickinson and Company` controls a broader hospital, laboratory, pharmaceutical-delivery, and interventional workflow layer built around medication delivery, specimen management, connected care, prefillable-drug systems, and procedure support.
 - `Boston Scientific` controls a more specialized cardiovascular and procedure-led medical-technology layer built around physician adoption, category leadership, and repeat institutional clinical use.
 - `Abbott` controls a broader diagnostics, monitoring, chronic-care, and diversified device layer built around installed systems, recurring consumables, and multiple recurring healthcare product channels.
+- `Thermo Fisher` controls a serving-science and laboratory-workflow layer built around analytical instruments, recurring consumables, diagnostics, and biopharma services across research and production systems.
 - `AdaptHealth` controls a healthcare-at-home replenishment and referral-management layer built around sleep therapy, respiratory care, home medical equipment, consumable resupply, payor alignment, and recurring post-acute patient support.
 - `Avanos` controls a provider-facing specialty-medical-products layer built around nutrition systems, neonatal solutions, pain-management and recovery products, direct hospital selling, and third-party wholesale routing.
 - `Accendra Health` controls a narrower home-based care and direct-to-patient medical-supply channel where recurring equipment, disposable supplies, reimbursement friction, and payor concentration all shape the middle layer.
@@ -148,6 +150,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Becton, Dickinson and Company`: keeping hospitals, clinical laboratories, pharmaceutical manufacturers, and procedure teams connected to medication-delivery, specimen-management, connected-care, patient-monitoring, and drug-delivery workflow infrastructure
 - `Boston Scientific`: keeping hospitals, electrophysiology labs, cath labs, structural-heart teams, and physicians tied to specialized cardiovascular and MedSurg platforms through repeat procedure demand and clinical adoption
 - `Abbott`: keeping hospitals, laboratories, physicians, chronic-care pathways, and patients tied to diagnostics systems, recurring tests, cardiovascular and diabetes devices, nutritional support, and broad product continuity
+- `Thermo Fisher`: keeping research labs, diagnostic environments, biopharma producers, clinical researchers, and scientific workflow buyers tied to instruments, consumables, analytical systems, and production-support services
 - `AdaptHealth`: keeping discharged and chronically ill patients connected to recurring home-medical equipment, oxygen and ventilation support, sleep resupply, and payor-approved replenishment outside the hospital
 - `Avanos`: keeping hospitals and provider systems supplied with enteral-feeding, neonatal, airway, and pain-management products through direct relationships and wholesale-distributor channels
 - `Accendra Health`: keeping home-based patients, payors, agencies, and prescribers connected to recurring supplies, respiratory and sleep equipment, diabetes products, and direct-to-patient replenishment
@@ -199,6 +202,7 @@ The packets now point to the same conclusion from different directions:
 - `Becton, Dickinson and Company` benefits from being embedded in medication safety, specimen flow, patient monitoring, pharmaceutical delivery hardware, and interventional procedure workflow rather than depending on one narrow product line.
 - `Boston Scientific` benefits from category leadership, clinical evidence, physician training, and the way successful device platforms can become routine institutional workflow rather than episodic capital purchases.
 - `Abbott` benefits from installed diagnostics, recurring testing, chronic-care device adoption, broad category reach, and the way diversified healthcare product systems can become part of routine provider and patient workflow.
+- `Thermo Fisher` benefits from installed scientific systems, recurring consumables, research and diagnostics workflow embedding, and the way complexity in lab and biopharma operations favors broad platform intermediaries.
 - `AdaptHealth` benefits from referral density, recurring resupply economics, large payor and capitated relationships, digital self-service, and the fact that healthcare continuity increasingly moves into the home rather than staying in acute-care settings.
 - `Avanos` benefits from direct provider access, wholesale-distributor routing, recurring clinical-use categories, and the way hospital and neonatal nutrition protocols can lock in product demand beyond a one-time capital sale.
 - `Accendra Health` benefits from direct patient-channel positioning, recurring home-based care demand, and channel continuity in non-drug supplies, but its current model is constrained by payor power, separation costs, and capital repair.
@@ -248,6 +252,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Becton, Dickinson and Company` is highly exposed to hospital and laboratory spending discipline, procedure volume, pharmaceutical category demand, currency, and the execution burden of reshaping the portfolio after the Waters transaction.
 - `Boston Scientific` is highly exposed to procedure volume, physician adoption curves, cardiovascular category concentration, product cadence, and the need to sustain leadership in franchises such as electrophysiology and structural heart.
 - `Abbott` is highly exposed to diagnostics throughput, reimbursement, product-cycle execution, acquisition integration, device competition, and the need to sustain growth across a much broader product mix than the purer medtech peers.
+- `Thermo Fisher` is highly exposed to research spending intensity, diagnostics activity, biopharma production demand, acquisition integration, mix shifts, and the durability of organic growth across scientific end markets.
 - `AdaptHealth` is highly exposed to reimbursement complexity, patient-service execution, capitated-contract onboarding, manufacturer price changes, free-cash-flow strain, and the difficulty of turning rapid volume growth into clean margin conversion.
 - `Avanos` is highly exposed to segment mix between nutrition systems and pain-management products, transformation-savings execution, hospital procedure and protocol demand, and the fact that the pending take-private interrupted how far the public quarter chain ran by Monday, `2026-08-10`.
 - `Accendra Health` is highly exposed to commercial payor exits, reimbursement complexity, equipment deployment economics, separation costs, debt reduction demands, and the need to stabilize a narrower post-divestiture channel.
@@ -295,6 +300,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Becton, Dickinson and Company`: technology as medication-management, monitoring, pharmacy, and connected-care workflow layered onto physical hospital and pharmaceutical infrastructure
 - `Boston Scientific`: technology as specialized procedure platforms, physician-adoption systems, and category-specific clinical workflow rather than as broad hospital automation
 - `Abbott`: technology as installed diagnostics, monitoring systems, chronic-care devices, and recurring product ecosystems tied to ongoing provider and patient use
+- `Thermo Fisher`: technology as analytical instruments, diagnostics systems, scientific workflow infrastructure, operating productivity tools, and lab-and-bioproduction support rather than as a standalone software product
 - `AdaptHealth`: technology as digital patient engagement, app-led resupply, self-service equipment workflow, and home-based care coordination rather than as a pure software revenue line
 - `Accendra Health`: technology as claims, ordering, reimbursement, and direct-to-patient workflow support inside home-based care rather than as a stand-alone software story
 - `Cardinal Health`: technology as part of specialty access, provider throughput, at-home coordination, and logistics workflow rather than as a stand-alone product
@@ -336,6 +342,7 @@ This is already visible across the completed set:
 - hospitals, laboratories, and pharmaceutical workflow at `Becton, Dickinson and Company`
 - cardiovascular and procedure-led clinical workflow at `Boston Scientific`
 - diagnostics, chronic-care, and diversified device workflow at `Abbott`
+- scientific, laboratory, and biopharma workflow at `Thermo Fisher`
 - households and small businesses at `ADT`
 - hospitals, health systems, pharmacies, ambulatory surgery centers, clinical laboratories, physician offices, and home patients at `Cardinal Health`
 - pharmacies, oncology practices, and health systems at `McKesson`

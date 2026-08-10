@@ -1,6 +1,6 @@
 # Cintas Corporation Company Packet
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -9,6 +9,7 @@ Date baseline: 2026-08-08
 - Industry: Apparel Stores
 - Ticker: CTAS
 - Fiscal year-end: May
+- Assigned CLI 8 sub-lane: asset access and operating support
 - Target annual report year: 2025
 - Target quarter window:
   - quarter 1: FY2026 Q4
@@ -57,17 +58,16 @@ Date baseline: 2026-08-08
 
 ## Source pointers
 
-- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/business-services/cintas-corporation/company-page-annualreports.html)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/business-services/cintas-corporation/2025-annual-report.pdf)
-- [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/business-services/cintas-corporation/2025-annual-report-sec-ars.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/cintas-corporation/2025-10k.html)
-- [fy2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/cintas-corporation/fy2026-q2-8k.html)
-- [fy2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/cintas-corporation/fy2026-q2-10q.html)
-- [fy2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/cintas-corporation/fy2026-q2-earnings-release-sec-ex99.html)
-- [fy2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/cintas-corporation/fy2026-q3-8k.html)
-- [fy2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/cintas-corporation/fy2026-q3-10q.html)
-- [fy2026-q3-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/cintas-corporation/fy2026-q3-earnings-release-sec-ex99.html)
-- [fy2026-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/cintas-corporation/fy2026-q4-8k.html)
-- [fy2026-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/cintas-corporation/fy2026-q4-earnings-release-sec-ex99.html)
-- [fy2026-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/cintas-corporation/fy2026-10k.html)
-
+- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/services/business-services/cintas-corporation/company-page-annualreports.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/services/business-services/cintas-corporation/2025-annual-report.pdf)
+- [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/business-services/cintas-corporation/2025-annual-report-sec-ars.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/cintas-corporation/2025-10k.html)
+- [fy2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/cintas-corporation/fy2026-q2-8k.html)
+- [fy2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/cintas-corporation/fy2026-q2-10q.html)
+- [fy2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/cintas-corporation/fy2026-q2-earnings-release-sec-ex99.html)
+- [fy2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/cintas-corporation/fy2026-q3-8k.html)
+- [fy2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/cintas-corporation/fy2026-q3-10q.html)
+- [fy2026-q3-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/cintas-corporation/fy2026-q3-earnings-release-sec-ex99.html)
+- [fy2026-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/cintas-corporation/fy2026-q4-8k.html)
+- [fy2026-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/cintas-corporation/fy2026-q4-earnings-release-sec-ex99.html)
+- [fy2026-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/cintas-corporation/fy2026-10k.html)

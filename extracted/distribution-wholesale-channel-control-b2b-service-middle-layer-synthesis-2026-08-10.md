@@ -8,6 +8,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 - wholesale and distribution infrastructure:
   - [Builders FirstSource, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/general-building-materials/builders-firstsource-inc/company-packet.md)
+  - [Ferguson Enterprises Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md)
   - [W.W. Grainger, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-equipment-components/ww-grainger-inc/company-packet.md)
   - [WESCO International Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-equipment-components/wesco-international-inc/company-packet.md)
 - institutional supply and replenishment:
@@ -15,26 +16,31 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [McKesson Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/mckesson-corporation/company-packet.md)
   - [Cencora](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cencora-inc/company-packet.md)
 - asset access and operating support:
+  - [APi Group Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/api-group-corporation/company-packet.md)
+  - [Cintas Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/cintas-corporation/company-packet.md)
   - [United Rentals, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/united-rentals-inc/company-packet.md)
 - service-layer physical interface:
   - [Hyatt Hotels Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/lodging/hyatt-hotels-corporation/company-packet.md)
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This is an in-progress frontier synthesis, not the final eight-company closeout.
+This synthesis now rests on an eleven-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The eight completed names show eight related but distinct middle-layer roles:
+The current eleven completed names show eleven related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
+- `Ferguson` controls contractor-facing branch density across plumbing, HVAC, waterworks, and repair-and-replacement infrastructure.
 - `Grainger` controls business procurement and MRO purchasing workflows.
 - `WESCO` controls electrical, communications, utility, and data-center project flow through broad industrial distribution and logistics infrastructure.
 - `Sysco` controls recurring foodservice replenishment and route-density economics.
 - `McKesson` controls medicine flow, specialty distribution, and provider-facing healthcare infrastructure.
 - `Cencora` controls pharmaceutical channel access, provider-facing logistics, and specialty-services infrastructure.
+- `APi` controls inspection, monitoring, and safety-oriented service relationships tied to facilities and critical infrastructure.
+- `Cintas` controls route-based workplace uniforms, hygiene, first aid, safety, and fire-protection service relationships.
 - `United Rentals` converts equipment ownership into rented access, uptime support, and project flexibility.
 - `Hyatt` controls a branded hospitality and owner-network interface linking travelers, hotel owners, loyalty, and physical service delivery.
 
@@ -58,11 +64,14 @@ That is the core of the frontier.
 Each completed company is deeply tied to a recurring customer need:
 
 - `Builders FirstSource`: keeping builders supplied with structural materials, components, and value-added construction workflow support
+- `Ferguson`: keeping contractors, facilities teams, and infrastructure jobs supplied with plumbing, HVAC, waterworks, PVF, and technical branch support
 - `Grainger`: keeping industrial and institutional sites supplied with MRO products and reducing procurement friction
 - `WESCO`: keeping electrical, communications, power, security, and data-center projects supplied and coordinated
 - `Sysco`: keeping restaurants, hospitality venues, healthcare kitchens, and other away-from-home food channels stocked
 - `McKesson`: keeping pharmacies, providers, oncology practices, and health systems supplied and connected to specialty and workflow infrastructure
 - `Cencora`: keeping pharmacies, physician practices, health systems, and pharmaceutical channels supplied with medicines and specialty support services
+- `APi`: keeping facilities, compliance systems, and safety-critical environments inspected, monitored, and operational
+- `Cintas`: keeping workplaces stocked, compliant, clean, and uniformly serviced through recurring route-based visits
 - `United Rentals`: keeping projects, industrial sites, and contractors operating without forcing them to own the entire fleet
 - `Hyatt`: keeping branded hospitality, loyalty, owner relationships, and travel-related physical service systems functioning at scale
 
@@ -73,11 +82,14 @@ These are not occasional purchases. They are operating dependencies.
 The packets now point to the same conclusion from different directions:
 
 - `Builders FirstSource` benefits from being embedded earlier in the construction chain, with prefabrication and value-added services widening the relationship.
+- `Ferguson` benefits from local branch density, technical assortment, and its ability to simplify fragmented contractor buying.
 - `Grainger` benefits from being the easiest high-trust procurement channel.
 - `WESCO` benefits from being a scaled infrastructure channel with procurement breadth, backlog visibility, and project execution fit.
 - `Sysco` benefits from route density, customer routines, sourcing leverage, and local service execution.
 - `McKesson` benefits from scale distribution, specialty handling, and embedded provider relationships.
 - `Cencora` benefits from pharmaceutical access, specialty logistics, and provider/manufacturer embeddedness.
+- `APi` benefits from recurring inspections, monitoring relationships, and compliance-linked attachment.
+- `Cintas` benefits from route density, retention, and cross-sell across everyday workplace-service categories.
 - `United Rentals` benefits from fleet scale, specialty breadth, and its ability to absorb capital intensity for customers.
 - `Hyatt` benefits from brand distribution, loyalty participation, and fee-based owner-network relationships.
 
@@ -88,11 +100,14 @@ In all four cases, the moat is strengthened by the channel itself.
 This frontier is unusually sensitive to balance-sheet mechanics:
 
 - `Builders FirstSource` is highly exposed to inventory turns, commodity deflation, and starts pressure, which makes its working-capital and cost discipline unusually revealing.
+- `Ferguson` is highly exposed to branch productivity, supplier-price timing, acquisitions, and contractor demand splits between residential and non-residential work.
 - `Sysco` needs inventory management, routing, and working-capital discipline to protect margin.
 - `McKesson` moves enormous healthcare volume through thin-margin, timing-sensitive systems.
 - `Cencora` faces similar healthcare working-capital and reimbursement sensitivity, but with more visible specialty and services attachment.
 - `Grainger` wins partly because assortment breadth and availability are trusted.
 - `WESCO` needs disciplined capital allocation and project execution because fast growth can still consume cash and working capital.
+- `APi` needs disciplined acquisition integration and cash conversion because backlog and recurring service quality can be diluted by poor execution.
+- `Cintas` wins partly because route density, facilities throughput, and local-service productivity convert recurrence into high-margin cash generation.
 - `United Rentals` effectively turns fleet ownership, utilization, and used-equipment recycling into the core product.
 - `Hyatt` uses its balance sheet, asset sales, and owner/franchise structure to move toward fee-rich and more asset-light hospitality economics.
 
@@ -103,11 +118,14 @@ That makes capital discipline and physical-asset control central operating theme
 The current packets do not point to a software-product story. They point to operational technology:
 
 - `Builders FirstSource`: digital workflow, prefabrication, and contractor-efficiency tools that try to reduce labor intensity and improve build speed
+- `Ferguson`: digital ordering, local inventory visibility, and contractor workflow support layered on top of branch and fleet density
 - `Grainger`: digital procurement, curated online experiences, and workflow simplification
 - `WESCO`: data-center solutions, project coordination, and logistics systems that turn industrial distribution into infrastructure execution
 - `Sysco`: AI-enabled forecasting, routing, inventory management, and back-office automation
 - `McKesson`: technology as part of prescription, specialty, and provider workflow infrastructure
 - `Cencora`: technology as part of market access, provider support, and specialty-services coordination
+- `APi`: technology as part of monitoring, inspection cadence, service workflow, and compliance infrastructure
+- `Cintas`: technology as part of route planning, plant throughput, customer retention, and service density rather than as a consumer-facing product
 - `United Rentals`: market-leading technology platforms supporting asset visibility, customer response, and fleet economics
 - `Hyatt`: technology as part of loyalty depth, owner coordination, and more responsive branded guest operations
 
@@ -118,11 +136,14 @@ The stronger read is that technology in this frontier improves middle-layer thro
 This is already visible across the completed set:
 
 - professional builders, framing crews, and repair-and-remodel channels at `Builders FirstSource`
+- contractors, waterworks, HVAC, facilities supply, and large capital project channels at `Ferguson`
 - factories, facilities, and government buyers at `Grainger`
 - contractors, utilities, enterprise infrastructure programs, and hyperscale data-center projects at `WESCO`
 - restaurants, hospitality, schools, and healthcare foodservice at `Sysco`
 - pharmacies, oncology practices, and health systems at `McKesson`
 - pharmacies, physician practices, health systems, and pharma-channel partners at `Cencora`
+- business facilities, safety-sensitive buildings, and infrastructure clients at `APi`
+- employers, commercial sites, and workplace operators at `Cintas`
 - contractors, industrial operators, and infrastructure projects at `United Rentals`
 - business transient, group travel, owner networks, and destination hospitality systems at `Hyatt`
 
@@ -130,16 +151,16 @@ The implication is that this frontier is not mainly about discretionary end-cons
 
 ## Current theme map
 
-| Theme | Builders FirstSource | Grainger | WESCO | Sysco | McKesson | Cencora | United Rentals | Hyatt |
-|---|---|---|---|---|---|---|---|---|
-| Procurement power | high | very high | very high | high | very high | very high | moderate | low to moderate |
-| Distribution / route efficiency | high | high | very high | very high | very high | very high | high | moderate |
-| Inventory / working-capital discipline | very high | high | high | very high | very high | very high | high | moderate |
-| Service attachment | high | moderate | high | moderate to high | high | high | very high | very high |
-| Rental versus ownership economics | low | low | low | low | low | low | core | low |
-| Institutional demand dependence | moderate to high | high | very high | very high | very high | very high | high | high |
-| Technology as operating leverage | high | high | high | high | high | high | high | moderate to high |
-| Embedded business relationships | high | very high | very high | high | very high | very high | high | very high |
+| Theme | Builders FirstSource | Ferguson | Grainger | WESCO | Sysco | McKesson | Cencora | APi | Cintas | United Rentals | Hyatt |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Procurement power | high | high | very high | very high | high | very high | very high | low to moderate | moderate | moderate | low to moderate |
+| Distribution / route efficiency | high | very high | high | very high | very high | very high | very high | moderate | very high | high | moderate |
+| Inventory / working-capital discipline | very high | high | high | high | very high | very high | very high | moderate | high | high | moderate |
+| Service attachment | high | high | moderate | high | moderate to high | high | high | very high | very high | very high | very high |
+| Rental versus ownership economics | low | low | low | low | low | low | low | low | low | core | low |
+| Institutional demand dependence | moderate to high | high | high | very high | very high | very high | very high | very high | high | high | high |
+| Technology as operating leverage | high | moderate to high | high | high | high | high | high | high | high | high | moderate to high |
+| Embedded business relationships | high | very high | very high | very high | high | very high | very high | very high | very high | high | very high |
 
 ## Bigger-picture patterns
 
@@ -147,15 +168,16 @@ The current packets already support several broader conclusions that go beyond c
 
 ### Procurement is becoming a strategic operating layer
 
-`Builders FirstSource`, `Grainger`, and `WESCO` are the clearest proofs, but the pattern is broader. Customers increasingly want fewer vendors, easier buying, better availability, prefabricated workflow help, and more predictable fulfillment. The middle layer monetizes that simplification.
+`Builders FirstSource`, `Ferguson`, `Grainger`, and `WESCO` are the clearest proofs, but the pattern is broader. Customers increasingly want fewer vendors, easier buying, better availability, prefabricated workflow help, and more predictable fulfillment. The middle layer monetizes that simplification.
 
 ### Replenishment businesses are indirect reads on social systems
 
-`Sysco`, `McKesson`, and `Cencora` all show that middle-layer companies can be strong social and cultural signals without selling directly to households.
+`Sysco`, `McKesson`, `Cencora`, `APi`, and `Cintas` all show that middle-layer companies can be strong social and cultural signals without selling directly to households.
 
 - If consumers become more cautious, `Sysco` sees it through restaurant order patterns and mix.
 - If care shifts toward specialty and multisite delivery, `McKesson` sees it through oncology, biopharma, and provider workflow demand.
 - If pharmaceutical demand shifts toward specialty therapies, GLP-1s, and more distributed physician support, `Cencora` sees it through channel mix, provider dependence, and service attachment.
+- If employers and facility operators keep outsourcing safety, hygiene, uniforms, monitoring, and compliance work, `Cintas` and `APi` see it through route density, backlog, recurring service, and retention before most consumer-facing companies notice.
 
 ### Infrastructure build cycles are being mediated by channel specialists
 
@@ -168,11 +190,13 @@ The current packets already support several broader conclusions that go beyond c
 
 That makes the middle layer an early read on industrial and digital-capacity expansion.
 
-`Builders FirstSource` adds a parallel but different construction read: not hyperscale digital infrastructure, but the practical economics of shelter, labor scarcity, affordability pressure, and prefabrication. Together, `Builders FirstSource` and `WESCO` show that the middle layer matters in both the housing system and the power/data-center system.
+`Builders FirstSource` and `Ferguson` add a parallel but different construction read: not hyperscale digital infrastructure, but the practical economics of shelter, water, comfort, branch density, labor scarcity, affordability pressure, and repair-and-replacement demand. Together with `WESCO`, they show that the middle layer matters in housing, contractor infrastructure, and the power/data-center system.
 
 ### Capital-light behavior at the customer level creates capital-heavy opportunity in the middle
 
 `United Rentals` is the cleanest version of this. Customers want flexibility and uptime without tying up balance sheets in owned equipment. The intermediary takes the capital burden and turns it into a recurring service model.
+
+`APi` and `Cintas` show a service analogue. Customers increasingly outsource specialized operating burdens like inspections, monitoring, hygiene, uniforms, first aid, safety, and fire protection rather than staffing and optimizing them all in-house.
 
 `Hyatt` shows a parallel version in services rather than hard equipment. Property owners want brand, distribution, and operating expertise without necessarily becoming best-in-class global hospitality platforms themselves.
 
@@ -197,18 +221,20 @@ The frontier is not complete yet.
 
 Major gaps still include:
 
-- a direct plumbing / HVAC / waterworks branch-density leader such as `Ferguson`
+- a medical-equipment or medical-supply distributor beyond drug channels
+- a dedicated protection-services or technical-services operator beyond `APi` and `Cintas`
+- a second service-layer physical-interface operator beyond `Hyatt`
 
 Those additions should help answer:
 
 - how much this frontier depends on branch density versus digital workflow
 - how repeatable the healthcare-distribution pattern is across multiple companies
 - how repeatable the current hospitality-style service-layer interface pattern is beyond `Hyatt`
-- how Ferguson's local-scale water-and-air model differs from `Builders FirstSource` and `WESCO`
+- how route-based workplace-services and safety-monitoring models differ from rental and distribution models even when all three occupy a middle-layer role
 
 ## Working conclusion
 
-The current eight-company base already makes the frontier more than defensible.
+The current eleven-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

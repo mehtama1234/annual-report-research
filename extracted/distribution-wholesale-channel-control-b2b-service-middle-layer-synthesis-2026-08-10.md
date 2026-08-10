@@ -19,6 +19,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [WESCO International Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-equipment-components/wesco-international-inc/company-packet.md)
 - institutional supply and replenishment:
   - [Sysco Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/retail-grocery-stores/sysco-corp/company-packet.md)
+  - [Henry Schein, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/henry-schein-inc/company-packet.md)
   - [McKesson Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/mckesson-corporation/company-packet.md)
   - [Cencora](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cencora-inc/company-packet.md)
   - [Option Care Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/specialized-health-services/option-care-health-inc/company-packet.md)
@@ -39,13 +40,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a twenty-six-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a twenty-seven-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current twenty-six completed names show twenty-six related but distinct middle-layer roles:
+The current twenty-seven completed names show twenty-seven related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -58,6 +59,7 @@ The current twenty-six completed names show twenty-six related but distinct midd
 - `Grainger` controls business procurement and MRO purchasing workflows.
 - `WESCO` controls electrical, communications, utility, and data-center project flow through broad industrial distribution and logistics infrastructure.
 - `Sysco` controls recurring foodservice replenishment and route-density economics.
+- `Henry Schein` controls recurring medical-and-dental supply distribution, practice procurement, and value-added services across office-based healthcare.
 - `McKesson` controls medicine flow, specialty distribution, and provider-facing healthcare infrastructure.
 - `Cencora` controls pharmaceutical channel access, provider-facing logistics, and specialty-services infrastructure.
 - `Option Care` controls alternate-site infusion routing, specialty-drug administration workflow, and recurring treatment delivery outside the hospital.
@@ -104,6 +106,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Grainger`: keeping industrial and institutional sites supplied with MRO products and reducing procurement friction
 - `WESCO`: keeping electrical, communications, power, security, and data-center projects supplied and coordinated
 - `Sysco`: keeping restaurants, hospitality venues, healthcare kitchens, and other away-from-home food channels stocked
+- `Henry Schein`: keeping dental practices, physician offices, alternate-care sites, institutional clinics, and labs supplied with recurring medical-and-dental products, equipment, and workflow support
 - `McKesson`: keeping pharmacies, providers, oncology practices, and health systems supplied and connected to specialty and workflow infrastructure
 - `Cencora`: keeping pharmacies, physician practices, health systems, and pharmaceutical channels supplied with medicines and specialty support services
 - `Option Care`: keeping patients, payers, prescribers, and specialty therapies connected through recurring home and alternate-site infusion delivery
@@ -137,6 +140,7 @@ The packets now point to the same conclusion from different directions:
 - `Grainger` benefits from being the easiest high-trust procurement channel.
 - `WESCO` benefits from being a scaled infrastructure channel with procurement breadth, backlog visibility, and project execution fit.
 - `Sysco` benefits from route density, customer routines, sourcing leverage, and local service execution.
+- `Henry Schein` benefits from high-frequency practitioner relationships, distribution reliability, technology and specialty cross-sell, and embedded procurement workflow across fragmented office-based care.
 - `McKesson` benefits from scale distribution, specialty handling, and embedded provider relationships.
 - `Cencora` benefits from pharmaceutical access, specialty logistics, and provider/manufacturer embeddedness.
 - `Option Care` benefits from site-of-care migration, payer alignment, clinician-supported coordination, and the repeated routing of costly therapies into lower-friction treatment settings.
@@ -168,6 +172,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `MSC` is highly exposed to metalworking, manufacturing cadence, national-account mix, and the tension between recurring procurement attachment and gross-margin pressure.
 - `Applied` is highly exposed to industrial caution, tariff noise, Service Center versus Engineered Solutions mix, and whether higher technical content sustains margin through slower capital cycles.
 - `Sysco` needs inventory management, routing, and working-capital discipline to protect margin.
+- `Henry Schein` is highly exposed to provider procedure cadence, equipment spending, supplier mix, freight and inventory discipline, and its ability to widen margins beyond basic distribution through specialty products and value-added services.
 - `McKesson` moves enormous healthcare volume through thin-margin, timing-sensitive systems.
 - `Cencora` faces similar healthcare working-capital and reimbursement sensitivity, but with more visible specialty and services attachment.
 - `Option Care` is highly exposed to reimbursement, therapy mix, clinician availability, payer behavior, and the balance between recurring treatment density and labor-heavy care coordination.
@@ -201,6 +206,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Grainger`: digital procurement, curated online experiences, and workflow simplification
 - `WESCO`: data-center solutions, project coordination, and logistics systems that turn industrial distribution into infrastructure execution
 - `Sysco`: AI-enabled forecasting, routing, inventory management, and back-office automation
+- `Henry Schein`: technology as practice-management support, digital ordering, AI-enabled workflow, and value-added services layered onto recurring healthcare distribution
 - `McKesson`: technology as part of prescription, specialty, and provider workflow infrastructure
 - `Cencora`: technology as part of market access, provider support, and specialty-services coordination
 - `Stryker`: technology as embedded procedural infrastructure through robotics, power tools, enabling systems, and hospital workflow attachment rather than as a stand-alone software product
@@ -230,6 +236,7 @@ This is already visible across the completed set:
 - factories, facilities, and government buyers at `Grainger`
 - contractors, utilities, enterprise infrastructure programs, and hyperscale data-center projects at `WESCO`
 - restaurants, hospitality, schools, and healthcare foodservice at `Sysco`
+- dental practices, physician offices, alternate-care sites, healthcare clinics, and laboratories at `Henry Schein`
 - pharmacies, oncology practices, and health systems at `McKesson`
 - pharmacies, physician practices, health systems, and pharma-channel partners at `Cencora`
 - patients, prescribers, infusion nurses, and payers across home and alternate-site specialty treatment at `Option Care`
@@ -321,7 +328,7 @@ The frontier is not complete yet.
 
 Major gaps still include:
 
-- a true medical-equipment or medical-supply distributor beyond drug channels, hospital-capital procurement, alternate-site service delivery, and therapy-enabling component supply
+- a second strong medical-equipment or medical-supply distributor beyond Henry Schein's office-based care procurement, drug channels, hospital-capital procurement, alternate-site service delivery, and therapy-enabling component supply
 - a dedicated protection-services or security-services operator beyond `ABM`, `APi`, `BrightView`, `Cintas`, `Rollins`, and `Motorola Solutions`
 - a true medical-equipment or medical-supply distributor or operator that is more explicitly channel-oriented than the current healthcare service set
 
@@ -334,7 +341,7 @@ Those additions should help answer:
 
 ## Working conclusion
 
-The current twenty-six-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current twenty-seven-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

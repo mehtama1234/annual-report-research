@@ -19,6 +19,6 @@ Date verified: 2026-08-10
 
 ## Local collection note
 
-- Direct scripted shell fetches to these SEC URLs returned the SEC automation-challenge page rather than the actual filing content on `2026-08-10`.
-- Because those challenged HTML responses are not valid filing artifacts, they were not retained as evidence files.
+- Direct SEC filing HTML for the `10-K`, both target-window `10-Q`s, and all three quarter-window `8-K`s was collected locally on `2026-08-10`.
+- Retrieval required a declared company-specific user agent; once that was supplied, EDGAR returned the actual filing content rather than the automation-challenge page.
 - The SEC URLs above remain the authoritative filing references for this packet, alongside the company-hosted `10-K` and `10-Q` PDFs saved under `raw/company-ir/`.

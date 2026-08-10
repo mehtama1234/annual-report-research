@@ -15,6 +15,7 @@ This memo pulls together the current retail-service packets that are most useful
 - [Kohl's Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/department-stores/kohls-corporation/company-packet.md)
 - [Ross Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
 - [Ulta Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
+- [Chewy, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
 
 ## Executive read
 
@@ -31,6 +32,10 @@ Ulta adds a fifth useful routine that the earlier memo did not have:
 
 - beauty discovery and personal-care experimentation tied to loyalty, salons, and a wider app-plus-store relationship
 
+Chewy adds a sixth:
+
+- digital pet-care replenishment and health-adjacent routine tied to Autoship, prescriptions, pharmacy, and mobile-app account management
+
 That matters because the winning formats are not winning for the same reason.
 
 - `Costco` is winning through membership habit, trust, traffic density, and unusually strong renewal behavior.
@@ -42,6 +47,7 @@ That matters because the winning formats are not winning for the same reason.
 - `Best Buy` is stabilizing through services, Marketplace, ads, and omnichannel support around a cyclical category set.
 - `Kohl's` is still trying to defend a weaker middle through loyalty, promotions, Sephora adjacency, and inventory discipline.
 - `Ulta` is widening a beauty-specialty relationship through discovery, salons, marketplace assortment, advertising and media support, and the Space NK expansion.
+- `Chewy` is widening a pet-care relationship through Autoship, prescriptions, pharmacy, and websites and mobile apps that help customers manage pet health, wellness, and merchandise needs.
 
 ## What the archive now says
 
@@ -90,6 +96,16 @@ The implication is that not every retailer can build a second monetization layer
 
 That means beauty specialty should not be reduced to mall traffic or promotions alone. The better read is a discovery-and-routine system where self-expression, replenishment, services, and digital widening all matter together.
 
+### 3B. Digital pet care is different from basic e-commerce
+
+`Chewy` is useful because it keeps the archive from treating all online retail and replenishment as one lane.
+
+- `Walmart` and `Kroger` show scale household routine with stores and broad baskets.
+- `Dollar General` shows local convenience and consumables.
+- `Chewy` shows a narrower but deeper recurring relationship where pet-parent management, prescriptions, pharmacy, Autoship, and digital account tools all matter directly.
+
+That means digital replenishment should not be reduced to generic e-commerce growth alone. The better read is a care-and-routine system where repeat behavior, trust, and health adjacency make the relationship thicker than a normal online store sale.
+
 ### 4. Consumer resilience is real, but it is concentrated
 
 The current set suggests consumers are still spending, but the resilience is concentrated in formats that deliver one of the following:
@@ -111,6 +127,7 @@ The cultural signal in these packets is not just identity branding.
 - `Dollar Tree` shows small-ticket thrift behavior and price-anchored basket stretching.
 - `Dollar General` shows local convenience and everyday replenishment as a durable social routine in smaller-town and neighborhood America.
 - `Ross` shows that treasure-hunt behavior still works at scale when shoppers believe the deals are real.
+- `Chewy` shows that pet care itself can become a durable household-management routine, where the emotional and practical commitment to pets supports repeat spend and service attachment.
 
 The cultural point is that household routine is itself an economic asset. These businesses are not only selling goods. They are organizing repeated behavior.
 
@@ -126,6 +143,7 @@ The cultural point is that household routine is itself an economic asset. These 
 | Cyclical retail-service hybrid | Best Buy | episodic upgrade and support | service attachment, omnichannel, Marketplace, ads |
 | Pressured middle-market department store | Kohl's | promotion-led repeat visits | loyalty, promotions, adjacent beauty traffic, cash discipline |
 | Beauty-discovery specialty retail | Ulta | self-expression, routine replenishment, salons, loyalty, marketplace assortment | discovery breadth, services attachment, app and store integration, media monetization |
+| Pet-care replenishment and autoship | Chewy | recurring pet-parent management | Autoship mix, active-customer retention, prescriptions and pharmacy, app and account management, service depth |
 
 ## Most important takeaways for the broader project
 

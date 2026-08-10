@@ -37,6 +37,7 @@ This synthesis is based on the completed Services packets currently in the archi
   - [Kohl's Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/department-stores/kohls-corporation/company-packet.md)
   - [Ross Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
   - [Ulta Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
+  - [Chewy, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
 - Housing maintenance and pro-trade distribution:
   - [The Home Depot, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/home-improvement-stores/the-home-depot-inc/company-packet.md)
 - Labor intermediation:
@@ -83,6 +84,7 @@ The newer packet base makes this much more obvious.
 - `Kohl's` shows what the weaker middle looks like in department stores, where loyalty, value messaging, Sephora adjacency, and omnichannel tools still have to fight a structurally pressured base business.
 - `Ross` shows the traffic-resilient value winner in the same broad consumer lane, where off-price sourcing, in-store discovery, and compelling branded bargains can still produce very strong sales and earnings growth without a classic membership or loyalty engine.
 - `Ulta` shows a different specialty-retail widening pattern, where the relationship is deepened through loyalty, salons, marketplace assortment, media monetization, and beauty discovery rather than through value traffic or a formal membership fee.
+- `Chewy` shows the digital-native pet-care version, where the relationship is deepened through Autoship, prescriptions, pharmacy, mobile-app account management, and recurring pet-parent behavior rather than through physical store traffic.
 - `Caesars` shows loyalty and wallet design connecting physical gaming, digital wagering, and cross-property entertainment spend.
 - `MGM` shows a broader destination-and-gaming relationship platform where Las Vegas, regional gaming, Macau, and digital extensions reinforce each other without collapsing into one single wallet story.
 - `Hilton`, `Delta`, `United`, `Southwest`, and `Sun Country` now show five different travel and air-transport relationship patterns operating as economic infrastructure rather than as marketing decoration.
@@ -139,6 +141,8 @@ This matters for the sector read because it shows Services is not only populated
 
 `Ulta` adds a fifth and importantly different point. It is also a specialty retailer, but the model is not mainly about bargain traffic, department-store promotions, or episodic electronics replacement. Fiscal `2025` net sales increased `9.7%` to `$12.4B`, comparable sales increased `5.4%`, and Q1 `2026` net sales then increased `11.1%` with `5.3%` comparable-sales growth. The `10-K` also shows `UB Marketplace` with more than `200` brands and `5,000` SKUs and frames `UB Media` as an additional monetization layer, which makes Ulta one of the cleaner examples in Services where discovery, loyalty data, category breadth, and services all reinforce each other.
 
+`Chewy` adds a sixth and more digital-first point. It is also a consumer-routine retailer, but the model is not mainly about physical trip frequency or promotions. Fiscal `2025` net sales reached `$12.60B`, active customers reached `21.3M`, Q1 `2026` net sales increased `7.7%` to `$3.36B`, and Q3 `2025` Autoship customer sales were about `84%` of net sales. The company also explicitly frames its websites and mobile applications as tools for pet parents to manage merchandise, prescriptions, health, and wellness needs. That makes Chewy one of the cleaner Services cases where care management, replenishment, and digital service depth all reinforce each other.
+
 ### 3. Logistics and field services are being run for quality, density, and automation
 
 The older Services brief already pointed this way, but the broader set sharpens it.
@@ -166,6 +170,7 @@ The completed packet set now says this directly.
 - `Kohl's` is the weaker version of the same idea: a large installed customer base, loyalty tools, and repeated shopping intent exist, but the routine is less durable and more promotion-sensitive than at the stronger retail-service systems.
 - `Ross` is important because it shows a different routine entirely: repeat bargain-hunting and discovery behavior can be durable even without a formal loyalty system if the value proposition stays sharp.
 - `Ulta` shows that routine can also be built through self-expression and personal care. The repeat behavior here is not only replenishment; it is beauty discovery, salon usage, loyalty engagement, and app-and-store interaction across a broader category system.
+- `Chewy` shows that routine can also be built through care management. The repeat behavior here is not only replenishment; it is Autoship, prescriptions, pharmacy use, health and wellness management, and mobile-app account interaction across the pet-parent workflow.
 - `Netflix` is a recurring attention habit rather than only a content business.
 
 This is important because it means some of the archive’s best consumer evidence is sitting inside Services rather than only inside Consumer Goods.
@@ -188,7 +193,7 @@ That makes Services useful not only for consumer and experience signals, but als
 | Logistics and route-density systems | CHRW, UPS, Rollins, APi, Cintas | automation, route density, customer mix, recurring service, compliance-heavy service intensity, network productivity |
 | Recurring consumer-routine systems | Starbucks, McDonald's, Domino's, Netflix | stored value, loyalty, direct ordering, subscription habit, repeat behavior, convenience as moat |
 | Experience and cultural-attention systems | Live Nation, Hilton, Disney, Caesars, Delta | travel demand, scarcity, fandom, loyalty, venue and destination throughput, premium mix |
-| Membership and retail-service systems | Costco, Walmart, Kroger, Dollar Tree, Dollar General, Best Buy, Kohl's, Ross, Ulta | membership, basket frequency, retail media, marketplace layers, value architecture, service attachment, value-sensitive consumer behavior, neighborhood convenience, upgrade-cycle dependence, promotion-sensitive traffic, off-price traffic resilience, beauty discovery, salon attachment, and loyalty-data monetization |
+| Membership and retail-service systems | Costco, Walmart, Kroger, Dollar Tree, Dollar General, Best Buy, Kohl's, Ross, Ulta, Chewy | membership, basket frequency, retail media, marketplace layers, value architecture, service attachment, value-sensitive consumer behavior, neighborhood convenience, upgrade-cycle dependence, promotion-sensitive traffic, off-price traffic resilience, beauty discovery, salon attachment, loyalty-data monetization, and digital pet-care replenishment |
 | Housing maintenance and pro-trade systems | Home Depot | repair and remodel demand, housing pressure, storm sensitivity, pro distribution, trade-credit and delivery infrastructure |
 | Labor intermediation | Robert Half | staffing, permanent placement, consulting resilience, employer confidence |
 

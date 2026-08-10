@@ -20,6 +20,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 - institutional supply and replenishment:
   - [Sysco Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/retail-grocery-stores/sysco-corp/company-packet.md)
   - [Henry Schein, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/henry-schein-inc/company-packet.md)
+  - [Baxter International Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/baxter-international-inc/company-packet.md)
   - [Accendra Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-equipment-wholesale/accendra-health-inc/company-packet.md)
   - [Cardinal Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cardinal-health-inc/company-packet.md)
   - [McKesson Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/mckesson-corporation/company-packet.md)
@@ -46,13 +47,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a thirty-three-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a thirty-four-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current thirty-three completed names show thirty-three related but distinct middle-layer roles:
+The current thirty-four completed names show thirty-four related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -66,6 +67,7 @@ The current thirty-three completed names show thirty-three related but distinct 
 - `WESCO` controls electrical, communications, utility, and data-center project flow through broad industrial distribution and logistics infrastructure.
 - `Sysco` controls recurring foodservice replenishment and route-density economics.
 - `Henry Schein` controls recurring medical-and-dental supply distribution, practice procurement, and value-added services across office-based healthcare.
+- `Baxter` controls a hospital-facing supply-and-equipment layer built around infusion consumables, patient-support systems, connected care equipment, acute-care products, and drug-compounding workflow.
 - `Accendra Health` controls a narrower home-based care and direct-to-patient medical-supply channel where recurring equipment, disposable supplies, reimbursement friction, and payor concentration all shape the middle layer.
 - `Cardinal Health` controls larger institutional healthcare throughput across pharmaceutical and specialty solutions, medical products distribution, at-home solutions, and logistics attachment.
 - `McKesson` controls medicine flow, specialty distribution, and provider-facing healthcare infrastructure.
@@ -119,6 +121,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `WESCO`: keeping electrical, communications, power, security, and data-center projects supplied and coordinated
 - `Sysco`: keeping restaurants, hospitality venues, healthcare kitchens, and other away-from-home food channels stocked
 - `Henry Schein`: keeping dental practices, physician offices, alternate-care sites, institutional clinics, and labs supplied with recurring medical-and-dental products, equipment, and workflow support
+- `Baxter`: keeping hospitals, ambulatory sites, rehabilitation centers, nursing facilities, and care systems supplied with infusion therapies, acute-care products, patient-support systems, connected equipment, and compounding-linked clinical workflow
 - `Accendra Health`: keeping home-based patients, payors, agencies, and prescribers connected to recurring supplies, respiratory and sleep equipment, diabetes products, and direct-to-patient replenishment
 - `Cardinal Health`: keeping hospitals, healthcare systems, pharmacies, ambulatory surgery centers, clinical laboratories, physician offices, and home patients supplied through pharmaceutical flow, medical products, and healthcare logistics attachment
 - `McKesson`: keeping pharmacies, providers, oncology practices, and health systems supplied and connected to specialty and workflow infrastructure
@@ -159,6 +162,7 @@ The packets now point to the same conclusion from different directions:
 - `WESCO` benefits from being a scaled infrastructure channel with procurement breadth, backlog visibility, and project execution fit.
 - `Sysco` benefits from route density, customer routines, sourcing leverage, and local service execution.
 - `Henry Schein` benefits from high-frequency practitioner relationships, distribution reliability, technology and specialty cross-sell, and embedded procurement workflow across fragmented office-based care.
+- `Baxter` benefits from provider dependence on IV solutions, connected care hardware, acute-care products, patient-support systems, compounding, and the installed hospital-use workflow that ties recurring consumables to equipment reliability.
 - `Accendra Health` benefits from direct patient-channel positioning, recurring home-based care demand, and channel continuity in non-drug supplies, but its current model is constrained by payor power, separation costs, and capital repair.
 - `Cardinal Health` benefits from scale distribution, branded and specialty pharmaceutical throughput, medical-products exposure, at-home and logistics attachment, and the degree to which provider systems cannot tolerate replenishment failure.
 - `McKesson` benefits from scale distribution, specialty handling, and embedded provider relationships.
@@ -197,6 +201,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Applied` is highly exposed to industrial caution, tariff noise, Service Center versus Engineered Solutions mix, and whether higher technical content sustains margin through slower capital cycles.
 - `Sysco` needs inventory management, routing, and working-capital discipline to protect margin.
 - `Henry Schein` is highly exposed to provider procedure cadence, equipment spending, supplier mix, freight and inventory discipline, and its ability to widen margins beyond basic distribution through specialty products and value-added services.
+- `Baxter` is highly exposed to product-quality execution, segment reorganization, higher-cost inventory roll-through, working-capital repair, portfolio simplification, and the need to restore trust after infusion-system and front-line-care pressure.
 - `Accendra Health` is highly exposed to commercial payor exits, reimbursement complexity, equipment deployment economics, separation costs, debt reduction demands, and the need to stabilize a narrower post-divestiture channel.
 - `Cardinal Health` is highly exposed to customer contract churn, thin-margin scale discipline, tariff pressure inside medical distribution, litigation cash demands, acquisition integration, and the financing cost of broadening its healthcare-services stack.
 - `McKesson` moves enormous healthcare volume through thin-margin, timing-sensitive systems.

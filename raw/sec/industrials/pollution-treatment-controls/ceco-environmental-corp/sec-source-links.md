@@ -32,5 +32,5 @@ Date verified: 2026-08-10
 ## Q2 2026 gap note
 
 - The correct trailing-quarter set as of `2026-08-10` should be `Q2 2026`, `Q1 2026`, and `Q4 2025`.
-- However, the SEC recent-submissions feed collected on `2026-08-10` did not yet show a `Q2 2026` Form `10-Q` or the associated earnings `8-K`.
+- However, the SEC `10-Q` Atom feed rechecked with a declared user agent at `2026-08-10 02:45 PDT` (`05:45 EDT`) still did not show a `Q2 2026` Form `10-Q`, and the official CECO IR quarter page still showed only the webcast before the scheduled `08:30 EDT` earnings call.
 - This note preserves the confirmed annual and reported-quarter SEC references while documenting the as-collected filing gap for the latest quarter.

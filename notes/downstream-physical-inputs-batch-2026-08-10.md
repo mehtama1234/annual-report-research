@@ -126,9 +126,10 @@ Current batch split:
 
 ## CECO gap note
 
-- On `2026-08-10`, CECO’s official quarterly-results page showed only a webcast link for `Q2 2026`.
+- At `2026-08-10 02:45 PDT` (`05:45 EDT`), CECO’s official quarterly-results page still showed only a webcast link for `Q2 2026`.
 - The official `2026-08-05` rescheduling release said CECO needed additional time to complete financial reporting and review processes after the Thermon acquisition, expected to release results premarket on `2026-08-10`, and still expected to timely file the Form `10-Q`.
-- The SEC recent-submissions set collected on `2026-08-10` did not yet show the `Q2 2026` `10-Q` or earnings `8-K`.
+- The scheduled earnings call on the official event page was still `2026-08-10 08:30 EDT`, so this run occurred before the stated call window rather than after a missed posting.
+- The SEC recent-submissions `10-Q` feed rechecked at the same time still did not show the `Q2 2026` `10-Q`, and the collected CECO IR pages still did not expose the latest-quarter press release, presentation, or company-hosted `10-Q`.
 - That makes the CECO packet source-complete for the annual report, `Q4 2025`, and `Q1 2026`, but only gap-scoped partial for the latest quarter.
 
 ## Next recommended names after this batch

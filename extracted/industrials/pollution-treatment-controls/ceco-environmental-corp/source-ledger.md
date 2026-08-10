@@ -35,7 +35,8 @@ Use evidence tags:
 
 - The correct trailing-quarter set as of `2026-08-10` is `Q2 2026`, `Q1 2026`, and `Q4 2025`.
 - The collected evidence set is source-complete for the `2025` annual report, `Q4 2025`, and `Q1 2026`, but only gap-scoped for `Q2 2026`.
-- The `Q2 2026` gap is not hypothetical. The official quarterly-results page showed a webcast link and the official `2026-08-05` release said CECO expected to report premarket on `2026-08-10`, yet no earnings-release PDF, presentation PDF, or SEC `10-Q` / earnings `8-K` was present in the collected source set at write time.
+- The `Q2 2026` gap is not hypothetical. The official quarterly-results page showed only a webcast link when rechecked at `2026-08-10 02:45 PDT` (`05:45 EDT`), and the scheduled call time on the official event page was still `2026-08-10 08:30 EDT`.
+- That means the latest-quarter source gap was still the correct batch state at the time of this run, rather than a missed artifact after the scheduled release window.
 - The Thermon acquisition is important context because management directly tied the reporting delay to the first combined-company quarter.
 
 ## Missing evidence

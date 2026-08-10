@@ -44,4 +44,4 @@ Date verified: 2026-08-10
 - The URLs above were verified from official CECO investor-relations pages on `2026-08-10`.
 - Local copies of the `2025` annual report, the `Q4 2025` release and presentation, the `Q1 2026` release and presentation, the `Q2 2026` event page, and the `2026-08-05` rescheduling release were saved in the current workspace.
 - The direct `Q4 2025` and `Q1 2026` release / presentation file URLs were not preserved separately during collection, so this note keeps the official quarter hub plus the direct SEC references rather than guessing stale static-file links.
-- As of collection time on `2026-08-10`, the quarterly-results page exposed a `Q2 2026` webcast link but not the corresponding earnings release PDF, presentation PDF, or company-hosted `10-Q` artifact.
+- As of `2026-08-10 02:45 PDT` (`05:45 EDT`), the quarterly-results page still exposed a `Q2 2026` webcast link but not the corresponding earnings release PDF, presentation PDF, or company-hosted `10-Q` artifact.

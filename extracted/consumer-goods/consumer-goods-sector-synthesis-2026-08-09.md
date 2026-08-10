@@ -1,6 +1,6 @@
 # Consumer Goods Sector Synthesis
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Coverage base
 
@@ -29,6 +29,8 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [Lowe's Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
 - Off-price and bargain discovery:
   - [Burlington Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-packet.md)
+- Department-store portfolio repair:
+  - [Macy's, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/department-stores/macys-inc/company-packet.md)
 - Beauty and discretionary personal products:
   - [Coty Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/coty-inc/company-packet.md)
   - [The Estee Lauder Companies Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md)
@@ -49,7 +51,7 @@ Relevant out-of-sector taxonomy outlier:
 
 ## Executive read
 
-The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the `2025` annuals and late-`2025` / `2026` quarterlies is not one simple brand-pricing story. It is a sector splitting across at least twelve different demand and earnings models:
+The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the `2025` annuals and late-`2025` / `2026` quarterlies is not one simple brand-pricing story. It is a sector splitting across at least thirteen different demand and earnings models:
 
 - everyday staples and household-care platforms
 - cleaning-disinfecting and health-hygiene transition platforms
@@ -62,6 +64,7 @@ The completed consumer-goods set supports a clear sector conclusion: `Consumer G
 - premium athletic-apparel and wellness-identity systems
 - home-improvement and built-environment demand systems
 - off-price and bargain-discovery retail systems
+- department-store portfolio-repair systems
 - beauty and discretionary personal-products portfolios with much higher execution, channel, and category sensitivity
 - packaging and container platforms that sit upstream of branded demand but still reflect consumer affordability, foodservice activity, and packaging-format economics
 - marketplace and recommerce platforms where category culture, seller supply, and advertising matter more than owned-inventory scale
@@ -78,6 +81,7 @@ The eighteen-company set already breaks into distinct economic roles:
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
 - `Colgate-Palmolive` is a routine-use oral-care and pet-nutrition platform.
 - `Church & Dwight` is a narrower routine-use household and personal-care platform with more active portfolio pruning, brand incubation, and eCommerce growth.
+- `Macy's` is a weaker-middle department-store and portfolio-repair platform where the real analytical interest sits in Bloomingdale's, Bluemercury, credit-card economics, media, marketplace, and go-forward store framing rather than in the legacy core banner alone.
 - `The Clorox Company` is a household-cleaning, disinfecting, and health-hygiene platform where margin repair, ERP modernization, and GOJO / Purell integration matter as much as basic staples demand.
 - `PepsiCo` is a broad food-and-beverage portfolio balancing affordability, convenience, and functional demand.
 - `The Campbell's Company` is a narrower pantry, meal-preparation, and at-home-cooking platform with a clearer split between stronger Meals & Beverages demand and weaker Snacks execution.

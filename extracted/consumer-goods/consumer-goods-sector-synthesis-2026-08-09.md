@@ -11,6 +11,7 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [Kimberly-Clark Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/kimberly-clark-corp/company-packet.md)
   - [Colgate-Palmolive Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/colgate-palmolive-co/company-packet.md)
   - [Church & Dwight Co. Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/cleaning-products/church-dwight-co-inc/company-packet.md)
+  - [The Clorox Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/housewares-accessories/the-clorox-company/company-packet.md)
 - Food and beverage:
   - [PepsiCo Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-packet.md)
   - [The Campbell's Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/company-packet.md)
@@ -40,9 +41,10 @@ Relevant out-of-sector taxonomy outlier:
 
 ## Executive read
 
-The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the 2025 annuals and late-2025 / 2026 quarterlies is not one simple brand-pricing story. It is a sector splitting across at least eight different demand and earnings models:
+The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the `2025` annuals and late-`2025` / `2026` quarterlies is not one simple brand-pricing story. It is a sector splitting across at least nine different demand and earnings models:
 
 - everyday staples and household-care platforms
+- cleaning-disinfecting and health-hygiene transition platforms
 - broad food and beverage portfolios shaped by affordability, convenience, and health-adjacent demand
 - affordable-treat and indulgence snacking systems
 - global routine beverage and brand-system demand
@@ -58,12 +60,13 @@ The strongest pattern is that consumer resilience is real, but it is increasingl
 
 ### 1. Consumer goods is fragmenting by category quality and value-chain position, not just by brand strength
 
-The fifteen-company set already breaks into distinct economic roles:
+The sixteen-company set already breaks into distinct economic roles:
 
 - `Procter & Gamble` is a broad daily-use and brand-superiority platform.
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
 - `Colgate-Palmolive` is a routine-use oral-care and pet-nutrition platform.
 - `Church & Dwight` is a narrower routine-use household and personal-care platform with more active portfolio pruning, brand incubation, and eCommerce growth.
+- `The Clorox Company` is a household-cleaning, disinfecting, and health-hygiene platform where margin repair, ERP modernization, and GOJO / Purell integration matter as much as basic staples demand.
 - `PepsiCo` is a broad food-and-beverage portfolio balancing affordability, convenience, and functional demand.
 - `The Campbell's Company` is a narrower pantry, meal-preparation, and at-home-cooking platform with a clearer split between stronger Meals & Beverages demand and weaker Snacks execution.
 - `The Kraft Heinz Company` is a broader center-store grocery, condiment, and meal-platform case where iconic brands still matter but legacy underinvestment, North America weakness, and active commercial reinvestment are central to the earnings read.
@@ -118,19 +121,20 @@ The local evidence suggests that price is now only one lever inside a broader co
 
 ### 3. Staples resilience is real, but it is operational rather than effortless
 
-`P&G`, `Kimberly-Clark`, `Colgate`, and `Church & Dwight` are the clearest proof.
+`P&G`, `Kimberly-Clark`, `Colgate`, `Church & Dwight`, and `Clorox` are the clearest proof.
 
 They show:
 
 - daily-use necessity still matters
 - trusted brands still support demand
 - hygiene and routine categories are relatively durable
+- cleaning and sanitation demand remains important, but can still be disrupted by system transitions and inventory timing
 - productivity savings are funding reinvestment and margin defense
 - cash generation remains strong
 
 But the tone is important. These companies do not read like they are coasting. They are working through affordability pressure, local disruptions, tariff effects, retailer concentration, and competitive intensity with active portfolio and cost management.
 
-So the correct reading is not “staples are easy again.” The better reading is that staples remain durable, but good outcomes increasingly depend on disciplined execution.
+So the correct reading is not "staples are easy again." The better reading is that staples remain durable, but good outcomes increasingly depend on disciplined execution. Clorox sharpens that point because its FY`2025` and FY`2026` materials show that even a trusted household-cleaning franchise can see the earnings profile swing materially when ERP implementation, acquisition integration, and shipment timing distort the underlying routine demand.
 
 ### 4. Beauty is the clearest proof that consumer-goods resilience is uneven
 
@@ -186,6 +190,7 @@ The current archive supports a more specific demand view than generic “consume
 - `P&G` and `Kimberly-Clark` show how care, hygiene, safety, and daily-use trust remain strong anchors.
 - `Colgate` adds science, efficacy, and professional-adjacent trust through oral care plus the recurring pet-health layer.
 - `Church & Dwight` adds a different version of the same defense: narrower category breadth, but a stronger acquisition-and-digital-refresh engine inside repeat-use household and personal-care demand.
+- `Clorox` adds the cleaning-disinfecting and professional-hygiene version of the same defense, where trusted sanitation, value, and efficacy matter but the quality of execution and systems modernization matters more than in the cleaner staples cases.
 
 This suggests that consumer-goods demand is increasingly sorting around:
 
@@ -206,7 +211,7 @@ That is a more useful reading frame than broad discretionary-versus-staples labe
 - the operating segments are `Self Care`, `Skin Health and Beauty`, and `Essential Health`
 - the quarter chain shows the real mechanism: Q4 `2025`, Q1 `2026`, and Q2 `2026` all returned to net sales growth, but performance still depends heavily on seasonal incidence, category mix, eCommerce momentum, and brand execution across need states
 
-This matters because it widens the current routine-use lane. `P&G`, `Kimberly-Clark`, `Colgate`, and `Church & Dwight` already show broad staples, hygiene, efficacy-driven care, and a narrower but more digitally active household-and-personal-care model. Kenvue adds a more explicit self-care, pain, allergy, wound-care, oral-care, and skin-health read where trust and routine matter, but so do seasonal volatility and more active consumer activation.
+This matters because it widens the current routine-use lane. `P&G`, `Kimberly-Clark`, `Colgate`, `Church & Dwight`, and `Clorox` already show broad staples, hygiene, efficacy-driven care, a narrower but more digitally active household-and-personal-care model, and a cleaning-and-sanitation-heavy transition case. Kenvue adds a more explicit self-care, pain, allergy, wound-care, oral-care, and skin-health read where trust and routine matter, but so do seasonal volatility and more active consumer activation.
 
 ### 7D. Pantry and at-home-cooking demand deserves its own necessity-led food lane
 

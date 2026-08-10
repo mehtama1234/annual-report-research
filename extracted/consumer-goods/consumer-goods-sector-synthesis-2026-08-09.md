@@ -25,6 +25,7 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [Philip Morris International](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/tobacco-products-other/philip-morris-international/company-packet.md)
 - Apparel and wellness identity:
   - [lululemon athletica inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-clothing/lululemon-athletica-inc/company-packet.md)
+  - [Levi Strauss & Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/apparel-stores/levi-strauss-co/company-packet.md)
 - Home improvement and built environment:
   - [Lowe's Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
 - Off-price and bargain discovery:
@@ -51,7 +52,7 @@ Relevant out-of-sector taxonomy outlier:
 
 ## Executive read
 
-The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the `2025` annuals and late-`2025` / `2026` quarterlies is not one simple brand-pricing story. It is a sector splitting across at least thirteen different demand and earnings models:
+The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the `2025` annuals and late-`2025` / `2026` quarterlies is not one simple brand-pricing story. It is a sector splitting across at least fourteen different demand and earnings models:
 
 - everyday staples and household-care platforms
 - cleaning-disinfecting and health-hygiene transition platforms
@@ -62,6 +63,7 @@ The completed consumer-goods set supports a clear sector conclusion: `Consumer G
 - premium spirits and alcohol-occasion systems
 - nicotine-habit and smoke-free-transition systems
 - premium athletic-apparel and wellness-identity systems
+- heritage-brand and direct-to-consumer apparel-control systems
 - home-improvement and built-environment demand systems
 - off-price and bargain-discovery retail systems
 - department-store portfolio-repair systems
@@ -75,7 +77,7 @@ The strongest pattern is that consumer resilience is real, but it is increasingl
 
 ### 1. Consumer goods is fragmenting by category quality and value-chain position, not just by brand strength
 
-The eighteen-company set already breaks into distinct economic roles:
+The nineteen-company set already breaks into distinct economic roles:
 
 - `Procter & Gamble` is a broad daily-use and brand-superiority platform.
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
@@ -93,13 +95,14 @@ The eighteen-company set already breaks into distinct economic roles:
 - `Brown-Forman` is a premium spirits and alcohol-occasion platform built on ritual, identity, route-to-market control, and brand desire, but with much higher sensitivity to softer discretionary demand and weaker category consumption.
 - `Philip Morris International` is a nicotine-habit and smoke-free-transition platform built on repeated use, switching friction, regulation, and a large-scale migration from cigarettes toward heat-not-burn, nicotine pouches, and other smoke-free formats.
 - `lululemon` is a premium athletic-apparel and wellness-identity platform built on technical product trust, community affiliation, full-price brand discipline, and international expansion, but with visible North America softness and margin pressure.
+- `Levi Strauss` is a heritage-brand and direct-to-consumer apparel-control platform built on brand recognition, DTC mix, international expansion, broader lifestyle-category reach, and better margin quality than a simple wholesale denim model would imply.
 - `Lowe's` is a home-improvement and built-environment operator sitting between consumer project demand, housing pressure, home services, and pro-oriented distribution.
 - `Burlington` is an off-price and bargain-discovery retailer built on physical traffic, opportunistic buying, branded value perception, and repeat treasure-hunt behavior.
 - `Coty` is a more stressed beauty portfolio with clear execution and category weakness.
 - `Estee Lauder` is a recovering prestige-beauty platform.
 - `Graphic Packaging` is a packaging-and-foodservice infrastructure platform sitting behind multiple branded consumer channels.
 
-This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, routine beverage systems, premium alcohol occasion systems, nicotine-transition systems, premium athletic-apparel systems, beauty exposure, home-improvement demand, off-price bargain discovery, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, value-hunt-driven, trend-sensitive, culturally activated, ritualized, addiction-linked, identity-led, or physically embedded in the delivery layer behind the shelf.
+This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, routine beverage systems, premium alcohol occasion systems, nicotine-transition systems, premium athletic-apparel systems, heritage-brand apparel-control systems, beauty exposure, home-improvement demand, off-price bargain discovery, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, value-hunt-driven, trend-sensitive, culturally activated, ritualized, addiction-linked, identity-led, brand-control-led, or physically embedded in the delivery layer behind the shelf.
 
 ### 1B. Consumer Goods also contains an off-price bargain-discovery layer
 
@@ -213,6 +216,7 @@ The current archive supports a more specific demand view than generic “consume
 - `Brown-Forman` adds the alcohol-occasion and premium-ritual side of beverage consumption, where social use, identity, gifting, and discretionary confidence matter more than daily refreshment.
 - `Philip Morris International` adds a more controversial and more behaviorally sticky consumer system where repeated nicotine use, regulation, product legitimacy, and migration into smoke-free formats matter more than ordinary beverage or household replenishment.
 - `lululemon` adds the wellness-and-performance identity side of the consumer map, where community, aspiration, technical product credibility, and premium full-price selling matter more than classic staple demand or simple mall traffic.
+- `Levi Strauss` adds the heritage-brand and broader-access apparel side of the same map, where DTC mix, international breadth, and category extension can widen the relationship even without the same premium-wellness positioning as lululemon.
 - `P&G` and `Kimberly-Clark` show how care, hygiene, safety, and daily-use trust remain strong anchors.
 - `Colgate` adds science, efficacy, and professional-adjacent trust through oral care plus the recurring pet-health layer.
 - `Church & Dwight` adds a different version of the same defense: narrower category breadth, but a stronger acquisition-and-digital-refresh engine inside repeat-use household and personal-care demand.
@@ -389,6 +393,7 @@ That means the sector’s center of gravity is moving toward:
 - portfolio and category architecture
 - global routine beverage and cultural-distribution execution
 - functional-energy and identity-driven beverage demand
+- heritage-brand control and direct-to-consumer channel ownership in apparel
 - home-improvement and built-environment exposure
 - value and premium segmentation
 - packaging and physical delivery infrastructure
@@ -403,6 +408,7 @@ The archive will likely be easiest to extend if Consumer Goods is grouped into t
 - food and beverage portfolios with value and health-adjacent demand
 - global routine beverage and brand-system platforms
 - functional-energy and performance-oriented beverage systems
+- heritage-brand and direct-to-consumer apparel-control systems
 - routine-care and pet-health systems
 - prestige beauty recovery
 - weaker or more execution-sensitive beauty exposure

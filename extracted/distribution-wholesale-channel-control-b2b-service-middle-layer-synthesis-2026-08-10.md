@@ -34,6 +34,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [AdaptHealth Corp.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-appliances-equipment/adapthealth-corp/company-packet.md)
   - [Avanos Medical, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-appliances-equipment/avanos-medical-inc/company-packet.md)
   - [Accendra Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-equipment-wholesale/accendra-health-inc/company-packet.md)
+  - [Astrana Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-equipment-wholesale/astrana-health/company-packet.md)
   - [Cardinal Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cardinal-health-inc/company-packet.md)
   - [McKesson Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/mckesson-corporation/company-packet.md)
   - [Cencora](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cencora-inc/company-packet.md)
@@ -63,13 +64,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a fifty-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a fifty-one-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current fifty completed names show fifty related but distinct middle-layer roles:
+The current fifty-one completed names show fifty-one related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -97,6 +98,7 @@ The current fifty completed names show fifty related but distinct middle-layer r
 - `AdaptHealth` controls a healthcare-at-home replenishment and referral-management layer built around sleep therapy, respiratory care, home medical equipment, consumable resupply, payor alignment, and recurring post-acute patient support.
 - `Avanos` controls a provider-facing specialty-medical-products layer built around nutrition systems, neonatal solutions, pain-management and recovery products, direct hospital selling, and third-party wholesale routing.
 - `Accendra Health` controls a narrower home-based care and direct-to-patient medical-supply channel where recurring equipment, disposable supplies, reimbursement friction, and payor concentration all shape the middle layer.
+- `Astrana Health` controls a healthcare operating layer where provider networks, delegated risk, care delivery, and care-enablement services tie institutional healthcare demand to physician workflow and payer alignment.
 - `Cardinal Health` controls larger institutional healthcare throughput across pharmaceutical and specialty solutions, medical products distribution, at-home solutions, and logistics attachment.
 - `McKesson` controls medicine flow, specialty distribution, and provider-facing healthcare infrastructure.
 - `Cencora` controls pharmaceutical channel access, provider-facing logistics, and specialty-services infrastructure.
@@ -167,6 +169,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `AdaptHealth`: keeping discharged and chronically ill patients connected to recurring home-medical equipment, oxygen and ventilation support, sleep resupply, and payor-approved replenishment outside the hospital
 - `Avanos`: keeping hospitals and provider systems supplied with enteral-feeding, neonatal, airway, and pain-management products through direct relationships and wholesale-distributor channels
 - `Accendra Health`: keeping home-based patients, payors, agencies, and prescribers connected to recurring supplies, respiratory and sleep equipment, diabetes products, and direct-to-patient replenishment
+- `Astrana Health`: keeping providers, physician groups, payers, and patients connected through delegated-risk management, care-enablement infrastructure, clinical operations, and value-based care routing
 - `Cardinal Health`: keeping hospitals, healthcare systems, pharmacies, ambulatory surgery centers, clinical laboratories, physician offices, and home patients supplied through pharmaceutical flow, medical products, and healthcare logistics attachment
 - `McKesson`: keeping pharmacies, providers, oncology practices, and health systems supplied and connected to specialty and workflow infrastructure
 - `Cencora`: keeping pharmacies, physician practices, health systems, and pharmaceutical channels supplied with medicines and specialty support services
@@ -224,6 +227,7 @@ The packets now point to the same conclusion from different directions:
 - `AdaptHealth` benefits from referral density, recurring resupply economics, large payor and capitated relationships, digital self-service, and the fact that healthcare continuity increasingly moves into the home rather than staying in acute-care settings.
 - `Avanos` benefits from direct provider access, wholesale-distributor routing, recurring clinical-use categories, and the way hospital and neonatal nutrition protocols can lock in product demand beyond a one-time capital sale.
 - `Accendra Health` benefits from direct patient-channel positioning, recurring home-based care demand, and channel continuity in non-drug supplies, but its current model is constrained by payor power, separation costs, and capital repair.
+- `Astrana Health` benefits from provider-network embeddedness, delegated-risk scale, physician alignment, and care-enablement attachment, but its AnnualReports taxonomy fit is unusual and the latest quarter still reads more like a release-first operating-system packet than a classic wholesaler filing chain.
 - `Cardinal Health` benefits from scale distribution, branded and specialty pharmaceutical throughput, medical-products exposure, at-home and logistics attachment, and the degree to which provider systems cannot tolerate replenishment failure.
 - `McKesson` benefits from scale distribution, specialty handling, and embedded provider relationships.
 - `Cencora` benefits from pharmaceutical access, specialty logistics, and provider/manufacturer embeddedness.
@@ -278,6 +282,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `AdaptHealth` is highly exposed to reimbursement complexity, patient-service execution, capitated-contract onboarding, manufacturer price changes, free-cash-flow strain, and the difficulty of turning rapid volume growth into clean margin conversion.
 - `Avanos` is highly exposed to segment mix between nutrition systems and pain-management products, transformation-savings execution, hospital procedure and protocol demand, and the fact that the pending take-private interrupted how far the public quarter chain ran by Monday, `2026-08-10`.
 - `Accendra Health` is highly exposed to commercial payor exits, reimbursement complexity, equipment deployment economics, separation costs, debt reduction demands, and the need to stabilize a narrower post-divestiture channel.
+- `Astrana Health` is highly exposed to payer dynamics, medical-cost execution, integration discipline, delegated-risk performance, and the challenge of proving that healthcare operating-system scale can stay profitable while expanding geographically.
 - `Cardinal Health` is highly exposed to customer contract churn, thin-margin scale discipline, tariff pressure inside medical distribution, litigation cash demands, acquisition integration, and the financing cost of broadening its healthcare-services stack.
 - `McKesson` moves enormous healthcare volume through thin-margin, timing-sensitive systems.
 - `Cencora` faces similar healthcare working-capital and reimbursement sensitivity, but with more visible specialty and services attachment.
@@ -327,6 +332,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Thermo Fisher`: technology as analytical instruments, diagnostics systems, scientific workflow infrastructure, operating productivity tools, and lab-and-bioproduction support rather than as a standalone software product
 - `AdaptHealth`: technology as digital patient engagement, app-led resupply, self-service equipment workflow, and home-based care coordination rather than as a pure software revenue line
 - `Accendra Health`: technology as claims, ordering, reimbursement, and direct-to-patient workflow support inside home-based care rather than as a stand-alone software story
+- `Astrana Health`: technology as care-enablement infrastructure, physician-network operating system, and payer-provider coordination layer rather than as a stand-alone software story
 - `Cardinal Health`: technology as part of specialty access, provider throughput, at-home coordination, and logistics workflow rather than as a stand-alone product
 - `McKesson`: technology as part of prescription, specialty, and provider workflow infrastructure
 - `Cencora`: technology as part of market access, provider support, and specialty-services coordination

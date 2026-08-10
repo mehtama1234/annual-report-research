@@ -1,6 +1,6 @@
 # ABM Industries, Inc.
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -55,6 +55,11 @@ Date baseline: 2026-08-08
 - Datacenter and battery-storage demand: Q2 `2026` explicitly ties ATS growth to battery energy storage systems and datacenter-related services. That makes ABM a useful bridge inside the industrial set because it connects technical facilities work to the same AI and power-buildout chain that also benefits Caterpillar, Eaton, and Trane.
 - Aviation and transport exposure: Aviation grew `7%` in Q4 `2025`, `10%` in Q1 `2026`, and `20%` in Q2 `2026`. Management tied the Q2 ramp to healthy domestic air travel and new contract wins including London Heathrow. This adds an airport-operations and transportation-infrastructure layer to the archive.
 - Management tone: constructive but operationally specific. Management repeatedly points to bookings, backlog, service mix, cost savings, pricing actions, and volume timing rather than broad macro optimism.
+
+## Working interpretation
+
+- ABM is one of the better archive examples of how recurring physical-economy demand often hides in outsourced operations rather than in hardware or construction alone. Airports, logistics sites, schools, semiconductor environments, and datacenter-adjacent facilities all need labor-heavy, always-on support.
+- The deeper pattern is that technical complexity is widening what a facilities operator can be. ABM is no longer just a low-end outsourcing read; it is also a window into how mission-critical operating environments create demand for recurring engineering and technical-services capability.
 
 ## Open questions
 

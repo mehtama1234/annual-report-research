@@ -1,0 +1,33 @@
+# Source Ledger
+
+Date baseline: 2026-08-10
+
+## Sources
+
+| ID | Source | Date | Type | Why it matters | Tag | Local path |
+|---|---|---|---|---|---|---|
+| BDX-T1 | AnnualReports company page | 2026-08-10 | Aggregator page | Confirms `Healthcare / Medical Instruments & Supplies` taxonomy and the broad company description spanning providers, labs, and medical-technology workflow | `[Reported]` | [company-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/healthcare/medical-instruments-supplies/becton-dickinson-and-company/company-page.html) |
+| BDX-T2 | AnnualReports verification note | 2026-08-10 | Verification note | Normalizes the taxonomy and current-annual observation into repo format | `[Reported]` | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/healthcare/medical-instruments-supplies/becton-dickinson-and-company/annualreports-verification.md) |
+| BDX-T3 | SEC source-links note | 2026-08-10 | SEC filing URL ledger | Preserves the exact annual and quarter filing URLs used for the packet | `[Filed]` | [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/sec-source-links.md) |
+| BDX-T4 | SEC submissions JSON | 2026-08-10 collected | SEC metadata JSON | Verifies filing dates, accession numbers, and the latest three reported quarters as of `2026-08-10` | `[Filed]` | [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/sec-submissions.json) |
+| BDX-T5 | BD `2025` annual report PDF | 2025-12-18 filed / 2026-08-10 collected | SEC ARS PDF | Official annual report artifact for fiscal `2025` | `[Filed]` | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/2025-annual-report.pdf) |
+| BDX-T6 | BD `2025` Form `10-K` | 2025-11-25 filed / 2026-08-10 collected | SEC filing HTML | Filed annual report for fiscal `2025` and the best source for segment framing before the Waters transaction closes | `[Filed]` | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/2025-10k.html) |
+| BDX-T7 | BD `Q3 FY2026` earnings-release exhibit | 2026-08-06 filed / 2026-08-10 collected | SEC exhibit HTML | Gives the latest reported quarter headline numbers, continuing-operations framing, and current business-unit performance | `[Filed]` | [2026-q3-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/2026-q3-results-release.html) |
+| BDX-T8 | BD `Q3 FY2026` earnings `8-K` | 2026-08-06 filed / 2026-08-10 collected | SEC filing HTML | Filing wrapper for the latest reported quarter release | `[Filed]` | [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/2026-q3-8k.html) |
+| BDX-T9 | BD `Q3 FY2026` Form `10-Q` | 2026-08-06 filed / 2026-08-10 collected | SEC filing HTML | Filed quarterly report for the quarter ended `2026-06-30` | `[Filed]` | [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/2026-q3-10q.html) |
+| BDX-T10 | BD `Q2 FY2026` earnings-release exhibit | 2026-05-07 filed / 2026-08-10 collected | SEC exhibit HTML | Gives the post-spin quarter headline numbers and execution commentary for continuing operations | `[Filed]` | [2026-q2-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/2026-q2-results-release.html) |
+| BDX-T11 | BD `Q2 FY2026` earnings `8-K` | 2026-05-07 filed / 2026-08-10 collected | SEC filing HTML | Filing wrapper for the second-quarter release | `[Filed]` | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/2026-q2-8k.html) |
+| BDX-T12 | BD `Q2 FY2026` Form `10-Q` | 2026-05-07 filed / 2026-08-10 collected | SEC filing HTML | Filed quarterly report for the quarter ended `2026-03-31` | `[Filed]` | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/2026-q2-10q.html) |
+| BDX-T13 | BD `Q1 FY2026` earnings-release exhibit | 2026-02-09 filed / 2026-08-10 collected | SEC exhibit HTML | Gives the first post-transaction quarter headline numbers and the clearest Waters-transition framing | `[Filed]` | [2026-q1-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/2026-q1-results-release.html) |
+| BDX-T14 | BD `Q1 FY2026` earnings `8-K` | 2026-02-09 filed / 2026-08-10 collected | SEC filing HTML | Filing wrapper for the first-quarter release | `[Filed]` | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/2026-q1-8k.html) |
+| BDX-T15 | BD `Q1 FY2026` Form `10-Q` | 2026-02-09 filed / 2026-08-10 collected | SEC filing HTML | Filed quarterly report for the quarter ended `2025-12-31` | `[Filed]` | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/becton-dickinson-and-company/2026-q1-10q.html) |
+
+## Reconciliation notes
+
+- BD has a coherent annual-plus-quarter filing chain for the required `2025` annual package and the latest three reported quarters as of Monday, `2026-08-10`.
+- The filing and quarter commentary need to be read with the transaction timing in mind. The `2025` annual report still covers the older segment structure, while `Q1 FY2026` onward recasts the former Biosciences and Diagnostic Solutions business as discontinued operations after the Waters combination closes on Monday, `2026-02-09`.
+
+## Missing evidence
+
+- No local earnings-call transcript artifacts are saved.
+- No separately mirrored official IR HTML stack is saved locally beyond the SEC-hosted materials.

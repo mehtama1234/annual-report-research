@@ -35,6 +35,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Avanos Medical, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-appliances-equipment/avanos-medical-inc/company-packet.md)
   - [Accendra Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-equipment-wholesale/accendra-health-inc/company-packet.md)
   - [Astrana Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-equipment-wholesale/astrana-health/company-packet.md)
+  - [ICU Medical, Incorporated](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-equipment-wholesale/icu-medical-incorporated/company-packet.md)
   - [Cardinal Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cardinal-health-inc/company-packet.md)
   - [McKesson Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/mckesson-corporation/company-packet.md)
   - [Cencora](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cencora-inc/company-packet.md)
@@ -64,13 +65,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a fifty-one-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a fifty-three-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current fifty-one completed names show fifty-one related but distinct middle-layer roles:
+The current fifty-three completed names show fifty-three related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -99,6 +100,7 @@ The current fifty-one completed names show fifty-one related but distinct middle
 - `Avanos` controls a provider-facing specialty-medical-products layer built around nutrition systems, neonatal solutions, pain-management and recovery products, direct hospital selling, and third-party wholesale routing.
 - `Accendra Health` controls a narrower home-based care and direct-to-patient medical-supply channel where recurring equipment, disposable supplies, reimbursement friction, and payor concentration all shape the middle layer.
 - `Astrana Health` controls a healthcare operating layer where provider networks, delegated risk, care delivery, and care-enablement services tie institutional healthcare demand to physician workflow and payer alignment.
+- `ICU Medical` controls a provider-facing infusion and critical-care product layer where systems placements, recurring consumables, direct sales, and distributor reach tie hospital and alternate-site clinical workflow to recurring product dependence.
 - `Cardinal Health` controls larger institutional healthcare throughput across pharmaceutical and specialty solutions, medical products distribution, at-home solutions, and logistics attachment.
 - `McKesson` controls medicine flow, specialty distribution, and provider-facing healthcare infrastructure.
 - `Cencora` controls pharmaceutical channel access, provider-facing logistics, and specialty-services infrastructure.
@@ -170,6 +172,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Avanos`: keeping hospitals and provider systems supplied with enteral-feeding, neonatal, airway, and pain-management products through direct relationships and wholesale-distributor channels
 - `Accendra Health`: keeping home-based patients, payors, agencies, and prescribers connected to recurring supplies, respiratory and sleep equipment, diabetes products, and direct-to-patient replenishment
 - `Astrana Health`: keeping providers, physician groups, payers, and patients connected through delegated-risk management, care-enablement infrastructure, clinical operations, and value-based care routing
+- `ICU Medical`: keeping hospitals, alternate sites, home-care workflows, and distributors connected to infusion systems, IV consumables, critical-care products, and recurring clinical-use supply continuity
 - `Cardinal Health`: keeping hospitals, healthcare systems, pharmacies, ambulatory surgery centers, clinical laboratories, physician offices, and home patients supplied through pharmaceutical flow, medical products, and healthcare logistics attachment
 - `McKesson`: keeping pharmacies, providers, oncology practices, and health systems supplied and connected to specialty and workflow infrastructure
 - `Cencora`: keeping pharmacies, physician practices, health systems, and pharmaceutical channels supplied with medicines and specialty support services

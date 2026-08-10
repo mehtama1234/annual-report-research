@@ -1,37 +1,124 @@
-# Blind-Spot Expansion Queue
+# Blind Spot Expansion Queue
 
 Date baseline: 2026-08-10
 
-This queue defines the work that belongs to the thread covering the areas `AnnualReports` does not classify well.
+This queue defines the work that should be owned by the thread covering the areas that `AnnualReports` does not handle well.
 
-Use it with:
+It is intentionally different from ordinary sector packetization work.
 
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
-- [Blind-Spot Thread Charter](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-thread-charter-2026-08-10.md)
-- [Blind-Spot Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-systems-index-2026-08-10.md)
+Related memo:
+
+- [AnnualReports Noncovered Assignment Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
+- [AnnualReports Noncovered Company Claim Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
+- [AnnualReports Noncovered Areas Priority Map](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md)
 - [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Infrastructure Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
-- [Consumer-Behavior Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
+- [Blind-Spot Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-systems-index-2026-08-10.md)
+- [Blind-Spot Thread Charter](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-thread-charter-2026-08-10.md)
+- [Blind-Spot Coverage Map](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-coverage-map-2026-08-10.md)
+- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
+- [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md)
+- [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
+- [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md)
+- [Fandom, Play, and Participation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
+- [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
+- [Loyalty Wallet Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/loyalty-wallet-systems-index-2026-08-10.md)
+- [Local-Demand Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/local-demand-coordination-systems-2026-08-10.md)
+- [Marketplace And Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
+- [Owned-Demand Identity Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
+- [Beauty, Identity, and Prestige Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md)
+- [Comfort, Casualization, and Practical-Wellness Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
+- [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- [Routine-Use Trust and Everyday-Care Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md)
+- [Ritual, Occasion, and Stimulation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
+- [Value-Hunt and Bargain-Discovery Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md)
+- [Trust Marketplace Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/trust-marketplace-systems-2026-08-10.md)
+- [Thick vs. Thin Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
+- [Mid-Thickness Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/mid-thickness-relationship-systems-2026-08-10.md)
+- [Relationship Thickness Index](/home/manishmehta/ui-projects/annual-report-research/indexes/relationship-thickness-index-2026-08-10.md)
+- [Relationship-System Migration Paths](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/relationship-system-migration-paths-2026-08-10.md)
+- [Recurring Attention Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/recurring-attention-systems-index-2026-08-10.md)
 
-## Core rule
+## Purpose
 
-This queue is not for every uncovered company.
+Other threads can continue expanding standard sector and industry coverage.
 
-It is for systems that remain under-explained even if the normal sector threads finish their packet work.
+This thread should instead build the correction layer that the source taxonomy cannot provide.
+
+The goal is to make the archive stronger in:
+
+- consumer behavior
+- cultural and societal pattern detection
+- business-model comparison
+- cross-sector mapping
+- modern retail and platform logic
 
 Selection rule:
 
-- do not take a name just because a source industry page is thin, stale, or awkward
-- do take a name when it materially sharpens a blind spot in consumer behavior, business-model structure, hidden infrastructure, or cross-sector system logic
-- prefer reuse of existing comparisons and syntheses over generic packet accumulation
+- if a target mainly fills a normal sector gap, another thread should take it
+- if a target strengthens a cross-sector pattern that `AnnualReports` hides, this thread should take it
 
-## Default owned lanes
+Practical interpretation:
 
-The strongest default first-claim lanes for this thread are:
+- this queue is not for every uncovered public company
+- this queue is for the areas that still remain under-explained even if the normal sector threads finish their work
 
-1. behind-the-shelf consumer infrastructure
-2. control-layer and connectivity infrastructure
-3. hidden connectivity and access-layer ownership
+Use the queue as an exclusion filter:
+
+- do not take a name just because its `AnnualReports` industry page is thin
+- do take a name when it helps explain a system the site does not really classify
+- prefer synthesis work over incremental packet sprawl once a lane already has enough anchors
+
+Inside the mature infrastructure lanes, use the matching extension shortlist before taking another company so the next move is reuse-first and subtype-opening rather than generic packet accumulation.
+
+## Claimed territory for this thread
+
+The company types and themes below should be treated as primary claim areas for this thread, because they are weakly handled by the source taxonomy.
+
+### 1. Behavior-system anchors
+
+Claim companies that strengthen one of these lanes:
+
+- comfort and casualization
+- value-hunt and bargain discovery
+- routine-use trust and replenishment
+- beauty, fit, and self-presentation
+- premium ritual and occasion spending
+- fandom, play, and collectible identity
+- practical health and wellness signaling
+- recurring attention, cultural-distribution, and paid versus ad-funded habit formation
+- control-layer and connectivity infrastructure
+- hidden connectivity and access-layer infrastructure
+- physical execution and embedded workflow systems
+
+### 2. Business-model anchors
+
+Claim companies that make one of these distinctions clearer:
+
+- DTC control versus wholesale or distributor dependence
+- marketplace versus owned-inventory economics
+- membership or loyalty wallet systems
+- advertising, seller-services, or licensing as second monetization layers
+- ecosystem control across product, services, subscriptions, and ads
+
+### 3. Taxonomy-breaker anchors
+
+Claim companies whose `AnnualReports` classification is materially less useful than their operating reality.
+
+Examples already visible in the repo:
+
+- `Airbnb`
+- `eBay`
+- `Birkenstock`
+- `Kenvue`
+- `Carnival`
+
+## Current claim list
+
+These are the best next-addition types for this thread, in order of fit:
+
+1. behind-the-shelf consumer infrastructure and packaging-linked systems
+2. control-layer and connectivity infrastructure systems
+3. hidden connectivity and access-layer systems
 4. physical execution and embedded workflow systems
 5. everything outside those four core infrastructure lanes only when the subtype gain is clearly stronger than the current infrastructure-lane opportunities
 
@@ -46,8 +133,8 @@ To avoid overlap with the ordinary sector threads, this queue should treat the n
 
 1. cross-sector infrastructure comparison using existing `Graphic Packaging`, `Waste Management`, `Clearwater Paper`, and `CECO Environmental` coverage
    - default to reuse of the current five direct behind-the-shelf comparison outputs before taking another name in this lane
-2. maintain and extend the control-layer and connectivity lane across `Cloudflare`, `Akamai`, `Cisco`, `Arista Networks`, `Palo Alto Networks`, `Ciena`, `CommScope`, and `Corning` only when another name adds a genuinely different edge-control, delivery-transition, installed-base enterprise-networking, architecture-specialist AI networking, enterprise-trust, optical-transport, downstream connectivity-equipment, or optical-input structure
-3. maintain and extend the hidden-connectivity and access-layer lane across `American Tower`, `Crown Castle`, `SBA Communications`, `Cogent`, `Lumen Technologies`, `Iridium`, and `Viasat` only when another name adds a genuinely different tower-rent, stricter private-fiber ownership, terrestrial backbone-ownership, satellite-resilience, bandwidth-heavy orbital, or private-infrastructure structure
+2. maintain and extend the control-layer and connectivity lane across `Cloudflare`, `Akamai`, `Cisco`, `Palo Alto Networks`, `Ciena`, `CommScope`, and `Corning` only when another name adds a genuinely different edge-control, delivery-transition, enterprise-trust, optical-transport, downstream connectivity-equipment, or optical-input structure
+3. maintain and extend the hidden-connectivity and access-layer lane across `American Tower`, `Crown Castle`, `SBA Communications`, `Cogent`, `Iridium`, and `Viasat` only when another name adds a genuinely different tower-rent, stricter private-fiber ownership, satellite-resilience, bandwidth-heavy orbital, or private-infrastructure structure
 4. maintain and extend the physical-execution and embedded-workflow lane across `United Rentals`, `Fastenal`, `Ferguson`, `WESCO`, `Applied Industrial Technologies`, and `Core & Main` only when another name adds a genuinely different access-over-ownership, embedded procurement, branch-density service, engineering-heavy MRO, or civic-failure-response structure
 5. outer-lane work such as marketplace, travel-interface, delivery-layer, recurring attention, owned-demand, retail-system, beauty, ritual, value-hunt, fandom, routine-use, comfort, and modern built-environment synthesis only when the subtype gain is clearly stronger than the current infrastructure-lane opportunities
 
@@ -134,17 +221,14 @@ Current status:
 Core anchor names already in the repo:
 
 - `Cloudflare`
-- `Akamai`
 - `Cisco`
-- `Arista Networks`
 - `Palo Alto Networks`
 - `Ciena`
-- `CommScope`
 - `Corning`
 
 Next-step implication:
 
-- prefer additions only when they sharpen edge control, delivery-transition, installed-base enterprise networking, architecture-specialist AI networking, enterprise trust, optical transport, downstream connectivity-equipment exposure, or optical-input supply rather than another generic networking or software packet
+- prefer additions only when they sharpen edge control, enterprise trust, optical transport, or optical-input supply rather than another generic networking or software packet
 
 ### 3. Maintain and extend the consumer-behavior and cultural-pattern map
 
@@ -319,31 +403,21 @@ Deliverable:
 
 Next-step implication:
 
-Everything outside those four lanes remains valid, but it should usually be conditional rather than default first-claim work.
+- prefer additions that expose a clearer mismatch between source classification and operating reality rather than another name whose old industry label is merely imperfect
 
-## Immediate queue
+## Avoidance list
 
-1. Reuse and tighten the behind-the-shelf infrastructure lane, especially the packaging, waste, and plant-embedded environmental splits already in the archive.
-2. Reuse and tighten the control-layer lane only when another name adds a genuinely different edge-control, network-architecture, cyber-governance, transport, or optical-input structure.
-3. Reuse and tighten the hidden-connectivity lane only when another name adds a genuinely different tower-rent, fiber-ownership, route-density, resilient satellite, or bandwidth-heavy orbital structure.
-4. Reuse and tighten the physical-execution lane only when another name adds a genuinely different access-over-ownership, procurement embedment, branch-density contractor service, engineering-heavy uptime, or civic-failure-response structure.
-5. Extend outer lanes only when the subtype gain is clearly stronger than the current infrastructure-lane opportunities.
+This thread should usually avoid:
 
-## Conditional outer lanes
+- plain sector completion work
+- routine packetization with no cross-sector angle
+- near-duplicate company additions that merely confirm an already-strong pattern
+- additions chosen only because the filings are easy to fetch
 
-These remain part of the blind-spot mandate, but should usually be second-order work:
+## Working rule
 
-- retail system logic
-- marketplace and trust-marketplace systems
-- local-demand coordination
-- recurring attention and cultural-distribution systems
-- DTC control and relationship ownership
-- loyalty, wallet, and membership systems
-- value-hunt and bargain-discovery systems
-- beauty, identity, and prestige systems
-- fandom, play, and participation systems
-- comfort, casualization, and practical-wellness systems
+When this thread adds a company, it should do so only if that company materially improves one of the blind-spot systems above.
 
-## Guardrail
+The goal here is not broad coverage for its own sake.
 
-If a candidate is better explained by its formal sector or industry page than by a blind-spot system memo, another thread should own it.
+The goal is to make the archive better at explaining the parts of the economy that the `AnnualReports` browse tree does not explain well on its own.

@@ -1,6 +1,6 @@
 # Dycom Industries Inc.
 
-Date baseline: 2026-08-10
+Date baseline: 2026-08-09
 
 ## Identity
 
@@ -56,11 +56,6 @@ Date baseline: 2026-08-10
 - The demand story is no longer just fiber-to-the-home. Management repeatedly tied growth to long-haul and middle-mile fiber, hyperscaler fiber infrastructure, data-center builds, and inside-the-rack and inside-the-facility cabling through National Technology Integrators.
 - The annual package shows a concentrated but scaled platform. Dycom says it is made up of `40` operating companies serving customers across all `50` states from hundreds of field offices, and fiscal `2025` revenue was still concentrated in a handful of communications customers, including `AT&T` at about `20.1%` and `Lumen` at about `12.1%`.
 - The business remains labor and execution heavy. Management commentary repeatedly emphasizes skilled workforce availability, customer willingness to extend contract durations to secure capacity, and Dycom's advantage in geographic breadth and complex project execution.
-
-## Working interpretation
-
-- Dycom is one of the archive's clearest demonstrations that the connectivity buildout is a field-labor and route-execution story, not just a software, cloud, or chip story.
-- The most important recurring pattern is that digital demand widens the physical network stack in both directions: outside plant through long-haul and access fiber, and inside plant through structured cabling and mission-critical facility work.
 
 ## Open questions
 

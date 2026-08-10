@@ -61,14 +61,11 @@ Requirement:
 
 - the queue, priority roster, claim roster, and take-don't-take note must not contradict each other on default first-claim work
 - markdown and CSV queue logic must agree
-- markdown and CSV no-overlap logic must agree
 
 Evidence:
 
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.md`
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv`
-- `indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md`
-- `indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.csv`
 - `indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md`
 - `indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md`
 - `notes/blind-spot-take-dont-take-roster-2026-08-10.md`
@@ -99,7 +96,6 @@ Result:
 Requirement:
 
 - a new worker must be able to start from the handoff, quickstart, notes index, and status audit without reconstructing the lane boundary
-- those startup notes must also consistently default the next move toward research extension unless a real contradiction appears
 
 Evidence:
 
@@ -118,15 +114,11 @@ Requirement:
 
 - the blind-spot lane must route work through consumer-behavior or infrastructure cores first
 - mature infrastructure lanes must have shortlist files that prevent generic backfill
-- the markdown and CSV system-index layer must point at the same live infrastructure anchor sets and next-move logic
 
 Evidence:
 
 - `extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md`
 - `extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md`
-A final contradiction sweep across the active blind-spot control and handoff layer did not surface any remaining assignment-changing conflicts in the current repo state.
-- `indexes/blind-spot-systems-index-2026-08-10.md`
-- `indexes/blind-spot-systems-index-2026-08-10.csv`
 - `indexes/behind-the-shelf-extension-shortlist-2026-08-10.md`
 - `indexes/control-layer-extension-shortlist-2026-08-10.md`
 - `indexes/hidden-connectivity-extension-shortlist-2026-08-10.md`
@@ -142,25 +134,20 @@ Requirement:
 
 - thin, stale, awkward, sparse, or incomplete browse-tree page quality must not count as a claim reason by itself
 
-That sweep covered:
+Evidence:
 
-- top-level blind-spot ownership and mandate files
-- company-claim, assignment-queue, and no-overlap controls in both markdown and CSV
-- blind-spot handoff, status, wrap-up, candidate, and next-action notes
-- the infrastructure-core synthesis memo and related higher-level blind-spot maps
+- `indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md`
+- `indexes/annualreports-noncovered-ownership-rule-2026-08-10.md`
+- `indexes/annualreports-noncovered-take-leave-protocol-2026-08-10.md`
+- `indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md`
 
-The remaining open items are therefore better understood as selective research choices or optional wording polish, not unresolved lane-boundary drift.
+Result:
 
-A final contradiction sweep across the active blind-spot control and handoff layer did not surface any remaining assignment-changing conflicts in the current repo state.
+- proven complete for practical use
 
-That sweep covered:
+## Audit conclusion
 
-- top-level blind-spot ownership and mandate files
-- company-claim, assignment-queue, and no-overlap controls in both markdown and CSV
-- blind-spot handoff, status, wrap-up, candidate, and next-action notes
-- the infrastructure-core synthesis memo and related higher-level blind-spot maps
-
-The remaining open items are therefore better understood as selective research choices or optional wording polish, not unresolved lane-boundary drift.
+The blind-spot framework layer is effectively complete for practical use.
 
 That means:
 

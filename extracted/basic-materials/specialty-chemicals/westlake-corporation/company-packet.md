@@ -1,4 +1,4 @@
-# Westlake Corporation Packet
+# Westlake Corporation Company Packet
 
 Date baseline: 2026-08-10
 
@@ -15,74 +15,77 @@ Date baseline: 2026-08-10
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
 
-## Why this name matters
-
-- Westlake is the cleanest next comparison after Vulcan because it shifts the lane from local heavy materials into conversion chemistry, PVC, chlorovinyls, building products, compounds, and pipe.
-- It also adds an important structural pattern for the archive: physical-input businesses are not all driven by the same mechanism. Vulcan depends on freight-local scarcity and public-works tonnage. Westlake depends much more on feedstock position, product integration, housing and repair demand, infrastructure pipe demand, and the volatility of chemical pricing.
-
 ## Annual report takeaways
 
-- Westlake’s `2025` annual report makes its economic role explicit. It supplies building blocks for housing and infrastructure, packaging and healthcare, and automotive and consumer goods. That gives the archive a broader physical-inputs read than a plain chemical-cycle case.
-- The most important annual theme is reset, not growth. Management spent `2025` optimizing the `Performance and Essential Materials` footprint, shutting unprofitable PEM facilities, pushing structural cost reductions, and trying to reposition the company for a stronger `2026`.
-- The annual report says the three-pillar strategy is expected to improve EBITDA by about `$600M` in `2026`, and management also highlighted more than `$170M` of structural cost reductions delivered in `2025`.
-- The company emphasized financial discipline despite the weak operating year, including roughly `$335M` returned to shareholders through dividends and repurchases and about `$2.0B` of cash, cash equivalents, and fixed-income investments at `2025-12-31`.
-- This is not just a cost-cutting story. The annual report also points to manufacturing integration, including the Geismar VCM expansion, and to Westlake’s globally advantaged North American feedstock and energy position.
+- Westlake adds a much more physical and downstream-heavy chemicals packet than the industry label suggests. This is a PVC, chlor-alkali, polyethylene, pipe, fittings, siding, and infrastructure-products system sitting between commodity chains and the built environment.
+- The full-year `2025` read was weak on a reported basis. In the full-year results release tied to the `2025` annual filing, Westlake said net sales were `$11.2 billion`, net loss was `($116 million)`, and loss from operations was `($186 million)`, down sharply from `2024` because PEM pricing, volume, and feedstock costs all moved the wrong way.
+- The operating split is central:
+  - `Housing and Infrastructure Products (HIP)` ties the company to construction, repair, water systems, pipe, fittings, siding, compounds, and infrastructure demand
+  - `Performance and Essential Materials (PEM)` ties the company to chlor-alkali, PVC resin, polyethylene, epoxy, caustic soda, export markets, feedstock costs, and global cost-curve behavior
+- The full-year `2025` segment split shows why the packet matters. Westlake said HIP net sales were `$4.1 billion` and income from operations was `$603 million`, while PEM net sales were `$7.0 billion` and loss from operations was `($724 million)`. That is not just a chemicals spread story. It is a company with one construction-and-products leg and one cyclical commodity-materials leg.
+- `2025` also became a footprint-reset year. Westlake said fourth-quarter results included charges tied to shutting three North American chlorovinyls plants and one styrene plant, plus the Pernis shutdown, and management framed `2026` around a targeted `$600 million` PEM EBITDA improvement plan.
+- This makes Westlake a better heavy-input packet than a generic specialty-chemicals name because it sits at the intersection of downstream infrastructure products, housing affordability, European and North American chlorovinyl positioning, and feedstock-driven commodity swings.
 
 ## Quarter-by-quarter takeaways
 
-### Most recent quarter: Q2 2026
+### Most recent quarter
 
-- Sales rose to about `$3.271B`, and EBITDA rose sharply to about `$679M`, with the biggest improvement coming from the `Performance and Essential Materials` segment.
-- The clearest rebound driver was pricing. The `Q2 2026` presentation said higher global oil prices linked to the Middle East conflict lifted average sales prices, especially for polyethylene and PVC resin.
-- `Housing and Infrastructure Products` was steadier than the chemical side. HIP EBITDA was about `$276M`, supported by strong pipe and fittings demand and infrastructure volume growth even as transportation and raw-material inflation continued.
-- The quarter also matters because it shows what “improvement plan” means in practice. Management said the three-pillar profitability program delivered roughly `$150M` of year-over-year EBITDA benefit in `Q2 2026` alone.
-- This is the industrial pattern to keep: Westlake’s rebound can happen very fast when pricing improves, but the rebound is not purely cyclical luck. It is being amplified by closures, cost actions, product integration, and a healthier product mix.
+- Results: `Q2 2026` net sales were `$3.271 billion`, net income was `$260 million`, diluted EPS was `$2.01`, and EBITDA was `$679 million`.
+- Business read: this was the cleanest rebound quarter in the packet. Management said results benefited from a higher average sales price in PEM, higher HIP sales volume, and the three-pillar profitability-improvement plan.
+- PEM read: Westlake said PEM income from operations was `$185 million` versus a prior-year loss from operations of `($188 million)`. Performance Materials sales rose by `$214 million` and Essential Materials sales rose by `$12 million`, with the improvement tied to better polyethylene and PVC resin pricing plus lower North American natural-gas costs.
+- HIP read: HIP income from operations was `$212 million`, down `$10 million` year over year, but Housing Products sales rose to about `$1.0 billion` and Infrastructure Products sales rose to `$241 million`, helped by stronger pipe and fittings demand and the `January 2026` `ACI` acquisition.
+- Macro and capital read: management tied the PEM rebound partly to logistical disruption in the `Strait of Hormuz` and highlighted that slower homebuilding from affordability pressure was being offset by North American infrastructure investment. Westlake also returned to free-cash-flow generation, generated `$318 million` of operating cash flow against `$207 million` of capex, reduced debt by `$500 million`, redeemed the remaining roughly `$500 million` of `3.60%` notes due `2026`, and replaced its revolver with a new `$1.5 billion` facility expiring in `2031`.
 
-### Quarter minus 1: Q1 2026
+### Quarter minus 1
 
-- `Q1 2026` still looked weak. Net sales were `$2.652B`, net loss attributable to Westlake was `($169M)`, and EBITDA was about `$150M`.
-- HIP remained profitable but weaker year over year. HIP income from operations fell to `$56M`, hurt by lower average sales price and margins, particularly in pipe and fittings, plus lower building-products sales volume.
-- The company also took a `$67M` litigation charge tied to direct purchasers of PVC pipe and fittings, which is a reminder that market structure and channel practices in physical building products can carry legal and pricing risk alongside ordinary demand risk.
-- PEM remained the bigger problem area, but it improved sequentially from `Q4 2025`. The company pointed to a higher average sales price, especially for polyethylene, as the main reason the quarter was less bad than the prior quarter.
+- Results: `Q1 2026` net sales were `$2.652 billion`, net loss was `($100 million)`, diluted EPS was `($0.77)`, and EBITDA was `$235 million`.
+- Business read: this was still a transition quarter, with weaker reported profitability but a clearer internal repair plan. Management said the quarter included a `$67 million` litigation settlement with direct purchasers in PVC pipe and fittings and `$18 million` of shutdown charges.
+- HIP read: affordability pressure was visible here. Westlake said slower homebuilding remained a headwind, but also highlighted support from infrastructure spending and demand tied to data-center and infrastructure buildout.
+- PEM read: management said PVC resin and polyethylene prices had improved since the closure of the `Strait of Hormuz`, and that the three-pillar plan plus lower North American gas costs should help PEM through at least the summer of `2026`.
+- Cash and balance-sheet read: the quarter used `$94 million` of operating cash and spent `$209 million` on capex. Westlake ended `Q1 2026` with about `$2.5 billion` of cash, cash equivalents, and fixed-income investments and about `$5.6 billion` of total debt.
 
-### Quarter minus 2: Q4 2025
+### Quarter minus 2
 
-- `Q4 2025` and full-year `2025` are the reset point. Full-year net sales were `$11.170B`, and net loss attributable to Westlake was `($1.508B)`.
-- The quarter and year were hit by plant shutdowns, restructuring, and a major goodwill impairment in the North American chlorovinyls reporting unit.
-- Management framed `2025` as a year of meaningful but painful actions: optimize footprint, improve reliability, and structurally reduce costs to support earnings improvement in `2026`.
-- Excluding identified items, the business still looked weak. That matters because it means the `2026` rebound cannot be read only as a normalization from accounting charges. The underlying chemical and product markets were also under pressure.
+- Results: `Q4 2025` net sales were `$2.533 billion`, net loss was `($544 million)`, diluted EPS was `($4.22)`, and EBITDA was `($315 million)`.
+- Business read: this is the trough and reset quarter. Westlake said earnings were hit by `$393 million` of charges related to the shutdown of three North American chlorovinyls plants and one styrene plant, `$102 million` of accrued expenses related to the Pernis shutdown, and `$16 million` of restructuring expenses in HIP.
+- Excluding identified items, management said fourth-quarter net loss would have been `($33 million)` and EBITDA would have been `$196 million`, which is a much cleaner picture of the ongoing business than the GAAP headline alone.
+- HIP read: HIP income from operations was `$82 million`, down `$47 million` year over year, mainly because of lower sales volume and lower margins.
+- PEM read: PEM loss from operations was `($222 million)` and the full-year PEM sales base fell to `$7.0 billion`, with management pointing to lower chlorine, polyethylene, and PVC resin pricing plus lower sales volume and higher feedstock and energy costs.
+- Cash read: even in the reset quarter, Westlake produced `$225 million` of operating cash flow, spent `$241 million` on capex, and ended the year with `$2.9 billion` of cash, cash equivalents, and fixed-income investments against `$5.6 billion` of total debt.
 
-## Consumer, cultural, and societal interpretation
+## Signals to feed into higher-level analysis
 
-- Westlake is upstream from the consumer, but it feeds daily-life systems more directly than a generic chemical label implies. Housing products, pipe and fittings, compounds, packaging materials, and healthcare-linked materials all sit inside ordinary life and public infrastructure.
-- The HIP side also reflects a social split that is worth preserving in the archive: new home construction can be soft while repair, remodel, and infrastructure demand remain stronger. That means the real built environment can keep consuming materials even when affordability pressure constrains headline housing activity.
-- The `Q2 2026` presentation also explicitly tied pipe and fittings demand to U.S. infrastructure spending, including data centers. That is one of the cleaner ways this batch connects traditional physical products to newer AI and compute narratives without forcing the comparison.
-
-## Industrial and operating pressures
-
-- Feedstock and energy costs remain central. Westlake’s PEM profits move with oil, natural gas, ethane, chlorine, and PVC pricing in ways that are much more immediate than in the Vulcan case.
-- Plant reliability and shutdowns were not incidental in `2025`; they were part of the core earnings story.
-- Product integration is a real operating lever. Westlake’s ability to move PVC resin into its own HIP channels matters because it reduces pure spot-cycle exposure and ties a volatile upstream product into steadier downstream demand.
-- Transportation and raw-material inflation still pressure HIP, even when volumes hold up.
-- Legal and channel risk matter too. The PVC pipe and fittings litigation charge in `Q1 2026` shows that the physical-infrastructure layer can carry commercial and antitrust exposure, not just demand risk.
-
-## Repeated higher-order patterns
-
-- `Integration cushions cyclicality.` Westlake is a good case where upstream commodity volatility is partially stabilized by downstream product channels.
-- `Housing weakness and infrastructure strength can coexist.` The batch should not flatten construction into one signal. Westlake’s HIP commentary repeatedly suggests softer new-build conditions can be offset by repair, remodel, and water or data-center-related infrastructure work.
-- `Physical-layer AI exposure is often indirect.` Westlake is not an AI company, but pipe, fittings, compounds, PVC, and building products still show up in data-center and infrastructure demand.
-- `Restructuring is often the bridge between bad cycle and future recovery.` `2025` was the pain year; `Q2 2026` is the proof that closures and cost action can materially improve earnings once pricing cooperates.
-
-## Best comparison uses
-
-- Against `Vulcan Materials`: Westlake shows a very different physical-input mechanism, with feedstock and product-integration economics replacing freight-local scarcity.
-- Against `Dow`: Westlake is a more focused comparison for plastics, chlorovinyls, and downstream building-products integration instead of a broader diversified-chemicals portfolio.
-- Against future `Mueller Industries` or `Core & Main`: Westlake will be a useful bridge between upstream resin/compound exposure and downstream installed-system or distribution exposure.
+- Sector: Westlake expands the branch into a chemicals name that is really a downstream heavy-input and building-materials system, not just a niche specialty-materials company.
+- Consumer and societal: home affordability pressure matters here because it suppresses parts of residential construction, but that weakness can be offset by pipe, fittings, repair, and public-infrastructure demand.
+- Industrial: this packet is a strong example of how PVC, chlor-alkali, polyethylene, caustic soda, and building products sit inside one integrated physical system. Feedstock advantage, export flows, outages, and logistics disruption can radically change the PEM economics.
+- Infrastructure dependence: Westlake is one of the clearest branch examples of how commodity chains connect to the built environment through water systems, pipe, fittings, siding, and downstream construction materials.
+- Capital intensity: the packet shows real plant-shutdown, optimization, and debt-management consequences. This is a good reminder that improving earnings in heavy inputs often requires hard footprint actions, not just waiting for volumes to recover.
+- Comparative read: `Dow` is the broader petrochemical and materials-science spread-cycle packet. `Air Products` is the industrial-gases and megaproject infrastructure packet. `Celanese` is the leveraged specialty-materials repair packet. Westlake is the more construction-linked PVC and chlorovinyl system with a visible HIP versus PEM split.
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/specialty-chemicals/westlake-corporation/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/specialty-chemicals/westlake-corporation/source-ledger.md)
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/basic-materials/specialty-chemicals/westlake-corporation/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/specialty-chemicals/westlake-corporation/ir-source-links.md)
-- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/westlake-corporation/sec-source-links.md)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/annualreports/basic-materials/specialty-chemicals/westlake-corporation/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/specialty-chemicals/westlake-corporation/official-ir-verification.md)
+- [filing-note.md](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/specialty-chemicals/westlake-corporation/filing-note.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/specialty-chemicals/westlake-corporation/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/specialty-chemicals/westlake-corporation/2025-10k.html)
+- [2025-q4-results.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/specialty-chemicals/westlake-corporation/2025-q4-results.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/specialty-chemicals/westlake-corporation/2025-q4-8k.html)
+- [2025-q4-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/specialty-chemicals/westlake-corporation/2025-q4-earnings-presentation.pdf)
+- [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/specialty-chemicals/westlake-corporation/2026-q1-results.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/specialty-chemicals/westlake-corporation/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/specialty-chemicals/westlake-corporation/2026-q1-10q.html)
+- [2026-q1-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/specialty-chemicals/westlake-corporation/2026-q1-earnings-presentation.pdf)
+- [2026-q2-results.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/specialty-chemicals/westlake-corporation/2026-q2-results.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/specialty-chemicals/westlake-corporation/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/specialty-chemicals/westlake-corporation/2026-q2-10q.html)
+- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/specialty-chemicals/westlake-corporation/2026-q2-earnings-presentation.pdf)
+
+## Working interpretation
+
+- Westlake materially improves the branch because it shows that some chemicals names are really physical-systems businesses. The key exposures are not just spread margins or product chemistry. They are shelter, water, pipe, fittings, export flows, affordability, infrastructure budgets, and whether an integrated chlorovinyl chain is sitting on the right side of the global cost curve.
+- The packet works best when the company is read in two layers:
+  - `HIP` as the downstream building-products and infrastructure-demand system
+  - `PEM` as the global commodity-materials and feedstock-advantage system
+- That split helps the wider archive because it creates a cleaner distinction inside materials and chemicals between broad spread-cycle platforms, industrial-gases infrastructure systems, specialty-materials repair stories, crop-protection chemistry, and now a PVC and built-environment platform whose earnings depend on both construction conditions and commodity-chain dislocation.
+

@@ -1,6 +1,6 @@
 # Comfort Systems USA, Inc.
 
-Date baseline: 2026-08-10
+Date baseline: 2026-08-09
 
 ## Identity
 
@@ -55,11 +55,6 @@ Date baseline: 2026-08-10
 - The company is analytically useful because it sits inside the skilled-trades bottleneck rather than simply buying labor from someone else. That makes it a cleaner `the-labor-squeeze` operator than the archive previously had.
 - Management tone is direct and operational. The company keeps emphasizing execution, burn, bookings, pipelines, and workforce quality rather than broad macro optimism.
 - The archive quality is now materially stronger because the official annual-report artifact is on disk rather than only the `10-K` HTML and supporting IR pages.
-
-## Working interpretation
-
-- Comfort Systems is one of the archive's strongest proof points that the physical economy can be constrained by people as much as by materials or demand. The company is effectively a read on whether skilled-trades capacity can keep pace with building-system complexity.
-- The deeper pattern is that electrification, cooling intensity, modular delivery, and facility sophistication are all increasing the value of trusted mechanical and electrical execution platforms.
 
 ## Open questions
 

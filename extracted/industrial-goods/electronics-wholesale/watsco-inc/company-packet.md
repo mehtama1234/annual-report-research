@@ -4,6 +4,7 @@ Date baseline: 2026-08-10
 
 ## Snapshot
 
+- Assigned CLI 8 sub-lane: wholesale and distribution infrastructure
 - Company: Watsco, Inc.
 - Sector: Industrial Goods
 - Industry: Electronics Wholesale
@@ -87,19 +88,19 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/electronics-wholesale/watsco-inc/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/electronics-wholesale/watsco-inc/source-ledger.md)
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/electronics-wholesale/watsco-inc/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/electronics-wholesale/watsco-inc/ir-source-links.md)
-- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/sec-source-links.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/electronics-wholesale/watsco-inc/2025-annual-report.pdf)
-- [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2025-annual-report-ars.pdf)
-- [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2025-10k.pdf)
-- [2025-q4-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/electronics-wholesale/watsco-inc/2025-q4-results.html)
-- [2025-q4-8k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2025-q4-8k.pdf)
-- [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/electronics-wholesale/watsco-inc/2026-q1-results.html)
-- [2026-q1-8k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2026-q1-8k.pdf)
-- [2026-q1-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2026-q1-10q.pdf)
-- [2026-q2-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/electronics-wholesale/watsco-inc/2026-q2-results.html)
-- [2026-q2-8k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2026-q2-8k.pdf)
-- [2026-q2-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2026-q2-10q.pdf)
+- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/electronics-wholesale/watsco-inc/company-profile.md)
+- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/electronics-wholesale/watsco-inc/source-ledger.md)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/electronics-wholesale/watsco-inc/annualreports-verification.md)
+- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/electronics-wholesale/watsco-inc/ir-source-links.md)
+- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/sec-source-links.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/electronics-wholesale/watsco-inc/2025-annual-report.pdf)
+- [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2025-annual-report-ars.pdf)
+- [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2025-10k.pdf)
+- [2025-q4-results.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/electronics-wholesale/watsco-inc/2025-q4-results.html)
+- [2025-q4-8k.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2025-q4-8k.pdf)
+- [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/electronics-wholesale/watsco-inc/2026-q1-results.html)
+- [2026-q1-8k.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2026-q1-8k.pdf)
+- [2026-q1-10q.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2026-q1-10q.pdf)
+- [2026-q2-results.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/electronics-wholesale/watsco-inc/2026-q2-results.html)
+- [2026-q2-8k.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2026-q2-8k.pdf)
+- [2026-q2-10q.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/2026-q2-10q.pdf)

@@ -311,7 +311,7 @@ That is a different system from identity demand, routine staples trust, or marke
 
 Together they turn the blind spot into a usable cross-sector system rather than a loose set of industrial side notes.
 
-The lane now also has both a narrow and a full waste-side split: [Waste Management Versus Clean Harbors Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/waste-management-vs-clean-harbors-boundary-comparison-2026-08-10.md) separates broad route-density cleanup and compliance networks from more specialized hazardous disposal, emergency-response, remediation, and re-refining intensity, while [Waste Management Versus Republic Services Versus Clean Harbors Versus Casella Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/waste-management-vs-republic-vs-clean-harbors-vs-casella-boundary-comparison-2026-08-10.md) turns the branch into a full four-way operating map across national leadership, national scale-peer density, hazardous specialization, and regional-density concentration.
+The lane now also has a live narrower split through [Waste Management Versus Clean Harbors Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/waste-management-vs-clean-harbors-boundary-comparison-2026-08-10.md), which separates broad route-density cleanup and compliance networks from more specialized hazardous disposal, emergency-response, remediation, and re-refining intensity, while `Republic Services` now adds a second national-scale route-density peer inside the broad-network branch.
 
 ## Why this is a blind spot in `AnnualReports`
 

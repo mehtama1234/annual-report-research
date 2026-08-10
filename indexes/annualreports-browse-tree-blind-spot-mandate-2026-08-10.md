@@ -49,7 +49,7 @@ Examples:
 
 - `Graphic Packaging`
 - `Sonoco`
-- `AptarGroup`
+- `Aptar`
 - `Silgan`
 - `Clearwater Paper`
 - `International Paper`
@@ -74,57 +74,35 @@ Examples:
 - `American Tower`
 - `Crown Castle`
 - `SBA Communications`
-- that does not explain tower rent, route-density access, broader fiber-backbone ownership, resilient orbital coverage, or scarce infrastructure ownership
-
-- `Cogent`
-- `Lumen Technologies`
 - `Iridium`
 - `Viasat`
 
 Why this belongs here:
 
 - the browse tree can scatter them across `REIT`, communications, or equipment labels
-- that does not explain tower rent, route-density access, broader fiber-backbone ownership, resilient orbital coverage, or scarce infrastructure ownership
+- that does not explain tower rent, route-density access, resilient orbital coverage, or scarce infrastructure ownership
 
-### 3. Control-layer and connectivity infrastructure
+### 3. Control-layer and embedded workflow systems
 
-Take companies whose real importance comes from traffic control, trust governance, optical transport, installed-base network control, or connectivity-input supply rather than a plain sector label.
+Take companies whose real importance comes from control, trust, optical transport, workflow embedment, branch-density execution, or access-over-ownership rather than a plain sector label.
 
 Examples:
 
 - `Cloudflare`
-- `Akamai`
 - `Cisco`
-- `Arista Networks`
 - `Palo Alto Networks`
 - `Ciena`
-- `CommScope`
 - `Corning`
-
-Why this belongs here:
-
-- `AnnualReports` can label them software, networking, communications, or hardware
-- that still misses the control-layer and connectivity system they represent
-
-### 4. Physical execution and embedded workflow systems
-
-Take companies whose real importance comes from workflow embedment, access-over-ownership, procurement control, branch-density execution, or civic-failure-response support rather than a plain rental or distribution label.
-
-Examples:
-
 - `United Rentals`
 - `Fastenal`
 - `Ferguson`
-- `WESCO`
-- `Applied Industrial Technologies`
-- `Core & Main`
 
 Why this belongs here:
 
-- `AnnualReports` can label them rental, distribution, or industrial-service names
-- that still misses the embedded-workflow and physical-execution system they represent
+- `AnnualReports` can label them software, networking, hardware, rental, or distribution
+- that still misses the control-layer and embedded-workflow system they represent
 
-### 5. Consumer behavior and cultural-demand systems
+### 4. Consumer behavior and cultural-demand systems
 
 Take companies when the real research value is the recurring behavior or cultural pattern, not the formal product category.
 
@@ -157,7 +135,7 @@ Why this belongs here:
 - the browse tree is product-led
 - the archive needs behavior-led and culture-led interpretation
 
-### 6. Relationship ownership, wallet, and coordination systems
+### 5. Relationship ownership, wallet, and coordination systems
 
 Take companies whose real value is demand ownership, loyalty structure, marketplace coordination, multi-sided monetization, or participation control.
 
@@ -181,7 +159,7 @@ Why this belongs here:
 
 - the browse tree does not classify who owns the customer relationship, wallet loop, status ladder, or coordination layer
 
-### 7. Cross-sector built-environment systems
+### 6. Cross-sector built-environment systems
 
 Take companies when the real system crosses `Financial`, `Real Estate`, `Industrial Goods`, `Services`, `Consumer Goods`, and `Basic Materials`.
 
@@ -234,8 +212,7 @@ This thread owns:
 
 - behind-the-shelf infrastructure
 - hidden connectivity and access ownership
-- control-layer and connectivity infrastructure
-- physical execution and embedded workflow systems
+- control-layer and embedded workflow
 - consumer behavior and cultural-demand systems
 - relationship ownership, wallet, and coordination systems
 - cross-sector built-environment systems

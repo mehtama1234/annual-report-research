@@ -56,17 +56,14 @@ Why:
 Take:
 
 - `Cloudflare`
-- `Akamai`
 - `Cisco`
-- `Arista Networks`
 - `Palo Alto Networks`
 - `Ciena`
-- `CommScope`
 - `Corning`
 
 Why:
 
-- these companies are stronger as edge control, traffic acceleration, installed-base network control, AI-era fabric control, enterprise-trust governance, transport, inside-building and outside-plant distribution, and optical-input systems than as plain software, hardware, or networking names
+- these companies are stronger as control, trust, transport, and optical-input systems than as plain software, hardware, or networking names
 
 ### Hidden connectivity and access-layer ownership
 
@@ -75,14 +72,12 @@ Take:
 - `American Tower`
 - `Crown Castle`
 - `SBA Communications`
-- `Cogent`
-- `Lumen Technologies`
 - `Iridium`
 - `Viasat`
 
 Why:
 
-- these companies are stronger as scarce access ownership, tower-rent, terrestrial route-density and backbone control, resilient orbital coverage, bandwidth-heavy orbital access, or sovereign-connectivity systems than as ordinary REIT, telecom, or equipment names
+- these companies are stronger as scarce access ownership, tower-rent, resilient orbital coverage, bandwidth-heavy orbital access, or sovereign-connectivity systems than as ordinary REIT, telecom, or equipment names
 
 ### Physical execution and embedded workflow systems
 

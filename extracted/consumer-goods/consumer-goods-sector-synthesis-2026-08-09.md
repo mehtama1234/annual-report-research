@@ -14,6 +14,7 @@ This synthesis is based on the completed consumer-goods packets currently in the
 - Food and beverage:
   - [PepsiCo Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-packet.md)
   - [The Campbell's Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/company-packet.md)
+  - [The Kraft Heinz Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/food-major-diversified/the-kraft-heinz-company/company-packet.md)
   - [Monster Beverage Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
   - [The Coca-Cola Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md)
   - [Mondelez International](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/confectioners/mondelez-international/company-packet.md)
@@ -57,7 +58,7 @@ The strongest pattern is that consumer resilience is real, but it is increasingl
 
 ### 1. Consumer goods is fragmenting by category quality and value-chain position, not just by brand strength
 
-The fourteen-company set already breaks into distinct economic roles:
+The fifteen-company set already breaks into distinct economic roles:
 
 - `Procter & Gamble` is a broad daily-use and brand-superiority platform.
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
@@ -65,6 +66,7 @@ The fourteen-company set already breaks into distinct economic roles:
 - `Church & Dwight` is a narrower routine-use household and personal-care platform with more active portfolio pruning, brand incubation, and eCommerce growth.
 - `PepsiCo` is a broad food-and-beverage portfolio balancing affordability, convenience, and functional demand.
 - `The Campbell's Company` is a narrower pantry, meal-preparation, and at-home-cooking platform with a clearer split between stronger Meals & Beverages demand and weaker Snacks execution.
+- `The Kraft Heinz Company` is a broader center-store grocery, condiment, and meal-platform case where iconic brands still matter but legacy underinvestment, North America weakness, and active commercial reinvestment are central to the earnings read.
 - `Mondelez International` is a focused indulgence-and-snacking platform balancing iconic brands, emerging-markets strength, cocoa-cost pressure, and structural cost-savings execution.
 - `The Coca-Cola Company` is a global routine beverage and brand-system platform built on repeat refreshment occasions, bottler execution, pack-price-channel architecture, and cultural activation.
 - `Monster Beverage` is a functional-energy and lifestyle-brand platform built on repeat stimulation demand, innovation cadence, and global distribution reach.
@@ -104,6 +106,7 @@ This is one of the strongest recurring patterns in the archive.
 
 - `PepsiCo` talks about affordability actions, value, convenience, and execution repair rather than just price.
 - `Campbell's` shows the more necessity-led center-store version of the same problem: trusted pantry demand can stay intact while Snacks softness, tariffs, and inflation still pressure gross profit and adjusted EBIT.
+- `Kraft Heinz` shows the bigger legacy-grocery version: consumer staples still move, but the business still has to spend harder on price, packaging, marketing, and innovation just to restore share and stabilize volume.
 - `Mondelez` shows the same limit from a different angle: higher net pricing still mattered in `2025` and early `2026`, but cocoa costs, volume quality, and brand reinvestment make pricing alone an incomplete explanation.
 - `Coca-Cola` shows the same point through explicit revenue growth management and pack-price-channel architecture, where volume growth still matters and pricing is only one lever.
 - `P&G` emphasizes superiority, productivity, reinvestment, and a difficult consumer backdrop.
@@ -145,6 +148,7 @@ So beauty should be read as a more cyclical and execution-sensitive pocket insid
 This is clearest in `PepsiCo`, but it matters across the set.
 
 - `PepsiCo` repeatedly shows stronger international momentum than North America.
+- `Kraft Heinz` shows a similar but more stressed split, with North America still the recovery problem while Emerging Markets and Heinz-led international momentum are more constructive.
 - `Mondelez` repeatedly leans on Emerging Markets strength while describing North America as stronger and Europe as improving, which makes geography one of the main reasons the business can still grow through a cocoa-cost shock.
 - `Coca-Cola` adds an even purer version of that logic because the business is explicitly managed as a global beverage system across more than `200` countries and territories, with local pack and affordability choices shaping unit growth.
 - `Monster Beverage` adds a more category-intense version of the same point, with net sales to customers outside the United States reaching roughly `42%` of `Q4 2025` net sales and EMEA growing `32.6%` in dollars in that quarter.
@@ -175,6 +179,7 @@ The current archive supports a more specific demand view than generic “consume
 
 - `PepsiCo` points toward hydration, protein, functional, and permissible-consumption framing.
 - `Campbell's` points toward pantry replenishment, at-home cooking, affordable meal preparation, and trusted food staples rather than beverage frequency or small-ticket indulgence.
+- `Kraft Heinz` adds the bigger mainstream grocery and condiment version of the same signal: affordability, opening price points, and center-store usefulness still matter, but only if the brand system stays relevant and well-supported.
 - `Mondelez` adds a different but equally important consumer anchor: repeated indulgence and affordable treats can stay resilient even in a pressured household backdrop, as long as brand strength and pack-price discipline remain intact.
 - `Coca-Cola` shows how a legacy beverage company is trying to preserve routine refreshment demand through zero-sugar growth, smaller-pack architecture, affordability options, and global event-led recruitment rather than through static flagship-brand strength alone.
 - `Monster Beverage` adds the stronger stimulation, performance, and identity-driven side of functional consumption, where routine use behaves more like a habit system than an ordinary refreshment purchase.
@@ -220,6 +225,7 @@ That matters because it gives the archive a necessity-led food case that is diff
 - `PepsiCo` is the broader convenience and snack-plus-beverage system
 - `Mondelez` is the indulgence-and-snacking system
 - `Campbell's` is the narrower pantry, meal-preparation, and at-home-cooking system
+- `Kraft Heinz` is the larger center-store grocery and condiment system under active repair
 
 ### 7B. Snacking now has a cleaner split between broad convenience and focused indulgence
 
@@ -272,6 +278,7 @@ This remains a sector where mature cash engines matter. But the important nuance
 | Narrower routine-use household and personal-care platform | Church & Dwight | balanced value and premium mix, portfolio pruning, acquisition-led brand incubation, strong eCommerce growth, and repeat-use household and personal-care demand |
 | Food and beverage value portfolio | PepsiCo | affordability, convenience, international diversification, functional and health-adjacent mix |
 | Pantry and at-home-cooking necessity platform | The Campbell's Company | soup, broth, sauce, snack, and meal-preparation demand with strong Meals & Beverages positioning, weaker Snacks execution, and a clearer pantry-restocking read |
+| Center-store grocery and condiment repair platform | The Kraft Heinz Company | large legacy pantry and condiment brand system under active reinvestment, with affordability, share recovery, Taste Elevation strength, and North America weakness all visible at once |
 | Affordable indulgence and snacking platform | Mondelez International | iconic snack brands, cocoa-cost sensitivity, emerging-markets strength, brand investment, and structural cost savings |
 | Global routine beverage and brand-system platform | The Coca-Cola Company | repeat refreshment occasions, bottler execution, zero-sugar recruitment, revenue growth management, cultural activation, connected packaging, and first-party data capture |
 | Functional-energy and lifestyle beverage platform | Monster Beverage | repeat stimulation demand, innovation cadence, international expansion, brand intensity, Coca-Cola-supported distribution reach |

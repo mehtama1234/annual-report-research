@@ -20,6 +20,7 @@ Important classification note:
 
 - [Best Buy Co., Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/electronics-stores/best-buy-co-inc/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Services / Electronics Stores` because that is how AnnualReports classifies it. It should therefore be read as an adjacent counterexample rather than counted inside the formal Retail coverage base.
 - [Target Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/target-corp/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Services / Discount, Variety Stores` because that is how AnnualReports classifies it. It should therefore be read as adjacent mass-retail evidence rather than counted inside the formal Retail coverage base.
+- [lululemon athletica inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-clothing/lululemon-athletica-inc/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Consumer Goods / Textile - Apparel Clothing` because that is how AnnualReports classifies it. It should therefore be read as adjacent brand-led retail evidence rather than counted inside the formal Retail coverage base.
 
 ## Executive read
 
@@ -29,7 +30,7 @@ The current Retail set is still narrow, but it already supports a more useful se
 - brand-led consumer retail where margin quality depends on channel control, product cadence, and direct relationship ownership
 - legacy specialty retail trying to rebuild relevance through product, brand, loyalty, and marketplace repair
 
-`Amazon` is the clearest ecosystem case. `Nike` is the clearest branded-control case. `Bath & Body Works` adds the weaker and more repair-oriented specialty case. Together they show that the strongest retail operators are trying to own more of the customer relationship, the data layer, and the monetization stack rather than only the unit sale, while weaker retail operators are trying to rebuild those same advantages after momentum has already slipped.
+`Amazon` is the clearest ecosystem case. `Nike` is the clearest branded-control case inside the formal Retail folder. `Bath & Body Works` adds the weaker and more repair-oriented specialty case. `lululemon`, while preserved under `Consumer Goods` for source-taxonomy reasons, now gives Nike the stronger same-lane premium-athletic and community-led comparison it previously lacked. Together they show that the strongest retail operators are trying to own more of the customer relationship, the data layer, and the monetization stack rather than only the unit sale, while weaker retail operators are trying to rebuild those same advantages after momentum has already slipped.
 
 Best Buy sharpens the same conclusion from just outside the formal sector boundary: once a retailer lacks Amazon's ecosystem dominance or Nike's brand power, it has to work much harder to create a second layer through services, marketplace activity, advertising, and omnichannel support.
 
@@ -41,6 +42,7 @@ The strongest common thread across the current retail set is not simply merchand
 
 - `Amazon` is turning Prime, advertising, fulfillment speed, seller tools, and media into one consumer-and-merchant operating system.
 - `Nike` is trying to defend product margin and brand positioning by balancing wholesale reach against direct consumer control and a stronger first-party relationship.
+- `lululemon` is trying to defend a more focused premium athletic-apparel and wellness identity through product credibility, community, full-price discipline, and stronger international expansion even while North America is softer.
 
 That means retail is no longer best understood as inventory plus traffic. It is increasingly about who controls the customer touchpoint, the transaction flow, and the data generated around repeat demand.
 

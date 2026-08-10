@@ -7,7 +7,7 @@ Date baseline: `2026-08-10`
 - Date: `2026-08-10`
 - Repo: `annual-report-research`
 - Branch: `cli4-healthcare-frontier-batch`
-- Commit hash: `TBD`
+- Commit hash: `b20f1795`
 - Lane: `CLI 5`
 - Sector / industry family: `Connectivity, Telecom, Technical Infrastructure, and the diversified-computer-systems / integrated enterprise infrastructure layer`
 

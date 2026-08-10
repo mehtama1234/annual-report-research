@@ -21,6 +21,10 @@ Each batch has to produce:
 - consumer, cultural, societal, and industrial interpretation
 - repeated higher-order patterns that connect companies to one another
 
+Related synthesis written from the completed packet set:
+
+- [Connectivity Infrastructure Physical-Layer Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
+
 ## Batch choice
 
 The next coherent batch should be a downstream physical-inputs expansion rather than another software or consumer pass.

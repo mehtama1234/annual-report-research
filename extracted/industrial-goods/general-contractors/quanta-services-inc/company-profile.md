@@ -1,6 +1,6 @@
 # Quanta Services, Inc.
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -55,6 +55,11 @@ Date baseline: 2026-08-09
 - Labor and field execution matter directly. Management repeatedly emphasizes the company's self-perform capabilities and craft-skilled workforce, which makes Quanta a useful bridge between equipment providers and the actual field buildout layer.
 - Acquisitions are part of the operating model, not a side detail. The `2026` materials show Quanta using acquisitions to deepen electrical, mechanical, fabrication, right-of-way, and front-end service capabilities across utility, industrial, technology, and energy markets.
 - The evidence base is materially stronger now that the official `2025` annual report artifact is saved locally rather than inferred only from the filed `10-K` and year-end results chain.
+
+## Working interpretation
+
+- Quanta is one of the archive's clearest proof points that bandwidth demand, electrification, AI buildout, and utility modernization all converge into labor-heavy infrastructure execution rather than staying inside software or equipment categories.
+- The most important recurring pattern is that backlog, RPO, and skilled field capacity matter more than any single reported quarter. Quanta is effectively a read on whether the physical grid and mission-critical build cycle can keep pace with rising digital and electrical demand.
 
 ## Open questions
 

@@ -112,6 +112,7 @@ This batch should explicitly surface:
 - `Martin Marietta Materials, Inc.` packet chain written
 - `Granite Construction Incorporated` packet chain written
 - `Sterling Infrastructure, Inc.` packet chain written
+- `W.W. Grainger, Inc.` packet chain written
 - Vulcan is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, making it the cleanest heavy-materials anchor in the batch
 - Westlake is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, giving the batch a conversion-materials and building-products bridge between chemicals, housing, and water infrastructure
 - Bunge is now the strongest completed packet in the batch because the annual report, latest three quarters, transcripts, presentations, company-hosted quarter filings, and direct SEC filing references were all collected or preserved locally
@@ -134,10 +135,11 @@ This batch should explicitly surface:
 - Ferguson now adds the broad plumbing, HVAC, PVF, waterworks, and commercial-distribution layer with a source-complete transition-aware `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 calendar 2025` SEC-anchored evidence stack and a strong read on residential-RMI softness versus non-residential share gains, branch-and-fleet density, acquisition-led channel widening through FloWorks, water and comfort as recurring essential demand, and the contractor-service layer behind physical infrastructure uptime
 - Fastenal now adds the industrial-supply, embedded-procurement, and customer-site-control layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` SEC-anchored evidence stack and a strong read on onsite and FMI penetration, digital-footprint expansion, larger-customer share gains, tariff-sensitive pricing, labor-constrained procurement outsourcing, and recurring physical-layer demand behind factory and jobsite uptime
 - DNOW now adds the post-merger energy, utility, midstream, instrumentation, and flow-control distribution layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on MRC Global integration, synergy capture, ERP and working-capital friction, gas-utility and midstream diversification, DigitalNOW and technical-sourcing capability, and the balance-sheet-heavy physical layer behind industrial and energy infrastructure uptime
+- Grainger now adds the broadline MRO, enterprise-procurement, and endless-assortment platform layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on the `HTSNA` versus `Endless Assortment` split, tariff-pass-through and tariff-refund effects, MonotaRO and Zoro channel growth, working-capital and supply-chain-capacity demands, and the procurement-infrastructure layer behind recurring institutional and industrial uptime
 
 Current batch split:
 
-- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`, `CRH plc`, `Cemex, S.A.B. de C.V.`, `Watsco, Inc.`, `Ferguson Enterprises Inc.`, `Fastenal Company`, `DNOW Inc.`
+- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`, `CRH plc`, `Cemex, S.A.B. de C.V.`, `Watsco, Inc.`, `Ferguson Enterprises Inc.`, `Fastenal Company`, `DNOW Inc.`, `W.W. Grainger, Inc.`
 - partial: `CECO Environmental Corp.`
 
 ## CECO gap note
@@ -152,5 +154,4 @@ Current batch split:
 
 - `EMCOR Group, Inc.` if the archive next needs a stronger mechanical, electrical, and recurring-services comparison against Ferguson's distribution-heavy model and Sterling's site-and-mission-critical mix
 - `Quanta Services, Inc.` if the archive next needs a larger-scale transmission, utility, and mission-critical-contractor comparison against AECOM’s advisory-heavy model and Valmont’s component-heavy model
-- `W.W. Grainger, Inc.` if the archive next needs a scaled broadline maintenance, safety, and procurement-platform comparison against Fastenal's customer-site model and Applied's technical-distribution mix
-- `MSC Industrial Direct Co., Inc.` if the archive next needs a more manufacturing- and metalworking-heavy industrial-supply comparison against Fastenal's broader consumables mix and DNOW's energy-and-flow-control exposure
+- `MSC Industrial Direct Co., Inc.` is now the cleanest next industrial-supply contrast if the archive needs a more manufacturing- and metalworking-heavy procurement read than Grainger

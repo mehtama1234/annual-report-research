@@ -31,6 +31,10 @@ Related cross-sector memo:
 
 - [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
 
+Relevant out-of-sector taxonomy outlier:
+
+- [Kenvue](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/biotechnology/kenvue/company-packet.md) is preserved under `Technology / Biotechnology` because that is the source taxonomy on AnnualReports, but the operating read belongs in the same consumer-health and trusted-routine-use comparison set as the household and personal-care names.
+
 ## Executive read
 
 The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the 2025 annuals and late-2025 / 2026 quarterlies is not one simple brand-pricing story. It is a sector splitting across at least eight different demand and earnings models:
@@ -180,6 +184,17 @@ This suggests that consumer-goods demand is increasingly sorting around:
 - value architecture
 
 That is a more useful reading frame than broad discretionary-versus-staples labels alone.
+
+### 7C. Consumer health and wellness routine use can sit outside `Consumer Goods` in the source taxonomy
+
+`Kenvue` is the cleanest reminder that the archive cannot confuse source folders with economic reality.
+
+- AnnualReports places Kenvue in `Technology / Biotechnology`, not `Consumer Goods`
+- the official IR overview says the company generated `$15.1bn` of `2025` net sales across `3` segments and served about `1.2 billion` people globally
+- the operating segments are `Self Care`, `Skin Health and Beauty`, and `Essential Health`
+- the quarter chain shows the real mechanism: Q4 `2025`, Q1 `2026`, and Q2 `2026` all returned to net sales growth, but performance still depends heavily on seasonal incidence, category mix, eCommerce momentum, and brand execution across need states
+
+This matters because it widens the current routine-use lane. `P&G`, `Kimberly-Clark`, and `Colgate` already show broad staples, hygiene, and efficacy-driven care. Kenvue adds a more explicit self-care, pain, allergy, wound-care, oral-care, and skin-health read where trust and routine matter, but so do seasonal volatility and more active consumer activation.
 
 ### 7B. Snacking now has a cleaner split between broad convenience and focused indulgence
 

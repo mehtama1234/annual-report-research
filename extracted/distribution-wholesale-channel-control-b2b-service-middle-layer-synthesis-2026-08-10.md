@@ -36,6 +36,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Cintas Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/cintas-corporation/company-packet.md)
   - [Motorola Solutions, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/technology/diversified-communication-services/motorola-solutions-inc/company-packet.md)
   - [Rollins, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/personal-services/rollins-inc/company-packet.md)
+  - [The GEO Group, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/the-geo-group/company-packet.md)
   - [United Rentals, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/united-rentals-inc/company-packet.md)
 - service-layer physical interface:
   - [Hyatt Hotels Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/lodging/hyatt-hotels-corporation/company-packet.md)
@@ -44,13 +45,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a thirty-one-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a thirty-two-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current thirty-one completed names show thirty-one related but distinct middle-layer roles:
+The current thirty-two completed names show thirty-two related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -79,6 +80,7 @@ The current thirty-one completed names show thirty-one related but distinct midd
 - `Cintas` controls route-based workplace uniforms, hygiene, first aid, safety, and fire-protection service relationships.
 - `Motorola Solutions` controls mission-critical communications, video security, command-center workflow, and managed-service relationships across public-safety and institutional customers.
 - `Rollins` controls recurring residential and commercial field-service routes where local execution, pricing, and maintenance behavior matter more than product ownership.
+- `The GEO Group` controls outsourced secure facilities, processing centers, transportation, reentry, and electronic-monitoring workflows across government and institutional demand.
 - `United Rentals` converts equipment ownership into rented access, uptime support, and project flexibility.
 - `Hyatt` controls a branded hospitality and owner-network interface linking travelers, hotel owners, loyalty, and physical service delivery.
 - `Hilton` controls a second global hospitality and owner-network interface where RevPAR, loyalty, brand reach, and pipeline growth convert travel demand into fee streams.
@@ -130,6 +132,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Cintas`: keeping workplaces stocked, compliant, clean, and uniformly serviced through recurring route-based visits
 - `Motorola Solutions`: keeping public-safety agencies, schools, hospitals, transit networks, utilities, and enterprises connected through mission-critical networks, video systems, command software, and managed-service support
 - `Rollins`: keeping homes and commercial properties serviced through recurring pest and termite routes, relationship channels, and local branch execution
+- `The GEO Group`: keeping governments supplied with secure-capacity, transport, reentry, and monitored-supervision infrastructure they may not want to build or expand internally at the same speed
 - `United Rentals`: keeping projects, industrial sites, and contractors operating without forcing them to own the entire fleet
 - `Hyatt`: keeping branded hospitality, loyalty, owner relationships, and travel-related physical service systems functioning at scale
 - `Hilton`: keeping branded hospitality, loyalty participation, owner economics, and global lodging demand flowing through an asset-light platform
@@ -168,6 +171,7 @@ The packets now point to the same conclusion from different directions:
 - `Cintas` benefits from route density, retention, and cross-sell across everyday workplace-service categories.
 - `Motorola Solutions` benefits from installed-base lock-in, public procurement complexity, integrated command-and-evidence workflow attachment, and the shift from device purchases toward software-and-services-supported safety systems.
 - `Rollins` benefits from route density, recurring service behavior, acquisitions, and the tendency of property owners to outsource a routine but locally executed maintenance burden.
+- `The GEO Group` benefits from contract optionality, labor deployment, facility readiness, electronic-monitoring scale, and the willingness of governments to outsource surge capacity, supervision, and transport instead of internalizing all of it.
 - `United Rentals` benefits from fleet scale, specialty breadth, and its ability to absorb capital intensity for customers.
 - `Hyatt` benefits from brand distribution, loyalty participation, and fee-based owner-network relationships.
 - `Hilton` benefits from owner demand for brand affiliation, loyalty-driven stay behavior, global scale, and a fee-based lodging model with limited real-estate intensity.
@@ -205,6 +209,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Cintas` wins partly because route density, facilities throughput, and local-service productivity convert recurrence into high-margin cash generation.
 - `Motorola Solutions` is highly exposed to procurement timing, backlog conversion, hardware refresh cycles, software-and-services attachment, acquisition integration, and one-off policy effects such as the Q2 2026 tariff-refund benefit.
 - `Rollins` depends heavily on local staffing, demand-generation mix, weather, and recurring route efficiency because a softer consumer lead environment can still compress margin even when the recurring base remains durable.
+- `The GEO Group` is highly exposed to labor costs, facility activation timing, political and legal pressure, government budget cycles, detention and supervision volume shifts, leverage management, and the operational value of idle capacity.
 - `United Rentals` effectively turns fleet ownership, utilization, and used-equipment recycling into the core product.
 - `Hyatt` uses its balance sheet, asset sales, and owner/franchise structure to move toward fee-rich and more asset-light hospitality economics.
 - `Hilton` depends heavily on travel-demand resilience, RevPAR mix, owner signing appetite, and pipeline conversion because the fee-based model still needs healthy branded system throughput.
@@ -239,6 +244,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Cintas`: technology as part of route planning, plant throughput, customer retention, and service density rather than as a consumer-facing product
 - `Motorola Solutions`: technology as the actual operating layer spanning radios, broadband, video, evidence, dispatch, AI call handling, and managed-service workflows inside institutional safety systems
 - `Rollins`: technology as part of demand generation, pricing tools, route visibility, and local operating discipline rather than as a branded end product
+- `The GEO Group`: technology as part of electronic monitoring, SmartLINK usage, case management, and supervision workflow rather than as a stand-alone public-safety software product
 - `United Rentals`: market-leading technology platforms supporting asset visibility, customer response, and fleet economics
 - `Hyatt`: technology as part of loyalty depth, owner coordination, and more responsive branded guest operations
 - `Hilton`: technology as part of booking flow, loyalty participation, revenue management, and system-wide branded hospitality distribution
@@ -369,7 +375,7 @@ Those additions should help answer:
 
 ## Working conclusion
 
-The current thirty-one-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current thirty-two-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

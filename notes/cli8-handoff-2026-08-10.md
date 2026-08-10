@@ -35,9 +35,10 @@ Commit hash: `9d8ab48`
 26. `Rollins, Inc.`: asset access and operating support; strongest recurring field-services and residential-plus-commercial route-density packet in the set.
 27. `BrightView Holdings, Inc.`: asset access and operating support; strongest recurring site-maintenance and immigration-linked field-labor packet in the set.
 28. `Motorola Solutions, Inc.`: asset access and operating support; strongest institutional safety, mission-critical communications, and security-workflow technology extension in the set.
-29. `Hyatt Hotels Corporation`: service-layer physical interface; strongest proof that branded service infrastructure belongs inside the same middle-layer frontier.
-30. `Hilton Worldwide Holdings Inc.`: service-layer physical interface; strongest second global lodging and owner-network comparison packet in the set.
-31. `Marriott International, Inc.`: service-layer physical interface; strongest third global lodging and loyalty-concentration comparison packet in the set.
+29. `The GEO Group, Inc.`: asset access and operating support; strongest labor-forward outsourced secure-services and institutional-capacity packet in the set.
+30. `Hyatt Hotels Corporation`: service-layer physical interface; strongest proof that branded service infrastructure belongs inside the same middle-layer frontier.
+31. `Hilton Worldwide Holdings Inc.`: service-layer physical interface; strongest second global lodging and owner-network comparison packet in the set.
+32. `Marriott International, Inc.`: service-layer physical interface; strongest third global lodging and loyalty-concentration comparison packet in the set.
 
 ## Partial companies
 
@@ -46,10 +47,10 @@ Commit hash: `9d8ab48`
 ## Strongest themes
 
 1. Procurement power and channel ownership matter more than ownership of the underlying goods.
-2. Institutional replenishment is one of the clearest recurring-demand engines in the archive, while the protection-services lane now spans recurring monitored household and small-business security, institutional safety technology, and literal cash-logistics protection infrastructure.
+2. Institutional replenishment is one of the clearest recurring-demand engines in the archive, while the protection-services lane now spans recurring monitored household and small-business security, institutional safety technology, literal cash-logistics protection infrastructure, and labor-forward outsourced secure-services capacity.
 3. Working-capital discipline, route density, backlog conversion, and fleet utilization are core economic drivers rather than secondary metrics.
 4. Service attachment keeps widening the moat: specialty support, project logistics, inspection and monitoring, recurring alarm monitoring, smart-home workflow, uniforms and safety routes, ATM managed services, digital retail solutions, security workflow, owner relationships, digital procurement, climate-control workflow, and maintenance coordination all deepen embeddedness.
-5. Cultural and societal shifts still pass through this layer: cautious consumers, project outsourcing, specialty-care growth, workplace-compliance outsourcing, household and small-business safety spending, institutional hardening, public-safety digitization, the persistence of physical cash infrastructure, premium travel demand, climate-control dependence, immigration-linked field-labor tightness, energy-and-process infrastructure strain, and digital-infrastructure build-out all reshape middle-layer operators.
+5. Cultural and societal shifts still pass through this layer: cautious consumers, project outsourcing, specialty-care growth, workplace-compliance outsourcing, household and small-business safety spending, institutional hardening, public-safety digitization, the persistence of physical cash infrastructure, immigration-enforcement intensity, premium travel demand, climate-control dependence, immigration-linked field-labor tightness, energy-and-process infrastructure strain, and digital-infrastructure build-out all reshape middle-layer operators.
 
 ## Sub-lanes covered
 
@@ -60,14 +61,14 @@ Commit hash: `9d8ab48`
 
 ## Best next targets
 
-1. One more labor-forward guarding-heavy protection-services operator to complement `Brink's` cash-logistics and ATM-services model and `ADT`'s recurring monitoring model.
-2. One cleaner pure medical-equipment or medical-supply distributor to complement `Accendra Health` with a less transformed winner if broader proof is needed.
-3. One true healthcare distribution-channel operator if broader proof is still needed beyond office-based care procurement, home-based medical replenishment, drug distribution, hospital-procedure procurement, specialty-treatment routing, and therapy-enabling components.
-4. Protection-services still looks slightly more urgent than another wholesale-infrastructure or fourth-lodging packet because contractor, HVAC, waterworks, procurement, process-heavy distribution, branded lodging, outsourced field-maintenance support, specialty-therapy routing, office-based care procurement, home-based medical replenishment, drugs wholesale, hospital-capital procurement, therapy-enabling product layers, institutional security technology, recurring monitoring, and literal protection-services are already broadly covered but not yet fully labor-separated.
+1. One cleaner pure medical-equipment or medical-supply distributor to complement `Accendra Health` with a less transformed winner if broader proof is needed.
+2. One true healthcare distribution-channel operator if broader proof is still needed beyond office-based care procurement, home-based medical replenishment, drug distribution, hospital-procedure procurement, specialty-treatment routing, and therapy-enabling components.
+3. One second non-pharma institutional replenishment operator would now add more frontier breadth than another first-pass protection-services packet.
+4. Healthcare-channel depth now looks slightly more urgent than another wholesale-infrastructure or fourth-lodging packet because contractor, HVAC, waterworks, procurement, process-heavy distribution, branded lodging, outsourced field-maintenance support, specialty-therapy routing, office-based care procurement, home-based medical replenishment, drugs wholesale, hospital-capital procurement, therapy-enabling product layers, institutional security technology, recurring monitoring, literal protection-services, and labor-forward outsourced secure-services are already broadly covered.
 
 ## Deliverables now present
 
-1. Raw source archive for all thirty-one completed packets.
+1. Raw source archive for all thirty-two completed packets.
 2. Extracted company packets and thematic interpretation for each completed company.
 3. One frontier synthesis note:
    [distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md)
@@ -85,3 +86,4 @@ Commit hash: `9d8ab48`
 7. `West` is analytically coherent but still lacks a locally saved official `2025` annual-report PDF; the verified IR static-file URL is preserved in the packet source ledger, and the annual plus quarter filing chain is otherwise complete.
 8. `Henry Schein` is analytically coherent and fills the literal medical-distribution gap, but direct shell retrieval of several official IR HTML pages and SEC filing-body HTMLs was blocked; the packet therefore relies on the saved annual report PDF, saved Q2 presentation and transcript PDFs, AnnualReports lag verification, SEC submissions metadata, and explicit official IR and SEC source-link notes.
 9. `ADT Inc.` is analytically coherent and materially improves the protection-services lane, but direct investor-relations HTML retrieval was challenge-blocked, so the packet relies on the saved official annual-report PDF plus the full SEC annual and quarter exhibit chain.
+10. `The GEO Group, Inc.` is analytically coherent and materially improves the labor-forward outsourced secure-services layer, but AnnualReports still lagged at `2024`, so the packet is intentionally anchored to official GEO IR and SEC materials for the `2025` annual-plus-quarter chain.

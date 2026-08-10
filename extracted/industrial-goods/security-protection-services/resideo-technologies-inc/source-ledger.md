@@ -1,0 +1,33 @@
+# Source Ledger
+
+Date baseline: 2026-08-10
+
+## Sources
+
+| ID | Source | Date | Type | Why it matters | Tag | Local path |
+|---|---|---|---|---|---|---|
+| REZI-T1 | AnnualReports.com Resideo company-page capture | 2026-08-10 | Aggregator company-page HTML | Confirms AnnualReports taxonomy and records the archive lag at `2024` | `[Reported]` | [company-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/security-protection-services/resideo-technologies-inc/company-page.html) |
+| REZI-T2 | AnnualReports.com Resideo verification note | 2026-08-10 | Aggregator verification note | Records the lagged archive state and why the taxonomy still matters | `[Reported]` | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/security-protection-services/resideo-technologies-inc/annualreports-verification.md) |
+| REZI-T3 | Resideo IR source-links note | 2026-08-10 | Official-source link ledger | Preserves the verified official annual, quarter, and spin-related URLs | `[Disclosed]` | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/security-protection-services/resideo-technologies-inc/ir-source-links.md) |
+| REZI-T4 | Resideo 2025 Form 10-K HTML | 2026-02-24 filed / 2026-08-10 collected | Filed annual report HTML | Filed annual report for fiscal `2025` | `[Filed]` | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/security-protection-services/resideo-technologies-inc/2025-10k.html) |
+| REZI-T5 | Resideo Q3 2025 results release exhibit | 2025-11-05 filed / 2026-08-10 collected | SEC-hosted earnings release exhibit | Most direct local quarterly release artifact for the quarter ended `2025-09-27` | `[Filed]` | [2025-q3-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/security-protection-services/resideo-technologies-inc/2025-q3-results-release.html) |
+| REZI-T6 | Resideo Q3 2025 Form 10-Q HTML | 2025-11-05 filed / 2026-08-10 collected | Filed quarterly report HTML | Filed quarterly report for the quarter ended `2025-09-27` | `[Filed]` | [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/security-protection-services/resideo-technologies-inc/2025-q3-10q.html) |
+| REZI-T7 | Resideo Q4 2025 results release exhibit | 2026-02-24 filed / 2026-08-10 collected | SEC-hosted earnings release exhibit | Most direct local quarterly release artifact for the quarter ended `2025-12-31` | `[Filed]` | [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/security-protection-services/resideo-technologies-inc/2025-q4-results-release.html) |
+| REZI-T8 | Resideo Q4 2025 earnings 8-K | 2026-02-24 filed / 2026-08-10 collected | SEC-hosted current-report HTML | Preserves the exhibit reference and timing for the Q4 and full-year release | `[Filed]` | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/security-protection-services/resideo-technologies-inc/2025-q4-8k.html) |
+| REZI-T9 | Resideo Q1 2026 results release exhibit | 2026-05-12 filed / 2026-08-10 collected | SEC-hosted earnings release exhibit | Most direct local quarterly release artifact for the quarter ended `2026-04-04` | `[Filed]` | [2026-q1-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/security-protection-services/resideo-technologies-inc/2026-q1-results-release.html) |
+| REZI-T10 | Resideo Q1 2026 Form 10-Q HTML | 2026-05-12 filed / 2026-08-10 collected | Filed quarterly report HTML | Filed quarterly report for the quarter ended `2026-04-04` | `[Filed]` | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/security-protection-services/resideo-technologies-inc/2026-q1-10q.html) |
+| REZI-T11 | Resideo July 2025 separation-announcement release | 2025-07-30 filed / 2026-08-10 collected | SEC-hosted corporate-action exhibit | Preserves the pre-spin strategic pivot and the Honeywell-agreement reset | `[Filed]` | [2025-adi-separation-announcement-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/security-protection-services/resideo-technologies-inc/2025-adi-separation-announcement-release.html) |
+| REZI-T12 | Resideo August 2026 ADI spin-completion release | 2026-08-04 filed / 2026-08-10 collected | SEC-hosted corporate-action exhibit | Confirms that the `ADI` spin was completed before the baseline date and that Resideo repaid `$900M` of debt | `[Filed]` | [2026-adi-spin-completion-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/security-protection-services/resideo-technologies-inc/2026-adi-spin-completion-release.html) |
+| REZI-T13 | SEC submissions JSON | 2026-08-10 collected | SEC metadata JSON | Confirms SEC identity and chronology, including that `Q2 2026` results had not yet been reported as of the baseline date | `[Filed]` | [submissions-cik0001740332.json](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/security-protection-services/resideo-technologies-inc/submissions-cik0001740332.json) |
+
+## Reconciliation notes
+
+- Resideo now has a defensible annual-plus-quarterly evidence chain on disk for the `2025` annual package and the latest three reported quarters as of Monday, `2026-08-10`, which are `Q1 2026`, `Q4 2025`, and `Q3 2025`.
+- `Q2 2026` was not yet a reported quarter on the baseline date. The official IR site had only announced that second-quarter `2026` results would be released on Wednesday, `2026-08-12`, so the correct latest-three-quarter window stops at `Q1 2026`.
+- Direct shell retrieval of Resideo IR HTML pages returned `429`, so the packet intentionally leans on the saved AnnualReports taxonomy capture, the SEC annual and quarter exhibit chain, and the local official-URL note.
+- The post-baseline spin-completion artifacts are included because they materially clarify the channel-control interpretation of the in-scope `2025` and `Q1 2026` operating chain.
+
+## Missing evidence
+
+- Local transcript artifacts for `Q3 2025`, `Q4 2025`, and `Q1 2026`.
+- Saved local official IR HTML mirrors and a standalone `2025` annual-report PDF from the company IR host.

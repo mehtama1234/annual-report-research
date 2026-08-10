@@ -11,6 +11,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Core & Main, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/building-materials-wholesale/core-main-inc/company-packet.md)
   - [Ferguson Enterprises Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md)
   - [Watsco, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/electronics-wholesale/watsco-inc/company-packet.md)
+  - [Resideo Technologies, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/resideo-technologies-inc/company-packet.md)
   - [Fastenal Company](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/fastenal-company/company-packet.md)
   - [DNOW Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/dnow-inc/company-packet.md)
   - [MSC Industrial Direct Co., Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/company-packet.md)
@@ -60,18 +61,19 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a forty-seven-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a forty-eight-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current forty-seven completed names show forty-seven related but distinct middle-layer roles:
+The current forty-eight completed names show forty-eight related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
 - `Ferguson` controls contractor-facing branch density across plumbing, HVAC, waterworks, and repair-and-replacement infrastructure.
 - `Watsco` controls HVAC and refrigeration distribution, contractor workflow, and climate-control replacement economics.
+- `Resideo` controls a combined manufacturer-plus-distributor channel where `ADI Global Distribution` gives the frontier a direct low-voltage security, sensing, and building-controls contractor-distribution layer.
 - `Fastenal` controls onsite industrial procurement, vending, and embedded replenishment workflow inside customer operations.
 - `DNOW` controls a more energy-, utilities-, flow-control-, and instrumentation-heavy distribution layer tied to process infrastructure rather than only general industrial replenishment.
 - `MSC` controls a more manufacturing- and metalworking-sensitive procurement layer built around plant-floor replenishment, vending, and In-Plant service density.
@@ -139,6 +141,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Core & Main`: keeping municipalities, utilities, contractors, and site operators supplied with waterworks, fire-protection, drainage, and smart-utility infrastructure
 - `Ferguson`: keeping contractors, facilities teams, and infrastructure jobs supplied with plumbing, HVAC, waterworks, PVF, and technical branch support
 - `Watsco`: keeping contractors, building operators, and households supplied with climate-control and refrigeration equipment through dense distribution and replacement-cycle workflow
+- `Resideo`: keeping low-voltage contractors, integrators, distributors, installers, and building operators supplied with security, sensing, and building-controls products through `ADI Global Distribution` reach and branch-scale channel infrastructure
 - `Fastenal`: keeping plants, jobsites, and maintenance teams supplied through onsite procurement, vending, digital ordering, and low-friction replenishment
 - `DNOW`: keeping gas utilities, process plants, water systems, midstream networks, and industrial operators supplied with PVF, pumps, controls, instrumentation, and process hardware
 - `MSC`: keeping factories and machine shops supplied through metalworking, MRO, and inventory-control systems with more visible exposure to manufacturing cadence
@@ -193,6 +196,7 @@ The packets now point to the same conclusion from different directions:
 - `Core & Main` benefits from sitting inside replacement-driven water and fire-protection infrastructure where local availability, municipal cadence, and category depth matter more than product glamour.
 - `Ferguson` benefits from local branch density, technical assortment, and its ability to simplify fragmented contractor buying.
 - `Watsco` benefits from replacement-cycle urgency, contractor dependence, digital workflow, and branch density in hot-weather markets where climate-control failure is not optional.
+- `Resideo` benefits from combining product access with contractor-channel ownership, low-voltage assortment breadth, branch reach, and the way `ADI` sits between manufacturers and installers in a fragmented security-and-controls ecosystem.
 - `Fastenal` benefits from moving inside the customer site and turning industrial procurement into a workflow it partially controls.
 - `DNOW` benefits from broader technical assortment and the post-merger ability to intermediate energy, utility, and process-infrastructure buying through a larger combined platform.
 - `MSC` benefits from becoming part of the plant-floor inventory and purchasing process even while carrying more cycle sensitivity than the broader procurement names.
@@ -247,6 +251,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Core & Main` is highly exposed to municipal timing, infrastructure project cadence, acquisitions, supplier terms, and the relationship between branch density and margin quality.
 - `Ferguson` is highly exposed to branch productivity, supplier-price timing, acquisitions, and contractor demand splits between residential and non-residential work.
 - `Watsco` is highly exposed to A2L transition effects, inventory timing, HVAC replacement demand, tariff-linked OEM pricing, and the seasonal working-capital shape of a dense climate-control distributor.
+- `Resideo` is highly exposed to inventory positioning across the combined company, low-voltage contractor demand, gross-margin pressure inside distribution, separation execution, and the capital-structure reset tied to the completed `ADI` spin as of Monday, `2026-08-10`.
 - `Fastenal` is highly exposed to mix shifts toward large accounts, pricing pass-through, and the economics of onsite service density.
 - `DNOW` is highly exposed to merger integration, ERP cleanup, end-market timing across gas utilities and industrial process demand, and whether working-capital normalization turns into durable margin improvement.
 - `MSC` is highly exposed to metalworking, manufacturing cadence, national-account mix, and the tension between recurring procurement attachment and gross-margin pressure.
@@ -298,6 +303,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Core & Main`: category intelligence, pricing discipline, and local inventory support layered onto branch-based specialty distribution
 - `Ferguson`: digital ordering, local inventory visibility, and contractor workflow support layered on top of branch and fleet density
 - `Watsco`: contractor-facing digital workflow, pricing tools, mobile ordering, and technology-enabled inventory and product matching around climate-control replacement
+- `Resideo`: technology as smart-home, sensing, controls, and low-voltage product ecosystems combined with distributor-enabled contractor workflow rather than as a pure software layer
 - `Fastenal`: eBusiness, vending, onsite replenishment, and digital procurement tools that make physical distribution behave more like embedded workflow software
 - `DNOW`: digital sourcing, broader technical product-data support, and process-oriented distribution workflow layered onto the combined DNOW and MRC Global platform
 - `MSC`: vending, In-Plant placement, and digital replenishment that make factory procurement increasingly software-mediated rather than purely rep-driven
@@ -341,6 +347,7 @@ This is already visible across the completed set:
 - municipalities, utilities, waterworks contractors, and fire-protection channels at `Core & Main`
 - contractors, waterworks, HVAC, facilities supply, and large capital project channels at `Ferguson`
 - contractors, refrigeration buyers, commercial building operators, and replacement-focused HVAC channels at `Watsco`
+- low-voltage contractors, security installers, commercial integrators, and building-controls channels at `Resideo`
 - plants, maintenance teams, large accounts, and customer-site operators at `Fastenal`
 - gas utilities, midstream systems, water-treatment and process operators, and instrumentation-heavy industrial customers at `DNOW`
 - factories, machine shops, government buyers, and manufacturing sites at `MSC`
@@ -392,7 +399,7 @@ The current packets already support several broader conclusions that go beyond c
 
 ### Procurement is becoming a strategic operating layer
 
-`Builders FirstSource`, `Core & Main`, `Ferguson`, `Watsco`, `Fastenal`, `DNOW`, `MSC`, `Applied`, `Grainger`, and `WESCO` are the clearest proofs, but the pattern is broader. Customers increasingly want fewer vendors, easier buying, better availability, prefabricated workflow help, and more predictable fulfillment. The middle layer monetizes that simplification.
+`Builders FirstSource`, `Core & Main`, `Ferguson`, `Watsco`, `Resideo`, `Fastenal`, `DNOW`, `MSC`, `Applied`, `Grainger`, and `WESCO` are the clearest proofs, but the pattern is broader. Customers increasingly want fewer vendors, easier buying, better availability, prefabricated workflow help, and more predictable fulfillment. The middle layer monetizes that simplification.
 
 ### Replenishment businesses are indirect reads on social systems
 
@@ -417,7 +424,7 @@ The current packets already support several broader conclusions that go beyond c
 
 That makes the middle layer an early read on industrial and digital-capacity expansion.
 
-`Builders FirstSource`, `Core & Main`, `Ferguson`, `Watsco`, `Fastenal`, `DNOW`, `MSC`, and `Applied` add a parallel but different construction and industrial read: not hyperscale digital infrastructure alone, but the practical economics of shelter, water, comfort, climate control, branch density, maintenance, procurement control, process infrastructure, automation support, labor scarcity, affordability pressure, and repair-and-replacement demand. Together with `WESCO`, they show that the middle layer matters in housing, civic infrastructure, contractor channels, industrial uptime, climate systems, process networks, and the power/data-center system.
+`Builders FirstSource`, `Core & Main`, `Ferguson`, `Watsco`, `Resideo`, `Fastenal`, `DNOW`, `MSC`, and `Applied` add a parallel but different construction and industrial read: not hyperscale digital infrastructure alone, but the practical economics of shelter, water, comfort, climate control, low-voltage security distribution, branch density, maintenance, procurement control, process infrastructure, automation support, labor scarcity, affordability pressure, and repair-and-replacement demand. Together with `WESCO`, they show that the middle layer matters in housing, civic infrastructure, contractor channels, building-controls networks, industrial uptime, climate systems, process networks, and the power/data-center system.
 
 ### Capital-light behavior at the customer level creates capital-heavy opportunity in the middle
 

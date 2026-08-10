@@ -25,6 +25,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Henry Schein, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/henry-schein-inc/company-packet.md)
   - [Baxter International Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/baxter-international-inc/company-packet.md)
   - [AdaptHealth Corp.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-appliances-equipment/adapthealth-corp/company-packet.md)
+  - [Avanos Medical, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-appliances-equipment/avanos-medical-inc/company-packet.md)
   - [Accendra Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-equipment-wholesale/accendra-health-inc/company-packet.md)
   - [Cardinal Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cardinal-health-inc/company-packet.md)
   - [McKesson Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/mckesson-corporation/company-packet.md)
@@ -53,13 +54,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a forty-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a forty-one-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current forty completed names show forty related but distinct middle-layer roles:
+The current forty-one completed names show forty-one related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -78,6 +79,7 @@ The current forty completed names show forty related but distinct middle-layer r
 - `Henry Schein` controls recurring medical-and-dental supply distribution, practice procurement, and value-added services across office-based healthcare.
 - `Baxter` controls a hospital-facing supply-and-equipment layer built around infusion consumables, patient-support systems, connected care equipment, acute-care products, and drug-compounding workflow.
 - `AdaptHealth` controls a healthcare-at-home replenishment and referral-management layer built around sleep therapy, respiratory care, home medical equipment, consumable resupply, payor alignment, and recurring post-acute patient support.
+- `Avanos` controls a provider-facing specialty-medical-products layer built around nutrition systems, neonatal solutions, pain-management and recovery products, direct hospital selling, and third-party wholesale routing.
 - `Accendra Health` controls a narrower home-based care and direct-to-patient medical-supply channel where recurring equipment, disposable supplies, reimbursement friction, and payor concentration all shape the middle layer.
 - `Cardinal Health` controls larger institutional healthcare throughput across pharmaceutical and specialty solutions, medical products distribution, at-home solutions, and logistics attachment.
 - `McKesson` controls medicine flow, specialty distribution, and provider-facing healthcare infrastructure.
@@ -138,6 +140,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Henry Schein`: keeping dental practices, physician offices, alternate-care sites, institutional clinics, and labs supplied with recurring medical-and-dental products, equipment, and workflow support
 - `Baxter`: keeping hospitals, ambulatory sites, rehabilitation centers, nursing facilities, and care systems supplied with infusion therapies, acute-care products, patient-support systems, connected equipment, and compounding-linked clinical workflow
 - `AdaptHealth`: keeping discharged and chronically ill patients connected to recurring home-medical equipment, oxygen and ventilation support, sleep resupply, and payor-approved replenishment outside the hospital
+- `Avanos`: keeping hospitals and provider systems supplied with enteral-feeding, neonatal, airway, and pain-management products through direct relationships and wholesale-distributor channels
 - `Accendra Health`: keeping home-based patients, payors, agencies, and prescribers connected to recurring supplies, respiratory and sleep equipment, diabetes products, and direct-to-patient replenishment
 - `Cardinal Health`: keeping hospitals, healthcare systems, pharmacies, ambulatory surgery centers, clinical laboratories, physician offices, and home patients supplied through pharmaceutical flow, medical products, and healthcare logistics attachment
 - `McKesson`: keeping pharmacies, providers, oncology practices, and health systems supplied and connected to specialty and workflow infrastructure
@@ -185,6 +188,7 @@ The packets now point to the same conclusion from different directions:
 - `Henry Schein` benefits from high-frequency practitioner relationships, distribution reliability, technology and specialty cross-sell, and embedded procurement workflow across fragmented office-based care.
 - `Baxter` benefits from provider dependence on IV solutions, connected care hardware, acute-care products, patient-support systems, compounding, and the installed hospital-use workflow that ties recurring consumables to equipment reliability.
 - `AdaptHealth` benefits from referral density, recurring resupply economics, large payor and capitated relationships, digital self-service, and the fact that healthcare continuity increasingly moves into the home rather than staying in acute-care settings.
+- `Avanos` benefits from direct provider access, wholesale-distributor routing, recurring clinical-use categories, and the way hospital and neonatal nutrition protocols can lock in product demand beyond a one-time capital sale.
 - `Accendra Health` benefits from direct patient-channel positioning, recurring home-based care demand, and channel continuity in non-drug supplies, but its current model is constrained by payor power, separation costs, and capital repair.
 - `Cardinal Health` benefits from scale distribution, branded and specialty pharmaceutical throughput, medical-products exposure, at-home and logistics attachment, and the degree to which provider systems cannot tolerate replenishment failure.
 - `McKesson` benefits from scale distribution, specialty handling, and embedded provider relationships.
@@ -230,6 +234,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Henry Schein` is highly exposed to provider procedure cadence, equipment spending, supplier mix, freight and inventory discipline, and its ability to widen margins beyond basic distribution through specialty products and value-added services.
 - `Baxter` is highly exposed to product-quality execution, segment reorganization, higher-cost inventory roll-through, working-capital repair, portfolio simplification, and the need to restore trust after infusion-system and front-line-care pressure.
 - `AdaptHealth` is highly exposed to reimbursement complexity, patient-service execution, capitated-contract onboarding, manufacturer price changes, free-cash-flow strain, and the difficulty of turning rapid volume growth into clean margin conversion.
+- `Avanos` is highly exposed to segment mix between nutrition systems and pain-management products, transformation-savings execution, hospital procedure and protocol demand, and the fact that the pending take-private interrupted how far the public quarter chain ran by Monday, `2026-08-10`.
 - `Accendra Health` is highly exposed to commercial payor exits, reimbursement complexity, equipment deployment economics, separation costs, debt reduction demands, and the need to stabilize a narrower post-divestiture channel.
 - `Cardinal Health` is highly exposed to customer contract churn, thin-margin scale discipline, tariff pressure inside medical distribution, litigation cash demands, acquisition integration, and the financing cost of broadening its healthcare-services stack.
 - `McKesson` moves enormous healthcare volume through thin-margin, timing-sensitive systems.
@@ -413,7 +418,7 @@ Major gaps still include:
 Those additions should help answer:
 
 - how much this frontier depends on branch density versus digital workflow
-- how repeatable the healthcare-distribution pattern is across multiple companies now that the archive includes office-based procurement, hospital-use products, healthcare-at-home continuation, and drug distribution
+- how repeatable the healthcare-distribution pattern is across multiple companies now that the archive includes office-based procurement, hospital-use products, healthcare-at-home continuation, provider-facing specialty products sold through direct and wholesale channels, and drug distribution
 - how repeatable the current healthcare middle-layer pattern is outside drug distribution, specialty routing, provider-adjacent logistics, therapy-enabling component supply, and home-based continuation
 - how route-based workplace-services, technical-facilities support, landscape maintenance, safety-monitoring, and recurring field-service models differ from rental and distribution models even when all six occupy a middle-layer role
 

@@ -1,6 +1,6 @@
 # APi Group Corporation
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -11,6 +11,7 @@ Date baseline: 2026-08-08
 - Industry: Business Services
 - Headquarters: New Brighton, Minnesota
 - Fiscal year-end: December
+- Assigned CLI 8 sub-lane: asset access and operating support
 - AnnualReports.com page: https://www.annualreports.com/Company/api-groupo-corporation
 - Investor relations page: https://ir.apigroupcorp.com/
 - SEC / EDGAR reference: https://www.sec.gov/Archives/edgar/data/1796209/000162828026011620/apg-20251231.htm
@@ -33,18 +34,18 @@ Date baseline: 2026-08-08
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | APi Group AnnualReports company page | https://www.annualreports.com/Company/api-groupo-corporation | [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/business-services/api-group-corporation/company-page-annualreports.html) | AnnualReports confirms the `Services` / `Business Services` classification and, as of `2026-08-08`, already hosts the `2025 Annual Report and Form 10K`. |
-| 2025 | APi Group 2025 annual report PDF | https://www.annualreports.com/Click/34228 | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/business-services/api-group-corporation/2025-annual-report.pdf) | AnnualReports-hosted annual-report PDF for the 2025 cycle. |
-| 2025 | APi Group 2025 annual report PDF / ARS | https://www.sec.gov/Archives/edgar/data/1796209/000162828026023530/apigroup2025annualreport.pdf | [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/business-services/api-group-corporation/2025-annual-report-sec-ars.pdf) | Official annual-report artifact filed as `ARS` on `2026-04-03`. |
-| 2025 | Form 10-K HTML / annual filing package | https://www.sec.gov/Archives/edgar/data/1796209/000162828026011620/apg-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/api-group-corporation/2025-10k.html) | Filed annual package covering segment structure, recurring service mix, acquisitions, leverage, and operating disclosures for the year ended `2025-12-31`. |
+| 2025 | APi Group AnnualReports company page | https://www.annualreports.com/Company/api-groupo-corporation | [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/services/business-services/api-group-corporation/company-page-annualreports.html) | AnnualReports confirms the `Services` / `Business Services` classification and, as of `2026-08-10`, already hosts the `2025 Annual Report and Form 10K`. |
+| 2025 | APi Group 2025 annual report PDF | https://www.annualreports.com/Click/34228 | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/services/business-services/api-group-corporation/2025-annual-report.pdf) | AnnualReports-hosted annual-report PDF for the 2025 cycle. |
+| 2025 | APi Group 2025 annual report PDF / ARS | https://www.sec.gov/Archives/edgar/data/1796209/000162828026023530/apigroup2025annualreport.pdf | [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/business-services/api-group-corporation/2025-annual-report-sec-ars.pdf) | Official annual-report artifact filed as `ARS` on `2026-04-03`. |
+| 2025 | Form 10-K HTML / annual filing package | https://www.sec.gov/Archives/edgar/data/1796209/000162828026011620/apg-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/api-group-corporation/2025-10k.html) | Filed annual package covering segment structure, recurring service mix, acquisitions, leverage, and operating disclosures for the year ended `2025-12-31`. |
 
 ## Last three quarters
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| Q2 2026 | [2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/api-group-corporation/2026-q2-earnings-release-sec-ex99.html) | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/api-group-corporation/2026-q2-10q.html) | none collected | Second-quarter 2026 net revenues were `$2.3 billion`, reported net income was `$99 million`, diluted EPS was `$0.20`, adjusted EBITDA was `$311 million`, and management said record backlog had moved above `$5 billion` on `July 30, 2026`. |
-| Q1 2026 | [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/api-group-corporation/2026-q1-earnings-release-sec-ex99.html) | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/api-group-corporation/2026-q1-10q.html) | none collected | First-quarter 2026 net revenues were `$2.0 billion`, reported net income was `$57 million`, diluted EPS was `$0.12`, adjusted EBITDA was `$235 million`, and management raised full-year revenue and EBITDA guidance on `April 30, 2026`. |
-| Q4 2025 | [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/api-group-corporation/2025-q4-earnings-release-sec-ex99.html) | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/business-services/api-group-corporation/2025-10k.html) | none collected | Full-year 2025 net revenues reached `$7.9 billion`, reported net income reached `$302 million`, adjusted EBITDA margin hit `13.2%`, adjusted free cash flow reached `$836 million`, and management introduced `2026` guidance on `February 25, 2026`. |
+| Q2 2026 | [2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/api-group-corporation/2026-q2-earnings-release-sec-ex99.html) | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/api-group-corporation/2026-q2-10q.html) | none collected | Second-quarter 2026 net revenues were `$2.3 billion`, reported net income was `$99 million`, diluted EPS was `$0.20`, adjusted EBITDA was `$311 million`, and management said record backlog had moved above `$5 billion` on `July 30, 2026`. |
+| Q1 2026 | [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/api-group-corporation/2026-q1-earnings-release-sec-ex99.html) | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/api-group-corporation/2026-q1-10q.html) | none collected | First-quarter 2026 net revenues were `$2.0 billion`, reported net income was `$57 million`, diluted EPS was `$0.12`, adjusted EBITDA was `$235 million`, and management raised full-year revenue and EBITDA guidance on `April 30, 2026`. |
+| Q4 2025 | [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/api-group-corporation/2025-q4-earnings-release-sec-ex99.html) | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/business-services/api-group-corporation/2025-10k.html) | none collected | Full-year 2025 net revenues reached `$7.9 billion`, reported net income reached `$302 million`, adjusted EBITDA margin hit `13.2%`, adjusted free cash flow reached `$836 million`, and management introduced `2026` guidance on `February 25, 2026`. |
 
 ## What changed
 

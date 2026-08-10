@@ -1,6 +1,6 @@
 # BrightView Holdings, Inc. Official IR Verification
 
-Date checked: 2026-08-09
+Date checked: 2026-08-10
 
 Investor relations home: https://investor.brightview.com/overview/default.aspx
 
@@ -19,6 +19,6 @@ Verified on the live IR stack:
 
 Interpretation:
 
-- BrightView has a current official IR chain for the trailing-quarter results in scope as of `2026-08-09`.
+- BrightView has a current official IR chain for the trailing-quarter results in scope as of `2026-08-10`.
 - Direct IR HTML capture was not usable in this environment because the site returned a Cloudflare challenge page instead of the underlying content.
 - The IR stack is still analytically useful because the live search results confirm the current-quarter release title and timing, including the explicit `second consecutive quarter of land maintenance revenue growth` framing.

@@ -1,6 +1,6 @@
 # Builders FirstSource, Inc. AnnualReports.com Verification
 
-Date checked: 2026-08-09
+Date checked: 2026-08-10
 
 AnnualReports.com page:
 
@@ -17,7 +17,7 @@ Verified from the current AnnualReports.com page:
 
 Important reconciliation note:
 
-- As of `2026-08-09`, AnnualReports.com already exposed the `2025` annual package for Builders FirstSource.
+- As of `2026-08-10`, AnnualReports.com already exposed the `2025` annual package for Builders FirstSource.
 - The annual filing itself says the stock is dual listed on the `NYSE` and `NYSE Texas`, so the exchange field on AnnualReports appears stale even while the annual-report year is current.
 
 Interpretation:

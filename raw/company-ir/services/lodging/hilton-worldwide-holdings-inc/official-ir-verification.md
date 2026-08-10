@@ -1,6 +1,6 @@
 # Hilton Worldwide Holdings, Inc. Official IR Verification
 
-Date checked: 2026-08-09
+Date checked: 2026-08-10
 
 Investor relations home: https://ir.hilton.com/
 
@@ -21,5 +21,5 @@ Verified on the live IR stack:
 
 Interpretation:
 
-- Hilton has a current and internally consistent official IR chain for the `2025` annual package and the last three reported quarters in scope as of `2026-08-09`.
+- Hilton has a current and internally consistent official IR chain for the `2025` annual package and the last three reported quarters in scope as of `2026-08-10`.
 - The company is useful because its reporting stack exposes a direct lodging-and-travel demand read through RevPAR, fee-based growth, pipeline expansion, and net unit growth rather than through a generic consumer-discretionary narrative.

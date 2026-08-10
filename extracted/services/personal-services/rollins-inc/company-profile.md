@@ -1,6 +1,6 @@
 # Rollins, Inc.
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -11,6 +11,7 @@ Date baseline: 2026-08-08
 - Industry: Personal Services
 - Headquarters: Atlanta, Georgia
 - Fiscal year-end: December
+- Assigned CLI 8 sub-lane: asset access and operating support
 - AnnualReports.com page: https://www.annualreports.com/Company/rollins-inc
 - Investor relations page: https://www.rollins.com/investors/financial-information/annual-reports
 - SEC / EDGAR reference: https://www.sec.gov/Archives/edgar/data/84839/000008483926000008/rol-20251231.htm
@@ -33,18 +34,18 @@ Date baseline: 2026-08-08
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | Rollins AnnualReports company page | https://www.annualreports.com/Company/rollins-inc | [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/personal-services/rollins-inc/company-page-annualreports.html) | AnnualReports confirms the `Services` / `Personal Services` classification, but as of `2026-08-08` it still shows `2024` as the latest hosted annual package. |
-| 2025 | Rollins annual-reports IR page | https://www.rollins.com/investors/financial-information/annual-reports | [annual-reports-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/personal-services/rollins-inc/annual-reports-page.html) | Official investor-relations page confirms that the company itself now hosts the `2025 Annual Report`. |
-| 2025 | Rollins 2025 annual report PDF | https://d1io3yog0oux5.cloudfront.net/_d4e6516391e7a29b8f572b54c9bd7951/rollins/db/988/11211/annual_report/Rollins+Annual+Report.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/personal-services/rollins-inc/2025-annual-report.pdf) | Official annual-report PDF from Rollins investor relations. |
-| 2025 | Form 10-K HTML / annual filing package | https://www.sec.gov/Archives/edgar/data/84839/000008483926000008/rol-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2025-10k.html) | Filed annual package covering pest-control operations, acquisitions, cash flow, and capital allocation for the year ended `2025-12-31`. |
+| 2025 | Rollins AnnualReports company page | https://www.annualreports.com/Company/rollins-inc | [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/services/personal-services/rollins-inc/company-page-annualreports.html) | AnnualReports confirms the `Services` / `Personal Services` classification, but as of `2026-08-10` it still shows `2024` as the latest hosted annual package. |
+| 2025 | Rollins annual-reports IR page | https://www.rollins.com/investors/financial-information/annual-reports | [annual-reports-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/personal-services/rollins-inc/annual-reports-page.html) | Official investor-relations page confirms that the company itself now hosts the `2025 Annual Report`. |
+| 2025 | Rollins 2025 annual report PDF | https://d1io3yog0oux5.cloudfront.net/_d4e6516391e7a29b8f572b54c9bd7951/rollins/db/988/11211/annual_report/Rollins+Annual+Report.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/personal-services/rollins-inc/2025-annual-report.pdf) | Official annual-report PDF from Rollins investor relations. |
+| 2025 | Form 10-K HTML / annual filing package | https://www.sec.gov/Archives/edgar/data/84839/000008483926000008/rol-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2025-10k.html) | Filed annual package covering pest-control operations, acquisitions, cash flow, and capital allocation for the year ended `2025-12-31`. |
 
 ## Last three quarters
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| Q2 2026 | [2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2026-q2-earnings-release-sec-ex99.html) | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2026-q2-10q.html) | none collected | Second-quarter 2026 revenue was `$1.1 billion`, net income was `$144 million`, diluted EPS was `$0.30`, and management said consumer-initiated residential demand softened while relationship-based channels remained stronger on `July 22, 2026`. |
-| Q1 2026 | [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2026-q1-earnings-release-sec-ex99.html) | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2026-q1-10q.html) | none collected | First-quarter 2026 revenue was `$906 million`, net income was `$108 million`, diluted EPS was `$0.22`, and management highlighted a strong March exit with roughly `12%` total growth and more than `8%` organic growth on `April 22, 2026`. |
-| Q4 2025 | [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2025-q4-earnings-release-sec-ex99.html) | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2025-10k.html) | none collected | Full-year 2025 revenue reached `$3.8 billion`, net income reached `$527 million`, diluted EPS reached `$1.09`, and management framed the business as a recurring-services compounder despite weather pressure on one-time work on `February 11, 2026`. |
+| Q2 2026 | [2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2026-q2-earnings-release-sec-ex99.html) | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2026-q2-10q.html) | none collected | Second-quarter 2026 revenue was `$1.1 billion`, net income was `$144 million`, diluted EPS was `$0.30`, and management said consumer-initiated residential demand softened while relationship-based channels remained stronger on `July 22, 2026`. |
+| Q1 2026 | [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2026-q1-earnings-release-sec-ex99.html) | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2026-q1-10q.html) | none collected | First-quarter 2026 revenue was `$906 million`, net income was `$108 million`, diluted EPS was `$0.22`, and management highlighted a strong March exit with roughly `12%` total growth and more than `8%` organic growth on `April 22, 2026`. |
+| Q4 2025 | [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2025-q4-earnings-release-sec-ex99.html) | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2025-10k.html) | none collected | Full-year 2025 revenue reached `$3.8 billion`, net income reached `$527 million`, diluted EPS reached `$1.09`, and management framed the business as a recurring-services compounder despite weather pressure on one-time work on `February 11, 2026`. |
 
 ## What changed
 

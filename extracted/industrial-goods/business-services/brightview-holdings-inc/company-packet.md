@@ -1,9 +1,10 @@
 # BrightView Holdings, Inc. Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
+- Assigned CLI 8 sub-lane: asset access and operating support
 - Company: BrightView Holdings, Inc.
 - Sector: Industrial Goods
 - Industry: Business Services
@@ -57,16 +58,16 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/business-services/brightview-holdings-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/business-services/brightview-holdings-inc/official-ir-verification.md)
-- [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/business-services/brightview-holdings-inc/2025-annual-report-sec-ars.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2025-10k.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q1-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q2-10q.html)
-- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q3-8k.html)
-- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q3-10q.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/business-services/brightview-holdings-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/business-services/brightview-holdings-inc/official-ir-verification.md)
+- [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/business-services/brightview-holdings-inc/2025-annual-report-sec-ars.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2025-10k.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q1-10q.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q2-10q.html)
+- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q3-8k.html)
+- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q3-10q.html)
 
 ## Working interpretation
 

@@ -1,6 +1,6 @@
 # BrightView Holdings, Inc.
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -17,6 +17,7 @@ Date baseline: 2026-08-09
 
 ## Coverage status
 
+- Assigned CLI 8 sub-lane: asset access and operating support
 - Target annual report year: 2025
 - Target quarter window:
   - quarter 1: Q3 FY2026
@@ -33,18 +34,18 @@ Date baseline: 2026-08-09
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | BrightView AnnualReports metadata verification | https://www.annualreports.com/Company/brightview-holdings-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/business-services/brightview-holdings-inc/annualreports-verification.md) | AnnualReports confirms the `Industrial Goods` / `Business Services` classification and, as of `2026-08-09`, shows a current `2025 Annual Report and Form 10K` label. |
-| 2025 | Annual report to shareholders / ARS | https://www.sec.gov/Archives/edgar/data/1734713/000110465926004108/tm2529574d2_ars.pdf | [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/business-services/brightview-holdings-inc/2025-annual-report-sec-ars.pdf) | SEC-hosted annual report package filed on `2026-01-15` for the year ended `2025-09-30`. |
-| 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1734713/000119312525288109/bv-20250930.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2025-10k.html) | Standalone annual filing covering BrightView's national commercial-landscaping footprint, segment mix, labor model, and seasonal-worker dependence. |
-| 2025 | SEC submissions JSON | https://data.sec.gov/submissions/CIK0001734713.json | [submissions-cik0001734713.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/submissions-cik0001734713.json) | Confirms CIK, ticker, NYSE listing, September fiscal year-end, and the authoritative annual plus trailing-three-quarter filing chain. |
+| 2025 | BrightView AnnualReports metadata verification | https://www.annualreports.com/Company/brightview-holdings-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/business-services/brightview-holdings-inc/annualreports-verification.md) | AnnualReports confirms the `Industrial Goods` / `Business Services` classification and, as of `2026-08-10`, shows a current `2025 Annual Report and Form 10K` label. |
+| 2025 | Annual report to shareholders / ARS | https://www.sec.gov/Archives/edgar/data/1734713/000110465926004108/tm2529574d2_ars.pdf | [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/business-services/brightview-holdings-inc/2025-annual-report-sec-ars.pdf) | SEC-hosted annual report package filed on `2026-01-15` for the year ended `2025-09-30`. |
+| 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1734713/000119312525288109/bv-20250930.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2025-10k.html) | Standalone annual filing covering BrightView's national commercial-landscaping footprint, segment mix, labor model, and seasonal-worker dependence. |
+| 2025 | SEC submissions JSON | https://data.sec.gov/submissions/CIK0001734713.json | [submissions-cik0001734713.json](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/submissions-cik0001734713.json) | Confirms CIK, ticker, NYSE listing, September fiscal year-end, and the authoritative annual plus trailing-three-quarter filing chain. |
 
 ## Last three quarters
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| Q3 FY2026 | live IR press-release page verified, no local artifact saved | [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q3-10q.html) | none collected | Net service revenues increased to `$717.6 million`, land maintenance revenue increased `2.3%`, net income was `$6.1 million`, and the official IR release framed the quarter as the `second consecutive quarter of land maintenance revenue growth`. |
-| Q2 FY2026 | official release referenced from `8-K`, no local exhibit saved | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q2-10q.html) | none collected | Net service revenues increased to `$702.9 million`, net income was `$1.7 million`, maintenance-services revenue increased `12.5%`, and heavier snow plus modest landscaping growth offset weaker development projects. |
-| Q1 FY2026 | official release referenced from `8-K`, no local exhibit saved | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q1-10q.html) | none collected | Net service revenues increased to `$614.7 million`, but net loss widened to `($15.2 million)` as BrightView worked through weak development mix and preferred-dividend drag while maintenance revenue still grew `6.6%`. |
+| Q3 FY2026 | live IR press-release page verified, no local artifact saved | [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q3-10q.html) | none collected | Net service revenues increased to `$717.6 million`, land maintenance revenue increased `2.3%`, net income was `$6.1 million`, and the official IR release framed the quarter as the `second consecutive quarter of land maintenance revenue growth`. |
+| Q2 FY2026 | official release referenced from `8-K`, no local exhibit saved | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q2-10q.html) | none collected | Net service revenues increased to `$702.9 million`, net income was `$1.7 million`, maintenance-services revenue increased `12.5%`, and heavier snow plus modest landscaping growth offset weaker development projects. |
+| Q1 FY2026 | official release referenced from `8-K`, no local exhibit saved | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/business-services/brightview-holdings-inc/2026-q1-10q.html) | none collected | Net service revenues increased to `$614.7 million`, but net loss widened to `($15.2 million)` as BrightView worked through weak development mix and preferred-dividend drag while maintenance revenue still grew `6.6%`. |
 
 ## What changed
 

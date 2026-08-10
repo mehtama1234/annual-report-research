@@ -1,9 +1,10 @@
 # Marriott International, Inc. Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
+- Assigned CLI 8 sub-lane: service-layer physical interface
 - Company: Marriott International, Inc.
 - Sector: Services
 - Industry: Lodging
@@ -18,7 +19,7 @@ Date baseline: 2026-08-09
 ## Annual report takeaways
 
 - Marriott is the right next Services name because it turns the travel-status lane into something broader than one airline plus one hotel operator. Delta gives the archive a loyalty-currency system, Hilton gives it an asset-light lodging compounder, and Marriott adds the largest branded stay network in the set.
-- AnnualReports still lagged here as of `2026-08-09`, showing only the `2024 Annual Report and Form 10K`, while Marriott IR already exposed the `2025` annual report. That makes Marriott another direct example of why the archive cannot rely on the aggregator alone.
+- AnnualReports still lagged here as of `2026-08-10`, showing only the `2024 Annual Report and Form 10K`, while Marriott IR already exposed the `2025` annual report. That makes Marriott another direct example of why the archive cannot rely on the aggregator alone.
 - The `2025` annual materials frame Marriott as a scale distribution and fee engine built on franchising, management, licensing, and Marriott Bonvoy. The system ended `2025` with `9,805` properties and `1,779,936` rooms across `145` countries and territories, while the development pipeline reached approximately `4,100` properties and nearly `610,000` rooms.
 - Marriott Bonvoy is central to the business strategy, not a side feature. In `2025`, about `75%` of U.S. hotel room nights and `68%` of global hotel room nights were booked by loyalty members, and co-branded credit cards in `11` countries remained a significant funding source for the loyalty program.
 - The full-year `2025` earnings release said diluted EPS was `$9.51`, net income was `$2,601M`, adjusted net income was `$2,742M`, adjusted EBITDA was `$5,383M`, and worldwide RevPAR increased `2.0%` for the full year.
@@ -59,24 +60,24 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/lodging/marriott-international-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/marriott-international-inc/official-ir-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/lodging/marriott-international-inc/company-page.html)
-- [annual-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/marriott-international-inc/annual-page.html)
-- [quarterly-results-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/marriott-international-inc/quarterly-results-page.html)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/marriott-international-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/marriott-international-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/marriott-international-inc/2025-q4-8k.html)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/marriott-international-inc/2025-q4-earnings-release.pdf)
-- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/services/lodging/marriott-international-inc/2025-q4-earnings-call-transcript.pdf)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/marriott-international-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/marriott-international-inc/2026-q1-10q.html)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/marriott-international-inc/2026-q1-earnings-release.pdf)
-- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/services/lodging/marriott-international-inc/2026-q1-earnings-call-transcript.pdf)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/marriott-international-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/marriott-international-inc/2026-q2-10q.html)
-- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/marriott-international-inc/2026-q2-earnings-release.pdf)
-- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/services/lodging/marriott-international-inc/2026-q2-earnings-call-transcript.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/services/lodging/marriott-international-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/marriott-international-inc/official-ir-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/services/lodging/marriott-international-inc/company-page.html)
+- [annual-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/marriott-international-inc/annual-page.html)
+- [quarterly-results-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/marriott-international-inc/quarterly-results-page.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/marriott-international-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/marriott-international-inc/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/marriott-international-inc/2025-q4-8k.html)
+- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/marriott-international-inc/2025-q4-earnings-release.pdf)
+- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/earnings-calls/services/lodging/marriott-international-inc/2025-q4-earnings-call-transcript.pdf)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/marriott-international-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/marriott-international-inc/2026-q1-10q.html)
+- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/marriott-international-inc/2026-q1-earnings-release.pdf)
+- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/earnings-calls/services/lodging/marriott-international-inc/2026-q1-earnings-call-transcript.pdf)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/marriott-international-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/marriott-international-inc/2026-q2-10q.html)
+- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/marriott-international-inc/2026-q2-earnings-release.pdf)
+- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/earnings-calls/services/lodging/marriott-international-inc/2026-q2-earnings-call-transcript.pdf)
 
 ## Working interpretation
 

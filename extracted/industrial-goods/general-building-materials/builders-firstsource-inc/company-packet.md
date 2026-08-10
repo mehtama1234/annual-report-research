@@ -1,6 +1,6 @@
 # Builders FirstSource, Inc. Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -9,6 +9,7 @@ Date baseline: 2026-08-09
 - Industry: General Building Materials
 - Ticker: BLDR
 - Fiscal year-end: December
+- Assigned CLI 8 sub-lane: wholesale and distribution infrastructure
 - Target annual report year: 2025
 - Target quarter window:
   - quarter 1: Q2 2026
@@ -18,7 +19,7 @@ Date baseline: 2026-08-09
 ## Annual report takeaways
 
 - Builders FirstSource is a high-value archive addition because it extends the built-environment track into the direct homebuilding supply chain, sitting upstream from Home Depot and Lowe's but closer to actual starts, framing crews, repair-and-remodel demand, and commodity deflation.
-- AnnualReports.com already exposed the `2025` annual package as of `2026-08-09`, while the official annual filing also made a useful metadata discrepancy visible: AnnualReports still labeled the exchange as `NASDAQ`, but the company said its common stock was dual listed on the `NYSE` and `NYSE Texas`.
+- AnnualReports.com already exposed the `2025` annual package as of `2026-08-10`, while the official annual filing also made a useful metadata discrepancy visible: AnnualReports still labeled the exchange as `NASDAQ`, but the company said its common stock was dual listed on the `NYSE` and `NYSE Texas`.
 - The annual filing frames the company as a national professional-builder platform rather than a simple commodity distributor. Builders FirstSource operated approximately `585` locations in `43` states, served professional builders in both new residential construction and repair and remodeling, and emphasized prefabricated components, turnkey services, and digital solutions as structural advantages.
 - The annual materials also clarify the demand engine. Management said the industry is driven by both residential new construction and residential repair and remodeling, with growth linked to affordability, interest rates, labor availability, and consumer confidence.
 - This is not just a lumber packet. The company keeps emphasizing value-added products and services, digital capabilities, and the role of prefabrication in reducing labor, improving quality, and speeding construction, which makes the packet useful as a read on housing efficiency and contractor workflow under pressure.
@@ -54,21 +55,21 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/general-building-materials/builders-firstsource-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2025-10k.html)
-- [2025-q4-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2025-q4-earnings-release.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2025-q4-8k.html)
-- [2025-q4-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2025-q4-earnings-presentation.pdf)
-- [2026-q1-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q1-earnings-release.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q1-10q.html)
-- [2026-q1-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q1-earnings-presentation.pdf)
-- [2026-q2-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q2-earnings-release.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q2-10q.html)
-- [2026-q2-corporate-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q2-corporate-presentation.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/general-building-materials/builders-firstsource-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2025-10k.html)
+- [2025-q4-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2025-q4-earnings-release.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2025-q4-8k.html)
+- [2025-q4-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2025-q4-earnings-presentation.pdf)
+- [2026-q1-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q1-earnings-release.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q1-10q.html)
+- [2026-q1-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q1-earnings-presentation.pdf)
+- [2026-q2-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q2-earnings-release.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q2-10q.html)
+- [2026-q2-corporate-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/general-building-materials/builders-firstsource-inc/2026-q2-corporate-presentation.pdf)
 
 ## Working interpretation
 

@@ -14,6 +14,7 @@ This memo pulls together the current healthcare-frontier flagship packets that m
 - [Medpace Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/diagnostic-substances/medpace-holdings-inc/company-packet.md)
 - [Quest Diagnostics Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/quest-diagnostics-incorporated/company-packet.md)
 - [Natera, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/natera-inc/company-packet.md)
+- [Alnylam Pharmaceuticals, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/biotechnology/alnylam-pharmaceuticals-inc/company-packet.md)
 
 ## What this batch adds
 
@@ -32,6 +33,7 @@ Instead, it shows a fuller chain:
 - they increasingly have to be measured continuously through connected devices or repeated diagnostic workflows
 - they increasingly have to be stratified by narrower molecular or genetic information before treatment decisions are made
 - they have to be validated through outsourced trial infrastructure before they become commercial care
+- and they still have to become durable commercial franchises after approval rather than fading back into pipeline promise
 - and the economics can still depend on affordable generic scale even while the profit pool shifts toward newer franchises
 
 ## The strongest repeated patterns
@@ -49,7 +51,7 @@ The healthcare archive already had evidence on payers and hospitals, but this ba
 `Labcorp`, `Quest`, and `Natera` support the testing and workflow side of it.
 `DexCom` and `Insulet` move recurring monitoring and dosing into the home.
 `West` supports the physical delivery side of it.
-`Regeneron` benefits when a specialty therapy becomes durable and recurrent rather than episodic.
+`Regeneron` and `Alnylam` benefit when specialty-therapy franchises become durable and recurrent rather than episodic.
 
 The key pattern is that the best recurring healthcare economics are often built not only on a molecule, but on the surrounding system required to keep that molecule working in the real world.
 
@@ -139,7 +141,7 @@ The patient or family is not just receiving treatment. They are increasingly see
 
 ### 7. Pipeline risk and franchise concentration still dominate the value story
 
-`Regeneron` is the clearest example in this batch that frontier healthcare upside can look very strong while still remaining highly concentrated.
+`Regeneron` and `Alnylam` together are the clearest examples in this batch that frontier healthcare upside can look very strong while still remaining highly concentrated.
 
 The company is a live reminder that:
 
@@ -149,6 +151,10 @@ The company is a live reminder that:
 
 This is the frontier version of franchise and IP monetization.
 The same therapy that creates extraordinary economic quality can also create future fragility if the replenishment cycle breaks.
+
+`Alnylam` strengthens this point because it shows a different stage of the same dynamic.
+The company already has real scale and improving profitability, but the financial profile is increasingly dominated by one platform and one TTR-centered franchise.
+That means the business is no longer just a science story, yet it still has to prove that launch durability and pipeline replenishment can keep concentration from becoming a future weakness.
 
 ### 8. Affordable access still matters, but the profit is moving
 
@@ -202,6 +208,7 @@ Those pressures express differently by company:
 - `Labcorp`: lab throughput, segment leverage, and demand quality
 - `Quest`: requisition volume, payer mix, workflow integration, and advanced-diagnostics scaling
 - `Natera`: ASP mix, reimbursement expansion, evidence spending, and reliance on a few branded assay franchises
+- `Alnylam`: franchise concentration, launch durability, payer access, and pipeline readout cadence
 - `Teva`: mix transition, transformation, and generic-price pressure
 - `West`: qualification burden, delivery-system demand, and quality execution
 - `Option Care`: labor, payer pressure, site-of-care routing, and therapy complexity
@@ -216,6 +223,7 @@ Those pressures express differently by company:
   - diagnostic dependence
   - testing-network scale
   - molecular-information franchises
+  - specialty-therapy platform franchises
   - delivery infrastructure
   - monitoring-device adherence
   - outsourced trial execution
@@ -235,8 +243,8 @@ Those pressures express differently by company:
 - `Medpace` is the best current packet for outsourced trial infrastructure and the operating layer between therapeutic science and commercialization.
 - `Quest` is the best current packet for routine diagnostics scale, consumer-initiated testing, and national laboratory workflow dependence.
 - `Natera` is the best current packet for precision-diagnostics franchise economics, molecular recurrence monitoring, and the consumer-facing edge of genetic testing.
+- `Alnylam` is the best current packet for RNAi-platform commercialization, TTR franchise concentration, and post-approval biotech scaling risk.
 
 ## Gaps
 
-- Need a second direct biotechnology comparison with more obvious binary pipeline risk if the archive wants a higher-volatility contrast against Regeneron.
 - Need a second specialized-services or home-based-care name to test whether Option Care’s economics are category-wide or company-specific.

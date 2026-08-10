@@ -21,6 +21,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Sysco Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/retail-grocery-stores/sysco-corp/company-packet.md)
   - [McKesson Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/mckesson-corporation/company-packet.md)
   - [Cencora](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cencora-inc/company-packet.md)
+  - [Option Care Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/specialized-health-services/option-care-health-inc/company-packet.md)
 - asset access and operating support:
   - [ABM Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
   - [APi Group Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/api-group-corporation/company-packet.md)
@@ -35,13 +36,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a twenty-two-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a twenty-three-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current twenty-two completed names show twenty-two related but distinct middle-layer roles:
+The current twenty-three completed names show twenty-three related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -56,6 +57,7 @@ The current twenty-two completed names show twenty-two related but distinct midd
 - `Sysco` controls recurring foodservice replenishment and route-density economics.
 - `McKesson` controls medicine flow, specialty distribution, and provider-facing healthcare infrastructure.
 - `Cencora` controls pharmaceutical channel access, provider-facing logistics, and specialty-services infrastructure.
+- `Option Care` controls alternate-site infusion routing, specialty-drug administration workflow, and recurring treatment delivery outside the hospital.
 - `ABM` controls outsourced facilities operations, technical-services support, and recurring uptime inside airports, campuses, warehouses, and technical environments.
 - `APi` controls inspection, monitoring, and safety-oriented service relationships tied to facilities and critical infrastructure.
 - `BrightView` controls recurring commercial-site maintenance, seasonal labor deployment, and property-upkeep execution across campuses, municipalities, hospitals, hotels, and retail sites.
@@ -98,6 +100,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Sysco`: keeping restaurants, hospitality venues, healthcare kitchens, and other away-from-home food channels stocked
 - `McKesson`: keeping pharmacies, providers, oncology practices, and health systems supplied and connected to specialty and workflow infrastructure
 - `Cencora`: keeping pharmacies, physician practices, health systems, and pharmaceutical channels supplied with medicines and specialty support services
+- `Option Care`: keeping patients, payers, prescribers, and specialty therapies connected through recurring home and alternate-site infusion delivery
 - `ABM`: keeping airports, campuses, warehouses, semiconductor environments, and datacenter-adjacent facilities clean, staffed, supported, and operational
 - `APi`: keeping facilities, compliance systems, and safety-critical environments inspected, monitored, and operational
 - `BrightView`: keeping commercial properties, campuses, municipalities, hospitals, hotels, and retail sites maintained, presentable, and seasonally serviced through recurring field execution
@@ -127,6 +130,7 @@ The packets now point to the same conclusion from different directions:
 - `Sysco` benefits from route density, customer routines, sourcing leverage, and local service execution.
 - `McKesson` benefits from scale distribution, specialty handling, and embedded provider relationships.
 - `Cencora` benefits from pharmaceutical access, specialty logistics, and provider/manufacturer embeddedness.
+- `Option Care` benefits from site-of-care migration, payer alignment, clinician-supported coordination, and the repeated routing of costly therapies into lower-friction treatment settings.
 - `ABM` benefits from recurring site-level operating dependence and the willingness of customers to outsource continuity-sensitive work.
 - `APi` benefits from recurring inspections, monitoring relationships, and compliance-linked attachment.
 - `BrightView` benefits from recurring maintenance contracts, local route density, seasonal labor coordination, and the tendency of site owners to outsource visible but labor-heavy property upkeep.
@@ -154,6 +158,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Sysco` needs inventory management, routing, and working-capital discipline to protect margin.
 - `McKesson` moves enormous healthcare volume through thin-margin, timing-sensitive systems.
 - `Cencora` faces similar healthcare working-capital and reimbursement sensitivity, but with more visible specialty and services attachment.
+- `Option Care` is highly exposed to reimbursement, therapy mix, clinician availability, payer behavior, and the balance between recurring treatment density and labor-heavy care coordination.
 - `Grainger` wins partly because assortment breadth and availability are trusted.
 - `WESCO` needs disciplined capital allocation and project execution because fast growth can still consume cash and working capital.
 - `ABM` depends heavily on labor management, service mix, and technical-project timing because recurring facilities work and higher-value technical work coexist inside the same platform.
@@ -210,6 +215,7 @@ This is already visible across the completed set:
 - restaurants, hospitality, schools, and healthcare foodservice at `Sysco`
 - pharmacies, oncology practices, and health systems at `McKesson`
 - pharmacies, physician practices, health systems, and pharma-channel partners at `Cencora`
+- patients, prescribers, infusion nurses, and payers across home and alternate-site specialty treatment at `Option Care`
 - airports, education sites, warehouses, commercial buildings, fabs, and datacenter-linked facilities at `ABM`
 - business facilities, safety-sensitive buildings, and infrastructure clients at `APi`
 - employers, commercial sites, and workplace operators at `Cintas`
@@ -218,7 +224,7 @@ This is already visible across the completed set:
 - business transient, group travel, owner networks, and destination hospitality systems at `Hyatt`
 - business transient, group travel, owner networks, loyalty-linked travelers, and global lodging systems at `Hilton`
 
-The implication is that this frontier is not mainly about discretionary end-consumer impulse. It is about institutions needing the system to keep functioning.
+The implication is that this frontier is not mainly about discretionary end-consumer impulse. It is about institutions and recurring care systems needing the platform to keep functioning.
 
 ## Current theme map
 
@@ -296,20 +302,20 @@ The frontier is not complete yet.
 
 Major gaps still include:
 
-- a medical-equipment or medical-supply distributor beyond drug channels
+- a medical-equipment or medical-supply distributor beyond drug channels and alternate-site service delivery
 - a dedicated protection-services or security-services operator beyond `ABM`, `APi`, `BrightView`, `Cintas`, and `Rollins`
-- a medical-equipment or medical-supply distributor or operator that is more explicitly channel-oriented than the current healthcare service set
+- a medical-equipment or medical-supply distributor or operator that is more explicitly product-channel-oriented than the current healthcare service set
 
 Those additions should help answer:
 
 - how much this frontier depends on branch density versus digital workflow
 - how repeatable the healthcare-distribution pattern is across multiple companies
-- how repeatable the current healthcare middle-layer pattern is outside drug distribution and provider-adjacent logistics
+- how repeatable the current healthcare middle-layer pattern is outside drug distribution, specialty routing, and provider-adjacent logistics
 - how route-based workplace-services, technical-facilities support, landscape maintenance, safety-monitoring, and recurring field-service models differ from rental and distribution models even when all six occupy a middle-layer role
 
 ## Working conclusion
 
-The current twenty-two-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current twenty-three-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

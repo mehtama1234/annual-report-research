@@ -122,6 +122,7 @@ This batch should explicitly surface:
 - `EMCOR Group, Inc.` packet chain written
 - `ABM Industries, Inc.` packet chain written
 - `Dycom Industries Inc.` packet chain written
+- `Comfort Systems USA, Inc.` packet chain written
 - Vulcan is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, making it the cleanest heavy-materials anchor in the batch
 - Westlake is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, giving the batch a conversion-materials and building-products bridge between chemicals, housing, and water infrastructure
 - Bunge is now the strongest completed packet in the batch because the annual report, latest three quarters, transcripts, presentations, company-hosted quarter filings, and direct SEC filing references were all collected or preserved locally
@@ -150,10 +151,11 @@ This batch should explicitly surface:
 - EMCOR now adds the electrical, mechanical, facilities-services, and technically dense building-operations layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on data-center and network-and-communications demand, recurring facilities and retrofit complexity, record `RPO`, labor-and-mix sensitivity, and the physical building layer beneath cloud, AI, healthcare, and institutional uptime
 - ABM now adds the outsourced facilities, airport-operations, semiconductor-support, and datacenter-adjacent technical-services layer with a source-complete `2025` annual / fiscal `Q2 2026` / fiscal `Q1 2026` / fiscal `Q4 2025` SEC-anchored evidence stack and a strong read on WGNSTAR as a technical-facilities pivot, recurring uptime demand, battery-storage and datacenter-related services, airport traffic-linked operating leverage, and labor-heavy facilities management as real infrastructure
 - Dycom now adds the telecom, fiber, hyperscaler-connectivity, and inside-plant structured-cabling field-execution layer with a source-complete off-calendar `2025` annual / fiscal `Q1 2027` / fiscal `Q4 2026` / fiscal `Q3 2026` IR-and-company-hosted-SEC evidence stack and a strong read on labor-constrained route execution, record backlog and book-to-bill, outside-plant to inside-plant convergence, BEAD-sensitive broadband timing, and the way bandwidth demand becomes real construction demand
+- Comfort Systems now adds the HVAC, electrical, modular, retrofit, and skilled-trades execution layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on backlog as labor-conversion challenge, building-system complexity, recurring service and retrofit support, decentralization-plus-acquisition scale, and the way electrification and cooling intensity raise the value of scarce technical field capacity
 
 Current batch split:
 
-- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `CECO Environmental Corp.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`, `CRH plc`, `Cemex, S.A.B. de C.V.`, `Watsco, Inc.`, `Ferguson Enterprises Inc.`, `Fastenal Company`, `DNOW Inc.`, `W.W. Grainger, Inc.`, `MSC Industrial Direct Co., Inc.`, `Quanta Services, Inc.`, `EMCOR Group, Inc.`, `ABM Industries, Inc.`, `Dycom Industries Inc.`
+- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `CECO Environmental Corp.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`, `CRH plc`, `Cemex, S.A.B. de C.V.`, `Watsco, Inc.`, `Ferguson Enterprises Inc.`, `Fastenal Company`, `DNOW Inc.`, `W.W. Grainger, Inc.`, `MSC Industrial Direct Co., Inc.`, `Quanta Services, Inc.`, `EMCOR Group, Inc.`, `ABM Industries, Inc.`, `Dycom Industries Inc.`, `Comfort Systems USA, Inc.`
 - partial: none
 
 ## CECO latest-quarter note
@@ -165,7 +167,7 @@ Current batch split:
 
 ## Next recommended names after this batch
 
-- `Comfort Systems USA, Inc.` if the archive next needs a tighter skilled-trades and HVAC execution comparison against `EMCOR` and `Quanta`
 - `Amphenol Corporation` if the archive next needs a components-and-connectivity-hardware bridge between network demand and the installed physical layer
 - `Equinix, Inc.` if the archive next needs the datacenter landlord and interconnection layer that sits between power/network buildout and software demand
 - `Crown Castle Inc.` if the archive next needs the tower, small-cell, and metro-fiber ownership layer between telecom construction and end-market wireless usage
+- `Vertiv Holdings Co` if the archive next needs a tighter cooling-and-power-environment comparison against the contractor and facilities-execution names

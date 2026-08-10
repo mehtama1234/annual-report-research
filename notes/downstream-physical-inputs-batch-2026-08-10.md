@@ -101,13 +101,15 @@ This batch should explicitly surface:
 - `Vulcan Materials Company` packet chain written
 - `Westlake Corporation` packet chain written
 - `Bunge Global SA` packet chain written
+- `Mueller Industries, Inc.` packet chain written
 - Vulcan has stronger local raw capture, but still has a direct SEC artifact gap because scripted SEC fetches were blocked by SEC automation controls
 - Westlake now has a written packet and full verified IR / filing URL map, but remains partial because several official company artifacts were verified remotely rather than saved locally from the current shell environment
 - Bunge is now the strongest completed packet in the batch because the annual report, latest three quarters, transcripts, presentations, company-hosted quarter filings, and direct SEC filing references were all collected or preserved locally
+- Mueller is now also completed with locally saved annual and quarter artifacts plus direct SEC filing references, giving the batch a downstream installed-systems and metal-fabrication anchor
 
 Current batch split:
 
-- completed: `Bunge Global SA`
+- completed: `Bunge Global SA`, `Mueller Industries, Inc.`
 - partial: `Vulcan Materials Company`, `Westlake Corporation`
 
 ## Next recommended names after this batch

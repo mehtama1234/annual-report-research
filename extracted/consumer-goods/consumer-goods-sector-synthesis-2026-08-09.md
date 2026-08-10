@@ -45,6 +45,8 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [Graphic Packaging Holding Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md)
 - Marketplace and recommerce:
   - [eBay Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/internet-service-providers/ebay/company-packet.md)
+- Play and franchise IP:
+  - [Hasbro, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/toys-games/hasbro-inc/company-packet.md)
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-10`.
 
@@ -58,7 +60,7 @@ Relevant out-of-sector taxonomy outlier:
 
 ## Executive read
 
-The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the `2025` annuals and late-`2025` / `2026` quarterlies is not one simple brand-pricing story. It is a sector splitting across at least fourteen different demand and earnings models:
+The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the `2025` annuals and late-`2025` / `2026` quarterlies is not one simple brand-pricing story. It is a sector splitting across at least twenty different demand and earnings models:
 
 - everyday staples and household-care platforms
 - cleaning-disinfecting and health-hygiene transition platforms
@@ -80,6 +82,7 @@ The completed consumer-goods set supports a clear sector conclusion: `Consumer G
 - beauty and discretionary personal-products portfolios with much higher execution, channel, and category sensitivity
 - packaging and container platforms that sit upstream of branded demand but still reflect consumer affordability, foodservice activity, and packaging-format economics
 - marketplace and recommerce platforms where category culture, seller supply, and advertising matter more than owned-inventory scale
+- play and franchise-IP platforms where repeat fan participation, crossover content, digital gaming, and collectible behavior matter more than a plain toy-category label
 
 The strongest pattern is that consumer resilience is real, but it is increasingly portfolio-shaped. The sector is less about automatic pricing power and more about category mix, affordability architecture, trusted routine-use demand, international breadth, and productivity-funded reinvestment.
 
@@ -117,8 +120,9 @@ The thirty-company set already breaks into distinct economic roles:
 - `Coty` is a more stressed beauty portfolio with clear execution and category weakness.
 - `Estee Lauder` is a recovering prestige-beauty platform.
 - `Graphic Packaging` is a packaging-and-foodservice infrastructure platform sitting behind multiple branded consumer channels.
+- `Hasbro` is a play and franchise-IP platform where the real engine is repeat fan participation across tabletop, digital gaming, licensing, and crossover-set demand rather than a generic toy classification.
 
-This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, routine beverage systems, premium alcohol occasion systems, nicotine-transition systems, premium athletic-apparel systems, mass-scale comfort-and-casualization footwear systems, heritage-brand apparel-control systems, intimates-and-beauty identity systems, beauty exposure, home-improvement demand, off-price bargain discovery, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, value-hunt-driven, trend-sensitive, culturally activated, ritualized, addiction-linked, identity-led, brand-control-led, fit-and-body-confidence-led, comfort-normalized, or physically embedded in the delivery layer behind the shelf.
+This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, routine beverage systems, premium alcohol occasion systems, nicotine-transition systems, premium athletic-apparel systems, mass-scale comfort-and-casualization footwear systems, heritage-brand apparel-control systems, intimates-and-beauty identity systems, beauty exposure, home-improvement demand, off-price bargain discovery, play-and-franchise-IP ecosystems, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, value-hunt-driven, trend-sensitive, culturally activated, ritualized, addiction-linked, identity-led, brand-control-led, fit-and-body-confidence-led, comfort-normalized, franchise-led, or physically embedded in the delivery layer behind the shelf.
 
 ### 1B. Consumer Goods also contains an off-price bargain-discovery layer
 

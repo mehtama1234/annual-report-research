@@ -15,6 +15,7 @@ This memo pulls together the current healthcare-frontier flagship packets that m
 - [Quest Diagnostics Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/quest-diagnostics-incorporated/company-packet.md)
 - [Natera, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/natera-inc/company-packet.md)
 - [Alnylam Pharmaceuticals, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/biotechnology/alnylam-pharmaceuticals-inc/company-packet.md)
+- [DaVita Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/davita-inc/company-packet.md)
 
 ## What this batch adds
 
@@ -48,6 +49,7 @@ The healthcare archive already had evidence on payers and hospitals, but this ba
 - repeated manufacturing and delivery support
 
 `Option Care` is the cleanest direct operator of alternate-site recurring administration.
+`DaVita` is the clearest mandatory chronic-treatment operator.
 `Labcorp`, `Quest`, and `Natera` support the testing and workflow side of it.
 `DexCom` and `Insulet` move recurring monitoring and dosing into the home.
 `West` supports the physical delivery side of it.
@@ -72,6 +74,7 @@ That favors companies that sit inside the routine:
 
 - `Regeneron` through long-duration franchise therapies
 - `Option Care` through recurring infusion delivery
+- `DaVita` through recurring dialysis and kidney-care coordination
 - `Labcorp` and `Quest` through repeated testing and monitoring
 - `Natera` through repeated molecular screening and recurrence surveillance
 - `DexCom` and `Insulet` through device-linked chronic disease routines
@@ -139,7 +142,22 @@ It is also about:
 This matters because parts of healthcare are becoming behaviorally closer to information services.
 The patient or family is not just receiving treatment. They are increasingly seeking earlier knowledge and more granular monitoring.
 
-### 7. Pipeline risk and franchise concentration still dominate the value story
+### 7. Chronic-treatment infrastructure is its own recurring-care lane
+
+`DaVita` closes an important gap in the current set because it shows that not all recurring healthcare infrastructure depends on specialty therapies.
+Some of it depends on:
+
+- unavoidable treatment frequency
+- center density
+- reimbursement per treatment
+- labor and care-team discipline
+- home-modality and value-based-care adoption
+
+This matters because it gives the batch a second specialized-services comparison against `Option Care`.
+Option Care is about routing and administering expensive therapies outside the hospital.
+DaVita is about maintaining a high-frequency chronic-care utility while trying to expand coordination and home-based support around it.
+
+### 8. Pipeline risk and franchise concentration still dominate the value story
 
 `Regeneron` and `Alnylam` together are the clearest examples in this batch that frontier healthcare upside can look very strong while still remaining highly concentrated.
 
@@ -156,7 +174,7 @@ The same therapy that creates extraordinary economic quality can also create fut
 The company already has real scale and improving profitability, but the financial profile is increasingly dominated by one platform and one TTR-centered franchise.
 That means the business is no longer just a science story, yet it still has to prove that launch durability and pipeline replenishment can keep concentration from becoming a future weakness.
 
-### 8. Affordable access still matters, but the profit is moving
+### 9. Affordable access still matters, but the profit is moving
 
 `Teva` is the crucial counterweight.
 The frontier-healthcare story is not only about novel science and high-margin biologics.
@@ -182,6 +200,7 @@ It is that the healthcare system is being reorganized around:
 - higher diagnostic intensity
 - earlier genetic and molecular screening
 - self-service and app-visible health monitoring
+- value-based management of long-duration high-burden disease
 - home and alternate-site care normalization
 - more dependence on systems that reduce friction for both patient and payer
 
@@ -212,6 +231,7 @@ Those pressures express differently by company:
 - `Teva`: mix transition, transformation, and generic-price pressure
 - `West`: qualification burden, delivery-system demand, and quality execution
 - `Option Care`: labor, payer pressure, site-of-care routing, and therapy complexity
+- `DaVita`: reimbursement per treatment, treatment-density growth, labor discipline, and value-based kidney-care execution
 - `DexCom` and `Insulet`: channel expansion, reimbursement, wear-time adherence, and installed-base monetization
 - `Medpace`: sponsor funding quality, award timing, and backlog conversion
 
@@ -227,6 +247,7 @@ Those pressures express differently by company:
   - delivery infrastructure
   - monitoring-device adherence
   - outsourced trial execution
+  - chronic-treatment density
   - recurring administration workflows
   - scale positions in care settings that reduce friction and cost
 - The archive should keep expanding beyond big pharma and hospitals because much of the sector’s modern economics now sit in these enabling layers.
@@ -244,7 +265,8 @@ Those pressures express differently by company:
 - `Quest` is the best current packet for routine diagnostics scale, consumer-initiated testing, and national laboratory workflow dependence.
 - `Natera` is the best current packet for precision-diagnostics franchise economics, molecular recurrence monitoring, and the consumer-facing edge of genetic testing.
 - `Alnylam` is the best current packet for RNAi-platform commercialization, TTR franchise concentration, and post-approval biotech scaling risk.
+- `DaVita` is the best current packet for recurring dialysis economics, value-based kidney care, and the chronic-treatment utility layer.
 
 ## Gaps
 
-- Need a second specialized-services or home-based-care name to test whether Option Care’s economics are category-wide or company-specific.
+- Need a second home-based-care name if the archive wants a cleaner home-health comparison distinct from both infusion and dialysis.

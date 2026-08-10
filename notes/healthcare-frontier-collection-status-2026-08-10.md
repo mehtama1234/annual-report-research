@@ -18,6 +18,7 @@ The current healthcare-frontier flagship set is:
 - `Quest Diagnostics Incorporated`
 - `Natera, Inc.`
 - `Alnylam Pharmaceuticals, Inc.`
+- `DaVita Inc.`
 
 This set is intended to cover:
 
@@ -328,6 +329,35 @@ Current raw status:
 
 - materially source-complete for packet drafting
 
+### DaVita Inc.
+
+Lane role:
+
+- specialized health services
+- recurring chronic-treatment infrastructure
+- dialysis density, value-based kidney care, and reimbursement-sensitive care coordination
+
+Raw evidence currently saved:
+
+- AnnualReports company page HTML
+- AnnualReports verification note
+- official IR source-links note
+- official annual-report page HTML
+- official `Q4 2025` results page
+- official `Q1 2026` results page
+- official `Q2 2026` results page
+- SEC submissions JSON
+- `2025` `10-K`
+- `Q4 2025` `8-K`
+- `Q1 2026` `10-Q`
+- `Q1 2026` `8-K`
+- `Q2 2026` `10-Q`
+- `Q2 2026` `8-K`
+
+Current raw status:
+
+- materially source-complete for packet drafting
+
 ## Drafting status
 
 Completed packets in this batch now include:
@@ -343,6 +373,7 @@ Completed packets in this batch now include:
 - `Quest Diagnostics Incorporated`
 - `Natera, Inc.`
 - `Alnylam Pharmaceuticals, Inc.`
+- `DaVita Inc.`
 
 ## Interpretation targets for the packet-writing pass
 

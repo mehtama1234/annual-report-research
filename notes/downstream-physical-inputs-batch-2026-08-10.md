@@ -24,6 +24,7 @@ Each batch has to produce:
 Related synthesis written from the completed packet set:
 
 - [Connectivity Infrastructure Physical-Layer Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
+- [Converged Connectivity And Carrier Economics](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/converged-connectivity-and-carrier-economics-2026-08-10.md)
 
 ## Batch choice
 

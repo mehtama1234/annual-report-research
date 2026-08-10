@@ -1,6 +1,6 @@
 # Services Sector Synthesis
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Coverage base
 
@@ -36,12 +36,13 @@ This synthesis is based on the completed Services packets currently in the archi
   - [Best Buy Co., Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/electronics-stores/best-buy-co-inc/company-packet.md)
   - [Kohl's Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/department-stores/kohls-corporation/company-packet.md)
   - [Ross Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
+  - [Ulta Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
 - Housing maintenance and pro-trade distribution:
   - [The Home Depot, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/home-improvement-stores/the-home-depot-inc/company-packet.md)
 - Labor intermediation:
   - [Robert Half Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/staffing-employment-services/robert-half-inc/company-packet.md)
 
-The source window is the `2025` annual report plus each company’s last three reported quarters in scope as of `2026-08-09`.
+The source window is the `2025` annual report plus each company’s last three reported quarters in scope as of `2026-08-10`.
 
 Related focused memo:
 
@@ -81,6 +82,7 @@ The newer packet base makes this much more obvious.
 - `Best Buy` shows a weaker but still important version of the same pattern in consumer electronics, where services, Marketplace, Best Buy Ads, repair, trade-in, and omnichannel support are meant to widen the economics beyond the hardware sale.
 - `Kohl's` shows what the weaker middle looks like in department stores, where loyalty, value messaging, Sephora adjacency, and omnichannel tools still have to fight a structurally pressured base business.
 - `Ross` shows the traffic-resilient value winner in the same broad consumer lane, where off-price sourcing, in-store discovery, and compelling branded bargains can still produce very strong sales and earnings growth without a classic membership or loyalty engine.
+- `Ulta` shows a different specialty-retail widening pattern, where the relationship is deepened through loyalty, salons, marketplace assortment, media monetization, and beauty discovery rather than through value traffic or a formal membership fee.
 - `Caesars` shows loyalty and wallet design connecting physical gaming, digital wagering, and cross-property entertainment spend.
 - `MGM` shows a broader destination-and-gaming relationship platform where Las Vegas, regional gaming, Macau, and digital extensions reinforce each other without collapsing into one single wallet story.
 - `Hilton`, `Delta`, `United`, `Southwest`, and `Sun Country` now show five different travel and air-transport relationship patterns operating as economic infrastructure rather than as marketing decoration.
@@ -135,6 +137,8 @@ This matters for the sector read because it shows Services is not only populated
 
 `Dollar General` adds a fourth point in the same lane and makes the comparison less impressionistic. Q3 `2025` same-store sales increased `2.5%` on `2.5%` traffic growth, Q4 `2025` same-store sales increased `4.3%` on `2.6%` traffic growth, and Q1 `2026` same-store sales increased `2.0%` on `1.4%` traffic growth. That suggests a more durable convenience-trip pattern than Dollar Tree currently shows, but still without Ross's stronger discretionary and off-price momentum.
 
+`Ulta` adds a fifth and importantly different point. It is also a specialty retailer, but the model is not mainly about bargain traffic, department-store promotions, or episodic electronics replacement. Fiscal `2025` net sales increased `9.7%` to `$12.4B`, comparable sales increased `5.4%`, and Q1 `2026` net sales then increased `11.1%` with `5.3%` comparable-sales growth. The `10-K` also shows `UB Marketplace` with more than `200` brands and `5,000` SKUs and frames `UB Media` as an additional monetization layer, which makes Ulta one of the cleaner examples in Services where discovery, loyalty data, category breadth, and services all reinforce each other.
+
 ### 3. Logistics and field services are being run for quality, density, and automation
 
 The older Services brief already pointed this way, but the broader set sharpens it.
@@ -161,6 +165,7 @@ The completed packet set now says this directly.
 - `Dollar General` is a fast essentials-and-fill-in routine. The packet suggests that routine is holding up through local convenience, consumables density, and store refresh efforts more than through digital lock-in.
 - `Kohl's` is the weaker version of the same idea: a large installed customer base, loyalty tools, and repeated shopping intent exist, but the routine is less durable and more promotion-sensitive than at the stronger retail-service systems.
 - `Ross` is important because it shows a different routine entirely: repeat bargain-hunting and discovery behavior can be durable even without a formal loyalty system if the value proposition stays sharp.
+- `Ulta` shows that routine can also be built through self-expression and personal care. The repeat behavior here is not only replenishment; it is beauty discovery, salon usage, loyalty engagement, and app-and-store interaction across a broader category system.
 - `Netflix` is a recurring attention habit rather than only a content business.
 
 This is important because it means some of the archive’s best consumer evidence is sitting inside Services rather than only inside Consumer Goods.
@@ -183,7 +188,7 @@ That makes Services useful not only for consumer and experience signals, but als
 | Logistics and route-density systems | CHRW, UPS, Rollins, APi, Cintas | automation, route density, customer mix, recurring service, compliance-heavy service intensity, network productivity |
 | Recurring consumer-routine systems | Starbucks, McDonald's, Domino's, Netflix | stored value, loyalty, direct ordering, subscription habit, repeat behavior, convenience as moat |
 | Experience and cultural-attention systems | Live Nation, Hilton, Disney, Caesars, Delta | travel demand, scarcity, fandom, loyalty, venue and destination throughput, premium mix |
-| Membership and retail-service systems | Costco, Walmart, Kroger, Dollar Tree, Dollar General, Best Buy, Kohl's, Ross | membership, basket frequency, retail media, marketplace layers, value architecture, service attachment, value-sensitive consumer behavior, neighborhood convenience, upgrade-cycle dependence, promotion-sensitive traffic, off-price traffic resilience |
+| Membership and retail-service systems | Costco, Walmart, Kroger, Dollar Tree, Dollar General, Best Buy, Kohl's, Ross, Ulta | membership, basket frequency, retail media, marketplace layers, value architecture, service attachment, value-sensitive consumer behavior, neighborhood convenience, upgrade-cycle dependence, promotion-sensitive traffic, off-price traffic resilience, beauty discovery, salon attachment, and loyalty-data monetization |
 | Housing maintenance and pro-trade systems | Home Depot | repair and remodel demand, housing pressure, storm sensitivity, pro distribution, trade-credit and delivery infrastructure |
 | Labor intermediation | Robert Half | staffing, permanent placement, consulting resilience, employer confidence |
 
@@ -213,6 +218,7 @@ The completed set shows that technology in Services is usually embedded rather t
 - `Netflix` shows recommendation and ad monetization inside a recurring entertainment interface.
 - `Walmart` and `Kroger` show media and ecosystem layers on top of core retail traffic.
 - `Best Buy` shows AI-enabled search and agentic-shopping preparation on the front end, but more importantly shows technology being used to support customer recognition, digital conversion, Marketplace scale, Best Buy Ads, and service positioning.
+- `Ulta` shows another direct consumer-interface version: marketplace assortment, loyalty-member data, UB Media, and beauty discovery are all being used to widen the economics of a category that still depends heavily on stores and services.
 - `Dollar Tree` shows a quieter technology layer: supply-chain modernization, store refresh, delivery access, and pricing-mix control matter even without a strong consumer-facing software moat.
 - `Dollar General` shows a similarly quiet technology layer, but one that is tied more directly to inventory control, shrink reduction, DG Media Network, and large-scale remodel execution.
 - `Kohl's` shows the less glamorous side of the same story: omnichannel and loyalty tooling can help manage traffic, conversion, and personalized value delivery, but they do not automatically create a moat.

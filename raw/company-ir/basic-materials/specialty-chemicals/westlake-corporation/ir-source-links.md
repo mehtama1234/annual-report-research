@@ -51,4 +51,4 @@ Date verified: 2026-08-10
 ## Collection note
 
 - The URLs above were verified from the official Westlake IR site on `2026-08-10`.
-- Direct scripted retrieval from this IR stack was inconsistent from the current environment, so this file preserves the authoritative URL map even where a local artifact is not yet saved.
+- The annual report PDF, quarter results pages, quarter presentation PDFs, and company-hosted `10-Q` PDFs above were saved locally on `2026-08-10`.

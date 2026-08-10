@@ -109,7 +109,7 @@ This batch should explicitly surface:
 - `Applied Industrial Technologies, Inc.` packet chain written
 - `MasTec, Inc.` packet chain written
 - Vulcan is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, making it the cleanest heavy-materials anchor in the batch
-- Westlake now has a written packet and full verified IR / filing URL map, but remains partial because several official company artifacts were verified remotely rather than saved locally from the current shell environment
+- Westlake is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, giving the batch a conversion-materials and building-products bridge between chemicals, housing, and water infrastructure
 - Bunge is now the strongest completed packet in the batch because the annual report, latest three quarters, transcripts, presentations, company-hosted quarter filings, and direct SEC filing references were all collected or preserved locally
 - Mueller is now also completed with locally saved annual and quarter artifacts plus direct SEC filing references, giving the batch a downstream installed-systems and metal-fabrication anchor
 - CECO now adds the pollution-and-treatment-controls lane with a complete annual / `Q4 2025` / `Q1 2026` evidence stack and a clearly documented `Q2 2026` reporting gap tied to the first Thermon combined quarter
@@ -121,8 +121,8 @@ This batch should explicitly surface:
 
 Current batch split:
 
-- completed: `Vulcan Materials Company`, `Bunge Global SA`, `Mueller Industries, Inc.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`
-- partial: `Westlake Corporation`, `CECO Environmental Corp.`
+- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`
+- partial: `CECO Environmental Corp.`
 
 ## CECO gap note
 

@@ -22,6 +22,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [McKesson Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/mckesson-corporation/company-packet.md)
   - [Cencora](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cencora-inc/company-packet.md)
   - [Option Care Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/specialized-health-services/option-care-health-inc/company-packet.md)
+  - [Stryker Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/stryker-corporation/company-packet.md)
   - [West Pharmaceutical Services, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/west-pharmaceutical-services-inc/company-packet.md)
 - asset access and operating support:
   - [ABM Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
@@ -38,13 +39,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a twenty-five-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a twenty-six-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current twenty-five completed names show twenty-five related but distinct middle-layer roles:
+The current twenty-six completed names show twenty-six related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -60,6 +61,7 @@ The current twenty-five completed names show twenty-five related but distinct mi
 - `McKesson` controls medicine flow, specialty distribution, and provider-facing healthcare infrastructure.
 - `Cencora` controls pharmaceutical channel access, provider-facing logistics, and specialty-services infrastructure.
 - `Option Care` controls alternate-site infusion routing, specialty-drug administration workflow, and recurring treatment delivery outside the hospital.
+- `Stryker` controls a hospital-procedure and capital-equipment layer where implants, robotics, and enabling technologies shape institutional procurement and clinical workflow.
 - `West` controls a healthcare physical interface where injectable components, containment, and delivery systems sit between therapy makers and recurring patient use.
 - `ABM` controls outsourced facilities operations, technical-services support, and recurring uptime inside airports, campuses, warehouses, and technical environments.
 - `APi` controls inspection, monitoring, and safety-oriented service relationships tied to facilities and critical infrastructure.
@@ -105,6 +107,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `McKesson`: keeping pharmacies, providers, oncology practices, and health systems supplied and connected to specialty and workflow infrastructure
 - `Cencora`: keeping pharmacies, physician practices, health systems, and pharmaceutical channels supplied with medicines and specialty support services
 - `Option Care`: keeping patients, payers, prescribers, and specialty therapies connected through recurring home and alternate-site infusion delivery
+- `Stryker`: keeping hospitals, surgeons, and procedure rooms supplied with implants, robotic platforms, instruments, and enabling technologies tied to recurring procedural demand
 - `West`: keeping injectable therapies, biologics, and drug-delivery systems usable through recurring containment, delivery, and high-value component supply
 - `ABM`: keeping airports, campuses, warehouses, semiconductor environments, and datacenter-adjacent facilities clean, staffed, supported, and operational
 - `APi`: keeping facilities, compliance systems, and safety-critical environments inspected, monitored, and operational
@@ -137,6 +140,7 @@ The packets now point to the same conclusion from different directions:
 - `McKesson` benefits from scale distribution, specialty handling, and embedded provider relationships.
 - `Cencora` benefits from pharmaceutical access, specialty logistics, and provider/manufacturer embeddedness.
 - `Option Care` benefits from site-of-care migration, payer alignment, clinician-supported coordination, and the repeated routing of costly therapies into lower-friction treatment settings.
+- `Stryker` benefits from surgeon preference, installed workflow relevance, hospital capital budgets, and the recurring need for procedure-room tools, implants, and robotics upgrades.
 - `West` benefits from qualification burden, quality reliability, high-value component mix, and the recurring need to turn injectable therapies into usable delivered treatments.
 - `ABM` benefits from recurring site-level operating dependence and the willingness of customers to outsource continuity-sensitive work.
 - `APi` benefits from recurring inspections, monitoring relationships, and compliance-linked attachment.
@@ -167,6 +171,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `McKesson` moves enormous healthcare volume through thin-margin, timing-sensitive systems.
 - `Cencora` faces similar healthcare working-capital and reimbursement sensitivity, but with more visible specialty and services attachment.
 - `Option Care` is highly exposed to reimbursement, therapy mix, clinician availability, payer behavior, and the balance between recurring treatment density and labor-heavy care coordination.
+- `Stryker` is highly exposed to procedure volumes, hospital capital willingness, product execution, cyber or operational disruption, and the durability of premium robotics and capital-product demand.
 - `West` is highly exposed to qualification cycles, injectable-demand concentration, manufacturing quality, and the operating leverage created by high-value component mix rather than commodity volume.
 - `Grainger` wins partly because assortment breadth and availability are trusted.
 - `WESCO` needs disciplined capital allocation and project execution because fast growth can still consume cash and working capital.
@@ -198,6 +203,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Sysco`: AI-enabled forecasting, routing, inventory management, and back-office automation
 - `McKesson`: technology as part of prescription, specialty, and provider workflow infrastructure
 - `Cencora`: technology as part of market access, provider support, and specialty-services coordination
+- `Stryker`: technology as embedded procedural infrastructure through robotics, power tools, enabling systems, and hospital workflow attachment rather than as a stand-alone software product
 - `ABM`: technology as part of dispatch, service workflow, airport and facilities operations, and datacenter or semiconductor support execution
 - `APi`: technology as part of monitoring, inspection cadence, service workflow, and compliance infrastructure
 - `Cintas`: technology as part of route planning, plant throughput, customer retention, and service density rather than as a consumer-facing product
@@ -227,6 +233,7 @@ This is already visible across the completed set:
 - pharmacies, oncology practices, and health systems at `McKesson`
 - pharmacies, physician practices, health systems, and pharma-channel partners at `Cencora`
 - patients, prescribers, infusion nurses, and payers across home and alternate-site specialty treatment at `Option Care`
+- hospitals, surgeons, procurement committees, and procedure-room buyers at `Stryker`
 - drug makers, biologics programs, injectable-therapy channels, and delivery-system buyers at `West`
 - airports, education sites, warehouses, commercial buildings, fabs, and datacenter-linked facilities at `ABM`
 - business facilities, safety-sensitive buildings, and infrastructure clients at `APi`
@@ -314,9 +321,9 @@ The frontier is not complete yet.
 
 Major gaps still include:
 
-- a medical-equipment or medical-supply distributor beyond drug channels, alternate-site service delivery, and therapy-enabling component supply
+- a true medical-equipment or medical-supply distributor beyond drug channels, hospital-capital procurement, alternate-site service delivery, and therapy-enabling component supply
 - a dedicated protection-services or security-services operator beyond `ABM`, `APi`, `BrightView`, `Cintas`, `Rollins`, and `Motorola Solutions`
-- a medical-equipment or medical-supply distributor or operator that is more explicitly product-channel-oriented than the current healthcare service set
+- a true medical-equipment or medical-supply distributor or operator that is more explicitly channel-oriented than the current healthcare service set
 
 Those additions should help answer:
 
@@ -327,7 +334,7 @@ Those additions should help answer:
 
 ## Working conclusion
 
-The current twenty-five-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current twenty-six-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

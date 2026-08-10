@@ -1,6 +1,6 @@
 # Stryker Corporation Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -8,12 +8,18 @@ Date baseline: 2026-08-09
 - Sector: Healthcare
 - Industry: Medical Instruments & Supplies
 - Ticker: SYK
+- Assigned CLI 8 sub-lane: institutional supply and replenishment
 - Fiscal year-end: December
 - Target annual report year: 2025
 - Target quarter window:
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
+
+## Why this name matters
+
+- Stryker is the strongest ready next healthcare extension because it adds the hospital-equipment, procedure-room, orthopaedics, and robotics layer that sits between healthcare manufacturers on one side and recurring patient care on the other.
+- It improves CLI 8 specifically because it makes institutional procurement, capital-budget timing, surgeon workflow, and installed procedural platforms visible inside the same middle-layer frame as drug distribution, alternate-site care delivery, and therapy-enabling components.
 
 ## Annual report takeaways
 
@@ -50,21 +56,25 @@ Date baseline: 2026-08-09
 - Culture and business model: Stryker reflects a healthcare model where hospitals keep buying into tools, implants, and enabling platforms that are embedded in procedures and surgeon workflow.
 - Watch item: the company is strong, but the trail shows a real operational vulnerability to disruption and a meaningful dependence on keeping procedure and capital momentum intact.
 
+## Working interpretation
+
+- Stryker does not solve the pure medical-distribution gap, but it materially widens the healthcare lane by showing that hospitals and health systems also depend on a recurring capital-and-procedure support layer, not just on drug wholesalers and therapy-routing platforms.
+- The bigger pattern is that healthcare middle-layer power is not limited to moving medicines. It also includes controlling the tools, implants, robotics, and enabling technologies that hospitals repeatedly buy to keep procedure capacity, surgeon preference, and workflow efficiency intact.
+
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/healthcare/medical-instruments-supplies/stryker-corporation/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/ir-source-links.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2025-10k.html)
-- [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2025-q4-results-release.html)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2025-q4-earnings-release.pdf)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2025-q4-8k.html)
-- [2026-q1-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2026-q1-results-release.html)
-- [2026-q1-change-in-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2026-q1-change-in-presentation.pdf)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2026-q1-10q.html)
-- [2026-q2-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2026-q2-results-release.html)
-- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2026-q2-earnings-release.pdf)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2026-q2-10q.html)
-
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/healthcare/medical-instruments-supplies/stryker-corporation/annualreports-verification.md)
+- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/ir-source-links.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2025-10k.html)
+- [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2025-q4-results-release.html)
+- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2025-q4-earnings-release.pdf)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2025-q4-8k.html)
+- [2026-q1-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2026-q1-results-release.html)
+- [2026-q1-change-in-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2026-q1-change-in-presentation.pdf)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2026-q1-10q.html)
+- [2026-q2-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2026-q2-results-release.html)
+- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/stryker-corporation/2026-q2-earnings-release.pdf)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/stryker-corporation/2026-q2-10q.html)

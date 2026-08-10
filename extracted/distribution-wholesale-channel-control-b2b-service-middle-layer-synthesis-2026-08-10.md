@@ -24,6 +24,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Cardinal Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cardinal-health-inc/company-packet.md)
   - [McKesson Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/mckesson-corporation/company-packet.md)
   - [Cencora](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cencora-inc/company-packet.md)
+  - [Intuitive Surgical, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/intuitive-surgical-inc/company-packet.md)
   - [Option Care Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/specialized-health-services/option-care-health-inc/company-packet.md)
   - [Stryker Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/stryker-corporation/company-packet.md)
   - [West Pharmaceutical Services, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/west-pharmaceutical-services-inc/company-packet.md)
@@ -45,13 +46,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a thirty-two-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a thirty-three-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current thirty-two completed names show thirty-two related but distinct middle-layer roles:
+The current thirty-three completed names show thirty-three related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -69,6 +70,7 @@ The current thirty-two completed names show thirty-two related but distinct midd
 - `Cardinal Health` controls larger institutional healthcare throughput across pharmaceutical and specialty solutions, medical products distribution, at-home solutions, and logistics attachment.
 - `McKesson` controls medicine flow, specialty distribution, and provider-facing healthcare infrastructure.
 - `Cencora` controls pharmaceutical channel access, provider-facing logistics, and specialty-services infrastructure.
+- `Intuitive Surgical` controls a hospital-installed robotic-surgery platform where recurring instruments, accessories, service, and workflow dependence matter as much as system placements.
 - `Option Care` controls alternate-site infusion routing, specialty-drug administration workflow, and recurring treatment delivery outside the hospital.
 - `Stryker` controls a hospital-procedure and capital-equipment layer where implants, robotics, and enabling technologies shape institutional procurement and clinical workflow.
 - `West` controls a healthcare physical interface where injectable components, containment, and delivery systems sit between therapy makers and recurring patient use.
@@ -121,6 +123,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Cardinal Health`: keeping hospitals, healthcare systems, pharmacies, ambulatory surgery centers, clinical laboratories, physician offices, and home patients supplied through pharmaceutical flow, medical products, and healthcare logistics attachment
 - `McKesson`: keeping pharmacies, providers, oncology practices, and health systems supplied and connected to specialty and workflow infrastructure
 - `Cencora`: keeping pharmacies, physician practices, health systems, and pharmaceutical channels supplied with medicines and specialty support services
+- `Intuitive Surgical`: keeping hospitals and surgeons tied to an installed robotic and procedural platform that requires recurring instruments, accessories, service support, and utilization growth
 - `Option Care`: keeping patients, payers, prescribers, and specialty therapies connected through recurring home and alternate-site infusion delivery
 - `Stryker`: keeping hospitals, surgeons, and procedure rooms supplied with implants, robotic platforms, instruments, and enabling technologies tied to recurring procedural demand
 - `West`: keeping injectable therapies, biologics, and drug-delivery systems usable through recurring containment, delivery, and high-value component supply
@@ -160,6 +163,7 @@ The packets now point to the same conclusion from different directions:
 - `Cardinal Health` benefits from scale distribution, branded and specialty pharmaceutical throughput, medical-products exposure, at-home and logistics attachment, and the degree to which provider systems cannot tolerate replenishment failure.
 - `McKesson` benefits from scale distribution, specialty handling, and embedded provider relationships.
 - `Cencora` benefits from pharmaceutical access, specialty logistics, and provider/manufacturer embeddedness.
+- `Intuitive Surgical` benefits from platform entrenchment, surgeon training, hospital workflow standardization, installed-base growth, and the recurring instruments-and-service economics that follow higher utilization.
 - `Option Care` benefits from site-of-care migration, payer alignment, clinician-supported coordination, and the repeated routing of costly therapies into lower-friction treatment settings.
 - `Stryker` benefits from surgeon preference, installed workflow relevance, hospital capital budgets, and the recurring need for procedure-room tools, implants, and robotics upgrades.
 - `West` benefits from qualification burden, quality reliability, high-value component mix, and the recurring need to turn injectable therapies into usable delivered treatments.
@@ -197,6 +201,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Cardinal Health` is highly exposed to customer contract churn, thin-margin scale discipline, tariff pressure inside medical distribution, litigation cash demands, acquisition integration, and the financing cost of broadening its healthcare-services stack.
 - `McKesson` moves enormous healthcare volume through thin-margin, timing-sensitive systems.
 - `Cencora` faces similar healthcare working-capital and reimbursement sensitivity, but with more visible specialty and services attachment.
+- `Intuitive Surgical` is highly exposed to procedure growth, hospital capital budgets, platform-upgrade cadence, international expansion, utilization levels, and the durability of recurring revenue from the installed base.
 - `Option Care` is highly exposed to reimbursement, therapy mix, clinician availability, payer behavior, and the balance between recurring treatment density and labor-heavy care coordination.
 - `Stryker` is highly exposed to procedure volumes, hospital capital willingness, product execution, cyber or operational disruption, and the durability of premium robotics and capital-product demand.
 - `West` is highly exposed to qualification cycles, injectable-demand concentration, manufacturing quality, and the operating leverage created by high-value component mix rather than commodity volume.
@@ -236,6 +241,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Cardinal Health`: technology as part of specialty access, provider throughput, at-home coordination, and logistics workflow rather than as a stand-alone product
 - `McKesson`: technology as part of prescription, specialty, and provider workflow infrastructure
 - `Cencora`: technology as part of market access, provider support, and specialty-services coordination
+- `Intuitive Surgical`: technology as the operating platform itself, where systems, software, instruments, accessories, and service all reinforce procedural workflow dependence
 - `ADT`: technology as part of monitoring, app-based customer workflow, ambient sensing, self-install expansion, and smart-home integration rather than as a stand-alone hardware story
 - `Stryker`: technology as embedded procedural infrastructure through robotics, power tools, enabling systems, and hospital workflow attachment rather than as a stand-alone software product
 - `ABM`: technology as part of dispatch, service workflow, airport and facilities operations, and datacenter or semiconductor support execution
@@ -375,7 +381,7 @@ Those additions should help answer:
 
 ## Working conclusion
 
-The current thirty-two-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current thirty-three-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

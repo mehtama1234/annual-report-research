@@ -13,6 +13,7 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [Church & Dwight Co. Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/cleaning-products/church-dwight-co-inc/company-packet.md)
 - Food and beverage:
   - [PepsiCo Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-packet.md)
+  - [The Campbell's Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/company-packet.md)
   - [Monster Beverage Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
   - [The Coca-Cola Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md)
   - [Mondelez International](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/confectioners/mondelez-international/company-packet.md)
@@ -56,13 +57,14 @@ The strongest pattern is that consumer resilience is real, but it is increasingl
 
 ### 1. Consumer goods is fragmenting by category quality and value-chain position, not just by brand strength
 
-The thirteen-company set already breaks into distinct economic roles:
+The fourteen-company set already breaks into distinct economic roles:
 
 - `Procter & Gamble` is a broad daily-use and brand-superiority platform.
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
 - `Colgate-Palmolive` is a routine-use oral-care and pet-nutrition platform.
 - `Church & Dwight` is a narrower routine-use household and personal-care platform with more active portfolio pruning, brand incubation, and eCommerce growth.
 - `PepsiCo` is a broad food-and-beverage portfolio balancing affordability, convenience, and functional demand.
+- `The Campbell's Company` is a narrower pantry, meal-preparation, and at-home-cooking platform with a clearer split between stronger Meals & Beverages demand and weaker Snacks execution.
 - `Mondelez International` is a focused indulgence-and-snacking platform balancing iconic brands, emerging-markets strength, cocoa-cost pressure, and structural cost-savings execution.
 - `The Coca-Cola Company` is a global routine beverage and brand-system platform built on repeat refreshment occasions, bottler execution, pack-price-channel architecture, and cultural activation.
 - `Monster Beverage` is a functional-energy and lifestyle-brand platform built on repeat stimulation demand, innovation cadence, and global distribution reach.
@@ -101,6 +103,7 @@ This matters because it shows the archive cannot rely on top-level sector labels
 This is one of the strongest recurring patterns in the archive.
 
 - `PepsiCo` talks about affordability actions, value, convenience, and execution repair rather than just price.
+- `Campbell's` shows the more necessity-led center-store version of the same problem: trusted pantry demand can stay intact while Snacks softness, tariffs, and inflation still pressure gross profit and adjusted EBIT.
 - `Mondelez` shows the same limit from a different angle: higher net pricing still mattered in `2025` and early `2026`, but cocoa costs, volume quality, and brand reinvestment make pricing alone an incomplete explanation.
 - `Coca-Cola` shows the same point through explicit revenue growth management and pack-price-channel architecture, where volume growth still matters and pricing is only one lever.
 - `P&G` emphasizes superiority, productivity, reinvestment, and a difficult consumer backdrop.
@@ -171,6 +174,7 @@ So the completed set now supports a better sector frame: consumer demand is medi
 The current archive supports a more specific demand view than generic “consumer resilience.”
 
 - `PepsiCo` points toward hydration, protein, functional, and permissible-consumption framing.
+- `Campbell's` points toward pantry replenishment, at-home cooking, affordable meal preparation, and trusted food staples rather than beverage frequency or small-ticket indulgence.
 - `Mondelez` adds a different but equally important consumer anchor: repeated indulgence and affordable treats can stay resilient even in a pressured household backdrop, as long as brand strength and pack-price discipline remain intact.
 - `Coca-Cola` shows how a legacy beverage company is trying to preserve routine refreshment demand through zero-sugar growth, smaller-pack architecture, affordability options, and global event-led recruitment rather than through static flagship-brand strength alone.
 - `Monster Beverage` adds the stronger stimulation, performance, and identity-driven side of functional consumption, where routine use behaves more like a habit system than an ordinary refreshment purchase.
@@ -198,6 +202,24 @@ That is a more useful reading frame than broad discretionary-versus-staples labe
 - the quarter chain shows the real mechanism: Q4 `2025`, Q1 `2026`, and Q2 `2026` all returned to net sales growth, but performance still depends heavily on seasonal incidence, category mix, eCommerce momentum, and brand execution across need states
 
 This matters because it widens the current routine-use lane. `P&G`, `Kimberly-Clark`, `Colgate`, and `Church & Dwight` already show broad staples, hygiene, efficacy-driven care, and a narrower but more digitally active household-and-personal-care model. Kenvue adds a more explicit self-care, pain, allergy, wound-care, oral-care, and skin-health read where trust and routine matter, but so do seasonal volatility and more active consumer activation.
+
+### 7D. Pantry and at-home-cooking demand deserves its own necessity-led food lane
+
+`The Campbell's Company` is the clearest reason the archive should stop treating all packaged food as one bucket.
+
+- the fiscal `2025` annual materials show a `$10.253B` food platform with adjusted EPS of `$2.97` and operating cash flow of `$1.131B`
+- the official company identity now explicitly reflects more than soup, with the rename to `The Campbell's Company`
+- the three-quarter fiscal `2026` chain then shows the real operating split:
+  - Q1 FY`2026` adjusted EPS of `$0.77`
+  - Q2 FY`2026` adjusted EPS of `$0.51`
+  - Q3 FY`2026` adjusted EPS of `$0.50`
+- management repeatedly says at-home cooking trends are helping Campbell's, Rao's, and Swanson while Snacks remains softer and more execution-sensitive
+
+That matters because it gives the archive a necessity-led food case that is different from both `PepsiCo` and `Mondelez`:
+
+- `PepsiCo` is the broader convenience and snack-plus-beverage system
+- `Mondelez` is the indulgence-and-snacking system
+- `Campbell's` is the narrower pantry, meal-preparation, and at-home-cooking system
 
 ### 7B. Snacking now has a cleaner split between broad convenience and focused indulgence
 
@@ -249,6 +271,7 @@ This remains a sector where mature cash engines matter. But the important nuance
 | Routine oral care and pet-health platform | Colgate-Palmolive | habitual demand, efficacy trust, strong margin discipline, pet-category headwinds and resilience |
 | Narrower routine-use household and personal-care platform | Church & Dwight | balanced value and premium mix, portfolio pruning, acquisition-led brand incubation, strong eCommerce growth, and repeat-use household and personal-care demand |
 | Food and beverage value portfolio | PepsiCo | affordability, convenience, international diversification, functional and health-adjacent mix |
+| Pantry and at-home-cooking necessity platform | The Campbell's Company | soup, broth, sauce, snack, and meal-preparation demand with strong Meals & Beverages positioning, weaker Snacks execution, and a clearer pantry-restocking read |
 | Affordable indulgence and snacking platform | Mondelez International | iconic snack brands, cocoa-cost sensitivity, emerging-markets strength, brand investment, and structural cost savings |
 | Global routine beverage and brand-system platform | The Coca-Cola Company | repeat refreshment occasions, bottler execution, zero-sugar recruitment, revenue growth management, cultural activation, connected packaging, and first-party data capture |
 | Functional-energy and lifestyle beverage platform | Monster Beverage | repeat stimulation demand, innovation cadence, international expansion, brand intensity, Coca-Cola-supported distribution reach |
@@ -263,6 +286,7 @@ This remains a sector where mature cash engines matter. But the important nuance
 Across the completed consumer-goods set, the broader signals are:
 
 - the consumer is pressured, but not absent
+- at-home cooking and pantry replenishment still matter as a real demand anchor
 - value and premium can both work, while the generic middle is less reliable
 - affordable indulgence can still work when iconic brands and small-ticket habits stay intact, even if commodity inflation compresses earnings
 - bargain discovery and off-price branded value still behave like a real recurring consumer draw, not just a residual clearance channel
@@ -281,6 +305,7 @@ Across the completed consumer-goods set, the broader signals are:
 The local evidence suggests the sector is being filtered through channel and retail structure more than simple category demand labels would imply.
 
 - `PepsiCo` makes retailer concentration explicit through Walmart exposure.
+- `Campbell's` shows a different channel story where pantry and home-meal demand still exist, but category weakness in snacks and cost pressure can outweigh that consumer support.
 - `Coca-Cola` adds a cleaner route-to-market and consumer-recruitment layer where bottler execution, away-from-home presence, and cultural campaigns can move both volume and first-party data capture.
 - `Monster Beverage` adds a different channel point: its growth depends heavily on global bottler and distributor execution and the strategic relationship with The Coca-Cola Company rather than on broad retailer concentration alone.
 - `Coty` and `Estee Lauder` show stronger exposure to channel and regional execution quality.

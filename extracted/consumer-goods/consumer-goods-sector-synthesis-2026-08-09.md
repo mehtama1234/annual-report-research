@@ -17,6 +17,7 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [The Campbell's Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/company-packet.md)
   - [The Kraft Heinz Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/food-major-diversified/the-kraft-heinz-company/company-packet.md)
   - [General Mills, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/general-mills-inc/company-packet.md)
+  - [Brown-Forman](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-wineries-distillers/brown-forman/company-packet.md)
   - [Monster Beverage Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
   - [The Coca-Cola Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md)
   - [Mondelez International](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/confectioners/mondelez-international/company-packet.md)
@@ -42,7 +43,7 @@ Relevant out-of-sector taxonomy outlier:
 
 ## Executive read
 
-The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the `2025` annuals and late-`2025` / `2026` quarterlies is not one simple brand-pricing story. It is a sector splitting across at least nine different demand and earnings models:
+The completed consumer-goods set supports a clear sector conclusion: `Consumer Goods` in the `2025` annuals and late-`2025` / `2026` quarterlies is not one simple brand-pricing story. It is a sector splitting across at least ten different demand and earnings models:
 
 - everyday staples and household-care platforms
 - cleaning-disinfecting and health-hygiene transition platforms
@@ -50,6 +51,7 @@ The completed consumer-goods set supports a clear sector conclusion: `Consumer G
 - affordable-treat and indulgence snacking systems
 - global routine beverage and brand-system demand
 - functional-energy and identity-driven beverage systems
+- premium spirits and alcohol-occasion systems
 - home-improvement and built-environment demand systems
 - off-price and bargain-discovery retail systems
 - beauty and discretionary personal-products portfolios with much higher execution, channel, and category sensitivity
@@ -61,7 +63,7 @@ The strongest pattern is that consumer resilience is real, but it is increasingl
 
 ### 1. Consumer goods is fragmenting by category quality and value-chain position, not just by brand strength
 
-The seventeen-company set already breaks into distinct economic roles:
+The eighteen-company set already breaks into distinct economic roles:
 
 - `Procter & Gamble` is a broad daily-use and brand-superiority platform.
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
@@ -75,13 +77,14 @@ The seventeen-company set already breaks into distinct economic roles:
 - `Mondelez International` is a focused indulgence-and-snacking platform balancing iconic brands, emerging-markets strength, cocoa-cost pressure, and structural cost-savings execution.
 - `The Coca-Cola Company` is a global routine beverage and brand-system platform built on repeat refreshment occasions, bottler execution, pack-price-channel architecture, and cultural activation.
 - `Monster Beverage` is a functional-energy and lifestyle-brand platform built on repeat stimulation demand, innovation cadence, and global distribution reach.
+- `Brown-Forman` is a premium spirits and alcohol-occasion platform built on ritual, identity, route-to-market control, and brand desire, but with much higher sensitivity to softer discretionary demand and weaker category consumption.
 - `Lowe's` is a home-improvement and built-environment operator sitting between consumer project demand, housing pressure, home services, and pro-oriented distribution.
 - `Burlington` is an off-price and bargain-discovery retailer built on physical traffic, opportunistic buying, branded value perception, and repeat treasure-hunt behavior.
 - `Coty` is a more stressed beauty portfolio with clear execution and category weakness.
 - `Estee Lauder` is a recovering prestige-beauty platform.
 - `Graphic Packaging` is a packaging-and-foodservice infrastructure platform sitting behind multiple branded consumer channels.
 
-This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, routine beverage systems, beauty exposure, home-improvement demand, off-price bargain discovery, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, value-hunt-driven, trend-sensitive, culturally activated, or physically embedded in the delivery layer behind the shelf.
+This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, routine beverage systems, premium alcohol occasion systems, beauty exposure, home-improvement demand, off-price bargain discovery, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, value-hunt-driven, trend-sensitive, culturally activated, ritualized, or physically embedded in the delivery layer behind the shelf.
 
 ### 1B. Consumer Goods also contains an off-price bargain-discovery layer
 
@@ -115,6 +118,7 @@ This is one of the strongest recurring patterns in the archive.
 - `General Mills` shows the broad replenishment version: value-seeking consumers and weaker sentiment forced a midyear pivot into more value, product news, and innovation, with volume and share improving before dollars and profits fully recovered.
 - `Mondelez` shows the same limit from a different angle: higher net pricing still mattered in `2025` and early `2026`, but cocoa costs, volume quality, and brand reinvestment make pricing alone an incomplete explanation.
 - `Coca-Cola` shows the same point through explicit revenue growth management and pack-price-channel architecture, where volume growth still matters and pricing is only one lever.
+- `Brown-Forman` shows the premium-occasion version of the same limit: even strong brands and premium positioning do not protect reported growth cleanly when discretionary pressure and weaker spirits consumption reduce category momentum.
 - `P&G` emphasizes superiority, productivity, reinvestment, and a difficult consumer backdrop.
 - `Kimberly-Clark` uses price:value architecture, innovation, and brand trust to support the model.
 - `Colgate` shows that narrow routine-use categories can still keep very strong margin discipline, but even there the story is not only price.
@@ -159,6 +163,7 @@ This is clearest in `PepsiCo`, but it matters across the set.
 - `Mondelez` repeatedly leans on Emerging Markets strength while describing North America as stronger and Europe as improving, which makes geography one of the main reasons the business can still grow through a cocoa-cost shock.
 - `Coca-Cola` adds an even purer version of that logic because the business is explicitly managed as a global beverage system across more than `200` countries and territories, with local pack and affordability choices shaping unit growth.
 - `Monster Beverage` adds a more category-intense version of the same point, with net sales to customers outside the United States reaching roughly `42%` of `Q4 2025` net sales and EMEA growing `32.6%` in dollars in that quarter.
+- `Brown-Forman` adds a more discretionary global beverage-adjacent case where developed-market category softness matters more directly than in soda or energy and where route-to-market structure is itself a major strategic variable.
 - `P&G` benefits from global portfolio breadth across categories and regions.
 - `Estee Lauder` shows that recovery can hinge on specific international geographies such as mainland China.
 - `Graphic Packaging` shows that even a geographically broad packaging system can still be dragged by inflation, footprint inefficiency, and customer-mix pressure.
@@ -190,6 +195,7 @@ The current archive supports a more specific demand view than generic “consume
 - `Mondelez` adds a different but equally important consumer anchor: repeated indulgence and affordable treats can stay resilient even in a pressured household backdrop, as long as brand strength and pack-price discipline remain intact.
 - `Coca-Cola` shows how a legacy beverage company is trying to preserve routine refreshment demand through zero-sugar growth, smaller-pack architecture, affordability options, and global event-led recruitment rather than through static flagship-brand strength alone.
 - `Monster Beverage` adds the stronger stimulation, performance, and identity-driven side of functional consumption, where routine use behaves more like a habit system than an ordinary refreshment purchase.
+- `Brown-Forman` adds the alcohol-occasion and premium-ritual side of beverage consumption, where social use, identity, gifting, and discretionary confidence matter more than daily refreshment.
 - `P&G` and `Kimberly-Clark` show how care, hygiene, safety, and daily-use trust remain strong anchors.
 - `Colgate` adds science, efficacy, and professional-adjacent trust through oral care plus the recurring pet-health layer.
 - `Church & Dwight` adds a different version of the same defense: narrower category breadth, but a stronger acquisition-and-digital-refresh engine inside repeat-use household and personal-care demand.
@@ -260,21 +266,23 @@ That distinction matters because it separates two different defenses:
 
 This is a better frame than calling both companies simply packaged-food names.
 
-### 7A. Beverage is already splitting into three different consumer systems
+### 7A. Beverage is already splitting into four different consumer systems
 
 The beverage evidence set is now materially stronger because it no longer rests on only PepsiCo and Monster.
 
 - `PepsiCo` is the broad snacks-plus-beverage and convenience-portfolio case.
 - `The Coca-Cola Company` is the cleaner routine beverage, brand-system, bottler-execution, and cultural-distribution case.
 - `Monster Beverage` is the functional-energy, stimulation, and identity-heavy case.
+- `Brown-Forman` is the premium spirits, ritual, gifting, and discretionary-occasion case.
 
 That matters because these are not small stylistic differences. They imply different economic defenses:
 
 - PepsiCo relies more on portfolio breadth and cross-category shelf economics.
 - Coca-Cola relies more on global beverage routines, route-to-market scale, revenue growth management, and culturally amplified brand reach.
 - Monster relies more on category intensity, brand identity, and innovation-backed repeat energy use.
+- Brown-Forman relies more on premium brand desire, social ritual, route-to-market quality, and the willingness of consumers to keep spending into a weaker spirits backdrop.
 
-This is a stronger analytical frame than calling all three companies simply “beverage names.”
+This is a stronger analytical frame than calling all four companies simply “beverage names.”
 
 ### 8. Capital return is still a core part of the sector identity
 
@@ -301,6 +309,7 @@ This remains a sector where mature cash engines matter. But the important nuance
 | Affordable indulgence and snacking platform | Mondelez International | iconic snack brands, cocoa-cost sensitivity, emerging-markets strength, brand investment, and structural cost savings |
 | Global routine beverage and brand-system platform | The Coca-Cola Company | repeat refreshment occasions, bottler execution, zero-sugar recruitment, revenue growth management, cultural activation, connected packaging, and first-party data capture |
 | Functional-energy and lifestyle beverage platform | Monster Beverage | repeat stimulation demand, innovation cadence, international expansion, brand intensity, Coca-Cola-supported distribution reach |
+| Premium spirits and alcohol-occasion platform | Brown-Forman | ritual and identity demand, premium spirits, route-to-market execution, gifting and social-occasion exposure, and softer developed-market category consumption |
 | Home-improvement and built-environment platform | Lowe's | housing pressure, Pro penetration, online growth, home services, loyalty, and distribution scale |
 | Off-price and bargain-discovery platform | Burlington | branded value hunt behavior, physical traffic, opportunistic buying, store-base expansion, and value-seeking consumer demand |
 | Stressed beauty portfolio | Coty | execution-sensitive beauty demand, weaker Consumer Beauty, strategic-review pressure, geopolitical sensitivity |
@@ -319,6 +328,7 @@ Across the completed consumer-goods set, the broader signals are:
 - trusted routine-use categories still anchor demand
 - narrower routine-use portfolios can still work when portfolio shaping and eCommerce growth are strong
 - routine beverage systems still scale when brand trust, distribution reach, and pack-price execution stay aligned
+- premium alcohol systems remain culturally meaningful, but they are more vulnerable to softer discretionary demand and category slowdown than staple or soda systems
 - health and functional positioning are economically relevant
 - some consumer demand is really built-environment demand, where home maintenance, installations, and Pro workflow matter as much as normal retail traffic
 - energy, performance, and lifestyle identity can be economically relevant in their own right rather than only as subcategories inside a broader beverage portfolio
@@ -334,6 +344,7 @@ The local evidence suggests the sector is being filtered through channel and ret
 - `Campbell's` shows a different channel story where pantry and home-meal demand still exist, but category weakness in snacks and cost pressure can outweigh that consumer support.
 - `Coca-Cola` adds a cleaner route-to-market and consumer-recruitment layer where bottler execution, away-from-home presence, and cultural campaigns can move both volume and first-party data capture.
 - `Monster Beverage` adds a different channel point: its growth depends heavily on global bottler and distributor execution and the strategic relationship with The Coca-Cola Company rather than on broad retailer concentration alone.
+- `Brown-Forman` adds the route-to-market and distributor-structure version of channel risk, where the path to the consumer is itself part of the investment thesis rather than just a background distribution function.
 - `Coty` and `Estee Lauder` show stronger exposure to channel and regional execution quality.
 - `P&G`, `Kimberly-Clark`, `Colgate`, and `Church & Dwight` benefit from stronger routine-use placement and broader distribution defensibility, though Church & Dwight gets there with a smaller portfolio and more active brand refresh.
 - `Graphic Packaging` shows that channels do not only shape brand sell-through; they also shape packaging utilization, innovation sales, and the economics of upstream plant networks.

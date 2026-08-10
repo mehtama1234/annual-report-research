@@ -98,9 +98,15 @@ This batch should explicitly surface:
 ## Current status
 
 - flagship set selected
-- first company in progress: `Vulcan Materials Company`
-- raw AnnualReports and company IR artifacts saved locally for Vulcan
-- SEC URLs verified, but direct SEC scripted fetches were blocked by SEC automation controls and need a declared-user-agent or alternate retrieval path before this name can be called fully source-complete
+- `Vulcan Materials Company` packet chain written
+- `Westlake Corporation` packet chain written
+- Vulcan has stronger local raw capture, but still has a direct SEC artifact gap because scripted SEC fetches were blocked by SEC automation controls
+- Westlake now has a written packet and full verified IR / filing URL map, but remains partial because several official company artifacts were verified remotely rather than saved locally from the current shell environment
+
+Current batch split:
+
+- completed: none yet
+- partial: `Vulcan Materials Company`, `Westlake Corporation`
 
 ## Next recommended names after this batch
 

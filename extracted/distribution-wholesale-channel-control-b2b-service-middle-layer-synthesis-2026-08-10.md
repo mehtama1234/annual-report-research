@@ -43,6 +43,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [ABM Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
   - [ADT Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/adt-inc/company-packet.md)
   - [Allegion plc](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/allegion-plc/company-packet.md)
+  - [Brady Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/brady-corporation/company-packet.md)
   - [APi Group Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/api-group-corporation/company-packet.md)
   - [The Brink's Company](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/brinks-co/company-packet.md)
   - [BrightView Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/brightview-holdings-inc/company-packet.md)
@@ -59,13 +60,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a forty-six-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a forty-seven-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current forty-six completed names show forty-six related but distinct middle-layer roles:
+The current forty-seven completed names show forty-seven related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -101,6 +102,7 @@ The current forty-six completed names show forty-six related but distinct middle
 - `ABM` controls outsourced facilities operations, technical-services support, and recurring uptime inside airports, campuses, warehouses, and technical environments.
 - `ADT` controls recurring monitoring, installation, retention, and smart-security workflow across residential and small-business customers.
 - `Allegion` controls physical access, entry hardware, electronics, and credential-linked building workflow across non-residential and institutional environments.
+- `Brady` controls workplace identification, safety-compliance, product-traceability, and facility-control workflow across industrial and institutional customers.
 - `APi` controls inspection, monitoring, and safety-oriented service relationships tied to facilities and critical infrastructure.
 - `Brink's` controls cash logistics, ATM managed services, digital retail solutions, and recurring physical-payments infrastructure behind financial institutions and retailers.
 - `BrightView` controls recurring commercial-site maintenance, seasonal labor deployment, and property-upkeep execution across campuses, municipalities, hospitals, hotels, and retail sites.
@@ -166,6 +168,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `ABM`: keeping airports, campuses, warehouses, semiconductor environments, and datacenter-adjacent facilities clean, staffed, supported, and operational
 - `ADT`: keeping households and small businesses connected to recurring monitoring, alarm response, smart-home workflow, installation, and service continuity
 - `Allegion`: keeping offices, schools, institutions, commercial buildings, and other controlled spaces tied to locks, doors, exit devices, access-control electronics, and workforce-entry systems
+- `Brady`: keeping workplaces, warehouses, plants, laboratories, utilities, and other operating environments tied to labels, signs, lockout-tagout systems, printers, and safety-identification workflow
 - `APi`: keeping facilities, compliance systems, and safety-critical environments inspected, monitored, and operational
 - `Brink's`: keeping banks, retailers, ATMs, mints, and cash-heavy commercial systems serviced through route density, secure transport, ATM workflow management, and recurring cash-handling infrastructure
 - `BrightView`: keeping commercial properties, campuses, municipalities, hospitals, hotels, and retail sites maintained, presentable, and seasonally serviced through recurring field execution
@@ -218,6 +221,7 @@ The packets now point to the same conclusion from different directions:
 - `West` benefits from qualification burden, quality reliability, high-value component mix, and the recurring need to turn injectable therapies into usable delivered treatments.
 - `ABM` benefits from recurring site-level operating dependence and the willingness of customers to outsource continuity-sensitive work.
 - `ADT` benefits from `RMR` stability, subscriber retention, installation payback discipline, and the ability to widen customer lifetime value through `ADT+`, smart-home integration, and self-install channel expansion.
+- `Brady` benefits from recurring compliance demand, product-traceability needs, workplace-safety spending, new-product cycles, and the way customers standardize around identification and control workflows rather than buying ad hoc supplies.
 - `Allegion` benefits from installed-base access infrastructure, electronics attachment, non-residential retrofit and project flow, and the way safer and more instrumented buildings need controlled entry systems rather than simple hardware alone.
 - `APi` benefits from recurring inspections, monitoring relationships, and compliance-linked attachment.
 - `Brink's` benefits from route density, high-trust custody, ATM and digital-retail workflow attachment, and the persistence of physical cash systems even as customer interfaces digitize.

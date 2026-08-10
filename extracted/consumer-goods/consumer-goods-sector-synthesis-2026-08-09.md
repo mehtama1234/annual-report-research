@@ -14,6 +14,7 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [PepsiCo Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-packet.md)
   - [Monster Beverage Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
   - [The Coca-Cola Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md)
+  - [Mondelez International](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/confectioners/mondelez-international/company-packet.md)
 - Home improvement and built environment:
   - [Lowe's Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
 - Off-price and bargain discovery:
@@ -24,7 +25,7 @@ This synthesis is based on the completed consumer-goods packets currently in the
 - Packaging and containers:
   - [Graphic Packaging Holding Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md)
 
-The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-09`.
+The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-10`.
 
 Related cross-sector memo:
 
@@ -36,6 +37,7 @@ The completed consumer-goods set supports a clear sector conclusion: `Consumer G
 
 - everyday staples and household-care platforms
 - broad food and beverage portfolios shaped by affordability, convenience, and health-adjacent demand
+- affordable-treat and indulgence snacking systems
 - global routine beverage and brand-system demand
 - functional-energy and identity-driven beverage systems
 - home-improvement and built-environment demand systems
@@ -49,12 +51,13 @@ The strongest pattern is that consumer resilience is real, but it is increasingl
 
 ### 1. Consumer goods is fragmenting by category quality and value-chain position, not just by brand strength
 
-The eleven-company set already breaks into distinct economic roles:
+The twelve-company set already breaks into distinct economic roles:
 
 - `Procter & Gamble` is a broad daily-use and brand-superiority platform.
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
 - `Colgate-Palmolive` is a routine-use oral-care and pet-nutrition platform.
 - `PepsiCo` is a broad food-and-beverage portfolio balancing affordability, convenience, and functional demand.
+- `Mondelez International` is a focused indulgence-and-snacking platform balancing iconic brands, emerging-markets strength, cocoa-cost pressure, and structural cost-savings execution.
 - `The Coca-Cola Company` is a global routine beverage and brand-system platform built on repeat refreshment occasions, bottler execution, pack-price-channel architecture, and cultural activation.
 - `Monster Beverage` is a functional-energy and lifestyle-brand platform built on repeat stimulation demand, innovation cadence, and global distribution reach.
 - `Lowe's` is a home-improvement and built-environment operator sitting between consumer project demand, housing pressure, home services, and pro-oriented distribution.
@@ -92,6 +95,7 @@ This matters because it shows the archive cannot rely on top-level sector labels
 This is one of the strongest recurring patterns in the archive.
 
 - `PepsiCo` talks about affordability actions, value, convenience, and execution repair rather than just price.
+- `Mondelez` shows the same limit from a different angle: higher net pricing still mattered in `2025` and early `2026`, but cocoa costs, volume quality, and brand reinvestment make pricing alone an incomplete explanation.
 - `Coca-Cola` shows the same point through explicit revenue growth management and pack-price-channel architecture, where volume growth still matters and pricing is only one lever.
 - `P&G` emphasizes superiority, productivity, reinvestment, and a difficult consumer backdrop.
 - `Kimberly-Clark` uses price:value architecture, innovation, and brand trust to support the model.
@@ -132,6 +136,7 @@ So beauty should be read as a more cyclical and execution-sensitive pocket insid
 This is clearest in `PepsiCo`, but it matters across the set.
 
 - `PepsiCo` repeatedly shows stronger international momentum than North America.
+- `Mondelez` repeatedly leans on Emerging Markets strength while describing North America as stronger and Europe as improving, which makes geography one of the main reasons the business can still grow through a cocoa-cost shock.
 - `Coca-Cola` adds an even purer version of that logic because the business is explicitly managed as a global beverage system across more than `200` countries and territories, with local pack and affordability choices shaping unit growth.
 - `Monster Beverage` adds a more category-intense version of the same point, with net sales to customers outside the United States reaching roughly `42%` of `Q4 2025` net sales and EMEA growing `32.6%` in dollars in that quarter.
 - `P&G` benefits from global portfolio breadth across categories and regions.
@@ -160,6 +165,7 @@ So the completed set now supports a better sector frame: consumer demand is medi
 The current archive supports a more specific demand view than generic “consumer resilience.”
 
 - `PepsiCo` points toward hydration, protein, functional, and permissible-consumption framing.
+- `Mondelez` adds a different but equally important consumer anchor: repeated indulgence and affordable treats can stay resilient even in a pressured household backdrop, as long as brand strength and pack-price discipline remain intact.
 - `Coca-Cola` shows how a legacy beverage company is trying to preserve routine refreshment demand through zero-sugar growth, smaller-pack architecture, affordability options, and global event-led recruitment rather than through static flagship-brand strength alone.
 - `Monster Beverage` adds the stronger stimulation, performance, and identity-driven side of functional consumption, where routine use behaves more like a habit system than an ordinary refreshment purchase.
 - `P&G` and `Kimberly-Clark` show how care, hygiene, safety, and daily-use trust remain strong anchors.
@@ -174,6 +180,20 @@ This suggests that consumer-goods demand is increasingly sorting around:
 - value architecture
 
 That is a more useful reading frame than broad discretionary-versus-staples labels alone.
+
+### 7B. Snacking now has a cleaner split between broad convenience and focused indulgence
+
+The food-and-snack side of Consumer Goods is stronger now that `Mondelez` sits beside `PepsiCo`.
+
+- `PepsiCo` is the broader convenience and snack-plus-beverage system where affordability architecture, functional adjacencies, and portfolio breadth do more of the stabilizing work.
+- `Mondelez` is the tighter indulgence-and-snacking system where iconic brands, cocoa-cost pressure, emerging-markets strength, and affordable-treat behavior matter more directly.
+
+That distinction matters because it separates two different defenses:
+
+- portfolio breadth and category diversification
+- focused brand power in small-ticket indulgence categories
+
+This is a better frame than calling both companies simply packaged-food names.
 
 ### 7A. Beverage is already splitting into three different consumer systems
 
@@ -210,6 +230,7 @@ This remains a sector where mature cash engines matter. But the important nuance
 | Hygiene and care necessity platform | Kimberly-Clark | trusted care demand, productivity, value architecture, resilient household and hygiene mix |
 | Routine oral care and pet-health platform | Colgate-Palmolive | habitual demand, efficacy trust, strong margin discipline, pet-category headwinds and resilience |
 | Food and beverage value portfolio | PepsiCo | affordability, convenience, international diversification, functional and health-adjacent mix |
+| Affordable indulgence and snacking platform | Mondelez International | iconic snack brands, cocoa-cost sensitivity, emerging-markets strength, brand investment, and structural cost savings |
 | Global routine beverage and brand-system platform | The Coca-Cola Company | repeat refreshment occasions, bottler execution, zero-sugar recruitment, revenue growth management, cultural activation, connected packaging, and first-party data capture |
 | Functional-energy and lifestyle beverage platform | Monster Beverage | repeat stimulation demand, innovation cadence, international expansion, brand intensity, Coca-Cola-supported distribution reach |
 | Home-improvement and built-environment platform | Lowe's | housing pressure, Pro penetration, online growth, home services, loyalty, and distribution scale |
@@ -224,6 +245,7 @@ Across the completed consumer-goods set, the broader signals are:
 
 - the consumer is pressured, but not absent
 - value and premium can both work, while the generic middle is less reliable
+- affordable indulgence can still work when iconic brands and small-ticket habits stay intact, even if commodity inflation compresses earnings
 - bargain discovery and off-price branded value still behave like a real recurring consumer draw, not just a residual clearance channel
 - trusted routine-use categories still anchor demand
 - routine beverage systems still scale when brand trust, distribution reach, and pack-price execution stay aligned

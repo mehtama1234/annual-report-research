@@ -16,6 +16,7 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [PepsiCo Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-packet.md)
   - [The Campbell's Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/company-packet.md)
   - [The Kraft Heinz Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/food-major-diversified/the-kraft-heinz-company/company-packet.md)
+  - [General Mills, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/general-mills-inc/company-packet.md)
   - [Monster Beverage Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
   - [The Coca-Cola Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md)
   - [Mondelez International](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/confectioners/mondelez-international/company-packet.md)
@@ -60,7 +61,7 @@ The strongest pattern is that consumer resilience is real, but it is increasingl
 
 ### 1. Consumer goods is fragmenting by category quality and value-chain position, not just by brand strength
 
-The sixteen-company set already breaks into distinct economic roles:
+The seventeen-company set already breaks into distinct economic roles:
 
 - `Procter & Gamble` is a broad daily-use and brand-superiority platform.
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
@@ -70,6 +71,7 @@ The sixteen-company set already breaks into distinct economic roles:
 - `PepsiCo` is a broad food-and-beverage portfolio balancing affordability, convenience, and functional demand.
 - `The Campbell's Company` is a narrower pantry, meal-preparation, and at-home-cooking platform with a clearer split between stronger Meals & Beverages demand and weaker Snacks execution.
 - `The Kraft Heinz Company` is a broader center-store grocery, condiment, and meal-platform case where iconic brands still matter but legacy underinvestment, North America weakness, and active commercial reinvestment are central to the earnings read.
+- `General Mills` is a broader pantry-and-replenishment platform spanning cereal, snacks, baking, pet, foodservice, and international exposure, where value resets, brand remarkability, and cost-funded reinvestment are now central to the growth story.
 - `Mondelez International` is a focused indulgence-and-snacking platform balancing iconic brands, emerging-markets strength, cocoa-cost pressure, and structural cost-savings execution.
 - `The Coca-Cola Company` is a global routine beverage and brand-system platform built on repeat refreshment occasions, bottler execution, pack-price-channel architecture, and cultural activation.
 - `Monster Beverage` is a functional-energy and lifestyle-brand platform built on repeat stimulation demand, innovation cadence, and global distribution reach.
@@ -110,6 +112,7 @@ This is one of the strongest recurring patterns in the archive.
 - `PepsiCo` talks about affordability actions, value, convenience, and execution repair rather than just price.
 - `Campbell's` shows the more necessity-led center-store version of the same problem: trusted pantry demand can stay intact while Snacks softness, tariffs, and inflation still pressure gross profit and adjusted EBIT.
 - `Kraft Heinz` shows the bigger legacy-grocery version: consumer staples still move, but the business still has to spend harder on price, packaging, marketing, and innovation just to restore share and stabilize volume.
+- `General Mills` shows the broad replenishment version: value-seeking consumers and weaker sentiment forced a midyear pivot into more value, product news, and innovation, with volume and share improving before dollars and profits fully recovered.
 - `Mondelez` shows the same limit from a different angle: higher net pricing still mattered in `2025` and early `2026`, but cocoa costs, volume quality, and brand reinvestment make pricing alone an incomplete explanation.
 - `Coca-Cola` shows the same point through explicit revenue growth management and pack-price-channel architecture, where volume growth still matters and pricing is only one lever.
 - `P&G` emphasizes superiority, productivity, reinvestment, and a difficult consumer backdrop.
@@ -213,9 +216,9 @@ That is a more useful reading frame than broad discretionary-versus-staples labe
 
 This matters because it widens the current routine-use lane. `P&G`, `Kimberly-Clark`, `Colgate`, `Church & Dwight`, and `Clorox` already show broad staples, hygiene, efficacy-driven care, a narrower but more digitally active household-and-personal-care model, and a cleaning-and-sanitation-heavy transition case. Kenvue adds a more explicit self-care, pain, allergy, wound-care, oral-care, and skin-health read where trust and routine matter, but so do seasonal volatility and more active consumer activation.
 
-### 7D. Pantry and at-home-cooking demand deserves its own necessity-led food lane
+### 7D. Pantry and replenishment demand deserves its own necessity-led food lane
 
-`The Campbell's Company` is the clearest reason the archive should stop treating all packaged food as one bucket.
+`The Campbell's Company` and `General Mills` are the clearest reasons the archive should stop treating all packaged food as one bucket.
 
 - the fiscal `2025` annual materials show a `$10.253B` food platform with adjusted EPS of `$2.97` and operating cash flow of `$1.131B`
 - the official company identity now explicitly reflects more than soup, with the rename to `The Campbell's Company`
@@ -225,12 +228,23 @@ This matters because it widens the current routine-use lane. `P&G`, `Kimberly-Cl
   - Q3 FY`2026` adjusted EPS of `$0.50`
 - management repeatedly says at-home cooking trends are helping Campbell's, Rao's, and Swanson while Snacks remains softer and more execution-sensitive
 
+`General Mills` broadens the same lane rather than duplicating it.
+
+- the saved official `2025` annual filing shows a pantry-and-consumer-food platform that entered fiscal `2026` after organic net sales, adjusted operating profit, and adjusted EPS all declined in fiscal `2025`
+- management explicitly says value-seeking behavior and weaker consumer sentiment forced a pivot into more value, product news, innovation, and `remarkability`
+- the trailing-quarter chain then shows a mixed reset arc:
+  - Q2 FY`2026` showed sequential improvement and organic volume stabilization
+  - Q3 FY`2026` showed retailer inventory and weather disruption pressure
+  - Q4 FY`2026` showed a better finish helped by timing, cost savings, and the `53rd` week
+- pet, foodservice, and international give General Mills a broader replenishment read than Campbell's narrower meals focus
+
 That matters because it gives the archive a necessity-led food case that is different from both `PepsiCo` and `Mondelez`:
 
 - `PepsiCo` is the broader convenience and snack-plus-beverage system
-- `Mondelez` is the indulgence-and-snacking system
 - `Campbell's` is the narrower pantry, meal-preparation, and at-home-cooking system
+- `General Mills` is the broader pantry, cereal, snacks, pet, and foodservice replenishment system
 - `Kraft Heinz` is the larger center-store grocery and condiment system under active repair
+- `Mondelez` is the indulgence-and-snacking system
 
 ### 7B. Snacking now has a cleaner split between broad convenience and focused indulgence
 

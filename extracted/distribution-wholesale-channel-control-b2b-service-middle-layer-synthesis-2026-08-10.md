@@ -20,6 +20,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 - institutional supply and replenishment:
   - [Sysco Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/retail-grocery-stores/sysco-corp/company-packet.md)
   - [Henry Schein, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/henry-schein-inc/company-packet.md)
+  - [Cardinal Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cardinal-health-inc/company-packet.md)
   - [McKesson Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/mckesson-corporation/company-packet.md)
   - [Cencora](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/drug-stores/cencora-inc/company-packet.md)
   - [Option Care Health, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/specialized-health-services/option-care-health-inc/company-packet.md)
@@ -28,6 +29,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 - asset access and operating support:
   - [ABM Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
   - [APi Group Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/api-group-corporation/company-packet.md)
+  - [The Brink's Company](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/brinks-co/company-packet.md)
   - [BrightView Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/brightview-holdings-inc/company-packet.md)
   - [Cintas Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/cintas-corporation/company-packet.md)
   - [Motorola Solutions, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/technology/diversified-communication-services/motorola-solutions-inc/company-packet.md)
@@ -40,13 +42,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a twenty-seven-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a twenty-nine-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current twenty-seven completed names show twenty-seven related but distinct middle-layer roles:
+The current twenty-nine completed names show twenty-nine related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -60,6 +62,7 @@ The current twenty-seven completed names show twenty-seven related but distinct 
 - `WESCO` controls electrical, communications, utility, and data-center project flow through broad industrial distribution and logistics infrastructure.
 - `Sysco` controls recurring foodservice replenishment and route-density economics.
 - `Henry Schein` controls recurring medical-and-dental supply distribution, practice procurement, and value-added services across office-based healthcare.
+- `Cardinal Health` controls larger institutional healthcare throughput across pharmaceutical and specialty solutions, medical products distribution, at-home solutions, and logistics attachment.
 - `McKesson` controls medicine flow, specialty distribution, and provider-facing healthcare infrastructure.
 - `Cencora` controls pharmaceutical channel access, provider-facing logistics, and specialty-services infrastructure.
 - `Option Care` controls alternate-site infusion routing, specialty-drug administration workflow, and recurring treatment delivery outside the hospital.
@@ -67,6 +70,7 @@ The current twenty-seven completed names show twenty-seven related but distinct 
 - `West` controls a healthcare physical interface where injectable components, containment, and delivery systems sit between therapy makers and recurring patient use.
 - `ABM` controls outsourced facilities operations, technical-services support, and recurring uptime inside airports, campuses, warehouses, and technical environments.
 - `APi` controls inspection, monitoring, and safety-oriented service relationships tied to facilities and critical infrastructure.
+- `Brink's` controls cash logistics, ATM managed services, digital retail solutions, and recurring physical-payments infrastructure behind financial institutions and retailers.
 - `BrightView` controls recurring commercial-site maintenance, seasonal labor deployment, and property-upkeep execution across campuses, municipalities, hospitals, hotels, and retail sites.
 - `Cintas` controls route-based workplace uniforms, hygiene, first aid, safety, and fire-protection service relationships.
 - `Motorola Solutions` controls mission-critical communications, video security, command-center workflow, and managed-service relationships across public-safety and institutional customers.
@@ -107,6 +111,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `WESCO`: keeping electrical, communications, power, security, and data-center projects supplied and coordinated
 - `Sysco`: keeping restaurants, hospitality venues, healthcare kitchens, and other away-from-home food channels stocked
 - `Henry Schein`: keeping dental practices, physician offices, alternate-care sites, institutional clinics, and labs supplied with recurring medical-and-dental products, equipment, and workflow support
+- `Cardinal Health`: keeping hospitals, healthcare systems, pharmacies, ambulatory surgery centers, clinical laboratories, physician offices, and home patients supplied through pharmaceutical flow, medical products, and healthcare logistics attachment
 - `McKesson`: keeping pharmacies, providers, oncology practices, and health systems supplied and connected to specialty and workflow infrastructure
 - `Cencora`: keeping pharmacies, physician practices, health systems, and pharmaceutical channels supplied with medicines and specialty support services
 - `Option Care`: keeping patients, payers, prescribers, and specialty therapies connected through recurring home and alternate-site infusion delivery
@@ -114,6 +119,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `West`: keeping injectable therapies, biologics, and drug-delivery systems usable through recurring containment, delivery, and high-value component supply
 - `ABM`: keeping airports, campuses, warehouses, semiconductor environments, and datacenter-adjacent facilities clean, staffed, supported, and operational
 - `APi`: keeping facilities, compliance systems, and safety-critical environments inspected, monitored, and operational
+- `Brink's`: keeping banks, retailers, ATMs, mints, and cash-heavy commercial systems serviced through route density, secure transport, ATM workflow management, and recurring cash-handling infrastructure
 - `BrightView`: keeping commercial properties, campuses, municipalities, hospitals, hotels, and retail sites maintained, presentable, and seasonally serviced through recurring field execution
 - `Cintas`: keeping workplaces stocked, compliant, clean, and uniformly serviced through recurring route-based visits
 - `Motorola Solutions`: keeping public-safety agencies, schools, hospitals, transit networks, utilities, and enterprises connected through mission-critical networks, video systems, command software, and managed-service support
@@ -141,6 +147,7 @@ The packets now point to the same conclusion from different directions:
 - `WESCO` benefits from being a scaled infrastructure channel with procurement breadth, backlog visibility, and project execution fit.
 - `Sysco` benefits from route density, customer routines, sourcing leverage, and local service execution.
 - `Henry Schein` benefits from high-frequency practitioner relationships, distribution reliability, technology and specialty cross-sell, and embedded procurement workflow across fragmented office-based care.
+- `Cardinal Health` benefits from scale distribution, branded and specialty pharmaceutical throughput, medical-products exposure, at-home and logistics attachment, and the degree to which provider systems cannot tolerate replenishment failure.
 - `McKesson` benefits from scale distribution, specialty handling, and embedded provider relationships.
 - `Cencora` benefits from pharmaceutical access, specialty logistics, and provider/manufacturer embeddedness.
 - `Option Care` benefits from site-of-care migration, payer alignment, clinician-supported coordination, and the repeated routing of costly therapies into lower-friction treatment settings.
@@ -148,6 +155,7 @@ The packets now point to the same conclusion from different directions:
 - `West` benefits from qualification burden, quality reliability, high-value component mix, and the recurring need to turn injectable therapies into usable delivered treatments.
 - `ABM` benefits from recurring site-level operating dependence and the willingness of customers to outsource continuity-sensitive work.
 - `APi` benefits from recurring inspections, monitoring relationships, and compliance-linked attachment.
+- `Brink's` benefits from route density, high-trust custody, ATM and digital-retail workflow attachment, and the persistence of physical cash systems even as customer interfaces digitize.
 - `BrightView` benefits from recurring maintenance contracts, local route density, seasonal labor coordination, and the tendency of site owners to outsource visible but labor-heavy property upkeep.
 - `Cintas` benefits from route density, retention, and cross-sell across everyday workplace-service categories.
 - `Motorola Solutions` benefits from installed-base lock-in, public procurement complexity, integrated command-and-evidence workflow attachment, and the shift from device purchases toward software-and-services-supported safety systems.
@@ -173,6 +181,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Applied` is highly exposed to industrial caution, tariff noise, Service Center versus Engineered Solutions mix, and whether higher technical content sustains margin through slower capital cycles.
 - `Sysco` needs inventory management, routing, and working-capital discipline to protect margin.
 - `Henry Schein` is highly exposed to provider procedure cadence, equipment spending, supplier mix, freight and inventory discipline, and its ability to widen margins beyond basic distribution through specialty products and value-added services.
+- `Cardinal Health` is highly exposed to customer contract churn, thin-margin scale discipline, tariff pressure inside medical distribution, litigation cash demands, acquisition integration, and the financing cost of broadening its healthcare-services stack.
 - `McKesson` moves enormous healthcare volume through thin-margin, timing-sensitive systems.
 - `Cencora` faces similar healthcare working-capital and reimbursement sensitivity, but with more visible specialty and services attachment.
 - `Option Care` is highly exposed to reimbursement, therapy mix, clinician availability, payer behavior, and the balance between recurring treatment density and labor-heavy care coordination.
@@ -182,6 +191,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `WESCO` needs disciplined capital allocation and project execution because fast growth can still consume cash and working capital.
 - `ABM` depends heavily on labor management, service mix, and technical-project timing because recurring facilities work and higher-value technical work coexist inside the same platform.
 - `APi` needs disciplined acquisition integration and cash conversion because backlog and recurring service quality can be diluted by poor execution.
+- `Brink's` depends heavily on route density, cash-flow conversion, customer retention, mix shift toward AMS and DRS, and disciplined leverage because a physical network only gets more valuable when recurring service attachment improves margin quality.
 - `Cintas` wins partly because route density, facilities throughput, and local-service productivity convert recurrence into high-margin cash generation.
 - `Motorola Solutions` is highly exposed to procurement timing, backlog conversion, hardware refresh cycles, software-and-services attachment, acquisition integration, and one-off policy effects such as the Q2 2026 tariff-refund benefit.
 - `Rollins` depends heavily on local staffing, demand-generation mix, weather, and recurring route efficiency because a softer consumer lead environment can still compress margin even when the recurring base remains durable.
@@ -207,11 +217,13 @@ The current packets do not point to a software-product story. They point to oper
 - `WESCO`: data-center solutions, project coordination, and logistics systems that turn industrial distribution into infrastructure execution
 - `Sysco`: AI-enabled forecasting, routing, inventory management, and back-office automation
 - `Henry Schein`: technology as practice-management support, digital ordering, AI-enabled workflow, and value-added services layered onto recurring healthcare distribution
+- `Cardinal Health`: technology as part of specialty access, provider throughput, at-home coordination, and logistics workflow rather than as a stand-alone product
 - `McKesson`: technology as part of prescription, specialty, and provider workflow infrastructure
 - `Cencora`: technology as part of market access, provider support, and specialty-services coordination
 - `Stryker`: technology as embedded procedural infrastructure through robotics, power tools, enabling systems, and hospital workflow attachment rather than as a stand-alone software product
 - `ABM`: technology as part of dispatch, service workflow, airport and facilities operations, and datacenter or semiconductor support execution
 - `APi`: technology as part of monitoring, inspection cadence, service workflow, and compliance infrastructure
+- `Brink's`: technology as part of ATM managed services, digital retail solutions, route orchestration, and a hybrid physical-payments workflow rather than as a stand-alone software product
 - `Cintas`: technology as part of route planning, plant throughput, customer retention, and service density rather than as a consumer-facing product
 - `Motorola Solutions`: technology as the actual operating layer spanning radios, broadband, video, evidence, dispatch, AI call handling, and managed-service workflows inside institutional safety systems
 - `Rollins`: technology as part of demand generation, pricing tools, route visibility, and local operating discipline rather than as a branded end product
@@ -237,6 +249,7 @@ This is already visible across the completed set:
 - contractors, utilities, enterprise infrastructure programs, and hyperscale data-center projects at `WESCO`
 - restaurants, hospitality, schools, and healthcare foodservice at `Sysco`
 - dental practices, physician offices, alternate-care sites, healthcare clinics, and laboratories at `Henry Schein`
+- hospitals, health systems, pharmacies, ambulatory surgery centers, clinical laboratories, physician offices, and home patients at `Cardinal Health`
 - pharmacies, oncology practices, and health systems at `McKesson`
 - pharmacies, physician practices, health systems, and pharma-channel partners at `Cencora`
 - patients, prescribers, infusion nurses, and payers across home and alternate-site specialty treatment at `Option Care`
@@ -244,6 +257,7 @@ This is already visible across the completed set:
 - drug makers, biologics programs, injectable-therapy channels, and delivery-system buyers at `West`
 - airports, education sites, warehouses, commercial buildings, fabs, and datacenter-linked facilities at `ABM`
 - business facilities, safety-sensitive buildings, and infrastructure clients at `APi`
+- financial institutions, retailers, government agencies, mints, and jewelers at `Brink's`
 - employers, commercial sites, and workplace operators at `Cintas`
 - households, home builders, and commercial property operators at `Rollins`
 - contractors, industrial operators, and infrastructure projects at `United Rentals`
@@ -328,8 +342,8 @@ The frontier is not complete yet.
 
 Major gaps still include:
 
-- a second strong medical-equipment or medical-supply distributor beyond Henry Schein's office-based care procurement, drug channels, hospital-capital procurement, alternate-site service delivery, and therapy-enabling component supply
-- a dedicated protection-services or security-services operator beyond `ABM`, `APi`, `BrightView`, `Cintas`, `Rollins`, and `Motorola Solutions`
+- a more explicitly medical-products or medical-equipment distributor beyond Henry Schein's office-based care procurement, Cardinal's drug-and-system-throughput lane, hospital-capital procurement, alternate-site service delivery, and therapy-enabling component supply
+- a second protection-services operator beyond `Brink's` that leans more toward guarding, monitoring, or labor-heavy security execution than cash logistics and ATM services
 - a true medical-equipment or medical-supply distributor or operator that is more explicitly channel-oriented than the current healthcare service set
 
 Those additions should help answer:
@@ -341,7 +355,7 @@ Those additions should help answer:
 
 ## Working conclusion
 
-The current twenty-seven-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current twenty-nine-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

@@ -16,6 +16,7 @@ The current healthcare-frontier flagship set is:
 - `Insulet Corporation`
 - `Medpace Holdings, Inc.`
 - `Quest Diagnostics Incorporated`
+- `Natera, Inc.`
 
 This set is intended to cover:
 
@@ -270,6 +271,34 @@ Current raw status:
 
 - materially source-complete for packet drafting
 
+### Natera, Inc.
+
+Lane role:
+
+- precision diagnostics platform economics
+- women's health, oncology, and organ-health molecular testing
+- reimbursement- and evidence-sensitive assay-franchise scaling
+
+Raw evidence currently saved:
+
+- AnnualReports company page HTML
+- AnnualReports verification note
+- official IR source-links note
+- official `Q4 2025` results page
+- official `Q1 2026` results page
+- official `Q2 2026` results page
+- SEC submissions JSON
+- `2025` `10-K`
+- `Q4 2025` `8-K`
+- `Q1 2026` `10-Q`
+- `Q1 2026` `8-K`
+- `Q2 2026` `10-Q`
+- `Q2 2026` `8-K`
+
+Current raw status:
+
+- materially source-complete for packet drafting
+
 ## Drafting status
 
 Completed packets in this batch now include:
@@ -283,6 +312,7 @@ Completed packets in this batch now include:
 - `Insulet Corporation`
 - `Medpace Holdings, Inc.`
 - `Quest Diagnostics Incorporated`
+- `Natera, Inc.`
 
 ## Interpretation targets for the packet-writing pass
 

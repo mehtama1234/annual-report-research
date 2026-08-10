@@ -14,6 +14,7 @@ The current healthcare-frontier flagship set is:
 - `Option Care Health, Inc.`
 - `DexCom, Inc.`
 - `Insulet Corporation`
+- `Medpace Holdings, Inc.`
 
 This set is intended to cover:
 
@@ -213,6 +214,33 @@ Current raw status:
 
 - materially source-complete for packet drafting
 
+### Medpace Holdings, Inc.
+
+Lane role:
+
+- outsourced clinical-trial infrastructure
+- development-workflow and sponsor-dependence economics
+- high-science CRO execution across drug, biologic, and device programs
+
+Raw evidence currently saved:
+
+- AnnualReports company page HTML
+- `2025` annual-report PDF
+- `Q4 2025` earnings-release PDF
+- `Q1 2026` earnings-release PDF
+- `Q2 2026` earnings-release PDF
+- SEC submissions JSON
+- `2025` `10-K`
+- `Q4 2025` `8-K`
+- `Q1 2026` `10-Q`
+- `Q1 2026` `8-K`
+- `Q2 2026` `10-Q`
+- `Q2 2026` `8-K`
+
+Current raw status:
+
+- materially source-complete for packet drafting
+
 ## Interpretation targets for the packet-writing pass
 
 The packet and memo pass should explicitly pull out:
@@ -233,6 +261,7 @@ Completed file chains now exist for:
 - `Option Care Health, Inc.`
 - `DexCom, Inc.`
 - `Insulet Corporation`
+- `Medpace Holdings, Inc.`
 
 Cross-company interpretation now exists in:
 
@@ -240,6 +269,6 @@ Cross-company interpretation now exists in:
 
 ## Immediate next actions
 
-1. Treat `Regeneron`, `Labcorp`, `Teva`, `West`, `Option Care`, `DexCom`, and `Insulet` as completed for the current healthcare batch.
+1. Treat `Regeneron`, `Labcorp`, `Teva`, `West`, `Option Care`, `DexCom`, `Insulet`, and `Medpace` as completed for the current healthcare batch.
 2. Decide whether to integrate shared indexes as one coherent healthcare batch or hand the batch back for separate integration.
-3. Use `DexCom` and `Insulet` as the bridge to adjacent frontier names that lean more into monitoring, diagnostics, recurring home-use medical platforms, or trial infrastructure.
+3. Use `DexCom`, `Insulet`, and `Medpace` as the bridge to adjacent frontier names that lean more into monitoring, diagnostics, recurring home-use medical platforms, trial infrastructure, or care-routing complexity.

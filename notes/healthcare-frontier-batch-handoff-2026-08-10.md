@@ -7,7 +7,7 @@ Date baseline: `2026-08-10`
 - Date: `2026-08-10`
 - Repo: `annual-report-research`
 - Branch: `cli4-healthcare-frontier-batch`
-- Commit hash: `TBD`
+- Commit hash: `16205673`
 - Lane: `Healthcare frontier`
 - Scope: `Recurring care, therapy infrastructure, diagnostics, device-linked monitoring, home-based care, and treatment-enablement systems beyond big pharma and hospitals`
 

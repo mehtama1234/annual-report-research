@@ -20,6 +20,7 @@ The current healthcare-frontier flagship set is:
 - `Alnylam Pharmaceuticals, Inc.`
 - `DaVita Inc.`
 - `Addus HomeCare Corporation`
+- `Guardant Health Inc.`
 
 This set is intended to cover:
 
@@ -379,6 +380,39 @@ Raw evidence currently saved:
 - `Q1 2026` `8-K`
 - `Q2 2026` `10-Q`
 - `Q2 2026` `8-K`
+
+Current raw status:
+
+- materially source-complete for packet drafting
+
+### Guardant Health Inc.
+
+Lane role:
+
+- precision oncology diagnostics
+- blood-based cancer screening and consumerized test adoption
+- data-rich testing and companion-diagnostic platform economics
+
+Raw evidence currently saved:
+
+- AnnualReports company page HTML
+- AnnualReports verification note
+- official IR source-links note
+- official annual-reports page HTML
+- official quarterly-results page HTML
+- official `Q4 2025` results page HTML
+- official `Q1 2026` results page HTML
+- official `Q2 2026` results page HTML
+- SEC submissions JSON
+- `2025` `10-K`
+- `Q4 2025` `8-K`
+- `Q4 2025` press release exhibit
+- `Q1 2026` `10-Q`
+- `Q1 2026` `8-K`
+- `Q1 2026` press release exhibit
+- `Q2 2026` `10-Q`
+- `Q2 2026` `8-K`
+- `Q2 2026` press release exhibit
 
 Current raw status:
 

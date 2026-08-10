@@ -22,7 +22,7 @@ Date baseline: 2026-08-10
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
-- Latest annual report collected: no local PDF saved in this pass
+- Latest annual report collected: yes
 - Latest annual filing collected: yes
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
@@ -34,7 +34,7 @@ Date baseline: 2026-08-10
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
 | 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/west-pharmaceutical-services-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/healthcare/medical-instruments-supplies/west-pharmaceutical-services-inc/annualreports-verification.md) | Confirms `Healthcare / Medical Instruments & Supplies` taxonomy and that AnnualReports still lagged at the `2024` package on `2026-08-10`. |
-| 2025 | West annual report IR static-file reference | https://investor.westpharma.com/static-files/1c239b8a-57d9-4171-9501-7ae99541175f | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/west-pharmaceutical-services-inc/ir-source-links.md) | Official `2025` annual-report file URL was verified, but the PDF did not save locally in this pass because repeated fetches timed out. |
+| 2025 | Official annual report PDF | https://investor.westpharma.com/static-files/1c239b8a-57d9-4171-9501-7ae99541175f | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/west-pharmaceutical-services-inc/2025-annual-report.pdf) | Official `2025` annual report saved locally from the company IR static-file URL. |
 | 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/105770/000010577026000010/wst-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/medical-instruments-supplies/west-pharmaceutical-services-inc/2025-10k.html) | Standalone annual filing for the year ended December 31, 2025. |
 
 ## Last three quarters

@@ -122,6 +122,7 @@ Lane role:
 Raw evidence currently saved:
 
 - AnnualReports company page HTML
+- `2025` annual-report PDF
 - SEC submissions JSON
 - `2025` `10-K`
 - `Q4 2025` `8-K`
@@ -132,8 +133,7 @@ Raw evidence currently saved:
 
 Current raw status:
 
-- SEC chain is complete for packet drafting
-- official IR-hosted `2025` annual-report PDF still needs a successful local fetch
+- materially source-complete for packet drafting
 
 ### Option Care Health, Inc.
 
@@ -175,11 +175,8 @@ Completed file chains now exist for:
 - `Regeneron Pharmaceuticals, Inc.`
 - `Labcorp Holdings Inc.`
 - `Teva Pharmaceutical Industries Ltd.`
+- `West Pharmaceutical Services, Inc.`
 - `Option Care Health, Inc.`
-
-Completed with one remaining raw-artifact gap:
-
-- `West Pharmaceutical Services, Inc.` has a completed packet, profile, source ledger, and IR link file, but the official IR-hosted `2025` annual-report PDF still has not been saved locally after repeated fetch attempts
 
 Cross-company interpretation now exists in:
 
@@ -187,7 +184,6 @@ Cross-company interpretation now exists in:
 
 ## Immediate next actions
 
-1. Treat `Regeneron`, `Labcorp`, `Teva`, and `Option Care` as completed for the current healthcare batch.
-2. Treat `West Pharmaceutical Services, Inc.` as partial unless the missing official `2025` annual-report PDF is fetched locally.
-3. Decide whether to integrate shared indexes as one coherent healthcare batch or hand the batch back for separate integration.
-4. Commit the branch snapshot and hand off with completed companies, partial companies, lane summary, and next recommended names.
+1. Treat `Regeneron`, `Labcorp`, `Teva`, `West`, and `Option Care` as completed for the current healthcare batch.
+2. Decide whether to integrate shared indexes as one coherent healthcare batch or hand the batch back for separate integration.
+3. Commit the branch snapshot and hand off with completed companies, partial companies, lane summary, and next recommended names.

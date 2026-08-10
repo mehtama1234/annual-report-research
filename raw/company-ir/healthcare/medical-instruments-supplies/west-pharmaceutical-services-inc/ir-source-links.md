@@ -23,4 +23,4 @@ Date verified: 2026-08-10
 
 - AnnualReports taxonomy was verified separately, but the company page still lagged at the `2024` annual package.
 - The full SEC annual and quarterly filing chain is saved locally.
-- The official IR static-file URL for the `2025` annual package was verified, but repeated shell fetches timed out in this environment during this pass, so the packet remains analytically usable while still carrying a disclosed artifact gap.
+- The official IR static-file URL for the `2025` annual package is now saved locally as [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/west-pharmaceutical-services-inc/2025-annual-report.pdf).

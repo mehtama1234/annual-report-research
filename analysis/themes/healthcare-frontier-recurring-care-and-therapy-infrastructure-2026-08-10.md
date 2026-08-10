@@ -16,6 +16,7 @@ This memo pulls together the current healthcare-frontier flagship packets that m
 - [Natera, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/natera-inc/company-packet.md)
 - [Alnylam Pharmaceuticals, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/biotechnology/alnylam-pharmaceuticals-inc/company-packet.md)
 - [DaVita Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/davita-inc/company-packet.md)
+- [Addus HomeCare Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/addus-homecare-corporation/company-packet.md)
 
 ## What this batch adds
 
@@ -50,6 +51,7 @@ The healthcare archive already had evidence on payers and hospitals, but this ba
 
 `Option Care` is the cleanest direct operator of alternate-site recurring administration.
 `DaVita` is the clearest mandatory chronic-treatment operator.
+`Addus` is the clearest lower-acuity home-based recurring-services operator.
 `Labcorp`, `Quest`, and `Natera` support the testing and workflow side of it.
 `DexCom` and `Insulet` move recurring monitoring and dosing into the home.
 `West` supports the physical delivery side of it.
@@ -75,6 +77,7 @@ That favors companies that sit inside the routine:
 - `Regeneron` through long-duration franchise therapies
 - `Option Care` through recurring infusion delivery
 - `DaVita` through recurring dialysis and kidney-care coordination
+- `Addus` through recurring personal care, hospice, and selective home-health support in the preferred home setting
 - `Labcorp` and `Quest` through repeated testing and monitoring
 - `Natera` through repeated molecular screening and recurrence surveillance
 - `DexCom` and `Insulet` through device-linked chronic disease routines
@@ -156,6 +159,7 @@ Some of it depends on:
 This matters because it gives the batch a second specialized-services comparison against `Option Care`.
 Option Care is about routing and administering expensive therapies outside the hospital.
 DaVita is about maintaining a high-frequency chronic-care utility while trying to expand coordination and home-based support around it.
+Addus closes the remaining home-health gap from another angle: it monetizes lower-acuity but longer-duration support through personal care, hospice, and a smaller home-health layer, where the key variables are caregiver labor, state rate support, payor concentration, and local density rather than therapy mix or treatment frequency.
 
 ### 8. Pipeline risk and franchise concentration still dominate the value story
 
@@ -232,6 +236,7 @@ Those pressures express differently by company:
 - `West`: qualification burden, delivery-system demand, and quality execution
 - `Option Care`: labor, payer pressure, site-of-care routing, and therapy complexity
 - `DaVita`: reimbursement per treatment, treatment-density growth, labor discipline, and value-based kidney-care execution
+- `Addus`: caregiver hiring, wage pass-through, Illinois and other state reimbursement exposure, acquisition integration, and personal-care density
 - `DexCom` and `Insulet`: channel expansion, reimbursement, wear-time adherence, and installed-base monetization
 - `Medpace`: sponsor funding quality, award timing, and backlog conversion
 
@@ -266,7 +271,9 @@ Those pressures express differently by company:
 - `Natera` is the best current packet for precision-diagnostics franchise economics, molecular recurrence monitoring, and the consumer-facing edge of genetic testing.
 - `Alnylam` is the best current packet for RNAi-platform commercialization, TTR franchise concentration, and post-approval biotech scaling risk.
 - `DaVita` is the best current packet for recurring dialysis economics, value-based kidney care, and the chronic-treatment utility layer.
+- `Addus` is the best current packet for aging-in-place economics, home-based personal care density, and the labor-plus-reimbursement operating model behind recurring care in the home.
 
 ## Gaps
 
-- Need a second home-based-care name if the archive wants a cleaner home-health comparison distinct from both infusion and dialysis.
+- The home-based-care comparison gap is materially narrower after `Addus`.
+- A future add could still deepen the lane with a more clinical home-health pure play or a hospital-at-home specialist, but it is no longer a missing core comparison.

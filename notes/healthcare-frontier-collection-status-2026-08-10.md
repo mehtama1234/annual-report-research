@@ -19,6 +19,7 @@ The current healthcare-frontier flagship set is:
 - `Natera, Inc.`
 - `Alnylam Pharmaceuticals, Inc.`
 - `DaVita Inc.`
+- `Addus HomeCare Corporation`
 
 This set is intended to cover:
 
@@ -346,6 +347,31 @@ Raw evidence currently saved:
 - official `Q4 2025` results page
 - official `Q1 2026` results page
 - official `Q2 2026` results page
+- SEC submissions JSON
+- `2025` `10-K`
+- `Q4 2025` `8-K`
+- `Q1 2026` `10-Q`
+- `Q1 2026` `8-K`
+- `Q2 2026` `10-Q`
+- `Q2 2026` `8-K`
+
+Current raw status:
+
+- materially source-complete for packet drafting
+
+### Addus HomeCare Corporation
+
+Lane role:
+
+- home-based personal care
+- hospice and home health continuum
+- aging-in-place and state-reimbursement operating leverage
+
+Raw evidence currently saved:
+
+- AnnualReports company page HTML
+- AnnualReports verification note
+- official IR source-links note
 - SEC submissions JSON
 - `2025` `10-K`
 - `Q4 2025` `8-K`

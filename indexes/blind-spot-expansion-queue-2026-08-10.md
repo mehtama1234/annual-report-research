@@ -13,6 +13,7 @@ Related memo:
 - [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
 - [Thick vs. Thin Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
 - [Mid-Thickness Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/mid-thickness-relationship-systems-2026-08-10.md)
+- [Relationship-System Migration Paths](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/relationship-system-migration-paths-2026-08-10.md)
 
 ## Purpose
 

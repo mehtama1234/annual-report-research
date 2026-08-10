@@ -13,6 +13,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Watsco, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/electronics-wholesale/watsco-inc/company-packet.md)
   - [Resideo Technologies, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/resideo-technologies-inc/company-packet.md)
   - [Arrow Electronics, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/technology/electronics-wholesale/arrow-electronics-inc/company-packet.md)
+  - [Avnet, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/technology/electronics-wholesale/avnet-inc/company-packet.md)
   - [Fastenal Company](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/fastenal-company/company-packet.md)
   - [DNOW Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/dnow-inc/company-packet.md)
   - [MSC Industrial Direct Co., Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/company-packet.md)
@@ -62,13 +63,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a forty-nine-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a fifty-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current forty-nine completed names show forty-nine related but distinct middle-layer roles:
+The current fifty completed names show fifty related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -76,6 +77,7 @@ The current forty-nine completed names show forty-nine related but distinct midd
 - `Watsco` controls HVAC and refrigeration distribution, contractor workflow, and climate-control replacement economics.
 - `Resideo` controls a combined manufacturer-plus-distributor channel where `ADI Global Distribution` gives the frontier a direct low-voltage security, sensing, and building-controls contractor-distribution layer.
 - `Arrow Electronics` controls global electronic-components and enterprise-computing channel flow across OEM, EMS, VAR, and MSP relationships, making the technology supply chain visible as a middle-layer system rather than an abstract upstream market.
+- `Avnet` controls global electronic-components distribution and the `Farnell` service-attached catalog layer, making inventory-days discipline, supplier aggregation, and return on working capital visible as core channel economics rather than side metrics.
 - `Fastenal` controls onsite industrial procurement, vending, and embedded replenishment workflow inside customer operations.
 - `DNOW` controls a more energy-, utilities-, flow-control-, and instrumentation-heavy distribution layer tied to process infrastructure rather than only general industrial replenishment.
 - `MSC` controls a more manufacturing- and metalworking-sensitive procurement layer built around plant-floor replenishment, vending, and In-Plant service density.
@@ -145,6 +147,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Watsco`: keeping contractors, building operators, and households supplied with climate-control and refrigeration equipment through dense distribution and replacement-cycle workflow
 - `Resideo`: keeping low-voltage contractors, integrators, distributors, installers, and building operators supplied with security, sensing, and building-controls products through `ADI Global Distribution` reach and branch-scale channel infrastructure
 - `Arrow`: keeping OEMs, EMS providers, VARs, MSPs, and other commercial customers supplied with electronic components, enterprise-computing solutions, and supply-chain services across a globally scaled distribution network
+- `Avnet`: keeping OEMs, industrial customers, and global electronics buyers supplied with semiconductors, embedded products, engineering support, `Farnell` catalog access, and supply-chain services across a financing-heavy global distribution system
 - `Fastenal`: keeping plants, jobsites, and maintenance teams supplied through onsite procurement, vending, digital ordering, and low-friction replenishment
 - `DNOW`: keeping gas utilities, process plants, water systems, midstream networks, and industrial operators supplied with PVF, pumps, controls, instrumentation, and process hardware
 - `MSC`: keeping factories and machine shops supplied through metalworking, MRO, and inventory-control systems with more visible exposure to manufacturing cadence
@@ -201,6 +204,7 @@ The packets now point to the same conclusion from different directions:
 - `Watsco` benefits from replacement-cycle urgency, contractor dependence, digital workflow, and branch density in hot-weather markets where climate-control failure is not optional.
 - `Resideo` benefits from combining product access with contractor-channel ownership, low-voltage assortment breadth, branch reach, and the way `ADI` sits between manufacturers and installers in a fragmented security-and-controls ecosystem.
 - `Arrow` benefits from supplier aggregation, inventory access, engineering and supply-chain-services attachment, and its ability to intermediate complex technology procurement across many downstream commercial channels.
+- `Avnet` benefits from franchise relationships, broad component availability, `Farnell` service attachment, and unusually explicit control of inventory days and return on working capital inside the same electronics channel.
 - `Fastenal` benefits from moving inside the customer site and turning industrial procurement into a workflow it partially controls.
 - `DNOW` benefits from broader technical assortment and the post-merger ability to intermediate energy, utility, and process-infrastructure buying through a larger combined platform.
 - `MSC` benefits from becoming part of the plant-floor inventory and purchasing process even while carrying more cycle sensitivity than the broader procurement names.
@@ -256,6 +260,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Ferguson` is highly exposed to branch productivity, supplier-price timing, acquisitions, and contractor demand splits between residential and non-residential work.
 - `Watsco` is highly exposed to A2L transition effects, inventory timing, HVAC replacement demand, tariff-linked OEM pricing, and the seasonal working-capital shape of a dense climate-control distributor.
 - `Resideo` is highly exposed to inventory positioning across the combined company, low-voltage contractor demand, gross-margin pressure inside distribution, separation execution, and the capital-structure reset tied to the completed `ADI` spin as of Monday, `2026-08-10`.
+- `Avnet` is highly exposed to semiconductor and electronics-cycle normalization, regional manufacturing cadence, inventory-days execution, receivables intensity, and the speed with which `Electronic Components` and `Farnell` can convert growth back into margin.
 - `Fastenal` is highly exposed to mix shifts toward large accounts, pricing pass-through, and the economics of onsite service density.
 - `DNOW` is highly exposed to merger integration, ERP cleanup, end-market timing across gas utilities and industrial process demand, and whether working-capital normalization turns into durable margin improvement.
 - `MSC` is highly exposed to metalworking, manufacturing cadence, national-account mix, and the tension between recurring procurement attachment and gross-margin pressure.

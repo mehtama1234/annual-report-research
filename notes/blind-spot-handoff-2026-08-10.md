@@ -3,8 +3,10 @@
 Date: 2026-08-10
 Repo: `annual-report-research`
 Branch: `cli4-healthcare-frontier-batch`
-Current HEAD: `6f956b17868f39cf249a5adf31ec3f03cd8284ed`
-Current HEAD subject: `Add Mueller to downstream physical inputs batch`
+Current HEAD at note creation: `f1df674`
+Current HEAD subject at note creation: `Add blind-spot lane handoff note`
+Mixed base commit underneath this note: `6f956b17868f39cf249a5adf31ec3f03cd8284ed`
+Mixed base subject: `Add Mueller to downstream physical inputs batch`
 
 ## Why this note exists
 
@@ -18,8 +20,9 @@ The practical purpose is to let another thread continue the blind-spot lane with
 
 - The branch is currently clean.
 - The blind-spot and `Hasbro` work is already saved in git.
-- However, the current `HEAD` commit is not a pure blind-spot snapshot.
-- The same commit also contains unrelated `Mueller Industries` downstream-physical-inputs work.
+- The current top commit is a clean handoff note.
+- However, the underlying branch state immediately below that note is not a pure blind-spot snapshot.
+- The mixed base commit also contains unrelated `Mueller Industries` downstream-physical-inputs work.
 
 That means:
 
@@ -27,7 +30,7 @@ That means:
 - the repo is usable
 - there is no clean commit boundary for only the blind-spot lane unless history is rewritten later
 
-Do not assume `HEAD` is a clean one-theme commit.
+Do not assume the underlying research commit boundary is clean just because the latest note commit is clean.
 
 ## What this blind-spot lane owns
 
@@ -140,7 +143,7 @@ The old `none` path should be treated as deprecated history, not as a live worki
 
 The current branch also contains unrelated industrial and downstream-physical-inputs work.
 
-The clearest visible example at `HEAD` is:
+The clearest visible example in the mixed base commit is:
 
 - `Mueller Industries`
 

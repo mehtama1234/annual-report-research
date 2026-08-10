@@ -16,6 +16,10 @@ This memo pulls together the current Services packets that are most useful for u
 - [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
 - [MGM Resorts International](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md)
 
+Cross-sector contrast that now matters for the same theme:
+
+- [Frontier Group Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/air-delivery-freight-services/frontier-group-holdings-inc/company-packet.md) sits outside the formal Services set because AnnualReports currently classifies it under `Industrial Goods`, but it is the archive's clearest ultra-low-cost carrier and thin-relationship airline contrast.
+
 ## Executive read
 
 The travel-side packets support a sharper conclusion than "experience demand stayed strong."
@@ -33,8 +37,11 @@ Each company does that differently:
 - `Carnival` turns a prepaid vacation into a bundled destination, onboard-spend, and deposit-float system.
 - `Caesars` turns resort visits and digital wagering into one rewards and wallet-linked customer loop.
 - `MGM` turns destination demand into a diversified resort, regional gaming, Macau, and digital-extension system with several monetization surfaces rather than one pure wallet mechanic.
+- `Frontier` turns the traveler relationship into a thinner low-fare and ancillary system where customer ownership matters less than price stimulation, revenue-per-passenger management, and aircraft productivity.
 
 So the stronger reading is that travel and entertainment are increasingly relationship businesses with trips attached, not just trip businesses with marketing attached.
+
+Frontier sharpens that conclusion by showing the boundary condition. The relationship layer can still be thin. A company can be very consumer-facing and still have much more of the economic story sitting in ancillary design, unit revenue, and fleet reset than in a thick wallet or status system.
 
 ## What the archive now says
 
@@ -114,6 +121,7 @@ All eight companies show a second economic layer beyond the basic service consum
 - `Carnival`: deposits, onboard spend, pre-cruise sales, exclusive destinations, and pricing power across a bundled vacation product
 - `Caesars`: digital wagering, universal wallet usage, cross-market rewards engagement
 - `MGM`: digital gaming exposure, diversified resort demand, Macau earnings, regional repeat play, and convention or luxury-driven destination monetization
+- `Frontier`: ancillary revenue per passenger, bag-and-seat monetization, stage-length-managed RASM recovery, and fleet-rightsizing discipline
 
 The common point is that the best travel and destination businesses are trying to make the customer more valuable between trips, around the trip, or across multiple kinds of spend.
 
@@ -145,6 +153,7 @@ The cultural reading is strong here.
 - `Carnival` shows that the vacation product itself can become a bundled consumer environment where anticipation, prepaid commitment, onboard convenience, and private-destination access matter culturally as well as financially.
 - `Caesars` shows a more explicit wallet-and-tier system where entertainment, wagering, travel, and rewards identity are fused together.
 - `MGM` shows a slightly different cultural layer: destination aspiration, premium Las Vegas positioning, convention gravity, and digital wagering adjacency inside one brand family.
+- `Frontier` shows the opposite edge of the spectrum: low-fare utility, bargain-seeking travel behavior, and a customer relationship that remains intentionally thinner than the major network carriers.
 
 The cultural point is that these companies are monetizing more than movement or nights stayed. They are monetizing belonging, preference, and the desire for a smoother repeat experience.
 
@@ -168,6 +177,7 @@ The cultural point is that these companies are monetizing more than movement or 
 - Delta is the clearest proof that a loyalty currency can become a major partner and payments business.
 - United is the clearest proof in the airline set that the same widening can also happen through premium product, reliability, connectivity, and brand-loyal-customer behavior even when the filings are less explicit about one giant partner-currency engine.
 - Southwest is the clearest proof in the airline set that the same widening can also happen through a merchandising reset that changes the interface itself.
+- Frontier is the clearest proof in the airline set that the relationship layer can remain much thinner, with economics still driven primarily by low fares, ancillary attachment, and aircraft-productivity decisions.
 - Hilton is the cleanest proof that repeat travel trust and brand-system scale can drive fee compounding without heavy asset ownership.
 - Marriott is the strongest proof in the lodging set that loyalty concentration and co-brand economics can materially widen the economics of a stay network.
 - Booking is the clearest proof in the travel stack that trip planning, booking, and payments orchestration can become a defensible consumer interface with its own merchant and direct-demand economics.
@@ -178,6 +188,6 @@ The cultural point is that these companies are monetizing more than movement or 
 
 ## Next best extensions
 
-- The airline comparison is materially stronger now that Southwest sits beside Delta and United, so the next airline move should be either a weaker carrier or a payments-linked travel operator rather than a basic fourth check.
+- The airline comparison is materially stronger now that Frontier joins Southwest beside Delta and United, so the next airline move should be a payments-linked travel operator or membership-heavy intermediary rather than a basic fifth check.
 - Add a payments-linked travel or membership operator if the goal is to widen the destination-and-wallet comparison beyond airlines, hotels, cruise, and gaming.
 - Build a follow-on memo comparing travel loyalty systems against restaurant and retail routine systems so the broader archive has one cross-category map of recurring consumer interfaces.

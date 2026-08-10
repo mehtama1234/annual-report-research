@@ -27,6 +27,33 @@ Tar SHA256:
 dead29400e6cd4e5a097b09946638d7d1eec6e50aad3680e79649b18a8ed608c  annual-report-raw-blob-offload-local-main-delta-2026-08-10.tar
 ```
 
+## Additional CLI9 Healthcare Frontier Offload
+
+- Source repo: `/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers`
+- Research snapshot commit with raw payload: `f33ef0de362c99d51ba63e9ce3b3c9ad79598738`
+- Raw paths offloaded: `37`
+- Drive upload size: `16,005,120` bytes
+- Drive folder path: `gdrive:annual-report-research/raw-blob-offloads/cli9-healthcare-delta-2026-08-10`
+- Tar object: `annual-report-raw-blob-offload-cli9-healthcare-2026-08-10.tar`
+- Tar Drive link: `https://drive.google.com/open?id=10w1-i7gNkhzOPvVdNRm-Bs049tv1Mf0p`
+- Checksum object: `annual-report-raw-blob-offload-cli9-healthcare-2026-08-10.tar.sha256`
+- Checksum Drive link: `https://drive.google.com/open?id=1imV6nFJMMllg6PksEGB2-1AycdtFp4Cn`
+
+Tar SHA256:
+
+```text
+b4e682e6ef38743c738ab3814a7872c30665e9eda44df247f69e7cf08cbee92c  annual-report-raw-blob-offload-cli9-healthcare-2026-08-10.tar
+```
+
+This second archive covers the CLI9 healthcare frontier raw source set for:
+
+- `raw/annualreports/healthcare/medical-distribution/`
+- `raw/company-ir/healthcare/medical-distribution/`
+- `raw/sec/healthcare/medical-distribution/`
+- `raw/annualreports/healthcare/medical-laboratories-research/`
+- `raw/company-ir/healthcare/medical-laboratories-research/`
+- `raw/sec/healthcare/medical-laboratories-research/`
+
 ## Repo Manifest Files
 
 - `indexes/raw-blob-offload-manifest-2026-08-10.csv`

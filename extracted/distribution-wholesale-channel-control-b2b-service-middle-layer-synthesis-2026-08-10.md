@@ -40,6 +40,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [The Brink's Company](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/brinks-co/company-packet.md)
   - [BrightView Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/brightview-holdings-inc/company-packet.md)
   - [Cintas Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/cintas-corporation/company-packet.md)
+  - [Mistras Group, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/technical-services/mistras-group-inc/company-packet.md)
   - [Motorola Solutions, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/technology/diversified-communication-services/motorola-solutions-inc/company-packet.md)
   - [Rollins, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/personal-services/rollins-inc/company-packet.md)
   - [The GEO Group, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/the-geo-group/company-packet.md)
@@ -51,13 +52,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a thirty-eight-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a thirty-nine-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current thirty-eight completed names show thirty-eight related but distinct middle-layer roles:
+The current thirty-nine completed names show thirty-nine related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -90,6 +91,7 @@ The current thirty-eight completed names show thirty-eight related but distinct 
 - `Brink's` controls cash logistics, ATM managed services, digital retail solutions, and recurring physical-payments infrastructure behind financial institutions and retailers.
 - `BrightView` controls recurring commercial-site maintenance, seasonal labor deployment, and property-upkeep execution across campuses, municipalities, hospitals, hotels, and retail sites.
 - `Cintas` controls route-based workplace uniforms, hygiene, first aid, safety, and fire-protection service relationships.
+- `Mistras` controls a technical asset-integrity and uptime-support layer built around inspection, non-destructive testing, certification, data integrity, and engineering support for critical industrial and civil assets.
 - `Motorola Solutions` controls mission-critical communications, video security, command-center workflow, and managed-service relationships across public-safety and institutional customers.
 - `Rollins` controls recurring residential and commercial field-service routes where local execution, pricing, and maintenance behavior matter more than product ownership.
 - `The GEO Group` controls outsourced secure facilities, processing centers, transportation, reentry, and electronic-monitoring workflows across government and institutional demand.
@@ -147,6 +149,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Brink's`: keeping banks, retailers, ATMs, mints, and cash-heavy commercial systems serviced through route density, secure transport, ATM workflow management, and recurring cash-handling infrastructure
 - `BrightView`: keeping commercial properties, campuses, municipalities, hospitals, hotels, and retail sites maintained, presentable, and seasonally serviced through recurring field execution
 - `Cintas`: keeping workplaces stocked, compliant, clean, and uniformly serviced through recurring route-based visits
+- `Mistras`: keeping refineries, pipelines, industrial facilities, aerospace components, power assets, and civil infrastructure inspected, certified, and operational without requiring customer shutdowns
 - `Motorola Solutions`: keeping public-safety agencies, schools, hospitals, transit networks, utilities, and enterprises connected through mission-critical networks, video systems, command software, and managed-service support
 - `Rollins`: keeping homes and commercial properties serviced through recurring pest and termite routes, relationship channels, and local branch execution
 - `The GEO Group`: keeping governments supplied with secure-capacity, transport, reentry, and monitored-supervision infrastructure they may not want to build or expand internally at the same speed
@@ -192,6 +195,7 @@ The packets now point to the same conclusion from different directions:
 - `Brink's` benefits from route density, high-trust custody, ATM and digital-retail workflow attachment, and the persistence of physical cash systems even as customer interfaces digitize.
 - `BrightView` benefits from recurring maintenance contracts, local route density, seasonal labor coordination, and the tendency of site owners to outsource visible but labor-heavy property upkeep.
 - `Cintas` benefits from route density, retention, and cross-sell across everyday workplace-service categories.
+- `Mistras` benefits from certification credibility, specialized technical labor, recurring run-and-maintain contracts, software-enabled integrity workflows, and the high cost of customer downtime or compliance failure.
 - `Motorola Solutions` benefits from installed-base lock-in, public procurement complexity, integrated command-and-evidence workflow attachment, and the shift from device purchases toward software-and-services-supported safety systems.
 - `Rollins` benefits from route density, recurring service behavior, acquisitions, and the tendency of property owners to outsource a routine but locally executed maintenance burden.
 - `The GEO Group` benefits from contract optionality, labor deployment, facility readiness, electronic-monitoring scale, and the willingness of governments to outsource surge capacity, supervision, and transport instead of internalizing all of it.
@@ -236,6 +240,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `APi` needs disciplined acquisition integration and cash conversion because backlog and recurring service quality can be diluted by poor execution.
 - `Brink's` depends heavily on route density, cash-flow conversion, customer retention, mix shift toward AMS and DRS, and disciplined leverage because a physical network only gets more valuable when recurring service attachment improves margin quality.
 - `Cintas` wins partly because route density, facilities throughput, and local-service productivity convert recurrence into high-margin cash generation.
+- `Mistras` is highly exposed to receivables timing, technical-labor availability, customer turnaround schedules, higher-complexity Aerospace and Defense investment, and the balance between better margins and still-uneven free-cash-flow conversion.
 - `Motorola Solutions` is highly exposed to procurement timing, backlog conversion, hardware refresh cycles, software-and-services attachment, acquisition integration, and one-off policy effects such as the Q2 2026 tariff-refund benefit.
 - `Rollins` depends heavily on local staffing, demand-generation mix, weather, and recurring route efficiency because a softer consumer lead environment can still compress margin even when the recurring base remains durable.
 - `The GEO Group` is highly exposed to labor costs, facility activation timing, political and legal pressure, government budget cycles, detention and supervision volume shifts, leverage management, and the operational value of idle capacity.

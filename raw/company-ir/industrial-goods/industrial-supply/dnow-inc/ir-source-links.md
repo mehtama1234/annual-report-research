@@ -24,5 +24,5 @@ Date verified: 2026-08-10
 
 ## Local evidence
 
-- Investor FAQ capture: [investor-faqs.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/industrial-supply/dnow-inc/investor-faqs.html)
-- Annual and financial results index: [financial-results.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/industrial-supply/dnow-inc/financial-results.html)
+- Investor FAQ capture: [investor-faqs.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-supply/dnow-inc/investor-faqs.html)
+- Annual and financial results index: [financial-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-supply/dnow-inc/financial-results.html)

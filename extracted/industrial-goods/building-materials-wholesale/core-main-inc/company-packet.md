@@ -4,7 +4,6 @@ Date baseline: 2026-08-10
 
 ## Snapshot
 
-- Assigned CLI 8 sub-lane: wholesale and distribution infrastructure
 - Company: Core & Main, Inc.
 - Sector: Industrial Goods
 - Industry: Building Materials Wholesale
@@ -82,18 +81,18 @@ Date baseline: 2026-08-10
 
 - Against `Mueller Industries`: Core & Main sits one step further downstream, where economics depend less on fabrication spread and more on category mix, procurement, and branch execution.
 - Against `Vulcan Materials`: Core & Main is a distributed channel business rather than a local scarce-asset business, so it helps separate public-works demand from quarry or freight-locality economics.
-- Against a future `WESCO` packet: Core & Main is the water-and-fire-protection analogue to what WESCO could provide for electrical and broader industrial distribution.
+- Against `WESCO International, Inc.`: Core & Main is the water-and-fire-protection analogue to WESCO's role in electrical, communications, utility, and broader industrial distribution.
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/building-materials-wholesale/core-main-inc/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/building-materials-wholesale/core-main-inc/source-ledger.md)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/building-materials-wholesale/core-main-inc/2025-10k.html)
-- [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2026-q1-results.html)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2026-q1-earnings-release.pdf)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/building-materials-wholesale/core-main-inc/2026-q1-10q.html)
-- [2025-q4-results.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2025-q4-results.html)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2025-q4-earnings-release.pdf)
-- [2025-q3-results.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2025-q3-results.html)
-- [2025-q3-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2025-q3-earnings-release.pdf)
-- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/building-materials-wholesale/core-main-inc/sec-source-links.md)
+- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/building-materials-wholesale/core-main-inc/company-profile.md)
+- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/building-materials-wholesale/core-main-inc/source-ledger.md)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/building-materials-wholesale/core-main-inc/2025-10k.html)
+- [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2026-q1-results.html)
+- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2026-q1-earnings-release.pdf)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/building-materials-wholesale/core-main-inc/2026-q1-10q.html)
+- [2025-q4-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2025-q4-results.html)
+- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2025-q4-earnings-release.pdf)
+- [2025-q3-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2025-q3-results.html)
+- [2025-q3-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2025-q3-earnings-release.pdf)
+- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/building-materials-wholesale/core-main-inc/sec-source-links.md)

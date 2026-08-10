@@ -1,0 +1,277 @@
+Exhibit 99.1
+1999 Bryan Street, Suite 3500
+Dallas, Texas 75201
+1.214.583.8500
+Press Release
+FOR IMMEDIATE RELEASE May 5, 2026
+
+Jacobs Reports Strong Fiscal Second Quarter 2026 Results
+Robust Q2 Gross Revenue and Adjusted Net Revenue Growth of 27% and 9% y/y, Respectively
+Record Backlog of $27.0 billion, Up 22% y/y with TTM Book-to-Bill Ratio of 1.4x (1.2x Adj. NR)
+Engineering News-Record Ranks Jacobs #1 Design Firm and #1 in Manufacturing
+Repurchased $220 million of Jacobs Shares in Q2, $472 million YTD
+Completed Acquisition of PA Consulting; Increasing Cost Synergy Estimate to $20 million+ within 24 Months
+Raising FY 2026 Guidance for the Second Consecutive Quarter, Reflecting Strong Business Momentum
+DALLAS, TEXAS - Jacobs Solutions Inc. (NYSE: J) today announced its financial results for the fiscal second quarter ended 
+March 27, 2026.
+Q2 2026 Highlights1:
+• Gross revenue of $3.7 billion up 27.0% y/y; adjusted net revenue2 of $2.3 billion up 8.8% y/y
+• GAAP net earnings of ($43.0) million, impacted by PA acquisition transaction (vs. net earnings of $11.2 million in Q2 
+2025); adjusted EBITDA2 of $327.2 million increased 14.2% y/y
+• GAAP EPS of ($0.32), impacted by PA acquisition transaction (vs. EPS of $0.10 in Q2 2025); adjusted EPS2 of $1.75 
+increased 22.4% y/y
+• Backlog of $27.0 billion up 21.7% y/y
+• Q2 book-to-bill of 1.2x (1.4x TTM); Q2 adjusted net revenue book-to-bill of 1.2x (1.2x TTM)
+Jacobs' Chair and CEO Bob Pragada commented, “We delivered excellent second quarter results driven by revenue 
+strength in both Infrastructure & Advanced Facilities (I&AF) and PA Consulting. Within I&AF, revenue growth was broad-
+based, led by the Data Center, Semiconductor, Water, Energy & Power and Transportation sectors. Additionally, PA 
+Consulting grew revenue by 17% year-on-year in Q2, the fourth consecutive quarter of double-digit top line growth. With 
+the transaction to acquire the remaining stake in PA Consulting now complete, we see increased opportunity to drive 
+synergistic growth moving forward. Our overall business is performing exceptionally well, and we see continued 
+momentum in the second half of the year. As a result, we are again increasing our guidance for FY26."
+Jacobs' CFO Venk Nathamuni added, “We're very pleased with our Q2 performance. We are ahead of our initial FY26 
+expectations and are on track to reach or exceed all of our FY29 targets. This is a function of accelerating top line growth 
+from our central position in the build-out of AI and related infrastructure, as well as solid margin expansion and working 
+capital management. Furthermore, we are excited to have closed the acquisition of PA Consulting and are already starting 
+to deliver on cost synergies, which we now believe will be at least $20 million per year within 24 months of close (vs. 
+$16-20 million at the announcement of the transaction). So far in this fiscal year, we have acquired the remaining stake in 
+PA Consulting, repurchased $472 million of our shares and raised our quarterly dividend by 12.5%, while optimizing our 
+capital structure and reducing our weighted average interest rate. Overall, we are off to a strong start in FY26 across the 
+board and see runway for profitable growth in H2 and beyond."
+Financial Outlook3
+The Company’s outlook for fiscal 2026 is for adjusted net revenue to grow 8.0% to 10.5% over fiscal 2025 (versus prior 
+forecast of 6.5% to 10.0%), adjusted EBITDA margin to range from 14.6% to 14.9% (versus prior forecast of 14.4% to 
+14.7%), adjusted EPS to range from $7.10 to $7.35 (versus prior forecast of $6.95 to $7.30) and adjusted free cash flow 
+margin to range from 7.0% to 8.5% (unchanged from prior forecast).
+1All data reflects continuing operations only.
+2See Non-GAAP Financial Measures and Operating Metrics, and GAAP Reconciliations at the end of the press release for additional detail.
+3Reconciliation of fiscal 2026 adjusted EBITDA margin, adjusted EPS and expectations for adjusted net revenue growth and adjusted FCF margin 
+to the most directly comparable GAAP measure is not available without unreasonable efforts because the Company cannot predict with sufficient 
+certainty all the components required to provide such reconciliation, including with respect to the costs and charges relating to transaction 
+expenses, restructuring and integration to be incurred in fiscal 2026.
+2
+
+Second Quarter Review (in thousands, except per-share data)
+Fiscal Q2 2026 Fiscal Q2 2025 Change
+Revenue $3,694,881 $2,910,415 $784,466
+Adjusted Net Revenue1 $2,327,911 $2,138,946 $188,965
+GAAP Net Earnings (Loss) from Continuing 
+Operations ($42,993) $11,162 ($54,155)
+GAAP Earnings (Loss) Per Diluted Share (EPS) from 
+Continuing Operations ($0.32) $0.10 ($0.42)
+Adjusted Net Earnings from Continuing Operations1 $205,894 $175,517 $30,377
+Adjusted EPS from Continuing Operations1 $1.75 $1.43 $0.32
+U.S. GAAP effective tax rate from Continuing 
+Operations 34.5% 90.6% (5,610) bps
+Adjusted effective tax rate from Continuing 
+Operations1 24.3% 26.0% (170) bps
+1See "Non-GAAP Financial Measures and Operating Metrics" and the GAAP Reconciliation tables that follow for additional detail. 
+The Company’s adjusted net earnings from continuing operations and adjusted EPS from continuing operations for the 
+second quarter of fiscal 2026 and fiscal 2025 exclude certain adjustments that are further described in the section entitled 
+“Non-GAAP Financial Measures” at the end of this release. For a reconciliation of Revenue to Adjusted Net Revenue, see 
+"Segment Information" below.
+Jacobs is hosting a conference call at 4:30 P.M. ET on Tuesday, May 5, 2026, which it is webcasting live at www.jacobs.com. 
+Forward-Looking Statements
+Certain statements contained in this press release constitute forward-looking statements within the meaning of the United 
+States Private Securities Litigation Reform Act of 1995. Forward-looking statements are statements that do not directly 
+relate to any historical or current fact. When used herein, words such as “expects,” “anticipates,” “believes,” “seeks,” 
+“estimates,” “plans,” “intends,” “future,” “will,” “would,” “could,” “can,” “may,” "target," "goal" and similar words are intended 
+to identify forward-looking statements. Examples of forward-looking statements include, but are not limited to, statements 
+we make concerning our expectations as to our future growth, prospects, financial outlook and business strategy, including 
+our expectations for our fiscal year 2026 adjusted EBITDA margin, adjusted EPS, adjusted net revenue growth and adjusted 
+free cash flow margin, as well as our expectations for our effective tax rates, and any assumptions underlying any of the 
+foregoing. Although such statements are based on management's current estimates and expectations, and/or currently 
+available competitive, financial, and economic data, forward-looking statements are inherently uncertain, and you should 
+not place undue reliance on such statements as actual results may differ materially. We caution the reader that there are a 
+variety of risks, uncertainties and other factors that could cause actual results to differ materially from what is contained, 
+projected or implied by our forward-looking statements. Such factors include but are not limited to:
+▪ general economic conditions, including inflation and the actions taken by monetary authorities in response to 
+inflation, changes in interest rates and foreign currency exchange rates, changes in capital markets and stock 
+market volatility, instability in the banking industry, labor shortages, or the impact of a possible recession or 
+economic downturn or changes to monetary or fiscal policies or priorities in the U.S. and the other countries where 
+we do business on our results, prospects and opportunities; 
+▪ competition from existing and future competitors in our target markets, as well as the possible reduction in 
+demand for certain of our product solutions and services, including delays in the timing of the award of projects or 
+reduction in funding, or the abandonment of ongoing or anticipated projects due to the financial condition of our 
+clients and suppliers or due to governmental budget constraints or changes to governmental budgetary priorities, 
+or the inability of our clients to meet their payment obligations in a timely manner or at all;
+▪ our ability to fully execute on our corporate strategy, including the impact of acquisitions (including the 
+transaction to acquire the remaining stake in PA Consulting (the "PA Consulting Transaction"), strategic alliances, 
+divestitures, and other strategic events resulting from evolving business strategies, including on our ability to 
+maintain our culture and retain key personnel, customers or suppliers, or our ability to achieve the cost-savings 
+and synergies contemplated by our recent acquisitions within the expected time frames or to achieve them fully 
+and to successfully integrate acquired businesses while retaining key personnel, and our ability to invest in the 
+tools needed to implement our strategy;
+
+▪ financial market risks that may affect us, including by affecting our access to capital, the cost of such capital and/
+or our funding obligations under defined benefit pension and post-retirement plans; 
+▪ legislative changes, including potential changes to the amounts provided for under the Infrastructure Investment 
+and Jobs Act, as well as other legislation and executive orders, including any directive to federal agencies to 
+reduce federal spending or the size of the federal workforce, and changes in U.S. or foreign tax laws, including the 
+tax legislation enacted in the U.S. in July 2025, statutes, rules, regulations or ordinances, including the impact of, 
+and changes to, tariffs and retaliatory tariffs or trade policies, that may adversely impact our future financial 
+position or results of operations;
+▪ increased geopolitical uncertainty and risks, including policy risks and potential civil unrest, relating to the 
+outcome of elections across our key markets and elevated geopolitical tension and conflicts, including the Russia-
+Ukraine conflict and on-going, escalated and/or future tensions and conflicts in the Middle East, among others; 
+and
+▪ the impact of any pandemic, and any resulting economic downturn on our results, prospects and opportunities, 
+measures or restrictions imposed by governments and health officials in response to the pandemic, as well as the 
+inability of governments in certain of the countries in which we operate to effectively mitigate the financial or 
+other impacts of any future pandemics or infectious disease outbreaks on their economies and workforces and our 
+operations therein.
+The foregoing factors and potential future developments are inherently uncertain, unpredictable and, in many cases, 
+beyond our control. For a description of these and additional factors that may occur that could cause actual results to 
+differ from our forward-looking statements see the Company’s filings with the U.S. Securities and Exchange Commission, 
+including in particular the discussions contained in our fiscal 2025 Annual Report on Form 10-K under Item 1 - Business, 
+Item 1A - Risk Factors, Item 3 - Legal Proceedings, and Item 7 - Management's Discussion and Analysis of Financial 
+Condition and Results of Operations; and in our most recently filed Quarterly Report on Form 10-Q under Part I, Item 2 - 
+Management's Discussion and Analysis of Financial Condition and Results of Operations. The Company is not under any 
+duty to update any of the forward-looking statements after the date of this press release to conform to actual results, 
+except as required by applicable law.
+[ MORE ]
+4
+
+Regulation FD
+We use any of the following to comply with our disclosure obligations under Regulation FD: press releases, SEC filings, 
+public conference calls, or our website. We routinely post important information on our website at www.jacobs.com, 
+including information that may be deemed to be material. We encourage investors and others interested in the Company 
+to monitor these distribution channels for material disclosures.
+About Jacobs 
+At Jacobs, we're challenging today to reinvent tomorrow – delivering outcomes and solutions for the world's most complex 
+challenges. With approximately $12 billion in annual revenue and a talent force of almost 47,000, we provide end-to-end 
+services in advanced manufacturing, cities & places, energy, environmental, life sciences, transportation and water. From 
+advisory and consulting, feasibility, planning, design, program and lifecycle management, we're creating a more connected 
+a n d  s u s t a i n a b l e  w o r l d .  S e e  h o w  a t  j a c o b s . c o m   a n d  c o n n e c t  w i t h  u s  o n  L i n k e d I n ,  I n s t a g r a m ,   X  a n d  F a c e b o o k .
+5
+
+ Financial Highlights:
+Results of Operations (in thousands, except per-share data):
+For the Three Months Ended For the Six Months Ended
+March 27, 
+2026
+March 28, 
+2025
+March 27, 
+2026
+March 28, 
+2025
+Revenues $ 3,694,881 $ 2,910,415 $ 6,988,162 $ 5,843,371 
+Direct cost of contracts  (2,899,988)  (2,172,070)  (5,428,019)  (4,383,759) 
+Gross profit  794,893  738,345  1,560,143  1,459,612 
+Selling, general and administrative expenses  (876,069)  (529,697)  (1,408,758)  (1,042,546) 
+Operating (loss) profit  (81,176)  208,648  151,385  417,066 
+Other Income (Expense):
+Interest income  9,301  9,525  16,930  19,181 
+Interest expense  (41,075)  (38,580)  (75,329)  (73,399) 
+Loss on extinguishment of debt  —  (20,510)  —  (20,510) 
+Miscellaneous expense  (17,656)  (103,260)  (17,370)  (233,367) 
+Total other expense, net  (49,430)  (152,825)  (75,769)  (308,095) 
+(Loss) Earnings from Continuing Operations Before 
+Taxes  (130,606)  55,823  75,616  108,971 
+Income Tax Benefit (Expense) from Continuing 
+Operations  45,088  (50,576)  (28,021)  (107,725) 
+Net (Loss) Earnings of the Group from Continuing 
+Operations  (85,518)  5,247  47,595  1,246 
+Net Loss of the Group from Discontinued Operations, 
+net of tax  (2,890)  (5,550)  (2,336)  (6,551) 
+Net (Loss) Earnings of the Group  (88,408)  (303)  45,259  (5,305) 
+Net Loss Attributable to Noncontrolling Interests from 
+Continuing Operations  10,863  11,731  8,423  5,651 
+Net Loss (Earnings) Attributable to Redeemable 
+Noncontrolling Interests  31,662  (5,816)  25,943  (12,863) 
+Net (Loss) Earnings Attributable to Jacobs from 
+Continuing Operations  (42,993)  11,162  81,961  (5,966) 
+Net Loss Attributable to Jacobs from Discontinued 
+Operations  (2,890)  (5,550)  (2,336)  (6,551) 
+Net (Loss) Earnings Attributable to Jacobs $ (45,883) $ 5,612 $ 79,625 $ (12,517) 
+Net Earnings Per Share:
+Basic Net (Loss) Earnings from Continuing 
+Operations Per Share $ (0.32) $ 0.10 $ 0.81 $ — 
+Basic (Loss) from Discontinuing Operations Per 
+Share $ (0.02) $ (0.05) $ (0.02) $ (0.05) 
+Basic (Loss) Earnings Per Share $ (0.34) $ 0.06 $ 0.79 $ (0.05) 
+Diluted Net (Loss) Earnings from Continuing 
+Operations Per Share $ (0.32) $ 0.10 $ 0.81 $ — 
+Diluted (Loss) from Discontinuing Operations Per 
+Share $ (0.02) $ (0.05) $ (0.02) $ (0.05) 
+Diluted (Loss) Earnings Per Share $ (0.34) $ 0.06 $ 0.79 $ (0.05) 
+
+Segment Information (in thousands):
+For the three months ended For the six months ended
+March 27, 2026 March 27, 2026
+Unaudited
+Infrastructure 
+& Advanced 
+Facilities PA Consulting Total
+Infrastructure 
+& Advanced 
+Facilities PA Consulting Total
+Revenues from External Customers (1) $ 3,336,307 $ 358,574 $ 3,694,881 $ 6,275,155 $ 713,007 $ 6,988,162 
+Pass Through Revenue  (1,366,970)  —  (1,366,970)  (2,407,623)  —  (2,407,623) 
+Adjusted Net Revenue $ 1,969,337 $ 358,574 $ 2,327,911 $ 3,867,532 $ 713,007 $ 4,580,539 
+Direct cost of contracts  (2,666,239)  (233,749)  (2,899,988)  (4,959,401)  (468,618)  (5,428,019) 
+Selling, general and administrative 
+expenses  (444,845)  (44,961)  (489,806)  (875,789)  (79,633)  (955,422) 
+Segment Operating Profit (1)
+$ 225,223 $ 79,864 $ 305,087 $ 439,965 $ 164,756 $ 604,721 
+Restructuring, Transaction and Other 
+Charges (2)  (352,200)  (381,277) 
+Amortization of Intangible Assets  (34,063)  (72,059) 
+Total U.S. GAAP Operating Profit $ (81,176) $ 151,385 
+Total Other (Expense) Income, net (3)
+ (49,430)  (75,769) 
+Earnings from Continuing Operations 
+Before Taxes $ (130,606) $ 75,616 
+(1) The three and six months ended March 27, 2026 I&AF revenue and operating profit in comparison to the corresponding periods for 
+fiscal 2025 reflected lower charges in connection with the Consolidated JV Matter (as defined below).
+(2) The three and six months ended March 27, 2026 included $214.9 million and $237.5 million, respectively, in charges for certain 
+subsidiary level compensation based agreements as well as $120.4 million and $122.7 million, respectively, in costs relating to the PA 
+Consulting Transaction, $123.9 million of which represents consideration to be distributed to PA Consulting employees as 
+compensation expense. The three and six months ended March 27, 2026 included $7.6 million and $9.9 million, respectively, in 
+restructuring and other charges relating to the Separation Transaction (primarily professional services and employee separation costs), 
+as well as $6.5 million and $8.3 million, respectively, in restructuring and other charges relating to the PA Consulting Transaction 
+(primarily professional services and dedicated internal personnel). 
+(3) The three and six months ended March 27, 2026 included a $20.5 million loss on the foreign exchange forward contract in connection 
+with the PA Consulting Transaction (see Note 17- Commitments and Contingencies and Derivative Financial Instruments).
+7
+
+For the Three Months Ended For the six months ended
+March 28, 2025 March 28, 2025
+Unaudited
+Infrastructure 
+& Advanced 
+Facilities PA Consulting Total
+Infrastructure 
+& Advanced 
+Facilities PA Consulting Total
+Revenues from External Customers (1) $ 2,602,753 $ 307,662 $ 2,910,415 $ 5,228,961 $ 614,410 $ 5,843,371 
+Pass Through Revenue  (771,469)  —  (771,469)  (1,621,928)  —  (1,621,928) 
+Adjusted Net Revenue $ 1,831,284 $ 307,662 $ 2,138,946 $ 3,607,033 $ 614,410 $ 4,221,443 
+Direct cost of contracts  (1,980,582)  (191,488)  (2,172,070)  (4,000,277)  (383,482)  (4,383,759) 
+Selling, general and administrative 
+expenses  (418,906)  (48,827)  (467,733)  (815,145)  (96,844)  (911,989) 
+Segment Operating Profit (1)
+$ 203,265 $ 67,347 $ 270,612 $ 413,539 $ 134,084 $ 547,623 
+Restructuring, Transaction and Other 
+Charges (2)  (23,924)  (53,856) 
+Amortization of Intangible Assets  (38,040)  (76,701) 
+Total U.S. GAAP Operating Profit $ 208,648 $ 417,066 
+Total Other (Expense) Income, net (3)
+ (152,825)  (308,095) 
+Earnings from Continuing Operations 
+Before Taxes $ 55,823 $ 108,971 
+(1) The three and six months ended March 28, 2025 I&AF revenue and operating profit were impacted by a reserve in connection with an 
+unfavorable interim ruling against a consolidated joint venture in which the Company holds a 50% interest (the "Consolidated JV Matter"), 
+with the noncontrolling partner’s share included in noncontrolling interests in the Consolidated Statements of Earnings for the respective 
+period.
+(2) The three and six months ended March 28, 2025 included $10.2 million and $25.1 million, respectively, in restructuring and other charges 
+relating to the Separation Transaction (primarily professional services and employee separation costs), as well as $8.0 million and $13.9 
+million, respectively, in charges for certain subsidiary level compensation based agreements. The three and six months ended March 28, 
+2025 included approximately $8.4 million and $16.2 million, respectively, in charges associated with the Company's TSA with Amentum.
+(3) The three and six months ended March 28, 2025 included $109.5 million and $254.7 million, respectively, in mark-to-market losses and 
+other related charges associated with our former investment in Amentum stock in connection with the Separation Transaction, as well as 
+$10.3 million and $21.7 million, respectively, in income associated with the Company's TSA with Amentum (see Note 14- Discontinued 
+Operations). The three and six months ended March 28, 2025 included $20.5 million in discounts and expenses associated with the Equity 
+for-Debt Transaction (see Note 12- Borrowings and Note 14- Discontinued Operations).
+8

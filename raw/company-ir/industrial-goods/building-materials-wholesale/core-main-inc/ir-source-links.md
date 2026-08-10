@@ -42,7 +42,7 @@ Date verified: 2026-08-10
 - The company-hosted quarterly result pages and press-release PDFs above were verified and saved locally on `2026-08-10`.
 - The `ir.coreandmain.com` hub pages were reachable by browser but returned a Cloudflare challenge page from the current shell environment, so this note preserves the canonical IR hub URLs while using official company news pages and SEC filings as the locally captured authoritative evidence.
 - The shell-side challenge captures were preserved locally as:
-  - [overview-cloudflare.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/overview-cloudflare.html)
-  - [annual-reports-cloudflare.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/annual-reports-cloudflare.html)
-  - [quarterly-results-cloudflare.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/quarterly-results-cloudflare.html)
-  - [sec-filings-cloudflare.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/sec-filings-cloudflare.html)
+  - [overview-cloudflare.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/overview-cloudflare.html)
+  - [annual-reports-cloudflare.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/annual-reports-cloudflare.html)
+  - [quarterly-results-cloudflare.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/quarterly-results-cloudflare.html)
+  - [sec-filings-cloudflare.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/sec-filings-cloudflare.html)

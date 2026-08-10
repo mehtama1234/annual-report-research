@@ -5,7 +5,7 @@ Date verified: 2026-08-10
 - Company: DNOW Inc.
 - AnnualReports.com page: https://www.annualreports.com/Company/dnow
 - Sector shown in archive: `Energy`
-- Local archive page: [company-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/industrial-supply/dnow-inc/company-page.html)
+- Local archive page: [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/industrial-supply/dnow-inc/company-page.html)
 
 ## Verification note
 

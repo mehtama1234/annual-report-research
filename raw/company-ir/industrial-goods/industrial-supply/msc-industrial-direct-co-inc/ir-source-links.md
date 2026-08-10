@@ -13,7 +13,7 @@ Date checked: 2026-08-10
 
 - `2025` annual report PDF link exposed on the annual-results page: `https://irp.cdn-website.com/f24d7cd9/files/uploaded/MSC-FY2025+Annual+Report.pdf`
 - Additional `2025` report `10-K` PDF link exposed in the fiscal `Q4 2025` event block: `https://irp.cdn-website.com/f24d7cd9/files/uploaded/MSM-2025.08.30-10K_FINAL.pdf`
-- Local annual report PDF: [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/2025-annual-report.pdf)
+- Local annual report PDF: [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/2025-annual-report.pdf)
 
 ## Quarter-result links exposed on IR pages
 

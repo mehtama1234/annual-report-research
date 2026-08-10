@@ -17,7 +17,6 @@ Date baseline: 2026-08-10
 
 ## Coverage status
 
-- Assigned CLI 8 sub-lane: institutional supply and replenishment
 - Target annual report year: 2025
 - Target quarter window:
   - quarter 1: Q2 2026
@@ -34,17 +33,17 @@ Date baseline: 2026-08-10
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/option-care-health-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/healthcare/specialized-health-services/option-care-health-inc/annualreports-verification.md) | Confirms `Healthcare / Specialized Health Services` taxonomy and that AnnualReports still lagged at the `2024` package on `2026-08-10`. |
-| 2025 | Option Care annual report PDF | https://www.sec.gov/Archives/edgar/data/1014739/000114036126013829/ny20062823x3_ars.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/specialized-health-services/option-care-health-inc/2025-annual-report.pdf) | Official `2025` annual report recovered from the filed annual-report artifact. |
-| 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1014739/000101473926000008/bios-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/specialized-health-services/option-care-health-inc/2025-10k.html) | Standalone annual filing for the year ended December 31, 2025. |
+| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/option-care-health-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/healthcare/specialized-health-services/option-care-health-inc/annualreports-verification.md) | Confirms `Healthcare / Specialized Health Services` taxonomy and that AnnualReports still lagged at the `2024` package on `2026-08-10`. |
+| 2025 | Option Care annual report PDF | https://www.sec.gov/Archives/edgar/data/1014739/000114036126013829/ny20062823x3_ars.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/specialized-health-services/option-care-health-inc/2025-annual-report.pdf) | Official `2025` annual report recovered from the filed annual-report artifact. |
+| 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1014739/000101473926000008/bios-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/specialized-health-services/option-care-health-inc/2025-10k.html) | Standalone annual filing for the year ended December 31, 2025. |
 
 ## Last three quarters
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| Q2 2026 | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/specialized-health-services/option-care-health-inc/ir-source-links.md) | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/specialized-health-services/option-care-health-inc/2026-q2-10q.html) | no standalone transcript saved locally | Net revenue was about `$1.442 billion`, GAAP net income was about `$53.9 million`, adjusted EBITDA was about `$117.5 million`, and full-year `2026` guidance was updated upward. |
-| Q1 2026 | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/specialized-health-services/option-care-health-inc/ir-source-links.md) | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/specialized-health-services/option-care-health-inc/2026-q1-10q.html) | no standalone transcript saved locally | Net revenue was `$1,350.7 million`, GAAP net income was `$45.3 million`, adjusted EBITDA was `$104.8 million`, and the revolving credit facility was expanded. |
-| Q4 2025 | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/specialized-health-services/option-care-health-inc/ir-source-links.md) | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/specialized-health-services/option-care-health-inc/2025-10k.html) | no standalone transcript saved locally | Q4 `2025` net revenue was `$1,465.4 million`, and the company ended the year with strong cash generation and a constructive `2026` setup. |
+| Q2 2026 | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/specialized-health-services/option-care-health-inc/ir-source-links.md) | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/specialized-health-services/option-care-health-inc/2026-q2-10q.html) | no standalone transcript saved locally | Net revenue was about `$1.442 billion`, GAAP net income was about `$53.9 million`, adjusted EBITDA was about `$117.5 million`, and full-year `2026` guidance was updated upward. |
+| Q1 2026 | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/specialized-health-services/option-care-health-inc/ir-source-links.md) | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/specialized-health-services/option-care-health-inc/2026-q1-10q.html) | no standalone transcript saved locally | Net revenue was `$1,350.7 million`, GAAP net income was `$45.3 million`, adjusted EBITDA was `$104.8 million`, and the revolving credit facility was expanded. |
+| Q4 2025 | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/specialized-health-services/option-care-health-inc/ir-source-links.md) | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/specialized-health-services/option-care-health-inc/2025-10k.html) | no standalone transcript saved locally | Q4 `2025` net revenue was `$1,465.4 million`, and the company ended the year with strong cash generation and a constructive `2026` setup. |
 
 ## What changed
 

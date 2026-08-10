@@ -1,6 +1,6 @@
 # Equinix Inc.
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -56,6 +56,11 @@ Date baseline: 2026-08-09
 - Operational issues: bookings, backlog, stabilized-asset revenue growth, and interconnection adds all point to durable demand from AI, cloud, and network workloads; one-time xScale fees also helped Q2 2026 results.
 - Consumer / cultural signals: this is a low-direct-consumer company, but it is culturally important because it sits underneath the modern cloud, AI, and network stack that powers enterprise and platform behavior.
 - Management tone: management is confident and increasingly explicit that Equinix is an infrastructure beneficiary of AI adoption, not just a passive data-center landlord.
+
+## Working interpretation
+
+- Equinix is one of the archive’s clearest proof points that digital infrastructure can create platform-like real-estate economics. The value is not only in the buildings, but in the density of customers, clouds, networks, and interconnections inside them.
+- The deeper pattern is that AI and cloud demand are not only expanding equipment and construction spend. They are also reinforcing recurring ownership models around the neutral hubs where digital traffic and compute ecosystems meet.
 
 ## Open questions
 

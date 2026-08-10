@@ -1,6 +1,6 @@
 # Live Nation Entertainment, Inc. Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -17,7 +17,7 @@ Date baseline: 2026-08-09
 
 ## Annual report takeaways
 
-- Live Nation is the right next Services name because it fills the archive's clearest missing thematic gap: experience-driven discretionary spending and culture-forming live-event demand rather than freight, business services, or recurring field-service work.
+- Live Nation is the right next frontier expansion because it fills a missing thematic gap: experience-driven discretionary spending and culture-forming live-event demand rather than linear broadcasting, publishing, or recurring field-service work.
 - AnnualReports was current here as of `2026-08-09`, already listing the `2025 Annual Report and Form 10K` under `Services / Entertainment - Diversified`. That makes Live Nation a useful contrast with many other names in the archive where the aggregator still lagged official reporting.
 - The `2025` annual materials frame Live Nation as a scale live-experiences platform rather than a conventional service contractor. Full-year `2025` revenue was `$25.2B`, operating income was `$1.3B`, AOI was `$2.4B`, and event-related deferred revenue ended the year at `$4.0B`.
 - Segment mix matters. The `2025` `10-K` says Concerts generated `$20.9B`, or `83%`, of total revenue, Ticketing generated `$3.1B`, or `12%`, and Sponsorship & Advertising generated `$1.3B`, or `5%`. This is fundamentally a concerts-led business with ticketing and brand monetization layered on top.
@@ -48,41 +48,41 @@ Date baseline: 2026-08-09
 
 ## Signals to feed into higher-level analysis
 
-- Sector: Live Nation broadens Services beyond logistics and business-process execution into live-event infrastructure, ticketing throughput, venue economics, and sponsorship monetization.
-- Consumer: this is one of the archive's best direct reads on discretionary experience spending. Fans are still prioritizing high-value live moments even in a more digital environment.
-- Cultural: the cultural signal is unusually strong. Management explicitly ties the business to physical presence, artist-fan connection, and the value of being in the room rather than online.
-- Technology: Ticketmaster adds a real technology and workflow layer inside Services, but the end product is still attendance and access rather than enterprise software demand.
-- International: growth is not only domestic. The annual and quarterly materials repeatedly point to international attendance growth and global venue or festival expansion.
-- Balance-sheet read: deferred revenue and cash balances are important here because they show how much future activity is already booked before the event occurs.
+- Consumer behavior: Live Nation is one of the frontier's best direct reads on discretionary experience spending. Fans are still prioritizing high-value live moments even in a more digital environment.
+- Physical attention: this packet makes the frontier's “attention” theme less screen-bound. Attention is not only impressions, subscriptions, or app time; it can also be scarce in-person attendance with higher emotional and economic intensity.
+- Customer ownership and access: Ticketmaster adds a control layer over discovery, purchase, venue access, and fan data, making the company relevant to both the attention and communications-interface sides of the frontier.
+- Cultural and social signal: management explicitly ties the business to physical presence, artist-fan connection, and the value of being in the room rather than online. That is a useful counterweight to the archive's more digital media and ad-tech names.
+- Brand monetization: the sponsorship segment shows that advertisers still value live shared moments as premium inventory when audiences are fragmented elsewhere.
+- Balance-sheet visibility: deferred revenue is especially useful here because it shows how much future cultural activity is already booked before the event occurs.
 - Risk: legal accruals, antitrust pressure, artist economics, and venue-investment intensity can all distort the clean demand story, so this company should be used as a rich but not frictionless consumer-cultural signal.
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/entertainment-diversified/live-nation-entertainment-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/official-ir-verification.md)
-- [investor-home.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/investor-home.html)
-- [financial-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/financial-results.html)
-- [annual-reports-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/annual-reports-page.html)
-- [sec-filings.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/sec-filings.html)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2025-q4-8k.html)
-- [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2025-q4-results-release.html)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2025-q4-earnings-release.pdf)
-- [2025-q4-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2025-q4-earnings-transcript.pdf)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2026-q1-10q.html)
-- [2026-q1-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q1-results-release.html)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q1-earnings-release.pdf)
-- [2026-q1-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q1-earnings-transcript.pdf)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2026-q2-10q.html)
-- [2026-q2-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q2-results-release.html)
-- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q2-earnings-release.pdf)
-- [2026-q2-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q2-earnings-transcript.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/services/entertainment-diversified/live-nation-entertainment-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/official-ir-verification.md)
+- [investor-home.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/investor-home.html)
+- [financial-results.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/financial-results.html)
+- [annual-reports-page.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/annual-reports-page.html)
+- [sec-filings.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/sec-filings.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2025-q4-8k.html)
+- [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2025-q4-results-release.html)
+- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2025-q4-earnings-release.pdf)
+- [2025-q4-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2025-q4-earnings-transcript.pdf)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2026-q1-10q.html)
+- [2026-q1-results-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q1-results-release.html)
+- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q1-earnings-release.pdf)
+- [2026-q1-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q1-earnings-transcript.pdf)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/live-nation-entertainment-inc/2026-q2-10q.html)
+- [2026-q2-results-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q2-results-release.html)
+- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q2-earnings-release.pdf)
+- [2026-q2-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/live-nation-entertainment-inc/2026-q2-earnings-transcript.pdf)
 
 ## Working interpretation
 
-- Live Nation materially improves the Services sector packet because it adds a company whose demand is explicitly social, discretionary, and culture-facing rather than purely operational or compliance-driven.
+- Live Nation materially improves the frontier because it adds a company whose demand is explicitly social, discretionary, and culture-facing rather than purely informational, subscription-based, or ad-tech mediated.
 - It also gives the broader archive a better bridge between consumer behavior and infrastructure. This is not just ticket demand. It is venues, sponsorship, artist financing, ticketing systems, deferred revenue, and international physical-event capacity.
 - For the `2025` through `2026` research window, Live Nation is one of the clearest pieces of evidence that the experience economy is still strong and that consumers continue to privilege scarce in-person events even while more digital substitutes become cheaper and more abundant.

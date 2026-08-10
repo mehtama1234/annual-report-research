@@ -1,12 +1,14 @@
 # Dell Technologies Inc.
 
+Date baseline: 2026-08-10
+
 - Sector: Technology
 - Industry: Information Technology Services
 - Ticker: DELL
 - Exchange: NYSE
 - Fiscal year end: January
-- Annual scope year: 2025 annual report
-- Quarter scope window as of 2026-08-09: FY2027 Q1, FY2026 Q4, FY2026 Q3
+- Annual scope year: FY2026 Form 10-K for the fiscal year ended 2026-01-30
+- Quarter scope window as of 2026-08-10: FY2027 Q1, FY2026 Q4, FY2026 Q3
 
 ## What the company is
 
@@ -18,14 +20,14 @@ Dell is the most useful current technology-sector evidence set for a cyclical ha
 - It adds direct exposure to servers, storage, networking, commercial PCs, and enterprise infrastructure demand without relying on software or search-platform economics.
 - It tests whether AI demand is broadening from semiconductor winners into full-system builders with both backlog strength and more conventional hardware cyclicality.
 
-## 2025 annual highlights
+## FY2026 annual highlights
 
-- Full-year revenue: `$95.6B`
-- Full-year diluted EPS: `$6.38`
-- Full-year non-GAAP diluted EPS: `$8.14`
-- Infrastructure Solutions Group full-year revenue: `$43.6B`, up `29%`
-- Client Solutions Group full-year revenue: `$48.4B`, down `1%`
-- Q4 FY2025 release said Dell's AI server backlog was roughly `$9B` as of 2025-02-27.
+- Full-year revenue: `$113.5B`
+- Full-year diluted EPS: `$10.04`
+- Full-year non-GAAP diluted EPS: `$10.30`
+- Infrastructure Solutions Group full-year revenue: `$60.8B`, up `40%`
+- Client Solutions Group full-year revenue: `$48.6B`, up `1%`
+- Dell said it closed more than `$64B` in AI-optimized server orders during FY2026 and entered FY2027 with record AI backlog of `$43B`.
 - The annual package framed Dell around AI servers, enterprise infrastructure, storage, networking, and commercial-client demand rather than a pure consumer-PC recovery story.
 
 ## Trailing reported quarter highlights
@@ -61,3 +63,4 @@ Dell is the most useful current technology-sector evidence set for a cyclical ha
 - Dell is the clearest current proof in this archive that the AI buildout is spreading beyond chips and hyperscale platforms into full-stack server, storage, and enterprise-hardware suppliers.
 - Unlike NVIDIA, Dell still carries more conventional hardware and commercial-client cyclicality, which makes it a better test of whether AI demand can overpower normal infrastructure and PC cycle volatility.
 - Dell is also a useful contrast with Cisco: Cisco captures the networking, security, and observability control layer, while Dell captures the fuller system-integration and enterprise compute-storage box-economics layer.
+- It also works as an office-edge and enterprise-systems counterpart to Apple, HP, Xerox, Canon, Epson, and Zebra because it shows how everyday institutional work still depends on purchased physical systems even when the cultural narrative focuses on software and cloud interfaces.

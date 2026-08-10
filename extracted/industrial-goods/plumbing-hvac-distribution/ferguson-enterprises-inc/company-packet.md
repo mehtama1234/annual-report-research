@@ -9,7 +9,6 @@ Date baseline: 2026-08-10
 - Industry: Plumbing / HVAC Distribution
 - Ticker: `FERG`
 - Fiscal year-end: December
-- Assigned CLI 8 sub-lane: wholesale and distribution infrastructure
 - Target annual report year: 2025
 - Target quarter window:
   - quarter 1: Q2 2026
@@ -87,15 +86,15 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/source-ledger.md)
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/ir-source-links.md)
-- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/sec-source-links.md)
-- [2025-09-26-10k-fy2025.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/2025-09-26-10k-fy2025.html)
-- [2026-02-27-10kt-transition-2025.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/2026-02-27-10kt-transition-2025.html)
-- [2026-02-24-exhibit-99-1-calendar-2025-results.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/filings/2026-02-24-exhibit-99-1-calendar-2025-results.html)
-- [2026-05-05-10q-q1.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/2026-05-05-10q-q1.html)
-- [2026-05-05-exhibit-99-1-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/filings/2026-05-05-exhibit-99-1-q1-press-release.html)
-- [2026-08-10-8k-q2-results.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/filings/2026-08-10-8k-q2-results.html)
-- [2026-08-10-exhibit-99-1-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/filings/2026-08-10-exhibit-99-1-q2-press-release.html)
+- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-profile.md)
+- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/source-ledger.md)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/annualreports-verification.md)
+- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/ir-source-links.md)
+- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/sec-source-links.md)
+- [2025-09-26-10k-fy2025.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/2025-09-26-10k-fy2025.html)
+- [2026-02-27-10kt-transition-2025.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/2026-02-27-10kt-transition-2025.html)
+- [2026-02-24-exhibit-99-1-calendar-2025-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/filings/2026-02-24-exhibit-99-1-calendar-2025-results.html)
+- [2026-05-05-10q-q1.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/2026-05-05-10q-q1.html)
+- [2026-05-05-exhibit-99-1-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/filings/2026-05-05-exhibit-99-1-q1-press-release.html)
+- [2026-08-10-8k-q2-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/filings/2026-08-10-8k-q2-results.html)
+- [2026-08-10-exhibit-99-1-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/filings/2026-08-10-exhibit-99-1-q2-press-release.html)

@@ -5,7 +5,7 @@ Date verified: 2026-08-10
 - Company: Fastenal Company
 - AnnualReports.com page: https://www.annualreports.com/Company/fastenal-co
 - Sector / industry taxonomy shown in archive: `Industrial Goods` / `Industrial Supply`
-- Local archive page: [company-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/industrial-supply/fastenal-company/company-page.html)
+- Local archive page: [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/industrial-supply/fastenal-company/company-page.html)
 
 ## Verification note
 

@@ -1,6 +1,6 @@
 # Netflix, Inc. Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -56,24 +56,24 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/music-video-stores/netflix-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/music-video-stores/netflix-inc/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/music-video-stores/netflix-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/music-video-stores/netflix-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/music-video-stores/netflix-inc/2025-q4-8k.html)
-- [2025-q4-ex991.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/music-video-stores/netflix-inc/2025-q4-ex991.html)
-- [2025-q4-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/music-video-stores/netflix-inc/2025-q4-shareholder-letter.pdf)
-- [2025-q4-earnings-interview-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/music-video-stores/netflix-inc/2025-q4-earnings-interview-transcript.pdf)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/music-video-stores/netflix-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/music-video-stores/netflix-inc/2026-q1-10q.html)
-- [2026-q1-ex991.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/music-video-stores/netflix-inc/2026-q1-ex991.html)
-- [2026-q1-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/music-video-stores/netflix-inc/2026-q1-shareholder-letter.pdf)
-- [2026-q1-earnings-interview-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/music-video-stores/netflix-inc/2026-q1-earnings-interview-transcript.pdf)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/music-video-stores/netflix-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/music-video-stores/netflix-inc/2026-q2-10q.html)
-- [2026-q2-ex991.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/music-video-stores/netflix-inc/2026-q2-ex991.html)
-- [2026-q2-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/music-video-stores/netflix-inc/2026-q2-shareholder-letter.pdf)
-- [2026-q2-earnings-interview-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/music-video-stores/netflix-inc/2026-q2-earnings-interview-transcript.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/services/music-video-stores/netflix-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/music-video-stores/netflix-inc/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/music-video-stores/netflix-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/music-video-stores/netflix-inc/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/music-video-stores/netflix-inc/2025-q4-8k.html)
+- [2025-q4-ex991.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/music-video-stores/netflix-inc/2025-q4-ex991.html)
+- [2025-q4-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/music-video-stores/netflix-inc/2025-q4-shareholder-letter.pdf)
+- [2025-q4-earnings-interview-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/music-video-stores/netflix-inc/2025-q4-earnings-interview-transcript.pdf)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/music-video-stores/netflix-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/music-video-stores/netflix-inc/2026-q1-10q.html)
+- [2026-q1-ex991.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/music-video-stores/netflix-inc/2026-q1-ex991.html)
+- [2026-q1-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/music-video-stores/netflix-inc/2026-q1-shareholder-letter.pdf)
+- [2026-q1-earnings-interview-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/music-video-stores/netflix-inc/2026-q1-earnings-interview-transcript.pdf)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/music-video-stores/netflix-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/music-video-stores/netflix-inc/2026-q2-10q.html)
+- [2026-q2-ex991.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/music-video-stores/netflix-inc/2026-q2-ex991.html)
+- [2026-q2-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/music-video-stores/netflix-inc/2026-q2-shareholder-letter.pdf)
+- [2026-q2-earnings-interview-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/music-video-stores/netflix-inc/2026-q2-earnings-interview-transcript.pdf)
 
 ## Working interpretation
 

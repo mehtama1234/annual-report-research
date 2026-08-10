@@ -9,7 +9,6 @@ Date baseline: 2026-08-10
 - Industry: Industrial Supply
 - Ticker: `FAST`
 - Fiscal year-end: December
-- Assigned CLI 8 sub-lane: wholesale and distribution infrastructure
 - Target annual report year: 2025
 - Target quarter window:
   - quarter 1: Q2 2026
@@ -88,10 +87,10 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/fastenal-company/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/fastenal-company/source-ledger.md)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/2025-10k.html)
-- [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/2025-annual-report-ars.pdf)
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/industrial-supply/fastenal-company/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/industrial-supply/fastenal-company/ir-source-links.md)
-- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/sec-source-links.md)
+- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-supply/fastenal-company/company-profile.md)
+- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-supply/fastenal-company/source-ledger.md)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/2025-10k.html)
+- [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/2025-annual-report-ars.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/industrial-supply/fastenal-company/annualreports-verification.md)
+- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-supply/fastenal-company/ir-source-links.md)
+- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/sec-source-links.md)

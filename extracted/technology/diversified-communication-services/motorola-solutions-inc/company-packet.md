@@ -8,7 +8,6 @@ Date baseline: 2026-08-10
 - Sector: Technology
 - Industry: Diversified Communication Services
 - Ticker: MSI
-- Assigned CLI 8 sub-lane: asset access and operating support
 - Fiscal year-end: December
 - Target annual report year: 2025
 - Target quarter window:
@@ -88,20 +87,20 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/technology/diversified-communication-services/motorola-solutions-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/technology/diversified-communication-services/motorola-solutions-inc/company-page.html)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/ir-source-links.md)
-- [investors-home.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/investors-home.html)
-- [earnings-and-sec-filings.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/earnings-and-sec-filings.html)
-- [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2025-10k.pdf)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2025-q4-earnings-release.pdf)
-- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2025-q4-earnings-call-transcript.pdf)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2026-q1-earnings-release.pdf)
-- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2026-q1-earnings-call-transcript.pdf)
-- [2026-q1-10q.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2026-q1-10q.pdf)
-- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2026-q2-earnings-release.pdf)
-- [2026-q2-10q.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2026-q2-10q.pdf)
-- [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/technology/diversified-communication-services/motorola-solutions-inc/sec-submissions.json)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/motorola-solutions-inc/annualreports-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/motorola-solutions-inc/company-page.html)
+- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/ir-source-links.md)
+- [investors-home.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/investors-home.html)
+- [earnings-and-sec-filings.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/earnings-and-sec-filings.html)
+- [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2025-10k.pdf)
+- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2025-q4-earnings-release.pdf)
+- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2025-q4-earnings-call-transcript.pdf)
+- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2026-q1-earnings-release.pdf)
+- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2026-q1-earnings-call-transcript.pdf)
+- [2026-q1-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2026-q1-10q.pdf)
+- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2026-q2-earnings-release.pdf)
+- [2026-q2-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/motorola-solutions-inc/2026-q2-10q.pdf)
+- [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/motorola-solutions-inc/sec-submissions.json)
 
 ## Working interpretation
 

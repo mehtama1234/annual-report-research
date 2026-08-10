@@ -1,6 +1,6 @@
 # EMCOR Group, Inc.
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -54,6 +54,11 @@ Date baseline: 2026-08-09
 - The annual materials directly connect this business to the same physical-demand wave visible elsewhere in the archive. EMCOR explicitly ties industry growth to digital processing, cloud computing, AI, data storage, data centers, reshoring, high-tech manufacturing, and the energy transition and expansion across the United States.
 - The quarter commentary shows where that demand is landing. The most significant RPO growth in both Q1 and Q2 `2026` came from `network and communications`, especially data-center construction, with additional strength in healthcare, water and wastewater, and institutional markets.
 - Labor and execution remain part of the core read. The filings explicitly warn about scarcity of skilled labor, productivity challenges, and supply-chain pricing risk. The margin discussion also shows that mix, labor depth, and whether EMCOR is acting as a prime or construction manager still matter to conversion quality.
+
+## Working interpretation
+
+- EMCOR is one of the clearest archive names for showing that AI, cloud, and high-tech facility demand do not only benefit chips, servers, or utilities. They also benefit the electrical, mechanical, controls, and facilities contractors that make those environments usable and maintainable.
+- The deeper pattern is that technically complex buildings are becoming recurring infrastructure systems. EMCOR is therefore useful not only as a construction read, but as a read on ongoing building uptime, retrofit intensity, and skilled-trades scarcity.
 
 ## Open questions
 

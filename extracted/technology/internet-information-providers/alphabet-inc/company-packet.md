@@ -1,6 +1,6 @@
 # Alphabet Inc. Company Packet
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -46,7 +46,7 @@ Date baseline: 2026-08-08
 - Management message: Alphabet emphasized that annual revenue exceeded `$400 billion` for the first time, YouTube topped `$60 billion` of annual revenue, Cloud exited the year above a `$70 billion` run rate, and paid subscriptions surpassed `325 million`.
 - Structural themes: Q4 2025 is the bridge quarter where Alphabet’s AI-first strategy stops looking experimental and starts looking like the operating center of the business.
 
-Note: for many companies this third slot will be a late-2025 quarter needed to complete the trailing three-quarter set as of 2026-08-08.
+Note: for many companies this third slot will be a late-2025 quarter needed to complete the trailing three-quarter set as of 2026-08-10.
 
 ## Signals to feed into higher-level analysis
 
@@ -60,13 +60,14 @@ Note: for many companies this third slot will be a late-2025 quarter needed to c
 
 ## Source pointers
 
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/alphabet-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/alphabet-inc/2025-10k.html)
-- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/alphabet-inc/2026-q2-earnings-release.pdf)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/alphabet-inc/2026-q2-10q.html)
-- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2026-q2-earnings-call-transcript.pdf)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/alphabet-inc/2026-q1-earnings-release.pdf)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/alphabet-inc/2026-q1-10q.html)
-- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2026-q1-earnings-call-transcript.pdf)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/alphabet-inc/2025-q4-earnings-release.pdf)
-- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2025-q4-earnings-call-transcript.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/technology/internet-information-providers/alphabet-inc/annualreports-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/alphabet-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/alphabet-inc/2025-10k.html)
+- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/alphabet-inc/2026-q2-earnings-release.pdf)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/alphabet-inc/2026-q2-10q.html)
+- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2026-q2-earnings-call-transcript.pdf)
+- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/alphabet-inc/2026-q1-earnings-release.pdf)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/alphabet-inc/2026-q1-10q.html)
+- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2026-q1-earnings-call-transcript.pdf)
+- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/alphabet-inc/2025-q4-earnings-release.pdf)
+- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2025-q4-earnings-call-transcript.pdf)

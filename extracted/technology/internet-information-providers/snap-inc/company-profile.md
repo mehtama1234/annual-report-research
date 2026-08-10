@@ -1,69 +1,66 @@
 # Snap Inc.
 
-- Sector: Technology
-- Industry: Internet Information Providers
+Date baseline: 2026-08-10
+
+## Identity
+
+- Company: Snap Inc.
 - Ticker: SNAP
 - Exchange: NYSE
-- Fiscal year end: December
-- Annual scope year: 2025 annual report
-- Quarter scope window as of 2026-08-09: Q2 2026, Q1 2026, Q4 2025
+- Sector: Technology
+- Industry: Internet Information Providers
+- SEC SIC description: Services-Computer Programming, Data Processing, Etc.
+- Headquarters: Santa Monica, California, United States
+- Fiscal year-end: December
+- AnnualReports.com page: https://www.annualreports.com/Company/snap-inc
+- Investor relations page: https://investor.snap.com/
+- Annual report page: https://investor.snap.com/financials/Annual-Report/default.aspx
+- Quarterly results page: https://investor.snap.com/financials/quarterly-results/default.aspx
+- SEC / filing reference: https://data.sec.gov/submissions/CIK0001564408.json
 
-## What the company is
+## Coverage status
 
-Snap is a consumer internet and digital-advertising platform built around Snapchat, augmented reality tools, and an expanding direct-revenue layer including subscriptions and hardware. In this archive it is the clearest lower-quality and more ad-sensitive technology-platform comparison against Alphabet’s much stronger search-and-cloud model.
+- Target annual report year: 2025
+- Target quarter window:
+  - quarter 1: Q2 2026
+  - quarter 2: Q1 2026
+  - quarter 3: Q4 2025
+- Latest annual report collected: yes
+- Latest annual filing collected: yes
+- Latest quarter collected: yes
+- Quarter minus 1 collected: yes
+- Quarter minus 2 collected: yes
+- Latest earnings call transcript collected: yes
 
-## Why Snap matters in this archive
+## Annual report archive
 
-- It adds a weaker-moat, ad-dependent platform to a technology set dominated by current leaders and stronger infrastructure businesses.
-- It helps distinguish consumer-attention platforms with improving execution from consumer-attention platforms with still-fragile economics.
-- It adds direct exposure to ad targeting, measurement, user growth durability, subscription diversification, AR investment, and the risk that long-term product bets still fail to create durable high-quality returns.
+| Year | Document | Source URL | Local path | Notes |
+|---|---|---|---|---|
+| 2025 | Snap AnnualReports.com verification note | https://www.annualreports.com/Company/snap-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/technology/internet-information-providers/snap-inc/annualreports-verification.md) | Confirms AnnualReports still showed the `2024` annual package on `2026-08-09`, so the aggregator lagged the required reporting window. |
+| 2025 | Snap investor-relations source links note | https://investor.snap.com/ | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/snap-inc/ir-source-links.md) | Preserves the official annual-report and quarterly-results URLs together with the saved company-hosted artifacts. |
+| 2025 | Official annual report PDF | https://investor.snap.com/financials/Annual-Report/default.aspx | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/snap-inc/2025-annual-report.pdf) | Official annual report artifact for fiscal year `2025`. |
+| 2025 | Form `10-K` | https://www.sec.gov/Archives/edgar/data/1564408/000156440826000013/snap-20251231.htm | [snap-20251231.htm](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/snap-inc/snap-20251231.htm) | Core annual filing for the year ended `2025-12-31`, filed `2026-02-05`. |
+| 2025 | SEC submissions index | https://data.sec.gov/submissions/CIK0001564408.json | [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/snap-inc/sec-submissions.json) | Verifies filer identity and the in-scope `10-K`, `10-Q`, and `8-K` chronology. |
 
-## 2025 annual highlights
+## Last three quarters
 
-- Full-year revenue: `$5.931B`
-- Full-year net loss: `$460M`
-- Full-year adjusted EBITDA: `$689M`
-- Full-year operating cash flow: `$656M`
-- Full-year free cash flow: `$437M`
-- Snap said substantially all of its revenue still comes from advertising.
-- The 2025 annual report and Q4 2025 release framed the business around profitable growth, revenue diversification, and continued investment in augmented reality and the consumer launch of Specs.
+| Quarter | Earnings release | Filing | Transcript | Key headline |
+|---|---|---|---|---|
+| Q2 2026 | [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/snap-inc/2026-q2-earnings-release.pdf) | [snap-20260803.htm](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/snap-inc/snap-20260803.htm) plus [snap-20260630.htm](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/snap-inc/snap-20260630.htm) | [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/earnings-calls/technology/internet-information-providers/snap-inc/2026-q2-earnings-call-transcript.pdf) | Snap reported Q2 `2026` revenue of `$1.599B`, net loss of `$164M`, adjusted EBITDA of `$250M`, free cash flow of `$121M`, and monthly active users of `971M`. |
+| Q1 2026 | [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/snap-inc/2026-q1-earnings-release.pdf) | [snap-20260506.htm](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/snap-inc/snap-20260506.htm) plus [snap-20260331.htm](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/snap-inc/snap-20260331.htm) | [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/earnings-calls/technology/internet-information-providers/snap-inc/2026-q1-earnings-call-transcript.pdf) | Snap reported Q1 `2026` revenue of `$1.529B`, net loss of `$89M`, adjusted EBITDA of `$233M`, monthly active users of `956M`, daily active users of `483M`, and `87%` growth in other revenue. |
+| Q4 2025 | [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/snap-inc/2025-q4-earnings-release.pdf) | [snap-20260204.htm](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/snap-inc/snap-20260204.htm) plus [snap-20251231.htm](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/snap-inc/snap-20251231.htm) | [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/earnings-calls/technology/internet-information-providers/snap-inc/2025-q4-earnings-call-transcript.pdf) | Snap reported Q4 `2025` revenue of `$1.716B`, net income of `$45M`, adjusted EBITDA of `$358M`, and `24M` subscribers while full-year `2025` revenue reached `$5.931B`. |
 
-## Trailing reported quarter highlights
+## What changed
 
-### Q2 2026
+- Aggregator gap: Snap is another direct example of why AnnualReports alone is insufficient for this frontier. The aggregator still lagged at `2024`, while official IR and the SEC already supported the required `2025` annual window and latest quarter chain.
+- Consumer-platform contrast: Snap adds a weaker-moat, ad-dependent consumer-attention platform rather than another premium publisher, subscription audio platform, or ad-infrastructure intermediary.
+- Monetization mix: substantially all revenue still comes from advertising, but the company is also pushing subscriptions, augmented-reality tools, hardware, and other direct revenue streams.
+- User-scale signal: the quarter chain shows a very large user base and improving cash generation, but not the same moat depth or earnings quality as stronger attention platforms.
+- Technology risk: Snap is useful because it keeps the frontier honest about how difficult it is to convert user attention into durable economics when targeting, ad measurement, product relevance, and AR hardware bets all remain uncertain.
+- Comparative value: Snap materially improves the frontier because it adds a lower-quality but still improving platform case against the stronger `Spotify`, `Roku`, and ad-tech or media-infrastructure names already in the set.
 
-- Revenue: `$1.599B`
-- Net loss: `$164M`
-- Adjusted EBITDA: `$250M`
-- Operating cash flow: `$176M`
-- Free cash flow: `$121M`
-- Monthly active users: `971M`
-- Management emphasized improving advertising performance and rapid growth in direct revenue.
+## Open questions
 
-### Q1 2026
-
-- Revenue: `$1.529B`
-- Net loss: `$89M`
-- Adjusted EBITDA: `$233M`
-- Operating cash flow: `$327M`
-- Free cash flow: `$286M`
-- Monthly active users: `956M`
-- Daily active users: `483M`
-- Other revenue increased `87%` year over year to `$285M`.
-
-### Q4 2025 / full year 2025
-
-- Q4 revenue: `$1.716B`
-- Q4 net income: `$45M`
-- Q4 adjusted EBITDA: `$358M`
-- Q4 operating cash flow: `$270M`
-- Q4 free cash flow: `$206M`
-- Full-year revenue: `$5.931B`
-- Full-year net loss: `$460M`
-- Subscribers reached `24M` in Q4 2025, up `71%` year over year.
-
-## Early read
-
-- Snap is improving, but it still reads as a lower-quality platform than Alphabet because it remains far more dependent on ad-market conditions, targeting effectiveness, and user and advertiser execution.
-- The evidence suggests management is building a more durable financial base through ad-product improvements, subscriptions, and AR-related monetization, but the business still lacks the moat depth and earnings quality of the strongest platform names.
-- Snap is the best current technology-sector counterweight for testing whether consumer-attention scale alone is enough, or whether the best economics still belong to platforms with stronger distribution, search intent, or enterprise infrastructure.
+- How durable is Snap's improving cash profile if advertising conditions weaken or AR and hardware investments stay heavy?
+- Can subscriptions, direct revenue, and augmented-reality tooling become a real moat enhancer, or do they remain secondary to ad-market execution?
+- Does Snap become a stronger long-run interface company, or does it remain a large but structurally lower-quality attention surface?

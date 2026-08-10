@@ -1,6 +1,6 @@
 # Vertiv Holdings Co
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -54,6 +54,11 @@ Date baseline: 2026-08-09
 - Q1 and Q2 `2026` show the demand is converting into revenue, margins, and cash. Net sales moved from `$2,650 million` in Q1 to `$3,274 million` in Q2. Adjusted operating margin moved from `20.8%` to `22.6%`. Adjusted free cash flow moved from `$653 million` to `$925 million`. By the end of Q2, Vertiv had reached a net cash position.
 - The management language is consistent and useful for theme work. Vertiv talks about infrastructure density increasing, deployment timelines compressing, and power and thermal infrastructure becoming more complex at scale. That gives the archive a direct operator saying the AI buildout is making real-world infrastructure harder, denser, and more capital-intensive.
 - Vertiv also sits cleanly between other industrial names already in the archive. `Eaton` gives the electrical-architecture and grid-facing layer. `Trane` gives the cooling and building-systems layer. Vertiv connects both around critical digital infrastructure and hyperscale deployment.
+
+## Working interpretation
+
+- Vertiv is one of the archive's strongest examples of digital demand becoming a direct industrial systems story. It is not just adjacent to AI; it is a provider of the power and thermal environment that lets AI infrastructure exist at scale.
+- The deeper pattern is that critical digital infrastructure now behaves like a major industrial lane with its own backlog, capacity, cash-conversion, and deployment-complexity dynamics.
 
 ## Open questions
 

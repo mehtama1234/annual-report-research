@@ -32,13 +32,13 @@ Date verified: 2026-08-10
 
 ## Local evidence
 
-- Submissions JSON: [submissions-cik0001599617.json](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/dnow-inc/submissions-cik0001599617.json)
-- `2025` Form `10-K`: [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/dnow-inc/2025-10k.html)
-- `Q1 2026` Form `10-Q`: [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/dnow-inc/2026-q1-10q.html)
-- `Q2 2026` Form `10-Q`: [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/dnow-inc/2026-q2-10q.html)
-- `Q4 2025` results `8-K`: [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2025-q4-8k.html)
-- `Q4 2025` results Exhibit `99.1`: [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2025-q4-earnings-release-sec-ex99.html)
-- `Q1 2026` results `8-K`: [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2026-q1-8k.html)
-- `Q1 2026` results Exhibit `99.1`: [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2026-q1-earnings-release-sec-ex99.html)
-- `Q2 2026` results `8-K`: [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2026-q2-8k.html)
-- `Q2 2026` results Exhibit `99.1`: [2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2026-q2-earnings-release-sec-ex99.html)
+- Submissions JSON: [submissions-cik0001599617.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/dnow-inc/submissions-cik0001599617.json)
+- `2025` Form `10-K`: [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/dnow-inc/2025-10k.html)
+- `Q1 2026` Form `10-Q`: [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/dnow-inc/2026-q1-10q.html)
+- `Q2 2026` Form `10-Q`: [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/dnow-inc/2026-q2-10q.html)
+- `Q4 2025` results `8-K`: [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2025-q4-8k.html)
+- `Q4 2025` results Exhibit `99.1`: [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2025-q4-earnings-release-sec-ex99.html)
+- `Q1 2026` results `8-K`: [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2026-q1-8k.html)
+- `Q1 2026` results Exhibit `99.1`: [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2026-q1-earnings-release-sec-ex99.html)
+- `Q2 2026` results `8-K`: [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2026-q2-8k.html)
+- `Q2 2026` results Exhibit `99.1`: [2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/dnow-inc/filings/2026-q2-earnings-release-sec-ex99.html)

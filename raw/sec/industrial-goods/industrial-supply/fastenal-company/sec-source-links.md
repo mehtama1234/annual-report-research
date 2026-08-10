@@ -34,11 +34,11 @@ Date verified: 2026-08-10
 
 ## Local evidence
 
-- Submissions JSON: [submissions-cik0000815556.json](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/submissions-cik0000815556.json)
-- `2025` Form `10-K`: [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/2025-10k.html)
-- `2025` annual report PDF: [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/2025-annual-report-ars.pdf)
-- `Q1 2026` Form `10-Q`: [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/2026-q1-10q.html)
-- `Q2 2026` Form `10-Q`: [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/2026-q2-10q.html)
-- `Q4 2025` results exhibit: [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/filings/2025-q4-earnings-release-sec-ex99.html)
-- `Q1 2026` results exhibit: [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/filings/2026-q1-earnings-release-sec-ex99.html)
-- `Q2 2026` results exhibit: [2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/filings/2026-q2-earnings-release-sec-ex99.html)
+- Submissions JSON: [submissions-cik0000815556.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/submissions-cik0000815556.json)
+- `2025` Form `10-K`: [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/2025-10k.html)
+- `2025` annual report PDF: [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/2025-annual-report-ars.pdf)
+- `Q1 2026` Form `10-Q`: [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/2026-q1-10q.html)
+- `Q2 2026` Form `10-Q`: [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/2026-q2-10q.html)
+- `Q4 2025` results exhibit: [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/filings/2025-q4-earnings-release-sec-ex99.html)
+- `Q1 2026` results exhibit: [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/filings/2026-q1-earnings-release-sec-ex99.html)
+- `Q2 2026` results exhibit: [2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/filings/2026-q2-earnings-release-sec-ex99.html)

@@ -3,7 +3,7 @@
 Date checked: 2026-08-10
 
 - AnnualReports company page: `https://www.annualreports.com/Company/msc-industrial-direct-co`
-- Local archive page: [company-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/company-page.html)
+- Local archive page: [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/company-page.html)
 - AnnualReports company label: `MSC Industrial Direct Co.`
 - AnnualReports industry taxonomy: `Industrial Equipment Wholesale`
 - AnnualReports sector taxonomy: `Services`

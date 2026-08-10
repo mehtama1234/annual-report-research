@@ -22,6 +22,7 @@ The current healthcare-frontier flagship set is:
 - `Exact Sciences Corporation`
 - `DaVita Inc.`
 - `Addus HomeCare Corporation`
+- `Enhabit, Inc.`
 - `Guardant Health Inc.`
 
 This set is intended to cover:
@@ -387,6 +388,33 @@ Current raw status:
 
 - materially source-complete for packet drafting
 
+### Enhabit, Inc.
+
+Lane role:
+
+- specialized health services
+- clinical home health and hospice infrastructure
+- reimbursement- and labor-sensitive home-based care economics
+
+Raw evidence currently saved:
+
+- AnnualReports company page HTML
+- AnnualReports verification note
+- official IR source-links note
+- SEC submissions JSON
+- `2025` `10-K`
+- `Q4 2025` `8-K`
+- `Q3 2025` `10-Q`
+- `Q3 2025` `8-K`
+- `Q1 2026` `10-Q`
+- merger-vote `8-K` dated `2026-05-12`
+- pre-close merger `8-K` dated `2026-02-23`
+- post-close merger `8-K` dated `2026-05-15`
+
+Current raw status:
+
+- materially source-complete for packet drafting, with SEC used as the authoritative local artifact chain because direct IR fetches were rate-limited
+
 ### Guardant Health Inc.
 
 Lane role:
@@ -498,6 +526,7 @@ Completed packets in this batch now include:
 - `Ionis Pharmaceuticals, Inc.`
 - `DaVita Inc.`
 - `Addus HomeCare Corporation`
+- `Enhabit, Inc.`
 - `Guardant Health Inc.`
 - `Exact Sciences Corporation`
 
@@ -507,6 +536,7 @@ The packet and memo pass should explicitly pull out:
 
 - consumer and patient behavior around treatment adherence, convenience, trust, affordability, and site-of-care choice
 - cultural and societal pressure from chronic disease burden, specialty treatment growth, aging, and home-based care normalization
+- cultural and societal pressure from chronic disease burden, specialty treatment growth, aging, and home-based care normalization, including the shift toward clinically managed care in the home rather than only lower-acuity support
 - industrial pressure from reimbursement, pipeline concentration, patent exposure, sterile manufacturing complexity, diagnostic dependence, and labor intensity
 - repeated higher-order patterns such as franchise and IP monetization, recurring care complexity, diagnostic-infrastructure dependence, and the physical delivery layer behind modern therapy economics
 
@@ -530,5 +560,5 @@ Cross-company interpretation now exists in:
 ## Immediate next actions
 
 1. Treat `Regeneron`, `Labcorp`, `Teva`, `West`, `Option Care`, `DexCom`, `Insulet`, and `Medpace` as completed for the current healthcare batch.
-2. Treat `Quest`, `Natera`, `Alnylam`, `Ionis`, `DaVita`, `Addus`, `Guardant`, and `Exact Sciences` as completed for the current healthcare batch.
+2. Treat `Quest`, `Natera`, `Alnylam`, `Ionis`, `DaVita`, `Addus`, `Enhabit`, `Guardant`, and `Exact Sciences` as completed for the current healthcare batch.
 3. Decide whether to integrate shared indexes as one coherent healthcare batch or hand the batch back for separate integration.

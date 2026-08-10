@@ -20,6 +20,7 @@ This memo pulls together the current healthcare-frontier flagship packets that m
 - [Guardant Health Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/biotechnology/guardant-health-inc/company-packet.md)
 - [DaVita Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/davita-inc/company-packet.md)
 - [Addus HomeCare Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/addus-homecare-corporation/company-packet.md)
+- [Enhabit, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/enhabit-inc/company-packet.md)
 
 ## What this batch adds
 
@@ -55,6 +56,7 @@ The healthcare archive already had evidence on payers and hospitals, but this ba
 `Option Care` is the cleanest direct operator of alternate-site recurring administration.
 `DaVita` is the clearest mandatory chronic-treatment operator.
 `Addus` is the clearest lower-acuity home-based recurring-services operator.
+`Enhabit` is the clearest clinical home-health and hospice operator in the current set.
 `Labcorp`, `Quest`, `Natera`, and `Exact` support the testing and workflow side of it.
 `DexCom` and `Insulet` move recurring monitoring and dosing into the home.
 `West` supports the physical delivery side of it.
@@ -81,6 +83,7 @@ That favors companies that sit inside the routine:
 - `Option Care` through recurring infusion delivery
 - `DaVita` through recurring dialysis and kidney-care coordination
 - `Addus` through recurring personal care, hospice, and selective home-health support in the preferred home setting
+- `Enhabit` through clinically managed home health and hospice in the preferred home setting
 - `Labcorp` and `Quest` through repeated testing and monitoring
 - `Natera` through repeated molecular screening and recurrence surveillance
 - `DexCom` and `Insulet` through device-linked chronic disease routines
@@ -171,6 +174,7 @@ This matters because it gives the batch a second specialized-services comparison
 Option Care is about routing and administering expensive therapies outside the hospital.
 DaVita is about maintaining a high-frequency chronic-care utility while trying to expand coordination and home-based support around it.
 Addus closes the remaining home-health gap from another angle: it monetizes lower-acuity but longer-duration support through personal care, hospice, and a smaller home-health layer, where the key variables are caregiver labor, state rate support, payor concentration, and local density rather than therapy mix or treatment frequency.
+Enhabit now closes the more clinical side of the same lane. It shows what happens when the home-based care thesis depends more directly on Medicare episodes, clinician productivity, hospice census, reimbursement pressure, and branch-level execution than on caregiver-hour density alone.
 
 ### 8. Pipeline risk and franchise concentration still dominate the value story
 
@@ -255,6 +259,7 @@ Those pressures express differently by company:
 - `Option Care`: labor, payer pressure, site-of-care routing, and therapy complexity
 - `DaVita`: reimbursement per treatment, treatment-density growth, labor discipline, and value-based kidney-care execution
 - `Addus`: caregiver hiring, wage pass-through, Illinois and other state reimbursement exposure, acquisition integration, and personal-care density
+- `Enhabit`: Medicare reimbursement pressure, non-Medicare mix shift, clinician hiring, visit productivity, hospice census, debt service, and de novo execution
 - `DexCom` and `Insulet`: channel expansion, reimbursement, wear-time adherence, and installed-base monetization
 - `Medpace`: sponsor funding quality, award timing, and backlog conversion
 
@@ -293,8 +298,9 @@ Those pressures express differently by company:
 - `Ionis` is the best current packet for antisense-platform commercialization, mixed royalty-plus-owned-product economics, and the intermediate stage between biotech platform promise and mature franchise monetization.
 - `DaVita` is the best current packet for recurring dialysis economics, value-based kidney care, and the chronic-treatment utility layer.
 - `Addus` is the best current packet for aging-in-place economics, home-based personal care density, and the labor-plus-reimbursement operating model behind recurring care in the home.
+- `Enhabit` is the best current packet for clinical home-health and hospice economics, including the tension between home-care demand growth and reimbursement-sensitive unit revenue.
 
 ## Gaps
 
-- The home-based-care comparison gap is materially narrower after `Addus`.
-- A future add could still deepen the lane with a more clinical home-health pure play or a hospital-at-home specialist, but it is no longer a missing core comparison.
+- The home-based-care comparison gap is now largely closed after `Addus` and `Enhabit`.
+- A future add could still deepen the lane with a hospital-at-home specialist, but a clinical home-health pure play is no longer a missing core comparison.

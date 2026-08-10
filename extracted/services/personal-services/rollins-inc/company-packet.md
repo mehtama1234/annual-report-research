@@ -1,6 +1,6 @@
 # Rollins, Inc. Company Packet
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -9,6 +9,7 @@ Date baseline: 2026-08-08
 - Industry: Personal Services
 - Ticker: ROL
 - Fiscal year-end: December
+- Assigned CLI 8 sub-lane: asset access and operating support
 - Target annual report year: 2025
 - Target quarter window:
   - quarter 1: Q2 2026
@@ -57,16 +58,16 @@ Date baseline: 2026-08-08
 
 ## Source pointers
 
-- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/personal-services/rollins-inc/company-page-annualreports.html)
-- [annual-reports-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/personal-services/rollins-inc/annual-reports-page.html)
-- [quarterly-earnings-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/personal-services/rollins-inc/quarterly-earnings-page.html)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/personal-services/rollins-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2025-q4-8k.html)
-- [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2025-q4-earnings-release-sec-ex99.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2026-q1-10q.html)
-- [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2026-q1-earnings-release-sec-ex99.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2026-q2-10q.html)
-- [2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/personal-services/rollins-inc/2026-q2-earnings-release-sec-ex99.html)
+- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/services/personal-services/rollins-inc/company-page-annualreports.html)
+- [annual-reports-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/personal-services/rollins-inc/annual-reports-page.html)
+- [quarterly-earnings-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/personal-services/rollins-inc/quarterly-earnings-page.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/personal-services/rollins-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2025-q4-8k.html)
+- [2025-q4-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2025-q4-earnings-release-sec-ex99.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2026-q1-10q.html)
+- [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2026-q1-earnings-release-sec-ex99.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2026-q2-10q.html)
+- [2026-q2-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/personal-services/rollins-inc/2026-q2-earnings-release-sec-ex99.html)

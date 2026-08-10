@@ -119,6 +119,7 @@ This batch should explicitly surface:
 - `W.W. Grainger, Inc.` packet chain written
 - `MSC Industrial Direct Co., Inc.` packet chain written
 - `Quanta Services, Inc.` packet chain written
+- `EMCOR Group, Inc.` packet chain written
 - Vulcan is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, making it the cleanest heavy-materials anchor in the batch
 - Westlake is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, giving the batch a conversion-materials and building-products bridge between chemicals, housing, and water infrastructure
 - Bunge is now the strongest completed packet in the batch because the annual report, latest three quarters, transcripts, presentations, company-hosted quarter filings, and direct SEC filing references were all collected or preserved locally
@@ -144,10 +145,11 @@ This batch should explicitly surface:
 - Grainger now adds the broadline MRO, enterprise-procurement, and endless-assortment platform layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on the `HTSNA` versus `Endless Assortment` split, tariff-pass-through and tariff-refund effects, MonotaRO and Zoro channel growth, working-capital and supply-chain-capacity demands, and the procurement-infrastructure layer behind recurring institutional and industrial uptime
 - MSC now adds the manufacturing-heavy metalworking, MRO, vending, and In-Plant procurement layer with a source-complete `2025` annual / fiscal `Q3 2026` / fiscal `Q2 2026` / fiscal `Q1 2026` IR-and-SEC-anchored evidence stack and a strong read on `Mission Critical`, machine-shop and factory-cycle sensitivity, national-account and government mix pressure, procurement automation, and the way recurring shop-floor dependence can grow even while field-sales headcount shrinks
 - Quanta now adds the utility-construction, power-network, and mission-critical field-execution layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on record backlog and `RPO`, self-perform labor as strategic capacity, data-center and grid-load growth, acquisition-led capability expansion, and the way rising electricity demand turns into real field work
+- EMCOR now adds the electrical, mechanical, facilities-services, and technically dense building-operations layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on data-center and network-and-communications demand, recurring facilities and retrofit complexity, record `RPO`, labor-and-mix sensitivity, and the physical building layer beneath cloud, AI, healthcare, and institutional uptime
 
 Current batch split:
 
-- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `CECO Environmental Corp.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`, `CRH plc`, `Cemex, S.A.B. de C.V.`, `Watsco, Inc.`, `Ferguson Enterprises Inc.`, `Fastenal Company`, `DNOW Inc.`, `W.W. Grainger, Inc.`, `MSC Industrial Direct Co., Inc.`, `Quanta Services, Inc.`
+- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `CECO Environmental Corp.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`, `CRH plc`, `Cemex, S.A.B. de C.V.`, `Watsco, Inc.`, `Ferguson Enterprises Inc.`, `Fastenal Company`, `DNOW Inc.`, `W.W. Grainger, Inc.`, `MSC Industrial Direct Co., Inc.`, `Quanta Services, Inc.`, `EMCOR Group, Inc.`
 - partial: none
 
 ## CECO latest-quarter note
@@ -160,5 +162,6 @@ Current batch split:
 ## Next recommended names after this batch
 
 - `ABM Industries, Inc.` if the archive next needs the outsourced facilities, airport operations, semiconductor-fab support, and datacenter-adjacent technical-services layer
-- `EMCOR Group, Inc.` if the archive next needs a second high-skill mechanical-and-electrical execution comparison against `Comfort Systems` and `Quanta`
 - `Dycom Industries Inc.` if the archive next needs the telecom, fiber, hyperscaler-connectivity, and inside-plant structured-cabling field-execution layer
+- `Comfort Systems USA, Inc.` if the archive next needs a tighter skilled-trades and HVAC execution comparison against `EMCOR` and `Quanta`
+- `Amphenol Corporation` if the archive next needs a components-and-connectivity-hardware bridge between network demand and the installed physical layer

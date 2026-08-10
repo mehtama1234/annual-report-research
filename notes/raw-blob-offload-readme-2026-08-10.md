@@ -81,4 +81,4 @@ The tar includes:
 
 The heavy raw payload itself remains excluded from remote `main`. This readme, the CSV manifest, and the TSV bucket summary are the lightweight Git pointers for the Drive offload.
 
-Manifest commit: to be reported by the committing thread after push.
+Manifest commit: `26dae821618ab0d556dbc364970762480a811086`

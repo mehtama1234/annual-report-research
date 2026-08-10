@@ -3,7 +3,7 @@
 Date: 2026-08-10
 Repo: `/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer`
 Branch: `cli8-distribution-middle-layer`
-Commit hash: `15ac5f1`
+Commit hash: `1f78124`
 
 ## Completed companies
 
@@ -11,13 +11,15 @@ Commit hash: `15ac5f1`
 2. `WESCO International Inc.`: wholesale and distribution infrastructure; strongest project-heavy infrastructure-distribution and data-center channel packet in the set.
 3. `Builders FirstSource, Inc.`: wholesale and distribution infrastructure; strongest housing-supply-chain and value-added building-products packet in the set.
 4. `Ferguson Enterprises Inc.`: wholesale and distribution infrastructure; strongest branch-density plumbing HVAC waterworks and contractor-support packet in the set.
-5. `Sysco Corporation`: institutional supply and replenishment; strongest foodservice route-density and procurement-power packet in the set.
-6. `McKesson Corporation`: institutional supply and replenishment; strongest healthcare-distribution and provider-embeddedness packet in the set.
-7. `Cencora`: institutional supply and replenishment; strongest specialty-healthcare and manufacturer-to-provider channel-services packet in the set.
-8. `United Rentals, Inc.`: asset access and operating support; strongest rental-versus-ownership and outsourced uptime-support packet in the set.
-9. `APi Group Corporation`: asset access and operating support; strongest safety inspection monitoring and compliance-services packet in the set.
-10. `Cintas Corporation`: asset access and operating support; strongest route-based workplace-services and recurring operating-support packet in the set.
-11. `Hyatt Hotels Corporation`: service-layer physical interface; strongest proof that branded service infrastructure belongs inside the same middle-layer frontier.
+5. `Fastenal Company`: wholesale and distribution infrastructure; strongest onsite industrial-procurement and embedded replenishment workflow packet in the set.
+6. `Sysco Corporation`: institutional supply and replenishment; strongest foodservice route-density and procurement-power packet in the set.
+7. `McKesson Corporation`: institutional supply and replenishment; strongest healthcare-distribution and provider-embeddedness packet in the set.
+8. `Cencora`: institutional supply and replenishment; strongest specialty-healthcare and manufacturer-to-provider channel-services packet in the set.
+9. `United Rentals, Inc.`: asset access and operating support; strongest rental-versus-ownership and outsourced uptime-support packet in the set.
+10. `ABM Industries, Inc.`: asset access and operating support; strongest outsourced facilities and technical-uptime-support packet in the set.
+11. `APi Group Corporation`: asset access and operating support; strongest safety inspection monitoring and compliance-services packet in the set.
+12. `Cintas Corporation`: asset access and operating support; strongest route-based workplace-services and recurring operating-support packet in the set.
+13. `Hyatt Hotels Corporation`: service-layer physical interface; strongest proof that branded service infrastructure belongs inside the same middle-layer frontier.
 
 ## Partial companies
 
@@ -47,7 +49,7 @@ Commit hash: `15ac5f1`
 
 ## Deliverables now present
 
-1. Raw source archive for all eleven completed packets.
+1. Raw source archive for all thirteen completed packets.
 2. Extracted company packets and thematic interpretation for each completed company.
 3. One frontier synthesis note:
    [distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md)
@@ -58,4 +60,4 @@ Commit hash: `15ac5f1`
 
 1. `Cencora` and `WESCO` are analytically complete but still rely partly on verification notes and SEC chronology because direct official binaries resisted shell retrieval.
 2. `Grainger` uses official year-end company-snapshot evidence rather than a locally saved full annual-report PDF.
-3. `Builders FirstSource`, `Ferguson`, `APi`, and `Cintas` were imported from neighboring local archive passes and normalized into this worktree, including local path repair and date-baseline updates.
+3. `Builders FirstSource`, `Ferguson`, `APi`, `Cintas`, `ABM`, and `Fastenal` were imported from neighboring local archive passes and normalized into this worktree, including local path repair and date-baseline updates.

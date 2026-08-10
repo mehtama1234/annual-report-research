@@ -29,6 +29,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [West Pharmaceutical Services, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/healthcare/medical-instruments-supplies/west-pharmaceutical-services-inc/company-packet.md)
 - asset access and operating support:
   - [ABM Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
+  - [ADT Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/adt-inc/company-packet.md)
   - [APi Group Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/api-group-corporation/company-packet.md)
   - [The Brink's Company](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/security-protection-services/brinks-co/company-packet.md)
   - [BrightView Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/brightview-holdings-inc/company-packet.md)
@@ -43,13 +44,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a thirty-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a thirty-one-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current thirty completed names show thirty related but distinct middle-layer roles:
+The current thirty-one completed names show thirty-one related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -71,6 +72,7 @@ The current thirty completed names show thirty related but distinct middle-layer
 - `Stryker` controls a hospital-procedure and capital-equipment layer where implants, robotics, and enabling technologies shape institutional procurement and clinical workflow.
 - `West` controls a healthcare physical interface where injectable components, containment, and delivery systems sit between therapy makers and recurring patient use.
 - `ABM` controls outsourced facilities operations, technical-services support, and recurring uptime inside airports, campuses, warehouses, and technical environments.
+- `ADT` controls recurring monitoring, installation, retention, and smart-security workflow across residential and small-business customers.
 - `APi` controls inspection, monitoring, and safety-oriented service relationships tied to facilities and critical infrastructure.
 - `Brink's` controls cash logistics, ATM managed services, digital retail solutions, and recurring physical-payments infrastructure behind financial institutions and retailers.
 - `BrightView` controls recurring commercial-site maintenance, seasonal labor deployment, and property-upkeep execution across campuses, municipalities, hospitals, hotels, and retail sites.
@@ -121,6 +123,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Stryker`: keeping hospitals, surgeons, and procedure rooms supplied with implants, robotic platforms, instruments, and enabling technologies tied to recurring procedural demand
 - `West`: keeping injectable therapies, biologics, and drug-delivery systems usable through recurring containment, delivery, and high-value component supply
 - `ABM`: keeping airports, campuses, warehouses, semiconductor environments, and datacenter-adjacent facilities clean, staffed, supported, and operational
+- `ADT`: keeping households and small businesses connected to recurring monitoring, alarm response, smart-home workflow, installation, and service continuity
 - `APi`: keeping facilities, compliance systems, and safety-critical environments inspected, monitored, and operational
 - `Brink's`: keeping banks, retailers, ATMs, mints, and cash-heavy commercial systems serviced through route density, secure transport, ATM workflow management, and recurring cash-handling infrastructure
 - `BrightView`: keeping commercial properties, campuses, municipalities, hospitals, hotels, and retail sites maintained, presentable, and seasonally serviced through recurring field execution
@@ -158,6 +161,7 @@ The packets now point to the same conclusion from different directions:
 - `Stryker` benefits from surgeon preference, installed workflow relevance, hospital capital budgets, and the recurring need for procedure-room tools, implants, and robotics upgrades.
 - `West` benefits from qualification burden, quality reliability, high-value component mix, and the recurring need to turn injectable therapies into usable delivered treatments.
 - `ABM` benefits from recurring site-level operating dependence and the willingness of customers to outsource continuity-sensitive work.
+- `ADT` benefits from `RMR` stability, subscriber retention, installation payback discipline, and the ability to widen customer lifetime value through `ADT+`, smart-home integration, and self-install channel expansion.
 - `APi` benefits from recurring inspections, monitoring relationships, and compliance-linked attachment.
 - `Brink's` benefits from route density, high-trust custody, ATM and digital-retail workflow attachment, and the persistence of physical cash systems even as customer interfaces digitize.
 - `BrightView` benefits from recurring maintenance contracts, local route density, seasonal labor coordination, and the tendency of site owners to outsource visible but labor-heavy property upkeep.
@@ -192,6 +196,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Option Care` is highly exposed to reimbursement, therapy mix, clinician availability, payer behavior, and the balance between recurring treatment density and labor-heavy care coordination.
 - `Stryker` is highly exposed to procedure volumes, hospital capital willingness, product execution, cyber or operational disruption, and the durability of premium robotics and capital-product demand.
 - `West` is highly exposed to qualification cycles, injectable-demand concentration, manufacturing quality, and the operating leverage created by high-value component mix rather than commodity volume.
+- `ADT` is highly exposed to attrition, customer-acquisition efficiency, installation economics, service quality, financing discipline, and whether platform additions such as ambient sensing and `ADT Blu` improve retention and channel reach faster than competition erodes pricing.
 - `Grainger` wins partly because assortment breadth and availability are trusted.
 - `WESCO` needs disciplined capital allocation and project execution because fast growth can still consume cash and working capital.
 - `ABM` depends heavily on labor management, service mix, and technical-project timing because recurring facilities work and higher-value technical work coexist inside the same platform.
@@ -226,6 +231,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Cardinal Health`: technology as part of specialty access, provider throughput, at-home coordination, and logistics workflow rather than as a stand-alone product
 - `McKesson`: technology as part of prescription, specialty, and provider workflow infrastructure
 - `Cencora`: technology as part of market access, provider support, and specialty-services coordination
+- `ADT`: technology as part of monitoring, app-based customer workflow, ambient sensing, self-install expansion, and smart-home integration rather than as a stand-alone hardware story
 - `Stryker`: technology as embedded procedural infrastructure through robotics, power tools, enabling systems, and hospital workflow attachment rather than as a stand-alone software product
 - `ABM`: technology as part of dispatch, service workflow, airport and facilities operations, and datacenter or semiconductor support execution
 - `APi`: technology as part of monitoring, inspection cadence, service workflow, and compliance infrastructure
@@ -255,6 +261,7 @@ This is already visible across the completed set:
 - contractors, utilities, enterprise infrastructure programs, and hyperscale data-center projects at `WESCO`
 - restaurants, hospitality, schools, and healthcare foodservice at `Sysco`
 - dental practices, physician offices, alternate-care sites, healthcare clinics, and laboratories at `Henry Schein`
+- households and small businesses at `ADT`
 - hospitals, health systems, pharmacies, ambulatory surgery centers, clinical laboratories, physician offices, and home patients at `Cardinal Health`
 - pharmacies, oncology practices, and health systems at `McKesson`
 - pharmacies, physician practices, health systems, and pharma-channel partners at `Cencora`
@@ -295,12 +302,13 @@ The current packets already support several broader conclusions that go beyond c
 
 ### Replenishment businesses are indirect reads on social systems
 
-`Sysco`, `McKesson`, `Cencora`, `ABM`, `APi`, `Cintas`, and `Rollins` all show that middle-layer companies can be strong social and cultural signals without selling directly to households.
+`Sysco`, `McKesson`, `Cencora`, `ABM`, `ADT`, `APi`, `Cintas`, and `Rollins` all show that middle-layer companies can be strong social and cultural signals without relying on discretionary one-time consumer purchases.
 
 - If consumers become more cautious, `Sysco` sees it through restaurant order patterns and mix.
 - If care shifts toward specialty and multisite delivery, `McKesson` sees it through oncology, biopharma, and provider workflow demand.
 - If pharmaceutical demand shifts toward specialty therapies, GLP-1s, and more distributed physician support, `Cencora` sees it through channel mix, provider dependence, and service attachment.
 - If airports, campuses, warehouses, and technical environments need to stay continuously usable with tighter customer budgets and more complex facilities, `ABM` sees it through bookings, service mix, labor execution, and technical-solutions demand.
+- If households and small businesses keep prioritizing monitored safety, lower-friction smart-home control, and recurring protection rather than one-time gadget ownership, `ADT` sees it through `RMR`, attrition, installation payback, and service-support economics.
 - If employers and facility operators keep outsourcing safety, hygiene, uniforms, monitoring, and compliance work, `Cintas` and `APi` see it through route density, backlog, recurring service, and retention before most consumer-facing companies notice.
 - If households and property operators soften discretionary service initiation while keeping recurring maintenance in place, `Rollins` sees it through lead quality, route density, and local execution before many consumer-goods companies do.
 
@@ -321,7 +329,7 @@ That makes the middle layer an early read on industrial and digital-capacity exp
 
 `United Rentals` is the cleanest version of this. Customers want flexibility and uptime without tying up balance sheets in owned equipment. The intermediary takes the capital burden and turns it into a recurring service model.
 
-`ABM`, `APi`, `BrightView`, `Cintas`, and `Rollins` show a service analogue. Customers increasingly outsource specialized operating burdens like facilities uptime, inspections, monitoring, landscape maintenance, hygiene, uniforms, first aid, safety, fire protection, and routine property maintenance rather than staffing and optimizing them all in-house.
+`ABM`, `ADT`, `APi`, `BrightView`, `Cintas`, and `Rollins` show a service analogue. Customers increasingly outsource specialized operating burdens like monitored security, facilities uptime, inspections, monitoring, landscape maintenance, hygiene, uniforms, first aid, safety, fire protection, and routine property maintenance rather than staffing and optimizing them all in-house.
 
 `Hyatt` and `Hilton` show a parallel version in services rather than hard equipment. Property owners want brand, distribution, loyalty reach, and operating expertise without necessarily becoming best-in-class global hospitality platforms themselves.
 
@@ -348,8 +356,8 @@ The frontier is not complete yet.
 
 Major gaps still include:
 
-- one more stronger guarding- or monitoring-heavy protection-services operator now that the non-drug medical-supply gap is at least partly closed by Accendra's transformed continuation case
-- a second protection-services operator beyond `Brink's` that leans more toward guarding, monitoring, or labor-heavy security execution than cash logistics and ATM services
+- one more stronger guarding-heavy protection-services operator now that the non-drug medical-supply gap is at least partly closed by Accendra's transformed continuation case and the monitoring-heavy gap is cleaner
+- a more labor-heavy protection-services operator beyond `Brink's` and `ADT` that leans more toward guarding than cash logistics, recurring monitoring, or security technology
 - a true medical-equipment or medical-supply distributor or operator that is more explicitly channel-oriented than the current healthcare service set
 
 Those additions should help answer:
@@ -361,7 +369,7 @@ Those additions should help answer:
 
 ## Working conclusion
 
-The current thirty-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current thirty-one-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

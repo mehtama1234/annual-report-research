@@ -24,6 +24,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 - asset access and operating support:
   - [ABM Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
   - [APi Group Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/api-group-corporation/company-packet.md)
+  - [BrightView Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/brightview-holdings-inc/company-packet.md)
   - [Cintas Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/business-services/cintas-corporation/company-packet.md)
   - [Rollins, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/personal-services/rollins-inc/company-packet.md)
   - [United Rentals, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/united-rentals-inc/company-packet.md)
@@ -34,13 +35,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a twenty-one-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a twenty-two-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current twenty-one completed names show twenty-one related but distinct middle-layer roles:
+The current twenty-two completed names show twenty-two related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -57,6 +58,7 @@ The current twenty-one completed names show twenty-one related but distinct midd
 - `Cencora` controls pharmaceutical channel access, provider-facing logistics, and specialty-services infrastructure.
 - `ABM` controls outsourced facilities operations, technical-services support, and recurring uptime inside airports, campuses, warehouses, and technical environments.
 - `APi` controls inspection, monitoring, and safety-oriented service relationships tied to facilities and critical infrastructure.
+- `BrightView` controls recurring commercial-site maintenance, seasonal labor deployment, and property-upkeep execution across campuses, municipalities, hospitals, hotels, and retail sites.
 - `Cintas` controls route-based workplace uniforms, hygiene, first aid, safety, and fire-protection service relationships.
 - `Rollins` controls recurring residential and commercial field-service routes where local execution, pricing, and maintenance behavior matter more than product ownership.
 - `United Rentals` converts equipment ownership into rented access, uptime support, and project flexibility.
@@ -98,6 +100,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Cencora`: keeping pharmacies, physician practices, health systems, and pharmaceutical channels supplied with medicines and specialty support services
 - `ABM`: keeping airports, campuses, warehouses, semiconductor environments, and datacenter-adjacent facilities clean, staffed, supported, and operational
 - `APi`: keeping facilities, compliance systems, and safety-critical environments inspected, monitored, and operational
+- `BrightView`: keeping commercial properties, campuses, municipalities, hospitals, hotels, and retail sites maintained, presentable, and seasonally serviced through recurring field execution
 - `Cintas`: keeping workplaces stocked, compliant, clean, and uniformly serviced through recurring route-based visits
 - `Rollins`: keeping homes and commercial properties serviced through recurring pest and termite routes, relationship channels, and local branch execution
 - `United Rentals`: keeping projects, industrial sites, and contractors operating without forcing them to own the entire fleet
@@ -126,6 +129,7 @@ The packets now point to the same conclusion from different directions:
 - `Cencora` benefits from pharmaceutical access, specialty logistics, and provider/manufacturer embeddedness.
 - `ABM` benefits from recurring site-level operating dependence and the willingness of customers to outsource continuity-sensitive work.
 - `APi` benefits from recurring inspections, monitoring relationships, and compliance-linked attachment.
+- `BrightView` benefits from recurring maintenance contracts, local route density, seasonal labor coordination, and the tendency of site owners to outsource visible but labor-heavy property upkeep.
 - `Cintas` benefits from route density, retention, and cross-sell across everyday workplace-service categories.
 - `Rollins` benefits from route density, recurring service behavior, acquisitions, and the tendency of property owners to outsource a routine but locally executed maintenance burden.
 - `United Rentals` benefits from fleet scale, specialty breadth, and its ability to absorb capital intensity for customers.
@@ -265,7 +269,7 @@ That makes the middle layer an early read on industrial and digital-capacity exp
 
 `United Rentals` is the cleanest version of this. Customers want flexibility and uptime without tying up balance sheets in owned equipment. The intermediary takes the capital burden and turns it into a recurring service model.
 
-`ABM`, `APi`, `Cintas`, and `Rollins` show a service analogue. Customers increasingly outsource specialized operating burdens like facilities uptime, inspections, monitoring, hygiene, uniforms, first aid, safety, fire protection, and routine property maintenance rather than staffing and optimizing them all in-house.
+`ABM`, `APi`, `BrightView`, `Cintas`, and `Rollins` show a service analogue. Customers increasingly outsource specialized operating burdens like facilities uptime, inspections, monitoring, landscape maintenance, hygiene, uniforms, first aid, safety, fire protection, and routine property maintenance rather than staffing and optimizing them all in-house.
 
 `Hyatt` and `Hilton` show a parallel version in services rather than hard equipment. Property owners want brand, distribution, loyalty reach, and operating expertise without necessarily becoming best-in-class global hospitality platforms themselves.
 
@@ -293,19 +297,19 @@ The frontier is not complete yet.
 Major gaps still include:
 
 - a medical-equipment or medical-supply distributor beyond drug channels
-- a dedicated protection-services or security-services operator beyond `ABM`, `APi`, `Cintas`, and `Rollins`
-- a technical-services or physical-service interface operator outside lodging if the goal is to test how far the service-layer logic extends beyond branded hotels
+- a dedicated protection-services or security-services operator beyond `ABM`, `APi`, `BrightView`, `Cintas`, and `Rollins`
+- a medical-equipment or medical-supply distributor or operator that is more explicitly channel-oriented than the current healthcare service set
 
 Those additions should help answer:
 
 - how much this frontier depends on branch density versus digital workflow
 - how repeatable the healthcare-distribution pattern is across multiple companies
-- how repeatable the current service-layer physical-interface pattern is outside the now stronger three-name lodging set
-- how route-based workplace-services, technical-facilities support, safety-monitoring, and recurring field-service models differ from rental and distribution models even when all five occupy a middle-layer role
+- how repeatable the current healthcare middle-layer pattern is outside drug distribution and provider-adjacent logistics
+- how route-based workplace-services, technical-facilities support, landscape maintenance, safety-monitoring, and recurring field-service models differ from rental and distribution models even when all six occupy a middle-layer role
 
 ## Working conclusion
 
-The current twenty-one-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current twenty-two-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

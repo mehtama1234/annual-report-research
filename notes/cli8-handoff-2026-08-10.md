@@ -19,23 +19,24 @@ Commit hash: `6c92966`
 10. `DNOW Inc.`: wholesale and distribution infrastructure; strongest energy-, utilities-, flow-control-, and instrumentation-heavy distribution packet in the set.
 11. `Sysco Corporation`: institutional supply and replenishment; strongest foodservice route-density and procurement-power packet in the set.
 12. `Henry Schein, Inc.`: institutional supply and replenishment; strongest literal medical-and-dental supply distribution and office-based healthcare procurement packet in the set.
-13. `Cardinal Health, Inc.`: institutional supply and replenishment; strongest larger-scale healthcare-throughput, drugs-wholesale, and provider-system replenishment packet in the set.
-14. `McKesson Corporation`: institutional supply and replenishment; strongest healthcare-distribution and provider-embeddedness packet in the set.
-15. `Cencora`: institutional supply and replenishment; strongest specialty-healthcare and manufacturer-to-provider channel-services packet in the set.
-16. `Option Care Health, Inc.`: institutional supply and replenishment; strongest alternate-site infusion and specialty-therapy routing packet in the set.
-17. `Stryker Corporation`: institutional supply and replenishment; strongest hospital-procedure, orthopaedics, robotics, and institutional capital-procurement extension in the set.
-18. `West Pharmaceutical Services, Inc.`: institutional supply and replenishment; strongest therapy-enabling healthcare physical-interface packet in the set.
-19. `United Rentals, Inc.`: asset access and operating support; strongest rental-versus-ownership and outsourced uptime-support packet in the set.
-20. `ABM Industries, Inc.`: asset access and operating support; strongest outsourced facilities and technical-uptime-support packet in the set.
-21. `APi Group Corporation`: asset access and operating support; strongest safety inspection monitoring and compliance-services packet in the set.
-22. `The Brink's Company`: asset access and operating support; strongest literal protection-services, cash-logistics, and ATM-managed-services packet in the set.
-23. `Cintas Corporation`: asset access and operating support; strongest route-based workplace-services and recurring operating-support packet in the set.
-24. `Rollins, Inc.`: asset access and operating support; strongest recurring field-services and residential-plus-commercial route-density packet in the set.
-25. `BrightView Holdings, Inc.`: asset access and operating support; strongest recurring site-maintenance and immigration-linked field-labor packet in the set.
-26. `Motorola Solutions, Inc.`: asset access and operating support; strongest institutional safety, mission-critical communications, and security-workflow technology extension in the set.
-27. `Hyatt Hotels Corporation`: service-layer physical interface; strongest proof that branded service infrastructure belongs inside the same middle-layer frontier.
-28. `Hilton Worldwide Holdings Inc.`: service-layer physical interface; strongest second global lodging and owner-network comparison packet in the set.
-29. `Marriott International, Inc.`: service-layer physical interface; strongest third global lodging and loyalty-concentration comparison packet in the set.
+13. `Accendra Health, Inc.`: institutional supply and replenishment; strongest transformed non-drug home-medical and direct-to-patient replenishment continuation case in the set.
+14. `Cardinal Health, Inc.`: institutional supply and replenishment; strongest larger-scale healthcare-throughput, drugs-wholesale, and provider-system replenishment packet in the set.
+15. `McKesson Corporation`: institutional supply and replenishment; strongest healthcare-distribution and provider-embeddedness packet in the set.
+16. `Cencora`: institutional supply and replenishment; strongest specialty-healthcare and manufacturer-to-provider channel-services packet in the set.
+17. `Option Care Health, Inc.`: institutional supply and replenishment; strongest alternate-site infusion and specialty-therapy routing packet in the set.
+18. `Stryker Corporation`: institutional supply and replenishment; strongest hospital-procedure, orthopaedics, robotics, and institutional capital-procurement extension in the set.
+19. `West Pharmaceutical Services, Inc.`: institutional supply and replenishment; strongest therapy-enabling healthcare physical-interface packet in the set.
+20. `United Rentals, Inc.`: asset access and operating support; strongest rental-versus-ownership and outsourced uptime-support packet in the set.
+21. `ABM Industries, Inc.`: asset access and operating support; strongest outsourced facilities and technical-uptime-support packet in the set.
+22. `APi Group Corporation`: asset access and operating support; strongest safety inspection monitoring and compliance-services packet in the set.
+23. `The Brink's Company`: asset access and operating support; strongest literal protection-services, cash-logistics, and ATM-managed-services packet in the set.
+24. `Cintas Corporation`: asset access and operating support; strongest route-based workplace-services and recurring operating-support packet in the set.
+25. `Rollins, Inc.`: asset access and operating support; strongest recurring field-services and residential-plus-commercial route-density packet in the set.
+26. `BrightView Holdings, Inc.`: asset access and operating support; strongest recurring site-maintenance and immigration-linked field-labor packet in the set.
+27. `Motorola Solutions, Inc.`: asset access and operating support; strongest institutional safety, mission-critical communications, and security-workflow technology extension in the set.
+28. `Hyatt Hotels Corporation`: service-layer physical interface; strongest proof that branded service infrastructure belongs inside the same middle-layer frontier.
+29. `Hilton Worldwide Holdings Inc.`: service-layer physical interface; strongest second global lodging and owner-network comparison packet in the set.
+30. `Marriott International, Inc.`: service-layer physical interface; strongest third global lodging and loyalty-concentration comparison packet in the set.
 
 ## Partial companies
 
@@ -44,7 +45,7 @@ Commit hash: `6c92966`
 ## Strongest themes
 
 1. Procurement power and channel ownership matter more than ownership of the underlying goods.
-2. Institutional replenishment is one of the clearest recurring-demand engines in the archive, now spanning food, office-based care procurement, drugs wholesale, larger provider-system throughput, hospital-procedure procurement, alternate-site specialty therapy delivery, and therapy-enabling product layers.
+2. Institutional replenishment is one of the clearest recurring-demand engines in the archive, now spanning food, office-based care procurement, home-based medical-supply replenishment, drugs wholesale, larger provider-system throughput, hospital-procedure procurement, alternate-site specialty therapy delivery, and therapy-enabling product layers.
 3. Working-capital discipline, route density, backlog conversion, and fleet utilization are core economic drivers rather than secondary metrics.
 4. Service attachment keeps widening the moat: specialty support, project logistics, inspection and monitoring, uniforms and safety routes, ATM managed services, digital retail solutions, security workflow, owner relationships, digital procurement, climate-control workflow, and maintenance coordination all deepen embeddedness.
 5. Cultural and societal shifts still pass through this layer: cautious consumers, project outsourcing, specialty-care growth, workplace-compliance outsourcing, institutional hardening, public-safety digitization, the persistence of physical cash infrastructure, premium travel demand, climate-control dependence, immigration-linked field-labor tightness, energy-and-process infrastructure strain, and digital-infrastructure build-out all reshape middle-layer operators.
@@ -58,14 +59,14 @@ Commit hash: `6c92966`
 
 ## Best next targets
 
-1. One more explicitly medical-equipment or medical-supply distributor to widen healthcare replenishment beyond office-based care procurement, drugs wholesale, hospital-capital procurement, alternate-site service delivery, and therapy-enabling components.
-2. One more guarding-heavy or monitoring-heavy protection-services operator to complement `Brink's` cash-logistics and ATM-services model with a more labor-forward security execution read.
-3. One true healthcare distribution-channel operator if broader proof is needed beyond office-based care procurement, drug distribution, hospital-procedure procurement, specialty-treatment routing, and therapy-enabling components.
-4. One non-drug medical-supply extension now remains slightly more urgent than another wholesale-infrastructure or fourth-lodging packet because contractor, HVAC, waterworks, procurement, process-heavy distribution, branded lodging, outsourced field-maintenance support, specialty-therapy routing, office-based care procurement, drugs wholesale, hospital-capital procurement, therapy-enabling product layers, institutional security technology, and literal protection-services are already broadly covered.
+1. One more guarding-heavy or monitoring-heavy protection-services operator to complement `Brink's` cash-logistics and ATM-services model with a more labor-forward security execution read.
+2. One cleaner pure medical-equipment or medical-supply distributor to complement `Accendra Health` with a less transformed winner if broader proof is needed.
+3. One true healthcare distribution-channel operator if broader proof is still needed beyond office-based care procurement, home-based medical replenishment, drug distribution, hospital-procedure procurement, specialty-treatment routing, and therapy-enabling components.
+4. Protection-services now looks slightly more urgent than another wholesale-infrastructure or fourth-lodging packet because contractor, HVAC, waterworks, procurement, process-heavy distribution, branded lodging, outsourced field-maintenance support, specialty-therapy routing, office-based care procurement, home-based medical replenishment, drugs wholesale, hospital-capital procurement, therapy-enabling product layers, institutional security technology, and literal protection-services are already broadly covered.
 
 ## Deliverables now present
 
-1. Raw source archive for all twenty-nine completed packets.
+1. Raw source archive for all thirty completed packets.
 2. Extracted company packets and thematic interpretation for each completed company.
 3. One frontier synthesis note:
    [distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md)

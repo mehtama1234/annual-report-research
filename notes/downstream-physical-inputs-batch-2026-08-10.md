@@ -128,10 +128,11 @@ This batch should explicitly surface:
 - Sterling now adds the mission-critical site-development and electrical-infrastructure layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on e-infrastructure concentration, data-center and semiconductor site demand, backlog-plus-future-phase visibility, transportation-to-e-infrastructure mix reallocation, and housing-affordability pressure inside Building Solutions
 - Valmont now adds the physical-network-components and agricultural-productivity barbell with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on utility and coatings strength, telecom carrier-spending weakness, farm-cycle softness, tariff-sensitive steel-pole economics, and the way data-center load growth monetizes through grid-support hardware
 - AECOM now adds the asset-light design, advisory, and program-management layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on public-funding durability, advisory and AI leverage, backlog quality over raw revenue growth, international execution friction, and the planning-and-orchestration layer behind physical infrastructure expansion
+- CRH now adds the scaled aggregates, roads, water, and infrastructure-products platform layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` IR-and-SEC-anchored evidence stack and a strong read on pricing-led margin expansion, acquisition-led portfolio densification, utility and data-infrastructure demand, residential softness, and balance-sheet leverage tied to larger strategic deals such as Arcosa
 
 Current batch split:
 
-- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`
+- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`, `Granite Construction Incorporated`, `Sterling Infrastructure, Inc.`, `Valmont Industries, Inc.`, `AECOM`, `CRH plc`
 - partial: `CECO Environmental Corp.`
 
 ## CECO gap note
@@ -145,5 +146,5 @@ Current batch split:
 ## Next recommended names after this batch
 
 - `EMCOR Group, Inc.` if the archive next needs a stronger mechanical, electrical, and recurring-services comparison against Sterling's more site-and-mission-critical mix
-- `Summit Materials, Inc.` if the archive next needs a merger-complicated aggregates comparison and is willing to accept a less clean post-acquisition reporting chain
 - `Quanta Services, Inc.` if the archive next needs a larger-scale transmission, utility, and mission-critical-contractor comparison against AECOM’s advisory-heavy model and Valmont’s component-heavy model
+- `CEMEX, S.A.B. de C.V.` if the archive next needs another global cement-and-urbanization comparison with a still-public `2025` annual and in-scope `2026` quarter chain

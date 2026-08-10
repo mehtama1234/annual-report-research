@@ -36,6 +36,7 @@ This set is intended to cover:
 - Drugs - Generic
 - Medical Laboratories & Research
 - Specialized Health Services
+- Medical Distribution
 
 ## Collection window
 

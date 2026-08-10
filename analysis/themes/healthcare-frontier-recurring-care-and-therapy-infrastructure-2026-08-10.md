@@ -22,6 +22,7 @@ This memo pulls together the current healthcare-frontier flagship packets that m
 - [Addus HomeCare Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/addus-homecare-corporation/company-packet.md)
 - [Enhabit, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/enhabit-inc/company-packet.md)
 - [BrightSpring Health Services, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/brightspring-health-services-inc/company-packet.md)
+- [AdaptHealth Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-distribution/adapthealth-corp/company-packet.md)
 
 ## What this batch adds
 
@@ -59,6 +60,7 @@ The healthcare archive already had evidence on payers and hospitals, but this ba
 `Addus` is the clearest lower-acuity home-based recurring-services operator.
 `Enhabit` is the clearest clinical home-health and hospice operator in the current set.
 `BrightSpring` is the clearest integrated pharmacy-plus-provider home-and-community platform in the current set.
+`AdaptHealth` is the clearest home medical equipment and resupply operator in the current set.
 `Labcorp`, `Quest`, `Natera`, and `Exact` support the testing and workflow side of it.
 `DexCom` and `Insulet` move recurring monitoring and dosing into the home.
 `West` supports the physical delivery side of it.
@@ -87,6 +89,7 @@ That favors companies that sit inside the routine:
 - `Addus` through recurring personal care, hospice, and selective home-health support in the preferred home setting
 - `Enhabit` through clinically managed home health and hospice in the preferred home setting
 - `BrightSpring` through integrated pharmacy, home health, hospice, rehab, supportive care, and home-based primary-care coordination
+- `AdaptHealth` through home medical equipment, respiratory and sleep therapy support, and reorder-driven resupply in the home
 - `Labcorp` and `Quest` through repeated testing and monitoring
 - `Natera` through repeated molecular screening and recurrence surveillance
 - `DexCom` and `Insulet` through device-linked chronic disease routines
@@ -179,6 +182,7 @@ DaVita is about maintaining a high-frequency chronic-care utility while trying t
 Addus closes the remaining home-health gap from another angle: it monetizes lower-acuity but longer-duration support through personal care, hospice, and a smaller home-health layer, where the key variables are caregiver labor, state rate support, payor concentration, and local density rather than therapy mix or treatment frequency.
 Enhabit now closes the more clinical side of the same lane. It shows what happens when the home-based care thesis depends more directly on Medicare episodes, clinician productivity, hospice census, reimbursement pressure, and branch-level execution than on caregiver-hour density alone.
 BrightSpring broadens the comparison again by showing that the recurring-care infrastructure layer can hold both provider delivery and medication management around the same high-need patients. That turns home-based care from a site-of-service story into a more complete coordination and service-chain capture story.
+AdaptHealth adds the equipment and consumables layer that sits underneath many of those same care models. It shows that keeping patients at home also depends on devices, oxygen, sleep systems, diabetes supplies, and recurring resupply logistics, not only on clinicians and medications.
 
 ### 8. Pipeline risk and franchise concentration still dominate the value story
 
@@ -265,6 +269,7 @@ Those pressures express differently by company:
 - `Addus`: caregiver hiring, wage pass-through, Illinois and other state reimbursement exposure, acquisition integration, and personal-care density
 - `Enhabit`: Medicare reimbursement pressure, non-Medicare mix shift, clinician hiring, visit productivity, hospice census, debt service, and de novo execution
 - `BrightSpring`: drug-price and reimbursement exposure, script economics, home-health census, integration of service lines, leverage discipline, and the difficulty of scaling a broad home-and-community platform without losing focus
+- `AdaptHealth`: reimbursement documentation, resupply cadence, delivery productivity, inventory and working-capital discipline, audit exposure, and the risk that accounting noise obscures underlying recurring demand
 - `DexCom` and `Insulet`: channel expansion, reimbursement, wear-time adherence, and installed-base monetization
 - `Medpace`: sponsor funding quality, award timing, and backlog conversion
 
@@ -305,6 +310,7 @@ Those pressures express differently by company:
 - `Addus` is the best current packet for aging-in-place economics, home-based personal care density, and the labor-plus-reimbursement operating model behind recurring care in the home.
 - `Enhabit` is the best current packet for clinical home-health and hospice economics, including the tension between home-care demand growth and reimbursement-sensitive unit revenue.
 - `BrightSpring` is the best current packet for integrated pharmacy-plus-provider recurring care, and for understanding how more of the service chain can be captured around complex patients in the home and community.
+- `AdaptHealth` is the best current packet for home medical equipment, resupply, and the logistics-heavy physical layer that keeps chronic treatment going outside institutions.
 
 ## Gaps
 

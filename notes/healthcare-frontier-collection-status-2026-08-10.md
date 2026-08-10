@@ -18,6 +18,7 @@ The current healthcare-frontier flagship set is:
 - `Quest Diagnostics Incorporated`
 - `Natera, Inc.`
 - `Alnylam Pharmaceuticals, Inc.`
+- `Ionis Pharmaceuticals, Inc.`
 - `DaVita Inc.`
 - `Addus HomeCare Corporation`
 - `Guardant Health Inc.`
@@ -418,6 +419,36 @@ Current raw status:
 
 - materially source-complete for packet drafting
 
+### Ionis Pharmaceuticals, Inc.
+
+Lane role:
+
+- biotechnology
+- antisense-platform commercialization
+- franchise and IP monetization after approval
+
+Raw evidence currently saved:
+
+- AnnualReports company page HTML
+- AnnualReports verification note
+- official IR source-links note
+- official annual-reports page HTML
+- official `2025` annual-report PDF
+- official `Q4 2025` results page HTML
+- official `Q1 2026` results page HTML
+- official `Q2 2026` results page HTML
+- SEC submissions JSON
+- `2025` `10-K`
+- `Q4 2025` `8-K`
+- `Q1 2026` `10-Q`
+- `Q1 2026` `8-K`
+- `Q2 2026` `10-Q`
+- `Q2 2026` `8-K`
+
+Current raw status:
+
+- materially source-complete for packet drafting
+
 ## Drafting status
 
 Completed packets in this batch now include:
@@ -433,6 +464,7 @@ Completed packets in this batch now include:
 - `Quest Diagnostics Incorporated`
 - `Natera, Inc.`
 - `Alnylam Pharmaceuticals, Inc.`
+- `Ionis Pharmaceuticals, Inc.`
 - `DaVita Inc.`
 
 ## Interpretation targets for the packet-writing pass

@@ -445,7 +445,7 @@ That makes the middle layer an early read on industrial and digital-capacity exp
 
 `United Rentals` is the clearest flagship version of this, and `Herc` now confirms it from a second scaled operator. Customers want flexibility and uptime without tying up balance sheets in owned equipment. The intermediary takes the capital burden and turns it into a recurring service model.
 
-`ABM`, `ADT`, `APi`, `BrightView`, `Cintas`, and `Rollins` show a service analogue. Customers increasingly outsource specialized operating burdens like monitored security, facilities uptime, inspections, monitoring, landscape maintenance, hygiene, uniforms, first aid, safety, fire protection, and routine property maintenance rather than staffing and optimizing them all in-house.
+`ABM`, `ADT`, `APi`, `BrightView`, `Cintas`, `Rollins`, `GEO`, and now `CoreCivic` show a service analogue. Customers increasingly outsource specialized operating burdens like monitored security, facilities uptime, inspections, monitoring, landscape maintenance, hygiene, uniforms, first aid, safety, fire protection, routine property maintenance, secure capacity, reentry support, and facility readiness rather than staffing and optimizing them all in-house.
 
 `Hyatt` and `Hilton` show a parallel version in services rather than hard equipment. Property owners want brand, distribution, loyalty reach, and operating expertise without necessarily becoming best-in-class global hospitality platforms themselves.
 
@@ -472,20 +472,20 @@ The frontier is not complete yet.
 
 Major gaps still include:
 
-- one more stronger guarding-heavy protection-services operator now that the home-based medical continuation gap is cleaner after `AdaptHealth` and the non-drug medical-supply continuation gap is at least partly closed by `Accendra`
-- a more labor-heavy protection-services operator beyond `Brink's` and `ADT` that leans more toward guarding than cash logistics, recurring monitoring, or security technology
 - a stronger pure medical-equipment or medical-supply distributor or operator that complements office-based procurement, hospital-use products, home-based replenishment, and drug distribution without leaning back into pure manufacturing
+- another explicitly channel-oriented healthcare intermediary if the goal is to widen healthcare depth without just adding more medtech
+- a more non-lodging service-interface case if the goal is to prove that the hospitality logic extends beyond branded room distribution and owner-network economics
 
 Those additions should help answer:
 
 - how much this frontier depends on branch density versus digital workflow
 - how repeatable the healthcare-distribution pattern is across multiple companies now that the archive includes office-based procurement, hospital-use products, healthcare-at-home continuation, provider-facing specialty products sold through direct and wholesale channels, and drug distribution
-- how repeatable the current healthcare middle-layer pattern is outside drug distribution, specialty routing, provider-adjacent logistics, therapy-enabling component supply, and home-based continuation
-- how route-based workplace-services, technical-facilities support, landscape maintenance, safety-monitoring, and recurring field-service models differ from rental and distribution models even when all six occupy a middle-layer role
+- how repeatable the current healthcare middle-layer pattern is outside drug distribution, specialty routing, provider-adjacent logistics, therapy-enabling component supply, delegated-risk care enablement, and home-based continuation
+- how route-based workplace-services, technical-facilities support, landscape maintenance, safety-monitoring, secure-capacity outsourcing, and recurring field-service models differ from rental and distribution models even when all occupy a middle-layer role
 
 ## Working conclusion
 
-The current thirty-three-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current thirty-four-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

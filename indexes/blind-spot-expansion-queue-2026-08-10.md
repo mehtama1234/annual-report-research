@@ -10,6 +10,9 @@ Related memo:
 
 - [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
 - [Blind-Spot Thread Charter](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-thread-charter-2026-08-10.md)
+- [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
+- [Thick vs. Thin Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
+- [Mid-Thickness Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/mid-thickness-relationship-systems-2026-08-10.md)
 
 ## Purpose
 
@@ -228,6 +231,10 @@ Likely anchor names already in the repo:
 Deliverable:
 
 - cross-sector memo on how wallet behavior, stored value, rewards, status, and partner economics recur across sectors
+
+Current status:
+
+- first repo-level cross-sector memo is now in place at [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
 
 Next-step implication:
 

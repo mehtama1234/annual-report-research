@@ -133,8 +133,8 @@ To avoid overlap with the ordinary sector threads, this queue should treat the n
 
 1. cross-sector infrastructure comparison using existing `Graphic Packaging`, `Waste Management`, `Clearwater Paper`, and `CECO Environmental` coverage
    - default to reuse of the current five direct behind-the-shelf comparison outputs before taking another name in this lane
-2. maintain and extend the control-layer and connectivity lane across `Cloudflare`, `Akamai`, `Cisco`, `Palo Alto Networks`, `Ciena`, `CommScope`, and `Corning` only when another name adds a genuinely different edge-control, delivery-transition, enterprise-trust, optical-transport, downstream connectivity-equipment, or optical-input structure
-3. maintain and extend the hidden-connectivity and access-layer lane across `American Tower`, `Crown Castle`, `SBA Communications`, `Cogent`, `Iridium`, and `Viasat` only when another name adds a genuinely different tower-rent, stricter private-fiber ownership, satellite-resilience, bandwidth-heavy orbital, or private-infrastructure structure
+2. maintain and extend the control-layer and connectivity lane across `Cloudflare`, `Akamai`, `Cisco`, `Arista Networks`, `Palo Alto Networks`, `Ciena`, `CommScope`, and `Corning` only when another name adds a genuinely different edge-control, delivery-transition, installed-base enterprise-networking, architecture-specialist AI networking, enterprise-trust, optical-transport, downstream connectivity-equipment, or optical-input structure
+3. maintain and extend the hidden-connectivity and access-layer lane across `American Tower`, `Crown Castle`, `SBA Communications`, `Cogent`, `Lumen Technologies`, `Iridium`, and `Viasat` only when another name adds a genuinely different tower-rent, stricter private-fiber ownership, terrestrial backbone-ownership, satellite-resilience, bandwidth-heavy orbital, or private-infrastructure structure
 4. maintain and extend the physical-execution and embedded-workflow lane across `United Rentals`, `Fastenal`, `Ferguson`, `WESCO`, `Applied Industrial Technologies`, and `Core & Main` only when another name adds a genuinely different access-over-ownership, embedded procurement, branch-density service, engineering-heavy MRO, or civic-failure-response structure
 5. outer-lane work such as marketplace, travel-interface, delivery-layer, recurring attention, owned-demand, retail-system, beauty, ritual, value-hunt, fandom, routine-use, comfort, and modern built-environment synthesis only when the subtype gain is clearly stronger than the current infrastructure-lane opportunities
 
@@ -221,14 +221,17 @@ Current status:
 Core anchor names already in the repo:
 
 - `Cloudflare`
+- `Akamai`
 - `Cisco`
+- `Arista Networks`
 - `Palo Alto Networks`
 - `Ciena`
+- `CommScope`
 - `Corning`
 
 Next-step implication:
 
-- prefer additions only when they sharpen edge control, enterprise trust, optical transport, or optical-input supply rather than another generic networking or software packet
+- prefer additions only when they sharpen edge control, delivery-transition, installed-base enterprise networking, architecture-specialist AI networking, enterprise trust, optical transport, downstream connectivity-equipment exposure, or optical-input supply rather than another generic networking or software packet
 
 ### 3. Maintain and extend the consumer-behavior and cultural-pattern map
 

@@ -1,0 +1,41 @@
+# Source Ledger
+
+Date baseline: 2026-08-10
+
+## Sources
+
+| ID | Source | Date | Type | Why it matters | Tag | Local path |
+|---|---|---|---|---|---|---|
+| OKE-T1 | AnnualReports company page capture | 2026-08-10 capture | Aggregator page capture | Confirms `Energy / Oil & Gas Midstream` taxonomy and preserves the current AnnualReports page, which still showed `2024` as the most recent archive row locally | `[Reported]` | [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/annualreports/energy/oil-gas-pipelines/oneok-inc/company-page-annualreports.html) |
+| OKE-T2 | Overview page | 2026-08-10 capture | Official IR page | Confirms the current ONEOK investor-relations hub | `[Disclosed]` | [overview.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/overview.html) |
+| OKE-T3 | Annual-reports page | 2026-08-10 capture | Official IR page | Confirms the official `2025` annual-report route dated `2026-04-01` | `[Disclosed]` | [annual-reports.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/annual-reports.html) |
+| OKE-T4 | Annual-report external route capture | 2026-08-10 capture | Official annual-report route capture | Preserves the external Issuu annual-report route linked by the IR site; local capture was only a stub, so the filed `10-K` remains the authoritative annual-content source | `[Disclosed]` | [2025-annual-report-issuu.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/2025-annual-report-issuu.html) |
+| OKE-T5 | Financial reports page | 2026-08-10 capture | Official IR page | Confirms the exact `Q4 2025`, `Q1 2026`, and `Q2 2026` results chain and linked PDFs | `[Disclosed]` | [financial-reports-2026.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/financial-reports-2026.html) |
+| OKE-T6 | Form `10-K` | 2026-02-24 | SEC filing HTML | Filed annual report for the fiscal year ended `2025-12-31` | `[Filed]` | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/energy/oil-gas-pipelines/oneok-inc/2025-10k.html) |
+| OKE-T7 | `Q4 2025` results page | 2026-02-23 | Official IR results page | Official annual-close and `2026` guidance framing | `[Disclosed]` | [2025-q4-results-page.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/2025-q4-results-page.html) |
+| OKE-T8 | `Q4 2025` earnings tables PDF | 2026-02-23 | Official IR quarter PDF | Preserves annual-close financial tables | `[Disclosed]` | [2025-q4-earnings-release-tables.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/2025-q4-earnings-release-tables.pdf) |
+| OKE-T9 | `Q4 2025` earnings presentation PDF | 2026-02-23 | Official IR quarter PDF | Preserves annual-close segment, project, and integration framing | `[Disclosed]` | [2025-q4-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/2025-q4-earnings-presentation.pdf) |
+| OKE-T10 | `Q4 2025` Form `8-K` | 2026-02-23 | SEC filing HTML | Filing wrapper for fourth-quarter and full-year `2025` results | `[Filed]` | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/energy/oil-gas-pipelines/oneok-inc/2025-q4-8k.html) |
+| OKE-T11 | `Q1 2026` results page | 2026-04-28 | Official IR results page | Official first-quarter `2026` results and raised guidance | `[Disclosed]` | [2026-q1-results-page.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/2026-q1-results-page.html) |
+| OKE-T12 | `Q1 2026` earnings tables PDF | 2026-04-28 | Official IR quarter PDF | Preserves first-quarter financial tables | `[Disclosed]` | [2026-q1-earnings-release-tables.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/2026-q1-earnings-release-tables.pdf) |
+| OKE-T13 | `Q1 2026` earnings presentation PDF | 2026-04-28 | Official IR quarter PDF | Preserves first-quarter project and segment framing | `[Disclosed]` | [2026-q1-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/2026-q1-earnings-presentation.pdf) |
+| OKE-T14 | `Q1 2026` Form `10-Q` | 2026-04-29 | SEC filing HTML | Filed quarterly report for the quarter ended `2026-03-31` | `[Filed]` | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/energy/oil-gas-pipelines/oneok-inc/2026-q1-10q.html) |
+| OKE-T15 | `Q1 2026` Form `8-K` | 2026-04-28 | SEC filing HTML | Filing wrapper for first-quarter `2026` results | `[Filed]` | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/energy/oil-gas-pipelines/oneok-inc/2026-q1-8k.html) |
+| OKE-T16 | `Q2 2026` results page | 2026-08-03 | Official IR results page | Official latest-quarter results and second `2026` guidance increase | `[Disclosed]` | [2026-q2-results-page.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/2026-q2-results-page.html) |
+| OKE-T17 | `Q2 2026` earnings tables PDF | 2026-08-03 | Official IR quarter PDF | Preserves second-quarter financial tables | `[Disclosed]` | [2026-q2-earnings-release-tables.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/2026-q2-earnings-release-tables.pdf) |
+| OKE-T18 | `Q2 2026` earnings presentation PDF | 2026-08-03 | Official IR quarter PDF | Preserves second-quarter project, throughput, and guidance framing | `[Disclosed]` | [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/energy/oil-gas-pipelines/oneok-inc/2026-q2-earnings-presentation.pdf) |
+| OKE-T19 | `Q2 2026` Form `10-Q` | 2026-08-04 | SEC filing HTML | Filed quarterly report for the quarter ended `2026-06-30` | `[Filed]` | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/energy/oil-gas-pipelines/oneok-inc/2026-q2-10q.html) |
+| OKE-T20 | `Q2 2026` Form `8-K` | 2026-08-03 | SEC filing HTML | Filing wrapper for second-quarter `2026` results | `[Filed]` | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/energy/oil-gas-pipelines/oneok-inc/2026-q2-8k.html) |
+| OKE-T21 | SEC submissions index | 2026-08-10 capture | SEC JSON index | Preserves filing chronology for the annual and quarter chain | `[Filed]` | [submissions-cik0001039684.json](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/energy/oil-gas-pipelines/oneok-inc/submissions-cik0001039684.json) |
+
+## Reconciliation notes
+
+- ONEOK has a complete annual-and-quarter chain for the required scope, but the annual layer is split across three sources:
+  - AnnualReports confirms taxonomy but lagged at `2024` in the saved page
+  - the official annual-reports page confirms a `2025` annual-report route dated `2026-04-01`
+  - the filed SEC `10-K` is the authoritative annual-content source
+- The official annual-reports page linked the `2025` annual report to an external Issuu route. The local capture of that external route was only a stub, so the packet should rely on the annual-reports page for confirmation and the `10-K` for content.
+- The trailing three-quarter window is fully covered through official IR results pages and PDFs plus the SEC filing chain:
+  - `Q2 2026`: results page, earnings tables PDF, earnings presentation PDF, `10-Q`, and `8-K`
+  - `Q1 2026`: results page, earnings tables PDF, earnings presentation PDF, `10-Q`, and `8-K`
+  - `Q4 2025`: results page, earnings tables PDF, earnings presentation PDF, `10-K`, and `8-K`

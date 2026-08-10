@@ -52,7 +52,7 @@ It should ask:
 
 ## What this thread owns
 
-### 1. Hidden infrastructure behind visible demand
+### 1. Behind-the-shelf infrastructure behind visible demand
 
 This includes the physical layers that make consumer demand possible without appearing as the consumer-facing product:
 
@@ -68,36 +68,76 @@ Best current examples:
 
 - `Graphic Packaging`
 - `Sonoco`
+- `AptarGroup`
+- `Silgan`
 - `Clearwater Paper`
+- `International Paper`
+- `Packaging Corporation of America`
 - `Waste Management`
+- `Republic Services`
+- `Casella Waste Systems`
 - `Clean Harbors`
 - `CECO Environmental`
 - `Veralto`
+- `Ecolab`
 
-### 2. Control, access, and workflow choke points
+### 2. Control-layer and connectivity infrastructure
 
-This includes companies whose real importance comes from controlling access, network flow, installed workflow, or operational dependency rather than from a plain sector label:
+This includes companies whose real importance comes from controlling traffic, trust, transport, optical intelligence, installed network behavior, or connectivity inputs rather than from a plain software, hardware, or telecom label:
 
 - edge trust and traffic control
-- optical transport and upstream connectivity inputs
-- tower and route-density access ownership
-- resilient off-grid and sovereign-access orbital connectivity ownership
-- access-over-ownership rental systems
-- embedded procurement and replenishment
-- branch-density workflow control
+- delivery-to-security transition
+- installed-base network control
+- architecture-specialist AI networking
+- enterprise-trust governance
+- optical transport intelligence
+- inside-building and outside-plant distribution
+- optical-input and fiber-material supply
 
 Best current examples:
 
 - `Cloudflare`
+- `Akamai`
 - `Cisco`
+- `Arista Networks`
 - `Palo Alto Networks`
 - `Ciena`
+- `CommScope`
 - `Corning`
+
+### 3. Hidden connectivity and access-layer ownership
+
+This includes companies whose real importance comes from owning scarce physical, terrestrial, or orbital connectivity access points rather than from a generic REIT, telecom, or equipment label:
+
+- tower-rent access ownership
+- route-density fiber control
+- broader terrestrial backbone ownership
+- resilient off-grid and assured-coverage orbital access
+- heavier-bandwidth sovereign and mobility connectivity ownership
+
+Best current examples:
+
 - `American Tower`
 - `Crown Castle`
 - `SBA Communications`
+- `Cogent`
+- `Lumen Technologies`
 - `Iridium`
 - `Viasat`
+
+### 4. Physical execution and embedded workflow systems
+
+This includes companies whose real importance comes from controlling field execution, access-over-ownership, procurement embedment, branch-density support, or civic-failure-response workflows rather than from a plain rental or distribution label:
+
+- access-over-ownership rental systems
+- embedded procurement and replenishment
+- branch-density workflow control
+- project-channel coordination
+- engineering-heavy uptime support
+- civic-failure-response distribution
+
+Best current examples:
+
 - `United Rentals`
 - `Fastenal`
 - `Ferguson`
@@ -105,7 +145,7 @@ Best current examples:
 - `Applied Industrial Technologies`
 - `Core & Main`
 
-### 3. Conditional blind-spot lanes beyond the core four
+### 5. Conditional blind-spot lanes beyond the core four
 
 These lanes remain valid for this thread, but they should usually be taken only when the subtype gain is real rather than as default first-claim work.
 
@@ -228,8 +268,9 @@ This thread is not the backup owner of uncovered `AnnualReports` sectors.
 
 It is the owner of the things the browse tree does not classify well:
 
-- hidden infrastructure
-- control and access layers
+- behind-the-shelf infrastructure
+- control-layer and connectivity infrastructure
+- hidden connectivity and access-layer ownership
 - physical execution and embedded workflow systems
 
 It also conditionally owns:

@@ -44,6 +44,8 @@ Primary evidence files:
 - `indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md`
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.md`
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv`
+- `indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md`
+- `indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.csv`
 - `indexes/blind-spot-thread-charter-2026-08-10.md`
 - `indexes/blind-spot-coverage-map-2026-08-10.md`
 - `indexes/blind-spot-systems-index-2026-08-10.md`
@@ -57,10 +59,12 @@ What is now true:
 - ordinary software and ordinary media backfill are explicitly excluded unless the stronger explanation is ecosystem, attention-system, participation, or interface control
 - the platform boundary and the narrower recurring-attention boundary are explicitly separated
 - the same lane boundary is now visible in both markdown and CSV controls
+- the same overlap-control logic is now visible in both markdown and CSV controls
 - the newer infrastructure-style lanes are now explicitly represented in both markdown and CSV controls:
   - control-layer and connectivity infrastructure
   - hidden connectivity and access-layer ownership
   - physical execution and embedded workflow systems
+- the assignment-layer files now point at the live infrastructure anchor sets rather than older shorter pre-extension lists
 - weak or thin browse-tree page quality is no longer treated as a claim reason by the main governance files
 - the main control layer now consistently narrows default first-claim work to the four core infrastructure lanes and treats broader consumer, platform, relationship, and built-environment lanes as conditional
 - the remaining inconsistencies are now closer to wording polish in secondary files than to assignment-changing contradictions
@@ -90,14 +94,16 @@ What is now true:
   - `control-layer`
   - `hidden connectivity`
   - `physical execution`
-- the infrastructure-side blind-spot lane now has seven explicit direct comparison outputs:
+- the infrastructure-side blind-spot lane now has nine explicit direct comparison outputs:
   - `Cloudflare` / `Cisco` / `Palo Alto Networks`
   - `Cloudflare` / `Akamai` / `Palo Alto Networks`
   - `Cisco` / `Arista Networks` / `Palo Alto Networks`
   - `Corning` / `CommScope` / `Ciena`
-  - `American Tower` / `Crown Castle` / `SBA Communications` / `Cogent` / `Iridium` / `Viasat`
+  - `American Tower` / `Crown Castle` / `SBA Communications`
   - `American Tower` / `Cogent` / `Viasat`
+  - `Cogent` / `Lumen Technologies`
   - `United Rentals` / `Fastenal` / `Ferguson`
+  - `WESCO` / `Applied Industrial Technologies` / `Core & Main`
 - the behind-the-shelf lane now also has three explicit direct comparison outputs:
   - `Graphic Packaging` / `Clearwater Paper` / `Waste Management` / `CECO`
   - `Waste Management` / `Clean Harbors`
@@ -137,6 +143,8 @@ The same lane now also has an explicit enterprise-side memo for the split betwee
 
 The same lane now also has an explicit optical-side memo for the split between upstream optical input, downstream connectivity equipment, and active transport through `Corning` / `CommScope` / `Ciena`.
 
+The physical-execution lane now also has an explicit second workflow memo for the split between broad infrastructure-channel coordination, engineering-heavy uptime support, and civic-failure-response distribution through `WESCO` / `Applied Industrial Technologies` / `Core & Main`.
+
 The main consumer-behavior lanes also now roll up into one reusable behavior-core memo rather than requiring a worker to reconstruct the pattern set comparison by comparison.
 
 Other lanes are still less mature by comparison and may still benefit from sharper extension or synthesis:
@@ -144,7 +152,7 @@ Other lanes are still less mature by comparison and may still benefit from sharp
 - loyalty, wallet, and membership systems
 - behind-the-shelf infrastructure synthesis reuse more than immediate subtype extension
 - additional modern built-environment subtype comparison
-- stricter private-fiber or dark-fiber counterpoint work beyond the current tower-versus-route split
+- stricter private-fiber or dark-fiber counterpoint work beyond the current tower-versus-terrestrial-route split
 - additional workflow counterpoint work beyond the now-live `United Rentals` / `Fastenal` / `Ferguson` core and the live `WESCO` / `Applied Industrial Technologies` / `Core & Main` extension set
 - selected behavior-system extension where another name materially sharpens the split
 
@@ -210,7 +218,7 @@ Start with:
 
 Then decide whether the next action is:
 
-- a governance-side adjustment, which should now be rare
+- a governance-side adjustment only if a real contradiction appears
 - a reuse-side clarification, which should also now be rare
 - or real research expansion, which is the normal next phase
 

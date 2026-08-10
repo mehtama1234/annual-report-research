@@ -31,9 +31,9 @@ If you are the next thread working the blind-spot lane, do this in order:
    - `indexes/hidden-connectivity-extension-shortlist-2026-08-10.md`
    - `indexes/physical-execution-extension-shortlist-2026-08-10.md`
 10. decide whether your next move is:
-   - governance cleanup
-   - reuse clarification
    - actual research extension
+   - reuse clarification
+   - governance cleanup only if a real contradiction appears
 
 ## First decision rule
 
@@ -75,6 +75,8 @@ If the question is about broader ecosystem type, use the platform materials firs
 The governance layer is aligned.
 
 The research layer is still open.
+
+The default next move is now research extension, not more lane-definition cleanup, unless a genuine contradiction appears in the control files.
 
 The default routing layer is now two-part:
 

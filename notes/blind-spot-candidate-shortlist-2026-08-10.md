@@ -96,6 +96,7 @@ Best names already present in the repo:
 - `SBA Communications`
 - `Crown Castle`
 - `Cogent`
+- `Lumen Technologies`
 - `Iridium`
 - `Viasat`
 
@@ -111,6 +112,7 @@ What the current packets already show:
 - `SBA Communications` is the cleanest pure-play tower-rent model in the repo and makes bandwidth dependence legible as recurring rent
 - `Crown Castle` helps contrast a simpler U.S. tower story against a more complicated portfolio-reset path
 - `Cogent` now adds the live terrestrial route-density and on-net private-connectivity branch where building access, IP and optical routes, and wavelength economics matter more than tower rent or orbital coverage
+- `Lumen Technologies` now adds the broader public-market fiber-backbone, enterprise-network, public-sector, and wholesale route-ownership branch where route miles, on-net buildings, strategic transport, and portfolio surgery matter more than lean on-net economics alone
 - `Iridium` adds the non-terrestrial, off-grid, and mission-critical coverage layer where towers and route-density assets cannot fully substitute
 - `Viasat` adds the heavier-bandwidth orbital, mobility, and sovereign-access layer where aviation, maritime, defense, remote broadband, and backlog conversion matter more than the narrower assured-coverage logic visible at `Iridium`
 - `Zayo`, if completed later, would likely extend the stricter private-fiber, dark-fiber, and buyout-ownership side of the route-density branch rather than only the tower layer
@@ -119,7 +121,7 @@ Best use:
 
 - strengthen the hidden-infrastructure lane
 - build direct comparison work across tower, route, resilient-coverage, and bandwidth-heavy orbital access structures
-- reuse the current tower-versus-route-versus-orbital split before taking another name
+- reuse the current tower-versus-terrestrial-versus-orbital split before taking another name
 
 ### 3. Control-layer internet infrastructure
 
@@ -193,7 +195,7 @@ If this thread is choosing the next high-payoff blind-spot move, the best order 
 
 1. the behind-the-shelf consumer infrastructure lane, now widened by `Veralto`, `Ecolab`, `International Paper`, `Republic Services`, `AptarGroup`, `Silgan`, and `Packaging Corporation of America` beyond the original packaging, waste, and plant-control anchors
 2. `Cloudflare`, `Akamai`, `Cisco`, `Arista Networks`, `Palo Alto Networks`, `Ciena`, `CommScope`, and `Corning` as a control-layer and AI-connectivity cluster
-3. `American Tower`, `SBA Communications`, `Crown Castle`, `Cogent`, `Iridium`, and `Viasat` as a hidden connectivity and access-layer cluster
+3. `American Tower`, `SBA Communications`, `Crown Castle`, `Cogent`, `Lumen Technologies`, `Iridium`, and `Viasat` as a hidden connectivity and access-layer cluster
 4. `United Rentals`, `Fastenal`, `Ferguson`, `WESCO`, `Applied Industrial Technologies`, and `Core & Main` as a physical execution and embedded-control cluster
 
 Why this ordering:

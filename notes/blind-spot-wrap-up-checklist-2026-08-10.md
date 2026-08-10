@@ -9,6 +9,7 @@ Companion files:
 - `notes/blind-spot-status-audit-2026-08-10.md`
 - `notes/blind-spot-next-actions-2026-08-10.md`
 - `notes/blind-spot-take-dont-take-roster-2026-08-10.md`
+- `notes/blind-spot-framework-completion-audit-2026-08-10.md`
 - `indexes/annualreports-noncovered-master-index-2026-08-10.md`
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.md`
 
@@ -47,6 +48,7 @@ Primary files:
 ### B. Assignment-layer alignment
 
 - the markdown queue and CSV queue match each other
+- the markdown and CSV no-overlap matrix match each other
 - the priority roster, claim roster, queue, and take-don't-take note do not contradict each other
 - the four core infrastructure lanes are the only default first-claim lanes
 - the physical-execution lane includes the live six-name set:
@@ -63,11 +65,14 @@ Primary files:
 - `indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md`
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.md`
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv`
+- `indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md`
+- `indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.csv`
 - `notes/blind-spot-take-dont-take-roster-2026-08-10.md`
 
 ### C. Handoff-layer alignment
 
 - the quickstart, handoff, notes index, and status audit all point to the same operating rule
+- the quickstart, handoff, notes index, and status audit all now default the next worker toward research extension unless a real contradiction appears
 - the handoff clearly distinguishes:
   - four default first-claim infrastructure lanes
   - conditional outer lanes
@@ -85,6 +90,7 @@ Primary files:
 - the top-level routing rule is stable:
   - consumer-behavior core first
   - infrastructure core first
+- the lane-level markdown and CSV system indexes point at the same live infrastructure anchor sets
 - mature infrastructure lanes all have reuse-first shortlist files
 - direct comparison indexes and lane memos do not describe stale "future" extensions that are already live
 
@@ -92,6 +98,8 @@ Primary files:
 
 - `extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md`
 - `extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md`
+- `indexes/blind-spot-systems-index-2026-08-10.md`
+- `indexes/blind-spot-systems-index-2026-08-10.csv`
 - `indexes/behind-the-shelf-extension-shortlist-2026-08-10.md`
 - `indexes/control-layer-extension-shortlist-2026-08-10.md`
 - `indexes/hidden-connectivity-extension-shortlist-2026-08-10.md`
@@ -167,6 +175,13 @@ As of Monday, August 10, 2026:
 
 - framework wrap-up is effectively complete for practical use
 - research wrap-up is still materially open
+
+More specifically:
+
+- framework completion is now not just a judgment call; it has an explicit evidence-based audit in `notes/blind-spot-framework-completion-audit-2026-08-10.md`
+- the main remaining work is not ownership-rule repair, queue repair, or routing-core repair
+- the main remaining work is selective research expansion where another name materially sharpens a live blind-spot system
+- another worker should default to treating governance cleanup as rare unless a real contradiction appears
 
 That means the next worker should usually ask:
 

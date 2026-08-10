@@ -1,0 +1,496 @@
+# Energy Buildout Batch Note
+
+Date: 2026-08-10
+Branch: `parallel/energy-buildout`
+
+## Companies completed
+
+- `ConocoPhillips`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Marathon Petroleum`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - quarter-level evidence anchored in SEC filings and Exhibit `99.1` earnings-release HTML because some IR endpoints returned `429`
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Kinder Morgan`
+  - raw AnnualReports and SEC chain collected
+  - company IR host was blocked by a Cloudflare challenge, so the packet is intentionally anchored in SEC filings and Exhibit `99.1` earnings-release HTML
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `SLB`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - `2025` annual report, target-quarter transcripts, prepared remarks, filings, and earnings-release exhibits saved locally
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `EOG Resources`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - corrected the company IR annual-report route and saved the official `2025` annual report PDF plus target-quarter IR press-release PDFs
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Devon Energy Corporation`
+  - raw AnnualReports, company IR verification artifacts, and SEC chain collected
+  - AnnualReports still lagged at `2024`, and the saved Devon IR routes were Cloudflare challenge wrappers in this environment, so the packet is intentionally anchored in the SEC `ARS` annual-report PDF, the filed `10-K`, and the `Q4 2025` through `Q2 2026` `10-Q`, `8-K`, Exhibit `99.1`, and Exhibit `99.2` chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Pan American Silver`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - quarter window adjusted correctly to `Q1 2026`, `Q4 2025`, and `Q3 2025` because `Q2 2026` results were not scheduled until `Wednesday, August 12, 2026`
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Newmont`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - official `2025` annual report PDF saved from the IR-linked q4cdn host and quarter coverage anchored in SEC `8-K`, Exhibit `99.1`, and `10-Q` filings
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Cleveland-Cliffs`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - quarter-level evidence intentionally anchored in company-hosted news pages plus SEC `8-K` and `10-Q` filings because the saved IR release PDFs were unusable or access-blocked
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Freeport-McMoRan`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - repaired the packet to point at this branch's local source tree, saved the missing AnnualReports company-page artifact, and added the SEC submissions index locally
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` normalized for this worktree
+- `Reliance`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - saved the missing AnnualReports company-page artifact and SEC submissions index, and normalized the packet to this branch's local source tree
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` normalized for this worktree
+- `Nucor`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - saved the missing AnnualReports company-page artifact and SEC submissions index, and normalized the packet to this branch's local source tree
+  - packet explicitly notes that no separately filed `Q2 2026` `10-Q` was present locally as of `Monday, August 10, 2026`
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` normalized for this worktree
+- `Alcoa`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - saved the missing AnnualReports company-page artifact and SEC submissions index, and normalized the packet to this branch's local source tree
+  - verified that AnnualReports already displayed the `2025` annual package for Alcoa as of `Monday, August 10, 2026`
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` normalized for this worktree
+- `Southern Copper`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - repaired the source chain by replacing blocked SEC captures with declared-user-agent downloads, pulling clean official `Q1 2026`, `Q2 2026`, and `Q4 2025` results PDFs from company-hosted URLs, and documenting that AnnualReports still lagged at `2024`
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Commercial Metals`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - confirmed that AnnualReports still lagged at `2024`, verified the `Q1` through `Q3 2026` `8-K` wrappers directly, and built the packet around SEC filings plus official quarter-results pages because the IR annual-report route is a B2i shell
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Steel Dynamics`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - confirmed that AnnualReports already displayed the `2025` annual package, but the saved view kept the report locked and the official IR annual-report route was a B2i shell with blocked widget fetches, so the packet is anchored in the SEC `10-K` plus official quarter-results pages
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Teck Resources`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - the saved AnnualReports route did not return usable company-specific content, so the packet is anchored in Teck's official `2025` annual report PDF, SEC `40-F`, company-hosted quarterly PDFs, and SEC `6-K` wrappers
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Cameco`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - the direct `annual-reports` and `quarterly-reports` routes were stubs, so the packet is anchored in Cameco's `financial-information` index, the specific `2025` annual page, quarter subpages, company-hosted PDFs, SEC `40-F`, and SEC `6-K` wrappers
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Rio Tinto`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - corrected an initially wrong SEC seed and rebuilt the packet around Rio Tinto plc's real `20-F` and `6-K` chain, while replacing blocked `83`-byte IR stubs with browser-header downloads of the official annual-report, annual-results, half-year-results, and operations-review pages and PDFs
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Vale`
+  - raw AnnualReports, company IR, and SEC chain collected
+  - the official annual-report document route resolved to an HTML wrapper in this environment, so the packet is anchored in Vale's `2025` annual-report release page, official reports index, quarter result PDFs, production-and-sales PDFs, SEC `20-F`, and SEC `6-K` wrappers
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `BHP`
+  - raw AnnualReports chain collected and official company-IR plus filing URLs verified
+  - BHP-hosted annual-report and operating-review document routes repeatedly hung in this environment, so the packet preserves the authoritative official URL chain through local source-index notes and explicitly maps BHP's off-calendar `FY26` reporting cadence instead of forcing a domestic `10-Q` pattern
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Anglo American`
+  - raw AnnualReports and official company-reporting chain collected
+  - packet anchored in the official `2025` annual report, `FY2025` results, `Q4 2025`, `Q1 2026`, and `Q2 2026` production reports, and `H1 2026` interim results, with an explicit note that no separate local SEC chain was required
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Glencore`
+  - raw AnnualReports and official company-reporting chain collected
+  - packet anchored in the official `2025` annual report, `2025` preliminary results, `2025` full-year production report, `Q1 2026` production report, `H1 2026` production report, and `H1 2026` results, with an explicit note that the annualreports archive lagged and no separate local SEC chain was required
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `First Quantum Minerals`
+  - raw AnnualReports and official company-reporting chain collected
+  - packet anchored in the official `2025` annual report, the `Q4 2025`, `Q1 2026`, and `Q2 2026` results pages, MD&A and financial statements, plus the `Q1 2026` investor deck and `Q2 2026` news-release PDF, with an explicit note that the authoritative chain is company reporting rather than a local SEC set
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Hudbay Minerals`
+  - raw AnnualReports, official company-reporting pages, q4cdn news-release PDFs, and SEC filing chain collected
+  - packet anchored in the official `2025` annual report, annual-report-highlights page, `Q4 2025`, `Q1 2026`, and `Q2 2026` results pages and q4cdn PDFs, plus the SEC `40-F` and `6-K` exhibits because several direct Hudbay-hosted PDF routes were blocked by Cloudflare in this environment
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Lundin Mining Corporation`
+  - raw AnnualReports and official company-reporting chain collected
+  - packet anchored in the official financial-reports index, `2025` annual-report publication page, `2025 Swedish Annual Report`, `2025 Annual MD&A and Financial Statements`, and the `Q1 2026` and `Q2 2026` combined MD&A and financial-statements PDFs, with an explicit note that no separate local SEC chain was required
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Ivanhoe Mines Ltd.`
+  - raw AnnualReports archive-check artifact and official company-reporting chain collected
+  - packet anchored in the official document library, the site's AJAX responses exposing the `2025` audited annual financial statements, annual `MD&A`, `2025 Annual Information Form`, `Q4 2025` annual-results page, and the `Q1 2026` and `Q2 2026` interim financial-statements and `MD&A` PDFs, with an explicit note that AnnualReports did not provide a company page and no separate local SEC chain was required
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Lundin Gold Inc.`
+  - raw AnnualReports, official company-reporting pages, annual-report PDF, annual-information-form PDF, and quarter-report PDFs collected
+  - packet anchored in the official `2025` annual report, `2025 Annual Information Form`, `Q4 2025` full-year results page, and the `Q1 2026` and `Q2 2026` results pages plus shareholder-report PDFs, with an explicit note that AnnualReports still lagged at `2024` and no separate local SEC chain was required
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `The Mosaic Company`
+  - raw AnnualReports, company IR verification artifacts, and SEC chain collected
+  - packet anchored in the SEC `10-K`, `10-Q`, `8-K`, earnings-exhibit, and performance-data chain because local official IR downloads were Cloudflare challenge HTML and AnnualReports still lagged at `2024`
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Kinross Gold Corporation`
+  - raw AnnualReports, company IR verification artifacts, and SEC chain collected
+  - packet anchored in the AnnualReports `2025` annual-report PDF plus the SEC `40-F`, `6-K`, and MD&A exhibit chain because direct official Kinross IR routes were locally blocked by Cloudflare challenge HTML
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Wheaton Precious Metals Corp.`
+  - raw AnnualReports, official company-hosted annual-report PDFs, and SEC chain collected
+  - packet anchored in the official `2025` annual-report PDFs plus the SEC `6-K` and exhibit chain, with an explicit note that the first local August `2026` filing branch was only a dividend declaration and the real `Q2 2026` results package was filed separately on `2026-08-07`
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Franco-Nevada Corp.`
+  - raw AnnualReports verification artifacts, official q4cdn-hosted IR PDFs, and SEC chain collected
+  - packet anchored in the SEC `40-F`, `Q3 2025` and `Q1 2026` `6-K` exhibit chain, the official `Q4 2025 Results Presentation`, and the official `Q1 2026` press-release PDF, with an explicit note that `Q2 2026` was not yet reported as of `Monday, August 10, 2026`
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `FMC Corporation`
+  - raw AnnualReports, official annual-report and quarter-material PDFs, and SEC chain collected
+  - packet anchored in the official `2025` annual report PDF, `Q4 2025` transcript and financial schedules, `Q1 2026` financial schedules and non-GAAP tables, and `Q2 2026` release, presentation, and transcript, with the filed `10-K`, `10-Q`, and `8-K` chain used for balance-sheet and reconciliation detail
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Air Products and Chemicals, Inc.`
+  - raw AnnualReports, official annual-report and quarter-material PDFs, and SEC chain collected
+  - packet anchored in the official `2025` annual report PDF, `FY2026 Q1` release and reconciliation tables, `FY2026 Q2` release, `FY2026 Q3` release, teleconference slides, reconciliation tables, and the filed `10-K`, `10-Q`, and `8-K` chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Celanese Corp.`
+  - raw AnnualReports, official IR route captures, and SEC filing-plus-exhibit chain collected
+  - packet anchored in the AnnualReports-hosted `2025` annual report PDF, filed `10-K`, `Q4 2025` through `Q2 2026` `10-Q` and `8-K` chain, and the attached prepared-remarks, slide-presentation, and non-GAAP exhibit set
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Westlake Corporation`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - packet anchored in the official `2025` annual report PDF, the `Q4 2025` through `Q2 2026` company-hosted results pages and earnings presentations, and the filed `10-K`, `10-Q`, and `8-K` chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `LyondellBasell Industries N.V.`
+  - raw AnnualReports, official IR verification artifacts, and SEC chain collected
+  - packet anchored in the SEC `10-K`, `10-Q`, and `8-K` chain plus live-verified official annual-report and quarter-results URLs because direct downloads from the IR host returned Cloudflare challenge HTML in this environment
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Ball Corporation`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - packet anchored in the official `2025` annual report PDF, the `Q4 2025` through `Q2 2026` company-hosted results pages, transcripts, presentations, and non-GAAP schedules, plus the filed `10-K`, `10-Q`, and `8-K` chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Crown Holdings, Inc.`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - packet anchored in the official `2025` annual report PDF, the `Q4 2025` through `Q2 2026` company-hosted results pages, the `Q2 2026` supplemental investor-information PDF, and the filed `10-K`, `10-Q`, and `8-K` chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `O-I Glass`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, and the saved O-I IR HTML routes were Cloudflare challenge pages, so the packet is intentionally anchored in the official q4cdn-hosted `2025` annual report PDF, official quarter-release PDFs where available, and the SEC `10-K`, `10-Q`, `8-K`, and Exhibit `99.1` chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Silgan Holdings`
+  - raw AnnualReports, official IR verification artifacts, and SEC chain collected
+  - AnnualReports already displayed the `2025` annual package, while the official annual-report and quarterly-report pages were live-verified but shell-blocked by Cloudflare, so the packet is anchored in the annual report PDF plus the SEC `10-K`, `10-Q`, `8-K`, and Exhibit `99.1` chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Enterprise Products Partners`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports already displayed the `2025` annual package, and the official IR site exposed a clean annual plus trailing-quarter chain through financials pages, quarter result pages, selected-financial-data PDFs, and company-hosted filing PDFs
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Williams Companies`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, but the official IR site exposed a very clean `2025` annual-report package plus the exact `Q4 2025`, `Q1 2026`, and `Q2 2026` release and presentation files
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Halliburton Company`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, but the official IR site exposed a clean `2025` annual package plus the exact `Q4 2025`, `Q1 2026`, and `Q2 2026` quarter materials across releases, segment tables, reconciliation tables, and investor decks
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Valero Energy Corporation`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, and the saved Valero IR quarter-news pages were Cloudflare challenge wrappers in this environment, so the packet is anchored in the SEC `10-K`, `10-Q`, `8-K`, and Exhibit `99.01` chain, with official IR financials, governance, and Guiding Principles materials preserved for context
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Phillips 66`
+  - raw AnnualReports, official IR verification artifact, and SEC chain collected
+  - AnnualReports still lagged at `2024`, and the saved Phillips 66 IR financial-information route was only a Cloudflare challenge wrapper in this environment, so the packet is anchored in the SEC `10-K`, `10-Q`, `8-K`, and earnings-exhibit-plus-supplement chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Targa Resources Corp.`
+  - raw AnnualReports legacy archive artifact, official IR quarter-materials chain, and SEC filing chain collected
+  - the only AnnualReports artifact located was a legacy `Targa Resources Partners LP` page, and the attempted company annual-reports route returned a `404` page locally, so the packet is intentionally anchored in the SEC `10-K`, `10-Q`, `8-K`, and company-hosted quarter release and supplement PDFs
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `MPLX LP`
+  - raw AnnualReports, official IR verification artifacts, PRNewswire result pages, and SEC filing chain collected
+  - AnnualReports still lagged at `2024`, while several official MPLX IR HTML routes were Cloudflare challenge wrappers in this environment, so the packet is intentionally anchored in the filed `10-K`, `10-Q`, and `8-K` chain plus recoverable company-distributed quarter materials and the real `Q2 2026` investor packet PDF
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `ONEOK`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still showed `2024` in the saved archive page, while the official annual-reports page already exposed a `2025` annual-report route through an external Issuu experience whose local capture was only a stub, so the packet is anchored in the official annual-reports confirmation page plus the filed SEC `10-K`, `10-Q`, and `8-K` chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Cheniere Energy`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports displayed a `2025` annual-report label but did not host the report package locally, so the packet is intentionally anchored in the official annual-reports page, the company-hosted `2025` annual report PDF, and the filed SEC `10-K`, `10-Q`, and `8-K` chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Baker Hughes Company`
+  - raw AnnualReports and SEC chain collected, with official IR routes and figures live-verified
+  - the official Baker Hughes IR host returned Cloudflare challenge shells for local captures, so the packet is intentionally anchored in the SEC `10-K`, `10-Q`, and `8-K` chain plus live-verified official IR annual-report and quarter-results URLs
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Energy Transfer LP`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still pointed to the legacy `Energy Transfer Partners, L.P.` page and lagged at `2024`, while the official IR site exposed the `2025 10-K` plus a clean `Q4 2025`, `Q1 2026`, and `Q2 2026` release-and-presentation chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Occidental Petroleum Corporation`
+  - raw official IR and SEC chain collected, with AnnualReports taxonomy live-verified but the saved AnnualReports route returning only a generic site page in this environment
+  - packet anchored in the official `2025 Annual Report`, the filed `10-K`, and the exact `Q4 2025`, `Q1 2026`, and `Q2 2026` release-and-filing chain, with an explicit note that `OxyChem` moved into discontinued operations after the `2026-01-02` sale close
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `HF Sinclair Corporation`
+  - raw AnnualReports, official IR route captures, direct company-hosted q4cdn PDFs, and SEC chain collected
+  - AnnualReports still lagged at `2024`, while most locally captured HF Sinclair IR routes returned Cloudflare challenge wrappers, so the packet is anchored in live-verified official IR pages, direct company-hosted annual and quarter PDFs, and the SEC `10-K`, `10-Q`, and `8-K` chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Enbridge Inc.`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, but the official Enbridge investor-documents and events routes exposed a clean `2025` annual report plus exact `Q4 2025`, `Q1 2026`, and `Q2 2026` support materials
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `TC Energy Corporation`
+  - raw AnnualReports verification artifacts, official IR, and SEC chain collected
+  - AnnualReports did not return a usable company page for `TC Energy`, so the packet is anchored in official company-hosted annual and quarter PDFs plus the SEC `40-F`, `6-K`, `99.1`, and quarter `MD&A` exhibits
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Pembina Pipeline Corporation`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, but the official Pembina investor-documents and notice-and-access routes exposed a clean `2025` annual report, annual-information-form support file, and exact `Q1 2026` and `Q2 2026` interim-report materials
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Suncor Energy Inc.`
+  - raw AnnualReports search artifacts, official IR route captures, and SEC chain collected
+  - AnnualReports did not provide a usable Suncor company page in this environment, and direct scripted downloads from the official Suncor PDF host were Cloudflare-blocked, so the packet is anchored in live-verified official annual and quarter URLs plus the SEC `40-F` and `6-K` filing chronology
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Imperial Oil Limited`
+  - raw AnnualReports, official IR, newsroom, and SEC chain collected
+  - AnnualReports still lagged at `2024`, but Imperial's official annual-and-quarterly-reports page exposed a clean `2025` annual report plus the exact `Q4 2025`, `Q1 2026`, and `Q2 2026` quarter materials with direct downloadable PDFs
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Cenovus Energy Inc.`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports provided a usable company page for taxonomy confirmation, while Cenovus's official financial-results-and-reports page exposed a clean `2025` annual report plus the exact `Q4 2025`, `Q1 2026`, and `Q2 2026` quarter materials
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Canadian Natural Resources Limited`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports already displayed the `2025` annual package, and CNQ's official investor pages exposed a clean `2025` annual report plus the exact `Q4 2025`, `Q1 2026`, and `Q2 2026` quarter chain, with `Q2 2026` provided through separate `MD&A`, `Financial Statements`, and supplemental files
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Keyera Corp.`
+  - raw AnnualReports and official IR chain collected
+  - AnnualReports provided a usable identity page but not a reliable sector or industry classification, while Keyera's official reporting pages exposed a clean `2025` year-end report plus the exact `Q4 2025`, `Q1 2026`, and `Q2 2026` quarter chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Tourmaline Oil Corp.`
+  - raw AnnualReports and official IR chain collected
+  - AnnualReports misclassified the company as `Oil & Gas Equipment & Services` and did not provide a reliable `2025` annual-report package locally, so the packet is intentionally anchored in Tourmaline's official `2025 Annual Information Form`, `Q4 2025 and Year End Audited Financial Statements`, and the exact `Q1 2026` and `Q2 2026` interim-report and press-release chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Sunoco LP`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, while Sunoco's official site exposed a clean `2025` annual-report PDF and results pages for `Q4 2025`, `Q1 2026`, and `Q2 2026`, with the SEC `10-K`, `10-Q`, and `8-K` chain preserved alongside them
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Murphy Oil Corporation`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, but Murphy's official IR site exposed a clean `2025` annual-report PDF plus usable `Q4 2025`, `Q1 2026`, and `Q2 2026` release, stockholder-update, and presentation materials, and the SEC `8-K` wrappers were repaired to the correct filed pages
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Range Resources Corporation`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, while the official company chain exposed a clean Appalachian gas and NGL source set through company-hosted annual and quarter PDFs, result pages, and the SEC `ARS`, `10-K`, `10-Q`, and `8-K` filings
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Plains All American Pipeline, L.P.`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, but the official IR site exposed a clean `2025 10-K` annual-report PDF plus exact `Q4 2025`, `Q1 2026`, and `Q2 2026` quarter pages and release PDFs, while the SEC chain cleanly covered the filed `ARS`, `10-K`, `10-Q`, and `8-K` set
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `NOV Inc.`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, but the official IR site exposed a clean `2025 Form 10-K` plus direct `Q4 2025`, `Q1 2026`, and `Q2 2026` result, presentation, and prepared-remarks PDFs
+  - packet anchored in the official annual-results and quarterly-results pages, the company-hosted `2025` annual report PDF, the filed `10-K`, `10-Q`, and `8-K` chain, and the clean SEC Exhibit `99.1` earnings-release chain for `Q1 2026` and `Q2 2026`
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `TechnipFMC plc`
+  - raw AnnualReports, official IR verification artifacts, and SEC chain collected
+  - AnnualReports still lagged at `2024`, while the locally captured official IR annual and quarter routes were Cloudflare block pages in this environment, so the packet is intentionally anchored in the SEC `10-K`, `10-Q`, `8-K`, and Exhibit `99.1` chain
+  - packet adds the subsea, integrated offshore-project, and installed-base services side of the equipment-and-services lane
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `PBF Energy Inc.`
+  - raw AnnualReports, official IR route captures, direct company-hosted annual-report PDF, and SEC chain collected
+  - AnnualReports still lagged at `2024`, while locally captured PBF IR routes returned Cloudflare challenge wrappers, so the packet is anchored in live-verified official IR pages, the direct `2025` annual-report PDF, and the SEC `10-K`, `10-Q`, `8-K`, and earnings-exhibit chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Diamondback Energy, Inc.`
+  - raw AnnualReports, official IR route captures, investor-presentation PDF, and SEC chain collected
+  - AnnualReports still lagged at `2024`, so the packet is intentionally anchored in the SEC `ARS`, `10-K`, `10-Q`, `8-K`, and Exhibit `99.1` / `99.2` chain, with official IR used to confirm the Permian-focused independent-E&P identity and route structure
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `EQT Corporation`
+  - raw AnnualReports, official IR route captures, and SEC chain collected
+  - AnnualReports still lagged at `2024`, and the locally saved EQT IR annual and quarterly routes were Cloudflare challenge wrappers, so the packet is intentionally anchored in the SEC `ARS`, `10-K`, `10-Q`, `8-K`, and Exhibit `99.1` chain
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Expand Energy Corporation`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports already displayed the `2025` annual package, the official IR site exposed the `2025` annual-report PDF route and `Q2 2026` release page directly, and the packet is anchored in that confirmation chain plus the SEC `ARS`, `10-K`, `10-Q`, `8-K`, and Exhibit `99.1` filings
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Antero Resources Corporation`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports already displayed the `2025` annual package, the first attempted legacy IR route failed, but the corrected current `financial-information`, `financial-results`, and `annual-reports-proxy` routes exposed a clean annual-report PDF plus exact `Q4 2025`, `Q1 2026`, and `Q2 2026` materials
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Permian Resources Corporation`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, but the official IR `news-events` and `sec-filings` routes exposed the direct company-hosted `2025` annual-report PDF and exact `Q4 2025`, `Q1 2026`, and `Q2 2026` results pages
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Matador Resources Company`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, but the official IR `annual-reports` and `investor-relations` routes exposed the direct company-hosted `2025` annual-report PDF plus exact `Q4 2025`, `Q1 2026`, and `Q2 2026` results pages and investor-presentation PDFs
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Ovintiv Inc.`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports still lagged at `2024`, the official IR site cleanly exposed the `Q4 2025`, `Q1 2026`, and `Q2 2026` event and presentation chain plus the correct filer `CIK`, but the saved official `financial-reports` page did not expose a clean direct `2025` annual-report PDF in this environment, so the packet is anchored in the SEC `ARS`, `10-K`, `10-Q`, and `8-K` chain with official IR used for chronology and route verification
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `APA Corporation`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports already displayed the `2025` annual package and the live click-through route provided the hosted annual-report PDF, while the official investor homepage exposed a clean `Q4 2025`, `Q1 2026`, and `Q2 2026` earnings-release and supplement chain but the saved `annual-reports-and-proxy` route resolved to a local `Page Not Found` shell in this environment
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `CNX Resources`
+  - raw AnnualReports, official IR, and SEC chain collected
+  - AnnualReports already displayed the `2025` annual package, the official `financial-reports` page exposed a direct company-hosted annual-report PDF, and the official `presentations` page required its own async JSON feed to expose the exact `Q4 2025`, `Q1 2026`, and `Q2 2026` quarter-material links
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+- `Coterra Energy Inc.`
+  - raw AnnualReports, official IR verification artifact, and SEC chain collected
+  - AnnualReports still lagged at `2024`, while the saved Coterra IR route had already become a post-merger `404` shell pointing readers to Devon after the merger close on `May 7, 2026`
+  - no separate `2025` shareholder annual-report artifact surfaced cleanly in this environment, so the annual layer is intentionally anchored in the filed `2025` `10-K`
+  - packet correctly adjusts the latest-three-quarter window to `Q1 2026`, `Q4 2025`, and `Q3 2025` because there was no normal standalone `Q2 2026` reporting cadence by `Monday, August 10, 2026`
+  - `company-profile.md`, `company-packet.md`, and `source-ledger.md` written
+
+## Batch read
+
+- `Enbridge` adds a more utility-like and cross-border infrastructure packet than the branch's other pipeline names. It is not just a throughput story. The company combines crude-pipeline bottlenecks, gas transmission, gas distribution and storage utilities, and renewable-power buildout inside one capital-allocation system.
+- That makes it useful for the bigger-picture lens around energy security, transport bottlenecks, infrastructure dependence, regulatory exposure, and how backlog-driven capital intensity can coexist with relatively steadier cash-generation framing than upstream commodity names.
+- `TC Energy` adds the post-`South Bow` gas-backbone version of the same lane. Unlike Enbridge, it is no longer a broad liquids-plus-gas infrastructure story. It is a more focused continuing-operations system built around Canadian, U.S., and Mexico natural-gas pipelines plus power and energy solutions.
+- That makes it useful for the bigger-picture split inside pipelines themselves: crude corridors, utility-like mixed infrastructure, NGL and export systems, and now a cleaner LNG-linked and power-linked continental gas network whose economics depend on delivery records, in-corridor expansions, and reliability rather than local-distribution scale.
+- `Pembina` adds the Canadian integrated NGL, fractionation, and industrial-feedstock side of the midstream map. It is less about a single long-haul corridor and more about linking gas processing, Peace Pipeline transportation, Redwater fractionation, Heartland extraction, and export or industrial-customer demand inside one system.
+- `MPLX` adds the integrated natural-gas and NGL buildout version of midstream rather than another crude-corridor or utility-like pipe system. Gathering, sour-gas treating, processing, fractionation, storage, terminaling, and export linkage matter more here than a simple long-haul tariff story.
+- That makes it especially useful for the bigger-picture themes around transport bottlenecks, petrochemical and export dependence, Marathon adjacency, and how midstream can sit between upstream drilling economics and downstream or global-demand pull without looking like a pure commodity bet.
+- `Tourmaline` adds the large-scale Canadian natural-gas-heavy upstream case rather than another oil sands platform or another U.S. shale packet. It is one of the clearest branch examples of a producer whose value depends not just on drilling results, but on storage timing, processing choice, condensate and NGL mix, export-pipeline access, and gas-marketing execution.
+- That makes it especially useful for the bigger-picture themes around commodity exposure, infrastructure dependence, transport bottlenecks, energy security, and how upstream cash flow can be shaped by molecule placement and market access rather than by headline production growth alone.
+- `Sunoco` adds the downstream delivery and retail-channel layer rather than another pure refining-margin case. The company links wholesale fuel distribution, branded and partner-branded outlets, terminals, pipelines, storage, and now a more visible refinery presence after Parkland.
+- That makes it useful for the bigger-picture themes around infrastructure dependence, dealer and retail-channel economics, logistics throughput, acquisition-led portfolio change, and the hidden delivery system behind everyday fuel consumption.
+- That makes it useful for the bigger-picture split inside pipelines themselves: some names are primarily crude transport, some are utility-like gas backbones, and some, like Pembina, are really corridor-plus-facilities platforms whose economics depend on integrated processing and transport bottlenecks rather than on pipe volumes alone.
+- `Suncor` adds the integrated Canadian oil-sands, upgrading, refining, trading, and retail-fuel system. Unlike the pure refiners and unlike the pure upstream names, it shows how extraction, synthetic-crude upgrading, refinery throughput, and Petro-Canada distribution can all sit inside one cash-generation machine.
+- That makes it one of the stronger packets for the branch’s original big-picture themes: upstream versus downstream cycles, capital intensity, energy security, refining margins, infrastructure dependence, and the practical value of an integrated model when crude pricing, SCO premiums, and refinery utilization move differently.
+- `Imperial Oil` adds a more Canada-centered refining and branded-fuels-delivery packet than the U.S. refiners or even `Suncor`. It still has large oil-sands exposure through `Kearl`, `Cold Lake`, and `Syncrude`, but the distinctive read is that it is also Canada's largest petroleum refiner, a leading fuels marketer, and a large branded-wholesale system with petrochemicals and renewable diesel layered on top.
+- That makes it especially useful for distinguishing different integrated models. `Suncor` is the broader extraction, upgrading, trading, and Petro-Canada retail case, while `Imperial` is the tighter Kearl-to-refinery-to-Esso/Mobil wholesale case where internal feedstock reliability, domestic refinery uptime, branded-site density, and heavy-barrel conversion economics all matter at once.
+- `Cenovus` adds the acquisition-scaled and post-transaction version of Canadian integration. Unlike `Suncor` and `Imperial`, this packet is defined by the combination of heavy-oil scale-up through the `MEG` acquisition and a narrower downstream footprint after the `WRB` divestiture.
+- That makes it especially useful for the bigger-picture branch themes around capital intensity, infrastructure dependence, heavy-barrel differentials, condensate costs, refining capture, and how an integrated company can become more upstream-heavy without becoming a pure upstream story.
+- `Canadian Natural` adds the large-scale long-life upstream commodity machine. Unlike the branch's refiners, pipelines, or shorter-cycle upstream names, it is built around a very large reserve base, oil-sands mining and upgrading, thermal, conventional gas and liquids, and a formal free-cash-flow allocation system tied to net-debt thresholds.
+- That makes it one of the strongest packets for the branch's original upstream themes: commodity exposure, capital intensity, reserve depth, energy security, infrastructure dependence, and the difference between a simple drilling story and a long-duration resource-conversion platform that can still throw off massive shareholder returns.
+- `Keyera` adds the NGL, condensate, fractionation, storage, and marketing infrastructure layer. Unlike the branch's long-haul pipeline names, this packet is about how an integrated liquids platform converts producer connectivity into fee-based cash flow, market access, and downstream optionality.
+- That makes it especially useful for the branch's bottleneck and infrastructure themes: some midstream names are backbone transportation systems, while others, like `Keyera`, are market-structure systems where storage, fractionation, terminals, rail, and marketing matter as much as any one pipe.
+## Companies partial
+
+- none in the current batch
+
+## Batch read
+
+- `ConocoPhillips` adds the upstream-heavy, capital-discipline, LNG-optionality, and geopolitical-exposure layer.
+- `Marathon Petroleum` adds the downstream, refining-margin, utilization, throughput, project-upgrade, and MPLX-supported capital-return layer.
+- `Kinder Morgan` adds the transport toll-road layer, where LNG feedgas, storage, contract structure, project backlog, power demand, and bottleneck control matter more than direct commodity ownership.
+- `SLB` adds the service-and-equipment layer, where upstream budgets, technology adoption, production intensity, digital workflow penetration, and geopolitical disruption matter more than direct reserve ownership.
+- `EOG Resources` adds the pure independent-producer layer, where reserve depth, drilling inventory quality, oil and gas realizations, impairment risk, and a formal shareholder-return framework matter more than downstream integration or fee-based transport.
+- `Pan American Silver` adds the precious-metals extraction layer, where silver and gold price leverage, ore quality, mine-life visibility, development timing, jurisdictional risk, and portfolio reshaping matter more than hydrocarbon transport or refining spreads.
+- `Newmont` adds the gold-major and large-scale mining-capital-allocation layer, where reserve depth, portfolio optimization, large-project sequencing, balance-sheet strength, and institutionalized cash returns matter more than single-asset upside.
+- `Cleveland-Cliffs` adds the steel-and-iron conversion layer, where automotive demand, contract lag, energy and weather sensitivity, vertical integration, and plant utilization matter more than reserve life or direct refining spreads.
+- `Freeport-McMoRan` adds the copper-and-mining-infrastructure layer, where mine reliability, byproduct economics, operating-rights security, and large-project ramp execution matter more than contract-backed throughput or downstream conversion margins.
+- `Reliance` adds the downstream metals-service-center layer, where quick-turn processing, local inventory density, small-order fulfillment, end-market mix, and pricing pass-through matter more than blast-furnace utilization or mine-level reserve life.
+- `Nucor` adds the domestic electric-arc-furnace and fabricated-steel platform layer, where scrap intensity, contract mix, fabricated products, domestic trade policy, and capex-backed mix upgrading matter more than mine development or quick-turn service-center fulfillment.
+- `Alcoa` adds the upstream aluminum layer, where bauxite and alumina linkage, smelter restarts, energy intensity, premium shifts, sanctions and tariff exposure, and portfolio reshaping matter more than steel contract mix or service-center density.
+- `Southern Copper` adds a more concentrated Peru/Mexico copper-mining and by-product-leverage layer, where ore grades, recoveries, community and permitting durability, mine sequencing, silver-zinc-moly support, and long-cycle capex matter more than mill utilization or metals-distribution density.
+- `Commercial Metals` adds the construction-steel, rebar, fabrication, recycling, and precast-integration layer, where public infrastructure, booking and backlog quality, rebar spreads, scrap economics, and project-delivery timing matter more than automotive sheet mix, mine grades, or service-center inventory density.
+- `Steel Dynamics` adds the broader domestic EAF, recycling, fabrication, and aluminum-diversification layer, where scrap-based conversion economics, downstream backlog, data-center and manufacturing demand, and capital-heavy growth projects matter more than service-center density or pure integrated-steel utilization.
+- `Teck Resources` adds the diversified industrial-metals and processing layer, where copper growth, QB ramp reliability, zinc and Trail smelting support, steelmaking-coal cash flow, and merger-driven portfolio reshaping matter more than single-commodity purity.
+- `Cameco` adds the uranium and nuclear-fuel-cycle layer, where long-term contracting, inventory management, fuel conversion, reactor-services exposure through Westinghouse, and energy-security policy matter more than simple spot-commodity throughput.
+- `Rio Tinto` adds the giant diversified-miner and bulk-materials layer, where iron ore logistics, aluminium energy intensity, copper-growth execution, lithium commissioning, and mega-project sequencing all sit inside one global capital-allocation system.
+- `Vale` adds the Brazilian ore-and-logistics and trust-repair layer, where iron ore corridor execution, pellets and freight economics, base-metals growth, FX and freight pressure, dam governance, and remediation credibility all shape the investment case.
+- `BHP` adds the Anglo-Australian diversified-miner and copper-forward allocation layer, where iron ore scale still funds the system, but copper earnings weight, procurement discipline, diesel and supply-chain pressure, and potash-and-copper development pathways define the longer-cycle portfolio read.
+- `Anglo American` adds the portfolio-simplification and critical-minerals repositioning layer, where copper, premium iron ore, and crop nutrients are being elevated while diamonds, coal, nickel, and legacy breadth are being pushed out of the center of the story.
+- `Glencore` adds the marketer-miner hybrid layer, where trading, logistics, inventory, and risk management can change earnings almost as much as mine grades and production volumes, especially during periods of freight, energy, and geopolitical dislocation.
+- `First Quantum Minerals` adds the concentrated copper-and-restart-risk layer, where Zambia execution, a suspended Panama megamine, leverage, hedging, fuel sourcing, and political permission can matter as much as realized copper prices.
+- `Hudbay Minerals` adds the mid-tier Americas copper-and-gold diversification layer, where gold by-product credits, Peru logistics, Snow Lake and British Columbia operating mix, and staged Arizona growth capital shape the economics as much as headline copper volumes.
+- `Lundin Mining Corporation` adds the simplified Chile-and-Brazil multi-asset copper layer, where Caserones, Candelaria, and Chapada now anchor the earnings base while Vicuña and Los Helados create a more explicit long-cycle district-growth and infrastructure-planning story.
+- `Ivanhoe Mines Ltd.` adds the African JV-heavy copper-and-development layer, where Kamoa-Kakula's smelter, sulphuric-acid credits, and corridor logistics matter as much as metal prices, while Kipushi and Platreef keep the packet tied to zinc, PGMs, financing capacity, and future project execution.
+- `Lundin Gold Inc.` adds the concentrated high-grade single-asset gold layer, where Ecuadorian taxes and statutory profit sharing, dividend aggressiveness, tailings and underground expansion needs, and district-scale exploration success all determine whether a world-class orebody remains a durable cash franchise.
+- `The Mosaic Company` adds the phosphate-potash-conversion and Brazil-distribution crop-input layer, where sulfur availability, ammonia and rock costs, inventory swings, idled capacity, and food-system dependence matter as much as nominal fertilizer demand.
+- `Kinross Gold Corporation` adds the multi-asset senior gold layer, where strong gold-price leverage is filtered through mine sequencing, Mauritania and Brazil cash-flow friction, buybacks, dividends, and a visible development queue spanning `Great Bear`, `Curlew`, `Phase X`, and `Redbird`.
+- `Westlake Corporation` adds the PVC, chlor-alkali, polyethylene, pipe, fittings, siding, and infrastructure-products layer, where housing affordability, public-works demand, feedstock advantage, logistics disruption, and hard footprint optimization all shape the earnings path.
+- `LyondellBasell Industries N.V.` adds the global polyolefins and petrochemical spread-cycle layer, where North American feedstock advantage, Europe asset rationalization, polymer spreads, co-product pricing, utilization, and geopolitical supply disruption matter more than specialty-materials mix or downstream building-products conversion.
+- `Ball Corporation` adds the aluminum-container and circular-packaging infrastructure layer, where beverage throughput, aerosol and household-product packaging demand, metal pass-through, customer retention, plant utilization, and free-cash-flow-backed capital returns matter more than paperboard restructuring or basic-material extraction.
+- `Enterprise Products Partners` adds the integrated midstream-and-export-complex layer, where gathering, processing, fractionation, storage, marine terminals, export capacity, and petrochemical and refined-products connectivity all matter at once, making it a broader molecules-and-infrastructure system than a narrower long-haul pipeline packet.
+- `Williams Companies` adds the gas-heavy transmission, gathering, and power-infrastructure layer, where `Transco`, storage, Gulf volumes, Haynesville and Appalachia gathering, LNG corridor access, and power-innovation projects all matter together more than a simple fee-per-barrel or fee-per-Btu framing would suggest.
+- `Halliburton Company` adds the oilfield-services and execution layer, where international contract depth, North America recovery, completions intensity, drilling activity, automation, software, electric fracturing, and capital discipline matter more than reserve ownership or fee-based transport.
+- `Valero Energy Corporation` adds the pure downstream refining-plus-low-carbon-fuels layer, where mechanical availability, throughput, commercial execution, refining margins, renewable diesel and ethanol economics, shareholder returns, California exposure, and project-led yield upgrades all matter more than reserve ownership or contracted transport tolls.
+- `Phillips 66` adds the integrated downstream portfolio layer, where refining margins still matter but Midstream pipes and fractionators, LPG export capacity, Chemicals exposure, marketing assets, renewable fuels, portfolio reshaping, and debt reduction all sit inside the same capital-allocation system.
+- `Targa Resources Corp.` adds the high-growth NGL midstream and export-complex layer, where Permian gathering and processing, Mont Belvieu fractionation, NGL transportation, LPG export, marketing optimization, and a very large growth-capital queue matter more than regulated long-haul toll-road stability.
+- `ONEOK` adds the integrated multi-product logistics layer, where natural gas, NGLs, refined products, crude, optimization and marketing activity, acquisitions, and systemwide integration all matter together rather than a single fee-per-mile transport story.
+- `Energy Transfer` adds the transport-and-export bottleneck layer, where pipeline mileage matters less than connected control of Mont Belvieu fractionation, Nederland loading capacity, Permian takeaway, long-dated NGL contracts, and the capital-allocation choice to favor natural-gas infrastructure over a riskier headline LNG project.
+- `Occidental Petroleum` adds the leveraged upstream-plus-midstream-plus-carbon-management layer, where debt reduction, post-`OxyChem` portfolio simplification, `WES` exposure, enhanced recovery, commodity-price sensitivity, and the attempt to pair hydrocarbons with carbon-management leadership matter more than a pure shale-volume story.
+- `HF Sinclair` adds the inland refining-plus-lubricants-plus-branded-marketing layer, where crack spreads still matter, but business mix, branded gallons, renewables credits, specialty-product margins, midstream support, and the proposed `Lubricants & Specialties` separation matter more than sheer refining scale alone.
+- `PBF Energy` adds the merchant-refiner and restart-risk layer, where coastal complexity, crack spreads, turnaround timing, insurance recoveries, Martinez restoration, and debt reduction matter more than integrated portfolio breadth or specialty-margin cushioning.
+- `Diamondback Energy, Inc.` adds the concentrated Permian-manufacturing layer, where acreage contiguity, DUC flexibility, electrified completion fleets, buybacks and debt reduction, Waha exposure, and gas-takeaway optionality matter more than diversified global scale or downstream integration.
+- `EQT Corporation` adds the Appalachian gas-and-demand-linkage layer, where basis management, compression, curtailments, LNG offtake, power-market exposure, and debt reduction matter more than oil-weighted realizations or basin-diversified drilling breadth.
+- `Expand Energy Corporation` adds the post-merger multi-basin gas-scale and commercial-integration layer, where production leadership, LNG linkage, debt reduction, buybacks, and marketing reach are being combined into a larger national natural-gas system rather than a single-basin shale story.
+- `Antero Resources Corporation` adds the liquids-rich Appalachian gas-and-NGL premium-realization layer, where NGL pricing, LNG-fairway access, liquids-rich gas, acquisitions, and market-linked pricing premiums matter more directly than in either the drier `EQT` story or the broader commercial-integration story at `Expand Energy`.
+- `Permian Resources Corporation` adds the Delaware-basin manufacturing-and-consolidation layer, where low-cost drilling, bolt-on acreage capture, working-interest gains, Waha gas-transport management, and free-cash-flow-per-share discipline matter more directly than broad corporate diversification.
+- `Matador Resources Company` adds the upstream-plus-midstream-coordination layer, where `San Mateo`, water handling, gas processing, gathering, flow assurance, and infrastructure-backed acquisitions matter more directly than pure acreage scale alone.
+- `Ovintiv Inc.` adds the multi-basin North American market-optimization layer, where `Montney`, `Permian`, downstream gas access, transport contracts, portfolio reshaping, and leverage reset matter more directly than a single-basin shale-manufacturing story.
+- `APA Corporation` adds the international and exploration-option-heavy independent-E&P layer, where `Permian` execution still matters, but `Egypt` PSC mechanics, `North Sea` decline, `Waha` basis sensitivity, debt reduction, and `Suriname` first-oil optionality materially change the earnings and capital-allocation story.
+- `CNX Resources` adds the Appalachian gas, midstream, methane-remediation, and lower-carbon-premium-products layer, where `Marcellus` and `Utica` execution still matter, but `RMG`, environmental attributes, `45Z` tax credits, Radical Transparency, and buyback-led per-share value creation materially change how the gas story should be read.
+- `Coterra Energy Inc.` adds the diversified domestic shale and consolidation-endpoint layer, where `Permian`, `Marcellus`, and `Anadarko` optionality still matter, but acquisition integration, `Waha` basis pressure, term-loan paydown, merger synergies, and the end of standalone reporting materially change how the independent-E&P story should be read.
+- `Murphy Oil Corporation` adds the offshore-and-exploration-option-heavy independent-E&P layer, where disciplined North American onshore production still funds the system, but `Vietnam`, `Cote d'Ivoire`, offshore Canada, Gulf of America development, reserve replacement, project timing, and infrastructure readiness materially change how the independent-E&P story should be read.
+- `Range Resources Corporation` adds the Appalachian gas-and-NGL premium-market-access layer, where `Marcellus` scale, DUC inventory, contracted takeaway, basis management, NGL realizations above `Mont Belvieu`, Midwest power demand linkage, and a capital-disciplined growth plan materially change how the independent-E&P story should be read.
+- `Plains All American Pipeline, L.P.` adds the crude-corridor, storage, terminal, and logistics-control layer, where `Permian` crude flows, long-haul contract resets, `Cactus III` synergy capture, marketing optionality, debt reduction from the Canadian NGL sale, and the shift toward a more focused pure-play crude-oil midstream identity matter more than a generic fee-based-pipeline label.
+- The first pass also confirmed a recurring archive issue: AnnualReports is still useful for taxonomy confirmation, but the authoritative `2025` annual-report chain has to come from company IR and SEC.
+- This lane should separate:
+  - upstream cash engines
+  - transport toll-road systems
+  - service-and-equipment exposure to field activity
+  - refining and marketing margin systems
+- The bigger-picture industrial read is clearer after thirty-seven packets: upstream names are dominated by commodity exposure, reserve depth, LNG optionality, portfolio high-grading, and geopolitics; pipelines are dominated by contract-backed throughput, export and power-demand growth, and infrastructure dependence; service names are dominated by customer activity, engineering complexity, field execution, digital adoption, and geopolitical interruptions; downstream names are dominated by utilization, margin capture, turnarounds, yield-enhancing projects, and integrated logistics support; heavy-input steel systems are now split more clearly between integrated transformation, broad electric-arc-furnace and fabricated-product models, construction-linked rebar and precast systems, and a broader scrap-based industrial-metals platform that now includes aluminum diversification; agricultural chemicals are now split more clearly between a cleaner nitrogen-and-natural-gas producer, an integrated agronomy-and-retail crop-input network, a phosphate-potash conversion-and-Brazil distribution system where sulfur affordability, ammonia costs, inventory builds, and curtailment decisions can overwhelm otherwise healthy end demand, a crop-protection and agricultural-science platform where patents, generic erosion, registration timing, pricing pressure, and route-to-market redesign matter as much as raw-material or nutrient economics, an industrial-gases and hydrogen-infrastructure platform where steady contract-backed gas systems have to be separated analytically from capital-heavy clean-energy megaproject exposure, a more leveraged specialty-materials and acetyls platform where segment quality, nylon footprint work, pricing power, divestitures, and debt-maturity management are as important as headline end demand, a downstream PVC-and-built-environment chemicals system where housing affordability, pipe and fittings demand, feedstock advantage, and public-works activity interact with chlorovinyl and polyethylene pricing, a global polyolefins and petrochemicals spread-cycle system where war, Europe footprint exits, and North American feedstock advantage can directly reprice margins, and now an aluminum-container and circular-packaging conversion system where beverage throughput, pricing pass-through, customer partnerships, and shareholder-return capacity matter as much as substrate cost itself; and the gold lane now separates more clearly into a mega-major reserve-and-allocation model, a concentrated high-grade single-asset cash engine, a multi-asset senior miner model where high gold prices fund both large buybacks and an active project queue across multiple jurisdictions, a cleaner streaming-and-royalty allocator model where precious-metals upside is captured through contract structure, counterparty quality, portfolio diversification, and financing capacity rather than direct mine ownership, and now a broader royalty-and-streaming platform where that same capital-light structure still carries meaningful oil, gas, NGL, iron ore, and Cobre Panama-linked optionality. Diversified mining is now split more clearly between pure copper systems, precious-metals systems, a mixed copper-zinc-processing-and-coal cash-flow platform, a uranium-plus-fuel-cycle platform where contracting and conversion matter as much as mined pounds, a giant global bulk-materials allocator where iron ore cash flow funds copper, aluminium, lithium, and mega-project diversification, a Brazilian ore-and-logistics system where dam governance, remediation trust, FX, freight, and the Base Metals growth lane all materially alter how iron ore cash converts into value, a second top-tier diversified miner where copper already drives more than half of underlying EBITDA in the half-year read and where procurement discipline, diesel inflation, and potash optionality sharpen the comparison against Rio and Vale, a portfolio-simplification miner where management is explicitly shrinking toward copper, premium iron ore, and crop nutrients while linking future demand to EVs, power buildout, data centres, AI-driven infrastructure growth, and a harsher capital-intensity and permitting environment, a marketer-miner hybrid where freight dislocation, energy volatility, inventory management, concentrate tightness, quota regimes, and trading capability are inseparable from mine-level production economics, a concentrated copper system where Zambia ramp execution, Panama restart politics, leverage, hedging, FX, and diesel logistics can dominate the earnings path almost as much as ore grades themselves, a mid-tier Americas copper-and-gold system where by-product credits, port logistics, project partnerships, and brownfield-plus-greenfield capital staging can materially reshape cash costs and financial flexibility, a simplified Chile-and-Brazil copper system where portfolio exits, weather and power disruptions, district-level growth planning, and fiscally supported Argentina optionality all matter alongside copper prices themselves, an African joint-venture-heavy copper-and-development system where smelter ramp-up, sulphuric-acid credits, unsold inventory, railway corridors, project-finance capacity, and multi-asset build sequencing materially alter how copper exposure reaches the income statement, and a concentrated high-grade gold system where one flagship Ecuadorian mine can generate exceptional margins and dividends but remains structurally dependent on tax regime, statutory profit-sharing, tailings and underground expansion execution, and exploration success to preserve long-term franchise value; metals service centers are dominated by inventory positioning, local processing density, logistics speed, and pricing pass-through into a fragmented customer base; aluminum adds the energy-intensive smelting and premium-sensitive conversion layer between mined inputs and manufactured end use; and Southern Copper sharpens the internal split inside copper itself between globally diversified giant-asset platforms and more concentrated Peru/Mexico systems where by-product leverage and grade pressure are both unusually important.
+- The new cross-company theme after adding SLB is that energy security and infrastructure dependence do not stop at the producer or pipeline owner. They also rely on a specialized service and technology layer that can increasingly migrate into adjacent infrastructure systems such as modular data centers.
+- The new cross-company theme after adding EOG is that the archive now has a cleaner separation inside upstream itself: `ConocoPhillips` reads like a large-scale upstream-plus-capital-allocation platform with LNG and portfolio breadth, while `EOG Resources` reads like a more concentrated independent producer whose edge is drilling inventory quality, domestic reserve depth, and explicit cash-return discipline.
+- The new cross-company theme after adding Pan American Silver is that heavy-input and extraction coverage should not stop at hydrocarbons. Precious-metals systems behave differently: the bottlenecks are ore bodies, mine sequencing, consultation and permitting, underground development, and direct commodity-price leverage with longer project lead times.
+- The new cross-company theme after adding Newmont is that scale gold miners are not just higher-price beneficiaries. They behave like long-duration hard-asset allocators, converting high prices into debt reduction, repurchases, dividends, reserve replacement, and a queue of multi-year expansion projects.
+- The new cross-company theme after adding Cleveland-Cliffs is that the heavy-input economy also includes industrial transformation systems, not just extraction. Steel exposure is filtered through contract structure, automotive build rates, weather and energy costs, downstream value-add, and whether utilization can recover fast enough to absorb a large fixed-cost base.
+- The new cross-company theme after adding Freeport-McMoRan is that copper is a physical-system bottleneck rather than a generic commodity line item. Earnings quality depends on whether giant complex assets like Grasberg stay online, whether growth projects clear social and regulatory hurdles, and whether electrification and power-buildout demand can be translated into actual delivered metal.
+- The new cross-company theme after adding Reliance is that the metals layer does not end at mills and mines. Distribution density, cut-to-size processing, rapid fulfillment, and the ability to serve thousands of small industrial orders create a different kind of infrastructure moat that sits between headline steel pricing and real end-market activity.
+- The new cross-company theme after adding Nucor is that steel cannot be treated as one undifferentiated lane. `Cleveland-Cliffs` shows the fixed-cost, automotive-linked integrated steel transformation model, `Reliance` shows the service-center and distribution layer, and `Nucor` shows the scrap-based electric-arc-furnace and fabricated-products model with stronger domestic-policy leverage and a clearer capex-driven move toward value-added mix.
+- The new cross-company theme after adding Alcoa is that upstream metals differ materially by process physics. Copper is constrained by giant-asset mine reliability, steel is constrained by throughput and domestic industrial mix, and aluminum adds the power- and premium-sensitive smelting layer where restarts, tariffs, sanctions, refinery closures, and regional premiums can swing earnings sharply even before end-market demand fully changes.
+- The new cross-company theme after adding Southern Copper is that copper itself should not be treated as a single clean electrification bet. `Freeport-McMoRan` shows the giant-asset and operating-rights version of copper exposure, while `Southern Copper` shows the more concentrated Peru/Mexico and by-product-supported version, where silver, zinc, and molybdenum meaningfully change apparent copper economics and where lower grades at Peruvian mines can matter even during a record earnings period.
+- The new cross-company theme after adding Commercial Metals is that steel should not be grouped only into integrated mills, large EAF producers, or distributors. `Commercial Metals` is a more embedded construction and infrastructure steel system, where rebar fabrication, recycling intensity, precast acquisitions, and backlog quality tie the packet more directly to public works, data-center construction, semiconductor facilities, and energy-buildout projects.
+- The new cross-company theme after adding Valero is that downstream should not be treated as a single generic refining lane. `Marathon Petroleum` is the integrated refiner-plus-midstream-supported capital-return case, while `Valero` is the more direct refining, renewable diesel, and ethanol cash-conversion case where uptime, mechanical availability, margin capture, and low-carbon-fuels adjacency matter more visibly and where California and Port Arthur style asset-specific risk sits much closer to the core story.
+- The new cross-company theme after adding Phillips 66 is that downstream should not be reduced to one refinery archetype. `Valero` is the cleaner refining-plus-renewable-diesel-and-ethanol cash-conversion case, while `Phillips 66` is the integrated downstream portfolio case where Midstream, Chemicals, export infrastructure, marketing assets, asset reshaping, and debt reduction all materially change how refining strength reaches shareholders.
+- The new cross-company theme after adding HF Sinclair is that downstream should not be reduced to the largest-scale coastal or integrated refiners alone. `Valero` is the cleaner refining-plus-low-carbon-fuels cash-conversion case, `Phillips 66` is the integrated downstream portfolio case, and `HF Sinclair` adds the inland and specialty downstream case where branded gallons, lubricants, renewables credits, and the question of whether higher-value specialty assets belong outside the refining shell materially change the earnings model.
+- The new cross-company theme after adding PBF Energy is that downstream also needs a true merchant-refiner packet. `Valero`, `Marathon Petroleum`, `Phillips 66`, and `HF Sinclair` all have meaningful stabilizers beyond simple crack-spread capture, but `PBF` is much closer to the event-sensitive merchant case where fire recovery, restart timing, gross-margin swings, insurance reimbursements, and rapid debt reduction can dominate the equity story quarter to quarter.
+- The new cross-company theme after adding Targa is that pipelines should not be reduced to one generic midstream archetype. `Kinder Morgan` is closer to the contract-backed gas transmission and storage toll-road case, `Enterprise Products Partners` is the broader integrated molecules-and-export system, and `Targa Resources Corp.` is the more growth-heavy Permian and NGL buildout machine where fractionators, processing plants, export docks, and project timing create a more operationally sensitive but potentially faster-growing fee-based infrastructure model.
+- The new cross-company theme after adding ONEOK is that the pipeline lane now separates even more clearly into different kinds of integration. `Kinder Morgan` remains the steadier contract-backed gas transmission case, `Enterprise Products Partners` remains the broader molecules-and-export network, `Targa Resources Corp.` remains the more capex-heavy NGL buildout machine, and `ONEOK` adds the acquisition-shaped, multi-product logistics and optimization system where Magellan, EnLink, refined products, crude, NGLs, and basis-driven marketing activity all materially change how midstream earnings are built.
+- The new cross-company theme after adding `Cheniere Energy` is that even the midstream and transport lane is still too blunt if it stops at pipelines. `Kinder Morgan` is the contract-backed gas transmission toll road, `Enterprise Products Partners` is the broader molecules-and-export network, `Targa Resources Corp.` is the NGL buildout machine, `ONEOK` is the acquisition-shaped multi-product logistics system, and `Cheniere Energy` adds the liquefaction-and-export chokepoint where LNG train completions, berth and storage capacity, global gas arbitrage, Integrated Production Marketing, and brownfield expansion FIDs matter more than simple domestic fee-per-mile transport.
+- The new cross-company theme after adding `Baker Hughes Company` is that oilfield services should not be reduced to drilling and completions execution alone. `SLB` remains the broader global technology-and-services platform, `Halliburton Company` remains the stronger drilling, completions, and North America recovery case, and `Baker Hughes Company` adds the industrialized energy-technology layer where LNG liquefaction modules, gas infrastructure, turbomachinery, power systems, digital monitoring, data-center power demand, and portfolio reshaping matter as much as conventional upstream service intensity.
+- The new cross-company theme after adding Steel Dynamics is that domestic steel should not be divided only by furnace technology or end market. `Steel Dynamics` adds a broader industrial-metals version of the EAF model, where internal recycling depth, downstream fabrication, aluminum adjacency, onshoring exposure, and data-center and manufacturing buildout all matter at once, making it a cleaner reindustrialization packet than either a pure mill story or a pure distributor story.
+- The new cross-company theme after adding Teck Resources is that copper exposure should not be grouped only into pure miners. `Teck` adds a portfolio-level critical-minerals system where QB copper growth, zinc and Trail processing support, steelmaking-coal cash generation, and merger-driven industry consolidation all interact, making the packet as much about strategic portfolio architecture as about spot commodity prices.
+- The new cross-company theme after adding Cameco is that energy security should not be grouped only into hydrocarbons, grids, and metals. `Cameco` adds the nuclear-fuel version, where long-cycle contracts, conversion capacity, inventories, reactor-service exposure, and state-backed power-security logic shape earnings far more than conventional short-cycle commodity intuition would suggest.
+- The new cross-company theme after adding Rio Tinto is that diversified mining should not be grouped only into "bigger copper" or "bigger iron ore." `Rio Tinto` is a portfolio-allocation and infrastructure-execution system where Pilbara rail-and-port throughput, Oyu Tolgoi ramp quality, Simandou construction, aluminium resilience, and lithium commissioning all compete for capital at once, making commodity exposure inseparable from logistics and project sequencing.
+- The new cross-company theme after adding Vale is that global ore systems are not interchangeable. `Rio Tinto` and `Vale` both monetize iron ore scale, but Vale adds the stronger trust-and-remediation overhang, the more visible BRL-and-freight sensitivity, and the clearer internal split between legacy ore cash generation and a separately emphasized copper-and-nickel growth lane.
+- The new cross-company theme after adding BHP is that giant diversified miners should not be treated as interchangeable bulk-materials proxies. `Rio Tinto` is the broader iron ore, aluminium, copper, lithium, and mega-project allocator; `Vale` is the Brazilian ore-corridor and trust-repair system; and `BHP` is the cleaner copper-forward diversified miner where iron ore still funds the platform but copper already dominates half-year EBITDA and potash remains a real long-cycle option.
+- The new cross-company theme after adding Anglo American is that the next generation of heavy-input winners may not just be the miners with the biggest ore systems. They may also be the ones willing to simplify aggressively, shed weaker portfolio pieces, and concentrate capital and management attention on copper, premium iron ore, and crop-nutrients demand tied to electrification, AI infrastructure, and food security.
+- The new cross-company theme after adding Glencore is that some heavy-input winners are not just miners at all in the narrow sense. They are systems businesses where marketing, logistics, inventory, and balance-sheet flexibility can monetize the same geopolitical and freight disruptions that hurt less integrated operators.
+- The new cross-company theme after adding First Quantum Minerals is that copper should not be treated as one uniform electrification commodity lane. `Freeport-McMoRan` is the giant-asset and operating-rights copper platform, `Southern Copper` is the more concentrated Peru/Mexico and by-product-supported platform, and `First Quantum` is the Zambia-and-Panama restart, leverage, hedge-rolloff, and project-optionality platform where political permission and recommissioning costs remain central.
+- The new cross-company theme after adding Hudbay Minerals is that by-product-supported copper systems deserve their own lane. `Southern Copper` uses silver, zinc, and molybdenum to reshape apparent copper economics inside a Peru/Mexico mining system, while `Hudbay` uses a more diversified copper-plus-gold portfolio across Peru, Manitoba, and British Columbia to drive negative or near-zero copper cash costs and fund a larger U.S. growth agenda.
+- The new cross-company theme after adding Lundin Mining is that copper should not be grouped only into giant-asset majors, by-product-heavy systems, or restart-risk stories. `Lundin` adds the simpler three-asset Chile-and-Brazil operating platform where portfolio simplification, net-cash discipline, weather and power disruptions, and district-scale growth optionality through `Vicuña` and `Los Helados` all matter at once.
+- The new cross-company theme after adding Ivanhoe Mines is that copper should not be grouped only into the Americas, giant diversified miners, or restart-risk systems. `Ivanhoe` adds the African JV-heavy, smelter-integrated, development-capital, and corridor-dependent version of copper exposure, where sulphuric-acid credits, tax settlements, inventory destocking, and project-finance depth are inseparable from mine performance.
+- The new cross-company theme after adding Lundin Gold is that gold should not be grouped only into diversified majors or broad precious-metals portfolios. `Lundin Gold` adds the concentrated high-grade single-asset version of gold exposure, where Ecuadorian taxes and statutory profit sharing, dividend aggressiveness, tailings and underground expansion needs, and district-scale exploration success all determine whether a world-class orebody remains a durable cash franchise rather than just a short-window payout story.
+- The new cross-company theme after adding The Mosaic Company is that heavy inputs should not be reduced to metals and hydrocarbons. Food-system inputs have their own bottlenecks: sulfur sourcing, phosphate-rock economics, Brazil distribution health, working-capital drag, and the mismatch between strategically necessary product demand and messy reported earnings.
+- The new cross-company theme after adding Kinross Gold is that gold also needs a middle archetype between mega-majors and concentrated single-asset plays. `Kinross` shows the multi-asset senior-miner version, where strong spot-price leverage can coexist with meaningful jurisdictional tax friction, visible buybacks and dividends, and a still-capital-hungry development queue that keeps the franchise tied to reinvestment discipline rather than pure cash harvesting.
+- The new cross-company theme after adding Enterprise Products Partners is that "pipelines" are still too blunt as a single label. `Kinder Morgan` is closer to the contract-backed natural-gas transport, storage, and backlog toll-road model, while `Enterprise Products Partners` is a denser integrated midstream-and-export system where processing plants, Mont Belvieu fractionation, marine terminals, petrochemical and refined-products logistics, and global demand for U.S. molecules all reshape the earnings engine.
+- The new cross-company theme after adding Enterprise Products Partners is that U.S. energy security and export strength increasingly sit inside a broader infrastructure stack than wellheads and interstate pipes alone. Processing, fractionation, export docks, and Gulf Coast logistics now function as strategic bottlenecks in their own right, and management is explicitly linking that system to LNG pull, NGL demand, industrial reshoring, electrification, and even AI and data-center power demand.
+- The new cross-company theme after adding Williams Companies is that even the "gas pipeline" lane now needs to be split more precisely. `Kinder Morgan` is the contract-backed pipe-and-storage toll road, `Enterprise Products Partners` is the integrated midstream and export complex, and `Williams` is the natural-gas transmission, storage, gathering, and power-demand bridge where `Transco`, Gulf Coast expansions, storage revenues, LNG pull, data-center power needs, and behind-the-meter power solutions increasingly reinforce one another.
+- The new cross-company theme after adding Williams Companies is that natural gas is no longer only a commodity transport story in these filings. It is increasingly the reliability layer behind LNG exports, industrial reshoring, and the AI and data-center electricity buildout, with companies like `Williams` trying to monetize that through both classic regulated infrastructure and newer power-innovation platforms.
+- The new cross-company theme after adding Halliburton Company is that the energy system cannot be read only through producers, refiners, and infrastructure owners. It also depends on a specialized delivery layer that translates customer budgets into drilled wells, completed wells, intervention work, software workflows, and real field execution, with international national-oil-company demand and North American short-cycle recovery behaving differently inside the same franchise.
+- The new cross-company theme after adding Halliburton Company is that oilfield services are no longer just a blunt rig-count beta. `SLB` is the broader global technology-and-services platform with stronger digital, reservoir, and production-system breadth, while `Halliburton` adds the more drilling, completions, North America recovery, electric-frac, and integrated-well-delivery version where execution intensity and capital discipline are central.
+- The new cross-company theme after adding Wheaton Precious Metals is that precious-metals exposure should not be reduced to mine ownership alone. `Wheaton` adds the streaming-and-royalty version, where the core edge comes from contract architecture, partner quality, balance-sheet capacity, and the ability to keep layering new deals like `Antamina`, `Hemlo`, `Spring Valley`, `Jervois`, `Spanish Mountain`, and `Cipango` on top of an already diversified base.
+- The new cross-company theme after adding Franco-Nevada is that royalty-and-streaming businesses are not identical either. `Wheaton` is the cleaner precious-metals streaming allocator, while `Franco-Nevada` adds the broader royalty-and-streaming platform where precious metals still dominate but oil, gas, NGL, iron ore, Cobre Panama restart optionality, and a very large debt-free acquisition capacity all materially change how commodity upside reaches the income statement.
+- The new cross-company theme after adding FMC is that agricultural-input systems should not be reduced to fertilizers alone. `CF Industries`, `Nutrien`, and `Mosaic` all express nutrient and crop-input economics through different mixes of production, conversion, and distribution, while `FMC` adds the agricultural-science and crop-protection chemistry version where the bottlenecks are patent expiry, generic entry, registration timing, manufacturing-cost position, grower affordability, and whether new active ingredients can outrun erosion in the legacy portfolio.
+- The new cross-company theme after adding Air Products is that heavy-input and chemicals coverage has to distinguish between steady industrial-gases infrastructure and capital-heavy hydrogen and ammonia megaproject exposure. `Air Products` behaves less like a normal commodity-chemicals name and more like a hybrid of contract-backed industrial utility, semiconductor and aerospace supply system, helium and pipeline network, and energy-transition capital allocator that can still absorb huge GAAP damage if project ambition outruns discipline.
+- The new cross-company theme after adding Celanese is that `Chemicals - Major Diversified` is too broad to be analytically useful on its own. `Dow` is the broader spread-cycle and materials-science platform, `Air Products` is the industrial-gases and megaproject infrastructure platform, `FMC` is the crop-protection and patent-reset platform, and `Celanese` is the more leveraged specialty-materials and acetyls repair platform where nylon optimization, segment mix, divestitures, refinancing, and near-term maturity management are central to the investment case.
+- The new cross-company theme after adding Westlake is that `Specialty Chemicals` can also be too blunt a label. `Celanese` is a specialty-materials and acetyls repair platform, while `Westlake` is a more downstream physical-systems packet where the built environment, water and pipe infrastructure, chlorovinyl spreads, North American feedstock advantage, and affordability-constrained housing all sit inside one integrated earnings model.
+- The new cross-company theme after adding LyondellBasell is that chemicals earnings are not just a demand story. They are also a geography, energy-security, and infrastructure story. `Celanese` shows specialty-materials and balance-sheet repair, `Westlake` shows downstream PVC and building-products conversion, and `LyondellBasell` shows how war, regional feedstock advantage, utilization, Europe footprint exits, and supply disruption can directly reprice a global plastics and petrochemicals platform.
+- The new cross-company theme after adding Ball is that packaging should not be treated as one undifferentiated consumer-adjacent category. `Graphic Packaging` shows the fiber-based paperboard and foodservice packaging middleware packet under affordability and cost pressure, while `Ball` shows the aluminum-container conversion packet where circularity, metal pass-through, beverage throughput, and post-divestiture cash returns create a different kind of industrial moat.
+- The new cross-company theme after adding Crown is that rigid packaging should not be reduced to a single aluminum-can story. `Ball` is the cleaner post-aerospace aluminum-container and circularity packet, while `Crown` adds the broader rigid-packaging infrastructure system where beverage cans still drive growth but food cans, aerosol containers, closures, tooling, transit packaging, leverage discipline, and global capacity siting all materially change the earnings model.
+- The new cross-company theme after adding `O-I Glass` is that rigid packaging should not be grouped only into aluminum throughput systems. `Ball` is the cleaner aluminum-container and circularity packet, `Crown` is the broader rigid-packaging infrastructure packet, and `O-I Glass` adds the glass-furnace version where energy intensity, plant-network optimization, local freight, premium-format positioning, and Europe-specific cost resets can reshape earnings far more violently than a generic packaging label would imply.
+- The new cross-company theme after adding `Silgan Holdings` is that packaging also has a mixed-format consumer-staples and components lane that should not be grouped only into substrate-specific systems. `Ball`, `Crown`, and `O-I Glass` are still useful substrate and plant-economics packets, but `Silgan` adds the closures, dispensing systems, pet-food metal cans, and custom-container model where packaging economics are shaped by customer-embedded components, pass-through formulas, acquisition integration, and the split between stable staple demand and higher-value packaging architecture.
+
+## Next recommended names
+
+- Do not prioritize `Civitas Resources` as a clean next add for this branch: as of `Monday, August 10, 2026`, AnnualReports still shows only a `2024` most recent annual report for Civitas, the saved IR overview states that Civitas merged with `SM Energy` effective `January 30, 2026`, and the post-merger reporting trail does not give a normal standalone `2025 annual report plus latest three standalone quarters` chain
+- Add the next strongest uncovered heavy-input system, or deepen packaging further only if another name adds a truly distinct lane beyond the existing aluminum-container, broader rigid-packaging, glass-furnace, and mixed-format components-and-staples packaging systems
+- If the remaining named areas become uneven, pick the strongest uncovered commodity, extraction, or heavy-input name independently and keep building the archive around signal quality rather than literal checklist order
+
+## Operating rule
+
+- If the remaining named industries or areas become thin, blocked, or low-quality, pick the next strongest uncovered company and area independently rather than waiting for a new assignment.
+
+## Worktree cautions
+
+- Shared repo-wide indexes were intentionally not updated on this branch; the coherent batch output for handoff is the packet tree plus this note.
+- Several thematic comparison bullets reference pre-existing archive packets such as `CF Industries`, `Nutrien`, `Dow`, and `Graphic Packaging`; those comparisons are context only and should not be read as additional completed names in this batch.
+- A direct completion audit against the extracted packet tree confirmed that all `80` companies counted in `## Companies completed` have the full extracted triad on disk: `company-packet.md`, `company-profile.md`, and `source-ledger.md`. The only audit friction was naming alias differences such as `Reliance` versus `reliance-steel-aluminum-co`, `BHP` versus `bhp-group-plc`, and `Air Products and Chemicals, Inc.` versus `air-products-chemicals-inc`.
+- The remaining untracked `Civitas Resources` raw folders are only an abandoned source stub and do not represent a completed company.
+- The remaining untracked `MPLX` IR PDFs and `events-presentations.html` file are low-value or bad local captures that were intentionally excluded from the packet.
+- The remaining untracked `Tourmaline` `2025-aif.pdf` file is a stray duplicate local artifact and does not indicate missing packet work.

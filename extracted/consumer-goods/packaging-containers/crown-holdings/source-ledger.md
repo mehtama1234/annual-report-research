@@ -1,0 +1,36 @@
+# Source Ledger
+
+Date baseline: 2026-08-10
+
+## Sources
+
+| ID | Source | Date | Type | Why it matters | Tag | Local path |
+|---|---|---|---|---|---|---|
+| CCK-T1 | AnnualReports verification note | 2026-08-10 | Aggregator verification note | Confirms `Consumer Goods / Packaging & Containers` taxonomy and notes that AnnualReports still lagged at `2024` | `[Reported]` | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/annualreports/consumer-goods/packaging-containers/crown-holdings/annualreports-verification.md) |
+| CCK-T2 | AnnualReports company page capture | 2026-08-10 | Aggregator page capture | Preserves local archive confirmation and company classification | `[Reported]` | [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/annualreports/consumer-goods/packaging-containers/crown-holdings/company-page-annualreports.html) |
+| CCK-T3 | Official IR verification note | 2026-08-10 | Official IR verification note | Confirms the annual-report route, result pages, and quarter window | `[Disclosed]` | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/crown-holdings/official-ir-verification.md) |
+| CCK-T4 | Investor relations overview page | 2026-08-10 capture | Official IR page | Confirms company description and annual-report promotion | `[Disclosed]` | [overview.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/crown-holdings/overview.html) |
+| CCK-T5 | Reports and filings page | 2026-08-10 capture | Official IR page | Confirms direct annual-report access and the supplemental quarter-material link structure | `[Disclosed]` | [reports-filings.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/crown-holdings/reports-filings.html) |
+| CCK-T6 | Results page and results index captures | 2026-08-10 capture | Official IR page | Preserves the current company-hosted results route locally | `[Disclosed]` | [results-page.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/crown-holdings/results-page.html) |
+| CCK-T7 | Official `2025` annual report PDF | 2026-03 | Annual report PDF | Core annual narrative, strategy, segment framing, and capital structure read | `[Disclosed]` | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/crown-holdings/2025-annual-report.pdf) |
+| CCK-T8 | Form `10-K` | 2026-02-27 | SEC filing HTML | Standalone annual filing for the fiscal year ended `2025-12-31` | `[Filed]` | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/crown-holdings/2025-10k.html) |
+| CCK-T9 | `Q2 2026` results page | 2026-07-20 | Earnings release HTML | Most recent quarter financial summary, buybacks, guidance raise, and volume commentary | `[Disclosed]` | [2026-q2-results.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/crown-holdings/2026-q2-results.html) |
+| CCK-T10 | `Q2 2026` supplemental investor information | 2026-07-20 | Supplemental PDF | Adds support for quarter detail beyond the release page | `[Disclosed]` | [2026-q2-supplemental.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/crown-holdings/2026-q2-supplemental.pdf) |
+| CCK-T11 | `Q2 2026` Form `10-Q` | 2026-07-30 | SEC filing HTML | Filed quarterly report for the quarter ended `2026-06-30` | `[Filed]` | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/crown-holdings/2026-q2-10q.html) |
+| CCK-T12 | `Q2 2026` Form `8-K` | 2026-07-20 | SEC filing HTML | Filing wrapper for the second-quarter results | `[Filed]` | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/crown-holdings/2026-q2-8k.html) |
+| CCK-T13 | `Q1 2026` results page | 2026-04-27 | Earnings release HTML | First-quarter financial summary and initial 2026 guidance framing | `[Disclosed]` | [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/crown-holdings/2026-q1-results.html) |
+| CCK-T14 | `Q1 2026` Form `10-Q` | 2026-05-01 | SEC filing HTML | Filed quarterly report for the quarter ended `2026-03-31` | `[Filed]` | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/crown-holdings/2026-q1-10q.html) |
+| CCK-T15 | `Q1 2026` Form `8-K` | 2026-04-27 | SEC filing HTML | Filing wrapper for the first-quarter results | `[Filed]` | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/crown-holdings/2026-q1-8k.html) |
+| CCK-T16 | `Q4 2025` results page | 2026-02-04 | Earnings release HTML | Full-year `2025` results, annual adjusted EBITDA, and leverage framing | `[Disclosed]` | [2025-q4-results.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/crown-holdings/2025-q4-results.html) |
+| CCK-T17 | `Q4 2025` Form `8-K` | 2026-02-04 | SEC filing HTML | Filing wrapper for the fourth-quarter and full-year results | `[Filed]` | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/crown-holdings/2025-q4-8k.html) |
+| CCK-T18 | SEC submissions index | 2026-08-10 capture | SEC submissions JSON | Verifies filing chronology and accession chain | `[Filed]` | [submissions-cik0001219601.json](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/crown-holdings/submissions-cik0001219601.json) |
+| CCK-T19 | Filing note | 2026-08-10 | Filing note | Records the correct trailing-quarter window and evidence hierarchy | `[Filed]` | [filing-note.md](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/crown-holdings/filing-note.md) |
+
+## Reconciliation notes
+
+- Crown has a complete annual evidence chain for the current scope: AnnualReports taxonomy confirmation, the official `2025` annual report PDF, and the standalone `2025` Form `10-K`
+- The trailing three-quarter window is covered with both official IR and SEC evidence:
+  - `Q2 2026`: results page, supplemental PDF, SEC `10-Q`, and SEC `8-K`
+  - `Q1 2026`: results page, SEC `10-Q`, and SEC `8-K`
+  - `Q4 2025`: results page, SEC `8-K`, and the annual `10-K`
+- Crown is a clean packet even without local transcripts because the company-hosted result pages and filed quarter reports were both accessible and detailed enough for the operating and balance-sheet read

@@ -105,8 +105,8 @@ These are the clearest current ownership calls for this thread.
 | Cluster | Why it belongs here |
 |---|---|
 | `Graphic Packaging`, `Sonoco`, `AptarGroup`, `Silgan`, `Clearwater Paper`, `International Paper`, `Packaging Corporation of America`, `Waste Management`, `Republic Services`, `Casella`, `Clean Harbors`, `CECO Environmental`, `Veralto`, `Ecolab` | hidden infrastructure behind visible consumer demand |
-| `Cloudflare`, `Cisco`, `Palo Alto Networks`, `Ciena`, `Corning` | control, trust, transport, and optical-input infrastructure |
-| `American Tower`, `Crown Castle`, `SBA Communications`, `Iridium`, `Viasat` | scarce access-layer ownership recurring tower-rent economics resilient off-grid coverage and sovereign or mobility connectivity ownership |
+| `Cloudflare`, `Akamai`, `Cisco`, `Arista Networks`, `Palo Alto Networks`, `Ciena`, `CommScope`, `Corning` | edge control, traffic acceleration, installed-base network control, AI-era fabric control, enterprise-trust governance, optical transport, inside-building and outside-plant distribution, and optical-input infrastructure |
+| `American Tower`, `Crown Castle`, `SBA Communications`, `Cogent`, `Lumen Technologies`, `Iridium`, `Viasat` | scarce access-layer ownership, terrestrial route-density and backbone control, recurring tower-rent economics, resilient off-grid coverage, and sovereign or mobility connectivity ownership |
 | `United Rentals`, `Fastenal`, `Ferguson`, `WESCO`, `Applied Industrial Technologies`, `Core & Main` | access-over-ownership, embedded procurement, branch-density service, engineering-heavy uptime support, and workflow control |
 | `Amazon`, `eBay`, `Airbnb`, `Booking`, `DoorDash`, `Instacart`, `Uber`, `Etsy` | coordination, trust, marketplace, and interface-control economics |
 | `Netflix`, `Spotify`, `Meta`, `Alphabet`, `Disney`, `Snap` | recurring attention rather than plain media or software classification |

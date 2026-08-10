@@ -77,21 +77,16 @@ Why this is first:
 - it remains one of the least ordinary and most structurally distinct blind spots
 - it now has the clearest live subtype map, which means the default next move is reuse or only a very selective subtype-opening extension rather than another routine packaging or waste packet
 
-### 2. Control-layer and hidden-connectivity extension
+### 2. Control-layer and connectivity extension
 
 Best current move:
 
 - extend the newer `Cloudflare` / `Akamai` / `Cisco` / `Arista Networks` / `Palo Alto Networks` / `Ciena` / `CommScope` / `Corning` lane only if another name adds a genuinely different edge-control, delivery-transition, installed-base enterprise-networking, architecture-specialist AI networking, enterprise-trust, optical-transport, downstream connectivity-equipment, or optical-input structure
-- extend the newer `American Tower` / `Crown Castle` / `SBA Communications` / `Cogent` / `Iridium` / `Viasat` lane only if another name adds a genuinely different tower-rent, stricter private-fiber ownership, satellite-resilience, or private-infrastructure structure
-- use [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md) and [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md) before taking a new name in either lane
+- use [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md) before taking a new name in this lane
 - `Akamai` is now the live delivery-to-security and edge-compute transition extension beside `Cloudflare`, `Cisco`, and `Palo Alto Networks`
 - `Arista Networks` is now the live architecture-specialist AI-networking and observability extension beside `Cisco` and `Palo Alto Networks`
 - `CommScope` is now the live downstream connectivity-equipment and broadband-access residual extension beside `Ciena` and `Corning`
-- `Cogent` is now the live terrestrial route-density and on-net private-connectivity extension beside the tower and orbital branches
-- `Iridium` is now the live satellite-resilience and off-grid coverage extension beside the tower trio
-- `Viasat` is now the live heavy-bandwidth satellite, mobility, and sovereign-access extension beside `Iridium`
 - the control-layer branch now has the sharper installed-base-versus-architecture specialist contrast already live through `Cisco` and `Arista Networks`
-- the next useful move in the hidden-connectivity branch is more likely a stricter private-fiber or dark-fiber ownership counterpoint than another tower, generic telecom, or second orbital name that does not sharpen a different structure
 
 Why this is second:
 
@@ -99,7 +94,25 @@ Why this is second:
 - they are exactly the kind of system the browse tree classifies badly
 - the next gain should come from subtype sharpening, not generic telecom or hardware backfill
 
-### 3. Physical-execution and embedded-workflow extension
+### 3. Hidden-connectivity and access-layer extension
+
+Best current move:
+
+- extend the newer `American Tower` / `Crown Castle` / `SBA Communications` / `Cogent` / `Lumen Technologies` / `Iridium` / `Viasat` lane only if another name adds a genuinely different tower-rent, stricter private-fiber ownership, terrestrial backbone-ownership, satellite-resilience, or private-infrastructure structure
+- use [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md) before taking a new name in this lane
+- `Cogent` is now the live terrestrial route-density and on-net private-connectivity extension beside the tower and orbital branches
+- `Lumen Technologies` is now the live broader fiber-backbone, enterprise-network, and portfolio-surgery terrestrial extension beside `Cogent`
+- `Iridium` is now the live satellite-resilience and off-grid coverage extension beside the tower trio
+- `Viasat` is now the live heavy-bandwidth satellite, mobility, and sovereign-access extension beside `Iridium`
+- the hidden-connectivity branch now has both a lean terrestrial route-density case and a broader terrestrial backbone-ownership case, so the next useful move is more likely a stricter private-fiber or dark-fiber ownership counterpoint than another tower, generic telecom, or second orbital name that does not sharpen a different structure
+
+Why this is third:
+
+- this is now a clean blind-spot lane rather than a generic telecom cluster
+- it is exactly the kind of physical access system the browse tree classifies badly
+- the next gain should come from subtype sharpening, not generic telecom backfill
+
+### 4. Physical-execution and embedded-workflow extension
 
 Best current move:
 
@@ -107,51 +120,51 @@ Best current move:
 - extend the lane only if another name adds a genuinely different access-over-ownership, embedded procurement, branch-density service, broad infrastructure-channel, engineering-heavy MRO, or civic-failure-response structure
 - use [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md) before taking a new workflow-control name
 
-Why this is third:
+Why this is fourth:
 
 - this is now a clean blind-spot lane rather than an industrial side note
 - the next useful move is workflow-model sharpening beyond the now-live six-part subtype map, not ordinary industrial packet accumulation
 
-### 4. Marketplace subtype extension
+### 5. Marketplace subtype extension
 
 Best current move:
 
 - extend the marketplace lane only if another name adds a genuinely different trust, coordination, travel-interface, delivery-layer, or participation structure beyond the existing `Amazon`, `eBay`, `Instacart`, `Etsy`, `DoorDash`, `Uber`, `Airbnb`, `Booking`, and `Expedia` set
 
-Why this is fourth:
+Why this is fifth:
 
 - the lane is already strong
 - the next gain must come from a new subtype, not from another generic marketplace summary
 
-### 5. Recurring-attention subtype extension
+### 6. Recurring-attention subtype extension
 
 Best current move:
 
 - extend the recurring-attention lane only if another name adds a genuinely different paid, mixed-monetization, ad-funded, infrastructure-widened, device-mediated, or franchise-linked attention structure beyond `Netflix`, `Spotify`, `Meta`, `Alphabet`, `Disney`, and `Snap`
 
-Why this is fifth:
+Why this is sixth:
 
 - the governance layer now explicitly treats recurring attention as first-class
 - the next addition should widen the subtype map rather than repeat the current roster
 
-### 6. Owned-demand boundary sharpening
+### 7. Owned-demand boundary sharpening
 
 Best current move:
 
 - extend the owned-demand lane only when another name materially sharpens direct-control versus wholesale, distributor, or interface dependence beyond `Warby Parker`, `YETI`, `Birkenstock`, `Nike`, `Levi Strauss`, and `Ulta`
 
-Why this is sixth:
+Why this is seventh:
 
 - the current boundary work is already usable
 - the next gain should come from a cleaner edge case rather than another standard apparel or brand name
 
-### 7. Retail-system subtype sharpening
+### 8. Retail-system subtype sharpening
 
 Best current move:
 
 - extend the retail-system lane only when another name materially sharpens utility, replenishment, discovery, brand-led, marketplace-led, membership-led, or project-led retail logic beyond the current `Amazon`, `Walmart`, `Costco`, `Kroger`, `Ross`, `Ulta`, `Best Buy`, `Home Depot`, `Nike`, and `eBay` structure
 
-Why this is seventh:
+Why this is eighth:
 
 - the lane is already broad and useful
 - the next addition must clarify subtype quality rather than add one more ordinary retailer

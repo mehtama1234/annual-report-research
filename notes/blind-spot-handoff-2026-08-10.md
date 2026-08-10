@@ -28,6 +28,10 @@ The main operating rule is:
 - this thread owns system-level blind spots in `AnnualReports`
 - this thread does not own ordinary uncovered sectors just because a browse-tree page is still thin
 
+The default next move is now selective research extension inside the owned lanes.
+
+Governance cleanup should be treated as rare and only triggered by a real contradiction in the control layer.
+
 Current status audit:
 
 - `notes/blind-spot-status-audit-2026-08-10.md`
@@ -192,8 +196,10 @@ High-confidence reuse files include:
 
 The infrastructure side of the lane now has a concrete four-lane reusable core:
 
-- `Cloudflare` / `Cisco` / `Palo Alto Networks` for edge control versus installed-base network control versus enterprise-trust governance
+- `Cloudflare` / `Akamai` / `Cisco` / `Arista Networks` / `Palo Alto Networks` for edge control versus traffic acceleration versus installed-base network control versus AI-era Ethernet fabric control versus enterprise-trust governance
+- `Ciena` / `CommScope` / `Corning` for optical transport intelligence versus inside-building and outside-plant distribution versus optical-input and fiber-material supply
 - `American Tower` / `Crown Castle` / `SBA Communications` for global access ownership versus domestic tower simplification versus pure-play tower rent
+- `Cogent` / `Lumen Technologies` for lean route-density and on-net enterprise connectivity versus broader backbone, enterprise-network, and portfolio-surgery ownership
 - `Iridium` for satellite-resilience, off-grid coverage, and assured timing or visibility where terrestrial infrastructure cannot cleanly follow
 - `Viasat` for heavier-bandwidth orbital mobility, sovereign-access, aviation, maritime, and government connectivity where terrestrial infrastructure is incomplete or strategically insufficient
 - `United Rentals` / `Fastenal` / `Ferguson` for outsourced equipment access versus embedded procurement control versus branch-density contractor service
@@ -257,6 +263,11 @@ The strongest next work is usually:
 - a direct comparison that sharpens an existing system split
 - synthesis work that widens a correction layer already in place
 
+The default assumption should now be:
+
+- the framework layer is clean enough for practical use
+- the next worker should move into research extension unless a real contradiction appears
+
 The strongest current examples are:
 
 - behind-the-shelf reuse first, and subtype extension only if a later name opens a genuinely different physical layer beyond the current five comparison outputs
@@ -264,8 +275,8 @@ The strongest current examples are:
 - marketplace subtype extension only if another name adds a genuinely different coordination or trust structure
 - hidden-infrastructure comparison extension only if another name sharpens the physical-layer split
 - consumer-behavior extension only if another name materially sharpens comfort, value, routine, ritual, identity, or participation beyond the current behavior-core comparisons
-- control-layer extension only if another name sharpens edge control, enterprise trust, optical transport, or optical-input supply beyond the current `Cloudflare` / `Cisco` / `Palo Alto Networks` split
-- hidden-connectivity extension only if another name sharpens tower rent, route-density fiber, satellite resilience, bandwidth-heavy orbital access, or private-infrastructure ownership beyond the current `American Tower` / `Crown Castle` / `SBA Communications` split and the live `Iridium` / `Viasat` orbital branch
+- control-layer extension only if another name sharpens edge control, traffic acceleration, enterprise trust, AI-era fabric control, optical transport, inside-building distribution, or optical-input supply beyond the current `Cloudflare` / `Akamai` / `Cisco` / `Arista Networks` / `Palo Alto Networks` and `Ciena` / `CommScope` / `Corning` splits
+- hidden-connectivity extension only if another name sharpens tower rent, route-density fiber, terrestrial backbone ownership, satellite resilience, bandwidth-heavy orbital access, or private-infrastructure ownership beyond the current `American Tower` / `Crown Castle` / `SBA Communications` split, the live `Cogent` / `Lumen Technologies` terrestrial branch, and the live `Iridium` / `Viasat` orbital branch
 - embedded-workflow extension only if another name sharpens access-over-ownership, embedded procurement, branch-density service control, or engineering-heavy MRO support beyond the current `United Rentals` / `Fastenal` / `Ferguson` split
 - owned-demand extension only if another name sharpens direct-control versus channel-dependence boundaries
 

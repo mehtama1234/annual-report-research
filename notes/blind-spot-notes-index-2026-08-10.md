@@ -23,6 +23,7 @@ When to read it:
 - when the first question is simply where to begin
 - when the next worker needs the first keep-versus-leave decision in one screen
 - when a worker needs the link out to the short ownership rule before claiming a company
+- when a worker needs the current default next move, which is now research extension unless a real contradiction appears
 
 ### 1. Operating handoff
 
@@ -107,6 +108,20 @@ When to read it:
 - when a worker needs the evidence-based answer for whether the framework layer is actually done
 - when the question is what is proven complete versus merely likely complete
 - when another thread needs a durable audit record before moving from governance cleanup into research expansion
+
+## Current operating bias
+
+The current repo state supports a simple startup bias:
+
+- treat the framework layer as complete enough for practical use
+- treat governance cleanup as rare and contradiction-driven
+- treat selective research extension as the default next move
+
+That bias is now explicit in:
+
+- `notes/blind-spot-quickstart-2026-08-10.md`
+- `notes/blind-spot-status-audit-2026-08-10.md`
+- `notes/blind-spot-framework-completion-audit-2026-08-10.md`
 
 ## How this fits with the control layer
 

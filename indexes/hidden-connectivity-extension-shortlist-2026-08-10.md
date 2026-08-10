@@ -4,14 +4,15 @@ Date baseline: 2026-08-10
 
 ## Purpose
 
-This file narrows the next-move question inside the hidden-connectivity and access-layer blind spot after the first terrestrial-route extension pass.
+This file narrows the next-move question inside the hidden-connectivity and access-layer blind spot after the terrestrial-route extension passes.
 
-The lane now has a live six-part subtype map:
+The lane now has a live seven-part subtype map:
 
 - `American Tower`
 - `Crown Castle`
 - `SBA Communications`
 - `Cogent`
+- `Lumen Technologies`
 - `Iridium`
 - `Viasat`
 
@@ -47,9 +48,11 @@ Related files:
 Status:
 
 - partly covered now through the live public-market route-density branch in `Cogent`
+- materially widened now through the live public-market fiber-backbone branch in `Lumen Technologies`
 
 Best candidates:
 
+- `Lumen Technologies`
 - `Zayo`
 
 Why this can be useful:
@@ -64,7 +67,8 @@ Best use:
 Current outcome:
 
 - `Cogent` now provides the live public-market route-density and on-net private-connectivity counterpoint
-- `Zayo` remains the better later candidate only if the archive needs the stricter private-fiber, dark-fiber, and buyout-ownership version of that same branch
+- `Lumen Technologies` now provides the live public-market fiber-backbone, enterprise-network, and portfolio-surgery counterpoint inside the same terrestrial branch
+- `Zayo` remains the better later candidate only if the archive needs the stricter private-fiber, dark-fiber, and buyout-ownership version beyond both current public-market terrestrial cases
 - `Zayo` should now also be treated as a private-company exception case rather than a normal public-company packet because the company completed its transition to private ownership in `2020`, and its current investor page says quarterly financial results are being made available to debtholders through a secure data site rather than through an ordinary public filing-and-IR chain
 
 ### 2. Distinct space-layer model beyond current orbital split
@@ -88,9 +92,9 @@ Best use:
 
 ## Why this ordering
 
-- the lane now has a clean tower-versus-route-versus-orbital split
+- the lane now has a clean tower-versus-terrestrial-route-versus-orbital split, and the terrestrial branch now has both a lean route-density case and a broader backbone-ownership case
 - the orbital branch already has a meaningful internal distinction between resilient narrowband coverage and heavier-bandwidth mobility or sovereign access
-- the default next move should be reuse of the current memo and index set unless the archive needs a stricter private-fiber ownership counterpoint than the now-live `Cogent` branch
+- the default next move should be reuse of the current memo and index set unless the archive needs a stricter private-fiber ownership counterpoint than the now-live `Cogent` and `Lumen` public-market branches
 - if `Zayo` is taken later, the worker should explicitly acknowledge that the source chain will be less standard than the normal annual-report plus trailing-quarter public-company pattern used elsewhere in the archive
 
 ## Strict take rule
@@ -106,4 +110,4 @@ If the result is only another generic telecom, carrier-adjacent, REIT, or satell
 
 The next high-payoff move inside this lane is not another ordinary communications infrastructure name.
 
-It is a stricter private-fiber or dark-fiber ownership counterpoint, or a genuinely different space-layer model that the current six-way split cannot already explain.
+It is a stricter private-fiber or dark-fiber ownership counterpoint, or a genuinely different space-layer model that the current seven-way split cannot already explain.

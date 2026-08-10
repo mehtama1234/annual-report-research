@@ -1,0 +1,35 @@
+# Source Ledger
+
+Date baseline: 2026-08-10
+
+## Sources
+
+| ID | Source | Date | Type | Why it matters | Tag | Local path |
+|---|---|---|---|---|---|---|
+| OI-T1 | AnnualReports verification note | 2026-08-10 | Aggregator verification note | Confirms `Consumer Goods / Packaging & Containers` taxonomy and the fact that AnnualReports still lagged at `2024` | `[Reported]` | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/annualreports/consumer-goods/packaging-containers/o-i-glass-inc/annualreports-verification.md) |
+| OI-T2 | AnnualReports company page capture | 2026-08-10 | Aggregator page capture | Preserves the AnnualReports company page locally for taxonomy and archive-status evidence | `[Reported]` | [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/annualreports/consumer-goods/packaging-containers/o-i-glass-inc/company-page-annualreports.html) |
+| OI-T3 | Official IR verification note | 2026-08-10 | Official IR verification note | Records the live-verified annual-report route and the Cloudflare limitation on saved IR HTML pages | `[Disclosed]` | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/o-i-glass-inc/official-ir-verification.md) |
+| OI-T4 | Official `2025` annual report PDF | 2026-02-12 | Annual report PDF | Core annual narrative, operating footprint, and management strategy framing | `[Disclosed]` | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/o-i-glass-inc/2025-annual-report.pdf) |
+| OI-T5 | Form `10-K` | 2026-02-12 | SEC filing HTML | Standalone annual filing for the fiscal year ended `2025-12-31` | `[Filed]` | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/o-i-glass-inc/2025-10k.html) |
+| OI-T6 | `Q4 2025` Form `8-K` | 2026-02-10 | SEC filing HTML | Filing wrapper for full-year and fourth-quarter `2025` results | `[Filed]` | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/o-i-glass-inc/2025-q4-8k.html) |
+| OI-T7 | `Q4 2025` earnings exhibit | 2026-02-10 | SEC Exhibit `99.1` HTML | Cleanest local quarter-results record for the annual close because the saved IR HTML page is only a challenge capture | `[Filed]` | [2025-q4-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/o-i-glass-inc/2025-q4-ex99-1.html) |
+| OI-T8 | `Q1 2026` earnings release PDF | 2026-04-28 | Earnings release PDF | Most direct official first-quarter summary and guidance reset | `[Disclosed]` | [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/o-i-glass-inc/2026-q1-earnings-release.pdf) |
+| OI-T9 | `Q1 2026` Form `10-Q` | 2026-04-29 | SEC filing HTML | Filed quarterly report for the quarter ended `2026-03-31` | `[Filed]` | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/o-i-glass-inc/2026-q1-10q.html) |
+| OI-T10 | `Q1 2026` Form `8-K` | 2026-04-28 | SEC filing HTML | Filing wrapper for first-quarter `2026` results | `[Filed]` | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/o-i-glass-inc/2026-q1-8k.html) |
+| OI-T11 | `Q1 2026` earnings exhibit | 2026-04-28 | SEC Exhibit `99.1` HTML | Reinforces shipments, segment profit, and revised guidance data | `[Filed]` | [2026-q1-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/o-i-glass-inc/2026-q1-ex99-1.html) |
+| OI-T12 | `Q2 2026` earnings release PDF | 2026-07-28 | Earnings release PDF | Most direct official second-quarter summary, Europe deterioration, and guidance reset | `[Disclosed]` | [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/o-i-glass-inc/2026-q2-earnings-release.pdf) |
+| OI-T13 | `Q2 2026` earnings presentation | 2026-07-28 | Presentation PDF | Adds segment, volume, and restructuring context for the latest quarter | `[Disclosed]` | [2026-q2-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/consumer-goods/packaging-containers/o-i-glass-inc/2026-q2-presentation.pdf) |
+| OI-T14 | `Q2 2026` Form `10-Q` | 2026-07-29 | SEC filing HTML | Filed quarterly report for the quarter ended `2026-06-30` | `[Filed]` | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/o-i-glass-inc/2026-q2-10q.html) |
+| OI-T15 | `Q2 2026` Form `8-K` | 2026-07-28 | SEC filing HTML | Filing wrapper for second-quarter `2026` results | `[Filed]` | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/o-i-glass-inc/2026-q2-8k.html) |
+| OI-T16 | `Q2 2026` earnings exhibit | 2026-07-28 | SEC Exhibit `99.1` HTML | Cleanest local source for latest-quarter headline metrics and guidance changes | `[Filed]` | [2026-q2-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/o-i-glass-inc/2026-q2-ex99-1.html) |
+| OI-T17 | SEC submissions index | 2026-08-10 capture | SEC JSON index | Preserves the accession chain and filing chronology for the packet | `[Filed]` | [submissions-cik0000812074.json](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/o-i-glass-inc/submissions-cik0000812074.json) |
+| OI-T18 | Filing note | 2026-08-10 | Filing note | Records the correct annual and trailing-quarter scope plus accessions | `[Filed]` | [filing-note.md](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/consumer-goods/packaging-containers/o-i-glass-inc/filing-note.md) |
+
+## Reconciliation notes
+
+- O-I has a complete annual evidence chain for the required scope: AnnualReports taxonomy confirmation, the official `2025` annual report PDF, and the standalone `2025` Form `10-K`.
+- The trailing three-quarter window is covered with official PDFs where available plus the SEC filing and Exhibit `99.1` chain:
+  - `Q2 2026`: official earnings-release PDF, presentation PDF, SEC `10-Q`, SEC `8-K`, and SEC Exhibit `99.1`
+  - `Q1 2026`: official earnings-release PDF, SEC `10-Q`, SEC `8-K`, and SEC Exhibit `99.1`
+  - `Q4 2025`: SEC `10-K`, SEC `8-K`, and SEC Exhibit `99.1`
+- Several saved O-I IR HTML pages are Cloudflare challenge captures, so the packet intentionally does not treat them as substantive evidence.

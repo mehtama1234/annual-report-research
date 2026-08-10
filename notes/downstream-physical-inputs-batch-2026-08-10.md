@@ -102,19 +102,28 @@ This batch should explicitly surface:
 - `Westlake Corporation` packet chain written
 - `Bunge Global SA` packet chain written
 - `Mueller Industries, Inc.` packet chain written
+- `CECO Environmental Corp.` packet chain written as an explicitly gap-scoped partial
 - Vulcan has stronger local raw capture, but still has a direct SEC artifact gap because scripted SEC fetches were blocked by SEC automation controls
 - Westlake now has a written packet and full verified IR / filing URL map, but remains partial because several official company artifacts were verified remotely rather than saved locally from the current shell environment
 - Bunge is now the strongest completed packet in the batch because the annual report, latest three quarters, transcripts, presentations, company-hosted quarter filings, and direct SEC filing references were all collected or preserved locally
 - Mueller is now also completed with locally saved annual and quarter artifacts plus direct SEC filing references, giving the batch a downstream installed-systems and metal-fabrication anchor
+- CECO now adds the pollution-and-treatment-controls lane with a complete annual / `Q4 2025` / `Q1 2026` evidence stack and a clearly documented `Q2 2026` reporting gap tied to the first Thermon combined quarter
 
 Current batch split:
 
 - completed: `Bunge Global SA`, `Mueller Industries, Inc.`
-- partial: `Vulcan Materials Company`, `Westlake Corporation`
+- partial: `Vulcan Materials Company`, `Westlake Corporation`, `CECO Environmental Corp.`
+
+## CECO gap note
+
+- On `2026-08-10`, CECO’s official quarterly-results page showed only a webcast link for `Q2 2026`.
+- The official `2026-08-05` rescheduling release said CECO needed additional time to complete financial reporting and review processes after the Thermon acquisition, expected to release results premarket on `2026-08-10`, and still expected to timely file the Form `10-Q`.
+- The SEC recent-submissions set collected on `2026-08-10` did not yet show the `Q2 2026` `10-Q` or earnings `8-K`.
+- That makes the CECO packet source-complete for the annual report, `Q4 2025`, and `Q1 2026`, but only gap-scoped partial for the latest quarter.
 
 ## Next recommended names after this batch
 
-- `CECO Environmental Corp.` for pollution and treatment controls
 - `Core & Main, Inc.` for building-materials distribution and water-infrastructure channel economics
 - `United Rentals, Inc.` for rental and leasing services
 - `WESCO International, Inc.` for industrial and electronics distribution
+- `Knife River Corporation` if the repo needs a second heavy-materials comparison alongside Vulcan

@@ -59,19 +59,19 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/heavy-construction/dycom-industries-inc/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/ir-source-links.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/heavy-construction/dycom-industries-inc/2025-10k.html)
-- [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/heavy-construction/dycom-industries-inc/2025-10k.pdf)
-- [2025-q3-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2025-q3-results-release.pdf)
-- [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/heavy-construction/dycom-industries-inc/2025-q3-10q.html)
-- [2025-q3-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2025-q3-transcript.pdf)
-- [2025-q4-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2025-q4-results-release.pdf)
-- [2025-q4-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2025-q4-transcript.pdf)
-- [2026-q1-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2026-q1-results-release.pdf)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/heavy-construction/dycom-industries-inc/2026-q1-10q.html)
-- [2026-q1-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2026-q1-transcript.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/industrial-goods/heavy-construction/dycom-industries-inc/annualreports-verification.md)
+- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/ir-source-links.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/heavy-construction/dycom-industries-inc/2025-10k.html)
+- [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/heavy-construction/dycom-industries-inc/2025-10k.pdf)
+- [2025-q3-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2025-q3-results-release.pdf)
+- [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/heavy-construction/dycom-industries-inc/2025-q3-10q.html)
+- [2025-q3-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2025-q3-transcript.pdf)
+- [2025-q4-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2025-q4-results-release.pdf)
+- [2025-q4-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2025-q4-transcript.pdf)
+- [2026-q1-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2026-q1-results-release.pdf)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/heavy-construction/dycom-industries-inc/2026-q1-10q.html)
+- [2026-q1-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/heavy-construction/dycom-industries-inc/2026-q1-transcript.pdf)
 
 ## Working interpretation
 

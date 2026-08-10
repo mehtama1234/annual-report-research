@@ -1,0 +1,37 @@
+# Source Ledger
+
+Date baseline: 2026-08-10
+
+## Sources
+
+| ID | Source | Date | Type | Why it matters | Tag | Local path |
+|---|---|---|---|---|---|---|
+| CRWD-T1 | AnnualReports.com CrowdStrike verification note | 2026-08-10 | Aggregator verification note | Confirms `Technology / Application Software` taxonomy and the annual-report lag | `[Reported]` | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/application-software/crowdstrike-holdings-inc/annualreports-verification.md) |
+| CRWD-T2 | AnnualReports.com company page snapshot | 2026-08-10 collected | Aggregator HTML snapshot | Preserves company identity and lagging annual archive status | `[Reported]` | [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/application-software/crowdstrike-holdings-inc/company-page.html) |
+| CRWD-T3 | CrowdStrike IR source-links note | 2026-08-10 | Official IR source note | Logs the official annual and quarter URLs used for the packet | `[Disclosed]` | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/crowdstrike-holdings-inc/ir-source-links.md) |
+| CRWD-T4 | Investor relations home page | 2026-08-10 collected | Official IR HTML snapshot | Preserves the live investor-relations entry point and confirms the results-and-filings navigation | `[Disclosed]` | [ir-home.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/crowdstrike-holdings-inc/ir-home.html) |
+| CRWD-T5 | Quarterly results page | 2026-08-10 collected | Official IR HTML snapshot | Preserves the official quarter-results listing and supplemental-presentation links | `[Disclosed]` | [quarterly-results.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/crowdstrike-holdings-inc/quarterly-results.html) |
+| CRWD-T6 | Annual meeting page | 2026-08-10 collected | Official IR HTML snapshot | Preserves the page that exposed the FY2026 `10-K` PDF and proxy materials | `[Disclosed]` | [annual-meeting.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/crowdstrike-holdings-inc/annual-meeting.html) |
+| CRWD-T7 | FY2026 Form `10-K` PDF | 2026-03-05 filed / 2026-08-10 collected | Official IR PDF | Official IR-hosted PDF copy of the annual filing for the year ended `2026-01-31` | `[Disclosed]` | [2026-10k-pdf.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/crowdstrike-holdings-inc/2026-10k-pdf.pdf) |
+| CRWD-T8 | SEC submissions index | 2026-08-10 collected | SEC submissions JSON | Verifies filer identity, fiscal year-end, and the exact annual-plus-quarter filing sequence | `[Filed]` | [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/crowdstrike-holdings-inc/sec-submissions.json) |
+| CRWD-T9 | FY2026 Form `10-K` HTML | 2026-03-05 filed / 2026-08-10 collected | SEC filing HTML | Annual filing for the fiscal year ended `2026-01-31` | `[Filed]` | [2026-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/crowdstrike-holdings-inc/2026-10k.html) |
+| CRWD-T10 | FY2026 Q3 results release | 2025-12-02 published / 2026-08-10 collected | Official company release HTML | Preserves the pre-annual acceleration read around Flex, AI demand, and partner expansion | `[Disclosed]` | [2026-q3-results-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/crowdstrike-holdings-inc/2026-q3-results-release.html) |
+| CRWD-T11 | FY2026 Q3 Form `10-Q` | 2025-12-03 filed / 2026-08-10 collected | SEC filing HTML | Quarter filing for the period ended `2025-10-31` | `[Filed]` | [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/crowdstrike-holdings-inc/2026-q3-10q.html) |
+| CRWD-T12 | FY2026 Q3 earnings `8-K` exhibit chain | 2025-12-02 filed / 2026-08-10 collected | SEC filing and exhibit HTML | Filing wrapper plus exhibit for the quarter release and metrics | `[Filed]` | [2026-q3-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/crowdstrike-holdings-inc/2026-q3-ex99-1.html) |
+| CRWD-T13 | FY2026 Q4 / full-year results release | 2026-03-03 published / 2026-08-10 collected | Official company release HTML | Preserves the annual operating narrative and AI-security-infrastructure positioning | `[Disclosed]` | [2026-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/crowdstrike-holdings-inc/2026-q4-results-release.html) |
+| CRWD-T14 | FY2026 Q4 earnings `8-K` exhibit chain | 2026-03-03 filed / 2026-08-10 collected | SEC filing and exhibit HTML | Filing wrapper plus exhibit for the latest annual-quarter release | `[Filed]` | [2026-q4-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/crowdstrike-holdings-inc/2026-q4-ex99-1.html) |
+| CRWD-T15 | FY2027 Q1 results release | 2026-06-03 published / 2026-08-10 collected | Official company release HTML | Preserves the latest reported-quarter narrative around AI security, QuiltWorks, and cash flow | `[Disclosed]` | [2027-q1-results-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/crowdstrike-holdings-inc/2027-q1-results-release.html) |
+| CRWD-T16 | FY2027 Q1 Form `10-Q` | 2026-06-04 filed / 2026-08-10 collected | SEC filing HTML | Quarter filing for the period ended `2026-04-30` | `[Filed]` | [2027-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/crowdstrike-holdings-inc/2027-q1-10q.html) |
+| CRWD-T17 | FY2027 Q1 earnings `8-K` exhibit chain | 2026-06-03 filed / 2026-08-10 collected | SEC filing and exhibit HTML | Filing wrapper plus exhibit for the latest reported quarter | `[Filed]` | [2027-q1-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/crowdstrike-holdings-inc/2027-q1-ex99-1.html) |
+
+## Reconciliation notes
+
+- AnnualReports still lagged at `2024`, so the official CrowdStrike IR and SEC chain are the controlling authorities for the current annual package and the latest three reported quarters.
+- Because CrowdStrike's fiscal year ends on January 31, the correct annual anchor as of Monday, August 10, 2026 is the fiscal `2026` annual filing for the year ended `2026-01-31`, not a calendar-`2025` annual package.
+- The latest three reported quarters as of `2026-08-10` are FY2027 `Q1`, FY2026 `Q4`, and FY2026 `Q3`.
+- The official IR annual-meeting page exposed a PDF copy of the FY2026 Form `10-K`, which closes the annual-report requirement even though AnnualReports.com had not yet caught up.
+
+## Missing evidence
+
+- No locally saved standalone earnings-call transcript artifact is present for FY2026 `Q3`, FY2026 `Q4`, or FY2027 `Q1`.
+- No separate glossy annual-report PDF distinct from the official IR-hosted FY2026 Form `10-K` PDF is preserved locally.

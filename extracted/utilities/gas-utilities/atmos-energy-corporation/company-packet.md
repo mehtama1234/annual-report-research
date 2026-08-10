@@ -60,17 +60,17 @@ Note: for off-calendar utilities like Atmos, the trailing-three-quarter set as o
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/utilities/gas-utilities/atmos-energy-corporation/annualreports-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/2025-annual-report.pdf)
-- [investor-home.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/investor-home.html)
-- [annual-reports.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/annual-reports.html)
-- [quarterly-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/quarterly-results.html)
-- [sec-filings-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/sec-filings-page.html)
-- [2025-q4-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/2025-q4-earnings-presentation.pdf)
-- [2026-q1-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/2026-q1-earnings-presentation.pdf)
-- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/2026-q2-earnings-presentation.pdf)
-- [2026-q3-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/2026-q3-earnings-presentation.pdf)
-- [submissions-cik0000731802.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/utilities/gas-utilities/atmos-energy-corporation/submissions-cik0000731802.json)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/utilities/gas-utilities/atmos-energy-corporation/annualreports-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/2025-annual-report.pdf)
+- [investor-home.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/investor-home.html)
+- [annual-reports.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/annual-reports.html)
+- [quarterly-results.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/quarterly-results.html)
+- [sec-filings-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/sec-filings-page.html)
+- [2025-q4-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/2025-q4-earnings-presentation.pdf)
+- [2026-q1-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/2026-q1-earnings-presentation.pdf)
+- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/2026-q2-earnings-presentation.pdf)
+- [2026-q3-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/gas-utilities/atmos-energy-corporation/2026-q3-earnings-presentation.pdf)
+- [submissions-cik0000731802.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/utilities/gas-utilities/atmos-energy-corporation/submissions-cik0000731802.json)
 
 ## Working interpretation
 

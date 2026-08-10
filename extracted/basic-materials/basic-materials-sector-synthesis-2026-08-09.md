@@ -7,25 +7,25 @@ Date baseline: 2026-08-09
 This synthesis is based on the completed Basic Materials packets currently in the archive:
 
 - Integrated energy:
-  - [Exxon Mobil Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/company-packet.md)
+  - [Exxon Mobil Corporation](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/company-packet.md)
 - Copper and mining:
-  - [Freeport-McMoRan Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/copper/freeport-mcmoran-inc/company-packet.md)
+  - [Freeport-McMoRan Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/copper/freeport-mcmoran-inc/company-packet.md)
 - Steel and domestic manufacturing:
-  - [Nucor Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/steel-iron/nucor-corporation/company-packet.md)
-  - [Reliance, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/steel-iron/reliance-steel-aluminum-co/company-packet.md)
+  - [Nucor Corporation](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/steel-iron/nucor-corporation/company-packet.md)
+  - [Reliance, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/steel-iron/reliance-steel-aluminum-co/company-packet.md)
 - Wood products and housing inputs:
-  - [West Fraser Timber Co. Ltd.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/lumber-wood-production/west-fraser-timber-co-ltd/company-packet.md)
+  - [West Fraser Timber Co. Ltd.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/lumber-wood-production/west-fraser-timber-co-ltd/company-packet.md)
 - Paperboard and packaging:
-  - [Clearwater Paper Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/paper-paper-products/clearwater-paper-corp/company-packet.md)
+  - [Clearwater Paper Corp](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/paper-paper-products/clearwater-paper-corp/company-packet.md)
 - Agricultural inputs:
-  - [Nutrien Ltd.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/agricultural-chemicals/nutrien/company-packet.md)
-  - [CF Industries Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/agricultural-chemicals/cf-industries-holdings-inc/company-packet.md)
+  - [Nutrien Ltd.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/agricultural-chemicals/nutrien/company-packet.md)
+  - [CF Industries Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/agricultural-chemicals/cf-industries-holdings-inc/company-packet.md)
 - Diversified chemicals and materials science:
-  - [Dow Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/chemicals-major-diversified/dow-inc/company-packet.md)
+  - [Dow Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/chemicals-major-diversified/dow-inc/company-packet.md)
 - Coatings and controlled distribution:
-  - [The Sherwin-Williams Company](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/specialty-chemicals/the-sherwin-williams-company/company-packet.md)
+  - [The Sherwin-Williams Company](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/specialty-chemicals/the-sherwin-williams-company/company-packet.md)
 - Aluminum system:
-  - [Alcoa Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/aluminum/alcoa-corporation/company-packet.md)
+  - [Alcoa Corporation](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/aluminum/alcoa-corporation/company-packet.md)
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-09`: `Q4 2025`, `Q1 2026`, and `Q2 2026`.
 

@@ -6,7 +6,7 @@ Date baseline: 2026-08-09
 
 This memo turns the completed `Financial` packet set into an interface-based framework rather than a simple sector summary. It is based on the current financial synthesis plus the completed company packets already in the archive:
 
-- [financial-sector-synthesis-2026-08-09.md](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/financial-sector-synthesis-2026-08-09.md)
+- [financial-sector-synthesis-2026-08-09.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/financial/financial-sector-synthesis-2026-08-09.md)
 - money-center banks: JPMorgan, Bank of America, Citigroup
 - consumer payments and credit: American Express
 - insurance: Chubb
@@ -16,8 +16,8 @@ This memo turns the completed `Financial` packet set into an interface-based fra
 
 Operational indexes:
 
-- [Financial Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/financial-interface-research-index-2026-08-09.md)
-- [financial-interface-research-index-2026-08-09.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/financial-interface-research-index-2026-08-09.csv)
+- [Financial Interface Research Index](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/financial-interface-research-index-2026-08-09.md)
+- [financial-interface-research-index-2026-08-09.csv](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/financial-interface-research-index-2026-08-09.csv)
 
 ## Executive read
 

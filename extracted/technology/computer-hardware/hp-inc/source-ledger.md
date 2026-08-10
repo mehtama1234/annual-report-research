@@ -5,7 +5,7 @@
 - Company page verified on 2026-08-09:
   - https://www.annualreports.com/Company/hewlett-packard-company
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/computer-hardware/hp-inc/annualreports-verification.md)
+  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/computer-hardware/hp-inc/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -24,19 +24,19 @@
 - FY2025 annual filing page:
   - https://investor.hp.com/financials/sec-filings/sec-filings-details/default.aspx?FilingId=18988595
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/computer-hardware/hp-inc/ir-source-links.md)
+  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/computer-hardware/hp-inc/ir-source-links.md)
 
 ## Saved local artifacts
 
 - Annual report PDF:
-  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/computer-hardware/hp-inc/2025-annual-report.pdf)
+  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/computer-hardware/hp-inc/2025-annual-report.pdf)
 - SEC submission index:
-  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/computer-hardware/hp-inc/sec-submissions.json)
+  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/computer-hardware/hp-inc/sec-submissions.json)
 - Annual filing:
-  - [hpq-20251031.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/computer-hardware/hp-inc/hpq-20251031.htm)
+  - [hpq-20251031.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/computer-hardware/hp-inc/hpq-20251031.htm)
 - Quarterly filing chain:
-  - [hpq-20251125.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/computer-hardware/hp-inc/hpq-20251125.htm)
-  - [hpq-20260131.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/computer-hardware/hp-inc/hpq-20260131.htm)
-  - [hpq-20260224.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/computer-hardware/hp-inc/hpq-20260224.htm)
-  - [hpq-20260430.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/computer-hardware/hp-inc/hpq-20260430.htm)
-  - [hpq-20260527.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/computer-hardware/hp-inc/hpq-20260527.htm)
+  - [hpq-20251125.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/computer-hardware/hp-inc/hpq-20251125.htm)
+  - [hpq-20260131.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/computer-hardware/hp-inc/hpq-20260131.htm)
+  - [hpq-20260224.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/computer-hardware/hp-inc/hpq-20260224.htm)
+  - [hpq-20260430.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/computer-hardware/hp-inc/hpq-20260430.htm)
+  - [hpq-20260527.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/computer-hardware/hp-inc/hpq-20260527.htm)

@@ -6,10 +6,10 @@ Date baseline: 2026-08-09
 
 This memo pulls together the current Services packets that are most useful for understanding repeated consumer behavior, digital relationship ownership, and monetization layers built on top of habit:
 
-- [Starbucks Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/starbucks-corporation/company-packet.md)
-- [McDonald's Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/mcdonalds-corporation/company-packet.md)
-- [Domino's Pizza, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/dominos-pizza-inc/company-packet.md)
-- [Netflix, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/music-video-stores/netflix-inc/company-packet.md)
+- [Starbucks Corporation](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/restaurants/starbucks-corporation/company-packet.md)
+- [McDonald's Corporation](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/restaurants/mcdonalds-corporation/company-packet.md)
+- [Domino's Pizza, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/restaurants/dominos-pizza-inc/company-packet.md)
+- [Netflix, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/music-video-stores/netflix-inc/company-packet.md)
 
 ## Executive read
 

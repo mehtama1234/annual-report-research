@@ -54,21 +54,21 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/home-improvement-stores/lowes-companies-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/home-improvement-stores/lowes-companies-inc/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-10k.html)
-- [2025-q3-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q3-earnings-release.pdf)
-- [2025-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q3-8k.html)
-- [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q3-10q.html)
-- [2025-q3-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q3-earnings-call-transcript.pdf)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q4-earnings-release.pdf)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q4-8k.html)
-- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q4-earnings-call-transcript.pdf)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/home-improvement-stores/lowes-companies-inc/2026-q1-earnings-release.pdf)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2026-q1-10q.html)
-- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/consumer-goods/home-improvement-stores/lowes-companies-inc/2026-q1-earnings-call-transcript.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/home-improvement-stores/lowes-companies-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/home-improvement-stores/lowes-companies-inc/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-10k.html)
+- [2025-q3-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q3-earnings-release.pdf)
+- [2025-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q3-8k.html)
+- [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q3-10q.html)
+- [2025-q3-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q3-earnings-call-transcript.pdf)
+- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q4-earnings-release.pdf)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q4-8k.html)
+- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/consumer-goods/home-improvement-stores/lowes-companies-inc/2025-q4-earnings-call-transcript.pdf)
+- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/home-improvement-stores/lowes-companies-inc/2026-q1-earnings-release.pdf)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/home-improvement-stores/lowes-companies-inc/2026-q1-10q.html)
+- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/consumer-goods/home-improvement-stores/lowes-companies-inc/2026-q1-earnings-call-transcript.pdf)
 
 ## Working interpretation
 

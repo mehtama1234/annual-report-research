@@ -1,6 +1,6 @@
 # Industry Brief Template
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-10
 
 ## Industry
 

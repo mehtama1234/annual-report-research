@@ -79,9 +79,9 @@ Services earnings are currently being shaped more by pricing discipline, recurri
 
 ## Source pointers
 
-- [Services sector brief](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors/services-sector-initial-brief.md)
-- [C.H. Robinson company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/air-delivery-freight-services/ch-robinson-worldwide-inc/company-packet.md)
-- [UPS company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/air-delivery-freight-services/united-parcel-service-inc/company-packet.md)
-- [Rollins company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/personal-services/rollins-inc/company-packet.md)
-- [APi Group company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/business-services/api-group-corporation/company-packet.md)
-- [Cintas company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/business-services/cintas-corporation/company-packet.md)
+- [Services sector brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/sectors/services-sector-initial-brief.md)
+- [C.H. Robinson company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/air-delivery-freight-services/ch-robinson-worldwide-inc/company-packet.md)
+- [UPS company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/air-delivery-freight-services/united-parcel-service-inc/company-packet.md)
+- [Rollins company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/personal-services/rollins-inc/company-packet.md)
+- [APi Group company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/business-services/api-group-corporation/company-packet.md)
+- [Cintas company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/business-services/cintas-corporation/company-packet.md)

@@ -54,18 +54,18 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/internet-service-providers/ebay/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/internet-service-providers/ebay/official-ir-verification.md)
-- [2025-q4-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/internet-service-providers/ebay/2025-q4-results.html)
-- [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/internet-service-providers/ebay/2026-q1-results.html)
-- [2026-q2-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/internet-service-providers/ebay/2026-q2-results.html)
-- [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/internet-service-providers/ebay/2025-annual-report-ars.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/internet-service-providers/ebay/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/internet-service-providers/ebay/2025-q4-8k.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/internet-service-providers/ebay/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/internet-service-providers/ebay/2026-q1-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/internet-service-providers/ebay/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/internet-service-providers/ebay/2026-q2-10q.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/internet-service-providers/ebay/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/internet-service-providers/ebay/official-ir-verification.md)
+- [2025-q4-results.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/internet-service-providers/ebay/2025-q4-results.html)
+- [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/internet-service-providers/ebay/2026-q1-results.html)
+- [2026-q2-results.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/internet-service-providers/ebay/2026-q2-results.html)
+- [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/internet-service-providers/ebay/2025-annual-report-ars.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/internet-service-providers/ebay/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/internet-service-providers/ebay/2025-q4-8k.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/internet-service-providers/ebay/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/internet-service-providers/ebay/2026-q1-10q.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/internet-service-providers/ebay/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/internet-service-providers/ebay/2026-q2-10q.html)
 
 ## Working interpretation
 

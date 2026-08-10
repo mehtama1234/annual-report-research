@@ -87,11 +87,11 @@ The Basic Materials archive now shows that commodity exposure is not a generic i
 
 ## Source pointers
 
-- [Basic Materials sector brief](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors/basic-materials-sector-initial-brief.md)
-- [ExxonMobil company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/company-packet.md)
-- [CF Industries company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/agricultural-chemicals/cf-industries-holdings-inc/company-packet.md)
-- [Nutrien company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/agricultural-chemicals/nutrien/company-packet.md)
-- [Freeport-McMoRan company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/copper/freeport-mcmoran-inc/company-packet.md)
-- [Alcoa company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/aluminum/alcoa-corporation/company-packet.md)
-- [West Fraser company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/lumber-wood-production/west-fraser-timber-co-ltd/company-packet.md)
-- [Clearwater company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/paper-paper-products/clearwater-paper-corp/company-packet.md)
+- [Basic Materials sector brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/sectors/basic-materials-sector-initial-brief.md)
+- [ExxonMobil company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/company-packet.md)
+- [CF Industries company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/agricultural-chemicals/cf-industries-holdings-inc/company-packet.md)
+- [Nutrien company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/agricultural-chemicals/nutrien/company-packet.md)
+- [Freeport-McMoRan company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/copper/freeport-mcmoran-inc/company-packet.md)
+- [Alcoa company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/aluminum/alcoa-corporation/company-packet.md)
+- [West Fraser company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/lumber-wood-production/west-fraser-timber-co-ltd/company-packet.md)
+- [Clearwater company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/basic-materials/paper-paper-products/clearwater-paper-corp/company-packet.md)

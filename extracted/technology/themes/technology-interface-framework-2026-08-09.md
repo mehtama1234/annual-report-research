@@ -6,8 +6,8 @@ Date baseline: 2026-08-09
 
 This memo turns the completed `Technology` packet set into an interface-based framework rather than a simple stack summary. It is based on the current technology synthesis plus the completed company packets already in the archive:
 
-- [technology-sector-synthesis-2026-08-09.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/technology-sector-synthesis-2026-08-09.md)
-- [Technology Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/technology-interface-research-index-2026-08-09.md)
+- [technology-sector-synthesis-2026-08-09.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/technology/technology-sector-synthesis-2026-08-09.md)
+- [Technology Interface Research Index](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/technology-interface-research-index-2026-08-09.md)
 - hyperscale and platform software: Microsoft, Alphabet, ServiceNow, Adobe
 - consumer and ecosystem platforms: Apple, Meta, Spotify, Snap
 - infrastructure, networking, security, and systems: NVIDIA, Cisco, Arista, Palo Alto Networks, Dell, HP, Intel, Micron

@@ -53,13 +53,13 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/textile-apparel-clothing/tapestry-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/textile-apparel-clothing/tapestry-inc/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/textile-apparel-clothing/tapestry-inc/official-ir-verification.md)
-- [investor-overview.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/textile-apparel-clothing/tapestry-inc/investor-overview.html)
-- [quarterly-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/textile-apparel-clothing/tapestry-inc/quarterly-results.html)
-- [events-presentations.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/textile-apparel-clothing/tapestry-inc/events-presentations.html)
-- [submissions-cik0001116132.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/textile-apparel-clothing/tapestry-inc/submissions-cik0001116132.json)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/textile-apparel-clothing/tapestry-inc/annualreports-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/textile-apparel-clothing/tapestry-inc/company-page.html)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/textile-apparel-clothing/tapestry-inc/official-ir-verification.md)
+- [investor-overview.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/textile-apparel-clothing/tapestry-inc/investor-overview.html)
+- [quarterly-results.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/textile-apparel-clothing/tapestry-inc/quarterly-results.html)
+- [events-presentations.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/textile-apparel-clothing/tapestry-inc/events-presentations.html)
+- [submissions-cik0001116132.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/textile-apparel-clothing/tapestry-inc/submissions-cik0001116132.json)
 
 ## Working interpretation
 

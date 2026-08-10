@@ -1,6 +1,6 @@
 # Company Profile Template
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -17,6 +17,7 @@ Date baseline: 2026-08-08
 
 ## Coverage status
 
+- Lane:
 - Target annual report year: 2025
 - Target quarter window:
   - quarter 1:
@@ -52,6 +53,7 @@ Date baseline: 2026-08-08
 - Capital allocation:
 - Segment mix:
 - Operational issues:
+- Lane role:
 - Consumer / cultural signals:
 - Management tone:
 

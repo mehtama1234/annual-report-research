@@ -53,16 +53,16 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/apparel-stores/american-eagle-outfitters-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/apparel-stores/american-eagle-outfitters-inc/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/apparel-stores/american-eagle-outfitters-inc/official-ir-verification.md)
-- [submissions-cik0000919012.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/submissions-cik0000919012.json)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2025-q4-8k.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2026-q1-10q.html)
-- [2025-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2025-q3-8k.html)
-- [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2025-q3-10q.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/apparel-stores/american-eagle-outfitters-inc/annualreports-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/apparel-stores/american-eagle-outfitters-inc/company-page.html)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/apparel-stores/american-eagle-outfitters-inc/official-ir-verification.md)
+- [submissions-cik0000919012.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/submissions-cik0000919012.json)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2025-q4-8k.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2026-q1-10q.html)
+- [2025-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2025-q3-8k.html)
+- [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/american-eagle-outfitters-inc/2025-q3-10q.html)
 
 ## Working interpretation
 

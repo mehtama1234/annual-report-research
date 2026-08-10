@@ -54,21 +54,21 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/basic-materials/specialty-chemicals/the-sherwin-williams-company/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-10k.html)
-- [2025-q4-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-q4-earnings-release.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-q4-8k.html)
-- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-q4-earnings-call-transcript.pdf)
-- [2026-q1-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-earnings-release.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-10q.html)
-- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-earnings-call-transcript.pdf)
-- [2026-q2-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-earnings-release.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-10q.html)
-- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-earnings-call-transcript.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/basic-materials/specialty-chemicals/the-sherwin-williams-company/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-10k.html)
+- [2025-q4-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-q4-earnings-release.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-q4-8k.html)
+- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-q4-earnings-call-transcript.pdf)
+- [2026-q1-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-earnings-release.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-10q.html)
+- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q1-earnings-call-transcript.pdf)
+- [2026-q2-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-earnings-release.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-10q.html)
+- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/basic-materials/specialty-chemicals/the-sherwin-williams-company/2026-q2-earnings-call-transcript.pdf)
 
 ## Working interpretation
 

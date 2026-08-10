@@ -70,8 +70,8 @@ The archive now has enough evidence to map `the-graying-market` explicitly. Broo
 
 ## Source pointers
 
-- [Brookdale company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
-- [UnitedHealth company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
-- [HCA company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
-- [Abbott company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md)
-- [Healthcare sector brief](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors/healthcare-sector-initial-brief.md)
+- [Brookdale company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
+- [UnitedHealth company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
+- [HCA company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
+- [Abbott company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md)
+- [Healthcare sector brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/sectors/healthcare-sector-initial-brief.md)

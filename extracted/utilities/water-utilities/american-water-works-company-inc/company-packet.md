@@ -58,16 +58,16 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/utilities/water-utilities/american-water-works-company-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2025-annual-report.pdf)
-- [2025-q4-results-release-note.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2025-q4-results-release-note.md)
-- [2025-q4-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2025-q4-earnings-presentation.pdf)
-- [2026-q1-results-release-note.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2026-q1-results-release-note.md)
-- [2026-q1-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2026-q1-earnings-presentation.pdf)
-- [2026-q2-results-release-note.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2026-q2-results-release-note.md)
-- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2026-q2-earnings-presentation.pdf)
-- [submissions-cik0001410636.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/utilities/water-utilities/american-water-works-company-inc/submissions-cik0001410636.json)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/utilities/water-utilities/american-water-works-company-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2025-annual-report.pdf)
+- [2025-q4-results-release-note.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2025-q4-results-release-note.md)
+- [2025-q4-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2025-q4-earnings-presentation.pdf)
+- [2026-q1-results-release-note.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2026-q1-results-release-note.md)
+- [2026-q1-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2026-q1-earnings-presentation.pdf)
+- [2026-q2-results-release-note.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2026-q2-results-release-note.md)
+- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/utilities/water-utilities/american-water-works-company-inc/2026-q2-earnings-presentation.pdf)
+- [submissions-cik0001410636.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/utilities/water-utilities/american-water-works-company-inc/submissions-cik0001410636.json)
 
 ## Working interpretation
 

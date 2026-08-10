@@ -6,16 +6,15 @@ Date baseline: 2026-08-10
 
 - Company: Charter Communications, Inc.
 - Ticker: CHTR
-- Exchange: OTC on AnnualReports taxonomy page; primary public listing context is NASDAQ
+- Exchange: Nasdaq
 - Sector: Services
 - Industry: CATV Systems
-- SEC SIC description: Cable and Other Pay Television Services
+- SEC SIC description: Cable & Other Pay Television Services
 - Headquarters: Stamford, Connecticut, United States
-- Fiscal year-end: December
+- Fiscal year-end: December 31
 - AnnualReports.com page: https://www.annualreports.com/Company/charter-communications-inc
-- Investor relations page: https://ir.charter.com/
-- Quarterly results page: https://ir.charter.com/financial-information/quarterly-results/
-- SEC / filing reference: https://www.sec.gov/Archives/edgar/data/1091667/
+- Company home page: https://corporate.charter.com/
+- SEC CIK: 0001091667
 
 ## Coverage status
 
@@ -24,42 +23,44 @@ Date baseline: 2026-08-10
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
-- Latest annual report collected: yes
+- Latest annual report collected locally: yes, via SEC annual-report artifact
 - Latest annual filing collected: yes
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
 - Quarter minus 2 collected: yes
-- Latest earnings call transcript collected: no standalone transcript artifact saved
+- Latest earnings call transcript collected: no
 
 ## Annual report archive
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | AnnualReports.com company page | https://www.annualreports.com/Company/charter-communications-inc | [company-page.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/services/catv-systems/charter-communications-inc/company-page.html) | Confirms `Services / CATV Systems` and shows a hosted `2025 Annual Report and Form 10-K`. |
-| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/charter-communications-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/services/catv-systems/charter-communications-inc/annualreports-verification.md) | Records taxonomy and hosted annual availability. |
-| 2025 | Official IR verification note | https://ir.charter.com/financial-information/quarterly-results/ | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/catv-systems/charter-communications-inc/official-ir-verification.md) | Preserves the official IR page stack and confirms the quarter-results chain. |
-| 2025 | Charter annual report PDF | https://www.annualreports.com/Click/21141 | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/services/catv-systems/charter-communications-inc/2025-annual-report.pdf) | AnnualReports-hosted annual-report artifact for the year ended `2025-12-31`. |
-| 2025 | Form `10-K` | https://www.sec.gov/Archives/edgar/data/1091667/000109166726000017/chtr-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2025-10k.html) | Core annual filing filed `2026-01-30`. |
-| 2025 | SEC submissions index | https://data.sec.gov/submissions/CIK0001091667.json | [submissions-cik0001091667.json](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/submissions-cik0001091667.json) | Verifies filer identity and in-scope filing sequence. |
+| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/charter-communications-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/catv-systems/charter-communications-inc/annualreports-verification.md) | Confirms `Services / CATV Systems` placement, current annual archive coverage, and the stale exchange mismatch. |
+| 2025 | Official IR verification note | https://corporate.charter.com/ | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/catv-systems/charter-communications-inc/official-ir-verification.md) | Documents official-company routing and timeout on the dedicated IR results path. |
+| 2025 | AnnualReports.com company page | https://www.annualreports.com/Company/charter-communications-inc | [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/catv-systems/charter-communications-inc/company-page.html) | Preserves taxonomy, location, and current annual archive status. |
+| 2025 | Charter corporate home page | https://corporate.charter.com/ | [corporate-home.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/catv-systems/charter-communications-inc/corporate-home.html) | Preserves the official corporate root and current company framing. |
+| 2025 | SEC annual report artifact | https://www.sec.gov/Archives/edgar/data/1091667/000114036126009229/ny20062718x3_ars.pdf | [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2025-annual-report-ars.pdf) | Annual-report artifact filed `2026-03-12`. |
+| 2025 | Form `10-K` | https://www.sec.gov/Archives/edgar/data/1091667/000109166726000017/chtr-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2025-10k.html) | Annual filing for the year ended `2025-12-31`, filed `2026-01-30`. |
+| 2025 | SEC submissions index | https://data.sec.gov/submissions/CIK0001091667.json | [submissions-cik0001091667.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/submissions-cik0001091667.json) | Verifies filer identity, fiscal year-end, and filing sequence. |
 
 ## Last three quarters
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| Q2 2026 | [2026-q2-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/catv-systems/charter-communications-inc/2026-q2-earnings-release.html) | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2026-q2-8k.html) plus [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2026-q2-10q.html) | no standalone transcript saved | Charter reported Q2 `2026` revenue of about `$13.5B`, adjusted EBITDA of about `$5.4B`, free cash flow of about `$969M`, `406,000` mobile-line additions, and `127,000` activated subsidized rural passings, even as internet and relationship counts continued to decline. |
-| Q1 2026 | [2026-q1-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/catv-systems/charter-communications-inc/2026-q1-earnings-release.html) | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2026-q1-8k.html) plus [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2026-q1-10q.html) | no standalone transcript saved | Charter reported Q1 `2026` adjusted EBITDA of about `$5.6B`, free cash flow of about `$1.4B`, capital expenditures of about `$2.9B`, and `89,000` subsidized rural passings, while stressing network evolution, product simplification, and customer-value messaging. |
-| Q4 2025 | [2025-q4-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/catv-systems/charter-communications-inc/2025-q4-earnings-release.html) | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2025-q4-8k.html) plus [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2025-10k.html) | no standalone transcript saved | Charter reported Q4 `2025` revenue of about `$13.6B`, adjusted EBITDA of about `$5.7B`, and full-year `2025` free cash flow of about `$5.0B`, while formally reframing the company around all-in connectivity customers rather than legacy cable relationships alone. |
+| Q2 2026 | [2026-q2-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q2-ex99-1.html) | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q2-8k.html) plus [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q2-10q.html) | no standalone transcript saved | Charter reported Q2 `2026` revenue of `$13.526B`, net income attributable to Charter shareholders of `$1.292B`, Adjusted EBITDA of `$5.449B`, and free cash flow of `$969M`. |
+| Q1 2026 | [2026-q1-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q1-ex99-1.html) | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q1-8k.html) plus [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q1-10q.html) | no standalone transcript saved | Charter reported Q1 `2026` revenue of `$13.597B`, net income attributable to Charter shareholders of `$1.163B`, Adjusted EBITDA of `$5.637B`, and free cash flow of `$1.372B`. |
+| Q4 2025 | [2025-q4-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2025-q4-ex99-1.html) | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2025-q4-8k.html) plus [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2025-10k.html) | no standalone transcript saved | Charter closed `2025` with Q4 revenue of `$13.601B`, net income attributable to Charter shareholders of `$1.332B`, Adjusted EBITDA of `$5.691B`, and full-year revenue of `$54.774B`. |
 
 ## What changed
 
-- Taxonomy and lane fit: Charter is a clean exact-category `CATV Systems` flagship and gives the frontier a real communications-and-access operator instead of another broad media or telecom conglomerate.
-- Business reframing: the most important structural change is not just a metric move. In Q4 `2025`, Charter revised its customer-relationship statistics to include all mobile customers, including mobile-only customers, and added a total connectivity customer measure. That is a direct signal that the company wants to be read as a converged connectivity utility rather than a shrinking cable-video company.
-- Demand mix: the quarter chain shows pressure in core internet and relationship counts, steady video erosion, and strong mobile-line growth. That means customer ownership is increasingly defended through bundle value, mobile attachment, and account economics, not through traditional pay-TV dependence.
-- Capital and infrastructure: Charter is still a heavy physical-network operator. Q1 and Q2 `2026` each carried about `$2.9B` of capital expenditures, with network evolution, upgrade and rebuild activity, and rural line extension all staying central to the operating story.
-- Product strategy: management is explicitly using service guarantees, simplified pricing, streaming-app inclusion, WiFi resiliency, and mobile savings offers to keep the household relationship sticky even as legacy category boundaries break down.
+- Charter gives CLI 5 the fixed last-mile and cable-bundle layer that was still missing beside AT&T and Verizon. It is not another wireless incumbent. It is the broadband-and-bundle access owner trying to defend a household relationship while video shrinks and mobile expands.
+- The `2025` annual materials show a business under visible category transition. Full-year `2025` revenue was `$54.774B`, Adjusted EBITDA was `$22.708B`, net income attributable to Charter shareholders was `$5.0B`, and free cash flow was `$5.004B`, but revenue still declined `0.6%` year over year because video and advertising remained weak even while connectivity economics held up better.
+- The quarter chain reinforces the same split. Internet customers kept falling from `29.7M` at year-end `2025` to `29.6M` in Q1 `2026` and `29.4M` in Q2 `2026`, while mobile lines grew from `11.8M` to `12.1M` and then `12.5M`.
+- Residential connectivity revenue still grew in Q4 `2025` and Q1 `2026`, which means the household relationship is not collapsing. It is being repriced and reassembled through broadband, mobile, packaging, and programmer-streaming allocation rather than through the old cable bundle alone.
+- Charter is unusually useful as a physical-infrastructure and capital-burden case. Full-year `2025` capital expenditures were `$11.659B`, including `$3.9B` of line extensions, and the principal amount of debt remained very large at `$94.6B` at year-end, `$94.3B` at `2026-03-31`, and `$93.8B` at `2026-06-30`.
+- The packet also sharpens the connectivity lane's contrast between access ownership and higher-level control points. Charter owns a sticky household gateway, but it must defend that position with network evolution, rural construction, customer-premise equipment, debt management, and buybacks rather than with software-like margin expansion.
 
 ## Open questions
 
-- Can Charter stabilize broadband and relationship erosion through mobile attachment and simplified bundles before pricing or capex pressure overwhelms the strategy?
-- Does converged connectivity create a durable moat, or does it mainly slow commoditization in a market where internet access is increasingly utility-like?
-- How much of the customer-ownership model depends on continued willingness to absorb or repackage third-party streaming value inside Spectrum bundles?
+- Is Charter's strongest long-term advantage the broadband footprint itself, or the ability to turn broadband households into multi-product connectivity customers through Spectrum Mobile and packaging discipline?
+- How much of the current pressure on Internet and video adds is cyclical competition versus a more durable shift toward fiber competition, streaming re-bundling, and lower-friction wireless substitution?
+- Compared with AT&T and Verizon, is Charter best read as a cable-transition utility, a bundle-and-wallet access owner, or the clearest evidence that the last mile remains essential but structurally burdened?

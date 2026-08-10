@@ -1,50 +1,79 @@
 # Palo Alto Networks, Inc. Company Packet
 
-## Collection status
-
-- AnnualReports verification saved
-- Official IR source links saved
-- Official annual report PDF saved
-- SEC annual and trailing-quarter filing chain saved
-- Q1 through Q3 FY2026 transcript and supplemental artifacts saved
-- Extracted profile, packet, and source ledger prepared
-
-## Source map
-
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/networking-communication-devices/palo-alto-networks-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/palo-alto-networks-inc/ir-source-links.md)
-- SEC filings folder: [palo-alto-networks-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc)
+Date baseline: 2026-08-10
 
 ## Snapshot
 
-- Sector / industry: Technology / Networking & Communication Devices
-- Fiscal year end: July
-- Annual scope artifact: FY2025 annual report and Form 10-K for the year ended 2025-07-31
-- Latest three reported quarters in scope as of 2026-08-09:
-  - FY2026 Q3 ended 2026-04-30 and was reported 2026-06-02
-  - FY2026 Q2 ended 2026-01-31 and was reported 2026-02-17
-  - FY2026 Q1 ended 2025-10-31 and was reported 2025-11-19
+- Company: Palo Alto Networks, Inc.
+- Sector: Technology
+- Industry: Networking & Communication Devices
+- Ticker: PANW
+- Fiscal year-end: July
+- Target annual report year: 2025
+- Target quarter window:
+  - quarter 1: FY2026 Q3
+  - quarter 2: FY2026 Q2
+  - quarter 3: FY2026 Q1
 
-## Core facts captured
+## Annual report takeaways
 
-- Full-year FY2025 revenue / operating income / net income: `$9.2215B` / `$1.2429B` / `$1.1339B`
-- Full-year FY2025 operating cash flow / non-GAAP free cash flow: `$3.716B` / `$3.4698B`
-- Full-year FY2025 operating margin: `13.5%`
-- Full-year FY2025 subscription-and-support mix: `80.5%` of revenue
-- FY2025 Q4 revenue / NGS ARR / RPO: `$2.5B` / `$5.6B` / `$15.8B`
-- FY2026 Q1 revenue / NGS ARR / RPO: `$2.5B` / `$5.9B` / `$15.5B`
-- FY2026 Q2 revenue / NGS ARR / RPO: `$2.6B` / `$6.3B` / `$16.0B`
-- FY2026 Q3 revenue / NGS ARR / RPO: `$3.0B` / `$8.1B` / `$18.4B`
-- FY2026 Q3 operating cash flow / adjusted free cash flow: `$871M` / `$910M`
+- Palo Alto is the right next CLI 5 extension because it adds the security-control and enterprise-trust layer that sits above access ownership and even above much of the networking hardware layer.
+- The annual materials show a business that is much less exposed to raw traffic carriage and much more exposed to the monetization of cyber risk, platform consolidation, and enterprise willingness to standardize around fewer trusted vendors.
+- Full-year FY2025 revenue reached `$9.2215B`, operating income reached `$1.2429B`, net income reached `$1.1339B`, operating cash flow reached `$3.716B`, and non-GAAP free cash flow reached `$3.4698B`.
+- The revenue mix is the main structural clue. Subscription and support represented `80.5%` of FY2025 revenue, which means the economic center of the business is recurring software, cloud-delivered security, and support rather than hardware turnover.
+- The annual takeaways also make the lane-level comparison cleaner. Palo Alto does not need telecom-style capex, fiber density, or household gateway defense to compound. It monetizes the fact that enterprises increasingly cannot tolerate fragmented security posture, weak identity control, or AI-era data exposure.
 
-## What Palo Alto adds to the broader technology read
+## Quarter-by-quarter takeaways
 
-- A pure-play cybersecurity and enterprise-trust evidence set rather than another cloud, chip, or general software name
-- Direct exposure to platformization, vendor consolidation, identity, observability, and AI-security demand
-- A cleaner read on recurring software and security-economics quality than Cisco’s more hardware-and-networking-heavy model
-- A useful contrast with ServiceNow’s workflow-governance layer because Palo Alto is selling security control, threat posture, and cyber standardization rather than enterprise orchestration alone
+### Most recent quarter
 
-## Open archive limitations
+- Results: FY2026 Q3 revenue reached `$3.0B`, Next-Generation Security ARR reached `$8.1B`, RPO reached `$18.4B`, operating cash flow reached `$871M`, and adjusted free cash flow reached `$910M`.
+- Operating read: the newest quarter is the strongest sign yet that Palo Alto is turning security into a larger control layer rather than a point-product business. ARR and RPO both accelerated sharply, and management kept pushing a platformization and AI-security narrative.
+- Capital and model signal: this remains a software-like infrastructure model. The company is cash generative, recurring-revenue heavy, and not constrained by the capital intensity that shapes telecom and cable operators.
+- Structural themes: FY2026 Q3 also requires caution. CyberArk and Chronosphere began affecting the reported numbers, so the acceleration is real at the reported level but the clean organic read is not as simple as in the earlier quarter set.
 
-- AnnualReports still lagged at `2024` on 2026-08-09, so the local annual package relies on the verified company-page metadata plus the official IR annual-report PDF and SEC filing chain.
-- The Q3 FY2026 quarter is acquisition-affected, so the newest numbers require more care than the earlier fiscal 2026 quarter set when comparing organic trend quality.
+### Quarter minus 1
+
+- Results: FY2026 Q2 revenue reached `$2.6B`, Next-Generation Security ARR reached `$6.3B`, and RPO reached `$16.0B`.
+- Operating read: Q2 is the cleanest quarter for seeing the pre-acquisition model. Management emphasized platform standardization, continued ARR growth, and another quarter of `30%+` non-GAAP operating margin.
+- Structural themes: Q2 shows why Palo Alto matters in CLI 5. This is not just infrastructure demand. This is trust infrastructure demand. Customers are paying to reduce vendor sprawl, centralize control, and manage rising cloud, identity, and SOC complexity.
+
+### Quarter minus 2
+
+- Results: FY2026 Q1 revenue reached `$2.5B`, Next-Generation Security ARR reached `$5.9B`, and RPO reached `$15.5B`.
+- Operating read: Q1 framed the year around platformization and AI-era data-and-security positioning. Management’s tone was direct: fragmented defenses are not good enough for the enterprise environment customers are now operating in.
+- Structural themes: Q1 is the cleanest early quarter for seeing Palo Alto as a recurring security platform rather than an appliance vendor. The company is using AI adoption as a reason why enterprises need deeper data visibility, faster response, and tighter platform standardization.
+
+## Signals to feed into higher-level analysis
+
+- CLI 5 role: Palo Alto adds the security-control and trust-infrastructure layer to the lane.
+- Enterprise and institutional read: enterprise customers are increasingly willing to consolidate around fewer security vendors if that reduces risk, improves data visibility, and simplifies operations.
+- Cultural and societal read: as digital life normalizes AI-assisted workflow and always-on enterprise dependency, cybersecurity stops reading like discretionary tooling and starts reading like non-optional operational trust infrastructure.
+- Industrial read: platformization, identity, observability, cloud posture, SOC automation, and acquisition-led feature expansion are the main operating levers.
+- Capital-allocation read: the economic model is much lighter than telecom or cable. The main burden is integration execution and maintaining strategic coherence across a widening platform, not funding a national access network.
+- Monetization-system read: Palo Alto monetizes rising enterprise fear of fragmentation, breach cost, compliance exposure, and AI-driven attack surface expansion.
+
+## Source pointers
+
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/networking-communication-devices/palo-alto-networks-inc/annualreports-verification.md)
+- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/networking-communication-devices/palo-alto-networks-inc/ir-source-links.md)
+- [2025-annual-report-and-proxy.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/networking-communication-devices/palo-alto-networks-inc/2025-annual-report-and-proxy.pdf)
+- [panw-20250731.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20250731.htm)
+- [panw-20250813.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20250813.htm)
+- [ex991q425earningsrelease.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/ex991q425earningsrelease.htm)
+- [panw-20251119.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20251119.htm)
+- [ex991q126earningsrelease.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/ex991q126earningsrelease.htm)
+- [q1-fy2026-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/technology/networking-communication-devices/palo-alto-networks-inc/q1-fy2026-transcript.pdf)
+- [panw-20260217.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20260217.htm)
+- [ex991q226earningsrelease.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/ex991q226earningsrelease.htm)
+- [q2-fy2026-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/technology/networking-communication-devices/palo-alto-networks-inc/q2-fy2026-transcript.pdf)
+- [panw-20260602.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20260602.htm)
+- [ex991q326earningsrelease.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/ex991q326earningsrelease.htm)
+- [q3-fy2026-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/technology/networking-communication-devices/palo-alto-networks-inc/q3-fy2026-transcript.pdf)
+
+## Working interpretation
+
+- Palo Alto sharpens CLI 5 because it proves that one of the strongest infrastructure profit pools may sit in software-like security control rather than in physical access or even in the networking fabric itself.
+- Compared with Cisco, Palo Alto is a cleaner security-and-trust control point with less hardware drag and a more direct monetization path from rising cyber complexity.
+- Compared with telecom and cable operators, Palo Alto is almost the inverse model: far lighter capital burden, much stronger recurring mix, and demand tied to operational fear, compliance, and AI-surface expansion rather than to household access volume.
+- For the `2025` through `2026` window, Palo Alto is strong evidence that the infrastructure stack is rewarding the companies that own trust, visibility, and standardization layers. The customer is not just paying for traffic to move. The customer is paying to know that the system is governable.

@@ -6,10 +6,10 @@ Date baseline: 2026-08-09
 
 I reviewed:
 
-- [README.md](/home/manishmehta/ui-projects/annual-report-research/README.md)
-- [coverage-tracker.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/coverage-tracker.csv)
-- [theme-tracker.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/theme-tracker.csv)
-- [force-map.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/force-map.csv)
+- [README.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/README.md)
+- [coverage-tracker.csv](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/coverage-tracker.csv)
+- [theme-tracker.csv](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/theme-tracker.csv)
+- [force-map.csv](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/force-map.csv)
 - [README.md](/home/manishmehta/ui-projects/ibis-industries/README.md)
 - [ECONOMIC_INTELLIGENCE_FRAMEWORK.md](/home/manishmehta/ui-projects/ibis-industries/ECONOMIC_INTELLIGENCE_FRAMEWORK.md)
 - [ECONOMY_2025_2026_NARRATIVE.md](/home/manishmehta/ui-projects/ibis-industries/ECONOMY_2025_2026_NARRATIVE.md)
@@ -19,7 +19,7 @@ I reviewed:
 `ibis-industries` and `annual-report-research` are complementary, not redundant.
 
 - `ibis-industries` is the broad US-industry interpretation layer.
-- `annual-report-research` is the dated company-evidence layer built from `2025` annual reports plus the latest three reported quarters in scope as of `2026-08-09`.
+- `annual-report-research-new-lanes` is the dated company-evidence layer built from `2025` annual reports plus the latest three reported quarters in scope as of `2026-08-09`.
 
 The practical relationship is:
 

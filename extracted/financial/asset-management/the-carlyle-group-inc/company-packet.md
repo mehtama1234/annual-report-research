@@ -52,11 +52,11 @@ Date baseline: 2026-08-08
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/financial/asset-management/the-carlyle-group-inc/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/asset-management/the-carlyle-group-inc/ir-source-links.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/asset-management/the-carlyle-group-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/asset-management/the-carlyle-group-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/asset-management/the-carlyle-group-inc/2025-q4-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/asset-management/the-carlyle-group-inc/2026-q1-10q.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/asset-management/the-carlyle-group-inc/2026-q1-8k.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/asset-management/the-carlyle-group-inc/2026-q2-8k.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/financial/asset-management/the-carlyle-group-inc/annualreports-verification.md)
+- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/asset-management/the-carlyle-group-inc/ir-source-links.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/asset-management/the-carlyle-group-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/asset-management/the-carlyle-group-inc/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/asset-management/the-carlyle-group-inc/2025-q4-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/asset-management/the-carlyle-group-inc/2026-q1-10q.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/asset-management/the-carlyle-group-inc/2026-q1-8k.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/asset-management/the-carlyle-group-inc/2026-q2-8k.html)

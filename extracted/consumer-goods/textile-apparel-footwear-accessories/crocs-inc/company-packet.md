@@ -54,22 +54,22 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/official-ir-verification.md)
-- [overview.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/overview.html)
-- [events-presentations.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/events-presentations.html)
-- [2025-q4-and-fy2025-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2025-q4-and-fy2025-press-release.html)
-- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q1-press-release.html)
-- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q2-press-release.html)
-- [submissions-cik0001334036.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/submissions-cik0001334036.json)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2025-q4-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q1-10q.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q1-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q2-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q2-8k.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/annualreports-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/company-page.html)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/official-ir-verification.md)
+- [overview.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/overview.html)
+- [events-presentations.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/events-presentations.html)
+- [2025-q4-and-fy2025-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2025-q4-and-fy2025-press-release.html)
+- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q1-press-release.html)
+- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q2-press-release.html)
+- [submissions-cik0001334036.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/submissions-cik0001334036.json)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2025-q4-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q1-10q.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q1-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q2-10q.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/2026-q2-8k.html)
 
 ## Working interpretation
 

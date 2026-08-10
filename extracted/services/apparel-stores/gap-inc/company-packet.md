@@ -54,19 +54,19 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/apparel-stores/gap-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/apparel-stores/gap-inc/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/apparel-stores/gap-inc/official-ir-verification.md)
-- [submissions-cik0000039911.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/gap-inc/submissions-cik0000039911.json)
-- [gap-20260131.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/gap-inc/gap-20260131.htm)
-- [gps-20260305.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/gap-inc/gps-20260305.htm)
-- [2025-q4-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/gap-inc/2025-q4-exhibit-99-1.html)
-- [gap-20260502.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/gap-inc/gap-20260502.htm)
-- [gps-20260528.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/gap-inc/gps-20260528.htm)
-- [2026-q1-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/gap-inc/2026-q1-exhibit-99-1.html)
-- [gap-20251101.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/gap-inc/gap-20251101.htm)
-- [gps-20251120.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/gap-inc/gps-20251120.htm)
-- [2025-q3-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/gap-inc/2025-q3-exhibit-99-1.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/apparel-stores/gap-inc/annualreports-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/apparel-stores/gap-inc/company-page.html)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/apparel-stores/gap-inc/official-ir-verification.md)
+- [submissions-cik0000039911.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/gap-inc/submissions-cik0000039911.json)
+- [gap-20260131.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/gap-inc/gap-20260131.htm)
+- [gps-20260305.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/gap-inc/gps-20260305.htm)
+- [2025-q4-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/gap-inc/2025-q4-exhibit-99-1.html)
+- [gap-20260502.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/gap-inc/gap-20260502.htm)
+- [gps-20260528.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/gap-inc/gps-20260528.htm)
+- [2026-q1-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/gap-inc/2026-q1-exhibit-99-1.html)
+- [gap-20251101.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/gap-inc/gap-20251101.htm)
+- [gps-20251120.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/gap-inc/gps-20251120.htm)
+- [2025-q3-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/apparel-stores/gap-inc/2025-q3-exhibit-99-1.html)
 
 ## Working interpretation
 

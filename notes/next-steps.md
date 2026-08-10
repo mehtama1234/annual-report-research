@@ -1,35 +1,57 @@
 # Next Steps
 
-## Immediate pilot
+Date baseline: 2026-08-10
 
-Pick 3 to 5 sectors first, then collect a small but complete company set before scaling.
+## Current operating stance
+
+The repo is no longer in a vague pilot stage.
+The current rule is to pursue coherent lanes end to end starting from:
+
+- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/START-HERE.md)
+- [Active lane board](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/active-lane-board-2026-08-10.md)
+
+Each run should aim to finish a coherent `3` to `4` company flagship batch inside a lane, not spray work across dozens of shallow starts.
+
+## Collection window
 
 Collection window for this phase:
 
 - annual reports: `2025`
-- quarterlies: latest three reported quarters available as of `2026-08-09`
+- quarterlies: latest three reported quarters available as of `2026-08-10`
 - in many cases: `2026 Q2`, `2026 Q1`, and `2025 Q4`
 
-Suggested pilot sectors:
+## Priority lane families
 
-1. Technology
-2. Financial
-3. Consumer Goods
-4. Healthcare
-5. Industrial Goods
+Suggested lane families for current work:
+
+1. Connectivity / telecom / technical infrastructure
+2. Capital structures / property / conglomerates
+3. Healthcare frontier and recurring-care systems
+4. Recreation / lifestyle / participation demand
+
+## Batch design rule
+
+Choose `3` to `4` companies that together produce a real comparison set.
+
+Prefer a mix such as:
+
+1. one demand gateway, distribution owner, or network owner
+2. one capital-intensive infrastructure or asset owner
+3. one enabling tool, workflow, measurement, or toll-collector business
+4. one contrast case with a meaningfully different monetization model or balance-sheet structure
 
 ## Collection sequence per company
 
-1. Create company row in `indexes/companies.csv`
-2. Create raw folder path by sector / industry / company
-3. Save company profile from AnnualReports.com
-4. Save the `2025` annual report
-5. Save the corresponding `2025` annual filing
-6. Save the last three quarterly earnings releases in scope
-7. Save the last three quarterly filings in scope
-8. Save latest call transcript if available
-9. Fill `templates/company-packet.md`
-10. Update sector and theme trackers
+1. Create raw folder path by sector / industry / company
+2. Save or verify the company profile from AnnualReports.com for taxonomy and archive confirmation
+3. Save the `2025` annual report
+4. Save the corresponding `2025` annual filing
+5. Save the last three quarterly earnings releases in scope
+6. Save the last three quarterly filings in scope
+7. Save latest call transcript if available
+8. Fill `templates/company-packet.md`
+9. Write the thematic interpretation for the company
+10. Update shared indexes only at the end of the coherent batch, or leave the batch ready for integration
 
 ## Raw folder convention
 
@@ -55,3 +77,15 @@ raw/
   - which sectors need another company
   - which cross-sector themes deserve a memo
   - which cultural or industrial signals need stronger coverage
+
+## End-of-run requirement
+
+Every coherent run should end with:
+
+- commit hash
+- companies completed
+- companies partial
+- industry lane summary
+- key themes
+- strongest cross-company signals
+- next recommended names

@@ -60,9 +60,9 @@ Note: for many companies this third slot will be a late-2025 quarter needed to c
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/cleaning-products/church-dwight-co-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/cleaning-products/church-dwight-co-inc/company-page.html)
-- [2025-annual-report-annualreports.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/cleaning-products/church-dwight-co-inc/2025-annual-report-annualreports.pdf)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/cleaning-products/church-dwight-co-inc/official-ir-verification.md)
-- [submissions-cik0000313927.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/cleaning-products/church-dwight-co-inc/submissions-cik0000313927.json)
-- [sec-access-note.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/cleaning-products/church-dwight-co-inc/sec-access-note.md)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/cleaning-products/church-dwight-co-inc/annualreports-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/cleaning-products/church-dwight-co-inc/company-page.html)
+- [2025-annual-report-annualreports.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/cleaning-products/church-dwight-co-inc/2025-annual-report-annualreports.pdf)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/cleaning-products/church-dwight-co-inc/official-ir-verification.md)
+- [submissions-cik0000313927.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/cleaning-products/church-dwight-co-inc/submissions-cik0000313927.json)
+- [sec-access-note.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/cleaning-products/church-dwight-co-inc/sec-access-note.md)

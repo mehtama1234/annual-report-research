@@ -1,6 +1,6 @@
 # Palo Alto Networks, Inc.
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -9,6 +9,7 @@ Date baseline: 2026-08-09
 - Exchange: NASDAQ
 - Sector: Technology
 - Industry: Networking & Communication Devices
+- SEC SIC description: Services-Prepackaged Software
 - Headquarters: Santa Clara, California, United States
 - Fiscal year-end: July 31
 - AnnualReports.com page: https://www.annualreports.com/Company/palo-alto
@@ -33,18 +34,18 @@ Date baseline: 2026-08-09
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/palo-alto | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/networking-communication-devices/palo-alto-networks-inc/annualreports-verification.md) | Confirms AnnualReports company-page metadata and that the hosted package still lagged at `2024` on 2026-08-09. |
-| 2025 | 2025 annual report and proxy PDF | https://investors.paloaltonetworks.com/static-files/85d58888-557e-407b-b869-792087d956c6 | [2025-annual-report-and-proxy.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/palo-alto-networks-inc/2025-annual-report-and-proxy.pdf) | Official Palo Alto Networks annual report and proxy from the IR site. |
-| 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1327567/000132756725000027/panw-20250731.htm | [panw-20250731.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20250731.htm) | Saved FY2025 annual filing from SEC. |
-| 2025 | Palo Alto Networks IR source links | https://investors.paloaltonetworks.com/investor-relations/ | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/palo-alto-networks-inc/ir-source-links.md) | Logs the official annual and quarterly result pages plus transcript and supplemental links used for the archive. |
+| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/palo-alto | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/networking-communication-devices/palo-alto-networks-inc/annualreports-verification.md) | Confirms AnnualReports company-page metadata and that the hosted package still lagged at `2024` on 2026-08-09. |
+| 2025 | 2025 annual report and proxy PDF | https://investors.paloaltonetworks.com/static-files/85d58888-557e-407b-b869-792087d956c6 | [2025-annual-report-and-proxy.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/networking-communication-devices/palo-alto-networks-inc/2025-annual-report-and-proxy.pdf) | Official Palo Alto Networks annual report and proxy from the IR site. |
+| 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1327567/000132756725000027/panw-20250731.htm | [panw-20250731.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20250731.htm) | Saved FY2025 annual filing from SEC. |
+| 2025 | Palo Alto Networks IR source links | https://investors.paloaltonetworks.com/investor-relations/ | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/networking-communication-devices/palo-alto-networks-inc/ir-source-links.md) | Logs the official annual and quarterly result pages plus transcript and supplemental links used for the archive. |
 
 ## Last three quarters
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| FY2026 Q3 | [ex991q326earningsrelease.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/ex991q326earningsrelease.htm) | [panw-20260602.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20260602.htm) | [q3-fy2026-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/networking-communication-devices/palo-alto-networks-inc/q3-fy2026-transcript.pdf) | Revenue reached `$3.0B`, Next-Generation Security ARR reached `$8.1B`, and RPO reached `$18.4B` as CyberArk and Chronosphere began affecting the numbers. |
-| FY2026 Q2 | [ex991q226earningsrelease.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/ex991q226earningsrelease.htm) | [panw-20260217.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20260217.htm) | [q2-fy2026-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/networking-communication-devices/palo-alto-networks-inc/q2-fy2026-transcript.pdf) | Revenue reached `$2.6B`, NGS ARR reached `$6.3B`, and RPO reached `$16.0B` with a third straight quarter of `30%+` non-GAAP operating margin. |
-| FY2026 Q1 | [ex991q126earningsrelease.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/ex991q126earningsrelease.htm) | [panw-20251119.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20251119.htm) | [q1-fy2026-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/networking-communication-devices/palo-alto-networks-inc/q1-fy2026-transcript.pdf) | Revenue reached `$2.5B`, NGS ARR reached `$5.9B`, and RPO reached `$15.5B` as management emphasized platformization and AI-era data-and-security positioning. |
+| FY2026 Q3 | [ex991q326earningsrelease.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/ex991q326earningsrelease.htm) | [panw-20260602.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20260602.htm) | [q3-fy2026-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/technology/networking-communication-devices/palo-alto-networks-inc/q3-fy2026-transcript.pdf) | Revenue reached `$3.0B`, Next-Generation Security ARR reached `$8.1B`, and RPO reached `$18.4B` as CyberArk and Chronosphere began affecting the numbers. |
+| FY2026 Q2 | [ex991q226earningsrelease.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/ex991q226earningsrelease.htm) | [panw-20260217.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20260217.htm) | [q2-fy2026-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/technology/networking-communication-devices/palo-alto-networks-inc/q2-fy2026-transcript.pdf) | Revenue reached `$2.6B`, NGS ARR reached `$6.3B`, and RPO reached `$16.0B` with a third straight quarter of `30%+` non-GAAP operating margin. |
+| FY2026 Q1 | [ex991q126earningsrelease.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/ex991q126earningsrelease.htm) | [panw-20251119.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/networking-communication-devices/palo-alto-networks-inc/panw-20251119.htm) | [q1-fy2026-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/technology/networking-communication-devices/palo-alto-networks-inc/q1-fy2026-transcript.pdf) | Revenue reached `$2.5B`, NGS ARR reached `$5.9B`, and RPO reached `$15.5B` as management emphasized platformization and AI-era data-and-security positioning. |
 
 ## What changed
 
@@ -57,6 +58,7 @@ Date baseline: 2026-08-09
 - Operational issues: management is using platformization and AI-security positioning to consolidate customer spend across network, cloud, security-operations, identity, and observability layers, but the model now carries heavier integration and accounting noise from CyberArk and Chronosphere.
 - Consumer / cultural signals: Palo Alto is not a consumer-demand read; it is a trust, threat, and enterprise-risk read showing that AI adoption expands cybersecurity budgets, governance needs, and willingness to standardize on fewer vendors.
 - Management tone: management is direct and aggressive, framing the company as the data-and-security partner of choice in the AI era and repeatedly arguing that fragmented defenses are failing against modern threats.
+- CLI 5 role: Palo Alto is the security-control and trust-infrastructure layer that tests whether the strongest infrastructure economics increasingly sit in software-governed assurance rather than only in traffic carriage or networking hardware.
 
 ## Open questions
 

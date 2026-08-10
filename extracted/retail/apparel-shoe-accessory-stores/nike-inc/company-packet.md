@@ -54,18 +54,18 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/retail/apparel-shoe-accessory-stores/nike-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/retail/apparel-shoe-accessory-stores/nike-inc/official-ir-verification.md)
-- [2026-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/retail/apparel-shoe-accessory-stores/nike-inc/2026-annual-report.pdf)
-- [2026-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-10k.html)
-- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/retail/apparel-shoe-accessory-stores/nike-inc/2026-q2-press-release.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-q2-10q.html)
-- [2026-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/retail/apparel-shoe-accessory-stores/nike-inc/2026-q3-press-release.html)
-- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-q3-8k.html)
-- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-q3-10q.html)
-- [2026-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/retail/apparel-shoe-accessory-stores/nike-inc/2026-q4-press-release.html)
-- [2026-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-q4-8k.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/retail/apparel-shoe-accessory-stores/nike-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/retail/apparel-shoe-accessory-stores/nike-inc/official-ir-verification.md)
+- [2026-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/retail/apparel-shoe-accessory-stores/nike-inc/2026-annual-report.pdf)
+- [2026-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-10k.html)
+- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/retail/apparel-shoe-accessory-stores/nike-inc/2026-q2-press-release.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-q2-10q.html)
+- [2026-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/retail/apparel-shoe-accessory-stores/nike-inc/2026-q3-press-release.html)
+- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-q3-8k.html)
+- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-q3-10q.html)
+- [2026-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/retail/apparel-shoe-accessory-stores/nike-inc/2026-q4-press-release.html)
+- [2026-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/retail/apparel-shoe-accessory-stores/nike-inc/2026-q4-8k.html)
 
 ## Working interpretation
 

@@ -1,59 +1,60 @@
-# Seagate Technology Holdings plc
+# Seagate Technology Holdings plc Company Profile
 
-- Sector: Technology
-- Industry: Data Storage Devices
-- Ticker: STX
-- Exchange: NASDAQ
-- Fiscal year end: June
-- Annual scope year: 2025 annual report / Form 10-K
-- Quarter scope window as of 2026-08-10: FY2026 Q4, FY2026 Q3, FY2026 Q2
+## Identity
 
-## What the company is
+- Company: `Seagate Technology Holdings plc`
+- Ticker: `STX`
+- Exchange: `Nasdaq`
+- Sector: `Technology`
+- Industry: `Data Storage Devices`
+- Headquarters: `Singapore`
+- Fiscal year end: `June 27`
+- AnnualReports.com page: https://www.annualreports.com/Company/seagate-technology-plc
+- Investor relations page: https://investors.seagate.com/overview/default.aspx
+- SEC CIK: `0001137789`
 
-Seagate is a storage-hardware and data-movement company centered on hard disk drives, with additional SSD, systems, and Lyve edge-to-cloud offerings. In this archive it fills a missing layer between compute-heavy AI narratives and the physical data-retention problem underneath them: once data is created, trained on, copied, and stored, someone still has to provide low-cost exabyte-scale capacity.
+## Coverage status
 
-## Why Seagate matters in this archive
+- Lane: `CLI 5`
+- Annual anchor year ended: `2025-06-27`
+- Target quarter window: `Q4 FY2026` / `Q3 FY2026` / `Q2 FY2026`
+- Annual report collected: `yes`, SEC `ARS` PDF
+- Annual filing collected: `yes`
+- Latest quarter collected: `yes`, `Q4 FY2026` `8-K` and `ex99`
+- Quarter minus 1 collected: `yes`, `Q3 FY2026` `10-Q`, `8-K`, and `ex99`
+- Quarter minus 2 collected: `yes`, `Q2 FY2026` `10-Q`, `8-K`, and `ex99`
+- Transcript coverage: `not locally saved`
+- IR pages: `verified but not locally saved`; direct automated local capture attempts hit `429` rate limits on `2026-08-10`
 
-- It adds the data-storage-device lane that sits beside networking, towers, fiber, cooling, and power in the physical AI stack.
-- It shows that AI infrastructure demand is not only a compute or bandwidth story. It is also a storage-capacity, power-efficiency, and price-per-terabyte story.
-- It captures a recurring industrial pattern: cloud platforms can revive older hardware categories when scale economics, retention needs, and energy efficiency still favor the incumbent physical medium.
+## Annual report archive
 
-## 2025 annual highlights
+| Year | Source | URL | Local artifact | Notes |
+| --- | --- | --- | --- | --- |
+| 2025 | AnnualReports verification note | https://www.annualreports.com/Company/seagate-technology-plc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/data-storage-devices/seagate-technology-holdings-plc/annualreports-verification.md) | AnnualReports confirms `Technology` / `Data Storage Devices` taxonomy but lags at the `2024` annual package as of `2026-08-10`. |
+| 2025 | AnnualReports company page snapshot | https://www.annualreports.com/Company/seagate-technology-plc | [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/data-storage-devices/seagate-technology-holdings-plc/company-page.html) | Saved taxonomy and lag-confirmation snapshot. |
+| 2025 | Official IR source links note | https://investors.seagate.com/overview/default.aspx | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/data-storage-devices/seagate-technology-holdings-plc/ir-source-links.md) | IR paths verified, but live site rate-limited direct automated local capture attempts. |
+| 2025 | SEC annual report PDF | https://www.sec.gov/Archives/edgar/data/1137789/000113778925000213/stxfy2510-kars_.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/data-storage-devices/seagate-technology-holdings-plc/2025-annual-report.pdf) | SEC-hosted `ARS` package. |
+| 2025 | SEC Form 10-K | https://www.sec.gov/Archives/edgar/data/1137789/000113778925000157/stx-20250627.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/data-storage-devices/seagate-technology-holdings-plc/2025-10k.html) | Annual filing anchor. |
+| 2025 | Fiscal year results release | https://www.sec.gov/Archives/edgar/data/1137789/000113778925000148/stxq42025pressreleasefinan.htm | [2025-q4-fy2025-ex99.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/data-storage-devices/seagate-technology-holdings-plc/2025-q4-fy2025-ex99.html) | Saved annual-results exhibit with fiscal-year highlights and management framing. |
 
-- Revenue: `$9.1B`
-- Gross margin: `35.0%`
-- Net income: `$1.5B`
-- Operating cash flow: `$1.1B`
-- HDD exabytes shipped: `595`
+## Last three reported quarters
 
-## Trailing reported quarter highlights
+| Quarter | Primary materials | Key headline |
+| --- | --- | --- |
+| `Q4 FY2026` | `8-K` plus earnings exhibit | Revenue reached `$3.6B`, GAAP gross margin reached `52.3%`, and free cash flow reached `$1.1B` as management tied demand to robust cloud data-center spending and durable long-term mass-capacity storage demand. |
+| `Q3 FY2026` | `10-Q`, `8-K`, and earnings exhibit | Revenue reached `$3.11B`, GAAP gross margin reached `46.5%`, and free cash flow reached `$953M` as management emphasized record margins, debt reduction, and strong cloud-capex-linked storage demand. |
+| `Q2 FY2026` | `10-Q`, `8-K`, and earnings exhibit | Revenue reached `$2.83B`, GAAP gross margin reached `41.6%`, and free cash flow reached `$607M` as management tied AI-driven data creation to the need for exabyte-scale performance and cost-efficiency. |
 
-### FY2026 Q4
+## What changed
 
-- Revenue: `$3.6B`
-- GAAP diluted EPS: `$5.58`
-- Non-GAAP diluted EPS: `$5.71`
-- Operating cash flow: `$1.3B`
-- Free cash flow: `$1.1B`
+- Seagate gives CLI 5 a second flagship company inside the storage-persistence layer.
+- AnnualReports lags here, so the packet is built primarily from SEC-hosted annual and quarterly materials.
+- The annual materials make mass-capacity cloud, archive, edge, and generative-AI storage demand explicit.
+- The quarter chain shows accelerating revenue, margin expansion, and free-cash-flow growth as cloud demand and storage density economics improve.
+- The economic implication is that AI-era value capture also lands in exabyte-scale retained storage, not only in transport, compute, and software control.
 
-### FY2026 Q3
+## Open questions
 
-- Revenue: `$3.11B`
-- GAAP diluted EPS: `$3.27`
-- Non-GAAP diluted EPS: `$4.10`
-- Operating cash flow: `$1.1B`
-- Free cash flow: `$953M`
-
-### FY2026 Q2
-
-- Revenue: `$2.83B`
-- GAAP diluted EPS: `$2.60`
-- Non-GAAP diluted EPS: `$3.11`
-- Operating cash flow: `$723M`
-- Free cash flow: `$607M`
-
-## Early read
-
-- Seagate is one of the clearest proofs that AI creates a storage-capacity problem after it creates a compute problem.
-- The core earnings swing is being driven by high-capacity nearline cloud demand, favorable pricing, and the transition into HAMR-based Mozaic products.
-- The upside is tied to cloud data-center demand and storage economics; the risk is that customer concentration, technology transitions, tariffs, export controls, and supply commitments can reverse operating leverage quickly.
+- Is Seagate’s current performance mostly cyclical storage tightness, or does HAMR and exabyte demand support a more durable quality rerating?
+- How different is Seagate’s lane role from Western Digital’s once both are stripped down to persistence economics?
+- In the AI stack, how much value ultimately lands in storage density and retained-capacity economics relative to networking, semicap, and software control?

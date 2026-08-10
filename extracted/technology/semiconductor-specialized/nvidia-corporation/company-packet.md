@@ -62,13 +62,13 @@ Note: for many companies this third slot will be a late-2025 quarter needed to c
 
 ## Source pointers
 
-- [fy2026-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/semiconductor-specialized/nvidia-corporation/fy2026-annual-report.pdf)
-- [fy2026-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/semiconductor-specialized/nvidia-corporation/fy2026-10k.html)
-- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/semiconductor-specialized/nvidia-corporation/company-page-annualreports.html)
-- [fy2027-q1-cfo-commentary.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/semiconductor-specialized/nvidia-corporation/fy2027-q1-cfo-commentary.pdf)
-- [fy2027-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/semiconductor-specialized/nvidia-corporation/fy2027-q1-10q.html)
-- [fy2027-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/semiconductor-specialized/nvidia-corporation/fy2027-q1-earnings-call-transcript.pdf)
-- [fy2026-q4-cfo-commentary.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/semiconductor-specialized/nvidia-corporation/fy2026-q4-cfo-commentary.pdf)
-- [fy2026-q3-cfo-commentary.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/semiconductor-specialized/nvidia-corporation/fy2026-q3-cfo-commentary.pdf)
-- [fy2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/semiconductor-specialized/nvidia-corporation/fy2026-q3-10q.html)
-- [fy2026-q3-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/semiconductor-specialized/nvidia-corporation/fy2026-q3-earnings-call-transcript.pdf)
+- [fy2026-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/semiconductor-specialized/nvidia-corporation/fy2026-annual-report.pdf)
+- [fy2026-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/semiconductor-specialized/nvidia-corporation/fy2026-10k.html)
+- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/semiconductor-specialized/nvidia-corporation/company-page-annualreports.html)
+- [fy2027-q1-cfo-commentary.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/semiconductor-specialized/nvidia-corporation/fy2027-q1-cfo-commentary.pdf)
+- [fy2027-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/semiconductor-specialized/nvidia-corporation/fy2027-q1-10q.html)
+- [fy2027-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/technology/semiconductor-specialized/nvidia-corporation/fy2027-q1-earnings-call-transcript.pdf)
+- [fy2026-q4-cfo-commentary.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/semiconductor-specialized/nvidia-corporation/fy2026-q4-cfo-commentary.pdf)
+- [fy2026-q3-cfo-commentary.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/semiconductor-specialized/nvidia-corporation/fy2026-q3-cfo-commentary.pdf)
+- [fy2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/semiconductor-specialized/nvidia-corporation/fy2026-q3-10q.html)
+- [fy2026-q3-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/technology/semiconductor-specialized/nvidia-corporation/fy2026-q3-earnings-call-transcript.pdf)

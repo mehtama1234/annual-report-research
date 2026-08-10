@@ -1,0 +1,90 @@
+# CLI 6 Kickoff Brief
+
+Date baseline: 2026-08-10
+Repo: `annual-report-research-new-lanes`
+
+## Lane
+
+`CLI 6: Capital Structures, Property, and Conglomerates`
+
+## Mission
+
+Build the balance-sheet-heavy and capital-allocation-heavy side of the archive.
+Do not reduce this to generic large-bank coverage or another broad real-estate sweep.
+Make the lane show how deposit funding, underwriting, advisory distribution, mortgage financing, property cash flow, and holding-company allocation decisions relate to one another.
+
+## Industries to cover
+
+- Regional Banks
+- Savings & Loans
+- Life Insurance
+- Insurance Brokers
+- REIT - Mortgage
+- REIT - Retail
+- REIT - Healthcare Facilities
+- Conglomerates
+
+## Batch target
+
+Complete `3` to `4` flagship companies in one coherent comparison set.
+Use `2025` annual reports plus the latest three reported quarters as of `2026-08-10`.
+
+## Strong first-batch shapes
+
+- regional bank plus life insurer plus healthcare or retail REIT plus conglomerate
+- regional lender plus insurance broker plus mortgage REIT plus capital allocator
+- deposit franchise plus fee-heavy intermediary plus property vehicle plus diversified holding company
+
+## Example first batches
+
+### Batch A
+
+- PNC Financial Services
+- MetLife
+- Welltower
+- Berkshire Hathaway
+
+### Batch B
+
+- M&T Bank
+- Marsh & McLennan
+- Annaly Capital Management
+- Loews
+
+## What the lane should clarify
+
+- how funding mix, capital ratios, deposit pricing, and credit quality shape resilience
+- how insurers and brokers monetize float, underwriting, distribution, and advisory control differently
+- how mortgage REITs differ from property-owning REITs in interest-rate sensitivity and financing risk
+- how healthcare and retail REITs express tenant quality, lease structure, occupancy, and leverage differently
+- how conglomerates allocate capital across unlike businesses and when that allocation becomes the moat
+
+## Cross-company themes to extract
+
+- liability structure as advantage or fragility
+- spread income versus fee income versus rent collection
+- refinancing risk and duration mismatch
+- property cash-flow quality versus leverage tolerance
+- capital-allocation discipline versus empire-building
+- regulated trust, distribution reach, and balance-sheet scale as moat sources
+
+## Recommended next names after the first batch
+
+- Truist Financial
+- Regions Financial
+- U.S. Bancorp
+- Aon
+- Arthur J. Gallagher
+- AGNC Investment
+- Realty Income
+- Ventas
+- Brookfield Corporation
+- Markel
+
+## Required outputs
+
+- source-complete or clearly documented partial packets for `3` to `4` flagship companies
+- one lane summary
+- explicit cross-company themes
+- next recommended names
+- end-of-run handoff using the batch-handoff template

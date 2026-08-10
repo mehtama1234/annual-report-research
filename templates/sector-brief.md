@@ -1,11 +1,12 @@
 # Sector Brief Template
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-10
 
 ## Sector
 
 - Sector:
 - AnnualReports.com sector label:
+- Lane family:
 - Covered industries:
 - Covered companies:
 
@@ -24,6 +25,10 @@ Date baseline: 2026-08-08
 - 
 
 ## Important cross-company contrasts
+
+- 
+
+## Next names to add
 
 - 
 

@@ -1,6 +1,6 @@
 # ServiceNow, Inc.
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -9,6 +9,7 @@ Date baseline: 2026-08-09
 - Exchange: NYSE
 - Sector: Technology
 - Industry: Information Technology Services
+- SEC SIC description: Prepackaged Software
 - Headquarters: Santa Clara, California, United States
 - Fiscal year-end: December 31
 - AnnualReports.com page: https://www.annualreports.com/Company/servicenow-inc
@@ -33,18 +34,18 @@ Date baseline: 2026-08-09
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/servicenow-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/information-technology-services/servicenow-inc/annualreports-verification.md) | Confirms AnnualReports company-page metadata and that the hosted package still lagged at `2024` on 2026-08-09. |
-| 2025 | Annual report PDF | https://investors.servicenow.com/ | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/information-technology-services/servicenow-inc/2025-annual-report.pdf) | Official designed annual-report package saved locally. |
-| 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/now-20251231.htm | [now-20251231.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/information-technology-services/servicenow-inc/now-20251231.htm) | Saved FY2025 annual filing from SEC. |
-| 2025 | ServiceNow IR source links | https://investors.servicenow.com/ | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/information-technology-services/servicenow-inc/ir-source-links.md) | Logs the official IR home plus the SEC annual and quarterly artifact chain used for this archive. |
+| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/servicenow-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/information-technology-services/servicenow-inc/annualreports-verification.md) | Confirms AnnualReports company-page metadata and that the hosted package still lagged at `2024` on 2026-08-09. |
+| 2025 | Annual report PDF | https://investors.servicenow.com/ | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/information-technology-services/servicenow-inc/2025-annual-report.pdf) | Official designed annual-report package saved locally. |
+| 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/now-20251231.htm | [now-20251231.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/information-technology-services/servicenow-inc/now-20251231.htm) | Saved FY2025 annual filing from SEC. |
+| 2025 | ServiceNow IR source links | https://investors.servicenow.com/ | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/information-technology-services/servicenow-inc/ir-source-links.md) | Logs the official IR home plus the SEC annual and quarterly artifact chain used for this archive. |
 
 ## Last three quarters
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| Q2 2026 | [erq2fy26.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/information-technology-services/servicenow-inc/erq2fy26.htm) | [now-20260722.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/information-technology-services/servicenow-inc/now-20260722.htm) | not saved locally | Revenue reached `$3.987B`, subscription revenue reached `$3.877B`, and ServiceNow AI crossed `$1B` of annual contract value. |
-| Q1 2026 | [erq1fy26.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/information-technology-services/servicenow-inc/erq1fy26.htm) | [now-20260417.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/information-technology-services/servicenow-inc/now-20260417.htm) | not saved locally | Revenue reached `$3.770B`, subscription revenue reached `$3.671B`, and customers spending more than `$1M` in Now Assist ACV grew more than `130%` year over year. |
-| Q4 2025 | [erq4fy25.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/information-technology-services/servicenow-inc/erq4fy25.htm) | [now-20260128.htm](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/information-technology-services/servicenow-inc/now-20260128.htm) | not saved locally | Revenue reached `$3.568B`, subscription revenue reached `$3.466B`, and Now Assist net new ACV more than doubled year over year as ServiceNow closed FY2025 with strong RPO growth. |
+| Q2 2026 | [erq2fy26.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/information-technology-services/servicenow-inc/erq2fy26.htm) | [now-20260722.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/information-technology-services/servicenow-inc/now-20260722.htm) | not saved locally | Revenue reached `$3.987B`, subscription revenue reached `$3.877B`, and ServiceNow AI crossed `$1B` of annual contract value. |
+| Q1 2026 | [erq1fy26.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/information-technology-services/servicenow-inc/erq1fy26.htm) | [now-20260417.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/information-technology-services/servicenow-inc/now-20260417.htm) | not saved locally | Revenue reached `$3.770B`, subscription revenue reached `$3.671B`, and customers spending more than `$1M` in Now Assist ACV grew more than `130%` year over year. |
+| Q4 2025 | [erq4fy25.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/information-technology-services/servicenow-inc/erq4fy25.htm) | [now-20260128.htm](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/information-technology-services/servicenow-inc/now-20260128.htm) | not saved locally | Revenue reached `$3.568B`, subscription revenue reached `$3.466B`, and Now Assist net new ACV more than doubled year over year as ServiceNow closed FY2025 with strong RPO growth. |
 
 ## What changed
 
@@ -57,6 +58,7 @@ Date baseline: 2026-08-09
 - Operational issues: management is using acquisitions and product breadth to push ServiceNow from workflow software toward a wider AI control-tower and enterprise-orchestration role, with Armis, Veza, and Moveworks all framed as strategic extensions.
 - Consumer / cultural signals: ServiceNow is less a direct consumer signal than an enterprise operating-system signal; it shows how large organizations are trying to govern, route, and operationalize AI inside day-to-day work rather than only buying raw model capacity.
 - Management tone: management is assertive and increasingly expansive, repeatedly describing ServiceNow as the AI control tower for business reinvention and linking workflow orchestration to security, governance, and autonomous agents.
+- CLI 5 role: ServiceNow is the workflow-orchestration and AI-governance control point that tests whether the strongest infrastructure economics increasingly sit in enterprise software layers that govern how work and AI actually run.
 
 ## Open questions
 

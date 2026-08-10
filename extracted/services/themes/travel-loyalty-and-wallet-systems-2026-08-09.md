@@ -6,21 +6,21 @@ Date baseline: 2026-08-09
 
 This memo pulls together the current Services packets that are most useful for understanding how travel, lodging, gaming, and destination demand are being monetized through loyalty, status, partner ecosystems, and wallet-like customer relationships:
 
-- [Delta Air Lines, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
-- [United Airlines Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/united-airlines-holdings-inc/company-packet.md)
-- [Southwest Airlines Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/regional-airlines/southwest-airlines-co/company-packet.md)
-- [Hilton Worldwide Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
-- [Marriott International, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/marriott-international-inc/company-packet.md)
-- [Booking Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/transportation-services/booking-holdings/company-packet.md)
-- [Expedia Group, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/transportation-services/expedia-group-inc/company-packet.md)
-- [Carnival Corporation & plc](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/general-entertainment/carnival-corporation-plc/company-packet.md)
-- [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
-- [MGM Resorts International](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md)
+- [Delta Air Lines, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
+- [United Airlines Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/major-airlines/united-airlines-holdings-inc/company-packet.md)
+- [Southwest Airlines Co.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/regional-airlines/southwest-airlines-co/company-packet.md)
+- [Hilton Worldwide Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
+- [Marriott International, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/lodging/marriott-international-inc/company-packet.md)
+- [Booking Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/transportation-services/booking-holdings/company-packet.md)
+- [Expedia Group, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/transportation-services/expedia-group-inc/company-packet.md)
+- [Carnival Corporation & plc](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/consumer-goods/general-entertainment/carnival-corporation-plc/company-packet.md)
+- [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
+- [MGM Resorts International](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md)
 
 Cross-sector contrast that now matters for the same theme:
 
-- [Frontier Group Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/air-delivery-freight-services/frontier-group-holdings-inc/company-packet.md) sits outside the formal Services set because AnnualReports currently classifies it under `Industrial Goods`, but it is the archive's clearest ultra-low-cost carrier and thin-relationship airline contrast.
-- [Airbnb, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/airbnb-inc/company-packet.md) sits outside the formal Services set because AnnualReports currently classifies it under `Technology / Application Software`, but it is one of the archive's clearest travel and host-guest marketplace interfaces.
+- [Frontier Group Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/industrial-goods/air-delivery-freight-services/frontier-group-holdings-inc/company-packet.md) sits outside the formal Services set because AnnualReports currently classifies it under `Industrial Goods`, but it is the archive's clearest ultra-low-cost carrier and thin-relationship airline contrast.
+- [Airbnb, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/technology/application-software/airbnb-inc/company-packet.md) sits outside the formal Services set because AnnualReports currently classifies it under `Technology / Application Software`, but it is one of the archive's clearest travel and host-guest marketplace interfaces.
 
 ## Executive read
 

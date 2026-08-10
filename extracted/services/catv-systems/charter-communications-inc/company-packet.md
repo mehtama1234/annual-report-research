@@ -17,64 +17,67 @@ Date baseline: 2026-08-10
 
 ## Annual report takeaways
 
-- Charter is a core communications-and-access company because it sits at the household account layer where broadband, mobile, video, voice, WiFi, and service relationships get bundled into a recurring utility-style customer connection.
-- The `2025` annual and Q4 material show a meaningful conceptual shift: Charter is no longer presenting itself mainly as a cable-video operator. It is reframing around total customer relationships and total connectivity customers, explicitly including mobile-only customers in the relationship definition.
-- That matters for the frontier because the social question is changing from "who sells pay TV?" to "who owns the billing relationship, device connection, and routine household access layer?"
-- The annual package also reinforces the capital intensity of this position. Charter is not a lightweight app intermediary. It is a physically networked operator with large recurring capex, line-extension spend, and a continuing network-evolution program designed to support symmetrical and multi-gigabit speeds.
-- The strategic message is clear: even if video weakens, the account can still be defended through broadband utility, mobile attachment, WiFi resilience, and increasingly integrated package design.
+- Charter is the right next CLI 5 extension because it adds the fixed-access, cable-bundle, and household-gateway layer that was still missing beside AT&T, Verizon, Cisco, Arista, Keysight, and KLA.
+- The classification stack matters. AnnualReports places Charter in `Services / CATV Systems`, while the SEC still describes it as `Cable & Other Pay Television Services`. That legacy label understates what the company has become. Charter is now much closer to a broadband-and-mobile access system that is carrying a shrinking video business than to a classic cable bundle story.
+- The `2025` annual materials show the transition clearly. Full-year `2025` revenue was `$54.774B`, Adjusted EBITDA was `$22.708B`, net income attributable to Charter shareholders was `$5.0B`, free cash flow was `$5.004B`, and capital expenditures were `$11.659B`.
+- The annual filing also shows the physical burden attached to that role. Charter ended `2025` with only `$477M` of cash and cash equivalents against `$94.6B` of principal debt, while still funding network evolution, rural construction, customer-premise equipment, and line extensions.
+- The strategic reading is not that Charter is broken. It is that the access layer is being reassembled. Internet and video customer counts remain pressured, but mobile growth and connectivity revenue are being used to preserve the household relationship and keep the bundle economically relevant.
 
 ## Quarter-by-quarter takeaways
 
 ### Most recent quarter
 
-- Results: Q2 `2026` revenue was about `$13.5B`; net income attributable to Charter shareholders was about `$1.3B`; adjusted EBITDA was about `$5.4B`; capital expenditures were about `$2.9B`; free cash flow was about `$969M`.
-- Customer metrics: Charter added `406,000` mobile lines in the quarter and served `12.5M` mobile lines as of `June 30, 2026`, but internet customers declined by `172,000` and total customer relationships fell to `31.5M`.
-- Interpretation: the quarter shows the central tension in this lane. Connectivity remains essential, but ownership of the household relationship is being defended through convergence and price/value architecture rather than through clean customer growth in legacy cable products.
-- Bigger-picture read: Charter is effectively rebundling a fragmented media world. It uses broadband plus mobile as the anchor and then tries to pull streaming, WiFi, and service guarantees back into one managed household account.
+- Results: Q2 `2026` revenue was `$13.526B`, net income attributable to Charter shareholders was `$1.292B`, Adjusted EBITDA was `$5.449B`, and free cash flow was `$969M`.
+- Operating read: Charter lost `172K` Internet customers in the quarter, but added `406K` mobile lines and ended the quarter with `12.5M` mobile lines, `29.4M` Internet customers, `31.5M` customer relationships, and `30.4M` connectivity customers.
+- Capital and balance-sheet signal: capital expenditures were `$2.871B`; cash and cash equivalents were `$509M`; and principal debt was `$93.8B`.
+- Capital-allocation signal: Charter repurchased `4.0M` shares for `$838M` and also repurchased `$1.2B` in aggregate principal amount of debt in the open market.
+- Structural themes: Q2 is the clearest current proof that last-mile access is still economically important but under pressure. The company can still monetize the relationship, but it has to do it while absorbing customer churn in legacy categories and carrying a very large debt load.
 
 ### Quarter minus 1
 
-- Results: Q1 `2026` adjusted EBITDA was about `$5.6B`; capital expenditures were about `$2.9B`, including about `$812M` of line extensions; free cash flow was about `$1.4B`.
-- Strategic signals: management tied confidence to advanced network quality, improved products, pricing and packaging, customer satisfaction, and completion of rural and network initiatives.
-- Product signals: Charter highlighted the `Invincible WiFi` WiFi 7 product with 5G cellular and battery backup and launched a `$1,000` savings guarantee for broadband customers switching multiple mobile lines from Verizon, AT&T, or T-Mobile.
-- Interpretation: Q1 is useful because it shows how a modern access operator competes. It is not just about speed. It is about reliability during outages, savings guarantees, bundled switching incentives, and keeping the household inside one service orbit.
+- Results: Q1 `2026` revenue was `$13.597B`, net income attributable to Charter shareholders was `$1.163B`, Adjusted EBITDA was `$5.637B`, and free cash flow was `$1.372B`.
+- Operating read: Charter added `368K` mobile lines in the quarter, reaching `12.1M`, while losing `120K` Internet customers and ending with `29.6M`.
+- Connectivity signal: management explicitly framed the quarter around customers finding value in bundling seamless connectivity and entertainment products, even as Internet customer growth remained challenged.
+- Capital and balance-sheet signal: capital expenditures were `$2.855B`, including `$812M` of line extensions; cash and cash equivalents were `$517M`; and principal debt was `$94.3B`.
+- Structural themes: Q1 is the cleanest quarter for seeing Charter's transition logic. Broadband is no longer enough by itself; the company is trying to deepen the household relationship through mobile, packaging, and retention while still funding a heavy infrastructure base.
 
 ### Quarter minus 2
 
-- Results: Q4 `2025` revenue was about `$13.6B`; net income attributable to Charter shareholders was about `$1.3B`; adjusted EBITDA was about `$5.7B`. Full-year `2025` revenue was about `$54.8B`; full-year adjusted EBITDA was about `$22.7B`; full-year free cash flow was about `$5.0B`.
-- Structural shift: Charter formally revised reporting policies to include all mobile customers, including mobile-only customers, in customer relationships and introduced total connectivity customers as a headline measure.
-- Interpretation: that change is one of the strongest current archive signals in this frontier. It reflects a social and business reality that the consumer access relationship is no longer organized around cable television. It is organized around connectivity, portability, pricing, and account ownership.
+- Results: Q4 `2025` revenue was `$13.601B`, net income attributable to Charter shareholders was `$1.332B`, Adjusted EBITDA was `$5.691B`, and free cash flow was `$773M`.
+- Full-year frame: full-year `2025` revenue was `$54.774B`, Adjusted EBITDA was `$22.708B`, net income attributable to Charter shareholders was `$5.0B`, and free cash flow was `$5.004B`.
+- Customer signal: Charter ended `2025` with `29.7M` Internet customers, `11.8M` mobile lines, `31.8M` customer relationships, and `30.6M` connectivity customers.
+- Capital and liquidity signal: full-year capital expenditures totaled `$11.659B`, including `$3.9B` of line extensions, and Charter repurchased `17.1M` shares and units for approximately `$5.4B`.
+- Structural themes: the year-end release is the strongest single document for seeing the modern Charter model. Video and advertising are weaker, but broadband, mobile, packaging, and connectivity revenue still create enough cash flow to support major capex and aggressive repurchases.
 
 ## Signals to feed into higher-level analysis
 
-- Customer ownership and subscriptions: Charter is a strong anchor for the idea that recurring value sits in the account, not in any one product. Internet, mobile, and service guarantees matter more than old cable-category purity.
-- Media fragmentation and rebundling: even as streaming fragments viewing behavior, Charter tries to reconstruct a bundle by embedding programmers' streaming apps inside video plans and through the Spectrum App Store.
-- Connectivity as infrastructure: the network-evolution program, rural passings, and high capex levels reinforce that this is physical infrastructure with utility-like characteristics, not just a marketing shell around content.
-- Consumer pressure and value sensitivity: the `$1,000` savings guarantee, simplified pricing, and emphasis on value all suggest a consumer environment where households are increasingly price-aware and bundle decisions are made through cost discipline rather than through pure entertainment desire.
-- Durable operating pressure: the company is managing simultaneous headwinds and tailwinds: broadband churn pressure, legacy video decline, competition from national mobile carriers, heavy network capex, and the need to keep service quality high while repositioning around convergence.
+- CLI 5 role: Charter adds the last-mile fixed-access and bundle-reassembly layer to the connectivity stack.
+- Consumer and household read: households increasingly treat broadband and mobile as one combined utility relationship, while video becomes a weaker anchor for the overall spend bundle.
+- Cultural and societal read: connectivity now functions as default household infrastructure. Consumers expect streaming, communication, and connected-device reliability without caring how much network evolution and capital intensity sit underneath.
+- Industrial read: the quarter chain shows the pressure of competing with fiber, wireless substitution, streaming migration, and programmer allocation changes while still pushing rural construction, customer-premise equipment, and network upgrades.
+- Capital-structure read: Charter is one of the clearest examples in the lane where a sticky access relationship coexists with a massive debt burden and ongoing infrastructure reinvestment.
+- Monetization-system read: the company is trying to turn one household gateway into a wider connectivity wallet through broadband, mobile, packaging, and retention rather than through the legacy cable-video stack.
 
 ## Source pointers
 
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/services/catv-systems/charter-communications-inc/company-page.html)
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/services/catv-systems/charter-communications-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/catv-systems/charter-communications-inc/official-ir-verification.md)
-- [quarterly-results-page.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/catv-systems/charter-communications-inc/quarterly-results-page.html)
-- [annual-reports-page.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/catv-systems/charter-communications-inc/annual-reports-page.html)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/services/catv-systems/charter-communications-inc/2025-annual-report.pdf)
-- [submissions-cik0001091667.json](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/submissions-cik0001091667.json)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2025-q4-8k.html)
-- [2025-q4-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/catv-systems/charter-communications-inc/2025-q4-earnings-release.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2026-q1-10q.html)
-- [2026-q1-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/catv-systems/charter-communications-inc/2026-q1-earnings-release.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/catv-systems/charter-communications-inc/2026-q2-10q.html)
-- [2026-q2-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/catv-systems/charter-communications-inc/2026-q2-earnings-release.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/catv-systems/charter-communications-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/catv-systems/charter-communications-inc/official-ir-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/catv-systems/charter-communications-inc/company-page.html)
+- [corporate-home.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/catv-systems/charter-communications-inc/corporate-home.html)
+- [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2025-annual-report-ars.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2025-q4-8k.html)
+- [2025-q4-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2025-q4-ex99-1.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q1-8k.html)
+- [2026-q1-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q1-ex99-1.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q1-10q.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q2-8k.html)
+- [2026-q2-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q2-ex99-1.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/catv-systems/charter-communications-inc/2026-q2-10q.html)
 
 ## Working interpretation
 
-- Charter helps explain how communications access is becoming more utility-like while also becoming more strategically bundled. The household may watch fragmented streaming services, but the company that controls the broadband pipe, the mobile line, the router, and the billing relationship still has real leverage.
-- The most important cultural shift here is not just cord-cutting. It is that households increasingly want continuity, savings, and low-friction access across multiple services rather than loyalty to one legacy content format.
-- That is why Charter's moves matter: streaming apps inside the video bundle, a store for managing those apps, outage-resilient WiFi, mobile line guarantees, and rural expansion all point to the same thesis. The company wants to own the interface layer around everyday connectivity, not just sell cable.
-- In frontier terms, Charter is the communications analogue to Omnicom's role in attention and TTM's role in hardware substrate. It sits in a hidden but decisive control layer where everyday behavior, recurring spend, and infrastructure lock-in meet.
+- Charter materially improves the archive because it keeps the connectivity lane from reading telecom access as only a wireless utility story. It shows the cable-and-broadband version of the same burden stack, where the relationship is sticky but the product mix is changing under pressure.
+- Compared with AT&T and Verizon, Charter depends less on national wireless identity and more on defending the household gateway through broadband, packaging, and the Spectrum Mobile extension.
+- Compared with Alphabet, Cisco, Arista, Keysight, and KLA, Charter is the reminder that not every essential layer captures premium economics. Some layers carry the households, the field burden, the programmers, the debt, and the upgrade cycle all at once.
+- For the `2025` through `2026` window, Charter is strong evidence that one of the most important repeating infrastructure patterns is bundle reassembly: the old cable package is weakening, but the household relationship can still be monetized if the operator can shift the customer toward broadband, mobile, and connectivity-first value.

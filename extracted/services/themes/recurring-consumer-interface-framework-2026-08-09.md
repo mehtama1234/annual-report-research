@@ -6,15 +6,15 @@ Date baseline: 2026-08-09
 
 This memo consolidates the current Services theme work into one cross-category framework built from the existing focused memos:
 
-- [Value Retail and Consumer Routines](/home/manishmehta/ui-projects/annual-report-research/extracted/services/themes/value-retail-and-consumer-routines-2026-08-09.md)
-- [Recurring Consumer Routines and Loyalty](/home/manishmehta/ui-projects/annual-report-research/extracted/services/themes/recurring-consumer-routines-and-loyalty-2026-08-09.md)
-- [Travel Loyalty and Wallet Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/services/themes/travel-loyalty-and-wallet-systems-2026-08-09.md)
+- [Value Retail and Consumer Routines](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/themes/value-retail-and-consumer-routines-2026-08-09.md)
+- [Recurring Consumer Routines and Loyalty](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/themes/recurring-consumer-routines-and-loyalty-2026-08-09.md)
+- [Travel Loyalty and Wallet Systems](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/themes/travel-loyalty-and-wallet-systems-2026-08-09.md)
 
 It is based on the current `2025` annual reports plus late-`2025` and `2026` quarterlies already packetized in the archive.
 
 Related repo-level extension:
 
-- [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
+- [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
 
 ## Executive read
 

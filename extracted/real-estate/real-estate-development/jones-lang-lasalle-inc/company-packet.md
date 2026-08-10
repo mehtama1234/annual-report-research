@@ -12,9 +12,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/real-estate/real-estate-development/jones-lang-lasalle-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/real-estate/real-estate-development/jones-lang-lasalle-inc/ir-source-links.md)
-- SEC filings folder: [jones-lang-lasalle-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/real-estate/real-estate-development/jones-lang-lasalle-inc)
+- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/real-estate/real-estate-development/jones-lang-lasalle-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/real-estate/real-estate-development/jones-lang-lasalle-inc/ir-source-links.md)
+- SEC filings folder: [jones-lang-lasalle-inc](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/real-estate/real-estate-development/jones-lang-lasalle-inc)
 
 ## Snapshot
 

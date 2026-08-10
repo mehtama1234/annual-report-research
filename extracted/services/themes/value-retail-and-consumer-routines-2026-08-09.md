@@ -6,16 +6,16 @@ Date baseline: 2026-08-10
 
 This memo pulls together the current retail-service packets that are most useful for reading consumer behavior, format strength, and cultural routine in the `2025` annual reports plus late-`2025` and `2026` quarterlies:
 
-- [Costco Wholesale Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md)
-- [Walmart Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/walmart-inc/company-packet.md)
-- [The Kroger Company](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-grocery-stores/the-kroger-company/company-packet.md)
-- [Dollar Tree, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/dollar-tree-inc/company-packet.md)
-- [Dollar General Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/dollar-general-corporation/company-packet.md)
-- [Best Buy Co., Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/electronics-stores/best-buy-co-inc/company-packet.md)
-- [Kohl's Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/department-stores/kohls-corporation/company-packet.md)
-- [Ross Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
-- [Ulta Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
-- [Chewy, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
+- [Costco Wholesale Corporation](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md)
+- [Walmart Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/discount-variety-stores/walmart-inc/company-packet.md)
+- [The Kroger Company](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/retail-grocery-stores/the-kroger-company/company-packet.md)
+- [Dollar Tree, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/discount-variety-stores/dollar-tree-inc/company-packet.md)
+- [Dollar General Corporation](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/discount-variety-stores/dollar-general-corporation/company-packet.md)
+- [Best Buy Co., Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/electronics-stores/best-buy-co-inc/company-packet.md)
+- [Kohl's Corporation](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/department-stores/kohls-corporation/company-packet.md)
+- [Ross Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
+- [Ulta Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
+- [Chewy, Inc.](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
 
 ## Executive read
 

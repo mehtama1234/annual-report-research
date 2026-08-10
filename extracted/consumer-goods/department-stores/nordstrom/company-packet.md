@@ -49,13 +49,13 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/department-stores/nordstrom/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/department-stores/nordstrom/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/department-stores/nordstrom/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/department-stores/nordstrom/2025-annual-report.pdf)
-- [2025-q4-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/department-stores/nordstrom/2025-q4-results-release.pdf)
-- [submissions-cik0000072333.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/department-stores/nordstrom/submissions-cik0000072333.json)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/department-stores/nordstrom/2025-10k.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/department-stores/nordstrom/annualreports-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/department-stores/nordstrom/company-page.html)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/department-stores/nordstrom/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/department-stores/nordstrom/2025-annual-report.pdf)
+- [2025-q4-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/department-stores/nordstrom/2025-q4-results-release.pdf)
+- [submissions-cik0000072333.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/department-stores/nordstrom/submissions-cik0000072333.json)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/department-stores/nordstrom/2025-10k.html)
 
 ## Working interpretation
 

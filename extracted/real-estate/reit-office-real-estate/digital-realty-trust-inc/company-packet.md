@@ -12,9 +12,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/real-estate/reit-office-real-estate/digital-realty-trust-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/real-estate/reit-office-real-estate/digital-realty-trust-inc/ir-source-links.md)
-- SEC filings folder: [digital-realty-trust-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/real-estate/reit-office-real-estate/digital-realty-trust-inc)
+- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/real-estate/reit-office-real-estate/digital-realty-trust-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/real-estate/reit-office-real-estate/digital-realty-trust-inc/ir-source-links.md)
+- SEC filings folder: [digital-realty-trust-inc](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/real-estate/reit-office-real-estate/digital-realty-trust-inc)
 
 ## Snapshot
 

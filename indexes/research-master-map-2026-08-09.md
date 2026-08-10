@@ -36,18 +36,18 @@ In `coverage-tracker.csv`, a company counts as a fully packetized base case when
 
 ## Core indexes
 
-- [Pilot Companies](/home/manishmehta/ui-projects/annual-report-research/indexes/pilot-companies.md)
-- [Coverage Tracker](/home/manishmehta/ui-projects/annual-report-research/indexes/coverage-tracker.csv)
-- [Theme Tracker](/home/manishmehta/ui-projects/annual-report-research/indexes/theme-tracker.csv)
-- [Force Map](/home/manishmehta/ui-projects/annual-report-research/indexes/force-map.csv)
-- [Sectors](/home/manishmehta/ui-projects/annual-report-research/indexes/sectors.csv)
-- [Companies](/home/manishmehta/ui-projects/annual-report-research/indexes/companies.csv)
+- [Pilot Companies](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/pilot-companies.md)
+- [Coverage Tracker](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/coverage-tracker.csv)
+- [Theme Tracker](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/theme-tracker.csv)
+- [Force Map](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/force-map.csv)
+- [Sectors](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/sectors.csv)
+- [Companies](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/companies.csv)
 
 Specialized interface maps already exist for higher-density areas:
 
-- [Technology Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/technology-interface-research-index-2026-08-09.md)
-- [Financial Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/financial-interface-research-index-2026-08-09.md)
-- [Consumer Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/consumer-interface-research-index-2026-08-09.md)
+- [Technology Interface Research Index](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/technology-interface-research-index-2026-08-09.md)
+- [Financial Interface Research Index](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/financial-interface-research-index-2026-08-09.md)
+- [Consumer Interface Research Index](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/consumer-interface-research-index-2026-08-09.md)
 
 ## Active research tracks
 

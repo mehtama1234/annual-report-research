@@ -1,6 +1,6 @@
 # Collection Window
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 This project is not trying to collect every filing ever published.
 
@@ -13,7 +13,7 @@ Current target window:
 
 ## Quarterly materials
 
-Collect `2026` quarterly materials first, and use late `2025` only when needed to complete the latest three reported quarters as of `2026-08-09`.
+Collect `2026` quarterly materials first, and use late `2025` only when needed to complete the latest three reported quarters as of `2026-08-10`.
 
 For many calendar-year reporters that means:
 
@@ -21,7 +21,7 @@ For many calendar-year reporters that means:
 2. `2026 Q1`
 3. `2025 Q4`
 
-For off-calendar fiscal reporters, use the latest three reported fiscal quarters available by `2026-08-09` and preserve the company's actual fiscal labels.
+For off-calendar fiscal reporters, use the latest three reported fiscal quarters available by `2026-08-10` and preserve the company's actual fiscal labels.
 
 Examples:
 

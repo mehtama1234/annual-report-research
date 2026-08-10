@@ -60,13 +60,13 @@ Note: for many companies this third slot will be a late-2025 quarter needed to c
 
 ## Source pointers
 
-- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/personal-products/kimberly-clark-corp/company-page-annualreports.html)
-- [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/personal-products/kimberly-clark-corp/2025-annual-report-sec-ars.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2025-10k.html)
-- [2025-q4-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2025-q4-earnings-release-sec-ex99-1.html)
-- [2025-q4-pre-recorded-management-discussion-transcript.html](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/consumer-goods/personal-products/kimberly-clark-corp/2025-q4-pre-recorded-management-discussion-transcript.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2026-q1-10q.html)
-- [2026-q1-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2026-q1-earnings-release-sec-ex99-1.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2026-q2-10q.html)
-- [2026-q2-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2026-q2-earnings-release-sec-ex99-1.html)
+- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/personal-products/kimberly-clark-corp/company-page-annualreports.html)
+- [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/personal-products/kimberly-clark-corp/2025-annual-report-sec-ars.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2025-10k.html)
+- [2025-q4-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2025-q4-earnings-release-sec-ex99-1.html)
+- [2025-q4-pre-recorded-management-discussion-transcript.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/consumer-goods/personal-products/kimberly-clark-corp/2025-q4-pre-recorded-management-discussion-transcript.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2026-q1-10q.html)
+- [2026-q1-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2026-q1-earnings-release-sec-ex99-1.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2026-q2-10q.html)
+- [2026-q2-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/personal-products/kimberly-clark-corp/2026-q2-earnings-release-sec-ex99-1.html)
 

@@ -60,13 +60,13 @@ Note: for many companies this third slot will be a late-2025 quarter needed to c
 
 ## Source pointers
 
-- [2025-annual-report.docx](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/microsoft-corporation/2025-annual-report.docx)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/microsoft-corporation/2025-10k.html)
-- [fy2026-q4-press-release-webcast.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/microsoft-corporation/fy2026-q4-press-release-webcast.html)
-- [fy2026-q4-earnings-call-transcript.docx](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/application-software/microsoft-corporation/fy2026-q4-earnings-call-transcript.docx)
-- [fy2026-q3-press-release-webcast.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/microsoft-corporation/fy2026-q3-press-release-webcast.html)
-- [fy2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/microsoft-corporation/fy2026-q3-10q.html)
-- [fy2026-q3-earnings-call-transcript.docx](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/application-software/microsoft-corporation/fy2026-q3-earnings-call-transcript.docx)
-- [fy2026-q2-press-release-webcast.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/microsoft-corporation/fy2026-q2-press-release-webcast.html)
-- [fy2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/microsoft-corporation/fy2026-q2-10q.html)
-- [fy2026-q2-earnings-call-transcript.docx](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/application-software/microsoft-corporation/fy2026-q2-earnings-call-transcript.docx)
+- [2025-annual-report.docx](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/microsoft-corporation/2025-annual-report.docx)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/microsoft-corporation/2025-10k.html)
+- [fy2026-q4-press-release-webcast.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/microsoft-corporation/fy2026-q4-press-release-webcast.html)
+- [fy2026-q4-earnings-call-transcript.docx](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/technology/application-software/microsoft-corporation/fy2026-q4-earnings-call-transcript.docx)
+- [fy2026-q3-press-release-webcast.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/microsoft-corporation/fy2026-q3-press-release-webcast.html)
+- [fy2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/microsoft-corporation/fy2026-q3-10q.html)
+- [fy2026-q3-earnings-call-transcript.docx](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/technology/application-software/microsoft-corporation/fy2026-q3-earnings-call-transcript.docx)
+- [fy2026-q2-press-release-webcast.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/microsoft-corporation/fy2026-q2-press-release-webcast.html)
+- [fy2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/microsoft-corporation/fy2026-q2-10q.html)
+- [fy2026-q2-earnings-call-transcript.docx](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/technology/application-software/microsoft-corporation/fy2026-q2-earnings-call-transcript.docx)

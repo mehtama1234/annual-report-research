@@ -56,13 +56,13 @@ Date baseline: 2026-08-08
 
 ## Source pointers
 
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/money-center-banks/citigroup-inc/2025-annual-report.pdf)
-- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/money-center-banks/citigroup-inc/2026-q2-earnings-release.pdf)
-- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/financial/money-center-banks/citigroup-inc/2026-q2-earnings-call-transcript.pdf)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/citigroup-inc/2026-q2-10q.html)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/money-center-banks/citigroup-inc/2026-q1-earnings-release.pdf)
-- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/financial/money-center-banks/citigroup-inc/2026-q1-earnings-call-transcript.pdf)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/citigroup-inc/2026-q1-10q.html)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/money-center-banks/citigroup-inc/2025-q4-earnings-release.pdf)
-- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/financial/money-center-banks/citigroup-inc/2025-q4-earnings-call-transcript.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/citigroup-inc/2025-10k.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/money-center-banks/citigroup-inc/2025-annual-report.pdf)
+- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/money-center-banks/citigroup-inc/2026-q2-earnings-release.pdf)
+- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/financial/money-center-banks/citigroup-inc/2026-q2-earnings-call-transcript.pdf)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/money-center-banks/citigroup-inc/2026-q2-10q.html)
+- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/money-center-banks/citigroup-inc/2026-q1-earnings-release.pdf)
+- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/financial/money-center-banks/citigroup-inc/2026-q1-earnings-call-transcript.pdf)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/money-center-banks/citigroup-inc/2026-q1-10q.html)
+- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/money-center-banks/citigroup-inc/2025-q4-earnings-release.pdf)
+- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/financial/money-center-banks/citigroup-inc/2025-q4-earnings-call-transcript.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/money-center-banks/citigroup-inc/2025-10k.html)

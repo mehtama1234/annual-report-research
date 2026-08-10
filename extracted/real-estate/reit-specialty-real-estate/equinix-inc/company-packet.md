@@ -11,9 +11,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/real-estate/reit-specialty-real-estate/equinix-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/real-estate/reit-specialty-real-estate/equinix-inc/ir-source-links.md)
-- SEC filings folder: [equinix-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/real-estate/reit-specialty-real-estate/equinix-inc)
+- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/real-estate/reit-specialty-real-estate/equinix-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/real-estate/reit-specialty-real-estate/equinix-inc/ir-source-links.md)
+- SEC filings folder: [equinix-inc](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/real-estate/reit-specialty-real-estate/equinix-inc)
 
 ## Snapshot
 

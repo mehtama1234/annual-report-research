@@ -11,9 +11,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/real-estate/reit-industrial-real-estate/prologis-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/real-estate/reit-industrial-real-estate/prologis-inc/ir-source-links.md)
-- SEC filings folder: [prologis-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/real-estate/reit-industrial-real-estate/prologis-inc)
+- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/real-estate/reit-industrial-real-estate/prologis-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/real-estate/reit-industrial-real-estate/prologis-inc/ir-source-links.md)
+- SEC filings folder: [prologis-inc](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/real-estate/reit-industrial-real-estate/prologis-inc)
 
 ## Snapshot
 

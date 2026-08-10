@@ -10,10 +10,10 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/computer-hardware/hp-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/computer-hardware/hp-inc/ir-source-links.md)
-- Annual report PDF: [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/computer-hardware/hp-inc/2025-annual-report.pdf)
-- SEC filings folder: [hp-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/computer-hardware/hp-inc)
+- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/computer-hardware/hp-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/computer-hardware/hp-inc/ir-source-links.md)
+- Annual report PDF: [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/computer-hardware/hp-inc/2025-annual-report.pdf)
+- SEC filings folder: [hp-inc](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/computer-hardware/hp-inc)
 
 ## Snapshot
 

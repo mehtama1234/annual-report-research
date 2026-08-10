@@ -77,10 +77,10 @@ The current archive suggests that labor is not only an input cost problem. It is
 
 ## Source pointers
 
-- [Robert Half company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/staffing-employment-services/robert-half-inc/company-packet.md)
-- [Accenture company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/accenture-plc/company-packet.md)
-- [Cintas company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/business-services/cintas-corporation/company-packet.md)
-- [APi Group company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/business-services/api-group-corporation/company-packet.md)
-- [Services sector brief](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors/services-sector-initial-brief.md)
-- [Institutional operating infrastructure memo](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/institutional-operating-infrastructure-initial-theme-memo.md)
-- [Technology AI-platform memo](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/technology-ai-platform-initial-theme-memo.md)
+- [Robert Half company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/staffing-employment-services/robert-half-inc/company-packet.md)
+- [Accenture company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/technology/information-technology-services/accenture-plc/company-packet.md)
+- [Cintas company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/business-services/cintas-corporation/company-packet.md)
+- [APi Group company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/business-services/api-group-corporation/company-packet.md)
+- [Services sector brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/sectors/services-sector-initial-brief.md)
+- [Institutional operating infrastructure memo](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/institutional-operating-infrastructure-initial-theme-memo.md)
+- [Technology AI-platform memo](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/technology-ai-platform-initial-theme-memo.md)

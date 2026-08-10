@@ -54,19 +54,19 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/discount-variety-stores/costco-wholesale-corp/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/discount-variety-stores/costco-wholesale-corp/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/discount-variety-stores/costco-wholesale-corp/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2025-10k.html)
-- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/discount-variety-stores/costco-wholesale-corp/2026-q1-press-release.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q1-10q.html)
-- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/discount-variety-stores/costco-wholesale-corp/2026-q2-press-release.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q2-10q.html)
-- [2026-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/discount-variety-stores/costco-wholesale-corp/2026-q3-press-release.html)
-- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q3-8k.html)
-- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q3-10q.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/discount-variety-stores/costco-wholesale-corp/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/discount-variety-stores/costco-wholesale-corp/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/discount-variety-stores/costco-wholesale-corp/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2025-10k.html)
+- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/discount-variety-stores/costco-wholesale-corp/2026-q1-press-release.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q1-10q.html)
+- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/discount-variety-stores/costco-wholesale-corp/2026-q2-press-release.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q2-10q.html)
+- [2026-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/discount-variety-stores/costco-wholesale-corp/2026-q3-press-release.html)
+- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q3-8k.html)
+- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/discount-variety-stores/costco-wholesale-corp/2026-q3-10q.html)
 
 ## Working interpretation
 

@@ -10,9 +10,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/application-software/adobe-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/adobe-inc/ir-source-links.md)
-- SEC filings folder: [adobe-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/adobe-inc)
+- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/application-software/adobe-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/adobe-inc/ir-source-links.md)
+- SEC filings folder: [adobe-inc](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/adobe-inc)
 
 ## Snapshot
 

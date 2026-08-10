@@ -57,18 +57,18 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/industrial-electrical-equipment/powell-industries-inc/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-electrical-equipment/powell-industries-inc/ir-source-links.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2025-10k.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q1-10q.html)
-- [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q1-earnings-release-sec-ex99.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q2-10q.html)
-- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q3-8k.html)
-- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q3-10q.html)
-- [2026-q3-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q3-earnings-release-sec-ex99.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/industrial-goods/industrial-electrical-equipment/powell-industries-inc/annualreports-verification.md)
+- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/industrial-electrical-equipment/powell-industries-inc/ir-source-links.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2025-10k.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q1-10q.html)
+- [2026-q1-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q1-earnings-release-sec-ex99.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q2-10q.html)
+- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q3-8k.html)
+- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q3-10q.html)
+- [2026-q3-earnings-release-sec-ex99.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/industrial-electrical-equipment/powell-industries-inc/2026-q3-earnings-release-sec-ex99.html)
 
 ## Working interpretation
 

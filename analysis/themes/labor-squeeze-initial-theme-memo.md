@@ -73,8 +73,8 @@ The archive now has enough evidence to map `the-labor-squeeze` explicitly. Comfo
 
 ## Source pointers
 
-- [Comfort Systems company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
-- [ABM company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
-- [HCA company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
-- [Cintas company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/business-services/cintas-corporation/company-packet.md)
-- [Industrial Goods sector brief](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors/industrial-goods-sector-initial-brief.md)
+- [Comfort Systems company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
+- [ABM company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
+- [HCA company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
+- [Cintas company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/business-services/cintas-corporation/company-packet.md)
+- [Industrial Goods sector brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/sectors/industrial-goods-sector-initial-brief.md)

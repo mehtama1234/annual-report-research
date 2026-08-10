@@ -52,13 +52,13 @@ Date baseline: 2026-08-08
 
 ## Source pointers
 
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/money-center-banks/jpmorgan-chase-co/2025-annual-report.pdf)
-- [2026-q2-earnings-press-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/money-center-banks/jpmorgan-chase-co/2026-q2-earnings-press-release.pdf)
-- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/financial/money-center-banks/jpmorgan-chase-co/2026-q2-earnings-presentation.pdf)
-- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/financial/money-center-banks/jpmorgan-chase-co/2026-q2-earnings-call-transcript.pdf)
-- [2026-q2-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2026-q2-10q.pdf)
-- [2026-q1-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2026-q1-earnings-release-sec-ex99-1.html)
-- [2026-q1-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2026-q1-10q.pdf)
-- [2025-q4-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2025-q4-earnings-release-sec-ex99-1.html)
-- [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2025-10k.pdf)
-- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/financial/money-center-banks/jpmorgan-chase-co/2025-q4-earnings-call-transcript.pdf)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/money-center-banks/jpmorgan-chase-co/2025-annual-report.pdf)
+- [2026-q2-earnings-press-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/money-center-banks/jpmorgan-chase-co/2026-q2-earnings-press-release.pdf)
+- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/money-center-banks/jpmorgan-chase-co/2026-q2-earnings-presentation.pdf)
+- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/financial/money-center-banks/jpmorgan-chase-co/2026-q2-earnings-call-transcript.pdf)
+- [2026-q2-10q.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2026-q2-10q.pdf)
+- [2026-q1-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2026-q1-earnings-release-sec-ex99-1.html)
+- [2026-q1-10q.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2026-q1-10q.pdf)
+- [2025-q4-earnings-release-sec-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2025-q4-earnings-release-sec-ex99-1.html)
+- [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/money-center-banks/jpmorgan-chase-co/2025-10k.pdf)
+- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/financial/money-center-banks/jpmorgan-chase-co/2025-q4-earnings-call-transcript.pdf)

@@ -53,19 +53,19 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/residential-construction/lennar-corporation/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2025-annual-report.pdf)
-- [submissions-cik0000920760.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/residential-construction/lennar-corporation/submissions-cik0000920760.json)
-- [2025-q4-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2025-q4-earnings-release.html)
-- [2025-q4-10k-ir.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2025-q4-10k-ir.pdf)
-- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2025-q4-earnings-call-transcript.pdf)
-- [2026-q1-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q1-earnings-release.html)
-- [2026-q1-10q-ir.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q1-10q-ir.pdf)
-- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q1-earnings-call-transcript.pdf)
-- [2026-q2-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q2-earnings-release.html)
-- [2026-q2-10q-ir.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q2-10q-ir.pdf)
-- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q2-earnings-call-transcript.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/industrial-goods/residential-construction/lennar-corporation/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2025-annual-report.pdf)
+- [submissions-cik0000920760.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/residential-construction/lennar-corporation/submissions-cik0000920760.json)
+- [2025-q4-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2025-q4-earnings-release.html)
+- [2025-q4-10k-ir.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2025-q4-10k-ir.pdf)
+- [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2025-q4-earnings-call-transcript.pdf)
+- [2026-q1-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q1-earnings-release.html)
+- [2026-q1-10q-ir.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q1-10q-ir.pdf)
+- [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q1-earnings-call-transcript.pdf)
+- [2026-q2-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q2-earnings-release.html)
+- [2026-q2-10q-ir.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q2-10q-ir.pdf)
+- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/residential-construction/lennar-corporation/2026-q2-earnings-call-transcript.pdf)
 
 ## Working interpretation
 

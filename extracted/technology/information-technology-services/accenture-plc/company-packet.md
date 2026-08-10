@@ -12,9 +12,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/information-technology-services/accenture-plc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/information-technology-services/accenture-plc/ir-source-links.md)
-- SEC filings folder: [accenture-plc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/information-technology-services/accenture-plc)
+- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/information-technology-services/accenture-plc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/information-technology-services/accenture-plc/ir-source-links.md)
+- SEC filings folder: [accenture-plc](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/information-technology-services/accenture-plc)
 
 ## Snapshot
 

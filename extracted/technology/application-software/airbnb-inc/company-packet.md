@@ -62,20 +62,20 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/application-software/airbnb-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/airbnb-inc/official-ir-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/application-software/airbnb-inc/company-page.html)
-- [2025-annual-report-annualreports.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/application-software/airbnb-inc/2025-annual-report-annualreports.pdf)
-- [2025-q4-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/airbnb-inc/2025-q4-shareholder-letter.pdf)
-- [2026-q1-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/airbnb-inc/2026-q1-shareholder-letter.pdf)
-- [2026-q2-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/airbnb-inc/2026-q2-shareholder-letter.pdf)
-- [submissions-cik0001559720.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/airbnb-inc/submissions-cik0001559720.json)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/airbnb-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/airbnb-inc/2025-q4-8k.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/airbnb-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/airbnb-inc/2026-q1-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/airbnb-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/airbnb-inc/2026-q2-10q.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/application-software/airbnb-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/airbnb-inc/official-ir-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/application-software/airbnb-inc/company-page.html)
+- [2025-annual-report-annualreports.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/application-software/airbnb-inc/2025-annual-report-annualreports.pdf)
+- [2025-q4-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/airbnb-inc/2025-q4-shareholder-letter.pdf)
+- [2026-q1-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/airbnb-inc/2026-q1-shareholder-letter.pdf)
+- [2026-q2-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/application-software/airbnb-inc/2026-q2-shareholder-letter.pdf)
+- [submissions-cik0001559720.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/airbnb-inc/submissions-cik0001559720.json)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/airbnb-inc/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/airbnb-inc/2025-q4-8k.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/airbnb-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/airbnb-inc/2026-q1-10q.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/airbnb-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/application-software/airbnb-inc/2026-q2-10q.html)
 
 ## Working interpretation
 

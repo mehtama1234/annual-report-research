@@ -54,20 +54,20 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/apparel-stores/levi-strauss-co/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/apparel-stores/levi-strauss-co/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/apparel-stores/levi-strauss-co/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/apparel-stores/levi-strauss-co/2025-annual-report.pdf)
-- [2025-q4-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/apparel-stores/levi-strauss-co/2025-q4-results-release.pdf)
-- [2026-q1-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/apparel-stores/levi-strauss-co/2026-q1-results-release.pdf)
-- [2026-q2-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/apparel-stores/levi-strauss-co/2026-q2-results-release.pdf)
-- [submissions-cik0000094845.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/submissions-cik0000094845.json)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2025-q4-8k.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2026-q1-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2026-q2-10q.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/apparel-stores/levi-strauss-co/annualreports-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/consumer-goods/apparel-stores/levi-strauss-co/company-page.html)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/apparel-stores/levi-strauss-co/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/apparel-stores/levi-strauss-co/2025-annual-report.pdf)
+- [2025-q4-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/apparel-stores/levi-strauss-co/2025-q4-results-release.pdf)
+- [2026-q1-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/apparel-stores/levi-strauss-co/2026-q1-results-release.pdf)
+- [2026-q2-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/consumer-goods/apparel-stores/levi-strauss-co/2026-q2-results-release.pdf)
+- [submissions-cik0000094845.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/submissions-cik0000094845.json)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2025-q4-8k.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2026-q1-10q.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/consumer-goods/apparel-stores/levi-strauss-co/2026-q2-10q.html)
 
 ## Working interpretation
 

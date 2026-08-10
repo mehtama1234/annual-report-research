@@ -56,17 +56,17 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/healthcare/long-term-care-facilities/brookdale-senior-living-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/long-term-care-facilities/brookdale-senior-living-inc/official-ir-verification.md)
-- [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2025-annual-report-sec-ars.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2025-q4-8k.html)
-- [2025-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2025-q3-8k.html)
-- [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2025-q3-10q.html)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2026-q1-earnings-release.pdf)
-- [2026-q1-financial-supplemental.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2026-q1-financial-supplemental.pdf)
-- [2026-q1-investor-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2026-q1-investor-presentation.pdf)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2026-q1-10q.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/healthcare/long-term-care-facilities/brookdale-senior-living-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/healthcare/long-term-care-facilities/brookdale-senior-living-inc/official-ir-verification.md)
+- [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2025-annual-report-sec-ars.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2025-q4-8k.html)
+- [2025-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2025-q3-8k.html)
+- [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2025-q3-10q.html)
+- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2026-q1-earnings-release.pdf)
+- [2026-q1-financial-supplemental.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2026-q1-financial-supplemental.pdf)
+- [2026-q1-investor-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2026-q1-investor-presentation.pdf)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/long-term-care-facilities/brookdale-senior-living-inc/2026-q1-10q.html)
 
 ## Working interpretation
 

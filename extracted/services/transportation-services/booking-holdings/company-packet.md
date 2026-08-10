@@ -61,20 +61,20 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/transportation-services/booking-holdings/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/transportation-services/booking-holdings/official-ir-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/transportation-services/booking-holdings/company-page.html)
-- [2025-annual-report-annualreports.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/transportation-services/booking-holdings/2025-annual-report-annualreports.pdf)
-- [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/transportation-services/booking-holdings/2025-annual-report-ars.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/transportation-services/booking-holdings/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/transportation-services/booking-holdings/2025-q4-8k.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/transportation-services/booking-holdings/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/transportation-services/booking-holdings/2026-q1-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/transportation-services/booking-holdings/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/transportation-services/booking-holdings/2026-q2-10q.html)
-- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/transportation-services/booking-holdings/2026-q2-earnings-release.pdf)
-- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/transportation-services/booking-holdings/2026-q2-earnings-presentation.pdf)
-- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/services/transportation-services/booking-holdings/2026-q2-earnings-call-transcript.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/transportation-services/booking-holdings/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/transportation-services/booking-holdings/official-ir-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/transportation-services/booking-holdings/company-page.html)
+- [2025-annual-report-annualreports.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/transportation-services/booking-holdings/2025-annual-report-annualreports.pdf)
+- [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/transportation-services/booking-holdings/2025-annual-report-ars.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/transportation-services/booking-holdings/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/transportation-services/booking-holdings/2025-q4-8k.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/transportation-services/booking-holdings/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/transportation-services/booking-holdings/2026-q1-10q.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/transportation-services/booking-holdings/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/transportation-services/booking-holdings/2026-q2-10q.html)
+- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/transportation-services/booking-holdings/2026-q2-earnings-release.pdf)
+- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/transportation-services/booking-holdings/2026-q2-earnings-presentation.pdf)
+- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/services/transportation-services/booking-holdings/2026-q2-earnings-call-transcript.pdf)
 
 ## Working interpretation
 

@@ -11,10 +11,10 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/semiconductor-broad-line/intel-corporation/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/semiconductor-broad-line/intel-corporation/ir-source-links.md)
-- Annual report PDF: [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/semiconductor-broad-line/intel-corporation/2025-annual-report.pdf)
-- SEC filings folder: [intel-corporation](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/semiconductor-broad-line/intel-corporation)
+- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/semiconductor-broad-line/intel-corporation/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/semiconductor-broad-line/intel-corporation/ir-source-links.md)
+- Annual report PDF: [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/semiconductor-broad-line/intel-corporation/2025-annual-report.pdf)
+- SEC filings folder: [intel-corporation](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/semiconductor-broad-line/intel-corporation)
 
 ## Snapshot
 

@@ -58,19 +58,19 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/general-contractors/comfort-systems-usa-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-annual-report.pdf)
-- [investor-home.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/investor-home.html)
-- [presentations.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/presentations.html)
-- [sec-filings-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/sec-filings-page.html)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-10k.html)
-- [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-q4-results-release.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-q4-8k.html)
-- [2026-q1-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/2026-q1-results-release.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2026-q1-10q.html)
-- [2026-q2-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/2026-q2-results-release.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2026-q2-10q.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/industrial-goods/general-contractors/comfort-systems-usa-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-annual-report.pdf)
+- [investor-home.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/investor-home.html)
+- [presentations.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/presentations.html)
+- [sec-filings-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/sec-filings-page.html)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-10k.html)
+- [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-q4-results-release.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-q4-8k.html)
+- [2026-q1-results-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/2026-q1-results-release.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2026-q1-10q.html)
+- [2026-q2-results-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/industrial-goods/general-contractors/comfort-systems-usa-inc/2026-q2-results-release.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2026-q2-10q.html)
 
 ## Working interpretation
 

@@ -61,11 +61,11 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/biotechnology/kenvue/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/biotechnology/kenvue/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/biotechnology/kenvue/official-ir-verification.md)
-- [sec-access-note.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/biotechnology/kenvue/sec-access-note.md)
-- [submissions-cik0001944048.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/biotechnology/kenvue/submissions-cik0001944048.json)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/biotechnology/kenvue/annualreports-verification.md)
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/biotechnology/kenvue/company-page.html)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/biotechnology/kenvue/official-ir-verification.md)
+- [sec-access-note.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/biotechnology/kenvue/sec-access-note.md)
+- [submissions-cik0001944048.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/biotechnology/kenvue/submissions-cik0001944048.json)
 
 ## Working interpretation
 

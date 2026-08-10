@@ -14,6 +14,7 @@ This memo pulls together the current healthcare-frontier flagship packets that m
 - [Medpace Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/diagnostic-substances/medpace-holdings-inc/company-packet.md)
 - [Quest Diagnostics Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/quest-diagnostics-incorporated/company-packet.md)
 - [Natera, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/natera-inc/company-packet.md)
+- [Exact Sciences Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/diagnostic-substances/exact-sciences-corporation/company-packet.md)
 - [Alnylam Pharmaceuticals, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/biotechnology/alnylam-pharmaceuticals-inc/company-packet.md)
 - [Ionis Pharmaceuticals, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/biotechnology/ionis-pharmaceuticals-inc/company-packet.md)
 - [Guardant Health Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/biotechnology/guardant-health-inc/company-packet.md)
@@ -54,7 +55,7 @@ The healthcare archive already had evidence on payers and hospitals, but this ba
 `Option Care` is the cleanest direct operator of alternate-site recurring administration.
 `DaVita` is the clearest mandatory chronic-treatment operator.
 `Addus` is the clearest lower-acuity home-based recurring-services operator.
-`Labcorp`, `Quest`, and `Natera` support the testing and workflow side of it.
+`Labcorp`, `Quest`, `Natera`, and `Exact` support the testing and workflow side of it.
 `DexCom` and `Insulet` move recurring monitoring and dosing into the home.
 `West` supports the physical delivery side of it.
 `Regeneron`, `Alnylam`, and `Ionis` benefit when specialty-therapy franchises become durable and recurrent rather than episodic.
@@ -87,7 +88,7 @@ That favors companies that sit inside the routine:
 
 ### 3. Diagnostics and laboratory infrastructure are not secondary
 
-`Labcorp`, `Quest`, and `Natera` together are the strongest reminders in the current archive that healthcare increasingly depends on diagnostic and research infrastructure.
+`Labcorp`, `Quest`, `Natera`, and `Exact` together are the strongest reminders in the current archive that healthcare increasingly depends on diagnostic and research infrastructure.
 
 This matters at multiple levels:
 
@@ -107,6 +108,8 @@ That means some of the healthcare frontier is really about information and valid
 `Natera` sharpens the picture again by showing how a narrower branded-testing platform can sit closer to consumer anxiety, physician choice, oncology recurrence management, and payer reimbursement disputes than a broad national lab network does.
 
 `Guardant` extends the lane further by showing how oncology testing can evolve into a broader information franchise that spans therapy selection, companion diagnostics, recurrence and monitoring workflows, and eventually consumer-facing screening. That makes diagnostics look less like a lab-only service and more like a platform with both specialist and mass-market behavior.
+
+`Exact` broadens the diagnostic picture in a different direction. It is the clearest packet for the economics of screening participation itself, where lower-friction format, patient avoidance, guideline support, and payer coverage can expand the addressable market by changing behavior rather than only by winning specialist adoption.
 
 ### 4. The physical layer behind therapies is underappreciated
 
@@ -150,6 +153,8 @@ This matters because parts of healthcare are becoming behaviorally closer to inf
 The patient or family is not just receiving treatment. They are increasingly seeking earlier knowledge and more granular monitoring.
 
 `Guardant` broadens that pattern because Shield turns cancer screening into a lower-friction consumer action rather than a purely physician-driven event. Direct-to-consumer campaigns, Quest distribution, guideline inclusion, and commercial-insurance coverage all point toward a healthcare model where diagnostic demand is increasingly shaped by convenience, awareness, and willingness to act before symptoms appear.
+
+`Exact` makes that logic even more explicit because stool-based and blood-adjacent screening adoption depends on reducing embarrassment, procedure aversion, scheduling burden, and other non-clinical barriers that suppress participation. This is one of the strongest places in the healthcare archive where consumer behavior and public-health economics clearly overlap.
 
 ### 7. Chronic-treatment infrastructure is its own recurring-care lane
 
@@ -241,6 +246,7 @@ Those pressures express differently by company:
 - `Labcorp`: lab throughput, segment leverage, and demand quality
 - `Quest`: requisition volume, payer mix, workflow integration, and advanced-diagnostics scaling
 - `Natera`: ASP mix, reimbursement expansion, evidence spending, and reliance on a few branded assay franchises
+- `Exact`: screening participation rates, payer and guideline durability, channel reach, launch execution for adjacent tests, and the ability to keep lowering friction without losing pricing power
 - `Guardant`: reimbursement for oncology and Shield, screening-channel buildout, coverage wins, test-volume scaling, and the cost of commercializing a broader diagnostic platform
 - `Alnylam`: franchise concentration, launch durability, payer access, and pipeline readout cadence
 - `Ionis`: product-launch execution, milestone timing, pricing realization, reimbursement durability, and the need to keep turning antisense-platform science into repeated commercial assets
@@ -281,6 +287,7 @@ Those pressures express differently by company:
 - `Medpace` is the best current packet for outsourced trial infrastructure and the operating layer between therapeutic science and commercialization.
 - `Quest` is the best current packet for routine diagnostics scale, consumer-initiated testing, and national laboratory workflow dependence.
 - `Natera` is the best current packet for precision-diagnostics franchise economics, molecular recurrence monitoring, and the consumer-facing edge of genetic testing.
+- `Exact` is the best current packet for screening participation economics, stool-based and lower-friction cancer detection adoption, and the way diagnostics can create demand by changing patient behavior.
 - `Guardant` is the best current packet for precision-oncology testing plus blood-based cancer screening, and for understanding how specialist diagnostics can become a broader consumer and payor access story.
 - `Alnylam` is the best current packet for RNAi-platform commercialization, TTR franchise concentration, and post-approval biotech scaling risk.
 - `Ionis` is the best current packet for antisense-platform commercialization, mixed royalty-plus-owned-product economics, and the intermediate stage between biotech platform promise and mature franchise monetization.

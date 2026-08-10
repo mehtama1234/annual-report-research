@@ -19,6 +19,7 @@ The current healthcare-frontier flagship set is:
 - `Natera, Inc.`
 - `Alnylam Pharmaceuticals, Inc.`
 - `Ionis Pharmaceuticals, Inc.`
+- `Exact Sciences Corporation`
 - `DaVita Inc.`
 - `Addus HomeCare Corporation`
 - `Guardant Health Inc.`
@@ -449,6 +450,36 @@ Current raw status:
 
 - materially source-complete for packet drafting
 
+### Exact Sciences Corporation
+
+Lane role:
+
+- diagnostic substances
+- consumerized cancer screening and participation economics
+- lower-friction testing plus guideline and reimbursement-backed demand formation
+
+Raw evidence currently saved:
+
+- AnnualReports company page HTML
+- AnnualReports verification note
+- official IR source-links note
+- official `Q4 2025` results page HTML
+- official `Q3 2025` results page HTML
+- official `Q2 2025` results page HTML
+- SEC submissions JSON
+- `2025` `10-K`
+- `Q4 2025` `8-K`
+- `Q3 2025` `10-Q`
+- `Q3 2025` `8-K`
+- `Q2 2025` `10-Q`
+- `Q2 2025` `8-K`
+- pre-close merger `8-K` dated `2026-03-20`
+- post-close merger `8-K` dated `2026-03-23`
+
+Current raw status:
+
+- materially source-complete for packet drafting
+
 ## Drafting status
 
 Completed packets in this batch now include:
@@ -466,6 +497,9 @@ Completed packets in this batch now include:
 - `Alnylam Pharmaceuticals, Inc.`
 - `Ionis Pharmaceuticals, Inc.`
 - `DaVita Inc.`
+- `Addus HomeCare Corporation`
+- `Guardant Health Inc.`
+- `Exact Sciences Corporation`
 
 ## Interpretation targets for the packet-writing pass
 
@@ -496,5 +530,5 @@ Cross-company interpretation now exists in:
 ## Immediate next actions
 
 1. Treat `Regeneron`, `Labcorp`, `Teva`, `West`, `Option Care`, `DexCom`, `Insulet`, and `Medpace` as completed for the current healthcare batch.
-2. Decide whether to integrate shared indexes as one coherent healthcare batch or hand the batch back for separate integration.
-3. Use `DexCom`, `Insulet`, and `Medpace` as the bridge to adjacent frontier names that lean more into monitoring, diagnostics, recurring home-use medical platforms, trial infrastructure, or care-routing complexity.
+2. Treat `Quest`, `Natera`, `Alnylam`, `Ionis`, `DaVita`, `Addus`, `Guardant`, and `Exact Sciences` as completed for the current healthcare batch.
+3. Decide whether to integrate shared indexes as one coherent healthcare batch or hand the batch back for separate integration.

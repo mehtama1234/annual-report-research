@@ -30,16 +30,17 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 - service-layer physical interface:
   - [Hyatt Hotels Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/lodging/hyatt-hotels-corporation/company-packet.md)
   - [Hilton Worldwide Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
+  - [Marriott International, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/lodging/marriott-international-inc/company-packet.md)
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a twenty-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a twenty-one-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current twenty completed names show twenty related but distinct middle-layer roles:
+The current twenty-one completed names show twenty-one related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -61,6 +62,7 @@ The current twenty completed names show twenty related but distinct middle-layer
 - `United Rentals` converts equipment ownership into rented access, uptime support, and project flexibility.
 - `Hyatt` controls a branded hospitality and owner-network interface linking travelers, hotel owners, loyalty, and physical service delivery.
 - `Hilton` controls a second global hospitality and owner-network interface where RevPAR, loyalty, brand reach, and pipeline growth convert travel demand into fee streams.
+- `Marriott` controls a third scaled hospitality and owner-network interface where Marriott Bonvoy concentration, co-brand economics, room growth, and owner signings turn global stay demand into fee-rich system growth.
 
 The common pattern is that these companies do not win by making the underlying product. They win by owning:
 
@@ -101,6 +103,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `United Rentals`: keeping projects, industrial sites, and contractors operating without forcing them to own the entire fleet
 - `Hyatt`: keeping branded hospitality, loyalty, owner relationships, and travel-related physical service systems functioning at scale
 - `Hilton`: keeping branded hospitality, loyalty participation, owner economics, and global lodging demand flowing through an asset-light platform
+- `Marriott`: keeping branded hospitality, loyalty-funded demand, owner signings, meetings exposure, and a very large global lodging network flowing through an asset-light platform
 
 These are not occasional purchases. They are operating dependencies.
 
@@ -128,6 +131,7 @@ The packets now point to the same conclusion from different directions:
 - `United Rentals` benefits from fleet scale, specialty breadth, and its ability to absorb capital intensity for customers.
 - `Hyatt` benefits from brand distribution, loyalty participation, and fee-based owner-network relationships.
 - `Hilton` benefits from owner demand for brand affiliation, loyalty-driven stay behavior, global scale, and a fee-based lodging model with limited real-estate intensity.
+- `Marriott` benefits from owner demand for brand affiliation, Marriott Bonvoy concentration, co-branded card economics, meetings exposure, and a fee-based lodging model with limited real-estate intensity.
 
 In all four cases, the moat is strengthened by the channel itself.
 
@@ -265,6 +269,8 @@ That makes the middle layer an early read on industrial and digital-capacity exp
 
 `Hyatt` and `Hilton` show a parallel version in services rather than hard equipment. Property owners want brand, distribution, loyalty reach, and operating expertise without necessarily becoming best-in-class global hospitality platforms themselves.
 
+`Marriott` reinforces that pattern at even larger network scale. The owner-facing value proposition is not primarily real-estate ownership; it is access to branded demand, loyalty concentration, co-branded-card economics, meetings reach, and a development pipeline that individual properties cannot reproduce on their own.
+
 ### The middle layer is often where real resilience gets built
 
 These companies absorb volatility for downstream customers:
@@ -288,18 +294,18 @@ Major gaps still include:
 
 - a medical-equipment or medical-supply distributor beyond drug channels
 - a dedicated protection-services or security-services operator beyond `ABM`, `APi`, `Cintas`, and `Rollins`
-- a third service-layer physical-interface operator beyond `Hyatt` and `Hilton`
+- a technical-services or physical-service interface operator outside lodging if the goal is to test how far the service-layer logic extends beyond branded hotels
 
 Those additions should help answer:
 
 - how much this frontier depends on branch density versus digital workflow
 - how repeatable the healthcare-distribution pattern is across multiple companies
-- how repeatable the current hospitality-style service-layer interface pattern is beyond `Hyatt` and `Hilton`
+- how repeatable the current service-layer physical-interface pattern is outside the now stronger three-name lodging set
 - how route-based workplace-services, technical-facilities support, safety-monitoring, and recurring field-service models differ from rental and distribution models even when all five occupy a middle-layer role
 
 ## Working conclusion
 
-The current twenty-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current twenty-one-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

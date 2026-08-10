@@ -1,6 +1,6 @@
 # Marriott International, Inc. Official IR Verification
 
-Date checked: 2026-08-09
+Date checked: 2026-08-10
 
 Investor relations home: https://marriott.gcs-web.com/
 
@@ -19,5 +19,5 @@ Verified on the live IR stack:
 
 Interpretation:
 
-- Marriott has a current and internally consistent official IR chain for the `2025` annual package and the last three reported quarters in scope as of `2026-08-09`.
+- Marriott has a current and internally consistent official IR chain for the `2025` annual package and the last three reported quarters in scope as of `2026-08-10`.
 - The company is useful because its reporting stack exposes a direct lodging-and-travel demand read through RevPAR, development pipeline growth, co-branded credit card economics, and Marriott Bonvoy-linked repeat-stay behavior.

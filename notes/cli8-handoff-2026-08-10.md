@@ -27,6 +27,7 @@ Commit hash: `9ca32d2`
 18. `Rollins, Inc.`: asset access and operating support; strongest recurring field-services and residential-plus-commercial route-density packet in the set.
 19. `Hyatt Hotels Corporation`: service-layer physical interface; strongest proof that branded service infrastructure belongs inside the same middle-layer frontier.
 20. `Hilton Worldwide Holdings Inc.`: service-layer physical interface; strongest second global lodging and owner-network comparison packet in the set.
+21. `Marriott International, Inc.`: service-layer physical interface; strongest third global lodging and loyalty-concentration comparison packet in the set.
 
 ## Partial companies
 
@@ -51,12 +52,12 @@ Commit hash: `9ca32d2`
 
 1. One medical-equipment or medical-supply distributor to widen healthcare replenishment beyond drug channels.
 2. One technical-services or protection-services operator to deepen the asset-access and operating-support lane beyond `APi`, `Cintas`, and `Rollins`.
-3. One third hospitality or branded physical-service interface name if broader proof is needed beyond `Hyatt` and `Hilton`.
-4. One medical-supply, protection-services, or technical-services extension now remains more urgent than another wholesale-infrastructure packet because contractor, HVAC, waterworks, procurement, and process-heavy distribution are already broadly covered.
+3. One non-lodging physical-service interface or technical-services operator if broader proof is needed beyond the now stronger `Hyatt`, `Hilton`, and `Marriott` lodging set.
+4. One medical-supply, protection-services, or technical-services extension now remains more urgent than another wholesale-infrastructure or fourth-lodging packet because contractor, HVAC, waterworks, procurement, process-heavy distribution, and branded lodging are already broadly covered.
 
 ## Deliverables now present
 
-1. Raw source archive for all twenty completed packets.
+1. Raw source archive for all twenty-one completed packets.
 2. Extracted company packets and thematic interpretation for each completed company.
 3. One frontier synthesis note:
    [distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md)
@@ -67,5 +68,5 @@ Commit hash: `9ca32d2`
 
 1. `Cencora` and `WESCO` are analytically complete but still rely partly on verification notes and SEC chronology because direct official binaries resisted shell retrieval.
 2. `Grainger` uses official year-end company-snapshot evidence rather than a locally saved full annual-report PDF.
-3. `Builders FirstSource`, `Ferguson`, `APi`, `Cintas`, `ABM`, `Fastenal`, `MSC`, `Rollins`, `Core & Main`, `Applied Industrial`, `Watsco`, `DNOW`, and `Hilton` were imported from neighboring local archive passes and normalized into this worktree, including local path repair and date-baseline updates.
+3. `Builders FirstSource`, `Ferguson`, `APi`, `Cintas`, `ABM`, `Fastenal`, `MSC`, `Rollins`, `Core & Main`, `Applied Industrial`, `Watsco`, `DNOW`, `Hilton`, and `Marriott` were imported from neighboring local archive passes and normalized into this worktree, including local path repair and date-baseline updates.
 4. `Applied Industrial` is analytically coherent but still preserves part of its SEC quarter chain through authoritative source-link notes because direct SEC binary capture was blocked during the earlier neighboring pass.

@@ -1,9 +1,10 @@
 # Hilton Worldwide Holdings Inc. Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
+- Assigned CLI 8 sub-lane: service-layer physical interface
 - Company: Hilton Worldwide Holdings Inc.
 - Sector: Services
 - Industry: Lodging
@@ -18,7 +19,7 @@ Date baseline: 2026-08-09
 ## Annual report takeaways
 
 - Hilton is the right next Services name because it closes the lodging and travel side of the archive's experience-economy gap. Live Nation gave the archive concerts and ticketing; Hilton adds hotel demand, brand-driven lodging, meetings, and travel-linked loyalty economics.
-- AnnualReports still lagged here as of `2026-08-09`, showing only the `2024 Annual Report and Form 10K`, while Hilton IR already exposed the `2025` annual report. That makes Hilton another useful example of why the archive cannot depend on the aggregator alone.
+- AnnualReports still lagged here as of `2026-08-10`, showing only the `2024 Annual Report and Form 10K`, while Hilton IR already exposed the `2025` annual report. That makes Hilton another useful example of why the archive cannot depend on the aggregator alone.
 - The `2025` annual materials frame Hilton as an asset-light hospitality compounder rather than a traditional hotel-owner story. The business ended `2025` with 9,158 properties and `1,351,351` rooms across 143 countries and territories, while the development pipeline reached `520,500` rooms.
 - The full-year `2025` earnings release said diluted EPS was `$6.12`, net income was `$1,461M`, adjusted EBITDA was `$3,725M`, and system-wide comparable RevPAR increased `0.4%` on a currency-neutral basis.
 - Hilton also matters because it translates consumer and business travel into fee growth, pipeline expansion, and capital return. This is a cleaner read on travel and lodging demand than the current archive had before.
@@ -58,28 +59,28 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/lodging/hilton-worldwide-holdings-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/official-ir-verification.md)
-- [investor-home.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/investor-home.html)
-- [annual-reports.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/annual-reports.html)
-- [2025-annual-report-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2025-annual-report-page.html)
-- [quarterly-results-2026.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/quarterly-results-2026.html)
-- [quarterly-results-2025.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/quarterly-results-2025.html)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2025-q4-8k.html)
-- [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2025-q4-results-release.html)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2025-q4-earnings-release.pdf)
-- [2025-q4-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2025-q4-earnings-transcript.pdf)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2026-q1-10q.html)
-- [2026-q1-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q1-results-release.html)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q1-earnings-release.pdf)
-- [2026-q1-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q1-earnings-transcript.pdf)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2026-q2-10q.html)
-- [2026-q2-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q2-results-release.html)
-- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q2-earnings-release.pdf)
-- [2026-q2-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q2-earnings-transcript.pdf)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/services/lodging/hilton-worldwide-holdings-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/official-ir-verification.md)
+- [investor-home.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/investor-home.html)
+- [annual-reports.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/annual-reports.html)
+- [2025-annual-report-page.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2025-annual-report-page.html)
+- [quarterly-results-2026.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/quarterly-results-2026.html)
+- [quarterly-results-2025.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/quarterly-results-2025.html)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2025-q4-8k.html)
+- [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2025-q4-results-release.html)
+- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2025-q4-earnings-release.pdf)
+- [2025-q4-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2025-q4-earnings-transcript.pdf)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2026-q1-10q.html)
+- [2026-q1-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q1-results-release.html)
+- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q1-earnings-release.pdf)
+- [2026-q1-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q1-earnings-transcript.pdf)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/services/lodging/hilton-worldwide-holdings-inc/2026-q2-10q.html)
+- [2026-q2-results-release.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q2-results-release.html)
+- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q2-earnings-release.pdf)
+- [2026-q2-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/services/lodging/hilton-worldwide-holdings-inc/2026-q2-earnings-transcript.pdf)
 
 ## Working interpretation
 

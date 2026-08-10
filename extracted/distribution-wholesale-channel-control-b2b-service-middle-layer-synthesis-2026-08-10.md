@@ -10,6 +10,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Builders FirstSource, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/general-building-materials/builders-firstsource-inc/company-packet.md)
   - [Core & Main, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/building-materials-wholesale/core-main-inc/company-packet.md)
   - [Ferguson Enterprises Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md)
+  - [Watsco, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/electronics-wholesale/watsco-inc/company-packet.md)
   - [Fastenal Company](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/fastenal-company/company-packet.md)
   - [MSC Industrial Direct Co., Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/company-packet.md)
   - [Applied Industrial Technologies, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/company-packet.md)
@@ -27,20 +28,22 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [United Rentals, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/business-services/united-rentals-inc/company-packet.md)
 - service-layer physical interface:
   - [Hyatt Hotels Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/lodging/hyatt-hotels-corporation/company-packet.md)
+  - [Hilton Worldwide Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a seventeen-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a nineteen-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current seventeen completed names show seventeen related but distinct middle-layer roles:
+The current nineteen completed names show nineteen related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
 - `Ferguson` controls contractor-facing branch density across plumbing, HVAC, waterworks, and repair-and-replacement infrastructure.
+- `Watsco` controls HVAC and refrigeration distribution, contractor workflow, and climate-control replacement economics.
 - `Fastenal` controls onsite industrial procurement, vending, and embedded replenishment workflow inside customer operations.
 - `MSC` controls a more manufacturing- and metalworking-sensitive procurement layer built around plant-floor replenishment, vending, and In-Plant service density.
 - `Applied` controls a more technical industrial-uptime layer built around motion, fluid power, automation, calibration, and engineered maintenance support.
@@ -55,6 +58,7 @@ The current seventeen completed names show seventeen related but distinct middle
 - `Rollins` controls recurring residential and commercial field-service routes where local execution, pricing, and maintenance behavior matter more than product ownership.
 - `United Rentals` converts equipment ownership into rented access, uptime support, and project flexibility.
 - `Hyatt` controls a branded hospitality and owner-network interface linking travelers, hotel owners, loyalty, and physical service delivery.
+- `Hilton` controls a second global hospitality and owner-network interface where RevPAR, loyalty, brand reach, and pipeline growth convert travel demand into fee streams.
 
 The common pattern is that these companies do not win by making the underlying product. They win by owning:
 
@@ -78,6 +82,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Builders FirstSource`: keeping builders supplied with structural materials, components, and value-added construction workflow support
 - `Core & Main`: keeping municipalities, utilities, contractors, and site operators supplied with waterworks, fire-protection, drainage, and smart-utility infrastructure
 - `Ferguson`: keeping contractors, facilities teams, and infrastructure jobs supplied with plumbing, HVAC, waterworks, PVF, and technical branch support
+- `Watsco`: keeping contractors, building operators, and households supplied with climate-control and refrigeration equipment through dense distribution and replacement-cycle workflow
 - `Fastenal`: keeping plants, jobsites, and maintenance teams supplied through onsite procurement, vending, digital ordering, and low-friction replenishment
 - `MSC`: keeping factories and machine shops supplied through metalworking, MRO, and inventory-control systems with more visible exposure to manufacturing cadence
 - `Applied`: keeping factories and industrial systems operating through technical MRO, fluid-power support, automation components, and engineered solutions
@@ -92,6 +97,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Rollins`: keeping homes and commercial properties serviced through recurring pest and termite routes, relationship channels, and local branch execution
 - `United Rentals`: keeping projects, industrial sites, and contractors operating without forcing them to own the entire fleet
 - `Hyatt`: keeping branded hospitality, loyalty, owner relationships, and travel-related physical service systems functioning at scale
+- `Hilton`: keeping branded hospitality, loyalty participation, owner economics, and global lodging demand flowing through an asset-light platform
 
 These are not occasional purchases. They are operating dependencies.
 
@@ -102,6 +108,7 @@ The packets now point to the same conclusion from different directions:
 - `Builders FirstSource` benefits from being embedded earlier in the construction chain, with prefabrication and value-added services widening the relationship.
 - `Core & Main` benefits from sitting inside replacement-driven water and fire-protection infrastructure where local availability, municipal cadence, and category depth matter more than product glamour.
 - `Ferguson` benefits from local branch density, technical assortment, and its ability to simplify fragmented contractor buying.
+- `Watsco` benefits from replacement-cycle urgency, contractor dependence, digital workflow, and branch density in hot-weather markets where climate-control failure is not optional.
 - `Fastenal` benefits from moving inside the customer site and turning industrial procurement into a workflow it partially controls.
 - `MSC` benefits from becoming part of the plant-floor inventory and purchasing process even while carrying more cycle sensitivity than the broader procurement names.
 - `Applied` benefits from combining stocked distribution with technical service and engineered-solutions depth, which makes it harder to replace with a thinner catalog competitor.
@@ -116,6 +123,7 @@ The packets now point to the same conclusion from different directions:
 - `Rollins` benefits from route density, recurring service behavior, acquisitions, and the tendency of property owners to outsource a routine but locally executed maintenance burden.
 - `United Rentals` benefits from fleet scale, specialty breadth, and its ability to absorb capital intensity for customers.
 - `Hyatt` benefits from brand distribution, loyalty participation, and fee-based owner-network relationships.
+- `Hilton` benefits from owner demand for brand affiliation, loyalty-driven stay behavior, global scale, and a fee-based lodging model with limited real-estate intensity.
 
 In all four cases, the moat is strengthened by the channel itself.
 
@@ -126,6 +134,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Builders FirstSource` is highly exposed to inventory turns, commodity deflation, and starts pressure, which makes its working-capital and cost discipline unusually revealing.
 - `Core & Main` is highly exposed to municipal timing, infrastructure project cadence, acquisitions, supplier terms, and the relationship between branch density and margin quality.
 - `Ferguson` is highly exposed to branch productivity, supplier-price timing, acquisitions, and contractor demand splits between residential and non-residential work.
+- `Watsco` is highly exposed to A2L transition effects, inventory timing, HVAC replacement demand, tariff-linked OEM pricing, and the seasonal working-capital shape of a dense climate-control distributor.
 - `Fastenal` is highly exposed to mix shifts toward large accounts, pricing pass-through, and the economics of onsite service density.
 - `MSC` is highly exposed to metalworking, manufacturing cadence, national-account mix, and the tension between recurring procurement attachment and gross-margin pressure.
 - `Applied` is highly exposed to industrial caution, tariff noise, Service Center versus Engineered Solutions mix, and whether higher technical content sustains margin through slower capital cycles.
@@ -140,6 +149,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Rollins` depends heavily on local staffing, demand-generation mix, weather, and recurring route efficiency because a softer consumer lead environment can still compress margin even when the recurring base remains durable.
 - `United Rentals` effectively turns fleet ownership, utilization, and used-equipment recycling into the core product.
 - `Hyatt` uses its balance sheet, asset sales, and owner/franchise structure to move toward fee-rich and more asset-light hospitality economics.
+- `Hilton` depends heavily on travel-demand resilience, RevPAR mix, owner signing appetite, and pipeline conversion because the fee-based model still needs healthy branded system throughput.
 
 That makes capital discipline and physical-asset control central operating themes rather than finance footnotes.
 
@@ -150,6 +160,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Builders FirstSource`: digital workflow, prefabrication, and contractor-efficiency tools that try to reduce labor intensity and improve build speed
 - `Core & Main`: category intelligence, pricing discipline, and local inventory support layered onto branch-based specialty distribution
 - `Ferguson`: digital ordering, local inventory visibility, and contractor workflow support layered on top of branch and fleet density
+- `Watsco`: contractor-facing digital workflow, pricing tools, mobile ordering, and technology-enabled inventory and product matching around climate-control replacement
 - `Fastenal`: eBusiness, vending, onsite replenishment, and digital procurement tools that make physical distribution behave more like embedded workflow software
 - `MSC`: vending, In-Plant placement, and digital replenishment that make factory procurement increasingly software-mediated rather than purely rep-driven
 - `Applied`: technology as part of automation support, calibration, engineered systems, and technical distributor workflow rather than as a stand-alone product
@@ -164,6 +175,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Rollins`: technology as part of demand generation, pricing tools, route visibility, and local operating discipline rather than as a branded end product
 - `United Rentals`: market-leading technology platforms supporting asset visibility, customer response, and fleet economics
 - `Hyatt`: technology as part of loyalty depth, owner coordination, and more responsive branded guest operations
+- `Hilton`: technology as part of booking flow, loyalty participation, revenue management, and system-wide branded hospitality distribution
 
 The stronger read is that technology in this frontier improves middle-layer throughput and embeddedness.
 
@@ -174,6 +186,7 @@ This is already visible across the completed set:
 - professional builders, framing crews, and repair-and-remodel channels at `Builders FirstSource`
 - municipalities, utilities, waterworks contractors, and fire-protection channels at `Core & Main`
 - contractors, waterworks, HVAC, facilities supply, and large capital project channels at `Ferguson`
+- contractors, refrigeration buyers, commercial building operators, and replacement-focused HVAC channels at `Watsco`
 - plants, maintenance teams, large accounts, and customer-site operators at `Fastenal`
 - factories, machine shops, government buyers, and manufacturing sites at `MSC`
 - plants, automation buyers, calibration-heavy operators, and industrial maintenance teams at `Applied`
@@ -188,21 +201,22 @@ This is already visible across the completed set:
 - households, home builders, and commercial property operators at `Rollins`
 - contractors, industrial operators, and infrastructure projects at `United Rentals`
 - business transient, group travel, owner networks, and destination hospitality systems at `Hyatt`
+- business transient, group travel, owner networks, loyalty-linked travelers, and global lodging systems at `Hilton`
 
 The implication is that this frontier is not mainly about discretionary end-consumer impulse. It is about institutions needing the system to keep functioning.
 
 ## Current theme map
 
-| Theme | Builders FirstSource | Core & Main | Ferguson | Fastenal | MSC | Applied | Grainger | WESCO | Sysco | McKesson | Cencora | ABM | APi | Cintas | Rollins | United Rentals | Hyatt |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Procurement power | high | high | high | high | high | high | very high | very high | high | very high | very high | low to moderate | low to moderate | moderate | low | moderate | low to moderate |
-| Distribution / route efficiency | high | high | very high | very high | high | high | high | very high | very high | very high | very high | high | moderate | very high | very high | high | moderate |
-| Inventory / working-capital discipline | very high | high | high | high | high | high | high | high | very high | very high | very high | moderate | moderate | high | moderate | high | moderate |
-| Service attachment | high | moderate to high | high | high | high | high | moderate | high | moderate to high | high | high | very high | very high | very high | high | very high | very high |
-| Rental versus ownership economics | low | low | low | low | low | low | low | low | low | low | low | low | low | low | low | core | low |
-| Institutional demand dependence | moderate to high | high | high | high | high | high | high | very high | very high | very high | very high | very high | very high | high | moderate to high | high | high |
-| Technology as operating leverage | high | moderate | moderate to high | high | high | high | high | high | high | high | high | moderate to high | high | high | moderate | high | moderate to high |
-| Embedded business relationships | high | high | very high | very high | high | high | very high | very high | high | very high | very high | high | very high | very high | high | high | very high |
+| Theme | Builders FirstSource | Core & Main | Ferguson | Watsco | Fastenal | MSC | Applied | Grainger | WESCO | Sysco | McKesson | Cencora | ABM | APi | Cintas | Rollins | United Rentals | Hyatt | Hilton |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Procurement power | high | high | high | high | high | high | high | very high | very high | high | very high | very high | low to moderate | low to moderate | moderate | low | moderate | low to moderate | low to moderate |
+| Distribution / route efficiency | high | high | very high | very high | very high | high | high | high | very high | very high | very high | very high | high | moderate | very high | very high | high | moderate | high |
+| Inventory / working-capital discipline | very high | high | high | high | high | high | high | high | high | very high | very high | very high | moderate | moderate | high | moderate | high | moderate | moderate |
+| Service attachment | high | moderate to high | high | high | high | high | high | moderate | high | moderate to high | high | high | very high | very high | very high | high | very high | very high | very high |
+| Rental versus ownership economics | low | low | low | low | low | low | low | low | low | low | low | low | low | low | low | low | core | low | low |
+| Institutional demand dependence | moderate to high | high | high | high | high | high | high | high | very high | very high | very high | very high | very high | very high | high | moderate to high | high | high | high |
+| Technology as operating leverage | high | moderate | moderate to high | high | high | high | high | high | high | high | high | high | moderate to high | high | high | moderate | high | moderate to high | moderate to high |
+| Embedded business relationships | high | high | very high | very high | very high | high | high | very high | very high | high | very high | very high | high | very high | very high | high | high | very high | very high |
 
 ## Bigger-picture patterns
 
@@ -210,7 +224,7 @@ The current packets already support several broader conclusions that go beyond c
 
 ### Procurement is becoming a strategic operating layer
 
-`Builders FirstSource`, `Core & Main`, `Ferguson`, `Fastenal`, `MSC`, `Applied`, `Grainger`, and `WESCO` are the clearest proofs, but the pattern is broader. Customers increasingly want fewer vendors, easier buying, better availability, prefabricated workflow help, and more predictable fulfillment. The middle layer monetizes that simplification.
+`Builders FirstSource`, `Core & Main`, `Ferguson`, `Watsco`, `Fastenal`, `MSC`, `Applied`, `Grainger`, and `WESCO` are the clearest proofs, but the pattern is broader. Customers increasingly want fewer vendors, easier buying, better availability, prefabricated workflow help, and more predictable fulfillment. The middle layer monetizes that simplification.
 
 ### Replenishment businesses are indirect reads on social systems
 
@@ -234,7 +248,7 @@ The current packets already support several broader conclusions that go beyond c
 
 That makes the middle layer an early read on industrial and digital-capacity expansion.
 
-`Builders FirstSource`, `Core & Main`, `Ferguson`, `Fastenal`, `MSC`, and `Applied` add a parallel but different construction and industrial read: not hyperscale digital infrastructure alone, but the practical economics of shelter, water, comfort, branch density, maintenance, procurement control, automation support, labor scarcity, affordability pressure, and repair-and-replacement demand. Together with `WESCO`, they show that the middle layer matters in housing, civic infrastructure, contractor channels, industrial uptime, and the power/data-center system.
+`Builders FirstSource`, `Core & Main`, `Ferguson`, `Watsco`, `Fastenal`, `MSC`, and `Applied` add a parallel but different construction and industrial read: not hyperscale digital infrastructure alone, but the practical economics of shelter, water, comfort, climate control, branch density, maintenance, procurement control, automation support, labor scarcity, affordability pressure, and repair-and-replacement demand. Together with `WESCO`, they show that the middle layer matters in housing, civic infrastructure, contractor channels, industrial uptime, climate systems, and the power/data-center system.
 
 ### Capital-light behavior at the customer level creates capital-heavy opportunity in the middle
 
@@ -242,7 +256,7 @@ That makes the middle layer an early read on industrial and digital-capacity exp
 
 `ABM`, `APi`, `Cintas`, and `Rollins` show a service analogue. Customers increasingly outsource specialized operating burdens like facilities uptime, inspections, monitoring, hygiene, uniforms, first aid, safety, fire protection, and routine property maintenance rather than staffing and optimizing them all in-house.
 
-`Hyatt` shows a parallel version in services rather than hard equipment. Property owners want brand, distribution, and operating expertise without necessarily becoming best-in-class global hospitality platforms themselves.
+`Hyatt` and `Hilton` show a parallel version in services rather than hard equipment. Property owners want brand, distribution, loyalty reach, and operating expertise without necessarily becoming best-in-class global hospitality platforms themselves.
 
 ### The middle layer is often where real resilience gets built
 
@@ -267,19 +281,19 @@ Major gaps still include:
 
 - a medical-equipment or medical-supply distributor beyond drug channels
 - a dedicated protection-services or security-services operator beyond `ABM`, `APi`, `Cintas`, and `Rollins`
-- an HVAC or electronics-distribution specialist beyond the current broader contractor and infrastructure set
-- a second service-layer physical-interface operator beyond `Hyatt`
+- a more energy-and-process-heavy distributor beyond the current contractor, HVAC, and broader infrastructure set
+- a third service-layer physical-interface operator beyond `Hyatt` and `Hilton`
 
 Those additions should help answer:
 
 - how much this frontier depends on branch density versus digital workflow
 - how repeatable the healthcare-distribution pattern is across multiple companies
-- how repeatable the current hospitality-style service-layer interface pattern is beyond `Hyatt`
+- how repeatable the current hospitality-style service-layer interface pattern is beyond `Hyatt` and `Hilton`
 - how route-based workplace-services, technical-facilities support, safety-monitoring, and recurring field-service models differ from rental and distribution models even when all five occupy a middle-layer role
 
 ## Working conclusion
 
-The current seventeen-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current nineteen-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

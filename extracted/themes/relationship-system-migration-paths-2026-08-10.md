@@ -21,6 +21,7 @@ Framework context:
 - [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
 - [Thick vs. Thin Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
 - [Mid-Thickness Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/mid-thickness-relationship-systems-2026-08-10.md)
+- [Relationship Thickness Index](/home/manishmehta/ui-projects/annual-report-research/indexes/relationship-thickness-index-2026-08-10.md)
 
 ## Executive read
 

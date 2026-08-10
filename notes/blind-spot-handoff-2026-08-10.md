@@ -2,193 +2,279 @@
 
 Date: 2026-08-10
 Repo: `annual-report-research`
-Branch: `cli4-healthcare-frontier-batch`
-Current HEAD at note creation: `f1df674`
-Current HEAD subject at note creation: `Add blind-spot lane handoff note`
-Mixed base commit underneath this note: `6f956b17868f39cf249a5adf31ec3f03cd8284ed`
-Mixed base subject: `Add Mueller to downstream physical inputs batch`
+
+Companion notes:
+
+- `notes/blind-spot-notes-index-2026-08-10.md`
+- `notes/blind-spot-quickstart-2026-08-10.md`
+- `notes/blind-spot-status-audit-2026-08-10.md`
 
 ## Why this note exists
 
-This handoff is for the thread covering the structural blind spots in the `AnnualReports.com` industry taxonomy.
+This handoff is for the thread covering the structural blind spots in the `AnnualReports.com` browse-by-industry taxonomy.
 
-It is separate from ordinary sector packetization.
+It is not the ordinary sector-packetization lane.
 
-The practical purpose is to let another thread continue the blind-spot lane without having to infer ownership or reconstruct which files in the current branch belong to this lane.
+Its job is to cover the systems that the source taxonomy does not classify cleanly enough for the archive's cross-company work.
 
-## Important git reality
+## Current operating reality
 
-- The branch is currently clean.
-- The blind-spot and `Hasbro` work is already saved in git.
-- The current top commit is a clean handoff note.
-- However, the underlying branch state immediately below that note is not a pure blind-spot snapshot.
-- The mixed base commit also contains unrelated `Mueller Industries` downstream-physical-inputs work.
+The blind-spot lane now has an aligned control layer.
 
-That means:
+Another thread should be able to start from the files below without reconstructing the lane boundary from scattered edits.
 
-- the work is preserved
-- the repo is usable
-- there is no clean commit boundary for only the blind-spot lane unless history is rewritten later
+The main operating rule is:
 
-Do not assume the underlying research commit boundary is clean just because the latest note commit is clean.
+- this thread owns system-level blind spots in `AnnualReports`
+- this thread does not own ordinary uncovered sectors just because a browse-tree page is still thin
 
-## What this blind-spot lane owns
+Current status audit:
 
-This thread is intended to cover areas the source taxonomy does not organize well, especially:
+- `notes/blind-spot-status-audit-2026-08-10.md`
 
-- cross-sector retail-system logic
-- DTC versus channel-control structure
-- platform and ecosystem models
-- loyalty, wallet, and membership systems
-- consumer, cultural, and societal behavior patterns
-- taxonomy-breaker companies
-- categories where the behavior system matters more than the formal source bucket
+The shortest assignment screen is now:
 
-Core charter files already created:
+- `indexes/annualreports-noncovered-ownership-rule-2026-08-10.md`
 
-- `indexes/blind-spot-thread-charter-2026-08-10.md`
-- `indexes/blind-spot-expansion-queue-2026-08-10.md`
+The fastest scope screen is now:
+
+- `indexes/annualreports-blind-spot-ownership-map-2026-08-10.md`
+
+The shortest direct blind-spot mandate is now:
+
+- `indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md`
+
+## Read order for the next worker
+
+1. `indexes/annualreports-noncovered-master-index-2026-08-10.md`
+2. `indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md`
+3. `indexes/annualreports-blind-spot-ownership-map-2026-08-10.md`
+4. `indexes/annualreports-noncovered-ownership-rule-2026-08-10.md`
+5. `indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md`
+6. `indexes/annualreports-noncovered-claim-test-2026-08-10.md`
+7. `indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md`
+8. `indexes/annualreports-noncovered-assignment-queue-2026-08-10.md`
+9. `indexes/blind-spot-thread-charter-2026-08-10.md`
+10. `indexes/blind-spot-coverage-map-2026-08-10.md`
+11. `indexes/blind-spot-systems-index-2026-08-10.md`
+
+Machine-readable companions:
+
+- `indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv`
+- `indexes/blind-spot-systems-index-2026-08-10.csv`
+
+## New default routing layer
+
+Before choosing a company or memo, another worker should now route the task through one of two top-level synthesis files:
+
+- `extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md`
+- `extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md`
+
+Use the consumer-behavior core when the candidate looks strongest as:
+
+- comfort
+- value
+- routine
+- ritual
+- identity
+- participation
+
+Use the infrastructure core when the candidate looks strongest as:
+
+- control
+- access
+- workflow
+
+If the candidate does not fit either top-level routing layer cleanly, fall back to the lane maps and direct comparison indexes rather than defaulting to ordinary packet collection.
+
+## What this lane now explicitly owns
+
+The current blind-spot scope is not just "odd companies."
+
+Its default first-claim ownership is now the four core infrastructure lanes:
+
+- behind-the-shelf consumer infrastructure
+- control-layer and connectivity infrastructure
+- hidden connectivity and access-layer ownership
+- physical execution and embedded workflow systems
+
+Everything else remains valid blind-spot work, but it should usually be conditional rather than default first-claim work.
+
+That conditional outer set includes the systems that the source taxonomy flattens or scatters:
+
+- retail as a system rather than scattered `Services`, `Consumer Goods`, `Retail`, and `Technology` labels
+- marketplace, coordination, and ecosystem-control systems
+- recurring attention and cultural-distribution systems
+- DTC relationship ownership and channel dependence
+- loyalty, wallet, membership, and status systems
+- fandom, participation, franchise, and collectible systems
+- beauty, identity, fit, and self-presentation systems
+- value-hunt, bargain-discovery, and convenience behavior systems
+- routine-use trust and everyday-care systems
+- comfort, casualization, and practical-wellness systems
+- ritual, occasion, and stimulation systems
+- delivery-layer and demand-routing systems
+- modern built-environment and infrastructure chains
+- relationship-thickness overlays
+
+## Important scope distinction now made explicit
+
+The lane now clearly separates two related but different questions:
+
+### Platform and ecosystem boundary
+
+Use:
+
+- `indexes/platform-ecosystem-systems-index-2026-08-10.md`
+- `extracted/themes/apple-vs-netflix-vs-roblox-boundary-comparison-2026-08-10.md`
+
+This is for broad platform structure:
+
+- commerce flywheel
+- trip network
+- local-demand system
+- device lock-in
+- creator participation
+- attention platform
+
+### Recurring-attention boundary
+
+Use:
+
+- `indexes/recurring-attention-systems-index-2026-08-10.md`
+- `extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md`
+
+This is for narrower attention-system structure:
+
+- paid access
+- mixed monetization
+- ad-funded ambient attention
+- attention plus infrastructure widening
+- franchise-linked membership ecosystems
+- lower-moat ad-dependent attention
+
+Do not collapse those two layers back into one generic "platform" bucket.
+
+## What is already strong and reusable
+
+The blind-spot lane is no longer just a concept.
+
+It already has:
+
+- ownership rules
+- take-versus-leave assignment rules
+- markdown and CSV queue files
+- boundary-comparison indexes
+- reusable cross-sector memos
+
+High-confidence reuse files include:
+
+- `indexes/annualreports-blind-spot-ownership-map-2026-08-10.md`
+- `indexes/annualreports-noncovered-ownership-rule-2026-08-10.md`
+- `indexes/direct-boundary-comparisons-index-2026-08-10.md`
+- `indexes/platform-ecosystem-systems-index-2026-08-10.md`
+- `indexes/recurring-attention-systems-index-2026-08-10.md`
 - `extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md`
-- `extracted/themes/retail-system-crosswalk-2026-08-10.md`
-- `extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md`
-- `extracted/themes/consumer-cultural-pattern-map-2026-08-10.md`
 - `extracted/themes/platform-and-ecosystem-map-2026-08-10.md`
-
-## What is now completed in this lane
-
-### 1. Blind-spot framework is in place
-
-The repo now has an explicit ownership rule for this thread.
-
-The work no longer depends on an implied understanding of the `AnnualReports` limitation. It is recorded in files and can be followed mechanically by the next worker.
-
-### 2. Hasbro is no longer partial
-
-`Hasbro, Inc.` is now collected and packetized under the corrected taxonomy path:
-
-- `extracted/consumer-goods/toys-games/hasbro-inc/`
-- `raw/annualreports/consumer-goods/toys-games/hasbro-inc/`
-- `raw/company-ir/consumer-goods/toys-games/hasbro-inc/`
-- `raw/sec/consumer-goods/toys-games/hasbro-inc/`
-
-Completed extracted files:
-
-- `company-packet.md`
-- `company-profile.md`
-- `source-ledger.md`
-
-Completed raw verification notes:
-
-- `annualreports-verification.md`
-- `official-ir-verification.md`
-
-### 3. Hasbro is integrated into archive-level indexes and synthesis
-
-Hasbro is now reflected in:
-
-- `indexes/companies.csv`
-- `indexes/coverage-tracker.csv`
-- `indexes/sectors.csv`
-- `indexes/consumer-interface-research-index-2026-08-09.csv`
-- `indexes/consumer-interface-research-index-2026-08-09.md`
+- `extracted/themes/marketplace-and-coordination-systems-2026-08-10.md`
+- `extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md`
+- `extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md`
+- `extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md`
+- `indexes/behind-the-shelf-extension-shortlist-2026-08-10.md`
+- `indexes/control-layer-extension-shortlist-2026-08-10.md`
+- `indexes/hidden-connectivity-extension-shortlist-2026-08-10.md`
+- `indexes/physical-execution-extension-shortlist-2026-08-10.md`
+- `extracted/themes/cloudflare-vs-cisco-vs-palo-alto-boundary-comparison-2026-08-10.md`
+- `extracted/themes/american-tower-vs-crown-castle-vs-sba-boundary-comparison-2026-08-10.md`
+- `extracted/themes/united-rentals-vs-fastenal-vs-ferguson-boundary-comparison-2026-08-10.md`
+- `extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md`
 - `extracted/themes/consumer-cultural-pattern-map-2026-08-10.md`
-- `extracted/consumer-goods/consumer-goods-sector-synthesis-2026-08-09.md`
 
-This means the lane around `fandom / play / collectible identity` is no longer only a planned extension. It now has a filing-backed anchor.
+The infrastructure side of the lane now has a concrete four-lane reusable core:
 
-## Main Hasbro interpretation now captured
+- `Cloudflare` / `Cisco` / `Palo Alto Networks` for edge control versus installed-base network control versus enterprise-trust governance
+- `American Tower` / `Crown Castle` / `SBA Communications` for global access ownership versus domestic tower simplification versus pure-play tower rent
+- `Iridium` for satellite-resilience, off-grid coverage, and assured timing or visibility where terrestrial infrastructure cannot cleanly follow
+- `Viasat` for heavier-bandwidth orbital mobility, sovereign-access, aviation, maritime, and government connectivity where terrestrial infrastructure is incomplete or strategically insufficient
+- `United Rentals` / `Fastenal` / `Ferguson` for outsourced equipment access versus embedded procurement control versus branch-density contractor service
+- `WESCO` / `Applied Industrial Technologies` / `Core & Main` for project-channel coordination versus engineering-heavy uptime support versus civic-failure-response distribution
+- the behind-the-shelf lane for packaging, waste, and plant-embedded infrastructure now has a reusable multi-comparison stack rather than only one direct three-way memo
 
-The archive now treats Hasbro as a strong example of a system that `AnnualReports` does not describe well through a plain industry label.
+The behind-the-shelf lane now also has a live subtype stack rather than only a generic industrial comparison:
 
-The main read is:
+- `Graphic Packaging` for carton and packaging-conversion middleware
+- `Sonoco` for broader packaging-format and container-control breadth
+- `AptarGroup` for packaging-interface and dispensing-component control
+- `Silgan` for rigid-container, metal-can, and closure-control concentration
+- `Packaging Corporation of America` for a tighter North American corrugated-and-containerboard throughput peer
+- `Clearwater Paper` for SBS substrate and converter-facing packaging-material supply
+- `International Paper` for corrugated and containerboard throughput
+- `Waste Management` for broad route-density cleanup and compliance service
+- `Republic Services` for broad route-density scale-peer comparison
+- `Clean Harbors` for specialized hazardous, remediation, emergency-response, and re-refining intensity
+- `Casella Waste Systems` for regional-density, landfill-control, and resource-solutions concentration
+- `CECO Environmental` for plant-embedded environmental and process-reliability control
+- `Veralto` for embedded quality, water, monitoring, and product-control workflows
+- `Ecolab` for embedded hygiene, water, pest, and compliance-service workflows
 
-- Hasbro is not just a toy company
-- it is a play, fandom, and franchise-IP system
-- the growth engine is increasingly tied to repeat participation, organized engagement, crossover content, digital gaming, and collectible behavior
+Inside that lane, the waste branch is now also covered as a four-way split: national leader, national scale peer, hazardous specialization, and regional-density concentration.
 
-Key evidence now captured in-repo:
+The consumer side of the lane now also has a concrete behavior-comparison core:
 
-- full-year `2025` revenue up `14%`
-- `Wizards of the Coast and Digital Gaming` up `45%` in full-year `2025`
-- `MAGIC: THE GATHERING` up `59%` in full-year `2025`
-- `Monopoly Go!` contributed `$168M` in full-year `2025`
-- Q2 `2026` revenue was about `$1.14B`
-- Q2 `2026` `Wizards and Digital Gaming` segment net revenues were about `$663.8M`
-- Q2 `2026` `Consumer Products` segment net revenues were about `$463.0M`
-- `Magic: The Gathering` passed `$500M` of quarterly revenue in Q2 `2026`
+- `Crocs` / `Birkenstock` / `Planet Fitness` for comfort versus practical wellness versus low-friction body-confidence participation
+- `TJX` / `Ollie's` / `Dollar General` for off-price discovery versus closeout opportunism versus essentials convenience
+- `Colgate` / `Kenvue` / `Chewy` for efficacy-led routine care versus self-care trust versus digital replenishment management
+- `Starbucks` / `Monster` / `Brown-Forman` for prepaid ritual versus stimulation habit versus premium occasion demand
+- `Ulta` / `e.l.f. Beauty` / `Estee Lauder` for discovery interface versus accessible owned-brand growth versus prestige repair
+- `Hasbro` / `Mattel` / `Roblox` for ruleset fandom versus franchise-world extension versus creator-world participation
 
-This is the archive's current strongest evidence set for:
+## What another thread should not do
 
-- fandom
-- collectible identity
-- organized play
-- crossover-IP monetization
-- physical-plus-digital engagement
+Do not treat this lane as a cleanup bucket for:
 
-## Important taxonomy correction already made
+- ordinary software names
+- ordinary media names
+- generic consumer brands
+- routine sector completeness work
+- companies whose best explanation is still just the formal `AnnualReports` industry page
 
-The earlier interrupted Hasbro collection sat under:
+If the question is merely "this industry page is uncovered," another thread should usually own it.
 
-- `raw/.../consumer-goods/none/hasbro-inc`
+## Practical selection test
 
-That is no longer the right location.
+Keep a company or memo in this lane only when at least one of these is true:
 
-The current correct location is:
+1. it materially strengthens a cross-sector system memo
+2. it is mainly useful because of relationship ownership, coordination, loyalty, recurring attention, recurring behavior, participation, or hidden infrastructure logic
+3. the formal `AnnualReports` label is materially weaker than the operating reality
+4. it improves a boundary comparison that already has real anchors in the repo
 
-- `consumer-goods/toys-games/hasbro-inc`
+## Best next moves from this state
 
-The old `none` path should be treated as deprecated history, not as a live working location.
+The strongest next work is usually:
 
-## Other branch content not owned by this lane
+- subtype extension inside a blind-spot lane that already has a usable memo and anchor set
+- a direct comparison that sharpens an existing system split
+- synthesis work that widens a correction layer already in place
 
-The current branch also contains unrelated industrial and downstream-physical-inputs work.
+The strongest current examples are:
 
-The clearest visible example in the mixed base commit is:
+- behind-the-shelf reuse first, and subtype extension only if a later name opens a genuinely different physical layer beyond the current five comparison outputs
+- recurring-attention extension only if another name adds a genuinely different attention structure
+- marketplace subtype extension only if another name adds a genuinely different coordination or trust structure
+- hidden-infrastructure comparison extension only if another name sharpens the physical-layer split
+- consumer-behavior extension only if another name materially sharpens comfort, value, routine, ritual, identity, or participation beyond the current behavior-core comparisons
+- control-layer extension only if another name sharpens edge control, enterprise trust, optical transport, or optical-input supply beyond the current `Cloudflare` / `Cisco` / `Palo Alto Networks` split
+- hidden-connectivity extension only if another name sharpens tower rent, route-density fiber, satellite resilience, bandwidth-heavy orbital access, or private-infrastructure ownership beyond the current `American Tower` / `Crown Castle` / `SBA Communications` split and the live `Iridium` / `Viasat` orbital branch
+- embedded-workflow extension only if another name sharpens access-over-ownership, embedded procurement, branch-density service control, or engineering-heavy MRO support beyond the current `United Rentals` / `Fastenal` / `Ferguson` split
+- owned-demand extension only if another name sharpens direct-control versus channel-dependence boundaries
 
-- `Mueller Industries`
+## Final takeaway
 
-That work is not part of this blind-spot lane and should not be used to infer what this thread owns.
+The blind-spot lane is now operationally real in the repo.
 
-## Best next actions for the next blind-spot worker
+The important change from earlier states is not only that more memos exist.
 
-1. Continue from the branch as-is without trying to re-separate the existing mixed commit unless there is a strong reason to rewrite history.
-2. Treat `Hasbro` as the completed anchor for the play and fandom lane, not as an open collection target.
-3. Use the charter and queue files to choose the next addition only if it strengthens:
-   - a behavior system
-   - a business-model distinction
-   - a taxonomy-breaker comparison
-4. Prefer the next company or memo that adds one of these still-thinner areas:
-   - loyalty, wallet, rewards, and membership systems
-   - another franchise or participation-based system
-   - another platform or ecosystem comparison
-   - another real taxonomy-breaker that improves the correction layer
-5. Do not spend this thread on plain sector backfill unless the company clearly strengthens a blind-spot map.
+It is that the governance layer, queue layer, decision-rule layer, machine-readable CSV layer, and reuse layer now say the same thing.
 
-## Good immediate candidates by type
-
-The next useful work is more likely to be:
-
-- another participation or franchise system
-- a wallet or membership system
-- a better cross-sector loyalty comparison
-- a more explicit platform or ecosystem comparison
-
-It is less likely to be:
-
-- another ordinary consumer-goods packet with no cross-sector angle
-- another simple footwear or mall-apparel name that only repeats an already-strong pattern
-
-## Final practical takeaway
-
-The blind-spot lane is now materially real inside the repo.
-
-It has:
-
-- an ownership charter
-- a queue
-- multiple cross-sector memos
-- one fully integrated play-and-fandom anchor through `Hasbro`
-
-The main thing the next worker needs to know is that the work is usable and preserved, but the current branch history is mixed, so branch state alone is not enough context.
-
-Use this note plus the charter and queue files as the operating handoff.
+Another worker should be able to continue this lane directly from the files above without guessing what the thread owns.

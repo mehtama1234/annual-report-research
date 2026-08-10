@@ -16,6 +16,7 @@ It compares the current archive evidence across:
 - [Marriott International, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/marriott-international-inc/company-packet.md)
 - [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
 - [American Express Company](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/credit-services/american-express-company/company-packet.md)
+- [Planet Fitness, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/recreation/planet-fitness-inc/company-packet.md)
 
 Related existing files:
 
@@ -50,6 +51,7 @@ The repeated behavior differs by sector:
 - branded stays
 - resort visits and wagering
 - premium card spend
+- low-friction fitness attendance
 
 But the economic logic converges:
 
@@ -78,6 +80,7 @@ So the browse tree obscures one of the most useful cross-sector comparisons in t
 - `Marriott` uses loyalty concentration and co-branded-card funding
 - `Caesars` uses rewards identity and one universal digital wallet
 - `American Express` uses a premium membership model and closed-loop data network
+- `Planet Fitness` uses a low-price recurring access model where dues, annual fees, pricing review, retention work, and a franchise-scaled club base all shape the relationship
 
 Those companies are scattered across different sectors and industries, but the relationship layer is similar enough that they belong in one analytical frame.
 
@@ -95,6 +98,7 @@ The archive now supports at least five distinct relationship models:
 - loyalty-funded distribution and co-brand travel economics: `Marriott`
 - universal wallet and rewards continuity: `Caesars`
 - premium card-membership and network loop: `American Express`
+- low-friction access membership and habit conditioning: `Planet Fitness`
 
 This matters because "loyalty" is too blunt by itself.
 
@@ -131,6 +135,8 @@ Every anchor company in this set does more than monetize the original purchase o
 
 `American Express` widens card spend through annual fees, merchant relationships, premium benefits, travel and dining partnerships, and a closed-loop network that creates more product and data leverage than a plain issuer model.
 
+`Planet Fitness` widens the exercise occasion through recurring dues, annual fees, a broad club network, franchise scale, and a welcoming low-intimidation brand that keeps the barrier to repeat participation unusually low.
+
 This is one of the clearest archive-wide business-quality markers.
 
 The better models are not just attracting demand. They are thickening the relationship.
@@ -151,6 +157,8 @@ The cultural read matters here because the relationship layer is not only mechan
 
 `American Express` shows that card membership itself can function as a premium consumer identity system rather than only a payment tool.
 
+`Planet Fitness` shows a different kind of membership identity where the point is not status, travel perks, or stored value. It is affordable permission to keep showing up without embarrassment, complexity, or premium positioning.
+
 That means the archive can treat loyalty and membership not just as CRM features, but as recurring cultural interfaces.
 
 ### 4. The best comparison is by relationship type, not by sector
@@ -161,6 +169,7 @@ The archive is now stronger if it compares:
 - `Starbucks` with `American Express`, because both use preload or membership structure to pull the customer into a higher-frequency closed loop
 - `McDonald's` with `Target`, because both show a mass-market operator widening the relationship through digital engagement and convenience rather than only premium identity
 - `Marriott` with `Caesars`, because both show travel and destination demand reinforced by rewards continuity and cross-surface monetization
+- `Planet Fitness` with `Costco`, because both monetize recurring access through a paid membership layer, but one is basket-and-stock-up utility while the other is low-friction bodily maintenance and self-improvement
 
 That is exactly the kind of comparison the source taxonomy does not help produce.
 
@@ -180,6 +189,7 @@ High-confidence examples already in the repo include:
 - `Marriott`: in `2025`, about `75%` of U.S. room nights and `68%` of global room nights were booked by loyalty members
 - `Caesars`: a universal digital wallet now connects sportsbook, racebook, iGaming, and Caesars Rewards
 - `American Express`: `2025` revenue reached `$72.2B`, with management explicitly framing the model around premium card membership, merchant relationships, and a global closed-loop network
+- `Planet Fitness`: full-year `2025` revenue increased `12.1%` to about `$1.3B`, the company ended `2025` with about `20.8M` members and `2,896` clubs, and `Q1 2026` management paused a planned national Black Card price increase while working to improve retention and member growth
 
 These are not soft branding signals. They are operating-structure signals.
 
@@ -195,6 +205,7 @@ These are not soft branding signals. They are operating-structure signals.
 | Branded-stay loyalty distribution system | Marriott | repeat hotel stays and travel trust | loyalty concentration, co-brand fees, funded distribution, owner-demand support |
 | Destination rewards and wallet loop | Caesars | repeat resort visits and digital wagering | tiering, cross-market spend capture, universal wallet continuity |
 | Premium card-membership network | American Express | repeat card spend, travel, dining, and premium benefits usage | annual fees, merchant economics, network data, partner ecosystem, premium spend mix |
+| Low-friction access membership and habit conditioning | Planet Fitness | repeat fitness attendance and self-maintenance | monthly dues, annual fees, franchise scale, broad access, and retention-sensitive pricing |
 
 ## What this means for the broader research project
 
@@ -209,6 +220,7 @@ These are not soft branding signals. They are operating-structure signals.
 - Membership can monetize trust and frequency without looking like software or payments.
 - Wallet behavior shows up well outside Financial, especially in restaurants, travel, and gaming.
 - Status, belonging, convenience, and stored value are recurring economic mechanisms across sectors, not isolated category quirks.
+- A relationship system can be thick without looking premium if the repeated behavior is routine enough and the fee-access model is simple enough, which is exactly what Planet Fitness adds.
 - The right comparison set is no longer "all restaurants" or "all hotels." It is the set of companies that own a repeat relationship strongly enough to widen the customer economics over time.
 
 ## Next best extensions

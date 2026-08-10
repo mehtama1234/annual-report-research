@@ -27,6 +27,7 @@ Related blind-spot framing:
 
 - [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
 - [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
+- [Relationship Thickness Index](/home/manishmehta/ui-projects/annual-report-research/indexes/relationship-thickness-index-2026-08-10.md)
 
 ## Executive read
 

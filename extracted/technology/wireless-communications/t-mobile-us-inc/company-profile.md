@@ -6,20 +6,17 @@ Date baseline: 2026-08-10
 
 - Company: T-Mobile US, Inc.
 - Ticker: TMUS
-- Exchange: Nasdaq
+- Exchange: NASDAQ
 - Sector: Technology
 - Industry: Wireless Communications
+- SEC SIC description: Radiotelephone Communications
 - Headquarters: Bellevue, Washington, United States
-- Fiscal year-end: December 31
-- AnnualReports.com page used for archive confirmation:
-  - https://www.annualreports.com/Company/t-mobile
-- Investor relations pages:
-  - https://investor.t-mobile.com/overview/default.aspx
-  - https://investor.t-mobile.com/financials/annual-reports/default.aspx
-  - https://investor.t-mobile.com/financials/quarterly-results/default.aspx
-  - https://investor.t-mobile.com/events-and-presentations/events/default.aspx
-- SEC / EDGAR reference:
-  - https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm
+- Fiscal year-end: December
+- AnnualReports.com page: https://www.annualreports.com/Company/t-mobile
+- Investor relations page: https://investor.t-mobile.com/overview/default.aspx
+- Annual reports page: https://investor.t-mobile.com/financials/annual-reports/default.aspx
+- Quarterly results page: https://investor.t-mobile.com/financials/quarterly-results/default.aspx
+- SEC / filing reference: https://www.sec.gov/Archives/edgar/data/1283699/
 
 ## Coverage status
 
@@ -33,34 +30,38 @@ Date baseline: 2026-08-10
 - Latest quarter collected: yes
 - Quarter minus 1 collected: yes
 - Quarter minus 2 collected: yes
-- Latest earnings call transcript collected: no
+- Latest earnings call transcript collected: no standalone transcript artifact saved
 
 ## Annual report archive
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | AnnualReports verification note | https://www.annualreports.com/Company/t-mobile | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/wireless-communications/t-mobile-us-inc/annualreports-verification.md) | Used for taxonomy and lag confirmation only; AnnualReports.com still showed `2024` as the most recent annual report on 2026-08-10. |
-| 2025 | T-Mobile IR source links | https://investor.t-mobile.com/financials/annual-reports/default.aspx | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/wireless-communications/t-mobile-us-inc/ir-source-links.md) | Official IR annual and quarterly pages were live and locally saved. |
-| 2025 | Company-hosted annual report PDF | https://investor.t-mobile.com/files/doc_financials/2025/q4/2025-FORM-10-K-vFinal.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/wireless-communications/t-mobile-us-inc/2025-annual-report.pdf) | Company-hosted annual report artifact. |
-| 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/wireless-communications/t-mobile-us-inc/2025-10k.html) | Authoritative annual filing for the year ended `2025-12-31`. |
+| 2025 | AnnualReports.com company page | https://www.annualreports.com/Company/t-mobile | [company-page.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/technology/wireless-communications/t-mobile-us-inc/company-page.html) | Confirms identity and shows that the saved aggregator page still tops out at `2024 Annual Report and Form 10K`. |
+| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/t-mobile | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/technology/wireless-communications/t-mobile-us-inc/annualreports-verification.md) | Records the taxonomy and AnnualReports lag. |
+| 2025 | Official IR verification note | https://investor.t-mobile.com/financials/annual-reports/default.aspx | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/wireless-communications/t-mobile-us-inc/official-ir-verification.md) | Preserves the official annual-report and quarterly-results timing chain. |
+| 2025 | T-Mobile annual-reports IR page | https://investor.t-mobile.com/financials/annual-reports/default.aspx | [annual-reports-page.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/wireless-communications/t-mobile-us-inc/annual-reports-page.html) | Confirms the official annual-reports surface even though the saved HTML is more useful for navigation identity than rendered document tiles. |
+| 2025 | Form `10-K` | https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/2025-10k.html) | Core annual filing filed `2026-02-11`. |
+| 2025 | Annual report PDF on form `ARS` | https://www.sec.gov/Archives/edgar/data/1283699/000119312526182029/d43081dars.pdf | [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/2025-annual-report-ars.pdf) | Standalone annual-report artifact filed `2026-04-27`. |
+| 2025 | SEC submissions index | https://data.sec.gov/submissions/CIK0001283699.json | [submissions-cik0001283699.json](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/submissions-cik0001283699.json) | Verifies filer identity and the in-scope filing sequence. |
 
 ## Last three quarters
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| Q2 2026 | Official SEC-hosted press release exhibit `99.1` and investor factbook exhibit `99.2` saved locally | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/wireless-communications/t-mobile-us-inc/2026-q2-10q.html) | not collected | Postpaid ARPA rose to `$152.91`, postpaid net account additions were `277,000`, service revenues reached `$19.0B`, Core Adjusted EBITDA reached `$9.5B`, and the company framed the quarter as another proof point that wireless relationship deepening can still translate into service-revenue growth. |
-| Q1 2026 | Official SEC-hosted press release exhibit `99.1` and investor factbook exhibit `99.2` saved locally | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/wireless-communications/t-mobile-us-inc/2026-q1-10q.html) | not collected | Postpaid ARPA rose to `$151.93`, postpaid net account additions were `217,000`, service revenues reached `$18.8B`, Core Adjusted EBITDA reached `$9.2B`, and T-Mobile raised guidance while emphasizing account and ARPA growth rather than pure subscriber tally optics. |
-| Q4 2025 | Official SEC-hosted press release exhibit `99.1` and investor factbook exhibit `99.2` saved locally | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/wireless-communications/t-mobile-us-inc/2025-10k.html) | not collected | Q4 service revenues were `$18.7B`, total postpaid net customer additions were `2.4M`, postpaid phone net customer additions were `962,000`, and total broadband net customer additions were `558,000`, making T-Mobile the clearest pure wireless and fixed-wireless counterpoint to Charter’s cable-wallet defense. |
+| Q2 2026 | [2026-q2-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/2026-q2-ex99-1.html) | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/2026-q2-8k.html) plus [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/2026-q2-10q.html) | no standalone transcript saved | T-Mobile reported Q2 `2026` service revenues of about `$19.0B`, postpaid service revenues of about `$15.9B`, net income of about `$3.2B`, EPS of `$2.99`, Core Adjusted EBITDA of about `$9.5B`, and postpaid ARPA of `$152.91` with `277,000` postpaid net account additions. |
+| Q1 2026 | [2026-q1-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/2026-q1-ex99-1.html) | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/2026-q1-8k.html) plus [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/2026-q1-10q.html) | no standalone transcript saved | T-Mobile reported Q1 `2026` total revenues of `$23.1B`, service revenues of about `$18.8B`, net income of about `$2.5B`, EPS of `$2.27`, Core Adjusted EBITDA of about `$9.2B`, and postpaid ARPA of `$151.93` with `217,000` postpaid net account additions. |
+| Q4 2025 | [2025-q4-ex99-1.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/2025-q4-ex99-1.html) | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/2025-q4-8k.html) plus [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/wireless-communications/t-mobile-us-inc/2025-10k.html) | no standalone transcript saved | T-Mobile closed `2025` with Q4 service revenues of `$18.7B`, full-year service revenues of `$71.3B`, net income of `$2.1B` in Q4 and `$11.0B` for the year, plus `2.4M` postpaid net customer additions and `558,000` broadband net additions in Q4. |
 
 ## What changed
 
-- Relationship quality: T-Mobile is increasingly presenting itself not just as a wireless subscriber grower, but as an account-growth and ARPA-growth machine. That changes the quality of the story from raw subscriber scale toward household and business wallet deepening.
-- Revenue mix: full-year `2025` total revenues were `$88.3B`, service revenues were `$71.3B`, net income was `$11.0B`, Core Adjusted EBITDA was `$33.9B`, and Adjusted Free Cash Flow was `$18.0B`. In the quarter chain, service revenue and postpaid service revenue remain the core proof points rather than only equipment sales or promotional growth.
-- Broadband and fixed-wireless pressure: T-Mobile ended `2025` with `8.5M` 5G broadband customers and `9.4M` total broadband customers after `2.0M` total broadband net additions during the year. That matters because T-Mobile is attacking the home-connectivity wallet from outside the cable bundle rather than from inside it.
-- Acquisition-heavy but still organic enough to matter: the `2025` and `2026` operating materials repeatedly note the effects of UScellular, Metronet, and Lumos on accounts, fiber, and broadband optics. The key question is not whether acquisitions matter; it is whether the core wireless and broadband engine remains strong enough after adjusting for them.
-- Capital allocation: T-Mobile combines large recurring cash generation with aggressive stockholder returns, but the filings also keep reminding the reader that this is still a spectrum, network, and acquisition-heavy physical business with non-trivial capex and integration demands.
+- Taxonomy reality: T-Mobile gives this frontier a clean exact-category `Wireless Communications` packet, which is useful because the assigned communications-and-access lane increasingly maps better to mobile broadband and fixed-wireless economics than to older long-distance wording.
+- Commercial logic: the company is running the access story around postpaid account growth, ARPA growth, broadband expansion, and network-quality-led switching rather than around legacy wireline complexity.
+- Customer ownership: management keeps framing the business around deepening customer relationships, lower friction, and one recurring account relationship rather than around isolated line growth.
+- Fixed-wireless and broadband pressure: Q1 `2026` explicitly framed T-Mobile as the fastest provider in fixed wireless home internet, which makes the packet useful for the broadband-substitution side of the lane.
+- Capital and deal complexity: the quarter chain also shows the access-growth model absorbing UScellular merger-related costs while still growing profitability and cash flow.
 
 ## Open questions
 
-- Can T-Mobile keep using fixed wireless, account growth, and ARPA expansion to pressure cable incumbents without eventually running into network-capacity or price-discipline tradeoffs?
-- Does postpaid account and broadband wallet expansion remain the cleanest growth vector after the recent acquisition wave normalizes, or do integration complexity and a maturing wireless market eventually narrow that runway?
+- Can T-Mobile keep compounding ARPA and account ownership as the easiest wireless share gains mature?
+- How durable is fixed-wireless broadband growth once competitors respond more aggressively on bundle pricing and fiber buildout?
+- Does the UScellular integration widen the moat, or mainly add incremental cost and execution complexity before synergies appear?

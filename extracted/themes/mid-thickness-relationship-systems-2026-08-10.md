@@ -21,6 +21,7 @@ Related blind-spot files:
 - [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
 - [Thick vs. Thin Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
 - [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Relationship Thickness Index](/home/manishmehta/ui-projects/annual-report-research/indexes/relationship-thickness-index-2026-08-10.md)
 
 ## Executive read
 

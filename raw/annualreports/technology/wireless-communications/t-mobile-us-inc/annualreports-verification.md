@@ -1,32 +1,24 @@
-# T-Mobile US, Inc. AnnualReports.com Verification
+# T-Mobile US, Inc. AnnualReports Verification
 
-Verification date: 2026-08-10
+Date: 2026-08-10
 
-## Company page
+- AnnualReports company page: `https://www.annualreports.com/Company/t-mobile`
+- Company label on AnnualReports: `T-Mobile`
+- Company identity confirmed from page description: `T-Mobile US, Inc. (NASDAQ: TMUS)`
+- AnnualReports taxonomy on the saved page:
+  - sector: `Technology`
+  - industry: `Wireless Communications`
+- Headquarters on the saved page: `Bellevue, Washington`
+- Annual availability confirmed on the saved page:
+  - most recent AnnualReports-hosted package is still `2024 Annual Report and Form 10K`
+  - the saved page therefore lags the required `2025` annual-report window
+- Frontier use in this archive:
+  - T-Mobile is a clean communications-and-access flagship because it adds a wireless-first household and small-business access read without the same legacy wireline or cable-video burden visible at `AT&T`, `Charter`, or `Comcast`
+  - AnnualReports is useful here for taxonomy and archive-lag confirmation, not for the required `2025` annual package itself
+- Local artifacts:
+  - saved page: [company-page.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/technology/wireless-communications/t-mobile-us-inc/company-page.html)
 
-- URL: https://www.annualreports.com/Company/t-mobile
-- Local archive artifact: [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/wireless-communications/t-mobile-us-inc/company-page.html)
+Working conclusion:
 
-## Verification result
-
-- AnnualReports.com taxonomy is usable for locating T-Mobile in the broader archive.
-- As of 2026-08-10, the public AnnualReports.com page for T-Mobile still showed `2024 Annual Report and Form 10K` as the most recent annual report.
-- AnnualReports.com therefore lagged the required `2025` annual window for this company.
-
-## Authoritative source chain
-
-- Official annual-reports page:
-  - https://investor.t-mobile.com/financials/annual-reports/default.aspx
-- Company-hosted 2025 annual report PDF:
-  - https://investor.t-mobile.com/files/doc_financials/2025/q4/2025-FORM-10-K-vFinal.pdf
-- Authoritative SEC annual filing:
-  - https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm
-- Authoritative SEC quarter chain:
-  - Q4 2025 earnings `8-K`: https://www.sec.gov/Archives/edgar/data/1283699/000128369926000007/tmus-20260211.htm
-  - Q1 2026 earnings `8-K`: https://www.sec.gov/Archives/edgar/data/1283699/000128369926000062/tmus-20260428.htm
-  - Q2 2026 earnings `8-K`: https://www.sec.gov/Archives/edgar/data/1283699/000128369926000100/tmus-20260723.htm
-
-## Conclusion
-
-- AnnualReports.com was useful only as a taxonomy and archive-reference checkpoint.
-- Because AnnualReports.com lagged at `2024`, company IR and SEC were used as the authoritative evidence chain for the `2025` annual report and the latest three reported quarters as of 2026-08-10.
+- AnnualReports confirms company identity and a strong communications-access lane fit under `Technology / Wireless Communications`.
+- Because the saved AnnualReports page currently tops out at the `2024` package, the `2025` annual-report requirement has to be satisfied through official T-Mobile IR plus SEC `10-K` and `ARS` artifacts.

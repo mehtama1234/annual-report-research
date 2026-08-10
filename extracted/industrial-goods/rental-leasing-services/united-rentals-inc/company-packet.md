@@ -82,7 +82,7 @@ Date baseline: 2026-08-10
 
 - Against `Core & Main`: Core & Main earns through distribution density and product/channel mix; United Rentals earns through fleet productivity, utilization, service, and capital deployment.
 - Against `Mueller Industries`: Mueller reflects installed-system manufacturing economics; United Rentals reflects the outsourced access model used to build and service those systems.
-- Against a future `WESCO` packet: United Rentals is not a stocked-inventory distributor, but both names help explain how scale, customer workflow integration, and service depth become moats in physical infrastructure categories.
+- Against `WESCO International, Inc.`: United Rentals is not a stocked-inventory distributor, but both names help explain how scale, customer workflow integration, and service depth become moats in physical infrastructure categories.
 
 ## Source pointers
 

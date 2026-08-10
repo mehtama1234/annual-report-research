@@ -1,6 +1,6 @@
 # Amazon.com, Inc. Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -54,18 +54,18 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/retail/specialty-retail-other/amazoncom-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/retail/specialty-retail-other/amazoncom-inc/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/retail/specialty-retail-other/amazoncom-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/specialty-retail-other/amazoncom-inc/2025-10k.html)
-- [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/retail/specialty-retail-other/amazoncom-inc/2025-q4-press-release.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/specialty-retail-other/amazoncom-inc/2025-q4-8k.html)
-- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/retail/specialty-retail-other/amazoncom-inc/2026-q1-press-release.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/specialty-retail-other/amazoncom-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/specialty-retail-other/amazoncom-inc/2026-q1-10q.html)
-- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/retail/specialty-retail-other/amazoncom-inc/2026-q2-press-release.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/specialty-retail-other/amazoncom-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/retail/specialty-retail-other/amazoncom-inc/2026-q2-10q.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/retail/specialty-retail-other/amazoncom-inc/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/retail/specialty-retail-other/amazoncom-inc/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/retail/specialty-retail-other/amazoncom-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/retail/specialty-retail-other/amazoncom-inc/2025-10k.html)
+- [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/retail/specialty-retail-other/amazoncom-inc/2025-q4-press-release.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/retail/specialty-retail-other/amazoncom-inc/2025-q4-8k.html)
+- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/retail/specialty-retail-other/amazoncom-inc/2026-q1-press-release.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/retail/specialty-retail-other/amazoncom-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/retail/specialty-retail-other/amazoncom-inc/2026-q1-10q.html)
+- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/retail/specialty-retail-other/amazoncom-inc/2026-q2-press-release.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/retail/specialty-retail-other/amazoncom-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/retail/specialty-retail-other/amazoncom-inc/2026-q2-10q.html)
 
 ## Working interpretation
 

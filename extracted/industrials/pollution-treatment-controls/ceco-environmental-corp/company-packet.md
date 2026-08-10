@@ -83,7 +83,7 @@ Date baseline: 2026-08-10
 
 - Against `Mueller Industries`: CECO is less commodity-pass-through and more project-engineered environmental infrastructure.
 - Against `Westlake`: CECO sits much further downstream from material conversion, where the value is in process reliability, compliance, and installed-system performance.
-- Against a future `Core & Main` packet: CECO is a manufacturer and engineered-systems operator rather than a pure distribution channel, but both help explain the water-and-infrastructure layer behind public and industrial capex.
+- Against `Core & Main, Inc.`: CECO is a manufacturer and engineered-systems operator rather than a pure distribution channel, but both help explain the water-and-infrastructure layer behind public and industrial capex.
 
 ## Source pointers
 

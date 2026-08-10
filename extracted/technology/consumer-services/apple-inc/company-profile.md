@@ -1,6 +1,6 @@
 # Apple Inc.
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -33,16 +33,18 @@ Date baseline: 2026-08-08
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | Form 10-K PDF | https://d18rn0p25nwr6d.cloudfront.net/CIK-0000320193/c24e7a28-5254-4dfa-9447-62aaa3c24bb1.pdf | [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/consumer-services/apple-inc/2025-10k.pdf) | Apple’s annual report and annual filing are effectively the same artifact in the current evidence set. |
-| 2025 | AnnualReports.com company page | https://www.annualreports.com/Company/apple-inc | [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/consumer-services/apple-inc/company-page-annualreports.html) | Archive convenience and company metadata. |
+| 2025 | Form 10-K PDF | https://d18rn0p25nwr6d.cloudfront.net/CIK-0000320193/c24e7a28-5254-4dfa-9447-62aaa3c24bb1.pdf | [2025-10k.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/consumer-services/apple-inc/2025-10k.pdf) | Apple’s annual report and annual filing are effectively the same artifact in the current evidence set. |
+| 2025 | AnnualReports.com company page | https://www.annualreports.com/Company/apple-inc | [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/technology/consumer-services/apple-inc/company-page-annualreports.html) | Archive convenience and company metadata. |
+| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Company/apple-inc | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/technology/consumer-services/apple-inc/annualreports-verification.md) | Records exact taxonomy fit. |
+| 2025 | Official IR verification note | https://investor.apple.com/investor-relations/default.aspx | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/consumer-services/apple-inc/official-ir-verification.md) | Confirms the company-hosted quarterly-results chain saved locally. |
 
 ## Last three quarters
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| FY2026 Q3 | [fy2026-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/consumer-services/apple-inc/fy2026-q3-press-release.html) | [fy2026-q3-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/consumer-services/apple-inc/fy2026-q3-10q.pdf) | not saved separately | June quarter record revenue and EPS, with iPhone, Mac, and Services setting new June-quarter records. |
-| FY2026 Q2 | [fy2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/consumer-services/apple-inc/fy2026-q2-press-release.html) | [fy2026-q2-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/consumer-services/apple-inc/fy2026-q2-10q.pdf) | not saved separately | Best March quarter ever, with all-time high Services revenue and March-quarter records for total revenue, iPhone revenue, and EPS. |
-| FY2026 Q1 | [fy2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/consumer-services/apple-inc/fy2026-q1-press-release.html) | [fy2026-q1-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/consumer-services/apple-inc/fy2026-q1-10q.pdf) | not saved separately | All-time records for total company revenue and EPS, with iPhone and Services at new all-time highs. |
+| FY2026 Q3 | [fy2026-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/consumer-services/apple-inc/fy2026-q3-press-release.html) | [fy2026-q3-10q.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/consumer-services/apple-inc/fy2026-q3-10q.pdf) | not saved separately | June quarter record revenue and EPS, with iPhone, Mac, and Services setting new June-quarter records. |
+| FY2026 Q2 | [fy2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/consumer-services/apple-inc/fy2026-q2-press-release.html) | [fy2026-q2-10q.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/consumer-services/apple-inc/fy2026-q2-10q.pdf) | not saved separately | Best March quarter ever, with all-time high Services revenue and March-quarter records for total revenue, iPhone revenue, and EPS. |
+| FY2026 Q1 | [fy2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/consumer-services/apple-inc/fy2026-q1-press-release.html) | [fy2026-q1-10q.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/consumer-services/apple-inc/fy2026-q1-10q.pdf) | not saved separately | All-time records for total company revenue and EPS, with iPhone and Services at new all-time highs. |
 
 ## What changed
 

@@ -11,6 +11,9 @@ when does direct-to-consumer control actually improve the economics, and when do
 Related files:
 
 - [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Owned-Demand Versus Marketplace-Extended Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md)
+- [Owned-Demand Channel-Control Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-channel-control-index-2026-08-10.md)
+- [Owned-Demand Identity Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
 - [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
 - [Consumer Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/consumer-interface-research-index-2026-08-09.md)
 
@@ -49,7 +52,7 @@ That makes this crosswalk necessary because companies with similar products can 
 
 | Channel-control type | Example companies | Main advantage | Main limit |
 |---|---|---|---|
-| DTC-led brand-control operator | `Levi Strauss`, `Crocs` | stronger first-party demand visibility, higher-margin mix, better category control | still benefits from wholesale reach and can face brand or portfolio unevenness |
+| DTC-led brand-control operator | `Levi Strauss`, `Crocs`, `YETI`, `Warby Parker` | stronger first-party demand visibility, higher-margin mix, better category control | still benefits from wholesale reach and can face brand or portfolio unevenness |
 | Balanced hybrid operator | `Nike`, `Deckers`, `Birkenstock` | combines brand control with broad channel reach | exposes the tradeoff directly when direct weakens or wholesale outperforms |
 | Direct-relationship and partner-distribution operator | `Victoria's Secret`, `Tapestry` | owns strong brand heat and direct demand while using partners to widen global footprint | partner distribution can dilute some control and brand outcomes still depend heavily on product and cultural relevance |
 | Omnichannel specialty repair operator | `Bath & Body Works`, `Gap`, `American Eagle` | has direct surfaces, loyalty, and owned stores that can be improved | large direct surfaces do not guarantee healthy demand if product, traffic, or brand relevance weaken |
@@ -84,6 +87,23 @@ They are important because direct control improves:
 - `Q2 2026` DTC revenue grew `12.0%`
 
 In both cases, DTC matters because it strengthens relationship quality, not because it eliminates all other channels.
+
+`YETI` now makes the same point from a premium hardgoods angle.
+
+- `DTC` represented `60%` of `2025` net sales
+- full-year `2025` `DTC` sales were `$1.1278B`
+- the `10-K` and `10-Q` chain makes clear that `DTC` for YETI is not just one website, but also `YETI Authorized` on the Amazon Marketplace, retail stores, and corporate sales
+
+That makes YETI one of the better examples in the archive of direct control without a pure brand-store-only model.
+
+`Warby Parker` now adds the fit-and-vision version of the same logic.
+
+- full-year `2025` revenue reached `$871.9M`
+- active customers reached `2.689M`
+- the company ended `2025` with `323` stores and reached `352` stores by `Q2 2026`
+- the `10-K` describes a direct-to-consumer model spanning digital commerce, stores, eye exams, contacts, and virtual vision tools
+
+That makes Warby Parker one of the archive's better examples of direct control inside a category that looks healthcare-adjacent on the surface but behaves more like an owned-demand identity and service system.
 
 ### 2. The best packets argue for hybrid control, not DTC purity
 
@@ -188,6 +208,8 @@ It is product-control economics versus traffic-and-interface control economics.
 
 The archive now suggests a more useful hierarchy than the usual direct-versus-wholesale binary.
 
+The [Owned-Demand Versus Marketplace-Extended Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md) memo should be reused when the harder question is no longer direct versus wholesale, but whether the relationship is truly brand-owned or instead widened into interface, discovery, or marketplace control.
+
 ### Highest-quality cases
 
 These are operators where the relationship is strong enough to widen economics clearly:
@@ -197,8 +219,10 @@ These are operators where the relationship is strong enough to widen economics c
 - `Target`
 - `Levi Strauss`
 - `Crocs`
+- `YETI`
 - `Tapestry`
 - `Ulta`
+- `Warby Parker`
 
 They do not all use the same channels, but they all show a visible second layer on top of the basic sale.
 
@@ -234,7 +258,7 @@ The DTC and channel-control question also maps directly into consumer culture.
 
 Different channel structures support different kinds of consumer behavior:
 
-- `Levi Strauss`, `Nike`, `Crocs`, `Tapestry`, `Victoria's Secret`: identity, fit, aspiration, comfort, and direct brand relationship
+- `Levi Strauss`, `Nike`, `Crocs`, `YETI`, `Tapestry`, `Victoria's Secret`, `Warby Parker`: identity, fit, aspiration, comfort, outdoor utility, direct brand relationship, and vision-care service extension
 - `Amazon`, `Walmart`, `Target`, `Ulta`, `eBay`: utility, discovery, loyalty, assortment, and broader interface ownership
 - `Ross`, `Burlington`: value-hunt behavior with thinner customer-file depth
 - `Bath & Body Works`: proof that loyalty and direct surfaces do not substitute for cultural relevance or product newness
@@ -254,6 +278,6 @@ It is also a behavioral and cultural topic.
 
 ## Next best extensions
 
-- build a machine-readable channel-control index if the goal is sorting by DTC mix, partner dependence, marketplace exposure, and relationship type
+- maintain and extend the [Owned-Demand Channel-Control Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-channel-control-index-2026-08-10.md) if the goal is sorting by DTC mix, partner dependence, marketplace exposure, and relationship type
 - add a dedicated comparison between `Gap`, `American Eagle`, and `Abercrombie` if the goal is to sharpen the mall-sensitive mid-tier relationship-control ladder
 - connect this memo to a future consumer-behavior map, since channel control and cultural relevance are now clearly linked in the archive rather than separate topics

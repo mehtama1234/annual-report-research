@@ -14,6 +14,10 @@ This synthesis is based on the completed technology packets currently in the arc
   - [Apple Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/consumer-services/apple-inc/company-packet.md)
   - [Alphabet Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/alphabet-inc/company-packet.md)
   - [Airbnb, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/airbnb-inc/company-packet.md)
+  - [DoorDash, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-service-providers/doordash/company-packet.md)
+  - [Roblox Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/roblox-corporation/company-packet.md)
+  - [Take-Two Interactive Software, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/take-two-interactive-software-inc/company-packet.md)
+  - [Electronic Arts Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/electronic-arts-inc/company-packet.md)
   - [Snap Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/snap-inc/company-packet.md)
 - Infrastructure, networking, and security:
   - [Cisco Systems Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/cisco-systems-inc/company-packet.md)
@@ -42,7 +46,7 @@ The completed technology set now supports a clear sector conclusion: `Technology
 - semiconductor and systems infrastructure providers
 - enterprise workflow, security, and control software
 - ecosystem consumer hardware and services
-- software-like marketplaces whose source taxonomy hides a different operating reality
+- software-like marketplaces or participation platforms whose source taxonomy hides a different operating reality
 - weaker or more fragile consumer-attention and turnaround exposures
 
 The strongest cross-company pattern is that AI is no longer just a feature story. It is a capital-allocation and infrastructure story. The biggest winners are the companies able to own more of the stack: compute, cloud, models, data, workflow, security, network control, or end-user ecosystem distribution.
@@ -59,12 +63,16 @@ The packet set already divides into different roles:
 - `Cisco`, `Arista`, and `Dell` show that AI demand is diffusing into network, storage, and datacenter systems architecture rather than stopping at chips and cloud.
 - `Micron` closes the memory and storage layer of that same buildout, tying HBM, server-memory density, and data-center SSD demand directly to AI infrastructure.
 - `Apple` remains a premium ecosystem and installed-base monetization story, not the cleanest AI monetization story in the set.
-- `Airbnb` is the clearest taxonomy outlier: AnnualReports classifies it as `Technology / Application Software`, but the operating story is really a software-mediated travel and local-services marketplace built on host-network depth, app behavior, flexible payments, and trust.
+- `Airbnb` is the clearest travel taxonomy outlier: AnnualReports classifies it as `Technology / Application Software`, but the operating story is really a software-mediated travel and local-services marketplace built on host-network depth, app behavior, flexible payments, and trust.
+- `DoorDash` is another strong taxonomy outlier: AnnualReports classifies it as `Technology / Internet Service Providers`, but the operating story is really a local-commerce marketplace and logistics-coordination platform where DashPass membership, merchant density, advertising, grocery and retail widening, and delivery infrastructure matter more than classic internet-service characteristics.
+- `Roblox` is another strong taxonomy outlier: AnnualReports classifies it as `Technology / Application Software`, but the operating story is really a creator-built digital-play and participation platform where virtual-currency bookings, discovery systems, safety design, creator economics, and advertising or commerce widening matter more than generic software characteristics.
+- `Take-Two` is another variant of the same broader taxonomy problem: AnnualReports classifies it as `Technology / Application Software`, but the operating story is really a franchise-driven interactive-entertainment system where sequel cadence, live services, mobile scale, recurrent consumer spending, and release anticipation matter more than generic software characteristics.
+- `Electronic Arts` is another variant of the same taxonomy problem: AnnualReports classifies it as `Technology / Multimedia & Graphics Software`, but the operating story is really a sports-franchise and live-services participation system where annualized sports identity, `Ultimate Team`, extra-content monetization, and launch energy around titles like `Battlefield 6` matter more than generic software characteristics.
 - `Snap` is a much weaker-moat consumer platform despite sharing a broad internet label with Alphabet.
 - `Intel` is the main stressed incumbent and turnaround case, showing that AI demand does not lift all semiconductor names equally.
 - `Accenture` shows the labor-and-execution layer that helps enterprises adopt, redesign, and implement around these platforms.
 
-This means the right question is not “which tech companies have AI?” The better question is “which layer of the AI and digital stack do they control, and how economically central is that layer?” Airbnb sharpens that question because it shows that source taxonomy can also hide what the company really controls: not generic software seats, but a software-mediated demand-and-supply network in travel.
+This means the right question is not “which tech companies have AI?” The better question is “which layer of the AI and digital stack do they control, and how economically central is that layer?” Airbnb, DoorDash, Roblox, Take-Two, and Electronic Arts sharpen that question because they show that source taxonomy can also hide what the company really controls: not generic software seats, but either a software-mediated demand-and-supply network in travel, a local-commerce and delivery-coordination system, a creator-driven digital-world and participation network in gaming culture, a scaled franchise and recurrent-spending engine in interactive entertainment, or a sports-heavy live-services and recurring-wallet system built on annualized digital fandom.
 
 ### 2. AI is a capex and infrastructure cycle, not only a software cycle
 
@@ -107,6 +115,9 @@ So the consumer side of technology is splitting too:
 
 - ecosystem-rich winners with services leverage
 - software-mediated marketplace and trip-orchestration platforms where app behavior, checkout flexibility, and trust systems matter more than classic enterprise-software categories
+- local-commerce and convenience platforms where app habit, memberships, merchant density, and physical fulfillment matter more than classic enterprise-software categories
+- digital participation and creator platforms where engagement loops, virtual-currency bookings, creator incentives, and safety systems matter more than classic enterprise-software categories
+- franchise-driven gaming and live-services systems where recurrent spending, platform mix, and release cadence matter more than classic enterprise-software categories
 - weaker ad-dependent or feature-fragile platforms
 
 ### 5. Networking, security, and enterprise trust are rising in importance
@@ -141,7 +152,7 @@ This is important because headline sector strength can hide a much wider spread 
 | Enterprise workflow and security control | ServiceNow, Adobe, Palo Alto | orchestration, document workflow, AI governance, platformization, enterprise trust |
 | Network and systems layer | Cisco, Arista, Dell, HP | AI spending diffusion into networking, AI fabrics, enterprise infrastructure, servers, and more cyclical endpoint hardware |
 | Consumer ecosystem and attention platforms | Apple, Snap | premium installed-base monetization versus lower-quality ad-dependent consumer-platform economics |
-| Taxonomy-breaking software marketplaces | Airbnb | software-like consumer behavior, host-network depth, flexible payments, and AI-assisted operations inside a travel marketplace that source taxonomy still calls application software |
+| Taxonomy-breaking software marketplaces, local-commerce platforms, participation platforms, and interactive-entertainment systems | Airbnb, DoorDash, Roblox, Take-Two, Electronic Arts | software-like consumer behavior, host-network depth, local-commerce frequency, merchant density, memberships, creator supply, virtual-currency bookings, recurrent consumer spending, release cadence, sports-franchise wallet behavior, and AI-assisted operations inside businesses that source taxonomy still classifies as software or internet-service names |
 | Implementation layer | Accenture | enterprise reinvention, AI adoption services, labor-and-execution-heavy monetization |
 
 ## Cultural and economic signals
@@ -154,6 +165,7 @@ Across the completed technology set, the broader signals are:
 - Consumer value is concentrating in ecosystems with trusted hardware, services, and identity layers rather than in weaker attention platforms.
 - The spending cycle is spreading from chips and cloud into networking, enterprise control software, security, and implementation services.
 - The memory and storage layer is now clearly part of that same spending cycle rather than a side effect of it.
+- Source taxonomy inside Technology is also visibly too blunt once local-commerce marketplaces and participation platforms sit beside classic software and infrastructure names.
 
 ## Technology and labor read
 
@@ -184,6 +196,7 @@ That means the sector’s center of gravity is moving away from a simple softwar
 - infrastructure owners
 - control-layer software
 - ecosystem monetizers
+- taxonomy-breaking coordination and participation platforms
 - lower-moat residual categories
 
 ## Useful organizing frame going forward

@@ -1,6 +1,6 @@
 # Walt Disney Co. Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -58,24 +58,24 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/entertainment-diversified/walt-disney-co/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/walt-disney-co/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/walt-disney-co/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2025-q4-8k.html)
-- [2025-q4-ex991.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2025-q4-ex991.html)
-- [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/walt-disney-co/2025-q4-results-release.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q1-10q.html)
-- [2026-q1-ex991.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q1-ex991.html)
-- [2026-q1-executive-commentary.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/walt-disney-co/2026-q1-executive-commentary.pdf)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q2-10q.html)
-- [2026-q2-ex991.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q2-ex991.html)
-- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q3-8k.html)
-- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q3-10q.html)
-- [2026-q3-ex991.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q3-ex991.html)
-- [2026-q3-commentary.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/entertainment-diversified/walt-disney-co/2026-q3-commentary.html)
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/services/entertainment-diversified/walt-disney-co/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/walt-disney-co/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/walt-disney-co/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2025-q4-8k.html)
+- [2025-q4-ex991.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2025-q4-ex991.html)
+- [2025-q4-results-release.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/walt-disney-co/2025-q4-results-release.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q1-10q.html)
+- [2026-q1-ex991.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q1-ex991.html)
+- [2026-q1-executive-commentary.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/walt-disney-co/2026-q1-executive-commentary.pdf)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q2-10q.html)
+- [2026-q2-ex991.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q2-ex991.html)
+- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q3-8k.html)
+- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q3-10q.html)
+- [2026-q3-ex991.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/services/entertainment-diversified/walt-disney-co/2026-q3-ex991.html)
+- [2026-q3-commentary.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/services/entertainment-diversified/walt-disney-co/2026-q3-commentary.html)
 
 ## Working interpretation
 

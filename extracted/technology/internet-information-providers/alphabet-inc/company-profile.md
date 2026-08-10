@@ -1,6 +1,6 @@
 # Alphabet Inc.
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -11,7 +11,7 @@ Date baseline: 2026-08-08
 - Industry: Internet Information Providers
 - Headquarters: Mountain View, California, United States
 - Fiscal year-end: December 31
-- AnnualReports.com page: direct company-page slug still needs verification; current working reference is `https://www.annualreports.com/Company/alphabet-inc`
+- AnnualReports.com page: no clean company page found on `2026-08-10`; both `Alphabet` and `Google` site searches returned no results in the saved verification note
 - Investor relations page: https://abc.xyz/investor/
 - SEC / EDGAR reference: https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm
 
@@ -33,16 +33,17 @@ Date baseline: 2026-08-08
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | Alphabet 2025 Annual Report PDF | https://s206.q4cdn.com/479360582/files/doc_financials/2025/Alphabet-GOOG-_AR_2025_WO2_TRD_WR.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/alphabet-inc/2025-annual-report.pdf) | Official annual report PDF linked from Alphabet’s 2026 annual-meeting page. |
-| 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/alphabet-inc/2025-10k.html) | Standalone annual filing captured from SEC. |
+| 2025 | AnnualReports.com verification note | https://www.annualreports.com/Companies?search=Alphabet | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/annualreports/technology/internet-information-providers/alphabet-inc/annualreports-verification.md) | Confirms that AnnualReports search returned no `Alphabet` or `Google` results on `2026-08-10`, so the aggregator did not provide a usable local archive page for this packet. |
+| 2025 | Alphabet 2025 Annual Report PDF | https://s206.q4cdn.com/479360582/files/doc_financials/2025/Alphabet-GOOG-_AR_2025_WO2_TRD_WR.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/alphabet-inc/2025-annual-report.pdf) | Official annual report PDF linked from Alphabet’s 2026 annual-meeting page. |
+| 2025 | Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/alphabet-inc/2025-10k.html) | Standalone annual filing captured from SEC. |
 
 ## Last three quarters
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| Q2 2026 | [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/alphabet-inc/2026-q2-earnings-release.pdf) | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/alphabet-inc/2026-q2-10q.html) | [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2026-q2-earnings-call-transcript.pdf) | Revenue reached `$119.8 billion`, Cloud grew `82%`, and full-year 2026 capex guidance was raised to `$195-$205 billion`. |
-| Q1 2026 | [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/alphabet-inc/2026-q1-earnings-release.pdf) | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/alphabet-inc/2026-q1-10q.html) | [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2026-q1-earnings-call-transcript.pdf) | Revenue reached `$109.9 billion`, Cloud crossed `$20 billion` for the first time, and paid subscriptions reached `350 million`. |
-| Q4 2025 | [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/alphabet-inc/2025-q4-earnings-release.pdf) | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/alphabet-inc/2025-10k.html) | [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2025-q4-earnings-call-transcript.pdf) | Alphabet exceeded `$400 billion` of annual revenue for the first time and guided to very large 2026 capex expansion. |
+| Q2 2026 | [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/alphabet-inc/2026-q2-earnings-release.pdf) | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/alphabet-inc/2026-q2-10q.html) | [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2026-q2-earnings-call-transcript.pdf) | Revenue reached `$119.8 billion`, Cloud grew `82%`, and full-year 2026 capex guidance was raised to `$195-$205 billion`. |
+| Q1 2026 | [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/alphabet-inc/2026-q1-earnings-release.pdf) | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/alphabet-inc/2026-q1-10q.html) | [2026-q1-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2026-q1-earnings-call-transcript.pdf) | Revenue reached `$109.9 billion`, Cloud crossed `$20 billion` for the first time, and paid subscriptions reached `350 million`. |
+| Q4 2025 | [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/company-ir/technology/internet-information-providers/alphabet-inc/2025-q4-earnings-release.pdf) | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/sec/technology/internet-information-providers/alphabet-inc/2025-10k.html) | [2025-q4-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-footwear-dept-audit/raw/earnings-calls/technology/internet-information-providers/alphabet-inc/2025-q4-earnings-call-transcript.pdf) | Alphabet exceeded `$400 billion` of annual revenue for the first time and guided to very large 2026 capex expansion. |
 
 ## What changed
 

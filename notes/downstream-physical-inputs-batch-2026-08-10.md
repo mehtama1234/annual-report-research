@@ -104,16 +104,18 @@ This batch should explicitly surface:
 - `Mueller Industries, Inc.` packet chain written
 - `CECO Environmental Corp.` packet chain written as an explicitly gap-scoped partial
 - `Core & Main, Inc.` packet chain written
+- `United Rentals, Inc.` packet chain written
 - Vulcan has stronger local raw capture, but still has a direct SEC artifact gap because scripted SEC fetches were blocked by SEC automation controls
 - Westlake now has a written packet and full verified IR / filing URL map, but remains partial because several official company artifacts were verified remotely rather than saved locally from the current shell environment
 - Bunge is now the strongest completed packet in the batch because the annual report, latest three quarters, transcripts, presentations, company-hosted quarter filings, and direct SEC filing references were all collected or preserved locally
 - Mueller is now also completed with locally saved annual and quarter artifacts plus direct SEC filing references, giving the batch a downstream installed-systems and metal-fabrication anchor
 - CECO now adds the pollution-and-treatment-controls lane with a complete annual / `Q4 2025` / `Q1 2026` evidence stack and a clearly documented `Q2 2026` reporting gap tied to the first Thermon combined quarter
 - Core & Main now adds the distribution and water-infrastructure channel layer with a complete `2025` annual / `Q1 2026` / `Q4 2025` / `Q3 2025` evidence stack and a strong read on pricing discipline, private label, acquisitions, and aging-water replacement demand
+- United Rentals now adds the rental-and-leasing layer with a complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` evidence stack and a clear read on fleet productivity, specialty mix, large-project demand, and capital-allocation discipline
 
 Current batch split:
 
-- completed: `Bunge Global SA`, `Mueller Industries, Inc.`, `Core & Main, Inc.`
+- completed: `Bunge Global SA`, `Mueller Industries, Inc.`, `Core & Main, Inc.`, `United Rentals, Inc.`
 - partial: `Vulcan Materials Company`, `Westlake Corporation`, `CECO Environmental Corp.`
 
 ## CECO gap note
@@ -125,7 +127,7 @@ Current batch split:
 
 ## Next recommended names after this batch
 
-- `United Rentals, Inc.` for rental and leasing services
 - `WESCO International, Inc.` for industrial and electronics distribution
 - `Knife River Corporation` if the repo needs a second heavy-materials comparison alongside Vulcan
 - `HD Supply Holdings, Inc.` only if the archive later needs a more maintenance-oriented channel comparison rather than another pure infrastructure distributor
+- `MasTec, Inc.` if the repo needs a contractor-heavy bridge between equipment access, project execution, and utility/infrastructure buildout

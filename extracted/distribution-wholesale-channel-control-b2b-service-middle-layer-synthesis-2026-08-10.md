@@ -12,6 +12,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Ferguson Enterprises Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md)
   - [Watsco, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/electronics-wholesale/watsco-inc/company-packet.md)
   - [Fastenal Company](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/fastenal-company/company-packet.md)
+  - [DNOW Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/dnow-inc/company-packet.md)
   - [MSC Industrial Direct Co., Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/company-packet.md)
   - [Applied Industrial Technologies, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/company-packet.md)
   - [W.W. Grainger, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-equipment-components/ww-grainger-inc/company-packet.md)
@@ -32,19 +33,20 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a nineteen-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a twenty-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current nineteen completed names show nineteen related but distinct middle-layer roles:
+The current twenty completed names show twenty related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
 - `Ferguson` controls contractor-facing branch density across plumbing, HVAC, waterworks, and repair-and-replacement infrastructure.
 - `Watsco` controls HVAC and refrigeration distribution, contractor workflow, and climate-control replacement economics.
 - `Fastenal` controls onsite industrial procurement, vending, and embedded replenishment workflow inside customer operations.
+- `DNOW` controls a more energy-, utilities-, flow-control-, and instrumentation-heavy distribution layer tied to process infrastructure rather than only general industrial replenishment.
 - `MSC` controls a more manufacturing- and metalworking-sensitive procurement layer built around plant-floor replenishment, vending, and In-Plant service density.
 - `Applied` controls a more technical industrial-uptime layer built around motion, fluid power, automation, calibration, and engineered maintenance support.
 - `Grainger` controls business procurement and MRO purchasing workflows.
@@ -84,6 +86,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Ferguson`: keeping contractors, facilities teams, and infrastructure jobs supplied with plumbing, HVAC, waterworks, PVF, and technical branch support
 - `Watsco`: keeping contractors, building operators, and households supplied with climate-control and refrigeration equipment through dense distribution and replacement-cycle workflow
 - `Fastenal`: keeping plants, jobsites, and maintenance teams supplied through onsite procurement, vending, digital ordering, and low-friction replenishment
+- `DNOW`: keeping gas utilities, process plants, water systems, midstream networks, and industrial operators supplied with PVF, pumps, controls, instrumentation, and process hardware
 - `MSC`: keeping factories and machine shops supplied through metalworking, MRO, and inventory-control systems with more visible exposure to manufacturing cadence
 - `Applied`: keeping factories and industrial systems operating through technical MRO, fluid-power support, automation components, and engineered solutions
 - `Grainger`: keeping industrial and institutional sites supplied with MRO products and reducing procurement friction
@@ -110,6 +113,7 @@ The packets now point to the same conclusion from different directions:
 - `Ferguson` benefits from local branch density, technical assortment, and its ability to simplify fragmented contractor buying.
 - `Watsco` benefits from replacement-cycle urgency, contractor dependence, digital workflow, and branch density in hot-weather markets where climate-control failure is not optional.
 - `Fastenal` benefits from moving inside the customer site and turning industrial procurement into a workflow it partially controls.
+- `DNOW` benefits from broader technical assortment and the post-merger ability to intermediate energy, utility, and process-infrastructure buying through a larger combined platform.
 - `MSC` benefits from becoming part of the plant-floor inventory and purchasing process even while carrying more cycle sensitivity than the broader procurement names.
 - `Applied` benefits from combining stocked distribution with technical service and engineered-solutions depth, which makes it harder to replace with a thinner catalog competitor.
 - `Grainger` benefits from being the easiest high-trust procurement channel.
@@ -136,6 +140,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `Ferguson` is highly exposed to branch productivity, supplier-price timing, acquisitions, and contractor demand splits between residential and non-residential work.
 - `Watsco` is highly exposed to A2L transition effects, inventory timing, HVAC replacement demand, tariff-linked OEM pricing, and the seasonal working-capital shape of a dense climate-control distributor.
 - `Fastenal` is highly exposed to mix shifts toward large accounts, pricing pass-through, and the economics of onsite service density.
+- `DNOW` is highly exposed to merger integration, ERP cleanup, end-market timing across gas utilities and industrial process demand, and whether working-capital normalization turns into durable margin improvement.
 - `MSC` is highly exposed to metalworking, manufacturing cadence, national-account mix, and the tension between recurring procurement attachment and gross-margin pressure.
 - `Applied` is highly exposed to industrial caution, tariff noise, Service Center versus Engineered Solutions mix, and whether higher technical content sustains margin through slower capital cycles.
 - `Sysco` needs inventory management, routing, and working-capital discipline to protect margin.
@@ -162,6 +167,7 @@ The current packets do not point to a software-product story. They point to oper
 - `Ferguson`: digital ordering, local inventory visibility, and contractor workflow support layered on top of branch and fleet density
 - `Watsco`: contractor-facing digital workflow, pricing tools, mobile ordering, and technology-enabled inventory and product matching around climate-control replacement
 - `Fastenal`: eBusiness, vending, onsite replenishment, and digital procurement tools that make physical distribution behave more like embedded workflow software
+- `DNOW`: digital sourcing, broader technical product-data support, and process-oriented distribution workflow layered onto the combined DNOW and MRC Global platform
 - `MSC`: vending, In-Plant placement, and digital replenishment that make factory procurement increasingly software-mediated rather than purely rep-driven
 - `Applied`: technology as part of automation support, calibration, engineered systems, and technical distributor workflow rather than as a stand-alone product
 - `Grainger`: digital procurement, curated online experiences, and workflow simplification
@@ -188,6 +194,7 @@ This is already visible across the completed set:
 - contractors, waterworks, HVAC, facilities supply, and large capital project channels at `Ferguson`
 - contractors, refrigeration buyers, commercial building operators, and replacement-focused HVAC channels at `Watsco`
 - plants, maintenance teams, large accounts, and customer-site operators at `Fastenal`
+- gas utilities, midstream systems, water-treatment and process operators, and instrumentation-heavy industrial customers at `DNOW`
 - factories, machine shops, government buyers, and manufacturing sites at `MSC`
 - plants, automation buyers, calibration-heavy operators, and industrial maintenance teams at `Applied`
 - factories, facilities, and government buyers at `Grainger`
@@ -207,16 +214,16 @@ The implication is that this frontier is not mainly about discretionary end-cons
 
 ## Current theme map
 
-| Theme | Builders FirstSource | Core & Main | Ferguson | Watsco | Fastenal | MSC | Applied | Grainger | WESCO | Sysco | McKesson | Cencora | ABM | APi | Cintas | Rollins | United Rentals | Hyatt | Hilton |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Procurement power | high | high | high | high | high | high | high | very high | very high | high | very high | very high | low to moderate | low to moderate | moderate | low | moderate | low to moderate | low to moderate |
-| Distribution / route efficiency | high | high | very high | very high | very high | high | high | high | very high | very high | very high | very high | high | moderate | very high | very high | high | moderate | high |
-| Inventory / working-capital discipline | very high | high | high | high | high | high | high | high | high | very high | very high | very high | moderate | moderate | high | moderate | high | moderate | moderate |
-| Service attachment | high | moderate to high | high | high | high | high | high | moderate | high | moderate to high | high | high | very high | very high | very high | high | very high | very high | very high |
-| Rental versus ownership economics | low | low | low | low | low | low | low | low | low | low | low | low | low | low | low | low | core | low | low |
-| Institutional demand dependence | moderate to high | high | high | high | high | high | high | high | very high | very high | very high | very high | very high | very high | high | moderate to high | high | high | high |
-| Technology as operating leverage | high | moderate | moderate to high | high | high | high | high | high | high | high | high | high | moderate to high | high | high | moderate | high | moderate to high | moderate to high |
-| Embedded business relationships | high | high | very high | very high | very high | high | high | very high | very high | high | very high | very high | high | very high | very high | high | high | very high | very high |
+| Theme | Builders FirstSource | Core & Main | Ferguson | Watsco | Fastenal | DNOW | MSC | Applied | Grainger | WESCO | Sysco | McKesson | Cencora | ABM | APi | Cintas | Rollins | United Rentals | Hyatt | Hilton |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Procurement power | high | high | high | high | high | high | high | high | very high | very high | high | very high | very high | low to moderate | low to moderate | moderate | low | moderate | low to moderate | low to moderate |
+| Distribution / route efficiency | high | high | very high | very high | very high | high | high | high | high | very high | very high | very high | very high | high | moderate | very high | very high | high | moderate | high |
+| Inventory / working-capital discipline | very high | high | high | high | high | very high | high | high | high | high | very high | very high | very high | moderate | moderate | high | moderate | high | moderate | moderate |
+| Service attachment | high | moderate to high | high | high | high | moderate to high | high | high | moderate | high | moderate to high | high | high | very high | very high | very high | high | very high | very high | very high |
+| Rental versus ownership economics | low | low | low | low | low | low | low | low | low | low | low | low | low | low | low | low | low | core | low | low |
+| Institutional demand dependence | moderate to high | high | high | high | high | high | high | high | high | very high | very high | very high | very high | very high | very high | high | moderate to high | high | high | high |
+| Technology as operating leverage | high | moderate | moderate to high | high | high | moderate to high | high | high | high | high | high | high | high | moderate to high | high | high | moderate | high | moderate to high | moderate to high |
+| Embedded business relationships | high | high | very high | very high | very high | high | high | high | very high | very high | high | very high | very high | high | very high | very high | high | high | very high | very high |
 
 ## Bigger-picture patterns
 
@@ -224,7 +231,7 @@ The current packets already support several broader conclusions that go beyond c
 
 ### Procurement is becoming a strategic operating layer
 
-`Builders FirstSource`, `Core & Main`, `Ferguson`, `Watsco`, `Fastenal`, `MSC`, `Applied`, `Grainger`, and `WESCO` are the clearest proofs, but the pattern is broader. Customers increasingly want fewer vendors, easier buying, better availability, prefabricated workflow help, and more predictable fulfillment. The middle layer monetizes that simplification.
+`Builders FirstSource`, `Core & Main`, `Ferguson`, `Watsco`, `Fastenal`, `DNOW`, `MSC`, `Applied`, `Grainger`, and `WESCO` are the clearest proofs, but the pattern is broader. Customers increasingly want fewer vendors, easier buying, better availability, prefabricated workflow help, and more predictable fulfillment. The middle layer monetizes that simplification.
 
 ### Replenishment businesses are indirect reads on social systems
 
@@ -248,7 +255,7 @@ The current packets already support several broader conclusions that go beyond c
 
 That makes the middle layer an early read on industrial and digital-capacity expansion.
 
-`Builders FirstSource`, `Core & Main`, `Ferguson`, `Watsco`, `Fastenal`, `MSC`, and `Applied` add a parallel but different construction and industrial read: not hyperscale digital infrastructure alone, but the practical economics of shelter, water, comfort, climate control, branch density, maintenance, procurement control, automation support, labor scarcity, affordability pressure, and repair-and-replacement demand. Together with `WESCO`, they show that the middle layer matters in housing, civic infrastructure, contractor channels, industrial uptime, climate systems, and the power/data-center system.
+`Builders FirstSource`, `Core & Main`, `Ferguson`, `Watsco`, `Fastenal`, `DNOW`, `MSC`, and `Applied` add a parallel but different construction and industrial read: not hyperscale digital infrastructure alone, but the practical economics of shelter, water, comfort, climate control, branch density, maintenance, procurement control, process infrastructure, automation support, labor scarcity, affordability pressure, and repair-and-replacement demand. Together with `WESCO`, they show that the middle layer matters in housing, civic infrastructure, contractor channels, industrial uptime, climate systems, process networks, and the power/data-center system.
 
 ### Capital-light behavior at the customer level creates capital-heavy opportunity in the middle
 
@@ -281,7 +288,6 @@ Major gaps still include:
 
 - a medical-equipment or medical-supply distributor beyond drug channels
 - a dedicated protection-services or security-services operator beyond `ABM`, `APi`, `Cintas`, and `Rollins`
-- a more energy-and-process-heavy distributor beyond the current contractor, HVAC, and broader infrastructure set
 - a third service-layer physical-interface operator beyond `Hyatt` and `Hilton`
 
 Those additions should help answer:
@@ -293,7 +299,7 @@ Those additions should help answer:
 
 ## Working conclusion
 
-The current nineteen-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
+The current twenty-company base makes the frontier broader than a minimum proof and more defensible across sub-lanes.
 
 The strongest current conclusion is:
 

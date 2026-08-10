@@ -13,6 +13,7 @@ The current healthcare-frontier flagship set is:
 - `West Pharmaceutical Services, Inc.`
 - `Option Care Health, Inc.`
 - `DexCom, Inc.`
+- `Insulet Corporation`
 
 This set is intended to cover:
 
@@ -186,6 +187,32 @@ Current raw status:
 
 - materially source-complete for packet drafting
 
+### Insulet Corporation
+
+Lane role:
+
+- automated insulin delivery
+- recurring consumables and device-linked chronic-care infrastructure
+- home-use diabetes management and reimbursement-backed access expansion
+
+Raw evidence currently saved:
+
+- AnnualReports company page HTML
+- SEC submissions JSON
+- `2025` `10-K`
+- `Q4 2025` `8-K`
+- `Q4 2025` press release exhibit
+- `Q1 2026` `10-Q`
+- `Q1 2026` `8-K`
+- `Q1 2026` press release exhibit
+- `Q2 2026` `10-Q`
+- `Q2 2026` `8-K`
+- `Q2 2026` press release exhibit
+
+Current raw status:
+
+- materially source-complete for packet drafting
+
 ## Interpretation targets for the packet-writing pass
 
 The packet and memo pass should explicitly pull out:
@@ -205,6 +232,7 @@ Completed file chains now exist for:
 - `West Pharmaceutical Services, Inc.`
 - `Option Care Health, Inc.`
 - `DexCom, Inc.`
+- `Insulet Corporation`
 
 Cross-company interpretation now exists in:
 
@@ -212,6 +240,6 @@ Cross-company interpretation now exists in:
 
 ## Immediate next actions
 
-1. Treat `Regeneron`, `Labcorp`, `Teva`, `West`, `Option Care`, and `DexCom` as completed for the current healthcare batch.
+1. Treat `Regeneron`, `Labcorp`, `Teva`, `West`, `Option Care`, `DexCom`, and `Insulet` as completed for the current healthcare batch.
 2. Decide whether to integrate shared indexes as one coherent healthcare batch or hand the batch back for separate integration.
-3. Use `DexCom` as the bridge to adjacent frontier names that lean more into monitoring, diagnostics, or recurring home-use medical platforms.
+3. Use `DexCom` and `Insulet` as the bridge to adjacent frontier names that lean more into monitoring, diagnostics, recurring home-use medical platforms, or trial infrastructure.

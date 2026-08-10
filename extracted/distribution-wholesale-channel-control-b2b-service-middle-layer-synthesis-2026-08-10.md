@@ -17,6 +17,7 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
   - [Applied Industrial Technologies, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/company-packet.md)
   - [W.W. Grainger, Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-equipment-components/ww-grainger-inc/company-packet.md)
   - [WESCO International Inc.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-equipment-components/wesco-international-inc/company-packet.md)
+  - [Pool Corp.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/wholesale-other/pool-corp/company-packet.md)
 - institutional supply and replenishment:
   - [Sysco Corporation](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/retail-grocery-stores/sysco-corp/company-packet.md)
   - [US Foods Holding Corp.](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/services/retail-grocery-stores/us-foods-holding-corp/company-packet.md)
@@ -49,13 +50,13 @@ This synthesis is based on the completed CLI 8 packets currently in the branch:
 
 The source window for each completed packet is the `2025` annual-report cycle plus the latest three reported quarters in scope as of `2026-08-10`.
 
-This synthesis now rests on a thirty-six-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
+This synthesis now rests on a thirty-seven-company completed base, which is enough to make the frontier broader than a minimum proof and strong enough to compare sub-lanes against each other rather than only defend the category.
 
 ## Executive read
 
 The current evidence already supports the main CLI 8 claim: the missing middle layer between production and end demand is a real economic frontier, not a leftover category.
 
-The current thirty-six completed names show thirty-six related but distinct middle-layer roles:
+The current thirty-seven completed names show thirty-seven related but distinct middle-layer roles:
 
 - `Builders FirstSource` controls professional-builder supply, prefabricated components, and housing-adjacent distribution infrastructure.
 - `Core & Main` controls waterworks, fire-protection, storm-drainage, and aging-infrastructure replacement flow through a branch-dense specialty channel.
@@ -67,6 +68,7 @@ The current thirty-six completed names show thirty-six related but distinct midd
 - `Applied` controls a more technical industrial-uptime layer built around motion, fluid power, automation, calibration, and engineered maintenance support.
 - `Grainger` controls business procurement and MRO purchasing workflows.
 - `WESCO` controls electrical, communications, utility, and data-center project flow through broad industrial distribution and logistics infrastructure.
+- `Pool` controls a branch-dense specialty distribution layer built around pool maintenance, backyard products, irrigation, landscape products, and recurring pro-customer replacement demand.
 - `Sysco` controls recurring foodservice replenishment and route-density economics.
 - `US Foods` controls a second large foodservice-distribution layer built around independent-restaurant growth, healthcare and hospitality kitchens, route density, private label, and digital ordering workflow.
 - `Henry Schein` controls recurring medical-and-dental supply distribution, practice procurement, and value-added services across office-based healthcare.
@@ -123,6 +125,7 @@ Each completed company is deeply tied to a recurring customer need:
 - `Applied`: keeping factories and industrial systems operating through technical MRO, fluid-power support, automation components, and engineered solutions
 - `Grainger`: keeping industrial and institutional sites supplied with MRO products and reducing procurement friction
 - `WESCO`: keeping electrical, communications, power, security, and data-center projects supplied and coordinated
+- `Pool`: keeping pool builders, service professionals, commercial pool operators, landscape contractors, and outdoor-living remodel activity supplied through local branch inventory and seasonal procurement planning
 - `Sysco`: keeping restaurants, hospitality venues, healthcare kitchens, and other away-from-home food channels stocked
 - `US Foods`: keeping independent restaurants, chains, healthcare kitchens, hospitality venues, government sites, and education meal systems stocked through scaled food procurement and local route execution
 - `Henry Schein`: keeping dental practices, physician offices, alternate-care sites, institutional clinics, and labs supplied with recurring medical-and-dental products, equipment, and workflow support
@@ -166,6 +169,7 @@ The packets now point to the same conclusion from different directions:
 - `Applied` benefits from combining stocked distribution with technical service and engineered-solutions depth, which makes it harder to replace with a thinner catalog competitor.
 - `Grainger` benefits from being the easiest high-trust procurement channel.
 - `WESCO` benefits from being a scaled infrastructure channel with procurement breadth, backlog visibility, and project execution fit.
+- `Pool` benefits from the installed base of existing pools, local branch availability, early-buy and seasonal inventory planning, and the ability to aggregate fragmented manufacturers into a reliable pro-customer channel.
 - `Sysco` benefits from route density, customer routines, sourcing leverage, and local service execution.
 - `US Foods` benefits from independent-restaurant focus, local case density, healthcare and hospitality exposure, private-label penetration, digital ordering workflow, and the ability to bundle procurement with operating support.
 - `Henry Schein` benefits from high-frequency practitioner relationships, distribution reliability, technology and specialty cross-sell, and embedded procurement workflow across fragmented office-based care.
@@ -207,6 +211,7 @@ This frontier is unusually sensitive to balance-sheet mechanics:
 - `DNOW` is highly exposed to merger integration, ERP cleanup, end-market timing across gas utilities and industrial process demand, and whether working-capital normalization turns into durable margin improvement.
 - `MSC` is highly exposed to metalworking, manufacturing cadence, national-account mix, and the tension between recurring procurement attachment and gross-margin pressure.
 - `Applied` is highly exposed to industrial caution, tariff noise, Service Center versus Engineered Solutions mix, and whether higher technical content sustains margin through slower capital cycles.
+- `Pool` is highly exposed to seasonal inventory timing, customer early buys, working-capital discipline, housing-sensitive remodel demand, weather, and the split between resilient maintenance demand and weaker new pool construction.
 - `Sysco` needs inventory management, routing, and working-capital discipline to protect margin.
 - `US Foods` is highly exposed to food inflation, LIFO effects, route density, chain-versus-independent mix, private-label penetration, inventory management, and the health of restaurant and hospitality traffic.
 - `Henry Schein` is highly exposed to provider procedure cadence, equipment spending, supplier mix, freight and inventory discipline, and its ability to widen margins beyond basic distribution through specialty products and value-added services.

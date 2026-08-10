@@ -25,13 +25,19 @@ This synthesis is based on the completed consumer-goods packets currently in the
   - [Philip Morris International](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/tobacco-products-other/philip-morris-international/company-packet.md)
 - Apparel and wellness identity:
   - [lululemon athletica inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-clothing/lululemon-athletica-inc/company-packet.md)
+  - [Deckers Outdoor Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-footwear-accessories/deckers-outdoor-corp/company-packet.md)
+  - [Crocs, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/company-packet.md)
+  - [Tapestry, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-clothing/tapestry-inc/company-packet.md)
   - [Levi Strauss & Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/apparel-stores/levi-strauss-co/company-packet.md)
+  - [Abercrombie & Fitch Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/apparel-stores/abercrombie-fitch-co/company-packet.md)
+  - [Victoria's Secret & Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/apparel-stores/victorias-secret-co/company-packet.md)
 - Home improvement and built environment:
   - [Lowe's Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
 - Off-price and bargain discovery:
   - [Burlington Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-packet.md)
 - Department-store portfolio repair:
   - [Macy's, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/department-stores/macys-inc/company-packet.md)
+  - [Nordstrom](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/department-stores/nordstrom/company-packet.md)
 - Beauty and discretionary personal products:
   - [Coty Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/coty-inc/company-packet.md)
   - [The Estee Lauder Companies Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md)
@@ -63,7 +69,11 @@ The completed consumer-goods set supports a clear sector conclusion: `Consumer G
 - premium spirits and alcohol-occasion systems
 - nicotine-habit and smoke-free-transition systems
 - premium athletic-apparel and wellness-identity systems
+- performance-running and comfort-lifestyle footwear systems
+- mass-scale comfort and casualization footwear systems
+- accessible-luxury and visible-status apparel systems
 - heritage-brand and direct-to-consumer apparel-control systems
+- intimates beauty and female-identity apparel systems
 - home-improvement and built-environment demand systems
 - off-price and bargain-discovery retail systems
 - department-store portfolio-repair systems
@@ -77,13 +87,14 @@ The strongest pattern is that consumer resilience is real, but it is increasingl
 
 ### 1. Consumer goods is fragmenting by category quality and value-chain position, not just by brand strength
 
-The nineteen-company set already breaks into distinct economic roles:
+The thirty-company set already breaks into distinct economic roles:
 
 - `Procter & Gamble` is a broad daily-use and brand-superiority platform.
 - `Kimberly-Clark` is a narrower hygiene and care-necessity platform.
 - `Colgate-Palmolive` is a routine-use oral-care and pet-nutrition platform.
 - `Church & Dwight` is a narrower routine-use household and personal-care platform with more active portfolio pruning, brand incubation, and eCommerce growth.
 - `Macy's` is a weaker-middle department-store and portfolio-repair platform where the real analytical interest sits in Bloomingdale's, Bluemercury, credit-card economics, media, marketplace, and go-forward store framing rather than in the legacy core banner alone.
+- `Nordstrom` is a terminal public-company department-store case where the final public annual and Q4 `2024` materials still show the Nordstrom versus Rack banner split, but the company drops out of the live `2026` public-quarter comparison set after the take-private close in `2025`.
 - `The Clorox Company` is a household-cleaning, disinfecting, and health-hygiene platform where margin repair, ERP modernization, and GOJO / Purell integration matter as much as basic staples demand.
 - `PepsiCo` is a broad food-and-beverage portfolio balancing affordability, convenience, and functional demand.
 - `The Campbell's Company` is a narrower pantry, meal-preparation, and at-home-cooking platform with a clearer split between stronger Meals & Beverages demand and weaker Snacks execution.
@@ -95,14 +106,19 @@ The nineteen-company set already breaks into distinct economic roles:
 - `Brown-Forman` is a premium spirits and alcohol-occasion platform built on ritual, identity, route-to-market control, and brand desire, but with much higher sensitivity to softer discretionary demand and weaker category consumption.
 - `Philip Morris International` is a nicotine-habit and smoke-free-transition platform built on repeated use, switching friction, regulation, and a large-scale migration from cigarettes toward heat-not-burn, nicotine pouches, and other smoke-free formats.
 - `lululemon` is a premium athletic-apparel and wellness-identity platform built on technical product trust, community affiliation, full-price brand discipline, and international expansion, but with visible North America softness and margin pressure.
+- `Deckers` is a performance-running and comfort-lifestyle footwear platform built on `HOKA`, `UGG`, premium full-price demand, wholesale plus DTC balance, and international growth, with the brand portfolio spanning both movement culture and comfort-fashion identity.
+- `Crocs` is a mass-scale comfort and casualization footwear platform built on the core `Crocs Brand`, majority-DTC economics, international reach, broad product familiarity, and a large cultural comfort signal that is stronger than the still-weaker `HEYDUDE` brand.
+- `Tapestry` is an accessible-luxury and visible-status platform built on `Coach`, `Kate Spade New York`, high-margin accessories demand, Gen Z recruitment, international growth, and explicit management emphasis on emotional connection and brand heat.
 - `Levi Strauss` is a heritage-brand and direct-to-consumer apparel-control platform built on brand recognition, DTC mix, international expansion, broader lifestyle-category reach, and better margin quality than a simple wholesale denim model would imply.
+- `Abercrombie` is a stronger mall-apparel winner built on brand relevance, better merchandising and omnichannel execution, and a two-brand mix where Hollister and Abercrombie can trade leadership across quarters without breaking the company-level growth story.
+- `Victoria's Secret` is an intimates, beauty, and female-identity apparel platform built on bra authority, `PINK`, beauty adjacency, brand projection, and emotional marketing, with Adore Me adding a digital and all-budgets acquisition layer.
 - `Lowe's` is a home-improvement and built-environment operator sitting between consumer project demand, housing pressure, home services, and pro-oriented distribution.
 - `Burlington` is an off-price and bargain-discovery retailer built on physical traffic, opportunistic buying, branded value perception, and repeat treasure-hunt behavior.
 - `Coty` is a more stressed beauty portfolio with clear execution and category weakness.
 - `Estee Lauder` is a recovering prestige-beauty platform.
 - `Graphic Packaging` is a packaging-and-foodservice infrastructure platform sitting behind multiple branded consumer channels.
 
-This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, routine beverage systems, premium alcohol occasion systems, nicotine-transition systems, premium athletic-apparel systems, heritage-brand apparel-control systems, beauty exposure, home-improvement demand, off-price bargain discovery, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, value-hunt-driven, trend-sensitive, culturally activated, ritualized, addiction-linked, identity-led, brand-control-led, or physically embedded in the delivery layer behind the shelf.
+This means “consumer goods” is already too blunt as a single label. Habitual household and personal-care categories, food-and-beverage portfolios, routine beverage systems, premium alcohol occasion systems, nicotine-transition systems, premium athletic-apparel systems, mass-scale comfort-and-casualization footwear systems, heritage-brand apparel-control systems, intimates-and-beauty identity systems, beauty exposure, home-improvement demand, off-price bargain discovery, and packaging infrastructure are behaving differently enough that the better question is which category system a company sits inside and whether that system is trust-led, routine-use, health-adjacent, project-driven, value-hunt-driven, trend-sensitive, culturally activated, ritualized, addiction-linked, identity-led, brand-control-led, fit-and-body-confidence-led, comfort-normalized, or physically embedded in the delivery layer behind the shelf.
 
 ### 1B. Consumer Goods also contains an off-price bargain-discovery layer
 
@@ -216,7 +232,12 @@ The current archive supports a more specific demand view than generic “consume
 - `Brown-Forman` adds the alcohol-occasion and premium-ritual side of beverage consumption, where social use, identity, gifting, and discretionary confidence matter more than daily refreshment.
 - `Philip Morris International` adds a more controversial and more behaviorally sticky consumer system where repeated nicotine use, regulation, product legitimacy, and migration into smoke-free formats matter more than ordinary beverage or household replenishment.
 - `lululemon` adds the wellness-and-performance identity side of the consumer map, where community, aspiration, technical product credibility, and premium full-price selling matter more than classic staple demand or simple mall traffic.
+- `Deckers` adds a hybrid movement-and-comfort lane, where `HOKA` channels running, training, and wellness identity while `UGG` channels softness, warmth, casualization, and comfort-led fashion, making it one of the better proofs that premium discretionary demand can span function and feeling at once.
+- `Crocs` adds the more mass-scaled and lower-friction comfort lane, where casual self-expression, ease, global familiarity, and DTC expansion matter more than premium performance positioning or explicit wellness-community formation.
+- `Tapestry` adds the accessible-luxury and visible-accessories side of the same map, where handbags, leathergoods, gifting, emotional connection, and symbolic status matter more directly than athletic utility or classic mall basics.
 - `Levi Strauss` adds the heritage-brand and broader-access apparel side of the same map, where DTC mix, international breadth, and category extension can widen the relationship even without the same premium-wellness positioning as lululemon.
+- `Abercrombie` adds the stronger mall-sensitive discretionary side of the same map, where cultural relevance and disciplined execution can still produce record sales, but the quarter chain also shows that leadership can rotate between brands and regions rather than staying evenly distributed.
+- `Victoria's Secret` adds a more female-identity and beauty-adjacent side of the same map, where fit, emotional storytelling, body-confidence framing, category authority, and cultural relevance matter more directly than denim heritage, athletic utility, or general mall assortment breadth.
 - `P&G` and `Kimberly-Clark` show how care, hygiene, safety, and daily-use trust remain strong anchors.
 - `Colgate` adds science, efficacy, and professional-adjacent trust through oral care plus the recurring pet-health layer.
 - `Church & Dwight` adds a different version of the same defense: narrower category breadth, but a stronger acquisition-and-digital-refresh engine inside repeat-use household and personal-care demand.
@@ -331,6 +352,7 @@ This remains a sector where mature cash engines matter. But the important nuance
 | Global routine beverage and brand-system platform | The Coca-Cola Company | repeat refreshment occasions, bottler execution, zero-sugar recruitment, revenue growth management, cultural activation, connected packaging, and first-party data capture |
 | Functional-energy and lifestyle beverage platform | Monster Beverage | repeat stimulation demand, innovation cadence, international expansion, brand intensity, Coca-Cola-supported distribution reach |
 | Premium spirits and alcohol-occasion platform | Brown-Forman | ritual and identity demand, premium spirits, route-to-market execution, gifting and social-occasion exposure, and softer developed-market category consumption |
+| Mass-scale comfort and casualization footwear platform | Crocs | majority-DTC economics, global comfort-led brand ubiquity, casual self-expression, product familiarity, and a visible split between strong Crocs-brand demand and weaker HEYDUDE repair |
 | Home-improvement and built-environment platform | Lowe's | housing pressure, Pro penetration, online growth, home services, loyalty, and distribution scale |
 | Off-price and bargain-discovery platform | Burlington | branded value hunt behavior, physical traffic, opportunistic buying, store-base expansion, and value-seeking consumer demand |
 | Stressed beauty portfolio | Coty | execution-sensitive beauty demand, weaker Consumer Beauty, strategic-review pressure, geopolitical sensitivity |
@@ -346,6 +368,7 @@ Across the completed consumer-goods set, the broader signals are:
 - value and premium can both work, while the generic middle is less reliable
 - affordable indulgence can still work when iconic brands and small-ticket habits stay intact, even if commodity inflation compresses earnings
 - bargain discovery and off-price branded value still behave like a real recurring consumer draw, not just a residual clearance channel
+- mainstream comfort and casualization still behave like a real recurring consumer draw, not just a one-cycle novelty or fringe taste
 - trusted routine-use categories still anchor demand
 - narrower routine-use portfolios can still work when portfolio shaping and eCommerce growth are strong
 - routine beverage systems still scale when brand trust, distribution reach, and pack-price execution stay aligned

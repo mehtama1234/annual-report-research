@@ -1,6 +1,6 @@
 # Alcoa Corporation Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -18,6 +18,7 @@ Date baseline: 2026-08-09
 ## Annual report takeaways
 
 - Alcoa adds the aluminum layer that the current Basic Materials starter set was still missing. This matters because aluminum sits between mining and fabrication: it links bauxite and alumina to smelting, casting, power, transport, packaging, construction, and industrial applications.
+- AnnualReports now has a saved local company-page artifact for this branch, and unlike several other names in the batch it already showed Alcoa's `2025 Annual Report` and `2025 Form 10-K` as of `Monday, August 10, 2026`. The authoritative annual chain still remains the official annual report PDF and SEC filing set.
 - The `2025` annual filing shows a vertically integrated upstream metals platform with direct and indirect ownership of `25` operating locations across `8` countries on `5` continents and approximately `14,900` employees in `16` countries as of year-end.
 - Alcoa is simpler than several other sector names. It reports through two businesses, `Alumina` and `Aluminum`, which makes it a clean operating read on price, volume, energy, and restart execution rather than a highly diversified materials story.
 - The annual base year was strong. Full-year `2025` revenue was `$12.8 billion`, net income attributable to Alcoa was `$1.2 billion`, adjusted EBITDA excluding special items was `$2.0 billion`, and cash from operations was `$1.2 billion`.
@@ -61,18 +62,20 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/aluminum/alcoa-corporation/2025-10k.html)
-- [2025-q4-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2025-q4-earnings-presentation.pdf)
-- [2025-q4-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2025-q4-earnings-transcript.pdf)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/aluminum/alcoa-corporation/2025-q4-8k.html)
-- [2025-q4-8k-complete.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/aluminum/alcoa-corporation/2025-q4-8k-complete.txt)
-- [2026-q1-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2026-q1-earnings-presentation.pdf)
-- [2026-q1-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2026-q1-earnings-transcript.pdf)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/aluminum/alcoa-corporation/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/aluminum/alcoa-corporation/2026-q1-10q.html)
-- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2026-q2-earnings-presentation.pdf)
-- [2026-q2-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2026-q2-earnings-transcript.pdf)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/aluminum/alcoa-corporation/2026-q2-8k.html)
-- [2026-q2-8k-complete.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/aluminum/alcoa-corporation/2026-q2-8k-complete.txt)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/aluminum/alcoa-corporation/2026-q2-10q.html)
+- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/annualreports/basic-materials/aluminum/alcoa-corporation/company-page-annualreports.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/aluminum/alcoa-corporation/2025-10k.html)
+- [2025-q4-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2025-q4-earnings-presentation.pdf)
+- [2025-q4-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2025-q4-earnings-transcript.pdf)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/aluminum/alcoa-corporation/2025-q4-8k.html)
+- [2025-q4-8k-complete.txt](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/aluminum/alcoa-corporation/2025-q4-8k-complete.txt)
+- [2026-q1-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2026-q1-earnings-presentation.pdf)
+- [2026-q1-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2026-q1-earnings-transcript.pdf)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/aluminum/alcoa-corporation/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/aluminum/alcoa-corporation/2026-q1-10q.html)
+- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2026-q2-earnings-presentation.pdf)
+- [2026-q2-earnings-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/aluminum/alcoa-corporation/2026-q2-earnings-transcript.pdf)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/aluminum/alcoa-corporation/2026-q2-8k.html)
+- [2026-q2-8k-complete.txt](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/aluminum/alcoa-corporation/2026-q2-8k-complete.txt)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/aluminum/alcoa-corporation/2026-q2-10q.html)
+- [submissions-cik0001675149.json](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/aluminum/alcoa-corporation/submissions-cik0001675149.json)

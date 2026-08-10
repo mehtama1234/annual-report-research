@@ -1,0 +1,37 @@
+# Synchrony Source Ledger
+
+Date baseline: 2026-08-10
+
+## Sources
+
+| ID | Source | Date | Type | Why it matters | Tag | Local path |
+|---|---|---|---|---|---|---|
+| SYF-T1 | AnnualReports.com Synchrony company page | 2026-08-10 collected | Aggregator HTML | Confirms `Financial / Credit Services` taxonomy and shows AnnualReports still lagged at `2024` | `[Reported]` | [company-page.html](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/annualreports/financial/credit-services/synchrony-financial/company-page.html) |
+| SYF-T2 | AnnualReports.com verification note | 2026-08-10 | Aggregator verification note | Records the observed taxonomy and lagged current-package status | `[Derived]` | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/annualreports/financial/credit-services/synchrony-financial/annualreports-verification.md) |
+| SYF-T3 | Synchrony IR verification note | 2026-08-10 | Official IR verification note | Records the authoritative official annual and quarter routes used for the packet | `[Derived]` | [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/company-ir/financial/credit-services/synchrony-financial/official-ir-verification.md) |
+| SYF-T4 | Synchrony financial results page | 2026-08-10 collected | Official IR page | Confirms the `2025` annual report and `Q4 2025` through `Q2 2026` quarter materials | `[Disclosed]` | [financial-results.html](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/company-ir/financial/credit-services/synchrony-financial/financial-results.html) |
+| SYF-T5 | Synchrony SEC filings page | 2026-08-10 collected | Official IR page | Confirms direct filing links and quarter attachment chain | `[Disclosed]` | [sec-filings.html](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/company-ir/financial/credit-services/synchrony-financial/sec-filings.html) |
+| SYF-T6 | Synchrony 2025 annual report PDF | 2026-02-06 filed / 2026-08-10 collected | Annual report PDF | Core annual strategy, partner model, funding mix, and financial narrative | `[Disclosed]` | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/company-ir/financial/credit-services/synchrony-financial/2025-annual-report.pdf) |
+| SYF-T7 | Synchrony 2025 Form 10-K | 2026-02-06 filed / 2026-08-10 collected | SEC filing HTML | Filed annual report for fiscal `2025` | `[Filed]` | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/sec/financial/credit-services/synchrony-financial/2025-10k.html) |
+| SYF-T8 | Synchrony Q4 2025 earnings release PDF | 2026-01-27 | Earnings release PDF | Late-`2025` quarter and full-year results with partner, volume, receivable, and credit commentary | `[Disclosed]` | [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/company-ir/financial/credit-services/synchrony-financial/2025-q4-earnings-release.pdf) |
+| SYF-T9 | Synchrony Q4 2025 earnings presentation PDF | 2026-01-27 | Earnings presentation PDF | Late-`2025` operating metrics and sales-platform view | `[Disclosed]` | [2025-q4-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/company-ir/financial/credit-services/synchrony-financial/2025-q4-presentation.pdf) |
+| SYF-T10 | Synchrony Q4 2025 earnings 8-K | 2026-01-27 filed / 2026-08-10 collected | SEC filing HTML | Filing wrapper for year-end earnings release | `[Filed]` | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/sec/financial/credit-services/synchrony-financial/2025-q4-8k.html) |
+| SYF-T11 | Synchrony Q1 2026 earnings release PDF | 2026-04-21 | Earnings release PDF | Prior quarter results and capital-return update | `[Disclosed]` | [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/company-ir/financial/credit-services/synchrony-financial/2026-q1-earnings-release.pdf) |
+| SYF-T12 | Synchrony Q1 2026 earnings presentation PDF | 2026-04-21 | Earnings presentation PDF | Prior quarter operating metrics and sales-platform detail | `[Disclosed]` | [2026-q1-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/company-ir/financial/credit-services/synchrony-financial/2026-q1-presentation.pdf) |
+| SYF-T13 | Synchrony Q1 2026 Form 10-Q | 2026-04-23 filed / 2026-08-10 collected | SEC filing HTML | Filed prior quarter report | `[Filed]` | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/sec/financial/credit-services/synchrony-financial/2026-q1-10q.html) |
+| SYF-T14 | Synchrony Q1 2026 earnings 8-K | 2026-04-21 filed / 2026-08-10 collected | SEC filing HTML | Filing wrapper for prior quarter release | `[Filed]` | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/sec/financial/credit-services/synchrony-financial/2026-q1-8k.html) |
+| SYF-T15 | Synchrony Q2 2026 earnings release PDF | 2026-07-21 | Earnings release PDF | Most recent quarter results and partner-demand commentary | `[Disclosed]` | [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/company-ir/financial/credit-services/synchrony-financial/2026-q2-earnings-release.pdf) |
+| SYF-T16 | Synchrony Q2 2026 earnings presentation PDF | 2026-07-21 | Earnings presentation PDF | Most recent quarter operating metrics and sales-platform detail | `[Disclosed]` | [2026-q2-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/company-ir/financial/credit-services/synchrony-financial/2026-q2-presentation.pdf) |
+| SYF-T17 | Synchrony Q2 2026 Form 10-Q | 2026-07-23 filed / 2026-08-10 collected | SEC filing HTML | Filed most recent quarter report | `[Filed]` | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/sec/financial/credit-services/synchrony-financial/2026-q2-10q.html) |
+| SYF-T18 | Synchrony Q2 2026 earnings 8-K | 2026-07-21 filed / 2026-08-10 collected | SEC filing HTML | Filing wrapper for most recent quarter release | `[Filed]` | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/sec/financial/credit-services/synchrony-financial/2026-q2-8k.html) |
+| SYF-T19 | Synchrony SEC submissions JSON | 2026-08-10 collected | SEC submissions metadata | Verifies legal name, ticker, CIK, fiscal year-end, and the in-scope annual and quarter filing chain | `[Filed]` | [submissions-cik0001601712.json](/home/manishmehta/ui-projects/annual-report-research-remaining-frontiers/raw/sec/financial/credit-services/synchrony-financial/submissions-cik0001601712.json) |
+
+## Reconciliation notes
+
+- Synchrony now has a full annual-plus-trailing-three-quarter package on disk across the saved AnnualReports company page, official IR annual and quarter PDFs, and the filed `10-K` plus `10-Q` and earnings `8-K` chain.
+- AnnualReports was useful for taxonomy verification but still lagged at `2024`, so the actual current-year evidence chain comes from official IR and SEC.
+- No standalone earnings-call transcript artifact was collected in this pass.
+
+## Missing evidence
+
+- A standalone earnings-call transcript artifact if Synchrony posts one publicly in a later archive pass.

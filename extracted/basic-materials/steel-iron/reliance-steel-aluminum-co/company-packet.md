@@ -1,6 +1,6 @@
 # Reliance, Inc. Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -18,6 +18,7 @@ Date baseline: 2026-08-09
 ## Annual report takeaways
 
 - Reliance adds a missing layer to the current Basic Materials starter set: downstream metals processing, service-center logistics, and quick-turn distribution. That matters because the sector is not only about mining, smelting, or steelmaking. It also includes the infrastructure that moves, cuts, processes, and supplies metal into end markets.
+- AnnualReports now has a saved local company-page artifact for this branch, and it confirms the `Basic Materials` / `Steel & Iron` taxonomy while still lagging at the `2024 Annual Report and Form 10-K` as of `2026-08-10`. The authoritative `2025` chain remains the official annual report, the IR quarter releases, and the SEC filing set.
 - The annual materials describe the largest metals service center company in North America, operating through about `310` locations in `41` U.S. states and `10` countries outside the U.S. The scale is operationally important because Reliance wins not just on commodity exposure, but on availability, mill relationships, processing capacity, and speed.
 - The `2025` operating model is unusually clear. Average order size was only `$3,120`, about `49%` of orders included value-added processing, and about `40%` of orders were delivered within `24` hours. This is not a pure “ship tons of steel” story. It is a fragmented, high-service industrial supply-chain model.
 - The annual base year was solid. `2025` net sales were `$14.3 billion`, up `3.3%`, while tons sold reached a record `6.4 million`, up `6.2%`. Reliance also said it held about `17%` of the U.S. metals service-center market in `2025`, up from about `15%` in `2024`.
@@ -62,16 +63,18 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2025-10k.html)
-- [2025-q4-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2025-q4-earnings-release.html)
-- [2025-q4-earnings-call.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2025-q4-earnings-call.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2025-q4-8k.html)
-- [2026-q1-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q1-earnings-release.html)
-- [2026-q1-earnings-call.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q1-earnings-call.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q1-10q.html)
-- [2026-q2-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q2-earnings-release.html)
-- [2026-q2-earnings-call.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q2-earnings-call.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q2-10q.html)
+- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/annualreports/basic-materials/steel-iron/reliance-steel-aluminum-co/company-page-annualreports.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2025-10k.html)
+- [2025-q4-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2025-q4-earnings-release.html)
+- [2025-q4-earnings-call.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2025-q4-earnings-call.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2025-q4-8k.html)
+- [2026-q1-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q1-earnings-release.html)
+- [2026-q1-earnings-call.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q1-earnings-call.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q1-10q.html)
+- [2026-q2-earnings-release.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q2-earnings-release.html)
+- [2026-q2-earnings-call.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q2-earnings-call.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/2026-q2-10q.html)
+- [submissions-cik0000861884.json](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/reliance-steel-aluminum-co/submissions-cik0000861884.json)

@@ -3,29 +3,18 @@
 Date: 2026-08-10
 Repo: `annual-report-research`
 
-Companion notes:
+## Purpose
 
-- `notes/blind-spot-notes-index-2026-08-10.md`
-- `notes/blind-spot-quickstart-2026-08-10.md`
-- `notes/blind-spot-status-audit-2026-08-10.md`
+This note is the clean handoff for the thread covering what the `AnnualReports` browse-by-industry tree does not classify well.
 
-## Why this note exists
+This is not the ordinary sector-packetization lane.
 
-This handoff is for the thread covering the structural blind spots in the `AnnualReports.com` browse-by-industry taxonomy.
-
-It is not the ordinary sector-packetization lane.
-
-Its job is to cover the systems that the source taxonomy does not classify cleanly enough for the archive's cross-company work.
-
-## Current operating reality
-
-The blind-spot lane now has an aligned control layer.
-
-Another thread should be able to start from the files below without reconstructing the lane boundary from scattered edits.
-
-The main operating rule is:
+## Core rule
 
 - this thread owns system-level blind spots in `AnnualReports`
+- this thread does not own ordinary uncovered sectors just because a browse-tree page is thin, stale, or awkward
+- the default next move is selective research extension inside already-owned lanes
+- governance cleanup should now be rare and triggered only by a real contradiction
 - this thread does not own ordinary uncovered sectors just because a browse-tree page is still thin
 
 The default next move is now selective research extension inside the owned lanes.
@@ -40,41 +29,31 @@ The shortest assignment screen is now:
 
 - `indexes/annualreports-noncovered-ownership-rule-2026-08-10.md`
 
-The fastest scope screen is now:
-
-- `indexes/annualreports-blind-spot-ownership-map-2026-08-10.md`
-
-The shortest direct blind-spot mandate is now:
-
-- `indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md`
-
-## Read order for the next worker
+## Read order
 
 1. `indexes/annualreports-noncovered-master-index-2026-08-10.md`
 2. `indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md`
 3. `indexes/annualreports-blind-spot-ownership-map-2026-08-10.md`
 4. `indexes/annualreports-noncovered-ownership-rule-2026-08-10.md`
-5. `indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md`
-6. `indexes/annualreports-noncovered-claim-test-2026-08-10.md`
-7. `indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md`
-8. `indexes/annualreports-noncovered-assignment-queue-2026-08-10.md`
-9. `indexes/blind-spot-thread-charter-2026-08-10.md`
-10. `indexes/blind-spot-coverage-map-2026-08-10.md`
-11. `indexes/blind-spot-systems-index-2026-08-10.md`
+5. `indexes/annualreports-noncovered-assignment-queue-2026-08-10.md`
+6. `indexes/blind-spot-systems-index-2026-08-10.md`
+7. `notes/blind-spot-status-audit-2026-08-10.md`
+8. `notes/blind-spot-next-actions-2026-08-10.md`
 
 Machine-readable companions:
 
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv`
+- `indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.csv`
 - `indexes/blind-spot-systems-index-2026-08-10.csv`
 
-## New default routing layer
+## Routing layer
 
-Before choosing a company or memo, another worker should now route the task through one of two top-level synthesis files:
+Route new work through one of two top-level synthesis files first:
 
 - `extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md`
 - `extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md`
 
-Use the consumer-behavior core when the candidate looks strongest as:
+Use the consumer-behavior core for:
 
 - comfort
 - value
@@ -83,82 +62,73 @@ Use the consumer-behavior core when the candidate looks strongest as:
 - identity
 - participation
 
-Use the infrastructure core when the candidate looks strongest as:
+Use the infrastructure core for:
 
 - control
 - access
 - workflow
 
-If the candidate does not fit either top-level routing layer cleanly, fall back to the lane maps and direct comparison indexes rather than defaulting to ordinary packet collection.
+## Default first-claim scope
 
-## What this lane now explicitly owns
-
-The current blind-spot scope is not just "odd companies."
-
-Its default first-claim ownership is now the four core infrastructure lanes:
+The four default infrastructure lanes are:
 
 - behind-the-shelf consumer infrastructure
 - control-layer and connectivity infrastructure
 - hidden connectivity and access-layer ownership
 - physical execution and embedded workflow systems
 
-Everything else remains valid blind-spot work, but it should usually be conditional rather than default first-claim work.
+Outer lanes remain valid, but usually conditional:
 
-That conditional outer set includes the systems that the source taxonomy flattens or scatters:
-
-- retail as a system rather than scattered `Services`, `Consumer Goods`, `Retail`, and `Technology` labels
-- marketplace, coordination, and ecosystem-control systems
-- recurring attention and cultural-distribution systems
-- DTC relationship ownership and channel dependence
-- loyalty, wallet, membership, and status systems
-- fandom, participation, franchise, and collectible systems
-- beauty, identity, fit, and self-presentation systems
-- value-hunt, bargain-discovery, and convenience behavior systems
-- routine-use trust and everyday-care systems
-- comfort, casualization, and practical-wellness systems
-- ritual, occasion, and stimulation systems
-- delivery-layer and demand-routing systems
-- modern built-environment and infrastructure chains
+- retail systems
+- marketplace and coordination systems
+- platform and recurring-attention systems
+- owned-demand and channel-control systems
+- loyalty, wallet, and membership systems
+- fandom, play, and participation systems
+- beauty, identity, and prestige systems
+- value-hunt systems
+- routine-use trust systems
+- comfort and practical-wellness systems
+- ritual and stimulation systems
 - relationship-thickness overlays
 
-## Important scope distinction now made explicit
+## Reusable infrastructure anchors
 
-The lane now clearly separates two related but different questions:
+- `Cloudflare` / `Akamai` / `Cisco` / `Arista Networks` / `Palo Alto Networks`
+- `Ciena` / `CommScope` / `Corning`
+- `American Tower` / `Crown Castle` / `SBA Communications`
+- `Cogent` / `Lumen Technologies`
+- `Iridium` / `Viasat`
+- `United Rentals` / `Fastenal` / `Ferguson`
+- `WESCO` / `Applied Industrial Technologies` / `Core & Main`
 
-### Platform and ecosystem boundary
+The behind-the-shelf lane now also has a usable subtype stack:
 
-Use:
+- `Graphic Packaging`
+- `Sonoco`
+- `AptarGroup`
+- `Silgan`
+- `Clearwater Paper`
+- `International Paper`
+- `Packaging Corporation of America`
+- `Waste Management`
+- `Republic Services`
+- `Clean Harbors`
+- `Casella Waste Systems`
+- `CECO Environmental`
+- `Veralto`
+- `Ecolab`
 
-- `indexes/platform-ecosystem-systems-index-2026-08-10.md`
-- `extracted/themes/apple-vs-netflix-vs-roblox-boundary-comparison-2026-08-10.md`
+The waste branch is now reusable as a four-way split:
 
-This is for broad platform structure:
+- national leader: `Waste Management`
+- national scale peer: `Republic Services`
+- hazardous specialist: `Clean Harbors`
+- regional-density concentration: `Casella Waste Systems`
 
-- commerce flywheel
-- trip network
-- local-demand system
-- device lock-in
-- creator participation
-- attention platform
+## Practical take test
 
-### Recurring-attention boundary
-
-Use:
-
-- `indexes/recurring-attention-systems-index-2026-08-10.md`
-- `extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md`
-
-This is for narrower attention-system structure:
-
-- paid access
-- mixed monetization
-- ad-funded ambient attention
-- attention plus infrastructure widening
-- franchise-linked membership ecosystems
-- lower-moat ad-dependent attention
-
-Do not collapse those two layers back into one generic "platform" bucket.
-
+Keep a company or memo in this lane only if at least one of these is true:
 ## What is already strong and reusable
 
 The blind-spot lane is no longer just a concept.
@@ -251,8 +221,9 @@ If the question is merely "this industry page is uncovered," another thread shou
 Keep a company or memo in this lane only when at least one of these is true:
 
 1. it materially strengthens a cross-sector system memo
-2. it is mainly useful because of relationship ownership, coordination, loyalty, recurring attention, recurring behavior, participation, or hidden infrastructure logic
+2. it is mainly useful because of relationship ownership, coordination, recurring attention, recurring behavior, or hidden infrastructure logic
 3. the formal `AnnualReports` label is materially weaker than the operating reality
+4. it sharpens a direct comparison that already has live anchors in the repo
 4. it improves a boundary comparison that already has real anchors in the repo
 
 ## Best next moves from this state
@@ -284,8 +255,8 @@ The strongest current examples are:
 
 The blind-spot lane is now operationally real in the repo.
 
-The important change from earlier states is not only that more memos exist.
+## Best next move
 
-It is that the governance layer, queue layer, decision-rule layer, machine-readable CSV layer, and reuse layer now say the same thing.
+Default to reuse and subtype sharpening inside already-owned lanes.
 
-Another worker should be able to continue this lane directly from the files above without guessing what the thread owns.
+Do not default to ordinary packet collection just because another industry page exists.

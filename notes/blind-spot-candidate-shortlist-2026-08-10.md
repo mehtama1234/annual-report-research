@@ -85,7 +85,7 @@ What the current packets already show:
 Best use:
 
 - strengthen the physical infrastructure lane behind packaged demand and post-use cleanup
-- reuse the current five direct comparison outputs before taking another name
+- reuse the current six direct comparison outputs before taking another name
 - sharpen the split between packaging conversion, packaging-format breadth, packaging interface, rigid-container concentration, substrate supply, corrugated-throughput scale, general waste networks, specialized hazardous intensity, regional-density waste concentration, and plant-embedded quality, environmental, or hygiene control
 
 ### 2. Hidden connectivity and access-layer infrastructure

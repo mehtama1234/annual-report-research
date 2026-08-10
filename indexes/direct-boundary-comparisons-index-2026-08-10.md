@@ -19,6 +19,7 @@ Use it with:
 - [Instacart Versus DoorDash Versus Uber Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/instacart-vs-doordash-vs-uber-boundary-comparison-2026-08-10.md)
 - [Graphic Packaging Versus Clearwater Versus WM Versus CECO Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/graphic-packaging-vs-clearwater-vs-wm-vs-ceco-boundary-comparison-2026-08-10.md)
 - [Waste Management Versus Clean Harbors Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/waste-management-vs-clean-harbors-boundary-comparison-2026-08-10.md)
+- [Waste Management Versus Republic Services Versus Clean Harbors Versus Casella Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/waste-management-vs-republic-vs-clean-harbors-vs-casella-boundary-comparison-2026-08-10.md)
 - [CECO Versus Veralto Versus Ecolab Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ceco-vs-veralto-vs-ecolab-boundary-comparison-2026-08-10.md)
 - [Sonoco Versus Aptar Versus Silgan Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/sonoco-vs-aptar-vs-silgan-boundary-comparison-2026-08-10.md)
 - [Clearwater Versus International Paper Versus PCA Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/clearwater-vs-international-paper-vs-pca-boundary-comparison-2026-08-10.md)
@@ -171,6 +172,7 @@ The goal is to make these comparison outputs sortable by:
 - separate retail-interface thickening from owned-demand thickening on one page
 - separate retailer-enablement, local-commerce coordination, and movement-wallet coordination on one page
 - separate packaging conversion, substrate supply, cleanup-network density, and plant-embedded environmental systems on one page
+- separate national route-density leadership, national scale-peer density, hazardous specialization, and regional-density waste concentration on one page
 - separate heavy plant-environment hardware, embedded quality-and-water workflows, and service-led hygiene-and-compliance embedment on one page
 - separate broad packaging-format control, packaging-interface control, and rigid-container or closure concentration on one page
 - separate focused SBS substrate supply, broader corrugated-throughput scale, and tighter North American corrugated peer density on one page

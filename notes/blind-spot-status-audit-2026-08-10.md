@@ -3,45 +3,35 @@
 Date: 2026-08-10
 Repo: `annual-report-research`
 
-Companion notes:
-
-- `notes/blind-spot-notes-index-2026-08-10.md`
-- `notes/blind-spot-quickstart-2026-08-10.md`
-- `notes/blind-spot-handoff-2026-08-10.md`
-- `notes/blind-spot-wrap-up-checklist-2026-08-10.md`
-
 ## Purpose
 
-This note separates two different questions that can otherwise get blurred:
+This note separates two questions:
 
-1. is the blind-spot lane operationally defined?
+1. is the blind-spot lane operationally usable?
 2. is the blind-spot lane fully researched?
 
-As of Monday, August 10, 2026, the answer is:
+Current answer:
 
-- governance and operating control are effectively complete for practical use, with only secondary-file polish still possible
-- research execution is only partially complete and remains open
+- operational control is effectively complete for practical use
+- research coverage is still incomplete by design
 
-## Governance status: effectively complete for practical use
+## What is proven complete for practical use
 
-The blind-spot lane now has a coherent control layer across:
+The blind-spot control layer is coherent across:
 
 - entrypoint and scope files
-- take-versus-leave decision rules
-- company claim roster
-- assignment queues
-- blind-spot lane maps
-- machine-readable CSV companions
-- reuse and boundary-comparison indexes
-- branch-agnostic handoff documentation
+- ownership and take-leave rules
+- company claim roster and assignment queue
+- markdown and CSV control files
+- reuse indexes and direct comparison indexes
+- handoff and startup notes
 
-Primary evidence files:
+Evidence:
 
 - `indexes/annualreports-noncovered-master-index-2026-08-10.md`
-- `indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md`
+- `indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md`
+- `indexes/annualreports-blind-spot-ownership-map-2026-08-10.md`
 - `indexes/annualreports-noncovered-ownership-rule-2026-08-10.md`
-- `indexes/annualreports-noncovered-claim-test-2026-08-10.md`
-- `indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md`
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.md`
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv`
 - `indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md`
@@ -51,7 +41,9 @@ Primary evidence files:
 - `indexes/blind-spot-systems-index-2026-08-10.md`
 - `indexes/blind-spot-systems-index-2026-08-10.csv`
 - `notes/blind-spot-handoff-2026-08-10.md`
+- `notes/blind-spot-next-actions-2026-08-10.md`
 
+## What is now true
 What is now true:
 
 - the lane now has a shortest assignment screen before the heavier claim-test and take-leave protocol files
@@ -137,18 +129,28 @@ Examples:
 
 The last three infrastructure lanes are now not just lane memos. They also have direct boundary-comparison outputs that make the distinctions reusable without reopening the longer system memos.
 
-The control-layer lane now also has an explicit bridge memo for the split between newer edge-native control and incumbent delivery-to-security transition through `Cloudflare` / `Akamai` / `Palo Alto Networks`.
+- the four core infrastructure lanes are the default first-claim work
+- thin or stale browse-tree quality is no longer treated as a claim reason
+- consumer-behavior and infrastructure routing cores are both live
+- control-layer, hidden-connectivity, physical-execution, and behind-the-shelf lanes all have reusable comparison structure
+- the behind-the-shelf lane now has six reusable direct comparison outputs
+- the waste branch now has a full four-way operating split
+- the normal next phase is selective research extension rather than more ownership-rule redesign
 
-The same lane now also has an explicit enterprise-side memo for the split between installed-base network control, architecture-specialist AI networking, and trust governance through `Cisco` / `Arista Networks` / `Palo Alto Networks`.
+## What remains open
 
-The same lane now also has an explicit optical-side memo for the split between upstream optical input, downstream connectivity equipment, and active transport through `Corning` / `CommScope` / `Ciena`.
+The research program is still incomplete.
 
+Open work is mostly:
 The physical-execution lane now also has an explicit second workflow memo for the split between broad infrastructure-channel coordination, engineering-heavy uptime support, and civic-failure-response distribution through `WESCO` / `Applied Industrial Technologies` / `Core & Main`.
 
 The main consumer-behavior lanes also now roll up into one reusable behavior-core memo rather than requiring a worker to reconstruct the pattern set comparison by comparison.
 
-Other lanes are still less mature by comparison and may still benefit from sharper extension or synthesis:
+- selective subtype extension
+- sharper direct comparisons where a real gap remains
+- synthesis expansion inside already-owned lanes
 
+It is not mostly:
 - loyalty, wallet, and membership systems
 - behind-the-shelf infrastructure synthesis reuse more than immediate subtype extension
 - additional modern built-environment subtype comparison
@@ -156,61 +158,18 @@ Other lanes are still less mature by comparison and may still benefit from sharp
 - additional workflow counterpoint work beyond the now-live `United Rentals` / `Fastenal` / `Ferguson` core and the live `WESCO` / `Applied Industrial Technologies` / `Core & Main` extension set
 - selected behavior-system extension where another name materially sharpens the split
 
-### 2. Governance is ahead of packet execution
+- ordinary sector completeness work
+- generic company backfill
+- new governance memos without a real contradiction
 
-The lane now knows what it owns more clearly than it has finished collecting or integrating every useful company for those owned systems.
+## Recommended next action
 
-This means future work should usually be:
-
-- memo extension
-- subtype sharpening
-- direct comparison work
-
-and only secondarily:
-
-- ordinary new packet collection
-
-### 3. Blind-spot ownership is solved better than blind-spot completeness
-
-The repo is now much better at preventing duplication with ordinary sector threads.
-
-It is not yet proven complete in the sense of having exhausted the highest-value blind-spot additions or synthesis opportunities.
-
-### 4. The strongest next work should be selective
-
-The lane should not react to this improved structure by collecting random uncovered names.
-
-It should use the governance files to choose only:
-
-- a name that materially sharpens an existing system split
-- a memo that widens a correction layer already in place
-- a subtype comparison that the current archive still cannot express cleanly enough
-
-It should not choose work merely because an `AnnualReports` industry page looks thin, stale, awkward, or incomplete.
-
-## Practical current state
-
-If another thread starts from this lane today, it should assume:
-
-- the operating boundary is trustworthy
-- the handoff note is current
-- the queue and claim rules are usable
-- the reuse indexes are usable
-- the new default routing layer is:
-  - consumer-behavior core first for consumer and cultural cases
-  - infrastructure core first for hidden-layer and infrastructure cases
-- the four default `take now` infrastructure lanes now have live comparison structure, with direct comparison memos already in place for control-layer, hidden connectivity, and physical execution, and a reusable multi-comparison set in place for behind-the-shelf infrastructure
-- the behind-the-shelf lane now has five reusable direct comparison outputs and no immediate required extension inside packaging, waste, or plant-embedded control unless a later name opens a genuinely different subtype
-- the framework layer is stable enough that the normal next phase is selective research expansion rather than more ownership-rule redesign
-- the research itself is still incomplete and should continue selectively
-
-## Recommended next step for another worker
-
-Start with:
+Another worker should start with:
 
 1. `notes/blind-spot-handoff-2026-08-10.md`
 2. `indexes/annualreports-noncovered-master-index-2026-08-10.md`
 3. `indexes/annualreports-noncovered-ownership-rule-2026-08-10.md`
+4. `notes/blind-spot-next-actions-2026-08-10.md`
 4. `indexes/annualreports-noncovered-assignment-queue-2026-08-10.md`
 5. `indexes/platform-ecosystem-systems-index-2026-08-10.md`
 6. `indexes/recurring-attention-systems-index-2026-08-10.md`
@@ -222,8 +181,10 @@ Then decide whether the next action is:
 - a reuse-side clarification, which should also now be rare
 - or real research expansion, which is the normal next phase
 
-## Bottom line
+Then choose between:
 
-The blind-spot lane is now operationally coherent and effectively framework-complete for practical use, but it is not substantively complete as a research program.
+- a real contradiction repair
+- a reuse-side clarification
+- or selective research expansion
 
-That is the correct reading of the current repo state.
+The third option is now the default.

@@ -1,6 +1,6 @@
 # Nucor Corporation Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -18,6 +18,7 @@ Date baseline: 2026-08-09
 ## Annual report takeaways
 
 - Nucor gives the Basic Materials archive the clearest domestic steel-system read so far. The annual materials show a business that is much broader than a commodity sheet mill. It spans steel mills, fabricated and downstream steel products, and raw materials, with a strong North American operating base.
+- AnnualReports now has a saved local company-page artifact for this branch, and it confirms the `Basic Materials` / `Steel & Iron` taxonomy while still lagging at the `2024 Annual Report and Form 10-K` as of `2026-08-10`. The authoritative `2025` chain remains the official annual report and SEC filing set.
 - The company’s operating setup matters. Nucor reports three segments, with steel mills the largest at `62%` of external sales in `2025`. It also recycled about `20 million` gross tons of scrap steel in `2025`, which reinforces the electric-arc-furnace and scrap-based production model at the center of its cost structure.
 - The annual evidence suggests that Nucor is trying to become less cyclical at the margin, not by escaping steel, but by moving further into value-added products, fabricated systems, contract business, and end markets with stronger structural demand such as data centers, power, construction, and infrastructure.
 - Capital intensity is a central theme. Cash used for capital expenditures increased to `$3.42 billion` in `2025`, and management still expects roughly `$2.50 billion` in `2026` capital expenditures. This is not a harvest story. It is a scale-and-invest story.
@@ -28,6 +29,7 @@ Date baseline: 2026-08-09
 ### Most recent quarter
 
 - Results: `Q2 2026` net earnings attributable to Nucor stockholders were `$1.16 billion`, adjusted net earnings were `$1.11 billion`, net sales were `$10.40 billion`, and EBITDA was `$2.02 billion`.
+- Filing status: the quarter is documented through the official results exhibit and wrapper `8-K`, but no separately filed `Q2 2026` `10-Q` was present in the local SEC chain as of `Monday, August 10, 2026`.
 - Segment read: earnings before income taxes and noncontrolling interests were `$1.556 billion` in steel mills, `$353 million` in steel products, and `$146 million` in raw materials.
 - Cash and capital return: Nucor ended the quarter with `$2.69 billion` of cash and short-term investments, returned about `$479 million` to stockholders in the quarter, and kept its revolver undrawn.
 - Management message: management emphasized a second consecutive quarterly record for steel mill shipments, supportive federal trade policy, and broad investment across key U.S. sectors.
@@ -61,12 +63,14 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/nucor-corporation/2025-10k.html)
-- [2025-q4-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2025-q4-results-exhibit-99-1.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/nucor-corporation/2025-q4-8k.html)
-- [2026-q1-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2026-q1-results-exhibit-99-1.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/nucor-corporation/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/nucor-corporation/2026-q1-10q.html)
-- [2026-q2-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2026-q2-results-exhibit-99-1.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/nucor-corporation/2026-q2-8k.html)
+- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/annualreports/basic-materials/steel-iron/nucor-corporation/company-page-annualreports.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/nucor-corporation/2025-10k.html)
+- [2025-q4-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2025-q4-results-exhibit-99-1.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/nucor-corporation/2025-q4-8k.html)
+- [2026-q1-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2026-q1-results-exhibit-99-1.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/nucor-corporation/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/nucor-corporation/2026-q1-10q.html)
+- [2026-q2-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2026-q2-results-exhibit-99-1.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/nucor-corporation/2026-q2-8k.html)
+- [submissions-cik0000073309.json](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/nucor-corporation/submissions-cik0000073309.json)

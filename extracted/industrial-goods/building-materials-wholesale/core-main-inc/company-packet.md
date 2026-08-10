@@ -82,6 +82,7 @@ Date baseline: 2026-08-10
 - Against `Mueller Industries`: Core & Main sits one step further downstream, where economics depend less on fabrication spread and more on category mix, procurement, and branch execution.
 - Against `Vulcan Materials`: Core & Main is a distributed channel business rather than a local scarce-asset business, so it helps separate public-works demand from quarry or freight-locality economics.
 - Against `WESCO International, Inc.`: Core & Main is the water-and-fire-protection analogue to WESCO's role in electrical, communications, utility, and broader industrial distribution.
+- Against `WESCO International, Inc.`: Core & Main is the water-and-fire-protection analogue to WESCO's role in electrical, communications, utility, and broader industrial distribution.
 
 ## Source pointers
 

@@ -6,19 +6,21 @@ Date baseline: 2026-08-10
 
 This is the single entrypoint for the thread covering what `AnnualReports` does not organize well.
 
-Use this file first when another worker needs to continue the blind-spot lane without reconstructing the archive structure.
+Use it first when another worker needs to continue the blind-spot lane without reconstructing the archive structure.
 
-For a branch-agnostic operating handoff, also use:
+## Core files
 
 - [AnnualReports Browse-Tree Blind-Spot Mandate](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
-- [Blind-Spot Notes Index](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-notes-index-2026-08-10.md)
-- [Blind-Spot Quickstart](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-quickstart-2026-08-10.md)
-- [Blind-Spot Lane Handoff](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-handoff-2026-08-10.md)
-- [Blind-Spot Lane Status Audit](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-status-audit-2026-08-10.md)
-- [Blind-Spot Take-Don't-Take Roster](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-take-dont-take-roster-2026-08-10.md)
 - [AnnualReports Blind-Spot Ownership Map](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-blind-spot-ownership-map-2026-08-10.md)
 - [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
+- [AnnualReports Noncovered No-Overlap Matrix](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
+- [AnnualReports Noncovered Assignment Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
+- [Blind-Spot Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-systems-index-2026-08-10.md)
+- [Blind-Spot Lane Handoff](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-handoff-2026-08-10.md)
+- [Blind-Spot Lane Status Audit](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-status-audit-2026-08-10.md)
+- [Blind-Spot Next Actions](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-next-actions-2026-08-10.md)
 
+CSV companions:
 ## Read order
 
 1. [AnnualReports Browse-Tree Blind-Spot Mandate](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
@@ -138,16 +140,18 @@ It should claim work only when the best explanation is one that the `AnnualRepor
 
 Thin, stale, awkward, sparse, or incomplete browse-tree page quality is not evidence by itself that a company belongs here.
 
-If other threads are already covering the normal browse tree, this thread should assume those names are off-limits unless the browse-tree label is materially weaker than the real operating system.
+- [annualreports-noncovered-assignment-queue-2026-08-10.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv)
+- [annualreports-noncovered-no-overlap-matrix-2026-08-10.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.csv)
+- [blind-spot-systems-index-2026-08-10.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-systems-index-2026-08-10.csv)
 
-## New default routing layer
+## Routing rule
 
-Before assigning a company or starting a synthesis task, route the work through one of two top-level cores:
+Before assigning a company or starting a synthesis task, route through one of these first:
 
 - [Consumer-Behavior Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
 - [Infrastructure Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
 
-Use the consumer-behavior core first when the strongest explanation is:
+Use the consumer-behavior core for:
 
 - comfort
 - value
@@ -156,12 +160,13 @@ Use the consumer-behavior core first when the strongest explanation is:
 - identity
 - participation
 
-Use the infrastructure core first when the strongest explanation is:
+Use the infrastructure core for:
 
 - control
 - access
 - workflow
 
+## Current live execution proofs
 If the candidate does not fit either routing layer cleanly, then fall back to the lane maps, claim roster, and direct comparison indexes.
 
 ## Current priority order
@@ -195,21 +200,28 @@ That conditional outer set includes:
 
 The main rule is now simple:
 
-- default `take now` belongs to the four core infrastructure lanes
-- broader consumer, platform, relationship, and built-environment work stays valid but should usually be conditional rather than default first-claim work
+High-confidence current outputs include:
 
-## Fast assignment test
+- [Direct Boundary Comparisons Index](/home/manishmehta/ui-projects/annual-report-research/indexes/direct-boundary-comparisons-index-2026-08-10.md)
+- [Platform Ecosystem Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/platform-ecosystem-systems-index-2026-08-10.md)
+- [Recurring Attention Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/recurring-attention-systems-index-2026-08-10.md)
+- [Behind-The-Shelf Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
+- [Control-Layer Connectivity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
+- [Hidden Connectivity Access Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-access-systems-index-2026-08-10.md)
+- [Physical Execution Embedded Workflow Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md)
 
-Keep a company in this thread only if at least one of these is true:
+## Current priority order
 
-1. it materially strengthens a cross-sector system memo
-2. it is mainly useful because of relationship ownership, coordination, loyalty, recurring attention, recurring behavior, or hidden infrastructure logic
-3. its formal `AnnualReports` label is materially weaker than its operating reality
+1. hidden-infrastructure reuse first, and subtype extension only if another name opens a genuinely different physical layer
+2. control-layer and connectivity extension only where another name sharpens a real control or optical subtype
+3. hidden-connectivity and access-layer extension only where another name sharpens tower rent, terrestrial route or backbone ownership, orbital access, or private-infrastructure ownership
+4. physical-execution and embedded-workflow extension only where another name sharpens a real workflow subtype
+5. everything outside those four infrastructure lanes is usually conditional rather than default first-claim work
 
-If none of those are true, leave it to the normal sector thread.
+## Main rule
 
-Do not override that test just because an industry page looks thin or underbuilt.
+This thread should not act like a residual bucket for random uncovered companies.
 
-## Best current use
+Thin, stale, awkward, sparse, or incomplete browse-tree page quality is not evidence by itself that a company belongs here.
 
-Start here, then move in order through the scope note, the claim roster, and the assignment queue before selecting a company or synthesis task.
+If the strongest explanation is still the formal `AnnualReports` industry page, the normal sector thread should usually own it.

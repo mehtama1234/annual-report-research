@@ -1,6 +1,6 @@
 # Nucor Corporation
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Identity
 
@@ -33,19 +33,18 @@ Date baseline: 2026-08-09
 
 | Year | Document | Source URL | Local path | Notes |
 |---|---|---|---|---|
-| 2025 | AnnualReports company page | https://www.annualreports.com/Company/nucor-corporation | not saved locally | Useful for taxonomy and for confirming that AnnualReports still lagged at the `2024` annual package on `2026-08-09`. |
-| 2025 | Nucor annual reports page | https://investors.nucor.com/financials/annual-reports/default.aspx | not saved locally | Confirms Nucor posts the `2025` annual report and `2025` 10-K on investor relations. |
-| 2025 | Nucor annual report PDF | https://s202.q4cdn.com/531038915/files/doc_financials/2026/ar/2025-Nucor-Annual-Report.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2025-annual-report.pdf) | Official annual report to stockholders for `2025`. |
-| 2025 | Nucor Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/73309/000119312526071575/nue-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/nucor-corporation/2025-10k.html) | Core annual filing for the year ended `2025-12-31`. |
-| 2025 | Nucor `Q4 2025` results exhibit | https://www.sec.gov/Archives/edgar/data/73309/000119312526022733/d20933dex991.htm | [2025-q4-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2025-q4-results-exhibit-99-1.html) | Official detailed results release for `Q4 2025`. |
+| 2025 | AnnualReports company page | https://www.annualreports.com/Company/nucor-corporation | [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/annualreports/basic-materials/steel-iron/nucor-corporation/company-page-annualreports.html) | Confirms `Basic Materials` / `Steel & Iron` taxonomy and shows AnnualReports still lagged at the `2024 Annual Report and Form 10-K` on `2026-08-10`. |
+| 2025 | Nucor annual report PDF | https://s202.q4cdn.com/531038915/files/doc_financials/2026/ar/2025-Nucor-Annual-Report.pdf | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2025-annual-report.pdf) | Official annual report to stockholders for `2025`. |
+| 2025 | Nucor Form 10-K HTML | https://www.sec.gov/Archives/edgar/data/73309/000119312526071575/nue-20251231.htm | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/nucor-corporation/2025-10k.html) | Core annual filing for the year ended `2025-12-31`. |
+| 2025 | Nucor `Q4 2025` results exhibit | https://www.sec.gov/Archives/edgar/data/73309/000119312526022733/d20933dex991.htm | [2025-q4-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2025-q4-results-exhibit-99-1.html) | Official detailed results release for `Q4 2025`. |
 
 ## Last three quarters
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| Q2 2026 | [2026-q2-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2026-q2-results-exhibit-99-1.html) | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/nucor-corporation/2026-q2-8k.html) | none saved locally | Nucor reported `Q2 2026` net earnings attributable to stockholders of `$1.16 billion`, adjusted earnings of `$1.11 billion`, net sales of `$10.40 billion`, and EBITDA of `$2.02 billion`. |
-| Q1 2026 | [2026-q1-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2026-q1-results-exhibit-99-1.html) | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/nucor-corporation/2026-q1-10q.html) | none saved locally | Nucor reported `Q1 2026` net earnings attributable to stockholders of `$743 million`, net sales of `$9.50 billion`, and EBITDA of `$1.51 billion`, with record steel mill shipments. |
-| Q4 2025 | [2025-q4-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2025-q4-results-exhibit-99-1.html) | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/steel-iron/nucor-corporation/2025-q4-8k.html) | none saved locally | Nucor reported `Q4 2025` net earnings attributable to stockholders of `$378 million`, adjusted earnings of `$400 million`, net sales of `$7.69 billion`, and EBITDA of `$918 million`. |
+| Q2 2026 | [2026-q2-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2026-q2-results-exhibit-99-1.html) | [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/nucor-corporation/2026-q2-8k.html) | none saved locally | Nucor reported `Q2 2026` net earnings attributable to stockholders of `$1.16 billion`, adjusted earnings of `$1.11 billion`, net sales of `$10.40 billion`, and EBITDA of `$2.02 billion`. No `Q2 2026` `10-Q` was yet filed locally as of `Monday, August 10, 2026`. |
+| Q1 2026 | [2026-q1-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2026-q1-results-exhibit-99-1.html) | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/nucor-corporation/2026-q1-10q.html) | none saved locally | Nucor reported `Q1 2026` net earnings attributable to stockholders of `$743 million`, net sales of `$9.50 billion`, and EBITDA of `$1.51 billion`, with record steel mill shipments. |
+| Q4 2025 | [2025-q4-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/steel-iron/nucor-corporation/2025-q4-results-exhibit-99-1.html) | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/steel-iron/nucor-corporation/2025-q4-8k.html) | none saved locally | Nucor reported `Q4 2025` net earnings attributable to stockholders of `$378 million`, adjusted earnings of `$400 million`, net sales of `$7.69 billion`, and EBITDA of `$918 million`. |
 
 ## What changed
 

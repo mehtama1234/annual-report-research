@@ -1,6 +1,6 @@
 # Freeport-McMoRan Inc. Company Packet
 
-Date baseline: 2026-08-09
+Date baseline: 2026-08-10
 
 ## Snapshot
 
@@ -18,6 +18,7 @@ Date baseline: 2026-08-09
 ## Annual report takeaways
 
 - Freeport gives the Basic Materials archive a clean copper-and-mining-infrastructure read. The annual materials show a company built around long-life copper assets, with gold and molybdenum as meaningful byproduct contributors to earnings quality and cost support.
+- AnnualReports now has a saved local company-page artifact for this branch, and it confirms the `Basic Materials` / `Copper` taxonomy while still lagging at the `2024 Annual Report and Form 10-K` as of `2026-08-10`. The authoritative `2025` chain remains the official annual report and SEC filing set.
 - The full-year `2025` package shows a business that remained strongly cash generative even through disruption: revenues of `$25.9 billion`, net income attributable to common stock of `$2.2 billion`, operating cash flow of `$5.6 billion`, and capital expenditures of `$4.5 billion`.
 - The biggest structural issue in the packet is Grasberg. The September `2025` mud-rush incident hurt `Q4 2025`, but the `2026` quarterlies show management treating the phased restart and ramp-up of Grasberg Block Cave as the central bridge back to stronger production and cash flow.
 - Freeport is especially useful for cross-sector work because it links directly into electrification, grid buildout, industrial investment, AI-adjacent power infrastructure, and broader hard-asset supply chain questions. Copper is the core product, but the bigger story is physical-system dependence.
@@ -61,13 +62,15 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/copper/freeport-mcmoran-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2025-10k.html)
-- [2025-q4-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/copper/freeport-mcmoran-inc/2025-q4-results-exhibit-99-1.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2025-q4-8k.html)
-- [2026-q1-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/copper/freeport-mcmoran-inc/2026-q1-results-exhibit-99-1.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2026-q1-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2026-q1-10q.html)
-- [2026-q2-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/basic-materials/copper/freeport-mcmoran-inc/2026-q2-results-exhibit-99-1.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2026-q2-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2026-q2-10q.html)
+- [company-page-annualreports.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/annualreports/basic-materials/copper/freeport-mcmoran-inc/company-page-annualreports.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/copper/freeport-mcmoran-inc/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2025-10k.html)
+- [2025-q4-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/copper/freeport-mcmoran-inc/2025-q4-results-exhibit-99-1.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2025-q4-8k.html)
+- [2026-q1-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/copper/freeport-mcmoran-inc/2026-q1-results-exhibit-99-1.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2026-q1-10q.html)
+- [2026-q2-results-exhibit-99-1.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/company-ir/basic-materials/copper/freeport-mcmoran-inc/2026-q2-results-exhibit-99-1.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/2026-q2-10q.html)
+- [submissions-cik0000831259.json](/home/manishmehta/ui-projects/annual-report-research-energy-buildout/raw/sec/basic-materials/copper/freeport-mcmoran-copper-gold-inc/submissions-cik0000831259.json)

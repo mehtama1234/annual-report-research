@@ -74,6 +74,8 @@ Examples:
 - `American Tower`
 - `Crown Castle`
 - `SBA Communications`
+- that does not explain tower rent, route-density access, broader fiber-backbone ownership, resilient orbital coverage, or scarce infrastructure ownership
+
 - `Cogent`
 - `Lumen Technologies`
 - `Iridium`

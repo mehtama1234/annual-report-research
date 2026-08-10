@@ -109,6 +109,7 @@ This batch should explicitly surface:
 - `Applied Industrial Technologies, Inc.` packet chain written
 - `MasTec, Inc.` packet chain written
 - `Knife River Corporation` packet chain written
+- `Martin Marietta Materials, Inc.` packet chain written
 - Vulcan is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, making it the cleanest heavy-materials anchor in the batch
 - Westlake is now completed with locally saved annual and quarter IR artifacts plus direct SEC `10-K`, `10-Q`, and `8-K` captures, giving the batch a conversion-materials and building-products bridge between chemicals, housing, and water infrastructure
 - Bunge is now the strongest completed packet in the batch because the annual report, latest three quarters, transcripts, presentations, company-hosted quarter filings, and direct SEC filing references were all collected or preserved locally
@@ -120,10 +121,11 @@ This batch should explicitly surface:
 - Applied now adds the MRO-heavy industrial-equipment-wholesale and technical-solutions layer with a materially source-complete `2025` annual / fiscal `Q3 2026` / fiscal `Q2 2026` / fiscal `Q1 2026` evidence stack and a strong read on labor-constrained maintenance demand, engineered-solutions mix shift, automation and datacenter physical-layer exposure, and consolidation-driven channel power
 - MasTec now adds the contractor and project-execution layer with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` evidence stack and a strong read on backlog as demand proxy, policy-sensitive infrastructure buildout, data-center and power execution demand, labor intensity, and fixed-price execution risk
 - Knife River now adds a second heavy-materials and vertically integrated civil-infrastructure comparison with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` SEC-anchored evidence stack and a strong read on public-funding-linked backlog quality, aggregate reserve depth, internal pull-through, acquisition-led density building, and seasonal contracting volatility
+- Martin Marietta now adds the megascale aggregates-and-scarcity anchor with a source-complete `2025` annual / `Q2 2026` / `Q1 2026` / `Q4 2025` SEC-anchored evidence stack and a strong read on portfolio optimization into an increasingly aggregates-led mix, infrastructure and data-center-linked demand quality, local reserve and freight moats, and acquisition-accounting noise versus underlying pricing strength
 
 Current batch split:
 
-- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`
+- completed: `Vulcan Materials Company`, `Westlake Corporation`, `Bunge Global SA`, `Mueller Industries, Inc.`, `Core & Main, Inc.`, `United Rentals, Inc.`, `WESCO International, Inc.`, `Applied Industrial Technologies, Inc.`, `MasTec, Inc.`, `Knife River Corporation`, `Martin Marietta Materials, Inc.`
 - partial: `CECO Environmental Corp.`
 
 ## CECO gap note
@@ -136,6 +138,6 @@ Current batch split:
 
 ## Next recommended names after this batch
 
-- `HD Supply Holdings, Inc.` only if the archive later needs a more maintenance-oriented channel comparison rather than another pure infrastructure distributor
-- `Comfort Systems USA, Inc.` if the repo later needs a sharper HVAC, electrical, and data-center mechanical-systems comparison against MasTec’s broader infrastructure-contractor profile
-- `Martin Marietta Materials, Inc.` only if the archive later needs a second megascale aggregates comparison beyond the current Vulcan and Knife River pair
+- `Granite Construction Incorporated` if the archive later needs a closer read on public-works execution and transportation-infrastructure conversion rather than materials ownership
+- `Summit Materials, Inc.` if the archive later needs another aggregates-heavy comparison with a different regional mix and downstream blend
+- `Valmont Industries, Inc.` if the archive later needs more physical-network exposure through poles, utility structures, irrigation, and protective coatings

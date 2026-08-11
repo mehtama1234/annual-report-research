@@ -10,6 +10,7 @@ historical_note_manifest="indexes/historical-note-exclusion-files-2026-08-11.txt
 required_files=(
   "$reusable_note_manifest"
   "$historical_note_manifest"
+  "scripts/audit-note-layer-boundary.sh"
   "notes/insight-extraction-hub-2026-08-11.md"
   "notes/master-insight-extraction-goal-2026-08-11.md"
   "notes/end-to-end-insight-master-instruction-2026-08-11.md"

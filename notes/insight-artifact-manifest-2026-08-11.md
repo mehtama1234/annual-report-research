@@ -179,6 +179,7 @@ Run these from the repo root:
 
 ```bash
 bash scripts/verify-insight-system.sh
+bash scripts/audit-note-layer-boundary.sh
 ```
 
 The verifier checks required files, required phrases, browser-entry links, and the deeper insight-stack sections that future packets, lane summaries, and proof memos are expected to contain. If the local server is not running, the file and link-source checks still prove the repo-side structure.
@@ -192,6 +193,12 @@ It also checks that:
 - reusable operating notes include both `Packet Inputs Used` and `Skeptical Reader Test`
 - the note-standardization cutoff remains documented as part of the insight system boundary
 - every current top-level note file is covered by exactly one of the reusable or historical manifests
+
+The dedicated note-layer audit script prints the current partition counts and fails if:
+
+- any top-level note file is outside both manifests
+- any manifest entry no longer points to a current top-level note file
+- the manifest union no longer matches the top-level note inventory
 
 Manual equivalent:
 
@@ -208,6 +215,7 @@ test -s notes/insight-note-standardization-cutoff-2026-08-11.md
 test -s notes/insight-driven-next-lane-queue-2026-08-11.md
 test -s indexes/reusable-note-layer-files-2026-08-11.txt
 test -s indexes/historical-note-exclusion-files-2026-08-11.txt
+test -s scripts/audit-note-layer-boundary.sh
 test -s analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md
 test -s analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md
 test -s analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md

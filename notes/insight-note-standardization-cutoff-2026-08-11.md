@@ -41,6 +41,10 @@ The cutoff is now backed by two machine-readable manifests whose union should co
 - reusable operating notes
 - historical handoff and log notes
 
+Direct audit script:
+
+- `bash scripts/audit-note-layer-boundary.sh`
+
 Current remaining count at the cutoff:
 
 - total remaining without both sections: `63`

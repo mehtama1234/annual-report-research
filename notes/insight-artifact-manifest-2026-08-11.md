@@ -42,6 +42,7 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Trust, proof, measurement, and security | [trust-proof-measurement-security-comparison-2026-08-11.md](../analysis/cross-sector/trust-proof-measurement-security-comparison-2026-08-11.md) | Applies the insight-driven queue's third priority by comparing standards, brokers, clearing, ad verification, cybersecurity, diagnostics, hygiene, water quality, and product-control layers. |
 | Relationship owner versus burden carrier | [relationship-owner-vs-burden-carrier-proof-2026-08-10.md](../analysis/cross-sector/relationship-owner-vs-burden-carrier-proof-2026-08-10.md) | Separates customer relationship control from asset, labor, debt, inventory, and regulatory burden. |
 | Commodity chains | [commodity-chain-proof-2026-08-10.md](../analysis/cross-sector/commodity-chain-proof-2026-08-10.md) | Reads copper, steel, nitrogen, chemicals, lumber, and packaging by chain. |
+| Commodity chain comparison | [commodity-chain-comparison-2026-08-11.md](../analysis/cross-sector/commodity-chain-comparison-2026-08-11.md) | Applies the insight-driven queue's fifth priority by comparing copper extraction, aluminum conversion, fertilizer plus agronomy, corrugated throughput, and packaging-interface control. |
 | Taxonomy blind spots | [taxonomy-blind-spots-proof-2026-08-10.md](../analysis/cross-sector/taxonomy-blind-spots-proof-2026-08-10.md) | Shows where AnnualReports taxonomy is useful but insufficient for interpretation. |
 
 ## Browser Review Paths

@@ -95,6 +95,7 @@ Use these as examples of the expected standard.
 | [trust-proof-measurement-security-comparison-2026-08-11.md](../analysis/cross-sector/trust-proof-measurement-security-comparison-2026-08-11.md) | How to compare standards, advisory intermediaries, market utilities, verification vendors, cybersecurity platforms, and physical proof layers. |
 | [relationship-owner-vs-burden-carrier-proof-2026-08-10.md](../analysis/cross-sector/relationship-owner-vs-burden-carrier-proof-2026-08-10.md) | How to separate clean relationship economics from asset, labor, debt, inventory, and regulatory burden. |
 | [commodity-chain-proof-2026-08-10.md](../analysis/cross-sector/commodity-chain-proof-2026-08-10.md) | How to read copper, steel, nitrogen, chemicals, lumber, and packaging by chain instead of sector label. |
+| [commodity-chain-comparison-2026-08-11.md](../analysis/cross-sector/commodity-chain-comparison-2026-08-11.md) | How to compare extraction, conversion, agronomy, corrugated throughput, and packaging-interface control inside one commodity chain lane. |
 | [taxonomy-blind-spots-proof-2026-08-10.md](../analysis/cross-sector/taxonomy-blind-spots-proof-2026-08-10.md) | How to use AnnualReports taxonomy without letting it hide the company's real role. |
 
 ## Workflow For A New Company

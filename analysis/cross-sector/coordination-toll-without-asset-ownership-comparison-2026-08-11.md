@@ -37,6 +37,19 @@ This memo asks:
 
 Which companies capture recurring economics by making a messy system easier to navigate without owning most of the underlying asset base?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make coordination-toll economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad claim that intermediaries are useful.
+
 ## Exact Evidence
 
 | Company | Coordination role | Exact packet facts | What the facts prove |
@@ -162,6 +175,17 @@ This coordination-toll thesis weakens if:
 - merchants, hotel owners, or insurers recapture more of the economics from the coordination layer
 - advisory or placement businesses lose trust or pricing power
 - platform relevance weakens because the workflow becomes easier to self-manage
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the coordination-toll system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, coordination-toll map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

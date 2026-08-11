@@ -36,6 +36,19 @@ This memo asks:
 
 Which companies get paid because customers would rather standardize the workflow than keep managing complexity alone?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make standardization and simplification as product visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that simplification matters.
+
 ## Exact Evidence
 
 | Company | Simplification role | Exact packet facts | What the facts prove |
@@ -167,6 +180,17 @@ This standardization-and-simplification thesis weakens if:
 - fragmented alternatives improve enough that the standardizer loses differentiation
 - the operator’s own complexity grows faster than the customer value it creates
 - margin quality weakens because standardization demand does not translate into pricing power or retention
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the standardization system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, standardization map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

@@ -44,6 +44,19 @@ This memo asks:
 
 Which companies get paid because the institution needs external help to modernize, staff, redesign, or scale a mission-critical function?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make institutional adaptation and capability outsourcing visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad claim that consulting can be useful.
+
 ## Exact Evidence
 
 | Company | Adaptation role | Exact packet facts | What the facts prove |
@@ -198,6 +211,17 @@ This institutional-adaptation thesis weakens if:
 - technology compresses service value instead of deepening workflow dependence
 - growth stays positive but margin quality weakens because the work becomes too labor-heavy
 - credential, modernization, or talent demand stays real but shifts to cheaper self-serve models
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the institutional-adaptation system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, adaptation map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

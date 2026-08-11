@@ -39,6 +39,19 @@ This matters because the most durable layer is often not the broadest network al
 
 It is the layer already sitting inside the work.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make embedded presence inside customer operations visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that recurring service is sticky.
+
 ## Exact Evidence
 
 | Company | Embedded presence type | Exact packet facts | What the facts prove |
@@ -195,6 +208,17 @@ This embedded-presence thesis weakens if:
 - labor, reimbursement, or route costs overwhelm the value of being inside the routine
 - technology makes the embedded presence less necessary rather than more central
 - operators lose trust because the embedded workflow becomes error-prone or too costly
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the embedded-presence system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, embedded-presence map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

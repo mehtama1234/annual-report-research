@@ -92,6 +92,20 @@ If the next packet proceeds with Brookdale, the repo should use:
 
 Proceed with `Brookdale Senior Living Inc.` as the next `the-graying-market` anchor, while preserving the exact quarter window implied by `2026-08-09`.
 
+## Insight-System Maintenance
+
+When you need to confirm that this aging-market anchor review, the force-map bridge, and the broader continuation surfaces still line up before using it as a live recommendation note, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this review make clear why Brookdale is a stronger direct aging-demand anchor than the other near-term candidates?

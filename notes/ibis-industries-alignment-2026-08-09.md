@@ -204,6 +204,20 @@ So the main issue is no longer structure. It is selective expansion.
 
 The highest-value move now is to use the existing `ibis-industries` force map as the shopping list for what company packets to add next, starting with consumer and then commodity-and-energy exposure.
 
+## Insight-System Maintenance
+
+When you need to confirm that this IBIS alignment note, the crosswalk layer, and the broader continuation surfaces still line up before relying on it as a bridge reference, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this note make clear what was actually checked in each repo before drawing an alignment conclusion?

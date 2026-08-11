@@ -61,6 +61,20 @@ Keep the force-map itself high-confidence and complete.
 
 Use future collection passes to improve depth around already mapped forces rather than to patch missing slugs.
 
+## Insight-System Maintenance
+
+When you need to confirm that this force-map gap review, the bridge-layer notes, and the broader continuation surfaces still line up before relying on this audit, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this note identify the exact two source sets being compared when it claims the force-map bridge is complete at the slug level?

@@ -99,6 +99,20 @@ This is now a single archive-quality tail item, not a broad evidence-chain gap. 
 
 This repo is no longer just a file dump. It is now a structured research archive with clean trackers, near-complete annual and quarterly coverage, and enough sector breadth to support deeper synthesis work. The next phase should focus less on basic collection and more on closing the final annual-report gap and improving transcript-backed interpretation where it matters most.
 
+## Insight-System Maintenance
+
+When you need to confirm that this repo-coverage audit, the tracker layer, and the broader continuation surfaces still line up before relying on its status claims, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this audit identify the exact tracker and coverage evidence behind its totals and status claims?

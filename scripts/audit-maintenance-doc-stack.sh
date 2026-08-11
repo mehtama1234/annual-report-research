@@ -104,6 +104,12 @@ expected = {
     Path("notes/downstream-physical-inputs-batch-2026-08-10.md"): full_audit_stack,
     Path("notes/energy-buildout-batch-2026-08-10.md"): full_audit_stack,
     Path("notes/post-merge-energy-buildout-2026-08-10.md"): full_audit_stack,
+    Path("notes/force-map-gap-review-2026-08-09.md"): full_audit_stack,
+    Path("notes/graying-market-anchor-review-2026-08-09.md"): full_audit_stack,
+    Path("notes/ibis-industries-alignment-2026-08-09.md"): full_audit_stack,
+    Path("notes/ibis-industries-crosswalk.md"): full_audit_stack,
+    Path("notes/repo-coverage-audit-2026-08-09.md"): full_audit_stack,
+    Path("notes/workspace-integration-review-2026-08-09.md"): full_audit_stack,
 }
 
 missing = []

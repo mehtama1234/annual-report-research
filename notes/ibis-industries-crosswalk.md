@@ -194,6 +194,20 @@ Do not use `ibis-industries` to answer:
 - Pull `the-health-reckoning` when sharpening the consumer-goods and healthcare crossover around diet, chronic care, and payer pressure.
 - Pull `money-gets-unbundled` and `the-compliance-tax` when broadening Financial beyond the current company set.
 
+## Insight-System Maintenance
+
+When you need to confirm that this IBIS crosswalk, the bridge-layer notes, and the broader continuation surfaces still line up before using it for cross-repo reuse, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this crosswalk clearly separate what `ibis-industries` is good for from what must still be verified in `annual-report-research`?

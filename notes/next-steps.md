@@ -83,6 +83,12 @@ Also decide which kind of claim the company should strengthen:
 - capital or balance-sheet
 - cross-company comparison
 
+Also decide before the packet is treated as directionally useful:
+
+- the best alternative explanation still in play
+- the next-filing disconfirming test
+- the exact fact-period chain that would make the company useful in a lane comparison
+
 ## Raw folder convention
 
 ```text

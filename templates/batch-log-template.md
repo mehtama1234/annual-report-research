@@ -5,6 +5,15 @@ Date baseline: 2026-08-10
 Use this file during an active lane batch.
 This is the lightweight running log between kickoff and the final batch handoff.
 
+Even as a lightweight log, it should still preserve the current working proof chain:
+
+- exact fact or metric carrying the read
+- exact annual or quarterly period
+- plain-English meaning
+- causal reason the fact supports the read
+- best alternative explanation still in play
+- next-filing disconfirming test
+
 ## Snapshot
 
 - Date:
@@ -21,6 +30,14 @@ This is the lightweight running log between kickoff and the final batch handoff.
 - flagship company 3:
 - flagship company 4:
 
+## Working lane claim
+
+- current plain-English claim:
+- current claim type:
+- exact fact-period chain supporting it:
+- best alternative explanation still in play:
+- next-filing disconfirming test:
+
 ## Progress log
 
 ### Company 1
@@ -29,6 +46,8 @@ This is the lightweight running log between kickoff and the final batch handoff.
 - packet status:
 - latest change:
 - open gap:
+- best current fact-period signal:
+- best current disconfirming metric:
 
 ### Company 2
 
@@ -36,6 +55,8 @@ This is the lightweight running log between kickoff and the final batch handoff.
 - packet status:
 - latest change:
 - open gap:
+- best current fact-period signal:
+- best current disconfirming metric:
 
 ### Company 3
 
@@ -43,6 +64,8 @@ This is the lightweight running log between kickoff and the final batch handoff.
 - packet status:
 - latest change:
 - open gap:
+- best current fact-period signal:
+- best current disconfirming metric:
 
 ### Company 4
 
@@ -50,6 +73,8 @@ This is the lightweight running log between kickoff and the final batch handoff.
 - packet status:
 - latest change:
 - open gap:
+- best current fact-period signal:
+- best current disconfirming metric:
 
 ## Lane-level progress
 
@@ -57,6 +82,8 @@ This is the lightweight running log between kickoff and the final batch handoff.
 - strongest themes so far:
 - biggest missing evidence:
 - biggest unresolved question:
+- best alternative explanation still in play:
+- current disconfirming next-filing test:
 
 ## Integration posture
 

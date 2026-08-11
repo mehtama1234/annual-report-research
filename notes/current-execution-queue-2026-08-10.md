@@ -47,6 +47,12 @@ Also decide what kind of claim the lane is meant to sharpen:
 
 If the next batch cannot say which packet fields it needs and which claim type it is trying to improve, it is probably still too vague to rank highly.
 
+It should also be able to name:
+
+- the best alternative explanation still in play
+- the disconfirming next-filing test
+- the exact fact-period chain that would count as a successful batch outcome
+
 ## Priority logic
 
 Priority is based on:

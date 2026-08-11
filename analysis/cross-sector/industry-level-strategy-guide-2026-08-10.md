@@ -41,6 +41,15 @@ Before writing the lane interpretation, name which packet inputs are supporting 
 
 If the lane guide only names companies and themes, it is skipping the analytical chain that makes the lane auditable.
 
+Every serious lane conclusion should also be reducible to one proof chain:
+
+- exact company facts carrying the lane claim
+- exact annual or quarterly periods those facts come from
+- plain-English lane conclusion
+- causal reason those facts support the pattern
+- best alternative explanation still in play
+- next-filing disconfirming test
+
 ## Skeptical Reader Test
 
 Before treating a lane explanation as finished, make sure a skeptical reader can answer:
@@ -52,6 +61,10 @@ Before treating a lane explanation as finished, make sure a skeptical reader can
 
 If the lane writeup cannot answer those four directly, it is still too generic.
 
+The lane page should also let a skeptical reader restate the argument in one sentence:
+
+`these exact company facts, from these exact periods, support this lane conclusion for this reason, unless this next evidence weakens it`
+
 ## Packet Inputs Used For Lane Insight
 
 Each lane page should explicitly state which packet sections are doing the analytical work:
@@ -60,6 +73,17 @@ Each lane page should explicitly state which packet sections are doing the analy
 - which companies supplied the margin or burden facts
 - which companies clarified who owns the relationship or workflow
 - which companies supplied the best watch metrics and thesis breakers
+
+## Lane Claim-To-Proof Worksheet
+
+- main lane claim:
+- claim type:
+- exact companies carrying the claim:
+- exact facts carrying the claim:
+- exact periods:
+- causal chain from company facts to lane conclusion:
+- best alternative explanation still in play:
+- best next-filing disconfirming test:
 
 ## Beauty And Personal Care
 

@@ -57,6 +57,15 @@ The company-level note should also say which packet sections are doing the work.
 
 If the strategy note cannot point back to those packet sections, it is probably repeating a conclusion without showing how the packet proved it.
 
+Every serious company-level conclusion should also be reducible to one proof chain:
+
+- exact metric, operating fact, or management statement
+- exact annual or quarterly period
+- plain-English conclusion
+- causal reason the fact supports that conclusion
+- best alternative explanation still in play
+- next-filing disconfirming test
+
 ## Reusable Company Template
 
 Use this structure when turning a packet into a company-level strategy note:
@@ -107,6 +116,16 @@ Ask:
 - What fact would make the interpretation wrong?
 - Which metric should be watched in the next filing?
 
+### 7. What Is The Exact Proof Chain?
+
+Ask:
+
+- Which exact fact is carrying the conclusion?
+- What exact period did that fact come from?
+- Why does that fact support the company read instead of merely appearing nearby?
+- What is the strongest competing explanation?
+- What next metric would make the current read weaker?
+
 ## Skeptical Reader Test
 
 Before treating the company-level note as finished, make sure a skeptical reader can answer:
@@ -117,6 +136,10 @@ Before treating the company-level note as finished, make sure a skeptical reader
 4. `What would change the conclusion?`
 
 If the note fails any one of those, it is still too loose.
+
+The note should also let a skeptical reader restate the full chain in one sentence:
+
+`this exact fact, from this exact period, supports this company conclusion for this reason, unless the next filing shows this weakening signal instead`
 
 ## Concrete Company-Level Examples
 

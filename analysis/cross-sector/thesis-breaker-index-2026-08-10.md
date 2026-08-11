@@ -39,6 +39,14 @@ Before treating a thesis breaker as useful, make sure a skeptical reader can ans
 
 If the breaker cannot answer those four clearly, it still needs work.
 
+A good thesis breaker should still preserve the same full chain:
+
+- current supporting fact
+- exact period of that supporting fact
+- future weakening fact to watch
+- why that weakening would matter economically
+- best company or metric where the break should show up first
+
 ## AI Physical Capacity
 
 Current thesis:

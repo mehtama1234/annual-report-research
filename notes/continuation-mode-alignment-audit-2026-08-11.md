@@ -80,7 +80,7 @@ During the alignment pass, the repo repeatedly passed:
 
 This note does not replace rerunning those checks after later edits.
 
-It records that the continuation-mode wording pass was integrated without breaking the browser review layer or the broader insight-system verifier at the time of writing.
+It records that the continuation-mode wording pass was integrated without breaking the linked audit stack or the broader insight-system verifier at the time of writing.
 
 The current dedicated continuation-link audit also checks the two top-level entry surfaces directly:
 

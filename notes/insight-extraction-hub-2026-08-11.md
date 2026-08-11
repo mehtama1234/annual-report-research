@@ -155,6 +155,20 @@ Use the strongest available evidence.
 
 Items 6 and 7 are not evidence. They are pointers to where evidence might be found.
 
+## Verify The Insight System
+
+Run this from the repo root before handing the system to another thread:
+
+```bash
+bash scripts/verify-insight-system.sh
+```
+
+Expected output:
+
+```text
+insight-system-ok
+```
+
 ## Minimum Insight Shape
 
 Every serious insight should be writable as:

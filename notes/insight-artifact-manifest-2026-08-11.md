@@ -59,9 +59,19 @@ Primary review pages:
 Run these from the repo root:
 
 ```bash
+bash scripts/verify-insight-system.sh
+```
+
+The verifier checks required files, required phrases, and browser-entry links. If the local server is not running, the file and link-source checks still prove the repo-side structure.
+
+Manual equivalent:
+
+```bash
 test -s notes/insight-extraction-hub-2026-08-11.md
 test -s notes/master-insight-extraction-goal-2026-08-11.md
 test -s notes/insight-extraction-templates-2026-08-11.md
+test -s notes/insight-artifact-manifest-2026-08-11.md
+test -s notes/insight-driven-next-lane-queue-2026-08-11.md
 test -s analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md
 test -s analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md
 test -s analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md

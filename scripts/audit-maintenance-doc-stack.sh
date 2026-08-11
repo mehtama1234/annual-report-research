@@ -91,6 +91,10 @@ expected = {
     Path("notes/blind-spot-status-audit-2026-08-10.md"): full_audit_stack,
     Path("notes/blind-spot-take-dont-take-roster-2026-08-10.md"): full_audit_stack,
     Path("notes/blind-spot-wrap-up-checklist-2026-08-10.md"): full_audit_stack,
+    Path("notes/end-to-end-operating-goal-2026-08-10.md"): full_audit_stack,
+    Path("notes/end-to-end-pursuit-goal-2026-08-10.md"): full_audit_stack,
+    Path("notes/expanded-goal-plan-2026-08-10.md"): full_audit_stack,
+    Path("notes/meaty-end-to-end-insight-goal-2026-08-11.md"): full_audit_stack,
 }
 
 missing = []

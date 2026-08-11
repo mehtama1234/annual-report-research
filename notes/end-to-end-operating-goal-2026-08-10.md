@@ -689,6 +689,20 @@ The next move is to choose the strongest uncovered adjacent lane yourself and ke
 
 If you ever lack industries, lack clear targets, or inherit an incomplete lane list, pick the next strong area on your own and continue to the same standard.
 
+## Insight-System Maintenance
+
+When you need to confirm that this operating goal, the continuation stack, and the browser review surfaces still line up before relying on this note as a live ambition standard, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this operating goal say exactly what evidence window and source hierarchy the work must use?

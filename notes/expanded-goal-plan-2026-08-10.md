@@ -160,6 +160,20 @@ Reason:
 - it is the most clearly defined unmet scope in the current conversation
 - it establishes the packet-plus-theme standard that the later energy and mobility expansions can reuse
 
+## Insight-System Maintenance
+
+When you need to confirm that this expanded goal plan, the continuation stack, and the broader note layer still line up before reusing it as an operator reference, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this plan make clear that the branch is supposed to produce evidence collection, company packets, and pattern-finding together?

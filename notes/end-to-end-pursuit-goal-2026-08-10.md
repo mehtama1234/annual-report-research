@@ -628,6 +628,20 @@ The work is on track when another operator can open the repo and quickly answer:
 - what operating or social changes multiple management teams are reacting to
 - what exact names should be researched next
 
+## Insight-System Maintenance
+
+When you need to confirm that this pursuit goal, the continuation stack, and the browser review surfaces still line up before relying on this note as a live end-to-end standard, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this pursuit goal make clear that documentary coverage and pattern extraction are inseparable?

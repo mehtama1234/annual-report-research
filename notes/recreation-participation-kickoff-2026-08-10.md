@@ -3,6 +3,14 @@
 Date baseline: 2026-08-10
 Repo: `annual-report-research-new-lanes`
 
+## Packet Inputs Used
+
+- the lane definition for lifestyle, gifting, occasion, experiential, and identity-linked spending across home, jewelry, specialty retail, food wholesale, and hospitality
+- the repo evidence window of `2025` annual reports plus the latest three reported quarters as of `2026-08-10`
+- the requirement that the lane should compare routine demand versus high-emotion, high-participation, and occasion-driven demand systems
+- the broader insight standard that consumer behavior, cultural normalization, participation economics, and franchise or occasion monetization should be pulled out explicitly when supported
+- the handoff expectation that the first batch should leave a coherent lane summary, repeated demand patterns, and exact next names for extension
+
 ## Lane
 
 `Recreation, Lifestyle, and Participation Demand`
@@ -82,3 +90,10 @@ Use `2025` annual reports plus the latest three reported quarters as of `2026-08
 - explicit cross-company themes
 - next recommended names
 - end-of-run handoff using the batch-handoff template
+
+## Skeptical Reader Test
+
+- Does this kickoff brief make clear what kinds of consumer and cultural patterns the first batch is supposed to reveal?
+- Can a skeptical reader see why these industries belong together as participation and occasion systems rather than as generic discretionary coverage?
+- Does the brief force the worker to separate routine consumption from identity, gifting, membership, travel, or experience-led demand?
+- What would show that the batch still has company packets but no real explanation of how participation demand gets monetized?

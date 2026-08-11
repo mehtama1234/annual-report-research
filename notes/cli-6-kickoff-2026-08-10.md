@@ -3,6 +3,14 @@
 Date baseline: 2026-08-10
 Repo: `annual-report-research-new-lanes`
 
+## Packet Inputs Used
+
+- the lane definition for banks, insurers, brokers, mortgage REITs, property REITs, and conglomerates as balance-sheet and capital-allocation systems
+- the repo evidence window of `2025` annual reports plus the latest three reported quarters as of `2026-08-10`
+- the requirement that a first batch should compare funding, underwriting, advisory distribution, property cash flow, and allocation logic rather than treating each subsector in isolation
+- the broader insight standard that spread sensitivity, trust intermediation, leverage, real-estate burden, and capital allocation are central analytical outputs
+- the handoff expectation that the lane should leave a coherent comparison set, strong repeated signals, and exact next names for extension
+
 ## Lane
 
 `CLI 6: Capital Structures, Property, and Conglomerates`
@@ -88,3 +96,10 @@ Use `2025` annual reports plus the latest three reported quarters as of `2026-08
 - explicit cross-company themes
 - next recommended names
 - end-of-run handoff using the batch-handoff template
+
+## Skeptical Reader Test
+
+- Does this kickoff brief make clear how the first batch should compare funding models, asset burden, and allocation choices instead of becoming generic financial-sector coverage?
+- Can a skeptical reader see what bigger economic questions this lane is supposed to answer about trust, spreads, property, and capital discipline?
+- Does the brief force the worker to connect company facts to cross-company balance-sheet logic?
+- What would show that the work has collected financial packets without clarifying who earns cleaner economics and who absorbs the heavier burden stack?

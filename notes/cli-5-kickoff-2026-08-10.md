@@ -3,6 +3,14 @@
 Date baseline: 2026-08-10
 Repo: `annual-report-research-new-lanes`
 
+## Packet Inputs Used
+
+- the lane definition for connectivity, telecom, systems control, storage, observability, security, and semiconductor-enablement infrastructure
+- the repo evidence window of `2025` annual reports plus the latest three reported quarters as of `2026-08-10`
+- the requirement that the lane should connect network ownership, traffic flow, enterprise control layers, storage, testing, and fab-enablement into one visible stack
+- the broader insight standard that industrial strain, technical dependency, reliability requirements, AI follow-on demand, and hidden physical infrastructure are first-class outputs
+- the handoff expectation that a coherent first batch should leave packet coverage, lane synthesis, and exact next names to deepen the stack
+
 ## Lane
 
 `CLI 5: Connectivity, Telecom, and Technical Infrastructure`
@@ -105,3 +113,10 @@ If the lane keeps opening cleanly, extend beyond the first `3` to `4` toward a b
 - end-of-run handoff using the batch-handoff template
 - company packets that include both filing coverage and thematic interpretation
 - lane-level conclusions on consumer trends, cultural and societal shifts, industrial and operating pressures, and the strongest repeated cross-company signals
+
+## Skeptical Reader Test
+
+- Does this kickoff brief make the stack logic clear enough that the worker will not collapse the lane into only software names or only chip-equipment names?
+- Can a skeptical reader see how the first batch should reveal hidden infrastructure, workflow control, reliability burden, or AI-related physical follow-on demand?
+- Does the brief require the worker to move from company packets to stack-level explanation and repeated patterns?
+- What would show that the lane still has filings collected but no real explanation of who owns the relationship and who carries the infrastructure burden?

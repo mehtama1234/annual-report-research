@@ -3,6 +3,14 @@
 Date baseline: 2026-08-10
 Repo: `annual-report-research-new-lanes`
 
+## Packet Inputs Used
+
+- the lane definition for healthcare frontier work across plans, hospitals, long-term care, devices, instruments, and major drug manufacturers
+- the repo evidence window of `2025` annual reports plus the latest three reported quarters as of `2026-08-10`
+- the requirement that a healthcare lane should produce company packets, lane economics, and cross-company interpretation around reimbursement, care delivery, installed base, procedure flow, and therapeutic innovation
+- the broader insight standard that consumer, societal, labor, institutional, and operating pressures are core outputs rather than optional add-ons
+- the handoff expectation that a coherent first batch should leave a lane summary, repeated signals, and exact next names for extension
+
 ## Lane
 
 `CLI 4: Healthcare Frontier`
@@ -83,3 +91,10 @@ Use `2025` annual reports plus the latest three reported quarters as of `2026-08
 - explicit cross-company themes
 - next recommended names
 - end-of-run handoff using the batch-handoff template
+
+## Skeptical Reader Test
+
+- Does this kickoff brief make clear what kind of healthcare system comparison the first batch is supposed to prove?
+- Can a skeptical reader see why these industries belong in one lane rather than in isolated healthcare company reads?
+- Does the brief force the worker to extract reimbursement, demand, staffing, delivery, and innovation patterns rather than just company summaries?
+- What would show that the batch has collected healthcare packets without yet explaining how the system works?

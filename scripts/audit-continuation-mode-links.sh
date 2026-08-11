@@ -39,9 +39,14 @@ files = [
     for line in manifest.read_text().splitlines()
     if line.strip() and not line.lstrip().startswith("#")
 ]
+entry_surfaces = [
+    Path("README.md"),
+    Path("START-HERE.md"),
+]
+paths_to_check = files + entry_surfaces
 
 flagged = []
-for rel in files:
+for rel in paths_to_check:
     if rel in excluded:
         continue
     text = (repo / rel).read_text()
@@ -50,6 +55,7 @@ for rel in files:
 
 print("continuation-mode-link-audit")
 print(f"reusable_notes_checked {len(files)}")
+print(f"entry_surfaces_checked {len(entry_surfaces)}")
 print(f"excluded_notes {len(excluded)}")
 print(f"missing_audit_links {len(flagged)}")
 

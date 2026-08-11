@@ -11,6 +11,14 @@ In one sentence:
 
 Use company filings to build a plain-English, evidence-backed map of how demand, labor, trust, infrastructure, care, software, property, capital, and consumer behavior are changing across the real economy.
 
+## Packet Inputs Used
+
+- completed and planned company packet sections across the repo's major lanes
+- exact filing-derived examples showing how annual reports and trailing quarters support consumer, cultural, industrial, technical, and capital-structure conclusions
+- lane-level comparison structures, proof pages, aha moments, watch metrics, and thesis breakers already defined elsewhere in the note system
+- burden-versus-beneficiary framing needed to translate company facts into bigger-picture insight
+- closeout and handoff requirements needed to keep multi-thread work cumulative rather than fragmentary
+
 ## The Meaty Goal In One Block
 
 The end-to-end goal is to use company filings to extract the full stack of real-world insight the filings can support.
@@ -521,6 +529,13 @@ Before stopping, leave a handoff with:
 - raw blob status
 - commit hash
 ```
+
+## Skeptical Reader Test
+
+- Does this page say exactly which packet inputs must exist before a broad insight claim is allowed?
+- Can a skeptical reader tell how company facts become lane economics, societal shifts, and proof pages?
+- Does it force the archive to name who benefits, who carries burden, and what would weaken the conclusion?
+- What would show that the repo still sounds ambitious without actually being evidence-backed?
 
 ## Relationship To The Rest Of The System
 

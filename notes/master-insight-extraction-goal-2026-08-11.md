@@ -7,6 +7,14 @@ Repo: `annual-report-research`
 
 Build `annual-report-research` into a source-grounded insight engine, not a filing warehouse.
 
+## Packet Inputs Used
+
+- the repo's company packet structure, lane-run structure, proof-memo structure, and closeout requirements
+- repeated filing-derived insight patterns already surfaced across healthcare, telecom, industrial, financial, and recreation work
+- exact evidence-chain requirements for annual takeaways, quarter chains, strategy reads, burden-versus-beneficiary comparisons, and watchlists
+- current verifier-backed standards for what a finished company, lane, or theme artifact must contain
+- handoff expectations proven necessary for another thread to continue work without reopening the lane from scratch
+
 ## End-To-End Goal In Plain Language
 
 The meaty goal is to extract every major kind of insight the filings can honestly support.
@@ -570,6 +578,13 @@ The template library includes:
 - quality gate checklist
 
 If a new packet, lane summary, theme memo, or handoff does not satisfy the relevant template, treat it as incomplete.
+
+## Skeptical Reader Test
+
+- Does this goal make clear which packet inputs must exist before the archive can claim a company, lane, or theme is really understood?
+- Can a skeptical reader trace how the repo moves from raw filings to company meaning, lane meaning, and cross-company explanation?
+- Does it explicitly require who benefits, who carries burden, what repeats, and what would weaken the claim?
+- What current repo behavior would show this goal is still not being met?
 
 ## Definition Of Done
 

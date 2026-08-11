@@ -11,6 +11,13 @@ This is not a style checklist. It is a completion test.
 
 If a writeup sounds smart but cannot pass this rubric with exact evidence, it is still intermediate work.
 
+## Packet Inputs Used
+
+- company packet, lane summary, and proof-memo template requirements from the repo's note system
+- existing insight-system rules for annual takeaways, quarter chains, strategy reads, burden-versus-beneficiary framing, watchlists, and thesis breakers
+- concrete failure modes already visible in repo work when packet-input tracing is weak or absent
+- reviewer needs for deciding whether an artifact is actually done instead of merely present
+
 ## The Core Rule
 
 The archive is not done when it has documents, summaries, or company descriptions.

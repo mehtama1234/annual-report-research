@@ -10,6 +10,13 @@ This manifest lists the current insight-extraction artifacts, what each one is f
 
 Use this to audit whether a future run has the required guidance, examples, templates, and review pages available before it starts new research.
 
+## Packet Inputs Used
+
+- the current inventory of insight-system notes, guides, templates, proof pages, browser review pages, and queue artifacts
+- repo-level knowledge of which artifact types are required for company, lane, proof, and handoff work
+- current completeness assessment of what structural guidance exists versus what still needs application to more packets and batches
+- cross-references to the existing files that define standards, examples, and review logic
+
 ## Required Insight System Layers
 
 | Layer | Required purpose | Current artifact | Status |
@@ -192,6 +199,13 @@ The insight operating system now has:
 - browser access
 
 Remaining work is not structural setup. Remaining work is applying this standard across more company packets and lane batches.
+
+## Skeptical Reader Test
+
+- Does this manifest make clear which artifact layers actually exist and what each one contributes to the evidence chain?
+- Can a skeptical reader tell whether the repo has guidance, templates, examples, review pages, and a next-move queue?
+- Does it distinguish structural setup from the remaining application work?
+- What missing artifact or weak layer would make this manifest overstate the repo's readiness?
 
 ## Next Best Use
 

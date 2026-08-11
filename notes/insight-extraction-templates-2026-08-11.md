@@ -665,3 +665,10 @@ Because {company exact fact} and {company exact fact}, this suggests {plain conc
 ```
 
 If an insight cannot be written in that form, it is not ready.
+
+## Skeptical Reader Test
+
+- Do the templates force a writer to name which exact packet inputs support a company, lane, or theme conclusion?
+- Can another thread pick up one of these templates and continue the evidence chain without guessing what sections are missing?
+- Do the templates require who benefits, who carries burden, and what would weaken the claim?
+- What kinds of weak writeup would still slip through if the templates were followed carelessly?

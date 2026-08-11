@@ -5,6 +5,14 @@ Repo: `annual-report-research`
 
 Use this page as the starting point for insight-producing work in this repo.
 
+## Packet Inputs Used
+
+- completed company packets, lane summaries, proof memos, cross-sector guides, and the core insight-system note set
+- exact examples from current archive artifacts showing how packet evidence should flow into lane economics, proof pages, watchlists, and handoffs
+- verifier-backed standards for packet-input tracing, burden-versus-beneficiary comparison, and skeptical-reader review
+- operating rules derived from the repo's existing insight artifacts rather than from generic research guidance
+- next-step routing logic for when a thread is starting a new company, a new lane, or a new theme
+
 ## What This System Is For
 
 The repo should not stop at source collection. It should convert filings into a structured view of:
@@ -330,6 +338,13 @@ Every run must end with:
 - recommended next names
 - raw blob status
 - remote main status
+
+## Skeptical Reader Test
+
+- Can a new thread tell which existing artifact types should feed a company packet, lane summary, proof memo, and handoff?
+- Does this page make the evidence chain explicit enough that a reader can trace where conclusions are supposed to come from?
+- Does it show who benefits economically, who carries burden, and what a future thread must verify before calling work done?
+- What in the current repo would contradict or complicate this operating hub?
 
 ## Current Insight Stack
 

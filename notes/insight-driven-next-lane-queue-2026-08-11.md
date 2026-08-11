@@ -7,6 +7,13 @@ Purpose:
 
 This queue turns the insight extraction system into the next concrete research actions.
 
+## Packet Inputs Used
+
+- current proof pages, lane summaries, theme memos, and company packets that already reveal where the archive is strongest and where key roles are missing
+- existing watchlist, thesis-breaker, and burden-versus-beneficiary logic used to choose higher-payoff next names
+- queue priorities built from live evidence gaps rather than from thin taxonomy coverage alone
+- repo rules for coherent batches, source completeness, and end-of-run handoff quality
+
 Pick from this queue when a thread needs to continue building the archive rather than adding more governance.
 
 ## Selection Rule
@@ -322,6 +329,13 @@ Minimum done for a queue item:
 - thesis breakers written
 - watchlist metrics written
 - next recommended names written
+
+## Skeptical Reader Test
+
+- Does this queue choose next work because it sharpens a live evidence-backed insight rather than because a category merely looks thin?
+- Can a skeptical reader tell which packet inputs and missing roles each priority is supposed to improve?
+- Does it force the next thread to test burden versus cleaner economics rather than just add more names?
+- What would show that the queue is drifting back toward coverage collection instead of insight improvement?
 
 ## Best Immediate Next Move
 

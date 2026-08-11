@@ -9,6 +9,13 @@ Use this runbook when taking a lane from first target selection to final handoff
 
 The lane is not done when reports are downloaded. The lane is done when packet evidence has been converted into company reads, lane economics, cross-company patterns, and plain-English insight pages.
 
+## Packet Inputs Used
+
+- the standard company packet sections that must feed every lane: source coverage, annual takeaways, quarter chains, company strategy read, burden stack, and watchlist
+- existing lane-run and proof-memo artifacts that show how packet evidence gets converted into lane economics and cross-company patterns
+- current note-layer rules for aha moments, thesis breakers, next-name selection, and handoff quality
+- verifier-backed evidence-chain standards already enforced elsewhere in the repo
+
 ## Step 1: Define The Lane
 
 State:
@@ -310,6 +317,13 @@ Avoid:
 - 1 aha and curiosity section
 - 1 next-names queue
 - 1 final handoff note
+
+## Skeptical Reader Test
+
+- Does this runbook force a lane owner to name which packet inputs support the lane read before writing conclusions?
+- Can a skeptical reader see where company facts are supposed to become lane economics, proof memos, and aha moments?
+- Does it require burden-versus-beneficiary analysis rather than only opportunity statements?
+- What would show that a lane followed the steps mechanically without actually becoming evidence-backed?
 
 ## Use With
 

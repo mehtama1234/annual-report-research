@@ -9,6 +9,13 @@ Use this as the operator-ready instruction for any thread working inside this re
 
 The point of the repo is not to store filings. The point is to turn filings into a clear, auditable explanation of how businesses, consumers, institutions, and industrial systems are changing.
 
+## Packet Inputs Used
+
+- 2025 annual reports and latest-three-quarter chains as the factual base for company packets
+- packet sections that must feed later interpretation: annual takeaways, quarterly changes, strategy read, exact evidence, burden-versus-beneficiary framing, and watchlist
+- existing lane summaries and proof memos that show how packet evidence becomes repeated patterns and plain-English conclusions
+- repo rules for source authority, handoff quality, and skeptical-reader verification
+
 ## The Meaty End-To-End Goal
 
 Your job is to use company filings to extract the full range of insight the filings can support.

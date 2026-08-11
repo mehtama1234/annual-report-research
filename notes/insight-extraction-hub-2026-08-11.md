@@ -139,6 +139,7 @@ Use these as examples of the expected standard.
 | [media-owner-helper-economics-comparison-2026-08-11.md](../analysis/cross-sector/media-owner-helper-economics-comparison-2026-08-11.md) | How to separate direct habit ownership, live-event attention, interface control, proof layers, open-internet routing, and commerce-intent monetization inside one media lane. |
 | [interface-ownership-and-demand-orchestration-comparison-2026-08-11.md](../analysis/cross-sector/interface-ownership-and-demand-orchestration-comparison-2026-08-11.md) | How to compare travel booking, trust marketplaces, local-commerce coordination, and retail-ecosystem interface ownership without owning most of the underlying asset. |
 | [point-of-use-control-and-qualified-interface-comparison-2026-08-11.md](../analysis/cross-sector/point-of-use-control-and-qualified-interface-comparison-2026-08-11.md) | How to compare businesses that control the exact point where a dose, procedure, reading, test result, or payment authorization actually happens. |
+| [narrow-chokepoint-and-disproportionate-consequence-comparison-2026-08-11.md](../analysis/cross-sector/narrow-chokepoint-and-disproportionate-consequence-comparison-2026-08-11.md) | How to compare businesses that control a small but indispensable layer whose failure would have much larger downstream consequences. |
 | [taxonomy-blind-spots-proof-2026-08-10.md](../analysis/cross-sector/taxonomy-blind-spots-proof-2026-08-10.md) | How to use AnnualReports taxonomy without letting it hide the company's real role. |
 
 ## Workflow For A New Company

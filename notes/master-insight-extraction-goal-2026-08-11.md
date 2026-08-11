@@ -7,6 +7,39 @@ Repo: `annual-report-research`
 
 Build `annual-report-research` into a source-grounded insight engine, not a filing warehouse.
 
+## End-To-End Goal In Plain Language
+
+The meaty goal is to extract every major kind of insight the filings can honestly support.
+
+The repo should turn filing windows into an evidence-backed map of:
+
+- what each company is really doing
+- what each lane is really solving
+- what consumers are changing in habit, spend, participation, status, and occasion behavior
+- what cultural and societal pressures are becoming normal
+- what industrial and operating burdens are intensifying
+- what technical, infrastructure, workflow, and reliability dependencies are spreading
+- what balance-sheet, property, reimbursement, labor, and compliance burdens sit underneath the visible product
+- which patterns repeat across multiple companies
+- which claims are strongest, weakest, earliest, or breaking
+
+The practical standard is simple:
+
+`company packets are inputs; cross-company, evidence-backed explanations of the world are the output`
+
+The work is not complete when the archive can say only what each company reported.
+
+It is complete when the archive can also say:
+
+1. `what changed`
+2. `why it changed`
+3. `how we know`
+4. `which exact examples prove it`
+5. `who gets paid`
+6. `who carries the burden`
+7. `what repeats across companies`
+8. `what to watch next`
+
 The goal is to turn `2025` annual reports, annual filings, and the latest three reported quarters into a clear map of:
 
 - what each company is really doing

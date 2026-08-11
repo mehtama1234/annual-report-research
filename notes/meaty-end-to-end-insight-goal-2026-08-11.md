@@ -7,6 +7,54 @@ Repo: `annual-report-research`
 
 Build `annual-report-research` into a source-grounded pattern library for how the economy is changing.
 
+## The Meaty Goal In One Block
+
+The end-to-end goal is to use company filings to extract the full stack of real-world insight the filings can support.
+
+That means taking `2025` annual reports, annual filings, and the latest three reported quarters and turning them into:
+
+- company truth
+- lane economics
+- consumer behavior insight
+- cultural and societal change insight
+- industrial and operating pressure insight
+- technical and infrastructure dependency insight
+- capital-allocation and burden insight
+- cross-company repeating patterns
+- concrete aha moments
+- exact watch metrics and thesis breakers
+
+The work is not finished when the repo has the documents or even the packets.
+
+It is finished when a reader can see, in plain English and with exact supporting examples:
+
+1. `What changed.`
+2. `Why it changed.`
+3. `How we know.`
+4. `Which exact companies and facts prove it.`
+5. `Who benefits economically.`
+6. `Who carries the labor, asset, reimbursement, logistics, compliance, financing, or infrastructure burden.`
+7. `What pattern repeats across several companies.`
+8. `What to watch next to confirm, sharpen, or break the claim.`
+
+The job is to convert filings into a usable explanation of the economy:
+
+`source documents -> exact facts -> company packets -> company strategy -> lane economics -> cross-company comparison -> concrete insight -> aha moment -> watchlist -> thesis breaker`
+
+That pipeline has to work across all major insight types the filings can reveal:
+
+- demand and spending shifts
+- selective, occasion-driven, status-driven, and membership-driven consumer behavior
+- cultural normalization and lifestyle shifts
+- aging, care, trust, safety, and institutional stress
+- staffing, reimbursement, compliance, and workflow pressure
+- supply chain, maintenance, uptime, field-service, power, cooling, and network dependency
+- software control layers over messy physical systems
+- capital intensity, balance-sheet burden, and property exposure
+- who owns the customer relationship versus who carries the hard operating burden
+
+If the work does not connect company evidence to those bigger patterns, it is still archive-building rather than insight extraction.
+
 This repo should not stop at:
 
 - downloading annual reports

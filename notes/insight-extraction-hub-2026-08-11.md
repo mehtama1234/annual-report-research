@@ -115,6 +115,7 @@ Use these as examples of the expected standard.
 | [commodity-chain-comparison-2026-08-11.md](../analysis/cross-sector/commodity-chain-comparison-2026-08-11.md) | How to compare extraction, conversion, agronomy, corrugated throughput, and packaging-interface control inside one commodity chain lane. |
 | [media-attention-helper-comparison-2026-08-11.md](../analysis/cross-sector/media-attention-helper-comparison-2026-08-11.md) | How to compare direct attention owners, household interfaces, buy-side helpers, verification vendors, measurement operators, and sell-side routing. |
 | [media-owner-helper-economics-comparison-2026-08-11.md](../analysis/cross-sector/media-owner-helper-economics-comparison-2026-08-11.md) | How to separate direct habit ownership, live-event attention, interface control, proof layers, open-internet routing, and commerce-intent monetization inside one media lane. |
+| [interface-ownership-and-demand-orchestration-comparison-2026-08-11.md](../analysis/cross-sector/interface-ownership-and-demand-orchestration-comparison-2026-08-11.md) | How to compare travel booking, trust marketplaces, local-commerce coordination, and retail-ecosystem interface ownership without owning most of the underlying asset. |
 | [taxonomy-blind-spots-proof-2026-08-10.md](../analysis/cross-sector/taxonomy-blind-spots-proof-2026-08-10.md) | How to use AnnualReports taxonomy without letting it hide the company's real role. |
 
 ## Workflow For A New Company

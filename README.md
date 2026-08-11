@@ -36,6 +36,10 @@ Start here:
 That file points to the active operator brief, lane instructions, next-step workflow, and current handoff.
 Together those files define the end-to-end pursuit goal, the lane-level output standard, the `3` to `4` flagship-company batch rule, the handoff requirements, and the expanded lane coverage across recreation, healthcare frontier, connectivity / telecom / infra tech, and capital structures / property / conglomerates.
 
+If you want the shortest continuation-mode statement of what work is still left, which lanes matter most, and what outputs now count as real progress, use:
+
+- [Remaining meaty end-to-end operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+
 If you want the explicit audit trail for why those live surfaces now default to strengthening already-open lanes rather than restarting them from zero, use:
 
 - [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)

@@ -40,6 +40,10 @@ If you need to verify which live instruction, queue, template, and review surfac
 
 - [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
 
+If you want the shortest continuation-mode statement of what is still left, which lanes matter most, and what now counts as real progress, use:
+
+- [Remaining meaty end-to-end operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+
 ## Collection window
 
 Collection window for this phase:

@@ -159,18 +159,20 @@ Use these files in sequence when starting a new batch:
 1. [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
 2. [Insight extraction hub](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-hub-2026-08-11.md)
 3. [End-to-end insight operator and review brief](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md)
-4. [Remaining end-to-end insight goal](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
-5. [Remaining insight execution board](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-insight-execution-board-2026-08-11.md)
-6. [Insight-driven next lane queue](/home/manishmehta/ui-projects/annual-report-research/notes/insight-driven-next-lane-queue-2026-08-11.md)
-7. [Lane end-to-end execution runbook](/home/manishmehta/ui-projects/annual-report-research/notes/lane-end-to-end-execution-runbook-2026-08-11.md)
-8. [Insight extraction templates](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-templates-2026-08-11.md)
-9. [Insight completion rubric](/home/manishmehta/ui-projects/annual-report-research/notes/insight-completion-rubric-2026-08-11.md)
-10. [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
-11. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
-12. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
+4. [Remaining meaty end-to-end operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+5. [Remaining end-to-end insight goal](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
+6. [Remaining insight execution board](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-insight-execution-board-2026-08-11.md)
+7. [Insight-driven next lane queue](/home/manishmehta/ui-projects/annual-report-research/notes/insight-driven-next-lane-queue-2026-08-11.md)
+8. [Lane end-to-end execution runbook](/home/manishmehta/ui-projects/annual-report-research/notes/lane-end-to-end-execution-runbook-2026-08-11.md)
+9. [Insight extraction templates](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-templates-2026-08-11.md)
+10. [Insight completion rubric](/home/manishmehta/ui-projects/annual-report-research/notes/insight-completion-rubric-2026-08-11.md)
+11. [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
+12. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
+13. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
 
 The insight hub is the current navigation layer for the aligned continuation-mode surfaces.
 The operator and review brief is the shortest statement of the proof chain and done standard.
+The remaining operator brief is the shortest statement of what work is still left, which lanes matter most, and what outputs now count as real progress.
 The remaining goal, execution board, and next-lane queue tell the next thread what substantive work is still left.
 The runbook, templates, and completion rubric define how to execute and judge a strengthening pass.
 The active lane board and handoff template stay useful once the worker has chosen the concrete batch.

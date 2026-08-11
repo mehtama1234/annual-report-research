@@ -15,10 +15,10 @@ Repo: `annual-report-research`
 
 | Metric | Value |
 |---|---:|
-| Top-level note files | 114 |
-| Reusable note files | 51 |
+| Top-level note files | 115 |
+| Reusable note files | 52 |
 | Historical note files | 63 |
-| Manifest union total | 114 |
+| Manifest union total | 115 |
 | Historical handoff files | 49 |
 | Historical log files | 7 |
 | Historical raw/blob/rclone files | 6 |

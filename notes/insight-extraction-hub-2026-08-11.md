@@ -36,31 +36,37 @@ Use it to understand the required end state.
 
 Use these when writing company packets, profiles, source ledgers, lane summaries, proof memos, aha moments, thesis breakers, and closeouts.
 
-3. Use the company strategy guide.
+3. Check the artifact manifest.
+
+[insight-artifact-manifest-2026-08-11.md](insight-artifact-manifest-2026-08-11.md)
+
+Use it to audit that the required goal, templates, guides, proof memos, watchlists, and browser links exist.
+
+4. Use the company strategy guide.
 
 [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md)
 
 Use it when a packet needs to explain the company itself.
 
-4. Use the industry strategy guide.
+5. Use the industry strategy guide.
 
 [industry-level-strategy-guide-2026-08-10.md](../analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md)
 
 Use it when a batch needs to explain a lane.
 
-5. Use the metric glossary.
+6. Use the metric glossary.
 
 [metric-glossary-and-watchlist-2026-08-10.md](../analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md)
 
 Use it to decide which metrics to track next quarter.
 
-6. Use the thesis breaker index.
+7. Use the thesis breaker index.
 
 [thesis-breaker-index-2026-08-10.md](../analysis/cross-sector/thesis-breaker-index-2026-08-10.md)
 
 Use it to keep the research falsifiable.
 
-7. Use the aha and curiosity page.
+8. Use the aha and curiosity page.
 
 [aha-moments-and-curiosity-questions-2026-08-10.md](../analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md)
 
@@ -177,6 +183,7 @@ The current stack is:
 
 - master goal
 - execution templates
+- artifact manifest
 - company-level strategy guide
 - industry-level strategy guide
 - concrete insights and curiosity map

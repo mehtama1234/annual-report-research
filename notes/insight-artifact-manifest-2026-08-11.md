@@ -1,0 +1,118 @@
+# Insight Artifact Manifest
+
+Date: 2026-08-11
+Repo: `annual-report-research`
+Commit when created: `205fcd6f`
+
+Purpose:
+
+This manifest lists the current insight-extraction artifacts, what each one is for, and what it proves about the archive's operating system.
+
+Use this to audit whether a future run has the required guidance, examples, templates, and review pages available before it starts new research.
+
+## Required Insight System Layers
+
+| Layer | Required purpose | Current artifact | Status |
+|---|---|---|---|
+| Operating hub | One starting point that tells future threads where to begin and how to use the system. | [insight-extraction-hub-2026-08-11.md](insight-extraction-hub-2026-08-11.md) | Present |
+| Master goal | Defines the end-to-end insight extraction standard. | [master-insight-extraction-goal-2026-08-11.md](master-insight-extraction-goal-2026-08-11.md) | Present |
+| Execution templates | Provides copy-ready templates for packets, profiles, ledgers, lane summaries, proof memos, thesis breakers, and closeouts. | [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md) | Present |
+| Company-level guide | Explains how to extract strategy, economics, constraints, and thesis breakers at the company level. | [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md) | Present |
+| Industry-level guide | Explains how to read industry lanes internally. | [industry-level-strategy-guide-2026-08-10.md](../analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md) | Present |
+| Concrete insights map | Summarizes the cross-sector insights and points to deeper proof pages. | [concrete-insights-and-curiosity-map-2026-08-10.md](../analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md) | Present |
+| Metric glossary | Defines key metrics and next-filing watchlist items. | [metric-glossary-and-watchlist-2026-08-10.md](../analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md) | Present |
+| Thesis breakers | States what would weaken or disprove major themes. | [thesis-breaker-index-2026-08-10.md](../analysis/cross-sector/thesis-breaker-index-2026-08-10.md) | Present |
+| Aha/curiosity layer | Captures surprising questions and weak signals. | [aha-moments-and-curiosity-questions-2026-08-10.md](../analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md) | Present |
+| Browser entry | Gives human review access to the stack. | [site/index.html](../site/index.html), [site/concrete-insights.html](../site/concrete-insights.html) | Present |
+
+## Proof Memo Inventory
+
+| Theme | Artifact | Evidence standard represented |
+|---|---|---|
+| AI physical capacity | [ai-physical-capacity-proof-2026-08-10.md](../analysis/cross-sector/ai-physical-capacity-proof-2026-08-10.md) | Uses company packet facts to connect AI demand to chips, networking, power, cooling, skilled trades, utilities, and backlog. |
+| Hidden operating infrastructure | [hidden-operating-infrastructure-proof-2026-08-10.md](../analysis/cross-sector/hidden-operating-infrastructure-proof-2026-08-10.md) | Uses exact facts from Sysco, Grainger, Ferguson, WESCO, Ecolab, and Veralto to show daily operating infrastructure. |
+| Selective consumer | [selective-consumer-proof-2026-08-10.md](../analysis/cross-sector/selective-consumer-proof-2026-08-10.md) | Separates value, beauty, comfort, staples pressure, and upstream packaging pressure with exact examples. |
+| Fandom, identity, participation | [fandom-identity-participation-proof-2026-08-10.md](../analysis/cross-sector/fandom-identity-participation-proof-2026-08-10.md) | Uses Disney, Netflix, Roblox, Ulta, e.l.f., Crocs, and Deckers to prove role-based consumer spending. |
+| Healthcare outside hospital | [healthcare-outside-hospital-proof-2026-08-10.md](../analysis/cross-sector/healthcare-outside-hospital-proof-2026-08-10.md) | Connects dialysis, infusion, home care, equipment, diagnostics, senior housing, and drug distribution. |
+| Trust as paid product | [trust-as-paid-product-proof-2026-08-10.md](../analysis/cross-sector/trust-as-paid-product-proof-2026-08-10.md) | Explains ratings, advisory, cybersecurity, diagnostics, hygiene, water, and traceability as paid proof. |
+| Relationship owner versus burden carrier | [relationship-owner-vs-burden-carrier-proof-2026-08-10.md](../analysis/cross-sector/relationship-owner-vs-burden-carrier-proof-2026-08-10.md) | Separates customer relationship control from asset, labor, debt, inventory, and regulatory burden. |
+| Commodity chains | [commodity-chain-proof-2026-08-10.md](../analysis/cross-sector/commodity-chain-proof-2026-08-10.md) | Reads copper, steel, nitrogen, chemicals, lumber, and packaging by chain. |
+| Taxonomy blind spots | [taxonomy-blind-spots-proof-2026-08-10.md](../analysis/cross-sector/taxonomy-blind-spots-proof-2026-08-10.md) | Shows where AnnualReports taxonomy is useful but insufficient for interpretation. |
+
+## Browser Review Paths
+
+Local server root:
+
+`/home/manishmehta/ui-projects/annual-report-research`
+
+Primary review pages:
+
+- `http://localhost:8080/site/index.html`
+- `http://localhost:8080/site/concrete-insights.html`
+- `http://localhost:8080/site/viewer.html?file=notes/insight-extraction-hub-2026-08-11.md`
+- `http://localhost:8080/site/viewer.html?file=notes/master-insight-extraction-goal-2026-08-11.md`
+- `http://localhost:8080/site/viewer.html?file=notes/insight-extraction-templates-2026-08-11.md`
+
+## Audit Checks
+
+Run these from the repo root:
+
+```bash
+test -s notes/insight-extraction-hub-2026-08-11.md
+test -s notes/master-insight-extraction-goal-2026-08-11.md
+test -s notes/insight-extraction-templates-2026-08-11.md
+test -s analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md
+test -s analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md
+test -s analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md
+test -s analysis/cross-sector/thesis-breaker-index-2026-08-10.md
+test -s analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md
+test -s site/index.html
+test -s site/concrete-insights.html
+```
+
+Check browser links:
+
+```bash
+curl -fsS http://localhost:8080/site/index.html | rg 'Insight extraction hub|Master insight extraction goal|Insight extraction templates'
+curl -fsS http://localhost:8080/site/concrete-insights.html | rg 'Insight extraction hub|Master insight extraction goal|Insight extraction templates'
+curl -fsS http://localhost:8080/notes/insight-extraction-hub-2026-08-11.md | rg 'Workflow For A New Company|Workflow For A New Lane|Workflow For A New Theme'
+```
+
+## Current Completeness Assessment
+
+The insight operating system now has:
+
+- master goal
+- hub
+- templates
+- company-level guide
+- industry-level guide
+- proof memo examples
+- concrete insight map
+- metric glossary and watchlist
+- thesis breaker index
+- aha and curiosity page
+- browser access
+
+Remaining work is not structural setup. Remaining work is applying this standard across more company packets and lane batches.
+
+## Next Best Use
+
+For any new company:
+
+1. Open the hub.
+2. Use the packet template.
+3. Use the company-level strategy guide.
+4. Pull exact annual and quarterly facts.
+5. Add thesis breakers and watchlist metrics.
+6. Tie the company to at least one lane or cross-company theme.
+
+For any new lane:
+
+1. Pick 4-8 flagship names.
+2. Complete packets.
+3. Build the lane summary.
+4. Add comparison table.
+5. Extract repeated themes.
+6. Add aha moments, watchlist metrics, and thesis breakers.
+7. Commit and record the hash.

@@ -3,11 +3,32 @@
 Date: 2026-08-11
 Repo: `annual-report-research`
 
+## Purpose
+
+Use this note as the short continuation-mode answer to a simple question:
+
+What is the highest-value substantive work still left in this repo right now?
+
+This page is not the full framework.
+
+This page is the compressed operator-facing version of that framework.
+
+## Packet Inputs Used
+
+- the remaining end-to-end insight goal that states what substantive archive work is still open
+- the remaining insight execution board that turns the remaining work into concrete lane batches
+- the current lane frameworks, proof pages, and watchlists already built across healthcare, recreation, trust, and AI physical infrastructure
+- the repo standard that lane conclusions must be traceable back to packet fields such as annual takeaways, latest-three-quarter chains, operating models, strategy reads, economic levers, operating constraints, exact supporting facts, burden reads, and thesis breakers
+
 ## What Remains
 
 The remaining job is not to build more repo scaffolding.
 
 The remaining job is to use the current packet, proof-page, watchlist, and review system to finish the archive as a plain-English explanation of how the economy is changing.
+
+If you need to verify which live instruction, queue, template, and review surfaces already reflect that continuation-phase state, use:
+
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
 
 In one line:
 
@@ -155,3 +176,10 @@ A lane is done only when the repo can show:
 - [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md)
 - [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
 - [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
+
+## Skeptical Reader Test
+
+- Does this note make clear that the remaining job is lane completion and proof strengthening rather than more repo setup?
+- Can a skeptical reader identify the exact live lanes that still matter most without reading the longer goal stack first?
+- Does the note state what outputs count as real progress instead of treating packet accumulation alone as success?
+- Does the note define a done gate that requires exact facts, burden attribution, contradiction cases, and next-filing break tests?

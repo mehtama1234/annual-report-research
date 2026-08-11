@@ -33,6 +33,7 @@ required_files=(
   "notes/end-to-end-insight-master-instruction-2026-08-11.md"
   "notes/meaty-end-to-end-insight-goal-2026-08-11.md"
   "notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md"
+  "notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md"
   "notes/remaining-end-to-end-insight-goal-2026-08-11.md"
   "notes/remaining-insight-execution-board-2026-08-11.md"
   "notes/master-operator-brief-2026-08-10.md"

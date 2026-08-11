@@ -39,6 +39,8 @@ Together those files define the end-to-end pursuit goal, the lane-level output s
 If you want the shortest continuation-mode statement of what work is still left, which lanes matter most, and what outputs now count as real progress, use:
 
 - [Remaining meaty end-to-end operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+- [Remaining end-to-end insight goal](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
+- [Remaining insight execution board](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-insight-execution-board-2026-08-11.md)
 
 If you want the explicit audit trail for why those live surfaces now default to strengthening already-open lanes rather than restarting them from zero, use:
 
@@ -179,6 +181,8 @@ For the note-boundary and insight-system audit layer:
   - `bash scripts/audit-maintenance-doc-stack.sh`
 - run only the continuation-link audit with:
   - `bash scripts/audit-continuation-mode-links.sh`
+- run only the remaining-brief link audit with:
+  - `bash scripts/audit-remaining-brief-links.sh`
 - run only the browser review-link audit with:
   - `bash scripts/audit-browser-review-links.sh`
 - run only the full insight-system verifier with:

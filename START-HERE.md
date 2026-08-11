@@ -67,6 +67,8 @@ Use these when you need to refresh or rerun the linked note-boundary and insight
   - `bash scripts/audit-maintenance-doc-stack.sh`
 - continuation-link audit:
   - `bash scripts/audit-continuation-mode-links.sh`
+- remaining-brief link audit:
+  - `bash scripts/audit-remaining-brief-links.sh`
 - browser review-link audit:
   - `bash scripts/audit-browser-review-links.sh`
 - full insight-system verifier:

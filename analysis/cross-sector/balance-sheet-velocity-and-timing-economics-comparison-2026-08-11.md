@@ -17,6 +17,19 @@ It is who can keep inventory, receivables, deposits, or funding moving fast enou
 
 Which companies are building real economic advantage because working capital, float, deposits, or timing support are built directly into the operating model rather than treated as back-office details?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make balance-sheet velocity and timing economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad claim that working capital matters.
+
 ## Companies Used
 
 - [Arrow Electronics, Inc.](../../extracted/technology/electronics-wholesale/arrow-electronics-inc/company-packet.md)
@@ -216,6 +229,17 @@ not every large balance sheet is an advantage.
 Sometimes it is just baggage.
 
 The pattern is only real when the company converts timing burden into durable customer dependence or better economics.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the timing-economics system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, balance-sheet velocity map, exact mechanism, and disconfirming-evidence sections above.
 
 ## Watch Metrics
 

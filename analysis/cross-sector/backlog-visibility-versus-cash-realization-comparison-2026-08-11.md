@@ -20,6 +20,19 @@ But the harder question is:
 
 How much of that visibility turns into revenue, margin, and free cash flow without a long delay, execution slip, or reporting complication?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make backlog visibility and cash realization visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that backlog is either good or bad.
+
 ## Why This Comparison Matters
 
 The archive already has pages on:
@@ -199,6 +212,17 @@ This backlog-visibility thesis weakens if:
 - labor, procurement, or integration problems make committed work less realizable
 - backlog growth is driven more by accounting optics than by economically valuable contracts
 - digital-capacity and infrastructure names start using backlog metrics that do not correlate with later earnings power
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the backlog-conversion system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, backlog-conversion map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

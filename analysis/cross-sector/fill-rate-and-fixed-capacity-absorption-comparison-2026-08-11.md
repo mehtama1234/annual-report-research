@@ -40,6 +40,19 @@ A hotel REIT, a senior-living operator, a healthcare-property owner, and a hybri
 
 keep expensive capacity productive.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make fill-rate and fixed-capacity absorption visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that occupancy matters.
+
 ## Exact Evidence
 
 | Company | Capacity type | Exact packet facts | What the facts prove |
@@ -204,6 +217,17 @@ This fill-rate-and-fixed-capacity thesis weakens if:
 - labor, maintenance, or property cost inflation absorbs the benefit of higher fill
 - management shifts capital into capacity that does not earn through the cycle
 - the companies prove more dependent on one-off events than on repeatable absorption improvement
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the fill-rate system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, fill-rate-and-capacity map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

@@ -33,6 +33,19 @@ This memo asks:
 
 Which companies get stronger because the network gets more useful as the footprint gets denser?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make density and local-coverage economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a loose claim that scale helps.
+
 ## Exact Evidence
 
 | Company | Density role | Exact packet facts | What the facts prove |
@@ -178,6 +191,17 @@ This density-as-moat thesis weakens if:
 - the network gets large without preserving service quality or response speed
 - new entrants build comparable density faster than expected
 - capital and labor burden overwhelm the value created by the network
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the density system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, density map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

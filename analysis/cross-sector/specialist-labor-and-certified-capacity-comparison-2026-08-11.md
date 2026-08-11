@@ -33,6 +33,19 @@ This memo asks:
 
 Which companies win because specialist labor itself has become a scarce infrastructure layer?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make specialist labor and certified-capacity economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad claim that labor is scarce.
+
 ## Exact Evidence
 
 | Company | Specialist-labor role | Exact packet facts | What the facts prove |
@@ -182,6 +195,17 @@ This specialist-labor thesis weakens if:
 - labor cost inflation overwhelms pricing power and demand quality
 - customers rebuild internal capability and rely less on outside operators
 - backlog or demand remains strong but conversion weakens because the labor layer fails
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the specialist-labor system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, labor-scarcity map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

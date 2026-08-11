@@ -17,6 +17,23 @@ Use this to audit whether a future run has the required guidance, examples, temp
 - current completeness assessment of what structural guidance exists versus what still needs application to more packets and batches
 - cross-references to the existing files that define standards, examples, and review logic
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, the archive is no longer mainly missing structural guidance.
+
+It already has:
+
+- top-level goals and operator notes
+- lane runbooks and templates
+- proof pages and comparison memos
+- next-filing watchlists
+- browser review surfaces
+- verifier-backed audit scripts
+
+That means this manifest should not be read as a blank setup checklist.
+
+It should be read as a map of the operating system that now exists and that future work is expected to use.
+
 ## Required Insight System Layers
 
 | Layer | Required purpose | Current artifact | Status |
@@ -387,7 +404,7 @@ For any new company:
 5. Add thesis breakers and watchlist metrics.
 6. Tie the company to at least one lane or cross-company theme.
 
-For any new lane:
+For any truly new lane:
 
 1. Pick 4-8 flagship names.
 2. Complete packets.
@@ -396,3 +413,12 @@ For any new lane:
 5. Extract repeated themes.
 6. Add aha moments, watchlist metrics, and thesis breakers.
 7. Commit and record the hash.
+
+For any lane that already exists in working form:
+
+1. Identify the missing role, contradiction case, or weak-link company.
+2. Choose the packet fields that must improve the current read.
+3. Strengthen the existing lane summary, proof page, or watchlist rather than rewriting from zero.
+4. Make the burden-versus-beneficiary split clearer.
+5. Add the next-filing break test that could weaken the current conclusion.
+6. Commit and record the hash.

@@ -52,9 +52,9 @@ It is often to:
 
 ## Insight-System Maintenance
 
-Use these when you need to refresh or verify the note-boundary and insight-system audit layer:
+Use these when you need to refresh or rerun the linked note-boundary and insight-system audit stack:
 
-- one-command refresh plus verification:
+- one-command refresh plus linked audit stack:
   - `bash scripts/refresh-note-layer-boundary.sh`
 - direct boundary audit only:
   - `bash scripts/audit-note-layer-boundary.sh`
@@ -64,7 +64,7 @@ Use these when you need to refresh or verify the note-boundary and insight-syste
   - `bash scripts/audit-continuation-mode-links.sh`
 - browser review-link audit:
   - `bash scripts/audit-browser-review-links.sh`
-- full broader insight-system verifier:
+- full insight-system verifier:
   - `bash scripts/verify-insight-system.sh`
 
 Current boundary artifacts:

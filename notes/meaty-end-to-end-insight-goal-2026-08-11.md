@@ -669,7 +669,7 @@ Do not stop at summary. Connect the exact facts to the bigger mechanism. Explain
 Use this when handing a lane to another thread:
 
 ```text
-Your job is not to sample one company. Your job is to open a genuinely new research frontier in annual-report-research.
+Your job is not to sample one company. Your job is to make annual-report-research materially more explanatory than it was before the run, whether that means opening a genuinely new lane or materially strengthening one that already exists.
 
 Cover the assigned AnnualReports.com industries end to end using 2025 annual reports plus the latest three reported quarters as of 2026-08-10. Treat AnnualReports.com as taxonomy and archive confirmation, but use company IR and SEC as authoritative when AnnualReports lags.
 

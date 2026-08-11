@@ -5,7 +5,7 @@ Date baseline: 2026-08-10
 ## Core mandate
 
 Your job is not to sample one company.
-Your job is to open a genuinely new research frontier in annual-report-research.
+Your job is to make annual-report-research materially more explanatory than it was before the run, whether that means opening a genuinely new lane or materially strengthening one that already exists.
 
 Cover the assigned `AnnualReports.com` industries end to end for a sustained lane run.
 Aim to complete `4` to `8` flagship company packets when the lane has enough breadth and source depth.

@@ -41,6 +41,10 @@ Use this to audit whether a future run has the required guidance, examples, temp
 
 The reusable note layer now carries the same evidence-chain standard as the main insight guides.
 
+Machine-readable file list:
+
+- [indexes/reusable-note-layer-files-2026-08-11.txt](../indexes/reusable-note-layer-files-2026-08-11.txt)
+
 That reusable layer includes:
 
 - lane and queue control notes
@@ -56,6 +60,7 @@ The governing rule is:
 - if a note is part of the archive's operating system, it should explicitly include `Skeptical Reader Test`
 
 The verifier now checks this reusable-note layer directly rather than assuming the standard applies only to the main insight pages.
+It now reads the reusable-note list from the machine-readable manifest above, so the enforced note boundary can be updated without editing the verifier's note inventory by hand.
 
 ## Standardization Boundary
 
@@ -194,6 +199,7 @@ test -s notes/insight-completion-rubric-2026-08-11.md
 test -s notes/insight-artifact-manifest-2026-08-11.md
 test -s notes/insight-note-standardization-cutoff-2026-08-11.md
 test -s notes/insight-driven-next-lane-queue-2026-08-11.md
+test -s indexes/reusable-note-layer-files-2026-08-11.txt
 test -s analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md
 test -s analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md
 test -s analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md

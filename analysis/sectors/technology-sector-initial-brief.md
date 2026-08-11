@@ -23,6 +23,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This brief is built from:
+
+- annual report takeaways for platform role, hardware role, or control-layer role
+- latest three-quarter chains for revenue growth, backlog, AI demand, ARR, and capex direction
+- company packets and profiles for the plain-English operating model
+- exact supporting facts on cloud growth, AI revenue, networking orders, software mix, security ARR, and infrastructure demand
+- burden-versus-beneficiary interpretations for who captures cleaner AI economics versus who carries physical, power, or implementation burden
+- next filing watchlists for capex, bookings, backlog conversion, security demand, and platform durability
+
 ## Sector
 
 - Sector: Technology
@@ -240,3 +251,12 @@ Collection window:
 - [Palo Alto Networks company profile](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-profile.md)
 - [Accenture company profile](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/technology/information-technology-services/accenture-plc/company-profile.md)
 - [technology-ai-platform-initial-theme-memo.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/technology-ai-platform-initial-theme-memo.md)
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show AI as a layered operating stack rather than one software theme?`
+2. `Which companies prove platform, networking, security, data-center, and semiconductor differences directly?`
+3. `Who captures cleaner economics and who carries the heavier physical or capital burden?`
+4. `What future evidence would weaken the layered-AI-stack interpretation?`

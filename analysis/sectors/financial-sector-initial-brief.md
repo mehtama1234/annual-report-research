@@ -27,6 +27,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This brief is built from:
+
+- annual report takeaways for each financial sub-model
+- latest three-quarter chains for flows, spreads, fees, volumes, margins, capital return, and funding
+- company packets and profiles for the plain-English operating model
+- exact supporting facts on AUM, inflows, fee rates, credit quality, underwriting, transaction activity, servicing scale, and benchmark economics
+- burden-versus-beneficiary interpretations for who owns the customer, funding base, workflow, or balance-sheet burden
+- next filing watchlists for consumer weakening, fee compression, realization timing, spread durability, and regulatory pressure
+
 ## Sector
 
 - Sector: Financial
@@ -227,3 +238,12 @@ Collection window:
 - [CME Group company profile](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/financial/investment-brokerage-national/cme-group-inc/company-profile.md)
 - [State Street company profile](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/financial/asset-management/state-street-corp/company-profile.md)
 - [S&P Global company profile](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/financial/investment-brokerage-national/sp-global-inc/company-profile.md)
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show that Financial is several adjacent systems rather than one sector?`
+2. `Which names prove funding, flow, underwriting, benchmark, or servicing differences directly?`
+3. `Who captures the cleaner economics and who carries the heaviest balance-sheet or market burden?`
+4. `What future evidence would weaken the fragmentation-of-financial-models interpretation?`

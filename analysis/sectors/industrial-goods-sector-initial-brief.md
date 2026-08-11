@@ -20,6 +20,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This brief is built from:
+
+- annual report takeaways for each industrial role in the buildout stack
+- latest three-quarter chains for backlog, bookings, margin, project timing, and cash conversion
+- company packets and profiles for the plain-English operating model
+- exact supporting facts on electrification demand, cooling, rail throughput, waste density, facilities work, and labor capacity
+- burden-versus-beneficiary interpretations for who captures AI and infrastructure demand versus who carries field labor, execution, or capital burden
+- next filing watchlists for backlog conversion, labor availability, and end-market mix
+
 ## Sector
 
 - Sector: Industrial Goods
@@ -127,3 +138,12 @@ Collection window:
 - [Comfort Systems company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
 - [BrightView company profile](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/industrial-goods/business-services/brightview-holdings-inc/company-profile.md)
 - [BrightView company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/industrial-goods/business-services/brightview-holdings-inc/company-packet.md)
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show this is a buildout-and-execution stack rather than generic industrial recovery?`
+2. `Which companies prove equipment, field labor, route density, and defense or rail differences directly?`
+3. `Who captures cleaner economics and who carries the heaviest execution burden?`
+4. `What future evidence would weaken the infrastructure-and-capacity interpretation?`

@@ -11,6 +11,18 @@ This note records how the current `annual-report-research-new-lanes/` workspace 
 
 The goal is to keep the annual-report archive as the evidence layer that feeds those larger synthesis systems rather than letting all three projects drift into parallel taxonomies.
 
+## Packet Inputs Used
+
+This alignment note is built from the archive layers that are already grounded in company evidence:
+
+- annual report takeaways
+- latest three-quarter chains
+- company packets and company profiles
+- sector briefs and theme memos
+- cross-company comparisons and proof pages
+- burden-versus-beneficiary interpretations
+- downstream watchlists and next-name queues
+
 ## What each project is doing
 
 ### `annual-report-research-new-lanes/`
@@ -209,3 +221,12 @@ The practical rule should be:
 - collect here
 - interpret there
 - keep the taxonomy bridges explicit
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which evidence-bearing annual-report artifacts are actually feeding the other projects?`
+2. `Why is annual-report-research the source layer rather than a parallel interpretation layer?`
+3. `Which force-map or dossier themes are already supported by packet-backed evidence?`
+4. `What missing company or lane evidence would weaken this alignment claim?`

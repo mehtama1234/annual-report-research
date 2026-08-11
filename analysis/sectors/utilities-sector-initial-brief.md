@@ -24,6 +24,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This brief is built from:
+
+- annual report takeaways for regulated, merchant, gas, water, nuclear, or hybrid utility roles
+- latest three-quarter chains for rate-base growth, load, pricing, backlog, and capital-plan conversion
+- company packets and profiles for the plain-English operating model
+- exact supporting facts on large-load demand, rate mechanisms, generation economics, backlog, and resilience spending
+- burden-versus-beneficiary interpretations for who captures load growth versus who carries reliability, affordability, climate, or funding burden
+- next filing watchlists for ESAs, rate cases, capex, recovery coverage, and merchant spreads
+
 ## Sector
 
 - Sector: Utilities
@@ -178,3 +189,12 @@ Collection window:
 - [Edison company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/utilities/electric-utilities/edison-international/company-packet.md)
 - [Edison company profile](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/utilities/electric-utilities/edison-international/company-profile.md)
 - [Edison source ledger](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/utilities/electric-utilities/edison-international/source-ledger.md)
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show utilities as growth infrastructure rather than only defensive yield assets?`
+2. `Which names prove regulated, merchant, nuclear, gas, water, and wildfire-stressed differences directly?`
+3. `Who captures cleaner economics and who carries the heaviest reliability, affordability, or climate burden?`
+4. `What future evidence would weaken the utility-as-control-point interpretation?`

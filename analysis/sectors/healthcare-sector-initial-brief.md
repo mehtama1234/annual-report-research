@@ -17,6 +17,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This brief is built from:
+
+- annual report takeaways for subsector role, regulation exposure, and operating model
+- latest three-quarter chains for reimbursement, utilization, mix, occupancy, device demand, and workflow spending
+- company packets and profiles for the plain-English business model
+- exact supporting facts on medical-cost ratios, payer mix, portfolio reset, procedure trends, diagnostics, scientific tools, and senior-living occupancy
+- burden-versus-beneficiary interpretations for who owns the relationship and who carries reimbursement, care-delivery, or staffing burden
+- next filing watchlists for policy, throughput, scientific spending, and aging-linked care demand
+
 ## Sector
 
 - Sector: Healthcare
@@ -137,3 +148,12 @@ Collection window:
 - [Thermo Fisher company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md)
 - [Brookdale company profile](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-profile.md)
 - [Brookdale company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show that healthcare demand alone is not the main earnings explanation?`
+2. `Which names prove payer, pharma, provider, device, scientific-tools, and senior-living differences directly?`
+3. `Who captures cleaner economics and who carries the hardest reimbursement, utilization, or labor burden?`
+4. `What future evidence would weaken the policy-and-friction sector interpretation?`

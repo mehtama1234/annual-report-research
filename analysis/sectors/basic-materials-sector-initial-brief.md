@@ -20,6 +20,17 @@ Collection window:
 - `2025` annual report or annual filing
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This brief is built from the same packet inputs across the starter set:
+
+- annual report takeaways for each chain role
+- latest three-quarter chains for price, volume, margin, and cash-conversion direction
+- company profiles and packets for the plain-English operating model
+- exact supporting facts on production, spreads, prices, debt, capex, and utilization
+- burden-versus-beneficiary interpretations for power, tariffs, feedstocks, logistics, and end-market pressure
+- next filing watchlists for what would confirm or weaken the linked-input-stack read
+
 ## Sector
 
 - Sector: Basic Materials
@@ -141,3 +152,12 @@ That order is intentional:
 - Reliance now adds the metal-service-center layer through small-order distribution value-added processing rapid fulfillment market-share gains pricing pass-through and project-linked industrial demand
 - West Fraser now adds the lumber and engineered-wood layer through housing affordability repair-and-remodel demand tariffs mill high-grading U.S. South capacity shift OSB pulp and renewable-building-materials exposure
 - Clearwater now adds the paperboard and packaging layer through SBS oversupply operating-rate pressure volume-versus-price tension fixed-cost reduction and the direct link between basic materials and everyday packaged goods, though the final annual-report PDF artifact remains the one unresolved annual-document gap in the starter set
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts make this a linked-input stack rather than one commodity bucket?`
+2. `Which companies prove different chain roles rather than just different prices?`
+3. `Who captures cleaner economics and who carries the heavier physical burden?`
+4. `What future evidence would collapse this back into a simpler commodity-cycle read?`

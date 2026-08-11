@@ -17,6 +17,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This brief is built from:
+
+- annual report takeaways for brand position, category role, and capital-allocation model
+- latest three-quarter chains for volume, price, mix, margin, and cash-generation direction
+- company packets and profiles for the plain-English operating model
+- exact supporting facts on comparable demand, productivity, value tiers, beauty recovery, and packaging pressure
+- burden-versus-beneficiary interpretations for who owns the consumer relationship versus who absorbs cost and footprint burden
+- next filing watchlists for affordability, category resilience, and upstream stress signals
+
 ## Sector
 
 - Sector: Consumer Goods
@@ -100,3 +111,12 @@ Collection window:
 - [Graphic Packaging company profile](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-profile.md)
 - [Graphic Packaging company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md)
 - [consumer-goods-value-portfolio-initial-theme-memo.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/consumer-goods-value-portfolio-initial-theme-memo.md)
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which exact packet facts show consumer resilience versus consumer pressure?`
+2. `Why do staples, beauty, and packaging belong in one sector read here?`
+3. `Who owns the trusted relationship and who absorbs the capital or volume burden?`
+4. `What future evidence would weaken the selective-resilience interpretation?`

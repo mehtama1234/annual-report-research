@@ -19,6 +19,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This brief is built from:
+
+- annual report takeaways for route density, workflow role, and recurring-service shape
+- latest three-quarter chains for volume, margins, client demand, and productivity
+- company packets and profiles for the plain-English operating model
+- exact supporting facts on logistics, outsourcing, compliance, staffing, and service frequency
+- burden-versus-beneficiary interpretations for who owns the relationship versus who carries the hard operating burden
+- next filing watchlists for pricing, labor, route density, customer retention, and demand quality
+
 ## Sector
 
 - Sector: Services
@@ -111,3 +122,12 @@ Collection window:
 - [Caesars company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
 - [Robert Half company profile](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/staffing-employment-services/robert-half-inc/company-profile.md)
 - [Robert Half company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/services/staffing-employment-services/robert-half-inc/company-packet.md)
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show services as outsourced operating infrastructure rather than miscellaneous labor?`
+2. `Which companies prove route density, workflow embedding, and freight or facilities differences directly?`
+3. `Who captures cleaner economics and who carries the labor or execution burden?`
+4. `What future evidence would weaken the outsourced-complexity interpretation?`

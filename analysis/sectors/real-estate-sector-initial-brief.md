@@ -16,6 +16,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This brief is built from:
+
+- annual report takeaways for property type, leasing model, and service role
+- latest three-quarter chains for occupancy, rent spreads, backlog, demand, and capital deployment
+- company packets and profiles for the plain-English operating model
+- exact supporting facts on logistics demand, data-center capacity, apartment affordability, brokerage activity, and development conversion
+- burden-versus-beneficiary interpretations for who owns the relationship, lease reset, or property burden
+- next filing watchlists for rent spreads, absorption, power access, investment activity, and financing pressure
+
 ## Sector
 
 - Sector: Real Estate
@@ -91,3 +102,12 @@ Collection window:
 - [CBRE company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/real-estate/real-estate-development/cbre-group-inc/company-packet.md)
 - [JLL company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/real-estate/real-estate-development/jones-lang-lasalle-inc/company-packet.md)
 - [real-estate-reckoning-initial-theme-memo.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/real-estate-reckoning-initial-theme-memo.md)
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show real estate splitting by function rather than moving as one rates trade?`
+2. `Which names prove logistics, data-center, housing, and service-layer differences directly?`
+3. `Who captures cleaner economics and who carries heavier property or development burden?`
+4. `What future evidence would weaken the functional-split real-estate interpretation?`

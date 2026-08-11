@@ -5,6 +5,21 @@ Date baseline: 2026-08-10
 Use this file during an active lane batch.
 This is the lightweight running log between kickoff and the final batch handoff.
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, many of the archive's highest-value lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means this log should not be read only as a blank-slate lane-opening notebook.
+
+It should also be used for strengthening batches inside already-open lanes.
+
+In those cases, the running log should usually make explicit:
+
+- which missing flagship role is being filled
+- which contradiction or weak-link case is being added
+- which burden-versus-beneficiary split is being sharpened
+- which next-filing break test the batch is trying to improve
+
 Even as a lightweight log, it should still preserve the current working proof chain:
 
 - exact fact or metric carrying the read
@@ -25,10 +40,14 @@ Even as a lightweight log, it should still preserve the current working proof ch
 
 ## Batch target
 
+- batch mode:
+  - `new-lane-opening` / `existing-lane-strengthening`
 - flagship company 1:
 - flagship company 2:
 - flagship company 3:
 - flagship company 4:
+- strengthening target if applicable:
+  - missing role / contradiction / burden split / break test
 
 ## Working lane claim
 

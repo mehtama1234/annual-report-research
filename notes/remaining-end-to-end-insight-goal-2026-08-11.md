@@ -29,9 +29,18 @@ The repo now has:
 - the browser review surface
 - the note-boundary and browser-link audit layer
 
+The repo also now has a stronger interpretation layer than this note originally assumed:
+
+- major lane hubs for healthcare, infrastructure, trust intermediation, recreation, hospitality, and play / participation
+- a cross-lane control-versus-burden synthesis tying CLI 4, CLI 5, and CLI 6 together
+- concrete next-filing watchlists for AI capacity, healthcare burden, recreation selective demand, and trust durability
+- a browser-facing review path that now exposes proof pages, watchlists, lane frameworks, and cross-lane reading order directly
+
 That means the main missing work is no longer guidance.
 
-The main missing work is substantive lane completion.
+The main missing work is no longer first-pass interpretation either.
+
+The main missing work is substantive lane completion through missing flagship roles, sharper contradiction cases, and stronger packet-backed proof inside the lanes already opened.
 
 ## The Remaining Meaty Goal
 
@@ -46,7 +55,7 @@ That means:
 
 In practical terms, the remaining work is:
 
-`missing flagship packets -> stronger lane comparisons -> stronger proof pages -> clearer next-filing watchlists`
+`missing flagship packets -> sharper contradiction comparisons -> stronger proof pages -> stronger next-filing continuation layer`
 
 For the exact next executable batches that should do that work, use:
 
@@ -70,9 +79,9 @@ The point is to add companies that answer one of these:
 
 ### 2. Finish The Missing Lane Comparisons
 
-Several lanes already have framework notes and early proof pages.
+Several lanes now already have framework notes, applied comparisons, and watchlists.
 
-What remains is to finish the specific comparison sets that turn those frameworks into more complete operating maps.
+What remains is to finish the specific missing comparison roles that turn those frameworks into more complete operating maps and harder contradiction tests.
 
 Each of those lane comparisons should show:
 
@@ -84,11 +93,19 @@ Each of those lane comparisons should show:
 - contradiction case
 - exact next metrics to watch
 
+The key point is that the archive now usually knows the first-order pattern.
+
+What is often still missing is:
+
+- the best edge case that could weaken the pattern
+- the adjacent role that captures the same demand with different economics
+- the burden carrier that proves whether the clean layer is really cleaner
+
 ### 3. Deepen The Existing Proof Pages
 
 Many proof pages already exist.
 
-The remaining work is to make them harder to dispute and more useful for continuation.
+The remaining work is to make them harder to dispute and more useful for continuation now that the watchlist layer exists.
 
 That means:
 
@@ -97,6 +114,10 @@ That means:
 - more explicit beneficiary-versus-burden comparisons
 - more alternative explanations still in play
 - more next-filing disconfirming tests
+
+In other words, the missing work is increasingly not “write the first proof page.”
+
+It is “upgrade the proof page until a skeptical reader can see the contradiction case, the burden carrier, and the next-quarter break test without having to infer them.”
 
 ### 4. Build The Next-Filing Continuation Layer
 
@@ -138,6 +159,15 @@ What this should clarify:
 - who coordinates care versus who absorbs labor and reimbursement burden
 - whether recurring-care economics are cleaner in workflow, devices, diagnostics, or insurance layers
 
+Current state:
+
+- the healthcare lane framework is already materially built
+- the burden-versus-workflow, payer-versus-provider-versus-tools, testing-distribution-delivery, and reimbursement-labor-utilization layers already exist
+
+What remains here is not first-pass framing.
+
+What remains is sharper contradiction coverage and more missing company roles inside that system.
+
 ### Recreation, Lifestyle, Gifting, Hospitality, And Occasion Demand
 
 Best next comparison set:
@@ -153,6 +183,13 @@ What this should clarify:
 - occasion demand versus routine demand
 - brand and loyalty ownership versus property or inventory burden
 - travel, hosting, gifting, and milestone spending as role-based consumer behavior
+
+Current state:
+
+- the recreation lane framework is already materially built
+- selective-demand proof, recreation occasion comparisons, and the burden watchlist already exist
+
+What remains here is to widen the lane with the best contradiction names and sharpen which defended roles really hold cleaner economics.
 
 ### Trust, Proof, Measurement, And Security
 
@@ -170,6 +207,13 @@ What this should clarify:
 - proof and verification layers versus commodity service layers
 - whether standards, advisory, exchange structure, and security platforms show the cleanest trust economics
 
+Current state:
+
+- the trust proof page, trust-layer comparisons, durability split, and failure-risk watchlist already exist
+- the CLI 6 trust framework is already substantially integrated
+
+What remains here is to sharpen the standard-like versus vendor-like split and add the most revealing weak-link cases.
+
 ### AI Physical Capacity And Burden Carriers
 
 Best next comparison set:
@@ -186,9 +230,23 @@ What this should clarify:
 - who carries capex, power, labor, and deployment burden
 - whether bottlenecks sit in validation, interconnection, power equipment, field execution, or real estate financing
 
+Current state:
+
+- the AI physical-capacity proof, burden-carrier comparison, capex-return watchlist, and CLI 5 integration layer already exist
+
+What remains here is to resolve the hardest comparison inside the lane:
+
+- chokepoint owner versus capital-heavy builder
+- ecosystem density versus raw powered-capacity ownership
+- backlog visibility versus real cash conversion
+
 ## What A Finished Remaining Pass Should Produce
 
 The remaining work is not complete when the new packets exist.
+
+It is also not complete when the first framework note exists.
+
+At this point, many of those framework notes do exist.
 
 It is complete when the archive can more clearly answer:
 
@@ -201,7 +259,7 @@ It is complete when the archive can more clearly answer:
 
 ## Short Remaining Goal
 
-The remaining end-to-end goal is to finish the archive's live frontier work by adding the missing flagship company roles, completing the most important lane comparison sets, and tightening the current proof pages until they explain the economy through exact evidence, burden-versus-beneficiary logic, and concrete next-filing tests.
+The remaining end-to-end goal is to finish the archive's live frontier work by adding the missing flagship company roles, sharpening the contradiction cases inside the major lanes that are already built, and tightening the current proof pages until they explain the economy through exact evidence, burden-versus-beneficiary logic, and concrete next-filing break tests.
 
 ## Skeptical Reader Test
 

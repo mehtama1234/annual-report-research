@@ -23,6 +23,7 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Metric glossary | Defines key metrics and next-filing watchlist items. | [metric-glossary-and-watchlist-2026-08-10.md](../analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md) | Present |
 | Thesis breakers | States what would weaken or disprove major themes. | [thesis-breaker-index-2026-08-10.md](../analysis/cross-sector/thesis-breaker-index-2026-08-10.md) | Present |
 | Aha/curiosity layer | Captures surprising questions and weak signals. | [aha-moments-and-curiosity-questions-2026-08-10.md](../analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md) | Present |
+| Insight-driven queue | Prioritizes next lane/company work by insight payoff, target metrics, and thesis breakers. | [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md) | Present |
 | Browser entry | Gives human review access to the stack. | [site/index.html](../site/index.html), [site/concrete-insights.html](../site/concrete-insights.html) | Present |
 
 ## Proof Memo Inventory
@@ -92,6 +93,7 @@ The insight operating system now has:
 - metric glossary and watchlist
 - thesis breaker index
 - aha and curiosity page
+- insight-driven next-lane queue
 - browser access
 
 Remaining work is not structural setup. Remaining work is applying this standard across more company packets and lane batches.

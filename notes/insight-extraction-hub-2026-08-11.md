@@ -72,6 +72,12 @@ Use it to keep the research falsifiable.
 
 Use it to identify the next questions worth pursuing.
 
+9. Use the insight-driven queue.
+
+[insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
+
+Use it to choose the next lane or company batch by insight payoff, not by generic coverage gap.
+
 ## Existing Proof Pages
 
 Use these as examples of the expected standard.
@@ -191,5 +197,6 @@ The current stack is:
 - metric glossary and watchlist
 - thesis breaker index
 - aha moments and curiosity questions
+- insight-driven next-lane queue
 
 This is now enough structure for future threads to produce consistent, evidence-backed insight work instead of one-off summaries.

@@ -2,13 +2,13 @@
 
 Date baseline: 2026-08-10
 
-This file defines the current high-ambition lane mandates for the `annual-report-research-new-lanes` workspace.
+This file defines the current high-ambition lane mandates for the `annual-report-research` workspace.
 
 These are not company samplers. They are lane-opening research briefs intended to push the archive into genuinely new territory.
 
 ## Master pursuit goal
 
-Build `annual-report-research-new-lanes` into a disciplined multi-lane research archive that does two things at the same time:
+Build `annual-report-research` into a disciplined multi-lane research archive that does two things at the same time:
 
 1. collects source-complete `2025` annual-report and latest-three-quarter evidence as of `2026-08-10`
 2. turns that evidence into higher-level reads on consumer behavior, cultural shifts, industrial pressure, operating structure, capital allocation, and recurring cross-company patterns

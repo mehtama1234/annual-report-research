@@ -4,7 +4,7 @@ Date baseline: 2026-08-09
 
 ## Purpose
 
-This note records how the current `annual-report-research-new-lanes/` workspace fits with the two adjacent projects already on disk:
+This note records how the current `annual-report-research/` workspace fits with the two adjacent projects already on disk:
 
 - `/home/manishmehta/ui-projects/ibis-industries/`
 - `/home/manishmehta/projects/Misc/ui-projects/strategy-under-a-force/`
@@ -25,7 +25,7 @@ This alignment note is built from the archive layers that are already grounded i
 
 ## What each project is doing
 
-### `annual-report-research-new-lanes/`
+### `annual-report-research/`
 
 - Company-level evidence archive for public companies
 - Focused on `2025` annual reports and annual filings plus the latest `2026` quarter chain, pulling in late `2025` only when needed for the trailing-three-quarter window
@@ -161,7 +161,7 @@ This is the cleaner company-evidence layer beneath broader force language like:
 
 The strongest cross-project overlap right now is around institutional and operating complexity.
 
-`annual-report-research-new-lanes/analysis/themes/` already includes theme memos such as:
+`annual-report-research/analysis/themes/` already includes theme memos such as:
 
 - `institutional-operating-infrastructure`
 - `regulation-trust-and-sovereignty-risk`
@@ -174,7 +174,7 @@ Those themes map closely onto both:
 
 ## What is now clear
 
-1. `annual-report-research-new-lanes/` should remain the evidence and packetization system.
+1. `annual-report-research/` should remain the evidence and packetization system.
 2. `ibis-industries/` should remain the full-economy and force-map system.
 3. `strategy-under-a-force/` should remain the narrative and dossier surface built on top of the force logic.
 

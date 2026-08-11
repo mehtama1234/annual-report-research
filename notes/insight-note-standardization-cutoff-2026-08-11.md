@@ -48,7 +48,7 @@ Direct audit script:
 Current remaining count at the cutoff:
 
 - total remaining without both sections: `63`
-- handoff files: `51`
+- handoff files: `49`
 - log files: `7`
 - raw / blob / rclone operational files: `6`
 - other: `1`
@@ -56,6 +56,7 @@ Current remaining count at the cutoff:
 Machine-readable exclusion list:
 
 - [indexes/historical-note-exclusion-files-2026-08-11.txt](../indexes/historical-note-exclusion-files-2026-08-11.txt)
+- [indexes/historical-note-exclusion-categories-2026-08-11.tsv](../indexes/historical-note-exclusion-categories-2026-08-11.tsv)
 
 Those remaining notes are largely:
 

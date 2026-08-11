@@ -45,6 +45,7 @@ Machine-readable file list:
 
 - [indexes/reusable-note-layer-files-2026-08-11.txt](../indexes/reusable-note-layer-files-2026-08-11.txt)
 - [indexes/historical-note-exclusion-files-2026-08-11.txt](../indexes/historical-note-exclusion-files-2026-08-11.txt)
+- [indexes/historical-note-exclusion-categories-2026-08-11.tsv](../indexes/historical-note-exclusion-categories-2026-08-11.tsv)
 
 That reusable layer includes:
 
@@ -83,6 +84,7 @@ That cutoff note explains:
 The machine-readable exclusion list now lives at:
 
 - [indexes/historical-note-exclusion-files-2026-08-11.txt](../indexes/historical-note-exclusion-files-2026-08-11.txt)
+- [indexes/historical-note-exclusion-categories-2026-08-11.tsv](../indexes/historical-note-exclusion-categories-2026-08-11.tsv)
 
 ## Proof Memo Inventory
 
@@ -201,6 +203,7 @@ The dedicated note-layer audit script prints the current partition counts and fa
 - any manifest entry no longer points to a current top-level note file
 - the manifest union no longer matches the top-level note inventory
 - a historically excluded note drifts into having both standardized sections without being reclassified
+- the historical exclusion category map no longer matches the historical exclusion file list or uses an invalid category label
 
 Manual equivalent:
 
@@ -217,6 +220,7 @@ test -s notes/insight-note-standardization-cutoff-2026-08-11.md
 test -s notes/insight-driven-next-lane-queue-2026-08-11.md
 test -s indexes/reusable-note-layer-files-2026-08-11.txt
 test -s indexes/historical-note-exclusion-files-2026-08-11.txt
+test -s indexes/historical-note-exclusion-categories-2026-08-11.tsv
 test -s scripts/audit-note-layer-boundary.sh
 test -s analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md
 test -s analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md

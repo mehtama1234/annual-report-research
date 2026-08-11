@@ -13,9 +13,31 @@ It is trying to become a source-grounded research archive that can move from raw
 - the expanded lane brief that pushes work into adjacent healthcare, infrastructure, software, property, and lifestyle systems when they improve explanatory power
 - the handoff standard that requires completed companies, partial companies, repeated signals, and exact next names so another thread can continue from repo state
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, the archive is no longer mainly missing its first interpretation layer.
+
+Many of the highest-value lanes already have:
+
+- frameworks
+- proof pages
+- comparison memos
+- next-filing watchlists
+
+That means this note should not be read only as a blank-slate frontier-opening goal.
+
+It should also guide strengthening work inside already-open lanes.
+
+In practice, the best next run may do one or more of these:
+
+- fill a missing flagship role
+- add the strongest contradiction or weak-link case
+- sharpen the burden-versus-beneficiary split
+- improve the next-filing break test
+
 ## Core objective
 
-Open genuinely new annual-report-research frontiers across the covered lanes and their adjacencies.
+Leave `annual-report-research` materially more explanatory than it was before the run, whether that means opening a genuinely new lane or materially strengthening one that already exists.
 
 That means:
 

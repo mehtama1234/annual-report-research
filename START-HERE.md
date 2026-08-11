@@ -45,6 +45,8 @@ If a packet, profile, or source ledger points at raw evidence that is not presen
   - `python3 scripts/resolve-offloaded-raw-path.py 'raw/.../file.ext'`
 - audit the remaining retired-root footprint with:
   - `bash scripts/audit-legacy-root-references.sh`
+- run the full raw-evidence governance check with:
+  - `bash scripts/verify-raw-evidence-governance.sh`
 
 Supporting references:
 

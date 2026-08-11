@@ -54,6 +54,20 @@ Source branch head at merge: `123ffb9d`
   - `raw/sec/healthcare/drug-stores/walgreens-boots-alliance-inc/`
 - Those folders were already present and were not part of the energy merge.
 
+## Insight-System Maintenance
+
+When you need to confirm that this post-merge energy note, the main batch artifact, and the broader continuation stack still line up before using it as the merge-state reference, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this post-merge note make clear what landed on `main`, what was audited, and what remained intentionally outside the merge?

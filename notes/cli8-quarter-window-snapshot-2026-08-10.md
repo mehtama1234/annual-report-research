@@ -155,6 +155,20 @@ This note captures the current filing chronology observed from saved SEC submiss
 - Hyatt as `Consumer Goods / Lodging`
 - The branch already has enough evidence to start packet drafting from saved AnnualReports pages plus saved SEC chronology, even before all annual and quarterly filing bodies are downloaded.
 
+## Insight-System Maintenance
+
+When you need to confirm that this CLI 8 filing-window snapshot, the collection-window rule, and the broader continuation surfaces still line up before using it for packet chronology, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this note preserve the exact filing-window evidence needed to keep quarter labels honest for each CLI 8 company?

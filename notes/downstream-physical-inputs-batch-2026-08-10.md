@@ -251,6 +251,20 @@ Current batch split:
 - `Iridium Communications Inc.` follow-on thematic note if the archive next needs the resilient, cleaner satellite-connectivity comparison to EchoStar's more distressed spectrum-and-pay-TV mix
 - `Frontier Communications Parent, Inc.` merger-history appendix only if the archive next needs a post-deal domestic wireline cleanup note despite the weaker standalone fit
 
+## Insight-System Maintenance
+
+When you need to confirm that this downstream physical-inputs batch note, the broader continuation stack, and the browser review surfaces still line up before using it as a batch artifact, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this batch note make clear what problem the batch was meant to solve and what evidence and interpretation it already produced?

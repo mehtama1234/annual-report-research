@@ -82,6 +82,20 @@ Branch: `cli8-distribution-middle-layer`
 
 - Prioritize full packets for the core eight before opening new partials.
 
+## Insight-System Maintenance
+
+When you need to confirm that this CLI 8 frontier slate, the broader continuation stack, and the browser review surfaces still line up before using it as a live operator brief, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this frontier slate make clear what system the branch is actually trying to explain, beyond a loose list of distributors?

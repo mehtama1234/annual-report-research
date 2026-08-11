@@ -99,6 +99,11 @@ expected = {
     Path("notes/collection-window.md"): full_audit_stack,
     Path("notes/frontier-merge-handoff-2026-08-10.md"): full_audit_stack,
     Path("notes/healthcare-frontier-collection-status-2026-08-10.md"): full_audit_stack,
+    Path("notes/cli8-frontier-slate-2026-08-10.md"): full_audit_stack,
+    Path("notes/cli8-quarter-window-snapshot-2026-08-10.md"): full_audit_stack,
+    Path("notes/downstream-physical-inputs-batch-2026-08-10.md"): full_audit_stack,
+    Path("notes/energy-buildout-batch-2026-08-10.md"): full_audit_stack,
+    Path("notes/post-merge-energy-buildout-2026-08-10.md"): full_audit_stack,
 }
 
 missing = []

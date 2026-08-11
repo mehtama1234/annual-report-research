@@ -19,7 +19,7 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Operator-ready master instruction | Gives future threads one concise but complete instruction block they can run from directly. | [end-to-end-insight-master-instruction-2026-08-11.md](end-to-end-insight-master-instruction-2026-08-11.md) | Present |
 | Meaty goal | Defines the larger ambition level: packets, lane economics, proof pages, societal shifts, operating pressures, and handoff quality. | [meaty-end-to-end-insight-goal-2026-08-11.md](meaty-end-to-end-insight-goal-2026-08-11.md) | Present |
 | Lane runbook | Gives the end-to-end execution sequence from lane definition through proof memos and closeout. | [lane-end-to-end-execution-runbook-2026-08-11.md](lane-end-to-end-execution-runbook-2026-08-11.md) | Present |
-| Execution templates | Provides copy-ready templates for packets, profiles, ledgers, lane summaries, proof memos, thesis breakers, and closeouts. | [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md) | Present |
+| Execution templates | Provides copy-ready templates for packets, profiles, ledgers, lane summaries, proof memos, thesis breakers, and closeouts, including explicit packet-input tracing and reader-test sections. | [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md) | Present |
 | Completion rubric | Forces future threads to prove that packets, lanes, and proof memos are actually finished rather than merely present. | [insight-completion-rubric-2026-08-11.md](insight-completion-rubric-2026-08-11.md) | Present |
 | Company-level guide | Explains how to extract strategy, economics, constraints, and thesis breakers at the company level. | [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md) | Present |
 | Industry-level guide | Explains how to read industry lanes internally. | [industry-level-strategy-guide-2026-08-10.md](../analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md) | Present |
@@ -28,7 +28,7 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Thesis breakers | States what would weaken or disprove major themes. | [thesis-breaker-index-2026-08-10.md](../analysis/cross-sector/thesis-breaker-index-2026-08-10.md) | Present |
 | Aha/curiosity layer | Captures surprising questions and weak signals. | [aha-moments-and-curiosity-questions-2026-08-10.md](../analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md) | Present |
 | Insight-driven queue | Prioritizes next lane/company work by insight payoff, target metrics, and thesis breakers. | [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md) | Present |
-| Browser entry | Gives human review access to the stack. | [site/index.html](../site/index.html), [site/concrete-insights.html](../site/concrete-insights.html) | Present |
+| Browser entry | Gives human review access to the stack and explains how concrete insight pages should be read and audited. | [site/index.html](../site/index.html), [site/concrete-insights.html](../site/concrete-insights.html) | Present |
 
 ## Proof Memo Inventory
 
@@ -130,6 +130,13 @@ bash scripts/verify-insight-system.sh
 
 The verifier checks required files, required phrases, browser-entry links, and the deeper insight-stack sections that future packets, lane summaries, and proof memos are expected to contain. If the local server is not running, the file and link-source checks still prove the repo-side structure.
 
+It also checks that:
+
+- lane summaries name which packet inputs they rely on
+- proof memos declare packet inputs used before making the conclusion
+- proof memos include a reader test
+- browser review pages explain how to read concrete support rather than only listing themes
+
 Manual equivalent:
 
 ```bash
@@ -157,9 +164,10 @@ Check browser links:
 curl -fsS http://localhost:8080/site/index.html | rg 'Insight extraction hub|Master insight extraction goal|Operator-ready master instruction|Insight extraction templates'
 curl -fsS http://localhost:8080/site/concrete-insights.html | rg 'Insight extraction hub|Master insight extraction goal|Operator-ready master instruction|Insight extraction templates'
 curl -fsS http://localhost:8080/notes/insight-extraction-hub-2026-08-11.md | rg 'Workflow For A New Company|Workflow For A New Lane|Workflow For A New Theme'
-rg 'Insight Stack|Insight Stack Across The Lane|Beneficiaries And Burden Carriers|Why This Matters Now' notes/insight-extraction-templates-2026-08-11.md
+rg 'Insight Stack|Insight Stack Across The Lane|Packet Inputs Used For Lane Insight|Packet Inputs Used|Reader Test|Beneficiaries And Burden Carriers|Why This Matters Now' notes/insight-extraction-templates-2026-08-11.md
 rg 'consumer behavior shift|relationship-owner versus burden-carrier split|consumer, cultural, societal, industrial, technical, or capital-structure meaning is explicit' notes/lane-end-to-end-execution-runbook-2026-08-11.md
 rg 'capital pattern without saying how the filing evidence supports it|who benefits and who carries burden' notes/insight-completion-rubric-2026-08-11.md
+curl -fsS http://localhost:8080/site/concrete-insights.html | rg 'How To Read An Insight Here|What Counts As Concrete Support'
 ```
 
 ## Current Completeness Assessment

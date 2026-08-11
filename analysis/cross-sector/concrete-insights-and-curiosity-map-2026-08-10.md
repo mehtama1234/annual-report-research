@@ -27,6 +27,21 @@ Each serious insight should answer five questions before it is treated as real:
 - What is the bigger-picture conclusion in plain English?
 - What would weaken or disprove the conclusion?
 
+Evidence extraction standard:
+
+Do not cite only a company packet. Pull the exact items from the packet that carry the argument:
+
+- annual-report takeaways
+- quarter-by-quarter results
+- operating indicators
+- management message
+- structural themes
+- signals to feed into higher-level analysis
+- thematic interpretation
+- source pointers when the raw filing or release matters
+
+The page should say which exact packet facts are doing the work. A company name by itself is not evidence.
+
 ## How The Data Supports The Conclusions
 
 The conclusions below are not meant to stand on company names alone. The support comes from three kinds of repo evidence:
@@ -265,6 +280,19 @@ Concrete company reads:
 - `Quest`, `Labcorp`, `Natera`, `Exact Sciences`, and `Guardant`: useful because they show screening, testing, risk visibility, and monitoring becoming central to care.
 - `Cencora`, `McKesson`, `Cardinal Health`, and `Henry Schein`: useful because they show that the care system needs dependable product routing before any treatment can happen at scale.
 - `UnitedHealth` and `HCA`: useful because they show the burdened side: claims, utilization, hospital throughput, labor, payment rules, and public trust.
+
+Exact packet evidence doing the work:
+
+| Company | Exact packet items | Why this supports the aging conclusion |
+|---|---|---|
+| `Brookdale` | `2025` annual packet says Brookdale was the largest senior-living operator in the U.S., with `647` communities in `41` states serving about `58,000` residents. It records `2025` total revenue of `$3.18B`, same-community RevPAR growth of `7.6%`, operating income of `$131.7M`, adjusted EBITDA growth of `19.1%` to `$450.3M`, and a continuing-operations net loss of `($263.5M)`. Q1 `2026` occupancy reached `80.0%`, RevPAR grew `5.9%`, and same-community occupancy rose `200` bps year over year. | This proves aging demand is not just medical utilization. It becomes physical communities, resident fees, occupancy recovery, care intensity, and staffing. It also shows the limit: demographic demand can coexist with losses and execution burden. |
+| `Ventas` | Annual packet says `2025` results included more than `15%` SHOP same-store cash NOI growth and about `$2.5B` of accretive investment activity. Q2 `2026` packet records normalized FFO per share of about `$0.97`, up about `9%` year over year; total company NOI growth of about `17%`; SHOP same-store cash NOI growth of about `16%`; about `$3.4B` of year-to-date investments focused on senior housing; and `2026` investment-volume expectations raised to about `$4.5B`. | This shows the real-estate version of aging. Senior housing demand, low new supply, and capital access can turn longevity into an investment and operating platform, not just a healthcare services story. |
+| `DaVita` | Packet records Q2 `2026` revenue of `$3.554B`, operating income of `$579M`, diluted EPS of `$4.02`, operating cash flow of `$490M`, and about `64,900` patients in risk-based arrangements covering about `$5.8B` of annualized medical spend. Q1 `2026` records U.S. treatments per day averaging about `91,650`. Full-year `2025` revenue was `$13.643B`. | This shows aging and chronic disease as repeated, medically non-optional treatment. The exact operating variables are treatments per day, patient-care economics, reimbursement, and integrated kidney care, not generic "healthcare demand." |
+| `Addus` | Packet records Q2 `2026` revenue of `$377.4M`, net income of `$27.6M`, adjusted EBITDA of `$49.2M`, and operating cash flow of `$40.0M`. It also records service mix: personal care was `78.4%` of revenue, hospice `17.0%`, and home health `4.6%`. Q4 `2025` full-year revenue was `$1.42B`. | This shows aging-in-place as recurring labor and service hours. The exact evidence points to personal care, hospice, home health, caregiver availability, state rate support, and local density. |
+| `Option Care` | Packet records Q2 `2026` net revenue of about `$1.442B`, GAAP net income of about `$53.9M`, adjusted EBITDA of about `$117.5M`, and adjusted diluted EPS of about `$0.45`. It also records Q4 `2025` net revenue of `$1.465B`, up `8.8%`, and identifies the company as the largest independent home and alternate-site infusion platform. | This shows repeated specialty therapy moving outside hospitals. The evidence supports site-of-care migration: patients still receive complex treatment, but the operating system shifts toward home or alternate-site infusion, payer relationships, clinicians, scheduling, and therapy routing. |
+| `AdaptHealth` | Packet says AdaptHealth serviced about `4.3M` patients annually in all `50` states through about `640` locations in `48` states and completed about `38,500` equipment and supply deliveries per day as of `2025-12-31`. Q2 `2026` net revenue was `$740.3M`, organic revenue growth was `15.9%`, and adjusted EBITDA was `$132.0M`. | This proves home-based care needs physical replenishment. Aging and chronic disease create demand for oxygen, sleep therapy, respiratory support, diabetes supplies, equipment, documentation, payor routing, and resupply logistics. |
+| `Quest` | Packet records Q2 `2026` revenue of `$3.04B`, up `10.2%`, organic revenue growth of `10.0%`, adjusted diluted EPS growth of `19.1%`, and raised `2026` guidance to `$11.95B-$12.05B` in revenue. It records Q4 `2025` full-year revenue of `$11.04B`, up `11.8%`, and notes more than `150` consumer tests, `questhealth.com`, Alzheimer's and cardiometabolic testing, oncology diagnostics, and AI / automation deployment. | This shows aging as testing, screening, and information flow. The evidence connects older and higher-risk populations to repeated diagnostics, earlier detection, consumer access, wellness channels, and advanced-testing demand. |
+| `Cencora` | Packet records fiscal `2025` adjusted diluted EPS of `$16.00`, consolidated revenue of `$321B`, adjusted operating income of `$4.2B`, U.S. Healthcare Solutions operating income growth of `22%`, adjusted free cash flow of `$3.0B`, Q3 FY2026 revenue of `$84.8B`, and Q2 FY2026 revenue of `$78.4B`. It also highlights specialty utilization, physician customers, global `3PL`, specialty logistics, GLP-1 mix pressure, OneOncology, and customer concentration with Walgreens, Boots, and Evernorth. | This shows aging and treatment intensity as product-flow infrastructure. More treatment creates demand for distribution, specialty logistics, inventory flow, provider services, market access, and channel reliability. It also shows bargaining and margin pressure inside concentrated healthcare channels. |
 
 Bigger-picture conclusion:
 

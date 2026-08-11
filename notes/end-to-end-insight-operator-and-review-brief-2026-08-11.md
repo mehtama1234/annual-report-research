@@ -75,6 +75,10 @@ If you need to verify that the repo's live goal, queue, and review surfaces are 
 
 - [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
 
+If you want the shortest continuation-mode bridge from this page into the remaining-work stack, use:
+
+- [remaining-meaty-end-to-end-operator-brief-2026-08-11.md](remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+
 ## What The Archive Must Produce
 
 Every serious lane should leave behind four layers of output:

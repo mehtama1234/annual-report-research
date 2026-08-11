@@ -45,6 +45,7 @@ That means the next run should usually aim to do one or more of these:
 
 Use this together with:
 
+- [remaining-meaty-end-to-end-operator-brief-2026-08-11.md](remaining-meaty-end-to-end-operator-brief-2026-08-11.md) for the shortest continuation-mode statement of what remains and what outputs now count as real progress
 - [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md) for the higher-level statement of what is still left
 - [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md) for the reasoning behind why these batches matter
 

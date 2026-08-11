@@ -46,6 +46,10 @@ If you need to verify which live instruction, queue, template, and review surfac
 
 - [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
 
+If you want the shortest continuation-mode statement of what is still left before reading the fuller version here, use:
+
+- [remaining-meaty-end-to-end-operator-brief-2026-08-11.md](remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+
 ## The Remaining Meaty Goal
 
 The remaining end-to-end goal is to finish the archive as a working explanation of how the economy is changing.
@@ -63,6 +67,7 @@ In practical terms, the remaining work is:
 
 For the exact next executable batches that should do that work, use:
 
+- [remaining-meaty-end-to-end-operator-brief-2026-08-11.md](remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
 - [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
 
 ## The Four Remaining Work Layers

@@ -6,6 +6,21 @@ This file defines the current high-ambition lane mandates for the `annual-report
 
 These are not company samplers. They are lane-opening research briefs intended to push the archive into genuinely new territory.
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, several of the archive's highest-value lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means this file should not be read only as a blank-slate frontier-opening brief.
+
+It should also guide strengthening work inside already-open lanes.
+
+In practice, the best next run may do one or more of these instead of opening a fully new lane:
+
+- fill a missing flagship role
+- add the strongest contradiction or weak-link case
+- sharpen the burden-versus-beneficiary split
+- improve the next-filing break test
+
 ## Master pursuit goal
 
 Build `annual-report-research` into a disciplined multi-lane research archive that does two things at the same time:
@@ -154,7 +169,7 @@ A run is successful when it leaves behind:
 
 ## Standard for every CLI lane
 
-Your job is not to sample one company. Your job is to open a genuinely new research frontier in `annual-report-research`.
+Your job is not to sample one company. Your job is to leave `annual-report-research` materially more explanatory than it was before the run, whether that means opening a genuinely new lane or materially strengthening one that already exists.
 
 Cover the assigned `AnnualReports.com` industries end to end for `10` hours.
 Aim to complete `4` to `8` flagship company packets in the lane when the lane supports that breadth.

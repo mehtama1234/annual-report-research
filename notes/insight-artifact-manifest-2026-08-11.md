@@ -20,6 +20,7 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Meaty goal | Defines the larger ambition level: packets, lane economics, proof pages, societal shifts, operating pressures, and handoff quality. | [meaty-end-to-end-insight-goal-2026-08-11.md](meaty-end-to-end-insight-goal-2026-08-11.md) | Present |
 | Lane runbook | Gives the end-to-end execution sequence from lane definition through proof memos and closeout. | [lane-end-to-end-execution-runbook-2026-08-11.md](lane-end-to-end-execution-runbook-2026-08-11.md) | Present |
 | Execution templates | Provides copy-ready templates for packets, profiles, ledgers, lane summaries, proof memos, thesis breakers, and closeouts. | [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md) | Present |
+| Completion rubric | Forces future threads to prove that packets, lanes, and proof memos are actually finished rather than merely present. | [insight-completion-rubric-2026-08-11.md](insight-completion-rubric-2026-08-11.md) | Present |
 | Company-level guide | Explains how to extract strategy, economics, constraints, and thesis breakers at the company level. | [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md) | Present |
 | Industry-level guide | Explains how to read industry lanes internally. | [industry-level-strategy-guide-2026-08-10.md](../analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md) | Present |
 | Concrete insights map | Summarizes the cross-sector insights and points to deeper proof pages. | [concrete-insights-and-curiosity-map-2026-08-10.md](../analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md) | Present |
@@ -95,6 +96,7 @@ Primary review pages:
 - `http://localhost:8080/site/viewer.html?file=notes/insight-extraction-hub-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/master-insight-extraction-goal-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/insight-extraction-templates-2026-08-11.md`
+- `http://localhost:8080/site/viewer.html?file=notes/insight-completion-rubric-2026-08-11.md`
 
 ## Audit Checks
 
@@ -115,6 +117,7 @@ test -s notes/end-to-end-insight-master-instruction-2026-08-11.md
 test -s notes/meaty-end-to-end-insight-goal-2026-08-11.md
 test -s notes/lane-end-to-end-execution-runbook-2026-08-11.md
 test -s notes/insight-extraction-templates-2026-08-11.md
+test -s notes/insight-completion-rubric-2026-08-11.md
 test -s notes/insight-artifact-manifest-2026-08-11.md
 test -s notes/insight-driven-next-lane-queue-2026-08-11.md
 test -s analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md
@@ -144,6 +147,7 @@ The insight operating system now has:
 - lane execution runbook
 - hub
 - templates
+- completion rubric
 - company-level guide
 - industry-level guide
 - proof memo examples

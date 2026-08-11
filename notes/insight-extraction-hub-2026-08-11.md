@@ -55,43 +55,49 @@ Use it when taking a lane from first target selection to final proof memo and ha
 
 Use these when writing company packets, profiles, source ledgers, lane summaries, proof memos, aha moments, thesis breakers, and closeouts.
 
-6. Check the artifact manifest.
+6. Use the completion rubric.
+
+[insight-completion-rubric-2026-08-11.md](insight-completion-rubric-2026-08-11.md)
+
+Use it to decide whether a company packet, lane, or proof memo is actually finished rather than merely present.
+
+7. Check the artifact manifest.
 
 [insight-artifact-manifest-2026-08-11.md](insight-artifact-manifest-2026-08-11.md)
 
 Use it to audit that the required goal, templates, guides, proof memos, watchlists, and browser links exist.
 
-7. Use the company strategy guide.
+8. Use the company strategy guide.
 
 [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md)
 
 Use it when a packet needs to explain the company itself.
 
-8. Use the industry strategy guide.
+9. Use the industry strategy guide.
 
 [industry-level-strategy-guide-2026-08-10.md](../analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md)
 
 Use it when a batch needs to explain a lane.
 
-9. Use the metric glossary.
+10. Use the metric glossary.
 
 [metric-glossary-and-watchlist-2026-08-10.md](../analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md)
 
 Use it to decide which metrics to track next quarter.
 
-10. Use the thesis breaker index.
+11. Use the thesis breaker index.
 
 [thesis-breaker-index-2026-08-10.md](../analysis/cross-sector/thesis-breaker-index-2026-08-10.md)
 
 Use it to keep the research falsifiable.
 
-11. Use the aha and curiosity page.
+12. Use the aha and curiosity page.
 
 [aha-moments-and-curiosity-questions-2026-08-10.md](../analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md)
 
 Use it to identify the next questions worth pursuing.
 
-12. Use the insight-driven queue.
+13. Use the insight-driven queue.
 
 [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
 
@@ -168,6 +174,8 @@ Use these as examples of the expected standard.
 
 The company is not complete until the packet explains what the company is doing and what bigger signal it helps prove.
 
+Before calling a company complete, score it against the completion rubric and make sure it clears the flagship packet threshold.
+
 ## Workflow For A New Lane
 
 1. Choose 4-8 flagship companies when enough clean candidates exist.
@@ -185,6 +193,8 @@ The company is not complete until the packet explains what the company is doing 
 
 The lane is not complete until it explains how the lane works and what repeated patterns the flagship companies prove together.
 
+Before calling a lane complete, score it against the lane rubric and record what still scores weakly.
+
 ## Workflow For A New Theme
 
 1. State the plain claim.
@@ -197,6 +207,8 @@ The lane is not complete until it explains how the lane works and what repeated 
 8. Add next companies to test.
 
 The theme is not complete if it only names companies.
+
+Before calling a proof memo complete, score it against the proof-memo rubric and make sure the watch metrics and disconfirming evidence are explicit.
 
 ## Evidence Quality Ladder
 

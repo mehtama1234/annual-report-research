@@ -7,6 +7,10 @@ Repo: `annual-report-research`
 
 Build `annual-report-research` into a source-grounded pattern library for how the economy is changing.
 
+In one sentence:
+
+Use company filings to build a plain-English, evidence-backed map of how demand, labor, trust, infrastructure, care, software, property, capital, and consumer behavior are changing across the real economy.
+
 ## The Meaty Goal In One Block
 
 The end-to-end goal is to use company filings to extract the full stack of real-world insight the filings can support.
@@ -79,6 +83,12 @@ The finished system should let a reader move from a source document to a concret
 
 The goal is to convert company packets into evidence-backed explanations of the world.
 
+That means the archive has to do three jobs at once:
+
+- preserve the filing evidence
+- explain the company and lane correctly
+- pull out the wider pattern with enough concrete proof that a skeptical reader can follow it
+
 That means the output is not just:
 
 - `Company X grew revenue`
@@ -100,6 +110,34 @@ The standard evidence chain is:
 `source document -> exact fact -> company packet -> company strategy read -> lane comparison -> cross-company pattern -> plain-English insight -> watchlist and thesis breaker`
 
 If a writeup does not complete that chain, it is still intermediate work.
+
+## The Exact Packet Inputs That Must Feed Insight
+
+The bigger writeups should not float above the packets. They should be built from the exact packet sections.
+
+For each flagship company, the insight work should actively use:
+
+- source coverage status
+- annual report takeaways
+- latest three-quarter chain
+- plain-English operating model
+- company-level strategy read
+- growth engine
+- main economic lever
+- main operating constraint
+- exact supporting facts
+- burden-versus-beneficiary interpretation
+- thesis breaker
+- next filing watchlist
+- recommended peer comparisons
+
+Those packet sections are not administrative fields. They are the raw material for every serious lane summary and proof memo.
+
+The expected flow is:
+
+`packet facts -> company interpretation -> comparison table -> repeated pattern -> concrete implication -> next metric to watch`
+
+If a packet is missing the exact facts, operating constraint, burden read, or next-watch metric, it will usually produce shallow theme pages later.
 
 ## The Meaty Goal To Pursue
 
@@ -198,6 +236,16 @@ The archive should deliberately hunt for insights in all of these buckets whenev
 - burden-carrier versus relationship-owner insights
 - early signals that may become larger patterns next year
 
+The standard is not to force every company into every bucket.
+
+The standard is:
+
+- test every bucket honestly
+- say which buckets are primary
+- say which buckets are secondary
+- say which buckets are not supported by the filing window
+- keep only the buckets that the evidence can actually carry
+
 ## Completion Standard
 
 A lane is only truly complete when a reader can move through it in this order:
@@ -266,6 +314,46 @@ The work should surface:
 - contradictions between companies
 - adjacent sectors that could sharpen the claim
 
+### 5. Concrete Evidence Pages
+
+The repo should also produce pages whose main job is to prove one pattern in detail.
+
+Each evidence page should include:
+
+- the plain claim
+- at least three supporting companies
+- the exact facts pulled from each company packet
+- what each fact proves
+- the mechanism linking those facts together
+- the bigger plain-English conclusion
+- who benefits economically
+- who carries the burden
+- what weakens the claim
+- exact next metrics and next names to test
+
+These pages are where the archive stops being a packet collection and becomes a usable body of thinking.
+
+### 6. Lane HandOff And Continuity
+
+A lane is not truly complete if the next thread has to reverse-engineer what mattered.
+
+Every coherent batch should leave:
+
+- completed companies
+- partial companies
+- source gaps
+- strongest facts worth reusing
+- lane summary
+- cross-company patterns
+- aha moments
+- contradictions
+- thesis breakers
+- next-watch metrics
+- exact next recommended names
+- commit hash
+- raw blob status
+- remote main status
+
 ## What Counts As A Good Insight
 
 A good insight is not a slogan.
@@ -311,6 +399,13 @@ The archive should help a curious reader understand:
 - what examples make it concrete
 - what the implications are for households, businesses, patients, workers, operators, and investors
 
+The reader should be able to point to the exact packet evidence and say:
+
+- `this is the fact`
+- `this is what the fact means`
+- `this is why it matters beyond one company`
+- `this is what would change my mind`
+
 The writing should stay:
 
 - simple
@@ -350,6 +445,41 @@ Every coherent batch should end with:
 - next recommended names
 - raw blob status
 - remote main status
+
+## Meaty End-To-End Goal To Hand Another Thread
+
+Use this shorter block when you want the same ambition level in one reusable instruction:
+
+```text
+Use 2025 annual reports plus the latest three reported quarters as of 2026-08-10 to turn company filings into a concrete explanation of how the economy is changing.
+
+The job is not finished when the reports are collected or the packets are written. It is finished when the work can show, with exact company facts, what changed, why it changed, how we know, who benefits, who carries the burden, what repeats across companies, and what to watch next.
+
+For each flagship company, the packet must supply the raw materials for insight:
+- annual and quarter evidence
+- plain-English operating model
+- strategy read
+- growth engine
+- economic lever
+- operating constraint
+- exact supporting facts
+- burden-versus-beneficiary interpretation
+- thesis breaker
+- next filing watchlist
+
+For each lane, turn those packet inputs into:
+- lane economics
+- cross-company themes
+- concrete proof pages
+- consumer, cultural, societal, industrial, technical, infrastructure, and capital-burden insights when supported
+- aha moments
+- contradictions
+- thesis breakers
+- next-watch metrics
+- exact next recommended names
+
+Do not stop at summary. Connect the exact facts to the bigger mechanism. Explain why the pattern exists, who gets paid, who does the hard work, and what evidence would weaken the claim.
+```
 
 ## Reusable Master Instruction
 

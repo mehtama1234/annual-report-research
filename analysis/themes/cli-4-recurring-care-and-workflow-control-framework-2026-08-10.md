@@ -72,6 +72,59 @@ The completed CLI 4 batches now support a stronger organizing frame than “heal
 - Diversified product breadth still matters in healthcare. Abbott and Johnson & Johnson absorb category-specific pressure better than narrower models.
 - Major pharma remains necessary but less clean than the best installed-base or workflow-control models because product cycles, pricing, and pipeline execution keep resetting the earnings base.
 
+## Applied comparison memos
+
+- [Healthcare Burden Versus Workflow Comparison](../cross-sector/healthcare-burden-vs-workflow-comparison-2026-08-11.md)
+- [Payer Versus Provider Versus Tools In Healthcare Comparison](../cross-sector/payer-versus-provider-versus-tools-healthcare-comparison-2026-08-11.md)
+- [Healthcare Testing, Distribution, And Delivery Comparison](../cross-sector/healthcare-testing-distribution-delivery-comparison-2026-08-11.md)
+- [Healthcare Reimbursement, Labor, And Utilization Watchlist](../cross-sector/healthcare-reimbursement-labor-and-utilization-watchlist-2026-08-11.md)
+
+## Burden versus workflow overlay
+
+The newer comparison work makes the main CLI 4 split much more concrete.
+
+The archive now shows four different ways recurring healthcare demand behaves after it hits real operating pressure:
+
+- payer coordination can still be large and profitable, but payment design, medical-cost trend, policy scrutiny, and trust repair can quickly overwhelm the simple “defensive healthcare” story
+- providers can have clear demand and still carry the messiest economics because admissions, labor, payer mix, throughput, and reimbursement timing all have to line up at once
+- diagnostics, tools, and installed workflow platforms often keep cleaner economics because they monetize repeated clinical activity without carrying the full staffing and care-delivery burden
+- diversified pharma and MedTech platforms can smooth category-specific shocks, but they still live inside pricing, access, approval, portfolio-replacement, and procedure-volume pressure
+
+That means the central healthcare question in this archive is no longer whether demand exists.
+
+It is where the burden lands after demand arrives.
+
+`UnitedHealth` and `HCA` are the clearest burden carriers in the current set.
+`Brookdale` shows that aging demand becomes a physical operating problem the moment occupancy, staffing, and care intensity rise together.
+`Abbott`, `Stryker`, and `Intuitive` show a cleaner model in which hospitals and clinicians keep routing work through an embedded device or procedure system.
+`Johnson & Johnson` and `Pfizer` show that therapeutic demand still has to survive portfolio churn, pricing pressure, launch execution, and approval risk before it becomes durable earnings quality.
+
+## What the current filing window actually proved
+
+The lane now supports several stronger conclusions than it did in the first pass.
+
+- `Healthcare demand is durable, but economics are uneven.` The filings support durability in coverage, admissions, procedures, diagnostics, chronic monitoring, and senior living occupancy. They do not support the idea that all of those demand streams convert into equally clean profits.
+- `Workflow control matters more than broad sector exposure.` The better economics tend to sit with the company controlling a recurring workflow, installed system, procedure loop, testing route, or product ecosystem rather than with the company carrying the full reimbursement or labor burden.
+- `Aging is not an abstract theme.` Brookdale makes aging visible in occupancy, RevPAR, care intensity, and staffing needs, while UnitedHealth and HCA show the financing and provider burden that a sicker and older population pushes into the system.
+- `Outside-hospital and provider-adjacent care is promising but not automatically easy.` The broader healthcare work now points toward home care, infusion, diagnostics, and distribution as important follow-on areas precisely because they may escape some hospital burden without escaping labor, documentation, or reimbursement friction altogether.
+- `Diversification helps, but does not erase healthcare system pressure.` Abbott and Johnson & Johnson look more resilient than narrower models, but resilience still depends on category mix, pricing, procedure trends, access, and execution.
+
+## Next-filing watchpoints
+
+The next filing window should not be read as a generic check on healthcare growth.
+
+It should be read as a stress test on whether the current burden split is widening or narrowing:
+
+- `UnitedHealth`: does margin repair hold up once medical-cost trend, pharmacy economics, transparency pressure, and trust repair are forced through another quarter?
+- `HCA`: do admissions, equivalent admissions, and revenue per equivalent admission convert into better economics after labor and payer-mix pressure?
+- `Brookdale`: does occupancy progress keep translating into operating leverage, or do labor and resident-acuity needs absorb the gain?
+- `Abbott`, `Stryker`, and `Intuitive`: do installed-base and procedure platforms keep looking cleaner than burden-heavy care delivery, or does capital intensity and procedure variability narrow that gap?
+- `Johnson & Johnson` and `Pfizer`: do portfolio breadth and launches keep offsetting pricing, exclusivity, and commercialization resets?
+
+If those burden-heavy layers start converting demand more cleanly, the current CLI 4 interpretation will need to soften.
+
+If the workflow and installed-base layers keep converting demand more cleanly than payers, providers, and labor-heavy operators, then CLI 4 becomes one of the archive's strongest proof cases that recurring demand and recurring quality are not the same thing.
+
 ## Skeptical Reader Test
 
 - Which packet facts show healthcare quality depending on workflow position rather than on generic defensive demand?

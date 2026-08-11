@@ -6,13 +6,14 @@ cd "$repo_root"
 
 reusable_note_manifest="indexes/reusable-note-layer-files-2026-08-11.txt"
 historical_note_manifest="indexes/historical-note-exclusion-files-2026-08-11.txt"
+note_boundary_report="notes/note-layer-boundary-audit-2026-08-11.md"
 
 required_files=(
   "$reusable_note_manifest"
   "$historical_note_manifest"
   "indexes/historical-note-exclusion-categories-2026-08-11.tsv"
   "scripts/audit-note-layer-boundary.sh"
-  "notes/note-layer-boundary-audit-2026-08-11.md"
+  "$note_boundary_report"
   "notes/insight-extraction-hub-2026-08-11.md"
   "notes/master-insight-extraction-goal-2026-08-11.md"
   "notes/end-to-end-insight-master-instruction-2026-08-11.md"
@@ -751,6 +752,15 @@ for path in "${reusable_note_files[@]}"; do
     exit 1
   fi
 done
+
+tmp_report="$(mktemp)"
+trap 'rm -f "$tmp_report"' EXIT
+bash scripts/audit-note-layer-boundary.sh --write-report "$tmp_report" >/dev/null
+if ! cmp -s "$note_boundary_report" "$tmp_report"; then
+  printf 'stale note boundary report: %s\n' "$note_boundary_report" >&2
+  printf 'regenerate with: bash scripts/audit-note-layer-boundary.sh --write-report %s\n' "$note_boundary_report" >&2
+  exit 1
+fi
 
 for item in "${required_patterns[@]}"; do
   path="${item%%:*}"

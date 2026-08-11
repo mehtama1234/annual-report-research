@@ -206,6 +206,7 @@ The dedicated note-layer audit script prints the current partition counts and fa
 - the manifest union no longer matches the top-level note inventory
 - a historically excluded note drifts into having both standardized sections without being reclassified
 - the historical exclusion category map no longer matches the historical exclusion file list or uses an invalid category label
+- the committed note-boundary report no longer matches a freshly generated report from the same manifests
 
 Manual equivalent:
 

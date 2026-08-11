@@ -8,6 +8,19 @@ The filings do not show one simple consumer story. They show a selective consume
 
 People are still spending when the purchase feels valuable, useful, habitual, expressive, healthy, comfortable, or tied to an occasion. They are pulling back or forcing reinvestment when products feel too expensive, too generic, or too easy to delay.
 
+## Packet Inputs Used
+
+This proof relies on the packet sections that show consumer selectivity directly:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as one broad consumer narrative laid on top of unrelated companies.
+
 ## Exact Evidence
 
 | Company | Exact packet facts | What it proves |
@@ -32,6 +45,17 @@ People are still spending when the purchase feels valuable, useful, habitual, ex
 The right question is not "is the consumer strong or weak?" The right question is "what does the consumer refuse to give up, and what are they willing to trade down, delay, or abandon?"
 
 Costco proves value access. Ulta and e.l.f. prove discovery and self-presentation. Crocs and Deckers prove comfort and identity. General Mills proves that even staples need renewed value. Graphic Packaging proves that the pressure reaches the supply chain.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the consumer decision?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, causal chain, and weakening conditions below.
 
 ## What Would Weaken This
 

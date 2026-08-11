@@ -8,6 +8,19 @@ Many of the most important companies in the archive are not visible consumer bra
 
 The evidence does not come from calling them "boring infrastructure." It comes from exact packet details: route volume, branch count, supplier count, customer count, backlog, fleet, working capital, service density, water testing, hygiene, product coding, and safety workflows.
 
+## Packet Inputs Used
+
+This proof depends on the packet sections that make hidden operating dependence visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic praise-of-infrastructure theme.
+
 ## Exact Evidence
 
 | Company | Exact packet facts | What it proves |
@@ -31,6 +44,17 @@ The evidence does not come from calling them "boring infrastructure." It comes f
 The hidden companies are not "background." They are the operating layer of the economy. A restaurant visit depends on Sysco. A contractor job depends on Ferguson or WESCO. A factory or hospital depends on Grainger. Clean water, food safety, contamination control, and product traceability depend on Ecolab and Veralto.
 
 The deeper lesson is that infrastructure is not only roads, utilities, and data centers. It is also the repeated service and distribution work that prevents daily systems from breaking.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the operating chain?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, causal chain, and weakening conditions below.
 
 ## What Would Weaken This
 

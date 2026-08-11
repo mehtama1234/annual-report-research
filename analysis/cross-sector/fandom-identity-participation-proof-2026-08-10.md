@@ -8,6 +8,19 @@ Some consumer spending is durable because it gives people a role: fan, player, v
 
 The evidence is concrete. It appears in segment income, memberships, hours watched, DAUs, developer payouts, parks revenue, beauty loyalty, footwear DTC, and global entertainment monetization.
 
+## Packet Inputs Used
+
+This proof relies on the packet sections that show repeated belonging and participation directly:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a loose cultural-observation page.
+
 ## Exact Evidence
 
 | Company | Exact packet facts | What it proves |
@@ -32,6 +45,17 @@ The evidence is concrete. It appears in segment income, memberships, hours watch
 Fandom and participation are not soft concepts. Disney proves it through Experiences profit. Netflix proves it through paid memberships, hours watched, and ad growth. Roblox proves it through DAUs, hours, bookings, and developer payouts. Ulta and e.l.f. prove it through beauty discovery and cultural relevance. Crocs and Deckers prove it through comfort and identity.
 
 The big lesson is that some of the best consumer businesses are not selling objects. They are selling repeated belonging.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the participation loop?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, causal chain, and weakening conditions below.
 
 ## What Would Weaken This
 

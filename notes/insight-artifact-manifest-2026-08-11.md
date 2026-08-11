@@ -206,7 +206,7 @@ bash scripts/audit-note-layer-boundary.sh --write-artifacts notes/note-layer-bou
 bash scripts/refresh-note-layer-boundary.sh
 ```
 
-The verifier checks required files, required phrases, browser-entry links, and the deeper insight-stack sections that future packets, lane summaries, and proof memos are expected to contain. If the local server is not running, the file and link-source checks still prove the repo-side structure.
+The verifier checks required files, required phrases, browser-entry links, the strengthened onboarding/operator surfaces, and the deeper insight-stack sections that future packets, lane summaries, and proof memos are expected to contain. If the local server is not running, the file and link-source checks still prove the repo-side structure.
 
 The raw-evidence governance verifier separately checks:
 
@@ -218,6 +218,7 @@ The raw-evidence governance verifier separately checks:
 
 It also checks that:
 
+- the top-level onboarding docs carry the packet-field-fit and claim-type proof standard
 - lane summaries name which packet inputs they rely on
 - lane summaries make packet-field fit explicit rather than only listing section names
 - proof memos declare packet inputs used before making the conclusion
@@ -249,8 +250,11 @@ The refresh wrapper is the one-command maintenance path:
 Manual equivalent:
 
 ```bash
+test -s README.md
+test -s START-HERE.md
 test -s notes/insight-extraction-hub-2026-08-11.md
 test -s notes/master-insight-extraction-goal-2026-08-11.md
+test -s notes/master-operator-brief-2026-08-10.md
 test -s notes/end-to-end-insight-master-instruction-2026-08-11.md
 test -s notes/meaty-end-to-end-insight-goal-2026-08-11.md
 test -s notes/lane-end-to-end-execution-runbook-2026-08-11.md
@@ -279,6 +283,9 @@ Check browser links:
 ```bash
 curl -fsS http://localhost:8080/site/index.html | rg 'Insight extraction hub|Master insight extraction goal|Operator-ready master instruction|Insight extraction templates'
 curl -fsS http://localhost:8080/site/concrete-insights.html | rg 'Insight extraction hub|Master insight extraction goal|Operator-ready master instruction|Insight extraction templates'
+rg 'The packet fields should do explicit analytical work|Different claim types also need different proof burdens' README.md
+rg 'The packet fields should also do explicit analytical work|Different claim types also need different proof burdens' START-HERE.md
+rg 'The packet fields should also do explicit analytical work|Different claim types also need different proof burdens' notes/master-operator-brief-2026-08-10.md
 curl -fsS http://localhost:8080/notes/insight-extraction-hub-2026-08-11.md | rg 'Workflow For A New Company|Workflow For A New Lane|Workflow For A New Theme'
 rg 'Insight Stack|Insight Stack Across The Lane|Packet Inputs Used For Lane Insight|Packet Inputs Used|Reader Test|Beneficiaries And Burden Carriers|Why This Matters Now' notes/insight-extraction-templates-2026-08-11.md
 rg 'consumer behavior shift|relationship-owner versus burden-carrier split|consumer, cultural, societal, industrial, technical, or capital-structure meaning is explicit' notes/lane-end-to-end-execution-runbook-2026-08-11.md

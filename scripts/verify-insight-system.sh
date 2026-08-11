@@ -16,6 +16,7 @@ required_files=(
   "$historical_note_manifest"
   "indexes/historical-note-exclusion-categories-2026-08-11.tsv"
   "indexes/legacy-root-raw-reference-top-files-2026-08-11.tsv"
+  "scripts/audit-maintenance-doc-stack.sh"
   "scripts/audit-note-layer-boundary.sh"
   "scripts/audit-continuation-mode-links.sh"
   "scripts/audit-browser-review-links.sh"
@@ -236,21 +237,26 @@ required_patterns=(
   "README.md:Different claim types also need different proof burdens"
   "README.md:Continuation mode alignment audit"
   "README.md:bash scripts/refresh-note-layer-boundary.sh"
+  "README.md:bash scripts/audit-maintenance-doc-stack.sh"
   "README.md:bash scripts/audit-continuation-mode-links.sh"
   "README.md:bash scripts/audit-browser-review-links.sh"
   "README.md:bash scripts/verify-insight-system.sh"
   "START-HERE.md:bash scripts/refresh-note-layer-boundary.sh"
+  "START-HERE.md:bash scripts/audit-maintenance-doc-stack.sh"
   "START-HERE.md:bash scripts/audit-continuation-mode-links.sh"
   "START-HERE.md:bash scripts/audit-browser-review-links.sh"
   "START-HERE.md:bash scripts/verify-insight-system.sh"
+  "notes/insight-note-standardization-cutoff-2026-08-11.md:bash scripts/audit-maintenance-doc-stack.sh"
   "notes/insight-note-standardization-cutoff-2026-08-11.md:bash scripts/audit-continuation-mode-links.sh"
   "notes/insight-note-standardization-cutoff-2026-08-11.md:bash scripts/audit-browser-review-links.sh"
   "notes/insight-note-standardization-cutoff-2026-08-11.md:bash scripts/refresh-note-layer-boundary.sh"
   "notes/insight-extraction-hub-2026-08-11.md:bash scripts/verify-insight-system.sh"
+  "notes/insight-artifact-manifest-2026-08-11.md:bash scripts/audit-maintenance-doc-stack.sh"
   "notes/insight-artifact-manifest-2026-08-11.md:bash scripts/audit-continuation-mode-links.sh"
   "notes/insight-artifact-manifest-2026-08-11.md:bash scripts/audit-browser-review-links.sh"
   "notes/insight-artifact-manifest-2026-08-11.md:bash scripts/refresh-note-layer-boundary.sh"
   "notes/insight-artifact-manifest-2026-08-11.md:bash scripts/verify-insight-system.sh"
+  "notes/continuation-mode-alignment-audit-2026-08-11.md:bash scripts/audit-maintenance-doc-stack.sh"
   "notes/continuation-mode-alignment-audit-2026-08-11.md:bash scripts/audit-continuation-mode-links.sh"
   "notes/continuation-mode-alignment-audit-2026-08-11.md:bash scripts/audit-browser-review-links.sh"
   "notes/continuation-mode-alignment-audit-2026-08-11.md:bash scripts/verify-insight-system.sh"
@@ -1005,6 +1011,7 @@ if [[ "${#reusable_note_files[@]}" -eq 0 ]]; then
 fi
 
 bash scripts/audit-note-layer-boundary.sh >/dev/null
+bash scripts/audit-maintenance-doc-stack.sh >/dev/null
 bash scripts/audit-continuation-mode-links.sh >/dev/null
 
 for path in "${reusable_note_files[@]}"; do

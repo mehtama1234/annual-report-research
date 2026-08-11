@@ -58,6 +58,8 @@ Use these when you need to refresh or verify the note-boundary and insight-syste
   - `bash scripts/refresh-note-layer-boundary.sh`
 - direct boundary audit only:
   - `bash scripts/audit-note-layer-boundary.sh`
+- maintenance-doc audit:
+  - `bash scripts/audit-maintenance-doc-stack.sh`
 - continuation-link audit:
   - `bash scripts/audit-continuation-mode-links.sh`
 - browser review-link audit:

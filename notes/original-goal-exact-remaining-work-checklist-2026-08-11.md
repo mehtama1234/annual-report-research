@@ -180,27 +180,24 @@ Already strong:
 - scientific and technical instruments: `Keysight`, `Teledyne`
 - semiconductor equipment and materials: `Applied Materials`, `KLA`, `Lam Research`, `Teradyne`
 - hidden hardware and connection layer: `Corning`, `Amphenol`, `Motorola`, `Arista`
-- adjacent system and control layers: `HPE`, `Epson`, `Zebra`, `ServiceNow`, `Accenture`, `Leidos`, `CACI`
+- adjacent system and control layers: `HPE`, `Dell`, `Oracle`, `HP`, `Epson`, `Zebra`, `Palo Alto`, `Zscaler`, `ServiceNow`, `Accenture`, `Leidos`, `CACI`
 
 Still thin or still needing a cleaner comparison set:
 
-- computer peripherals is basically one flagship anchor around `Zebra`
-- computer based systems is basically one flagship anchor around `Epson`
-- diversified computer systems is still one main anchor around `HPE`
 - healthcare information services is named in the broadened mission but not yet an explicit finished cluster
-- business software and services plus technical and system software exist, but are still spread across adjacent labels rather than framed as one explicit extension set
+- the explicit endpoint / systems / trust-control comparison is now materially stronger, but the healthcare workflow bridge inside that map is still thin
+- business software and services plus technical and system software now read more clearly as one extension set, but still benefit from one more bridge case that ties enterprise control to healthcare workflow or institutional operations
 
 Best exact next names:
 
-1. `Oracle Corporation` to make healthcare workflow and enterprise systems a more explicit extension inside the broader control-layer stack
-2. `GE HealthCare Technologies Inc.` if the goal is to bridge healthcare information, devices, and workflow systems through a public operator
-3. `HP Inc.` to deepen the peripherals and endpoint layer beyond one barcode-and-industrial-interface case
-4. `Dell Technologies Inc.` to tighten the enterprise system stack against `HPE`
-5. `Palo Alto Networks, Inc.` to widen the security-control comparison against `Zscaler`
+1. `GE HealthCare Technologies Inc.` to bridge healthcare information, devices, and workflow systems through a public operator
+2. `CrowdStrike Holdings, Inc.` only if the goal is to deepen the trust-control layer beyond `Zscaler` and `Palo Alto`
+3. `Ciena Corporation` if the goal is to deepen active optical and network-control economics against the existing Corning and Arista logic
+4. `Iridium Communications Inc.` if the goal is to add a more specialized communications-control architecture rather than deepen enterprise systems further
 
 Why these names matter:
 
-- they close the hardware-system extension holes the audit was pointing at
+- they finish the remaining bridge cases rather than reopening already-strengthened endpoint and systems roles
 - they turn the broadened CLI 5 mission into a more explicit control-layer map rather than a strong but still slightly scattered collection
 
 ### CLI 6 Capital Structures, Property, And Conglomerates

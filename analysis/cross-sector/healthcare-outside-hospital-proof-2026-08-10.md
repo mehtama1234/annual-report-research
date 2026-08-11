@@ -9,6 +9,7 @@ Healthcare is becoming a repeated operating system that extends beyond hospitals
 Applied comparison memo:
 
 - [healthcare-burden-vs-workflow-comparison-2026-08-11.md](healthcare-burden-vs-workflow-comparison-2026-08-11.md)
+- [payer-versus-provider-versus-tools-healthcare-comparison-2026-08-11.md](payer-versus-provider-versus-tools-healthcare-comparison-2026-08-11.md)
 
 ## Packet Inputs Used
 
@@ -48,6 +49,48 @@ The hospital is no longer the only useful healthcare lens. The archive shows a w
 
 The important question is not only "who treats the patient?" It is "who repeats the care, supplies the care, documents the care, gets reimbursed for the care, and keeps the patient out of a more expensive setting?"
 
+## Burden Stack Overlay
+
+The newer healthcare comparison pages make the outside-hospital thesis more concrete by showing that recurring care does not create one shared economic profile.
+
+The cleaner reading now is:
+
+- repeated-care demand can move outside the hospital
+- but burden still has to land somewhere
+- the provider and payer layers usually absorb more labor, reimbursement, utilization, and trust stress than the middle workflow layers
+
+The clearest overlay from the current packet set is:
+
+| Layer | Best current examples | What it owns | Main burden |
+|---|---|---|---|
+| Care coordination and payment | `UnitedHealth` | benefits, claims, Optum workflow, pharmacy economics, care management | medical-cost trend, policy scrutiny, trust repair, prior-authorization reform, reserve and pricing pressure |
+| Hospital throughput | `HCA` | inpatient and outpatient capacity, service mix, local market networks | labor, payer mix, admissions volatility, Medicaid timing, capex, physical execution |
+| Outside-hospital recurring care | `DaVita`, `Option Care`, `Addus`, `AdaptHealth` | treatment cadence, infusion scheduling, personal-care hours, home equipment and resupply | reimbursement, staffing, documentation, route density, patient adherence, cash conversion |
+| Diagnostic and supply middle layer | `Quest`, `Cencora` | testing, specimen flow, drug distribution, specialty channel coordination | payer pressure, low margin rates, logistics, working capital, policy and traceability rules |
+| Tools and installed workflow | `Thermo Fisher`, `Abbott` | lab instruments, consumables, diagnostics, devices, chronic-care monitoring | research budgets, adoption, reimbursement, category mix, competition |
+| Diversified healthcare portfolio | `Johnson & Johnson` | medicine plus MedTech breadth | patent pressure, procedure demand, pricing, access, litigation |
+
+The bigger point is that outside-hospital care is real, but it does not erase burden. It redistributes burden across coordination, labor, diagnostics, supply, and workflow layers.
+
+## Next-Filing Watchlist
+
+The outside-hospital thesis should be tightened with the next filing window, not just repeated.
+
+The most important things to watch are:
+
+- `UnitedHealth`: medical-cost trend, Optum performance, prior-authorization changes, pharmacy-transparency pressure, and cash flow recovery
+- `HCA`: same-facility admissions, equivalent admissions, payer mix, labor cost, Medicaid supplemental-payment timing, and EBITDA conversion
+- `DaVita`: treatments per day, integrated kidney-care enrollment, reimbursement commentary, and operating cash flow
+- `Option Care`: alternate-site volume, therapy mix, nursing availability, payer commentary, and adjusted EBITDA
+- `Addus`: personal-care growth, hospice mix, caregiver hiring, and state reimbursement support
+- `AdaptHealth`: organic growth, free cash flow, resupply intensity, documentation quality, and payer behavior
+- `Quest`: requisition volume, revenue per requisition, advanced diagnostics, and consumer channel growth
+- `Cencora`: specialty utilization, adjusted operating income, working capital, and policy-sensitive product-flow commentary
+- `Abbott`: diagnostics growth, device adoption, chronic-care demand, and installed-base momentum
+- `Thermo Fisher`: organic growth, segment mix, adjusted margin, and biopharma/research demand
+
+If volume keeps shifting outward but payer, provider, and home-care operators cannot turn that shift into cleaner economics, then the archive should treat outside-hospital growth as real demand with structurally messy burden rather than as a simple quality upgrade.
+
 ## Skeptical Reader Test
 
 A skeptical reader should be able to answer:
@@ -65,6 +108,7 @@ This page is only strong if those four answers are visible from the evidence tab
 - If caregiver or clinician shortages block demand conversion.
 - If home and alternate-site care produces poor outcomes or payer resistance.
 - If equipment and diagnostic demand slows because coverage tightens.
+- If payer and hospital filings keep showing that the heaviest burden is not actually leaving the traditional care-delivery core.
 
 ## Curiosity Questions
 

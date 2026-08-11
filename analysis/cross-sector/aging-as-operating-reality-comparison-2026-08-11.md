@@ -143,6 +143,42 @@ Ventas depends on supply scarcity, operating-platform quality, and capital pacin
 
 That makes senior housing part healthcare system, part property system, and part family-support system.
 
+## Top-Of-System Overlay
+
+The aging packets get stronger when they are read alongside the newer payer-versus-provider-versus-tools healthcare comparisons.
+
+Those adjacent comparisons add an important discipline:
+
+- aging creates more recurring need
+- but recurring need does not mean every layer gets clean economics
+
+The current archive now points to a fuller aging stack:
+
+| Layer | Best current examples | Why it matters for aging | Main burden |
+|---|---|---|---|
+| Senior housing and care settings | `Brookdale`, `Ventas` | Older populations need supported environments, occupancy recovery, and capital-backed supply. | labor, occupancy, acuity, property costs, capital intensity |
+| Home support and equipment continuity | `Addus`, `AdaptHealth` | More aging care is being delivered through daily support, resupply, respiratory products, sleep therapy, and home workflow. | reimbursement, caregiver supply, documentation, cash conversion, route density |
+| Chronic-treatment maintenance | `DaVita` | Aging often becomes repeated chronic-condition treatment rather than one-time intervention. | reimbursement, staffing, center economics, treatment growth |
+| Monitoring and therapy flow | `Quest`, `Cencora` | Older populations need recurring testing, information flow, specialty therapies, and dependable product routing. | payer pressure, low margin rates, working capital, logistics, policy |
+| Coordination and hospital burden | `UnitedHealth`, `HCA` | Aging demand still eventually loads onto payer administration and hospital throughput when conditions worsen or complexity rises. | medical-cost trend, labor, payer mix, trust, public-policy pressure, capacity strain |
+| Tools and chronic-care workflow | `Abbott`, `Thermo Fisher` | Monitoring devices, diagnostics, lab workflow, and scientific systems help support aging populations without always carrying the full provider burden. | adoption, reimbursement, research budgets, category mix, competition |
+
+The important point is that aging is not only a demographic growth story and not only a senior-housing story.
+
+It is a multi-layer operating system whose burden gets split across:
+
+- housing
+- home labor
+- home equipment
+- chronic treatment
+- testing
+- therapy flow
+- payer administration
+- hospital throughput
+- devices and diagnostic workflow
+
+That is the richer reason the archive keeps finding aging across sectors rather than in one healthcare bucket.
+
 ## Stronger Conclusion
 
 The stronger conclusion is that aging is one of the clearest cross-sector operating realities in the archive.
@@ -200,6 +236,13 @@ Brookdale, Addus, AdaptHealth, and DaVita all show that recurring need does not 
 | Quest | requisition volume, revenue per requisition, advanced diagnostics growth, consumer channel | tests monitoring demand and price pressure |
 | Cencora | adjusted operating income, specialty mix, working capital, policy commentary, distribution scale | tests whether product-flow economics stay durable |
 
+Cross-check metrics from adjacent healthcare layers:
+
+- `UnitedHealth`: medical-cost trend, Optum performance, policy commentary, prior-authorization reform, and cash flow
+- `HCA`: admissions, revenue per equivalent admission, labor cost, payer mix, Medicaid supplemental-payment timing, and adjusted EBITDA
+- `Abbott`: Diagnostics growth, Medical Devices growth, and chronic-care monitoring demand
+- `Thermo Fisher`: organic growth, diagnostic and biopharma workflow demand, and adjusted operating margin
+
 ## Thesis Breakers
 
 This aging-system thesis weakens if:
@@ -209,6 +252,7 @@ This aging-system thesis weakens if:
 - chronic-treatment and testing intensity do not remain durable as the older population grows
 - product-flow and specialty-distribution economics weaken despite rising care complexity
 - families, providers, or payers become less willing to fund supported settings, home support, or recurring monitoring
+- the payer and hospital layers show they can absorb aging demand cleanly enough that the burden looks less distributed than the current archive suggests
 
 ## Skeptical Reader Test
 

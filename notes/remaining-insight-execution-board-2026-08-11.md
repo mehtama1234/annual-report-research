@@ -48,6 +48,10 @@ Use this together with:
 - [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md) for the higher-level statement of what is still left
 - [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md) for the reasoning behind why these batches matter
 
+If you need to verify which live instruction, queue, template, and review surfaces already reflect that continuation-phase state, use:
+
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
+
 ## Packet-Input Translation Requirement
 
 Every batch should leave a short packet-input table or equivalent note that says which packet sections generated the later conclusion.

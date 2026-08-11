@@ -53,6 +53,10 @@ They are the names that do one of these:
 - test whether the burden carrier can still outperform the cleaner layer
 - sharpen which metric would actually break the current read
 
+If you need to verify which live goal, execution, template, and review surfaces already reflect that continuation-phase state, use:
+
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
+
 ## Selection Rule
 
 Do not pick the next company because an industry page is thin.

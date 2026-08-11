@@ -234,6 +234,7 @@ Primary review pages:
 - `http://localhost:8080/site/viewer.html?file=notes/master-insight-extraction-goal-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/end-to-end-insight-master-instruction-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md`
+- `http://localhost:8080/site/viewer.html?file=notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/remaining-end-to-end-insight-goal-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/remaining-insight-execution-board-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/insight-extraction-templates-2026-08-11.md`

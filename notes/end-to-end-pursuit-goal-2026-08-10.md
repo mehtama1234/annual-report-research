@@ -35,6 +35,10 @@ In practice, the best next run may do one or more of these:
 - sharpen the burden-versus-beneficiary split
 - improve the next-filing break test
 
+If you need to verify which live goal, queue, template, and review surfaces already reflect that continuation-phase state, use:
+
+- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
+
 ## Core objective
 
 Leave `annual-report-research` materially more explanatory than it was before the run, whether that means opening a genuinely new lane or materially strengthening one that already exists.

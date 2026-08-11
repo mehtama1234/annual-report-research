@@ -47,6 +47,10 @@ The remaining job is mainly:
 
 This note should therefore be read as a continuation goal, not a blank-slate build brief.
 
+If you need to verify which live goal, queue, template, and review surfaces already reflect that continuation-phase state, use:
+
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
+
 ## The Meaty Goal In One Block
 
 The end-to-end goal is to use company filings to extract the full stack of real-world insight the filings can support.

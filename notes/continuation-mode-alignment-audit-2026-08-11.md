@@ -72,6 +72,7 @@ In plain terms:
 
 During the alignment pass, the repo repeatedly passed:
 
+- `bash scripts/audit-continuation-mode-links.sh`
 - `bash scripts/audit-browser-review-links.sh`
 - `bash scripts/verify-insight-system.sh`
 

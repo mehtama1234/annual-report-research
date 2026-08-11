@@ -17,6 +17,7 @@ required_files=(
   "indexes/historical-note-exclusion-categories-2026-08-11.tsv"
   "indexes/legacy-root-raw-reference-top-files-2026-08-11.tsv"
   "scripts/audit-note-layer-boundary.sh"
+  "scripts/audit-continuation-mode-links.sh"
   "scripts/audit-browser-review-links.sh"
   "scripts/audit-legacy-root-references.sh"
   "scripts/refresh-note-layer-boundary.sh"
@@ -984,6 +985,7 @@ if [[ "${#reusable_note_files[@]}" -eq 0 ]]; then
 fi
 
 bash scripts/audit-note-layer-boundary.sh >/dev/null
+bash scripts/audit-continuation-mode-links.sh >/dev/null
 
 for path in "${reusable_note_files[@]}"; do
   if [[ ! -s "$path" ]]; then

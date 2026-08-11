@@ -8,6 +8,19 @@ The company closest to the customer decision often has cleaner economics than th
 
 This is not always true, but the pattern repeats enough to make it one of the archive's central questions.
 
+## Packet Inputs Used
+
+This proof relies on the packet sections that separate cleaner relationship economics from heavier burden carrying:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic asset-light-versus-asset-heavy slogan.
+
 ## Exact Evidence
 
 | Comparison | Exact packet facts | What it proves |
@@ -32,6 +45,17 @@ This is not always true, but the pattern repeats enough to make it one of the ar
 The archive should always separate "who gets chosen" from "who carries the weight." Marriott is not the same economic animal as a hotel REIT. Marsh is not the same as an insurer. S&P Global is not a bank. WESCO is not the contractor doing the installation. Device and diagnostics companies are not hospitals.
 
 The best business may be the company that controls the repeat decision, not the one doing the hardest visible work.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the relationship-versus-burden split?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, causal chain, and weakening conditions below.
 
 ## What Would Weaken This
 

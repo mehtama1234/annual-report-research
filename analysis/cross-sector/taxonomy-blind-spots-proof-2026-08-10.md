@@ -8,6 +8,19 @@ AnnualReports taxonomy is useful for organizing filings, but it often hides the 
 
 The archive should use taxonomy as a starting point, not as the conclusion.
 
+## Packet Inputs Used
+
+This proof relies on the packet sections that reveal the company's real economic job beneath the filing label:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a complaint about category naming.
+
 ## Exact Evidence
 
 | Company | Taxonomy issue | Exact packet facts | Better economic role |
@@ -32,6 +45,17 @@ The archive should use taxonomy as a starting point, not as the conclusion.
 The taxonomy is the map shelf, not the map. Ecolab is not only chemicals. Veralto is not only treatment controls. WESCO is not only wholesale. Roblox is not only software. Graphic Packaging is not only packaging. CrowdStrike is not only application software.
 
 The real question is what repeated need the company serves.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean about the company's real economic role?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, causal chain, and weakening conditions below.
 
 ## What Would Weaken This
 

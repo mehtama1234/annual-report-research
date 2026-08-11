@@ -6,6 +6,19 @@ Date baseline: 2026-08-10
 
 Trust is not just a brand feeling. Across the filings, trust becomes something customers pay for directly: ratings, insurance placement, cybersecurity, lab testing, water quality, hygiene, product traceability, ad verification, and market data.
 
+## Packet Inputs Used
+
+This proof relies on the packet sections that make paid proof and control visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a loose statement that trust matters.
+
 ## Exact Evidence
 
 | Company | Exact packet facts | What it proves |
@@ -29,6 +42,17 @@ Trust is not just a brand feeling. Across the filings, trust becomes something c
 Trust has become an operating category. S&P Global sells trusted market reference points. Marsh sells risk navigation. CrowdStrike sells digital control. Quest sells diagnostic certainty. Ecolab and Veralto sell invisible physical proof.
 
 The archive should treat proof, safety, measurement, and reliability as a real demand lane, not as soft language.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the proof or trust layer?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, causal chain, and weakening conditions below.
 
 ## What Would Weaken This
 

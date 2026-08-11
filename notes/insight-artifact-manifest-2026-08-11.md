@@ -26,8 +26,8 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Operator-ready master instruction | Gives future threads one concise but complete instruction block they can run from directly. | [end-to-end-insight-master-instruction-2026-08-11.md](end-to-end-insight-master-instruction-2026-08-11.md) | Present |
 | Meaty goal | Defines the larger ambition level: packets, lane economics, proof pages, societal shifts, operating pressures, and handoff quality. | [meaty-end-to-end-insight-goal-2026-08-11.md](meaty-end-to-end-insight-goal-2026-08-11.md) | Present |
 | Lane runbook | Gives the end-to-end execution sequence from lane definition through proof memos and closeout. | [lane-end-to-end-execution-runbook-2026-08-11.md](lane-end-to-end-execution-runbook-2026-08-11.md) | Present |
-| Execution templates | Provides copy-ready templates for packets, profiles, ledgers, lane summaries, proof memos, thesis breakers, and closeouts, including explicit packet-input tracing and reader-test sections. | [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md) | Present |
-| Completion rubric | Forces future threads to prove that packets, lanes, and proof memos are actually finished rather than merely present. | [insight-completion-rubric-2026-08-11.md](insight-completion-rubric-2026-08-11.md) | Present |
+| Execution templates | Provides copy-ready templates for packets, profiles, ledgers, lane summaries, proof memos, thesis breakers, and closeouts, including explicit packet-input tracing, packet-field fit prompts, claim-type proof checks, and reader-test sections. | [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md) | Present |
+| Completion rubric | Forces future threads to prove that packets, lanes, and proof memos are actually finished rather than merely present, including packet-field fit and claim-type proof burden tests. | [insight-completion-rubric-2026-08-11.md](insight-completion-rubric-2026-08-11.md) | Present |
 | Company-level guide | Explains how to extract strategy, economics, constraints, and thesis breakers at the company level. | [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md) | Present |
 | Industry-level guide | Explains how to read industry lanes internally. | [industry-level-strategy-guide-2026-08-10.md](../analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md) | Present |
 | Concrete insights map | Summarizes the cross-sector insights and points to deeper proof pages. | [concrete-insights-and-curiosity-map-2026-08-10.md](../analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md) | Present |
@@ -35,7 +35,7 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Thesis breakers | States what would weaken or disprove major themes. | [thesis-breaker-index-2026-08-10.md](../analysis/cross-sector/thesis-breaker-index-2026-08-10.md) | Present |
 | Aha/curiosity layer | Captures surprising questions and weak signals. | [aha-moments-and-curiosity-questions-2026-08-10.md](../analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md) | Present |
 | Insight-driven queue | Prioritizes next lane/company work by insight payoff, target metrics, and thesis breakers. | [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md) | Present |
-| Browser entry | Gives human review access to the stack and explains how concrete insight pages should be read and audited. | [site/index.html](../site/index.html), [site/concrete-insights.html](../site/concrete-insights.html) | Present |
+| Browser entry | Gives human review access to the stack and explains how concrete insight pages should be read, which packet fields support claims, and how claim types should be audited. | [site/index.html](../site/index.html), [site/concrete-insights.html](../site/concrete-insights.html) | Present |
 | Raw-evidence governance | Explains how offloaded `raw/**` evidence is resolved, audited, and distinguished from live navigation. | [raw-evidence-link-policy-2026-08-11.md](raw-evidence-link-policy-2026-08-11.md), [legacy-root-reference-audit-2026-08-11.md](legacy-root-reference-audit-2026-08-11.md), [raw-blob-offload-readme-2026-08-10.md](raw-blob-offload-readme-2026-08-10.md) | Present |
 
 ## Reusable Note Layer
@@ -74,6 +74,13 @@ The reusable layer also now includes the raw-evidence governance notes that expl
 - how to resolve an offloaded raw path through the manifest and Drive pointer
 - how to audit the remaining retired-root footprint
 - how to distinguish acceptable provenance residue from broken live navigation
+
+Across the reusable layer, the current enforcement standard is now:
+
+- packet inputs must be named before broad conclusions are made
+- packet fields should say what they are proving, not just appear as headings
+- consumer, cultural, societal, industrial, technical, capital, and cross-company claims should meet their own proof burden
+- skeptical-reader checks should make shallow but polished writeups fail fast
 
 ## Standardization Boundary
 
@@ -212,9 +219,12 @@ The raw-evidence governance verifier separately checks:
 It also checks that:
 
 - lane summaries name which packet inputs they rely on
+- lane summaries make packet-field fit explicit rather than only listing section names
 - proof memos declare packet inputs used before making the conclusion
+- proof memos include claim-type proof guidance rather than treating all broad claims the same way
 - proof memos include a reader test
 - browser review pages explain how to read concrete support rather than only listing themes
+- browser review pages expose packet-to-claim guidance from the top-level entry points
 - reusable operating notes include both `Packet Inputs Used` and `Skeptical Reader Test`
 - the note-standardization cutoff remains documented as part of the insight system boundary
 - every current top-level note file is covered by exactly one of the reusable or historical manifests
@@ -298,6 +308,15 @@ The insight operating system now has:
 - browser access
 
 Remaining work is not structural setup. Remaining work is applying this standard across more company packets and lane batches.
+
+That means the main remaining gap is not "what standard should we use?"
+
+It is:
+
+- raising more company packets to the packet-field-fit standard
+- making more lane summaries name what each packet field is proving
+- making more proof memos satisfy the right burden for the claim type they are making
+- extending the same evidence discipline into future lanes and frontier batches
 
 ## Skeptical Reader Test
 

@@ -16,6 +16,7 @@ required_files=(
   "$historical_note_manifest"
   "indexes/historical-note-exclusion-categories-2026-08-11.tsv"
   "indexes/legacy-root-raw-reference-top-files-2026-08-11.tsv"
+  "scripts/audit-audit-stack-terminology.sh"
   "scripts/audit-maintenance-doc-stack.sh"
   "scripts/audit-note-layer-boundary.sh"
   "scripts/audit-continuation-mode-links.sh"
@@ -987,6 +988,7 @@ if [[ "${#reusable_note_files[@]}" -eq 0 ]]; then
 fi
 
 bash scripts/audit-note-layer-boundary.sh >/dev/null
+bash scripts/audit-audit-stack-terminology.sh >/dev/null
 bash scripts/audit-maintenance-doc-stack.sh >/dev/null
 bash scripts/audit-continuation-mode-links.sh >/dev/null
 

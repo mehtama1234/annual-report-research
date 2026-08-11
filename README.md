@@ -167,6 +167,8 @@ For the note-boundary and insight-system audit layer:
   - `bash scripts/refresh-note-layer-boundary.sh`
 - run only the direct boundary audit with:
   - `bash scripts/audit-note-layer-boundary.sh`
+- run only the audit-stack terminology audit with:
+  - `bash scripts/audit-audit-stack-terminology.sh`
 - run only the maintenance-doc audit with:
   - `bash scripts/audit-maintenance-doc-stack.sh`
 - run only the continuation-link audit with:

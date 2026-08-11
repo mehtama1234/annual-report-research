@@ -57,6 +57,7 @@ It should be read as a map of the operating system that now exists and that futu
 | Insight-driven queue | Prioritizes next lane/company work by insight payoff, target metrics, and thesis breakers. | [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md) | Present |
 | Browser entry | Gives human review access to the stack and explains how concrete insight pages should be read, which packet fields support claims, and how claim types should be audited. | [site/index.html](../site/index.html), [site/concrete-insights.html](../site/concrete-insights.html) | Present |
 | Browser-link audit | Checks that every Markdown artifact linked from the browser review pages is still protected by verifier required-file coverage. | [audit-browser-review-links.sh](../scripts/audit-browser-review-links.sh) | Present |
+| Audit-stack terminology audit | Checks that the highest-traffic audit-stack docs avoid stale verifier and refresh-path phrasing after the linked audit stack was introduced. | [audit-audit-stack-terminology.sh](../scripts/audit-audit-stack-terminology.sh) | Present |
 | Maintenance-doc audit | Checks that the highest-traffic maintenance surfaces keep the current audit-stack command references visible. | [audit-maintenance-doc-stack.sh](../scripts/audit-maintenance-doc-stack.sh) | Present |
 | Continuation-mode audit | Verifies that the live instruction, queue, and review surfaces consistently reflect the current continuation state of the archive rather than an outdated greenfield framing. | [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md) | Present |
 | Continuation-link audit | Checks that continuation-mode notes plus the top-level entry surfaces `README.md` and `START-HERE.md` still expose the continuation-mode audit path when they use already-open-lane or non-greenfield framing. | [audit-continuation-mode-links.sh](../scripts/audit-continuation-mode-links.sh) | Present |
@@ -242,6 +243,7 @@ Run these from the repo root:
 
 ```bash
 bash scripts/verify-insight-system.sh
+bash scripts/audit-audit-stack-terminology.sh
 bash scripts/audit-maintenance-doc-stack.sh
 bash scripts/audit-continuation-mode-links.sh
 bash scripts/audit-browser-review-links.sh

@@ -45,6 +45,7 @@ Direct audit script:
 
 - `bash scripts/audit-note-layer-boundary.sh`
 - `bash scripts/audit-note-layer-boundary.sh --write-report notes/note-layer-boundary-audit-2026-08-11.md`
+- `bash scripts/audit-audit-stack-terminology.sh`
 - `bash scripts/audit-maintenance-doc-stack.sh`
 - `bash scripts/audit-continuation-mode-links.sh`
 - `bash scripts/audit-browser-review-links.sh`
@@ -63,6 +64,7 @@ The committed report is generated state, not hand-maintained narrative. If the m
 
 The refresh command now reruns the linked audit stack as well:
 
+- `bash scripts/audit-audit-stack-terminology.sh`
 - `bash scripts/audit-maintenance-doc-stack.sh`
 - `bash scripts/audit-continuation-mode-links.sh`
 - `bash scripts/audit-browser-review-links.sh`

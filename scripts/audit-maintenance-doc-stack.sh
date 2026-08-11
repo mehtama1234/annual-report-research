@@ -61,6 +61,8 @@ expected = {
         "bash scripts/audit-browser-review-links.sh",
         "bash scripts/verify-insight-system.sh",
     ],
+    Path("notes/next-steps.md"): full_audit_stack,
+    Path("notes/master-operator-brief-2026-08-10.md"): full_audit_stack,
 }
 
 missing = []

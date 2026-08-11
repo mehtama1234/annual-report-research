@@ -183,6 +183,20 @@ When the evidence chain depends on offloaded raw artifacts, also use:
 - [Raw blob offload readme](/home/manishmehta/ui-projects/annual-report-research/notes/raw-blob-offload-readme-2026-08-10.md)
 - [Legacy root reference audit](/home/manishmehta/ui-projects/annual-report-research/notes/legacy-root-reference-audit-2026-08-11.md)
 
+## Insight-System Maintenance
+
+When you need to confirm that the note layer, remaining-work bundle, and browser review surfaces still line up before running the next batch, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## What the work is supposed to discover
 
 The work is not just:

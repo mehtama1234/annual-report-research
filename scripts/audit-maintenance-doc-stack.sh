@@ -95,6 +95,10 @@ expected = {
     Path("notes/end-to-end-pursuit-goal-2026-08-10.md"): full_audit_stack,
     Path("notes/expanded-goal-plan-2026-08-10.md"): full_audit_stack,
     Path("notes/meaty-end-to-end-insight-goal-2026-08-11.md"): full_audit_stack,
+    Path("notes/note-layer-boundary-audit-2026-08-11.md"): full_audit_stack,
+    Path("notes/collection-window.md"): full_audit_stack,
+    Path("notes/frontier-merge-handoff-2026-08-10.md"): full_audit_stack,
+    Path("notes/healthcare-frontier-collection-status-2026-08-10.md"): full_audit_stack,
 }
 
 missing = []

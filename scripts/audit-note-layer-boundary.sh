@@ -148,6 +148,20 @@ Repo: \`annual-report-research\`
 - [Historical note categories](../indexes/historical-note-exclusion-categories-2026-08-11.tsv)
 - [Cutoff note](insight-note-standardization-cutoff-2026-08-11.md)
 
+## Insight-System Maintenance
+
+When you need to confirm that this boundary audit, the reusable-note manifest, and the broader continuation surfaces still line up before relying on this report, use:
+
+- \`bash scripts/run-insight-audit-stack.sh\`
+- \`bash scripts/refresh-note-layer-boundary.sh\`
+- \`bash scripts/audit-audit-stack-terminology.sh\`
+- \`bash scripts/audit-maintenance-doc-stack.sh\`
+- \`bash scripts/audit-continuation-mode-links.sh\`
+- \`bash scripts/audit-remaining-brief-links.sh\`
+- \`bash scripts/audit-remaining-stack-links.sh\`
+- \`bash scripts/audit-browser-review-links.sh\`
+- \`bash scripts/verify-insight-system.sh\`
+
 ## Skeptical Reader Test
 
 - Does this report state the exact current note counts on both sides of the boundary?

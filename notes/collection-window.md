@@ -41,6 +41,20 @@ Examples:
 
 This keeps the research centered on `2025` annual disclosures and the most current operating read-through from `2026`, while still respecting fiscal-calendar differences.
 
+## Insight-System Maintenance
+
+When you need to confirm that this collection-window rule, the broader goal stack, and the continuation surfaces still line up before using it as a packet-input standard, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this note define the collection window precisely enough that two different workers would gather the same reporting periods?

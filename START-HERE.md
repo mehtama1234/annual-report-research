@@ -23,6 +23,7 @@ If you are starting work in this repo, read these files in this order:
 
 Use these before opening a new batch if you want the current state rather than only the kickoff briefs:
 
+- [Concrete insights and curiosity map](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md)
 - [CLI 4 recurring-care framework](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
 - [CLI 5 control-point framework](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
 - [CLI 6 trust-intermediation framework](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-6-trust-intermediation-framework-2026-08-10.md)

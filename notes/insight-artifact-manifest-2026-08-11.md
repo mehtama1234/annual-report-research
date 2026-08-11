@@ -36,6 +36,7 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Aha/curiosity layer | Captures surprising questions and weak signals. | [aha-moments-and-curiosity-questions-2026-08-10.md](../analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md) | Present |
 | Insight-driven queue | Prioritizes next lane/company work by insight payoff, target metrics, and thesis breakers. | [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md) | Present |
 | Browser entry | Gives human review access to the stack and explains how concrete insight pages should be read and audited. | [site/index.html](../site/index.html), [site/concrete-insights.html](../site/concrete-insights.html) | Present |
+| Raw-evidence governance | Explains how offloaded `raw/**` evidence is resolved, audited, and distinguished from live navigation. | [raw-evidence-link-policy-2026-08-11.md](raw-evidence-link-policy-2026-08-11.md), [legacy-root-reference-audit-2026-08-11.md](legacy-root-reference-audit-2026-08-11.md), [raw-blob-offload-readme-2026-08-10.md](raw-blob-offload-readme-2026-08-10.md) | Present |
 
 ## Reusable Note Layer
 
@@ -67,6 +68,12 @@ The verifier now checks this reusable-note layer directly rather than assuming t
 It now reads the reusable-note list from the machine-readable manifest above, so the enforced note boundary can be updated without editing the verifier's note inventory by hand.
 It also verifies that every current top-level `notes/*.md` file belongs to exactly one of the two note manifests, so the note boundary cannot drift silently.
 That partition check is delegated to the dedicated note-layer audit script so the boundary logic is maintained in one place.
+
+The reusable layer also now includes the raw-evidence governance notes that explain:
+
+- how to resolve an offloaded raw path through the manifest and Drive pointer
+- how to audit the remaining retired-root footprint
+- how to distinguish acceptable provenance residue from broken live navigation
 
 ## Standardization Boundary
 
@@ -184,6 +191,7 @@ Run these from the repo root:
 
 ```bash
 bash scripts/verify-insight-system.sh
+bash scripts/verify-raw-evidence-governance.sh
 bash scripts/audit-note-layer-boundary.sh
 bash scripts/audit-note-layer-boundary.sh --write-report notes/note-layer-boundary-audit-2026-08-11.md
 bash scripts/audit-note-layer-boundary.sh --write-json notes/note-layer-boundary-audit-2026-08-11.json
@@ -192,6 +200,14 @@ bash scripts/refresh-note-layer-boundary.sh
 ```
 
 The verifier checks required files, required phrases, browser-entry links, and the deeper insight-stack sections that future packets, lane summaries, and proof memos are expected to contain. If the local server is not running, the file and link-source checks still prove the repo-side structure.
+
+The raw-evidence governance verifier separately checks:
+
+- the offloaded-raw policy notes
+- the resolver script
+- the legacy-root audit artifacts
+- the manifest-backed count agreement between the audit JSON and the live search footprint
+- the documented resolver commands in the main operator entry points
 
 It also checks that:
 

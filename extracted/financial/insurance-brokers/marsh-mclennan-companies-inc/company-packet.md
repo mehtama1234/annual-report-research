@@ -7,7 +7,7 @@ Date baseline: 2026-08-10
 - Company: Marsh & McLennan Companies, Inc. (`Marsh`)
 - Sector: Financial
 - Industry: Insurance Brokers
-- Ticker: `MRSH`
+- Ticker: `MMC`
 - Fiscal year-end: December 31
 - Target annual report year: 2025
 - Target quarter window:

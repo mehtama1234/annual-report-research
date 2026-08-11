@@ -68,6 +68,32 @@ In practice, the conclusions on this page are built by comparing those packet se
 - burden-versus-beneficiary interpretations that explain who captures the economics
 - peer comparisons and next filing watchlists that keep each insight testable rather than static
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, the archive is no longer mainly missing its first interpretation layer.
+
+It already has:
+
+- major lane frameworks
+- cross-company proof pages
+- comparison memos
+- next-filing watchlists
+- browser review surfaces
+
+That means this page should not be read as a first-pass theme dump.
+
+It should be read as the current synthesis layer sitting on top of a larger packet, proof, and watchlist system.
+
+The main remaining work is to make the strongest claims harder and more complete by:
+
+- adding missing flagship roles inside already-open lanes
+- adding contradiction and weak-link companies
+- tightening burden-versus-beneficiary splits
+- showing more exact packet-backed fact chains inside each claim
+- improving the next-filing break tests that could weaken the conclusion
+
+In short, the next pass should usually improve a live insight rather than merely restate it.
+
 ## Skeptical Reader Test
 
 Before treating any insight on this page as finished, make sure a skeptical reader can answer:
@@ -78,6 +104,12 @@ Before treating any insight on this page as finished, make sure a skeptical read
 4. `What would change the conclusion?`
 
 If the page cannot answer those four directly, it still needs more work.
+
+For the strongest live themes, that test should now also answer:
+
+5. `Which missing role or contradiction case is still not covered?`
+6. `Who captures the cleaner economics and who carries the burden?`
+7. `Which next-quarter metric would actually weaken the read?`
 
 ## How The Data Supports The Conclusions
 

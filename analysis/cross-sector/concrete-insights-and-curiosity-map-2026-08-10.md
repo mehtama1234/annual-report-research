@@ -118,6 +118,7 @@ AI is not only a software story. The filings keep showing that AI needs a large 
 Dedicated proof page:
 
 - [ai-physical-capacity-proof-2026-08-10.md](/analysis/cross-sector/ai-physical-capacity-proof-2026-08-10.md)
+- [ai-capex-return-and-power-constraint-watchlist-2026-08-11.md](/analysis/cross-sector/ai-capex-return-and-power-constraint-watchlist-2026-08-11.md)
 
 Concrete examples:
 
@@ -132,6 +133,8 @@ Concrete examples:
 What this shows:
 
 The more digital the product becomes, the more the economy needs physical capacity behind it. AI demand does not stop at model builders. It pulls in power equipment, cooling systems, construction labor, testing tools, networking gear, data centers, and security.
+
+The stronger read now is that AI demand and AI economics are not the same thing. The cleanest positions often sit with chokepoints, ecosystem density, electrical architecture, and validation layers, while the heaviest burden often sits with landlords, builders, and other capital-heavy owners that still need power, financing, and project execution to line up.
 
 Curiosity questions:
 
@@ -178,6 +181,7 @@ The consumer evidence does not say people stopped spending. It says people are c
 Dedicated proof page:
 
 - [selective-consumer-proof-2026-08-10.md](/analysis/cross-sector/selective-consumer-proof-2026-08-10.md)
+- [recreation-selective-demand-and-burden-watchlist-2026-08-11.md](/analysis/cross-sector/recreation-selective-demand-and-burden-watchlist-2026-08-11.md)
 
 Concrete examples:
 
@@ -191,6 +195,8 @@ Concrete examples:
 What this shows:
 
 The important split is not consumer strong versus consumer weak. The split is between purchases that feel useful, trusted, affordable, social, identity-based, or habitual, and purchases that feel optional or overpriced.
+
+The stronger read now is that demand quality and economic quality still have to be separated. Travel, beauty, hosting, gifting, and milestone demand can all hold up while inventory, tariffs, freight, route density, housing sensitivity, or owner economics absorb a large share of the payoff.
 
 Curiosity questions:
 
@@ -267,6 +273,7 @@ Healthcare is not just hospitals, insurance, and drug companies. The archive sho
 Dedicated proof page:
 
 - [healthcare-outside-hospital-proof-2026-08-10.md](/analysis/cross-sector/healthcare-outside-hospital-proof-2026-08-10.md)
+- [healthcare-reimbursement-labor-and-utilization-watchlist-2026-08-11.md](/analysis/cross-sector/healthcare-reimbursement-labor-and-utilization-watchlist-2026-08-11.md)
 
 Concrete examples:
 
@@ -284,6 +291,8 @@ Concrete examples:
 What this shows:
 
 The strongest healthcare questions are about where repeat care happens, who coordinates it, who supplies it, who gets reimbursed, and who bears staffing or policy risk.
+
+The stronger read now is that recurring healthcare demand does not automatically produce clean recurring economics. The payer, provider, and labor-heavy layers carry the most reimbursement, staffing, and throughput burden, while diagnostics, devices, tools, and some distribution layers often look cleaner because they sit inside workflow without carrying the full care-delivery stack.
 
 Curiosity questions:
 
@@ -383,6 +392,7 @@ Many companies are paid because customers need confidence: confidence that risk 
 Dedicated proof page:
 
 - [trust-as-paid-product-proof-2026-08-10.md](/analysis/cross-sector/trust-as-paid-product-proof-2026-08-10.md)
+- [trust-commoditization-and-failure-risk-watchlist-2026-08-11.md](/analysis/cross-sector/trust-commoditization-and-failure-risk-watchlist-2026-08-11.md)
 
 Concrete examples:
 
@@ -397,6 +407,8 @@ Concrete examples:
 What this shows:
 
 Trust is not only a brand idea. It can be a paid service, a filing requirement, a workflow, a test, a lock, a rating, a claim process, or a verification layer.
+
+The stronger read now is that trust businesses must be split between standard-like trust, advisory workflow trust, verification vendors, security-control fabrics, and physical proof operators. Some of those layers get stronger as systems become harder to navigate, while others remain vulnerable to bundling, insourcing, or one visible credibility failure.
 
 Curiosity questions:
 
@@ -429,6 +441,8 @@ Concrete examples:
 What this shows:
 
 The archive should keep asking who carries the hard costs and who controls the repeat decision. Those are often different companies.
+
+The stronger cross-lane read now is that this is not just a travel or consumer pattern. The same split now appears in healthcare, infrastructure, and trust intermediation: one layer carries labor, capex, funding, policy, or physical upkeep burden, while another layer owns the workflow, standard, bottleneck, or trusted interface and often keeps the cleaner economics.
 
 Curiosity questions:
 
@@ -590,7 +604,7 @@ These are the highest-value follow-up pages because they turn scattered packet w
 
 1. `AI needs physical capacity`
 
-Status: drafted.
+Status: drafted and now paired with a next-filing burden watchlist.
 
 Proof page:
 
@@ -618,7 +632,7 @@ Which companies keep restaurants, hospitals, factories, buildings, warehouses, s
 
 3. `The selective consumer`
 
-Status: drafted.
+Status: drafted and now paired with a recreation burden watchlist.
 
 Proof page:
 
@@ -646,7 +660,7 @@ Which companies turn customers into fans, members, hosts, collectors, travelers,
 
 5. `Healthcare outside the hospital`
 
-Status: drafted.
+Status: drafted and now paired with a reimbursement, labor, and utilization watchlist.
 
 Proof page:
 
@@ -660,7 +674,7 @@ Who gets paid as care becomes more repeated, monitored, supplied, and delivered 
 
 6. `Trust as a paid product`
 
-Status: drafted.
+Status: drafted and now paired with a commoditization and failure-risk watchlist.
 
 Proof page:
 
@@ -674,7 +688,7 @@ Where are customers paying because they need proof, safety, judgment, measuremen
 
 7. `Who owns the relationship and who carries the burden`
 
-Status: drafted.
+Status: drafted and strengthened by newer cross-lane control and burden comparisons.
 
 Proof page:
 

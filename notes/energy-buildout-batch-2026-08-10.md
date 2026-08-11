@@ -3,6 +3,14 @@
 Date: 2026-08-10
 Branch: `parallel/energy-buildout`
 
+## Packet Inputs Used
+
+- the branch-level packet audit covering energy, heavy-input, metals, mining, chemicals, fertilizer, packaging, and related infrastructure names
+- the completed company triads of `company-packet.md`, `company-profile.md`, and `source-ledger.md` used to support the completed-company count
+- the source-chain notes documenting where SEC filings and Exhibit `99.1` earnings releases substituted for blocked or rate-limited IR endpoints
+- the batch-read sections that explain what the completed and partial sets mean economically
+- the next-target and worktree-caution logic that distinguishes genuine next opportunities from abandoned or low-value source stubs
+
 ## Companies completed
 
 - `ConocoPhillips`
@@ -494,3 +502,10 @@ Branch: `parallel/energy-buildout`
 - The remaining untracked `Civitas Resources` raw folders are only an abandoned source stub and do not represent a completed company.
 - The remaining untracked `MPLX` IR PDFs and `events-presentations.html` file are low-value or bad local captures that were intentionally excluded from the packet.
 - The remaining untracked `Tourmaline` `2025-aif.pdf` file is a stray duplicate local artifact and does not indicate missing packet work.
+
+## Skeptical Reader Test
+
+- Does this note provide enough audit detail to justify the completed-company count and the claim that the packet triads exist on disk?
+- Can a skeptical reader see where source-chain substitutions or blockers occurred without mistaking them for missing packet work?
+- Does the note separate contextual comparison references from actual completed names in the batch?
+- What unresolved artifact or counting issue would weaken confidence in the `80` completed / `0` partial batch claim?

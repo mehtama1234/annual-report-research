@@ -4,6 +4,14 @@ Date baseline: 2026-08-10
 
 This note captures the current filing chronology observed from saved SEC submissions JSON and the current AnnualReports.com state for the selected CLI 8 slate.
 
+## Packet Inputs Used
+
+- saved SEC submissions chronology for each selected CLI 8 company
+- saved AnnualReports company pages and observed sector or industry labels as of `2026-08-10`
+- the repo requirement to preserve exact fiscal labels and filing chronology when quarter windows are non-standard
+- the branch need to distinguish taxonomy confirmation from authoritative filing coverage when AnnualReports lags
+- the packet-writing requirement that chronology cautions should be documented before company drafting starts
+
 ## Filing-window summary
 
 ### Ferguson plc / Ferguson Enterprises Inc.
@@ -142,7 +150,14 @@ This note captures the current filing chronology observed from saved SEC submiss
 
 - AnnualReports lag is real across most of this frontier and should be written up as part of the handoff.
 - The archive should preserve odd AnnualReports labels when they appear, because they reveal taxonomy mismatch:
-  - Ferguson as `Industrial Electrical Equipment`
-  - Cencora as `Drug Delivery`
-  - Hyatt as `Consumer Goods / Lodging`
+- Ferguson as `Industrial Electrical Equipment`
+- Cencora as `Drug Delivery`
+- Hyatt as `Consumer Goods / Lodging`
 - The branch already has enough evidence to start packet drafting from saved AnnualReports pages plus saved SEC chronology, even before all annual and quarterly filing bodies are downloaded.
+
+## Skeptical Reader Test
+
+- Does this note preserve the exact filing-window evidence needed to keep quarter labels honest for each CLI 8 company?
+- Can a skeptical reader tell when AnnualReports is being used for taxonomy only and when SEC chronology is carrying the authoritative date chain?
+- Does the note surface the unusual taxonomy labels and fiscal-structure issues that could distort later packet drafting?
+- What missing chronology detail would weaken confidence in the target trailing-quarter set for a company?

@@ -5,6 +5,14 @@ Merged into `main`: `3e43ea8a`
 Source branch: `parallel/energy-buildout`
 Source branch head at merge: `123ffb9d`
 
+## Packet Inputs Used
+
+- the merged branch note that remains the primary artifact for the energy and heavy-input batch
+- the post-merge audit of completed-company count, partial-company count, and extracted triad presence on disk
+- the cleanup log documenting which leftover raw artifacts were intentionally removed and which unrelated dirt remained on `main`
+- the branch-level scope description that defines what actually landed in the merge
+- the repo rule that post-merge notes should state both what is now on `main` and what was intentionally left outside the merge
+
 ## What landed
 
 - The energy and heavy-input batch was merged from `parallel/energy-buildout` into `main`.
@@ -45,3 +53,10 @@ Source branch head at merge: `123ffb9d`
   - `raw/company-ir/healthcare/drug-stores/walgreens-boots-alliance-inc/`
   - `raw/sec/healthcare/drug-stores/walgreens-boots-alliance-inc/`
 - Those folders were already present and were not part of the energy merge.
+
+## Skeptical Reader Test
+
+- Does this post-merge note make clear what landed on `main`, what was audited, and what remained intentionally outside the merge?
+- Can a skeptical reader tell the difference between energy-batch artifacts and unrelated dirt already present on `main`?
+- Does the note provide enough detail to trust the post-merge cleanup without rereading the source branch from scratch?
+- What missing merge or audit detail would make the post-merge state hard to verify?

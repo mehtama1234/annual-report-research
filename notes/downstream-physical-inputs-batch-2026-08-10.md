@@ -3,6 +3,14 @@
 Date: 2026-08-10
 Branch: `cli4-healthcare-frontier-batch`
 
+## Packet Inputs Used
+
+- the expanded scope into energy, extractives, and industrial-distribution lanes that this batch was designed to address
+- the completed packet set and related synthesis notes already written from that cross-company evidence
+- the repo standard that each batch should yield source-complete or explicitly gap-scoped packets plus consumer, societal, industrial, and other higher-order interpretation
+- the completed-versus-partial company audit captured in the status section and CECO latest-quarter follow-up
+- the next-name logic that keeps future additions tied to distinct system comparisons rather than generic company accumulation
+
 ## Why this batch exists
 
 The expanded scope now includes additional Energy / Extractives and industrial-distribution lanes that were still underrepresented in the archive:
@@ -242,3 +250,10 @@ Current batch split:
 - `Booz Allen Hamilton Holding Corporation` if the archive next needs the federal analytics, cyber, and AI-advisory comparison that sits closer to mission software and services than to owned network assets
 - `Iridium Communications Inc.` follow-on thematic note if the archive next needs the resilient, cleaner satellite-connectivity comparison to EchoStar's more distressed spectrum-and-pay-TV mix
 - `Frontier Communications Parent, Inc.` merger-history appendix only if the archive next needs a post-deal domestic wireline cleanup note despite the weaker standalone fit
+
+## Skeptical Reader Test
+
+- Does this batch note make clear what problem the batch was meant to solve and what evidence and interpretation it already produced?
+- Can a skeptical reader tell which companies are complete, what the CECO caveat was, and why the batch still counts as complete?
+- Does the note connect the batch to broader physical-input and infrastructure pattern extraction rather than just listing finished packets?
+- What missing audit detail would weaken confidence in the completed-versus-partial status?

@@ -6,6 +6,14 @@ This project is not trying to collect every filing ever published.
 
 Current target window:
 
+## Packet Inputs Used
+
+- the repo-wide annual target of the `2025` annual report and the `2025` annual filing equivalent
+- the repo-wide quarter target of the latest three reported quarters as of `2026-08-10`
+- the need to preserve company-specific fiscal-quarter labels rather than forcing calendar labels onto off-calendar reporters
+- recurring examples from companies such as Apple, Microsoft, and retailers with shifted fiscal year-ends
+- the archive rule that packet quality depends on an honest, explicit filing window rather than on generic “recent quarters” wording
+
 ## Annual materials
 
 - `2025` annual report
@@ -32,3 +40,10 @@ Examples:
 ## Why this matters
 
 This keeps the research centered on `2025` annual disclosures and the most current operating read-through from `2026`, while still respecting fiscal-calendar differences.
+
+## Skeptical Reader Test
+
+- Does this note define the collection window precisely enough that two different workers would gather the same reporting periods?
+- Can a skeptical reader tell how off-calendar reporters should be handled without corrupting fiscal labels?
+- Does the file make clear why the archive is centered on this specific annual-plus-three-quarter window?
+- What ambiguity here would cause workers to collect the wrong quarters or describe them imprecisely in packets?

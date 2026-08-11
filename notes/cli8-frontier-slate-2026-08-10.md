@@ -3,6 +3,14 @@
 Date baseline: 2026-08-10
 Branch: `cli8-distribution-middle-layer`
 
+## Packet Inputs Used
+
+- the assigned frontier definition for distribution, wholesale, channel control, and B2B service middle layers
+- the selected core-eight company slate and the secondary next-target list that extend the same system logic
+- the observed AnnualReports lag across much of the slate, which makes company IR and SEC the practical authority chain for the current filing window
+- the repo standard of `2025` annual reports plus the latest three reported quarters as of `2026-08-10`
+- the branch rule that the first job is to finish the core slate before opening fresh partials
+
 ## Assigned frontier
 
 - Distribution
@@ -73,3 +81,10 @@ Branch: `cli8-distribution-middle-layer`
 ## Operating rule for this branch
 
 - Prioritize full packets for the core eight before opening new partials.
+
+## Skeptical Reader Test
+
+- Does this frontier slate make clear what system the branch is actually trying to explain, beyond a loose list of distributors?
+- Can a skeptical reader see why these eight names belong in one comparison set and what role each is supposed to play?
+- Does the note make the AnnualReports lag and source-authority consequence explicit enough for later packet work?
+- What would show that the branch is opening names without a coherent middle-layer channel-control thesis?

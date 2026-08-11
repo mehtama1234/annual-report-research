@@ -19,6 +19,12 @@ This proof relies on the packet sections that make paid proof and control visibl
 
 The memo should be read as a synthesis of those packet inputs rather than as a loose statement that trust matters.
 
+Applied comparison memos:
+
+- [trust-proof-measurement-security-comparison-2026-08-11.md](trust-proof-measurement-security-comparison-2026-08-11.md)
+- [standards-versus-vendors-trust-layer-comparison-2026-08-11.md](standards-versus-vendors-trust-layer-comparison-2026-08-11.md)
+- [trust-commoditization-and-failure-risk-watchlist-2026-08-11.md](trust-commoditization-and-failure-risk-watchlist-2026-08-11.md)
+
 ## Exact Evidence
 
 | Company | Exact packet facts | What it proves |
@@ -43,6 +49,49 @@ Trust has become an operating category. S&P Global sells trusted market referenc
 
 The archive should treat proof, safety, measurement, and reliability as a real demand lane, not as soft language.
 
+## Standard Versus Vendor Overlay
+
+The newer trust comparison pages make this proof stronger by separating the lane into economically different kinds of trust.
+
+The cleaner reading now is:
+
+- some trust layers become standards that the customer must organize around
+- some remain valuable intermediaries with recurring workflow ownership
+- some remain proof vendors that can still face bundling, insourcing, or commoditization pressure
+
+The current archive points to this split:
+
+| Trust layer | Best current examples | What it owns | Main risk |
+|---|---|---|---|
+| Standard-like trust infrastructure | `S&P Global`, `CME` | ratings, benchmarks, indices, market data, clearing, price discovery, coordinated market workflow | credibility damage, regulatory redesign, weaker benchmark centrality |
+| Advisory trust intermediaries | `Marsh`, `Aon`, `Gallagher` | risk placement, outsourced judgment, analytics, claims support, recurring institutional workflow | fee-cycle normalization, talent strain, service-quality or integration failure |
+| Verification and proof vendors | `DoubleVerify`, partly `Quest` | independent evidence, measurement, suitability, clinical proof, buyer reassurance | platform insourcing, payer pressure, pricing compression, perceived replaceability |
+| Security control platforms | `Palo Alto`, `CrowdStrike` | governability, identity and cloud control, data security, AI-era workflow trust | incident-driven trust damage, platform overlap, slower consolidation |
+| Physical operating proof | `Ecolab`, `Veralto` | hygiene, water quality, monitoring, coding, traceability, contamination control | execution failure, procurement pressure, quality-system weakness |
+
+The important point is that “trust” is not one quality bucket.
+
+It is a lane with different replacement risk and different failure modes depending on whether the company is:
+
+- the accepted standard
+- the embedded intermediary
+- the independent verifier
+- the control platform
+- the physical proof operator
+
+## Next-Filing Priority Watchlist
+
+The trust-as-paid-product thesis should now be read through a short list of confirmation checks:
+
+- `S&P Global` and `CME`: whether standard-like trust still defends pricing, centrality, and recurring economics
+- `Marsh`, `Aon`, and `Gallagher`: whether broker and advisory trust still looks structural rather than only cycle-supported
+- `DoubleVerify`: whether independent verification still carries pricing power in a platform-controlled media environment
+- `Palo Alto` and `CrowdStrike`: whether security trust keeps thickening into platform control rather than flattening back into vendor overlap
+- `Quest`: whether diagnostic proof still converts volume into resilient economics despite reimbursement pressure
+- `Ecolab` and `Veralto`: whether invisible physical proof remains mission critical rather than a procurement-style cost line
+
+If customers can bundle these functions away, self-verify more safely, or lose trust in the intermediary itself, then the paid-proof thesis weakens even if demand does not disappear.
+
 ## Skeptical Reader Test
 
 A skeptical reader should be able to answer:
@@ -60,6 +109,7 @@ This page is only strong if those four answers are visible from the evidence tab
 - If customers cut advisory, security, or verification budgets in a downturn, some trust revenue may be more cyclical than it looks.
 - If regulation commoditizes pricing or data access, some proof layers could lose economics.
 - If AI reduces rather than increases complexity for buyers, some workflow trust providers could face pressure.
+- If standard-like trust keeps looking durable while vendor-like trust starts commoditizing, the archive should become more careful about treating all trust layers as equally high quality.
 
 ## Curiosity Questions
 

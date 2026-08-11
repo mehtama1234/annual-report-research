@@ -62,6 +62,7 @@ The governing rule is:
 
 The verifier now checks this reusable-note layer directly rather than assuming the standard applies only to the main insight pages.
 It now reads the reusable-note list from the machine-readable manifest above, so the enforced note boundary can be updated without editing the verifier's note inventory by hand.
+It also verifies that every current top-level `notes/*.md` file belongs to exactly one of the two note manifests, so the note boundary cannot drift silently.
 
 ## Standardization Boundary
 
@@ -190,6 +191,7 @@ It also checks that:
 - browser review pages explain how to read concrete support rather than only listing themes
 - reusable operating notes include both `Packet Inputs Used` and `Skeptical Reader Test`
 - the note-standardization cutoff remains documented as part of the insight system boundary
+- every current top-level note file is covered by exactly one of the reusable or historical manifests
 
 Manual equivalent:
 

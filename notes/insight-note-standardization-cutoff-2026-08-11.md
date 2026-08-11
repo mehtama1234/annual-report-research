@@ -36,6 +36,11 @@ The purpose of the two added sections is:
 
 The remaining unstamped note files are mostly historical execution artifacts.
 
+The cutoff is now backed by two machine-readable manifests whose union should cover every current top-level `notes/*.md` file:
+
+- reusable operating notes
+- historical handoff and log notes
+
 Current remaining count at the cutoff:
 
 - total remaining without both sections: `63`

@@ -727,6 +727,8 @@ done
 
 mapfile -t reusable_note_files < <(rg -v '^\s*(#|$)' "$reusable_note_manifest")
 mapfile -t historical_note_files < <(rg -v '^\s*(#|$)' "$historical_note_manifest")
+mapfile -t all_note_files < <(find notes -maxdepth 1 -name '*.md' | sort)
+mapfile -t manifest_union_files < <(printf '%s\n' "${reusable_note_files[@]}" "${historical_note_files[@]}" | sort -u)
 
 if [[ "${#reusable_note_files[@]}" -eq 0 ]]; then
   printf 'reusable note manifest is empty: %s\n' "$reusable_note_manifest" >&2
@@ -735,6 +737,11 @@ fi
 
 if [[ "${#historical_note_files[@]}" -eq 0 ]]; then
   printf 'historical note manifest is empty: %s\n' "$historical_note_manifest" >&2
+  exit 1
+fi
+
+if [[ "${#manifest_union_files[@]}" -ne $((${#reusable_note_files[@]} + ${#historical_note_files[@]})) ]]; then
+  printf 'manifest overlap detected beyond direct per-file checks\n' >&2
   exit 1
 fi
 
@@ -760,6 +767,20 @@ for path in "${historical_note_files[@]}"; do
   fi
   if printf '%s\n' "${reusable_note_files[@]}" | rg -qx --fixed-strings "$path"; then
     printf 'note listed in both reusable and historical manifests: %s\n' "$path" >&2
+    exit 1
+  fi
+done
+
+for path in "${all_note_files[@]}"; do
+  if ! printf '%s\n' "${manifest_union_files[@]}" | rg -qx --fixed-strings "$path"; then
+    printf 'note file not covered by reusable or historical manifest: %s\n' "$path" >&2
+    exit 1
+  fi
+done
+
+for path in "${manifest_union_files[@]}"; do
+  if ! printf '%s\n' "${all_note_files[@]}" | rg -qx --fixed-strings "$path"; then
+    printf 'manifest path is not a current top-level note file: %s\n' "$path" >&2
     exit 1
   fi
 done

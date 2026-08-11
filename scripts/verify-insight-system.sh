@@ -10,6 +10,8 @@ note_boundary_report="notes/note-layer-boundary-audit-2026-08-11.md"
 note_boundary_json="notes/note-layer-boundary-audit-2026-08-11.json"
 
 required_files=(
+  "README.md"
+  "START-HERE.md"
   "$reusable_note_manifest"
   "$historical_note_manifest"
   "indexes/historical-note-exclusion-categories-2026-08-11.tsv"
@@ -25,6 +27,7 @@ required_files=(
   "notes/master-insight-extraction-goal-2026-08-11.md"
   "notes/end-to-end-insight-master-instruction-2026-08-11.md"
   "notes/meaty-end-to-end-insight-goal-2026-08-11.md"
+  "notes/master-operator-brief-2026-08-10.md"
   "notes/lane-end-to-end-execution-runbook-2026-08-11.md"
   "notes/insight-extraction-templates-2026-08-11.md"
   "notes/insight-completion-rubric-2026-08-11.md"
@@ -178,6 +181,10 @@ required_files=(
 )
 
 required_patterns=(
+  "README.md:The packet fields should do explicit analytical work"
+  "README.md:Different claim types also need different proof burdens"
+  "START-HERE.md:The packet fields should also do explicit analytical work"
+  "START-HERE.md:Different claim types also need different proof burdens"
   "notes/insight-extraction-hub-2026-08-11.md:Workflow For A New Company"
   "notes/insight-extraction-hub-2026-08-11.md:Workflow For A New Lane"
   "notes/insight-extraction-hub-2026-08-11.md:Workflow For A New Theme"
@@ -190,6 +197,8 @@ required_patterns=(
   "notes/master-insight-extraction-goal-2026-08-11.md:No broad claim without concrete filing evidence"
   "notes/master-insight-extraction-goal-2026-08-11.md:The archive should also make the packet-input chain explicit"
   "notes/master-insight-extraction-goal-2026-08-11.md:Skeptical Reader Standard"
+  "notes/master-operator-brief-2026-08-10.md:The packet fields should also do explicit analytical work"
+  "notes/master-operator-brief-2026-08-10.md:Different claim types also need different proof burdens"
   "notes/end-to-end-insight-master-instruction-2026-08-11.md:Master Instruction Block"
   "notes/end-to-end-insight-master-instruction-2026-08-11.md:The Required Evidence Chain"
   "notes/end-to-end-insight-master-instruction-2026-08-11.md:explicitly name which packet sections are supplying the argument"

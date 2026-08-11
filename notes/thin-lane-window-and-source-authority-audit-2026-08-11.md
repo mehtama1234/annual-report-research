@@ -185,6 +185,32 @@ In this sample after the packet and ledger repairs:
 - `qualified but usable`: `6`
 - `needs repair`: `0`
 
+## What This Means After The Recent Lane-Closure Passes
+
+Since this audit was first written, the repo has narrowed several lane-closure gaps through:
+
+- the CLI 5 control-layer expansion
+- the CLI 5 healthcare-information bridge
+- the CLI 4 payer / provider adjacent burden bridge
+- the CLI 6 balance-sheet and property clarification pass
+- the recreation owner and repeat-relationship bridge
+
+That changes the practical meaning of the thin-lane audit.
+
+The main remaining closeout problem is no longer:
+
+- "too many lanes are still conceptually thin"
+
+It is increasingly:
+
+- "some important anchor packets are still qualified rather than fully proven"
+
+In other words:
+
+- lane structure is now stronger than proof-standard uniformity
+- interpretation has advanced faster than evidence normalization
+- the best remaining proof-quality work is a targeted upgrade queue, not a broad discovery queue
+
 ## Exact repair queue from this audit
 
 ### Highest priority
@@ -205,6 +231,17 @@ In this sample after the packet and ledger repairs:
 6. `Epson`
    - keep as qualified unless cleaner local official binaries can be saved later
 
+## Best Remaining Audit Sequence
+
+If the goal is honest wrap-up rather than more frontier-opening, the highest-yield proof-quality sequence is now:
+
+1. keep `HCA` as the proof-standard reference case
+2. treat `Sysco` and `HPE` as the two most upgrade-worthy qualified names because their gaps are the most concrete
+3. keep `MetLife`, `Zebra`, and `Epson` explicitly qualified unless cleaner capture becomes available
+4. preserve precise language around `UnitedHealth` rather than overstating filed-quarter completeness
+
+That sequence fits the repo's real state better than opening more company packets first.
+
 ## Bottom line
 
 The original-goal audit was right to say that proof quality was uneven.
@@ -215,6 +252,6 @@ In this thin-lane sample:
 
 - `HCA` is already fully proven
 - `UnitedHealth`, `MetLife`, `Zebra`, `Epson`, `Sysco`, and `HPE` are real and usable, but qualified for different reasons
-- the main remaining work is now less about contradictory writeups and more about upgrading qualified cases into fully proven ones
+- the main remaining work is now less about contradictory writeups and more about upgrading the highest-value qualified cases into fully proven ones while keeping the rest honestly labeled
 
 That is the actual thin-lane proof state as of `2026-08-11`.

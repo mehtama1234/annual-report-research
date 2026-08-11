@@ -190,6 +190,27 @@ This layer is still materially incomplete.
 - many of those links do not yet route through the documented offload-manifest model
 - that means the archive is not yet cleanly normalized even if the heavy raw storage decision was correct
 
+## What This Means After The Recent Lane-Narrowing Work
+
+Since this note was first drafted, the repo has materially improved its lane-closure picture through:
+
+- the CLI 5 control-layer expansion and healthcare-information bridge
+- the CLI 4 adjacent burden bridge
+- the CLI 6 balance-sheet and property clarification pass
+- the recreation owner and repeat-relationship bridge
+
+That matters because the reference problem now stands out more clearly.
+
+The repo is no longer mainly held back by missing high-level interpretations in those lanes.
+
+It is increasingly held back by the fact that many packets still point to evidence through sibling-worktree paths rather than a canonical reference model.
+
+In plain language:
+
+- lane structure is getting ahead of evidence portability
+- proof-language is getting more honest
+- the remaining archive-quality gap is becoming more operational and less conceptual
+
 ## Best next move
 
 The highest-value next cleanup is not another isolated packet wording fix.
@@ -209,6 +230,24 @@ The shortest high-yield sequence is:
    - `annual-report-research-energy-buildout`
    - `annual-report-research-footwear-dept-audit`
    - `annual-report-research-cli8-middle-layer`
+
+## Highest-Value Endgame Interpretation
+
+At this stage of the wrap-up, the canonical-reference gap should be treated as one of the main blockers to a fully clean closeout.
+
+Not because:
+
+- the research is missing
+
+But because:
+
+- the archive is increasingly good enough that portability and auditability are now the weaker layer
+
+That means a final closeout that ignores canonical path normalization would risk leaving:
+
+- strong synthesis
+- mostly real packets
+- but an unnecessarily confusing evidence surface for the next worker
 
 ## Bottom line
 

@@ -200,6 +200,7 @@ The dedicated note-layer audit script prints the current partition counts and fa
 - any top-level note file is outside both manifests
 - any manifest entry no longer points to a current top-level note file
 - the manifest union no longer matches the top-level note inventory
+- a historically excluded note drifts into having both standardized sections without being reclassified
 
 Manual equivalent:
 

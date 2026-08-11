@@ -11,11 +11,18 @@ mapfile -t reusable < <(rg -v '^\s*(#|$)' "$reusable_manifest" | sort)
 mapfile -t historical < <(rg -v '^\s*(#|$)' "$historical_manifest" | sort)
 mapfile -t notes_files < <(find notes -maxdepth 1 -name '*.md' | sort)
 mapfile -t union < <(printf '%s\n' "${reusable[@]}" "${historical[@]}" | sort -u)
+historical_with_both_sections=()
 
 count_matches() {
   local pattern="$1"
   printf '%s\n' "${historical[@]}" | rg -c "$pattern"
 }
+
+for path in "${historical[@]}"; do
+  if rg -q '^## Packet Inputs Used' "$path" && rg -q '^## Skeptical Reader Test' "$path"; then
+    historical_with_both_sections+=("$path")
+  fi
+done
 
 printf 'note-layer-boundary-audit\n'
 printf 'date %s\n' "2026-08-11"
@@ -27,6 +34,7 @@ printf 'historical_handoff %s\n' "$(count_matches 'handoff')"
 printf 'historical_log %s\n' "$(count_matches 'log')"
 printf 'historical_raw_blob_rclone %s\n' "$(count_matches 'raw|blob|rclone')"
 printf 'historical_other %s\n' "$(printf '%s\n' "${historical[@]}" | rg -vc 'handoff|log|raw|blob|rclone')"
+printf 'historical_with_both_sections %s\n' "${#historical_with_both_sections[@]}"
 
 missing_from_manifests="$(comm -23 <(printf '%s\n' "${notes_files[@]}") <(printf '%s\n' "${union[@]}"))"
 stale_manifest_entries="$(comm -13 <(printf '%s\n' "${notes_files[@]}") <(printf '%s\n' "${union[@]}"))"
@@ -43,6 +51,11 @@ fi
 
 if [[ "${#union[@]}" -ne "${#notes_files[@]}" ]]; then
   printf 'count_mismatch union=%s notes=%s\n' "${#union[@]}" "${#notes_files[@]}" >&2
+  exit 1
+fi
+
+if [[ "${#historical_with_both_sections[@]}" -ne 0 ]]; then
+  printf 'historical_notes_with_both_sections\n%s\n' "$(printf '%s\n' "${historical_with_both_sections[@]}")" >&2
   exit 1
 fi
 

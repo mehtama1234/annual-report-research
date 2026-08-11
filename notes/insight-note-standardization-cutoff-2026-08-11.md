@@ -75,6 +75,8 @@ If a future note is meant to be reused as part of the archive's operating system
 
 If a note is mainly a one-time historical handoff or log, adding those sections is optional and should be judged case by case rather than enforced mechanically.
 
+If a historical note eventually grows into a reusable operating note and gains both standardized sections, it should usually be moved from the historical manifest into the reusable manifest rather than left as an ambiguous exclusion.
+
 ## Skeptical Reader Test
 
 - Does this note explain why the standardization pass stopped where it did rather than implying the remaining unstamped notes were forgotten?

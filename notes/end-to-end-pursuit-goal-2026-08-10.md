@@ -180,6 +180,21 @@ The exact packet inputs that should usually do the work are:
 - customer, patient, enterprise, member, subscriber, or participant behavior clues
 - exact facts and source ledger entries that make the interpretation auditable
 
+Those packet inputs should also be read as proof tools:
+
+- annual takeaways + quarter-chain takeaways
+  - prove: what changed and whether the direction is strengthening, weakening, or persisting
+- business model, segment mix, and product or channel detail
+  - prove: what job the company really performs in the system
+- management priority language, stated constraints, and cost pressures
+  - prove: how management is responding to the pressure or opportunity
+- margin, utilization, occupancy, reimbursement, claims, backlog, order flow, and behavior clues
+  - prove: what is really carrying the economics and where the system is strained
+- capital-allocation decisions
+  - prove: who must carry asset, liquidity, debt, or refinancing burden to keep the system working
+- exact facts and source-ledger entries
+  - prove: the claim directly rather than by implication
+
 That means the interpretation should regularly be built from concrete packet evidence such as:
 
 - volume versus price movement
@@ -258,6 +273,21 @@ Minimum acceptable end-state for this layer:
 - the handoff states which patterns already look durable enough to extend into adjacent names
 - the lane summary clearly separates baseline demand from the systems monetizing that demand
 - the lane summary states where participation, franchise, IP, trust, workflow control, installed base, destination demand, or capital access are doing the real economic work
+
+Different claim types also need different proof burdens:
+
+- consumer claim
+  - show: what behavior changed and which facts prove it
+- cultural or societal claim
+  - show: which real-life pressure is creating demand and why it is broader than one company
+- industrial or operating claim
+  - show: where the strain sits and what happens economically when that pressure changes
+- technical or infrastructure claim
+  - show: where software is the control layer and where physical bottlenecks still decide outcomes
+- capital or balance-sheet claim
+  - show: who must carry property, inventory, debt, or financing burden to keep the system working
+- cross-company pattern claim
+  - show: exact support from at least three companies and what evidence would weaken the broader pattern
 - the lane summary states which management teams are absorbing the burden stack and which ones are capturing the cleaner surplus stack
 
 Failure condition:

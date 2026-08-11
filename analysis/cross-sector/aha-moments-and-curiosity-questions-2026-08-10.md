@@ -16,6 +16,18 @@ Use it as a synthesis layer, not a freeform idea list. Each aha should be tracea
 - burden-versus-beneficiary interpretation
 - next filing watchlist
 
+## Packet Inputs Used
+
+This page is fed by the packet fields most likely to produce surprise rather than summary:
+
+- annual report takeaways that changed the basic read on what the company really is
+- latest three-quarter chains that exposed acceleration, fragility, or contradiction
+- operating indicators such as backlog, occupancy, membership, volume, and margin mix
+- management framing when it clearly revealed a strategy shift or hidden burden
+- exact supporting facts that make the aha concrete
+- burden-versus-beneficiary reads that explain why the surprising part matters economically
+- next filing watchlists that turn each aha into a live question instead of a slogan
+
 ## Skeptical Reader Test
 
 Before treating an aha as strong enough to keep, make sure a skeptical reader can answer:

@@ -6,6 +6,25 @@ Purpose:
 
 This page defines the metrics that matter across the current archive and names what to check in the next filings.
 
+## Packet Inputs Used
+
+This glossary is derived from the packet sections that repeatedly determined whether an insight was strong or weak:
+
+- latest three-quarter chains, where the important operating metrics first showed up
+- exact supporting facts, which tied each metric to a real company and lane
+- company-level strategy reads, which explained why the metric mattered
+- burden-versus-beneficiary interpretations, which showed whether the metric reflected clean capture or hard operating burden
+- thesis breakers and next filing watchlists, which turned each metric into an active test rather than a static definition
+
+## Skeptical Reader Test
+
+Before treating a metric as important enough to track across the archive, make sure a skeptical reader can answer:
+
+1. `Which exact company packets made this metric matter?`
+2. `What does the metric reveal that revenue alone does not?`
+3. `Why is this metric economically important for the lane?`
+4. `What future change in the metric would weaken the current insight?`
+
 ## Consumer And Retail
 
 `Comparable sales`

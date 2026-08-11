@@ -11,6 +11,18 @@ This note turns the current annual-report archive into an explicit routing map f
 
 The point is not to duplicate those projects here. The point is to make it obvious which annual-report artifacts should feed which existing force packs and dossier pages.
 
+## Packet Inputs Used
+
+This bridge uses the annual-report archive at the artifact level, but the artifacts themselves are grounded in:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- lane summaries
+- cross-company proof memos
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
 ## Practical rule
 
 - collect and packetize in `annual-report-research/`
@@ -108,3 +120,12 @@ Use these names first when refreshing downstream work:
 The annual-report archive now has enough depth that downstream work should stop using purely thematic language where company evidence exists.
 
 The immediate job is not to invent new taxonomies. It is to route the current evidence into the exact force packs and dossier pages that already exist nearby.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to ask:
+
+1. `Which annual-report artifacts are being routed?`
+2. `What packet evidence made those artifacts strong enough to route downstream?`
+3. `Why does each destination project need this material rather than a broader summary?`
+4. `What missing packet work would make one of these bridges premature?`

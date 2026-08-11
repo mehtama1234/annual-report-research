@@ -33,6 +33,18 @@ Required evidence window for all eventual packet work:
 - `2025` annual report
 - latest three reported quarters as of `2026-08-10`
 
+## Packet Inputs Used
+
+This frontier brief is built from the packet-level materials already gathered or targeted for the lane:
+
+- annual report takeaways for the core monetization system of each company
+- latest three-quarter chains for growth, margin, engagement, churn, or backlog direction
+- plain-English operating models for who owns attention, interface, access, or workflow
+- company-level strategy reads for how management is adapting to fragmentation, AI, and platform shifts
+- exact supporting facts on memberships, ad revenue, engagement, app behavior, churn, and infrastructure spend
+- burden-versus-beneficiary interpretations for who captures the relationship versus who carries content, network, measurement, or governance burden
+- next filing watchlists and recommended next names for how to deepen the lane
+
 ## Mission
 
 This frontier should explain how five things fit together rather than treating them as unrelated leftovers:
@@ -591,3 +603,12 @@ That is a coherent archive frontier, not a residual pile.
 Kodak also sharpens one more cross-lane point that the archive needed. Imaging is not one market. `GoPro` shows a stressed niche creator-device model, `Canon` shows a scaled and still-growing system-level imaging franchise, and `Kodak` shows legacy imaging surviving through chemicals, print, film, and workflow infrastructure. That three-way comparison makes the everyday-device lane materially more defensible.
 
 It also keeps the frontier from becoming too software-heavy. Kodak makes visible that the physical substrate behind visual systems still matters: silver, aluminum, manufacturing efficiency, film stock, print consumables, and installed industrial workflows remain part of how attention, publishing, packaging, and image distribution actually function.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts make this a coherent frontier rather than a pile of adjacent industries?`
+2. `Which companies prove relationship ownership, and which ones prove burden carrying?`
+3. `What recurring cross-company mechanism links attention, access, and interface control?`
+4. `What future evidence would show that these sub-lanes belong apart rather than together?`

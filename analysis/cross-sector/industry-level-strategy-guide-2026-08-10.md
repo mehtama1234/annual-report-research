@@ -6,6 +6,18 @@ Purpose:
 
 This guide sits between company packets and cross-sector themes. It explains how an industry lane works internally: how companies make money, which metrics matter, where strategy is moving, and what can break the thesis.
 
+## Packet Inputs Used
+
+This guide is meant to be built from the same packet inputs lane after lane:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- thesis breakers
+- next filing watchlists
+
 ## How To Read An Industry Lane
 
 For every industry, answer these questions:
@@ -39,6 +51,15 @@ Before treating a lane explanation as finished, make sure a skeptical reader can
 4. `What would change the conclusion?`
 
 If the lane writeup cannot answer those four directly, it is still too generic.
+
+## Packet Inputs Used For Lane Insight
+
+Each lane page should explicitly state which packet sections are doing the analytical work:
+
+- which companies supplied the core demand facts
+- which companies supplied the margin or burden facts
+- which companies clarified who owns the relationship or workflow
+- which companies supplied the best watch metrics and thesis breakers
 
 ## Beauty And Personal Care
 

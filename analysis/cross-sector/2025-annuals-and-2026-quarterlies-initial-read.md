@@ -8,6 +8,17 @@ Scope:
 - `2025` annual reports and annual filings
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This macro read is built from repeated packet sections across the archive rather than from sector labels alone:
+
+- annual report takeaways for the baseline business shape in each lane
+- latest three-quarter chains for direction of growth, margin, backlog, demand, and cash conversion
+- company-level strategy reads for what management is actually trying to build, repair, or defend
+- exact supporting facts on capex, backlog, memberships, occupancy, volume, ARR, and free cash flow
+- burden-versus-beneficiary interpretations for who captures the economics versus who carries labor, power, reimbursement, property, or compliance burden
+- next filing watchlists that show what would confirm or weaken the broad read
+
 ## Bottom line
 
 The archive is no longer saying "broad economy, broad recovery." It is saying that performance is concentrating into a smaller set of advantaged systems:
@@ -165,6 +176,15 @@ The archive points to a macro environment with five simultaneous truths:
 4. Whether public-markets asset managers can offset fee compression through ETFs, retirement, alternatives, and distribution breadth.
 5. Whether healthcare friction eases or becomes an even larger political and operating constraint.
 6. Whether the current experience-demand resilience survives a weaker labor or consumer backdrop.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts make this more than a macro mood read?`
+2. `Why do these conclusions cut across sectors?`
+3. `Who benefits and who carries the burden in this read?`
+4. `What would weaken the macro conclusion?`
 
 ## Working conclusion
 

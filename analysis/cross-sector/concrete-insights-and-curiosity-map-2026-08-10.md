@@ -57,6 +57,17 @@ The conclusions on this page should be traceable to the exact packet sections th
 
 If an insight cannot point back to those packet inputs, it is probably too broad for this archive standard.
 
+## Packet Inputs Used
+
+In practice, the conclusions on this page are built by comparing those packet sections across many companies at once:
+
+- annual report takeaways for the baseline role of each company
+- latest three-quarter chains for what is strengthening, weakening, or staying burdened
+- company-level strategy reads for how management is responding
+- exact supporting facts that make each cross-company claim auditable
+- burden-versus-beneficiary interpretations that explain who captures the economics
+- peer comparisons and next filing watchlists that keep each insight testable rather than static
+
 ## Skeptical Reader Test
 
 Before treating any insight on this page as finished, make sure a skeptical reader can answer:

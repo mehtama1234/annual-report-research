@@ -8,6 +8,20 @@ Scope:
 - latest three reported quarters available as of `2026-08-10`
 - current source-complete packets and thematic notes in the repo
 
+## Packet Inputs Used
+
+This guide is explicitly built around the packet sections that should drive any company-level interpretation:
+
+- annual report takeaways
+- latest three-quarter chain
+- plain-English operating model
+- company-level strategy read
+- strategy evidence table
+- insight stack
+- burden-versus-beneficiary interpretation
+- thesis breaker
+- next filing watchlist
+
 ## Purpose
 
 Cross-company themes explain the bigger economy. Company-level strategy insights explain the company itself.
@@ -888,3 +902,12 @@ Name the exact metrics to check next.
 The company-level note is not a mini biography. It is an explanation of the company's economic role and strategy using filing evidence.
 
 If the note does not identify the real business, growth engine, constraint, economic lever, and thesis breaker, it is not finished.
+
+## Skeptical Reader Test
+
+A skeptical reader should still be able to ask, at the company level:
+
+1. `Which exact packet fields supplied this interpretation?`
+2. `Which specific fact most changes the company read versus the industry label?`
+3. `Why does that fact matter economically for this company?`
+4. `What future filing evidence would break the strategy read?`

@@ -17,6 +17,17 @@ The thesis-breaker layer should stay tied to the same packet evidence as the mai
 
 If the disconfirming case cannot be traced back to the same packet inputs that supported the claim, it is probably too abstract.
 
+## Packet Inputs Used
+
+This index is built from the same packet sections that supported the positive insight pages:
+
+- annual report takeaways that established the base case
+- latest three-quarter chains that showed the current direction
+- operating indicators such as backlog, occupancy, membership, volume, and ARR
+- exact supporting facts that made the original claim defensible
+- burden-versus-beneficiary interpretations that showed where fragility might surface first
+- next filing watchlists that identify the best metrics and companies to monitor for failure
+
 ## Skeptical Reader Test
 
 Before treating a thesis breaker as useful, make sure a skeptical reader can answer:

@@ -68,6 +68,23 @@ The archive should also make the packet-input chain explicit. A serious company,
 - burden-versus-beneficiary interpretation
 - next filing watchlist
 
+Those packet sections should not be treated as generic checklist items.
+
+They should each do analytical work:
+
+- annual report takeaways + latest three-quarter chain
+  - prove: what changed and whether it is strengthening, weakening, or persisting
+- company-level strategy read
+  - prove: how management is responding to the pressure or opportunity
+- exact supporting facts
+  - prove: the claim directly rather than by implication
+- burden-versus-beneficiary interpretation
+  - prove: who captures cleaner economics and who carries the messy work
+- next filing watchlist
+  - prove: the interpretation is falsifiable and ready for continuation
+
+If a lane or proof memo cannot say which of those packet sections supplied the conclusion, it is still too loose.
+
 ## Meaty End-To-End Goal
 
 The end-to-end goal is to extract how the economy is changing from company filings, using companies as evidence rather than anecdotes.
@@ -127,6 +144,25 @@ Before treating any company read, lane explanation, or proof memo as finished, m
 4. `What would change the conclusion?`
 
 If the work cannot answer those four clearly, it is still too loose.
+
+The skeptical-reader standard also applies to claim type.
+
+If the page makes a:
+
+- consumer claim
+  - it should show what behavior changed and which facts prove it
+- cultural or societal claim
+  - it should show which real-life pressure is creating demand and why it is broader than one company
+- industrial or operating claim
+  - it should show where the strain sits and what happens economically when that pressure changes
+- technical or infrastructure claim
+  - it should show where software is the control layer and where physical bottlenecks still decide outcomes
+- capital or balance-sheet claim
+  - it should show who must carry property, inventory, debt, or financing burden to keep the system working
+- cross-company pattern claim
+  - it should show exact support from at least three companies and what evidence would weaken the broader pattern
+
+If the page names one of those claim types without meeting the matching proof burden, it is not finished.
 
 ## Core Standard
 

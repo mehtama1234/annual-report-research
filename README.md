@@ -159,9 +159,13 @@ Do that at the end of a coherent batch or leave the batch ready for later integr
 
 For the note-boundary and insight-system audit layer:
 
-- refresh the committed boundary report and rerun both checks with:
+- refresh the committed boundary report and rerun the linked audit stack with:
   - `bash scripts/refresh-note-layer-boundary.sh`
 - run only the direct boundary audit with:
   - `bash scripts/audit-note-layer-boundary.sh`
+- run only the continuation-link audit with:
+  - `bash scripts/audit-continuation-mode-links.sh`
+- run only the browser review-link audit with:
+  - `bash scripts/audit-browser-review-links.sh`
 - run only the broader insight-system verifier with:
   - `bash scripts/verify-insight-system.sh`

@@ -27,7 +27,7 @@ Date baseline: 2026-08-10
 
 ### Most recent quarter: Q4 FY26
 
-- Results: the `Q4 FY26` earnings release PDF is saved locally and the `8-K` wrapper is on disk, making the current-quarter evidence chain complete at the release level even though the quarter is newer than the annual anchor.
+- Results: the `Q4 FY26` earnings release PDF is saved locally, giving the packet a current-quarter operating read even though a matching local `8-K` wrapper and year-end filed report were not present in the current raw tree at packet-audit time.
 - Structural read: this quarter matters because it shows whether away-from-home demand, hospitality throughput, and restaurant activity remained healthy into summer `2026`. It is the freshest operating check for the physical participation economy in this batch.
 - Management message: Sysco's current-quarter materials continue to frame performance around sales growth, case growth, gross-profit control, and execution against local-customer and sourcing initiatives rather than around headline consumer sentiment alone.
 

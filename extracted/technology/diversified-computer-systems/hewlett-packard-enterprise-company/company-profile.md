@@ -10,8 +10,8 @@
 ## Source state
 
 - AnnualReports archive confirmation saved, but current-year coverage lagged and used legacy `Hewlett-Packard Company` naming
-- Official IR routing links and issuer-hosted quarter PDFs saved
-- SEC annual and trailing-quarter filing chain saved
+- The packet was inherited with raw-path references to official IR and SEC artifacts, but those raw files are not currently inspectable from this workspace
+- The packet's filing window and strategic interpretation remain usable, but the underlying raw evidence chain should be treated as needing rebuild before this company is used as a proof-standard case
 
 ## Active filing window used in this packet
 

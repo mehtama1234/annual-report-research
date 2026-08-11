@@ -15,6 +15,19 @@ The useful question is:
 
 Which companies are improving quality by carrying less complexity rather than by simply trying to grow through it?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make portfolio surgery and burden shedding visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that divestitures are good.
+
 ## Why This Comparison Matters
 
 The archive already explains:
@@ -233,6 +246,17 @@ This simplification thesis weakens if:
 - complexity leaves the portfolio only to reappear through weaker growth, lower margins, or new execution gaps
 - capital-light or narrower structures prove less resilient than the older diversified model
 - investors continue rewarding breadth and optionality more than clarity and burden reduction
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the burden-shedding system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, simplification map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

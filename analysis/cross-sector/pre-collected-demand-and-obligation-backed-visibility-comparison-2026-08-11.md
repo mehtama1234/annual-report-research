@@ -17,6 +17,19 @@ It is who collects cash, deferred revenue, deposits, stored value, or partner-fu
 
 Which companies build stronger visibility and operating control because customers, partners, or ecosystems fund part of the relationship in advance?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make pre-collected demand and obligation-backed visibility visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that deferred revenue is good.
+
 ## Companies Used
 
 - [Starbucks Corporation](../../extracted/services/restaurants/starbucks-corporation/company-packet.md)
@@ -201,6 +214,17 @@ There is also a conceptual limit:
 pre-collected demand is not automatically good demand.
 
 It can mask future execution problems if the service obligation becomes harder to fulfill than the early cash made it appear.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the pre-collected-demand system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, pre-collected-demand map, exact mechanism, and disconfirming-evidence sections above.
 
 ## Watch Metrics
 

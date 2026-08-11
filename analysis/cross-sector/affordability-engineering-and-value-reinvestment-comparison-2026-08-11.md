@@ -23,6 +23,19 @@ The useful question is:
 
 Which companies are actively engineering affordability and value rather than waiting for the consumer to become easier again?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make affordability engineering and value reinvestment visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that consumers are price sensitive.
+
 ## Why This Comparison Matters
 
 The repo already has a strong memo on the selective consumer.
@@ -206,6 +219,17 @@ This thesis weakens if:
 - margin pressure deepens faster than companies can fund reinvestment with productivity
 - housing incentives stop converting into closings and only erode profitability
 - the supposed value reset is really just temporary promotional spending without stronger long-run demand quality
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the affordability-engineering system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, value-repair map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

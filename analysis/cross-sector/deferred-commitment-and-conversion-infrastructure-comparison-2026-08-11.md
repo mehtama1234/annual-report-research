@@ -15,6 +15,19 @@ It is who turns "maybe later" into "yes now."
 
 Which companies are building recurring economics by reducing commitment friction through payment design, financing structure, or booking flexibility?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make deferred commitment and conversion infrastructure visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad claim that financing boosts sales.
+
 ## Companies Used
 
 - [Affirm Holdings, Inc.](../../extracted/technology/application-software/affirm-holdings-inc/company-packet.md)
@@ -160,6 +173,17 @@ not every conversion improvement represents durable demand.
 Sometimes it only shifts timing forward.
 
 That is why this pattern has to be watched through both growth and credit or quality outcomes.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the deferred-commitment system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, commitment-friction map, exact mechanism, and disconfirming-evidence sections above.
 
 ## Watch Metrics
 

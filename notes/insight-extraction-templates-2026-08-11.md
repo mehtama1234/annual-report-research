@@ -7,6 +7,12 @@ Use these templates when creating new company packets, lane summaries, theme mem
 
 The point is to make every run produce evidence-backed insight, not just source collection.
 
+Use the templates as one connected evidence chain:
+
+`source coverage -> annual and quarter facts -> company strategy read -> lane economics -> repeated pattern -> plain-English insight -> watch metric -> thesis breaker`
+
+If a later section cannot be traced back to earlier packet evidence, the artifact is still intermediate.
+
 ## Company Packet Template
 
 ```markdown
@@ -299,6 +305,14 @@ The lane exists because:
 |---|---|---|---|
 |  |  |  |  |
 
+## Packet Inputs Used For Lane Insight
+
+List the exact packet sections doing the work for the lane read.
+
+| Company | Packet inputs used | Why those inputs matter for the lane |
+|---|---|---|
+|  | annual takeaways; quarter chain; strategy read; exact supporting facts; burden read |  |
+
 ## Industry Economics In Plain English
 
 - Customer need:
@@ -338,6 +352,8 @@ The lane exists because:
   Beneficiary:
   Burden carrier:
   What it means:
+
+Each theme should point back to exact packet facts, not just company names.
 
 ## Insight Stack Across The Lane
 
@@ -404,6 +420,14 @@ Date baseline: {YYYY-MM-DD}
 
 The claim is supported by exact evidence from multiple company packets.
 
+## Packet Inputs Used
+
+Name the packet sections that feed this proof page before writing the conclusion.
+
+| Company | Packet sections used | Why these sections matter |
+|---|---|---|
+|  | annual takeaways; quarter chain; strategy read; exact supporting facts; burden-versus-beneficiary interpretation |  |
+
 ## Exact Evidence
 
 | Company | Exact packet facts | What the facts prove |
@@ -426,6 +450,15 @@ The claim is supported by exact evidence from multiple company packets.
 ## Stronger Conclusion
 
 {Plain-English conclusion that connects the company evidence into a larger pattern.}
+
+## Reader Test
+
+A skeptical reader should be able to say:
+
+- this is the fact
+- this is what it means
+- this is why it matters beyond one company
+- this is what would change my mind
 
 ## Why This Matters Now
 
@@ -614,6 +647,7 @@ Before calling a lane batch complete:
 - 4-8 flagship companies are completed when the lane supports it.
 - Each company adds a distinct role.
 - Lane summary explains industry economics.
+- Lane summary states which packet inputs the comparison relies on.
 - Company comparison table exists.
 - Cross-company themes use exact evidence.
 - Aha moments are stated.

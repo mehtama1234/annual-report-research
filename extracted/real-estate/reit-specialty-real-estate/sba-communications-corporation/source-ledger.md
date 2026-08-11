@@ -35,7 +35,7 @@ Use evidence tags:
 
 - SBA is a taxonomy-drift case. AnnualReports still labels the company under `Technology / Wireless Communications`, while this archive places it under `Real Estate / REIT - Specialty Real Estate` because the operating and legal model is tower-landlord economics.
 - The correct trailing-quarter set as of Monday, `2026-08-10`, is `2Q26`, `1Q26`, and `4Q25`.
-- Local evidence is split across two side trees: AnnualReports verification and company IR release pages are in `annual-report-research-remaining-frontiers`, while the normalized SEC annual and quarter chain is in `annual-report-research-new-lanes` under the older technology / wireless path.
+- Local evidence is split across two inherited raw workspaces: AnnualReports verification and company IR release pages sit in one earlier frontier capture, while the normalized SEC annual and quarter chain sits in a separate older technology / wireless capture.
 - Company IR and SEC are treated as authoritative for the `2025` annual report and latest three quarters because AnnualReports lagged by a full annual cycle.
 
 ## Missing evidence

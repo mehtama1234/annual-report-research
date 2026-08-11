@@ -275,6 +275,13 @@ It also completed one handoff-header provenance cleanup step:
   - commit hash
 - this keeps the integration trail readable without leaving dozens of one-off source-repo names as part of the current archive surface
 
+It also completed a small final-leftover cleanup step:
+
+- the stale energy-buildout location note now points readers at the current integrated note files in `annual-report-research`
+- the `SBA Communications` source ledger no longer names legacy side-worktree roots in reconciliation prose
+- the `IBIS` alignment note now refers to the archive as the annual-report evidence layer rather than naming the older side-worktree directly
+- the remaining non-raw sibling-root residue is now concentrated in deliberate historical documentation rather than active packet or handoff surfaces
+
 What did not change:
 
 - packet-level raw citations that still point into `annual-report-research-cli8-middle-layer/raw/...`
@@ -287,7 +294,28 @@ So the practical outcome is narrower and more honest:
 - a first packet-level local-document subset is cleaner
 - a first imported-source-ledger subset is cleaner
 - the bulk handoff-header residue is now cleaner
+- several narrow leftover notes are cleaner
 - packet-level provenance cleanup is still a remaining archive task
+
+## What Remains After These Passes
+
+After the latest cleanup passes, the remaining non-raw sibling-root references are concentrated in three intentional files:
+
+- `notes/cross-repo-evidence-portability-audit-2026-08-11.md`
+- `notes/new-lanes-raw-blob-offload-2026-08-10.md`
+- `notes/legacy-root-reference-audit-2026-08-11.md`
+
+That remaining residue is different from the earlier portability problem.
+
+It is now mostly:
+
+- audit language that names the roots being measured
+- historical offload documentation that records the original worktree and raw-tree names
+
+In plain language:
+
+- the broad cleanup debt is no longer spread across live packet navigation and handoff surfaces
+- the remaining old-root names are now mostly part of explicit historical recordkeeping
 
 ## Highest-Value Endgame Interpretation
 

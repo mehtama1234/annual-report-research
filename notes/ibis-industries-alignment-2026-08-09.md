@@ -4,7 +4,7 @@ Date baseline: 2026-08-09
 
 ## Packet Inputs Used
 
-- the reviewed README, tracker, and force-map files in `annual-report-research-new-lanes`
+- the reviewed README, tracker, and force-map files in the annual-report evidence archive
 - the reviewed README and narrative framework files in `ibis-industries`
 - the repo split between dated company-evidence collection on one side and broader force or industry interpretation on the other
 - the current state of sector synthesis, theme tracking, and force mapping already present in the annual-report archive
@@ -27,7 +27,7 @@ I reviewed:
 `ibis-industries` and `annual-report-research` are complementary, not redundant.
 
 - `ibis-industries` is the broad US-industry interpretation layer.
-- `annual-report-research-new-lanes` is the dated company-evidence layer built from `2025` annual reports plus the latest three reported quarters in scope as of `2026-08-09`.
+- the annual-report evidence archive is the dated company-evidence layer built from `2025` annual reports plus the latest three reported quarters in scope as of `2026-08-09`.
 
 The practical relationship is:
 

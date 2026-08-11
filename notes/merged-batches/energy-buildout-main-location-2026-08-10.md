@@ -10,20 +10,22 @@ The energy and heavy-input batch was merged into `main`.
 - merge commit on `main`: `3e43ea8a`
 - post-merge handoff note on `main`: `3cafdd1e`
 
-## Physical checkout location
+## Historical checkout location
 
-The current `main` worktree is checked out at:
+At the time this note was written, the `main` worktree was checked out in a separate side worktree rather than at the current integrated path.
 
-- `/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer`
-
-The current `/home/manishmehta/ui-projects/annual-report-research` directory is a different worktree on:
+At that same time, `/home/manishmehta/ui-projects/annual-report-research` was a different worktree on:
 
 - `cli4-healthcare-frontier-batch`
 
+Current integrated location for the merged note set:
+
+- `/home/manishmehta/ui-projects/annual-report-research`
+
 ## Main note files
 
-- `/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/notes/energy-buildout-batch-2026-08-10.md`
-- `/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/notes/post-merge-energy-buildout-2026-08-10.md`
+- `/home/manishmehta/ui-projects/annual-report-research/notes/energy-buildout-batch-2026-08-10.md`
+- `/home/manishmehta/ui-projects/annual-report-research/notes/post-merge-energy-buildout-2026-08-10.md`
 
 ## Why this was not switched in place
 

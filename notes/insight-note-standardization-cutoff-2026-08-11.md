@@ -45,6 +45,8 @@ Direct audit script:
 
 - `bash scripts/audit-note-layer-boundary.sh`
 - `bash scripts/audit-note-layer-boundary.sh --write-report notes/note-layer-boundary-audit-2026-08-11.md`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
 
 Current report artifact:
 
@@ -57,6 +59,11 @@ The committed report is generated state, not hand-maintained narrative. If the m
 - `bash scripts/audit-note-layer-boundary.sh --write-json notes/note-layer-boundary-audit-2026-08-11.json`
 - `bash scripts/audit-note-layer-boundary.sh --write-artifacts notes/note-layer-boundary-audit-2026-08-11.md notes/note-layer-boundary-audit-2026-08-11.json`
 - `bash scripts/refresh-note-layer-boundary.sh`
+
+The refresh command now reruns the linked audit stack as well:
+
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
 
 Both committed artifacts are freshness-checked by the main verifier against freshly generated temporary copies.
 

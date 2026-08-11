@@ -27,6 +27,7 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Meaty goal | Defines the larger ambition level: packets, lane economics, proof pages, societal shifts, operating pressures, and handoff quality. | [meaty-end-to-end-insight-goal-2026-08-11.md](meaty-end-to-end-insight-goal-2026-08-11.md) | Present |
 | Operator/reviewer bridge | Gives future threads one short page that joins the end goal, proof chain, insight types, operator loop, and reviewer loop. | [end-to-end-insight-operator-and-review-brief-2026-08-11.md](end-to-end-insight-operator-and-review-brief-2026-08-11.md) | Present |
 | Remaining substantive goal | States the highest-value remaining archive work after the guidance and audit layer are largely built. | [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md) | Present |
+| Remaining execution board | Turns the remaining substantive goal into batch-by-batch next actions, outputs, proof-page targets, and done gates. | [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md) | Present |
 | Lane runbook | Gives the end-to-end execution sequence from lane definition through proof memos and closeout. | [lane-end-to-end-execution-runbook-2026-08-11.md](lane-end-to-end-execution-runbook-2026-08-11.md) | Present |
 | Execution templates | Provides copy-ready templates for packets, profiles, ledgers, lane summaries, proof memos, thesis breakers, and closeouts, including explicit packet-input tracing, packet-field fit prompts, claim-type proof checks, and reader-test sections. | [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md) | Present |
 | Completion rubric | Forces future threads to prove that packets, lanes, and proof memos are actually finished rather than merely present, including packet-field fit and claim-type proof burden tests. | [insight-completion-rubric-2026-08-11.md](insight-completion-rubric-2026-08-11.md) | Present |
@@ -204,6 +205,7 @@ Primary review pages:
 - `http://localhost:8080/site/viewer.html?file=notes/end-to-end-insight-master-instruction-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/remaining-end-to-end-insight-goal-2026-08-11.md`
+- `http://localhost:8080/site/viewer.html?file=notes/remaining-insight-execution-board-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/insight-extraction-templates-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/insight-completion-rubric-2026-08-11.md`
 

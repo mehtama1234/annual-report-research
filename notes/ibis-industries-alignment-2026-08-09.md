@@ -2,6 +2,14 @@
 
 Date baseline: 2026-08-09
 
+## Packet Inputs Used
+
+- the reviewed README, tracker, and force-map files in `annual-report-research-new-lanes`
+- the reviewed README and narrative framework files in `ibis-industries`
+- the repo split between dated company-evidence collection on one side and broader force or industry interpretation on the other
+- the current state of sector synthesis, theme tracking, and force mapping already present in the annual-report archive
+- the practical question of how to use the IBIS force map as a guide for the next company packets and lane extensions
+
 ## What I checked
 
 I reviewed:
@@ -195,3 +203,10 @@ The archive is already organized correctly:
 So the main issue is no longer structure. It is selective expansion.
 
 The highest-value move now is to use the existing `ibis-industries` force map as the shopping list for what company packets to add next, starting with consumer and then commodity-and-energy exposure.
+
+## Skeptical Reader Test
+
+- Does this note make clear what was actually checked in each repo before drawing an alignment conclusion?
+- Can a skeptical reader see why the two repos are complementary rather than redundant?
+- Does the note explain how company-packet evidence should flow back into broader force and theme work?
+- What would show that the proposed alignment is still conceptual rather than grounded in the actual tracked files and current repo structures?

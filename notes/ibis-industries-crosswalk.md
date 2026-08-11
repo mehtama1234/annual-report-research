@@ -6,6 +6,14 @@ Related repo reviewed:
 
 - `/home/manishmehta/ui-projects/ibis-industries`
 
+## Packet Inputs Used
+
+- the current `ibis-industries` packs, trend files, and broad-force framing
+- the current `annual-report-research` source hierarchy, target filing window, and output shapes for company packets, sector briefs, and theme memos
+- the practical need to separate “force explanation” from “company disclosure verification”
+- the archive's bridge requirement that cross-repo use should sharpen lane and theme work without blurring ownership of evidence
+- the set of named force packs that are most relevant for the next deeper passes in services, industrials, healthcare, and financials
+
 ## What it is
 
 `ibis-industries` is a broad industry-and-forces research system. It is built from 2022 IBISWorld industry baselines refreshed with live 2024-2026 web research and organized around:
@@ -185,3 +193,10 @@ Do not use `ibis-industries` to answer:
 - Pull `the-compute-super-cycle` and `the-labor-squeeze` when broadening industrial and technology power / infrastructure themes.
 - Pull `the-health-reckoning` when sharpening the consumer-goods and healthcare crossover around diet, chronic care, and payer pressure.
 - Pull `money-gets-unbundled` and `the-compliance-tax` when broadening Financial beyond the current company set.
+
+## Skeptical Reader Test
+
+- Does this crosswalk clearly separate what `ibis-industries` is good for from what must still be verified in `annual-report-research`?
+- Can a skeptical reader tell why the two systems should stay separate but connected?
+- Does the file give concrete next uses rather than abstract “synergy” language?
+- What would show that a worker could still confuse broad force framing with verified company-packet evidence?

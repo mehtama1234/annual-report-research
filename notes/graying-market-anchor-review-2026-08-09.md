@@ -2,6 +2,14 @@
 
 Date: 2026-08-09
 
+## Packet Inputs Used
+
+- the `the-graying-market` force need inside the broader force map
+- the candidate-company review that compared Brookdale with other age-linked operators and adjacent evidence names
+- AnnualReports classification confirmation for Brookdale and the exact quarter-window constraint available as of `2026-08-09`
+- the existing archive exposure to healthcare payers, medtech, and healthcare real-estate names, which shapes why Brookdale adds new operator value
+- the packet-planning requirement that a force anchor should add a cleaner system read, not just another adjacent healthcare company
+
 ## Purpose
 
 This note records the strongest next operator candidate for `the-graying-market` after closing `the-labor-squeeze`.
@@ -83,3 +91,10 @@ If the next packet proceeds with Brookdale, the repo should use:
 ## Working recommendation
 
 Proceed with `Brookdale Senior Living Inc.` as the next `the-graying-market` anchor, while preserving the exact quarter window implied by `2026-08-09`.
+
+## Skeptical Reader Test
+
+- Does this review make clear why Brookdale is a stronger direct aging-demand anchor than the other near-term candidates?
+- Can a skeptical reader see the exact classification and quarter-window constraints behind the recommendation?
+- Does the note explain what incremental system understanding Brookdale adds beyond payer, medtech, or healthcare real-estate names already in the archive?
+- What new evidence would weaken Brookdale's status as the best next direct operator anchor?

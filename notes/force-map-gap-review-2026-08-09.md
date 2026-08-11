@@ -2,6 +2,14 @@
 
 Date: 2026-08-09
 
+## Packet Inputs Used
+
+- the `ibis-industries/forces/` slug set used as the external force reference
+- `indexes/force-map.csv` inside `annual-report-research` as the bridge record being audited
+- the current company-anchor choices already mapped to specific force slugs
+- the distinction between slug-level coverage completion and deeper confidence or breadth inside each mapped force
+- the archive rule that future collection should improve force depth where useful instead of manufacturing new gaps after slug coverage is complete
+
 ## What this checks
 
 This note compares:
@@ -52,3 +60,10 @@ The remaining work is no longer to close a missing slug. It is to widen confiden
 Keep the force-map itself high-confidence and complete.
 
 Use future collection passes to improve depth around already mapped forces rather than to patch missing slugs.
+
+## Skeptical Reader Test
+
+- Does this note identify the exact two source sets being compared when it claims the force-map bridge is complete at the slug level?
+- Can a skeptical reader see the difference between “no missing slugs” and “plenty of room to deepen the evidence around mapped slugs”?
+- Does the recommendation follow from the audited result rather than from a generic desire to keep collecting?
+- What contradiction in `indexes/force-map.csv` or the force-slug list would weaken the claim of full slug-level coverage?

@@ -163,6 +163,8 @@ Do that at the end of a coherent batch or leave the batch ready for later integr
 
 For the note-boundary and insight-system audit layer:
 
+- run the full linked audit stack with:
+  - `bash scripts/run-insight-audit-stack.sh`
 - refresh the committed boundary report and rerun the linked audit stack with:
   - `bash scripts/refresh-note-layer-boundary.sh`
 - run only the direct boundary audit with:

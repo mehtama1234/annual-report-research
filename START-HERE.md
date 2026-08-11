@@ -54,6 +54,8 @@ It is often to:
 
 Use these when you need to refresh or rerun the linked note-boundary and insight-system audit stack:
 
+- one-command full linked audit stack:
+  - `bash scripts/run-insight-audit-stack.sh`
 - one-command refresh plus linked audit stack:
   - `bash scripts/refresh-note-layer-boundary.sh`
 - direct boundary audit only:

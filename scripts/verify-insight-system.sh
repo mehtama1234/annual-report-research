@@ -22,6 +22,7 @@ required_files=(
   "scripts/audit-continuation-mode-links.sh"
   "scripts/audit-browser-review-links.sh"
   "scripts/audit-legacy-root-references.sh"
+  "scripts/run-insight-audit-stack.sh"
   "scripts/refresh-note-layer-boundary.sh"
   "scripts/resolve-offloaded-raw-path.py"
   "scripts/verify-raw-evidence-governance.sh"

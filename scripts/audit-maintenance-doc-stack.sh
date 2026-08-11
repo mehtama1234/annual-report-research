@@ -11,6 +11,7 @@ import sys
 repo = Path.cwd()
 
 full_audit_stack = [
+    "bash scripts/run-insight-audit-stack.sh",
     "bash scripts/refresh-note-layer-boundary.sh",
     "bash scripts/audit-audit-stack-terminology.sh",
     "bash scripts/audit-continuation-mode-links.sh",
@@ -29,6 +30,7 @@ expected = {
     Path("START-HERE.md"): full_audit_stack,
     Path("notes/insight-note-standardization-cutoff-2026-08-11.md"): linked_audit_stack,
     Path("notes/insight-artifact-manifest-2026-08-11.md"): [
+        "bash scripts/run-insight-audit-stack.sh",
         *linked_audit_stack,
         "bash scripts/verify-insight-system.sh",
     ],

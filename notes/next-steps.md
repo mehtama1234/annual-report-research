@@ -36,6 +36,10 @@ It is usually to:
 - sharpen the burden-versus-beneficiary split
 - improve the next-filing break test
 
+If you need to verify which live instruction, queue, template, and review surfaces already reflect that continuation-phase state, use:
+
+- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
+
 ## Collection window
 
 Collection window for this phase:

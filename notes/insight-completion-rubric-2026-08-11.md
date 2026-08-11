@@ -34,6 +34,10 @@ For an existing lane, "done" usually means the new work improved one or more of 
 - packet-backed fact-period support
 - next-filing break-test quality
 
+If you need to verify which live operator and review surfaces already carry that continuation-phase definition of "done," use:
+
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
+
 ## The Core Rule
 
 The archive is not done when it has documents, summaries, or company descriptions.

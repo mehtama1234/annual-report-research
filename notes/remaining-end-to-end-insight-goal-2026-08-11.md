@@ -42,6 +42,10 @@ The main missing work is no longer first-pass interpretation either.
 
 The main missing work is substantive lane completion through missing flagship roles, sharper contradiction cases, and stronger packet-backed proof inside the lanes already opened.
 
+If you need to verify which live instruction, queue, template, and review surfaces already reflect that continuation-phase state, use:
+
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
+
 ## The Remaining Meaty Goal
 
 The remaining end-to-end goal is to finish the archive as a working explanation of how the economy is changing.

@@ -47,6 +47,10 @@ Instead, use the templates to ask:
 - which burden-versus-beneficiary claim needs clearer proof
 - which next-filing metric would actually weaken the current read
 
+If you need to verify which live goal, queue, and review files already reflect that strengthening-mode standard, use:
+
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
+
 ## Company Packet Template
 
 ```markdown

@@ -41,6 +41,10 @@ It is often to:
 - sharpen the burden-versus-beneficiary split
 - improve the next-filing break test
 
+If you need to verify that the repo's live goal, queue, template, and review surfaces are all aligned to that continuation-phase state, use:
+
+- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
+
 ## What counts as success
 
 A strong run should leave behind:

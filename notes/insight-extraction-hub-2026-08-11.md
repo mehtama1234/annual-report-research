@@ -53,6 +53,39 @@ The main remaining work is:
 
 Use the hub with that current state in mind.
 
+## Aligned Continuation Surfaces
+
+The following files already carry the continuation-phase standard and should usually be reused rather than rewritten from scratch:
+
+- [master-insight-extraction-goal-2026-08-11.md](master-insight-extraction-goal-2026-08-11.md)
+  - use for: the top-level purpose and evidence-backed end state
+- [end-to-end-insight-master-instruction-2026-08-11.md](end-to-end-insight-master-instruction-2026-08-11.md)
+  - use for: the operator-ready master instruction block
+- [meaty-end-to-end-insight-goal-2026-08-11.md](meaty-end-to-end-insight-goal-2026-08-11.md)
+  - use for: the broadest statement of the archive's explanatory ambition and remaining hard work
+- [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md)
+  - use for: the plain statement of what substantive work is still left
+- [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
+  - use for: the exact next batches, done gates, and proof pages to strengthen
+- [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
+  - use for: contradiction cases, missing-role companies, and stronger break-test targets
+- [lane-end-to-end-execution-runbook-2026-08-11.md](lane-end-to-end-execution-runbook-2026-08-11.md)
+  - use for: choosing between new-lane mode and strengthening mode
+- [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md)
+  - use for: packet, lane, and proof templates in either new-lane or strengthening use
+- [insight-completion-rubric-2026-08-11.md](insight-completion-rubric-2026-08-11.md)
+  - use for: judging whether a new pass actually sharpened a live read
+- [insight-artifact-manifest-2026-08-11.md](insight-artifact-manifest-2026-08-11.md)
+  - use for: the map of the current operating system and its live artifact layers
+- [concrete-insights-and-curiosity-map-2026-08-10.md](../analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md)
+  - use for: the current cross-sector synthesis layer and strongest live proof themes
+- [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md)
+  - use for: company reads that strengthen existing lanes or proof themes
+- [industry-level-strategy-guide-2026-08-10.md](../analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md)
+  - use for: lane reads that sharpen missing roles, contradiction cases, burden splits, and break tests
+
+If a future thread starts by rephrasing those files as if the archive were still missing its first interpretation layer, it is probably repeating work instead of extending the archive.
+
 ## Non-Negotiable Output Shape
 
 Every serious company packet, lane summary, and proof memo should make the following explicit:

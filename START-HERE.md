@@ -36,6 +36,22 @@ Current boundary artifacts:
 - [Note layer boundary audit JSON](/home/manishmehta/ui-projects/annual-report-research/notes/note-layer-boundary-audit-2026-08-11.json)
 - [Insight artifact manifest](/home/manishmehta/ui-projects/annual-report-research/notes/insight-artifact-manifest-2026-08-11.md)
 
+## Raw Evidence Maintenance
+
+Remote `main` does not carry the heavy offloaded `raw/**` payload.
+If a packet, profile, or source ledger points at raw evidence that is not present in the checkout:
+
+- resolve the offloaded raw path with:
+  - `python3 scripts/resolve-offloaded-raw-path.py 'raw/.../file.ext'`
+- audit the remaining retired-root footprint with:
+  - `bash scripts/audit-legacy-root-references.sh`
+
+Supporting references:
+
+- [Raw evidence link policy](/home/manishmehta/ui-projects/annual-report-research/notes/raw-evidence-link-policy-2026-08-11.md)
+- [Raw blob offload readme](/home/manishmehta/ui-projects/annual-report-research/notes/raw-blob-offload-readme-2026-08-10.md)
+- [Legacy root reference audit](/home/manishmehta/ui-projects/annual-report-research/notes/legacy-root-reference-audit-2026-08-11.md)
+
 ## Current integrated checkpoints
 
 Use these before opening a new batch if you want the current state rather than only the kickoff briefs:

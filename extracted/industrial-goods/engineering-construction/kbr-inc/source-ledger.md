@@ -29,7 +29,7 @@ Date baseline: 2026-08-10
 
 ## Reconciliation notes
 
-- KBR's saved evidence chain is local, but it lives in `annual-report-research-cli8-middle-layer-imported-2026-08-10`, not under `annual-report-research/main/raw`.
+- KBR's saved evidence chain is local, but it currently lives in an imported raw workspace rather than the current repo raw tree.
 - The chain is complete for the required window:
   - Q4 `2025` annual filing PDF and SEC `10-K`
   - Q4 `2025` release, transcript, and `8-K`
@@ -39,5 +39,5 @@ Date baseline: 2026-08-10
 
 ## Missing evidence
 
-- The raw evidence has not been reintegrated into `annual-report-research/main/raw`; the saved proof currently lives in the imported sibling worktree.
+- The raw evidence has not been reintegrated into the current repo raw tree; the saved proof still lives in the imported raw workspace referenced by the packet's raw links.
 - IR did not surface a separately labeled standalone `2025 Annual Report`; the annual anchor is the official `10-K` filing artifact.

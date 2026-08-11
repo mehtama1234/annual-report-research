@@ -21,7 +21,7 @@ Date baseline: 2026-08-10
 
 ## Reconciliation notes
 
-- Cummins' saved evidence chain is local, but it lives in `annual-report-research-cli8-middle-layer-imported-2026-08-10`, not under `annual-report-research/main/raw`.
+- Cummins' saved evidence chain is local, but it currently lives in an imported raw workspace rather than the current repo raw tree.
 - The chain is complete for the required window:
   - `2025` annual report PDF and `10-K`
   - Q4 `2025` earnings release
@@ -31,5 +31,5 @@ Date baseline: 2026-08-10
 
 ## Missing evidence
 
-- The raw evidence has not been reintegrated into `annual-report-research/main/raw`; the saved proof currently lives in the imported sibling worktree.
+- The raw evidence has not been reintegrated into the current repo raw tree; the saved proof still lives in the imported raw workspace referenced by the packet's raw links.
 - No local earnings-call transcript was saved for the covered quarters.

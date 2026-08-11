@@ -260,6 +260,12 @@ It also completed one packet-navigation cleanup step:
 - that repair covered `Ferguson`, `Arrow`, `Avnet`, `Applied Industrial`, `MSC`, `Fastenal`, `Core & Main`, `Watsco`, and `DNOW`
 - this did not change raw evidence provenance, but it did remove another layer of unnecessary side-worktree navigation for readers inside the current repo
 
+It also completed one source-ledger prose cleanup step:
+
+- a fifteen-company imported CLI 8 subset no longer names the imported sibling worktree in reconciliation-note prose
+- those ledgers now describe the situation more directly: the raw proof still lives in an imported raw workspace rather than the current repo raw tree
+- this keeps the packet honest about raw-location limits without treating the old imported repo name as part of the live reader surface
+
 What did not change:
 
 - packet-level raw citations that still point into `annual-report-research-cli8-middle-layer/raw/...`
@@ -270,6 +276,7 @@ So the practical outcome is narrower and more honest:
 - reader-facing CLI 8 navigation is cleaner
 - handoff-note provenance is clearer
 - a first packet-level local-document subset is cleaner
+- a first imported-source-ledger subset is cleaner
 - packet-level provenance cleanup is still a remaining archive task
 
 ## Highest-Value Endgame Interpretation

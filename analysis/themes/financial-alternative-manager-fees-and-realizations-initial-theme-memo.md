@@ -15,6 +15,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-08`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for fee-related earnings mix, realization dependence, and capital-base structure
+- latest three-quarter chains for fundraising, deployment, fee-bearing AUM, realizations, and spread economics
+- company packets for the plain-English operating model of each alternative manager
+- exact supporting facts on perpetual capital, insurance-linked balance-sheet leverage, monetization cadence, and private-wealth channel expansion
+- burden-versus-beneficiary interpretations for who owns the recurring fee stream versus who depends more heavily on exits and mark realizations
+- next filing watchlists for fundraising breadth, deployment pace, insurance-platform growth, and monetization timing
+
 ## Theme
 
 - Name: Alternative-manager earnings are being driven by fee-related earnings, realizations, perpetual capital, and fundraising breadth
@@ -66,6 +77,15 @@ Blackstone, Apollo, KKR, Ares, and Carlyle show that another important part of t
 - Ares shows that fundraising consistency, management-fee growth, and large dry powder can support a fourth alternative-manager pattern that is less obviously tied to either realizations or insurance-spread economics.
 - Carlyle shows that a diversified fee-plus-carry platform still sits between steady fee compounding and more volatile realization sensitivity, especially when Global Credit and AlpInvest are large but carry remains important.
 - AI and infrastructure demand are not just technology-sector themes; they are now fundraising and deployment themes inside private capital.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show alternatives earnings resting on more than simple asset appreciation?`
+2. `Which companies prove different models such as realization-heavy, fee-heavy, or insurance-linked economics directly?`
+3. `Who captures the cleanest recurring fee stream and who carries more monetization timing risk?`
+4. `What future evidence would weaken the alternatives-fee-and-realization interpretation?`
 
 ## Counter-signals
 

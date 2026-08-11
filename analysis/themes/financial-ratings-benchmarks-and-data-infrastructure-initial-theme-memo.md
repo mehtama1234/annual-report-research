@@ -11,6 +11,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for ratings authority, index and benchmark licensing, and recurring information-workflow economics
+- latest three-quarter chains for issuance activity, ratings demand, benchmark revenue, subscription performance, and operating leverage
+- company packets for the plain-English operating model of decision infrastructure
+- exact supporting facts on Ratings, Market Intelligence, Commodity Insights, Indices, and post-separation portfolio focus
+- burden-versus-beneficiary interpretations for who captures embedded information authority versus who remains exposed to issuance cycles and market timing
+- next filing watchlists for structured-finance activity, benchmark stickiness, subscription durability, and margin progression
+
 ## Theme
 
 - Name: Ratings, benchmarks, and data-workflow earnings are being driven by embedded decision infrastructure and high-value recurring information
@@ -56,6 +67,15 @@ S&P Global shows that another major part of the Financial sector is really a dec
 - Workflow software and analytics reinforce the data moat.
 - Portfolio simplification can increase the concentration and clarity of a high-margin information franchise.
 - Benchmark dependence and information authority increasingly look like infrastructure assets, not just branded content or analytics features.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show S&P as decision infrastructure rather than only a ratings house?`
+2. `Which business lines prove benchmark dependence, workflow embedment, and information authority directly?`
+3. `What part of the earnings base looks recurring and what part still depends on issuance or market activity?`
+4. `What future evidence would weaken the ratings-benchmarks-and-data interpretation?`
 
 ## Counter-signals
 

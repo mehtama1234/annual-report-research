@@ -13,6 +13,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for business-line diversification, capital strength, and client-franchise breadth
+- latest three-quarter chains for net interest income, fee revenue, trading, payments, credit quality, and capital return
+- company packets for the plain-English operating model of each large bank
+- exact supporting facts on consumer and card trends, corporate and investment banking activity, treasury services, wealth, and expense discipline
+- burden-versus-beneficiary interpretations for who best monetizes scale, compliance capacity, and cross-border client relationships versus who still carries restructuring or credit drag
+- next filing watchlists for deposit pricing, loan growth, card performance, trading normalization, and regulatory capital pressure
+
 ## Theme
 
 - Name: Scale banks are still winning through diversification, balance-sheet strength, and capital-markets leverage
@@ -71,6 +82,15 @@ Across JPMorgan, Bank of America, and Citigroup, the signal from `2025` annual m
 - Citi extends that technology claim into tokenized cash rails, always-on payments, onboarding, underwriting, and transformation-led operating redesign.
 - Payments and treasury infrastructure are becoming more visible as core banking moats rather than side businesses.
 - Compliance capacity itself is functioning more like an asset of scale than just a cost center.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show scale-bank resilience coming from diversification rather than one unusually strong business line?`
+2. `Which companies prove different versions of the scale-bank model directly?`
+3. `Who captures the cleanest benefits from scale and who carries more restructuring, international, or credit burden?`
+4. `What future evidence would weaken the large-bank scale interpretation?`
 
 ## Counter-signals
 

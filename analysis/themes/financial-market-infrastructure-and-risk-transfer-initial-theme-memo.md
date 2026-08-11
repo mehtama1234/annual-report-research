@@ -11,6 +11,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for benchmark centrality, clearing economics, and data revenue mix
+- latest three-quarter chains for ADV, rate per contract, market-data growth, hedging demand, and margin efficiency
+- company packets for the plain-English operating model of exchange and clearing infrastructure
+- exact supporting facts on interest-rate and commodity volume, record activity, recurring data revenue, and operating leverage
+- burden-versus-beneficiary interpretations for who benefits from volatility and benchmark dependence versus who remains exposed to softer transactional intensity
+- next filing watchlists for contract mix, pricing, data growth, and hedging demand durability
+
 ## Theme
 
 - Name: Market-infrastructure earnings are being driven by volatility demand, benchmark centrality, clearing, and data monetization
@@ -56,6 +67,15 @@ CME shows that another major part of the Financial sector is not really a lender
 - Product breadth across rates, equity indexes, FX, energy, agriculture, and metals matters because it concentrates hedging behavior onto one venue family.
 - Innovation in trading hours, benchmark products, and clearing access continues to matter, but the moat is still network liquidity and trust.
 - Benchmark centrality and collateral efficiency increasingly look like infrastructure assets, not just exchange features.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show CME acting as risk-transfer infrastructure rather than a simple trading-volume story?`
+2. `Which revenue lines prove benchmark centrality, clearing utility, and data monetization directly?`
+3. `What part of the model benefits structurally from volatility and what part is still transactional?`
+4. `What future evidence would weaken the market-infrastructure interpretation?`
 
 ## Counter-signals
 

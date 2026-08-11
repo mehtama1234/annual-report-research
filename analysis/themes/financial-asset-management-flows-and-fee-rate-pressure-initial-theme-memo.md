@@ -14,6 +14,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for AUM mix, fee-rate structure, and distribution-channel exposure
+- latest three-quarter chains for market levels, organic flows, ETF migration, private-markets mix, and operating leverage
+- company packets for the plain-English business model of each manager
+- exact supporting facts on active-versus-passive mix, retirement exposure, model-portfolio usage, and international distribution
+- burden-versus-beneficiary interpretations for who owns sticky distribution and platform scale versus who absorbs fee compression and legacy active outflows
+- next filing watchlists for organic base-fee growth, product migration, fee-rate stability, and expense flexibility
+
 ## Theme
 
 - Name: Asset-management earnings are being driven by market levels, product migration, fee-rate pressure, and flow quality
@@ -71,6 +82,15 @@ The current asset-management evidence set suggests that a major part of the Fina
 - Large indexed franchises can change the economics meaningfully; Invesco shows that ETF and QQQ scale can still drive very strong flow and margin outcomes even while other active books remain pressured.
 - The largest public asset managers may increasingly look like technology-and-data distribution platforms as much as classic investment firms; BlackRock makes that possibility hard to ignore.
 - Cost discipline and technology modernization matter because the firm cannot rely only on fee rate to protect margins.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show that flow quality and fee rates matter more than headline market appreciation alone?`
+2. `Which companies prove the difference between legacy active pressure, ETF scale, and platform convergence directly?`
+3. `Who captures cleaner savings-platform economics and who carries more fee-rate or outflow burden?`
+4. `What future evidence would weaken the asset-management flow-and-fee-pressure interpretation?`
 
 ## Counter-signals
 

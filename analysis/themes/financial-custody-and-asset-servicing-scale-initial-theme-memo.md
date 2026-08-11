@@ -11,6 +11,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-08`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for custody scale, servicing-fee mix, and workflow entrenchment
+- latest three-quarter chains for servicing fees, software and processing fees, FX activity, securities finance, and spread revenue
+- company packets for the plain-English operating model of custody and asset-servicing infrastructure
+- exact supporting facts on assets under custody and administration, fee composition, client activity, and operating leverage
+- burden-versus-beneficiary interpretations for who benefits from institutional workflow centrality versus who remains exposed to market-level and rate sensitivity
+- next filing watchlists for fee breadth, deposit mix, servicing momentum, and client-activity normalization
+
 ## Theme
 
 - Name: Custody and asset-servicing earnings are being driven by institutional scale, fee breadth, and hidden workflow infrastructure
@@ -44,6 +55,15 @@ State Street shows that another important part of the Financial sector is really
 - Market appreciation helps, but the more durable moat is embedded operational position.
 - Fee breadth across servicing, processing, FX, finance, and management matters more than any single line item.
 - Positive operating leverage remains a key management credibility measure.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show custody as hidden workflow infrastructure rather than just another asset manager?`
+2. `Which revenue lines prove servicing breadth and embedded client workflow directly?`
+3. `What part of the model reflects recurring infrastructure economics and what part still depends on rates or market levels?`
+4. `What future evidence would weaken the custody-and-servicing-scale interpretation?`
 
 ## Counter-signals
 

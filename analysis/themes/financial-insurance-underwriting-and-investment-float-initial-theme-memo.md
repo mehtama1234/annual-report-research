@@ -11,6 +11,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-08`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for underwriting discipline, catastrophe exposure, and invested-asset income
+- latest three-quarter chains for premiums, combined ratio, reserve development, catastrophe losses, and investment income
+- company packets for the plain-English insurance operating model
+- exact supporting facts on pricing, commercial and personal-line mix, underwriting margin, and float productivity
+- burden-versus-beneficiary interpretations for who captures disciplined risk pricing versus who carries catastrophe and reserve uncertainty
+- next filing watchlists for loss-cost trends, pricing adequacy, reserve quality, and reinvestment yield support
+
 ## Theme
 
 - Name: Insurance earnings are still being driven by underwriting discipline, catastrophe management, and investment-float income
@@ -44,6 +55,15 @@ Chubb shows that a major part of the Financial sector still runs on insurance fu
 - Investment income is still materially helping results.
 - Life insurance can be an important earnings contributor inside a P&C-led franchise.
 - Softening in selected lines does not automatically mean a broken earnings model when reserve discipline and investment income remain strong.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show underwriting discipline and float income rather than simple premium growth driving earnings?`
+2. `Which metrics prove the model's dependence on risk selection and catastrophe control directly?`
+3. `What part of the earnings stream looks recurring and what part remains exposed to loss volatility?`
+4. `What future evidence would weaken the underwriting-and-float interpretation?`
 
 ## Counter-signals
 

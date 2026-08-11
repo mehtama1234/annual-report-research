@@ -11,6 +11,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for premium-card mix, closed-loop economics, and fee-paying membership structure
+- latest three-quarter chains for billed business, net card fees, travel and dining spend, credit metrics, and account growth
+- company packets for the plain-English operating model of premium payments and membership economics
+- exact supporting facts on affluent-customer engagement, merchant network value, rewards investment, and first-party data usage
+- burden-versus-beneficiary interpretations for who owns the customer relationship and spend data versus who carries rewards cost, credit risk, and travel-cycle sensitivity
+- next filing watchlists for fee-paying account growth, spend mix, loss rates, and merchant-discount resilience
+
 ## Theme
 
 - Name: Premium payments and membership economics are still compounding through spend quality, fees, and closed-loop data
@@ -58,6 +69,15 @@ American Express shows that one important part of the Financial sector is not pr
 - Membership, trust, service, and benefits are direct economic levers.
 - Closed-loop data is not just an analytics feature; it is part of the economic moat.
 - Premium-card economics depend on keeping the customer inside a trusted ecosystem rather than only winning a swipe.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show premium membership economics rather than ordinary card volume driving the model?`
+2. `Which metrics prove the value of the closed-loop network and fee-paying account base directly?`
+3. `What part of the economics comes from relationship ownership and what part still carries rewards or credit burden?`
+4. `What future evidence would weaken the premium-payments-and-membership interpretation?`
 
 ## Counter-signals
 

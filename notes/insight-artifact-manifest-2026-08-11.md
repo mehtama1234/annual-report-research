@@ -107,6 +107,12 @@ It now reads the reusable-note list from the machine-readable manifest above, so
 It also verifies that every current top-level `notes/*.md` file belongs to exactly one of the two note manifests, so the note boundary cannot drift silently.
 That partition check is delegated to the dedicated note-layer audit script so the boundary logic is maintained in one place.
 
+The maintenance-doc layer is now complete for this reusable-note set:
+
+- every manifest-listed reusable note now exposes the current maintenance-surface command path
+- the current reusable-note zero-visibility scan returns `0`
+- `bash scripts/audit-maintenance-doc-stack.sh` now covers all manifest-listed reusable notes plus `README.md` and `START-HERE.md`
+
 The reusable layer also now includes the raw-evidence governance notes that explain:
 
 - how to resolve an offloaded raw path through the manifest and Drive pointer

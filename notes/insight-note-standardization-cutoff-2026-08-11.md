@@ -76,6 +76,12 @@ The refresh command now reruns the linked audit stack as well:
 
 Both committed artifacts are freshness-checked by the main verifier against freshly generated temporary copies.
 
+The reusable-note maintenance sweep is now also complete across that same boundary:
+
+- every note currently listed in `indexes/reusable-note-layer-files-2026-08-11.txt` now carries visible maintenance-surface command references
+- the current reusable-note zero-visibility scan returns `0`
+- `bash scripts/audit-maintenance-doc-stack.sh` now checks the full reusable-note layer plus the two top-level entry surfaces `README.md` and `START-HERE.md`
+
 Current remaining count at the cutoff:
 
 - total remaining without both sections: `63`
@@ -97,6 +103,10 @@ Those remaining notes are largely:
 - runtime or execution logs
 
 Most of them are valuable as historical evidence, but they are not the main reusable control layer for how the archive should operate going forward.
+
+That means the main remaining note-layer question is no longer whether the reusable operating system was left partially unstamped or partially outside the maintenance surface.
+
+The main remaining note-layer question is only whether any historical note should later be promoted into the reusable layer.
 
 ## Practical Rule Going Forward
 

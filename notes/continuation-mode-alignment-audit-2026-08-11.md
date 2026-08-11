@@ -82,6 +82,11 @@ During the alignment pass, the repo repeatedly passed:
 - `bash scripts/audit-browser-review-links.sh`
 - `bash scripts/verify-insight-system.sh`
 
+The reusable-note maintenance layer is now also fully surfaced inside that audit stack:
+
+- `bash scripts/audit-maintenance-doc-stack.sh` now covers the two top-level entry surfaces plus every note currently listed in `indexes/reusable-note-layer-files-2026-08-11.txt`
+- the current reusable-note zero-visibility scan returns `0`, so no manifest-listed reusable note now sits outside the maintenance-surface command path
+
 This note does not replace rerunning those checks after later edits.
 
 It records that the continuation-mode wording pass was integrated without breaking the linked audit stack or the full insight-system verifier at the time of writing.

@@ -438,6 +438,20 @@ Minimum done for a queue item:
 - Does it force the next thread to test burden versus cleaner economics rather than just add more names?
 - What would show that the queue is drifting back toward coverage collection instead of insight improvement?
 
+## Insight-System Maintenance
+
+When you need to confirm that the note layer, remaining-work bundle, and browser review surfaces still line up before using this queue to choose the next best insight target, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Best Immediate Next Move
 
 If no other instruction is given, start with:

@@ -194,3 +194,17 @@ Default interpretive window:
 - Does the board keep the worker tied to the correct filing window, company-count ambition, and end-of-run handoff standard?
 - Can a skeptical reader see that lane selection here is supposed to lead to packets, lane synthesis, and bigger-pattern interpretation rather than isolated company starts?
 - What would show that a chosen lane is still too vague, too saturated, or too shallow to justify the next batch?
+
+## Insight-System Maintenance
+
+When you need to confirm that the note layer, remaining-work bundle, and browser review surfaces still line up before using this board as the live lane selector, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`

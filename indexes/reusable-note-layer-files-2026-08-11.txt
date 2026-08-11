@@ -16,6 +16,7 @@ notes/cli8-quarter-window-snapshot-2026-08-10.md
 notes/collection-window.md
 notes/current-execution-queue-2026-08-10.md
 notes/downstream-physical-inputs-batch-2026-08-10.md
+notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md
 notes/end-to-end-insight-master-instruction-2026-08-11.md
 notes/end-to-end-operating-goal-2026-08-10.md
 notes/end-to-end-pursuit-goal-2026-08-10.md

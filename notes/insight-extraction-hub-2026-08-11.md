@@ -161,13 +161,19 @@ Use it when you need one concise instruction block that still preserves the full
 
 Use it to understand the full ambition level: packets, lane economics, proof pages, societal shifts, operating pressures, aha moments, and handoff quality.
 
-4. Read the lane runbook.
+4. Read the operator and review brief.
+
+[end-to-end-insight-operator-and-review-brief-2026-08-11.md](end-to-end-insight-operator-and-review-brief-2026-08-11.md)
+
+Use it when you want the shortest single-page statement of the goal, proof chain, insight types, operator loop, and reviewer loop.
+
+5. Read the lane runbook.
 
 [lane-end-to-end-execution-runbook-2026-08-11.md](lane-end-to-end-execution-runbook-2026-08-11.md)
 
 Use it when taking a lane from first target selection to final proof memo and handoff.
 
-5. Use the templates.
+6. Use the templates.
 
 [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md)
 
@@ -175,49 +181,49 @@ Use these when writing company packets, profiles, source ledgers, lane summaries
 
 They also require packet-input tracing for lane summaries and proof memos. Use that section to name the exact packet fields doing the analytical work.
 
-6. Use the completion rubric.
+7. Use the completion rubric.
 
 [insight-completion-rubric-2026-08-11.md](insight-completion-rubric-2026-08-11.md)
 
 Use it to decide whether a company packet, lane, or proof memo is actually finished rather than merely present. Finished work must show how the filing evidence supports the bigger pattern and must state who benefits and who carries burden.
 
-7. Check the artifact manifest.
+8. Check the artifact manifest.
 
 [insight-artifact-manifest-2026-08-11.md](insight-artifact-manifest-2026-08-11.md)
 
 Use it to audit that the required goal, templates, guides, proof memos, watchlists, and browser links exist.
 
-8. Use the company strategy guide.
+9. Use the company strategy guide.
 
 [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md)
 
 Use it when a packet needs to explain the company itself.
 
-9. Use the industry strategy guide.
+10. Use the industry strategy guide.
 
 [industry-level-strategy-guide-2026-08-10.md](../analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md)
 
 Use it when a batch needs to explain a lane.
 
-10. Use the metric glossary.
+11. Use the metric glossary.
 
 [metric-glossary-and-watchlist-2026-08-10.md](../analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md)
 
 Use it to decide which metrics to track next quarter.
 
-11. Use the thesis breaker index.
+12. Use the thesis breaker index.
 
 [thesis-breaker-index-2026-08-10.md](../analysis/cross-sector/thesis-breaker-index-2026-08-10.md)
 
 Use it to keep the research falsifiable.
 
-12. Use the aha and curiosity page.
+13. Use the aha and curiosity page.
 
 [aha-moments-and-curiosity-questions-2026-08-10.md](../analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md)
 
 Use it to identify the next questions worth pursuing.
 
-13. Use the insight-driven queue.
+14. Use the insight-driven queue.
 
 [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
 

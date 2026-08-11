@@ -179,6 +179,10 @@ For the note-boundary and insight-system audit layer:
   - `bash scripts/audit-audit-stack-terminology.sh`
 - run only the maintenance-doc audit with:
   - `bash scripts/audit-maintenance-doc-stack.sh`
+- run only the reusable-note maintenance-visibility audit with:
+  - `bash scripts/audit-reusable-note-maintenance-visibility.sh`
+- run only the historical-note maintenance-isolation audit with:
+  - `bash scripts/audit-historical-note-maintenance-isolation.sh`
 - run only the continuation-link audit with:
   - `bash scripts/audit-continuation-mode-links.sh`
 - run only the remaining-brief link audit with:

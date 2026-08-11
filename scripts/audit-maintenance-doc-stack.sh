@@ -28,22 +28,35 @@ linked_audit_stack = [
     "bash scripts/audit-browser-review-links.sh",
     "bash scripts/refresh-note-layer-boundary.sh",
 ]
+extended_full_audit_stack = [
+    *full_audit_stack,
+    "bash scripts/audit-reusable-note-maintenance-visibility.sh",
+    "bash scripts/audit-historical-note-maintenance-isolation.sh",
+]
+extended_linked_audit_stack = [
+    *linked_audit_stack,
+    "bash scripts/audit-maintenance-doc-stack.sh",
+    "bash scripts/audit-reusable-note-maintenance-visibility.sh",
+    "bash scripts/audit-historical-note-maintenance-isolation.sh",
+]
 
 expected = {
-    Path("README.md"): full_audit_stack,
-    Path("START-HERE.md"): full_audit_stack,
+    Path("README.md"): extended_full_audit_stack,
+    Path("START-HERE.md"): extended_full_audit_stack,
     Path("notes/insight-note-standardization-cutoff-2026-08-11.md"): [
         "bash scripts/run-insight-audit-stack.sh",
-        *linked_audit_stack,
+        *extended_linked_audit_stack,
     ],
     Path("notes/insight-artifact-manifest-2026-08-11.md"): [
         "bash scripts/run-insight-audit-stack.sh",
-        *linked_audit_stack,
+        *extended_linked_audit_stack,
         "bash scripts/verify-insight-system.sh",
     ],
     Path("notes/continuation-mode-alignment-audit-2026-08-11.md"): [
         "bash scripts/audit-audit-stack-terminology.sh",
         "bash scripts/audit-maintenance-doc-stack.sh",
+        "bash scripts/audit-reusable-note-maintenance-visibility.sh",
+        "bash scripts/audit-historical-note-maintenance-isolation.sh",
         "bash scripts/audit-continuation-mode-links.sh",
         "bash scripts/audit-remaining-brief-links.sh",
         "bash scripts/audit-remaining-stack-links.sh",
@@ -51,20 +64,12 @@ expected = {
         "bash scripts/verify-insight-system.sh",
     ],
     Path("notes/insight-extraction-hub-2026-08-11.md"): [
-        "bash scripts/run-insight-audit-stack.sh",
-        "bash scripts/refresh-note-layer-boundary.sh",
-        "bash scripts/audit-audit-stack-terminology.sh",
-        "bash scripts/audit-maintenance-doc-stack.sh",
-        "bash scripts/audit-continuation-mode-links.sh",
-        "bash scripts/audit-remaining-brief-links.sh",
-        "bash scripts/audit-remaining-stack-links.sh",
-        "bash scripts/audit-browser-review-links.sh",
-        "bash scripts/verify-insight-system.sh",
+        *extended_full_audit_stack,
     ],
     Path("notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md"): full_audit_stack,
-    Path("notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md"): full_audit_stack,
-    Path("notes/remaining-end-to-end-insight-goal-2026-08-11.md"): full_audit_stack,
-    Path("notes/remaining-insight-execution-board-2026-08-11.md"): full_audit_stack,
+    Path("notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md"): extended_full_audit_stack,
+    Path("notes/remaining-end-to-end-insight-goal-2026-08-11.md"): extended_full_audit_stack,
+    Path("notes/remaining-insight-execution-board-2026-08-11.md"): extended_full_audit_stack,
     Path("notes/master-insight-extraction-goal-2026-08-11.md"): full_audit_stack,
     Path("notes/end-to-end-insight-master-instruction-2026-08-11.md"): full_audit_stack,
     Path("notes/lane-end-to-end-execution-runbook-2026-08-11.md"): full_audit_stack,

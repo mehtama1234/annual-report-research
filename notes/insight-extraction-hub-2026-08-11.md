@@ -208,6 +208,8 @@ When you need to verify that the note layer, remaining-work bundle, and browser 
 - `bash scripts/refresh-note-layer-boundary.sh`
 - `bash scripts/audit-audit-stack-terminology.sh`
 - `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-reusable-note-maintenance-visibility.sh`
+- `bash scripts/audit-historical-note-maintenance-isolation.sh`
 - `bash scripts/audit-continuation-mode-links.sh`
 - `bash scripts/audit-remaining-brief-links.sh`
 - `bash scripts/audit-remaining-stack-links.sh`

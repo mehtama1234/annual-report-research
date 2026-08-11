@@ -77,6 +77,7 @@ During the alignment pass, the repo repeatedly passed:
 - `bash scripts/audit-audit-stack-terminology.sh`
 - `bash scripts/audit-maintenance-doc-stack.sh`
 - `bash scripts/audit-reusable-note-maintenance-visibility.sh`
+- `bash scripts/audit-historical-note-maintenance-isolation.sh`
 - `bash scripts/audit-continuation-mode-links.sh`
 - `bash scripts/audit-remaining-brief-links.sh`
 - `bash scripts/audit-remaining-stack-links.sh`
@@ -88,6 +89,7 @@ The reusable-note maintenance layer is now also fully surfaced inside that audit
 - `bash scripts/audit-maintenance-doc-stack.sh` now covers the two top-level entry surfaces plus every note currently listed in `indexes/reusable-note-layer-files-2026-08-11.txt`
 - the current reusable-note zero-visibility scan returns `0`, so no manifest-listed reusable note now sits outside the maintenance-surface command path
 - `bash scripts/audit-reusable-note-maintenance-visibility.sh` now enforces that reusable-note zero-visibility condition directly rather than leaving it as an informal scan
+- `bash scripts/audit-historical-note-maintenance-isolation.sh` now enforces the inverse rule, so manifest-listed historical notes stay outside that same maintenance surface unless intentionally promoted
 
 This note does not replace rerunning those checks after later edits.
 

@@ -65,6 +65,10 @@ Use these when you need to refresh or rerun the linked note-boundary and insight
   - `bash scripts/audit-audit-stack-terminology.sh`
 - maintenance-doc audit:
   - `bash scripts/audit-maintenance-doc-stack.sh`
+- reusable-note maintenance-visibility audit:
+  - `bash scripts/audit-reusable-note-maintenance-visibility.sh`
+- historical-note maintenance-isolation audit:
+  - `bash scripts/audit-historical-note-maintenance-isolation.sh`
 - continuation-link audit:
   - `bash scripts/audit-continuation-mode-links.sh`
 - remaining-brief link audit:

@@ -5,6 +5,14 @@ Date baseline: 2026-08-10
 This repo is not trying to become a filing dump.
 It is trying to become a source-grounded research archive that can move from raw annual reports and quarter chains to company interpretation, lane structure, and repeated cross-company signals.
 
+## Packet Inputs Used
+
+- the repo standard of `2025` annual reports and latest three reported quarters as of `2026-08-10`
+- the requirement that every coherent batch should aim for a real flagship-company comparison set, not dozens of shallow starts
+- the packet fields that support interpretation: annual takeaways, quarter chain, operating model, strategy read, exact facts, constraints, and next-watch logic
+- the expanded lane brief that pushes work into adjacent healthcare, infrastructure, software, property, and lifestyle systems when they improve explanatory power
+- the handoff standard that requires completed companies, partial companies, repeated signals, and exact next names so another thread can continue from repo state
+
 ## Core objective
 
 Open genuinely new annual-report-research frontiers across the covered lanes and their adjacencies.
@@ -529,3 +537,10 @@ The work is on track when another operator can open the repo and quickly answer:
 - what the main repeated signals are
 - what operating or social changes multiple management teams are reacting to
 - what exact names should be researched next
+
+## Skeptical Reader Test
+
+- Does this pursuit goal make clear that documentary coverage and pattern extraction are inseparable?
+- Can a skeptical reader tell how a finished batch should move from raw filings to company interpretation, lane structure, and repeated cross-company signals?
+- Does the note make shallow starts, continuous index churn, and one-company lane claims clearly non-compliant?
+- What repo state would prove the archive still sounds ambitious but has not actually become continuation-ready?

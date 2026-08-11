@@ -4,6 +4,14 @@ Date: 2026-08-10
 Repo: `annual-report-research`
 Branch: `cli4-healthcare-frontier-batch`
 
+## Packet Inputs Used
+
+- the branch-level healthcare frontier scope that pairs company-packet completion with cross-company interpretation
+- the standard source chain of `2025` annual report, annual filing, and latest three reported quarters as of `2026-08-10`
+- the repo-wide requirement that each covered company must produce both filing coverage and thematic interpretation
+- the broader lane-expansion instruction that adjacent sectors should be added when they sharpen recurring consumer, societal, industrial, or operating patterns
+- the batch-output expectation that company profiles, source ledgers, packets, and at least one real cross-company memo should all come out of the same run
+
 ## Working objective
 
 The active objective is no longer just to collect annual reports and quarter chains.
@@ -151,3 +159,10 @@ Reason:
 - the company set is stable
 - it is the most clearly defined unmet scope in the current conversation
 - it establishes the packet-plus-theme standard that the later energy and mobility expansions can reuse
+
+## Skeptical Reader Test
+
+- Does this plan make clear that the branch is supposed to produce evidence collection, company packets, and pattern-finding together?
+- Can a skeptical reader tell which exact outputs are required before the batch counts as coherent?
+- Does the note explain why lane expansion is allowed and what standard those added areas must meet?
+- What would show that the branch is still collecting source material without converting it into cross-company understanding?

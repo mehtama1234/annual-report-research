@@ -6,6 +6,14 @@ Repo: `annual-report-research-new-lanes`
 This file is the active execution queue for the `new-lanes` archive.
 It supersedes older queue logic that was built for the narrower archive state and earlier consumer-interface repair priorities.
 
+## Packet Inputs Used
+
+- the active lane board, kickoff briefs, lane-run template, batch-handoff template, and post-batch integration checklist that define what a real queue item must produce
+- the repo's lane standard of `2025` annual reports plus the latest three reported quarters as of `2026-08-10`
+- the expanded ambition to push each active lane toward `4` to `8` flagship companies when the lane supports it
+- the requirement that queue priority should favor new research frontiers, sharp cross-company contrasts, and interpretive payoff rather than mere uncovered-area count
+- the end-of-batch expectation that a lane should yield packets, cross-company themes, and a real consumer, societal, industrial, technical, or capital-structure read
+
 ## How to use this queue
 
 1. Start with the highest ready lane.
@@ -154,3 +162,10 @@ What success looks like:
 - [Lane run template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/lane-run-template.md)
 - [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/batch-handoff-template.md)
 - [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/post-batch-integration-checklist.md)
+
+## Skeptical Reader Test
+
+- Does this queue rank work because it opens real explanatory territory, not because it is easiest to start?
+- Can a skeptical reader see how each priority lane is expected to produce a coherent comparison set and wider interpretation rather than a loose packet pile?
+- Does the file keep workers from fragmenting into too many simultaneous lanes or updating shared indexes too early?
+- What would show that the queue is still optimizing for activity volume instead of insight yield?

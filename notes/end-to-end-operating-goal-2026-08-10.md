@@ -3,6 +3,14 @@
 Date: 2026-08-10
 Applies to: `annual-report-research`
 
+## Packet Inputs Used
+
+- the repo's company-packet standard built around the `2025` annual report, authoritative annual filing, and latest three reported quarters as of `2026-08-10`
+- AnnualReports.com taxonomy and archive confirmation, with company IR and SEC materials as the authority chain when timing or filings diverge
+- lane-level expectations for coherent flagship-company batches, comparison building, theme extraction, and continuation-ready handoff
+- the broader instruction set requiring consumer, cultural, societal, industrial, infrastructure, commodity, and capital-burden interpretation when the evidence supports it
+- the autonomy rule that if an assigned lane runs thin, the next strongest uncovered adjacent lane should be chosen without stalling the archive
+
 ## Mission
 
 Build `annual-report-research` into a source-complete, synthesis-driven archive of flagship public-company packets across undercovered industries, business systems, and operating layers.
@@ -646,3 +654,10 @@ If assigned industries run out, the next move is not to stop.
 The next move is to choose the strongest uncovered adjacent lane yourself and keep building.
 
 If you ever lack industries, lack clear targets, or inherit an incomplete lane list, pick the next strong area on your own and continue to the same standard.
+
+## Skeptical Reader Test
+
+- Does this operating goal say exactly what evidence window and source hierarchy the work must use?
+- Can a skeptical reader trace how company packets are supposed to become theme work, cross-company comparison, and archive-level interpretation?
+- Does the note force the worker to keep both documentary and interpretive obligations in view at the same time?
+- What would show that the archive is still collecting packets without actually converting them into reusable operating insight?

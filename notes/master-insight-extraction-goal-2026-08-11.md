@@ -451,6 +451,24 @@ Every run should end with:
 - raw blob status
 - remote main status
 
+## Execution Templates
+
+Use [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md) when producing new work.
+
+The template library includes:
+
+- company packet template
+- company profile template
+- source ledger template
+- industry lane summary template
+- theme proof memo template
+- aha moment template
+- thesis breaker template
+- run closeout template
+- quality gate checklist
+
+If a new packet, lane summary, theme memo, or handoff does not satisfy the relevant template, treat it as incomplete.
+
 ## Definition Of Done
 
 The work is done only when the archive has moved from documents to evidence-backed explanation.

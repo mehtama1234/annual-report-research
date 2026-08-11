@@ -60,6 +60,10 @@ The practical reading standard is:
 - lane summaries are system maps
 - handoffs are continuation mechanisms
 
+The practical proof-chain standard is:
+
+`exact fact -> exact period -> plain-English meaning -> causal explanation -> alternative explanation -> disconfirming next-filing test`
+
 That means every finished company packet should do more than summarize documents.
 It should identify the bigger pattern the company helps prove.
 
@@ -88,6 +92,14 @@ The packet fields should also do explicit analytical work:
   - prove: who gets cleaner economics and who absorbs the messy work
 - thesis breaker + watchlist
   - prove: the work is falsifiable and ready for continuation
+
+Every serious run should also force the operator to state:
+
+- the exact fact or metric carrying the claim
+- the exact annual or quarterly period carrying it
+- the causal reason that fact supports the conclusion
+- the best alternative explanation still in play
+- the next-filing disconfirming test
 
 Minimum batch-level interpretive standard:
 

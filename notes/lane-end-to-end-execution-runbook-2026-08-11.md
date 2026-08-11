@@ -159,6 +159,10 @@ Before moving on, make sure the packet sections doing the work are obvious:
 
 If the later lane writeup cannot point back to those exact packet sections, the company read is still too loose to reuse well.
 
+At every stage, the operator should also be able to restate the working read as:
+
+`exact fact -> exact period -> plain-English meaning -> causal explanation -> alternative explanation -> disconfirming next-filing test`
+
 ## Step 6: Build The Lane Economics
 
 After enough packets exist, explain the lane itself.
@@ -224,6 +228,7 @@ For each pattern, write down:
 - who benefits economically
 - who carries the burden
 - what the comparison reveals that one company alone would not
+- the best alternative explanation still in play
 - what evidence would weaken the claim
 
 ## Step 8: Write The Proof Memo
@@ -249,6 +254,10 @@ Before calling the memo done, run a direct reader test:
 - Can they see what each fact proves?
 - Can they see why the pattern matters beyond one company?
 - Can they tell what would change the conclusion?
+
+Also force one explicit proof chain sentence:
+
+`these exact facts, from these exact periods, support this pattern for this reason, unless this next-filing evidence weakens it instead`
 
 Also run a claim-type proof check:
 

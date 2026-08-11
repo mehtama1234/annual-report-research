@@ -54,6 +54,11 @@ Also decide what those packet fields are supposed to prove:
 - next filing watchlist
   - prove: the next move will sharpen or break the read rather than only extend coverage
 
+Before opening the batch, also name:
+
+- the best alternative explanation the batch might overturn or confirm
+- the next-filing disconfirming test that would make the batch conclusion weaker
+
 ## Skeptical Reader Gate
 
 Do not pick a next batch just because the lane sounds interesting.
@@ -70,6 +75,7 @@ Also ask before starting:
 - what kind of claim is this batch supposed to improve: consumer, cultural, societal, industrial, technical, capital, or cross-company?
 - what proof burden comes with that claim type?
 - which missing role or contradiction would most improve the current proof page if this batch works?
+- what exact fact-period chain would count as success if the batch works
 
 ## Priority 1: Healthcare Outside The Hospital And Aging Operating Systems
 

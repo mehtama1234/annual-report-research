@@ -23,6 +23,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for platform role, hardware role, and control-layer role
+- latest three-quarter chains for AI demand, ARR, capex, and revenue quality
+- company packets for the plain-English operating model
+- exact supporting facts on cloud growth, AI monetization, platform subscriptions, security, hardware demand, and implementation work
+- burden-versus-beneficiary interpretations for who captures clean platform economics versus who carries physical or labor-heavy buildout burden
+- next filing watchlists for capex, bookings, AI monetization, and weaker-moat normalization
+
 ## Theme
 
 - Name: Large-cap technology is separating into premium ecosystem winners, enterprise AI platform winners, creative-document-workflow AI software winners, workflow-infrastructure and AI-control-tower software winners, AI-reinforced search-cloud-media platforms, accelerated-computing infrastructure suppliers, enterprise networking-security-control infrastructure suppliers, pure-play cybersecurity platformization winners, cyclical hardware-adjacent enterprise infrastructure suppliers, endpoint-device and printing incumbents, stressed semiconductor incumbents trying to rebuild relevance, lower-quality consumer-attention platforms trying to improve monetization, and enterprise-services reinvention operators monetizing implementation rather than ownership of the core platform
@@ -116,6 +127,15 @@ Across Apple, Microsoft, Adobe, ServiceNow, Alphabet, NVIDIA, Cisco, Palo Alto N
 - High-margin services and subscriptions remain critical to valuation support.
 - Regulatory, trade, and sovereignty pressures are becoming first-order strategic variables.
 - Capital return remains meaningful, but Microsoft’s and Alphabet’s investment burdens are becoming much more visible than Apple’s, while NVIDIA shows that suppliers can still pair extreme growth with heavy shareholder return.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show technology splitting into many AI-era models rather than one broad winner bucket?`
+2. `Which companies prove different models directly?`
+3. `Who captures cleaner AI economics and who carries heavier capital or implementation burden?`
+4. `What future evidence would weaken the multi-model technology interpretation?`
 
 ## Counter-signals
 

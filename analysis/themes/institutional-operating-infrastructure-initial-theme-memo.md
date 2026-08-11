@@ -22,6 +22,15 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+- annual report takeaways for workflow role, outsourced complexity, and recurring service need
+- latest three-quarter chains for volume, margin, demand, and execution quality
+- company packets for the plain-English operating model
+- exact supporting facts on route density, facilities work, administration, logistics, and service entrenchment
+- burden-versus-beneficiary interpretations for who owns the customer workflow versus who carries the operating burden
+- next filing watchlists for retention, throughput, labor, and pricing power
+
 ## Theme
 
 - Name: A larger share of the economy is running through outsourced operating infrastructure, compliance-heavy services, and hidden workflow systems
@@ -90,6 +99,13 @@ The current evidence suggests that a meaningful part of the real economy is bein
 - Future company selection in this project should keep looking for hidden infrastructure operators, because they provide a better read on how the real economy is actually being run.
 
 ## Counter-signals
+
+## Skeptical Reader Test
+
+- Which packet facts show these businesses as operating infrastructure rather than miscellaneous services?
+- Which companies prove different forms of outsourced complexity directly?
+- Who captures cleaner workflow economics and who carries the labor or execution burden?
+- What future evidence would weaken the institutional-infrastructure interpretation?
 
 - Some of the current outsourcing pattern may reflect temporary cost discipline rather than a permanent structural shift.
 - UPS and CHRW remain exposed to cyclical freight conditions, so not every gain in operating quality will survive a different rate or volume regime.

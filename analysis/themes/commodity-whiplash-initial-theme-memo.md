@@ -17,6 +17,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for each producer's chain role and exposure
+- latest three-quarter chains for prices, spreads, outages, restarts, and volumes
+- company packets for the plain-English operating model
+- exact supporting facts on energy inputs, utilization, mine or plant reliability, tariffs, and end-market linkage
+- burden-versus-beneficiary interpretations for who can absorb volatility and who gets whipped by it
+- next filing watchlists for benchmark prices, energy costs, and restart execution
+
 ## Theme
 
 - Name: Earnings are being shaped by violent moves in benchmark prices, input costs, asset reliability, geopolitics, and restart timing rather than by a smooth cyclical recovery
@@ -78,6 +89,15 @@ The Basic Materials archive now shows that commodity exposure is not a generic i
 - The current evidence set is now broader because it includes integrated energy and paperboard packaging, but it is still not maximally broad across precious metals or other chemical niches.
 - West Fraser's housing-linked demand and duty issues partly overlap with `the-real-estate-reckoning`, so not all volatility there belongs only to a commodity frame.
 - Clearwater's current annual-report artifact is still not saved locally from this machine, so the company is analytically usable but still slightly weaker than the fully artifact-complete names in the set.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show whiplash rather than a smooth commodity cycle?`
+2. `Which names prove that prices alone are not the whole story?`
+3. `Who absorbs the volatility through assets and operations?`
+4. `What future evidence would weaken the whiplash interpretation?`
 
 ## Follow-up questions
 

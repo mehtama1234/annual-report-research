@@ -27,6 +27,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for asset intensity, capital-allocation posture, and business model
+- latest three-quarter chains for capex, backlog, demand conversion, and cash generation
+- company packets for the plain-English role each company plays in the capital stack
+- exact supporting facts on capex guidance, power and land constraints, service leverage, and network investment
+- burden-versus-beneficiary interpretations for who funds the infrastructure versus who monetizes it without the same asset burden
+- next filing watchlists for whether capital concentration keeps widening or starts normalizing
+
 ## Theme
 
 - Name: Capital intensity is concentrating in a smaller set of infrastructure owners, while other companies are increasingly living off or monetizing those investment waves
@@ -105,6 +116,15 @@ The current archive shows a widening split between companies that must spend hea
 - CHRW shows that operating discipline can matter more than asset ownership in some parts of the economy.
 - CBRE shows that service throughput can be an effective way to monetize infrastructure waves without owning the heavy assets.
 - UnitedHealth and the banks remind us that digital and regulatory investment can be strategically important even when physical capital intensity is modest.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show capital concentration rather than ordinary growth?`
+2. `Which companies prove the builder-versus-beneficiary split directly?`
+3. `Who carries the heavy capital burden and who captures adjacent economics?`
+4. `What future evidence would weaken the concentration interpretation?`
 
 ## Follow-up questions
 

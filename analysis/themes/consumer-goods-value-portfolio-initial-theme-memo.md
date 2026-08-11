@@ -17,6 +17,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for category role, portfolio mix, and channel position
+- latest three-quarter chains for pricing, volume, margin, and cash generation
+- company packets for the plain-English business model
+- exact supporting facts on affordability actions, productivity, value tiers, beauty recovery, and packaging pressure
+- burden-versus-beneficiary interpretations for who owns the consumer relationship versus who absorbs upstream pressure
+- next filing watchlists for volume resilience, mix quality, and affordability strain
+
 ## Theme
 
 - Name: Consumer-goods growth is becoming more dependent on affordability architecture, international breadth, resilient care-category portfolio mix, and the packaging layer behind everyday consumption
@@ -94,6 +105,15 @@ The current PepsiCo, P&G, Kimberly-Clark, Colgate, Coty, Estee Lauder, and Graph
 - Graphic Packaging's weakness may partly reflect company-specific capital-cycle and footprint-reset issues rather than a pure read on the whole packaging layer.
 - Acquisitions, foreign exchange, and productivity actions are helping reported strength, so some resilience is operational rather than demand-led.
 - North America remains soft enough that the sector cannot yet be called broadly reaccelerated from this evidence alone.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show value architecture rather than simple pricing power?`
+2. `Which companies prove staples, beauty, and packaging are behaving differently?`
+3. `Who captures the cleaner economics and who carries upstream burden?`
+4. `What future evidence would weaken the segmented consumer-goods interpretation?`
 
 ## Follow-up questions
 

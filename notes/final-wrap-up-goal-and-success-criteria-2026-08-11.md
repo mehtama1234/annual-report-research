@@ -71,7 +71,8 @@ Close the thinnest requested sub-lanes so the archive no longer feels like a few
 The main unresolved lane-role gaps are:
 
 - recreation:
-  - second food-wholesale and owner-versus-brand comparison depth
+  - owner-versus-brand comparison depth
+  - fuller integration of the already-existing second food-wholesale anchor into the main recreation proof layer
 - CLI 4:
   - second payer
   - second hospital

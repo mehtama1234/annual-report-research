@@ -114,23 +114,24 @@ Already strong:
 - home-expression and participation demand already has `RH`, `Wayfair`, and `Williams-Sonoma`
 - occasion and identity spend already has `Etsy`, `Ulta`, and `Signet`
 - leisure and gaming participation already has `Caesars`, `Las Vegas Sands`, `MGM`, and `DraftKings`
+- food wholesale now has both `Sysco` and `US Foods`
 
 Still thin or still needing a cleaner comparison set:
 
-- food wholesale as the enabling layer is still basically one-name heavy around `Sysco`
 - hospitality ownership versus brand control is good conceptually but still benefits from one tighter owner set
 - specialty retail other is present through `Ulta`, but not yet widened into a more explicit comparison cluster
+- food wholesale exists as a real two-name support layer, but it is still better integrated in middle-layer and cross-sector work than in the main recreation lane narrative
 
 Best exact next names:
 
-1. `US Foods Holding Corp.` to make food wholesale a real comparison rather than a single-name read
-2. `Chewy, Inc.` to extend ritual, repeat, and emotionally loaded household spend beyond gifting and home furnishings
-3. `Apple Hospitality REIT, Inc.` to sharpen hotel ownership versus brand control and property burden
-4. `Sunstone Hotel Investors, Inc.` as the second owner-quality comparator if the hotel-owner sub-lane is the chosen extension
+1. `Chewy, Inc.` to extend ritual, repeat, and emotionally loaded household spend beyond gifting and home furnishings
+2. `Apple Hospitality REIT, Inc.` to sharpen hotel ownership versus brand control and property burden
+3. `Sunstone Hotel Investors, Inc.` as the second owner-quality comparator if the hotel-owner sub-lane is the chosen extension
+4. another specialty-retail or participation operator only if the goal is to widen the lane beyond beauty, gifting, home, travel, gaming, and foodservice support
 
 Why these names matter:
 
-- they close the weakest enabling and ownership roles still missing from recreation
+- they close the weakest ownership and participation roles still missing from recreation
 - they make the lane less dependent on one proof path per sub-theme
 
 ### CLI 4 Healthcare Frontier
@@ -242,7 +243,7 @@ These are real remaining tasks even if no new packets are added immediately.
 Do this on the highest-priority unresolved names and sub-lanes:
 
 - managed-care and hospital extensions in healthcare
-- food wholesale and owner-versus-brand extensions in recreation
+- owner-versus-brand and participation-model extensions in recreation
 - hardware and system-extension packets in CLI 5
 - life insurance and mortgage REIT extensions in CLI 6
 
@@ -292,7 +293,7 @@ Success condition:
 If the goal is to move the original-goal audit from mostly `partial` to mostly `achieved`, the highest-yield sequence is:
 
 1. close the thinnest bucket gaps with the best role-filling names:
-   `Cigna`, `Tenet`, `US Foods`, `Prudential`, `Annaly`, and either `Dell` or `HP`
+   `Cigna`, `Tenet`, `Prudential`, `Annaly`, and either `Dell` or `HP`
 2. run a targeted quarter-window and source-authority audit on those additions plus the other highest-priority thin-lane anchors
 3. normalize the active handoff layer
 4. selectively upgrade the most abstract older framework notes with proof-page style exact evidence
@@ -305,7 +306,7 @@ It is missing closure quality in a small set of exact places.
 
 The most important unresolved holes are:
 
-- second-anchor comparisons in payer, hospital, life insurance, mortgage REIT, and food wholesale
+- second-anchor comparisons in payer, hospital, life insurance, and mortgage REIT
 - tighter explicit clustering in hardware, system, and healthcare-information extensions inside CLI 5
 - proof that the filing-window and source-authority rules hold uniformly in the still-thin parts of the archive
 

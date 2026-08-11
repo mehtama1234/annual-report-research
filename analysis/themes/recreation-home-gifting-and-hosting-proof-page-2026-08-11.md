@@ -16,6 +16,7 @@ Primary packet set used here:
 - [Etsy, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-catalog-mail-order-houses/etsy-inc/company-packet.md)
 - [Ulta Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
 - [Sysco Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/food-wholesale/sysco-corp/company-packet.md)
+- [US Foods Holding Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-grocery-stores/us-foods-holding-corp/company-packet.md)
 - [Marriott International, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/marriott-international-inc/company-packet.md)
 - [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
 
@@ -140,9 +141,9 @@ This pattern shows up across travel, gaming, and beauty:
 
 That is why the archive should not talk about these only as category retailers or operators. The strongest businesses keep organizing repeat behavior after the first purchase or visit.
 
-## Claim 5: the experience economy has a support layer underneath it, and Sysco is one of the cleanest proofs
+## Claim 5: the experience economy has a support layer underneath it, and foodservice distribution now has a real two-company proof set
 
-This is the packet that keeps the lane grounded.
+These packets keep the lane grounded.
 
 ### Concrete evidence
 
@@ -151,10 +152,13 @@ This is the packet that keeps the lane grounded.
 | Sysco | `Q3 FY26` sales grew `4.7%`; U.S. Foodservice volume grew `2.3%`; U.S. local volume grew `3.3%`; adjusted EPS was `$0.94`. | Away-from-home eating and hospitality demand stayed active enough to support real case growth. |
 | Sysco | `Q2 FY26` sales grew `3.0%`; U.S. Foodservice volume grew `0.8%`; U.S. local volume grew `1.2%`; adjusted EPS was `$0.99`. | Even more modest periods still showed participation-linked throughput rather than collapse. |
 | Sysco | The annual materials repeatedly center low margins, sourcing, labor, routing density, and local-customer growth. | The lane's feel-good consumer narratives still depend on hard physical execution underneath them. |
+| US Foods | `Q2 2026` net sales increased `4.5%` to `$10.5B`; gross profit increased `8.0%` to `$1.9B`; adjusted EBITDA increased `10.2%` to a record `$604M`. | A second major distributor shows that the support-layer story is not dependent on one flagship operator. |
+| US Foods | `Q2 2026` independent restaurant case volume increased `5.1%`; healthcare volume increased `3.5%`; hospitality volume increased `4.4%`. | The same participation and institutional-meal demand shows up through customer mix, route density, and local execution rather than through consumer-facing brand pull. |
+| US Foods | The `2025` annual report said the company served about `250,000` customer locations through over `70` distribution facilities, a fleet of over `6,500` trucks, and more than `90` cash-and-carry locations. | The physical participation economy depends on very large replenishment and delivery systems that most consumers never see. |
 
 ### Why this supports the bigger conclusion
 
-Sysco proves that recreation and participation demand are not only demand-side stories.
+Sysco and US Foods prove that recreation and participation demand are not only demand-side stories.
 
 They also require:
 
@@ -165,6 +169,11 @@ They also require:
 - customer density
 
 That makes the lane more honest. People can still travel, dine, host, and celebrate, but someone still has to make the physical system work.
+
+The second distributor matters because it turns food wholesale from a supporting anecdote into a repeatable lane pattern:
+
+- `Sysco` shows the scale flagship
+- `US Foods` shows the same route-density and institutional-replenishment logic through a second large operator with strong independent-restaurant, healthcare, and hospitality exposure
 
 ## Claim 6: lifestyle spending is being sorted by meaning, organization, and operating discipline
 
@@ -178,7 +187,7 @@ This is the repeated pattern tying the whole packet set together.
 | Home as identity and hosting system | RH, Williams-Sonoma, Wayfair | Home spending still exists, but the winning models differ sharply between aspiration, brand orchestration, and logistics intermediation. |
 | Repeat discovery and self-expression | Ulta | Beauty and self-presentation become stronger economics when the company owns loyalty, assortment, and trend discovery rather than only shelf space. |
 | Relationship-owned leisure | Marriott, Caesars | Travel and gaming profit pools shift toward loyalty, distribution, co-brand, and wallet control. |
-| Operating support under the experience layer | Sysco | Experience demand still needs a dense physical supply layer that absorbs low-margin execution burden. |
+| Operating support under the experience layer | Sysco, US Foods | Experience demand still needs a dense physical supply layer that absorbs low-margin execution burden. |
 
 ### Why this supports the bigger conclusion
 
@@ -199,7 +208,7 @@ The lifestyle-extension packets are now strong enough to support several concret
 2. Consumers still fund purchases tied to ritual, identity, or meaningful occasions even when broad discretionary spending is selective.
 3. The best operators are usually organizing a relationship system, not just selling units.
 4. The home lane needs to be split into destination, portfolio, and logistics models rather than treated as one category.
-5. The participation economy depends on behind-the-scenes supply infrastructure as much as on visible brands and destinations.
+5. The participation economy depends on behind-the-scenes supply infrastructure as much as on visible brands and destinations, and food wholesale is now a two-company proof set rather than a single supporting example.
 
 ## What this page does not prove
 

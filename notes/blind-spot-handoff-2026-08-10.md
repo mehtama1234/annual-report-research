@@ -9,6 +9,14 @@ Companion notes:
 - `notes/blind-spot-quickstart-2026-08-10.md`
 - `notes/blind-spot-status-audit-2026-08-10.md`
 
+## Packet Inputs Used
+
+- the aligned blind-spot control layer: notes index, quickstart, status audit, ownership rules, and supporting control files under `indexes/`
+- the mature comparison cores and subtype lanes already built for consumer behavior, hidden infrastructure, control layers, and embedded workflow systems
+- the lane boundary rule that this thread owns systems the `AnnualReports.com` taxonomy classifies poorly, not generic sector cleanup
+- the practical next-move logic that routes future work toward subtype extension and sharper system comparison
+- the continuation requirement that another worker should be able to resume the lane directly from repo files rather than from old thread history
+
 ## Why this note exists
 
 This handoff is for the thread covering the structural blind spots in the `AnnualReports.com` browse-by-industry taxonomy.
@@ -278,3 +286,10 @@ The important change from earlier states is not only that more memos exist.
 It is that the governance layer, queue layer, decision-rule layer, machine-readable CSV layer, and reuse layer now say the same thing.
 
 Another worker should be able to continue this lane directly from the files above without guessing what the thread owns.
+
+## Skeptical Reader Test
+
+- Does this handoff give the next worker a clear lane boundary and read order without reopening prior blind-spot debates?
+- Can a skeptical reader trace the claimed operating coherence back to the actual control-layer files and mature comparison cores?
+- Does the note distinguish blind-spot ownership from ordinary sector coverage strongly enough to prevent scope drift?
+- What missing control file or unresolved boundary would weaken the claim that this lane can now be continued directly from repo state?

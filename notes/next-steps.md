@@ -2,6 +2,14 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- the active lane board and start-here operating files that define current lane selection and startup flow
+- the repo-wide collection window of `2025` annual reports plus the latest three reported quarters as of `2026-08-10`
+- the batch-design rule that favors coherent flagship-company sets over many shallow starts
+- the folder, naming, and company-level collection conventions that keep packet outputs machine-parseable and reusable
+- the bridge rule for using `ibis-industries` as a force-idea input rather than as a substitute for company-source verification
+
 ## Current operating stance
 
 The repo is no longer in a vague pilot stage.
@@ -89,3 +97,10 @@ Every coherent run should end with:
 - key themes
 - strongest cross-company signals
 - next recommended names
+
+## Skeptical Reader Test
+
+- Does this note tell a worker what to do next at the lane level, company-collection level, and closeout level?
+- Can a skeptical reader see the exact collection window, batch size logic, and reuse rules that should govern the next pass?
+- Does the file make it hard to drift back into vague pilot behavior or shallow multi-lane sprawl?
+- What missing operating rule would leave the next worker unsure how to turn a chosen lane into a coherent batch?

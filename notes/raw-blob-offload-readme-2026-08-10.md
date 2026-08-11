@@ -4,6 +4,14 @@ Date: 2026-08-10
 
 Purpose: preserve the local-only heavy `raw/**` payload outside Git while keeping extracted research, indexes, notes, analysis, and site outputs in remote `main`.
 
+## Packet Inputs Used
+
+- the local raw-delta audit that identified which `raw/**` files were too heavy to keep on remote `main`
+- the Google Drive offload location, tar artifact, checksum artifact, and manifest files that preserve recoverability outside Git
+- the staged text redaction scan and summary that document the security pass before upload
+- the Git-manifest strategy that keeps extracted research, indexes, notes, analysis, and site outputs on `main` while excluding heavy raw payloads
+- the repo-offload requirement that another worker should be able to understand what was moved, where it lives, and how it relates to the local commit context
+
 ## Scope
 
 - Source repo: `/home/manishmehta/ui-projects/annual-report-research`
@@ -109,3 +117,10 @@ The tar includes:
 The heavy raw payload itself remains excluded from remote `main`. This readme, the CSV manifest, and the TSV bucket summary are the lightweight Git pointers for the Drive offload.
 
 Manifest commit: `26dae821618ab0d556dbc364970762480a811086`
+
+## Skeptical Reader Test
+
+- Does this readme identify exactly what was offloaded, where it was uploaded, and which lightweight manifest files remain in Git?
+- Can a skeptical reader verify that a redaction pass occurred before the raw tar was uploaded?
+- Does the note make the separation between remote `main` and local heavy raw evidence explicit enough for another worker to trust the storage model?
+- What missing manifest, checksum, or commit-context detail would make the offload hard to audit?

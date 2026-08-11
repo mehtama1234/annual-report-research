@@ -6,6 +6,14 @@ Primary repo path: `/home/manishmehta/ui-projects/annual-report-research`
 Current branch at handoff: `main`
 Current `main` commit at handoff: `4532e6117213dafdb656f40916707d0cc1e014ff`
 
+## Packet Inputs Used
+
+- the observed `main` history and the still-unmerged-by-ancestry frontier branches listed in this handoff
+- the prior merge attempt findings about copied content versus preserved ancestry
+- the identified blocker conditions, especially path conflicts such as the `Hasbro` split
+- the repo rule that branch reconciliation should preserve real evidence state and avoid destructive resets
+- the success-condition requirement that a later reconciliation pass should leave clear statements about represented payloads, intentionally unmerged refs, and ancestry status
+
 ## Purpose
 
 This note is for the next thread that needs to reconcile the remaining frontier branch lines against `main` without reconstructing the last merge attempt from scratch.
@@ -125,3 +133,10 @@ The next thread should finish with:
 - a list of any remaining intentionally unmerged refs
 - a note on whether ancestry was preserved or only content was preserved
 - commit hashes for any final reconciliation commits
+
+## Skeptical Reader Test
+
+- Does this handoff make clear what the next reconciliation thread is trying to prove about branch payloads versus ancestry?
+- Can a skeptical reader tell which branches still need attention and what the real blocker was in the prior attempt?
+- Does the note protect the next worker from destructive shortcuts like force resets or blind merges?
+- What missing branch-state or blocker detail would make the reconciliation plan too weak to trust?

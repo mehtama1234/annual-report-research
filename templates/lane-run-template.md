@@ -8,6 +8,21 @@ Use the shared labels in:
 
 - [Status rubric](/home/manishmehta/ui-projects/annual-report-research/templates/status-rubric.md)
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, many of the archive's highest-value lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means this template should not be read only as a blank-slate lane-opening form.
+
+It should also be used for strengthening batches inside already-open lanes.
+
+In those cases, the batch should usually target:
+
+- a missing flagship role
+- the strongest contradiction or weak-link case
+- a sharper burden-versus-beneficiary split
+- a better next-filing break test
+
 This work is not just:
 
 - downloading `2025` annual reports
@@ -25,11 +40,11 @@ That thematic work is not extra.
 It is one of the main outputs of the batch.
 
 The job is not to sample one company.
-The job is to open a genuinely new research frontier in annual-report-research and leave the lane materially more legible than it was before the run.
+The job is to leave the lane materially more legible than it was before the run, whether that means opening a truly new lane or sharpening one that already exists.
 
 Default operating standard:
 
-- cover an entire new lane, not one isolated name
+- cover an entire lane or materially strengthen an already-open lane, not one isolated name
 - use `2025` annual reports plus the latest three reported quarters as of `2026-08-10`
 - treat `AnnualReports.com` as taxonomy and archive confirmation, but use company IR and SEC as authoritative when `AnnualReports.com` lags
 - aim for `4` to `8` flagship companies when the lane supports it, but prefer `3` to `4` fully developed packets over many shallow starts when source depth is constrained

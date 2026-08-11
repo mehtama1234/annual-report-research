@@ -34,6 +34,19 @@ This memo focuses on a different mechanism:
 
 the customer increasingly delegates small, routine, or fill-in fulfillment decisions to systems that compress time and reduce errand friction.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make delegated everyday fulfillment visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic convenience story.
+
 ## Companies Used
 
 - [DoorDash, Inc.](../../extracted/technology/internet-service-providers/doordash/company-packet.md)
@@ -218,6 +231,17 @@ not every fast-fulfillment business gets equally good economics.
 Amazon can subsidize and widen the loop with a much broader ecosystem.
 DoorDash and Instacart rely more heavily on merchant and retailer participation.
 Domino's has more direct control over the brand and ordering flow than marketplace-based peers.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the time-compression system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, mechanism sections, and disconfirming limits above.
 
 ## Watchlist Metrics
 

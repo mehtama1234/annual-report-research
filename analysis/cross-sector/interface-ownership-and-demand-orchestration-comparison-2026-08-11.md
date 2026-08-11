@@ -34,6 +34,19 @@ This memo asks:
 
 What happens when the company’s real business is not producing the underlying good, but owning the demand-routing layer above it?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make orchestration economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a loose observation that platforms matter.
+
 ## Exact Evidence
 
 | Company | Orchestration role | Exact packet facts | What the facts prove |
@@ -187,6 +200,17 @@ This interface-ownership thesis weakens if:
 - regulatory or legal pressure forces weaker control over pricing, payments, or supply
 - trust, support, or fulfillment quality breaks down enough that customers start the next search elsewhere
 - the underlying asset owners reclaim more of the customer relationship and reduce platform dependence
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the orchestration layer?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, interface map, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

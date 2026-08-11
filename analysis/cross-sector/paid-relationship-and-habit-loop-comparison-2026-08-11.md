@@ -22,6 +22,19 @@ The important point is that these are not all the same kind of recurring revenue
 
 They are different habit systems with different economics.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make paid repeat relationships visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as one broad “subscription” theme.
+
 ## Why This Comparison Matters
 
 The archive already has strong memos on selective consumer behavior, fandom, media, travel, and relationship ownership.
@@ -202,6 +215,17 @@ This paid-relationship thesis weakens if:
 - direct billing models see rising churn without offsetting ARPU gains
 - loyalty ecosystems fail to influence real behavior and become expensive reward liabilities instead of demand engines
 - recurring relationships remain intact but costs rise fast enough to erase the benefit of retention
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the habit loop?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, pattern map, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

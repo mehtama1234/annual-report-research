@@ -84,6 +84,20 @@ For future packets created after this policy note:
 - when raw evidence is offloaded, ensure the manifest contains the raw path and Drive pointer
 - prefer resolver-based provenance over ad hoc path rewrites
 
+## Insight-System Maintenance
+
+When you need to confirm that the raw-evidence provenance rule, offload manifest model, and legacy-root boundary still line up before relying on this policy note, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this note make it clear that remaining packet-level raw links are provenance pointers rather than guaranteed local files on remote `main`?

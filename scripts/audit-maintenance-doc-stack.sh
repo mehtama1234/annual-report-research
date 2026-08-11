@@ -79,6 +79,9 @@ expected = {
     Path("notes/recreation-participation-kickoff-2026-08-10.md"): full_audit_stack,
     Path("notes/next-steps.md"): full_audit_stack,
     Path("notes/master-operator-brief-2026-08-10.md"): full_audit_stack,
+    Path("notes/raw-evidence-link-policy-2026-08-11.md"): full_audit_stack,
+    Path("notes/raw-blob-offload-readme-2026-08-10.md"): full_audit_stack,
+    Path("notes/legacy-root-reference-audit-2026-08-11.md"): full_audit_stack,
 }
 
 missing = []

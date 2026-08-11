@@ -44,6 +44,7 @@ The reusable note layer now carries the same evidence-chain standard as the main
 Machine-readable file list:
 
 - [indexes/reusable-note-layer-files-2026-08-11.txt](../indexes/reusable-note-layer-files-2026-08-11.txt)
+- [indexes/historical-note-exclusion-files-2026-08-11.txt](../indexes/historical-note-exclusion-files-2026-08-11.txt)
 
 That reusable layer includes:
 
@@ -76,6 +77,10 @@ That cutoff note explains:
 - why the cutoff was deliberate
 - how many remaining unstamped note files still exist
 - why most of those remaining files are historical handoffs or logs rather than reusable operator guidance
+
+The machine-readable exclusion list now lives at:
+
+- [indexes/historical-note-exclusion-files-2026-08-11.txt](../indexes/historical-note-exclusion-files-2026-08-11.txt)
 
 ## Proof Memo Inventory
 
@@ -200,6 +205,7 @@ test -s notes/insight-artifact-manifest-2026-08-11.md
 test -s notes/insight-note-standardization-cutoff-2026-08-11.md
 test -s notes/insight-driven-next-lane-queue-2026-08-11.md
 test -s indexes/reusable-note-layer-files-2026-08-11.txt
+test -s indexes/historical-note-exclusion-files-2026-08-11.txt
 test -s analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md
 test -s analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md
 test -s analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md

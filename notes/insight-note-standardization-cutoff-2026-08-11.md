@@ -44,6 +44,10 @@ Current remaining count at the cutoff:
 - raw / blob / rclone operational files: `6`
 - other: `1`
 
+Machine-readable exclusion list:
+
+- [indexes/historical-note-exclusion-files-2026-08-11.txt](../indexes/historical-note-exclusion-files-2026-08-11.txt)
+
 Those remaining notes are largely:
 
 - per-batch handoffs

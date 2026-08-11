@@ -5,9 +5,11 @@ repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$repo_root"
 
 reusable_note_manifest="indexes/reusable-note-layer-files-2026-08-11.txt"
+historical_note_manifest="indexes/historical-note-exclusion-files-2026-08-11.txt"
 
 required_files=(
   "$reusable_note_manifest"
+  "$historical_note_manifest"
   "notes/insight-extraction-hub-2026-08-11.md"
   "notes/master-insight-extraction-goal-2026-08-11.md"
   "notes/end-to-end-insight-master-instruction-2026-08-11.md"
@@ -724,9 +726,15 @@ for path in "${required_files[@]}"; do
 done
 
 mapfile -t reusable_note_files < <(rg -v '^\s*(#|$)' "$reusable_note_manifest")
+mapfile -t historical_note_files < <(rg -v '^\s*(#|$)' "$historical_note_manifest")
 
 if [[ "${#reusable_note_files[@]}" -eq 0 ]]; then
   printf 'reusable note manifest is empty: %s\n' "$reusable_note_manifest" >&2
+  exit 1
+fi
+
+if [[ "${#historical_note_files[@]}" -eq 0 ]]; then
+  printf 'historical note manifest is empty: %s\n' "$historical_note_manifest" >&2
   exit 1
 fi
 
@@ -741,6 +749,17 @@ for path in "${reusable_note_files[@]}"; do
   fi
   if ! rg -q '^## Skeptical Reader Test' "$path"; then
     printf 'reusable note missing Skeptical Reader Test section: %s\n' "$path" >&2
+    exit 1
+  fi
+done
+
+for path in "${historical_note_files[@]}"; do
+  if [[ ! -s "$path" ]]; then
+    printf 'missing historical note file: %s\n' "$path" >&2
+    exit 1
+  fi
+  if printf '%s\n' "${reusable_note_files[@]}" | rg -qx --fixed-strings "$path"; then
+    printf 'note listed in both reusable and historical manifests: %s\n' "$path" >&2
     exit 1
   fi
 done

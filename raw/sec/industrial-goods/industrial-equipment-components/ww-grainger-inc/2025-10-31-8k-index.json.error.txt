@@ -1,2 +1,0 @@
-https://www.sec.gov/Archives/edgar/data/277135/000027713525000145/index.json
-HTTP 403

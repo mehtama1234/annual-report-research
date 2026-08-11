@@ -51,6 +51,14 @@ expected = {
         "bash scripts/verify-insight-system.sh",
     ],
     Path("notes/insight-extraction-hub-2026-08-11.md"): [
+        "bash scripts/run-insight-audit-stack.sh",
+        "bash scripts/refresh-note-layer-boundary.sh",
+        "bash scripts/audit-audit-stack-terminology.sh",
+        "bash scripts/audit-maintenance-doc-stack.sh",
+        "bash scripts/audit-continuation-mode-links.sh",
+        "bash scripts/audit-remaining-brief-links.sh",
+        "bash scripts/audit-remaining-stack-links.sh",
+        "bash scripts/audit-browser-review-links.sh",
         "bash scripts/verify-insight-system.sh",
     ],
 }

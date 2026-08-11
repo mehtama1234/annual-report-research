@@ -234,6 +234,9 @@ required_files=(
 required_patterns=(
   "README.md:The packet fields should do explicit analytical work"
   "README.md:Different claim types also need different proof burdens"
+  "README.md:bash scripts/refresh-note-layer-boundary.sh"
+  "README.md:bash scripts/audit-continuation-mode-links.sh"
+  "README.md:bash scripts/audit-browser-review-links.sh"
   "START-HERE.md:The packet fields should also do explicit analytical work"
   "START-HERE.md:Different claim types also need different proof burdens"
   "templates/lane-run-template.md:The packet fields should also do explicit analytical work"

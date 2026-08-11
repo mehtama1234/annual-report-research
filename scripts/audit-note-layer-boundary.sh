@@ -51,8 +51,22 @@ mapfile -t notes_files < <(find notes -maxdepth 1 -name '*.md' | sort)
 mapfile -t union < <(printf '%s\n' "${reusable[@]}" "${historical[@]}" | sort -u)
 mapfile -t historical_categories < <(tail -n +2 "$historical_category_manifest")
 historical_with_both_sections=()
+reusable_without_maintenance_commands=()
 historical_with_maintenance_commands=()
 mapfile -t historical_category_paths < <(printf '%s\n' "${historical_categories[@]}" | cut -f1 | sort)
+
+for path in "${reusable[@]}"; do
+  has_maintenance_command=0
+  for command in "${maintenance_commands[@]}"; do
+    if rg -qF "$command" "$path"; then
+      has_maintenance_command=1
+      break
+    fi
+  done
+  if [[ "$has_maintenance_command" -eq 0 ]]; then
+    reusable_without_maintenance_commands+=("$path")
+  fi
+done
 
 for path in "${historical[@]}"; do
   if rg -q '^## Packet Inputs Used' "$path" && rg -q '^## Skeptical Reader Test' "$path"; then
@@ -77,6 +91,7 @@ printf 'historical_log %s\n' "$(printf '%s\n' "${historical_categories[@]}" | rg
 printf 'historical_raw_blob_rclone %s\n' "$(printf '%s\n' "${historical_categories[@]}" | rg -c $'\traw_blob_rclone$')"
 printf 'historical_other %s\n' "$(printf '%s\n' "${historical_categories[@]}" | rg -c $'\tother$')"
 printf 'historical_with_both_sections %s\n' "${#historical_with_both_sections[@]}"
+printf 'reusable_without_maintenance_commands %s\n' "${#reusable_without_maintenance_commands[@]}"
 printf 'historical_with_maintenance_commands %s\n' "${#historical_with_maintenance_commands[@]}"
 
 missing_from_manifests="$(comm -23 <(printf '%s\n' "${notes_files[@]}") <(printf '%s\n' "${union[@]}"))"
@@ -125,6 +140,11 @@ if [[ "${#historical_with_both_sections[@]}" -ne 0 ]]; then
   exit 1
 fi
 
+if [[ "${#reusable_without_maintenance_commands[@]}" -ne 0 ]]; then
+  printf 'reusable_notes_without_maintenance_commands\n%s\n' "$(printf '%s\n' "${reusable_without_maintenance_commands[@]}")" >&2
+  exit 1
+fi
+
 if [[ "${#historical_with_maintenance_commands[@]}" -ne 0 ]]; then
   printf 'historical_notes_with_maintenance_commands\n%s\n' "$(printf '%s\n' "${historical_with_maintenance_commands[@]}")" >&2
   exit 1
@@ -158,6 +178,7 @@ Repo: \`annual-report-research\`
 | Historical raw/blob/rclone files | $(printf '%s\n' "${historical_categories[@]}" | rg -c $'\traw_blob_rclone$') |
 | Historical other files | $(printf '%s\n' "${historical_categories[@]}" | rg -c $'\tother$') |
 | Historical files with both standardized sections | ${#historical_with_both_sections[@]} |
+| Reusable files without maintenance-surface commands | ${#reusable_without_maintenance_commands[@]} |
 | Historical files with maintenance-surface commands | ${#historical_with_maintenance_commands[@]} |
 
 ## Boundary Status
@@ -165,6 +186,7 @@ Repo: \`annual-report-research\`
 - reusable and historical manifests together cover every current top-level note file
 - the historical category manifest matches the historical exclusion file list
 - no historically excluded note currently contains both standardized sections
+- every reusable note currently exposes at least one maintenance-surface command reference
 - no historically excluded note currently carries maintenance-surface command references
 - the boundary audit completed with \`boundary_ok\`
 
@@ -183,6 +205,7 @@ When you need to confirm that this boundary audit, the reusable-note manifest, a
 - \`bash scripts/refresh-note-layer-boundary.sh\`
 - \`bash scripts/audit-audit-stack-terminology.sh\`
 - \`bash scripts/audit-maintenance-doc-stack.sh\`
+- \`bash scripts/audit-reusable-note-maintenance-visibility.sh\`
 - \`bash scripts/audit-historical-note-maintenance-isolation.sh\`
 - \`bash scripts/audit-continuation-mode-links.sh\`
 - \`bash scripts/audit-remaining-brief-links.sh\`
@@ -215,6 +238,7 @@ if [[ -n "$json_path" ]]; then
     "other": $(printf '%s\n' "${historical_categories[@]}" | rg -c $'\tother$')
   },
   "historical_with_both_sections": ${#historical_with_both_sections[@]},
+  "reusable_without_maintenance_commands": ${#reusable_without_maintenance_commands[@]},
   "historical_with_maintenance_commands": ${#historical_with_maintenance_commands[@]},
   "boundary_ok": true,
   "reusable_manifest": "$reusable_manifest",

@@ -123,9 +123,9 @@ Score each flagship company packet on these ten dimensions.
 
 `1`: vague trend language
 
-`2`: ties the company to at least one consumer, cultural, societal, industrial, technical, or capital-structure signal
+`2`: ties the company to at least one consumer, cultural, societal, industrial, technical, or capital-structure signal with exact support
 
-`3`: makes the company materially useful as evidence for at least one cross-company pattern
+`3`: makes the company materially useful as evidence for at least one cross-company pattern and clearly states who benefits and who carries burden
 
 ### 8. Thesis Breaker
 
@@ -217,9 +217,9 @@ Score each lane run on these nine dimensions.
 
 `1`: vague theme language
 
-`2`: lane teaches at least one bigger consumer, societal, industrial, or technical pattern
+`2`: lane teaches at least one bigger consumer, societal, industrial, technical, or capital-structure pattern
 
-`3`: lane clearly strengthens one or more repo-wide proof themes
+`3`: lane clearly strengthens one or more repo-wide proof themes and explains the beneficiary-versus-burden split inside the lane
 
 ### 7. Metric Glossary And Watchlist
 
@@ -283,7 +283,7 @@ Score each proof memo on these ten dimensions.
 
 `2`: explains why the pattern exists
 
-`3`: connects customer behavior, operating burden, and economic outcome in one chain
+`3`: connects customer behavior, cultural or societal context when relevant, operating burden, and economic outcome in one chain
 
 ### 4. Concrete Examples
 
@@ -343,7 +343,7 @@ Score each proof memo on these ten dimensions.
 
 `2`: gives a useful reframing
 
-`3`: creates a real "I had not connected that before" moment grounded in evidence
+`3`: creates a real "I had not connected that before" moment grounded in evidence and concrete examples
 
 ### 10. Reader Handoff
 
@@ -363,6 +363,7 @@ If any of these are true, the artifact is not done:
 - it uses sector labels as explanation
 - it makes a broad claim without exact filing support
 - it has numbers but does not explain why they matter
+- it names a consumer, cultural, societal, industrial, technical, or capital pattern without saying how the filing evidence supports it
 - it says a trend exists without naming who benefits and who carries burden
 - it says a theme is interesting without naming what would disprove it
 - it sounds polished but another thread could not continue from it

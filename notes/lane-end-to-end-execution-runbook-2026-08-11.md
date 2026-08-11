@@ -89,11 +89,25 @@ Required packet sections:
 - company-level strategy read
 - operating model in plain English
 - strategy evidence table
-- customer/cultural/societal/industrial signal
+- insight stack with exact evidence
 - cross-company theme contribution
 - thesis breaker
 - next filing watchlist
 - source pointers
+
+The packet must not collapse the bigger picture into one vague trend line.
+
+At minimum, test whether the filing window supports any of these:
+
+- consumer behavior shift
+- cultural normalization or identity pattern
+- societal or demographic pressure
+- industrial or operating burden
+- technical or workflow dependency
+- capital-structure, property, or financing pressure
+- relationship-owner versus burden-carrier split
+
+If a bucket is not relevant, say so directly. If it is relevant, name the exact facts and explain why they support the conclusion.
 
 ## Step 5: Extract The Company-Level Read
 
@@ -148,6 +162,9 @@ For each pattern, write down:
 - the plain claim
 - the exact supporting facts
 - what each fact proves
+- why the pattern exists
+- who benefits economically
+- who carries the burden
 - what the comparison reveals that one company alone would not
 - what evidence would weaken the claim
 
@@ -158,7 +175,9 @@ Every major pattern should become a memo with:
 - plain claim
 - exact evidence table
 - causal chain
+- beneficiary versus burden-carrier split
 - stronger conclusion
+- why the pattern matters now
 - thesis breakers
 - watchlist metrics
 - next companies to test
@@ -216,6 +235,7 @@ The handoff should let another thread continue without reopening the whole lane 
 - the growth engine is identified
 - the main constraint is identified
 - the burden-versus-beneficiary read is explicit
+- the insight stack is explicit
 - the theme contribution is explicit
 - thesis breakers are stated
 - watchlist metrics are stated
@@ -229,6 +249,7 @@ The handoff should let another thread continue without reopening the whole lane 
 - cross-company patterns are explicit
 - proof memos exist for the main themes
 - concrete examples back the big claims
+- consumer, cultural, societal, industrial, technical, or capital-structure meaning is explicit
 - next names are identified
 - the handoff is usable
 

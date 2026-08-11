@@ -111,13 +111,52 @@ Required points:
 | Quarter minus 1 |  |  |
 | Quarter minus 2 |  |  |
 
-## Customer, Cultural, Societal, Or Industrial Signal
+## Insight Stack
 
-- Customer behavior:
-- Cultural or societal shift:
-- Industrial or operating pressure:
-- Technical or workflow pressure:
-- Capital-structure or balance-sheet pressure:
+State only the buckets the filing window actually supports. If a bucket is not supported, write `Not a primary signal in this filing window`.
+
+### Consumer Behavior
+
+- Claim:
+- Exact evidence:
+- Why it matters:
+
+### Cultural Or Lifestyle Shift
+
+- Claim:
+- Exact evidence:
+- Why it matters:
+
+### Societal Or Demographic Pressure
+
+- Claim:
+- Exact evidence:
+- Why it matters:
+
+### Industrial Or Operating Pressure
+
+- Claim:
+- Exact evidence:
+- Why it matters:
+
+### Technical Or Workflow Dependency
+
+- Claim:
+- Exact evidence:
+- Why it matters:
+
+### Capital-Structure, Property, Or Financing Pressure
+
+- Claim:
+- Exact evidence:
+- Why it matters:
+
+### Relationship Owner Versus Burden Carrier
+
+- Relationship owner:
+- Burden carrier:
+- Exact evidence:
+- Why the split matters:
 
 ## Cross-Company Theme Contribution
 
@@ -291,10 +330,35 @@ The lane exists because:
 
 - Theme:
   Evidence:
+  Beneficiary:
+  Burden carrier:
   What it means:
 - Theme:
   Evidence:
+  Beneficiary:
+  Burden carrier:
   What it means:
+
+## Insight Stack Across The Lane
+
+- Consumer behavior shift:
+  Exact evidence:
+  Why it matters:
+- Cultural or lifestyle shift:
+  Exact evidence:
+  Why it matters:
+- Societal or demographic pressure:
+  Exact evidence:
+  Why it matters:
+- Industrial or operating pressure:
+  Exact evidence:
+  Why it matters:
+- Technical or workflow dependency:
+  Exact evidence:
+  Why it matters:
+- Capital-structure or property pressure:
+  Exact evidence:
+  Why it matters:
 
 ## Aha Moments
 
@@ -353,9 +417,21 @@ The claim is supported by exact evidence from multiple company packets.
 3. 
 4. 
 
+## Beneficiaries And Burden Carriers
+
+- Cleaner-economics beneficiary:
+- Burden carrier:
+- Exact evidence for the split:
+
 ## Stronger Conclusion
 
 {Plain-English conclusion that connects the company evidence into a larger pattern.}
+
+## Why This Matters Now
+
+- Why now:
+- What changed in the recent filing window:
+- What this suggests about the bigger system:
 
 ## What Would Weaken This
 
@@ -475,6 +551,7 @@ Commit:
 
 - Theme:
   Exact evidence:
+  Why the evidence is enough:
   Meaning:
 
 ## Aha Moments

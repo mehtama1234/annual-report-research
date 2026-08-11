@@ -5,6 +5,15 @@ Date baseline: 2026-08-10
 Use this template for a coherent lane batch.
 This run started with one coherent comparison set and can be extended toward `4` to `8` flagship companies as the lane broadens.
 
+## Packet Inputs Used
+
+- flagship company packets for Alphabet, AT&T, Keysight, and KLA
+- annual report takeaways for application-layer demand concentration, telecom access burden, validation workflows, and semiconductor process precision
+- latest three-quarter chains for capex and cloud demand, free cash flow and access economics, measurement complexity, and bottleneck process control
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture infrastructure signals
+- burden-versus-beneficiary comparisons for who concentrates demand, who carries the access burden, and who monetizes the hidden toll layers
+- next-target logic for extending CLI 5 into enterprise systems control, another access operator, or adjacent semicap layers
+
 ## Lane definition
 
 - Lane name: `CLI 5: Connectivity, Telecom, and Technical Infrastructure`
@@ -153,6 +162,13 @@ This run started with one coherent comparison set and can be extended toward `4`
 - which signals seem lane-specific: telecom's burdened utility economics remain specific to access ownership, while KLA's process-control economics are specific to manufacturing chokepoints
 - which signals appear to generalize beyond the lane: control-point ownership, complexity monetization, and trust infrastructure should travel into software, security, healthcare systems, and industrial automation lanes
 - theme memos created or required: this batch sets up the next memo on how consumer expectations and AI adoption propagate backward into hidden infrastructure winners
+
+## Skeptical Reader Test
+
+- Which packet facts show application-layer demand, household access, validation, and process control as four distinct economic layers?
+- Which companies directly prove demand concentration, utility burden, validation tolls, and chip-manufacturing precision?
+- Who captures the cleaner economics and who carries the heavier physical-network burden?
+- What future evidence would weaken this Batch C lane interpretation?
 
 ## Index-update rule
 

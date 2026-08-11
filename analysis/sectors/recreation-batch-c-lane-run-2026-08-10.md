@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Host, Caesars, Etsy, and Wayfair
+- annual report takeaways for owned lodging real estate, gaming and loyalty-wallet economics, ritual marketplace trust, and logistics-heavy home-expression demand
+- latest three-quarter chains for hotel ownership results, gaming and digital engagement, marketplace behavior, and fulfillment or home-category pressure
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture participation signals
+- burden-versus-beneficiary comparisons for who owns the cleaner consumer interface versus who carries destination-asset or logistics-heavy burden
+- next-target logic for extending recreation into more hotel REITs, destination gaming, and trust-heavy marketplace comparisons
+
 ## Lane definition
 
 - Lane name: `Recreation, Lifestyle, and Participation Demand`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: lodging-owner capital recycling, casino wallet integration, marketplace authenticity and fraud control, and home-delivery infrastructure are the most lane-specific
 - which signals appear to generalize beyond the lane: interface control, trust mediation, and infrastructure-backed convenience should generalize into leisure, beauty, healthcare consumer interfaces, and other sectors where participation and meaning matter
 - theme memos created or required: the strongest follow-on memo should compare controlled leisure environments, trusted marketplaces, and logistics-heavy home systems as three different ways to monetize participation without relying on routine household consumption
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch separating owned destinations, loyalty-wallet leisure, trust marketplaces, and infrastructure-heavy home-expression systems?
+- Which companies directly prove controlled participation interfaces versus heavy operating and property burden?
+- Who captures the cleaner economics and who carries the heavier destination or fulfillment burden?
+- What future evidence would weaken this Batch C lane interpretation?
 
 ## Index-update rule
 

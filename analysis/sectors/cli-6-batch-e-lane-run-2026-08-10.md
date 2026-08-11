@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Marsh, Welltower, Brookfield, and Regions
+- annual report takeaways for broker-workflow economics, aging-linked property systems, global capital intermediation, and relationship-bank utility
+- latest three-quarter chains for fee density, occupancy and operator support, fundraising and insurance-linked capital, and deposit or credit trends
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture trust-intermediation signals
+- burden-versus-beneficiary comparisons for who controls the cleaner trust interface versus who carries more property or funding burden
+- next-target logic for extending CLI 6 into more broker, allocator, aging-REIT, and bank comparisons
+
 ## Lane definition
 
 - Lane name: `CLI 6: Capital Structures, Property, and Conglomerates`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: underwriting discipline, senior-housing supply scarcity, ABF and private-wealth scaling, and deposit-cost management are the most lane-specific signals
 - which signals appear to generalize beyond the lane: aging, retirement income needs, and institutional hunger for trustworthy long-duration operators should travel into healthcare services, life insurance, wealth platforms, and additional property vehicles
 - theme memos created or required: the next strong memo should compare aging-linked demand systems across insurers, healthcare REITs, care delivery, and retirement-linked capital platforms
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch separating advisory workflow, aging-linked real estate, capital aggregation, and regional banking rather than one undifferentiated financial set?
+- Which companies directly prove cleaner trust interfaces versus heavier asset or funding burden?
+- Who captures the cleaner economics and who carries more of the structural burden?
+- What future evidence would weaken this Batch E lane interpretation?
 
 ## Index-update rule
 

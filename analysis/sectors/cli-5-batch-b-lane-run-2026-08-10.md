@@ -5,6 +5,15 @@ Date baseline: 2026-08-10
 Use this template for a coherent lane batch.
 This run started with one coherent comparison set and can be extended toward `4` to `8` flagship companies as the lane broadens.
 
+## Packet Inputs Used
+
+- flagship company packets for Verizon, Cisco, Arista, and Lam
+- annual report takeaways for telecom access economics, enterprise control layers, AI-network fabrics, and semicap bottlenecks
+- latest three-quarter chains for fiber and wireless execution, bookings and control-plane demand, AI-network order strength, and wafer-fabrication intensity
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture infrastructure signals
+- burden-versus-beneficiary comparisons for who carries the utility burden versus who captures control-point or bottleneck economics
+- next-target logic for extending CLI 5 into KLA, cable access, and enterprise-software or semicap follow-ons
+
 ## Lane definition
 
 - Lane name: `CLI 5: Connectivity, Telecom, and Technical Infrastructure`
@@ -153,6 +162,13 @@ This run started with one coherent comparison set and can be extended toward `4`
 - which signals seem lane-specific: churn reduction, promotional discipline, fiber density, and telecom balance-sheet management are more specific to the carrier side; installed-base control and AI-order diffusion are more specific to Cisco's layer; and fabric concentration with very high margins is more specific to Arista's layer
 - which signals appear to generalize beyond the lane: control-point economics, lower-friction customer design, recurring trust infrastructure, infrastructure precision, and architecture bottlenecks should travel into networking, security, semicap, and enterprise-software names
 - theme memos created or required: existing Batch A theme memos still apply; the next needed memo is a sharper read on telecom-turnaround economics versus AI-network control-point, fabric, and semicap bottleneck economics
+
+## Skeptical Reader Test
+
+- Which packet facts show improved telecom execution still producing weaker economics than networking control and semicap bottlenecks?
+- Which companies directly prove access-utility economics, enterprise control, AI-fabric leverage, and process-tool intensity?
+- Who captures the cleaner profits and who remains more burdened by physical-network ownership?
+- What future evidence would weaken this Batch B lane interpretation?
 
 ## Index-update rule
 

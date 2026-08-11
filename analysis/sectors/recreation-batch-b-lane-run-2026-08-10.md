@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Marriott, Hyatt, Williams-Sonoma, and Ulta
+- annual report takeaways for travel loyalty, premium travel membership, domestic hosting identity, and beauty-discovery participation
+- latest three-quarter chains for fee growth and loyalty density, premium-travel demand, home-hosting execution, and beauty engagement or margin pressure
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture participation signals
+- burden-versus-beneficiary comparisons for who owns the repeat consumer interface versus who carries more inventory, venue, or execution burden
+- next-target logic for extending recreation into Host, Caesars, Etsy, and Wayfair
+
 ## Lane definition
 
 - Lane name: `Recreation, Lifestyle, and Participation Demand`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: room pipelines, co-branded travel cards, tariff-heavy inventory planning, and beauty-category experimentation are the most lane-specific
 - which signals appear to generalize beyond the lane: customer-data-backed loyalty, venue-based brand worlds, and experience-linked self-expression should generalize into wellness, beauty services, leisure, and selective healthcare consumer interfaces
 - theme memos created or required: the next strong memo should compare travel loyalty, home-hosting identity, and beauty discovery as three different consumer-interface systems built on the same underlying demand for participation and self-definition
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch separating travel loyalty, home-hosting identity, and beauty discovery as different participation systems?
+- Which companies directly prove membership depth, domestic identity demand, and self-presentation economics?
+- Who captures the cleaner recurring interface economics and who carries more execution burden?
+- What future evidence would weaken this Batch B lane interpretation?
 
 ## Index-update rule
 

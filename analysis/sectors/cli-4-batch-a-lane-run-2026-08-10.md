@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for UnitedHealth, HCA, Abbott, and Johnson & Johnson
+- annual report takeaways for payer workflow control, provider throughput, device and diagnostics platform breadth, and diversified drug-plus-medtech economics
+- latest three-quarter chains for medical-cost pressure, admissions and payer mix, installed-base or procedure-linked demand, and portfolio execution
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture healthcare signals
+- burden-versus-beneficiary comparisons for who controls recurring workflow versus who absorbs policy, labor, and reimbursement burden
+- next-target logic for extending CLI 4 into payer, elder-care, and procedure-workflow comparisons
+
 ## Lane definition
 
 - Lane name: `CLI 4: Healthcare Frontier`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: prior authorization reform, Medicaid supplemental timing, payer mix, exclusivity erosion, and installed diagnostic workflow economics are highly healthcare-specific
 - which signals appear to generalize beyond the lane: workflow embedding, trust-sensitive regulation, and recurring necessity demand should generalize into insurance, senior housing, healthcare information services, and lab-tools work
 - theme memos created or required: existing healthcare policy and portfolio memo is directionally relevant; next memo should isolate reimbursement-heavy versus installed-base healthcare economics
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch comparing four different healthcare profit-capture systems rather than four generic healthcare names?
+- Which companies directly prove payer burden, provider throughput, recurring diagnostics or device workflows, and diversified healthcare breadth?
+- Who captures the cleaner recurring economics and who carries the heavier reimbursement, labor, or trust-repair burden?
+- What future evidence would weaken this Batch A lane interpretation?
 
 ## Index-update rule
 

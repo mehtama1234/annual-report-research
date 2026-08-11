@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Gallagher, Welltower, KKR, and M&T
+- annual report takeaways for broker workflow, aging-linked property, alternative-capital manufacturing, and spread-bank utility economics
+- latest three-quarter chains for fee growth, occupancy and demographic support, fundraising and wealth-channel expansion, and deposit or credit trends
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture trust-intermediation signals
+- burden-versus-beneficiary comparisons for who owns cleaner workflow or capital channels versus who carries funding or property burden
+- next-target logic for extending CLI 6 into peer broker, REIT, allocator, and bank comparisons
+
 ## Lane definition
 
 - Lane name: `CLI 6: Capital Structures, Property, and Conglomerates`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: insurance distribution fragmentation, senior-housing supply scarcity, insurance-funded private credit, and regional-bank spread discipline are the most lane-specific signals
 - which signals appear to generalize beyond the lane: aging, retirement demand, and outsourced complexity should travel into healthcare services, benefits platforms, life insurance, and more care-linked property names
 - theme memos created or required: the next strong memo should compare aging-linked care property against direct care operators and life-insurance or retirement-liability platforms
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch separating workflow-heavy trust systems from funding-heavy utility systems?
+- Which companies directly prove broker economics, aging demand, alternative-capital channels, and bank-cycle exposure?
+- Who captures the cleaner economics and who carries the heavier burden?
+- What future evidence would weaken this Batch F lane interpretation?
 
 ## Index-update rule
 

@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Gallagher, Welltower, Apollo, and M&T
+- annual report takeaways for insurance-broker workflow, aging-linked property demand, alternative-capital manufacturing, and regional-bank funding economics
+- latest three-quarter chains for fee growth, occupancy and NOI, fundraising and insurance-linked spread economics, and deposit or credit quality
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture trust-intermediation signals
+- burden-versus-beneficiary comparisons for who controls the trusted workflow versus who carries heavier balance-sheet or property burden
+- next-target logic for extending CLI 6 into broker, REIT, allocator, and bank comparisons
+
 ## Lane definition
 
 - Lane name: `CLI 6: Capital Structures, Property, and Conglomerates`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: reserve discipline, occupancy quality, and float-based optionality are highly specific to this lane
 - which signals appear to generalize beyond the lane: trust-based monetization, demographic demand, and capital-allocation quality should carry into healthcare systems, hospitality property, infrastructure, and insurance-adjacent work
 - theme memos created or required: next theme memo should compare trust-based franchises that monetize duration rather than speed
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch comparing workflow ownership, aging-property systems, capital-allocation machines, and funding-heavy regional banks rather than one broad financial bucket?
+- Which companies directly prove trust-heavy workflow, aging demand, capital manufacturing, and bank utility economics?
+- Who captures the cleaner fee or relationship economics and who carries the heavier funding or asset burden?
+- What future evidence would weaken this Batch A lane interpretation?
 
 ## Index-update rule
 

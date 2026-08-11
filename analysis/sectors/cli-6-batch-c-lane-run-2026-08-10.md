@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Aon, Welltower, Brookfield, and M&T
+- annual report takeaways for advisory workflow control, aging-linked property, global capital allocation, and regional-bank utility economics
+- latest three-quarter chains for fee retention, occupancy and operator quality, capital-raising and insurance-linked funding, and deposit or credit discipline
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture trust-intermediation signals
+- burden-versus-beneficiary comparisons for who owns the workflow or capital interface versus who carries heavier asset or funding burden
+- next-target logic for extending CLI 6 into additional broker, REIT, allocator, and bank comparisons
+
 ## Lane definition
 
 - Lane name: `CLI 6: Capital Structures, Property, and Conglomerates`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: retail-property occupancy and leasing, broker acquisition roll-up execution, and diversified-bank fee mix are the most lane-specific signals
 - which signals appear to generalize beyond the lane: fee-heavy intermediation still appears more structurally advantaged than rent-heavy or spread-heavy monetization when volatility and funding discipline remain live issues
 - theme memos created or required: the next strong memo should compare broker workflow ownership against premium-asset rent collection and diversified bank utility economics
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch separating advisory workflow, aging-linked property, capital-allocation machinery, and plain bank utility?
+- Which companies directly prove trust intermediation, demographic scarcity, and balance-sheet burden?
+- Who captures the cleaner economics and who remains more exposed to funding or property friction?
+- What future evidence would weaken this Batch C lane interpretation?
 
 ## Index-update rule
 

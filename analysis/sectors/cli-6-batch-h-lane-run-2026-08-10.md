@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Marsh, Welltower, KKR, and M&T
+- annual report takeaways for insurance-broker workflow, aging-linked property, alternative-capital manufacturing, and regional-bank trust utility
+- latest three-quarter chains for fee growth, occupancy and operator quality, fundraising and insurance-linked economics, and deposit or credit quality
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture trust-intermediation signals
+- burden-versus-beneficiary comparisons for who owns the cleaner trust interface versus who carries more funding or property burden
+- next-target logic for extending CLI 6 into Aon, Ventas, Brookfield, and Regions comparisons
+
 ## Lane definition
 
 - Lane name: `CLI 6: Capital Structures, Property, and Conglomerates`
@@ -151,6 +160,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: senior-housing supply scarcity, insurance-broker workflow power, alternative-capital manufacturing, and regional deposit stickiness are the most lane-specific signals
 - which signals appear to generalize beyond the lane: aging, outsourced judgment, brand-backed distribution, and trusted nonbank intermediation should travel into healthcare services, benefits platforms, insurance, wealth, and specialty finance
 - theme memos created or required: the next strong memo should compare how broker workflow, aging-linked property, and alternative-capital platforms each monetize trust more efficiently than conventional spread businesses
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch separating broker workflow, aging property, private-capital manufacturing, and regional-bank utility rather than one broad financial grouping?
+- Which companies directly prove cleaner trust interfaces versus heavier funding or property burden?
+- Who captures the cleaner economics and who carries more of the structural burden?
+- What future evidence would weaken this Batch H lane interpretation?
 
 ## Index-update rule
 

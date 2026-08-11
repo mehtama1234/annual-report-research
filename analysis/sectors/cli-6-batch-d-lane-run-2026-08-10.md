@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Gallagher, Ventas, Apollo, and Regions
+- annual report takeaways for brokerage workflow, care-adjacent property demand, nonbank capital manufacturing, and cleaner regional-bank relationship economics
+- latest three-quarter chains for fee growth, occupancy and rent support, fundraising and spread engines, and deposit or credit quality
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture trust-intermediation signals
+- burden-versus-beneficiary comparisons for who owns the trusted interface versus who carries heavier asset, leverage, or funding burden
+- next-target logic for extending CLI 6 into peer brokers, aging REITs, allocators, and regional banks
+
 ## Lane definition
 
 - Lane name: `CLI 6: Capital Structures, Property, and Conglomerates`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: specialty underwriting, net-lease spread capture, large-scale alternative fundraising, and Southeast bank mix are the most lane-specific signals
 - which signals appear to generalize beyond the lane: durable capital-allocation skill is starting to matter more than pure category membership, which argues for continuing into adjacent insurers, property vehicles, and global allocators
 - theme memos created or required: the next strong memo should compare broker workflow ownership against insurer-float and alternative-capital aggregation as rival quality systems
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch separating broker workflow, aging property, capital manufacturing, and regional-bank utility under one trust-heavy lane?
+- Which companies directly prove cleaner workflow economics versus burdened funding or property systems?
+- Who captures the cleaner economics and who carries the heavier structural burden?
+- What future evidence would weaken this Batch D lane interpretation?
 
 ## Index-update rule
 

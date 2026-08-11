@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Brookdale, Stryker, Intuitive, and Pfizer
+- annual report takeaways for aging-linked care operations, procedure-heavy medtech, installed-base robotic workflows, and portfolio-reset pharma economics
+- latest three-quarter chains for occupancy, procedure volume, recurring instruments and accessories, product launches, and margin or reimbursement pressure
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture healthcare signals
+- burden-versus-beneficiary comparisons for who owns the embedded workflow versus who carries staffing, capital-budget, or portfolio-replacement burden
+- next-target logic for extending CLI 4 into payer, hospital, serving-science, and additional aging or installed-base comparisons
+
 ## Lane definition
 
 - Lane name: `CLI 4: Healthcare Frontier`
@@ -151,6 +160,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: senior-living occupancy recovery, robotic-procedure penetration, orthopaedic capital-product demand, and post-COVID pharma portfolio reset are the most lane-specific signals
 - which signals appear to generalize beyond the lane: aging, installed-base healthcare workflow control, procedure efficiency, and the difference between recurring-care demand and product-cycle risk should carry into hospitals, health plans, diagnostics, and additional medical-equipment names
 - theme memos created or required: the next strong memo should compare aging-linked care operators against healthcare REITs and compare installed-base medtech against broader device and diagnostics platforms
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch separating aging-care operations, procedure equipment, robotic workflow ownership, and portfolio-reset pharma?
+- Which companies directly prove aging demand, installed-base procedure control, and therapeutic renewal burden?
+- Who captures the cleaner recurring healthcare economics and who carries the heavier labor, capital, or product-cycle burden?
+- What future evidence would weaken this Batch B lane interpretation?
 
 ## Index-update rule
 

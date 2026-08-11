@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Aon, Ventas, Brookfield, and Regions
+- annual report takeaways for risk and health workflow ownership, aging-linked property demand, capital-allocation discipline, and cleaner Southeast bank utility economics
+- latest three-quarter chains for fee retention, occupancy and supply tightness, fundraising and insurance-linked leverage, and deposit or credit quality
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture trust-intermediation signals
+- burden-versus-beneficiary comparisons for who controls the trusted workflow versus who carries heavier balance-sheet or property burden
+- next-target logic for extending CLI 6 into Marsh, Welltower, KKR, and M&T comparisons
+
 ## Lane definition
 
 - Lane name: `CLI 6: Capital Structures, Property, and Conglomerates`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: advisory workflow, senior-housing supply scarcity, global private-capital fundraising, and regional-bank funding quality are the most lane-specific signals
 - which signals appear to generalize beyond the lane: aging, retirement, outsourced risk handling, and trusted capital intermediation should travel into healthcare services, benefits platforms, life insurance, and adjacent wealth or custody businesses
 - theme memos created or required: the next strong memo should compare aging-linked demand systems across REITs, insurers, and care-delivery operators versus the cleaner workflow systems in brokerage and advisory
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch comparing advisory workflow, aging-linked property, global capital aggregation, and cleaner regional-bank utility under one trust-heavy frame?
+- Which companies directly prove trust intermediation, aging scarcity, and balance-sheet burden?
+- Who captures the cleaner economics and who carries the heavier burden?
+- What future evidence would weaken this Batch G lane interpretation?
 
 ## Index-update rule
 

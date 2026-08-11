@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Verizon, Cisco, Arista, and Lam
+- annual report takeaways for telecom access ownership, enterprise control planes, AI-network fabrics, and upstream wafer-fabrication bottlenecks
+- latest three-quarter chains for subscriber and fiber economics, networking and security demand, AI-cluster architecture intensity, and semicap service or process leverage
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture infrastructure signals
+- burden-versus-beneficiary comparisons for who owns the burdened utility layer versus who captures higher-return control or bottleneck economics
+- next-target logic for extending CLI 5 into more telecom-access, semicap, or software-governance contrasts
+
 ## Lane definition
 
 - Lane name: `CLI 5: Connectivity, Telecom, and Technical Infrastructure`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: telecom's leverage burden, AI-fabric concentration, and semicap export-control risk are the most lane-specific signals
 - which signals appear to generalize beyond the lane: control-point ownership, complexity monetization, and trust infrastructure should extend into enterprise software, cybersecurity, healthcare information systems, and industrial automation
 - theme memos created or required: the next strong memo should compare why telecom access captures less value than enterprise control, AI-fabric architecture, and semiconductor-process bottlenecks even when all are responding to the same end demand
+
+## Skeptical Reader Test
+
+- Which packet facts show the same AI and connectivity stack splitting into very different profit pools across Verizon, Cisco, Arista, and Lam?
+- Which companies directly prove utility burden, enterprise control, AI-network specialization, and fabrication bottlenecks?
+- Who captures the cleaner economics and who carries the heavier access and capital burden?
+- What future evidence would weaken this Batch D lane interpretation?
 
 ## Index-update rule
 

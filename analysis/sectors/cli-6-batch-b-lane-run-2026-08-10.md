@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Marsh, Ventas, KKR, and Regions
+- annual report takeaways for broker workflow, aging-care property systems, private-capital channels, and cleaner regional-bank relationship economics
+- latest three-quarter chains for fee density, occupancy and supply tightness, fundraising and insurance-linked economics, and deposit mix or credit quality
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture trust-intermediation signals
+- burden-versus-beneficiary comparisons for who owns the cleaner trust interface versus who carries more balance-sheet or property burden
+- next-target logic for extending CLI 6 into peer broker, REIT, allocator, and bank contrasts
+
 ## Lane definition
 
 - Lane name: `CLI 6: Capital Structures, Property, and Conglomerates`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: repo-funded mortgage carry, insurance-broker advisory density, and conglomerate subsidiary mix are highly lane-specific
 - which signals appear to generalize beyond the lane: lighter-balance-sheet intermediation looks increasingly advantaged relative to asset-heavy spread capture when volatility and funding costs stay elevated
 - theme memos created or required: the next strong memo should compare fee-heavy trust franchises against rate-sensitive carry vehicles across financial, property, and insurance-adjacent lanes
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch separating broker workflow, aging-property exposure, alternative-capital manufacturing, and regional-bank utility?
+- Which companies directly prove trust-heavy advisory, demographic property demand, capital aggregation, and spread-bank economics?
+- Who captures the cleaner economics and who carries the heavier funding or operating burden?
+- What future evidence would weaken this Batch B lane interpretation?
 
 ## Index-update rule
 

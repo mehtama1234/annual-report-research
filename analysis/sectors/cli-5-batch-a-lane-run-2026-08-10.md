@@ -5,6 +5,15 @@ Date baseline: 2026-08-10
 Use this template for a coherent lane batch.
 This run started with one coherent comparison set and can be extended toward `4` to `8` flagship companies as the lane broadens.
 
+## Packet Inputs Used
+
+- flagship company packets for Alphabet, AT&T, Keysight, and KLA
+- annual report takeaways for traffic concentration, telecom utility economics, validation and measurement tolls, and semiconductor process-control bottlenecks
+- latest three-quarter chains for capex intensity, cloud and network demand, free cash flow, technical complexity, and manufacturing precision
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture infrastructure signals
+- burden-versus-beneficiary comparisons for who funds the stack versus who captures the cleaner control-point economics
+- next-target logic for extending CLI 5 into Verizon, Cisco, Arista, and Lam comparisons
+
 ## Lane definition
 
 - Lane name: `CLI 5: Connectivity, Telecom, and Technical Infrastructure`
@@ -153,6 +162,13 @@ This run started with one coherent comparison set and can be extended toward `4`
 - which signals seem lane-specific: semiconductor process-control and advanced measurement intensity are more specific to the technical-infrastructure side of the lane
 - which signals appear to generalize beyond the lane: capex-heavy scaling, trust infrastructure, and control-point economics should travel into adjacent software, data-center, and security names
 - theme memos created or required: [cli-5-ai-capex-and-bottleneck-tolls-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-5-ai-capex-and-bottleneck-tolls-2026-08-10.md), [cli-5-telecom-utility-vs-control-point-economics-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-5-telecom-utility-vs-control-point-economics-2026-08-10.md)
+
+## Skeptical Reader Test
+
+- Which packet facts show AI and connectivity demand rewarding control points more than every layer in the stack?
+- Which companies directly prove gateway concentration, access-utility burden, validation toll capture, and fab bottleneck economics?
+- Who captures the cleaner economics and who carries the heavier capex and network burden?
+- What future evidence would weaken this Batch A lane interpretation?
 
 ## Index-update rule
 

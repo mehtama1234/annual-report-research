@@ -2,6 +2,15 @@
 
 Date baseline: 2026-08-10
 
+## Packet Inputs Used
+
+- flagship company packets for Hilton, RH, Signet, and Sysco
+- annual report takeaways for branded travel, home-expression and hosting demand, ritual gifting, and food-service infrastructure
+- latest three-quarter chains for loyalty and RevPAR, housing and tariff pressure, jewelry and occasion demand, and away-from-home food throughput
+- exact supporting facts used in the lane summary, cross-company themes, and bigger-picture participation signals
+- burden-versus-beneficiary comparisons for who owns the consumer participation interface versus who carries the heavier operating substrate burden
+- next-target logic for extending recreation into Marriott, Williams-Sonoma, Ulta, and Host
+
 ## Lane definition
 
 - Lane name: `Recreation, Lifestyle, and Participation Demand`
@@ -150,6 +159,13 @@ Date baseline: 2026-08-10
 - which signals seem lane-specific: wedding cycles, branded lodging pipelines, luxury housing sensitivity, and restaurant case growth are the most lane-specific
 - which signals appear to generalize beyond the lane: experiential preference, premiumization with sharper value architecture, and the conversion of physical venues into branded environments should generalize into beauty, leisure, entertainment, and selected healthcare service settings
 - theme memos created or required: the next strong memo should compare ritual demand, experiential demand, and taste-signaling demand as separate but overlapping consumer systems rather than one broad discretionary bucket
+
+## Skeptical Reader Test
+
+- Which packet facts show this batch comparing travel participation, home expression, ritual gifting, and food-service substrate rather than one loose discretionary basket?
+- Which companies directly prove emotionally coded demand versus the harder operating burden beneath it?
+- Who captures the cleaner participation economics and who carries the heavier physical or routing burden?
+- What future evidence would weaken this Batch A lane interpretation?
 
 ## Index-update rule
 

@@ -66,6 +66,10 @@ The default continuation task is usually:
 - sharpen the burden carrier versus cleaner layer split
 - improve the next-quarter break test
 
+If you need to verify that the repo's live goal, queue, template, and review surfaces all reflect that continuation state rather than an outdated greenfield framing, use:
+
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
+
 ## What Counts As Insight
 
 The repo should deliberately extract all major kinds of insight the packets can support, including:

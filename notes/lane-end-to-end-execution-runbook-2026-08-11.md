@@ -49,6 +49,10 @@ It is usually:
 
 Before starting Step 1, determine which mode applies.
 
+If the mode choice is unclear because the repo may already have a working first interpretation layer for the lane, verify the current continuation framing with:
+
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
+
 ## Step 1: Define The Lane
 
 State:

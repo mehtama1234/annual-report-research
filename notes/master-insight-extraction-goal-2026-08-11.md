@@ -41,6 +41,10 @@ The main remaining work is now:
 
 In short, the default next pass should usually improve a live lane or proof page rather than simply restate the first pattern.
 
+If you need to verify which live goal, queue, template, and review surfaces already reflect that continuation-phase state, use:
+
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
+
 ## End-To-End Goal In Plain Language
 
 The meaty goal is to extract every major kind of insight the filings can honestly support.

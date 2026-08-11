@@ -68,6 +68,7 @@ Current boundary artifacts:
 - [Note layer boundary audit report](/home/manishmehta/ui-projects/annual-report-research/notes/note-layer-boundary-audit-2026-08-11.md)
 - [Note layer boundary audit JSON](/home/manishmehta/ui-projects/annual-report-research/notes/note-layer-boundary-audit-2026-08-11.json)
 - [Insight artifact manifest](/home/manishmehta/ui-projects/annual-report-research/notes/insight-artifact-manifest-2026-08-11.md)
+- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
 
 ## Raw Evidence Maintenance
 

@@ -71,6 +71,10 @@ The default continuation task is usually:
 - sharpen the burden carrier versus cleaner layer split
 - make the next-quarter break test more concrete
 
+If you need to verify that the repo's live goal, queue, and review surfaces are all speaking in that continuation mode rather than in an outdated greenfield mode, use:
+
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
+
 ## What The Archive Must Produce
 
 Every serious lane should leave behind four layers of output:

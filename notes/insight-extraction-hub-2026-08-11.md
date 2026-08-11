@@ -77,6 +77,8 @@ The following files already carry the continuation-phase standard and should usu
   - use for: judging whether a new pass actually sharpened a live read
 - [insight-artifact-manifest-2026-08-11.md](insight-artifact-manifest-2026-08-11.md)
   - use for: the map of the current operating system and its live artifact layers
+- [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md)
+  - use for: verifying that the live goal, queue, template, and review surfaces consistently reflect the repo's continuation-phase state
 - [concrete-insights-and-curiosity-map-2026-08-10.md](../analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md)
   - use for: the current cross-sector synthesis layer and strongest live proof themes
 - [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md)

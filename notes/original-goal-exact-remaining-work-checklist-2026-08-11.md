@@ -151,8 +151,8 @@ Already strong:
 
 Still thin or still needing a cleaner comparison set:
 
-- managed-care / health plans is still effectively one flagship anchor
-- hospitals still have one dominant flagship anchor rather than a true comparison cluster
+- managed-care / health plans still lacks a second pure flagship anchor, but adjacent burden comparison is now stronger through `Astrana`
+- hospitals still lack a second pure flagship operator, but adjacent burden comparison is now stronger through `Baxter`
 - long-term care facilities still center on `Brookdale`
 - major drug manufacturers are present, but a cleaner quality-growth comparator would improve the lane
 
@@ -165,7 +165,7 @@ Best exact next names:
 
 Why these names matter:
 
-- they close the payer and hospital thin spots the audit already identified
+- they close the remaining pure-anchor payer and hospital thin spots rather than the broader healthcare burden map
 - they improve the burden split between direct care delivery, financing, tools, and therapeutic ownership
 
 ### CLI 5 Connectivity, Telecom, And Technical Infrastructure

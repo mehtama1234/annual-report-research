@@ -22,6 +22,7 @@ Supporting lane context:
 
 - [Healthcare Sector Synthesis](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/healthcare-sector-synthesis-2026-08-09.md)
 - [CLI 4 Recurring Care And Workflow Control Framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
+- [CLI 4 Payer And Provider Adjacent Burden Bridge](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-payer-provider-adjacent-burden-bridge-2026-08-11.md)
 
 ## The question
 

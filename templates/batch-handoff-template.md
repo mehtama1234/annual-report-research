@@ -140,6 +140,17 @@ Use the shared labels in:
 - which claim types were strongest: consumer / cultural / societal / industrial / technical / capital / cross-company:
 - what proof burden those strongest claims actually met:
 
+## Strongest claim-to-proof chain
+
+- strongest lane claim:
+- claim type:
+- exact companies carrying the claim:
+- exact facts carrying the claim:
+- exact filing periods:
+- causal chain from company facts to lane conclusion:
+- best alternative explanation still in play:
+- best next-filing disconfirming test:
+
 ## Key themes
 
 - consumer:
@@ -166,6 +177,8 @@ Use the shared labels in:
 - which signals remain provisional:
 - which packet fields most directly proved those signals:
 - which signal still has weak proof burden:
+- which signal has the cleanest exact fact-period-causal chain:
+- which signal still needs a clearer disconfirming test:
 
 ## Index and integration status
 

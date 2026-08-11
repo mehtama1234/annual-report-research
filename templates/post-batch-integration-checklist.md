@@ -66,6 +66,10 @@ Confirm that the synthesis includes:
 - exact next names that would improve the lane
 - which packet fields supplied the main lane conclusions
 - whether the strongest claims met the right proof burden for their claim type
+- the exact metric or operating fact carrying each major claim
+- the exact annual or quarterly period carrying each major claim
+- why those facts support the conclusion instead of merely appearing near it
+- what next-filing evidence would weaken or disprove the conclusion
 
 If the batch introduced new offloaded evidence assumptions, also confirm:
 
@@ -85,6 +89,7 @@ Explicitly check whether the batch surfaces:
 - participation, franchise, and IP monetization where relevant
 - who bears the burden stack and who captures cleaner economics
 - whether consumer, cultural, industrial, technical, capital, or cross-company claims are backed by the right kind of proof
+- whether the strongest conclusions can be restated as exact fact -> exact period -> plain-English meaning -> disconfirming test
 
 If these are missing, the batch is not fully integrated.
 

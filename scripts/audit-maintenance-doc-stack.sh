@@ -16,6 +16,7 @@ full_audit_stack = [
     "bash scripts/audit-audit-stack-terminology.sh",
     "bash scripts/audit-continuation-mode-links.sh",
     "bash scripts/audit-remaining-brief-links.sh",
+    "bash scripts/audit-remaining-stack-links.sh",
     "bash scripts/audit-browser-review-links.sh",
     "bash scripts/verify-insight-system.sh",
 ]
@@ -23,6 +24,7 @@ linked_audit_stack = [
     "bash scripts/audit-audit-stack-terminology.sh",
     "bash scripts/audit-continuation-mode-links.sh",
     "bash scripts/audit-remaining-brief-links.sh",
+    "bash scripts/audit-remaining-stack-links.sh",
     "bash scripts/audit-browser-review-links.sh",
     "bash scripts/refresh-note-layer-boundary.sh",
 ]
@@ -44,6 +46,7 @@ expected = {
         "bash scripts/audit-maintenance-doc-stack.sh",
         "bash scripts/audit-continuation-mode-links.sh",
         "bash scripts/audit-remaining-brief-links.sh",
+        "bash scripts/audit-remaining-stack-links.sh",
         "bash scripts/audit-browser-review-links.sh",
         "bash scripts/verify-insight-system.sh",
     ],

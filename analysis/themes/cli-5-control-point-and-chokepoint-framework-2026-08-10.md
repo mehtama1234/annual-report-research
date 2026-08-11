@@ -84,6 +84,72 @@ The completed CLI 5 batches now support a stronger organizing frame than “infr
 - AI should also be framed as a governance and attack-surface expansion story. Palo Alto adds evidence that AI demand raises the value of security policy, data visibility, and platform trust.
 - AI should also be framed as a workflow and policy-routing story. ServiceNow adds evidence that enterprises need an operating system for how AI is actually embedded into work.
 
+## Applied comparison memos
+
+- [Telecom Utility Economics Versus Control-Point Economics](cli-5-telecom-utility-vs-control-point-economics-2026-08-10.md)
+- [AI Physical Capacity Proof](../cross-sector/ai-physical-capacity-proof-2026-08-10.md)
+- [AI Capex Return And Power-Constraint Watchlist](../cross-sector/ai-capex-return-and-power-constraint-watchlist-2026-08-11.md)
+- [Trust As Paid Product Proof](../cross-sector/trust-as-paid-product-proof-2026-08-10.md)
+- [Trust Commoditization And Failure-Risk Watchlist](../cross-sector/trust-commoditization-and-failure-risk-watchlist-2026-08-11.md)
+
+## Capacity versus control overlay
+
+The newer comparison and watchlist work makes the main CLI 5 split much more concrete.
+
+This lane is not only about who owns infrastructure.
+
+It is about which layer:
+
+- triggers demand
+- funds the heavy buildout
+- controls the architecture
+- validates reliability
+- governs trust
+- captures the cleanest economics after capex, power, and complexity arrive
+
+The archive now shows a repeated pattern:
+
+- demand concentration can be powerful without being the same thing as infrastructure economics
+- access ownership can stay essential while still carrying weaker returns because it absorbs capex, leverage, and regulation
+- control-plane software and architecture layers can monetize technical complexity with less balance-sheet burden
+- security and workflow governance can become even cleaner toll layers if customers standardize on them
+- semicap, validation, power, and electrical bottlenecks can capture returns before raw network or datacenter capacity is fully monetized
+
+That means the main CLI 5 question is no longer whether the world needs more connectivity and compute.
+
+It is where the burden lands after that need becomes physical.
+
+`AT&T` and `Verizon` carry the most obvious utility burden in the current set.
+`Alphabet` concentrates the demand signal, but also forces industrial-scale spending across the stack.
+`Cisco`, `Arista`, `Palo Alto`, and `ServiceNow` show how software, control, and governance layers can monetize rising complexity without owning the whole physical network.
+`Keysight`, `KLA`, and `Lam` show that validation and process precision become harder to avoid as systems get denser, faster, and more AI-dependent.
+
+## What the current filing window actually proved
+
+The lane now supports several stronger conclusions than it did in the first pass.
+
+- `Essential does not mean high-return.` Telecom access remains indispensable, but the filings still show that ownership of the utility layer does not guarantee the cleanest economics.
+- `AI is a physical burden story as much as a software story.` The broader archive now shows power, cooling, electrical gear, semicap precision, and field execution as part of the same AI buildout, not as side details.
+- `Control beats carriage when complexity rises.` The cleaner economics tend to sit with the company that controls architecture, orchestration, validation, or policy rather than with the company that simply carries more traffic.
+- `Trust is becoming infrastructure.` Palo Alto and the wider trust work strengthen the case that security, visibility, and policy standardization are not just software features. They are becoming operating requirements as AI expands the attack surface.
+- `Upstream chokepoints can be better than downstream ownership.` KLA and Lam make it clearer that some of the strongest profit pools sit where failure is expensive and process precision is non-optional, before the chips and networks are even deployed.
+
+## Next-filing watchpoints
+
+The next filing window should not be read as a generic check on AI, cloud, or telecom growth.
+
+It should be read as a stress test on whether the current burden split is widening or narrowing:
+
+- `AT&T` and `Verizon`: does the access layer keep improving cash generation and subscriber quality enough to narrow the gap with higher-control infrastructure layers, or does capex and balance-sheet burden still dominate the story?
+- `Alphabet`: does AI demand keep justifying heavy capex without eroding the quality of the profit pool that pulls the rest of the system forward?
+- `Cisco` and `Arista`: do networking-control layers keep proving that architecture and orchestration capture better economics than raw access ownership?
+- `Palo Alto` and `ServiceNow`: do trust governance and workflow orchestration keep thickening into standard-like control layers, or do they start looking more like ordinary vendor categories?
+- `Keysight`, `KLA`, and `Lam`: do validation and process chokepoints keep converting complexity into durable margins and installed-base support, or does cyclicality start to dominate the quality read?
+
+If telecom access starts converting essential demand into cleaner economics than expected, the control-point gap may narrow.
+
+If software-control, trust, and upstream chokepoints keep converting complexity into cleaner economics while physical owners absorb more burden, then CLI 5 becomes one of the archive's clearest proof cases that infrastructure value accrues to control and precision more than to ownership alone.
+
 ## Skeptical Reader Test
 
 - Which packet facts show CLI 5 value migrating away from raw traffic carriage toward control points and chokepoints?

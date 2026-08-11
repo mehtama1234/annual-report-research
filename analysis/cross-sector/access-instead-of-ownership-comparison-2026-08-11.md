@@ -24,6 +24,19 @@ the customer does not need to own more things each time.
 
 The customer needs to stay inside the access system.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make access economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a loose statement that consumers prefer access.
+
 ## Why This Comparison Matters
 
 The archive already has pages on:
@@ -199,6 +212,17 @@ This access-instead-of-ownership thesis weakens if:
 - access systems become too expensive relative to the perceived benefit
 - content, rewards, or operating costs rise faster than the relationship value they support
 - the customer still belongs, but actual use intensity keeps weakening
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the access system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, access-system map, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

@@ -35,6 +35,19 @@ This memo asks:
 
 Which companies are becoming stronger because they can add new revenue layers to an existing customer relationship instead of relying on only the first sale?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make second-layer monetization visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic statement that more revenue streams are good.
+
 ## Exact Evidence
 
 | Company | Original relationship | Second-layer monetization | Exact packet facts | What the facts prove |
@@ -191,6 +204,17 @@ This relationship-thickening thesis weakens if:
 - partner or merchant economics become less attractive than expected
 - the company adds too many layers and loses product coherence
 - engagement remains strong but the second-layer economics prove weaker or more cyclical than the market assumes
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the second-layer monetization system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, relationship-thickening map, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

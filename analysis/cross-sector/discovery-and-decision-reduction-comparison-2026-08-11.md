@@ -35,6 +35,19 @@ This memo asks:
 
 Which companies benefit because they help customers or users find the right next thing inside a crowded system?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make discovery and sorting economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad claim that curation matters.
+
 ## Exact Evidence
 
 | Company | Discovery role | Exact packet facts | What the facts prove |
@@ -184,6 +197,17 @@ This discovery-and-decision-reduction thesis weakens if:
 - abundance stops being a pain point because the user relies on other gatekeepers
 - monetization layers grow while user trust in the discovery surface weakens
 - the interface remains popular but stops influencing real economic choice
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the discovery layer?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, decision-reduction map, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

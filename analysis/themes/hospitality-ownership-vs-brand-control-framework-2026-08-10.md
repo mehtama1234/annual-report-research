@@ -12,6 +12,15 @@ Date baseline: 2026-08-10
 - real-estate-backed lodging owners: Host Hotels & Resorts, Inc.; Apple Hospitality REIT, Inc.; Sunstone Hotel Investors, Inc.
 - asset-light brand and fee operators: Hilton Worldwide Holdings Inc., Marriott International, Inc., Hyatt Hotels Corporation, Wyndham Hotels & Resorts, Inc.; Choice Hotels International, Inc.
 
+## Packet Inputs Used
+
+- company packets for the hotel REIT owners and the asset-light brand and loyalty operators used in the comparison
+- annual report takeaways for RevPAR, fee economics, owner signings, redevelopment intensity, loyalty concentration, and capital recycling
+- latest three-quarter chains for demand mix, group and leisure trends, out-of-room spend, margins, and renovation or capital-allocation pressure
+- exact supporting facts on brand-control economics, rooms-focused ownership, luxury and upper-upscale exposure, redevelopment sensitivity, and fee-versus-property burden
+- burden-versus-beneficiary comparisons for who owns the customer and loyalty interface versus who carries the physical lodging asset burden
+- next-target logic for extending the same operator-versus-owner split into adjacent participation and platform businesses
+
 ## Shared demand signal
 
 - All eight companies point to the same top-level demand reality through the `2025` annual window and the latest three reported quarters as of Monday, August 10, 2026.
@@ -151,6 +160,13 @@ Within the owner layer, the archive now has a useful internal split:
   - platforms versus merchants
   - operators versus property owners
   - software controllers versus infrastructure asset holders
+
+## Skeptical Reader Test
+
+- Which packet facts show the lodging brand-control layer earning cleaner economics than the ownership layer under the same demand backdrop?
+- Which companies prove fee-based loyalty control, standardized branded ownership, and high-end redevelopment-sensitive ownership directly?
+- Who captures the cleaner relationship economics and who carries the heavier property, renovation, or capital-recycling burden?
+- What future evidence would weaken the hospitality-ownership-versus-brand-control interpretation?
 
 ## Exact next targets
 

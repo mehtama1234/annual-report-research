@@ -13,6 +13,15 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-10`
 
+## Packet Inputs Used
+
+- lane-level packets and synthesis notes from CLI 4, CLI 5, and CLI 6
+- annual report takeaways for workflow control, installed-base depth, advisory choke points, access-utility burden, and balance-sheet intensity
+- latest three-quarter chains for capex burden, reimbursement exposure, pricing power, retention, backlog, and margin quality
+- exact supporting facts on procedure control, semicap bottlenecks, test and validation tolls, insurance-broker workflow ownership, and funding-heavy utility pressure
+- burden-versus-beneficiary comparisons for who owns the recurring interface versus who carries the physical, labor, or balance-sheet burden
+- next-target logic for future names that can test where heavy ownership still earns well despite a burden stack
+
 ## Theme
 
 - Name: across CLI 4, CLI 5, and CLI 6, the strongest economics usually sit in recurring interface control rather than in the most burdened physical or balance-sheet-heavy ownership layers
@@ -73,6 +82,13 @@ The completed lane work now points to one repeated archive-level pattern. Health
 - reimbursement-heavy and labor-heavy care delivery layers
 - telecom access utilities with high physical and leverage burden
 - plain spread and funding-heavy bank utilities
+
+## Skeptical Reader Test
+
+- Which packet facts show recurring interface control beating heavier ownership layers across all three lanes rather than in only one narrow case?
+- Which companies prove healthcare workflow control, technical chokepoints, and trust intermediation directly?
+- Who captures the cleaner recurring economics and who carries the heavier policy, capex, labor, or funding burden?
+- What future evidence would weaken the recurring-interface-control interpretation across CLI 4, CLI 5, and CLI 6?
 
 ## Counter-signals
 

@@ -20,6 +20,15 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-10`
 
+## Packet Inputs Used
+
+- company packets for Alphabet, AT&T, Keysight, KLA, Verizon, Cisco, Arista, ServiceNow, Lam, and Palo Alto
+- annual report takeaways for access ownership, workflow orchestration, security standardization, validation tolls, and semiconductor-process choke points
+- latest three-quarter chains for capex intensity, bookings, ARR or subscription momentum, margin quality, and installed-base service demand
+- exact supporting facts on demand concentration, network burden, AI-fabric architecture, enterprise workflow control, trust governance, and semicap precision
+- burden-versus-beneficiary comparisons for who owns the least substitutable control point versus who carries the generic traffic or physical-network burden
+- next-target logic for follow-on telecom-access and software-versus-physical-control comparisons
+
 ## Theme
 
 - Name: CLI 5 is increasingly a control-point and chokepoint lane where the best infrastructure economics sit above or below raw access ownership
@@ -74,6 +83,13 @@ The completed CLI 5 batches now support a stronger organizing frame than “infr
 - AI should not be framed only as a software or datacenter build story. In this lane it is also a network-architecture, validation, and semiconductor-process-complexity story.
 - AI should also be framed as a governance and attack-surface expansion story. Palo Alto adds evidence that AI demand raises the value of security policy, data visibility, and platform trust.
 - AI should also be framed as a workflow and policy-routing story. ServiceNow adds evidence that enterprises need an operating system for how AI is actually embedded into work.
+
+## Skeptical Reader Test
+
+- Which packet facts show CLI 5 value migrating away from raw traffic carriage toward control points and chokepoints?
+- Which companies prove demand concentration, access burden, validation tolls, workflow orchestration, security control, and semicap bottlenecks directly?
+- Who captures the cleaner infrastructure economics and who carries the heavier capex, leverage, or cycle burden?
+- What future evidence would weaken the control-point-and-chokepoint interpretation for CLI 5?
 
 ## Counter-signals
 

@@ -24,6 +24,15 @@ This memo pulls together the current healthcare-frontier flagship packets that m
 - [BrightSpring Health Services, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/brightspring-health-services-inc/company-packet.md)
 - [AdaptHealth Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-distribution/adapthealth-corp/company-packet.md)
 
+## Packet Inputs Used
+
+- flagship company packets across biotech, diagnostics, care delivery, home-based services, therapy support, and recurring medical-device ecosystems
+- annual report takeaways for franchise concentration, recurring treatment dependence, laboratory workflow, home-care density, therapy delivery infrastructure, and reimbursement sensitivity
+- latest three-quarter chains for testing volumes, therapy adoption, recurring consumables, patient retention, site-of-care migration, and operating leverage
+- exact supporting facts on diagnostics throughput, infusion and dialysis recurrence, device-linked monitoring loops, packaging and delivery bottlenecks, and home-care labor or reimbursement pressure
+- burden-versus-beneficiary comparisons for who owns the recurring care interface versus who carries heavier reimbursement, logistics, staffing, or pipeline burden
+- gap analysis for which healthcare-frontier comparisons are now covered and which next names would still deepen the lane
+
 ## What this batch adds
 
 This batch matters because it stops treating healthcare as only:
@@ -289,6 +298,13 @@ Those pressures express differently by company:
   - recurring administration workflows
   - scale positions in care settings that reduce friction and cost
 - The archive should keep expanding beyond big pharma and hospitals because much of the sector’s modern economics now sit in these enabling layers.
+
+## Skeptical Reader Test
+
+- Which packet facts show recurring care and therapy infrastructure as a real healthcare profit pool rather than a loose collection of niche operators?
+- Which companies prove diagnostics, home-based care, device-linked recurrence, therapy-support logistics, and pipeline-risk exposure directly?
+- Who captures the cleaner recurring-care economics and who carries the heavier reimbursement, staffing, manufacturing, or commercialization burden?
+- What future evidence would weaken the recurring-care-and-therapy-infrastructure interpretation?
 
 ## Best use of each packet
 

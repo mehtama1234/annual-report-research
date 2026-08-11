@@ -18,6 +18,15 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-10`
 
+## Packet Inputs Used
+
+- company packets for UnitedHealth, HCA, Abbott, Johnson & Johnson, Brookdale, Stryker, Intuitive, and Pfizer
+- annual report takeaways for reimbursement exposure, installed-base depth, procedure recurrence, portfolio replacement, and aging-linked operating burden
+- latest three-quarter chains for admissions, medical-cost trend, procedure demand, device and diagnostics pull-through, occupancy, and pricing or approval pressure
+- exact supporting facts on workflow embedment, procedure-linked revenue, policy sensitivity, labor intensity, and platform breadth
+- burden-versus-beneficiary comparisons for who owns the recurring clinical workflow versus who carries care-delivery, reimbursement, or staffing burden
+- next-target logic for future healthcare names that can sharpen reimbursement burden versus workflow-control economics
+
 ## Theme
 
 - Name: CLI 4 is increasingly a recurring-care and workflow-control lane where the best healthcare economics come from embedded platforms, repeat procedures, and managed operating systems rather than from simple demand durability alone
@@ -62,6 +71,13 @@ The completed CLI 4 batches now support a stronger organizing frame than “heal
 - Procedure and diagnostics workflow embedment appears more resilient than many reimbursement-heavy models because the workflow owner sits closer to repeated clinical action.
 - Diversified product breadth still matters in healthcare. Abbott and Johnson & Johnson absorb category-specific pressure better than narrower models.
 - Major pharma remains necessary but less clean than the best installed-base or workflow-control models because product cycles, pricing, and pipeline execution keep resetting the earnings base.
+
+## Skeptical Reader Test
+
+- Which packet facts show healthcare quality depending on workflow position rather than on generic defensive demand?
+- Which companies prove payer burden, provider burden, installed-base control, and aging-linked operating exposure directly?
+- Who captures the cleaner recurring-care economics and who carries the heaviest reimbursement or labor burden?
+- What future evidence would weaken the recurring-care-and-workflow-control interpretation for CLI 4?
 
 ## Counter-signals
 

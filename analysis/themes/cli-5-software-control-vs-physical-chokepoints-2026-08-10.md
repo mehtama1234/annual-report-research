@@ -4,6 +4,15 @@ Date baseline: 2026-08-10
 
 Use this memo to separate the major profit-capture layers now visible inside `CLI 5`.
 
+## Packet Inputs Used
+
+- company packets for the software-control and physical-chokepoint names already mapped inside CLI 5
+- annual report takeaways for workflow governance, security standardization, network architecture, semicap precision, and telecom access burden
+- latest three-quarter chains for bookings, ARR, margins, capex burden, installed-base leverage, and AI-fabric or process-transition demand
+- exact supporting facts on software control planes, network design authority, validation workflows, semiconductor choke points, and traffic-carriage economics
+- burden-versus-beneficiary comparisons for who captures subscription-like or toll-like economics versus who carries more physical-asset and balance-sheet exposure
+- next-target logic for deeper contrasts between orchestration software, networking control, and semiconductor bottleneck layers
+
 ## Theme identity
 
 - Name: CLI 5 is separating into software-control tolls, software-led infrastructure allocators, physical chokepoints, and burdened access utilities
@@ -199,6 +208,13 @@ Use this memo to separate the major profit-capture layers now visible inside `CL
 - Samsara shows that even a lighter physical-operations workflow-control model still depends on implementation success, hardware attachment, industry-specific ROI proof, and sustained enterprise willingness to standardize on one operating layer for messy real-world systems
 - Cisco shows that broad incumbents can blur the line between software-control and physical infrastructure because they monetize both installed software layers and hardware architecture
 - semicap and networking chokepoints remain more exposed to concentrated customer capex pauses than the cleanest recurring software-governance names
+
+## Skeptical Reader Test
+
+- Which packet facts show software control and physical chokepoints both earning better economics than the generic access layer?
+- Which companies prove workflow orchestration, trust control, network architecture, validation, and semiconductor precision directly?
+- Who captures the cleaner recurring or toll-like economics and who remains more burdened by physical ownership?
+- What future evidence would weaken the software-control-versus-physical-chokepoints interpretation?
 
 ## Counter-signals
 

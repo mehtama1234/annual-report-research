@@ -13,6 +13,15 @@ Date baseline: 2026-08-10
   - `Las Vegas Sands Corp.` as the international integrated-resort and destination-tourism layer
 - Core question: what kinds of consumer demand stayed resilient across `2025` annuals and the latest three reported quarters as of Monday, August 10, 2026, and what operating systems were required to monetize that demand?
 
+## Packet Inputs Used
+
+- completed company packets across hotels, hospitality, home and hosting, ritual retail, beauty, food wholesale substrate, wagering, and destination gaming
+- annual report takeaways for loyalty systems, travel participation, hosting and identity demand, gifting behavior, venue control, and operating-substrate economics
+- latest three-quarter chains for RevPAR, demand resilience, margin pressure, inventory or labor execution, wagering engagement, and destination-tourism strength
+- exact supporting facts on participation-led spending, membership and loyalty capture, ritual and occasion demand, venue economics, and invisible operating infrastructure
+- burden-versus-beneficiary comparisons for who owns the consumer participation interface versus who carries the heavier physical or execution burden beneath it
+- lane-level gap analysis for what the current recreation / participation set now proves and what next comparisons would still sharpen it
+
 ## What this lane is actually measuring
 
 - This is not broad consumer discretionary coverage.
@@ -184,6 +193,13 @@ Date baseline: 2026-08-10
   - ritual and occasion spending
   - self-presentation and discovery
   - invisible operating infrastructure behind participation
+
+## Skeptical Reader Test
+
+- Which packet facts show recreation / participation demand as a distinct social-spending system rather than a generic consumer-discretionary bucket?
+- Which companies prove loyalty and membership, venue control, ritual demand, identity spend, wagering participation, and invisible substrate economics directly?
+- Who captures the cleaner participation economics and who carries the heavier inventory, property, labor, or operating burden?
+- What future evidence would weaken the recreation-participation-demand interpretation?
 
 ## Current state of the lane
 

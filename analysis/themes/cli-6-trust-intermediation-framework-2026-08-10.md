@@ -20,6 +20,15 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-10`
 
+## Packet Inputs Used
+
+- company packets for the completed CLI 6 banks, brokers, alternative managers, property platforms, and trust-linked operating systems
+- annual report takeaways for advisory workflow ownership, insurance-broker intermediation, funding burden, property-system scarcity, and capital-formation interfaces
+- latest three-quarter chains for fee growth, retention, spread pressure, fundraising, occupancy, and margin quality
+- exact supporting facts on trust-heavy customer relationships, workflow embedment, fee-based intermediation, aging-linked property demand, and plain spread-bank burden
+- burden-versus-beneficiary comparisons for who owns the trusted interface versus who carries heavier funding, duration, or capital burden
+- next-target logic for future names that test trust intermediation beyond current broker, bank, and property examples
+
 ## Theme
 
 - Name: CLI 6 is increasingly a trust-intermediation lane where the best economics come from controlling workflow, scarce demand channels, or capital formation without carrying unnecessary commodity balance-sheet burden
@@ -66,6 +75,13 @@ The completed CLI 6 batches now point to a clearer framing than the original ind
 - Alternative-capital managers increasingly resemble capital infrastructure rather than classic asset managers, especially when insurance liabilities, private-wealth distribution, and asset-based finance widen the model.
 - Regional banks remain important comparison cases because they show the difference between trusted intermediation with heavy funding burden and trusted intermediation with lighter fee or platform economics.
 - Participation is showing up here too, but not in the leisure sense. It appears through later-life housing uptake, retirement-channel dependence, and broader household access to private-capital products through advisors and wealth networks.
+
+## Skeptical Reader Test
+
+- Which packet facts show trust intermediation producing better economics than plain balance-sheet-heavy utility models?
+- Which companies prove advisory workflow ownership, insurance-broker embedment, capital intermediation, and aging-linked property trust directly?
+- Who captures the cleaner fee or relationship economics and who carries the heavier funding or asset burden?
+- What future evidence would weaken the trust-intermediation interpretation for CLI 6?
 
 ## Counter-signals
 

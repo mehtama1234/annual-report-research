@@ -4,6 +4,15 @@ Date baseline: 2026-08-10
 
 This memo captures the repeated economics gap between access utilities and the control-point layers built above and below them.
 
+## Packet Inputs Used
+
+- company packets for AT&T, Verizon, and the adjacent control-point names used as contrasts inside CLI 5
+- annual report takeaways for fiber and wireless utility economics, leverage, capex intensity, and adjacent control-plane monetization
+- latest three-quarter chains for free cash flow, subscriber adds, fiber growth, network spend, and margin or revenue-quality differences
+- exact supporting facts on physical access burden, traffic growth without equal margin capture, and the cleaner economics of validation, orchestration, or technical bottlenecks above and below the network
+- burden-versus-beneficiary comparisons for who funds and maintains the access utility versus who monetizes the stack around it
+- next-target logic for deeper telecom-access comparisons and adjacent control-point names
+
 ## Theme identity
 
 - Name: telecom utility economics trail control-point economics inside the same connectivity stack
@@ -95,6 +104,13 @@ This memo captures the repeated economics gap between access utilities and the c
 - If Comcast's simplification unlocks cleaner valuation and sharper operating focus, the fixed-access layer may look better than a pure utility framing suggests
 - If T-Mobile's current outperformance is mostly a still-open share-gain phase rather than a durable structural advantage, the contrast may eventually compress
 - If AI and semiconductor spending cool abruptly, control-point names may lose some of their current growth advantage
+
+## Skeptical Reader Test
+
+- Which packet facts show telecom utilities carrying essential burden without matching control-point economics?
+- Which companies prove access-utility economics versus adjacent control-point capture directly?
+- Who funds the connectivity substrate and who monetizes the cleaner layer above or below it?
+- What future evidence would weaken the telecom-utility-versus-control-point interpretation?
 
 ## Counter-signals
 

@@ -12,6 +12,15 @@ Date baseline: 2026-08-10
 - franchise and world controllers: Hasbro, Inc.; Mattel, Inc.; Spin Master Corp.; JAKKS Pacific, Inc.; Walt Disney Co.; Take-Two Interactive Software Inc.; Electronic Arts Inc.
 - participation platforms, tooling, marketplaces, demand infrastructure, and ritual retail: Roblox Corporation; Unity Software Inc.; AppLovin Corporation; Playtika Holding Corp.; Funko, Inc.; Build-A-Bear Workshop, Inc.; The Trade Desk, Inc.; Etsy, Inc.
 
+## Packet Inputs Used
+
+- company packets for franchise owners, game-world controllers, creator platforms, attention-routing infrastructure, collectible-expression models, and ritual retail operators
+- annual report takeaways for IP ownership, live-service recurrence, creator tooling, marketplace trust, ad-routing infrastructure, and licensed-product dependence
+- latest three-quarter chains for engagement, bookings, conversion, monetization efficiency, licensing leverage, and participation recurrence
+- exact supporting facts on controlled universes, user-generated participation, live-ops loops, collectible demand, ritual gifting, and open-marketplace discovery
+- burden-versus-beneficiary comparisons for who owns the world, interface, or participation rail versus who carries heavier merchandising, licensing, or content-refresh burden
+- next-target logic for the best follow-on names to sharpen owned-universe versus participation-platform economics
+
 ## Shared demand signal
 
 - All fifteen companies point to the same top-level social reality through the `2025` annual window and the latest reported quarters now in scope:
@@ -357,6 +366,13 @@ Within that controlled-IP layer, there is an important split:
   - character brands versus open marketplaces
   - owned universes versus distribution interfaces
   - collectible communities versus generalized retail
+
+## Skeptical Reader Test
+
+- Which packet facts show fandom and participation profits sitting in different control layers rather than in one broad entertainment bucket?
+- Which companies prove owned universes, creator platforms, monetization tooling, collectible-expression layers, and ritual retail directly?
+- Who captures the cleaner recurring participation economics and who carries the heavier content, licensing, or physical-product burden?
+- What future evidence would weaken the play-IP-and-fan-participation interpretation?
 
 ## Exact next targets
 

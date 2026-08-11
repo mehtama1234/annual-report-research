@@ -111,3 +111,14 @@ Every analysis claim should point back to a dated source in `raw/` or a row in t
 
 Shared repo-wide indexes should not be updated continuously during exploration.
 Do that at the end of a coherent batch or leave the batch ready for later integration.
+
+## Insight-System Maintenance
+
+For the note-boundary and insight-system audit layer:
+
+- refresh the committed boundary report and rerun both checks with:
+  - `bash scripts/refresh-note-layer-boundary.sh`
+- run only the direct boundary audit with:
+  - `bash scripts/audit-note-layer-boundary.sh`
+- run only the broader insight-system verifier with:
+  - `bash scripts/verify-insight-system.sh`

@@ -53,6 +53,7 @@ Current report artifact:
 The committed report is generated state, not hand-maintained narrative. If the manifests or note inventory change, regenerate it:
 
 - `bash scripts/audit-note-layer-boundary.sh --write-report notes/note-layer-boundary-audit-2026-08-11.md`
+- `bash scripts/refresh-note-layer-boundary.sh`
 
 Current remaining count at the cutoff:
 

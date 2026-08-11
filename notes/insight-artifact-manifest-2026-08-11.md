@@ -185,6 +185,7 @@ Run these from the repo root:
 bash scripts/verify-insight-system.sh
 bash scripts/audit-note-layer-boundary.sh
 bash scripts/audit-note-layer-boundary.sh --write-report notes/note-layer-boundary-audit-2026-08-11.md
+bash scripts/refresh-note-layer-boundary.sh
 ```
 
 The verifier checks required files, required phrases, browser-entry links, and the deeper insight-stack sections that future packets, lane summaries, and proof memos are expected to contain. If the local server is not running, the file and link-source checks still prove the repo-side structure.
@@ -207,6 +208,12 @@ The dedicated note-layer audit script prints the current partition counts and fa
 - a historically excluded note drifts into having both standardized sections without being reclassified
 - the historical exclusion category map no longer matches the historical exclusion file list or uses an invalid category label
 - the committed note-boundary report no longer matches a freshly generated report from the same manifests
+
+The refresh wrapper is the one-command maintenance path:
+
+- regenerate the committed boundary report
+- rerun the direct boundary audit
+- rerun the main insight-system verifier
 
 Manual equivalent:
 

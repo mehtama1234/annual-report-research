@@ -56,6 +56,7 @@ required_files=(
   "indexes/cli-lane-instructions-2026-08-10.md"
   "analysis/annual-report-stack-alignment-2026-08-09.md"
   "analysis/cross-sector/media-influence-consumer-interface-and-edge-infrastructure-frontier-2026-08-10.md"
+  "notes/media-influence-consumer-interface-and-edge-infrastructure-handoff-2026-08-10.md"
   "templates/frontier-lane-master-instruction.md"
   "templates/company-profile.md"
   "templates/company-packet.md"

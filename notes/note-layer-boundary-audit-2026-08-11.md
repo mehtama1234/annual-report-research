@@ -24,12 +24,14 @@ Repo: `annual-report-research`
 | Historical raw/blob/rclone files | 6 |
 | Historical other files | 1 |
 | Historical files with both standardized sections | 0 |
+| Historical files with maintenance-surface commands | 0 |
 
 ## Boundary Status
 
 - reusable and historical manifests together cover every current top-level note file
 - the historical category manifest matches the historical exclusion file list
 - no historically excluded note currently contains both standardized sections
+- no historically excluded note currently carries maintenance-surface command references
 - the boundary audit completed with `boundary_ok`
 
 ## Key Inputs
@@ -47,6 +49,7 @@ When you need to confirm that this boundary audit, the reusable-note manifest, a
 - `bash scripts/refresh-note-layer-boundary.sh`
 - `bash scripts/audit-audit-stack-terminology.sh`
 - `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-historical-note-maintenance-isolation.sh`
 - `bash scripts/audit-continuation-mode-links.sh`
 - `bash scripts/audit-remaining-brief-links.sh`
 - `bash scripts/audit-remaining-stack-links.sh`

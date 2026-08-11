@@ -19,6 +19,7 @@ required_files=(
   "scripts/audit-audit-stack-terminology.sh"
   "scripts/audit-maintenance-doc-stack.sh"
   "scripts/audit-reusable-note-maintenance-visibility.sh"
+  "scripts/audit-historical-note-maintenance-isolation.sh"
   "scripts/audit-note-layer-boundary.sh"
   "scripts/audit-continuation-mode-links.sh"
   "scripts/audit-remaining-brief-links.sh"
@@ -993,6 +994,7 @@ if [[ "${#reusable_note_files[@]}" -eq 0 ]]; then
 fi
 
 bash scripts/audit-note-layer-boundary.sh >/dev/null
+bash scripts/audit-historical-note-maintenance-isolation.sh >/dev/null
 bash scripts/audit-audit-stack-terminology.sh >/dev/null
 bash scripts/audit-maintenance-doc-stack.sh >/dev/null
 bash scripts/audit-reusable-note-maintenance-visibility.sh >/dev/null

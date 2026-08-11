@@ -9,6 +9,7 @@ json_path="notes/note-layer-boundary-audit-2026-08-11.json"
 
 bash scripts/audit-note-layer-boundary.sh --write-artifacts "$report_path" "$json_path"
 bash scripts/audit-note-layer-boundary.sh
+bash scripts/audit-historical-note-maintenance-isolation.sh
 bash scripts/audit-audit-stack-terminology.sh
 bash scripts/audit-maintenance-doc-stack.sh
 bash scripts/audit-reusable-note-maintenance-visibility.sh

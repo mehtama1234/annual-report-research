@@ -61,6 +61,7 @@ It should be read as a map of the operating system that now exists and that futu
 | Audit-stack terminology audit | Checks that the highest-traffic audit-stack docs avoid stale verifier and refresh-path phrasing after the linked audit stack was introduced. | [audit-audit-stack-terminology.sh](../scripts/audit-audit-stack-terminology.sh) | Present |
 | Maintenance-doc audit | Checks that the highest-traffic maintenance surfaces keep the current audit-stack command references visible. | [audit-maintenance-doc-stack.sh](../scripts/audit-maintenance-doc-stack.sh) | Present |
 | Reusable-note maintenance visibility audit | Checks that every note currently listed in the reusable-note manifest exposes at least one current maintenance-surface command path. | [audit-reusable-note-maintenance-visibility.sh](../scripts/audit-reusable-note-maintenance-visibility.sh) | Present |
+| Historical-note maintenance isolation audit | Checks that notes listed in the historical manifest do not drift back into the live maintenance surface by carrying audit-stack command references. | [audit-historical-note-maintenance-isolation.sh](../scripts/audit-historical-note-maintenance-isolation.sh) | Present |
 | Remaining-brief link audit | Checks that the highest-traffic remaining-work entry surfaces keep the compressed remaining operator brief linked alongside the longer remaining goal and execution board. | [audit-remaining-brief-links.sh](../scripts/audit-remaining-brief-links.sh) | Present |
 | Remaining-stack link audit | Checks that the compressed remaining brief, the longer remaining goal, and the execution board explicitly cross-link to each other so the remaining-work bundle does not fragment. | [audit-remaining-stack-links.sh](../scripts/audit-remaining-stack-links.sh) | Present |
 | Audit-stack runner | Provides one command that regenerates the committed boundary artifacts and reruns the linked audit stack. | [run-insight-audit-stack.sh](../scripts/run-insight-audit-stack.sh) | Present |
@@ -120,6 +121,11 @@ The reusable layer also now includes the raw-evidence governance notes that expl
 - how to resolve an offloaded raw path through the manifest and Drive pointer
 - how to audit the remaining retired-root footprint
 - how to distinguish acceptable provenance residue from broken live navigation
+
+The historical layer now has an explicit inverse rule as well:
+
+- historical notes must stay outside the live maintenance surface unless they are intentionally promoted into the reusable manifest
+- `bash scripts/audit-historical-note-maintenance-isolation.sh` now enforces that no manifest-listed historical note carries audit-stack command references by accident
 
 Across the reusable layer, the current enforcement standard is now:
 
@@ -260,6 +266,7 @@ bash scripts/verify-insight-system.sh
 bash scripts/audit-audit-stack-terminology.sh
 bash scripts/audit-maintenance-doc-stack.sh
 bash scripts/audit-reusable-note-maintenance-visibility.sh
+bash scripts/audit-historical-note-maintenance-isolation.sh
 bash scripts/audit-continuation-mode-links.sh
 bash scripts/audit-remaining-brief-links.sh
 bash scripts/audit-remaining-stack-links.sh
@@ -314,6 +321,7 @@ The refresh wrapper is the one-command maintenance path:
 - regenerate the committed machine-readable boundary summary
 - rerun the direct boundary audit
 - rerun the reusable-note maintenance-visibility audit
+- rerun the historical-note maintenance-isolation audit
 - rerun the main insight-system verifier
 
 Manual equivalent:

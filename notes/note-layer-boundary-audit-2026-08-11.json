@@ -12,6 +12,7 @@
     "other": 1
   },
   "historical_with_both_sections": 0,
+  "historical_with_maintenance_commands": 0,
   "boundary_ok": true,
   "reusable_manifest": "indexes/reusable-note-layer-files-2026-08-11.txt",
   "historical_manifest": "indexes/historical-note-exclusion-files-2026-08-11.txt",

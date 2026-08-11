@@ -16,6 +16,8 @@ Use this to audit whether a future run has the required guidance, examples, temp
 |---|---|---|---|
 | Operating hub | One starting point that tells future threads where to begin and how to use the system. | [insight-extraction-hub-2026-08-11.md](insight-extraction-hub-2026-08-11.md) | Present |
 | Master goal | Defines the end-to-end insight extraction standard. | [master-insight-extraction-goal-2026-08-11.md](master-insight-extraction-goal-2026-08-11.md) | Present |
+| Meaty goal | Defines the larger ambition level: packets, lane economics, proof pages, societal shifts, operating pressures, and handoff quality. | [meaty-end-to-end-insight-goal-2026-08-11.md](meaty-end-to-end-insight-goal-2026-08-11.md) | Present |
+| Lane runbook | Gives the end-to-end execution sequence from lane definition through proof memos and closeout. | [lane-end-to-end-execution-runbook-2026-08-11.md](lane-end-to-end-execution-runbook-2026-08-11.md) | Present |
 | Execution templates | Provides copy-ready templates for packets, profiles, ledgers, lane summaries, proof memos, thesis breakers, and closeouts. | [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md) | Present |
 | Company-level guide | Explains how to extract strategy, economics, constraints, and thesis breakers at the company level. | [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md) | Present |
 | Industry-level guide | Explains how to read industry lanes internally. | [industry-level-strategy-guide-2026-08-10.md](../analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md) | Present |
@@ -76,6 +78,8 @@ Manual equivalent:
 ```bash
 test -s notes/insight-extraction-hub-2026-08-11.md
 test -s notes/master-insight-extraction-goal-2026-08-11.md
+test -s notes/meaty-end-to-end-insight-goal-2026-08-11.md
+test -s notes/lane-end-to-end-execution-runbook-2026-08-11.md
 test -s notes/insight-extraction-templates-2026-08-11.md
 test -s notes/insight-artifact-manifest-2026-08-11.md
 test -s notes/insight-driven-next-lane-queue-2026-08-11.md
@@ -101,6 +105,8 @@ curl -fsS http://localhost:8080/notes/insight-extraction-hub-2026-08-11.md | rg 
 The insight operating system now has:
 
 - master goal
+- meaty end-to-end goal
+- lane execution runbook
 - hub
 - templates
 - company-level guide

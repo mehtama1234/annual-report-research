@@ -47,6 +47,7 @@ Direct audit script:
 - `bash scripts/audit-note-layer-boundary.sh --write-report notes/note-layer-boundary-audit-2026-08-11.md`
 - `bash scripts/audit-audit-stack-terminology.sh`
 - `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-reusable-note-maintenance-visibility.sh`
 - `bash scripts/audit-continuation-mode-links.sh`
 - `bash scripts/audit-remaining-brief-links.sh`
 - `bash scripts/audit-remaining-stack-links.sh`
@@ -69,6 +70,7 @@ The refresh command now reruns the linked audit stack as well:
 
 - `bash scripts/audit-audit-stack-terminology.sh`
 - `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-reusable-note-maintenance-visibility.sh`
 - `bash scripts/audit-continuation-mode-links.sh`
 - `bash scripts/audit-remaining-brief-links.sh`
 - `bash scripts/audit-remaining-stack-links.sh`
@@ -81,6 +83,7 @@ The reusable-note maintenance sweep is now also complete across that same bounda
 - every note currently listed in `indexes/reusable-note-layer-files-2026-08-11.txt` now carries visible maintenance-surface command references
 - the current reusable-note zero-visibility scan returns `0`
 - `bash scripts/audit-maintenance-doc-stack.sh` now checks the full reusable-note layer plus the two top-level entry surfaces `README.md` and `START-HERE.md`
+- `bash scripts/audit-reusable-note-maintenance-visibility.sh` now directly enforces the zero-visibility condition across the reusable-note manifest
 
 Current remaining count at the cutoff:
 

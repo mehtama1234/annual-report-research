@@ -18,6 +18,7 @@ required_files=(
   "indexes/legacy-root-raw-reference-top-files-2026-08-11.tsv"
   "scripts/audit-audit-stack-terminology.sh"
   "scripts/audit-maintenance-doc-stack.sh"
+  "scripts/audit-reusable-note-maintenance-visibility.sh"
   "scripts/audit-note-layer-boundary.sh"
   "scripts/audit-continuation-mode-links.sh"
   "scripts/audit-remaining-brief-links.sh"
@@ -994,6 +995,7 @@ fi
 bash scripts/audit-note-layer-boundary.sh >/dev/null
 bash scripts/audit-audit-stack-terminology.sh >/dev/null
 bash scripts/audit-maintenance-doc-stack.sh >/dev/null
+bash scripts/audit-reusable-note-maintenance-visibility.sh >/dev/null
 bash scripts/audit-continuation-mode-links.sh >/dev/null
 bash scripts/audit-remaining-brief-links.sh >/dev/null
 bash scripts/audit-remaining-stack-links.sh >/dev/null

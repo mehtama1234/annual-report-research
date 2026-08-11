@@ -46,6 +46,31 @@ It is done when a reader can move cleanly through this chain:
 
 `source document -> exact fact -> company meaning -> lane meaning -> repeated pattern -> economic consequence -> watch metric -> thesis breaker`
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, this repo is no longer at the stage where it mainly needs first-pass interpretation.
+
+It already has:
+
+- major lane frameworks
+- cross-sector proof pages
+- comparison memos
+- next-filing watchlists
+- browser review surfaces
+
+So the default continuation task is usually not:
+
+- write the first framework note
+- write the first proof page
+- say the first broad pattern
+
+The default continuation task is usually:
+
+- fill a missing flagship role
+- add the strongest contradiction case
+- sharpen the burden carrier versus cleaner layer split
+- make the next-quarter break test more concrete
+
 ## What The Archive Must Produce
 
 Every serious lane should leave behind four layers of output:
@@ -225,6 +250,12 @@ When opening a lane or writing a proof page, use this sequence:
 
 If the work stops before step `8`, it is usually still intermediate.
 
+If the lane already has a framework note, proof page, and watchlist, add one more filter before starting:
+
+9. Identify whether the next best move is a missing role, an edge case, a burden carrier, or a contradiction case.
+
+That check should stop future threads from repeating first-pass framing that the archive already has.
+
 ## Reviewer Loop
 
 Before treating a packet, lane page, or proof memo as done, ask:
@@ -260,6 +291,13 @@ That means:
 - no sector label used as explanation
 - no bigger-picture pattern without cross-company support
 - no conclusion without a disconfirming test
+
+If the lane already has a working first interpretation layer, “done” also requires that the new pass improve one of these:
+
+- contradiction quality
+- burden-versus-beneficiary clarity
+- missing role coverage
+- next-filing break-test quality
 
 ## Practical One-Block Instruction
 

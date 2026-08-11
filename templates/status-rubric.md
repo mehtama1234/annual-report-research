@@ -4,6 +4,14 @@ Date baseline: 2026-08-10
 
 Use these labels consistently across lane runs, handoffs, and integration notes.
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, many of the archive's highest-value lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means these labels should not be read only through a blank-slate lane-opening lens.
+
+They should also be used to judge whether a continuation batch actually sharpened an already-open lane or proof theme.
+
 ## Evidence status
 
 - `saved-locally`
@@ -45,7 +53,7 @@ Use these labels consistently across lane runs, handoffs, and integration notes.
 ## Thematic quality status
 
 - `theme-complete`
-  - The company or lane clearly surfaces consumer, cultural, societal, industrial, operating, technical, or capital-structure repeated-pattern signals, uses the right packet fields for those claims, and explains the relevant monetization system.
+  - The company or lane clearly surfaces consumer, cultural, societal, industrial, operating, technical, or capital-structure repeated-pattern signals, uses the right packet fields for those claims, explains the relevant monetization system, and for an already-open lane materially sharpens the live read rather than merely extending coverage.
 - `theme-thin`
   - Basic interpretation exists, but the bigger-picture consumer, social, industrial, or monetization pattern work is still weak, generic, or not well matched to the packet inputs.
 - `document-only`

@@ -76,6 +76,13 @@ Use `2025` annual reports plus the latest three reported quarters as of `2026-08
 - capital-allocation discipline versus empire-building
 - regulated trust, distribution reach, and balance-sheet scale as moat sources
 
+## Working proof-chain setup before starting
+
+- expected plain-English lane claim:
+- exact fact-period chain that would support it:
+- best alternative explanation still in play:
+- next-filing disconfirming test:
+
 ## Recommended next names after the first batch
 
 - Truist Financial

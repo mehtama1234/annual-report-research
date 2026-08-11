@@ -91,6 +91,13 @@ If the lane keeps opening cleanly, extend beyond the first `3` to `4` toward a b
 - consumer, cultural, and institutional normalization of always-on digital life, AI-assisted workflow, and retained data trails
 - which companies carry the physical burden stack versus which companies capture the cleaner monetization stack
 
+## Working proof-chain setup before starting
+
+- expected plain-English lane claim:
+- exact fact-period chain that would support it:
+- best alternative explanation still in play:
+- next-filing disconfirming test:
+
 ## Recommended next names after the first batch
 
 - Verizon

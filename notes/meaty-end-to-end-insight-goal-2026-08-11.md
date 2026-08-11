@@ -19,6 +19,34 @@ Use company filings to build a plain-English, evidence-backed map of how demand,
 - burden-versus-beneficiary framing needed to translate company facts into bigger-picture insight
 - closeout and handoff requirements needed to keep multi-thread work cumulative rather than fragmentary
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, the archive is no longer just a packet skeleton.
+
+It already has:
+
+- major lane frameworks
+- cross-company proof pages
+- watchlists and thesis-breaker structures
+- browser review surfaces
+- continuity notes, execution boards, and verification scripts
+
+That means the remaining job is not mainly:
+
+- downloading the first reports
+- writing the first packet in a lane
+- stating the first obvious pattern
+- building more guidance about how to work
+
+The remaining job is mainly:
+
+- filling the highest-value missing flagship roles
+- adding the best contradiction and edge-case companies
+- tightening proof pages with more exact packet-backed support
+- improving the next-filing tests that could confirm or break the live reads
+
+This note should therefore be read as a continuation goal, not a blank-slate build brief.
+
 ## The Meaty Goal In One Block
 
 The end-to-end goal is to use company filings to extract the full stack of real-world insight the filings can support.
@@ -118,6 +146,22 @@ The standard evidence chain is:
 `source document -> exact fact -> company packet -> company strategy read -> lane comparison -> cross-company pattern -> plain-English insight -> watchlist and thesis breaker`
 
 If a writeup does not complete that chain, it is still intermediate work.
+
+## The Remaining End-To-End Goal
+
+Because the archive already has its first interpretation layer, the main remaining end-to-end work is now:
+
+- missing flagship packets that complete a lane's role map
+- contradiction cases that test whether the current theme is too neat
+- burden-carrier comparisons that show whether the cleaner layer is really cleaner
+- stronger proof pages with more named company examples and clearer fact-period chains
+- sharper next-quarter watchlists that tell the next thread what would strengthen, flatten, or break the claim
+
+In short:
+
+`missing role -> contradiction case -> stronger proof page -> clearer break test`
+
+That is now the default continuation sequence for most serious lanes in the repo.
 
 ## The Exact Packet Inputs That Must Feed Insight
 
@@ -391,6 +435,13 @@ A lane is only truly complete when a reader can move through it in this order:
 
 If the work stops before step five, it is still mostly archive-building.
 If it reaches step six, it becomes an insight system.
+
+For lanes that already have frameworks and proof pages, completion also requires:
+
+- the key missing role to be covered
+- the main contradiction case to be stated explicitly
+- the burden carrier versus beneficiary split to be visible
+- the next filing window to have concrete break tests rather than vague monitoring
 
 ## Core Output Types
 

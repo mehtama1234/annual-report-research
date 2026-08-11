@@ -6,6 +6,19 @@ Date baseline: 2026-08-10
 
 Materials and commodity companies cannot be read as one bucket. The filings split by chain: copper, steel, nitrogen, chemicals, lumber, and packaging each have different drivers, constraints, and operating risks.
 
+## Packet Inputs Used
+
+This proof relies on the packet sections that reveal the real economics inside each chain:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad materials-sector observation.
+
 ## Exact Evidence
 
 | Chain | Exact packet facts | What it proves |
@@ -29,6 +42,17 @@ Materials and commodity companies cannot be read as one bucket. The filings spli
 Materials are not one idea. Copper is an electrification and mine-execution chain. Steel is a domestic industrial and construction chain. Nitrogen is a food and gas chain. Chemicals are a conversion-spread and end-market chain. Lumber is a housing and tariff chain. Packaging is the physical shell around consumer demand.
 
 The archive should read each company by what moves the chain, not by the sector label.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the chain?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, causal chain, and weakening conditions below.
 
 ## What Would Weaken This
 

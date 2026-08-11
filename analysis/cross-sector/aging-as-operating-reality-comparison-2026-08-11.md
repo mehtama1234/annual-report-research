@@ -22,6 +22,19 @@ The useful question is:
 
 Which companies get paid to absorb the practical burden of keeping older people supported, treated, supplied, monitored, housed, and out of higher-cost settings?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make aging visible as repeat operational work:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a simple demographic-growth story.
+
 ## Why This Is Not Just Demographic Language
 
 The packets do not describe aging in abstract terms.
@@ -196,6 +209,17 @@ This aging-system thesis weakens if:
 - chronic-treatment and testing intensity do not remain durable as the older population grows
 - product-flow and specialty-distribution economics weaken despite rising care complexity
 - families, providers, or payers become less willing to fund supported settings, home support, or recurring monitoring
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the aging system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, burden map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

@@ -18,6 +18,19 @@ Some sell the household interface where viewing decisions get made.
 
 Some sell buy-side allocation, sell-side routing, measurement, or verification to advertisers and publishers that no longer trust fragmented media to explain itself.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that show each role in the attention stack clearly:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a loose split between “owners” and “helpers.”
+
 ## Company Evidence Base
 
 | Company | Role in the attention stack | Exact filing-window facts | What the facts prove |
@@ -183,6 +196,17 @@ The attention-owner versus helper thesis weakens if:
 - DoubleVerify's proof layer is internalized by large platforms or merged away without preserving independent pricing power.
 - Comscore remains strategically relevant but never improves economically, suggesting the market values measurement without paying enough for it.
 - Magnite's CTV strength fails to offset slower DV+ economics or a harder publisher monetization environment.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the attention stack?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence base, role map, and thesis-breaker sections above.
 
 ## Next Recommended Names
 

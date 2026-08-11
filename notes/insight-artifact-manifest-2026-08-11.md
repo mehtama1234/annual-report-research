@@ -37,6 +37,41 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Insight-driven queue | Prioritizes next lane/company work by insight payoff, target metrics, and thesis breakers. | [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md) | Present |
 | Browser entry | Gives human review access to the stack and explains how concrete insight pages should be read and audited. | [site/index.html](../site/index.html), [site/concrete-insights.html](../site/concrete-insights.html) | Present |
 
+## Reusable Note Layer
+
+The reusable note layer now carries the same evidence-chain standard as the main insight guides.
+
+That reusable layer includes:
+
+- lane and queue control notes
+- kickoff briefs
+- blind-spot governance notes
+- archive-wide audit and mapping notes
+- planning and collection-window notes
+- selected reusable handoff notes that still function as durable operator guidance
+
+The governing rule is:
+
+- if a note is part of the archive's operating system, it should explicitly include `Packet Inputs Used`
+- if a note is part of the archive's operating system, it should explicitly include `Skeptical Reader Test`
+
+The verifier now checks this reusable-note layer directly rather than assuming the standard applies only to the main insight pages.
+
+## Standardization Boundary
+
+The reusable-note standardization pass intentionally stopped before mechanically rewriting every historical handoff and every execution log.
+
+The current cutoff is recorded in:
+
+- [insight-note-standardization-cutoff-2026-08-11.md](insight-note-standardization-cutoff-2026-08-11.md)
+
+That cutoff note explains:
+
+- which note layer was standardized
+- why the cutoff was deliberate
+- how many remaining unstamped note files still exist
+- why most of those remaining files are historical handoffs or logs rather than reusable operator guidance
+
 ## Proof Memo Inventory
 
 | Theme | Artifact | Evidence standard represented |
@@ -143,6 +178,8 @@ It also checks that:
 - proof memos declare packet inputs used before making the conclusion
 - proof memos include a reader test
 - browser review pages explain how to read concrete support rather than only listing themes
+- reusable operating notes include both `Packet Inputs Used` and `Skeptical Reader Test`
+- the note-standardization cutoff remains documented as part of the insight system boundary
 
 Manual equivalent:
 
@@ -155,6 +192,7 @@ test -s notes/lane-end-to-end-execution-runbook-2026-08-11.md
 test -s notes/insight-extraction-templates-2026-08-11.md
 test -s notes/insight-completion-rubric-2026-08-11.md
 test -s notes/insight-artifact-manifest-2026-08-11.md
+test -s notes/insight-note-standardization-cutoff-2026-08-11.md
 test -s notes/insight-driven-next-lane-queue-2026-08-11.md
 test -s analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md
 test -s analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md

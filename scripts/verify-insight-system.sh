@@ -13,6 +13,7 @@ required_files=(
   "notes/insight-extraction-templates-2026-08-11.md"
   "notes/insight-completion-rubric-2026-08-11.md"
   "notes/insight-artifact-manifest-2026-08-11.md"
+  "notes/insight-note-standardization-cutoff-2026-08-11.md"
   "notes/insight-driven-next-lane-queue-2026-08-11.md"
   "analysis/annual-report-stack-alignment-2026-08-09.md"
   "analysis/sectors/basic-materials-sector-initial-brief.md"
@@ -157,6 +158,53 @@ required_files=(
   "site/concrete-insights.html"
 )
 
+reusable_note_files=(
+  "notes/active-lane-board-2026-08-10.md"
+  "notes/blind-spot-candidate-shortlist-2026-08-10.md"
+  "notes/blind-spot-framework-completion-audit-2026-08-10.md"
+  "notes/blind-spot-handoff-2026-08-10.md"
+  "notes/blind-spot-next-actions-2026-08-10.md"
+  "notes/blind-spot-notes-index-2026-08-10.md"
+  "notes/blind-spot-quickstart-2026-08-10.md"
+  "notes/blind-spot-status-audit-2026-08-10.md"
+  "notes/blind-spot-take-dont-take-roster-2026-08-10.md"
+  "notes/blind-spot-wrap-up-checklist-2026-08-10.md"
+  "notes/cli-4-kickoff-2026-08-10.md"
+  "notes/cli-5-kickoff-2026-08-10.md"
+  "notes/cli-6-kickoff-2026-08-10.md"
+  "notes/cli8-frontier-slate-2026-08-10.md"
+  "notes/cli8-quarter-window-snapshot-2026-08-10.md"
+  "notes/collection-window.md"
+  "notes/current-execution-queue-2026-08-10.md"
+  "notes/downstream-physical-inputs-batch-2026-08-10.md"
+  "notes/end-to-end-operating-goal-2026-08-10.md"
+  "notes/end-to-end-pursuit-goal-2026-08-10.md"
+  "notes/energy-buildout-batch-2026-08-10.md"
+  "notes/expanded-goal-plan-2026-08-10.md"
+  "notes/force-map-gap-review-2026-08-09.md"
+  "notes/frontier-merge-handoff-2026-08-10.md"
+  "notes/graying-market-anchor-review-2026-08-09.md"
+  "notes/healthcare-frontier-collection-status-2026-08-10.md"
+  "notes/ibis-industries-alignment-2026-08-09.md"
+  "notes/ibis-industries-crosswalk.md"
+  "notes/insight-artifact-manifest-2026-08-11.md"
+  "notes/insight-completion-rubric-2026-08-11.md"
+  "notes/insight-driven-next-lane-queue-2026-08-11.md"
+  "notes/insight-extraction-hub-2026-08-11.md"
+  "notes/insight-extraction-templates-2026-08-11.md"
+  "notes/insight-note-standardization-cutoff-2026-08-11.md"
+  "notes/lane-end-to-end-execution-runbook-2026-08-11.md"
+  "notes/master-insight-extraction-goal-2026-08-11.md"
+  "notes/master-operator-brief-2026-08-10.md"
+  "notes/meaty-end-to-end-insight-goal-2026-08-11.md"
+  "notes/next-steps.md"
+  "notes/post-merge-energy-buildout-2026-08-10.md"
+  "notes/raw-blob-offload-readme-2026-08-10.md"
+  "notes/recreation-participation-kickoff-2026-08-10.md"
+  "notes/repo-coverage-audit-2026-08-09.md"
+  "notes/workspace-integration-review-2026-08-09.md"
+)
+
 required_patterns=(
   "notes/insight-extraction-hub-2026-08-11.md:Workflow For A New Company"
   "notes/insight-extraction-hub-2026-08-11.md:Workflow For A New Lane"
@@ -202,7 +250,11 @@ required_patterns=(
   "notes/insight-completion-rubric-2026-08-11.md:capital pattern without saying how the filing evidence supports it"
   "notes/insight-completion-rubric-2026-08-11.md:who benefits and who carries burden"
   "notes/insight-artifact-manifest-2026-08-11.md:Required Insight System Layers"
+  "notes/insight-artifact-manifest-2026-08-11.md:Reusable Note Layer"
+  "notes/insight-artifact-manifest-2026-08-11.md:Standardization Boundary"
   "notes/insight-artifact-manifest-2026-08-11.md:Proof Memo Inventory"
+  "notes/insight-note-standardization-cutoff-2026-08-11.md:Deliberate Cutoff"
+  "notes/insight-note-standardization-cutoff-2026-08-11.md:Current remaining count at the cutoff"
   "notes/insight-driven-next-lane-queue-2026-08-11.md:Best Immediate Next Move"
   "notes/insight-driven-next-lane-queue-2026-08-11.md:Before starting a queue item, identify which packet inputs will matter most"
   "notes/insight-driven-next-lane-queue-2026-08-11.md:Skeptical Reader Gate"
@@ -711,6 +763,21 @@ required_patterns=(
 for path in "${required_files[@]}"; do
   if [[ ! -s "$path" ]]; then
     printf 'missing or empty required file: %s\n' "$path" >&2
+    exit 1
+  fi
+done
+
+for path in "${reusable_note_files[@]}"; do
+  if [[ ! -s "$path" ]]; then
+    printf 'missing reusable note file: %s\n' "$path" >&2
+    exit 1
+  fi
+  if ! rg -q '^## Packet Inputs Used' "$path"; then
+    printf 'reusable note missing Packet Inputs Used section: %s\n' "$path" >&2
+    exit 1
+  fi
+  if ! rg -q '^## Skeptical Reader Test' "$path"; then
+    printf 'reusable note missing Skeptical Reader Test section: %s\n' "$path" >&2
     exit 1
   fi
 done

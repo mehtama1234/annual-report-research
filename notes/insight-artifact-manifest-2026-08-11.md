@@ -219,6 +219,7 @@ The raw-evidence governance verifier separately checks:
 It also checks that:
 
 - the top-level onboarding docs carry the packet-field-fit and claim-type proof standard
+- the legacy goal notes also carry packet-field-fit and claim-type proof guidance
 - the legacy execution templates also carry packet-field-fit and claim-type proof guidance
 - lane summaries name which packet inputs they rely on
 - lane summaries make packet-field fit explicit rather than only listing section names
@@ -256,6 +257,8 @@ test -s START-HERE.md
 test -s notes/insight-extraction-hub-2026-08-11.md
 test -s notes/master-insight-extraction-goal-2026-08-11.md
 test -s notes/master-operator-brief-2026-08-10.md
+test -s notes/end-to-end-pursuit-goal-2026-08-10.md
+test -s notes/end-to-end-operating-goal-2026-08-10.md
 test -s notes/end-to-end-insight-master-instruction-2026-08-11.md
 test -s notes/meaty-end-to-end-insight-goal-2026-08-11.md
 test -s notes/lane-end-to-end-execution-runbook-2026-08-11.md
@@ -266,6 +269,8 @@ test -s notes/insight-note-standardization-cutoff-2026-08-11.md
 test -s notes/insight-driven-next-lane-queue-2026-08-11.md
 test -s notes/note-layer-boundary-audit-2026-08-11.md
 test -s notes/note-layer-boundary-audit-2026-08-11.json
+test -s templates/frontier-lane-master-instruction.md
+test -s templates/company-packet.md
 test -s templates/lane-run-template.md
 test -s templates/theme-memo.md
 test -s templates/status-rubric.md
@@ -292,6 +297,10 @@ curl -fsS http://localhost:8080/site/concrete-insights.html | rg 'Insight extrac
 rg 'The packet fields should do explicit analytical work|Different claim types also need different proof burdens' README.md
 rg 'The packet fields should also do explicit analytical work|Different claim types also need different proof burdens' START-HERE.md
 rg 'The packet fields should also do explicit analytical work|Different claim types also need different proof burdens' notes/master-operator-brief-2026-08-10.md
+rg 'Those packet inputs should also be read as proof tools|Different claim types also need different proof burdens' notes/end-to-end-pursuit-goal-2026-08-10.md
+rg 'The packet fields should also do explicit analytical work|Different claim types also need different proof burdens' notes/end-to-end-operating-goal-2026-08-10.md
+rg 'The packet fields should also do explicit analytical work|Different claim types also need different proof burdens|which packet fields are actually doing the analytical work' templates/frontier-lane-master-instruction.md
+rg 'Use the packet fields as analytical inputs, not just headings|Different claim types also need different proof burdens' templates/company-packet.md
 rg 'The packet fields should also do explicit analytical work|Different claim types also need different proof burdens|Before writing the interpretation, note which packet fields are doing the work' templates/lane-run-template.md
 rg 'Before drafting the memo, decide which packet fields are doing the analytical work|Different claim types also need different proof burdens|Packet fields used' templates/theme-memo.md
 rg 'Proof-discipline check|packet-field fit|claim-type fit' templates/status-rubric.md

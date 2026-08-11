@@ -35,6 +35,19 @@ This memo asks:
 
 Who wants to be the home base, and who wants to be the best router?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make closed-loop and open-routing economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic split between loyalty and marketplaces.
+
 ## Exact Evidence
 
 | Company | Model | Exact packet facts | What the facts prove |
@@ -169,6 +182,17 @@ This closed-loop-versus-open-routing thesis weakens if:
 - suppliers claw back more control and reduce intermediary economics
 - merchant mix, partner economics, or rewards costs weaken the value capture in the middle layer
 - direct booking or direct spend behavior grows faster than these intermediaries can offset
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the closed-loop or open-routing model?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, ecosystem map, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

@@ -38,6 +38,19 @@ This matters because:
 - Marriott and Booking both benefit from travel demand, but one tries to own branded repeat stays while the other routes intent
 - Caesars and Uber both try to keep a user active between core visits, but through very different loops
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make relationship thickness visible inside adjacent travel and participation behavior:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic statement that some relationships are stronger than others.
+
 ## Exact Evidence
 
 | Company | Relationship type | Exact packet facts | What the facts prove |
@@ -195,6 +208,17 @@ This relationship-thickness thesis weakens if:
 - premium and co-brand economics weaken faster than base demand
 - thin interfaces unexpectedly develop much stronger durable repeat economics than the filings currently suggest
 - companies with thick relationships fail to extend them across adjacent surfaces over time
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the relationship-thickness stack?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, relationship-thickness map, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

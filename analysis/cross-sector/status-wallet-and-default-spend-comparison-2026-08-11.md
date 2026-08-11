@@ -36,6 +36,19 @@ This memo asks:
 
 What happens when the business model is not just loyalty, but default spend capture?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make status, wallet, and default-spend capture visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad claim that rewards matter.
+
 ## Exact Evidence
 
 | Company | Status or wallet role | Exact packet facts | What the facts prove |
@@ -176,6 +189,17 @@ This status-and-wallet thesis weakens if:
 - benefits inflation or reward dilution makes status feel less worth preserving
 - wallet integration fails to produce more cross-channel behavior
 - travel or gaming softness reveals that the loyalty layer is weaker than the raw revenue mix suggests
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the status or wallet system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, status-and-wallet map, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

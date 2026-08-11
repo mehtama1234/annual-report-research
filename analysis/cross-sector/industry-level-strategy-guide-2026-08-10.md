@@ -18,6 +18,22 @@ This guide is meant to be built from the same packet inputs lane after lane:
 - thesis breakers
 - next filing watchlists
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, many of the archive's most important lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means this guide should not be read only as a blank-slate industry explainer.
+
+It should also be used to strengthen lanes that already exist.
+
+For an existing lane, the next pass should usually improve one or more of these:
+
+- missing flagship role coverage
+- contradiction or weak-link coverage
+- burden-versus-beneficiary clarity
+- packet-backed fact-period support
+- next-filing break-test quality
+
 ## How To Read An Industry Lane
 
 For every industry, answer these questions:

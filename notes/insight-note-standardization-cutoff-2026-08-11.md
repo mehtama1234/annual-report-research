@@ -48,6 +48,7 @@ Direct audit script:
 - `bash scripts/audit-audit-stack-terminology.sh`
 - `bash scripts/audit-maintenance-doc-stack.sh`
 - `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
 - `bash scripts/audit-browser-review-links.sh`
 
 Current report artifact:
@@ -68,6 +69,7 @@ The refresh command now reruns the linked audit stack as well:
 - `bash scripts/audit-audit-stack-terminology.sh`
 - `bash scripts/audit-maintenance-doc-stack.sh`
 - `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
 - `bash scripts/audit-browser-review-links.sh`
 
 Both committed artifacts are freshness-checked by the main verifier against freshly generated temporary copies.

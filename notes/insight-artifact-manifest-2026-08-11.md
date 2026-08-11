@@ -63,6 +63,7 @@ The governing rule is:
 The verifier now checks this reusable-note layer directly rather than assuming the standard applies only to the main insight pages.
 It now reads the reusable-note list from the machine-readable manifest above, so the enforced note boundary can be updated without editing the verifier's note inventory by hand.
 It also verifies that every current top-level `notes/*.md` file belongs to exactly one of the two note manifests, so the note boundary cannot drift silently.
+That partition check is delegated to the dedicated note-layer audit script so the boundary logic is maintained in one place.
 
 ## Standardization Boundary
 

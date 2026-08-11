@@ -28,6 +28,7 @@ No broad claim without exact filing evidence. No company name as evidence. No se
 Every serious company packet, lane summary, and proof memo should make the following explicit:
 
 - the exact filing facts
+- which packet sections supplied the conclusion
 - the plain-English business meaning
 - the consumer, cultural, societal, industrial, technical, or capital-structure signal when relevant
 - who benefits economically
@@ -48,6 +49,15 @@ Use the `Insight Stack` sections in the templates to test each company and lane 
 - relationship owner versus burden carrier
 
 If a bucket is not supported by the filing window, say so directly. If it is supported, cite the exact facts and explain why they matter.
+
+Before treating any lane summary or proof memo as done, run the skeptical-reader test:
+
+- What is the exact fact?
+- What does that fact mean?
+- Why does it matter beyond one company?
+- What would change the conclusion?
+
+If the page cannot answer those four without guessing, keep working.
 
 ## Start Here
 
@@ -80,6 +90,8 @@ Use it when taking a lane from first target selection to final proof memo and ha
 [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md)
 
 Use these when writing company packets, profiles, source ledgers, lane summaries, proof memos, aha moments, thesis breakers, and closeouts. The templates now require an explicit `Insight Stack`, beneficiary-versus-burden sections, and a `Why This Matters Now` section for proof memos.
+
+They also require packet-input tracing for lane summaries and proof memos. Use that section to name the exact packet fields doing the analytical work.
 
 6. Use the completion rubric.
 
@@ -230,15 +242,17 @@ Before calling a company complete, score it against the completion rubric and ma
 2. Make sure each company has a distinct role in the lane.
 3. Complete source ledgers and packets for the flagship companies.
 4. Write an industry lane summary.
-5. Build a company comparison table.
-6. Extract cross-company themes.
-7. State who benefits and who carries burden inside each major pattern.
-8. Write exact evidence tables.
-9. Identify aha moments.
-10. Add thesis breakers.
-11. Add watchlist metrics.
-12. Recommend next names.
-13. Record commit hash and raw blob status.
+5. State which packet inputs are supporting the lane read.
+6. Build a company comparison table.
+7. Extract cross-company themes.
+8. State who benefits and who carries burden inside each major pattern.
+9. Write exact evidence tables.
+10. Run the skeptical-reader test on the main lane claims.
+11. Identify aha moments.
+12. Add thesis breakers.
+13. Add watchlist metrics.
+14. Recommend next names.
+15. Record commit hash and raw blob status.
 
 The lane is not complete until it explains how the lane works and what repeated patterns the flagship companies prove together.
 
@@ -247,13 +261,15 @@ Before calling a lane complete, score it against the lane rubric and record what
 ## Workflow For A New Theme
 
 1. State the plain claim.
-2. Gather exact facts from at least three companies.
-3. Explain what each fact proves.
-4. Build the causal chain.
-5. Write the stronger conclusion.
-6. State what would weaken or disprove the claim.
-7. Add next filing metrics.
-8. Add next companies to test.
+2. Name which packet sections are supplying the proof.
+3. Gather exact facts from at least three companies.
+4. Explain what each fact proves.
+5. Build the causal chain.
+6. Write the stronger conclusion.
+7. Run the skeptical-reader test.
+8. State what would weaken or disprove the claim.
+9. Add next filing metrics.
+10. Add next companies to test.
 
 The theme is not complete if it only names companies.
 

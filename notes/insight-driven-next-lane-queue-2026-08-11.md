@@ -23,6 +23,28 @@ A strong next target should answer at least one of these:
 - Does it expose a metric the current archive is not tracking well?
 - Does it turn a broad claim into a more concrete operating chain?
 
+Before starting a queue item, identify which packet inputs will matter most:
+
+- annual report takeaways
+- latest three-quarter chain
+- company-level strategy read
+- exact supporting facts
+- burden-versus-beneficiary interpretation
+- next filing watchlist
+
+If the target does not look likely to improve one of those evidence inputs, it is probably a weak next move.
+
+## Skeptical Reader Gate
+
+Do not pick a next batch just because the lane sounds interesting.
+
+Pick a batch that can eventually answer:
+
+- What is the exact fact?
+- What does that fact mean?
+- Why does it matter beyond one company?
+- What would change the conclusion?
+
 ## Priority 1: Healthcare Outside The Hospital And Aging Operating Systems
 
 Current insight to test:
@@ -63,6 +85,7 @@ Required output:
 - burden-carrier map
 - reimbursement and labor pressure section
 - watchlist for next quarter
+- packet-input table for the lane read
 
 ## Priority 2: Recreation, Lifestyle, Gifting, Hospitality, And Occasion Demand
 
@@ -106,6 +129,7 @@ Required output:
 - brand/relationship owner versus property/inventory burden map
 - consumer selectivity section
 - next targets in jewelry, furnishings, hospitality, and food wholesale
+- packet-input table for the lane read
 
 ## Priority 3: Trust, Proof, Measurement, And Security
 
@@ -146,6 +170,7 @@ Required output:
 - standards versus vendors distinction
 - proof layer economics
 - failure-risk and commoditization thesis breakers
+- packet-input table for the lane read
 
 ## Priority 4: AI Physical Capacity And Burden Carriers
 
@@ -191,6 +216,7 @@ Required output:
 - backlog conversion analysis
 - power and skilled-labor bottleneck section
 - capex return watchlist
+- packet-input table for the lane read
 
 ## Priority 5: Commodity Chains Behind Electrification, Housing, Food, And Packaging
 
@@ -231,6 +257,7 @@ Required output:
 - input cost versus end-market demand map
 - specialized interface versus commodity throughput distinction
 - tariff/policy watchlist
+- packet-input table for the lane read
 
 ## Priority 6: Media, Attention Helpers, And Ad Verification
 

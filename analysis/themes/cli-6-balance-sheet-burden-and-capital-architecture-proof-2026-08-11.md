@@ -12,6 +12,7 @@ Primary packet set used here:
 - [MetLife, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/life-insurance/metlife-inc/company-packet.md)
 - [Annaly Capital Management, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-mortgage/annaly-capital-management-inc/company-packet.md)
 - [Simon Property Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-retail/simon-property-group-inc/company-packet.md)
+- [Realty Income Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-retail/realty-income-corp/company-packet.md)
 - [Markel Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/property-casualty-insurance/markel-group-inc/company-packet.md)
 - [Berkshire Hathaway Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/conglomerates/berkshire-hathaway-inc/company-packet.md)
 - [Brookfield Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/brookfield-corporation/company-packet.md)
@@ -87,9 +88,9 @@ The model still depends heavily on:
 
 That is a very different quality profile from a broker, allocator, or even a strong life insurer.
 
-## Claim 3: property can still be a respectable cash-flow model, but the cash flow is only as strong as the asset quality and tenant ecosystem underneath it
+## Claim 3: property can still be a respectable cash-flow model, but the quality of that cash flow depends on what kind of property system you own
 
-Simon gives the retail-property version of this argument.
+Simon and Realty Income give the retail-property version of this argument from two different angles.
 
 ### Concrete evidence
 
@@ -98,10 +99,15 @@ Simon gives the retail-property version of this argument.
 | Simon | `1Q26` Real Estate FFO was about `$1.28B`, or `$3.45` per diluted share; domestic occupancy was about `95.8%`. | High-quality retail real estate can still produce strong recurring cash flow. |
 | Simon | `4Q25` domestic occupancy was about `96.5%`; fourth-quarter Real Estate FFO per diluted share was about `$3.68`. | The model works when the owner controls the best destinations and the best tenant demand. |
 | Simon | `3Q25` domestic property NOI increased about `5.1%`; portfolio NOI increased about `5.2%`; domestic occupancy was about `96.4%`. | This was not a one-quarter fluke. The quality signal carried through the quarter chain. |
+| Realty Income | Full-year `2025` AFFO per share was about `$4.28`; occupancy was about `98.9%`. | This is the steadier net-lease version of retail property, where reliability comes from lease duration, tenant diversification, and funding access rather than destination intensity. |
+| Realty Income | `2Q26` revenue was about `$1.548B`; AFFO per share was about `$1.09`; occupancy was about `98.8%`; management raised `2026` AFFO guidance. | The model remains utility-like even while expanding, which makes it a cleaner retail-property counterpoint to Simon. |
+| Realty Income | `1Q26` AFFO per share was about `$1.13`, with occupancy about `98.9%`. | The quarter chain shows the steadiness is not a one-quarter artifact. |
 
 ### Why this supports the bigger conclusion
 
-Simon is a good counterweight inside CLI 6 because it shows that property ownership can still be durable when the asset base is genuinely advantaged.
+Simon is the destination-asset version of property quality.
+
+Realty Income is the diversified long-duration lease version.
 
 But it is still a heavier model than the lighter trust intermediaries because the economics depend on:
 
@@ -111,7 +117,12 @@ But it is still a heavier model than the lighter trust intermediaries because th
 - refinancing conditions
 - physical-asset quality
 
-That is more durable than a weak mall landlord, but still less structurally clean than a workflow or capital-formation franchise.
+Realty Income softens some of that exposure through diversification and contract duration, but it is still more rate- and funding-sensitive than the strongest workflow or capital-formation franchises.
+
+That means the retail REIT bucket is now explicit in two forms:
+
+- destination quality and traffic intensity through Simon
+- steadier bond-like rent collection through Realty Income
 
 ## Claim 4: hybrid insurer-allocators show that “messy” balance sheets can become powerful when float, underwriting, and capital reinvestment reinforce one another
 
@@ -182,6 +193,7 @@ This is the unifying pattern across the packet set.
 | Liability-managed protection platform | MetLife | A heavy balance sheet can still be productive when it supports retirement transfer, investment income, and disciplined capital return. |
 | Leveraged housing-finance carry | Annaly | Attractive returns can still rest on fragile funding, hedging, and regime dependence. |
 | Premium destination property owner | Simon | High-quality assets can defend cash flow, but the model remains tenant- and property-dependent. |
+| Diversified net-lease rent utility | Realty Income | Contracted rent and diversification can make property ownership steadier, but not free from funding and tenant risk. |
 | Float-driven hybrid allocator | Markel, Berkshire | Balance-sheet weight becomes an advantage when underwriting discipline and capital allocation are both strong. |
 | Insurance-linked capital architecture | Brookfield | The company is turning liabilities and fundraising channels into a broader compounding system. |
 
@@ -209,7 +221,7 @@ The thinner balance-sheet-heavy side of CLI 6 is now strong enough to support se
 1. Balance-sheet-heavy businesses are not all low quality, but they need a much higher proof burden than lighter workflow models.
 2. Life insurance can be a strong capital and liability-management franchise when returns and capital release stay disciplined.
 3. Mortgage REIT returns are much more regime-dependent than the returns of the strongest trust, advisory, or allocator franchises.
-4. Property ownership can still work when asset quality is exceptional, but it remains structurally heavier than advisory or capital-formation models.
+4. Property ownership can still work in more than one way: through exceptional destination assets or through steadier net-lease rent packaging, but both remain structurally heavier than advisory or capital-formation models.
 5. The best hybrid insurers and conglomerates turn float and retained capital into a true long-duration architecture.
 
 ## What this page does not prove
@@ -227,11 +239,11 @@ In CLI 6, the quality of a balance-sheet-heavy model depends on whether the bala
 1. [Loews Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/conglomerates/loews-corporation/company-packet.md)
 Reason: test a second conglomerate allocator against Berkshire’s much larger permanent-capital model.
 
-2. [Realty Income Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-retail/realty-income-corporation/company-packet.md)
-Reason: compare a steadier net-lease property model against Simon’s destination-retail asset base.
-
-3. [Chubb Limited](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/property-casualty-insurance/chubb-limited/company-packet.md)
+2. [Chubb Limited](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/property-casualty-insurance/chubb-limited/company-packet.md)
 Reason: test whether the cleaner underwriting-and-float case extends beyond Markel.
 
-4. [Apollo Global Management, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/apollo-global-management-inc/company-packet.md)
+3. [Apollo Global Management, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/apollo-global-management-inc/company-packet.md)
 Reason: deepen the insurance-linked capital-architecture comparison against Brookfield and the hybrid insurer models.
+
+4. A second pure life-insurance flagship such as `Prudential Financial, Inc.` if later added.
+Reason: the life-insurance bucket is still the main pure-anchor gap inside this thinner balance-sheet comparison set.

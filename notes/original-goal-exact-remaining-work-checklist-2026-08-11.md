@@ -214,16 +214,16 @@ Already strong:
 Still thin or still needing a cleaner comparison set:
 
 - life insurance is still mostly `MetLife`
-- mortgage REIT is not yet represented as a real comparison cluster despite the lane brief
+- mortgage REIT is now explicitly represented through `Annaly`, but still as a single pure anchor rather than a broader comparison set
 - savings and loans is not yet a real explicit packet cluster
-- retail REIT is not the strongest unresolved problem, but it is still thinner than the broker and allocator side
+- retail REIT is now explicit through `Simon` and `Realty Income`, so it is no longer a major unresolved bucket
 
 Best exact next names:
 
 1. `Prudential Financial, Inc.` to make life insurance a real comparison instead of a one-name read
-2. `Annaly Capital Management, Inc.` to close the mortgage REIT gap the audit explicitly called out
-3. `Simon Property Group, Inc.` to make the retail REIT bucket explicit rather than implied
-4. `New York Community Bancorp, Inc.` or the best available surviving public thrift / savings analog if the goal is to create a true savings-and-loans comparison set
+2. another mortgage REIT only if the goal is to turn `Annaly` from explicit anchor into a fuller subcluster
+3. `New York Community Bancorp, Inc.` or the best available surviving public thrift / savings analog if the goal is to create a true savings-and-loans comparison set
+4. a second life-insurance or liability-management name only if the goal is maximum closure beyond `MetLife`
 
 Why these names matter:
 

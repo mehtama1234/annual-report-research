@@ -7,6 +7,7 @@ cd "$repo_root"
 reusable_note_manifest="indexes/reusable-note-layer-files-2026-08-11.txt"
 historical_note_manifest="indexes/historical-note-exclusion-files-2026-08-11.txt"
 note_boundary_report="notes/note-layer-boundary-audit-2026-08-11.md"
+note_boundary_json="notes/note-layer-boundary-audit-2026-08-11.json"
 
 required_files=(
   "$reusable_note_manifest"
@@ -15,7 +16,7 @@ required_files=(
   "scripts/audit-note-layer-boundary.sh"
   "scripts/refresh-note-layer-boundary.sh"
   "$note_boundary_report"
-  "notes/note-layer-boundary-audit-2026-08-11.json"
+  "$note_boundary_json"
   "notes/insight-extraction-hub-2026-08-11.md"
   "notes/master-insight-extraction-goal-2026-08-11.md"
   "notes/end-to-end-insight-master-instruction-2026-08-11.md"
@@ -756,11 +757,19 @@ for path in "${reusable_note_files[@]}"; do
 done
 
 tmp_report="$(mktemp)"
-trap 'rm -f "$tmp_report"' EXIT
+tmp_json="$(mktemp)"
+trap 'rm -f "$tmp_report" "$tmp_json"' EXIT
 bash scripts/audit-note-layer-boundary.sh --write-report "$tmp_report" >/dev/null
 if ! cmp -s "$note_boundary_report" "$tmp_report"; then
   printf 'stale note boundary report: %s\n' "$note_boundary_report" >&2
   printf 'regenerate with: bash scripts/audit-note-layer-boundary.sh --write-report %s\n' "$note_boundary_report" >&2
+  exit 1
+fi
+
+bash scripts/audit-note-layer-boundary.sh --write-json "$tmp_json" >/dev/null
+if ! cmp -s "$note_boundary_json" "$tmp_json"; then
+  printf 'stale note boundary json summary: %s\n' "$note_boundary_json" >&2
+  printf 'regenerate with: bash scripts/audit-note-layer-boundary.sh --write-json %s\n' "$note_boundary_json" >&2
   exit 1
 fi
 

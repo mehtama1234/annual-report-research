@@ -58,6 +58,8 @@ The committed report is generated state, not hand-maintained narrative. If the m
 - `bash scripts/audit-note-layer-boundary.sh --write-artifacts notes/note-layer-boundary-audit-2026-08-11.md notes/note-layer-boundary-audit-2026-08-11.json`
 - `bash scripts/refresh-note-layer-boundary.sh`
 
+Both committed artifacts are freshness-checked by the main verifier against freshly generated temporary copies.
+
 Current remaining count at the cutoff:
 
 - total remaining without both sections: `63`

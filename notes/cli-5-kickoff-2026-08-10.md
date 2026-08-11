@@ -123,6 +123,20 @@ If the lane keeps opening cleanly, extend beyond the first `3` to `4` toward a b
 
 ## Skeptical Reader Test
 
+## Insight-System Maintenance
+
+When you need to confirm that the note layer, remaining-work bundle, and browser review surfaces still line up before using this kickoff brief as a lane entry point, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 - Does this kickoff brief make the stack logic clear enough that the worker will not collapse the lane into only software names or only chip-equipment names?
 - Can a skeptical reader see how the first batch should reveal hidden infrastructure, workflow control, reliability burden, or AI-related physical follow-on demand?
 - Does the brief require the worker to move from company packets to stack-level explanation and repeated patterns?

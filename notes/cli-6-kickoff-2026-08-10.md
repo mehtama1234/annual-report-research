@@ -110,3 +110,17 @@ Use `2025` annual reports plus the latest three reported quarters as of `2026-08
 - Can a skeptical reader see what bigger economic questions this lane is supposed to answer about trust, spreads, property, and capital discipline?
 - Does the brief force the worker to connect company facts to cross-company balance-sheet logic?
 - What would show that the work has collected financial packets without clarifying who earns cleaner economics and who absorbs the heavier burden stack?
+
+## Insight-System Maintenance
+
+When you need to confirm that the note layer, remaining-work bundle, and browser review surfaces still line up before using this kickoff brief as a lane entry point, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`

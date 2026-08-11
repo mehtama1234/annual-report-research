@@ -105,3 +105,17 @@ Use `2025` annual reports plus the latest three reported quarters as of `2026-08
 - Can a skeptical reader see why these industries belong in one lane rather than in isolated healthcare company reads?
 - Does the brief force the worker to extract reimbursement, demand, staffing, delivery, and innovation patterns rather than just company summaries?
 - What would show that the batch has collected healthcare packets without yet explaining how the system works?
+
+## Insight-System Maintenance
+
+When you need to confirm that the note layer, remaining-work bundle, and browser review surfaces still line up before using this kickoff brief as a lane entry point, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`

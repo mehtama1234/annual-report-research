@@ -73,6 +73,10 @@ expected = {
     Path("notes/active-lane-board-2026-08-10.md"): full_audit_stack,
     Path("notes/current-execution-queue-2026-08-10.md"): full_audit_stack,
     Path("notes/insight-driven-next-lane-queue-2026-08-11.md"): full_audit_stack,
+    Path("notes/cli-4-kickoff-2026-08-10.md"): full_audit_stack,
+    Path("notes/cli-5-kickoff-2026-08-10.md"): full_audit_stack,
+    Path("notes/cli-6-kickoff-2026-08-10.md"): full_audit_stack,
+    Path("notes/recreation-participation-kickoff-2026-08-10.md"): full_audit_stack,
     Path("notes/next-steps.md"): full_audit_stack,
     Path("notes/master-operator-brief-2026-08-10.md"): full_audit_stack,
 }

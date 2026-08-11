@@ -18,6 +18,55 @@ The goal is to turn `2025` annual reports, annual filings, and the latest three 
 
 The finished archive should let a reader move from source documents to company strategy, industry economics, cross-company themes, aha moments, watchlists, and thesis breakers without guessing.
 
+## Meaty End-To-End Goal
+
+The end-to-end goal is to extract how the economy is changing from company filings, using companies as evidence rather than anecdotes.
+
+Every lane run should start with a concrete business system and finish with a plain-English explanation of that system:
+
+- who the end customer, patient, household, enterprise, institution, or government buyer is
+- what recurring need, anxiety, habit, occasion, workflow, or physical constraint creates demand
+- which companies own the relationship
+- which companies carry the hard burden: labor, property, inventory, capex, regulation, reimbursement, debt, power, supply chain, or field execution
+- which exact metrics prove the demand is real
+- which exact metrics prove the pressure is real
+- which strategy management is using to adapt
+- which companies show the same pattern from a different angle
+- which companies contradict or weaken the pattern
+- what should be checked in the next filing window
+
+The work is complete only when the archive can answer four reader questions without vague language:
+
+1. `What is happening?`
+
+   State the trend in plain English.
+
+   Example: `Healthcare demand is moving into repeated-care networks outside the hospital.`
+
+2. `How do we know?`
+
+   Use exact filing-window evidence from multiple companies.
+
+   Example: `DaVita shows dialysis treatment frequency, Option Care shows alternate-site infusion revenue, AdaptHealth shows home equipment delivery volume, Quest shows diagnostic testing growth, and Cencora shows drug-distribution scale.`
+
+3. `Why does it matter economically?`
+
+   Explain who gets paid, who carries burden, and which metric shows whether the system is improving or breaking.
+
+   Example: `The patient need is recurring, but the profits depend on reimbursement, staffing, routing, documentation, product availability, and payer behavior.`
+
+4. `What should we watch next?`
+
+   Name the exact metrics and companies that would prove, sharpen, or disprove the claim.
+
+   Example: `Watch treatments per day, organic testing growth, infusion revenue, equipment delivery volume, medical care ratio, labor cost, and drug-distribution operating margin.`
+
+This means the output is not just a packet, a summary, or a theme name. The output is a connected evidence chain:
+
+`source fact -> company strategy -> customer behavior -> operating pressure -> industry economics -> cross-company pattern -> aha moment -> thesis breaker -> next target`
+
+Every company packet should contribute at least one useful insight to that chain. If it does not, the packet is unfinished or the company was the wrong target.
+
 ## Core Standard
 
 No broad claim without concrete filing evidence.

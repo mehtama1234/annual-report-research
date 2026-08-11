@@ -165,6 +165,11 @@ Implication:
 
 - the archive still relies on a specialist side-worktree for a meaningful share of channel-control and distribution evidence
 
+Update as of `2026-08-11`:
+
+- the top-level CLI 8 synthesis and index pages inside `annual-report-research` now point to the current repo for their live packet navigation
+- the remaining CLI 8 dependency is therefore more concentrated in packet-level raw provenance and inherited source-ledger links, not in the main reader-facing synthesis surface
+
 ## Practical consequence for completion status
 
 The remaining closeout problem should now be described in three separate layers:
@@ -230,6 +235,26 @@ The shortest high-yield sequence is:
    - `annual-report-research-energy-buildout`
    - `annual-report-research-footwear-dept-audit`
    - `annual-report-research-cli8-middle-layer`
+
+## Concrete Progress From This Pass
+
+This pass did not solve the whole portability problem.
+
+It did complete one useful normalization step:
+
+- the CLI 8 synthesis page now links to current-repo packet locations
+- the CLI 8 middle-layer index now links to the current-repo synthesis, slate, quarter snapshot, CSV index, and packet locations
+- the CLI 8 handoff note now points its deliverable links at the current repo rather than the sibling worktree
+
+What did not change:
+
+- packet-level raw citations that still point into `annual-report-research-cli8-middle-layer/raw/...`
+- other inherited packet and ledger references tied to `annual-report-research-new-lanes`, `annual-report-research-energy-buildout`, and `annual-report-research-footwear-dept-audit`
+
+So the practical outcome is narrower and more honest:
+
+- reader-facing CLI 8 navigation is cleaner
+- packet-level provenance cleanup is still a remaining archive task
 
 ## Highest-Value Endgame Interpretation
 

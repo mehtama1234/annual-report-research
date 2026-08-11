@@ -32,6 +32,11 @@ Do not treat a batch as done when the new packets exist.
 
 Treat it as done only when the lane comparison and proof-page layer are stronger because of those packets.
 
+Use this together with:
+
+- [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md) for the higher-level statement of what is still left
+- [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md) for the reasoning behind why these batches matter
+
 ## Batch 1: Healthcare Outside The Hospital And Aging Systems
 
 ### Companies

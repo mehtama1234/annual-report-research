@@ -48,6 +48,10 @@ In practical terms, the remaining work is:
 
 `missing flagship packets -> stronger lane comparisons -> stronger proof pages -> clearer next-filing watchlists`
 
+For the exact next executable batches that should do that work, use:
+
+- [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
+
 ## The Four Remaining Work Layers
 
 ### 1. Finish The Missing Flagship Company Roles
@@ -111,6 +115,12 @@ That means stronger:
 ## Highest-Value Remaining Batches
 
 The next substantive work should come from the current live priority lanes rather than opening more governance tasks.
+
+This note names the priority areas.
+
+The execution board names the exact batch structure, proof pages to strengthen, key metrics to extract, and done gates:
+
+- [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
 
 ### Healthcare Outside The Hospital And Aging Systems
 

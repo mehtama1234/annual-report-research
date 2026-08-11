@@ -26,6 +26,7 @@ Supporting lane context:
 - [CLI 5 Connectivity And Control Proof Page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-connectivity-proof-page-2026-08-11.md)
 - [CLI 5 Control Point And Chokepoint Framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
 - [CLI 5 Software Control Versus Physical Chokepoints](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-software-control-vs-physical-chokepoints-2026-08-10.md)
+- [CLI 5 Healthcare Information And Workflow Bridge](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-healthcare-information-and-workflow-bridge-2026-08-11.md)
 
 ## The question
 
@@ -291,14 +292,14 @@ The strongest operators do not all win the same way:
 
 ## Exact next targets to deepen this proof
 
-1. [GE HealthCare Technologies Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-appliances-equipment/ge-healthcare-technologies-inc/company-packet.md)
-Reason: add the still-missing healthcare-information and workflow-system bridge inside the broadened CLI 5 mission.
-
-2. [CrowdStrike Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/crowdstrike-holdings-inc/company-packet.md)
+1. [CrowdStrike Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/crowdstrike-holdings-inc/company-packet.md)
 Reason: test a second strong software-control layer against Zscaler’s narrower access-governance model and Palo Alto’s broader platform model.
 
-3. [Ciena Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/ciena-corporation/company-packet.md)
+2. [Ciena Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/ciena-corporation/company-packet.md)
 Reason: deepen the active optical-networking comparison against Corning’s more materials-heavy optical layer.
 
-4. [Iridium Communications Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/iridium-communications-inc/company-packet.md)
+3. [Iridium Communications Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/iridium-communications-inc/company-packet.md)
 Reason: add a specialized communications-control layer where connectivity quality depends on a very different physical architecture.
+
+4. A pure-play healthcare-workflow or healthcare-IT packet if later added.
+Reason: the healthcare-information bridge now exists through Oracle, ServiceNow, Quest, and Labcorp, but a pure-play healthcare-IT name would make that subcluster more explicit.

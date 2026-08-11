@@ -184,20 +184,19 @@ Already strong:
 
 Still thin or still needing a cleaner comparison set:
 
-- healthcare information services is named in the broadened mission but not yet an explicit finished cluster
-- the explicit endpoint / systems / trust-control comparison is now materially stronger, but the healthcare workflow bridge inside that map is still thin
-- business software and services plus technical and system software now read more clearly as one extension set, but still benefit from one more bridge case that ties enterprise control to healthcare workflow or institutional operations
+- healthcare information is now bridged through `Oracle`, `ServiceNow`, `Quest`, and `Labcorp`, but not yet through a pure-play healthcare-IT comparison set
+- business software and services plus technical and system software now read more clearly as one extension set, but still benefit from one more explicit healthcare-workflow or hospital-IT comparator if the goal is maximum closure rather than practical closure
 
 Best exact next names:
 
-1. `GE HealthCare Technologies Inc.` to bridge healthcare information, devices, and workflow systems through a public operator
+1. a pure-play healthcare-IT or healthcare-workflow name if the goal is to turn the now-real bridge into a dedicated subcluster
 2. `CrowdStrike Holdings, Inc.` only if the goal is to deepen the trust-control layer beyond `Zscaler` and `Palo Alto`
 3. `Ciena Corporation` if the goal is to deepen active optical and network-control economics against the existing Corning and Arista logic
 4. `Iridium Communications Inc.` if the goal is to add a more specialized communications-control architecture rather than deepen enterprise systems further
 
 Why these names matter:
 
-- they finish the remaining bridge cases rather than reopening already-strengthened endpoint and systems roles
+- they extend the remaining edge cases rather than reopening already-strengthened endpoint, systems, and healthcare-information bridge work
 - they turn the broadened CLI 5 mission into a more explicit control-layer map rather than a strong but still slightly scattered collection
 
 ### CLI 6 Capital Structures, Property, And Conglomerates

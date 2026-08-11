@@ -156,7 +156,7 @@ The main unresolved lane-role gaps are:
   - second hospital
   - stronger long-term-care or scaled-care contrast if needed
 - CLI 5:
-  - healthcare-information and workflow-system bridge to complete the broadened control-layer map
+  - pure-play healthcare-IT or hospital-workflow comparator if the goal is full explicit closure beyond the now-completed bridge
 - CLI 6:
   - second life-insurance anchor
   - mortgage REIT anchor

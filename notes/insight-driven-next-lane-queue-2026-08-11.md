@@ -14,6 +14,27 @@ This queue turns the insight extraction system into the next concrete research a
 - queue priorities built from live evidence gaps rather than from thin taxonomy coverage alone
 - repo rules for coherent batches, source completeness, and end-of-run handoff quality
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, this queue should not be read as a blank coverage-expansion list.
+
+The archive already has:
+
+- lane frameworks
+- proof pages
+- comparison memos
+- watchlists
+- browser review surfaces
+
+That means the best next names are usually not the ones that merely make a lane visible for the first time.
+
+They are usually the names that:
+
+- fill a missing flagship role
+- add the strongest contradiction or weak-link case
+- test whether the burden carrier can still outperform the cleaner layer
+- improve the next-quarter break test
+
 Pick from this queue when a thread needs to continue building the archive rather than adding more governance.
 
 In the current repo state, many of the highest-value lanes already have:
@@ -57,6 +78,10 @@ Before starting a queue item, identify which packet inputs will matter most:
 
 If the target does not look likely to improve one of those evidence inputs, it is probably a weak next move.
 
+The point is not to reward thin taxonomy areas automatically.
+
+The point is to improve the archive's live explanatory layer.
+
 Also decide what those packet fields are supposed to prove:
 
 - annual report takeaways + latest three-quarter chain
@@ -74,6 +99,8 @@ Before opening the batch, also name:
 
 - the best alternative explanation the batch might overturn or confirm
 - the next-filing disconfirming test that would make the batch conclusion weaker
+
+If those cannot be named up front, the queue item is probably too weak or too generic.
 
 ## Skeptical Reader Gate
 

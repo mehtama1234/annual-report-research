@@ -5,7 +5,8 @@ repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$repo_root"
 
 report_path="notes/note-layer-boundary-audit-2026-08-11.md"
+json_path="notes/note-layer-boundary-audit-2026-08-11.json"
 
-bash scripts/audit-note-layer-boundary.sh --write-report "$report_path"
+bash scripts/audit-note-layer-boundary.sh --write-artifacts "$report_path" "$json_path"
 bash scripts/audit-note-layer-boundary.sh
 bash scripts/verify-insight-system.sh

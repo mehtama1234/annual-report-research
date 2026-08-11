@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-11",
+  "repo": "annual-report-research",
+  "notes_total": 109,
+  "reusable_total": 46,
+  "historical_total": 63,
+  "manifest_union_total": 109,
+  "historical_counts": {
+    "handoff": 49,
+    "log": 7,
+    "raw_blob_rclone": 6,
+    "other": 1
+  },
+  "historical_with_both_sections": 0,
+  "boundary_ok": true,
+  "reusable_manifest": "indexes/reusable-note-layer-files-2026-08-11.txt",
+  "historical_manifest": "indexes/historical-note-exclusion-files-2026-08-11.txt",
+  "historical_category_manifest": "indexes/historical-note-exclusion-categories-2026-08-11.tsv"
+}

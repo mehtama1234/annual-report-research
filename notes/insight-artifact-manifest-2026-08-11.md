@@ -47,6 +47,7 @@ Machine-readable file list:
 - [indexes/historical-note-exclusion-files-2026-08-11.txt](../indexes/historical-note-exclusion-files-2026-08-11.txt)
 - [indexes/historical-note-exclusion-categories-2026-08-11.tsv](../indexes/historical-note-exclusion-categories-2026-08-11.tsv)
 - [note-layer-boundary-audit-2026-08-11.md](note-layer-boundary-audit-2026-08-11.md)
+- [note-layer-boundary-audit-2026-08-11.json](note-layer-boundary-audit-2026-08-11.json)
 
 That reusable layer includes:
 
@@ -185,6 +186,8 @@ Run these from the repo root:
 bash scripts/verify-insight-system.sh
 bash scripts/audit-note-layer-boundary.sh
 bash scripts/audit-note-layer-boundary.sh --write-report notes/note-layer-boundary-audit-2026-08-11.md
+bash scripts/audit-note-layer-boundary.sh --write-json notes/note-layer-boundary-audit-2026-08-11.json
+bash scripts/audit-note-layer-boundary.sh --write-artifacts notes/note-layer-boundary-audit-2026-08-11.md notes/note-layer-boundary-audit-2026-08-11.json
 bash scripts/refresh-note-layer-boundary.sh
 ```
 
@@ -212,6 +215,7 @@ The dedicated note-layer audit script prints the current partition counts and fa
 The refresh wrapper is the one-command maintenance path:
 
 - regenerate the committed boundary report
+- regenerate the committed machine-readable boundary summary
 - rerun the direct boundary audit
 - rerun the main insight-system verifier
 
@@ -229,6 +233,7 @@ test -s notes/insight-artifact-manifest-2026-08-11.md
 test -s notes/insight-note-standardization-cutoff-2026-08-11.md
 test -s notes/insight-driven-next-lane-queue-2026-08-11.md
 test -s notes/note-layer-boundary-audit-2026-08-11.md
+test -s notes/note-layer-boundary-audit-2026-08-11.json
 test -s indexes/reusable-note-layer-files-2026-08-11.txt
 test -s indexes/historical-note-exclusion-files-2026-08-11.txt
 test -s indexes/historical-note-exclusion-categories-2026-08-11.tsv

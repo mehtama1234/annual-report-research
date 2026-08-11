@@ -5,10 +5,26 @@ repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$repo_root"
 
 report_path=""
+json_path=""
 if [[ "${1:-}" == "--write-report" ]]; then
   report_path="${2:-}"
   if [[ -z "$report_path" ]]; then
     printf 'usage: %s [--write-report path]\n' "${BASH_SOURCE[0]}" >&2
+    exit 1
+  fi
+fi
+if [[ "${1:-}" == "--write-json" ]]; then
+  json_path="${2:-}"
+  if [[ -z "$json_path" ]]; then
+    printf 'usage: %s [--write-json path]\n' "${BASH_SOURCE[0]}" >&2
+    exit 1
+  fi
+fi
+if [[ "${1:-}" == "--write-artifacts" ]]; then
+  report_path="${2:-}"
+  json_path="${3:-}"
+  if [[ -z "$report_path" || -z "$json_path" ]]; then
+    printf 'usage: %s --write-artifacts report_path json_path\n' "${BASH_SOURCE[0]}" >&2
     exit 1
   fi
 fi
@@ -138,6 +154,30 @@ Repo: \`annual-report-research\`
 - Can a skeptical reader tell whether the manifests fully cover the current top-level note inventory?
 - Does the report make historical-note subcategories explicit without relying on filename heuristics alone?
 - What future note-layer change would require regenerating this report or moving files between manifests?
+EOF
+fi
+
+if [[ -n "$json_path" ]]; then
+  cat >"$json_path" <<EOF
+{
+  "date": "2026-08-11",
+  "repo": "annual-report-research",
+  "notes_total": ${#notes_files[@]},
+  "reusable_total": ${#reusable[@]},
+  "historical_total": ${#historical[@]},
+  "manifest_union_total": ${#union[@]},
+  "historical_counts": {
+    "handoff": $(printf '%s\n' "${historical_categories[@]}" | rg -c $'\thandoff$'),
+    "log": $(printf '%s\n' "${historical_categories[@]}" | rg -c $'\tlog$'),
+    "raw_blob_rclone": $(printf '%s\n' "${historical_categories[@]}" | rg -c $'\traw_blob_rclone$'),
+    "other": $(printf '%s\n' "${historical_categories[@]}" | rg -c $'\tother$')
+  },
+  "historical_with_both_sections": ${#historical_with_both_sections[@]},
+  "boundary_ok": true,
+  "reusable_manifest": "$reusable_manifest",
+  "historical_manifest": "$historical_manifest",
+  "historical_category_manifest": "$historical_category_manifest"
+}
 EOF
 fi
 

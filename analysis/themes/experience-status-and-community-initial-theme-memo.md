@@ -14,6 +14,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for scarcity, loyalty structure, premium-customer concentration, and access-driven demand
+- latest three-quarter chains for deferred revenue, RevPAR, billed business, travel and dining spend, and wallet engagement
+- company packets for the plain-English operating model of live events, travel, premium payments, and gaming loyalty systems
+- exact supporting facts on event pre-sales, pipeline growth, premium-card engagement, rewards intensity, and property or platform utilization
+- burden-versus-beneficiary interpretations for who owns the experience relationship versus who still carries travel, event, or promotional execution burden
+- next filing watchlists for affluent demand durability, pre-booking strength, loyalty monetization, and premium-spend normalization
+
 ## Theme
 
 - Name: Scarce in-person experiences, travel, and premium membership ecosystems remain culturally and economically durable
@@ -66,6 +77,15 @@ The current archive suggests that one of the clearest durable demand pools in `2
 - Premium networks and loyalty systems matter because they help capture and organize that demand rather than merely observe it.
 - This force cuts across services and financials. The experience operator, the hospitality platform, the payment-and-membership rail, and the gaming-and-loyalty system are all participating in the same spending pattern.
 - The archive now has enough evidence to map `the-experience-economy` explicitly rather than leaving it as an implied theme.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show durable experience and status spending rather than broad discretionary ease?`
+2. `Which companies prove scarcity, premium access, and community reinforcement directly?`
+3. `Who captures the cleaner relationship economics and who remains more exposed to property, event, or promotional intensity?`
+4. `What future evidence would weaken the experience-status-and-community interpretation?`
 
 ## Counter-signals
 

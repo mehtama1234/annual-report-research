@@ -14,6 +14,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for skilled-trades scarcity, field-execution pressure, hospital staffing, and route productivity dependence
+- latest three-quarter chains for backlog conversion, labor utilization, throughput, staffing availability, and service execution
+- company packets for the plain-English operating model across skilled trades, facilities services, hospitals, and recurring route networks
+- exact supporting facts on backlog, crew availability, patient throughput, labor productivity, and recurring field-service density
+- burden-versus-beneficiary interpretations for who benefits from strong demand versus who gets bottlenecked by limited labor capacity
+- next filing watchlists for backlog burn, staffing availability, wage pressure, and throughput sustainability
+
 ## Theme
 
 - Name: Demand is increasingly running into skilled-labor, field-execution, and care-capacity constraints rather than only into weak end markets
@@ -58,6 +69,15 @@ The archive now has enough evidence to map `the-labor-squeeze` explicitly. Comfo
 - The archive can now map `the-labor-squeeze` directly rather than leaving it as an uncovered force.
 - Labor should be analyzed as physical and institutional capacity, not only as wage inflation.
 - Skilled-trades bottlenecks, care-capacity bottlenecks, and recurring field-service bottlenecks are different versions of the same broader force.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show demand running into labor-capacity limits rather than simply weakening?`
+2. `Which companies prove skilled-trades, care-capacity, and recurring-service labor bottlenecks directly?`
+3. `Who captures demand cleanly and who is constrained by the inability to staff and execute?`
+4. `What future evidence would weaken the labor-squeeze interpretation?`
 
 ## Counter-signals
 

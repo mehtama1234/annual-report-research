@@ -37,6 +37,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for platform role, household trust position, consumer-value architecture, and automation/control-layer exposure
+- latest three-quarter chains for traffic, engagement, membership, pricing, margin, workflow intensity, and operating discipline
+- company packets for the plain-English operating model across technology, consumer, services, healthcare, and operating-infrastructure names
+- exact supporting facts on premiumization, ad load, membership loops, store traffic, labor productivity, workflow governance, and recurring household habits
+- burden-versus-beneficiary interpretations for who owns trust and everyday interfaces versus who carries the operational burden behind them
+- next filing watchlists for consumer trade-offs, AI adoption quality, automation-driven cost leverage, and trust-sensitive regulatory pressure
+
 ## Theme
 
 - Name: Daily-life demand is being reorganized around value, trust, automation, and essential-service infrastructure
@@ -107,6 +118,15 @@ Across the current archive, the strongest cultural signal is not a single spendi
 - `the-channel-shift`: daily commerce keeps moving toward tighter logistics, more disciplined fulfillment economics, packaging and shelf-execution discipline, and a higher premium on interface control.
 - `money-gets-unbundled`: membership fees, stored value, subscriptions, retail media, ad layers, partner monetization, and wallet-linked loyalty systems are widening monetization beyond the original product or visit.
 - `the-breach-economy`: trust is now both a consumer and institutional variable, which makes reliable governance, safety, and low-friction process control more economically valuable.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show culture, trust, and automation interacting as one operating pattern rather than as three unrelated themes?`
+2. `Which companies prove value trust, premium trust, and workflow automation directly?`
+3. `Who captures the cleanest relationship economics and who carries more of the physical or administrative burden behind the interface?`
+4. `What future evidence would weaken the cultural-value-trust-and-automation interpretation?`
 
 ## Counter-signals
 

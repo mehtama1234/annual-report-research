@@ -14,6 +14,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for visa-program dependence, field-labor intensity, and seasonal service execution
+- latest three-quarter chains for margin volatility, labor availability, route or service density, and physical-upkeep demand
+- company packets for the plain-English operating model across landscaping, facilities, waste, and parcel logistics
+- exact supporting facts on `H-2B` reliance, staffing pressure, route operations, field service execution, and local labor exposure
+- burden-versus-beneficiary interpretations for who depends most directly on constrained labor pools versus who can better absorb the pressure through density or automation
+- next filing watchlists for seasonal hiring, visa disclosures, staffing cost pressure, and service-quality execution
+
 ## Theme
 
 - Name: Immigration friction is increasingly showing up as a seasonal-labor, field-services, and physical-upkeep constraint rather than only as a macro-policy debate
@@ -57,6 +68,15 @@ The archive now has enough evidence to map `the-immigration-squeeze` explicitly.
 - The archive can now map `the-immigration-squeeze` directly rather than leaving it as the one uncovered force.
 - Immigration should be analyzed as an operating-capacity input inside recurring physical-service businesses, not only as a policy narrative.
 - The distinction between generic labor pressure and immigration-linked labor dependence matters. BrightView is useful because it proves the second category directly.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show immigration friction as an operating constraint rather than only as a political headline?`
+2. `Which companies prove direct dependence versus indirect labor sensitivity?`
+3. `Who carries the sharpest labor-availability burden and who has better route density or process leverage to absorb it?`
+4. `What future evidence would weaken the immigration-squeeze interpretation?`
 
 ## Counter-signals
 

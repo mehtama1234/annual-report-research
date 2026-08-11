@@ -21,6 +21,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-08`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for antitrust, export control, reimbursement, capital regulation, defense and industrial policy, and public-trust dependence
+- latest three-quarter chains for compliance cost, capital allocation, pricing permission, governance repair, and policy-sensitive demand
+- company packets for the plain-English operating model across technology, healthcare, financials, industrials, and environmental infrastructure
+- exact supporting facts on export restrictions, data or privacy oversight, reimbursement pressure, capital and supervisory rules, defense budget visibility, and environmental compliance intensity
+- burden-versus-beneficiary interpretations for who can turn regulatory complexity into a moat versus who remains most exposed to policy permission risk
+- next filing watchlists for sovereignty spending, trust repair, antitrust pressure, export-control expansion, and regulated-margin sensitivity
+
 ## Theme
 
 - Name: Regulation, trust, and sovereignty risk are moving from background disclosure into core earnings logic
@@ -77,6 +88,15 @@ Across the current archive, regulation and governance risk are no longer side co
 - Some companies are being constrained by regulation, but others are building advantage through their ability to operate inside it.
 - Scale may become more durable where policy complexity increases, because larger firms can absorb compliance, redesign, and resilience costs more easily.
 - Geopolitical and regulatory shifts can now change capital allocation, product roadmaps, and margin expectations across multiple sectors at once.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show regulation and trust shaping earnings logic rather than sitting in the risk-factor appendix?`
+2. `Which companies prove technology, healthcare, financial, and industrial sovereignty pressure directly?`
+3. `Who turns regulatory complexity into a scale advantage and who remains most exposed to policy permission risk?`
+4. `What future evidence would weaken the regulation-trust-and-sovereignty interpretation?`
 
 ## Counter-signals
 

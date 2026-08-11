@@ -14,6 +14,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for contract talent, managed services, recurring outsourcing, and specialist labor intermediation
+- latest three-quarter chains for staffing demand, bookings, consulting mix, recurring service revenue, and outsourced operations momentum
+- company packets for the plain-English operating model across staffing, consulting, workplace services, and inspection/safety outsourcing
+- exact supporting facts on contract placement, managed-services bookings, route service density, recurring inspection work, and external execution capacity
+- burden-versus-beneficiary interpretations for who benefits from being the labor intermediary versus who still carries heavier delivery or utilization burden
+- next filing watchlists for contract-talent recovery, managed-services durability, recurring-service retention, and demand for external execution
+
 ## Theme
 
 - Name: More work is being bought through intermediated labor, recurring service contracts, and external execution layers rather than fully in-house headcount
@@ -62,6 +73,15 @@ The current archive suggests that labor is not only an input cost problem. It is
 - Companies are increasingly deciding between internal headcount, contract talent, managed services, and embedded recurring operators rather than simply deciding whether to hire more employees.
 - Specialized white-collar work, implementation capacity, and compliance-heavy operational labor are all participating in this intermediation trend, even if they do so through different business models.
 - The labor market should be analyzed not only through wage pressure and headcount comments, but through who captures the economics of coordinating work.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show labor intermediation and external execution as a durable operating pattern rather than a temporary hiring workaround?`
+2. `Which companies prove staffing, managed services, and recurring outsourced operations directly?`
+3. `Who captures the cleaner intermediary economics and who still carries more delivery or utilization burden?`
+4. `What future evidence would weaken the labor-intermediation-and-fractional-work interpretation?`
 
 ## Counter-signals
 

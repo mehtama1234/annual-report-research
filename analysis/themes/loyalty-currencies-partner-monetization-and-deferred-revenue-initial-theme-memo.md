@@ -17,6 +17,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for points economics, co-brand or partner monetization, stored value, and deferred-revenue mechanics
+- latest three-quarter chains for loyalty sales, prepaid balances, membership fees, event deferred revenue, and partner contribution quality
+- company packets for the plain-English operating model across airlines, payments, restaurants, gaming, retail membership, and recurring consumer platforms
+- exact supporting facts on SkyMiles sales, card-fee economics, stored-value balances, co-brand relationships, membership renewals, and prepaid demand visibility
+- burden-versus-beneficiary interpretations for who owns the loyalty currency and balance-sheet timing advantage versus who still carries fulfillment or promotional burden
+- next filing watchlists for partner concentration, deferred-revenue growth, stored-value durability, and regulatory or accounting scrutiny
+
 ## Theme
 
 - Name: Loyalty currencies, partner monetization, and deferred revenue
@@ -88,6 +99,15 @@ The archive now supports a more specific claim than “loyalty creates retention
 - The archive also supports a sharper distinction between the mechanisms. A stored-value loop, a mileage-sale loop, a membership-fee loop, a digital-wallet loop, and an advance-booking loop may all improve revenue quality, but they should not be treated as interchangeable.
 - This force cuts across travel, restaurants, gaming, retail, live entertainment, and payments, which makes it more structural than sector-specific.
 - The strongest businesses in this set are not only selling products or experiences. They are operating relationship currencies.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show loyalty currencies and deferred revenue as real economic engines rather than as side accounting details?`
+2. `Which companies prove direct fee, partner-sale, stored-value, or deferred-demand models directly?`
+3. `Who captures the cleanest balance-sheet and relationship economics and who still bears the heavier service or fulfillment burden?`
+4. `What future evidence would weaken the loyalty-currencies-and-partner-monetization interpretation?`
 
 ## Counter-signals
 

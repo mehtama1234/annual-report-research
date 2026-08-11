@@ -24,6 +24,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for membership design, subscriptions, loyalty loops, wallet position, and interface ownership
+- latest three-quarter chains for renewal rates, ad-supported growth, transaction frequency, digital engagement, and stored-value or points activity
+- company packets for the plain-English operating model across retail, restaurants, media, travel, gaming, payments, and branded consumer ecosystems
+- exact supporting facts on Prime, Costco renewal economics, Starbucks stored value, restaurant loyalty, streaming subscriptions and ads, airline and hotel loyalty, and premium-card membership
+- burden-versus-beneficiary interpretations for who owns the recurring consumer surface versus who relies on partner economics, physical fulfillment, or promotional spend to sustain it
+- next filing watchlists for membership retention, ad-layer monetization, wallet share, and consumer-frequency durability
+
 ## Theme
 
 - Name: Recurring consumer interfaces and membership systems
@@ -109,6 +120,15 @@ One of the clearest cross-sector patterns in the current archive is that the mos
 - This force cuts across retail, services, travel, entertainment, and financials. It is not one sector story.
 - Consumer caution does not eliminate this pattern. In many cases it strengthens it, because value-sensitive or habit-driven consumers may rely even more on the interfaces they already trust.
 - The strongest versions of the model are not just digital. They connect digital identity and payment with physical behavior: store visits, flights, hotel stays, restaurant orders, arena attendance, or warehouse trips.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show recurring interfaces and membership systems as a cross-sector operating model rather than a loose group of consumer brands?`
+2. `Which companies prove fee loops, stored-value loops, subscription loops, and loyalty loops directly?`
+3. `Who captures the cleanest recurring interface economics and who still carries more fulfillment, content, or promotional burden?`
+4. `What future evidence would weaken the recurring-consumer-interfaces interpretation?`
 
 ## Counter-signals
 

@@ -16,6 +16,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for payer policy exposure, pharma portfolio reset, medtech breadth, provider throughput, and scientific-workflow diversification
+- latest three-quarter chains for medical-cost trends, product launches, reimbursement timing, procedure demand, diagnostics growth, and operating execution
+- company packets for the plain-English operating model across payer, pharma, diversified healthcare, hospital, diagnostics, and life-science-tools names
+- exact supporting facts on repricing, launched-and-acquired products, payer mix, Medicaid timing, installed-base pull-through, and acquisition-supported growth
+- burden-versus-beneficiary interpretations for who controls healthcare workflow or portfolio breadth versus who carries policy, reimbursement, and trust repair burden
+- next filing watchlists for margin repair, launch durability, reimbursement shifts, scientific-demand normalization, and governance pressure
+
 ## Theme
 
 - Name: Healthcare earnings are currently being shaped less by simple demand stability and more by policy, portfolio reset, and operating discipline
@@ -72,6 +83,15 @@ The current UnitedHealth, Pfizer, Johnson & Johnson, HCA, Abbott, and Thermo Fis
 - HCA makes the set materially better again because provider throughput, payer mix, and state-directed-payment timing now sit beside the payer and product cases rather than being inferred from them.
 - Abbott makes the set materially better again because healthcare now includes a cleaner diagnostics-and-device platform with recurring instrument, consumables, and procedure-linked product logic.
 - Thermo Fisher makes the set materially better again because healthcare now includes the life-science-tools and serving-science layer, where research and lab workflow intensity drive results.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show healthcare earnings being shaped by policy and portfolio design rather than by simple defensive demand?`
+2. `Which companies prove the payer, product, provider, and workflow layers directly?`
+3. `Who captures cleaner recurring healthcare economics and who carries the heavier policy or reimbursement burden?`
+4. `What future evidence would weaken the healthcare-policy-and-portfolio interpretation?`
 
 ## Counter-signals
 

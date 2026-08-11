@@ -14,6 +14,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for senior housing demand, Medicare and care-management pressure, provider throughput, and chronic-care device exposure
+- latest three-quarter chains for occupancy, admissions, cost trend, reimbursement mix, and recurring procedure or monitoring demand
+- company packets for the plain-English operating model across senior living, payer administration, hospital capacity, and device/diagnostics support
+- exact supporting facts on resident fees, care intensity, Medicare mix, hospital service mix, and recurring device or diagnostics usage
+- burden-versus-beneficiary interpretations for who benefits from aging-linked demand versus who absorbs staffing, reimbursement, and care-complexity burden
+- next filing watchlists for occupancy gains, Medicare pressure, hospital throughput, and chronic-care category durability
+
 ## Theme
 
 - Name: Aging is increasingly showing up as a housing care-intensity and service-capacity force, not only as a generic healthcare-demand backdrop
@@ -55,6 +66,15 @@ The archive now has enough evidence to map `the-graying-market` explicitly. Broo
 - The archive can now map `the-graying-market` directly rather than leaving it as an uncovered force.
 - Aging should be framed as a daily-life services, care-capacity, and housing-support force, not only as a healthcare-demand tailwind.
 - Demographic aging is interacting with labor scarcity, care intensity, reimbursement friction, and family-support systems rather than showing up as a single easy growth story.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show aging as a housing, care-intensity, and service-capacity force rather than as a vague demographic backdrop?`
+2. `Which companies prove the housing, payer, provider, and device sides of aging directly?`
+3. `Who captures the demand tailwind and who carries the heavier staffing or reimbursement burden?`
+4. `What future evidence would weaken the graying-market interpretation?`
 
 ## Counter-signals
 

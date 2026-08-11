@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-11",
+  "repo": "annual-report-research",
+  "legacy_root": "/home/manishmehta/ui-projects/annual-report-research-new-lanes",
+  "all_markdown_files": 555,
+  "raw_evidence_files": 553,
+  "historical_or_nonraw_files": 2,
+  "historical_or_nonraw_paths": [
+    "notes/legacy-root-reference-audit-2026-08-11.md",
+    "notes/new-lanes-raw-blob-offload-2026-08-10.md"
+  ],
+  "raw_evidence_audit_script": "scripts/audit-legacy-root-references.sh",
+  "raw_evidence_resolver": "scripts/resolve-offloaded-raw-path.py",
+  "raw_offload_manifest": "indexes/raw-blob-offload-manifest-2026-08-10.csv",
+  "raw_offload_summary": "indexes/raw-blob-offload-summary-2026-08-10.tsv"
+}

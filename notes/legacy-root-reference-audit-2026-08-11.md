@@ -54,6 +54,11 @@ That script prints:
 - the residual historical or non-raw files
 - the heaviest raw-evidence files by frequency of retained provenance links
 
+Machine-readable artifacts:
+
+- `notes/legacy-root-reference-audit-2026-08-11.json`
+- `indexes/legacy-root-raw-reference-top-files-2026-08-11.tsv`
+
 ## How to resolve raw evidence
 
 If a remaining packet or source-ledger link points into the retired raw workspace, resolve it through:

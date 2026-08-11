@@ -23,6 +23,32 @@ The operating rule is:
 
 No broad claim without exact filing evidence. No company name as evidence. No sector label as explanation.
 
+## Non-Negotiable Output Shape
+
+Every serious company packet, lane summary, and proof memo should make the following explicit:
+
+- the exact filing facts
+- the plain-English business meaning
+- the consumer, cultural, societal, industrial, technical, or capital-structure signal when relevant
+- who benefits economically
+- who carries the burden
+- what would weaken the claim
+- what should be watched next
+
+Do not compress all bigger-picture interpretation into one generic theme sentence.
+
+Use the `Insight Stack` sections in the templates to test each company and lane for:
+
+- consumer behavior shift
+- cultural or lifestyle shift
+- societal or demographic pressure
+- industrial or operating pressure
+- technical or workflow dependency
+- capital-structure, property, or financing pressure
+- relationship owner versus burden carrier
+
+If a bucket is not supported by the filing window, say so directly. If it is supported, cite the exact facts and explain why they matter.
+
 ## Start Here
 
 1. Read the master goal.
@@ -53,13 +79,13 @@ Use it when taking a lane from first target selection to final proof memo and ha
 
 [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md)
 
-Use these when writing company packets, profiles, source ledgers, lane summaries, proof memos, aha moments, thesis breakers, and closeouts.
+Use these when writing company packets, profiles, source ledgers, lane summaries, proof memos, aha moments, thesis breakers, and closeouts. The templates now require an explicit `Insight Stack`, beneficiary-versus-burden sections, and a `Why This Matters Now` section for proof memos.
 
 6. Use the completion rubric.
 
 [insight-completion-rubric-2026-08-11.md](insight-completion-rubric-2026-08-11.md)
 
-Use it to decide whether a company packet, lane, or proof memo is actually finished rather than merely present.
+Use it to decide whether a company packet, lane, or proof memo is actually finished rather than merely present. Finished work must show how the filing evidence supports the bigger pattern and must state who benefits and who carries burden.
 
 7. Check the artifact manifest.
 
@@ -188,8 +214,9 @@ Use these as examples of the expected standard.
 8. Add exact annual and quarter evidence.
 9. Identify the real business, growth engine, economic lever, constraint, and thesis breaker.
 10. Identify the customer, cultural, societal, industrial, technical, or capital-structure signal.
-11. Name peer comparisons.
-12. Add next filing watchlist.
+11. Make the insight-stack buckets explicit and state which ones are not primary signals.
+12. Name peer comparisons.
+13. Add next filing watchlist.
 
 The company is not complete until the packet explains what the company is doing and what bigger signal it helps prove.
 
@@ -203,12 +230,13 @@ Before calling a company complete, score it against the completion rubric and ma
 4. Write an industry lane summary.
 5. Build a company comparison table.
 6. Extract cross-company themes.
-7. Write exact evidence tables.
-8. Identify aha moments.
-9. Add thesis breakers.
-10. Add watchlist metrics.
-11. Recommend next names.
-12. Record commit hash and raw blob status.
+7. State who benefits and who carries burden inside each major pattern.
+8. Write exact evidence tables.
+9. Identify aha moments.
+10. Add thesis breakers.
+11. Add watchlist metrics.
+12. Recommend next names.
+13. Record commit hash and raw blob status.
 
 The lane is not complete until it explains how the lane works and what repeated patterns the flagship companies prove together.
 

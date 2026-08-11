@@ -6,6 +6,22 @@ Use this template for a cross-company signal that matters enough to survive beyo
 This is not a throwaway note.
 It should capture the repeated pattern, the evidence, and why the pattern matters across the lane.
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, many of the archive's highest-value themes already have proof pages, comparison memos, and watchlists.
+
+That means this template should not be read only as a blank-slate theme-creation form.
+
+It should also be used to strengthen an existing proof theme.
+
+In those cases, the memo should usually improve one or more of these:
+
+- missing company-role coverage
+- contradiction or weak-link coverage
+- burden-versus-beneficiary clarity
+- exact fact-period support
+- next-filing break-test quality
+
 Before drafting the memo, decide which packet fields are doing the analytical work:
 
 - annual takeaways + latest three-quarter chain

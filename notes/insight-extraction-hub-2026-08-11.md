@@ -85,6 +85,7 @@ Use these as examples of the expected standard.
 | Proof page | What it demonstrates |
 |---|---|
 | [ai-physical-capacity-proof-2026-08-10.md](../analysis/cross-sector/ai-physical-capacity-proof-2026-08-10.md) | How to connect AI demand to chips, networks, power, cooling, construction, utilities, and backlog. |
+| [ai-capacity-burden-carrier-comparison-2026-08-11.md](../analysis/cross-sector/ai-capacity-burden-carrier-comparison-2026-08-11.md) | How to compare clean capture versus burden carriers across semiconductor inspection, power equipment, field execution, data-center capacity, and interconnection. |
 | [hidden-operating-infrastructure-proof-2026-08-10.md](../analysis/cross-sector/hidden-operating-infrastructure-proof-2026-08-10.md) | How to explain distributors, service layers, hygiene, water, and quality control as daily operating infrastructure. |
 | [selective-consumer-proof-2026-08-10.md](../analysis/cross-sector/selective-consumer-proof-2026-08-10.md) | How to separate value, beauty, comfort, staples, and upstream packaging signals. |
 | [fandom-identity-participation-proof-2026-08-10.md](../analysis/cross-sector/fandom-identity-participation-proof-2026-08-10.md) | How to prove participation and identity with Disney, Netflix, Roblox, Ulta, e.l.f., Crocs, and Deckers. |

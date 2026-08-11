@@ -31,6 +31,7 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Theme | Artifact | Evidence standard represented |
 |---|---|---|
 | AI physical capacity | [ai-physical-capacity-proof-2026-08-10.md](../analysis/cross-sector/ai-physical-capacity-proof-2026-08-10.md) | Uses company packet facts to connect AI demand to chips, networking, power, cooling, skilled trades, utilities, and backlog. |
+| AI capacity burden carriers | [ai-capacity-burden-carrier-comparison-2026-08-11.md](../analysis/cross-sector/ai-capacity-burden-carrier-comparison-2026-08-11.md) | Applies the insight-driven queue's fourth priority by comparing clean capture versus burden carriers across KLA, Vertiv, Eaton, Quanta, Digital Realty, and Equinix. |
 | Hidden operating infrastructure | [hidden-operating-infrastructure-proof-2026-08-10.md](../analysis/cross-sector/hidden-operating-infrastructure-proof-2026-08-10.md) | Uses exact facts from Sysco, Grainger, Ferguson, WESCO, Ecolab, and Veralto to show daily operating infrastructure. |
 | Selective consumer | [selective-consumer-proof-2026-08-10.md](../analysis/cross-sector/selective-consumer-proof-2026-08-10.md) | Separates value, beauty, comfort, staples pressure, and upstream packaging pressure with exact examples. |
 | Fandom, identity, participation | [fandom-identity-participation-proof-2026-08-10.md](../analysis/cross-sector/fandom-identity-participation-proof-2026-08-10.md) | Uses Disney, Netflix, Roblox, Ulta, e.l.f., Crocs, and Deckers to prove role-based consumer spending. |

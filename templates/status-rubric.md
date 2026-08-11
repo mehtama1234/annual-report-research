@@ -59,5 +59,11 @@ Use this as a quick label test before marking anything strong:
   - the writeup says what the annual takeaways, quarter chain, strategy read, operating model, exact supporting facts, burden read, and watchlist are actually proving
 - claim-type fit
   - consumer, cultural, societal, industrial, technical, capital, and cross-company claims meet the right burden of proof instead of using broad language
+- fact-period fit
+  - the writeup names the exact metric or operating fact and the exact annual or quarterly period carrying the claim
+- causal fit
+  - the writeup explains why that fact supports the conclusion instead of merely appearing near it
+- disconfirming fit
+  - the writeup says what next-filing evidence would weaken or disprove the claim
 - burden clarity
   - the writeup says who captures the cleaner economics and who absorbs the messy work

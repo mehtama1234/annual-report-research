@@ -84,6 +84,26 @@ Different claim types also need different proof burdens:
 - cross-company pattern claim
   - show: exact support from at least three companies and what evidence would weaken the broader pattern
 
+Before locking a lane conclusion, write down:
+
+- the exact company facts carrying the lane claim
+- the exact filing periods those facts come from
+- what changed across those facts
+- the causal chain from company evidence to lane pattern
+- the best alternative explanation still in play
+- the next watch metric or event that would weaken the lane read
+
+## Lane claim-to-proof map
+
+- Main lane claim:
+- Claim type:
+- Exact companies carrying the claim:
+- Exact facts carrying the claim:
+- Exact periods:
+- Causal chain from company facts to lane conclusion:
+- Best alternative explanation still in play:
+- Best next-filing disconfirming test:
+
 ## Lane definition
 
 - Lane name:
@@ -258,6 +278,13 @@ Before writing the interpretation, note which packet fields are doing the work:
 - exact supporting facts
 - burden-versus-beneficiary interpretation
 - thesis breaker + watchlist
+
+For each completed flagship company, the lane note should still be able to name:
+
+- the best annual evidence line
+- the best latest-quarter evidence line
+- the best burden-versus-beneficiary evidence line
+- the best metric that could weaken the lane claim next
 
 ### Company 1
 

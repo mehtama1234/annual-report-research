@@ -5,22 +5,50 @@ Repo: `annual-report-research`
 
 If you are starting work in this repo, read these files in this order:
 
-1. [Master operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/master-operator-brief-2026-08-10.md)
-2. [End-to-end pursuit goal](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-pursuit-goal-2026-08-10.md)
-3. [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research/indexes/cli-lane-instructions-2026-08-10.md)
-4. [Lane run template](/home/manishmehta/ui-projects/annual-report-research/templates/lane-run-template.md)
-5. [Batch log template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-log-template.md)
-6. [Theme memo template](/home/manishmehta/ui-projects/annual-report-research/templates/theme-memo.md)
-7. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
-8. [Status rubric](/home/manishmehta/ui-projects/annual-report-research/templates/status-rubric.md)
-9. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
+1. [Insight extraction hub](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-hub-2026-08-11.md)
+2. [End-to-end insight operator and review brief](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md)
+3. [Remaining end-to-end insight goal](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
+4. [Remaining insight execution board](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-insight-execution-board-2026-08-11.md)
+5. [Insight-driven next lane queue](/home/manishmehta/ui-projects/annual-report-research/notes/insight-driven-next-lane-queue-2026-08-11.md)
+6. [Lane end-to-end execution runbook](/home/manishmehta/ui-projects/annual-report-research/notes/lane-end-to-end-execution-runbook-2026-08-11.md)
+7. [Insight extraction templates](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-templates-2026-08-11.md)
+8. [Insight completion rubric](/home/manishmehta/ui-projects/annual-report-research/notes/insight-completion-rubric-2026-08-11.md)
+9. [Insight artifact manifest](/home/manishmehta/ui-projects/annual-report-research/notes/insight-artifact-manifest-2026-08-11.md)
 10. [Next steps](/home/manishmehta/ui-projects/annual-report-research/notes/next-steps.md)
-11. [Current handoff](/home/manishmehta/ui-projects/annual-report-research/notes/handoff-2026-08-10.md)
-12. [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
-13. [Current execution queue](/home/manishmehta/ui-projects/annual-report-research/notes/current-execution-queue-2026-08-10.md)
-14. [End-to-end insight operator and review brief](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md)
-15. [Remaining end-to-end insight goal](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
-16. [Remaining insight execution board](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-insight-execution-board-2026-08-11.md)
+11. [Master operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/master-operator-brief-2026-08-10.md)
+12. [End-to-end pursuit goal](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-pursuit-goal-2026-08-10.md)
+13. [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research/indexes/cli-lane-instructions-2026-08-10.md)
+14. [Lane run template](/home/manishmehta/ui-projects/annual-report-research/templates/lane-run-template.md)
+15. [Batch log template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-log-template.md)
+16. [Theme memo template](/home/manishmehta/ui-projects/annual-report-research/templates/theme-memo.md)
+17. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
+18. [Status rubric](/home/manishmehta/ui-projects/annual-report-research/templates/status-rubric.md)
+19. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
+20. [Current handoff](/home/manishmehta/ui-projects/annual-report-research/notes/handoff-2026-08-10.md)
+21. [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
+22. [Current execution queue](/home/manishmehta/ui-projects/annual-report-research/notes/current-execution-queue-2026-08-10.md)
+
+## Current Archive State
+
+As of Tuesday, August 11, 2026, the archive is no longer mainly missing its first interpretation layer.
+
+Many of the highest-value lanes already have:
+
+- frameworks
+- proof pages
+- comparison memos
+- next-filing watchlists
+
+That means a new run should usually start with the continuation-mode notes above rather than with older kickoff briefs alone.
+
+The default next move is often not to open a lane from zero.
+
+It is often to:
+
+- fill a missing flagship role
+- add the strongest contradiction or weak-link case
+- sharpen the burden-versus-beneficiary split
+- improve the next-filing break test
 
 ## Insight-System Maintenance
 

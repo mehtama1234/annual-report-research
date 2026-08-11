@@ -33,6 +33,19 @@ This memo asks:
 
 Which companies get paid because staying inside the rulebook is itself a recurring operating need?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make compliance and mandated-spend economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that regulation creates demand.
+
 ## Exact Evidence
 
 | Company | Compliance or mandated-spend role | Exact packet facts | What the facts prove |
@@ -192,6 +205,17 @@ This compliance-and-mandated-spend thesis weakens if:
 - automation removes third-party providers faster than it strengthens them
 - reimbursement or pricing pressure overwhelms the value of the service
 - trust in the compliance provider breaks, making the proof itself less valuable
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the compliance-demand system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, compliance map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

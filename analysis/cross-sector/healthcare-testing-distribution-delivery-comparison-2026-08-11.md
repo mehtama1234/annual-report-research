@@ -22,6 +22,19 @@ This memo extends the earlier healthcare comparison by focusing on the healthcar
 - installed devices and diagnostics
 - therapy-enabling delivery components
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make healthcare testing, distribution, and delivery-control economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that middle layers matter.
+
 ## Company Evidence Base
 
 | Company | Role in the care system | Exact filing-window facts | What the facts prove |
@@ -172,6 +185,17 @@ The recurring healthcare middle-layer thesis weakens if:
 - Abbott and Thermo Fisher broad product and workflow breadth prove less sticky than the packets suggest.
 - West's interface-control economics compress if qualified component advantages become easier to substitute.
 - Scientific, diagnostic, and delivery-control layers all slow together, suggesting the middle-layer embeddedness is weaker than the current packet set implies.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the healthcare middle layer?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the company evidence base, recurring-care-workflow map, strategy reads, and thesis-breaker sections above.
 
 ## Next Recommended Names
 

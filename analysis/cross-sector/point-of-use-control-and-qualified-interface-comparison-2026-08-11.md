@@ -44,6 +44,19 @@ The question here is:
 
 Which companies become powerful because they control the qualified point of use inside healthcare, packaging, monitoring, or payments?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make point-of-use control and qualified-interface economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad statement that touchpoints are valuable.
+
 ## Exact Evidence
 
 | Company | Point-of-use role | Exact packet facts | What the facts prove |
@@ -215,6 +228,17 @@ This point-of-use-control thesis weakens if:
 - reimbursement, hospital budgets, merchant leverage, or qualification changes reduce the value of the interface owner
 - adjacent layers capture more economics than the point-of-use owner
 - the company loses trust at the actual moment of use
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the point-of-use-control system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, point-of-use control map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

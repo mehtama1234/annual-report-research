@@ -38,6 +38,19 @@ This matters because some moats are not mainly:
 
 They come from the fact that the customer does not want to reopen a validated system unless the benefit is overwhelming.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make qualification, validation, and reapproval friction visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that switching costs exist.
+
 ## Exact Evidence
 
 | Company | Qualification or validation moat | Exact packet facts | What the facts prove |
@@ -196,6 +209,17 @@ This qualification-and-reapproval-friction thesis weakens if:
 - interoperability improves enough to reduce incumbent advantage materially
 - trust shocks or product failures make reapproval costs worth paying
 - the economic value of the validated layer falls faster than the cost of replacing it
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the reapproval-friction system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, reapproval-friction map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

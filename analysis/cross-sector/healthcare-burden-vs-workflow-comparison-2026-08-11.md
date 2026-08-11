@@ -22,6 +22,19 @@ Healthcare demand is durable, but the economics split sharply by role.
 
 Payers and hospitals sit closest to reimbursement, utilization, policy, labor, and public-trust burden. Tools, diagnostics, devices, and diversified healthcare platforms can sometimes capture cleaner workflow economics, but they still depend on installed-base adoption, research budgets, procedure volume, reimbursement, and portfolio execution.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make healthcare burden-versus-workflow economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that healthcare is defensive but messy.
+
 ## Exact Evidence
 
 | Company | Role | Exact packet facts | What the facts prove |
@@ -237,13 +250,23 @@ The aha is that some healthcare infrastructure is not a care site. It is the equ
 | `Johnson & Johnson` | Innovative Medicine sales, MedTech sales, growth excluding patent-pressure products, pipeline progress, reimbursement pressure, litigation, adjusted EPS. |
 
 ## Thesis Breakers
-
 - If UnitedHealth scale fails to restore margin control, the payer-coordination thesis weakens.
 - If HCA keeps strong admissions but EBITDA is absorbed by labor, payer mix, or policy, hospitals remain essential but structurally burdened.
 - If Thermo Fisher's growth depends mainly on acquisitions while organic growth stays low, scientific workflow looks less durable.
 - If Abbott's device and diagnostics growth slows after acquisition effects normalize, installed workflow is less powerful.
 - If J&J's portfolio breadth cannot offset patent, litigation, or reimbursement pressure, diversification may be more defensive than growth-oriented.
 - If outside-hospital providers like DaVita, Option Care, Addus, AdaptHealth, Quest, and Cencora all face margin pressure at the same time, the whole repeated-care thesis needs a harder reimbursement/labor discount.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the healthcare burden-versus-workflow system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, company strategy reads, burden-versus-cleaner-workflow map, and thesis-breaker sections above.
 
 ## Next Recommended Names
 

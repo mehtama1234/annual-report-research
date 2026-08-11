@@ -23,7 +23,9 @@ If a packet cites a raw evidence path that is no longer present in the checkout,
 
 - [Raw blob offload readme](/home/manishmehta/ui-projects/annual-report-research/notes/raw-blob-offload-readme-2026-08-10.md)
 - [Raw evidence link policy](/home/manishmehta/ui-projects/annual-report-research/notes/raw-evidence-link-policy-2026-08-11.md)
+- [Legacy root reference audit](/home/manishmehta/ui-projects/annual-report-research/notes/legacy-root-reference-audit-2026-08-11.md)
 - `python3 scripts/resolve-offloaded-raw-path.py 'raw/.../file.ext'`
+- `bash scripts/verify-raw-evidence-governance.sh`
 
 ## Current operating brief
 

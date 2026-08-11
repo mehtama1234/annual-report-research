@@ -144,6 +144,7 @@ Use these as examples of the expected standard.
 | [installed-base-and-pull-through-economics-comparison-2026-08-11.md](../analysis/cross-sector/installed-base-and-pull-through-economics-comparison-2026-08-11.md) | How to compare businesses where the first placement or onboarding matters less than the recurring consumables, service, testing, monitoring, or resupply that follows. |
 | [accepted-record-and-auditable-workflow-control-comparison-2026-08-11.md](../analysis/cross-sector/accepted-record-and-auditable-workflow-control-comparison-2026-08-11.md) | How to compare businesses that become important because they are treated as the accepted record, proof layer, or auditable source of truth inside a workflow. |
 | [frontline-visibility-and-executable-workflow-comparison-2026-08-11.md](../analysis/cross-sector/frontline-visibility-and-executable-workflow-comparison-2026-08-11.md) | How to compare businesses that make real-world work visible, identifiable, and executable when plans have to turn into frontline action. |
+| [machine-readable-operating-state-comparison-2026-08-11.md](../analysis/cross-sector/machine-readable-operating-state-comparison-2026-08-11.md) | How to compare businesses that turn messy physical or institutional conditions into standardized operating state that systems can scan, route, govern, and act on. |
 | [taxonomy-blind-spots-proof-2026-08-10.md](../analysis/cross-sector/taxonomy-blind-spots-proof-2026-08-10.md) | How to use AnnualReports taxonomy without letting it hide the company's real role. |
 
 ## Workflow For A New Company

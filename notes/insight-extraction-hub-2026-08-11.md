@@ -31,61 +31,67 @@ No broad claim without exact filing evidence. No company name as evidence. No se
 
 Use it to understand the required end state.
 
-2. Read the meaty end-to-end goal.
+2. Read the operator-ready master instruction.
+
+[end-to-end-insight-master-instruction-2026-08-11.md](end-to-end-insight-master-instruction-2026-08-11.md)
+
+Use it when you need one concise instruction block that still preserves the full ambition level.
+
+3. Read the meaty end-to-end goal.
 
 [meaty-end-to-end-insight-goal-2026-08-11.md](meaty-end-to-end-insight-goal-2026-08-11.md)
 
 Use it to understand the full ambition level: packets, lane economics, proof pages, societal shifts, operating pressures, aha moments, and handoff quality.
 
-3. Read the lane runbook.
+4. Read the lane runbook.
 
 [lane-end-to-end-execution-runbook-2026-08-11.md](lane-end-to-end-execution-runbook-2026-08-11.md)
 
 Use it when taking a lane from first target selection to final proof memo and handoff.
 
-4. Use the templates.
+5. Use the templates.
 
 [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md)
 
 Use these when writing company packets, profiles, source ledgers, lane summaries, proof memos, aha moments, thesis breakers, and closeouts.
 
-5. Check the artifact manifest.
+6. Check the artifact manifest.
 
 [insight-artifact-manifest-2026-08-11.md](insight-artifact-manifest-2026-08-11.md)
 
 Use it to audit that the required goal, templates, guides, proof memos, watchlists, and browser links exist.
 
-6. Use the company strategy guide.
+7. Use the company strategy guide.
 
 [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md)
 
 Use it when a packet needs to explain the company itself.
 
-7. Use the industry strategy guide.
+8. Use the industry strategy guide.
 
 [industry-level-strategy-guide-2026-08-10.md](../analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md)
 
 Use it when a batch needs to explain a lane.
 
-8. Use the metric glossary.
+9. Use the metric glossary.
 
 [metric-glossary-and-watchlist-2026-08-10.md](../analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md)
 
 Use it to decide which metrics to track next quarter.
 
-9. Use the thesis breaker index.
+10. Use the thesis breaker index.
 
 [thesis-breaker-index-2026-08-10.md](../analysis/cross-sector/thesis-breaker-index-2026-08-10.md)
 
 Use it to keep the research falsifiable.
 
-10. Use the aha and curiosity page.
+11. Use the aha and curiosity page.
 
 [aha-moments-and-curiosity-questions-2026-08-10.md](../analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md)
 
 Use it to identify the next questions worth pursuing.
 
-11. Use the insight-driven queue.
+12. Use the insight-driven queue.
 
 [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
 

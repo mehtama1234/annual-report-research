@@ -38,6 +38,14 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Browser entry | Gives human review access to the stack and explains how concrete insight pages should be read, which packet fields support claims, and how claim types should be audited. | [site/index.html](../site/index.html), [site/concrete-insights.html](../site/concrete-insights.html) | Present |
 | Raw-evidence governance | Explains how offloaded `raw/**` evidence is resolved, audited, and distinguished from live navigation. | [raw-evidence-link-policy-2026-08-11.md](raw-evidence-link-policy-2026-08-11.md), [legacy-root-reference-audit-2026-08-11.md](legacy-root-reference-audit-2026-08-11.md), [raw-blob-offload-readme-2026-08-10.md](raw-blob-offload-readme-2026-08-10.md) | Present |
 
+## Required Proof Chain
+
+Across the whole system, the current required argument shape is:
+
+`exact fact -> exact period -> plain-English meaning -> causal explanation -> alternative explanation -> disconfirming next-filing test`
+
+If an artifact cannot be reduced to that chain, it may still be useful intermediate work, but it is not yet a finished insight artifact.
+
 ## Reusable Note Layer
 
 The reusable note layer now carries the same evidence-chain standard as the main insight guides.
@@ -80,6 +88,8 @@ Across the reusable layer, the current enforcement standard is now:
 - packet inputs must be named before broad conclusions are made
 - packet fields should say what they are proving, not just appear as headings
 - consumer, cultural, societal, industrial, technical, capital, and cross-company claims should meet their own proof burden
+- exact periods and causal links should be named rather than implied
+- the strongest conclusions should also identify the best alternative explanation and disconfirming next-filing test
 - skeptical-reader checks should make shallow but polished writeups fail fast
 
 ## Standardization Boundary

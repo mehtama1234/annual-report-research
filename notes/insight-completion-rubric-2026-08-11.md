@@ -28,6 +28,10 @@ It is done when a reader can move from:
 
 without having to guess.
 
+The strongest version of that path is:
+
+`exact fact -> exact period -> plain-English meaning -> causal explanation -> alternative explanation -> disconfirming next-filing test`
+
 ## What "Done" Means
 
 A finished insight artifact must answer all of these in plain English:
@@ -43,6 +47,8 @@ A finished insight artifact must answer all of these in plain English:
 
 If any one of those is missing, the work is not fully done.
 
+If the artifact cannot also name the exact period carrying the claim, explain why the fact supports the conclusion, and say what alternative explanation or next-filing evidence would weaken the read, it is still incomplete.
+
 ## Scoring Scale
 
 Use a four-part completion scale:
@@ -54,8 +60,8 @@ Use a four-part completion scale:
 
 Minimum standard:
 
-- flagship company packet: no section below `2`, at least `24/30` total
-- lane summary: no section below `2`, at least `21/27` total
+- flagship company packet: no section below `2`, at least `26/33` total
+- lane summary: no section below `2`, at least `23/30` total
 - proof memo: no section below `2`, at least `24/30` total
 
 If an artifact fails the minimum, it should be treated as partial even if the file exists.
@@ -93,6 +99,16 @@ Score each flagship company packet on these ten dimensions.
 `2`: annual and quarter facts support the strategy read
 
 `3`: exact metrics, segment facts, and quarter progression directly support each major claim
+
+### 3A. Fact-Period-Causal Fit
+
+`0`: the claim has no clear proof chain
+
+`1`: facts are present but period or causal meaning is unclear
+
+`2`: the company read names the exact fact, exact period, and why the fact matters
+
+`3`: the company read also names the strongest alternative explanation and the next-filing disconfirming test
 
 ### 4. Growth Engine
 
@@ -207,6 +223,16 @@ Score each lane run on these nine dimensions.
 `2`: lane claims are supported by exact packet facts across multiple companies
 
 `3`: the lane could be audited quickly because each major claim has exact examples and the packet inputs behind the comparison are named explicitly
+
+### 4A. Fact-Period-Causal Fit
+
+`0`: lane claims have no clear proof chain
+
+`1`: facts are present but exact periods or causal logic are weak
+
+`2`: the lane read names exact company facts, exact periods, and why those facts support the conclusion
+
+`3`: the lane read also names the strongest alternative explanation and the best disconfirming next-filing test
 
 ### 5. Operating Pressures
 

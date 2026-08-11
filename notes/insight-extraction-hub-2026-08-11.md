@@ -44,6 +44,15 @@ Every serious company packet, lane summary, and proof memo should make the follo
 - what would weaken the claim
 - what should be watched next
 
+Every serious claim should also be reducible to one proof chain:
+
+- exact metric, operating fact, or management statement
+- exact annual or quarterly period
+- plain-English conclusion
+- causal reason the fact supports the conclusion
+- best alternative explanation still in play
+- next-filing disconfirming test
+
 Do not compress all bigger-picture interpretation into one generic theme sentence.
 
 Use the `Insight Stack` sections in the templates to test each company and lane for:
@@ -66,6 +75,10 @@ Before treating any lane summary or proof memo as done, run the skeptical-reader
 - What would change the conclusion?
 
 If the page cannot answer those four without guessing, keep working.
+
+It should also let the reader restate the full argument in one sentence:
+
+`this exact fact, from this exact period, supports this conclusion for this reason, unless the next filing shows this weakening signal instead`
 
 ## Packet-To-Insight Translation Layer
 

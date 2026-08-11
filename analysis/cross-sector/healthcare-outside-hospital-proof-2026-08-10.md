@@ -6,6 +6,10 @@ Date baseline: 2026-08-10
 
 Healthcare is becoming a repeated operating system that extends beyond hospitals. The evidence shows care moving through home support, dialysis, infusion, diagnostics, medical equipment, drug distribution, monitoring, devices, and specialty logistics.
 
+Applied comparison memo:
+
+- [healthcare-burden-vs-workflow-comparison-2026-08-11.md](healthcare-burden-vs-workflow-comparison-2026-08-11.md)
+
 ## Exact Evidence
 
 | Company | Exact packet facts | What it proves |

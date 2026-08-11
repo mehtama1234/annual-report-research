@@ -149,7 +149,7 @@ Close the thinnest requested sub-lanes so the archive no longer feels like a few
 The main unresolved lane-role gaps are:
 
 - recreation:
-  - owner-versus-brand comparison depth
+  - deeper owner-subcluster density only if the goal is more than the now-real owner-versus-brand bridge
   - fuller integration of the already-existing second food-wholesale anchor into the main recreation proof layer
 - CLI 4:
   - second pure payer anchor if the goal is full comparison closure beyond the now-stronger adjacent burden bridge

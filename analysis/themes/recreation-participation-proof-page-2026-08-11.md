@@ -22,6 +22,7 @@ Supporting lane context:
 - [Recreation Batch C Handoff](/home/manishmehta/ui-projects/annual-report-research/notes/recreation-batch-c-handoff-2026-08-10.md)
 - [Fandom, Play, and Participation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
 - [Ritual, Occasion, and Stimulation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
+- [Recreation Owner And Repeat Relationship Bridge](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/recreation-owner-and-repeat-relationship-bridge-2026-08-11.md)
 
 ## The question
 

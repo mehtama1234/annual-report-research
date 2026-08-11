@@ -118,20 +118,20 @@ Already strong:
 
 Still thin or still needing a cleaner comparison set:
 
-- hospitality ownership versus brand control is good conceptually but still benefits from one tighter owner set
-- specialty retail other is present through `Ulta`, but not yet widened into a more explicit comparison cluster
+- hospitality ownership versus brand control is now materially stronger through `Host`, `Apple Hospitality`, and `Sunstone`, but could still deepen if the goal is owner-subcluster density rather than practical closure
+- specialty and repeat-relationship spend is now more explicit through `Ulta`, `Chewy`, and `Bath & Body Works`, but could still widen if the goal is broader lifestyle breadth rather than practical closure
 - food wholesale exists as a real two-name support layer, but it is still better integrated in middle-layer and cross-sector work than in the main recreation lane narrative
 
 Best exact next names:
 
-1. `Chewy, Inc.` to extend ritual, repeat, and emotionally loaded household spend beyond gifting and home furnishings
-2. `Apple Hospitality REIT, Inc.` to sharpen hotel ownership versus brand control and property burden
-3. `Sunstone Hotel Investors, Inc.` as the second owner-quality comparator if the hotel-owner sub-lane is the chosen extension
-4. another specialty-retail or participation operator only if the goal is to widen the lane beyond beauty, gifting, home, travel, gaming, and foodservice support
+1. another specialty-retail or participation operator only if the goal is to widen the lane beyond beauty, gifting, home, travel, gaming, pet care, and foodservice support
+2. another hotel owner only if the goal is to deepen the now-real owner comparison set beyond `Host`, `Apple Hospitality`, and `Sunstone`
+3. a more explicit restaurant or experiential-service relationship owner only if the lane wants a stronger everyday-participation counterweight to travel and gifting
+4. foodservice-support integration work if the goal is to bring the already-strong `Sysco` and `US Foods` layer even closer to the main recreation narrative
 
 Why these names matter:
 
-- they close the weakest ownership and participation roles still missing from recreation
+- they extend the remaining refinement areas rather than filling a still-missing core owner or specialty cluster
 - they make the lane less dependent on one proof path per sub-theme
 
 ### CLI 4 Healthcare Frontier

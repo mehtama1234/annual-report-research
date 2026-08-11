@@ -15,6 +15,19 @@ The useful question is:
 
 When AI demand becomes real infrastructure, who owns the bottleneck and who has to fund, build, lease, power, inspect, or maintain it?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make AI physical-capacity burden visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that AI demand helps infrastructure.
+
 ## Company Evidence Base
 
 | Company | AI capacity role | Exact filing-window facts | What the facts prove |
@@ -148,6 +161,17 @@ The AI physical-capacity thesis weakens if:
 - Vertiv and Eaton backlog or order strength fails to convert into revenue, margin, and free cash flow.
 - AI workloads become materially less power-, cooling-, network-, or data-center-intensive than current company evidence implies.
 - Utility interconnection delays, permitting, public opposition, or power prices slow customer deployment enough to strand capacity plans.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the AI physical-capacity system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence base, clean-capture-versus-burden map, backlog conversion analysis, and thesis-breaker sections above.
 
 ## Next Recommended Names
 

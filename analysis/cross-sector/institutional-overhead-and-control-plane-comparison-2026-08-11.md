@@ -36,6 +36,19 @@ This memo asks:
 
 Which companies get paid because modern institutions need more control planes and more operating overhead just to function cleanly?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make institutional overhead and control-plane demand visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a loose claim that complexity always creates software demand.
+
 ## Exact Evidence
 
 | Company | Control-plane or overhead role | Exact packet facts | What the facts prove |
@@ -178,6 +191,17 @@ This institutional-overhead thesis weakens if:
 - data governance moats weaken under open-format or hyperscaler competition
 - market-structure monetization fades because volatility, hedging intensity, or data pricing power fall sharply
 - labor and route density burdens erode the economics of physical overhead services such as Cintas
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the institutional-overhead system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, overhead-and-control-plane map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

@@ -39,6 +39,19 @@ The question here is:
 
 which companies get paid because they make the operating environment legible enough for systems, people, and rules to act on it consistently?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make machine-readable operating state visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic statement that digitization matters.
+
 ## Exact Evidence
 
 | Company | Machine-readable-state role | Exact packet facts | What the facts prove |
@@ -200,6 +213,17 @@ This machine-readable-operating-state thesis weakens if:
 - interoperability fails and state layers become fragmented again
 - frontline operators stop trusting the signals enough to act on them
 - automation demand slows enough that the state-translation layer loses budget priority
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the machine-readable-state system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, machine-readable-state map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

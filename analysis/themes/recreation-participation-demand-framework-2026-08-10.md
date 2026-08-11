@@ -184,6 +184,63 @@ Date baseline: 2026-08-10
 - highest-priority deeper hotel-owner extension: Apple Hospitality REIT, Inc. or Sunstone Hotel Investors, Inc.
 - why it matters: Host now fills the first hotel-REIT contrast, and a second owner name would help separate idiosyncratic Host characteristics from broader lodging-owner economics
 
+## Applied comparison memos
+
+- [Selective Consumer Proof](../cross-sector/selective-consumer-proof-2026-08-10.md)
+- [Recreation Lifestyle Occasion Demand Comparison](../cross-sector/recreation-lifestyle-occasion-demand-comparison-2026-08-11.md)
+- [Recreation Selective-Demand And Burden Watchlist](../cross-sector/recreation-selective-demand-and-burden-watchlist-2026-08-11.md)
+
+## Selective demand versus burden overlay
+
+The newer comparison and watchlist work makes the main recreation lane split much more concrete.
+
+This lane is not only about whether people are still spending on travel, gifting, beauty, home, dining, or entertainment.
+
+It is about which consumer roles still feel important enough to defend and which companies convert that defended demand into clean economics rather than absorbing it through physical burden.
+
+The archive now shows a repeated pattern:
+
+- consumers keep funding roles, occasions, and identity systems more readily than generic discretionary goods
+- relationship owners often keep the cleaner economics because they control loyalty, repeat behavior, data, membership, or brand access
+- goods-heavy, property-heavy, and support-layer businesses can still benefit from the same demand while carrying more inventory, tariff, labor, route, hold, or capital burden
+- premium demand is not automatically the answer; what matters more is whether the purchase feels socially necessary, emotionally coded, or habit-forming
+
+That means the main recreation question is no longer whether the consumer is “healthy.”
+
+It is where the burden lands after the consumer decides the purchase still matters.
+
+`Marriott` and `Hilton` show that travel demand can become cleaner economics when loyalty, fee streams, and owner-funded growth sit between the brand and the property.
+`Signet` shows that milestone and ritual spending can hold up because the purchase is socially scheduled, not merely discretionary.
+`Williams-Sonoma` and `RH` show that home-related demand splits between repeat hosting and identity behavior on one side and more macro-sensitive housing and large-ticket exposure on the other.
+`Sysco` shows that visible experience demand still has to survive freight, labor, sourcing, and route-density reality before it becomes good economics.
+`DraftKings` and `Las Vegas Sands` show that participation can also be monetized through software interfaces or destination ecosystems, but both still carry their own forms of volatility and regulatory or hold-sensitive burden.
+
+## What the current filing window actually proved
+
+The lane now supports several stronger conclusions than it did in the first pass.
+
+- `Selective demand is real, but uneven.` The filings support resilience in travel, loyalty, hosting, gifting, beauty, and milestone demand. They do not support the idea that all consumer-facing categories or all operators serving them earn equally clean returns.
+- `Role-based demand matters more than broad consumer labels.` The stronger demand pockets are attached to roles like traveler, host, gift-giver, loyalty member, beauty participant, fan, or destination visitor rather than to generic discretionary classification.
+- `Relationship ownership beats physical burden when the demand holds.` Asset-light hotel brands, loyalty systems, and some digital participation interfaces often keep cleaner economics than the owners, merchandisers, or operating substrates beneath them.
+- `Meaning-rich spending still needs hard execution.` Inventory, tariffs, labor, sourcing, owner economics, promotions, and route productivity still decide whether defended demand becomes durable earnings.
+- `Participation now spans physical and software environments.` The lane is no longer only hotels, home, and ritual retail. It also includes software-mediated event participation and destination ecosystems that monetize live attention, tourism concentration, and repeat account behavior.
+
+## Next-filing watchpoints
+
+The next filing window should not be read as a generic check on discretionary spending.
+
+It should be read as a stress test on whether the current demand-versus-burden split is widening or narrowing:
+
+- `Marriott` and `Hilton`: does travel demand still translate into fee growth, pipeline depth, loyalty economics, and cleaner returns than the property-heavy side beneath them?
+- `RH` and `Williams-Sonoma`: does home demand split more clearly between hosting and routine lifestyle behavior versus macro-sensitive luxury housing and big-ticket taste spending?
+- `Signet`: do bridal, gifting, and self-purchase behavior keep protecting ritual demand even if broader consumer categories stay uneven?
+- `Sysco`: does the support layer confirm healthy downstream participation through local volume and profit conversion, or does it show that labor and sourcing burden are eating the value?
+- `DraftKings` and `Las Vegas Sands`: do interactive sports participation and destination tourism keep converting into better economics, or do promotions, hold, VIP mix, concession patterns, or policy friction narrow the payoff?
+
+If the burden-heavy layers start converting defended demand more cleanly than expected, the current hierarchy may narrow.
+
+If relationship owners keep showing cleaner economics while support, goods, and property layers absorb more friction, then the recreation lane becomes one of the archive's clearest proof cases that consumer resilience is real but unequally monetized.
+
 ## Practical lane rule for future work
 
 - Do not add names to this lane only because they are consumer-facing.

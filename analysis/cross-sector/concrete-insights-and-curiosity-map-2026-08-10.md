@@ -109,6 +109,10 @@ Plain claim:
 
 Many of the most useful company reads are not obvious consumer or technology leaders. They are companies that keep institutions operating: distributors, route operators, service contractors, safety providers, labs, packaging companies, and facilities operators.
 
+Dedicated proof page:
+
+- [hidden-operating-infrastructure-proof-2026-08-10.md](/analysis/cross-sector/hidden-operating-infrastructure-proof-2026-08-10.md)
+
 Concrete examples:
 
 - `Sysco` and `US Foods` show that restaurants, hotels, healthcare kitchens, and institutions depend on food distribution, route density, procurement scale, and digital ordering.
@@ -133,6 +137,10 @@ Curiosity questions:
 Plain claim:
 
 The consumer evidence does not say people stopped spending. It says people are choosing more carefully. Value, trust, health, beauty, comfort, home, travel, pets, and social occasions still work. Generic or badly positioned products face more pressure.
+
+Dedicated proof page:
+
+- [selective-consumer-proof-2026-08-10.md](/analysis/cross-sector/selective-consumer-proof-2026-08-10.md)
 
 Concrete examples:
 
@@ -188,6 +196,10 @@ Plain claim:
 
 Some consumer spending is not about need. It is about belonging, play, taste, identity, and shared experience. That spending can be durable, but only when the company keeps the relationship alive.
 
+Dedicated proof page:
+
+- [fandom-identity-participation-proof-2026-08-10.md](/analysis/cross-sector/fandom-identity-participation-proof-2026-08-10.md)
+
 Concrete examples:
 
 - `Disney` shows the same fan relationship moving across streaming, parks, sports, movies, merchandise, and experiences.
@@ -214,6 +226,10 @@ Curiosity questions:
 Plain claim:
 
 Healthcare is not just hospitals, insurance, and drug companies. The archive shows a shift toward repeated treatment, monitoring, diagnosis, home care, devices, logistics, and patient support.
+
+Dedicated proof page:
+
+- [healthcare-outside-hospital-proof-2026-08-10.md](/analysis/cross-sector/healthcare-outside-hospital-proof-2026-08-10.md)
 
 Concrete examples:
 
@@ -327,6 +343,10 @@ Plain claim:
 
 Many companies are paid because customers need confidence: confidence that risk is priced, ads are real, water is safe, trades settle, products are clean, labs are accurate, systems are secure, or information can be trusted.
 
+Dedicated proof page:
+
+- [trust-as-paid-product-proof-2026-08-10.md](/analysis/cross-sector/trust-as-paid-product-proof-2026-08-10.md)
+
 Concrete examples:
 
 - `Marsh McLennan`, `Aon`, and `Arthur J. Gallagher` show insurance brokerage and risk-advice workflow.
@@ -353,6 +373,10 @@ Curiosity questions:
 Plain claim:
 
 The company doing the hardest physical or financial work does not always get the best economics. Often the better business owns the relationship, workflow, standard, data, brand, or decision point while someone else carries more labor, assets, debt, or commodity exposure.
+
+Dedicated proof page:
+
+- [relationship-owner-vs-burden-carrier-proof-2026-08-10.md](/analysis/cross-sector/relationship-owner-vs-burden-carrier-proof-2026-08-10.md)
 
 Concrete examples:
 
@@ -437,6 +461,10 @@ Plain claim:
 
 Basic materials and energy are not one commodity bucket. The company evidence splits by product, input cost, asset reliability, demand end-market, trade exposure, and ability to pass through pricing.
 
+Dedicated proof page:
+
+- [commodity-chain-proof-2026-08-10.md](/analysis/cross-sector/commodity-chain-proof-2026-08-10.md)
+
 Concrete examples:
 
 - `Exxon`, `ConocoPhillips`, `EOG`, `Diamondback`, and other energy producers show commodity price, production, capital discipline, and reserve economics.
@@ -493,6 +521,10 @@ Plain claim:
 
 AnnualReports.com is valuable for taxonomy and archive confirmation, but the company evidence often shows that the real economic role crosses sector lines.
 
+Dedicated proof page:
+
+- [taxonomy-blind-spots-proof-2026-08-10.md](/analysis/cross-sector/taxonomy-blind-spots-proof-2026-08-10.md)
+
 Concrete examples:
 
 - `Ecolab` appears under specialty chemicals, but the useful read is hygiene, water, foodservice, pest, and contamination-control infrastructure.
@@ -521,6 +553,12 @@ These are the highest-value follow-up pages because they turn scattered packet w
 
 1. `AI needs physical capacity`
 
+Status: drafted.
+
+Proof page:
+
+- [ai-physical-capacity-proof-2026-08-10.md](/analysis/cross-sector/ai-physical-capacity-proof-2026-08-10.md)
+
 Use examples from Microsoft, Alphabet, NVIDIA, Arista, Cisco, Palo Alto, Keysight, KLA, Lam, Micron, Equinix, Digital Realty, Eaton, Vertiv, Trane, Comfort Systems, Quanta, WESCO, and utilities.
 
 Core question:
@@ -528,6 +566,12 @@ Core question:
 Who benefits because AI needs power, cooling, data centers, networking, security, testing, and field execution?
 
 2. `The hidden companies behind daily life`
+
+Status: drafted.
+
+Proof page:
+
+- [hidden-operating-infrastructure-proof-2026-08-10.md](/analysis/cross-sector/hidden-operating-infrastructure-proof-2026-08-10.md)
 
 Use examples from Sysco, US Foods, Grainger, Ferguson, Core & Main, WESCO, Global Industrial, ABM, BrightView, Mistras, Ecolab, Veralto, Brink's, ADT, Allegion, Brady, and Motorola Solutions.
 
@@ -537,6 +581,12 @@ Which companies keep restaurants, hospitals, factories, buildings, warehouses, s
 
 3. `The selective consumer`
 
+Status: drafted.
+
+Proof page:
+
+- [selective-consumer-proof-2026-08-10.md](/analysis/cross-sector/selective-consumer-proof-2026-08-10.md)
+
 Use examples from Costco, Walmart, TJX, Ross, Burlington, Ollie's, Target, Macy's, P&G, Colgate, Kimberly-Clark, PepsiCo, Campbell's, General Mills, Ulta, e.l.f., Estee Lauder, Crocs, Deckers, Lululemon, Birkenstock, and apparel names.
 
 Core question:
@@ -544,6 +594,12 @@ Core question:
 When consumers are careful, what do they still buy and why?
 
 4. `Fandom, identity, and participation`
+
+Status: drafted.
+
+Proof page:
+
+- [fandom-identity-participation-proof-2026-08-10.md](/analysis/cross-sector/fandom-identity-participation-proof-2026-08-10.md)
 
 Use examples from Disney, Netflix, Roblox, Hasbro, Mattel, Spin Master, Build-A-Bear, Funko, DraftKings, MGM, Caesars, Marriott, Hyatt, Live Nation, Ulta, YETI, Crocs, Lululemon, and jewelry/home names.
 
@@ -553,6 +609,12 @@ Which companies turn customers into fans, members, hosts, collectors, travelers,
 
 5. `Healthcare outside the hospital`
 
+Status: drafted.
+
+Proof page:
+
+- [healthcare-outside-hospital-proof-2026-08-10.md](/analysis/cross-sector/healthcare-outside-hospital-proof-2026-08-10.md)
+
 Use examples from Option Care, DaVita, Addus, Enhabit, BrightSpring, AdaptHealth, Dexcom, Insulet, Quest, Labcorp, Natera, Cencora, McKesson, Cardinal Health, Abbott, BD, Baxter, Intuitive Surgical, Stryker, and Thermo Fisher.
 
 Core question:
@@ -560,6 +622,12 @@ Core question:
 Who gets paid as care becomes more repeated, monitored, supplied, and delivered outside the hospital?
 
 6. `Trust as a paid product`
+
+Status: drafted.
+
+Proof page:
+
+- [trust-as-paid-product-proof-2026-08-10.md](/analysis/cross-sector/trust-as-paid-product-proof-2026-08-10.md)
 
 Use examples from Marsh McLennan, Aon, Gallagher, Chubb, Markel, S&P Global, CME, State Street, Palo Alto, Cloudflare, DoubleVerify, Comscore, Quest, Labcorp, Ecolab, Veralto, Brady, Allegion, and The New York Times.
 
@@ -569,6 +637,12 @@ Where are customers paying because they need proof, safety, judgment, measuremen
 
 7. `Who owns the relationship and who carries the burden`
 
+Status: drafted.
+
+Proof page:
+
+- [relationship-owner-vs-burden-carrier-proof-2026-08-10.md](/analysis/cross-sector/relationship-owner-vs-burden-carrier-proof-2026-08-10.md)
+
 Use examples from Marriott versus hotel owners, Booking versus hotels, American Express versus lenders, brokers versus insurers, S&P Global and CME versus banks, Intuitive and Abbott versus hospitals, and WESCO or Ferguson versus contractors.
 
 Core question:
@@ -576,6 +650,12 @@ Core question:
 Who gets the cleaner economics, and who carries the labor, assets, debt, inventory, or regulation?
 
 8. `Taxonomy blind spots`
+
+Status: drafted.
+
+Proof page:
+
+- [taxonomy-blind-spots-proof-2026-08-10.md](/analysis/cross-sector/taxonomy-blind-spots-proof-2026-08-10.md)
 
 Use examples from Ecolab, DoorDash, Aptar, Motorola Solutions, Roku, Amazon, American Express, Thermo Fisher, Veralto, and packaging or healthcare-distribution names.
 

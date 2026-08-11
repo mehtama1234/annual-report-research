@@ -29,6 +29,12 @@ Collection window:
 - burden-versus-beneficiary comparisons for who owns the trusted interface versus who carries heavier funding, duration, or capital burden
 - next-target logic for future names that test trust intermediation beyond current broker, bank, and property examples
 
+Applied comparison memos:
+
+- [../cross-sector/trust-proof-measurement-security-comparison-2026-08-11.md](../cross-sector/trust-proof-measurement-security-comparison-2026-08-11.md)
+- [../cross-sector/standards-versus-vendors-trust-layer-comparison-2026-08-11.md](../cross-sector/standards-versus-vendors-trust-layer-comparison-2026-08-11.md)
+- [../cross-sector/trust-commoditization-and-failure-risk-watchlist-2026-08-11.md](../cross-sector/trust-commoditization-and-failure-risk-watchlist-2026-08-11.md)
+
 ## Theme
 
 - Name: CLI 6 is increasingly a trust-intermediation lane where the best economics come from controlling workflow, scarce demand channels, or capital formation without carrying unnecessary commodity balance-sheet burden
@@ -75,6 +81,46 @@ The completed CLI 6 batches now point to a clearer framing than the original ind
 - Alternative-capital managers increasingly resemble capital infrastructure rather than classic asset managers, especially when insurance liabilities, private-wealth distribution, and asset-based finance widen the model.
 - Regional banks remain important comparison cases because they show the difference between trusted intermediation with heavy funding burden and trusted intermediation with lighter fee or platform economics.
 - Participation is showing up here too, but not in the leisure sense. It appears through later-life housing uptake, retirement-channel dependence, and broader household access to private-capital products through advisors and wealth networks.
+
+## Durability Versus Commoditization Overlay
+
+The newer trust comparison pages add a useful discipline to this CLI 6 framework:
+
+- not every trusted intermediary is equally durable
+- some trust layers become more standard-like
+- some remain strong but more execution-dependent
+- some still face bundling, insourcing, or cycle-sensitive pressure even when current economics look attractive
+
+The current archive now points to this broader split inside and around CLI 6:
+
+| Trust-intermediation form | Best current examples | Why it looks attractive | Main weakening path |
+|---|---|---|---|
+| Standard-like trust infrastructure | `S&P Global`, `CME` | markets organize around benchmarks, clearing, data, and accepted reference points | credibility loss, regulatory redesign, benchmark substitution |
+| Advisory workflow intermediation | `Marsh`, `Aon`, `Gallagher` | recurring outsourced judgment, placement access, analytics, and embedded institutional workflow | pricing-cycle normalization, talent strain, integration risk, service-quality erosion |
+| Aging-linked operating property trust | `Welltower`, `Ventas` | occupancy, operator quality, supply scarcity, and resident demand can turn property into operating infrastructure | labor, affordability, operator weakness, capital-market pressure |
+| Alternative-capital infrastructure | `Apollo`, `Brookfield`, `KKR` | fundraising control, liability channels, monetization networks, insurance or wealth interfaces | exit-cycle weakness, confidence loss, fee-pressure normalization, funding-channel fragility |
+| Commodity funding trust | `M&T`, `Regions` | deposits, fee resilience, and relationship-bank credibility still matter | spread compression, funding burden, credit losses, capital and regulatory pressure |
+
+The important point is that CLI 6 should no longer be read only as “trust intermediation is better than balance-sheet burden.”
+
+It should also be read as:
+
+- which trust models are becoming harder to replace
+- which still depend most on execution and cycle support
+- which carry enough capital or funding burden that they stay structurally lower quality than the cleanest trust layers
+
+## Next-Filing Priority Watchlist
+
+The CLI 6 trust-intermediation thesis should now be read through a short list of confirmation checks:
+
+- `Marsh`, `Aon`, and `Gallagher`: whether broker and advisory trust still looks structural rather than mainly pricing-cycle supported
+- `Welltower` and `Ventas`: whether aging-linked property keeps translating occupancy and scarcity into durable operating returns
+- `Apollo`, `Brookfield`, and `KKR`: whether fundraising, deployment, monetization, insurance, and wealth channels still make the model look like infrastructure rather than a strong-cycle asset manager
+- `M&T` and `Regions`: whether cleaner regional-bank execution can meaningfully narrow the quality gap versus lighter trust intermediaries
+- `S&P Global` and `CME`: whether the standard-like trust layers outside core CLI 6 keep looking more durable than the bank-like and more execution-heavy trust models inside it
+
+If fee-heavy intermediaries lose momentum at the same time that funding-heavy models remain burdened, the existing CLI 6 hierarchy strengthens.
+If brokers, aging-linked property, and alternative-capital platforms all weaken together for reasons that look structural rather than cyclical, the framework needs a harder reset.
 
 ## Skeptical Reader Test
 

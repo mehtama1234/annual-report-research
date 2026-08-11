@@ -34,6 +34,19 @@ This memo asks:
 
 Which companies benefit when consumers keep paying to maintain their body, appearance, comfort, routine, or household readiness?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make self-maintenance and confidence spend visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad claim that consumers care about comfort and confidence.
+
 ## Exact Evidence
 
 | Company | Self-maintenance role | Exact packet facts | What the facts prove |
@@ -186,6 +199,17 @@ This self-maintenance-and-confidence thesis weakens if:
 - repeated use stays high but margins degrade enough to erase the benefit
 - cheaper substitutes or changing habits reduce the value of the incumbent routine
 - streaming, beauty, or wellness businesses lose their place as low-friction defaults
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the self-maintenance system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, self-maintenance map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

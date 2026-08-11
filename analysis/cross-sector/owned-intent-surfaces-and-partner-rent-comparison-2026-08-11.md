@@ -39,6 +39,19 @@ This matters because the better companies in this set are not only selling to th
 
 They are also selling access to the customer's decision moment.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make owned-intent surfaces and partner-rent economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that ads and marketplaces are growing.
+
 ## Exact Evidence
 
 | Company | Intent surface | Exact packet facts | What the facts prove |
@@ -199,6 +212,17 @@ This owned-intent-surface thesis weakens if:
 - helper layers lose too much bargaining power relative to the surface owners
 - new AI or platform shifts move intent away from the current owned surfaces faster than expected
 - first-party commerce behavior proves less monetizable than management messaging implies
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the owned-intent-surface system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, intent-surface map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

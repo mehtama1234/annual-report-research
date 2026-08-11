@@ -23,6 +23,19 @@ In this lane, the useful roles are:
 
 The evidence does not say every discretionary category is safe. It says certain kinds of spending remained more defensible when they were tied to travel, status, hosting, gifting, ritual, identity, or shared experiences. The same evidence also shows the pressure underneath the demand: housing rates, tariffs, inventory, food cost, labor, route density, property ownership, and geopolitical disruption.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make recreation, lifestyle, and occasion demand visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a loose claim that consumers still spend on experiences.
+
 ## Company Evidence Base
 
 | Company | Packet role | Exact filing-window facts | What the facts prove |
@@ -153,6 +166,17 @@ The role-based consumer thesis weakens if:
 - Signet Bridal and Fashion both weaken while AUR growth fails to offset lower traffic or unit demand.
 - Sysco local volume turns negative while consumer-facing travel and occasion companies still sound confident.
 - Tariffs, commodity costs, labor, or freight absorb so much gross profit that demand no longer converts into earnings.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the role-based consumer system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the company evidence base, occasion-versus-routine map, company strategy reads, and thesis-breaker sections above.
 
 ## Next Recommended Names
 

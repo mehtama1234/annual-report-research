@@ -42,6 +42,19 @@ The question here is:
 
 which companies are proving that beauty economics increasingly depend on who controls discovery, trend activation, customer data, and channel feedback?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make beauty discovery and data-interface economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad statement that beauty is culturally relevant.
+
 ## Exact Evidence
 
 | Company | Beauty-interface role | Exact packet facts | What the facts prove |
@@ -184,6 +197,17 @@ This beauty-discovery-and-data-interface thesis weakens if:
 - creator or social-led demand becomes too unstable to support repeat economics
 - prestige and accessible beauty both weaken at the same time, reducing the category split
 - data-rich beauty interfaces fail to convert attention into margin or durable loyalty
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the beauty-interface system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, beauty-interface map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

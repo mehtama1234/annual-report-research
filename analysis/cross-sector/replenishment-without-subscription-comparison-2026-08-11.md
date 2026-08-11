@@ -13,6 +13,19 @@ They look like refill, resupply, reorder, and recurring inventory flow.
 
 Which companies build durable repeat economics because customers or institutions have to keep coming back for replenishment rather than because they signed up for an obvious subscription product?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make replenishment-without-subscription economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that recurring demand exists.
+
 ## Companies Used
 
 - [Chewy, Inc.](../../extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
@@ -170,6 +183,17 @@ This pattern would weaken if:
 There is also a limit:
 
 not all replenishment loops have the same resilience. Pet care, chronic care, pharmaceuticals, and foodservice each have different sensitivity to consumer stress, reimbursement pressure, or end-market weakness.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the replenishment loop?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, replenishment map, exact mechanism, and disconfirming-evidence sections above.
 
 ## Watch Metrics
 

@@ -13,6 +13,18 @@ Use the templates as one connected evidence chain:
 
 If a later section cannot be traced back to earlier packet evidence, the artifact is still intermediate.
 
+Use the templates with this rule:
+
+- annual takeaways + quarter chain should prove what changed and whether it is persistent
+- operating model should prove what job the company really performs
+- strategy read should prove how management is responding
+- growth engine should prove what is really carrying the story
+- economic lever should prove what actually moves margin or cash quality
+- operating constraint should prove where the system is strained
+- exact supporting facts should prove the claim directly
+- burden-versus-beneficiary interpretation should prove who gets paid cleanly and who absorbs the messy work
+- thesis breaker and watchlist should prove the work is falsifiable rather than rhetorical
+
 ## Company Packet Template
 
 ```markdown
@@ -313,6 +325,21 @@ List the exact packet sections doing the work for the lane read.
 |---|---|---|
 |  | annual takeaways; quarter chain; strategy read; exact supporting facts; burden read |  |
 
+Do not stop at listing the packet fields. Say what each field is proving for the lane:
+
+- annual takeaways + quarter chain
+  - prove: what changed and whether the pattern still holds
+- operating model
+  - prove: what role the company really plays in the lane
+- strategy read
+  - prove: how management is adapting to the same pressure
+- growth engine + economic lever
+  - prove: where the lane's clean economics really come from
+- operating constraint
+  - prove: where the lane's strain actually sits
+- burden read
+  - prove: who carries the hard work, fixed costs, or regulatory load
+
 ## Industry Economics In Plain English
 
 - Customer need:
@@ -358,21 +385,27 @@ Each theme should point back to exact packet facts, not just company names.
 ## Insight Stack Across The Lane
 
 - Consumer behavior shift:
+  Packet fields used:
   Exact evidence:
   Why it matters:
 - Cultural or lifestyle shift:
+  Packet fields used:
   Exact evidence:
   Why it matters:
 - Societal or demographic pressure:
+  Packet fields used:
   Exact evidence:
   Why it matters:
 - Industrial or operating pressure:
+  Packet fields used:
   Exact evidence:
   Why it matters:
 - Technical or workflow dependency:
+  Packet fields used:
   Exact evidence:
   Why it matters:
 - Capital-structure or property pressure:
+  Packet fields used:
   Exact evidence:
   Why it matters:
 
@@ -434,6 +467,21 @@ Name the packet sections that feed this proof page before writing the conclusion
 |---|---|---|
 |  |  |  |
 
+Proof standard by claim type:
+
+- consumer claim
+  - prove: what behavior changed and which facts show it
+- cultural or societal claim
+  - prove: which real-life pressure is creating demand and why it is spreading
+- industrial or operating claim
+  - prove: where the strain sits and what happens economically when it changes
+- technical or infrastructure claim
+  - prove: where software is the control layer and where physical bottlenecks still decide outcomes
+- capital or balance-sheet claim
+  - prove: who must carry property, inventory, debt, or financing burden
+- cross-company pattern claim
+  - prove: why the pattern repeats across at least three companies and what would weaken the broader read
+
 ## Causal Chain
 
 1. 
@@ -450,6 +498,14 @@ Name the packet sections that feed this proof page before writing the conclusion
 ## Stronger Conclusion
 
 {Plain-English conclusion that connects the company evidence into a larger pattern.}
+
+Before writing the stronger conclusion, answer:
+
+- What exact packet fields supplied this conclusion?
+- What is the mechanism linking the examples together?
+- Who benefits economically?
+- Who carries the burden?
+- What evidence would make this conclusion weaker next quarter?
 
 ## Reader Test
 

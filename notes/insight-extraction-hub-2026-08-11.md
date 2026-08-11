@@ -31,6 +31,28 @@ The operating rule is:
 
 No broad claim without exact filing evidence. No company name as evidence. No sector label as explanation.
 
+## Current State Of The Archive
+
+As of Tuesday, August 11, 2026, the archive is no longer missing its first interpretation layer.
+
+The repo now already has:
+
+- major lane frameworks for healthcare, infrastructure, trust intermediation, recreation, hospitality, and play / participation
+- a cross-lane control-versus-burden synthesis joining CLI 4, CLI 5, and CLI 6
+- concrete proof pages paired with next-filing watchlists in the strongest live themes
+- browser-facing review surfaces that expose the proof pages, watchlists, lane frameworks, and reading order directly
+
+That means the main remaining work is not more setup and not more first-pass framing.
+
+The main remaining work is:
+
+- missing flagship roles
+- sharper contradiction cases
+- stronger packet-backed proof inside already-opened lanes
+- better next-quarter break tests
+
+Use the hub with that current state in mind.
+
 ## Non-Negotiable Output Shape
 
 Every serious company packet, lane summary, and proof memo should make the following explicit:
@@ -143,6 +165,18 @@ Supporting references:
 
 ## Start Here
 
+If you want the fastest current reading order instead of the full operating stack, use this sequence first:
+
+1. [end-to-end-insight-operator-and-review-brief-2026-08-11.md](end-to-end-insight-operator-and-review-brief-2026-08-11.md)
+2. [/site/concrete-insights.html](/site/concrete-insights.html)
+3. [../analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md](../analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md)
+4. [../analysis/themes/cli-4-5-6-recurring-interface-control-framework-2026-08-10.md](../analysis/themes/cli-4-5-6-recurring-interface-control-framework-2026-08-10.md)
+5. [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md)
+6. [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
+7. [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
+
+Use the full ordered list below when a thread needs the complete operating stack rather than the fastest reading path.
+
 1. Read the master goal.
 
 [master-insight-extraction-goal-2026-08-11.md](master-insight-extraction-goal-2026-08-11.md)
@@ -240,6 +274,19 @@ Use it to identify the next questions worth pursuing.
 [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
 
 Use it to choose the next lane or company batch by insight payoff, not by generic coverage gap.
+
+17. Use the remaining execution board and queue as continuation surfaces, not first-pass planners.
+
+[remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
+
+[insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
+
+Use them to identify:
+
+- the missing flagship role
+- the strongest contradiction case
+- the burden carrier that still needs testing
+- the next-filing variable most likely to break the current read
 
 ## Existing Proof Pages
 

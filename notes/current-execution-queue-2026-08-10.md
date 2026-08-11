@@ -91,7 +91,7 @@ Status:
 Why it is first:
 
 - it is still the least-built of the main lane families
-- CLI 4, CLI 5, and CLI 6 now each have committed comparison batches plus framework memos, so recreation is the clearest remaining frontier-opening lane
+- CLI 4, CLI 5, and CLI 6 now each have committed comparison batches plus framework memos, so recreation is the clearest remaining major expansion lane
 - it materially broadens the archive into lifestyle, participation, occasion, gifting, and experiential demand rather than only recurring infrastructure and institutional systems
 
 Recommended first batch:

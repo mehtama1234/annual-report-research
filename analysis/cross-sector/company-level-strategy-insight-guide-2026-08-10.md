@@ -22,6 +22,21 @@ This guide is explicitly built around the packet sections that should drive any 
 - thesis breaker
 - next filing watchlist
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, many of the archive's most important lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means this guide should not be read only as a blank-slate company explainer.
+
+It should also be used when a new company packet is being added to strengthen an existing lane or proof theme.
+
+In that continuation mode, the best company targets usually do one or more of these:
+
+- fill a missing flagship role
+- add a contradiction or weak-link case
+- sharpen the burden-versus-beneficiary split
+- improve the next-filing break test for a live theme
+
 ## Purpose
 
 Cross-company themes explain the bigger economy. Company-level strategy insights explain the company itself.

@@ -19,6 +19,7 @@ If you are starting work in this repo, read these files in this order:
 12. [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
 13. [Current execution queue](/home/manishmehta/ui-projects/annual-report-research/notes/current-execution-queue-2026-08-10.md)
 14. [End-to-end insight operator and review brief](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md)
+15. [Remaining end-to-end insight goal](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
 
 ## Insight-System Maintenance
 

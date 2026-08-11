@@ -287,6 +287,20 @@ It is that the governance layer, queue layer, decision-rule layer, machine-reada
 
 Another worker should be able to continue this lane directly from the files above without guessing what the thread owns.
 
+## Insight-System Maintenance
+
+When you need to confirm that the blind-spot handoff, lane boundary, and broader continuation surfaces still line up before handing this lane to another worker, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this handoff give the next worker a clear lane boundary and read order without reopening prior blind-spot debates?

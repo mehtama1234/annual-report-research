@@ -82,6 +82,15 @@ expected = {
     Path("notes/raw-evidence-link-policy-2026-08-11.md"): full_audit_stack,
     Path("notes/raw-blob-offload-readme-2026-08-10.md"): full_audit_stack,
     Path("notes/legacy-root-reference-audit-2026-08-11.md"): full_audit_stack,
+    Path("notes/blind-spot-candidate-shortlist-2026-08-10.md"): full_audit_stack,
+    Path("notes/blind-spot-framework-completion-audit-2026-08-10.md"): full_audit_stack,
+    Path("notes/blind-spot-handoff-2026-08-10.md"): full_audit_stack,
+    Path("notes/blind-spot-next-actions-2026-08-10.md"): full_audit_stack,
+    Path("notes/blind-spot-notes-index-2026-08-10.md"): full_audit_stack,
+    Path("notes/blind-spot-quickstart-2026-08-10.md"): full_audit_stack,
+    Path("notes/blind-spot-status-audit-2026-08-10.md"): full_audit_stack,
+    Path("notes/blind-spot-take-dont-take-roster-2026-08-10.md"): full_audit_stack,
+    Path("notes/blind-spot-wrap-up-checklist-2026-08-10.md"): full_audit_stack,
 }
 
 missing = []

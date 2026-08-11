@@ -187,6 +187,20 @@ As of Monday, August 10, 2026, the blind-spot lane should be treated as:
 - framework-complete for practical use
 - research-incomplete by design
 
+## Insight-System Maintenance
+
+When you need to confirm that the blind-spot framework-completion claim, handoff bundle, and broader continuation surfaces still line up before relying on this audit, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this audit make clear exactly what is being claimed complete and what is not?

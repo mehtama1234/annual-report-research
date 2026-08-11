@@ -242,6 +242,20 @@ If the other threads are covering the normal browse tree, this thread should mai
 
 Those are the areas where the `AnnualReports` industry view is most likely to leave the archive analytically weak even if standard sector coverage becomes complete.
 
+## Insight-System Maintenance
+
+When you need to confirm that the blind-spot execution shortlist, lane boundary, and continuation surfaces still line up before using this note to choose the next company, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this shortlist show why a candidate belongs in the blind-spot lane instead of the ordinary sector lane?

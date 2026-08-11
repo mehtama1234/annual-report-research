@@ -182,6 +182,20 @@ If the other threads are covering the browse tree, this thread should mostly own
 
 Everything else should stay conditional and system-led rather than becoming generic uncovered-sector cleanup.
 
+## Insight-System Maintenance
+
+When you need to confirm that the blind-spot take-versus-leave rule, lane boundary, and continuation surfaces still line up before using this roster for assignment, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this roster make clear why a company should be taken here instead of by a normal browse-tree lane?

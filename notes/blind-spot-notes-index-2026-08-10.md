@@ -176,6 +176,20 @@ If the `indexes/` files say what this lane owns, these note files explain how to
 
 They should be read with the same assumption: the blind-spot lane is for system misclassification, not for rescuing weak-looking industry pages.
 
+## Insight-System Maintenance
+
+When you need to confirm that the blind-spot note bundle, reading order, and continuation surfaces still line up before using this index as the entrypoint, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Skeptical Reader Test
 
 - Does this index make the blind-spot control layer easier to navigate for a new worker without requiring old chat history?

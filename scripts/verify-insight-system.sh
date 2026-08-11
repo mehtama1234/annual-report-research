@@ -51,6 +51,7 @@ required_files=(
   "templates/lane-run-template.md"
   "templates/theme-memo.md"
   "templates/status-rubric.md"
+  "templates/batch-log-template.md"
   "templates/batch-handoff-template.md"
   "templates/post-batch-integration-checklist.md"
   "analysis/sectors/basic-materials-sector-initial-brief.md"

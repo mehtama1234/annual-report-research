@@ -116,6 +116,40 @@ The run is not done when the files are collected.
 It is done when another operator can see what changed, why it matters, what pressures recur across the lane, and which names should be added next.
 That includes the consumer, cultural, societal, industrial, and monetization patterns the covered companies are collectively revealing.
 
+The packet fields should also do explicit analytical work:
+
+- annual takeaways + latest three quarters
+  - prove: what changed and whether the direction is strengthening, weakening, or persisting
+- plain-English operating model
+  - prove: what job the company really performs in the system
+- strategy read
+  - prove: how management is responding to the pressure or opportunity
+- growth engine + economic lever
+  - prove: what is really carrying the story and what actually moves the economics
+- operating constraint
+  - prove: where the system is strained
+- exact supporting facts
+  - prove: the claim directly rather than by implication
+- burden-versus-beneficiary interpretation
+  - prove: who gets cleaner economics and who absorbs the messy work
+- thesis breaker + watchlist
+  - prove: the work is falsifiable and ready for continuation
+
+Different claim types also need different proof burdens:
+
+- consumer claim
+  - show: what behavior changed and which facts prove it
+- cultural or societal claim
+  - show: which real-life pressure is creating demand and why it is broader than one company
+- industrial or operating claim
+  - show: where the strain sits and what happens economically when that pressure changes
+- technical or infrastructure claim
+  - show: where software is the control layer and where physical bottlenecks still decide outcomes
+- capital or balance-sheet claim
+  - show: who must carry property, inventory, debt, or financing burden to keep the system working
+- cross-company pattern claim
+  - show: exact support from at least three companies and what evidence would weaken the broader pattern
+
 ## Source rule
 
 Use `AnnualReports.com` for taxonomy and archive confirmation.

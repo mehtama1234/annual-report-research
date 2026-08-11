@@ -219,6 +219,7 @@ The raw-evidence governance verifier separately checks:
 It also checks that:
 
 - the top-level onboarding docs carry the packet-field-fit and claim-type proof standard
+- the legacy execution templates also carry packet-field-fit and claim-type proof guidance
 - lane summaries name which packet inputs they rely on
 - lane summaries make packet-field fit explicit rather than only listing section names
 - proof memos declare packet inputs used before making the conclusion
@@ -265,6 +266,11 @@ test -s notes/insight-note-standardization-cutoff-2026-08-11.md
 test -s notes/insight-driven-next-lane-queue-2026-08-11.md
 test -s notes/note-layer-boundary-audit-2026-08-11.md
 test -s notes/note-layer-boundary-audit-2026-08-11.json
+test -s templates/lane-run-template.md
+test -s templates/theme-memo.md
+test -s templates/status-rubric.md
+test -s templates/batch-handoff-template.md
+test -s templates/post-batch-integration-checklist.md
 test -s indexes/reusable-note-layer-files-2026-08-11.txt
 test -s indexes/historical-note-exclusion-files-2026-08-11.txt
 test -s indexes/historical-note-exclusion-categories-2026-08-11.tsv
@@ -286,6 +292,11 @@ curl -fsS http://localhost:8080/site/concrete-insights.html | rg 'Insight extrac
 rg 'The packet fields should do explicit analytical work|Different claim types also need different proof burdens' README.md
 rg 'The packet fields should also do explicit analytical work|Different claim types also need different proof burdens' START-HERE.md
 rg 'The packet fields should also do explicit analytical work|Different claim types also need different proof burdens' notes/master-operator-brief-2026-08-10.md
+rg 'The packet fields should also do explicit analytical work|Different claim types also need different proof burdens|Before writing the interpretation, note which packet fields are doing the work' templates/lane-run-template.md
+rg 'Before drafting the memo, decide which packet fields are doing the analytical work|Different claim types also need different proof burdens|Packet fields used' templates/theme-memo.md
+rg 'Proof-discipline check|packet-field fit|claim-type fit' templates/status-rubric.md
+rg 'which packet fields supplied the strongest lane conclusions|what proof burden those strongest claims actually met' templates/batch-handoff-template.md
+rg 'confirm the packet says what its main fields are proving|whether the strongest claims met the right proof burden for their claim type' templates/post-batch-integration-checklist.md
 curl -fsS http://localhost:8080/notes/insight-extraction-hub-2026-08-11.md | rg 'Workflow For A New Company|Workflow For A New Lane|Workflow For A New Theme'
 rg 'Insight Stack|Insight Stack Across The Lane|Packet Inputs Used For Lane Insight|Packet Inputs Used|Reader Test|Beneficiaries And Burden Carriers|Why This Matters Now' notes/insight-extraction-templates-2026-08-11.md
 rg 'consumer behavior shift|relationship-owner versus burden-carrier split|consumer, cultural, societal, industrial, technical, or capital-structure meaning is explicit' notes/lane-end-to-end-execution-runbook-2026-08-11.md

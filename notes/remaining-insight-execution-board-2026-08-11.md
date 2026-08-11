@@ -48,6 +48,22 @@ Use this together with:
 - [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md) for the higher-level statement of what is still left
 - [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md) for the reasoning behind why these batches matter
 
+## Packet-Input Translation Requirement
+
+Every batch should leave a short packet-input table or equivalent note that says which packet sections generated the later conclusion.
+
+At minimum, each completed batch should make clear:
+
+- which annual takeaways and latest-three-quarter chains proved the direction of change
+- which company-level strategy reads explained management's response
+- which growth engines and economic levers explained the economics
+- which operating constraints exposed the real bottleneck or burden
+- which exact supporting facts proved the claim directly
+- which burden-versus-beneficiary reads explained who captured cleaner economics
+- which thesis breakers and next-filing watchlists could weaken the conclusion
+
+If a batch cannot show that translation layer, it is still at risk of producing framework language that is cleaner than the packet evidence underneath it.
+
 ## Batch 1: Healthcare Outside The Hospital And Aging Systems
 
 ### Companies

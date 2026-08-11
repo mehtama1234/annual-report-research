@@ -88,8 +88,8 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/electronics-wholesale/watsco-inc/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/electronics-wholesale/watsco-inc/source-ledger.md)
+- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/electronics-wholesale/watsco-inc/company-profile.md)
+- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/electronics-wholesale/watsco-inc/source-ledger.md)
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/electronics-wholesale/watsco-inc/annualreports-verification.md)
 - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/electronics-wholesale/watsco-inc/ir-source-links.md)
 - [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/electronics-wholesale/watsco-inc/sec-source-links.md)

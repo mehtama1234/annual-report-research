@@ -254,6 +254,12 @@ It also completed one note-layer normalization step:
 - this keeps historical provenance while reducing the chance that a reader mistakes the side-worktree for the current canonical archive
 - after that note-layer cleanup, the remaining non-raw sibling-root footprint is materially smaller and more concentrated in packet and ledger surfaces rather than batch-header metadata
 
+It also completed one packet-navigation cleanup step:
+
+- a focused CLI 8 subset of current company packets now points its local `company-profile.md` and `source-ledger.md` links at `annual-report-research`
+- that repair covered `Ferguson`, `Arrow`, `Avnet`, `Applied Industrial`, `MSC`, `Fastenal`, `Core & Main`, `Watsco`, and `DNOW`
+- this did not change raw evidence provenance, but it did remove another layer of unnecessary side-worktree navigation for readers inside the current repo
+
 What did not change:
 
 - packet-level raw citations that still point into `annual-report-research-cli8-middle-layer/raw/...`
@@ -263,6 +269,7 @@ So the practical outcome is narrower and more honest:
 
 - reader-facing CLI 8 navigation is cleaner
 - handoff-note provenance is clearer
+- a first packet-level local-document subset is cleaner
 - packet-level provenance cleanup is still a remaining archive task
 
 ## Highest-Value Endgame Interpretation

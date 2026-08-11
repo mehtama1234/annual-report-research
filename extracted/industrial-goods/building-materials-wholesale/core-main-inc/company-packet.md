@@ -86,8 +86,8 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/building-materials-wholesale/core-main-inc/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/building-materials-wholesale/core-main-inc/source-ledger.md)
+- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/building-materials-wholesale/core-main-inc/company-profile.md)
+- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/building-materials-wholesale/core-main-inc/source-ledger.md)
 - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/building-materials-wholesale/core-main-inc/2025-10k.html)
 - [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2026-q1-results.html)
 - [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/building-materials-wholesale/core-main-inc/2026-q1-earnings-release.pdf)

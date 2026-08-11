@@ -92,8 +92,8 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/technology/electronics-wholesale/avnet-inc/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/technology/electronics-wholesale/avnet-inc/source-ledger.md)
+- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/electronics-wholesale/avnet-inc/company-profile.md)
+- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/electronics-wholesale/avnet-inc/source-ledger.md)
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/technology/electronics-wholesale/avnet-inc/annualreports-verification.md)
 - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/technology/electronics-wholesale/avnet-inc/ir-source-links.md)
 - [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/technology/electronics-wholesale/avnet-inc/sec-source-links.md)

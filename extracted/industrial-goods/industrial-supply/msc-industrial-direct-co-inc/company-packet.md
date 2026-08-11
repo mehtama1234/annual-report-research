@@ -90,8 +90,8 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/extracted/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/source-ledger.md)
+- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/company-profile.md)
+- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/source-ledger.md)
 - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/2025-10k.html)
 - [2026-fq1-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/2026-fq1-10q.html)
 - [2026-fq2-10q.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/msc-industrial-direct-co-inc/2026-fq2-10q.html)

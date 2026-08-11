@@ -3,6 +3,14 @@
 Date: 2026-08-10
 Branch: `cli4-healthcare-frontier-batch`
 
+## Packet Inputs Used
+
+- the branch-level healthcare frontier flagship roster and the raw evidence collected for each company
+- the standard source window of `2025` annual reports plus the latest three reported quarters as of `2026-08-10`
+- the current packet-drafting status across completed and still-being-integrated healthcare names
+- the cross-company healthcare interpretation already written in the linked theme memo
+- the branch handoff expectation that status notes should distinguish evidence collected, packets drafted, interpretation written, and next integration actions
+
 ## Batch objective
 
 The current healthcare-frontier flagship set is:
@@ -585,3 +593,10 @@ Cross-company interpretation now exists in:
 1. Treat `Regeneron`, `Labcorp`, `Teva`, `West`, `Option Care`, `DexCom`, `Insulet`, and `Medpace` as completed for the current healthcare batch.
 2. Treat `Quest`, `Natera`, `Alnylam`, `Ionis`, `DaVita`, `Addus`, `Enhabit`, `BrightSpring`, `Guardant`, and `Exact Sciences` as completed for the current healthcare batch.
 3. Decide whether to integrate shared indexes as one coherent healthcare batch or hand the batch back for separate integration.
+
+## Skeptical Reader Test
+
+- Does this status note make clear which healthcare companies are complete, what evidence window they were built from, and what interpretation already exists?
+- Can a skeptical reader tell the difference between raw evidence collected, packet drafting progress, and integrated lane-level synthesis?
+- Does the file identify immediate next actions that follow from the current branch state rather than from a generic healthcare wish list?
+- What missing packet, source window, or integration step would weaken the claim that this healthcare frontier batch is largely complete?

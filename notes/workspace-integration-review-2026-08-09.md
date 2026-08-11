@@ -2,6 +2,14 @@
 
 Date: 2026-08-09
 
+## Packet Inputs Used
+
+- the reviewed workspace directories for `annual-report-research`, `ibis-industries`, and overlapping local annual-report or industry-research workspaces
+- the current repo structures and division of labor between evidence collection, company packets, and force or industry narrative writing
+- the bridge-layer idea that links annual-report evidence to IBIS force pages without collapsing the repos together
+- the archive requirement that structural recommendations should preserve clean operating boundaries while improving cross-workspace interpretive reuse
+- the practical mapping of where consumer, industrial, cultural, and other recurring themes currently live and where they should flow next
+
 ## Scope reviewed
 
 - `/home/manishmehta/ui-projects/annual-report-research`
@@ -134,3 +142,10 @@ The repo layout is directionally correct.
 - The next useful piece is a small bridge layer, not a merger.
 
 That bridge already exists in early form, and tightening it is the fastest path to making sector, industrial, consumer, cultural, and other recurring themes more explicit across both workspaces.
+
+## Skeptical Reader Test
+
+- Does this review make clear which workspace owns evidence, which owns wider narrative, and why that split is useful?
+- Can a skeptical reader trace the recommendation for a bridge layer back to the current structures actually present in the reviewed workspaces?
+- Does the note avoid hand-wavy “integration” language and instead name the concrete mapping and reuse problem it is solving?
+- What would show that the recommended bridge is still too vague to guide real repo work?

@@ -2,6 +2,14 @@
 
 Date baseline: 2026-08-09
 
+## Packet Inputs Used
+
+- the normalized tracker files under `indexes/` that establish company, coverage, and theme counts
+- the current repo state on `main` at the audited snapshot and the machine-parseable cleanup done in that pass
+- the archive's existing sector briefs, company packets, and theme memos that support the claims about current synthesis depth
+- the gap analysis around annual-report coverage and transcript density that determines the next collection priorities
+- the repo standard that coverage quality should be judged not only by document presence but also by interpretive usefulness
+
 ## Current state
 
 The research workspace is now committed and machine-parseable.
@@ -90,3 +98,10 @@ This is now a single archive-quality tail item, not a broad evidence-chain gap. 
 ## Working conclusion
 
 This repo is no longer just a file dump. It is now a structured research archive with clean trackers, near-complete annual and quarterly coverage, and enough sector breadth to support deeper synthesis work. The next phase should focus less on basic collection and more on closing the final annual-report gap and improving transcript-backed interpretation where it matters most.
+
+## Skeptical Reader Test
+
+- Does this audit identify the exact tracker and coverage evidence behind its totals and status claims?
+- Can a skeptical reader tell which parts of the repo are strong because of real evidence coverage and which parts are still weak because of transcript or interpretation gaps?
+- Does the note separate “documents exist” from “the archive can explain the sector well”?
+- What missing tracker evidence or contradictory repo state would weaken the conclusion that the archive has moved past file-dump status?

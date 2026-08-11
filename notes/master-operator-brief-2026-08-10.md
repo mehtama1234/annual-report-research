@@ -3,6 +3,14 @@
 Date baseline: 2026-08-10
 Repo: `annual-report-research-new-lanes`
 
+## Packet Inputs Used
+
+- the repo-wide evidence standard of `2025` annual reports, annual filings, and the latest three reported quarters as of `2026-08-10`
+- the lane-building requirement that each run should produce company packets, lane summaries, and recurring cross-company pattern recognition together
+- the expanded lane families and adjacent-area instructions that push the archive beyond earlier narrow coverage
+- the handoff standard that requires completed companies, partial companies, strongest repeated signals, and exact next names
+- the broader insight mandate that consumer, cultural, societal, industrial, technical, and capital-structure shifts are primary outputs, not side commentary
+
 ## Objective
 
 Build `annual-report-research-new-lanes` into a source-grounded, multi-lane research archive that does two jobs at once:
@@ -357,3 +365,10 @@ Every coherent batch should end with:
 For the fuller reference version of this brief, use:
 
 - [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/cli-lane-instructions-2026-08-10.md)
+
+## Skeptical Reader Test
+
+- Does this brief make clear that the operator is building lanes, not just downloading filings?
+- Can a skeptical reader see what a successful run must leave behind at both the company and lane level?
+- Does the brief force the worker to connect raw filing collection to cross-company explanation and bigger-pattern interpretation?
+- What would show that the archive is still accumulating activity without producing a continuation-ready lane?

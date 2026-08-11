@@ -6,6 +6,28 @@ Purpose:
 
 Every insight needs a way to fail. This page records what would weaken or disprove the current research conclusions.
 
+The thesis-breaker layer should stay tied to the same packet evidence as the main insight. A strong breaker usually depends on:
+
+- annual report takeaways
+- latest three-quarter chain
+- operating indicators
+- exact supporting facts
+- burden-versus-beneficiary interpretation
+- next filing watchlist
+
+If the disconfirming case cannot be traced back to the same packet inputs that supported the claim, it is probably too abstract.
+
+## Skeptical Reader Test
+
+Before treating a thesis breaker as useful, make sure a skeptical reader can answer:
+
+1. `What exact fact currently supports the claim?`
+2. `What exact future fact would weaken it?`
+3. `Why would that change matter economically?`
+4. `Which company or metric is the best place to watch the break happen?`
+
+If the breaker cannot answer those four clearly, it still needs work.
+
 ## AI Physical Capacity
 
 Current thesis:

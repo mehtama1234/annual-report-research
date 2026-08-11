@@ -42,6 +42,32 @@ Do not cite only a company packet. Pull the exact items from the packet that car
 
 The page should say which exact packet facts are doing the work. A company name by itself is not evidence.
 
+## Packet Inputs That Should Feed This Page
+
+The conclusions on this page should be traceable to the exact packet sections that carried the argument:
+
+- annual report takeaways
+- latest three-quarter chain
+- operating indicators
+- management message
+- structural read
+- exact supporting facts
+- burden-versus-beneficiary interpretation
+- next filing watchlist
+
+If an insight cannot point back to those packet inputs, it is probably too broad for this archive standard.
+
+## Skeptical Reader Test
+
+Before treating any insight on this page as finished, make sure a skeptical reader can answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+If the page cannot answer those four directly, it still needs more work.
+
 ## How The Data Supports The Conclusions
 
 The conclusions below are not meant to stand on company names alone. The support comes from three kinds of repo evidence:

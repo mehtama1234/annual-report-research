@@ -6,6 +6,27 @@ Purpose:
 
 This page captures the surprising reads that came from the company evidence. These are not slogans. Each one is tied to packet facts and creates a follow-up question.
 
+Use it as a synthesis layer, not a freeform idea list. Each aha should be traceable to packet evidence such as:
+
+- annual report takeaways
+- latest three-quarter chain
+- operating indicators
+- management message
+- exact supporting facts
+- burden-versus-beneficiary interpretation
+- next filing watchlist
+
+## Skeptical Reader Test
+
+Before treating an aha as strong enough to keep, make sure a skeptical reader can answer:
+
+1. `What is the exact fact?`
+2. `What is surprising about it?`
+3. `Why does it matter beyond one company?`
+4. `What future fact could weaken it?`
+
+If the aha cannot clear those four questions, it is still too loose.
+
 ## 1. AI Shows Up In Boring Physical Backlogs
 
 Aha:

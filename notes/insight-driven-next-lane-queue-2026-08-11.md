@@ -16,6 +16,22 @@ This queue turns the insight extraction system into the next concrete research a
 
 Pick from this queue when a thread needs to continue building the archive rather than adding more governance.
 
+In the current repo state, many of the highest-value lanes already have:
+
+- a first framework note
+- a first proof page
+- at least one comparison memo
+- at least one watchlist
+
+That means the best queue items are often no longer the names that merely make the first pattern visible.
+
+They are the names that do one of these:
+
+- fill a missing flagship role inside an already-built lane
+- add the strongest contradiction case
+- test whether the burden carrier can still outperform the cleaner layer
+- sharpen which metric would actually break the current read
+
 ## Selection Rule
 
 Do not pick the next company because an industry page is thin.
@@ -94,6 +110,13 @@ Current evidence base:
 - Brookdale
 - Ventas
 
+Current state:
+
+- the healthcare framework note already exists
+- the burden-versus-workflow, payer-versus-provider-versus-tools, testing-distribution-delivery, and reimbursement-labor-utilization layers already exist
+
+The next target set should therefore be read as a contradiction and missing-role queue, not as a first-pass lane-definition queue.
+
 Next target set:
 
 | Target | Why it matters | Insight being tested | Metrics to extract | Thesis breaker |
@@ -113,10 +136,10 @@ Recommended first batch:
 
 Required output:
 
-- payer versus provider versus tools versus device comparison
-- burden-carrier map
-- reimbursement and labor pressure section
-- watchlist for next quarter
+- payer versus provider versus tools versus device strengthening pass
+- sharper burden-carrier or contradiction map
+- reimbursement and labor pressure update
+- next-quarter break-test watchlist
 - packet-input table for the lane read
 
 ## Priority 2: Recreation, Lifestyle, Gifting, Hospitality, And Occasion Demand
@@ -135,6 +158,13 @@ Current evidence base:
 - Crocs
 - Deckers
 - Sysco
+
+Current state:
+
+- the recreation framework note already exists
+- the selective-consumer proof, recreation occasion comparisons, and burden watchlist already exist
+
+The next target set should therefore be read as a way to sharpen defended-demand versus clean-economics splits rather than to prove the category exists at all.
 
 Next target set:
 
@@ -157,9 +187,9 @@ Recommended first batch:
 
 Required output:
 
-- occasion versus routine demand map
-- brand/relationship owner versus property/inventory burden map
-- consumer selectivity section
+- sharper occasion versus routine demand map
+- brand/relationship owner versus property/inventory burden contradiction map
+- consumer selectivity strengthening section
 - next targets in jewelry, furnishings, hospitality, and food wholesale
 - packet-input table for the lane read
 
@@ -177,6 +207,14 @@ Current evidence base:
 - Quest
 - Ecolab
 - Veralto
+
+Current state:
+
+- the trust proof page already exists
+- the trust-layer comparisons, durability split, and failure-risk watchlist already exist
+- the CLI 6 trust framework is already integrated
+
+The next target set should therefore be read as a weak-link and standard-like-versus-vendor-like queue rather than a first proof-of-concept queue.
 
 Next target set:
 
@@ -198,10 +236,10 @@ Recommended first batch:
 
 Required output:
 
-- trust-intermediation comparison
-- standards versus vendors distinction
-- proof layer economics
-- failure-risk and commoditization thesis breakers
+- sharper trust-intermediation comparison
+- stronger standards versus vendors distinction
+- proof-layer economics strengthening pass
+- updated failure-risk and commoditization thesis breakers
 - packet-input table for the lane read
 
 ## Priority 4: AI Physical Capacity And Burden Carriers
@@ -224,6 +262,13 @@ Current evidence base:
 - Vistra
 - WESCO
 
+Current state:
+
+- the AI physical-capacity proof already exists
+- the burden-carrier comparison, capex-return watchlist, and CLI 5 integration layer already exist
+
+The next target set should therefore be read as a queue for resolving the hardest remaining split inside the lane: chokepoint owner versus capital-heavy builder, ecosystem density versus raw capacity ownership, and visible backlog versus actual cash conversion.
+
 Next target set:
 
 | Target | Why it matters | Insight being tested | Metrics to extract | Thesis breaker |
@@ -244,10 +289,10 @@ Recommended first batch:
 
 Required output:
 
-- clean capture versus burden carrier map
-- backlog conversion analysis
-- power and skilled-labor bottleneck section
-- capex return watchlist
+- sharper clean capture versus burden carrier map
+- backlog conversion contradiction analysis
+- power and skilled-labor bottleneck strengthening section
+- updated capex return watchlist
 - packet-input table for the lane read
 
 ## Priority 5: Commodity Chains Behind Electrification, Housing, Food, And Packaging

@@ -126,7 +126,7 @@ Run these from the repo root:
 bash scripts/verify-insight-system.sh
 ```
 
-The verifier checks required files, required phrases, and browser-entry links. If the local server is not running, the file and link-source checks still prove the repo-side structure.
+The verifier checks required files, required phrases, browser-entry links, and the deeper insight-stack sections that future packets, lane summaries, and proof memos are expected to contain. If the local server is not running, the file and link-source checks still prove the repo-side structure.
 
 Manual equivalent:
 
@@ -155,6 +155,9 @@ Check browser links:
 curl -fsS http://localhost:8080/site/index.html | rg 'Insight extraction hub|Master insight extraction goal|Operator-ready master instruction|Insight extraction templates'
 curl -fsS http://localhost:8080/site/concrete-insights.html | rg 'Insight extraction hub|Master insight extraction goal|Operator-ready master instruction|Insight extraction templates'
 curl -fsS http://localhost:8080/notes/insight-extraction-hub-2026-08-11.md | rg 'Workflow For A New Company|Workflow For A New Lane|Workflow For A New Theme'
+rg 'Insight Stack|Insight Stack Across The Lane|Beneficiaries And Burden Carriers|Why This Matters Now' notes/insight-extraction-templates-2026-08-11.md
+rg 'consumer behavior shift|relationship-owner versus burden-carrier split|consumer, cultural, societal, industrial, technical, or capital-structure meaning is explicit' notes/lane-end-to-end-execution-runbook-2026-08-11.md
+rg 'capital pattern without saying how the filing evidence supports it|who benefits and who carries burden' notes/insight-completion-rubric-2026-08-11.md
 ```
 
 ## Current Completeness Assessment

@@ -18,6 +18,22 @@ If a writeup sounds smart but cannot pass this rubric with exact evidence, it is
 - concrete failure modes already visible in repo work when packet-input tracing is weak or absent
 - reviewer needs for deciding whether an artifact is actually done instead of merely present
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, many of the archive's most important lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means this rubric should not be read as a test only for blank-slate lane creation.
+
+It should also be used to judge whether a new pass actually strengthened an existing lane.
+
+For an existing lane, "done" usually means the new work improved one or more of these:
+
+- missing flagship role coverage
+- contradiction or weak-link coverage
+- burden-versus-beneficiary clarity
+- packet-backed fact-period support
+- next-filing break-test quality
+
 ## The Core Rule
 
 The archive is not done when it has documents, summaries, or company descriptions.
@@ -48,6 +64,14 @@ A finished insight artifact must answer all of these in plain English:
 If any one of those is missing, the work is not fully done.
 
 If the artifact cannot also name the exact period carrying the claim, explain why the fact supports the conclusion, and say what alternative explanation or next-filing evidence would weaken the read, it is still incomplete.
+
+For already-open lanes and proof themes, a file is also not "done" merely because:
+
+- the first framework note exists
+- the first proof page exists
+- the theme sounds directionally right
+
+The later pass still has to prove that it sharpened the live read rather than only restated it.
 
 ## Scoring Scale
 

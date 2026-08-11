@@ -32,6 +32,17 @@ Do not treat a batch as done when the new packets exist.
 
 Treat it as done only when the lane comparison and proof-page layer are stronger because of those packets.
 
+In the current repo state, most of these batches are no longer starting from zero.
+
+For the highest-value lanes, the framework note, first proof page, and first watchlist often already exist.
+
+That means the next run should usually aim to do one or more of these:
+
+- fill a missing flagship role
+- add the best contradiction or edge-case comparison
+- sharpen the burden carrier versus cleaner layer split
+- strengthen the break test for the next filing window
+
 Use this together with:
 
 - [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md) for the higher-level statement of what is still left
@@ -58,12 +69,19 @@ Where do recurring-care economics become clean, and where do labor, reimbursemen
 - who absorbs labor and reimbursement strain
 - whether recurring-care economics are cleaner in workflow, diagnostics, devices, or insurance layers
 
+### Current State
+
+- the healthcare framework note already exists
+- the burden-versus-workflow, payer-versus-provider-versus-tools, testing-distribution-delivery, and reimbursement-labor-utilization layers already exist
+
+The next pass should therefore aim to sharpen contradiction cases and missing roles rather than recreate the first pattern statement.
+
 ### Required Outputs
 
 - `4-5` source-complete company packets
-- one healthcare burden-carrier comparison
-- one payer-versus-provider-versus-tools lane summary
-- one updated watchlist for reimbursement, labor, and utilization
+- one sharper healthcare burden-carrier comparison or contradiction case
+- one payer-versus-provider-versus-tools lane strengthening pass
+- one updated reimbursement, labor, and utilization watchlist
 - one proof-page strengthening pass for the healthcare comparison pages already in the repo
 
 ### Exact Proof Pages To Strengthen
@@ -85,7 +103,7 @@ Where do recurring-care economics become clean, and where do labor, reimbursemen
 
 ### Done Gate
 
-This batch is done only if the archive can show, with exact evidence, whether the cleanest recurring-care economics sit in care delivery, payment coordination, diagnostics workflow, or installed devices.
+This batch is done only if the archive can show, with exact evidence, whether the cleanest recurring-care economics still sit in care delivery, payment coordination, diagnostics workflow, or installed devices after the strongest contradiction case is added.
 
 ## Batch 2: Recreation, Lifestyle, Gifting, Hospitality, And Occasion Demand
 
@@ -109,12 +127,19 @@ When consumers stay selective, which role-based or occasion-based categories sti
 - hosting, gifting, and milestone demand versus ordinary discretionary spend
 - premium identity demand versus housing or rate sensitivity
 
+### Current State
+
+- the recreation framework note already exists
+- the selective-consumer proof, recreation occasion comparisons, and burden watchlist already exist
+
+The next pass should focus on the best contradiction names and the split between defended demand and clean economics.
+
 ### Required Outputs
 
 - `4-5` source-complete company packets plus one reuse comparison
-- one occasion-versus-routine demand map
-- one relationship-owner-versus-property-or-inventory-burden comparison
-- one consumer-selectivity update for the existing recreation and consumer proof pages
+- one sharper occasion-versus-routine demand map
+- one relationship-owner-versus-property-or-inventory-burden contradiction comparison
+- one consumer-selectivity strengthening pass for the existing recreation and consumer proof pages
 - one next-target slate for adjacent jewelry, furnishing, hospitality, and foodservice names
 
 ### Exact Proof Pages To Strengthen
@@ -138,7 +163,7 @@ When consumers stay selective, which role-based or occasion-based categories sti
 
 ### Done Gate
 
-This batch is done only if the archive can explain which parts of selective consumer demand are role-based, occasion-based, or loyalty-based, and which companies own that relationship without carrying the heaviest physical burden.
+This batch is done only if the archive can explain which parts of selective consumer demand are role-based, occasion-based, or loyalty-based, and which companies still own that relationship without carrying the heaviest physical burden once the best edge case is added.
 
 ## Batch 3: Trust, Proof, Measurement, And Security
 
@@ -160,13 +185,21 @@ Is trust becoming a paid control layer with cleaner economics than the operation
 - standards and advisory layers versus vendors and operators
 - recurring trust economics versus cycle-sensitive trust demand
 
+### Current State
+
+- the trust proof page already exists
+- the trust-layer comparisons, durability split, and failure-risk watchlist already exist
+- the CLI 6 trust framework is already integrated
+
+The next pass should focus on weak-link cases, standard-like versus vendor-like separation, and which trust layers are most vulnerable to commoditization.
+
 ### Required Outputs
 
 - `4-5` source-complete company packets
-- one trust-intermediation comparison
-- one standards-versus-vendors distinction page
-- one proof-layer economics update for the current trust pages
-- one commoditization and failure-risk watchlist
+- one sharper trust-intermediation comparison
+- one stronger standards-versus-vendors distinction pass
+- one proof-layer economics strengthening pass for the current trust pages
+- one updated commoditization and failure-risk watchlist
 
 ### Exact Proof Pages To Strengthen
 
@@ -185,7 +218,7 @@ Is trust becoming a paid control layer with cleaner economics than the operation
 
 ### Done Gate
 
-This batch is done only if the archive can show which trust layers behave like durable paid infrastructure and which are still vulnerable to cycle, insourcing, or commoditization.
+This batch is done only if the archive can show which trust layers behave like durable paid infrastructure and which are still vulnerable to cycle, insourcing, commoditization, or credibility failure after the clearest weak-link case is added.
 
 ## Batch 4: AI Physical Capacity And Burden Carriers
 
@@ -208,12 +241,19 @@ Who captures the clean economics of AI infrastructure demand, and who carries th
 - power and skilled-labor bottlenecks
 - validation and inspection chokepoints versus raw capacity ownership
 
+### Current State
+
+- the AI physical-capacity proof already exists
+- the burden-carrier comparison, capex-return watchlist, and CLI 5 integration layer already exist
+
+The next pass should focus on the hardest unresolved split inside the lane: chokepoint owner versus capital-heavy builder, ecosystem density versus raw capacity ownership, and visible backlog versus real cash conversion.
+
 ### Required Outputs
 
 - `4-5` source-complete company packets
-- one clean-capture-versus-burden-carrier map
-- one backlog-versus-realization comparison
-- one capex return and power-constraint watchlist
+- one sharper clean-capture-versus-burden-carrier map
+- one stronger backlog-versus-realization contradiction comparison
+- one updated capex return and power-constraint watchlist
 - one strengthening pass across the AI physical-capacity proof layer
 
 ### Exact Proof Pages To Strengthen
@@ -236,7 +276,7 @@ Who captures the clean economics of AI infrastructure demand, and who carries th
 
 ### Done Gate
 
-This batch is done only if the archive can show, with exact facts, whether AI infrastructure rewards the chokepoint owners, the financiers, the field executors, or the interconnection layers most cleanly.
+This batch is done only if the archive can show, with exact facts, whether AI infrastructure rewards the chokepoint owners, the financiers, the field executors, or the interconnection layers most cleanly after the best contradiction case is forced through backlog, power, and cash-realization reality.
 
 ## Common Closeout Requirement
 

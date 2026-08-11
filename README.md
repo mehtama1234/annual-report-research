@@ -22,15 +22,15 @@ This keeps raw evidence separate from downstream interpretation.
 
 Start here:
 
-- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/START-HERE.md)
+- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
 
 That file points to the active operator brief, lane instructions, next-step workflow, and current handoff.
 Together those files define the end-to-end pursuit goal, the lane-level output standard, the `3` to `4` flagship-company batch rule, the handoff requirements, and the expanded lane coverage across recreation, healthcare frontier, connectivity / telecom / infra tech, and capital structures / property / conglomerates.
 
 For the fastest lane-selection view, use:
 
-- [Active lane board](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/active-lane-board-2026-08-10.md)
-- [Current execution queue](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/current-execution-queue-2026-08-10.md)
+- [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
+- [Current execution queue](/home/manishmehta/ui-projects/annual-report-research/notes/current-execution-queue-2026-08-10.md)
 
 ## Why this exists
 
@@ -43,12 +43,12 @@ This workspace fills the missing middle: a disciplined repository of annual repo
 
 For the current cross-project fit, see:
 
-- [Annual report stack alignment](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/annual-report-stack-alignment-2026-08-09.md)
+- [Annual report stack alignment](/home/manishmehta/ui-projects/annual-report-research/analysis/annual-report-stack-alignment-2026-08-09.md)
 
 ## Folder layout
 
 ```text
-annual-report-research-new-lanes/
+annual-report-research/
   raw/
     annualreports/
     company-ir/

@@ -161,6 +161,40 @@ It moves through five layers of work:
 - explain what the company reveals about shifting customer routines, trust patterns, willingness to spend, operating discipline, or asset intensity beyond its own reported numbers
 - identify which recurring cross-company pattern this company helps prove and why it belongs in the comparison set
 
+### 2A. Exact packet evidence that should power the interpretation
+
+The archive should not jump from a filing to a theme without showing the packet evidence that created the read.
+Every meaningful insight should be traceable back to specific packet components and specific facts inside those components.
+
+The exact packet inputs that should usually do the work are:
+
+- annual takeaways
+- quarter-chain takeaways
+- business model and segment mix
+- product, service, and channel detail
+- geography mix where it matters
+- margin, utilization, occupancy, reimbursement, claims, backlog, or order-flow detail where relevant
+- management priority language that repeats across the annual and quarter chain
+- stated constraints, bottlenecks, and cost pressures
+- capital-allocation decisions: capex, acquisitions, debt, liquidity, buybacks, dividends, lease burden, and refinancing needs
+- customer, patient, enterprise, member, subscriber, or participant behavior clues
+- exact facts and source ledger entries that make the interpretation auditable
+
+That means the interpretation should regularly be built from concrete packet evidence such as:
+
+- volume versus price movement
+- revenue mix shifts across segments or channels
+- gross-margin or operating-margin changes and management explanations for them
+- utilization, occupancy, or throughput constraints
+- staffing, labor-cost, or caregiver availability pressure
+- reimbursement-rate changes, claims trends, or medical-cost ratios
+- backlog, bookings, RPO, pipeline, churn, renewal, or retention movement
+- same-store, traffic, basket, average revenue per user, or member-engagement movement
+- capex intensity, debt maturity, liquidity posture, or asset-recycling decisions
+- repeated management language around urgency, convenience, trust, automation, compliance, affordability, or capacity
+
+If a theme cannot point back to these kinds of packet elements, the archive should treat it as underproved and keep digging.
+
 ### 3. Lane construction
 
 - show why the chosen companies belong together

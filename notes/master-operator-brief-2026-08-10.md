@@ -1,7 +1,7 @@
 # Master Operator Brief
 
 Date baseline: 2026-08-10
-Repo: `annual-report-research-new-lanes`
+Repo: `annual-report-research`
 
 ## Packet Inputs Used
 
@@ -13,7 +13,7 @@ Repo: `annual-report-research-new-lanes`
 
 ## Objective
 
-Build `annual-report-research-new-lanes` into a source-grounded, multi-lane research archive that does two jobs at once:
+Build `annual-report-research` into a source-grounded, multi-lane research archive that does two jobs at once:
 
 1. collect the right evidence from `2025` annual reports, annual filings, and the latest three reported quarters as of `2026-08-10`
 2. convert that evidence into company packets, lane summaries, and recurring cross-company pattern recognition
@@ -99,16 +99,16 @@ If the run has evidence but not those interpretations, it is not done.
 
 Use these files in sequence when starting a new batch:
 
-1. [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/START-HERE.md)
-2. [End-to-end pursuit goal](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/end-to-end-pursuit-goal-2026-08-10.md)
-3. [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/cli-lane-instructions-2026-08-10.md)
-4. [Lane run template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/lane-run-template.md)
-5. [Batch log template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/batch-log-template.md)
-6. [Theme memo template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/theme-memo.md)
-7. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/batch-handoff-template.md)
-8. [Active lane board](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/active-lane-board-2026-08-10.md)
-9. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/post-batch-integration-checklist.md)
-10. [Status rubric](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/status-rubric.md)
+1. [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
+2. [End-to-end pursuit goal](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-pursuit-goal-2026-08-10.md)
+3. [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research/indexes/cli-lane-instructions-2026-08-10.md)
+4. [Lane run template](/home/manishmehta/ui-projects/annual-report-research/templates/lane-run-template.md)
+5. [Batch log template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-log-template.md)
+6. [Theme memo template](/home/manishmehta/ui-projects/annual-report-research/templates/theme-memo.md)
+7. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
+8. [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
+9. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
+10. [Status rubric](/home/manishmehta/ui-projects/annual-report-research/templates/status-rubric.md)
 
 The end-to-end pursuit goal defines what the archive is trying to become and what each lane should produce.
 The lane-run template is the default execution skeleton for a coherent lane batch.
@@ -364,7 +364,7 @@ Every coherent batch should end with:
 
 For the fuller reference version of this brief, use:
 
-- [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/cli-lane-instructions-2026-08-10.md)
+- [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research/indexes/cli-lane-instructions-2026-08-10.md)
 
 ## Skeptical Reader Test
 

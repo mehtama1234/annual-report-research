@@ -1,23 +1,23 @@
 # Start Here
 
 Date baseline: 2026-08-10
-Repo: `annual-report-research-new-lanes`
+Repo: `annual-report-research`
 
 If you are starting work in this repo, read these files in this order:
 
-1. [Master operator brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/master-operator-brief-2026-08-10.md)
-2. [End-to-end pursuit goal](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/end-to-end-pursuit-goal-2026-08-10.md)
-3. [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/cli-lane-instructions-2026-08-10.md)
-4. [Lane run template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/lane-run-template.md)
-5. [Batch log template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/batch-log-template.md)
-6. [Theme memo template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/theme-memo.md)
-7. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/batch-handoff-template.md)
-8. [Status rubric](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/status-rubric.md)
-9. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/post-batch-integration-checklist.md)
-10. [Next steps](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/next-steps.md)
-11. [Current handoff](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/handoff-2026-08-10.md)
-12. [Active lane board](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/active-lane-board-2026-08-10.md)
-13. [Current execution queue](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/current-execution-queue-2026-08-10.md)
+1. [Master operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/master-operator-brief-2026-08-10.md)
+2. [End-to-end pursuit goal](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-pursuit-goal-2026-08-10.md)
+3. [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research/indexes/cli-lane-instructions-2026-08-10.md)
+4. [Lane run template](/home/manishmehta/ui-projects/annual-report-research/templates/lane-run-template.md)
+5. [Batch log template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-log-template.md)
+6. [Theme memo template](/home/manishmehta/ui-projects/annual-report-research/templates/theme-memo.md)
+7. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
+8. [Status rubric](/home/manishmehta/ui-projects/annual-report-research/templates/status-rubric.md)
+9. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
+10. [Next steps](/home/manishmehta/ui-projects/annual-report-research/notes/next-steps.md)
+11. [Current handoff](/home/manishmehta/ui-projects/annual-report-research/notes/handoff-2026-08-10.md)
+12. [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
+13. [Current execution queue](/home/manishmehta/ui-projects/annual-report-research/notes/current-execution-queue-2026-08-10.md)
 
 ## Insight-System Maintenance
 
@@ -41,20 +41,20 @@ Current boundary artifacts:
 Use these before opening a new batch if you want the current state rather than only the kickoff briefs:
 
 - [Concrete insights and curiosity map](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md)
-- [CLI 4 recurring-care framework](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
-- [CLI 5 control-point framework](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
-- [CLI 6 trust-intermediation framework](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-6-trust-intermediation-framework-2026-08-10.md)
-- [CLI 4 / 5 / 6 recurring-interface framework](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-4-5-6-recurring-interface-control-framework-2026-08-10.md)
-- [CLI 4 / 5 / 6 multi-lane handoff](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-4-5-6-multi-lane-handoff-2026-08-10.md)
+- [CLI 4 recurring-care framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
+- [CLI 5 control-point framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
+- [CLI 6 trust-intermediation framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-6-trust-intermediation-framework-2026-08-10.md)
+- [CLI 4 / 5 / 6 recurring-interface framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-5-6-recurring-interface-control-framework-2026-08-10.md)
+- [CLI 4 / 5 / 6 multi-lane handoff](/home/manishmehta/ui-projects/annual-report-research/notes/cli-4-5-6-multi-lane-handoff-2026-08-10.md)
 
 ## Direct kickoff briefs
 
 Use these when you already know which lane you are opening:
 
-- [Recreation / participation kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/recreation-participation-kickoff-2026-08-10.md)
-- [CLI 4 kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-4-kickoff-2026-08-10.md)
-- [CLI 5 kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-5-kickoff-2026-08-10.md)
-- [CLI 6 kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-6-kickoff-2026-08-10.md)
+- [Recreation / participation kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/recreation-participation-kickoff-2026-08-10.md)
+- [CLI 4 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-4-kickoff-2026-08-10.md)
+- [CLI 5 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-5-kickoff-2026-08-10.md)
+- [CLI 6 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-6-kickoff-2026-08-10.md)
 
 ## Working goal
 

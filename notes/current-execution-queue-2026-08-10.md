@@ -1,9 +1,9 @@
 # Current Execution Queue
 
 Date baseline: 2026-08-10
-Repo: `annual-report-research-new-lanes`
+Repo: `annual-report-research`
 
-This file is the active execution queue for the `new-lanes` archive.
+This file is the active execution queue for the current archive.
 It supersedes older queue logic that was built for the narrower archive state and earlier consumer-interface repair priorities.
 
 ## Packet Inputs Used
@@ -153,15 +153,15 @@ What success looks like:
 
 ## Required operating files
 
-- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/START-HERE.md)
-- [Active lane board](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/active-lane-board-2026-08-10.md)
-- [CLI 4 kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-4-kickoff-2026-08-10.md)
-- [CLI 5 kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-5-kickoff-2026-08-10.md)
-- [CLI 6 kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-6-kickoff-2026-08-10.md)
-- [Recreation / participation kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/recreation-participation-kickoff-2026-08-10.md)
-- [Lane run template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/lane-run-template.md)
-- [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/batch-handoff-template.md)
-- [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/post-batch-integration-checklist.md)
+- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
+- [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
+- [CLI 4 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-4-kickoff-2026-08-10.md)
+- [CLI 5 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-5-kickoff-2026-08-10.md)
+- [CLI 6 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-6-kickoff-2026-08-10.md)
+- [Recreation / participation kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/recreation-participation-kickoff-2026-08-10.md)
+- [Lane run template](/home/manishmehta/ui-projects/annual-report-research/templates/lane-run-template.md)
+- [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
+- [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
 
 ## Skeptical Reader Test
 

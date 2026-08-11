@@ -6,7 +6,7 @@ Use this template at the end of a coherent lane batch.
 It is the default closeout format for a coherent `4` to `8` flagship-company run, or for a smaller finished comparison set when the lane build is still in progress.
 Use the shared labels in:
 
-- [Status rubric](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/status-rubric.md)
+- [Status rubric](/home/manishmehta/ui-projects/annual-report-research/templates/status-rubric.md)
 
 ## Snapshot
 

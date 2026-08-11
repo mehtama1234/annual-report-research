@@ -37,6 +37,19 @@ This memo asks:
 
 Which companies get paid because the customer cannot afford downtime, noncompliance, or unprotected exposure?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make failure-avoidance and uptime economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic statement that prevention matters.
+
 ## Exact Evidence
 
 | Company | Uptime or failure-avoidance role | Exact packet facts | What the facts prove |
@@ -192,6 +205,17 @@ This failure-avoidance thesis weakens if:
 - labor or capex burden rises faster than pricing power or retention
 - a major service failure damages the claim that the operator reduces risk
 - customers find cheaper in-house or automated alternatives that preserve reliability just as well
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the uptime or failure-avoidance system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, failure-avoidance map, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

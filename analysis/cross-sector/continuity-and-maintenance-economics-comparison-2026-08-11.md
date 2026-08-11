@@ -23,6 +23,19 @@ The customer is not mainly buying excitement.
 
 The customer is buying fewer failures, less downtime, cleaner handoffs, and lower disruption.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make continuity economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad statement that maintenance is recurring.
+
 ## Why This Comparison Matters
 
 The archive already has pages on:
@@ -185,6 +198,17 @@ This continuity-and-maintenance thesis weakens if:
 - route-based or field-service models lose pricing power while labor and input costs keep rising
 - procurement and contractor channels face prolonged volume weakness without offsetting share gains
 - customer workflows become easier to insource or rebundle around competitors
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the continuity system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, continuity map, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

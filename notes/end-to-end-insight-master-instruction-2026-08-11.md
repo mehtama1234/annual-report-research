@@ -30,6 +30,10 @@ The work is complete when a reader can understand, with concrete examples:
 7. `What repeats across several companies.`
 8. `What to watch next to confirm or break the pattern.`
 
+Another way to state the same goal:
+
+Use company filings to build an evidence-backed explanation of how people live, spend, age, travel, seek care, furnish homes, maintain systems, outsource complexity, and pay for convenience, trust, access, reliability, and participation, while also showing the industrial, technical, financial, and physical infrastructure required to support those behaviors.
+
 ## What Counts As Insight
 
 The repo should deliberately extract all major kinds of insight the packets can support, including:
@@ -49,6 +53,8 @@ The repo should deliberately extract all major kinds of insight the packets can 
 - early signals that may become stronger patterns in later filing windows
 
 These are not side outputs. They are core outputs.
+
+The practical standard is that the work should not just describe companies. It should explain the world those companies are reacting to and helping create.
 
 ## Required Sources
 
@@ -202,6 +208,13 @@ For every lane, produce:
 Do not use sector labels as explanations. Do not use company names as evidence. Do not make broad claims without exact filing support.
 
 Write simply. Connect the dots. Explain the mechanism. Show the exact examples that justify the conclusion.
+
+Treat the company packet as the evidence base, not the finished product. The finished product is a clear explanation of:
+- what changed in customer behavior, institutional demand, or operating reality
+- why management teams across several companies are reacting in similar or different ways
+- what part of the burden sits in labor, compliance, reimbursement, logistics, assets, software, infrastructure, or capital
+- which exact examples make the pattern real rather than rhetorical
+- what a skeptical reader should watch next to see whether the interpretation strengthens or breaks
 
 Before stopping, leave a handoff with:
 - commit hash

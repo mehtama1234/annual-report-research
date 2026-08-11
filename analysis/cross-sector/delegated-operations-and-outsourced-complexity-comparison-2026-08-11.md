@@ -34,6 +34,19 @@ This memo asks:
 
 Which companies get paid because the customer would rather hand off the operational mess than build full internal capability?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make delegated operations and outsourced complexity visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that outsourcing exists.
+
 ## Exact Evidence
 
 | Company | Delegated role | Exact packet facts | What the facts prove |
@@ -191,6 +204,17 @@ This delegated-operations thesis weakens if:
 - regulation eases enough that the handoff layer loses value
 - delegated operators fail to keep service quality high enough to justify the cost
 - growth in volume does not translate into retention, margin quality, or cash generation
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the delegated-operations system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, delegation map, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

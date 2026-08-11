@@ -169,6 +169,9 @@ Use the shared labels in:
 - if yes, which indexes changed:
 - if no, what is ready for later integration:
 - sector / industry / theme synthesis status:
+- raw evidence status:
+  - `fully-local` / `offloaded-resolvable` / `mixed` / `unclear`
+- offload manifest or resolver note:
 
 ## Exact next recommended names
 
@@ -183,6 +186,7 @@ Use the shared labels in:
 - missing quarterly artifacts:
 - missing transcript or call materials:
 - unresolved taxonomy issues:
+- unresolved raw evidence or offload issues:
 - unresolved comparison questions:
 
 ## Required continuation logic

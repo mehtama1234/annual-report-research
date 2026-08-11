@@ -25,6 +25,7 @@ For each flagship company:
 - confirm annual filing status is explicit
 - confirm last three reported quarters as of `2026-08-10` are explicit
 - confirm thematic interpretation is present, not just document links
+- confirm any offloaded `raw/**` evidence paths can be resolved through `indexes/raw-blob-offload-manifest-2026-08-10.csv` or `python3 scripts/resolve-offloaded-raw-path.py`
 
 ## Shared index integration
 
@@ -62,6 +63,11 @@ Confirm that the synthesis includes:
 - the main moats, pressures, and fragilities
 - exact next names that would improve the lane
 
+If the batch introduced new offloaded evidence assumptions, also confirm:
+
+- the manifest already covers the cited raw paths, or a new offload manifest or note was added
+- no live navigation layer was left pointing at a retired repo root except in explicit historical or provenance cases
+
 ## Thematic quality check
 
 Confirm the work is not just a filing archive.
@@ -87,6 +93,7 @@ Confirm the end-of-run handoff includes:
 - key themes
 - strongest cross-company signals
 - next recommended names
+- raw evidence resolution status when heavy source files were offloaded
 
 ## Final integration note
 

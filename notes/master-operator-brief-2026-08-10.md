@@ -87,6 +87,8 @@ If the run has evidence but not those interpretations, it is not done.
 - Use `2025` annual reports plus the latest three reported quarters as of `2026-08-10`.
 - Treat `AnnualReports.com` as taxonomy and archive confirmation, not as the only authoritative source.
 - When AnnualReports lags, use company IR and SEC as authoritative.
+- Treat remote `main` as an extracted-and-analysis archive, not as guaranteed local storage for every heavy `raw/**` artifact.
+- If packet evidence points at an offloaded raw path, resolve it through `indexes/raw-blob-offload-manifest-2026-08-10.csv` or `python3 scripts/resolve-offloaded-raw-path.py 'raw/.../file.ext'`.
 - Do not continuously update shared repo-wide indexes during exploration.
 - Update shared indexes only at the end of a coherent batch, or leave the work ready for later integration.
 - Every company must produce both filing coverage and thematic interpretation.
@@ -117,6 +119,12 @@ The theme-memo template is the default capture format for a cross-company signal
 The batch-handoff template is the default closeout format for the end of that batch.
 The post-batch integration checklist is the standard follow-through pass before the batch is considered fully integrated.
 The status rubric keeps evidence, packet, handoff, and integration labels consistent.
+
+When the evidence chain depends on offloaded raw artifacts, also use:
+
+- [Raw evidence link policy](/home/manishmehta/ui-projects/annual-report-research/notes/raw-evidence-link-policy-2026-08-11.md)
+- [Raw blob offload readme](/home/manishmehta/ui-projects/annual-report-research/notes/raw-blob-offload-readme-2026-08-10.md)
+- [Legacy root reference audit](/home/manishmehta/ui-projects/annual-report-research/notes/legacy-root-reference-audit-2026-08-11.md)
 
 ## What the work is supposed to discover
 

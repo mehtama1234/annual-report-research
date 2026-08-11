@@ -98,7 +98,7 @@ required_patterns=(
   "notes/master-insight-extraction-goal-2026-08-11.md:No broad claim without concrete filing evidence"
   "notes/end-to-end-insight-master-instruction-2026-08-11.md:Master Instruction Block"
   "notes/end-to-end-insight-master-instruction-2026-08-11.md:The Required Evidence Chain"
-  "notes/end-to-end-insight-master-instruction-2026-08-11.md:What A Finished Insight Should Sound Like"
+  "notes/end-to-end-insight-master-instruction-2026-08-11.md:What Good Insight Should Sound Like"
   "notes/meaty-end-to-end-insight-goal-2026-08-11.md:Reusable Master Instruction"
   "notes/meaty-end-to-end-insight-goal-2026-08-11.md:The standard evidence chain is"
   "notes/lane-end-to-end-execution-runbook-2026-08-11.md:Step 1: Define The Lane"

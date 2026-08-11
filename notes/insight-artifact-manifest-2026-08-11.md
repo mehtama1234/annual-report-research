@@ -114,6 +114,7 @@ Primary review pages:
 - `http://localhost:8080/site/concrete-insights.html`
 - `http://localhost:8080/site/viewer.html?file=notes/insight-extraction-hub-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/master-insight-extraction-goal-2026-08-11.md`
+- `http://localhost:8080/site/viewer.html?file=notes/end-to-end-insight-master-instruction-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/insight-extraction-templates-2026-08-11.md`
 - `http://localhost:8080/site/viewer.html?file=notes/insight-completion-rubric-2026-08-11.md`
 
@@ -152,7 +153,7 @@ Check browser links:
 
 ```bash
 curl -fsS http://localhost:8080/site/index.html | rg 'Insight extraction hub|Master insight extraction goal|Insight extraction templates'
-curl -fsS http://localhost:8080/site/concrete-insights.html | rg 'Insight extraction hub|Master insight extraction goal|Insight extraction templates'
+curl -fsS http://localhost:8080/site/concrete-insights.html | rg 'Insight extraction hub|Master insight extraction goal|Operator-ready master instruction|Insight extraction templates'
 curl -fsS http://localhost:8080/notes/insight-extraction-hub-2026-08-11.md | rg 'Workflow For A New Company|Workflow For A New Lane|Workflow For A New Theme'
 ```
 

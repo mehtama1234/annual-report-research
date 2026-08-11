@@ -432,6 +432,20 @@ Avoid:
 - Does it require burden-versus-beneficiary analysis rather than only opportunity statements?
 - What would show that a lane followed the steps mechanically without actually becoming evidence-backed?
 
+## Insight-System Maintenance
+
+When you need to confirm that the note layer, remaining-work bundle, and browser review surfaces still line up before using this runbook as the lane execution standard, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`
+
 ## Use With
 
 - [meaty-end-to-end-insight-goal-2026-08-11.md](meaty-end-to-end-insight-goal-2026-08-11.md)

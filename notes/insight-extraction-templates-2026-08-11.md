@@ -754,3 +754,17 @@ If an insight cannot be written in that form, it is not ready.
 - Can another thread pick up one of these templates and continue the evidence chain without guessing what sections are missing?
 - Do the templates require who benefits, who carries burden, and what would weaken the claim?
 - What kinds of weak writeup would still slip through if the templates were followed carelessly?
+
+## Insight-System Maintenance
+
+When you need to confirm that the note layer, remaining-work bundle, and browser review surfaces still line up before using these templates as the writing standard, use:
+
+- `bash scripts/run-insight-audit-stack.sh`
+- `bash scripts/refresh-note-layer-boundary.sh`
+- `bash scripts/audit-audit-stack-terminology.sh`
+- `bash scripts/audit-maintenance-doc-stack.sh`
+- `bash scripts/audit-continuation-mode-links.sh`
+- `bash scripts/audit-remaining-brief-links.sh`
+- `bash scripts/audit-remaining-stack-links.sh`
+- `bash scripts/audit-browser-review-links.sh`
+- `bash scripts/verify-insight-system.sh`

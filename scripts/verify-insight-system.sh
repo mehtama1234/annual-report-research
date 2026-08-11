@@ -36,6 +36,7 @@ required_files=(
   "notes/insight-extraction-templates-2026-08-11.md"
   "notes/insight-completion-rubric-2026-08-11.md"
   "notes/insight-artifact-manifest-2026-08-11.md"
+  "notes/continuation-mode-alignment-audit-2026-08-11.md"
   "notes/raw-evidence-link-policy-2026-08-11.md"
   "notes/legacy-root-reference-audit-2026-08-11.md"
   "notes/legacy-root-reference-audit-2026-08-11.json"

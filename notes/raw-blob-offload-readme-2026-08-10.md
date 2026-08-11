@@ -83,6 +83,22 @@ The CSV is file-level. Each row records:
 
 The `drive_url` points to the Drive tar object plus the internal `payload/...` path.
 
+## Resolving packet evidence links
+
+Many company packets, company profiles, and source ledgers still cite raw evidence by its original `raw/...` identity even though the heavy payload is no longer present in remote `main`.
+
+Use:
+
+```bash
+python3 scripts/resolve-offloaded-raw-path.py 'raw/sec/healthcare/medical-distribution/cencora/2026-q2-10q.html'
+```
+
+That script reads `indexes/raw-blob-offload-manifest-2026-08-10.csv` and returns the matching `drive_url` plus the key manifest metadata.
+
+For the broader interpretation standard, see:
+
+- `notes/raw-evidence-link-policy-2026-08-11.md`
+
 ## Bucket Coverage
 
 The offload covers the local-only raw delta across the heavy buckets called out in the handoff note, including:

@@ -18,6 +18,13 @@ It is intentionally split into three layers:
 
 This keeps raw evidence separate from downstream interpretation.
 
+Remote `main` currently carries the extracted, analysis, notes, and index layers, but not the heavy offloaded `raw/**` payload.
+If a packet cites a raw evidence path that is no longer present in the checkout, resolve it through:
+
+- [Raw blob offload readme](/home/manishmehta/ui-projects/annual-report-research/notes/raw-blob-offload-readme-2026-08-10.md)
+- [Raw evidence link policy](/home/manishmehta/ui-projects/annual-report-research/notes/raw-evidence-link-policy-2026-08-11.md)
+- `python3 scripts/resolve-offloaded-raw-path.py 'raw/.../file.ext'`
+
 ## Current operating brief
 
 Start here:

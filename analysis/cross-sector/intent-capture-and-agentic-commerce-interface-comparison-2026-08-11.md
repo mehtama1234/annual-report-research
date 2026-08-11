@@ -13,6 +13,19 @@ The emerging fight is over who captures intent when discovery, recommendation, a
 
 Which companies are preparing for a world where product discovery and purchase happen through AI-mediated surfaces rather than only through traditional websites or apps?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make intent capture and agentic-commerce interface economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a loose claim that AI will change commerce.
+
 ## Companies Used
 
 - [Criteo](../../extracted/services/advertising-agencies/criteo/company-packet.md)
@@ -180,6 +193,17 @@ There is also a boundary condition:
 not every category will migrate at the same speed.
 
 Unique goods, travel, high-trust purchases, and merchant-controlled brands may still keep more value in direct surfaces than commodity search-like categories do.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the intent-capture system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, intent-capture map, stronger conclusion, and disconfirming-evidence sections above.
 
 ## Watch Metrics
 

@@ -37,6 +37,19 @@ This is not exactly the same as owning the customer interface.
 
 It is closer to owning the step the rest of the system cannot afford to get wrong.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make narrow chokepoints and disproportionate consequence visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that niche suppliers matter.
+
 ## Exact Evidence
 
 | Company | Narrow chokepoint role | Exact packet facts | What the facts prove |
@@ -201,6 +214,17 @@ This narrow-chokepoint thesis weakens if:
 - adjacent platforms absorb the narrow layer and remove its independent economics
 - failures at the chokepoint stop being costly enough to justify premium spend
 - incidents or technology shifts damage the provider's trusted position
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the narrow-chokepoint system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, narrow-chokepoint map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

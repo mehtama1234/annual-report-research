@@ -28,6 +28,19 @@ The packets show that the same broad media shift is producing different winners:
 
 That is a more useful way to read the lane than treating all media companies as “content” or all ad-tech companies as “software.”
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make media-owner versus helper economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that media is fragmenting.
+
 ## Exact Evidence
 
 | Company | Role | Exact packet facts | What the facts prove |
@@ -172,6 +185,17 @@ This comparison weakens if:
 - Comscore-like weak economics spread across the helper stack, proving strategic relevance without durable returns
 - Criteo's AI-shopping opportunity proves narrow or heavily platform-dependent rather than structural
 - Spotify- and New York Times-style direct relationship models become less durable because AI changes discovery and reduces direct habit
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the media-role system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, role map, stronger conclusion, and thesis-breaker sections above.
 
 ## Watchlist Metrics
 

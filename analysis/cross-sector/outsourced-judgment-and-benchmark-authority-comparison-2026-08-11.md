@@ -40,6 +40,19 @@ The question here is:
 
 which companies get paid because institutions prefer externally validated judgment, benchmark authority, or implementation infrastructure over doing the full work internally every time?
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make outsourced judgment and benchmark authority visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a broad claim that finance likes benchmarks.
+
 ## Exact Evidence
 
 | Company | Judgment or benchmark-authority role | Exact packet facts | What the facts prove |
@@ -184,6 +197,17 @@ This outsourced-judgment and benchmark-authority thesis weakens if:
 - liquidity or benchmark centrality fragments away from incumbent venues
 - institutions start resisting standardized outside frameworks in favor of bespoke in-house models
 - a trust shock materially damages one of the authority franchises
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the outsourced-judgment system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, decision-authority map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

@@ -35,6 +35,19 @@ What it did not yet have as a direct comparison is a page centered on the econom
 
 This matters because many high-quality businesses are misread as one-time product stories when they are actually recurring-use systems.
 
+## Packet Inputs Used
+
+This comparison relies on the packet sections that make installed-base and pull-through economics visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs rather than as a generic claim that recurring-use businesses are good.
+
 ## Exact Evidence
 
 | Company | Installed-base or embedded-system role | Exact packet facts | What the facts prove |
@@ -189,6 +202,17 @@ This installed-base-and-pull-through thesis weakens if:
 - reimbursement or budget pressure limits follow-on usage
 - service and consumable layers become easier to substitute
 - the initial placement becomes too expensive relative to the recurring economics it generates
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the pull-through system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, pull-through map, stronger conclusion, and thesis-breaker sections above.
 
 ## Next Companies To Test
 

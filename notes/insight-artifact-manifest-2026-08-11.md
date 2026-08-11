@@ -61,6 +61,7 @@ It should be read as a map of the operating system that now exists and that futu
 | Audit-stack terminology audit | Checks that the highest-traffic audit-stack docs avoid stale verifier and refresh-path phrasing after the linked audit stack was introduced. | [audit-audit-stack-terminology.sh](../scripts/audit-audit-stack-terminology.sh) | Present |
 | Maintenance-doc audit | Checks that the highest-traffic maintenance surfaces keep the current audit-stack command references visible. | [audit-maintenance-doc-stack.sh](../scripts/audit-maintenance-doc-stack.sh) | Present |
 | Remaining-brief link audit | Checks that the highest-traffic remaining-work entry surfaces keep the compressed remaining operator brief linked alongside the longer remaining goal and execution board. | [audit-remaining-brief-links.sh](../scripts/audit-remaining-brief-links.sh) | Present |
+| Remaining-stack link audit | Checks that the compressed remaining brief, the longer remaining goal, and the execution board explicitly cross-link to each other so the remaining-work bundle does not fragment. | [audit-remaining-stack-links.sh](../scripts/audit-remaining-stack-links.sh) | Present |
 | Audit-stack runner | Provides one command that regenerates the committed boundary artifacts and reruns the linked audit stack. | [run-insight-audit-stack.sh](../scripts/run-insight-audit-stack.sh) | Present |
 | Continuation-mode audit | Verifies that the live instruction, queue, and review surfaces consistently reflect the current continuation state of the archive rather than an outdated greenfield framing. | [continuation-mode-alignment-audit-2026-08-11.md](continuation-mode-alignment-audit-2026-08-11.md) | Present |
 | Continuation-link audit | Checks that continuation-mode notes plus the top-level entry surfaces `README.md` and `START-HERE.md` still expose the continuation-mode audit path when they use already-open-lane or non-greenfield framing. | [audit-continuation-mode-links.sh](../scripts/audit-continuation-mode-links.sh) | Present |
@@ -252,6 +253,7 @@ bash scripts/audit-audit-stack-terminology.sh
 bash scripts/audit-maintenance-doc-stack.sh
 bash scripts/audit-continuation-mode-links.sh
 bash scripts/audit-remaining-brief-links.sh
+bash scripts/audit-remaining-stack-links.sh
 bash scripts/audit-browser-review-links.sh
 bash scripts/verify-raw-evidence-governance.sh
 bash scripts/audit-note-layer-boundary.sh

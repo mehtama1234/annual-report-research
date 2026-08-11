@@ -183,6 +183,8 @@ For the note-boundary and insight-system audit layer:
   - `bash scripts/audit-continuation-mode-links.sh`
 - run only the remaining-brief link audit with:
   - `bash scripts/audit-remaining-brief-links.sh`
+- run only the remaining-stack link audit with:
+  - `bash scripts/audit-remaining-stack-links.sh`
 - run only the browser review-link audit with:
   - `bash scripts/audit-browser-review-links.sh`
 - run only the full insight-system verifier with:

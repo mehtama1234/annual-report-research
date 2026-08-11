@@ -61,6 +61,28 @@ Prefer a mix such as:
 9. Write the thematic interpretation for the company
 10. Update shared indexes only at the end of the coherent batch, or leave the batch ready for integration
 
+Before writing the interpretation, decide what the packet fields are supposed to prove:
+
+- annual takeaways + quarter chain
+  - prove: what changed and whether the direction is strengthening, weakening, or persisting
+- operating model + strategy read
+  - prove: what job the company really performs and how management is responding
+- exact supporting facts
+  - prove: the claim directly rather than by implication
+- burden-versus-beneficiary read
+  - prove: who captures cleaner economics and who absorbs the messy work
+- watchlist
+  - prove: the next read is falsifiable rather than rhetorical
+
+Also decide which kind of claim the company should strengthen:
+
+- consumer
+- cultural or societal
+- industrial or operating
+- technical or infrastructure
+- capital or balance-sheet
+- cross-company comparison
+
 ## Raw folder convention
 
 ```text

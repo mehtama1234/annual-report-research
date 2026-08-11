@@ -23,6 +23,30 @@ It supersedes older queue logic that was built for the narrower archive state an
 5. Run the post-batch integration checklist.
 6. Then move to the next lane.
 
+Before opening the batch, decide which packet fields should do the work:
+
+- annual takeaways + latest three-quarter chain
+  - prove: what changed and whether the direction is strengthening, weakening, or persisting
+- operating model + strategy read
+  - prove: what role the company really plays and how management is responding
+- growth engine + economic lever
+  - prove: what is actually carrying the story and what moves the economics
+- operating constraint + burden read
+  - prove: where the strain sits and who absorbs the messy work
+- exact supporting facts + watchlist
+  - prove: the claim directly and make the next test falsifiable
+
+Also decide what kind of claim the lane is meant to sharpen:
+
+- consumer
+- cultural or societal
+- industrial or operating
+- technical or infrastructure
+- capital or balance-sheet
+- cross-company pattern
+
+If the next batch cannot say which packet fields it needs and which claim type it is trying to improve, it is probably still too vague to rank highly.
+
 ## Priority logic
 
 Priority is based on:

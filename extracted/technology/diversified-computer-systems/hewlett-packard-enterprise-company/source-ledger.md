@@ -26,6 +26,9 @@ Use evidence tags:
 - The packet and profile are internally consistent on the filing window:
   - annual anchor: fiscal `2025`
   - latest three reported quarters as of `2026-08-10`: `Q2 FY2026`, `Q1 FY2026`, and `Q4 FY2025`
+- The authority ordering is also explicit even though the raw chain is not fully re-openable:
+  - AnnualReports is taxonomy and archive-confirmation context
+  - company IR and SEC are the intended authoritative annual and quarter chain
 - The current problem is not lane fit or company relevance.
 - The current problem is evidence portability: the packet still points to raw-path references that are no longer locally openable from the present workspace.
 

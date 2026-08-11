@@ -141,6 +141,8 @@ Conclusion:
 What is clearly stated:
 
 - the packet and profile define the correct annual anchor and the latest three reported quarters
+- the packet itself now states `qualified` proof status explicitly
+- the packet now states that AnnualReports is taxonomy context only and that company IR plus SEC are the intended authority chain
 - the profile says official IR routing links and SEC chains were saved
 
 What remains weaker:
@@ -151,6 +153,7 @@ What remains weaker:
 Conclusion:
 
 - HPE is analytically useful and no longer misleadingly documented
+- the packet-level proof-language is now stronger and more self-contained than before
 - it should still be treated as qualified until the raw evidence chain is rebuilt locally
 
 ### 7. `Epson` is a valid non-U.S. qualified case, not a broken case.

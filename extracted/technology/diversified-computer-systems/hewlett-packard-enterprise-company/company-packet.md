@@ -1,5 +1,26 @@
 # Hewlett Packard Enterprise Company Packet
 
+Date baseline: `2026-08-11`
+
+## Snapshot
+
+- Company: `Hewlett Packard Enterprise Company`
+- Sector / industry: `Technology / Diversified Computer Systems`
+- Ticker: `HPE`
+- Fiscal year end: `October 31`
+- Annual anchor used here: fiscal `2025`
+- Latest three reported quarters used here as of `2026-08-10`:
+  - `Q2 FY2026`
+  - `Q1 FY2026`
+  - `Q4 FY2025`
+- Proof status in current repo: `qualified`
+
+## Source state
+
+- AnnualReports is used here for taxonomy and archive-confirmation context only; the inherited packet notes that current-year coverage lagged and still used legacy `Hewlett-Packard Company` naming.
+- Company IR and SEC are the intended authoritative chain for the annual anchor and quarter window used in this packet.
+- This packet was inherited without a currently inspectable local raw path set in the present workspace, so it should be used as an analytically strong but not proof-standard packet until the raw chain is rebuilt or restored.
+
 ## Why this company belongs in CLI 5
 
 HPE belongs in CLI 5 because it sits at the point where AI-era infrastructure stops being a single-component story and becomes a full system story. By fiscal `2026`, HPE is no longer just a legacy server-and-enterprise-hardware name. After closing Juniper on `2025-07-02`, it becomes a combined server, storage, networking, financing, and AI-infrastructure modernization platform. That makes it a strong bridge company between chip bottlenecks, networking-control architecture, storage persistence, and the enterprise operating stack that must actually absorb the complexity.
@@ -93,3 +114,12 @@ The bigger-picture readthrough is strong:
 HPE also shows the tension inside this profit pool. The company can benefit from the infrastructure wave, but it still carries more execution burden than cleaner software or toll-collector names. It has to manage mix, margins, portfolio simplification, acquisition integration, and cost programs while proving that a broader system role can become more durable and cash generative over time.
 
 That makes HPE a useful CLI 5 company not because it is the cleanest business, but because it reveals where enterprises are being forced to spend once AI, data growth, and network complexity become normal operating conditions.
+
+## Evidence-status note
+
+- The filing window used in this packet is explicit and internally consistent with the profile and source ledger.
+- The main current weakness is not the period definition or lane fit.
+- The main current weakness is evidence portability: the inherited raw references behind the packet are not currently re-openable from this workspace.
+- The right reading standard today is:
+  - good enough for thematic interpretation and lane comparison
+  - not yet strong enough to treat as a proof-standard packet for source-authority or filing-window closure work

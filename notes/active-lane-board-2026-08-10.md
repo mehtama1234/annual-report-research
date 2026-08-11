@@ -1,7 +1,7 @@
 # Active Lane Board
 
 Date baseline: 2026-08-10
-Repo: `annual-report-research-new-lanes`
+Repo: `annual-report-research`
 
 This file is the practical lane-selection board for the current archive.
 It is the shortest path to deciding what to work on next.
@@ -49,7 +49,7 @@ Default interpretive window:
 - Name: Recreation, lifestyle, and participation demand
 - Status: `ready now`
 - Kickoff brief:
-  - [Recreation / participation kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/recreation-participation-kickoff-2026-08-10.md)
+  - [Recreation / participation kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/recreation-participation-kickoff-2026-08-10.md)
 - Why it matters:
   - expands the archive into lifestyle, gifting, occasion, experiential, and identity-linked consumption
   - helps compare routine demand with higher-emotion and higher-participation demand
@@ -74,11 +74,11 @@ Default interpretive window:
 - Name: `CLI 4` Healthcare frontier and recurring-care systems
 - Status: `mature-active`
 - Kickoff brief:
-  - [CLI 4 kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-4-kickoff-2026-08-10.md)
+  - [CLI 4 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-4-kickoff-2026-08-10.md)
 - Current framework:
-  - [CLI 4 recurring-care framework](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
+  - [CLI 4 recurring-care framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
 - Latest handoff:
-  - [CLI 4 Batch B handoff](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-4-batch-b-handoff-2026-08-10.md)
+  - [CLI 4 Batch B handoff](/home/manishmehta/ui-projects/annual-report-research/notes/cli-4-batch-b-handoff-2026-08-10.md)
 - Why it matters:
   - compares innovation-heavy healthcare narratives against recurring-care operating systems
   - shows where reimbursement, utilization, installed base, and care delivery actually drive the economics
@@ -102,11 +102,11 @@ Default interpretive window:
 - Name: `CLI 5` Connectivity, telecom, and technical infrastructure
 - Status: `mature-active`
 - Kickoff brief:
-  - [CLI 5 kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-5-kickoff-2026-08-10.md)
+  - [CLI 5 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-5-kickoff-2026-08-10.md)
 - Current framework:
-  - [CLI 5 control-point framework](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
+  - [CLI 5 control-point framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
 - Latest handoff:
-  - [CLI 5 Batch D handoff](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-5-batch-d-handoff-2026-08-10.md)
+  - [CLI 5 Batch D handoff](/home/manishmehta/ui-projects/annual-report-research/notes/cli-5-batch-d-handoff-2026-08-10.md)
 - Why it matters:
   - builds the missing infrastructure layer behind software, cloud, AI, and communications
   - makes network ownership, control-point software, storage, instrumentation, and fab-enablement visible in one lane
@@ -129,11 +129,11 @@ Default interpretive window:
 - Name: `CLI 6` Capital structures, property, and conglomerates
 - Status: `mature-active`
 - Kickoff brief:
-  - [CLI 6 kickoff brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-6-kickoff-2026-08-10.md)
+  - [CLI 6 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-6-kickoff-2026-08-10.md)
 - Current framework:
-  - [CLI 6 trust-intermediation framework](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/cli-6-trust-intermediation-framework-2026-08-10.md)
+  - [CLI 6 trust-intermediation framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-6-trust-intermediation-framework-2026-08-10.md)
 - Latest handoff:
-  - [CLI 6 Batch H handoff](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/cli-6-batch-h-handoff-2026-08-10.md)
+  - [CLI 6 Batch H handoff](/home/manishmehta/ui-projects/annual-report-research/notes/cli-6-batch-h-handoff-2026-08-10.md)
 - Why it matters:
   - builds the balance-sheet-heavy and capital-allocation-heavy side of the archive
   - makes funding structure, fee structure, property cash flow, and holding-company allocation comparable inside one lane
@@ -165,11 +165,11 @@ Default interpretive window:
 
 ## Default operating files
 
-- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/START-HERE.md)
-- [Master operator brief](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/master-operator-brief-2026-08-10.md)
-- [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/cli-lane-instructions-2026-08-10.md)
-- [Lane run template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/lane-run-template.md)
-- [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/batch-handoff-template.md)
+- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
+- [Master operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/master-operator-brief-2026-08-10.md)
+- [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research/indexes/cli-lane-instructions-2026-08-10.md)
+- [Lane run template](/home/manishmehta/ui-projects/annual-report-research/templates/lane-run-template.md)
+- [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
 
 ## Skeptical Reader Test
 

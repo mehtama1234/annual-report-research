@@ -15,6 +15,32 @@ Build `annual-report-research` into a source-grounded insight engine, not a fili
 - current verifier-backed standards for what a finished company, lane, or theme artifact must contain
 - handoff expectations proven necessary for another thread to continue work without reopening the lane from scratch
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, the archive is no longer mainly missing its first interpretation layer.
+
+It already has:
+
+- major lane frameworks
+- proof pages
+- comparison memos
+- next-filing watchlists
+- browser review surfaces
+
+That means this note should not be read as a blank-slate build brief.
+
+It should be read as the master statement of what the archive is for and what future work still has to strengthen.
+
+The main remaining work is now:
+
+- filling the highest-value missing flagship roles
+- adding contradiction and weak-link cases
+- tightening burden-versus-beneficiary splits
+- showing more exact packet-backed fact chains
+- improving next-filing break tests that could weaken current reads
+
+In short, the default next pass should usually improve a live lane or proof page rather than simply restate the first pattern.
+
 ## End-To-End Goal In Plain Language
 
 The meaty goal is to extract every major kind of insight the filings can honestly support.

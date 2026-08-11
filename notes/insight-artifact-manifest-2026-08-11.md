@@ -43,6 +43,7 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Relationship owner versus burden carrier | [relationship-owner-vs-burden-carrier-proof-2026-08-10.md](../analysis/cross-sector/relationship-owner-vs-burden-carrier-proof-2026-08-10.md) | Separates customer relationship control from asset, labor, debt, inventory, and regulatory burden. |
 | Commodity chains | [commodity-chain-proof-2026-08-10.md](../analysis/cross-sector/commodity-chain-proof-2026-08-10.md) | Reads copper, steel, nitrogen, chemicals, lumber, and packaging by chain. |
 | Commodity chain comparison | [commodity-chain-comparison-2026-08-11.md](../analysis/cross-sector/commodity-chain-comparison-2026-08-11.md) | Applies the insight-driven queue's fifth priority by comparing copper extraction, aluminum conversion, fertilizer plus agronomy, corrugated throughput, and packaging-interface control. |
+| Media attention helper comparison | [media-attention-helper-comparison-2026-08-11.md](../analysis/cross-sector/media-attention-helper-comparison-2026-08-11.md) | Applies the insight-driven queue's sixth priority by comparing direct attention owners, household interfaces, demand routing, verification, measurement, and sell-side ad infrastructure. |
 | Taxonomy blind spots | [taxonomy-blind-spots-proof-2026-08-10.md](../analysis/cross-sector/taxonomy-blind-spots-proof-2026-08-10.md) | Shows where AnnualReports taxonomy is useful but insufficient for interpretation. |
 
 ## Browser Review Paths

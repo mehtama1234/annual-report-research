@@ -96,6 +96,7 @@ Use these as examples of the expected standard.
 | [relationship-owner-vs-burden-carrier-proof-2026-08-10.md](../analysis/cross-sector/relationship-owner-vs-burden-carrier-proof-2026-08-10.md) | How to separate clean relationship economics from asset, labor, debt, inventory, and regulatory burden. |
 | [commodity-chain-proof-2026-08-10.md](../analysis/cross-sector/commodity-chain-proof-2026-08-10.md) | How to read copper, steel, nitrogen, chemicals, lumber, and packaging by chain instead of sector label. |
 | [commodity-chain-comparison-2026-08-11.md](../analysis/cross-sector/commodity-chain-comparison-2026-08-11.md) | How to compare extraction, conversion, agronomy, corrugated throughput, and packaging-interface control inside one commodity chain lane. |
+| [media-attention-helper-comparison-2026-08-11.md](../analysis/cross-sector/media-attention-helper-comparison-2026-08-11.md) | How to compare direct attention owners, household interfaces, buy-side helpers, verification vendors, measurement operators, and sell-side routing. |
 | [taxonomy-blind-spots-proof-2026-08-10.md](../analysis/cross-sector/taxonomy-blind-spots-proof-2026-08-10.md) | How to use AnnualReports taxonomy without letting it hide the company's real role. |
 
 ## Workflow For A New Company

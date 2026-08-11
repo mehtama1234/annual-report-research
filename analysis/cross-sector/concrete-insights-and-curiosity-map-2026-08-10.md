@@ -78,6 +78,10 @@ Plain claim:
 
 AI is not only a software story. The filings keep showing that AI needs a large physical system underneath it: chips, memory, data centers, power, cooling, networking, security, testing, and skilled implementation work.
 
+Dedicated proof page:
+
+- [ai-physical-capacity-proof-2026-08-10.md](/analysis/cross-sector/ai-physical-capacity-proof-2026-08-10.md)
+
 Concrete examples:
 
 - `Microsoft` and `Alphabet` show the cloud and AI platform side, where large spending is required to support AI products, search, cloud, and enterprise demand.

@@ -10,28 +10,24 @@ import sys
 
 repo = Path.cwd()
 
+full_audit_stack = [
+    "bash scripts/refresh-note-layer-boundary.sh",
+    "bash scripts/audit-continuation-mode-links.sh",
+    "bash scripts/audit-browser-review-links.sh",
+    "bash scripts/verify-insight-system.sh",
+]
+linked_audit_stack = [
+    "bash scripts/audit-continuation-mode-links.sh",
+    "bash scripts/audit-browser-review-links.sh",
+    "bash scripts/refresh-note-layer-boundary.sh",
+]
+
 expected = {
-    Path("README.md"): [
-        "bash scripts/refresh-note-layer-boundary.sh",
-        "bash scripts/audit-continuation-mode-links.sh",
-        "bash scripts/audit-browser-review-links.sh",
-        "bash scripts/verify-insight-system.sh",
-    ],
-    Path("START-HERE.md"): [
-        "bash scripts/refresh-note-layer-boundary.sh",
-        "bash scripts/audit-continuation-mode-links.sh",
-        "bash scripts/audit-browser-review-links.sh",
-        "bash scripts/verify-insight-system.sh",
-    ],
-    Path("notes/insight-note-standardization-cutoff-2026-08-11.md"): [
-        "bash scripts/audit-continuation-mode-links.sh",
-        "bash scripts/audit-browser-review-links.sh",
-        "bash scripts/refresh-note-layer-boundary.sh",
-    ],
+    Path("README.md"): full_audit_stack,
+    Path("START-HERE.md"): full_audit_stack,
+    Path("notes/insight-note-standardization-cutoff-2026-08-11.md"): linked_audit_stack,
     Path("notes/insight-artifact-manifest-2026-08-11.md"): [
-        "bash scripts/audit-continuation-mode-links.sh",
-        "bash scripts/audit-browser-review-links.sh",
-        "bash scripts/refresh-note-layer-boundary.sh",
+        *linked_audit_stack,
         "bash scripts/verify-insight-system.sh",
     ],
     Path("notes/continuation-mode-alignment-audit-2026-08-11.md"): [

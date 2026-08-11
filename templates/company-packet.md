@@ -2,6 +2,34 @@
 
 Date baseline: 2026-08-10
 
+Use the packet fields as analytical inputs, not just headings:
+
+- annual report takeaways + quarter chain
+  - prove: what changed and whether the direction is strengthening, weakening, or persisting
+- management message + structural themes
+  - prove: how management is responding to the pressure or opportunity
+- signals to feed into higher-level analysis
+  - prove: which consumer, cultural, societal, industrial, technical, regulatory, labor, or capital pressures are actually present
+- burden stack versus surplus stack
+  - prove: who gets cleaner economics and who absorbs the messy work
+- repeated cross-company pattern this company helps prove
+  - prove: why this company matters beyond itself
+- broader lived-system shift
+  - prove: what real-world adaptation the filing evidence is revealing
+
+Different claim types also need different proof burdens:
+
+- consumer claim
+  - show: what behavior changed and which facts prove it
+- cultural or societal claim
+  - show: which real-life pressure is creating demand and why it is broader than one company
+- industrial or operating claim
+  - show: where the strain sits and what happens economically when that pressure changes
+- technical or infrastructure claim
+  - show: where software is the control layer and where physical bottlenecks still decide outcomes
+- capital or balance-sheet claim
+  - show: who must carry property, inventory, debt, or financing burden to keep the system working
+
 ## Snapshot
 
 - Company:

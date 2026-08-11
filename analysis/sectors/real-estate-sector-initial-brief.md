@@ -94,14 +94,14 @@ This brief is built from:
 
 ## Source pointers
 
-- [Real Estate sector synthesis](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/real-estate/real-estate-sector-synthesis-2026-08-09.md)
-- [Prologis company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/real-estate/reit-industrial-real-estate/prologis-inc/company-packet.md)
-- [Equinix company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/real-estate/reit-specialty-real-estate/equinix-inc/company-packet.md)
-- [Digital Realty company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-packet.md)
-- [AvalonBay company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/real-estate/reit-residential-real-estate/avalonbay-communities-inc/company-packet.md)
-- [CBRE company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/real-estate/real-estate-development/cbre-group-inc/company-packet.md)
-- [JLL company packet](/home/manishmehta/ui-projects/annual-report-research-new-lanes/extracted/real-estate/real-estate-development/jones-lang-lasalle-inc/company-packet.md)
-- [real-estate-reckoning-initial-theme-memo.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/analysis/themes/real-estate-reckoning-initial-theme-memo.md)
+- [Real Estate sector synthesis](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/real-estate-sector-synthesis-2026-08-09.md)
+- [Prologis company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-industrial-real-estate/prologis-inc/company-packet.md)
+- [Equinix company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-specialty-real-estate/equinix-inc/company-packet.md)
+- [Digital Realty company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-packet.md)
+- [AvalonBay company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-residential-real-estate/avalonbay-communities-inc/company-packet.md)
+- [CBRE company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/real-estate-development/cbre-group-inc/company-packet.md)
+- [JLL company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/real-estate-development/jones-lang-lasalle-inc/company-packet.md)
+- [real-estate-reckoning-initial-theme-memo.md](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/real-estate-reckoning-initial-theme-memo.md)
 
 ## Skeptical Reader Test
 

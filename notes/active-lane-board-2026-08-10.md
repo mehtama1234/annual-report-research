@@ -38,6 +38,10 @@ For a `mature-active` lane, the default next batch should usually target:
 - a sharper burden-versus-beneficiary split
 - a better next-filing break test
 
+If you need to verify which live goal, queue, template, and review surfaces already reflect that continuation-phase state, use:
+
+- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
+
 Default evidence window:
 
 - `2025` annual reports and annual filings

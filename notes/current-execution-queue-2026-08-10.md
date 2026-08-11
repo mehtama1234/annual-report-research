@@ -29,6 +29,10 @@ In practice, that means the best next batch often does one or more of these:
 - sharpens the burden-versus-beneficiary split
 - improves the next-filing break test
 
+If you need to verify which live goal, execution, template, and review surfaces already reflect that continuation-phase state, use:
+
+- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
+
 ## How to use this queue
 
 1. Start with the highest ready lane.

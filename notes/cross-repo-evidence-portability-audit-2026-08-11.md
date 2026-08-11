@@ -266,6 +266,15 @@ It also completed one source-ledger prose cleanup step:
 - those ledgers now describe the situation more directly: the raw proof still lives in an imported raw workspace rather than the current repo raw tree
 - this keeps the packet honest about raw-location limits without treating the old imported repo name as part of the live reader surface
 
+It also completed one handoff-header provenance cleanup step:
+
+- the bulk handoff notes no longer name old side-worktree repo roots directly in their headers
+- those notes now preserve provenance through:
+  - `Source snapshot`
+  - branch
+  - commit hash
+- this keeps the integration trail readable without leaving dozens of one-off source-repo names as part of the current archive surface
+
 What did not change:
 
 - packet-level raw citations that still point into `annual-report-research-cli8-middle-layer/raw/...`
@@ -277,6 +286,7 @@ So the practical outcome is narrower and more honest:
 - handoff-note provenance is clearer
 - a first packet-level local-document subset is cleaner
 - a first imported-source-ledger subset is cleaner
+- the bulk handoff-header residue is now cleaner
 - packet-level provenance cleanup is still a remaining archive task
 
 ## Highest-Value Endgame Interpretation

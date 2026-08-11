@@ -5,7 +5,7 @@ Date baseline: 2026-08-10
 ## Snapshot
 
 - Date: 2026-08-10
-- Source repo: `annual-report-research-new-lanes`
+- Source snapshot: side-worktree lane snapshot captured before integration
 - Current integrated repo: `annual-report-research`
 - Branch: `parallel/new-lanes`
 - Commit hash: `764bf37348429aa894245af965a6c4f9ef7f28bf`

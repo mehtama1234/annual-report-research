@@ -1,7 +1,7 @@
 # CLI 8 Handoff Note
 
 Date: 2026-08-10
-Source repo: `/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer`
+Source snapshot: side-worktree lane snapshot captured before integration
 Current integrated repo: `/home/manishmehta/ui-projects/annual-report-research`
 Branch: `cli8-distribution-middle-layer`
 Commit hash: `e89d364a`

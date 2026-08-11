@@ -7,7 +7,7 @@ Use this file during the active first batch for `CLI 5: Connectivity, Telecom, a
 ## Snapshot
 
 - Date: 2026-08-10
-- Source repo: `annual-report-research-new-lanes`
+- Source snapshot: side-worktree lane snapshot captured before integration
 - Current integrated repo: `annual-report-research`
 - Branch: `parallel/new-lanes`
 - Lane: `CLI 5` connectivity, telecom, and technical infrastructure

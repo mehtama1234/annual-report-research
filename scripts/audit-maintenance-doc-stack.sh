@@ -28,7 +28,10 @@ linked_audit_stack = [
 expected = {
     Path("README.md"): full_audit_stack,
     Path("START-HERE.md"): full_audit_stack,
-    Path("notes/insight-note-standardization-cutoff-2026-08-11.md"): linked_audit_stack,
+    Path("notes/insight-note-standardization-cutoff-2026-08-11.md"): [
+        "bash scripts/run-insight-audit-stack.sh",
+        *linked_audit_stack,
+    ],
     Path("notes/insight-artifact-manifest-2026-08-11.md"): [
         "bash scripts/run-insight-audit-stack.sh",
         *linked_audit_stack,

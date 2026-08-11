@@ -63,6 +63,8 @@ The following files already carry the continuation-phase standard and should usu
   - use for: the operator-ready master instruction block
 - [meaty-end-to-end-insight-goal-2026-08-11.md](meaty-end-to-end-insight-goal-2026-08-11.md)
   - use for: the broadest statement of the archive's explanatory ambition and remaining hard work
+- [remaining-meaty-end-to-end-operator-brief-2026-08-11.md](remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+  - use for: the shortest continuation-mode statement of what remains, which lanes matter most, and what outputs now count as real progress
 - [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md)
   - use for: the plain statement of what substantive work is still left
 - [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
@@ -203,12 +205,13 @@ Supporting references:
 If you want the fastest current reading order instead of the full operating stack, use this sequence first:
 
 1. [end-to-end-insight-operator-and-review-brief-2026-08-11.md](end-to-end-insight-operator-and-review-brief-2026-08-11.md)
-2. [/site/concrete-insights.html](/site/concrete-insights.html)
-3. [../analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md](../analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md)
-4. [../analysis/themes/cli-4-5-6-recurring-interface-control-framework-2026-08-10.md](../analysis/themes/cli-4-5-6-recurring-interface-control-framework-2026-08-10.md)
-5. [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md)
-6. [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
-7. [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
+2. [remaining-meaty-end-to-end-operator-brief-2026-08-11.md](remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+3. [/site/concrete-insights.html](/site/concrete-insights.html)
+4. [../analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md](../analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md)
+5. [../analysis/themes/cli-4-5-6-recurring-interface-control-framework-2026-08-10.md](../analysis/themes/cli-4-5-6-recurring-interface-control-framework-2026-08-10.md)
+6. [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md)
+7. [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
+8. [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
 
 Use the full ordered list below when a thread needs the complete operating stack rather than the fastest reading path.
 
@@ -236,25 +239,31 @@ Use it to understand the full ambition level: packets, lane economics, proof pag
 
 Use it when you want the shortest single-page statement of the goal, proof chain, insight types, operator loop, and reviewer loop.
 
-5. Read the remaining substantive goal.
+5. Read the remaining operator brief.
+
+[remaining-meaty-end-to-end-operator-brief-2026-08-11.md](remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+
+Use it when you want the shortest continuation-mode statement of what is still left, which lanes matter most, and what now counts as real progress.
+
+6. Read the remaining substantive goal.
 
 [remaining-end-to-end-insight-goal-2026-08-11.md](remaining-end-to-end-insight-goal-2026-08-11.md)
 
 Use it when you want the clearest statement of what research work is still left after the guidance and audit system were built.
 
-6. Read the remaining execution board.
+7. Read the remaining execution board.
 
 [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
 
 Use it when you want the exact next batches, proof pages to strengthen, key metrics to extract, and done gates for the remaining substantive work.
 
-7. Read the lane runbook.
+8. Read the lane runbook.
 
 [lane-end-to-end-execution-runbook-2026-08-11.md](lane-end-to-end-execution-runbook-2026-08-11.md)
 
 Use it when taking a lane from first target selection to final proof memo and handoff.
 
-8. Use the templates.
+9. Use the templates.
 
 [insight-extraction-templates-2026-08-11.md](insight-extraction-templates-2026-08-11.md)
 
@@ -262,55 +271,55 @@ Use these when writing company packets, profiles, source ledgers, lane summaries
 
 They also require packet-input tracing for lane summaries and proof memos. Use that section to name the exact packet fields doing the analytical work.
 
-9. Use the completion rubric.
+10. Use the completion rubric.
 
 [insight-completion-rubric-2026-08-11.md](insight-completion-rubric-2026-08-11.md)
 
 Use it to decide whether a company packet, lane, or proof memo is actually finished rather than merely present. Finished work must show how the filing evidence supports the bigger pattern and must state who benefits and who carries burden.
 
-10. Check the artifact manifest.
+11. Check the artifact manifest.
 
 [insight-artifact-manifest-2026-08-11.md](insight-artifact-manifest-2026-08-11.md)
 
 Use it to audit that the required goal, templates, guides, proof memos, watchlists, and browser links exist.
 
-11. Use the company strategy guide.
+12. Use the company strategy guide.
 
 [company-level-strategy-insight-guide-2026-08-10.md](../analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md)
 
 Use it when a packet needs to explain the company itself.
 
-12. Use the industry strategy guide.
+13. Use the industry strategy guide.
 
 [industry-level-strategy-guide-2026-08-10.md](../analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md)
 
 Use it when a batch needs to explain a lane.
 
-13. Use the metric glossary.
+14. Use the metric glossary.
 
 [metric-glossary-and-watchlist-2026-08-10.md](../analysis/cross-sector/metric-glossary-and-watchlist-2026-08-10.md)
 
 Use it to decide which metrics to track next quarter.
 
-14. Use the thesis breaker index.
+15. Use the thesis breaker index.
 
 [thesis-breaker-index-2026-08-10.md](../analysis/cross-sector/thesis-breaker-index-2026-08-10.md)
 
 Use it to keep the research falsifiable.
 
-15. Use the aha and curiosity page.
+16. Use the aha and curiosity page.
 
 [aha-moments-and-curiosity-questions-2026-08-10.md](../analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md)
 
 Use it to identify the next questions worth pursuing.
 
-16. Use the insight-driven queue.
+17. Use the insight-driven queue.
 
 [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md)
 
 Use it to choose the next lane or company batch by insight payoff, not by generic coverage gap.
 
-17. Use the remaining execution board and queue as continuation surfaces, not first-pass planners.
+18. Use the remaining execution board and queue as continuation surfaces, not first-pass planners.
 
 [remaining-insight-execution-board-2026-08-11.md](remaining-insight-execution-board-2026-08-11.md)
 

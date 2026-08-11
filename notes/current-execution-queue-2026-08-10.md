@@ -14,14 +14,31 @@ It supersedes older queue logic that was built for the narrower archive state an
 - the requirement that queue priority should favor new research frontiers, sharp cross-company contrasts, and interpretive payoff rather than mere uncovered-area count
 - the end-of-batch expectation that a lane should yield packets, cross-company themes, and a real consumer, societal, industrial, technical, or capital-structure read
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, several of the archive's highest-value lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means this queue should not be read only as a frontier-opening list.
+
+It should also be read as a strengthening queue for already-open lanes.
+
+In practice, that means the best next batch often does one or more of these:
+
+- fills a missing flagship role
+- adds the strongest contradiction or weak-link case
+- sharpens the burden-versus-beneficiary split
+- improves the next-filing break test
+
 ## How to use this queue
 
 1. Start with the highest ready lane.
-2. Run one coherent comparison set, then keep extending the lane toward `4` to `8` flagship names when the source depth and internal contrasts justify it.
-3. Use the lane-run template during execution.
-4. End with the batch-handoff template.
-5. Run the post-batch integration checklist.
-6. Then move to the next lane.
+2. Decide whether the lane needs a truly new opening batch or a targeted strengthening batch.
+3. Run one coherent comparison set, then keep extending the lane toward `4` to `8` flagship names when the source depth and internal contrasts justify it.
+4. In a mature lane, prefer the batch that most improves the live read rather than the batch that merely adds another covered company.
+5. Use the lane-run template during execution.
+6. End with the batch-handoff template.
+7. Run the post-batch integration checklist.
+8. Then move to the next lane.
 
 Before opening the batch, decide which packet fields should do the work:
 
@@ -57,10 +74,11 @@ It should also be able to name:
 
 Priority is based on:
 
-1. whether the lane opens a genuinely new research frontier
-2. whether the lane creates high-value cross-company contrasts fast
-3. whether the lane broadens the archive beyond the earlier consumer-apparel concentration
-4. whether the first batch is clear enough to start immediately
+1. whether the next batch materially improves the archive's live explanatory layer
+2. whether the lane opens a genuinely new research frontier or meaningfully strengthens an already-open one
+3. whether the lane creates high-value cross-company contrasts fast
+4. whether the batch broadens or sharpens the archive beyond earlier concentrations
+5. whether the concrete batch is clear enough to start immediately
 
 ## Priority 1
 

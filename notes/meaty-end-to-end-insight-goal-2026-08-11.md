@@ -53,6 +53,117 @@ The standard evidence chain is:
 
 If a writeup does not complete that chain, it is still intermediate work.
 
+## The Meaty Goal To Pursue
+
+The real goal is to use filings to extract every major kind of insight the companies can support, not just financial summary.
+
+That means every lane should be worked until it produces six layers at once:
+
+### 1. Company Truth
+
+For each flagship company, identify:
+
+- what business it is really in
+- what problem it is really solving
+- what repeated need makes customers come back
+- what exact metric proves the need is real
+- what operating burden the company carries
+- what strategy management is using to improve the system
+- what exact facts support that interpretation
+
+### 2. Lane Economics
+
+For each industry lane, explain:
+
+- where demand comes from
+- where money is made
+- where margins are lost
+- which part is recurring versus cyclical
+- which players own the customer relationship
+- which players carry labor, inventory, reimbursement, compliance, property, power, logistics, or debt burden
+- which metrics show the lane is strengthening or breaking
+
+### 3. Consumer And Cultural Change
+
+Use the packets to identify:
+
+- how people are changing what they buy
+- when they are trading down, trading up, or concentrating spend
+- where identity, fandom, status, convenience, gifting, participation, or membership affects behavior
+- which habits are becoming more recurring
+- which lifestyle categories are becoming more occasion-driven or experience-driven
+- which exact company facts prove the shift
+
+### 4. Societal And Institutional Change
+
+Use the packets to identify:
+
+- where aging, illness, workforce stress, family burden, safety demands, or trust erosion are creating real business demand
+- where institutions are outsourcing complexity instead of managing it internally
+- where compliance, documentation, reimbursement, or verification is becoming part of the product
+- where public systems are strained and private operators are filling the gap
+- which exact company facts show the pressure and who gets paid to absorb it
+
+### 5. Industrial, Technical, And Infrastructure Pressure
+
+Use the packets to identify:
+
+- where supply chain, labor, power, cooling, routing, maintenance, uptime, and field-service constraints are showing up
+- where software is becoming a control layer over messy physical systems
+- where AI demand is creating physical follow-on demand in power, cooling, networking, electrical gear, testing, storage, and facilities
+- where reliability, security, or observability has become a paid requirement
+- which exact company facts prove the system is under strain
+
+### 6. Cross-Company Pattern Recognition
+
+The end product is not separate packets. It is repeated patterns that hold across several companies.
+
+Every serious pattern page should answer:
+
+1. `What is the pattern?`
+2. `Which exact companies show it?`
+3. `What facts from each company support it?`
+4. `Why does the pattern exist?`
+5. `Who benefits economically?`
+6. `Who carries the burden?`
+7. `What would weaken or disprove it?`
+8. `Which adjacent companies should be tested next?`
+
+## What "Insights Of All Kinds" Actually Means
+
+The archive should deliberately hunt for insights in all of these buckets whenever the filings support them:
+
+- demand insights
+- behavior insights
+- cultural insights
+- societal insights
+- healthcare-system insights
+- labor insights
+- trust and verification insights
+- infrastructure insights
+- software workflow insights
+- capital-intensity insights
+- property and real-estate insights
+- regulation and reimbursement insights
+- commodity-chain insights
+- franchise, participation, and IP monetization insights
+- burden-carrier versus relationship-owner insights
+- early signals that may become larger patterns next year
+
+## Completion Standard
+
+A lane is only truly complete when a reader can move through it in this order:
+
+1. `See the source-backed facts.`
+2. `Understand the company strategy.`
+3. `Understand the lane economics.`
+4. `See the repeating cross-company pattern.`
+5. `Understand the bigger consumer, cultural, societal, industrial, or technical meaning.`
+6. `Know what to watch next.`
+
+If the work stops before step five, it is still mostly archive-building.
+If it reaches step six, it becomes an insight system.
+
 ## Core Output Types
 
 Every serious lane should produce all of these:

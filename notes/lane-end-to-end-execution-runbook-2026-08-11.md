@@ -125,9 +125,23 @@ Translate the packet into a company-level explanation:
 
 This is where the packet becomes useful.
 
+Before moving on, make sure the packet sections doing the work are obvious:
+
+- annual report takeaways
+- quarter-by-quarter chain
+- company-level strategy read
+- strategy evidence table
+- insight stack
+- burden-versus-beneficiary interpretation
+- next filing watchlist
+
+If the later lane writeup cannot point back to those exact packet sections, the company read is still too loose to reuse well.
+
 ## Step 6: Build The Lane Economics
 
 After enough packets exist, explain the lane itself.
+
+Start by naming which packet inputs are supporting the lane read. Do not jump straight from company names to a lane conclusion.
 
 The lane summary should cover:
 
@@ -143,6 +157,13 @@ The lane summary should cover:
 The lane summary should answer:
 
 `How does this system actually work, and where inside it do the best or worst economics sit?`
+
+A good lane summary should let a skeptical reader point to:
+
+- the exact packet fact
+- what that fact means inside the lane
+- why it matters beyond one company
+- what future metric would weaken the read
 
 ## Step 7: Extract Cross-Company Patterns
 
@@ -173,6 +194,7 @@ For each pattern, write down:
 Every major pattern should become a memo with:
 
 - plain claim
+- packet inputs used
 - exact evidence table
 - causal chain
 - beneficiary versus burden-carrier split
@@ -183,6 +205,13 @@ Every major pattern should become a memo with:
 - next companies to test
 
 The memo should not feel like an essay topic. It should feel like a case being proven.
+
+Before calling the memo done, run a direct reader test:
+
+- Can someone identify the exact facts?
+- Can they see what each fact proves?
+- Can they see why the pattern matters beyond one company?
+- Can they tell what would change the conclusion?
 
 ## Step 9: Pull Out Aha Moments And Curiosity Questions
 
@@ -249,6 +278,7 @@ The handoff should let another thread continue without reopening the whole lane 
 - cross-company patterns are explicit
 - proof memos exist for the main themes
 - concrete examples back the big claims
+- the lane says which packet inputs support the comparison
 - consumer, cultural, societal, industrial, technical, or capital-structure meaning is explicit
 - next names are identified
 - the handoff is usable

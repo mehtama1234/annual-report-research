@@ -199,7 +199,7 @@ Score each lane run on these nine dimensions.
 
 `2`: lane claims are supported by exact packet facts across multiple companies
 
-`3`: the lane could be audited quickly because each major claim has exact examples
+`3`: the lane could be audited quickly because each major claim has exact examples and the packet inputs behind the comparison are named explicitly
 
 ### 5. Operating Pressures
 
@@ -273,7 +273,7 @@ Score each proof memo on these ten dimensions.
 
 `2`: at least three companies provide exact support
 
-`3`: multiple companies play distinct roles in proving the pattern
+`3`: multiple companies play distinct roles in proving the pattern and the memo states which packet sections supplied the proof
 
 ### 3. Causal Chain
 
@@ -355,6 +355,17 @@ Score each proof memo on these ten dimensions.
 
 `3`: gives exact next companies, exact next metrics, and the best way to extend the memo
 
+## Skeptical Reader Test
+
+Every strong lane summary or proof memo should let a skeptical reader answer all four of these without guessing:
+
+1. `What is the exact fact?`
+2. `What does that fact mean?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+If the artifact fails any one of these, score it down even if it sounds polished.
+
 ## Fast Failure Tests
 
 If any of these are true, the artifact is not done:
@@ -363,6 +374,7 @@ If any of these are true, the artifact is not done:
 - it uses sector labels as explanation
 - it makes a broad claim without exact filing support
 - it has numbers but does not explain why they matter
+- it never says which packet inputs supplied the lane or memo conclusion
 - it names a consumer, cultural, societal, industrial, technical, or capital pattern without saying how the filing evidence supports it
 - it says a trend exists without naming who benefits and who carries burden
 - it says a theme is interesting without naming what would disprove it
@@ -373,10 +385,11 @@ If any of these are true, the artifact is not done:
 Ask these before calling the work complete:
 
 1. Can a skeptical reader trace each major conclusion back to exact facts?
-2. Does the writeup explain mechanism instead of repeating management language?
-3. Does it identify the burden stack, not just the revenue opportunity?
-4. Does it say what would break the claim?
-5. Does it tell the next thread what to watch and where to go next?
+2. Does it say which packet inputs produced the lane or memo conclusion?
+3. Does the writeup explain mechanism instead of repeating management language?
+4. Does it identify the burden stack, not just the revenue opportunity?
+5. Does it say what would break the claim?
+6. Does it tell the next thread what to watch and where to go next?
 
 If the answer to any one of those is no, keep working.
 

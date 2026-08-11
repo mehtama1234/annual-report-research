@@ -41,6 +41,19 @@ Before starting a queue item, identify which packet inputs will matter most:
 
 If the target does not look likely to improve one of those evidence inputs, it is probably a weak next move.
 
+Also decide what those packet fields are supposed to prove:
+
+- annual report takeaways + latest three-quarter chain
+  - prove: what changed and whether the direction is strengthening, weakening, or persisting
+- company-level strategy read
+  - prove: how management is responding to the pressure or opportunity
+- exact supporting facts
+  - prove: the claim directly rather than by implication
+- burden-versus-beneficiary interpretation
+  - prove: who gets cleaner economics and who absorbs the messy work
+- next filing watchlist
+  - prove: the next move will sharpen or break the read rather than only extend coverage
+
 ## Skeptical Reader Gate
 
 Do not pick a next batch just because the lane sounds interesting.
@@ -51,6 +64,12 @@ Pick a batch that can eventually answer:
 - What does that fact mean?
 - Why does it matter beyond one company?
 - What would change the conclusion?
+
+Also ask before starting:
+
+- what kind of claim is this batch supposed to improve: consumer, cultural, societal, industrial, technical, capital, or cross-company?
+- what proof burden comes with that claim type?
+- which missing role or contradiction would most improve the current proof page if this batch works?
 
 ## Priority 1: Healthcare Outside The Hospital And Aging Operating Systems
 

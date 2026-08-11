@@ -29,6 +29,11 @@ This proof relies on the packet sections that show the buildout directly:
 
 The memo should be read as a synthesis of those packet inputs, not as a standalone thematic claim.
 
+Applied comparison memos:
+
+- [ai-capacity-burden-carrier-comparison-2026-08-11.md](ai-capacity-burden-carrier-comparison-2026-08-11.md)
+- [ai-capex-return-and-power-constraint-watchlist-2026-08-11.md](ai-capex-return-and-power-constraint-watchlist-2026-08-11.md)
+
 ## How We Got There
 
 The archive shows the AI buildout as a chain:
@@ -103,6 +108,51 @@ The strongest conclusion is this:
 
 AI is becoming an industrial buildout. The winners are not only the companies with the best models. They are also the companies with the power, cooling, chips, networking, land, permits, generation, contracts, and skilled labor needed to make the models usable at scale.
 
+## Return And Constraint Overlay
+
+The newer AI comparison and watchlist pages make the physical-capacity thesis more precise.
+
+The cleaner reading now is:
+
+- AI demand can be real across the whole chain
+- but the economics are not equally clean across the chain
+- the best-positioned layers often sit at chokepoints, required equipment, or dense ecosystem positions
+- the heaviest burden often sits with the capital owner, field executor, or utility-scale power supplier
+
+The current archive points to this burden split:
+
+| Layer | Best current examples | What it owns | Main burden |
+|---|---|---|---|
+| Demand and capex sponsor | `Alphabet` | AI workload growth, cloud backlog, compute deployment, user and enterprise demand | very large capex, infrastructure timing, return discipline |
+| Compute and semiconductor choke point | `NVIDIA`, `KLA` | accelerated-compute supply, networking fabric, inspection, yield, and process precision | export restrictions, customer concentration, semicap timing, advanced-node execution |
+| Network and control layer | `Cisco` | networking, observability, security-control infrastructure, installed-base governance | competitive pricing, enterprise spending pace, platform execution |
+| Power and thermal equipment | `Vertiv`, `Eaton`, `Trane` | cooling, electrical architecture, backup power, controls, building systems, capacity expansion | supply conversion, manufacturing timing, project delivery, customer concentration |
+| Field execution | `Comfort Systems`, `Quanta` | skilled installation, retrofit, HVAC/electrical deployment, grid and load-center execution | labor, safety, project timing, customer readiness, permitting |
+| Power-system and generation layer | `Duke`, `Constellation`, `Vistra`, `GE Vernova` | grid expansion, generation, utility planning, gas turbines, long-duration power contracts | regulation, customer affordability, power availability, long-cycle capital intensity |
+| Data-center capacity owner versus ecosystem platform | `Digital Realty`, `Equinix` | powered capacity, leasing, interconnection density, recurring digital-infrastructure use | financing, capex, power readiness, deployment pacing, ecosystem upkeep |
+
+The bigger point is that AI physical capacity should not be read as one winner-take-all buildout.
+
+It is a stack where:
+
+- some companies own the chokepoint
+- some companies own the relationship
+- some companies carry the heavy funding and execution burden
+
+## Next-Filing Priority Watchlist
+
+The AI physical-capacity thesis should now be read through a short list of confirmation checks:
+
+- `Alphabet`: capex pace, cloud backlog quality, infrastructure spending intensity, and whether AI demand still justifies the spending load
+- `Digital Realty`: backlog and leasing conversion, Core FFO quality, development-return discipline, and power availability
+- `Equinix`: monthly recurring revenue, bookings, interconnection growth, AFFO quality, and power constraints
+- `Quanta` and `Comfort Systems`: backlog and RPO conversion, labor capacity, project execution, and free-cash-flow quality
+- `Vertiv`, `Eaton`, and `GE Vernova`: orders, backlog, margin conversion, free cash flow, and manufacturing or delivery timing
+- `KLA`: revenue durability, process-control necessity, advanced-node demand, and export-control drag
+- `Duke`, `Constellation`, and `Vistra`: data-center load conversion, power-contract quality, grid timing, and capital-return discipline
+
+If backlog, orders, lease wins, and load growth continue rising while return quality weakens, then the archive should treat AI as a real demand wave with more burden-heavy economics than the headline enthusiasm implies.
+
 ## Skeptical Reader Test
 
 A skeptical reader should be able to answer:
@@ -122,6 +172,7 @@ This page is only strong if those four answers are visible from the evidence tab
 - If Vertiv, Eaton, Trane, or Comfort Systems backlog fails to convert into revenue and cash flow, demand may be more timing-sensitive than structural.
 - If customers find cheaper ways to serve AI workloads with less power, cooling, or networking intensity, the physical buildout could slow.
 - If regulation or public opposition blocks utility expansion, the demand may remain real but harder to monetize.
+- If capex-heavy owners and landlords keep winning less cleanly than chokepoint suppliers and dense ecosystem operators, the burden split inside the lane becomes even more important than the raw demand story.
 
 ## Curiosity Questions
 

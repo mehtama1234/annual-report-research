@@ -147,6 +147,130 @@ The expected flow is:
 
 If a packet is missing the exact facts, operating constraint, burden read, or next-watch metric, it will usually produce shallow theme pages later.
 
+## How Packet Fields Turn Into Insight
+
+The repo should be explicit about which packet sections are doing the analytical work.
+
+Use this translation layer when writing lane summaries, proof memos, aha pages, and cross-company comparisons:
+
+- annual report takeaways + latest three-quarter chain
+  - use for: what changed, whether it is new or persistent, and whether the direction is strengthening or weakening
+- plain-English operating model
+  - use for: what the company is really selling, what job it performs in the system, and why customers come back
+- company-level strategy read
+  - use for: how management is responding to pressure, where it sees opportunity, and what it is trying to fix, protect, or accelerate
+- growth engine
+  - use for: what demand source is actually carrying the story and whether the growth is volume, pricing, mix, utilization, membership, backlog conversion, or installed-base pull-through
+- main economic lever
+  - use for: what really moves margins, cash flow, or returns and whether that lever looks durable or fragile
+- main operating constraint
+  - use for: where the system is strained by labor, reimbursement, compliance, inventory, logistics, capacity, property, debt, uptime, power, cooling, or customer acquisition friction
+- exact supporting facts
+  - use for: the proof layer; every broad claim should point back to these facts
+- burden-versus-beneficiary interpretation
+  - use for: who gets paid for the system and who absorbs the messy work, fixed costs, volatility, or regulatory load
+- thesis breaker
+  - use for: what would disprove the read instead of merely complicating it
+- next filing watchlist
+  - use for: the concrete indicators that will tell the next thread whether the pattern is strengthening, flattening, or breaking
+
+If a writeup cannot name which of those packet sections supplied the conclusion, it is probably skipping steps.
+
+## Insight Types And Their Proof Obligations
+
+The phrase "insights of all kinds" should still be disciplined. Each insight type has a different burden of proof.
+
+### Consumer Insight
+
+Use:
+
+- growth engine
+- latest three-quarter chain
+- exact supporting facts
+- recommended peer comparisons
+
+Prove:
+
+- what the customer is doing differently
+- whether the behavior is trade-up, trade-down, occasion-driven, convenience-driven, repeat-use, identity-driven, or deferred
+- which exact facts show the shift
+
+### Cultural Or Societal Insight
+
+Use:
+
+- plain-English operating model
+- company-level strategy read
+- burden-versus-beneficiary interpretation
+- exact supporting facts
+
+Prove:
+
+- which real-life pressure is creating demand
+- whether that pressure is becoming normalized or more widespread
+- which companies are reacting to the same pressure from different points in the system
+
+### Industrial Or Operating Pressure Insight
+
+Use:
+
+- main operating constraint
+- main economic lever
+- latest three-quarter chain
+- exact supporting facts
+
+Prove:
+
+- where the operating strain sits
+- whether the pressure is in labor, utilization, inventory, routing, maintenance, reimbursement, property, financing, or uptime
+- what happens economically when that pressure gets worse or improves
+
+### Technical Or Infrastructure Insight
+
+Use:
+
+- plain-English operating model
+- company-level strategy read
+- main operating constraint
+- exact supporting facts
+
+Prove:
+
+- where software is acting as a control layer
+- where physical infrastructure is the real bottleneck
+- where reliability, observability, security, or installed-base support has become a paid need
+
+### Capital Or Balance-Sheet Insight
+
+Use:
+
+- main economic lever
+- main operating constraint
+- burden-versus-beneficiary interpretation
+- thesis breaker
+
+Prove:
+
+- who needs capital, property, inventory, or debt capacity to make the system work
+- who earns cleaner economics without carrying the same burden
+- what would happen if financing conditions, occupancy, loss ratios, reimbursement, or utilization moved against the model
+
+### Cross-Company Pattern Insight
+
+Use:
+
+- exact supporting facts from at least three companies
+- company-level strategy reads
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+Prove:
+
+- why the pattern repeats
+- why the pattern is not a one-company anecdote
+- what adjacent names should be tested next
+- what evidence would weaken the whole pattern rather than just one example
+
 ## The Meaty Goal To Pursue
 
 The real goal is to use filings to extract every major kind of insight the companies can support, not just financial summary.

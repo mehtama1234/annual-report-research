@@ -110,6 +110,8 @@ Required company outputs:
 - next filing watchlist
 - recommended peer comparisons
 
+These company outputs are not just checklist fields. They are the packet inputs that later lane summaries, proof memos, aha pages, and thesis breakers should explicitly name when they use them.
+
 ## What Every Lane Must Produce
 
 Each lane should answer:
@@ -228,6 +230,17 @@ Every strong output should complete this chain:
 
 If the chain breaks in the middle, the work is still intermediate.
 
+When building a lane summary or proof memo, explicitly name which packet sections are supplying the argument. Do not jump from company names to a broader claim.
+
+At minimum, the later writeup should point back to:
+
+- annual report takeaways
+- latest three-quarter chain
+- company-level strategy read
+- exact supporting facts
+- burden-versus-beneficiary interpretation
+- next filing watchlist
+
 ## What Good Insight Should Sound Like
 
 The archive should aim for this sentence shape:
@@ -235,6 +248,17 @@ The archive should aim for this sentence shape:
 `Because {exact fact} at {company} and {exact fact} at {company}, this suggests {plain-English conclusion}. It matters because {economic meaning}. It weakens if {specific metric or event}.`
 
 That forces the work to stay concrete and readable.
+
+## Skeptical Reader Test
+
+Before treating any output as complete, make sure a skeptical reader can answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+If the work cannot answer those four directly, keep going.
 
 ## What To Avoid
 

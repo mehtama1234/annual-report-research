@@ -51,6 +51,15 @@ The goal is to turn `2025` annual reports, annual filings, and the latest three 
 
 The finished archive should let a reader move from source documents to company strategy, industry economics, cross-company themes, aha moments, watchlists, and thesis breakers without guessing.
 
+The archive should also make the packet-input chain explicit. A serious company, lane, or theme writeup should be traceable to the packet sections that actually carried the conclusion:
+
+- annual report takeaways
+- latest three-quarter chain
+- company-level strategy read
+- exact supporting facts
+- burden-versus-beneficiary interpretation
+- next filing watchlist
+
 ## Meaty End-To-End Goal
 
 The end-to-end goal is to extract how the economy is changing from company filings, using companies as evidence rather than anecdotes.
@@ -99,6 +108,17 @@ This means the output is not just a packet, a summary, or a theme name. The outp
 `source fact -> company strategy -> customer behavior -> operating pressure -> industry economics -> cross-company pattern -> aha moment -> thesis breaker -> next target`
 
 Every company packet should contribute at least one useful insight to that chain. If it does not, the packet is unfinished or the company was the wrong target.
+
+## Skeptical Reader Standard
+
+Before treating any company read, lane explanation, or proof memo as finished, make sure a skeptical reader can answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+If the work cannot answer those four clearly, it is still too loose.
 
 ## Core Standard
 

@@ -34,6 +34,7 @@ notes/insight-extraction-hub-2026-08-11.md
 notes/insight-extraction-templates-2026-08-11.md
 notes/insight-note-standardization-cutoff-2026-08-11.md
 notes/lane-end-to-end-execution-runbook-2026-08-11.md
+notes/legacy-root-reference-audit-2026-08-11.md
 notes/master-insight-extraction-goal-2026-08-11.md
 notes/master-operator-brief-2026-08-10.md
 notes/meaty-end-to-end-insight-goal-2026-08-11.md
@@ -41,6 +42,7 @@ notes/next-steps.md
 notes/note-layer-boundary-audit-2026-08-11.md
 notes/post-merge-energy-buildout-2026-08-10.md
 notes/raw-blob-offload-readme-2026-08-10.md
+notes/raw-evidence-link-policy-2026-08-11.md
 notes/recreation-participation-kickoff-2026-08-10.md
 notes/repo-coverage-audit-2026-08-09.md
 notes/workspace-integration-review-2026-08-09.md

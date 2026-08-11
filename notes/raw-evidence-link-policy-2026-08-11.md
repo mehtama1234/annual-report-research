@@ -2,6 +2,14 @@
 
 Date: 2026-08-11
 
+## Packet Inputs Used
+
+- the remote-`main` storage model that keeps extracted research, notes, indexes, and analysis in Git while offloading heavy `raw/**` payloads
+- `notes/raw-blob-offload-readme-2026-08-10.md`
+- `indexes/raw-blob-offload-manifest-2026-08-10.csv`
+- `indexes/raw-blob-offload-summary-2026-08-10.tsv`
+- the current packet, profile, and source-ledger layer where raw provenance must stay auditable even when the raw files are not locally present
+
 ## Purpose
 
 This note explains how to read packet evidence links now that heavy `raw/**` payloads have been offloaded from remote `main`.
@@ -75,3 +83,10 @@ For future packets created after this policy note:
 - prefer current-repo links for live extracted and analysis documents
 - when raw evidence is offloaded, ensure the manifest contains the raw path and Drive pointer
 - prefer resolver-based provenance over ad hoc path rewrites
+
+## Skeptical Reader Test
+
+- Does this note make it clear that remaining packet-level raw links are provenance pointers rather than guaranteed local files on remote `main`?
+- Can a skeptical reader find the exact manifest, resolver, and Drive-pointer path needed to recover a cited raw artifact?
+- Does the policy explain why the repo kept raw provenance stable instead of performing a high-noise rewrite across hundreds of packet files?
+- What future raw-offload change would require updating this policy note, the manifest, or the resolver behavior?

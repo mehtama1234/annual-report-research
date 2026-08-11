@@ -2,6 +2,14 @@
 
 Date: 2026-08-11
 
+## Packet Inputs Used
+
+- the current markdown search footprint for `/home/manishmehta/ui-projects/annual-report-research-new-lanes`
+- `scripts/audit-legacy-root-references.sh`
+- `notes/legacy-root-reference-audit-2026-08-11.json`
+- `indexes/legacy-root-raw-reference-top-files-2026-08-11.tsv`
+- the raw-evidence governance rule that live navigation should be normalized while raw provenance may remain stable and resolvable
+
 ## Purpose
 
 This note records the remaining footprint of the retired repo root:
@@ -81,3 +89,10 @@ The archive now has a cleaner split:
 
 - navigation uses the current repo root
 - provenance resolves through the offload manifest and Drive pointers
+
+## Skeptical Reader Test
+
+- Does this note state the exact remaining retired-root counts and distinguish raw provenance from historical non-raw references?
+- Can a skeptical reader reproduce the boundary check with the audit script and machine-readable artifacts?
+- Does the note explain why the remaining old-root references are acceptable in the evidence layer but not in live navigation?
+- What future repo change would require regenerating the counts or reclassifying a file between raw provenance and historical residue?

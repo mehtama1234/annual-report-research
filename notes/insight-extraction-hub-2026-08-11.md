@@ -67,6 +67,23 @@ Before treating any lane summary or proof memo as done, run the skeptical-reader
 
 If the page cannot answer those four without guessing, keep working.
 
+## Raw Evidence Maintenance
+
+Some packet evidence chains now depend on offloaded `raw/**` artifacts rather than local files in remote `main`.
+
+When a packet, profile, or source ledger cites a raw path that is not present in the checkout:
+
+- resolve it with:
+  - `python3 scripts/resolve-offloaded-raw-path.py 'raw/.../file.ext'`
+- run the governance verifier with:
+  - `bash scripts/verify-raw-evidence-governance.sh`
+
+Supporting references:
+
+- [raw-evidence-link-policy-2026-08-11.md](raw-evidence-link-policy-2026-08-11.md)
+- [legacy-root-reference-audit-2026-08-11.md](legacy-root-reference-audit-2026-08-11.md)
+- [raw-blob-offload-readme-2026-08-10.md](raw-blob-offload-readme-2026-08-10.md)
+
 ## Start Here
 
 1. Read the master goal.

@@ -37,6 +37,7 @@ Use this to audit whether a future run has the required guidance, examples, temp
 | Aha/curiosity layer | Captures surprising questions and weak signals. | [aha-moments-and-curiosity-questions-2026-08-10.md](../analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md) | Present |
 | Insight-driven queue | Prioritizes next lane/company work by insight payoff, target metrics, and thesis breakers. | [insight-driven-next-lane-queue-2026-08-11.md](insight-driven-next-lane-queue-2026-08-11.md) | Present |
 | Browser entry | Gives human review access to the stack and explains how concrete insight pages should be read, which packet fields support claims, and how claim types should be audited. | [site/index.html](../site/index.html), [site/concrete-insights.html](../site/concrete-insights.html) | Present |
+| Browser-link audit | Checks that every Markdown artifact linked from the browser review pages is still protected by verifier required-file coverage. | [audit-browser-review-links.sh](../scripts/audit-browser-review-links.sh) | Present |
 | Raw-evidence governance | Explains how offloaded `raw/**` evidence is resolved, audited, and distinguished from live navigation. | [raw-evidence-link-policy-2026-08-11.md](raw-evidence-link-policy-2026-08-11.md), [legacy-root-reference-audit-2026-08-11.md](legacy-root-reference-audit-2026-08-11.md), [raw-blob-offload-readme-2026-08-10.md](raw-blob-offload-readme-2026-08-10.md) | Present |
 
 ## Required Proof Chain
@@ -210,6 +211,7 @@ Run these from the repo root:
 
 ```bash
 bash scripts/verify-insight-system.sh
+bash scripts/audit-browser-review-links.sh
 bash scripts/verify-raw-evidence-governance.sh
 bash scripts/audit-note-layer-boundary.sh
 bash scripts/audit-note-layer-boundary.sh --write-report notes/note-layer-boundary-audit-2026-08-11.md

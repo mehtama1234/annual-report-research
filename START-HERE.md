@@ -28,6 +28,8 @@ Use these when you need to refresh or verify the note-boundary and insight-syste
   - `bash scripts/refresh-note-layer-boundary.sh`
 - direct boundary audit only:
   - `bash scripts/audit-note-layer-boundary.sh`
+- browser review-link audit:
+  - `bash scripts/audit-browser-review-links.sh`
 - full broader insight-system verifier:
   - `bash scripts/verify-insight-system.sh`
 

@@ -17,6 +17,7 @@ required_files=(
   "indexes/historical-note-exclusion-categories-2026-08-11.tsv"
   "indexes/legacy-root-raw-reference-top-files-2026-08-11.tsv"
   "scripts/audit-note-layer-boundary.sh"
+  "scripts/audit-browser-review-links.sh"
   "scripts/audit-legacy-root-references.sh"
   "scripts/refresh-note-layer-boundary.sh"
   "scripts/resolve-offloaded-raw-path.py"

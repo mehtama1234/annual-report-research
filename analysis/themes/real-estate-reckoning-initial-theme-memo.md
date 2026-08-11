@@ -11,6 +11,17 @@ Current evidence base:
 - CBRE Group Inc.
 - Jones Lang LaSalle Inc.
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for logistics scarcity, digital-infrastructure demand, housing durability, and outsourced property-service intermediation
+- latest three-quarter chains for occupancy, rent spreads, bookings, powered-capacity demand, NOI, leasing, and transaction recovery
+- company packets for the plain-English operating model across industrial property, data-center REITs, residential REITs, and real-estate service intermediaries
+- exact supporting facts on land and power optionality, interconnection density, hyperscale backlog, same-store residential metrics, project execution, and workplace or capital-markets activity
+- burden-versus-beneficiary interpretations for who owns the cleaner scarcity or service interface economics versus who carries more property, capital, or cyclical transaction burden
+- next filing watchlists for power constraints, digital-capacity absorption, housing stability, office recovery breadth, and service-fee cyclicality
+
 ## Theme
 
 Real-estate earnings are being reorganized around infrastructure scarcity, power availability, digital-demand density, housing durability, and outsourced service intermediation rather than a single office-and-rates cycle.
@@ -45,6 +56,15 @@ Real-estate earnings are being reorganized around infrastructure scarcity, power
 - Digital Realty is the clearest proof that private capital, hyperscale demand, and powered-capacity development are reshaping what “office” real estate even means in legacy taxonomies.
 - AvalonBay is the clearest proof that residential still provides steadier traditional property cash flows even while other parts of the sector become more infrastructure-like.
 - CBRE and JLL are the clearest proof that a large and growing share of real-estate economics sits in outsourced expertise, workplace operations, project execution, and transaction intermediation rather than in property ownership alone.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show real estate splitting into infrastructure-rich, housing, and service-intermediation models rather than one office-and-rates story?`
+2. `Which companies prove logistics scarcity, digital infrastructure, residential stability, and outsourced expertise directly?`
+3. `Who captures the cleaner scarcity or service economics and who remains more exposed to capital intensity or cyclical recovery?`
+4. `What future evidence would weaken the real-estate-reckoning interpretation?`
 
 ## Risks and caveats
 

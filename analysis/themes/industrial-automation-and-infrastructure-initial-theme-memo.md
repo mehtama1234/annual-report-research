@@ -13,6 +13,17 @@ Current evidence base:
 - Waste Management, Inc.
 - ABM Industries, Inc.
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for power demand, automation-control layers, defense visibility, transport-network discipline, environmental infrastructure, and outsourced technical facilities support
+- latest three-quarter chains for backlog, orders, pricing, segment mix, project timing, route density, and program execution
+- company packets for the plain-English operating model across heavy equipment, controls, electrical architecture, thermal management, defense systems, rail networks, waste infrastructure, and contract facilities services
+- exact supporting facts on data-center and power exposure, installed-base automation, cooling demand, strategic-program scaling, freight network productivity, landfill and RNG economics, and technical-site support work
+- burden-versus-beneficiary interpretations for who captures the cleaner control-point or service-layer economics versus who carries more physical-asset and execution burden
+- next filing watchlists for backlog conversion, power and cooling intensity, program execution, pricing resilience, and labor or tariff friction
+
 ## Theme
 
 Industrial earnings are currently being shaped more by infrastructure intensity, power demand, electrification architecture, building-systems demand, defense-program visibility, rail-network discipline, environmental-infrastructure demand, outsourced technical-facilities work, and automation-platform simplification than by a generic manufacturing rebound.
@@ -52,6 +63,15 @@ Industrial earnings are currently being shaped more by infrastructure intensity,
 - Waste Management is the clearest proof that industrial demand also has an environmental-services layer, where waste routes, landfill ownership, recycling automation, RNG output, and healthcare-compliance services can produce durable industrial cash flows.
 - ABM is the clearest proof that industrial demand also has an outsourced-facilities layer, where datacenter support, airport contracts, semiconductor-fab services, and contract-backed technical operations produce industrial exposure without manufacturing the hardware itself.
 - Together they suggest that the industrial sector should be analyzed as an enabling layer for digital, energy, transport, and environmental systems, not only as a macro cycle proxy.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show industrial earnings being driven by infrastructure intensity and automation layers rather than a generic manufacturing rebound?`
+2. `Which companies prove the power, controls, transport, defense, environmental, and outsourced-facilities layers directly?`
+3. `Who captures the cleaner enabling-layer economics and who carries the heavier physical-asset, program, or execution burden?`
+4. `What future evidence would weaken the industrial-automation-and-infrastructure interpretation?`
 
 ## Risks and caveats
 

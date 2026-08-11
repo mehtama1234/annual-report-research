@@ -10,6 +10,17 @@ Current evidence base:
 - APi Group Corporation
 - Cintas Corporation
 
+## Packet Inputs Used
+
+This memo is built from:
+
+- annual report takeaways for brokerage discipline, parcel-network reconfiguration, recurring field-service density, backlog-backed safety services, and route-based workplace outsourcing
+- latest three-quarter chains for pricing, volume, revenue quality, route productivity, backlog, margin leverage, and cash conversion
+- company packets for the plain-English operating model across freight brokerage, parcel delivery, pest control, inspection and monitoring services, and workplace service routes
+- exact supporting facts on `Lean AI`, revenue-per-piece, package mix, recurring revenue share, inspection and monitoring growth, route density, cross-sell, and acquisition integration
+- burden-versus-beneficiary interpretations for who captures the cleaner coordination and recurring-service economics versus who carries more freight, network, labor, or working-capital burden
+- next filing watchlists for spot-cost moves, volume recovery, route productivity, backlog conversion, labor execution, and integration risk
+
 ## Theme
 
 Services earnings are currently being shaped more by pricing discipline, recurring revenue quality, route or network density, workflow automation, backlog and channel mix, and cost-to-serve management than by a clean macro demand upswing.
@@ -58,6 +69,15 @@ Services earnings are currently being shaped more by pricing discipline, recurri
 - Business-services platforms tied to safety, inspection, and infrastructure can still compound through recurring mandated activity, backlog, and M&A even when broader macro demand is uneven.
 - Route-based workplace-services platforms can still compound through employer outsourcing, route density, price, and facility-services cross-sell even without a dramatic macro upswing.
 - The market still matters. Neither CHRW nor UPS is immune to weak demand, cost inflation, shipping disruption, or customer concentration. But the current evidence set suggests those pressures are no longer the whole story.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `Which packet facts show service earnings being driven by pricing discipline, density, and productivity rather than a broad demand upswing?`
+2. `Which companies prove asset-light coordination, asset-heavy network ownership, recurring field service, backlog-backed safety work, and route outsourcing directly?`
+3. `Who captures the cleaner recurring-service economics and who carries more freight, labor, network, or working-capital burden?`
+4. `What future evidence would weaken the services-freight-brokerage-and-productivity interpretation?`
 
 ## Risks and caveats
 

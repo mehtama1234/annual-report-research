@@ -116,6 +116,21 @@ At minimum, test whether the filing window supports any of these:
 
 If a bucket is not relevant, say so directly. If it is relevant, name the exact facts and explain why they support the conclusion.
 
+When a bucket is relevant, use the matching packet fields deliberately:
+
+- consumer claim
+  - use: growth engine, quarter chain, exact supporting facts
+- cultural or societal claim
+  - use: operating model, strategy read, burden read, exact supporting facts
+- industrial or operating claim
+  - use: operating constraint, economic lever, quarter chain, exact supporting facts
+- technical or infrastructure claim
+  - use: operating model, strategy read, operating constraint, exact supporting facts
+- capital or balance-sheet claim
+  - use: economic lever, operating constraint, burden read, thesis breaker
+
+Do not name a claim type unless the packet shows the fields that actually support it.
+
 ## Step 5: Extract The Company-Level Read
 
 Do not stop at facts.
@@ -172,6 +187,21 @@ A good lane summary should let a skeptical reader point to:
 - why it matters beyond one company
 - what future metric would weaken the read
 
+Before finalizing the lane read, check that the packet-field fit is explicit:
+
+- annual takeaways + quarter chain
+  - prove: what changed and whether the pattern is still holding
+- operating model
+  - prove: what role each company really plays in the lane
+- strategy read
+  - prove: how management teams are adapting to the same pressure from different positions
+- growth engine + economic lever
+  - prove: where the lane's cleaner economics actually come from
+- operating constraint
+  - prove: where the lane's strain actually sits
+- burden read
+  - prove: who absorbs the hard work, fixed costs, or regulatory load
+
 ## Step 7: Extract Cross-Company Patterns
 
 Compare the packets and identify repeated patterns such as:
@@ -219,6 +249,21 @@ Before calling the memo done, run a direct reader test:
 - Can they see what each fact proves?
 - Can they see why the pattern matters beyond one company?
 - Can they tell what would change the conclusion?
+
+Also run a claim-type proof check:
+
+- consumer memo
+  - prove: what behavior changed and which exact facts show it
+- cultural or societal memo
+  - prove: which real-life pressure is creating demand and why it is broader than one company
+- industrial or operating memo
+  - prove: where the strain sits and what happens economically when it changes
+- technical or infrastructure memo
+  - prove: where software is a control layer and where physical bottlenecks still decide outcomes
+- capital or balance-sheet memo
+  - prove: who must carry property, inventory, debt, or financing burden to keep the system working
+- cross-company pattern memo
+  - prove: exact support from at least three companies and what evidence would weaken the broader pattern
 
 ## Step 9: Pull Out Aha Moments And Curiosity Questions
 

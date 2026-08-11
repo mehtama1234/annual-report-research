@@ -19,6 +19,23 @@ If you are starting work in this repo, read these files in this order:
 12. [Active lane board](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/active-lane-board-2026-08-10.md)
 13. [Current execution queue](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/current-execution-queue-2026-08-10.md)
 
+## Insight-System Maintenance
+
+Use these when you need to refresh or verify the note-boundary and insight-system audit layer:
+
+- one-command refresh plus verification:
+  - `bash scripts/refresh-note-layer-boundary.sh`
+- direct boundary audit only:
+  - `bash scripts/audit-note-layer-boundary.sh`
+- full broader insight-system verifier:
+  - `bash scripts/verify-insight-system.sh`
+
+Current boundary artifacts:
+
+- [Note layer boundary audit report](/home/manishmehta/ui-projects/annual-report-research/notes/note-layer-boundary-audit-2026-08-11.md)
+- [Note layer boundary audit JSON](/home/manishmehta/ui-projects/annual-report-research/notes/note-layer-boundary-audit-2026-08-11.json)
+- [Insight artifact manifest](/home/manishmehta/ui-projects/annual-report-research/notes/insight-artifact-manifest-2026-08-11.md)
+
 ## Current integrated checkpoints
 
 Use these before opening a new batch if you want the current state rather than only the kickoff briefs:

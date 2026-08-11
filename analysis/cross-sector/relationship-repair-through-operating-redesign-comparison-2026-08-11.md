@@ -229,6 +229,18 @@ Southwest's redesign is working so far, but it still risks changing a familiar b
 | Verizon | postpaid phone net adds, broadband net adds, churn, subsidy intensity, service-revenue growth, Frontier integration | tests whether telecom relationship repair is durable |
 | Kohl's | comparable sales, inventory, cash flow, Sephora productivity, operating margin | tests whether stabilization ever turns into actual relationship recovery |
 
+## Packet Inputs Used
+
+This memo uses the packet sections that show a relationship already exists but is not monetizing cleanly enough:
+
+- annual report takeaways for scale, traffic, members, subscribers, or household accounts
+- latest three-quarter chain for whether repair work is starting to change churn, comps, units, or margin
+- plain-English operating model for the recurring relationship being repaired
+- company-level strategy read for labor investment, pricing resets, interface redesign, convergence, or inventory cleanup
+- exact supporting facts on traffic, net adds, buy-up rates, comps, margin pressure, and cash flow
+- burden-versus-beneficiary interpretation for who benefits if the relationship becomes economically cleaner again versus who carries the repair cost now
+- thesis breakers and watchlists for whether stabilization turns into actual recurring economics
+
 ## Adjacent Names To Test Next
 
 - `Best Buy`, for repair through services, marketplace, ads, repair, and trade-in rather than through pure retail traffic.
@@ -243,3 +255,16 @@ This memo gives the archive a cleaner way to describe a large class of companies
 They are trying to make the old relationship economically usable again.
 
 That is a recurring operating pattern the repo should be able to identify directly.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What exact packet facts show repair rather than ordinary growth?`
+   Margin sacrifice, slower member growth, churn repair, offer redesign, and stabilization work all appear before a full clean growth story.
+2. `Why do these companies belong together?`
+   Because each packet shows management redesigning the operating experience around an already-existing relationship rather than inventing a new demand category.
+3. `Who benefits and who carries the burden?`
+   The company benefits later if retention, buy-up, traffic, or monetization improve. It carries labor, capex, marketing, restructuring, or brand-change burden during the repair phase.
+4. `What would weaken the claim?`
+   If the repair spending fails to change traffic, churn, comps, or monetization quality, then the redesign is not economically restoring the relationship.

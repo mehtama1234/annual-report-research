@@ -159,6 +159,18 @@ The trust-as-paid-product thesis weakens if:
 - Ecolab or Veralto customers cut hygiene, water, monitoring, or quality workflows as discretionary spending.
 - Any major trust provider suffers a credibility failure large enough to weaken the customer belief that it is the safer intermediary.
 
+## Packet Inputs Used
+
+This memo draws from the same packet sections across S&P Global, CME, Marsh, Aon, Gallagher, DoubleVerify, Palo Alto, CrowdStrike, Quest, Ecolab, and Veralto:
+
+- annual report takeaways for revenue model, recurring economics, and role in the system
+- latest three-quarter chain for growth durability, margin quality, and cash generation
+- plain-English operating model for the specific form of trust sold: standards, clearing, advice, verification, security, diagnostics, hygiene, or monitoring
+- company-level strategy read for what management is trying to standardize, secure, verify, or make governable
+- exact supporting facts on revenue, ARR, requisition volume, market data, advisory growth, and free cash flow
+- burden-versus-beneficiary interpretation for who captures the confidence premium versus who absorbs underwriting, contamination, breach, compliance, or service risk
+- thesis breakers and watchlists for credibility failures, commoditization, platform shifts, and spending pullbacks
+
 ## Next Recommended Names
 
 | Target | Why |
@@ -171,6 +183,19 @@ The trust-as-paid-product thesis weakens if:
 | Labcorp | Adds diagnostics peer to Quest. |
 | UL Solutions | Adds physical product testing, certification, and safety standards. |
 | Fortinet or Zscaler | Adds cybersecurity architecture contrast to Palo Alto and CrowdStrike. |
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What exact facts prove this is paid proof rather than a loose trust slogan?`
+   Ratings, clearing fees, advisory growth, ad-verification scale, cybersecurity ARR, diagnostic volumes, and hygiene or water-monitoring growth all show customers paying for confidence and governability.
+2. `Why do these companies belong together across different sectors?`
+   Because the packets show that the buyer cannot safely self-verify the risk, quality, or operating state alone.
+3. `Who benefits and who carries the burden?`
+   The trust-layer provider captures the fee stream. The customer avoids or outsources part of the burden, while the provider still has to protect its own credibility and service quality.
+4. `What would weaken the conclusion?`
+   A major credibility failure, true commoditization, or evidence that customers can safely self-verify without paying these intermediaries would break the pattern.
 
 ## Queue Status
 

@@ -196,6 +196,18 @@ If the social layer weakens, the supply layer can weaken with it.
 | Roblox | DAUs, hours engaged, bookings, monetization per hour, creator and safety commentary | tests whether creator-supplied engagement remains economically strong |
 | Uber | trips, MAPCs, membership penetration, adjusted EBITDA, supply reliability, regulatory and AV commentary | tests whether outside local capacity keeps compounding through one interface |
 
+## Packet Inputs Used
+
+This memo uses the same packet sections across Airbnb, Etsy, Roblox, and Uber:
+
+- annual report takeaways for supply scale, user scale, and free-cash-flow quality
+- latest three-quarter chain for growth durability and operating leverage
+- plain-English operating model for what outside participants actually provide
+- company-level strategy read for how each platform organizes hosts, sellers, creators, or drivers
+- exact supporting facts on hosts, active buyers and sellers, DAUs, trips, bookings, and free cash flow
+- burden-versus-beneficiary interpretation for who owns the interface versus who supplies the inventory or labor
+- thesis breakers and next filing watchlists for trust, fraud, regulation, and supply-quality risk
+
 ## Adjacent Names To Test Next
 
 - `eBay` for another marketplace where category culture and seller depth matter more than owned inventory
@@ -209,3 +221,16 @@ This memo gives the archive a cleaner way to group companies whose real product 
 That is a better explanation than calling them all software, marketplace, or consumer-interface names.
 
 The real common trait is that they turn fragmented outside supply into one coordinated economic system.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact cross-company fact pattern?`
+   Each packet shows large economics built on outside supply: Airbnb's host base, Etsy's seller base, Roblox's creator ecosystem, and Uber's driver and merchant network.
+2. `Why is this not just a software grouping?`
+   Because the decisive packet inputs are about organizing non-owned supply, not just selling software seats or ad inventory.
+3. `Who captures the economics and who carries the burden?`
+   The platform captures the interface and transaction flow. Hosts, sellers, creators, and drivers supply the lived experience, goods, content, or labor that customers actually consume.
+4. `What would disprove the pattern?`
+   If participant supply becomes interchangeable, low-quality, or too expensive to govern and the interface no longer turns that outside supply into durable repeat economics, the pattern weakens.

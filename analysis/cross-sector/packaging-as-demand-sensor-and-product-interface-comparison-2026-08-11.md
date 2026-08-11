@@ -182,6 +182,18 @@ But Ball reads like a cleaner conversion-and-cash system, while O-I shows how a 
 | Ball Corporation | shipment growth, comparable operating earnings, free cash flow, shareholder returns | tests whether aluminum-conversion economics remain clean and disciplined |
 | O-I Glass | segment operating profit, Europe margins, energy-cost exposure, free cash flow, volume stabilization | tests whether glass remains operationally pressured despite restructuring efforts |
 
+## Packet Inputs Used
+
+This memo uses the company packets for Graphic Packaging, Packaging Corporation of America, Silgan, Ball, and O-I Glass in the same way:
+
+- annual report takeaways for the business model, capital base, and margin profile
+- latest three-quarter chain for volume, mix, margin, free cash flow, and debt direction
+- plain-English operating model for what each packaging format actually does
+- company-level strategy read for demand sensing, format specialization, cost takeout, or interface control
+- exact supporting facts on sales, EBITDA, capex, debt, volume pressure, and product mix
+- main operating constraint and burden-versus-beneficiary interpretation for energy, plant utilization, capital intensity, and qualification or switching friction
+- thesis breakers and next filing watchlists for whether packaging still gives an early read on demand or still earns differentiated economics
+
 ## Thesis Breakers
 
 This packaging-demand-sensor and product-interface thesis weakens if:
@@ -220,3 +232,16 @@ Raw blob status:
 
 - No raw blobs added.
 - This memo uses existing local company packets and previously captured filing evidence already present in the archive.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to verify:
+
+1. `What exact packet facts show packaging as a demand sensor?`
+   Volume, cash-flow guidance, plant actions, and customer-affordability commentary at Graphic Packaging and Packaging Corporation of America.
+2. `What exact packet facts show packaging as an interface business?`
+   Silgan's dispensing and specialty-closure role, plus the switching and qualification logic around how the product reaches the consumer.
+3. `Why are Ball and O-I Glass included?`
+   They show that packaging format changes the burden stack. Metal and glass bring different energy, capital, and operational exposures than corrugated or dispensing systems.
+4. `What would weaken the memo?`
+   If brand owners start giving earlier demand reads than packaging suppliers, or if packaging interfaces become too interchangeable to support differentiated economics, the current framing is too strong.

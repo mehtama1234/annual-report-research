@@ -221,6 +221,18 @@ It is to read it correctly.
 | Nike | NIKE Direct growth, gross margin ex-recovery, wholesale/direct mix, inventory quality | tests whether brand and channel health actually improve after the optical boost |
 | Motorola | software-and-services mix, backlog conversion, normalized operating margin, order quality | tests whether the quarter's strong margin remains after refund benefit disappears |
 
+## Packet Inputs Used
+
+This memo uses the packet inputs that let the repo separate real operating improvement from quarter noise:
+
+- annual report takeaways for the baseline business quality before the distorted quarter
+- latest three-quarter chain for the sequence of demand, margin, and cash changes
+- plain-English operating model for where policy exposure enters the business
+- company-level strategy read for what management was actually trying to improve independent of one-time tariff or recovery effects
+- exact supporting facts on revenue, margin, refund or recovery commentary, backlog, traffic, and mix
+- burden-versus-beneficiary interpretation for who captures the temporary accounting or policy benefit versus who still carries the ongoing operating burden
+- thesis breakers and watchlists that test whether performance remains strong after the distortion rolls off
+
 ## Adjacent Names To Test Next
 
 - `Build-A-Bear`-like consumer names such as `Hasbro` or `Mattel` where tariffs visibly complicated quarter reads
@@ -234,3 +246,16 @@ This memo gives the archive a cleaner way to separate operating truth from polic
 That is different from pricing power, different from formalized revenue architecture, and different from generic regulatory exposure.
 
 It is a memo about signal quality: when the reported quarter is not the same thing as the underlying business.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to verify:
+
+1. `What exact packet facts show optical distortion?`
+   The company packets point to refund, recovery, tariff, or policy-linked benefits that changed how the quarter looked relative to the underlying operating trend.
+2. `Why is this not just dismissing good quarters?`
+   Because the memo explicitly distinguishes between real business improvement and the extra boost from one-time policy-linked items.
+3. `Who benefits and who still carries the burden?`
+   The reported quarter may temporarily benefit, but the business still carries the same sourcing, demand, execution, or backlog-conversion burden underneath.
+4. `What would weaken the conclusion?`
+   If later quarters sustain the stronger economics without similar policy benefits, then the apparent distortion mattered less than the memo currently argues.

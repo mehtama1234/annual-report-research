@@ -167,6 +167,18 @@ The chain-specific commodity thesis weakens if:
 - Aptar's interface-control economics compress toward plain packaging margins.
 - Tariffs, energy costs, or policy shifts fail to show up meaningfully in margins, cash flow, or strategic actions.
 
+## Packet Inputs Used
+
+This memo is built from the same packet fields across Southern Copper, Alcoa, Nutrien, International Paper, AptarGroup, and Graphic Packaging:
+
+- annual report takeaways for the earnings shape, asset burden, and capital intensity
+- latest three-quarter chain for price, volume, margin, and cash-conversion direction
+- plain-English operating model for each chain role: extraction, conversion, retail agronomy, throughput, and interface control
+- company-level strategy read for what management is trying to improve or protect
+- exact supporting facts on production, EBITDA, free cash flow, debt, capital spending, and mix
+- main operating constraint and burden-versus-beneficiary interpretation for power, ore grades, regulation, network execution, and qualification cycles
+- thesis breakers and next filing watchlists that identify what would disprove the chain read
+
 ## Next Recommended Names
 
 | Target | Why |
@@ -179,6 +191,19 @@ The chain-specific commodity thesis weakens if:
 | Sherwin-Williams | Adds coatings and architectural interface comparison against heavier materials chains. |
 | Mosaic | Adds phosphate exposure alongside Nutrien's broader ag system. |
 | Commercial Metals or Reliance Steel | Adds downstream metals processing versus primary metals extraction. |
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to verify each step:
+
+1. `What exact facts support the claim?`
+   Southern Copper's production and by-product-driven cost structure, Alcoa's power-and-restart-sensitive conversion economics, Nutrien's retail footprint and customer-account density, International Paper's packaging-network results, Aptar's profit-rich pharma mix, and Graphic Packaging's debt-and-capex burden.
+2. `Why is this a chain comparison rather than a sector label?`
+   Because the packet evidence shows very different earnings drivers: ore grades, power, agronomy relationships, network throughput, and interface qualification are not interchangeable.
+3. `Who benefits and who carries the burden?`
+   Aptar and Nutrien show cleaner capture through interface control or relationship ownership. Southern Copper, Alcoa, International Paper, and Graphic Packaging carry heavier physical, regulatory, energy, or capital burdens.
+4. `What future evidence would weaken the conclusion?`
+   If company results start moving mostly with headline commodity prices and the packet-specific constraints stop explaining margins, cash flow, or strategic actions, the chain framing is too strong.
 
 ## Queue Status
 

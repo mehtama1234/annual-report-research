@@ -214,6 +214,18 @@ Sometimes the approval process is slow, politically constrained, or economically
 | Digital Realty | renewal lease rates, backlog at share, bookings, development conversion, power availability | tests whether scarcity still converts into structured rent growth |
 | SBA | site-leasing revenue, AFFO, leasing backlog or amendment pace, churn, leverage | tests whether escalator-backed tower rent remains stronger than customer concentration pressure |
 
+## Packet Inputs Used
+
+This memo uses the same packet inputs across American Water, Exelon, VeriSign, Digital Realty, and SBA:
+
+- annual report takeaways on the governing revenue model and capital burden
+- latest three-quarter chain for rate growth, rent resets, fee increases, backlog, and cash conversion
+- plain-English operating model for how each company gets paid
+- company-level strategy read for rate-base growth, recovery architecture, lease resets, fee-right durability, or tower-rent escalators
+- exact supporting facts on authorized revenues, recovery coverage, wholesale fee increases, renewal lease rates, backlog, and site portfolio scale
+- burden-versus-beneficiary interpretation for who captures the cleaner economics versus who absorbs infrastructure, political, financing, or uptime burdens
+- thesis breakers and watchlists that test whether the formal mechanism still converts into realized revenue and earnings
+
 ## Adjacent Names To Test Next
 
 - `Consolidated Edison` or `ONE Gas` to extend the regulated-recovery side of the pattern
@@ -227,3 +239,16 @@ This memo gives the archive a cleaner way to talk about companies whose economic
 That is different from ordinary pricing power, different from loyalty, and different from simple recurrence.
 
 It is the advantage of having a recognized mechanism for getting paid more.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to verify:
+
+1. `Which exact packet facts show formalized monetization rather than generic pricing power?`
+   Authorized annualized revenue increases at American Water, recovery coverage and rate-base framing at Exelon, VeriSign's scheduled `.com` fee increase, Digital Realty's lease resets and backlog, and SBA's escalator-backed leasing model.
+2. `Why is this a separate pattern?`
+   Because the packet evidence shows a recognized process for monetization, not just management hoping customers accept higher prices.
+3. `Who benefits and who carries the burden?`
+   The operator benefits from cleaner revenue visibility, while still carrying political, capital, power, land-control, or uptime burdens.
+4. `What would weaken the claim?`
+   If the formal mechanism stops converting into actual revenue growth or gets overwhelmed by regulation, churn, financing pressure, or physical constraints, the pattern weakens.

@@ -184,6 +184,18 @@ not every platform bears the same governance burden. Some categories are natural
 | Etsy | active sellers, habitual buyers, fraud or trust commentary, GMS quality, search and relevance signals | tests whether marketplace governance is preserving buyer trust |
 | Roblox | DAUs, hours engaged, monetization per hour, age-check and safety commentary, discovery changes | tests whether governance choices are helping or hurting monetization quality |
 
+## Packet Inputs Used
+
+This memo is built from the packet sections that expose governance work rather than only topline growth:
+
+- annual report takeaways on marketplace or platform scale
+- latest three-quarter chain for user growth, monetization, and cost absorption
+- plain-English operating model for how hosts, sellers, or creators participate
+- company-level strategy read for trust, safety, moderation, support, search, and discovery
+- exact supporting facts on bookings, buyers, sellers, DAUs, hours engaged, and platform quality signals
+- main operating constraint and burden-versus-beneficiary interpretation for regulation, fraud control, age safety, and support complexity
+- next filing watchlists that can show whether governance is improving or damaging the business
+
 ## Adjacent Names To Test Next
 
 - `Uber` for a more operationally physical version of decentralized participant governance
@@ -197,3 +209,16 @@ This memo gives the archive a more precise explanation for why some fast-scaling
 The issue is not only supply growth.
 
 It is whether the platform can govern that supply well enough to keep trust, quality, and monetization intact.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to ask:
+
+1. `Which packet facts show governance burden rather than generic growth?`
+   The packets tie scale to trust-and-safety work: support and regulation at Airbnb, fraud and relevance at Etsy, and age safety plus content governance at Roblox.
+2. `Why is this economically important?`
+   Because participant growth is only valuable if the platform keeps buyer, guest, or player trust high enough to protect repeat usage and monetization.
+3. `Who benefits and who carries the burden?`
+   The platform captures the relationship and economics, but it must absorb moderation, support, policy, and governance costs to keep the ecosystem credible.
+4. `What evidence would weaken the conclusion?`
+   If governance gets much cheaper without affecting quality, or if users prove insensitive to failures in trust and quality, then the burden is less central than this memo argues.

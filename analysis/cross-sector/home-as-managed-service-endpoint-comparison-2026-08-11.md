@@ -205,6 +205,18 @@ Brookdale makes it easier to trust the insight because it shows the point where 
 | Airbnb | services adoption, app-booked mix, first-time booker growth, repeat behavior, hotel-to-home conversion, support cost per booking | tests whether temporary-home workflow ownership keeps widening |
 | Brookdale | occupancy, RevPAR, adjusted EBITDA, labor cost, acuity commentary | tests where the home-support model gives way to managed residential care |
 
+## Packet Inputs Used
+
+This memo is built from the packet fields that show how companies keep operating relationships alive at the household edge:
+
+- annual report takeaways for customer scale, operating footprint, and recurring-service shape
+- latest three-quarter chain for growth durability, attachment rates, volume, and profitability
+- plain-English operating model for what the company keeps managing in or around the home
+- company-level strategy read for storage attachment, home-care continuity, pet-health orchestration, temporary-home services, or managed residential transition
+- exact supporting facts on customers, deliveries, Autoship mix, hosts, bookings, occupancy, and storage capacity
+- burden-versus-beneficiary interpretation for who captures the household relationship versus who absorbs logistics, staffing, reimbursement, financing, or property burden
+- thesis breakers and next filing watchlists for whether the home remains a viable service endpoint
+
 ## Thesis Breakers
 
 This home-endpoint thesis weakens if:
@@ -230,3 +242,16 @@ This memo gives the archive a more precise way to talk about “the home” with
 The important shift is not just that households still spend.
 
 It is that more companies now depend on managing real ongoing operations at the household edge.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What exact packet facts show the home as an operating site?`
+   Sunrun's storage attachment and networked capacity, AdaptHealth's daily deliveries and patient scale, Chewy's Autoship-heavy relationship, Airbnb's service expansion around the stay, and Brookdale's occupancy-driven managed-care setting.
+2. `Why is this more than a consumer-spending claim?`
+   Because the packet inputs point to financing, logistics, monitoring, reimbursement, staffing, and repeat service continuity, not just product demand.
+3. `Who benefits and who carries the burden?`
+   The relationship owner benefits from recurring access to the household. The burden sits in physical service, staffing, documentation, financing, and property operations.
+4. `What would weaken the conclusion?`
+   If households revert to one-time purchases, if service friction overwhelms recurring economics, or if the transition point to managed residential care arrives earlier than the memo suggests, the pattern weakens.

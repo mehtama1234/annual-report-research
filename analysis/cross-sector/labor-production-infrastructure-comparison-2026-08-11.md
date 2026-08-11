@@ -173,6 +173,18 @@ It is to organize modular skill formation and persistent learning demand at glob
 | Stride | Career Learning enrollments, Career Learning revenue growth, revenue per enrollment, adjusted EBITDA, funding commentary | tests whether career-pathway production stays stronger than general education |
 | Coursera | enterprise customers, enterprise revenue, paid subscribers, registered learners, adjusted EBITDA, retention | tests whether modular reskilling remains a durable labor-production model |
 
+## Packet Inputs Used
+
+This memo uses the packet sections that reveal how education and training become labor-production systems:
+
+- annual report takeaways for student or learner scale, employer alignment, and margin structure
+- latest three-quarter chain for enrollment, revenue, retention, and cash-generation direction
+- plain-English operating model for how each company moves a learner toward employability
+- company-level strategy read for licensure pathways, employer demand, online delivery, and modular reskilling
+- exact supporting facts on enrollment, partner count, revenue growth, outcomes framing, and adjusted EBITDA
+- burden-versus-beneficiary interpretation for who captures the economics versus who carries funding, reputation, placement, or regulatory burden
+- thesis breakers and watchlists for whether labor demand, program quality, and completion economics remain durable
+
 ## Thesis Breakers
 
 This labor-production-infrastructure thesis weakens if:
@@ -210,3 +222,16 @@ Raw blob status:
 
 - No raw blobs added.
 - This memo uses existing local company packets and previously captured filing evidence already present in the archive.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to verify:
+
+1. `What exact packet facts show labor production rather than generic education?`
+   Enrollment growth, career-linked program mix, employer or health-system alignment, and management framing around employability and workforce throughput.
+2. `Why do these companies belong together?`
+   Because the packets show them converting learners into labor capacity for constrained fields, not just selling content or degrees.
+3. `Who benefits and who carries the burden?`
+   Employers and downstream operators benefit from more trained capacity. The education provider carries quality, reputation, regulatory, and funding risk while trying to capture the economic value of that throughput.
+4. `What would weaken the memo?`
+   If labor shortages ease, outcomes weaken, or employers build cheaper alternative routes that bypass these operators, the labor-production framing weakens.

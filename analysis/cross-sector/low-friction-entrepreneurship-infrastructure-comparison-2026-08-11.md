@@ -187,6 +187,18 @@ These companies make entrepreneurship easier to start, but not necessarily easie
 | Etsy | active buyers, active sellers, habitual buyers, app GMS, take rate, trust or tariff commentary | tests whether intent-rich small-seller demand remains healthy |
 | Airbnb | nights booked, app mix, flexible-payments adoption, services and hotel expansion, support cost per booking | tests whether host-side participation keeps widening into a broader trip workflow |
 
+## Packet Inputs Used
+
+This memo uses the same packet inputs across GoDaddy, Shopify, Etsy, and Airbnb:
+
+- annual report takeaways for user scale, transaction breadth, and recurring monetization
+- latest three-quarter chain for GMV, revenue growth, attachment, and cash generation
+- plain-English operating model for what each platform makes easier for a small operator
+- company-level strategy read for identity, payments, merchant tooling, marketplace participation, or host workflow support
+- exact supporting facts on ARR, customer counts, GMV, seller and buyer scale, nights booked, and app behavior
+- burden-versus-beneficiary interpretation for who captures the enabling fee stream versus who still carries the operating risk of the small business
+- thesis breakers and watchlists for whether the stack keeps lowering friction without destroying small-operator economics
+
 ## Adjacent Names To Test Next
 
 - `Wix.com Ltd.` to sharpen the website-creation and AI-assisted setup side against GoDaddy
@@ -203,3 +215,16 @@ The useful grouping is not sector.
 The useful grouping is: which companies make very small economic actors viable.
 
 That is a better explanation of the real role these businesses play.
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to ask:
+
+1. `What exact packet facts show these companies reduce entrepreneurship friction?`
+   GoDaddy's identity and tools layer, Shopify's merchant-solutions depth, Etsy's seller-buyer marketplace density, and Airbnb's host-and-booking workflow all show that small operators can start faster because the platform handles part of the stack.
+2. `Why is this different from normal software or travel language?`
+   Because the packet evidence is about enabling small economic actors to launch and operate, not just about selling software licenses or rooms.
+3. `Who benefits and who carries the burden?`
+   The platform captures recurring fees and transaction economics. The merchant or host still carries differentiation, local execution, and livelihood risk.
+4. `What would weaken the conclusion?`
+   If setup remains easy but monetization quality collapses, or if search, AI agents, marketplaces, or app stores recapture the relationship, the current infrastructure layer becomes less valuable.

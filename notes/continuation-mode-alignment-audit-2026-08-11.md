@@ -24,6 +24,7 @@ The point is to state which operator-facing and reviewer-facing files now explic
 
 The following live surfaces now explicitly carry the continuation-mode standard:
 
+- `README.md`
 - `START-HERE.md`
 - `notes/insight-extraction-hub-2026-08-11.md`
 - `notes/master-insight-extraction-goal-2026-08-11.md`
@@ -79,6 +80,11 @@ During the alignment pass, the repo repeatedly passed:
 This note does not replace rerunning those checks after later edits.
 
 It records that the continuation-mode wording pass was integrated without breaking the browser review layer or the broader insight-system verifier at the time of writing.
+
+The current dedicated continuation-link audit also checks the two top-level entry surfaces directly:
+
+- `README.md`
+- `START-HERE.md`
 
 ## Practical Rule For Future Threads
 

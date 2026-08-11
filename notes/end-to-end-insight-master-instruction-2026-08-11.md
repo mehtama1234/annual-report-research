@@ -41,6 +41,31 @@ Another way to state the same goal:
 
 Use company filings to build an evidence-backed explanation of how people live, spend, age, travel, seek care, furnish homes, maintain systems, outsource complexity, and pay for convenience, trust, access, reliability, and participation, while also showing the industrial, technical, financial, and physical infrastructure required to support those behaviors.
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, the archive is no longer missing its first interpretation layer.
+
+It already has:
+
+- major lane frameworks
+- cross-sector proof pages
+- comparison memos
+- next-filing watchlists
+- browser review surfaces
+
+That means the default continuation task is usually not:
+
+- write the first framework note
+- write the first proof page
+- say the first broad pattern
+
+The default continuation task is usually:
+
+- fill a missing flagship role
+- add the strongest contradiction case
+- sharpen the burden carrier versus cleaner layer split
+- improve the next-quarter break test
+
 ## What Counts As Insight
 
 The repo should deliberately extract all major kinds of insight the packets can support, including:
@@ -86,6 +111,10 @@ Cover real lanes, not isolated names.
 When the lane supports it, aim for `4-8` flagship companies that let the archive explain how the lane actually works.
 
 Do not produce dozens of shallow starts when a smaller set of deeper packets can explain the lane more honestly.
+
+If the lane already has a framework, proof page, and watchlist, do not restart from generic framing.
+
+Push the lane forward by adding the missing role, the contradiction case, the burden carrier, or the sharper next-filing test.
 
 Each flagship company must produce both:
 
@@ -170,6 +199,13 @@ Required lane outputs:
 - next watch metrics
 - next recommended names inside the lane and nearby lanes
 
+If the lane already exists in working form, the next pass should improve at least one of these:
+
+- contradiction quality
+- burden-versus-beneficiary clarity
+- missing role coverage
+- next-filing break-test quality
+
 ## Master Instruction Block
 
 ```text
@@ -192,6 +228,15 @@ Your work is not finished when the reports are downloaded or the packet is summa
 - what exact facts support the claim
 - what repeats across several companies
 - what we should watch next to see if the pattern strengthens or breaks
+
+If the lane is already partly built, the work is also not finished when you merely restate the current theme.
+
+It should make the archive harder to dispute by adding:
+
+- a missing flagship role
+- the cleanest edge case
+- the burden carrier that could weaken the current read
+- the next metric most likely to break the conclusion
 
 The work is not just filing collection. It must also identify:
 - consumer trends

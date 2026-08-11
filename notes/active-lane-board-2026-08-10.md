@@ -17,13 +17,26 @@ It is the shortest path to deciding what to work on next.
 ## How to use this board
 
 1. Pick one lane.
-2. Use the linked kickoff brief.
-3. Use the lane-run template while working.
-4. End with the batch-handoff template.
+2. Decide whether the lane is truly new or already structurally opened.
+3. If the lane is `mature-active`, start with the continuation-mode surfaces:
+   - the remaining end-to-end insight goal
+   - the remaining insight execution board
+   - the insight-driven next-lane queue
+   - the lane end-to-end execution runbook
+4. Use the linked kickoff brief as background, not as the default first instruction for a mature lane.
+5. Use the lane-run template while working.
+6. End with the batch-handoff template.
 
 Default batch size:
 
 - one coherent comparison set first, then extend toward `4` to `8` flagship companies when the lane has enough breadth and source depth
+
+For a `mature-active` lane, the default next batch should usually target:
+
+- a missing flagship role
+- the strongest contradiction or weak-link case
+- a sharper burden-versus-beneficiary split
+- a better next-filing break test
 
 Default evidence window:
 

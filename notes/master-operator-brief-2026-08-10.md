@@ -21,6 +21,26 @@ Build `annual-report-research` into a source-grounded, multi-lane research archi
 This is not a filing-download exercise.
 This is a lane-building research system.
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, the archive is no longer mainly missing its first interpretation layer.
+
+Many of the highest-value lanes already have:
+
+- frameworks
+- proof pages
+- comparison memos
+- next-filing watchlists
+
+That means the default next move is often not to open a lane from zero.
+
+It is often to:
+
+- fill a missing flagship role
+- add the strongest contradiction or weak-link case
+- sharpen the burden-versus-beneficiary split
+- improve the next-filing break test
+
 ## What counts as success
 
 A strong run should leave behind:
@@ -133,23 +153,23 @@ If the run has evidence but not those interpretations, it is not done.
 Use these files in sequence when starting a new batch:
 
 1. [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
-2. [End-to-end pursuit goal](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-pursuit-goal-2026-08-10.md)
-3. [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research/indexes/cli-lane-instructions-2026-08-10.md)
-4. [Lane run template](/home/manishmehta/ui-projects/annual-report-research/templates/lane-run-template.md)
-5. [Batch log template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-log-template.md)
-6. [Theme memo template](/home/manishmehta/ui-projects/annual-report-research/templates/theme-memo.md)
-7. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
-8. [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
-9. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
-10. [Status rubric](/home/manishmehta/ui-projects/annual-report-research/templates/status-rubric.md)
+2. [Insight extraction hub](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-hub-2026-08-11.md)
+3. [End-to-end insight operator and review brief](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md)
+4. [Remaining end-to-end insight goal](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
+5. [Remaining insight execution board](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-insight-execution-board-2026-08-11.md)
+6. [Insight-driven next lane queue](/home/manishmehta/ui-projects/annual-report-research/notes/insight-driven-next-lane-queue-2026-08-11.md)
+7. [Lane end-to-end execution runbook](/home/manishmehta/ui-projects/annual-report-research/notes/lane-end-to-end-execution-runbook-2026-08-11.md)
+8. [Insight extraction templates](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-templates-2026-08-11.md)
+9. [Insight completion rubric](/home/manishmehta/ui-projects/annual-report-research/notes/insight-completion-rubric-2026-08-11.md)
+10. [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
+11. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
+12. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
 
-The end-to-end pursuit goal defines what the archive is trying to become and what each lane should produce.
-The lane-run template is the default execution skeleton for a coherent lane batch.
-The batch-log template is the default running note while the batch is in progress.
-The theme-memo template is the default capture format for a cross-company signal worth carrying forward.
-The batch-handoff template is the default closeout format for the end of that batch.
-The post-batch integration checklist is the standard follow-through pass before the batch is considered fully integrated.
-The status rubric keeps evidence, packet, handoff, and integration labels consistent.
+The insight hub is the current navigation layer for the aligned continuation-mode surfaces.
+The operator and review brief is the shortest statement of the proof chain and done standard.
+The remaining goal, execution board, and next-lane queue tell the next thread what substantive work is still left.
+The runbook, templates, and completion rubric define how to execute and judge a strengthening pass.
+The active lane board and handoff template stay useful once the worker has chosen the concrete batch.
 
 When the evidence chain depends on offloaded raw artifacts, also use:
 

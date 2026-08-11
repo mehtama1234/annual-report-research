@@ -3,6 +3,14 @@
 Date: 2026-08-10
 Repo: `annual-report-research`
 
+## Packet Inputs Used
+
+- the blind-spot note set itself, including startup, handoff, audit, shortlist, roster, and wrap-up control files
+- the surrounding `indexes/` control layer that defines ownership rules, assignment logic, and company-priority decisions
+- the repo requirement that a reusable note index should help another worker recover the lane logic without reopening old thread history
+- the insight-system standard that control notes should still show how they connect to lane execution, comparison work, and proof-building
+- the continuation requirement that a future thread should know reading order, file purpose, and when to use each note
+
 ## Purpose
 
 This note is the one-screen index for blind-spot-lane notes.
@@ -167,3 +175,10 @@ The two current routing cores are:
 If the `indexes/` files say what this lane owns, these note files explain how to operate it from the current repo state.
 
 They should be read with the same assumption: the blind-spot lane is for system misclassification, not for rescuing weak-looking industry pages.
+
+## Skeptical Reader Test
+
+- Does this index make the blind-spot control layer easier to navigate for a new worker without requiring old chat history?
+- Can a skeptical reader tell the difference between the control files under `indexes/` and the operating-context notes listed here?
+- Does the file show a usable reading order that leads from ownership rules to action, not just a loose file inventory?
+- What would show that the index still leaves the next worker unsure which note to read first or why the blind-spot lane exists?

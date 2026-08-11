@@ -11,6 +11,14 @@ Companion files:
 - `indexes/annualreports-noncovered-master-index-2026-08-10.md`
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.md`
 
+## Packet Inputs Used
+
+- the blind-spot ownership, assignment, queue, and handoff files that together define the control framework for this lane
+- startup and status notes that show whether a future worker can operate the lane without reopening the classification logic
+- the repo standard that framework completion is distinct from research completion
+- the evidence-chain requirement that control-layer claims still need clear source files, scope boundaries, and explicit non-claims
+- the archive's continuation standard, which requires the next thread to inherit a usable operating system rather than a pile of loose notes
+
 ## Purpose
 
 This note records the evidence-based completion state of the blind-spot framework layer.
@@ -178,3 +186,10 @@ As of Monday, August 10, 2026, the blind-spot lane should be treated as:
 
 - framework-complete for practical use
 - research-incomplete by design
+
+## Skeptical Reader Test
+
+- Does this audit make clear exactly what is being claimed complete and what is not?
+- Can a skeptical reader trace the completion claim back to the named control files and operating rules?
+- Does the note separate governance readiness from actual company-packet or insight completion?
+- What missing file, contradiction, or unresolved ownership rule would weaken the claim that the blind-spot framework is ready for practical use?

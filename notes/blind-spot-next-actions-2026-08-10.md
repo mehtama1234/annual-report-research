@@ -13,6 +13,14 @@ Companion notes:
 - `indexes/annualreports-noncovered-ownership-rule-2026-08-10.md`
 - `indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md`
 
+## Packet Inputs Used
+
+- the blind-spot quickstart, handoff, and status notes that define the current lane boundaries and already-completed setup work
+- the ownership rule and priority roster that limit next actions to names that sharpen real system gaps
+- the candidate-shortlist logic that distinguishes blind-spot work from ordinary sector coverage
+- the repo standard that next actions should improve memos, comparisons, taxonomy correction, or proof pages rather than produce shallow packet count
+- the end-to-end insight requirement that chosen work should lead to stronger cross-company explanations of relationship ownership, burden carrying, and hidden infrastructure
+
 ## Purpose
 
 This note converts the blind-spot control layer into an execution shortlist.
@@ -201,3 +209,10 @@ Before taking a name, confirm all of these:
 Treat this note as the execution filter after the startup notes.
 
 If a possible task does not beat these next moves, it probably should not be the next blind-spot action.
+
+## Skeptical Reader Test
+
+- Does this file help a worker choose the next action based on analytical value rather than on what is merely easy to start?
+- Can a skeptical reader see why the ranked next moves would deepen blind-spot insight rather than just expand coverage?
+- Does the note make it hard to drift back into ordinary sector work with a blind-spot label attached?
+- What next action would look busy but fail to improve a comparison, memo, taxonomy correction, or proof page?

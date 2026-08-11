@@ -6,6 +6,14 @@ Repo: `annual-report-research-new-lanes`
 This file is the practical lane-selection board for the current archive.
 It is the shortest path to deciding what to work on next.
 
+## Packet Inputs Used
+
+- the current lane slate, kickoff briefs, lane templates, and handoff templates that define what a finished run must leave behind
+- the repo's target evidence window of `2025` annual reports plus the latest three reported quarters as of `2026-08-10`
+- the expanded requirement that a lane should yield company packets, lane economics, cross-company themes, and bigger-picture consumer, societal, industrial, technical, or capital-structure interpretation
+- batch-sizing guidance that prefers one coherent comparison set first and then extension toward `4` to `8` flagship companies when the lane supports it
+- closeout expectations that require exact next targets, checkpoint commits, and a continuation-ready handoff
+
 ## How to use this board
 
 1. Pick one lane.
@@ -162,3 +170,10 @@ Default interpretive window:
 - [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research-new-lanes/indexes/cli-lane-instructions-2026-08-10.md)
 - [Lane run template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/lane-run-template.md)
 - [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research-new-lanes/templates/batch-handoff-template.md)
+
+## Skeptical Reader Test
+
+- Does this board help a worker choose a lane because the lane can produce a real cross-company insight frontier, rather than because it merely looks uncovered?
+- Does the board keep the worker tied to the correct filing window, company-count ambition, and end-of-run handoff standard?
+- Can a skeptical reader see that lane selection here is supposed to lead to packets, lane synthesis, and bigger-pattern interpretation rather than isolated company starts?
+- What would show that a chosen lane is still too vague, too saturated, or too shallow to justify the next batch?

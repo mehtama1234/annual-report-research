@@ -16,6 +16,14 @@ Companion notes:
 - `indexes/hidden-connectivity-extension-shortlist-2026-08-10.md`
 - `indexes/physical-execution-extension-shortlist-2026-08-10.md`
 
+## Packet Inputs Used
+
+- the blind-spot ownership rule that defines when a company belongs to this lane rather than an ordinary sector run
+- the candidate shortlists for behind-the-shelf consumer infrastructure, control layers, hidden connectivity, and physical execution systems
+- the repo-wide requirement that each chosen company should strengthen a comparison, memo, taxonomy correction, or proof page rather than just add another packet
+- the lane standard that work should lead to filing-backed cross-company insights about customer ownership, burden carrying, workflow control, or system misclassification
+- current handoff and status notes that define which blind-spot areas are already claimed and which are still worth extension
+
 ## Purpose
 
 This note turns the blind-spot lane into a concrete company shortlist.
@@ -233,3 +241,10 @@ If the other threads are covering the normal browse tree, this thread should mai
 - physical execution and embedded workflow systems
 
 Those are the areas where the `AnnualReports` industry view is most likely to leave the archive analytically weak even if standard sector coverage becomes complete.
+
+## Skeptical Reader Test
+
+- Does this shortlist show why a candidate belongs in the blind-spot lane instead of the ordinary sector lane?
+- Can a skeptical reader tell what comparison, memo, or taxonomy weakness each candidate group is supposed to improve?
+- Does the file force the next worker to prefer system-explaining names over random uncovered-company accumulation?
+- What evidence would show that a candidate is merely broadening coverage count rather than sharpening a real blind spot?

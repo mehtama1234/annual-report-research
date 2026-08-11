@@ -12,6 +12,14 @@ Companion files:
 - `notes/blind-spot-candidate-shortlist-2026-08-10.md`
 - `notes/blind-spot-next-actions-2026-08-10.md`
 
+## Packet Inputs Used
+
+- the browse-tree blind-spot mandate and ownership rule that define the lane's claim logic
+- the priority-company roster and no-overlap matrix that keep this thread from colliding with ordinary sector threads
+- the candidate shortlist and next-actions note that translate abstract ownership rules into practical take-versus-leave choices
+- the repo standard that a blind-spot company should explain a hidden system, not just occupy an uncovered category slot
+- the cross-company insight goal that prefers names which sharpen control-layer, access-layer, workflow, or behind-the-shelf comparisons
+
 ## Purpose
 
 This note is the shortest practical answer to:
@@ -173,3 +181,10 @@ If the other threads are covering the browse tree, this thread should mostly own
 - physical execution and embedded workflow systems
 
 Everything else should stay conditional and system-led rather than becoming generic uncovered-sector cleanup.
+
+## Skeptical Reader Test
+
+- Does this roster make clear why a company should be taken here instead of by a normal browse-tree lane?
+- Can a skeptical reader tell that the deciding question is system control, not page thinness or missing coverage?
+- Does the file keep the blind-spot lane focused on hidden infrastructure, workflow control, and access ownership?
+- What example would show that the thread is using this roster as an excuse for generic uncovered-company collection?

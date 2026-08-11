@@ -12,6 +12,14 @@ Companion files:
 - `indexes/annualreports-noncovered-master-index-2026-08-10.md`
 - `indexes/annualreports-noncovered-assignment-queue-2026-08-10.md`
 
+## Packet Inputs Used
+
+- the blind-spot handoff, status, next-action, and roster notes that define whether the lane is operationally tidy enough to hand forward
+- the master index and assignment queue that anchor ownership boundaries and next-target logic
+- the distinction between framework wrap-up and research wrap-up that this checklist is designed to preserve
+- the repo continuation standard that another thread should inherit a usable operating system, not an ambiguous half-finished lane
+- the insight-system expectation that control-layer completion should still tie back to practical next research action
+
 ## Purpose
 
 This note separates two different completion questions:
@@ -186,3 +194,10 @@ Use this note to avoid conflating:
 The first is a near-term cleanup task.
 
 The second is a selective research-completion task.
+
+## Skeptical Reader Test
+
+- Does this checklist make the two completion tracks explicit enough that a future worker will not blur them together?
+- Can a skeptical reader tell what would count as operational wrap-up versus substantive research wrap-up?
+- Does the file help another thread close framework work without mistaking that for full lane completion?
+- What missing condition would make the wrap-up decision too vague to trust?

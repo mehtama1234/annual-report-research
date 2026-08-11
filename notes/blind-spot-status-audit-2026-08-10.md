@@ -10,6 +10,14 @@ Companion notes:
 - `notes/blind-spot-handoff-2026-08-10.md`
 - `notes/blind-spot-wrap-up-checklist-2026-08-10.md`
 
+## Packet Inputs Used
+
+- the blind-spot control-layer files that define governance, ownership, assignment, and reuse logic
+- the startup, handoff, and wrap-up notes that show whether the lane can be operated by another thread without reopening old decisions
+- the distinction between framework completion and research completion that this audit is trying to protect
+- the current comparison-core and priority-roster materials that reveal whether the next step should be governance cleanup or actual research expansion
+- the insight-system requirement that status claims should state clear scope, evidence basis, and explicit non-claims
+
 ## Purpose
 
 This note separates two different questions that can otherwise get blurred:
@@ -219,3 +227,10 @@ Then decide whether the next action is:
 The blind-spot lane is now operationally coherent and effectively framework-complete for practical use, but it is not substantively complete as a research program.
 
 That is the correct reading of the current repo state.
+
+## Skeptical Reader Test
+
+- Does this audit state the lane's practical status without overstating research completion?
+- Can a skeptical reader trace the governance-complete claim back to the named control and reuse files?
+- Does the note show what kind of work should now be rare versus what kind should now be normal?
+- What unresolved contradiction would force the reader to reject the claim that the lane is operationally coherent?

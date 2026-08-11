@@ -11,6 +11,14 @@ Companion notes:
 - `notes/blind-spot-next-actions-2026-08-10.md`
 - `notes/blind-spot-candidate-shortlist-2026-08-10.md`
 
+## Packet Inputs Used
+
+- the blind-spot browse-tree mandate, master index, ownership map, and ownership rule that define what this lane is supposed to own
+- the current handoff, status, and next-action notes that tell a new worker what has already been stabilized and what still needs execution
+- the top-level comparison cores that route new work into either consumer-behavior or infrastructure-blind-spot synthesis instead of isolated company collection
+- shortlist and roster files that push the next worker toward subtype extension, comparison sharpening, and memo reuse
+- the repo standard that every new company should eventually feed stronger cross-company insight rather than just broaden coverage
+
 ## Start here
 
 If you are the next thread working the blind-spot lane, do this in order:
@@ -109,3 +117,10 @@ Avoid:
 - using thin browse-tree page quality as a claim reason
 - ordinary software or media names with no stronger ecosystem, attention-system, participation, or interface-control logic
 - ordinary industrial names unless the stronger explanation is hidden infrastructure, access-layer ownership, or embedded workflow control
+
+## Skeptical Reader Test
+
+- Does this quickstart give a new worker a real startup path, not just a file list?
+- Can a skeptical reader tell how these opening reads prevent the blind-spot lane from drifting into ordinary sector cleanup?
+- Does the note route new work into comparison cores and reuse paths before a fresh company packet is started?
+- What missing step would make the next worker likely to misclassify a company or reopen settled lane-boundary questions?

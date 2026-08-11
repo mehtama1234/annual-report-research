@@ -4,6 +4,15 @@ set -euo pipefail
 repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$repo_root"
 
+report_path=""
+if [[ "${1:-}" == "--write-report" ]]; then
+  report_path="${2:-}"
+  if [[ -z "$report_path" ]]; then
+    printf 'usage: %s [--write-report path]\n' "${BASH_SOURCE[0]}" >&2
+    exit 1
+  fi
+fi
+
 reusable_manifest="indexes/reusable-note-layer-files-2026-08-11.txt"
 historical_manifest="indexes/historical-note-exclusion-files-2026-08-11.txt"
 historical_category_manifest="indexes/historical-note-exclusion-categories-2026-08-11.tsv"
@@ -78,6 +87,58 @@ fi
 if [[ "${#historical_with_both_sections[@]}" -ne 0 ]]; then
   printf 'historical_notes_with_both_sections\n%s\n' "$(printf '%s\n' "${historical_with_both_sections[@]}")" >&2
   exit 1
+fi
+
+if [[ -n "$report_path" ]]; then
+  cat >"$report_path" <<EOF
+# Note Layer Boundary Audit
+
+Date: 2026-08-11
+Repo: \`annual-report-research\`
+
+## Packet Inputs Used
+
+- \`indexes/reusable-note-layer-files-2026-08-11.txt\`
+- \`indexes/historical-note-exclusion-files-2026-08-11.txt\`
+- \`indexes/historical-note-exclusion-categories-2026-08-11.tsv\`
+- the current top-level \`notes/*.md\` inventory
+- the current reusable-note and historical-note boundary rules enforced by \`scripts/audit-note-layer-boundary.sh\`
+
+## Current Counts
+
+| Metric | Value |
+|---|---:|
+| Top-level note files | ${#notes_files[@]} |
+| Reusable note files | ${#reusable[@]} |
+| Historical note files | ${#historical[@]} |
+| Manifest union total | ${#union[@]} |
+| Historical handoff files | $(printf '%s\n' "${historical_categories[@]}" | rg -c $'\thandoff$') |
+| Historical log files | $(printf '%s\n' "${historical_categories[@]}" | rg -c $'\tlog$') |
+| Historical raw/blob/rclone files | $(printf '%s\n' "${historical_categories[@]}" | rg -c $'\traw_blob_rclone$') |
+| Historical other files | $(printf '%s\n' "${historical_categories[@]}" | rg -c $'\tother$') |
+| Historical files with both standardized sections | ${#historical_with_both_sections[@]} |
+
+## Boundary Status
+
+- reusable and historical manifests together cover every current top-level note file
+- the historical category manifest matches the historical exclusion file list
+- no historically excluded note currently contains both standardized sections
+- the boundary audit completed with \`boundary_ok\`
+
+## Key Inputs
+
+- [Reusable note manifest](../indexes/reusable-note-layer-files-2026-08-11.txt)
+- [Historical note manifest](../indexes/historical-note-exclusion-files-2026-08-11.txt)
+- [Historical note categories](../indexes/historical-note-exclusion-categories-2026-08-11.tsv)
+- [Cutoff note](insight-note-standardization-cutoff-2026-08-11.md)
+
+## Skeptical Reader Test
+
+- Does this report state the exact current note counts on both sides of the boundary?
+- Can a skeptical reader tell whether the manifests fully cover the current top-level note inventory?
+- Does the report make historical-note subcategories explicit without relying on filename heuristics alone?
+- What future note-layer change would require regenerating this report or moving files between manifests?
+EOF
 fi
 
 printf 'boundary_ok\n'

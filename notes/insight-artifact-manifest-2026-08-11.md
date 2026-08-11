@@ -46,6 +46,7 @@ Machine-readable file list:
 - [indexes/reusable-note-layer-files-2026-08-11.txt](../indexes/reusable-note-layer-files-2026-08-11.txt)
 - [indexes/historical-note-exclusion-files-2026-08-11.txt](../indexes/historical-note-exclusion-files-2026-08-11.txt)
 - [indexes/historical-note-exclusion-categories-2026-08-11.tsv](../indexes/historical-note-exclusion-categories-2026-08-11.tsv)
+- [note-layer-boundary-audit-2026-08-11.md](note-layer-boundary-audit-2026-08-11.md)
 
 That reusable layer includes:
 
@@ -183,6 +184,7 @@ Run these from the repo root:
 ```bash
 bash scripts/verify-insight-system.sh
 bash scripts/audit-note-layer-boundary.sh
+bash scripts/audit-note-layer-boundary.sh --write-report notes/note-layer-boundary-audit-2026-08-11.md
 ```
 
 The verifier checks required files, required phrases, browser-entry links, and the deeper insight-stack sections that future packets, lane summaries, and proof memos are expected to contain. If the local server is not running, the file and link-source checks still prove the repo-side structure.
@@ -218,6 +220,7 @@ test -s notes/insight-completion-rubric-2026-08-11.md
 test -s notes/insight-artifact-manifest-2026-08-11.md
 test -s notes/insight-note-standardization-cutoff-2026-08-11.md
 test -s notes/insight-driven-next-lane-queue-2026-08-11.md
+test -s notes/note-layer-boundary-audit-2026-08-11.md
 test -s indexes/reusable-note-layer-files-2026-08-11.txt
 test -s indexes/historical-note-exclusion-files-2026-08-11.txt
 test -s indexes/historical-note-exclusion-categories-2026-08-11.tsv

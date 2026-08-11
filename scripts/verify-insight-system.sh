@@ -12,6 +12,7 @@ required_files=(
   "$historical_note_manifest"
   "indexes/historical-note-exclusion-categories-2026-08-11.tsv"
   "scripts/audit-note-layer-boundary.sh"
+  "notes/note-layer-boundary-audit-2026-08-11.md"
   "notes/insight-extraction-hub-2026-08-11.md"
   "notes/master-insight-extraction-goal-2026-08-11.md"
   "notes/end-to-end-insight-master-instruction-2026-08-11.md"

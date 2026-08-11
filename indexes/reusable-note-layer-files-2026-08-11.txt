@@ -38,6 +38,7 @@ notes/master-insight-extraction-goal-2026-08-11.md
 notes/master-operator-brief-2026-08-10.md
 notes/meaty-end-to-end-insight-goal-2026-08-11.md
 notes/next-steps.md
+notes/note-layer-boundary-audit-2026-08-11.md
 notes/post-merge-energy-buildout-2026-08-10.md
 notes/raw-blob-offload-readme-2026-08-10.md
 notes/recreation-participation-kickoff-2026-08-10.md

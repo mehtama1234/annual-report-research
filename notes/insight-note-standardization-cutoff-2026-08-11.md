@@ -44,6 +44,11 @@ The cutoff is now backed by two machine-readable manifests whose union should co
 Direct audit script:
 
 - `bash scripts/audit-note-layer-boundary.sh`
+- `bash scripts/audit-note-layer-boundary.sh --write-report notes/note-layer-boundary-audit-2026-08-11.md`
+
+Current report artifact:
+
+- [note-layer-boundary-audit-2026-08-11.md](note-layer-boundary-audit-2026-08-11.md)
 
 Current remaining count at the cutoff:
 

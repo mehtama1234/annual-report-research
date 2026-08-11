@@ -5,6 +5,14 @@ Date baseline: 2026-08-10
 Use this checklist after a coherent lane batch is complete.
 This is the standard integration pass that follows the lane-run template and batch-handoff template.
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, many of the archive's highest-value lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means integration should not assume every batch opened a lane from zero.
+
+It should also check whether a continuation batch actually strengthened an already-open lane.
+
 ## Preconditions
 
 Before starting integration, confirm:
@@ -70,6 +78,12 @@ Confirm that the synthesis includes:
 - the exact annual or quarterly period carrying each major claim
 - why those facts support the conclusion instead of merely appearing near it
 - what next-filing evidence would weaken or disprove the conclusion
+
+If the batch was a strengthening pass inside an already-open lane, also confirm:
+
+- which missing flagship role, contradiction case, burden split, or break test it improved
+- whether the live lane read is now sharper rather than merely longer
+- whether the updated queue or board should change because the next best gap is now different
 
 If the batch introduced new offloaded evidence assumptions, also confirm:
 

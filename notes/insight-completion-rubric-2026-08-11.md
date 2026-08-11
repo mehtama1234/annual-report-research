@@ -373,6 +373,48 @@ Every strong lane summary or proof memo should let a skeptical reader answer all
 
 If the artifact fails any one of these, score it down even if it sounds polished.
 
+## Packet-Field Fit Test
+
+Before giving a strong score to a lane summary or proof memo, check whether the claim is using the right packet inputs.
+
+- annual takeaways + quarter chain
+  - should prove: what changed, whether it is persistent, and whether the direction is strengthening or weakening
+- plain-English operating model
+  - should prove: what role the company really plays in the system
+- strategy read
+  - should prove: how management is responding to the pressure or opportunity
+- growth engine + economic lever
+  - should prove: what is really carrying the story and what actually moves the economics
+- operating constraint
+  - should prove: where the strain actually sits
+- exact supporting facts
+  - should prove: the claim directly rather than by implication
+- burden-versus-beneficiary interpretation
+  - should prove: who captures cleaner economics and who absorbs the messy work
+- thesis breaker + watchlist
+  - should prove: the work is falsifiable and extendable
+
+If the claim depends on one of those ideas but the artifact does not show the matching packet field, score it down.
+
+## Claim-Type Proof Check
+
+Before calling a broader insight strong, check whether it met the right proof burden.
+
+- consumer claim
+  - must show: what behavior changed and which exact facts prove it
+- cultural or societal claim
+  - must show: which real-life pressure is creating demand and why that pressure appears broader than one company
+- industrial or operating claim
+  - must show: where the strain sits and what happens economically when the pressure changes
+- technical or infrastructure claim
+  - must show: where software is the control layer and where physical bottlenecks still decide outcomes
+- capital or balance-sheet claim
+  - must show: who must carry property, inventory, debt, or financing burden to keep the system working
+- cross-company pattern claim
+  - must show: exact support from at least three companies and what evidence would weaken the broader pattern
+
+If a memo names one of those claim types without meeting the matching proof burden, it is still partial.
+
 ## Fast Failure Tests
 
 If any of these are true, the artifact is not done:
@@ -382,7 +424,9 @@ If any of these are true, the artifact is not done:
 - it makes a broad claim without exact filing support
 - it has numbers but does not explain why they matter
 - it never says which packet inputs supplied the lane or memo conclusion
+- it uses the wrong packet fields for the claim and never shows what those fields are actually proving
 - it names a consumer, cultural, societal, industrial, technical, or capital pattern without saying how the filing evidence supports it
+- it names a consumer, cultural, societal, industrial, technical, capital, or cross-company pattern without meeting that claim type's proof burden
 - it says a trend exists without naming who benefits and who carries burden
 - it says a theme is interesting without naming what would disprove it
 - it sounds polished but another thread could not continue from it
@@ -393,10 +437,11 @@ Ask these before calling the work complete:
 
 1. Can a skeptical reader trace each major conclusion back to exact facts?
 2. Does it say which packet inputs produced the lane or memo conclusion?
-3. Does the writeup explain mechanism instead of repeating management language?
-4. Does it identify the burden stack, not just the revenue opportunity?
-5. Does it say what would break the claim?
-6. Does it tell the next thread what to watch and where to go next?
+3. Does it use the right packet fields for the kind of claim it is making?
+4. Does the writeup explain mechanism instead of repeating management language?
+5. Does it identify the burden stack, not just the revenue opportunity?
+6. Does it say what would break the claim?
+7. Does it tell the next thread what to watch and where to go next?
 
 If the answer to any one of those is no, keep working.
 

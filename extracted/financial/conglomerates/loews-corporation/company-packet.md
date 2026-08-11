@@ -51,13 +51,18 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- AnnualReports taxonomy: https://www.annualreports.com/Company/loews-corp
-- Official investor overview: https://loews.com/investors/overview/default.aspx
-- Official annual reports page: https://loews.com/investors/financials/annual-reports/default.aspx
-- Official quarterly results page: https://loews.com/investors/financials/quarterly-results/default.aspx
-- `2025` `10-K`: https://www.sec.gov/Archives/edgar/data/60086/000006008626000008/l-20251231.htm
-- `4Q25` official quarter chain: https://loews.com/investors/financials/quarterly-results/default.aspx
-- `1Q26` earnings release: https://www.sec.gov/Archives/edgar/data/60086/000006008626000029/exhibit991-q12026.htm
-- `1Q26` `10-Q`: https://www.sec.gov/Archives/edgar/data/60086/000006008626000032/l-20260331.htm
-- `2Q26` official quarter chain: https://www.loews.com/
-- `2Q26` `10-Q`: https://www.sec.gov/Archives/edgar/data/60086/000006008626000047/l-20260630.htm
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/conglomerates/conglomerates/loews-corporation/annualreports-verification.md)
+- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/conglomerates/conglomerates/loews-corporation/ir-source-links.md)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/conglomerates/conglomerates/loews-corporation/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/conglomerates/conglomerates/loews-corporation/2025-q4-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/conglomerates/conglomerates/loews-corporation/2026-q1-10q.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/conglomerates/conglomerates/loews-corporation/2026-q1-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/conglomerates/conglomerates/loews-corporation/2026-q2-10q.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/conglomerates/conglomerates/loews-corporation/2026-q2-8k.html)
+
+## Working interpretation
+
+- Loews is the smaller-scale patient-capital contrast case in CLI 6. It lacks Berkshire's scale and Markel's underwriting identity, but it still proves that diversified holding-company architecture can be a meaningful source of resilience.
+- The quarter chain repeatedly points to the same pattern: Loews is not smooth, but it does not need one subsidiary to be perfect because capital and cash flow are spread across unlike businesses.
+- In the context of CLI 6, Loews helps show that conglomerate logic exists on a spectrum, from Berkshire's superstructure to smaller but still disciplined allocation systems.
+

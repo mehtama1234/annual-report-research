@@ -112,6 +112,8 @@ required_patterns=(
   "notes/insight-artifact-manifest-2026-08-11.md:Required Insight System Layers"
   "notes/insight-artifact-manifest-2026-08-11.md:Proof Memo Inventory"
   "notes/insight-driven-next-lane-queue-2026-08-11.md:Best Immediate Next Move"
+  "site/index.html:Operator-ready master instruction"
+  "site/concrete-insights.html:Operator-ready master instruction"
   "analysis/cross-sector/ai-capacity-burden-carrier-comparison-2026-08-11.md:Clean Capture Versus Burden Carrier Map"
   "analysis/cross-sector/ai-capacity-burden-carrier-comparison-2026-08-11.md:Backlog Conversion Analysis"
   "analysis/cross-sector/ai-capacity-burden-carrier-comparison-2026-08-11.md:Power And Skilled-Labor Bottleneck"

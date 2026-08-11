@@ -152,7 +152,7 @@ test -s site/concrete-insights.html
 Check browser links:
 
 ```bash
-curl -fsS http://localhost:8080/site/index.html | rg 'Insight extraction hub|Master insight extraction goal|Insight extraction templates'
+curl -fsS http://localhost:8080/site/index.html | rg 'Insight extraction hub|Master insight extraction goal|Operator-ready master instruction|Insight extraction templates'
 curl -fsS http://localhost:8080/site/concrete-insights.html | rg 'Insight extraction hub|Master insight extraction goal|Operator-ready master instruction|Insight extraction templates'
 curl -fsS http://localhost:8080/notes/insight-extraction-hub-2026-08-11.md | rg 'Workflow For A New Company|Workflow For A New Lane|Workflow For A New Theme'
 ```

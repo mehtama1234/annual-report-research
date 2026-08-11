@@ -65,6 +65,8 @@ expected = {
     Path("notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md"): full_audit_stack,
     Path("notes/remaining-end-to-end-insight-goal-2026-08-11.md"): full_audit_stack,
     Path("notes/remaining-insight-execution-board-2026-08-11.md"): full_audit_stack,
+    Path("notes/master-insight-extraction-goal-2026-08-11.md"): full_audit_stack,
+    Path("notes/end-to-end-insight-master-instruction-2026-08-11.md"): full_audit_stack,
     Path("notes/next-steps.md"): full_audit_stack,
     Path("notes/master-operator-brief-2026-08-10.md"): full_audit_stack,
 }

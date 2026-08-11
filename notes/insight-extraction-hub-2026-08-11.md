@@ -67,6 +67,50 @@ Before treating any lane summary or proof memo as done, run the skeptical-reader
 
 If the page cannot answer those four without guessing, keep working.
 
+## Packet-To-Insight Translation Layer
+
+When writing a lane summary, proof memo, aha page, or cross-company comparison, name the packet fields that are doing the analytical work.
+
+- annual report takeaways + latest three-quarter chain
+  - use for: what changed, whether it looks persistent, and whether the direction is strengthening or weakening
+- plain-English operating model
+  - use for: what the company is really selling, what role it plays in the system, and why customers return
+- company-level strategy read
+  - use for: how management is responding to pressure, what it is trying to protect, and where it sees the opening
+- growth engine
+  - use for: what is really carrying the story, such as volume, pricing, mix, utilization, membership, backlog conversion, or installed-base pull-through
+- main economic lever
+  - use for: what actually moves margin quality, cash flow, or returns
+- main operating constraint
+  - use for: where the system is strained by labor, reimbursement, compliance, capacity, inventory, logistics, property, debt, power, cooling, uptime, or customer-acquisition friction
+- exact supporting facts
+  - use for: the proof layer; broad claims should point back here directly
+- burden-versus-beneficiary interpretation
+  - use for: who gets paid for the system and who absorbs the messy work, fixed-cost burden, or regulatory load
+- thesis breaker
+  - use for: what would disprove the read rather than merely complicate it
+- next filing watchlist
+  - use for: what should be watched next to confirm, sharpen, or break the claim
+
+If a writeup cannot say which of those packet sections supplied the conclusion, it is skipping steps.
+
+## Proof Obligation By Insight Type
+
+Different kinds of insight need different proof standards.
+
+- consumer insight
+  - show: what behavior changed, whether it is trade-up, trade-down, occasion-driven, convenience-driven, repeat-use, identity-driven, or deferred, and which facts prove it
+- cultural or societal insight
+  - show: which real-life pressure is creating demand, whether it is becoming more normalized, and which companies are reacting to the same pressure from different positions
+- industrial or operating pressure insight
+  - show: where the strain sits and what happens economically when labor, utilization, reimbursement, routing, maintenance, property, financing, or uptime pressure changes
+- technical or infrastructure insight
+  - show: where software is acting as a control layer, where physical infrastructure is the real bottleneck, and where reliability, observability, security, or installed-base support has become a paid requirement
+- capital or balance-sheet insight
+  - show: who needs capital, property, inventory, or debt capacity to keep the system running, who earns cleaner economics without carrying the same burden, and what would happen if the key support variable moved the wrong way
+- cross-company pattern insight
+  - show: exact supporting facts from at least three companies, why the pattern repeats, what adjacent names should be tested next, and what evidence would weaken the broader pattern rather than only one example
+
 ## Raw Evidence Maintenance
 
 Some packet evidence chains now depend on offloaded `raw/**` artifacts rather than local files in remote `main`.

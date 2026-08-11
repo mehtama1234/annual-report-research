@@ -30,6 +30,15 @@ Different claim types also need different proof burdens:
 - capital or balance-sheet claim
   - show: who must carry property, inventory, debt, or financing burden to keep the system working
 
+For every non-trivial claim, write down:
+
+- the exact metric, operating fact, or management statement
+- the exact annual or quarterly period it comes from
+- what changed in that fact
+- why that fact supports the claim rather than merely sitting near it
+- what competing explanation still needs to be ruled out
+- what next-filing evidence would weaken or disprove the claim
+
 ## Snapshot
 
 - Company:
@@ -45,30 +54,40 @@ Different claim types also need different proof burdens:
 
 ## Annual report takeaways
 
-- 
+- Exact annual fact:
+- Exact annual fact:
+- Exact annual fact:
+- What changed:
+- Why those annual facts matter:
 
 ## Quarter-by-quarter takeaways
 
 ### Most recent quarter
 
 - Results:
+- Exact metric movement:
 - Guidance:
 - Management message:
 - Structural themes:
+- Why this quarter matters:
 
 ### Quarter minus 1
 
 - Results:
+- Exact metric movement:
 - Guidance:
 - Management message:
 - Structural themes:
+- Why this quarter matters:
 
 ### Quarter minus 2
 
 - Results:
+- Exact metric movement:
 - Guidance:
 - Management message:
 - Structural themes:
+- Why this quarter matters:
 
 Note: for many companies this third slot will be a late-2025 quarter needed to complete the trailing three-quarter set as of 2026-08-10.
 
@@ -89,6 +108,16 @@ Note: for many companies this third slot will be a late-2025 quarter needed to c
 - Repeated cross-company pattern this company helps prove:
 - What broader lived-system shift this implies:
 
+## Claim-to-proof map
+
+- Main claim type:
+- Plain-English claim:
+- Exact metrics or operating facts:
+- Exact periods:
+- Causal chain from fact to conclusion:
+- Why nearby alternative explanations are weaker:
+- What next-filing evidence would disconfirm the claim:
+
 ## Required interpretation
 
 - What repeated behavior change does this company help prove:
@@ -98,6 +127,15 @@ Note: for many companies this third slot will be a late-2025 quarter needed to c
 - Where monetization is strongest:
 - Where economics leak away:
 - Why this company belongs in the lane comparison:
+
+## Exact packet evidence to reuse later
+
+- Best annual evidence line:
+- Best latest-quarter evidence line:
+- Best quarter-minus-1 evidence line:
+- Best quarter-minus-2 evidence line:
+- Best burden-versus-beneficiary evidence line:
+- Best disconfirming metric:
 
 ## Source pointers
 

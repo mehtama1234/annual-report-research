@@ -40,6 +40,15 @@ Different claim types also need different proof burdens:
 - cross-company pattern claim
   - show: exact support from at least three companies and what evidence would weaken the broader pattern
 
+For every serious theme claim, spell out:
+
+- the exact company facts carrying the claim
+- the exact filing periods those facts come from
+- what changed in those facts
+- the causal chain connecting those facts to the broader pattern
+- the best counter-signal or alternative explanation
+- the next metric or event that would weaken the theme
+
 ## Theme identity
 
 - Name:
@@ -54,6 +63,16 @@ Different claim types also need different proof burdens:
 - 
 - state the bigger-picture pattern in plain language, not just filing language
 
+## Claim-proof worksheet
+
+- Claim type:
+- Plain-English claim:
+- Exact facts carrying the claim:
+- Exact periods:
+- Causal chain:
+- Best alternative explanation still in play:
+- Best disconfirming test for the next filing window:
+
 ## Why this theme matters
 
 - what changed in the real world:
@@ -64,9 +83,9 @@ Different claim types also need different proof burdens:
 
 ## Evidence across companies
 
-| Company | Sector | Industry | Evidence | Quarter / Year |
-|---|---|---|---|---|
-|  |  |  |  |  |
+| Company | Sector | Industry | Exact metric or operating fact | Period | Why it supports the claim |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 
 ## Packet fields used
 
@@ -116,6 +135,15 @@ Different claim types also need different proof burdens:
 ## Where the signal breaks or weakens
 
 - 
+
+## Disconfirming evidence to watch
+
+- Company:
+  - metric or fact:
+  - what weakening would look like:
+- Company:
+  - metric or fact:
+  - what weakening would look like:
 
 ## Counter-signals
 

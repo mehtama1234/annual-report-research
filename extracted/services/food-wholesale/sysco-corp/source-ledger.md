@@ -40,6 +40,9 @@ Use evidence tags:
 
 - AnnualReports is used here for taxonomy and company identity only. As of `2026-08-10`, it still lagged at `2024`.
 - Sysco is a June year-end reporter, so the correct latest-three-quarter chain as of `2026-08-10` is `Q4 FY26`, `Q3 FY26`, and `Q2 FY26`, anchored to the `2025` annual report.
+- The authority ordering is explicit:
+  - AnnualReports for taxonomy and archive-lag confirmation
+  - company IR and SEC for the authoritative annual and quarter chain
 - The local evidence chain is stronger than many other thin-lane names because it includes official IR quarter PDFs, IR results-page snapshots, and the SEC annual and quarter filing chain.
 - The `Q4 FY26` release PDF is saved locally, but a matching local `8-K` wrapper was not present in the current raw tree when this ledger was written.
 

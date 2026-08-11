@@ -82,6 +82,8 @@ What is clearly proven:
 
 - the intended fiscal window is correct: `Q4 FY26`, `Q3 FY26`, `Q2 FY26`
 - AnnualReports lag was recorded explicitly
+- the packet itself now states `qualified` proof status explicitly
+- the packet now states that AnnualReports is taxonomy context only and that company IR plus SEC are the authoritative chain
 - the packet correctly frames Sysco as the enabling infrastructure layer under hospitality and participation demand
 
 What remains weaker:
@@ -97,6 +99,7 @@ What remains weaker:
 Conclusion:
 
 - Sysco is now documentation-clean but still only qualified
+- the packet-level proof-language is now stronger and more self-contained than before
 - it still needs the missing current-quarter filed artifacts if the repo wants to upgrade it from qualified to proven
 
 ### 4. `MetLife` is authoritative enough, but only through a fallback route.

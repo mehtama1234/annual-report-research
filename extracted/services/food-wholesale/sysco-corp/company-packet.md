@@ -14,6 +14,13 @@ Date baseline: 2026-08-10
   - quarter 1: `Q4 FY26`
   - quarter 2: `Q3 FY26`
   - quarter 3: `Q2 FY26`
+- Proof status in current repo: `qualified`
+
+## Source state
+
+- AnnualReports is used here for taxonomy and archive-confirmation context only; as of `2026-08-10`, it still lagged at `2024`.
+- Company IR and SEC are the authoritative annual-plus-quarter chain for this packet.
+- The packet is analytically strong and locally inspectable through the annual filing plus the `Q2 FY26` and `Q3 FY26` filed chains, but it is still not a proof-standard case because the matching local `Q4 FY26` filed wrapper and year-end filed report were not present in the reviewed raw tree.
 
 ## Annual report takeaways
 
@@ -77,3 +84,16 @@ Date baseline: 2026-08-10
 - Sysco is the batch's operating-pressure anchor. It shows that the lifestyle and experience economy still depends on low-margin, execution-heavy physical infrastructure.
 - The quarter chain repeatedly points to the same pattern: participation demand can remain sturdy, but earnings depend on sourcing, product-cost inflation management, local-customer growth, and route density.
 - In the context of the user's goal, Sysco is what prevents this lane from becoming a shallow story about taste and occasions. It brings labor, logistics, inflation, and operating leverage directly into the recreation / participation comparison.
+
+## Evidence-status note
+
+- The filing window used here is explicit and internally consistent with the company profile and source ledger.
+- The authority ordering is explicit:
+  - AnnualReports for taxonomy and archive lag confirmation
+  - company IR and SEC for the authoritative annual and quarter chain
+- The main current weakness is narrow and specific:
+  - `Q4 FY26` is locally proven at earnings-release level
+  - the matching local `8-K` wrapper and year-end filed report were not present in the reviewed raw tree
+- The right reading standard today is:
+  - strong enough for thematic interpretation and lane comparison
+  - still `qualified`, not fully `proven`, for thin-lane filing-window closeout work

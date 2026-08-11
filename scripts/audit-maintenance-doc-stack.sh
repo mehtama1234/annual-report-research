@@ -12,11 +12,13 @@ repo = Path.cwd()
 
 full_audit_stack = [
     "bash scripts/refresh-note-layer-boundary.sh",
+    "bash scripts/audit-audit-stack-terminology.sh",
     "bash scripts/audit-continuation-mode-links.sh",
     "bash scripts/audit-browser-review-links.sh",
     "bash scripts/verify-insight-system.sh",
 ]
 linked_audit_stack = [
+    "bash scripts/audit-audit-stack-terminology.sh",
     "bash scripts/audit-continuation-mode-links.sh",
     "bash scripts/audit-browser-review-links.sh",
     "bash scripts/refresh-note-layer-boundary.sh",
@@ -31,6 +33,7 @@ expected = {
         "bash scripts/verify-insight-system.sh",
     ],
     Path("notes/continuation-mode-alignment-audit-2026-08-11.md"): [
+        "bash scripts/audit-audit-stack-terminology.sh",
         "bash scripts/audit-continuation-mode-links.sh",
         "bash scripts/audit-browser-review-links.sh",
         "bash scripts/verify-insight-system.sh",

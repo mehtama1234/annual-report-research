@@ -16,6 +16,19 @@ The filings do not support a simple story where AI lives only inside software pr
 
 The conclusion is not based on one company saying "AI." It comes from the same demand wave appearing in different operating roles at the same time.
 
+## Packet Inputs Used
+
+This proof relies on the packet sections that show the buildout directly:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a synthesis of those packet inputs, not as a standalone thematic claim.
+
 ## How We Got There
 
 The archive shows the AI buildout as a chain:
@@ -90,6 +103,17 @@ The strongest conclusion is this:
 
 AI is becoming an industrial buildout. The winners are not only the companies with the best models. They are also the companies with the power, cooling, chips, networking, land, permits, generation, contracts, and skilled labor needed to make the models usable at scale.
 
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the AI-capacity chain?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, chain, and weakening conditions above.
+
 ## What Would Weaken This Conclusion
 
 - If cloud platforms reduce capex sharply while AI revenue keeps growing, the physical-capacity linkage would be weaker than the current packets suggest.
@@ -107,4 +131,3 @@ AI is becoming an industrial buildout. The winners are not only the companies wi
 - Are utilities underpricing the long-term cost and risk of serving large AI loads?
 - Are power and cooling companies becoming the hidden industrial winners of AI?
 - How much of the AI story is really a race for reliable energy?
-

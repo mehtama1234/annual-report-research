@@ -10,6 +10,19 @@ Applied comparison memo:
 
 - [healthcare-burden-vs-workflow-comparison-2026-08-11.md](healthcare-burden-vs-workflow-comparison-2026-08-11.md)
 
+## Packet Inputs Used
+
+This proof is built from the packet sections that make repeated-care migration visible:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+The memo should be read as a cross-company synthesis of those packet inputs rather than as a high-level healthcare slogan.
+
 ## Exact Evidence
 
 | Company | Exact packet facts | What it proves |
@@ -34,6 +47,17 @@ Applied comparison memo:
 The hospital is no longer the only useful healthcare lens. The archive shows a wider system: DaVita for recurring treatment, Option Care for alternate-site therapy, Addus for home support, AdaptHealth for equipment and resupply, Quest for diagnostics, Cencora for drug flow, and Brookdale/Ventas for senior care settings.
 
 The important question is not only "who treats the patient?" It is "who repeats the care, supplies the care, documents the care, gets reimbursed for the care, and keeps the patient out of a more expensive setting?"
+
+## Skeptical Reader Test
+
+A skeptical reader should be able to answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean in the repeated-care system?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+This page is only strong if those four answers are visible from the evidence table, causal chain, and weakening conditions below.
 
 ## What Would Weaken This
 

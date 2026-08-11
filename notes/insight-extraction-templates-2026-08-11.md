@@ -25,6 +25,28 @@ Use the templates with this rule:
 - burden-versus-beneficiary interpretation should prove who gets paid cleanly and who absorbs the messy work
 - thesis breaker and watchlist should prove the work is falsifiable rather than rhetorical
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, many of the archive's highest-value lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means these templates should not be read only as blank-slate creation forms.
+
+They should be used in two ways:
+
+1. `New-lane use`
+   Build the first coherent packet, lane summary, and proof stack when the archive truly lacks the lane.
+2. `Strengthening use`
+   Improve an existing lane by filling a missing role, adding a contradiction case, sharpening the burden split, or improving the next-filing break test.
+
+In strengthening use, do not rewrite from zero unless the existing artifact is genuinely unusable.
+
+Instead, use the templates to ask:
+
+- which packet fields are still weak or missing
+- which contradiction or weak-link company should be added
+- which burden-versus-beneficiary claim needs clearer proof
+- which next-filing metric would actually weaken the current read
+
 ## Company Packet Template
 
 ```markdown

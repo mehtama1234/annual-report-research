@@ -1,7 +1,8 @@
 # Media, Influence, Consumer Interface, And Edge Infrastructure Handoff
 
 Date: 2026-08-10
-Repo: `annual-report-research-footwear-dept-audit`
+Source repo: `annual-report-research-footwear-dept-audit`
+Current integrated repo: `annual-report-research`
 Branch: `parallel/footwear-dept-audit`
 
 ## Purpose

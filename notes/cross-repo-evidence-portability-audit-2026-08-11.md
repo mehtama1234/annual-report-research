@@ -81,9 +81,9 @@ In plain language:
 
 The external-root counts were backed by direct examples in the current repo:
 
-- distribution and middle-layer index rows still point into `annual-report-research-cli8-middle-layer`
+- some packet source pointers and ledgers still point into `annual-report-research-cli8-middle-layer` or `annual-report-research-cli8-middle-layer-imported-2026-08-10`
 - many packet source pointers and ledgers still point into `annual-report-research-new-lanes`
-- other lanes still point into `annual-report-research-footwear-dept-audit` or `annual-report-research-energy-buildout`
+- some handoff and frontier notes still preserve source-worktree provenance from `annual-report-research-new-lanes`, `annual-report-research-footwear-dept-audit`, or `annual-report-research-energy-buildout`
 
 That means the repo's current state is best described as:
 
@@ -246,6 +246,14 @@ It did complete one useful normalization step:
 - the CLI 8 middle-layer index now links to the current-repo synthesis, slate, quarter snapshot, CSV index, and packet locations
 - the CLI 8 handoff note now points its deliverable links at the current repo rather than the sibling worktree
 
+It also completed one note-layer normalization step:
+
+- handoff headers that previously named only the source side-worktree now distinguish:
+  - `Source repo`
+  - `Current integrated repo`
+- this keeps historical provenance while reducing the chance that a reader mistakes the side-worktree for the current canonical archive
+- after that note-layer cleanup, the remaining non-raw sibling-root footprint is materially smaller and more concentrated in packet and ledger surfaces rather than batch-header metadata
+
 What did not change:
 
 - packet-level raw citations that still point into `annual-report-research-cli8-middle-layer/raw/...`
@@ -254,6 +262,7 @@ What did not change:
 So the practical outcome is narrower and more honest:
 
 - reader-facing CLI 8 navigation is cleaner
+- handoff-note provenance is clearer
 - packet-level provenance cleanup is still a remaining archive task
 
 ## Highest-Value Endgame Interpretation

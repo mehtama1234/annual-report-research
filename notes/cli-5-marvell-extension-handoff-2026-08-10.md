@@ -5,7 +5,8 @@ Date baseline: `2026-08-10`
 ## Snapshot
 
 - Date: `2026-08-10`
-- Repo: `annual-report-research-new-lanes`
+- Source repo: `annual-report-research-new-lanes`
+- Current integrated repo: `annual-report-research`
 - Branch: `parallel/new-lanes`
 - Commit hash: `991c34920378fb3e37412487bc286e324449eb01`
 - Lane: `CLI 5`

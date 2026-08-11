@@ -7,7 +7,8 @@ Use this file during the active third batch for `CLI 5: Connectivity, Telecom, a
 ## Snapshot
 
 - Date: 2026-08-10
-- Repo: `annual-report-research-new-lanes`
+- Source repo: `annual-report-research-new-lanes`
+- Current integrated repo: `annual-report-research`
 - Branch: `parallel/new-lanes`
 - Lane: `CLI 5` connectivity, telecom, and technical infrastructure
 - Working commit hash: `dd4caa8edcdffa19106009080cdc9deb1e251495`

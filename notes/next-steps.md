@@ -18,7 +18,23 @@ The current rule is to pursue coherent lanes end to end starting from:
 - [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
 - [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
 
-Each run should aim to finish a coherent `3` to `4` company flagship batch inside a lane, not spray work across dozens of shallow starts.
+As of Tuesday, August 11, 2026, many of the archive's highest-value lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means a new run should usually begin by deciding whether it is:
+
+1. opening a truly new lane
+2. strengthening an already-open lane
+
+Each run should aim to finish a coherent `3` to `4` company flagship batch inside a lane when a real new batch is needed, not spray work across dozens of shallow starts.
+
+For an already-open lane, the default next move is usually not to restart the lane from zero.
+
+It is usually to:
+
+- fill a missing flagship role
+- add the strongest contradiction or weak-link case
+- sharpen the burden-versus-beneficiary split
+- improve the next-filing break test
 
 ## Collection window
 
@@ -47,6 +63,13 @@ Prefer a mix such as:
 2. one capital-intensive infrastructure or asset owner
 3. one enabling tool, workflow, measurement, or toll-collector business
 4. one contrast case with a meaningfully different monetization model or balance-sheet structure
+
+If the lane already exists in working form, the batch should instead be chosen to improve the live read:
+
+1. one missing role that completes the lane map
+2. one contradiction or weak-link case
+3. one company that sharpens the burden-versus-beneficiary split
+4. one company that improves the best disconfirming next-filing test
 
 ## Collection sequence per company
 

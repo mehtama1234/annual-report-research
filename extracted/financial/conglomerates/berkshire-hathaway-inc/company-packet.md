@@ -58,3 +58,9 @@ Date baseline: 2026-08-10
 - [2026-q1-quarterly-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/conglomerates/conglomerates/berkshire-hathaway-inc/2026-q1-quarterly-report.pdf)
 - [2026-q2-quarterly-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/conglomerates/conglomerates/berkshire-hathaway-inc/2026-q2-quarterly-report.pdf)
 - [reports-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/conglomerates/conglomerates/berkshire-hathaway-inc/reports-page.html)
+
+## Working interpretation
+
+- Berkshire is the batch's purest permanent-capital anchor. It turns insurance float, operating cash generation, and retained earnings into a long-duration capital-allocation system rather than a single-industry story.
+- The quarter chain repeatedly points to the same pattern: Berkshire does not need one segment to carry the whole company because the comparative advantage sits above the segments, in liquidity, patience, and reinvestment discretion.
+- In the context of CLI 6, Berkshire is what prevents the lane from collapsing into narrow sector buckets like banks, REITs, or insurers. It shows that capital architecture and reinvestment judgment can themselves be the franchise.

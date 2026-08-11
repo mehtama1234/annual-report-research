@@ -8,6 +8,14 @@ Use the shared labels in:
 
 - [Status rubric](/home/manishmehta/ui-projects/annual-report-research/templates/status-rubric.md)
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, many of the archive's highest-value lanes already have frameworks, proof pages, comparison memos, and watchlists.
+
+That means this handoff should not assume every batch was opening a new or undercovered lane.
+
+It should also work for continuation batches that mainly strengthened an already-open lane.
+
 ## Snapshot
 
 - Date:
@@ -20,7 +28,12 @@ Use the shared labels in:
 ## Batch objective
 
 - why this lane was chosen:
-- why this lane is new or undercovered:
+- whether this batch opened a new lane or strengthened an existing one:
+- if it strengthened an existing lane, what specific gap it targeted:
+  - missing flagship role
+  - contradiction or weak-link case
+  - burden-versus-beneficiary split
+  - next-filing break test
 - why these companies belong together:
 
 ## Companies completed

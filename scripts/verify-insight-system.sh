@@ -195,6 +195,8 @@ required_files=(
   "site/index.html"
   "site/concrete-insights.html"
   "site/frontier-companies.html"
+  "site/frontier-companies.js"
+  "site/site.css"
   "site/viewer.html"
 )
 
@@ -395,6 +397,10 @@ required_patterns=(
   "site/concrete-insights.html:verify-raw-evidence-governance.sh"
   "site/frontier-companies.html:Completed Companies"
   "site/frontier-companies.html:Source ledger"
+  "site/frontier-companies.js:window.frontierCompanies = ["
+  "site/frontier-companies.js:name: \"Attention and influence\""
+  "site/site.css::root {"
+  "site/site.css:.company-grid"
   "site/viewer.html:Markdown Viewer"
   "site/viewer.html:Missing <code>file</code> query parameter."
   "analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md:The company-level note should also say which packet sections are doing the work"

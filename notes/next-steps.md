@@ -15,8 +15,8 @@ Date baseline: 2026-08-10
 The repo is no longer in a vague pilot stage.
 The current rule is to pursue coherent lanes end to end starting from:
 
-- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/START-HERE.md)
-- [Active lane board](/home/manishmehta/ui-projects/annual-report-research-new-lanes/notes/active-lane-board-2026-08-10.md)
+- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
+- [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
 
 Each run should aim to finish a coherent `3` to `4` company flagship batch inside a lane, not spray work across dozens of shallow starts.
 

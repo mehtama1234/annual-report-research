@@ -1,7 +1,7 @@
 # CLI 6 Kickoff Brief
 
 Date baseline: 2026-08-10
-Repo: `annual-report-research-new-lanes`
+Repo: `annual-report-research`
 
 ## Packet Inputs Used
 

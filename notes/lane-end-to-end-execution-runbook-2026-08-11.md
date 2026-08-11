@@ -16,6 +16,39 @@ The lane is not done when reports are downloaded. The lane is done when packet e
 - current note-layer rules for aha moments, thesis breakers, next-name selection, and handoff quality
 - verifier-backed evidence-chain standards already enforced elsewhere in the repo
 
+## Current Archive State
+
+As of Tuesday, August 11, 2026, many of the archive's highest-value lanes are no longer starting from zero.
+
+Several already have:
+
+- lane frameworks
+- proof pages
+- comparison memos
+- next-filing watchlists
+
+That means this runbook should be used in two modes:
+
+1. `New-lane mode`
+   Use when the archive truly lacks a working lane structure.
+2. `Strengthening mode`
+   Use when the lane already exists and the next pass should improve it.
+
+In strengthening mode, the default goal is usually not:
+
+- restate the first broad pattern
+- reopen generic lane definition
+- add random uncovered companies
+
+It is usually:
+
+- fill a missing flagship role
+- add the strongest contradiction or weak-link case
+- sharpen the burden-carrier versus cleaner-layer split
+- improve the next-filing break test
+
+Before starting Step 1, determine which mode applies.
+
 ## Step 1: Define The Lane
 
 State:
@@ -33,6 +66,15 @@ Good lane definition:
 Bad lane definition:
 
 `Healthcare lane.`
+
+If the lane already has a framework, proof page, or watchlist, do not restart from generic lane definition.
+
+Instead, restate the lane in terms of what is still missing:
+
+- which role is not yet covered
+- which contradiction is still weak
+- which burden split is still fuzzy
+- which next-filing test is still too vague
 
 ## Step 2: Pick Flagship Companies
 
@@ -54,6 +96,13 @@ For each selected company, note:
 - why it belongs in the lane
 - what distinct role it plays
 - what signal it may reveal
+
+In strengthening mode, prefer the companies that do one of these:
+
+- complete the lane's missing role map
+- sharpen a live contradiction
+- test whether the cleaner layer is actually cleaner
+- improve the disconfirming next-filing metric
 
 ## Step 3: Complete Source Coverage
 

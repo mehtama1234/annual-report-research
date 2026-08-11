@@ -31,6 +31,18 @@ Every serious company insight should identify:
 
 The output should be plain English and concrete. A company name is not evidence. A packet fact is evidence.
 
+The company-level note should also say which packet sections are doing the work. At minimum, the interpretation should be traceable to:
+
+- annual report takeaways
+- latest three-quarter chain
+- company-level strategy read
+- strategy evidence table
+- insight stack
+- burden-versus-beneficiary interpretation
+- next filing watchlist
+
+If the strategy note cannot point back to those packet sections, it is probably repeating a conclusion without showing how the packet proved it.
+
 ## Reusable Company Template
 
 Use this structure when turning a packet into a company-level strategy note:
@@ -80,6 +92,17 @@ Ask:
 
 - What fact would make the interpretation wrong?
 - Which metric should be watched in the next filing?
+
+## Skeptical Reader Test
+
+Before treating the company-level note as finished, make sure a skeptical reader can answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean for this company?`
+3. `Why does it matter economically?`
+4. `What would change the conclusion?`
+
+If the note fails any one of those, it is still too loose.
 
 ## Concrete Company-Level Examples
 

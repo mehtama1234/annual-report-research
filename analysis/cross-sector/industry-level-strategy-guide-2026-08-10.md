@@ -18,6 +18,28 @@ For every industry, answer these questions:
 - `Best proof`: which company facts show the lane working?
 - `Thesis breaker`: which metric would prove the lane weaker than the story?
 
+Before writing the lane interpretation, name which packet inputs are supporting it. The lane read should be built from:
+
+- annual report takeaways
+- latest three-quarter chains
+- company-level strategy reads
+- exact supporting facts
+- burden-versus-beneficiary interpretations
+- next filing watchlists
+
+If the lane guide only names companies and themes, it is skipping the analytical chain that makes the lane auditable.
+
+## Skeptical Reader Test
+
+Before treating a lane explanation as finished, make sure a skeptical reader can answer:
+
+1. `What is the exact fact?`
+2. `What does that fact mean inside the lane?`
+3. `Why does it matter beyond one company?`
+4. `What would change the conclusion?`
+
+If the lane writeup cannot answer those four directly, it is still too generic.
+
 ## Beauty And Personal Care
 
 Core need:

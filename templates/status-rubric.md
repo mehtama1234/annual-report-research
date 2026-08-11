@@ -16,9 +16,9 @@ Use these labels consistently across lane runs, handoffs, and integration notes.
 ## Packet status
 
 - `source-complete`
-  - The annual, annual filing, and latest three reported quarters as of `2026-08-10` are present or explicitly verified, and the packet includes thematic interpretation.
+  - The annual, annual filing, and latest three reported quarters as of `2026-08-10` are present or explicitly verified, the packet includes thematic interpretation, and the packet can say what its main fields are proving.
 - `partial-usable`
-  - Enough evidence exists to support a real packet and cross-company comparison, but one or more required artifacts are still missing or only partially verified.
+  - Enough evidence exists to support a real packet and cross-company comparison, but one or more required artifacts are still missing or only partially verified, or the packet-field fit is still weak.
 - `collection-started`
   - Raw evidence gathering has begun, but the packet is not yet decision-grade.
 - `not-started`
@@ -45,8 +45,19 @@ Use these labels consistently across lane runs, handoffs, and integration notes.
 ## Thematic quality status
 
 - `theme-complete`
-  - The company or lane clearly surfaces consumer, cultural, societal, industrial, operating, technical, or capital-structure repeated-pattern signals, plus the relevant monetization system.
+  - The company or lane clearly surfaces consumer, cultural, societal, industrial, operating, technical, or capital-structure repeated-pattern signals, uses the right packet fields for those claims, and explains the relevant monetization system.
 - `theme-thin`
-  - Basic interpretation exists, but the bigger-picture consumer, social, industrial, or monetization pattern work is still weak.
+  - Basic interpretation exists, but the bigger-picture consumer, social, industrial, or monetization pattern work is still weak, generic, or not well matched to the packet inputs.
 - `document-only`
   - Filing collection exists, but meaningful thematic interpretation does not.
+
+## Proof-discipline check
+
+Use this as a quick label test before marking anything strong:
+
+- packet-field fit
+  - the writeup says what the annual takeaways, quarter chain, strategy read, operating model, exact supporting facts, burden read, and watchlist are actually proving
+- claim-type fit
+  - consumer, cultural, societal, industrial, technical, capital, and cross-company claims meet the right burden of proof instead of using broad language
+- burden clarity
+  - the writeup says who captures the cleaner economics and who absorbs the messy work

@@ -33,6 +33,7 @@ Use the shared labels in:
 - annual status:
 - quarter-chain status:
 - source-ledger status:
+- packet fields doing the work:
 - key interpretation:
 
 ### Company 2
@@ -135,6 +136,9 @@ Use the shared labels in:
 - which lived-system adaptations now look normalized:
 - where the burden stack sits:
 - where the cleaner surplus stack sits:
+- which packet fields supplied the strongest lane conclusions:
+- which claim types were strongest: consumer / cultural / societal / industrial / technical / capital / cross-company:
+- what proof burden those strongest claims actually met:
 
 ## Key themes
 
@@ -160,6 +164,8 @@ Use the shared labels in:
 - which patterns appear to generalize beyond the lane:
 - which signals already look structural:
 - which signals remain provisional:
+- which packet fields most directly proved those signals:
+- which signal still has weak proof burden:
 
 ## Index and integration status
 

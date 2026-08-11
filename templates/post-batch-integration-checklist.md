@@ -25,6 +25,8 @@ For each flagship company:
 - confirm annual filing status is explicit
 - confirm last three reported quarters as of `2026-08-10` are explicit
 - confirm thematic interpretation is present, not just document links
+- confirm the packet says what its main fields are proving, not just that the fields exist
+- confirm the packet names who captures cleaner economics and who absorbs the messy work
 - confirm any offloaded `raw/**` evidence paths can be resolved through `indexes/raw-blob-offload-manifest-2026-08-10.csv` or `python3 scripts/resolve-offloaded-raw-path.py`
 
 ## Shared index integration
@@ -62,6 +64,8 @@ Confirm that the synthesis includes:
 - the strongest cross-company themes
 - the main moats, pressures, and fragilities
 - exact next names that would improve the lane
+- which packet fields supplied the main lane conclusions
+- whether the strongest claims met the right proof burden for their claim type
 
 If the batch introduced new offloaded evidence assumptions, also confirm:
 
@@ -79,6 +83,8 @@ Explicitly check whether the batch surfaces:
 - industrial and operating pressures
 - bigger-picture patterns that repeat across companies
 - participation, franchise, and IP monetization where relevant
+- who bears the burden stack and who captures cleaner economics
+- whether consumer, cultural, industrial, technical, capital, or cross-company claims are backed by the right kind of proof
 
 If these are missing, the batch is not fully integrated.
 

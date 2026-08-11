@@ -1,0 +1,312 @@
+# Original Goal Exact Remaining Work Checklist
+
+Date baseline: `2026-08-11`
+
+## Purpose
+
+This note converts the original-goal audit from a broad `partial` label into an exact remaining-work checklist.
+
+It answers four questions:
+
+- which parts of the original goal are already materially achieved
+- which sub-lanes are still too thin to call closed
+- which non-company cleanup work is still required to prove completion
+- which exact names would do the most to close the remaining gaps
+
+## What Is Already Strong Enough
+
+The archive is already clearly past the frontier-opening threshold.
+
+These things are no longer the main problem:
+
+- lane opening in recreation, healthcare, connectivity, and capital / trust
+- source-complete packet support for current packet trees
+- lane summaries and cross-company theme output
+- proof-backed cross-sector interpretation as a real repo output
+
+The remaining problem is not absence of work.
+
+The remaining problem is uneven closure quality.
+
+## Remaining Work By Requirement
+
+### 1. Cover whole lanes, not isolated names
+
+Current status: `partial`
+
+What is missing:
+
+- some requested sub-lanes still have only `1` or `2` anchors
+- some adjacent roles exist in the repo, but not yet as a deliberate comparison set
+- some taxonomy buckets are covered in spirit but scattered across neighboring labels
+
+What would prove completion:
+
+- each active lane has at least one coherent `4` to `8` flagship comparison cluster
+- thin sub-lanes either gain more anchors or are explicitly folded into a justified broader lane structure
+
+### 2. Use `2025` annuals plus latest three reported quarters as of `2026-08-10`
+
+Current status: `partial`
+
+What is missing:
+
+- repo-wide proof is still indirect
+- the standard is written into notes and packets, but not yet spot-audited across the remaining thin-lane names
+
+What would prove completion:
+
+- a targeted audit of the highest-priority thin-lane packets
+- explicit quarter-window confirmation in packet metadata or source ledgers for those names
+
+### 3. Use AnnualReports.com as taxonomy and company IR plus SEC as authority
+
+Current status: `partial`
+
+What is missing:
+
+- the structure supports this rule, but repo-wide proof is still uneven
+- older packets and extension packets are not all explicitly checked for authority ordering
+
+What would prove completion:
+
+- a targeted source-authority audit on the highest-priority lanes still marked thin
+- explicit ledger language showing when AnnualReports was only taxonomy confirmation and when IR or SEC was used as the authoritative source
+
+### 4. End runs with consistent closeout discipline
+
+Current status: `partial`
+
+What is missing:
+
+- some handoffs are excellent
+- some older batches still do not close with the exact same completed / partial / themes / next names / commit-hash discipline
+
+What would prove completion:
+
+- a small normalization pass on the most important remaining handoff surfaces
+- no major active lane left with ambiguous end-state language
+
+### 5. Keep broad claims tied to exact company evidence
+
+Current status: `partial`
+
+What is missing:
+
+- the newer proof pages are concrete
+- some older framework memos are still more conceptual than evidentiary
+- thin sub-lanes still need more named-company fact chains
+
+What would prove completion:
+
+- more proof-page style notes in the thin sub-lanes
+- selective upgrades of older framework notes where they are still too abstract to carry the stronger standard
+
+## Exact Lane Gaps
+
+### Recreation, Lifestyle, And Participation
+
+Overall state: `opened but still uneven`
+
+Already strong:
+
+- lodging brand layer is well represented through `Marriott`, `Hilton`, `Hyatt`, `Choice`, and `Wyndham`
+- home-expression and participation demand already has `RH`, `Wayfair`, and `Williams-Sonoma`
+- occasion and identity spend already has `Etsy`, `Ulta`, and `Signet`
+- leisure and gaming participation already has `Caesars`, `Las Vegas Sands`, `MGM`, and `DraftKings`
+
+Still thin or still needing a cleaner comparison set:
+
+- food wholesale as the enabling layer is still basically one-name heavy around `Sysco`
+- hospitality ownership versus brand control is good conceptually but still benefits from one tighter owner set
+- specialty retail other is present through `Ulta`, but not yet widened into a more explicit comparison cluster
+
+Best exact next names:
+
+1. `US Foods Holding Corp.` to make food wholesale a real comparison rather than a single-name read
+2. `Chewy, Inc.` to extend ritual, repeat, and emotionally loaded household spend beyond gifting and home furnishings
+3. `Apple Hospitality REIT, Inc.` to sharpen hotel ownership versus brand control and property burden
+4. `Sunstone Hotel Investors, Inc.` as the second owner-quality comparator if the hotel-owner sub-lane is the chosen extension
+
+Why these names matter:
+
+- they close the weakest enabling and ownership roles still missing from recreation
+- they make the lane less dependent on one proof path per sub-theme
+
+### CLI 4 Healthcare Frontier
+
+Overall state: `strongest lane by breadth, but not fully closed at the requested role level`
+
+Already strong:
+
+- plans and care-financing: `UnitedHealth`
+- hospitals: `HCA`
+- long-term care: `Brookdale`
+- home and specialty care: `Addus`, `Option Care`, `Aveanna`, `BrightSpring`, `Enhabit`, `DaVita`, `Chemed`
+- distribution: `Cencora`, `McKesson`, `Cardinal Health`
+- tools and devices: `Abbott`, `Stryker`, `Intuitive`, `Thermo Fisher`, `Boston Scientific`, `Dexcom`, `Insulet`, `Becton Dickinson`, `West`
+- diagnostics and labs: `Quest`, `Labcorp`, `Natera`, `Exact Sciences`
+- pharma: `Johnson & Johnson`, `Pfizer`, `Teva`, with biotech depth elsewhere
+
+Still thin or still needing a cleaner comparison set:
+
+- managed-care / health plans is still effectively one flagship anchor
+- hospitals still have one dominant flagship anchor rather than a true comparison cluster
+- long-term care facilities still center on `Brookdale`
+- major drug manufacturers are present, but a cleaner quality-growth comparator would improve the lane
+
+Best exact next names:
+
+1. `The Cigna Group` to create a second real plan / managed-care comparison against `UnitedHealth`
+2. `Tenet Healthcare Corporation` to give hospitals a second operator and sharpen reimbursement versus execution differences
+3. `Ventas, Inc.` only if the goal is to tighten care-property exposure against direct operators and senior-living burden
+4. `Eli Lilly and Company` to add a higher-quality pharma-growth anchor against the more burdened recurring-care layers
+
+Why these names matter:
+
+- they close the payer and hospital thin spots the audit already identified
+- they improve the burden split between direct care delivery, financing, tools, and therapeutic ownership
+
+### CLI 5 Connectivity, Telecom, And Technical Infrastructure
+
+Overall state: `opened well, but some requested extension buckets still sit in adjacent labels rather than a single explicit cluster`
+
+Already strong:
+
+- telecom access: `AT&T`, `Verizon`, `T-Mobile`, `Shenandoah`
+- diversified communication services: `Charter`, `Comcast`, `Cogent`, `Altice`, `Liberty Global`, `Liberty Broadband`, `Lumen`, `EchoStar`
+- internet software and services: `Alphabet`, `Cloudflare`, `Akamai`, `Fastly`, `DigitalOcean`, `Zscaler`, `Fortinet`
+- scientific and technical instruments: `Keysight`, `Teledyne`
+- semiconductor equipment and materials: `Applied Materials`, `KLA`, `Lam Research`, `Teradyne`
+- hidden hardware and connection layer: `Corning`, `Amphenol`, `Motorola`, `Arista`
+- adjacent system and control layers: `HPE`, `Epson`, `Zebra`, `ServiceNow`, `Accenture`, `Leidos`, `CACI`
+
+Still thin or still needing a cleaner comparison set:
+
+- computer peripherals is basically one flagship anchor around `Zebra`
+- computer based systems is basically one flagship anchor around `Epson`
+- diversified computer systems is still one main anchor around `HPE`
+- healthcare information services is named in the broadened mission but not yet an explicit finished cluster
+- business software and services plus technical and system software exist, but are still spread across adjacent labels rather than framed as one explicit extension set
+
+Best exact next names:
+
+1. `Oracle Corporation` to make healthcare workflow and enterprise systems a more explicit extension inside the broader control-layer stack
+2. `GE HealthCare Technologies Inc.` if the goal is to bridge healthcare information, devices, and workflow systems through a public operator
+3. `HP Inc.` to deepen the peripherals and endpoint layer beyond one barcode-and-industrial-interface case
+4. `Dell Technologies Inc.` to tighten the enterprise system stack against `HPE`
+5. `Palo Alto Networks, Inc.` to widen the security-control comparison against `Zscaler`
+
+Why these names matter:
+
+- they close the hardware-system extension holes the audit was pointing at
+- they turn the broadened CLI 5 mission into a more explicit control-layer map rather than a strong but still slightly scattered collection
+
+### CLI 6 Capital Structures, Property, And Conglomerates
+
+Overall state: `conceptually strong, but still uneven inside the exact requested buckets`
+
+Already strong:
+
+- insurance brokers: `Aon`, `Marsh`, `Gallagher`
+- asset and alternative capital platforms: `Brookfield`, `Apollo`, `KKR`, `Blackstone`, `Ares`, `BlackRock`
+- regional banks: `M&T`, `PNC`, `Regions`, `Truist`, `U.S. Bancorp`
+- conglomerates and capital allocators: `Berkshire`, `Loews`, `Markel`
+- aging-linked healthcare real estate: `Welltower`, `Ventas`
+
+Still thin or still needing a cleaner comparison set:
+
+- life insurance is still mostly `MetLife`
+- mortgage REIT is not yet represented as a real comparison cluster despite the lane brief
+- savings and loans is not yet a real explicit packet cluster
+- retail REIT is not the strongest unresolved problem, but it is still thinner than the broker and allocator side
+
+Best exact next names:
+
+1. `Prudential Financial, Inc.` to make life insurance a real comparison instead of a one-name read
+2. `Annaly Capital Management, Inc.` to close the mortgage REIT gap the audit explicitly called out
+3. `Simon Property Group, Inc.` to make the retail REIT bucket explicit rather than implied
+4. `New York Community Bancorp, Inc.` or the best available surviving public thrift / savings analog if the goal is to create a true savings-and-loans comparison set
+
+Why these names matter:
+
+- they close the specific bucket-level misses inside a lane that already has strong cross-lane insight quality
+- they help prove whether heavy balance-sheet exposure is a franchise or just a burden across more than one flavor of capital structure
+
+## Cross-Lane Non-Company Work Still Required
+
+These are real remaining tasks even if no new packets are added immediately.
+
+### A. Thin-lane window audit
+
+Do this on the highest-priority unresolved names and sub-lanes:
+
+- managed-care and hospital extensions in healthcare
+- food wholesale and owner-versus-brand extensions in recreation
+- hardware and system-extension packets in CLI 5
+- life insurance and mortgage REIT extensions in CLI 6
+
+Success condition:
+
+- each audited packet explicitly proves the `2025` annual plus latest-three-quarters standard
+
+### B. Source-authority audit
+
+Do this where AnnualReports lag is most likely to create ambiguity:
+
+- older extension packets
+- packets with verified but not fully saved annual binaries
+- thin sub-lanes where the annual PDF chain is less standardized
+
+Success condition:
+
+- the source ledger makes clear which artifacts are taxonomy confirmation versus authoritative IR or SEC evidence
+
+### C. Closeout normalization
+
+Do this only for the highest-value handoffs, not every historical log.
+
+Priority surfaces:
+
+- latest lane handoffs that are still active continuation points
+- any handoff currently used as the authoritative lane-summary surface
+
+Success condition:
+
+- every active continuation handoff clearly lists completed companies, partial companies, key themes, strongest repeated signals, exact next targets, and commit hash
+
+### D. Proof-page upgrades
+
+Focus on older notes that are still too abstract relative to the newer `2026-08-11` proof-page standard.
+
+Best targets:
+
+- any lane framework that still states the idea well but does not yet show enough exact named-company evidence
+
+Success condition:
+
+- a skeptical reader can trace every major claim back to named companies and exact fact-period chains
+
+## Shortest Path To Honest Completion
+
+If the goal is to move the original-goal audit from mostly `partial` to mostly `achieved`, the highest-yield sequence is:
+
+1. close the thinnest bucket gaps with the best role-filling names:
+   `Cigna`, `Tenet`, `US Foods`, `Prudential`, `Annaly`, and either `Dell` or `HP`
+2. run a targeted quarter-window and source-authority audit on those additions plus the other highest-priority thin-lane anchors
+3. normalize the active handoff layer
+4. selectively upgrade the most abstract older framework notes with proof-page style exact evidence
+
+## Bottom Line
+
+The archive is not missing a frontier.
+
+It is missing closure quality in a small set of exact places.
+
+The most important unresolved holes are:
+
+- second-anchor comparisons in payer, hospital, life insurance, mortgage REIT, and food wholesale
+- tighter explicit clustering in hardware, system, and healthcare-information extensions inside CLI 5
+- proof that the filing-window and source-authority rules hold uniformly in the still-thin parts of the archive
+
+That is the actual remaining-work map for the original goal as of `2026-08-11`.

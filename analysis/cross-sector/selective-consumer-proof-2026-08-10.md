@@ -21,6 +21,11 @@ This proof relies on the packet sections that show consumer selectivity directly
 
 The memo should be read as a synthesis of those packet inputs rather than as one broad consumer narrative laid on top of unrelated companies.
 
+Applied comparison memos:
+
+- [recreation-lifestyle-occasion-demand-comparison-2026-08-11.md](recreation-lifestyle-occasion-demand-comparison-2026-08-11.md)
+- [recreation-selective-demand-and-burden-watchlist-2026-08-11.md](recreation-selective-demand-and-burden-watchlist-2026-08-11.md)
+
 ## Exact Evidence
 
 | Company | Exact packet facts | What it proves |
@@ -46,6 +51,50 @@ The right question is not "is the consumer strong or weak?" The right question i
 
 Costco proves value access. Ulta and e.l.f. prove discovery and self-presentation. Crocs and Deckers prove comfort and identity. General Mills proves that even staples need renewed value. Graphic Packaging proves that the pressure reaches the supply chain.
 
+## Role Versus Burden Overlay
+
+The newer recreation comparison and watchlist pages make the selective-consumer thesis more precise.
+
+The cleaner reading now is:
+
+- demand often stays strongest when the customer is defending a role, occasion, identity, or routine
+- but demand quality and economic quality are not the same thing
+- the best models often own the relationship more cleanly than the layers carrying inventory, sourcing, tariff, freight, or property burden
+
+The current archive points to this broader split:
+
+| Consumer role or layer | Best current examples | What the customer is defending | Main burden |
+|---|---|---|---|
+| Value and routine access | `Costco` | trusted low-price access, repeat household stock-up, membership habit | merchandise mix, price investment, scale execution |
+| Discovery and self-presentation | `Ulta`, `e.l.f.` | beauty identity, trend participation, discovery, app behavior, repeat replenishment | assortment risk, marketing pace, innovation cadence, channel execution |
+| Comfort and expressive routine | `Crocs`, `Deckers` | comfort, wellness, casual identity, premium function | fashion-cycle risk, inventory, wholesale/DTC mix, brand heat sustainability |
+| Occasion and participation demand | `Marriott`, `Hilton`, `Signet`, `Williams-Sonoma` | travel, hosting, gifting, milestone purchases, social identity | owner economics, tariffs, inventory, commodity inputs, housing sensitivity |
+| Upstream burden and affordability pressure | `General Mills`, `Graphic Packaging`, partly `Sysco` | basic demand still exists, but the system must defend value and absorb cost pressure | reinvestment, plant utilization, pricing resistance, sourcing, freight, capital intensity |
+
+The important point is that a selective consumer does not only choose between cheap and expensive.
+
+The consumer is often choosing between:
+
+- routine value
+- personal identity
+- defended comfort
+- social occasions
+- milestone moments
+- experiences worth funding
+
+## Next-Filing Priority Watchlist
+
+The selective-consumer thesis should now be read through a short set of confirmation checks:
+
+- `Costco`: membership fee growth, adjusted comparable sales, digitally enabled comparable sales, and whether value access stays habit-forming
+- `Ulta` and `e.l.f.`: comparable sales, brand breadth, margin quality, and whether discovery and identity demand stay culturally active
+- `Crocs` and `Deckers`: DTC strength, brand growth, comfort and function demand, and whether identity-plus-utility still wins
+- `Marriott` and `Hilton`: whether travel relationship owners still convert role-based demand into cleaner economics
+- `Williams-Sonoma` and `Signet`: whether hosting, gifting, and rituals stay resilient after tariffs, inventory, and input costs
+- `General Mills`, `Graphic Packaging`, and `Sysco`: whether upstream and staple layers show that burden is growing faster than consumer willingness to pay
+
+If consumer-facing demand still sounds healthy while upstream or support layers keep losing economic quality, the archive should treat selective demand as real but unequally monetized.
+
 ## Skeptical Reader Test
 
 A skeptical reader should be able to answer:
@@ -63,6 +112,7 @@ This page is only strong if those four answers are visible from the evidence tab
 - If beauty growth depends mainly on one acquisition or launch cycle, the cultural-demand read may be too broad.
 - If packaging weakness reflects company-specific capital mistakes more than customer demand, it should not be generalized.
 - If staples regain volume without value reinvestment, the pressure thesis would need revision.
+- If role-based and occasion-based demand stops looking more resilient than generic discretionary demand, the newer recreation-layer interpretation should be weakened too.
 
 ## Curiosity Questions
 

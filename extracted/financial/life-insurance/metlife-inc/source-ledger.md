@@ -29,6 +29,9 @@ Use evidence tags:
 
 - AnnualReports is used here for taxonomy and archive confirmation only. As of `2026-08-10`, the hosted annual package still lagged at `2024`.
 - The correct trailing-quarter set as of `2026-08-10` is `2Q26`, `1Q26`, and `4Q25`.
+- The authority ordering is explicit:
+  - AnnualReports for taxonomy and archive-lag confirmation
+  - company IR and SEC for the authoritative annual and quarter chain
 - Local direct fetches to several MetLife IR assets returned Cloudflare challenge pages. Because of that, the authoritative locally saved evidence chain is the SEC filing set plus the verified official IR URLs in [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/life-insurance/metlife-inc/ir-source-links.md).
 - The source chain is still authoritative for reported results because the quarter wrappers and filed quarterlies are present locally from SEC.
 

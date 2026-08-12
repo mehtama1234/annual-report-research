@@ -108,6 +108,8 @@ What is clearly proven:
 
 - target window is explicit: `2Q26`, `1Q26`, `4Q25`
 - AnnualReports lag at `2024` is explicit
+- the packet itself now states `qualified` proof status explicitly
+- the packet now states that AnnualReports is taxonomy context only and that company IR plus SEC are the authoritative chain
 - the ledger and IR-link note explicitly explain the Cloudflare block
 - the SEC chain for annual and trailing quarters is locally present
 
@@ -118,6 +120,7 @@ What is weaker:
 Conclusion:
 
 - MetLife should count as authoritative but qualified
+- the packet-level proof-language is now stronger and more self-contained than before
 - the main weakness is capture method, not misunderstanding of the period chain
 
 ### 5. `Zebra Technologies` is also authoritative through fallback evidence.

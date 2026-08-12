@@ -3,6 +3,8 @@
 Date baseline: 2026-08-10
 Repo: `annual-report-research`
 
+This page is for an **operator continuing the research**. If you are a **reader** who just wants to understand what the archive found, use [How to read this archive](/home/manishmehta/ui-projects/annual-report-research/notes/how-to-read-this-archive-2026-08-12.md) instead — it is the reader front door and points to the plain-English findings.
+
 If you are starting work in this repo, read these files in this order:
 
 1. [Insight extraction hub](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-hub-2026-08-11.md)

@@ -18,6 +18,17 @@ It is intentionally split into three layers:
 
 This keeps raw evidence separate from downstream interpretation.
 
+## New reader? Start here
+
+If you just want to understand what this archive found — not continue the research — use the reader layer, not the operator briefs below:
+
+- [How to read this archive](/home/manishmehta/ui-projects/annual-report-research/notes/how-to-read-this-archive-2026-08-12.md) — the front door: what this is, the one central idea, and where to look.
+- [What this archive proves](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/what-this-archive-proves-2026-08-12.md) — the main proven findings in plain English, each backed by named companies.
+- [Four lane summaries](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/four-lane-summaries-2026-08-12.md) — each of the four research lanes on one page.
+- [Comparison library map](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/comparison-library-map-2026-08-12.md) — a grouped index into the detailed company-by-company comparison pages.
+
+Everything below this point is for an operator who is continuing the research.
+
 Remote `main` currently carries the extracted, analysis, notes, and index layers, but not the heavy offloaded `raw/**` payload.
 If a packet cites a raw evidence path that is no longer present in the checkout, resolve it through:
 

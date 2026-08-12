@@ -38,6 +38,13 @@ Collection window:
 
 The completed CLI 5 batches now support a stronger organizing frame than “infrastructure is asset-heavy and recurring.” The real pattern is that the same digital participation and AI demand wave does not reward every layer equally. Alphabet shows where demand starts, through product surfaces that make intelligence and immediacy a baseline expectation. AT&T and Verizon show the burdened access layer, where network ownership remains essential but still captures weaker economics because it carries high capex, leverage, and regulatory friction. Keysight shows that rising technical complexity can itself become a recurring toll through test, measurement, and validation workflows. Cisco and Arista show two different control-plane winners: Cisco through broad installed-base orchestration and observability, Arista through a purer AI-fabric architecture profit pool. Palo Alto shows that security and trust governance can become an even cleaner software-like infrastructure toll, where enterprises pay to standardize visibility, identity, and cyber posture as AI raises the cost of fragmentation. ServiceNow shows that workflow orchestration and AI governance can become another software-like control toll, where enterprises pay for the system that routes work, approvals, incidents, and increasingly AI agents across the organization. KLA and Lam show that some of the strongest economics sit even further upstream, where inspection, process control, deposition, etch, and installed-base service become non-optional before the chips and memory ever reach the network stack. Across the lane, value keeps migrating away from generic traffic carriage and toward the least substitutable control point or technical bottleneck.
 
+In plainer language:
+
+- carriers own necessary access, but they also absorb the heaviest capital and balance-sheet burden
+- validation vendors get paid because faster and denser systems become too expensive to trust without testing
+- network-control, trust, and workflow layers get paid because enterprises need fewer failures and more governable systems
+- semicap chokepoints get paid because customers cannot afford yield loss or process imprecision before AI hardware ever ships
+
 ## Evidence
 
 | Company | Sector | Industry | Evidence | Quarter / Year |
@@ -52,6 +59,80 @@ The completed CLI 5 batches now support a stronger organizing frame than “infr
 | Palo Alto Networks, Inc. | Technology | Networking & communication devices | Palo Alto's `2025` annual plus `FY2026 Q1` / `Q2` / `Q3` chain showed cybersecurity platformization, NGS ARR expansion, and security consolidation turning trust infrastructure into a recurring control layer. | 2025 annual / trailing quarters |
 | ServiceNow, Inc. | Technology | Information technology services | ServiceNow's `2025` annual plus `Q4 2025` / `Q1 2026` / `Q2 2026` chain showed workflow orchestration, cRPO / RPO depth, and AI governance demand turning enterprise process control into a recurring software layer. | 2025 annual / trailing quarters |
 | Lam Research Corporation | Technology | Semiconductor Equipment & Materials | Lam's `2025` annual plus `December 2025` / `March 2026` / `June 2026` chain showed AI translating into more deposition, etch, advanced packaging, and installed-base support demand before chips ever reach the network layer. | 2025 annual / trailing quarters |
+
+## Exact claim-to-proof chains
+
+### 1. Traffic growth and AI demand do not create equal profit capture across the stack.
+
+Exact supporting chain:
+
+- `Alphabet` reached about `$402.8B` of full-year `2025` revenue, about `$119.8B` of `Q2 2026` revenue, about `$514B` of Cloud backlog, and guided `2026` capex toward about `$195B-$205B`.
+- `AT&T` reported about `$31.6B` of `Q2 2026` revenue, about `$4.7B` of quarterly free cash flow, and about `$5.7B` of capital expenditures, while legacy revenue was still down about `25.9%`.
+- `Verizon` reported about `$34.3B` of `Q2 2026` revenue and about `$6.4B` of free cash flow, but total revenue still fell about `0.7%` even with more than `550,000` mobility and broadband net additions.
+
+Why those facts matter:
+
+- demand concentration and access ownership are not the same thing
+- Alphabet can pull the system forward by owning high-value demand surfaces
+- carriers still have to convert usage into cash flow while carrying capital intensity, legacy drag, and weaker top-line optics
+
+### 2. Validation and measurement are real recurring tolls once systems get faster and denser.
+
+Exact supporting chain:
+
+- `Keysight` generated about `$5.375B` of fiscal `2025` revenue and about `$1.28B` of free cash flow.
+- In `Q1 FY2026`, `Keysight` reported about `$1.60B` of revenue.
+- In `Q2 FY2026`, `Keysight` reported about `$1.72B` of revenue, with Communications Solutions Group revenue of about `$1.231B`, up about `35%`, and Electronic Industrial Solutions Group revenue of about `$486M`, up about `24%`.
+
+Why those facts matter:
+
+- the company is not monetizing consumer traffic directly
+- it is monetizing the need to prove performance, signal quality, and reliability before failure becomes expensive
+- that turns complexity itself into a repeat spend category
+
+### 3. Network-control layers can look cleaner than the access layer.
+
+Exact supporting chain:
+
+- `Cisco` reported about `$56.7B` of fiscal `2025` revenue, with recurring revenue making up more than half of total revenue.
+- In `FY2026 Q3`, `Cisco` reported about `$15.8B` of revenue and said year-to-date AI infrastructure orders had reached about `$5.3B`, with expected fiscal `2026` AI infrastructure orders raised to about `$9B`.
+- `Arista` reached about `$9.006B` of full-year `2025` revenue and about `$3.511B` of GAAP net income.
+- In `Q2 2026`, `Arista` reached about `$3.036B` of revenue, up about `37.7%`, with non-GAAP operating margin of about `49.9%`.
+
+Why those facts matter:
+
+- Cisco shows how installed-base orchestration and observability can monetize enterprise complexity
+- Arista shows that AI-fabric architecture itself can become a very high-quality profit pool
+- neither company has to own the national access network to capture part of the same digital and AI demand wave
+
+### 4. Trust governance and workflow control are becoming infrastructure categories.
+
+Exact supporting chain:
+
+- `Palo Alto` reached about `$9.2215B` of full-year FY2025 revenue, with subscription and support at about `80.5%` of revenue and operating cash flow of about `$3.716B`.
+- In `FY2026 Q3`, `Palo Alto` reached about `$3.0B` of revenue, about `$8.1B` of Next-Generation Security ARR, and about `$18.4B` of RPO.
+- `ServiceNow` reached about `$12.883B` of full-year FY2025 subscription revenue and about `$4.636B` of free cash flow.
+- In `Q2 2026`, `ServiceNow` reached about `$3.987B` of revenue, about `$13.20B` of cRPO, about `$29.0B` of total RPO, and crossed about `$1B` of AI annual contract value.
+
+Why those facts matter:
+
+- these are not optional tool budgets anymore
+- customers are paying for governed security posture, deeper visibility, workflow routing, and controlled AI deployment
+- that makes trust and workflow software part of the control architecture, not just application software
+
+### 5. The strongest chokepoints can sit upstream in semiconductor process control.
+
+Exact supporting chain:
+
+- `KLA` reported about `$3.30B` of `Q2 FY26` revenue, about `$3.415B` of `Q3 FY26` revenue, about `$3.66B` of `Q4 FY26` revenue, and about `$13.58B` of fiscal `2026` total revenue.
+- `Lam` reported about `$18.436B` of fiscal `2025` revenue and about `$6.2B` of operating cash flow, with an installed base approaching `100,000` chambers.
+- In `June 2026`, `Lam` reported about `$6.72B` of revenue, about `37.4%` GAAP operating margin, and about `$2.472B` of customer-support and other revenue.
+
+Why those facts matter:
+
+- customers keep funding inspection, yield protection, deposition, etch, and installed-base support because failure is too expensive
+- these economics appear before networks, software, or end-user devices fully monetize the AI wave
+- that is why CLI 5 cannot be read only from telecom and networking outward
 
 ## Why this matters
 
@@ -83,6 +164,23 @@ The completed CLI 5 batches now support a stronger organizing frame than “infr
 - AI should not be framed only as a software or datacenter build story. In this lane it is also a network-architecture, validation, and semiconductor-process-complexity story.
 - AI should also be framed as a governance and attack-surface expansion story. Palo Alto adds evidence that AI demand raises the value of security policy, data visibility, and platform trust.
 - AI should also be framed as a workflow and policy-routing story. ServiceNow adds evidence that enterprises need an operating system for how AI is actually embedded into work.
+
+## What the current filing window actually proved
+
+The `2025` annuals plus the latest reported quarters did not just prove that these businesses are exposed to AI and digital demand.
+
+They proved a ranking inside the lane.
+
+- `Access remains necessary but burdened.` `AT&T` and `Verizon` both showed real cash generation and subscriber relevance, but they also remained tied to capex, debt, fiber buildout, integration work, and weaker revenue translation than the cleaner control layers.
+- `Validation is a real toll.` `Keysight` showed that faster, denser systems drive direct spending on testing, measurement, and assurance rather than only on end-user traffic or compute.
+- `Architecture and orchestration can earn cleaner returns.` `Cisco` and `Arista` showed that installed-base control and AI-fabric positioning can capture stronger economics than raw carriage.
+- `Trust and workflow governance are now operating requirements.` `Palo Alto` and `ServiceNow` showed recurring, scaling demand for governable security posture and managed workflow rather than one-off software purchases.
+- `The hardest chokepoints may sit upstream.` `KLA` and `Lam` showed that process precision and installed-base support can capture some of the strongest economics in the lane before chips and networks are fully deployed.
+
+That is the real CLI 5 conclusion:
+
+- the best economics usually go to the least substitutable control point, assurance layer, or technical bottleneck
+- the more burdened economics usually sit with the layer that has to fund the broadest physical footprint
 
 ## Applied comparison memos
 
@@ -123,16 +221,6 @@ It is where the burden lands after that need becomes physical.
 `Alphabet` concentrates the demand signal, but also forces industrial-scale spending across the stack.
 `Cisco`, `Arista`, `Palo Alto`, and `ServiceNow` show how software, control, and governance layers can monetize rising complexity without owning the whole physical network.
 `Keysight`, `KLA`, and `Lam` show that validation and process precision become harder to avoid as systems get denser, faster, and more AI-dependent.
-
-## What the current filing window actually proved
-
-The lane now supports several stronger conclusions than it did in the first pass.
-
-- `Essential does not mean high-return.` Telecom access remains indispensable, but the filings still show that ownership of the utility layer does not guarantee the cleanest economics.
-- `AI is a physical burden story as much as a software story.` The broader archive now shows power, cooling, electrical gear, semicap precision, and field execution as part of the same AI buildout, not as side details.
-- `Control beats carriage when complexity rises.` The cleaner economics tend to sit with the company that controls architecture, orchestration, validation, or policy rather than with the company that simply carries more traffic.
-- `Trust is becoming infrastructure.` Palo Alto and the wider trust work strengthen the case that security, visibility, and policy standardization are not just software features. They are becoming operating requirements as AI expands the attack surface.
-- `Upstream chokepoints can be better than downstream ownership.` KLA and Lam make it clearer that some of the strongest profit pools sit where failure is expensive and process precision is non-optional, before the chips and networks are even deployed.
 
 ## Next-filing watchpoints
 

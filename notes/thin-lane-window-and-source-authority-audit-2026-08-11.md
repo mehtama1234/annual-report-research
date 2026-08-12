@@ -23,6 +23,9 @@ It is a targeted audit of thin-lane anchors that matter disproportionately to ho
 - `Zebra Technologies`
 - `Hewlett Packard Enterprise`
 - `Epson`
+- `Annaly Capital Management`
+- `Apple Hospitality REIT`
+- `Sunstone Hotel Investors`
 
 ## Status key
 
@@ -41,6 +44,9 @@ It is a targeted audit of thin-lane anchors that matter disproportionately to ho
 | `Zebra Technologies` | explicit `Q2 2026`, `Q1 2026`, `Q4 2025` target window in packet and ledger | explicit note that AnnualReports lagged and official IR retrieval hit `429`, so SEC-hosted annual and quarterly artifacts carry the proof | `qualified` | Good evidence chain, but official IR pages were not saved locally and the packet depends on SEC-hosted artifacts plus IR verification notes |
 | `Hewlett Packard Enterprise` | packet and profile explicitly define fiscal `2025` annual plus `Q2 FY2026`, `Q1 FY2026`, and `Q4 FY2025` | the source ledger now explicitly states that the inherited raw chain is not currently inspectable from this workspace | `qualified` | The misleading clean-chain implication was repaired, but the company still lacks a rebuilt local raw path set that would make it a proof-standard case |
 | `Epson` | explicit `Three Months ended June 30, 2026`, `Fiscal Year ended March 31, 2026`, and `Nine Months ended December 31, 2025` target window in packet and ledger | explicit note that AnnualReports lagged and direct retrieval returned `403`, so browser-captured official extracts were used | `qualified` | The company is still well covered, but proof depends on browser-captured official extracts rather than locally downloaded binaries or SEC-hosted equivalents |
+| `Annaly Capital Management` | explicit `2Q26`, `1Q26`, `4Q25` target window in packet and ledger | explicit note that AnnualReports is taxonomy confirmation while official IR PDFs and SEC filings carry the authoritative chain | `proven` | The local annual-plus-quarter evidence chain is clean: official annual report PDF, `10-K`, quarter releases, `8-K` wrappers, `10-Q` filings, and supporting IR supplements are all named explicitly |
+| `Apple Hospitality REIT` | explicit `Q2 2026`, `Q1 2026`, `Q4 2025` target window in packet and ledger | explicit note that AnnualReports is taxonomy confirmation and that the authoritative annual-plus-quarter chain is the SEC filing set plus saved local release artifacts | `qualified` | The SEC annual and quarter chain is complete, but a direct official annual-report PDF was not saved locally and parts of the live IR surface were throttled, so the packet is authoritative but slightly less clean than the best proof-standard cases |
+| `Sunstone Hotel Investors` | explicit `Q2 2026`, `Q1 2026`, `Q4 2025` target window in packet and ledger | explicit note that AnnualReports lagged at `2024` and that official IR plus SEC are the authoritative chain | `proven` | The local annual-plus-quarter evidence chain is clean: official annual report PDF, `10-K`, quarter releases, `8-K` wrappers, and both in-scope `10-Q` filings are all named explicitly |
 
 ## Exact observations
 
@@ -180,6 +186,52 @@ Conclusion:
 - Epson is acceptable as a qualified case
 - its weaker point is collection method, not the underlying period logic
 
+### 8. `Annaly Capital Management` is a proof-standard thin bucket, not just a useful thematic anchor.
+
+What is clearly proven:
+
+- target window is explicit: `2Q26`, `1Q26`, `4Q25`
+- AnnualReports is explicitly used as taxonomy and archive confirmation, not as the primary annual authority
+- the local chain includes the official `2025` annual report PDF, SEC `10-K`, `Q4 2025` release and `8-K`, `Q1 2026` release, supplement, `8-K`, and `10-Q`, plus the same for `2Q26`
+- the ledger explicitly says the category depends on leverage, funding mix, hedge structure, and portfolio composition, which is why the local supplement set matters
+
+Conclusion:
+
+- Annaly should be treated as a `proven` mortgage-REIT anchor
+- its presence narrows the bucket gap in CLI 6 more than the older completion notes implied
+
+### 9. `Apple Hospitality REIT` is authoritative and usable, but not quite as clean as the strongest proof-standard cases.
+
+What is clearly proven:
+
+- target window is explicit: `Q2 2026`, `Q1 2026`, `Q4 2025`
+- the local chain includes the SEC `10-K`, the `Q4 2025` `8-K` and SEC exhibit copy, plus both in-scope `10-Q` and `8-K` filings
+- the ledger explicitly states that the SEC annual and quarter chain is complete and authoritative for the packet
+
+What remains weaker:
+
+- no direct official annual-report PDF was saved locally
+- parts of the live official IR surface were throttled, so the packet leans more on SEC plus locally saved release artifacts than on a fully clean official-IR annual chain
+
+Conclusion:
+
+- Apple Hospitality should count as authoritative but `qualified`
+- the weakness is collection cleanliness, not confusion about the reporting window or authority rule
+
+### 10. `Sunstone Hotel Investors` is another proof-standard owner-layer packet.
+
+What is clearly proven:
+
+- target window is explicit: `Q2 2026`, `Q1 2026`, `Q4 2025`
+- AnnualReports lag at `2024` is explicit
+- the local chain includes the official `2025` annual report PDF, SEC `10-K`, `Q4 2025` release and `8-K`, and both in-scope `10-Q` and `8-K` filings
+- the ledger explicitly states that official IR plus SEC are the authoritative chain
+
+Conclusion:
+
+- Sunstone should be treated as `proven`
+- the recreation owner-versus-brand edge is now better proved than the older closeout notes suggested
+
 ## What This Audit Changes
 
 This audit improves the original-goal closeout picture in a more exact way:
@@ -188,10 +240,10 @@ This audit improves the original-goal closeout picture in a more exact way:
 - it shows that the problem is not uniformly missing research
 - it isolates the exact cases where closure quality still needs repair
 
-In this sample after the packet and ledger repairs:
+In this sample after the packet and ledger repairs and the added owner / mortgage-REIT checks:
 
-- `proven`: `1`
-- `qualified but usable`: `6`
+- `proven`: `3`
+- `qualified but usable`: `7`
 - `needs repair`: `0`
 
 ## What This Means After The Recent Lane-Closure Passes
@@ -219,6 +271,7 @@ In other words:
 - lane structure is now stronger than proof-standard uniformity
 - interpretation has advanced faster than evidence normalization
 - the best remaining proof-quality work is a targeted upgrade queue, not a broad discovery queue
+- some previously thin owner and mortgage-REIT roles are now better proved than the older completion notes suggested
 
 ## Exact repair queue from this audit
 
@@ -239,15 +292,18 @@ In other words:
    - keep as qualified unless official IR HTML or binaries are later recoverable
 6. `Epson`
    - keep as qualified unless cleaner local official binaries can be saved later
+7. `Apple Hospitality REIT`
+   - keep as qualified unless a direct official annual-report PDF or cleaner official-IR annual chain is later saved locally
 
 ## Best Remaining Audit Sequence
 
 If the goal is honest wrap-up rather than more frontier-opening, the highest-yield proof-quality sequence is now:
 
 1. keep `HCA` as the proof-standard reference case
-2. treat `Sysco` and `HPE` as the two most upgrade-worthy qualified names because their gaps are the most concrete
-3. keep `MetLife`, `Zebra`, and `Epson` explicitly qualified unless cleaner capture becomes available
-4. preserve precise language around `UnitedHealth` rather than overstating filed-quarter completeness
+2. treat `Annaly` and `Sunstone` as added proof-standard reference cases in thinner edge buckets
+3. treat `Sysco` and `HPE` as the two most upgrade-worthy qualified names because their gaps are the most concrete
+4. keep `MetLife`, `Zebra`, `Epson`, and `Apple Hospitality` explicitly qualified unless cleaner capture becomes available
+5. preserve precise language around `UnitedHealth` rather than overstating filed-quarter completeness
 
 That sequence fits the repo's real state better than opening more company packets first.
 
@@ -260,7 +316,8 @@ But "uneven" does not mean "mostly absent."
 In this thin-lane sample:
 
 - `HCA` is already fully proven
-- `UnitedHealth`, `MetLife`, `Zebra`, `Epson`, `Sysco`, and `HPE` are real and usable, but qualified for different reasons
+- `Annaly` and `Sunstone` are now also fully proven in thinner edge buckets
+- `UnitedHealth`, `MetLife`, `Zebra`, `Epson`, `Sysco`, `HPE`, and `Apple Hospitality` are real and usable, but qualified for different reasons
 - the main remaining work is now less about contradictory writeups and more about upgrading the highest-value qualified cases into fully proven ones while keeping the rest honestly labeled
 
 That is the actual thin-lane proof state as of `2026-08-11`.

@@ -159,7 +159,7 @@ The main unresolved lane-role gaps are:
   - pure-play healthcare-IT or hospital-workflow comparator if the goal is full explicit closure beyond the now-completed bridge
 - CLI 6:
   - second pure life-insurance anchor
-  - cleaner savings-and-loans or thrift analog if feasible
+  - a second thrift analog only if deeper savings-and-loans cluster depth is worth the extra effort
   - broader mortgage-REIT depth only if the goal is more than single-anchor closure
 
 This does not require dozens of new names.

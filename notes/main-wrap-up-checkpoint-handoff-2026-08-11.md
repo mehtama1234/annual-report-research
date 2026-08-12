@@ -31,14 +31,14 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 - Recreation still has optional room for a deeper hotel-owner cluster or a broader everyday-participation counterweight.
 - `CLI 4` now has second pure payer and second pure hospital anchors, but it still benefits from a cleaner long-term-care or scaled-care contrast.
 - `CLI 5` now has a pure-play healthcare-information workflow anchor, but it could still benefit from a second comparator if the goal is maximum closure rather than practical closure.
-- `CLI 6` now has a second life-insurance anchor and a second pure mortgage-REIT anchor, but it still benefits from a cleaner savings-and-loans or thrift analog.
+- `CLI 6` now has a second life-insurance anchor, a second pure mortgage-REIT anchor, and a thrift-style savings-and-loans analog, but it still benefits from proof tightening and optional deeper comparison depth in some subclusters.
 
 ## Completed companies
 
 - Recreation flagship comparison sets already completed include `Marriott`, `Hilton`, `Hyatt`, `Choice`, `Wyndham`, `Host`, `Apple Hospitality`, `Sunstone`, `Caesars`, `Las Vegas Sands`, `MGM`, `DraftKings`, `RH`, `Wayfair`, `Williams-Sonoma`, `Etsy`, `Ulta`, `Signet`, `Chewy`, `Bath & Body Works`, `Sysco`, and `US Foods`.
 - `CLI 4` flagship comparison sets already completed include `HCA Healthcare`, `Tenet Healthcare`, `Brookdale`, `Abbott`, `Stryker`, `Intuitive Surgical`, `Thermo Fisher`, `Johnson & Johnson`, `Pfizer`, `Teva`, `Cencora`, `McKesson`, `Cardinal Health`, `Quest Diagnostics`, `Labcorp`, `Natera`, `Exact Sciences`, `Dexcom`, `Insulet`, `Boston Scientific`, `Becton Dickinson`, `West`, `Addus`, `Option Care`, `Aveanna`, `BrightSpring`, `Enhabit`, `DaVita`, `Chemed`, and `Astrana`.
 - `CLI 5` flagship comparison sets already completed include `Alphabet`, `AT&T`, `Verizon`, `T-Mobile`, `Charter`, `Comcast`, `Cogent`, `Lumen`, `EchoStar`, `Cloudflare`, `Akamai`, `Fastly`, `DigitalOcean`, `Zscaler`, `Fortinet`, `Palo Alto Networks`, `Arista`, `Cisco`, `Corning`, `Amphenol`, `Motorola Solutions`, `Keysight`, `Teledyne`, `Applied Materials`, `KLA`, `Lam Research`, `Teradyne`, `Dell`, `HP`, `HPE`, `Oracle`, `ServiceNow`, `Waystar`, `Accenture`, `Leidos`, `CACI`, `Zebra`, and `Epson`.
-- `CLI 6` flagship comparison sets already completed include `Aon`, `Marsh McLennan`, `Gallagher`, `PNC`, `M&T Bank`, `Regions`, `Truist`, `U.S. Bancorp`, `MetLife`, `Prudential Financial`, `Annaly`, `AGNC`, `Welltower`, `Ventas`, `Simon Property Group`, `Realty Income`, `Brookfield`, `Apollo`, `KKR`, `Blackstone`, `Ares`, `BlackRock`, `Berkshire Hathaway`, `Loews`, and `Markel`.
+- `CLI 6` flagship comparison sets already completed include `Aon`, `Marsh McLennan`, `Gallagher`, `PNC`, `M&T Bank`, `Regions`, `Truist`, `U.S. Bancorp`, `WaFd`, `MetLife`, `Prudential Financial`, `Annaly`, `AGNC`, `Welltower`, `Ventas`, `Simon Property Group`, `Realty Income`, `Brookfield`, `Apollo`, `KKR`, `Blackstone`, `Ares`, `BlackRock`, `Berkshire Hathaway`, `Loews`, and `Markel`.
 
 ## Qualified companies
 
@@ -87,10 +87,10 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 
 ## Exact next targets
 
-1. A thrift-style or savings-and-loans analog if the goal is maximum CLI 6 bucket closure rather than practical closure.
-2. A stronger local-artifact rebuild for one of the highest-value qualified names if the goal is proof-standard tightening rather than lane closure.
-3. A third life-insurance or liability-management anchor only if the goal is maximum closure rather than practical closure.
-4. A second pure-play healthcare-information or hospital-workflow comparator only if the goal is broader subcluster depth rather than practical closure.
+1. A stronger local-artifact rebuild for one of the highest-value qualified names if the goal is proof-standard tightening rather than lane closure.
+2. A third life-insurance or liability-management anchor only if the goal is maximum closure rather than practical closure.
+3. A second pure-play healthcare-information or hospital-workflow comparator only if the goal is broader subcluster depth rather than practical closure.
+4. A second thrift analog only if the goal is fuller savings-and-loans cluster depth rather than practical closure.
 
 ## Open gaps
 
@@ -103,8 +103,8 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 
 - Strongest signal already proved: control, trust, and workflow owners usually earn cleaner economics than the most burdened direct operators around them.
 - Strongest signal still tentative: whether the thinnest remaining role gaps would materially change the lane conclusions or mainly strengthen comparison quality.
-- Exact next company most likely to improve the archive: a thrift-style or savings-and-loans analog.
-- Exact next test that company should run: whether a thrift-style deposit-and-spread model changes the current CLI 6 trust-and-spread-risk comparison more than another incremental software-control addition would.
+- Exact next company most likely to improve the archive: a higher-value proof-tightening target or a third life-insurance comparator.
+- Exact next test that company should run: whether stronger artifact proof or a deeper liability-management comparison changes the lane conclusions more than another incremental software-control addition would.
 
 ## Next-step instruction
 

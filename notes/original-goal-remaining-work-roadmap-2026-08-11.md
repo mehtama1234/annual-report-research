@@ -151,7 +151,7 @@ This means the trust-and-capital thesis is better covered than a narrow folder c
 The thin areas are the exact capital-heavy archive targets:
 
 - life insurance
-- mortgage REITs
+- mortgage REITs now have two explicit pure anchors through `Annaly` and `AGNC`, so the remaining question is whether to add a thrift-style analog rather than whether the category exists at all
 - retail REITs beyond the current pair
 - healthcare-facility REIT depth
 - explicit conglomerate / allocator closure under the intended lane
@@ -159,13 +159,13 @@ The thin areas are the exact capital-heavy archive targets:
 #### Highest-value remaining work
 
 1. Deepen the life-insurance comparison now that `Prudential Financial, Inc.` gives the lane a second flagship anchor.
-2. Add a second mortgage REIT or a cleaner spread-risk comparison.
+2. Add a thrift-style or savings-and-loans analog if the goal is a wider spread-risk comparison beyond pure mortgage REITs.
 3. Add at least one more conglomerate or allocator packet and place it in a lane-appropriate structure.
 4. Tighten the comparison between fee-like intermediaries and heavier spread-risk balance-sheet models.
 
 #### Best next names
 
-1. `AGNC Investment Corp.`
+1. a surviving public thrift or savings-and-loans analog
 2. `Berkshire Hathaway Inc.`
 3. `Apollo Global Management, Inc.`
 4. a third life-insurance name only if broader closure is more valuable than another lane gap
@@ -249,7 +249,7 @@ The new proof pages solved part of the original problem, but the strongest remai
 1. `Eli Lilly and Company`
 2. `HP Inc.`
 3. `TE Connectivity plc`
-4. `AGNC Investment Corp.`
+4. `AGNC Investment Corp.` is now the completed second pure mortgage-REIT anchor rather than a next target
 5. `Sysco Corporation`
 6. `Williams-Sonoma, Inc.`
 7. a second pure-play healthcare-IT or hospital-workflow name only if broader CLI 5 subcluster depth is more valuable than another lane-edge gap

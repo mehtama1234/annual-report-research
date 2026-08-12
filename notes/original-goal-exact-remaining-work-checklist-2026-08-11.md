@@ -215,13 +215,13 @@ Already strong:
 Still thin or still needing a cleaner comparison set:
 
 - life insurance now has a real second flagship anchor through `Prudential Financial, Inc.`, but the comparison set is still thinner than the broker and regional-bank clusters
-- mortgage REIT is now explicitly represented through `Annaly`, but still as a single pure anchor rather than a broader comparison set
+- mortgage REIT is now explicitly represented through both `Annaly` and `AGNC`, so the remaining decision is whether to extend the lane into a thrift-style analog rather than whether the bucket lacks a second pure anchor
 - savings and loans is not yet a real explicit packet cluster
 - retail REIT is now explicit through `Simon` and `Realty Income`, so it is no longer a major unresolved bucket
 
 Best exact next names:
 
-1. another mortgage REIT only if the goal is to turn `Annaly` from explicit anchor into a fuller subcluster
+1. a thrift-style or savings-and-loans analog only if the goal is to widen the spread-risk comparison beyond the now-complete `Annaly` and `AGNC` pair
 2. `New York Community Bancorp, Inc.` or the best available surviving public thrift / savings analog if the goal is to create a true savings-and-loans comparison set
 3. a third life-insurance or liability-management name only if the goal is maximum closure beyond `MetLife` and `Prudential`
 4. a stronger local-artifact rebuild for `Prudential Financial, Inc.` only if the goal is proof-standard tightening rather than lane closure
@@ -298,7 +298,7 @@ Current state:
 If the goal is to move the original-goal audit from mostly `partial` to mostly `achieved`, the highest-yield sequence is:
 
 1. close the thinnest bucket gaps with the best role-filling names:
-   `Annaly` and either `Dell` or `HP`, with `Cigna`, `Tenet`, and `Prudential` now moved from target to completed anchors
+   `Annaly`, `AGNC`, and either `Dell` or `HP`, with `Cigna`, `Tenet`, and `Prudential` now moved from target to completed anchors
 2. run a targeted quarter-window and source-authority audit on those additions plus the other highest-priority thin-lane anchors
 3. selectively upgrade the most abstract older framework notes with proof-page style exact evidence
 
@@ -314,7 +314,7 @@ It is missing closure quality in a small set of exact places.
 
 The most important unresolved holes are:
 
-- second-anchor comparisons in payer, hospital, life insurance, and mortgage REIT
+- second-anchor comparisons in payer, hospital, and life insurance, with mortgage REIT now closed at the two-anchor level
 - tighter explicit clustering in hardware, system, and healthcare-information extensions inside CLI 5
 - proof that the filing-window and source-authority rules hold uniformly in the still-thin parts of the archive
 

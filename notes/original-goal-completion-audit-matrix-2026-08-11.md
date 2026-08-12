@@ -34,7 +34,7 @@ The standard here is stricter than a normal handoff:
 | Leave cross-company themes | Cross-company framework and comparison files are abundant, including [trust as paid product proof](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/trust-as-paid-product-proof-2026-08-10.md), [healthcare outside-hospital proof](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/healthcare-outside-hospital-proof-2026-08-10.md), and the four proof pages | `achieved` | This requirement is well satisfied. |
 | Leave strongest repeated signals | Handoff notes and proof pages explicitly call out repeated patterns such as loyalty ownership, workflow control, validation tolls, trust intermediation, and aging-linked demand | `achieved` | Repeated signals are visible and documented, even if some can still be deepened. |
 | Leave exact next names inside the lane | Current handoffs, the gap audit, the remaining-work roadmap, and the recreation proof page all include exact next targets | `achieved` | This requirement is explicitly and repeatedly satisfied. |
-| End runs with completed companies, partial companies, key themes, strongest cross-company signals, exact next targets, and commit hash | Handoff notes such as [Recreation batch C handoff](/home/manishmehta/ui-projects/annual-report-research/notes/recreation-batch-c-handoff-2026-08-10.md) follow this structure; recent proof-page commits exist in `git log` on `main` | `partial` | Some batches clearly satisfy the format, but the whole frontier push was not uniformly closed with the same discipline. |
+| End runs with completed companies, partial companies, key themes, strongest cross-company signals, exact next targets, and commit hash | Handoff notes such as [Recreation batch C handoff](/home/manishmehta/ui-projects/annual-report-research/notes/recreation-batch-c-handoff-2026-08-10.md) already followed this structure, and [Main wrap-up checkpoint handoff](/home/manishmehta/ui-projects/annual-report-research/notes/main-wrap-up-checkpoint-handoff-2026-08-11.md) now provides one authoritative `main` continuation surface with the required fields | `achieved` | Older run history was uneven, but the current archive now has a clean authoritative closeout checkpoint that states completed companies, partials, themes, repeated signals, next targets, and commit state in one place. |
 | Treat consumer, cultural, societal, industrial, and operating pattern-finding as a main output | The proof pages and theme files repeatedly do this, especially healthcare, trust/capital, and recreation participation | `achieved` | The repo now clearly treats bigger-picture patterns as a primary output rather than optional commentary. |
 | Keep broad claims tied to concrete company evidence | The four `2026-08-11` proof pages are the strongest evidence of this standard | `partial` | The proof pages materially improved this, but additional exact examples are still needed in thinner lanes and some older memos remain more abstract than the newer standard. |
 
@@ -55,7 +55,6 @@ The clearest remaining misses are:
 - not all requested sub-lanes have enough flagship anchors to feel closed
 - the `2025` plus latest-three-quarters standard is not fully verified across every packet in this audit
 - source-authority discipline is supported by structure but not fully repo-proven here
-- end-of-run closure format was inconsistent across the broader push
 - some broad claims still need more exact company-level examples
 
 ## Exact missing work that would upgrade the status
@@ -89,6 +88,6 @@ The evidence does not yet prove:
 
 - fully closed flagship depth across every requested sub-lane
 - fully uniform packet-window verification across the whole push
-- fully uniform end-of-run closure discipline across every batch
+- fully uniform source-authority verification across every packet
 
 That is the actual completion state as of `2026-08-11`.

@@ -272,6 +272,10 @@ Success condition:
 
 - every active continuation handoff clearly lists completed companies, partial companies, key themes, strongest repeated signals, exact next targets, and commit hash
 
+Current state:
+
+- materially addressed by [main-wrap-up-checkpoint-handoff-2026-08-11.md](/home/manishmehta/ui-projects/annual-report-research/notes/main-wrap-up-checkpoint-handoff-2026-08-11.md), which now gives `main` one authoritative continuation-ready closeout surface
+
 ### D. Proof-page upgrades
 
 Focus on older notes that are still too abstract relative to the newer `2026-08-11` proof-page standard.
@@ -291,8 +295,11 @@ If the goal is to move the original-goal audit from mostly `partial` to mostly `
 1. close the thinnest bucket gaps with the best role-filling names:
    `Cigna`, `Tenet`, `Prudential`, `Annaly`, and either `Dell` or `HP`
 2. run a targeted quarter-window and source-authority audit on those additions plus the other highest-priority thin-lane anchors
-3. normalize the active handoff layer
-4. selectively upgrade the most abstract older framework notes with proof-page style exact evidence
+3. selectively upgrade the most abstract older framework notes with proof-page style exact evidence
+
+Note:
+
+- the active handoff layer is now materially normalized through [main-wrap-up-checkpoint-handoff-2026-08-11.md](/home/manishmehta/ui-projects/annual-report-research/notes/main-wrap-up-checkpoint-handoff-2026-08-11.md)
 
 ## Bottom Line
 

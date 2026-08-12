@@ -252,7 +252,7 @@ The new proof pages solved part of the original problem, but the strongest remai
 4. `AGNC Investment Corp.`
 5. `Sysco Corporation`
 6. `Williams-Sonoma, Inc.`
-7. a pure-play healthcare-IT or hospital-workflow name
+7. a second pure-play healthcare-IT or hospital-workflow name only if broader CLI 5 subcluster depth is more valuable than another lane-edge gap
 8. `Universal Health Services, Inc.` only if a third hospital comparator becomes more valuable than another lane gap
 
 ## Bottom line

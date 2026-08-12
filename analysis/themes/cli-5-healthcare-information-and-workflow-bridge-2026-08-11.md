@@ -13,6 +13,7 @@ Primary packet set used here:
 - [ServiceNow, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/servicenow-inc/company-packet.md)
 - [Quest Diagnostics Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/quest-diagnostics-inc/company-packet.md)
 - [Labcorp Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/labcorp-holdings-inc/company-packet.md)
+- [Waystar Holding Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/healthcare-information-services/waystar-holding-corp/company-packet.md)
 
 Supporting comparison context:
 
@@ -130,7 +131,36 @@ It is also:
 
 That is why Oracle belongs in the bridge.
 
-## Claim 4: the real bridge is not a single company; it is a chain from accepted clinical record to governed enterprise workflow
+## Claim 4: the real bridge is now explicit because there is a pure-play healthcare workflow operator inside the archive
+
+Waystar is the clearest proof.
+
+### Concrete evidence
+
+| Company | Exact evidence | Why it matters |
+|---|---|---|
+| Waystar | Fiscal `2025` revenue was about `$1.099B`, and `Q4 2025` adjusted EBITDA was about `$129.1M` with about `43%` margin. | This is already a scaled software business built around healthcare workflow and payment complexity, not a speculative niche vendor. |
+| Waystar | The `2025` `10-K` said the platform served more than `30,000` clients representing more than `1M` distinct providers, processed over `7.5B` healthcare payment transactions in `2025`, and handled over `$2.4T` in gross claims volume. | The workflow layer is not abstract. It is a national operating system for healthcare payment and reimbursement activity. |
+| Waystar | `Q2 2026` revenue was about `$319.7M`; subscription revenue was about `$176.3M`, up `34%`; and net revenue retention was `108%`. | Providers keep paying more for this layer because it is embedded in recurring operational workflow rather than in one-time software spend. |
+| Waystar | The annual filing says the platform spans eligibility, prior authorization, coding and documentation accuracy, claims monitoring, denial recovery, patient payments, analytics, and over `500` PM / ERP / EHR partner integrations. | This is direct proof that healthcare-information control is not just record storage. It is workflow orchestration around getting providers paid accurately and on time. |
+
+### Why this supports the bigger conclusion
+
+Waystar closes the pure-play gap that the earlier bridge note still had.
+
+The archive no longer has to argue healthcare information only through:
+
+- diagnostics plus accepted record
+- generic workflow software
+- enterprise cloud and database control
+
+It can now also point to a company whose core business is:
+
+- healthcare payment workflow
+- hospital and provider revenue-cycle control
+- embedded approval, claims, denial, and patient-payment orchestration
+
+## Claim 5: the real bridge is not a single company; it is a chain from accepted clinical record to governed enterprise workflow
 
 This is the key pattern the archive can now prove.
 
@@ -139,6 +169,7 @@ This is the key pattern the archive can now prove.
 | Layer | Best proof names | What the packets show |
 |---|---|---|
 | Accepted clinical result | Quest, Labcorp | The clinical workflow needs a trusted diagnostic answer before the next care step happens. |
+| Healthcare payment and revenue-cycle workflow | Waystar | Providers need claims, prior authorization, denial management, patient payments, and reimbursement routing to work as a governed software system. |
 | Enterprise workflow governance | ServiceNow | Large institutions need the work around those answers to be routed, approved, tracked, and made visible. |
 | Cloud, database, and application control | Oracle | Those governed workflows increasingly sit inside larger cloud and database-control systems. |
 
@@ -167,11 +198,11 @@ This note proves several narrower but important things:
 1. The archive no longer lacks a real healthcare-information bridge inside CLI 5.
 2. Diagnostic laboratory networks should be read partly as information and accepted-record infrastructure, not only as healthcare services.
 3. Healthcare workflow control is partly owned by general enterprise software layers such as ServiceNow and Oracle, not only by healthcare-labeled vendors.
-4. The bridge from clinical result to governed enterprise workflow is now visible in the archive with named examples and filing-backed facts.
+4. The bridge from clinical result to healthcare payment workflow to governed enterprise workflow is now visible in the archive with named examples and filing-backed facts.
 
 ## What this note does not prove
 
-- It does not prove that the archive has a complete pure-play healthcare-IT comparison set.
+- It does not prove that the archive has a broad pure-play healthcare-IT comparison set.
 - It does not prove that Oracle or ServiceNow are healthcare companies in the taxonomy sense.
 - It does not prove that every healthcare workflow system will earn software-quality economics.
 
@@ -183,13 +214,13 @@ It is now visible as a real chain of control systems across diagnostics, workflo
 
 ## Exact next targets to deepen this bridge
 
-1. A pure-play healthcare-IT or healthcare-workflow packet, if one is added later, would deepen the bridge from "real and proven" to "fully explicit cluster."
+1. A second pure-play healthcare-IT or revenue-cycle workflow comparator would deepen the bridge from "real and explicit" to a broader subcluster.
 2. A second accepted-record healthcare case beyond Quest and Labcorp would strengthen the clinical-information side further.
-3. A direct hospital-IT or revenue-cycle workflow comparator would make the institutional-workflow side cleaner.
+3. A direct hospital-IT or EHR-adjacent comparator would make the institutional-workflow side cleaner.
 
 ## Queue status
 
-This note closes the broad healthcare-information bridge gap inside CLI 5 using existing packets rather than new shallow starts.
+This note now closes the broad healthcare-information bridge gap inside CLI 5 with a real pure-play healthcare workflow packet rather than only adjacent evidence.
 
 Completed company set used directly in this memo:
 
@@ -197,6 +228,7 @@ Completed company set used directly in this memo:
 - ServiceNow
 - Quest Diagnostics
 - Labcorp
+- Waystar
 
 Partial companies:
 

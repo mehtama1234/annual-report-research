@@ -185,12 +185,12 @@ Already strong:
 
 Still thin or still needing a cleaner comparison set:
 
-- healthcare information is now bridged through `Oracle`, `ServiceNow`, `Quest`, and `Labcorp`, but not yet through a pure-play healthcare-IT comparison set
-- business software and services plus technical and system software now read more clearly as one extension set, but still benefit from one more explicit healthcare-workflow or hospital-IT comparator if the goal is maximum closure rather than practical closure
+- healthcare information now has a pure-play anchor through `Waystar`, alongside the existing bridge through `Oracle`, `ServiceNow`, `Quest`, and `Labcorp`
+- business software and services plus technical and system software now read more clearly as one extension set, but would still benefit from a second healthcare-workflow or hospital-IT comparator if the goal is maximum closure rather than practical closure
 
 Best exact next names:
 
-1. a pure-play healthcare-IT or healthcare-workflow name if the goal is to turn the now-real bridge into a dedicated subcluster
+1. a second pure-play healthcare-IT or healthcare-workflow name if the goal is to widen the now-real dedicated subcluster
 2. `CrowdStrike Holdings, Inc.` only if the goal is to deepen the trust-control layer beyond `Zscaler` and `Palo Alto`
 3. `Ciena Corporation` if the goal is to deepen active optical and network-control economics against the existing Corning and Arista logic
 4. `Iridium Communications Inc.` if the goal is to add a more specialized communications-control architecture rather than deepen enterprise systems further

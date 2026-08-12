@@ -42,7 +42,6 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 
 ## Qualified companies
 
-- `The Cigna Group`: analytically strong, but the packet still marks the annual-plus-quarter local filing chain as not yet fully tightened.
 - `Tenet Healthcare`: usable for hospital-lane comparison, but the packet still carries a remaining proof-standard artifact gap.
 
 ## Partial companies

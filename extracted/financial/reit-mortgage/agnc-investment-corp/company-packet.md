@@ -1,12 +1,12 @@
 # AGNC Investment Corp. Packet
 
-Date baseline: 2026-08-12
+Date baseline: `2026-08-12`
 
 ## Snapshot
 
-- Company: AGNC Investment Corp.
-- Sector: Financial
-- Industry: REIT - Mortgage Real Estate
+- Company: `AGNC Investment Corp.`
+- Sector: `Financial`
+- Industry: `REIT - Mortgage Real Estate`
 - Ticker: `AGNC`
 - Fiscal year-end: December 31
 - Target annual report year: 2025
@@ -14,13 +14,14 @@ Date baseline: 2026-08-12
   - quarter 1: `Q2 2026`
   - quarter 2: `Q1 2026`
   - quarter 3: `Q4 2025`
-- Proof status in current repo: `qualified`
+- Proof status in current repo: `proven`
 
 ## Source state
 
 - AnnualReports is used here for taxonomy and archive confirmation.
 - Company IR and SEC are the authoritative annual-plus-quarter chain for this packet.
-- The official investor page, official quarterly-results pages, annual report PDF link, and SEC filing chain were verified directly, but a clean local raw-artifact chain was not rebuilt in this workspace, so the current proof standard depends on verified official URLs plus the SEC filing chain rather than locally saved binaries.
+- The AnnualReports company page, fiscal `2025` annual filing set, in-scope `8-K` wrappers, in-scope earnings-release exhibits, and in-scope `10-Q` filings are now locally inspectable in this workspace.
+- Direct shell retrieval of issuer-hosted `investors.agnc.com` pages did not yield clean saved HTML artifacts in this workspace, so the official IR routing and page-level confirmations are preserved in a local verification note instead.
 
 ## Annual report takeaways
 
@@ -36,7 +37,7 @@ Date baseline: 2026-08-12
 
 - Results: net income available to common stockholders was about `$610M`, comprehensive income available to common stockholders was about `$603M`, and both net income and comprehensive income were about `$0.52` per common share.
 - Operating detail: tangible net book value per common share rose to about `$8.58` from about `$8.38` at March 31, `2026`; economic return on tangible common equity was about `6.7%`; and net spread and dollar roll income available to common stockholders was about `$462M`, or about `$0.40` per diluted share.
-- Portfolio and leverage signal: the investment portfolio was about `$97.2B` at June 30, `2026`; `at risk` leverage was about `7.6x`; and the company declared about `$0.36` per common share of dividends for the quarter.
+- Portfolio and leverage signal: the investment portfolio was about `$97.2B` at June 30, `2026`; `at risk` leverage was about `7.4x`; and the company declared about `$0.36` per common share of dividends for the quarter.
 - Structural read: `Q2 2026` shows why mortgage REITs belong in CLI 6. The business can produce a strong quarter not because housing demand is simple, but because the manager correctly handles spread, hedge, funding, and book-value dynamics inside a levered mortgage portfolio.
 
 ### Quarter minus 1: Q1 2026
@@ -49,7 +50,7 @@ Date baseline: 2026-08-12
 ### Quarter minus 2: Q4 2025
 
 - Results: the company said `2025` economic return on tangible common equity was about `22.7%`, and `2025` total stock return with dividends reinvested was about `34.8%`.
-- Full-year readthrough: the year closed with a portfolio of about `$94.8B`, `tangible net book value at risk` leverage of about `7.2x`, and `2025` net spread and dollar roll income available to common stockholders of about `$1.535B`.
+- Full-year readthrough: the year closed with a portfolio of about `$94.8B`, tangible net book value `at risk` leverage of about `7.2x`, and `2025` net spread and dollar roll income available to common stockholders of about `$1.535B`.
 - Strategic read: `Q4 2025` anchors AGNC as a strong second mortgage-REIT comparison because it shows a period when the levered agency-MBS model worked unusually well, which gives the archive something to compare against more pressured quarters and against other spread-risk financial structures.
 
 ## Signals to feed into higher-level analysis
@@ -61,20 +62,18 @@ Date baseline: 2026-08-12
 
 ## Source pointers
 
-- AnnualReports taxonomy: https://www.annualreports.com/Company/agnc-investment-corp
-- Official investor overview: https://investors.agnc.com/
-- Official events and presentations page: https://investors.agnc.com/events-and-presentations/upcoming-events
-- Official `2025` annual report PDF listing: https://investors.agnc.com/events-and-presentations/upcoming-events
-- `2025` annual report PDF: https://www.sec.gov/Archives/edgar/data/1423689/000142368926000062/annualreport-final.pdf
-- `2025` `10-K`: https://www.sec.gov/Archives/edgar/data/1423689/000142368926000043/agnc-20251231.htm
-- `Q4 2025` earnings release exhibit: https://www.sec.gov/Archives/edgar/data/1423689/000142368926000024/agnc8kexhibit991123125.htm
-- `Q4 2025` `8-K`: https://www.sec.gov/Archives/edgar/data/1423689/000142368926000024/agnc-20260127.htm
-- `Q1 2026` earnings release exhibit: https://www.sec.gov/Archives/edgar/data/1423689/000142368926000095/agnc8kexhibit99133126.htm
-- `Q1 2026` `8-K`: https://www.sec.gov/Archives/edgar/data/1423689/000142368926000095/agnc-20260420.htm
-- `Q1 2026` `10-Q`: https://www.sec.gov/Archives/edgar/data/1423689/000142368926000099/agnc-20260331.htm
-- `Q2 2026` earnings release exhibit: https://www.sec.gov/Archives/edgar/data/1423689/000142368926000124/agnc8kexhibit99163026.htm
-- `Q2 2026` `8-K`: https://www.sec.gov/Archives/edgar/data/1423689/000142368926000124/agnc-20260720.htm
-- `Q2 2026` `10-Q`: https://www.sec.gov/Archives/edgar/data/1423689/000142368926000129/agnc-20260630.htm
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/financial/reit-mortgage/agnc-investment-corp/company-page.html)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/reit-mortgage/agnc-investment-corp/official-ir-verification.md)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/reit-mortgage/agnc-investment-corp/2025-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/reit-mortgage/agnc-investment-corp/2025-10k.html)
+- [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/reit-mortgage/agnc-investment-corp/2025-q4-press-release.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/reit-mortgage/agnc-investment-corp/2025-q4-8k.html)
+- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/reit-mortgage/agnc-investment-corp/2026-q1-press-release.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/reit-mortgage/agnc-investment-corp/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/reit-mortgage/agnc-investment-corp/2026-q1-10q.html)
+- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/reit-mortgage/agnc-investment-corp/2026-q2-press-release.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/reit-mortgage/agnc-investment-corp/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/reit-mortgage/agnc-investment-corp/2026-q2-10q.html)
 
 ## Evidence-status note
 
@@ -82,9 +81,11 @@ Date baseline: 2026-08-12
 - The authority ordering is explicit:
   - AnnualReports for taxonomy and archive confirmation
   - company IR and SEC for the authoritative annual and quarter chain
-- The main current weakness is artifact locality, not period definition:
-  - the authoritative official URLs and SEC filing chain are verified
-  - a clean local raw-artifact chain was not rebuilt in this workspace
+- The annual-plus-quarter artifact chain is now locally inspectable:
+  - AnnualReports company page
+  - official IR verification note
+  - annual report PDF and SEC annual filing
+  - in-scope earnings-release exhibits, `8-K` wrappers, and `10-Q` filings
 - The right reading standard today is:
-  - strong enough for thematic interpretation and mortgage-REIT comparison work
-  - still `qualified`, not fully `proven`, until the annual-plus-quarter artifact chain is saved locally in the same way as the cleanest proof-standard packets
+  - fully `proven` for annual-plus-quarter filing coverage and mortgage-REIT comparison work
+  - still imperfect only in the narrower sense that no local presentation or transcript artifacts are preserved

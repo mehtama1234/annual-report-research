@@ -28,7 +28,7 @@ Use evidence tags:
 | UNH-T11 | Q2 2026 earnings release | 2026-07-16 | IR earnings release PDF | Exact Q2 2026 metrics, raised 2026 guidance, and reform commitments across affordability, prior authorization, and pharmacy pricing | `[Disclosed]` | [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/healthcare/managed-health-care/unitedhealth-group-inc/2026-q2-earnings-release.pdf) |
 | UNH-T12 | Q2 2026 8-K | 2026-07-16 | SEC filing PDF | Wrapper filing for second-quarter 2026 earnings release | `[Filed]` | [2026-q2-8k.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/managed-health-care/unitedhealth-group-inc/2026-q2-8k.pdf) |
 | UNH-T13 | Q2 2026 earnings-call prepared remarks | 2026-07-16 | IR prepared-remarks PDF | Adds management commentary on Medicare, Medicaid, commercial cost pressure, Optum momentum, and AI-enabled system simplification | `[Disclosed]` | [2026-q2-earnings-call-remarks.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/healthcare/managed-health-care/unitedhealth-group-inc/2026-q2-earnings-call-remarks.pdf) |
-| UNH-T14 | Q2 2026 Form 10-Q | 2026-08-10 | SEC filing HTML | Filed quarterly report for the quarter ended `2026-06-30`, closing the latest-quarter filing gap in the earlier packet state | `[Filed]` | https://www.sec.gov/Archives/edgar/data/731766/000073176626000197/unh-20260630.htm |
+| UNH-T14 | Q2 2026 Form 10-Q | 2026-08-10 | SEC filing HTML | Filed quarterly report for the quarter ended `2026-06-30`, closing the latest-quarter filing gap in the earlier packet state | `[Filed]` | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/managed-health-care/unitedhealth-group-inc/2026-q2-10q.html) |
 
 ## Reconciliation notes
 
@@ -39,10 +39,9 @@ Use evidence tags:
   - `8-K`
   - prepared remarks
   - filed `10-Q` at SEC accession `0000731766-26-000197`
-- The packet is still marked `qualified` because the current workspace does not preserve a local copy of the `Q2 2026` `10-Q`, even though the filing now clearly exists.
+- The packet is now `proven` because the current workspace preserves the filed `Q2 2026` `10-Q` locally alongside the earnings release, `8-K`, prepared remarks, and prior-quarter filing chain.
 - For Q4 2025, the annual filing package serves as the main filed artifact alongside the earnings release and `8-K`.
 
 ## Missing evidence
 
-- No local copy of the filed Q2 2026 `10-Q` is preserved in the current workspace.
 - No full Q4 2025 earnings-call transcript was collected in the current workspace.

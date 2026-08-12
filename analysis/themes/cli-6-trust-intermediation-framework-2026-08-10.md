@@ -44,6 +44,13 @@ Applied comparison memos:
 
 The completed CLI 6 batches now point to a clearer framing than the original industry labels imply. Insurance brokers, healthcare-facility REITs, alternative-capital managers, and regional banks all sit inside the same broader problem set: customers need help absorbing risk, aging, funding, regulation, and capital complexity. The best economics in the lane tend to accrue to the models that own the workflow, distribution, or demand chokepoint while avoiding as much plain-vanilla funding exposure as possible. Gallagher, Aon, and Marsh show this most cleanly through advisory and placement control. Welltower and Ventas show that aging-linked property can become an operating moat when resident demand, operator quality, and supply scarcity tighten into one system. Apollo, Brookfield, and KKR show that private capital is increasingly infrastructure-like when firms control fundraising, liability channels, deployment, and monetization. M&T and Regions remain useful because they show what the more burdened form of trust intermediation looks like when the model still depends on spreads, deposits, and credit proof every quarter.
 
+In plainer language:
+
+- brokers get paid for being inside the decision flow without funding the whole risk stack
+- senior-housing REITs get paid when aging demand, occupancy, and low supply turn property into an operating system
+- alternative managers get paid when they become recurring channels for fundraising, insurance-linked capital, and deployment
+- banks still matter, but they usually have to prove deposit, spread, and credit discipline every quarter in a way the lighter trust models do not
+
 ## Evidence
 
 | Company | Sector | Industry | Evidence | Quarter / Year |
@@ -58,6 +65,66 @@ The completed CLI 6 batches now point to a clearer framing than the original ind
 | KKR & Co. Inc. | Financial | Asset Management | KKR's `2025` annual plus `4Q25` / `1Q26` / `2Q26` chain showed rising fee-related earnings, monetization depth, insurance economics, private-wealth channels, and asset-based finance, widening the capital-manufacturing thesis. | 2025 annual / trailing quarters |
 | M&T Bank Corporation | Financial | Regional - Mid-Atlantic Banks | M&T's `2025` annual plus `4Q25` / `1Q26` / `2Q26` chain showed disciplined spread management, loan growth, and capital strength, but also the heavier quarter-to-quarter proof burden of deposit-and-credit intermediation. | 2025 annual / trailing quarters |
 | Regions Financial Corp. | Financial | Regional - Southeast Banks | Regions's `2025` annual plus `4Q25` / `1Q26` / `2Q26` chain showed stable credit, capital strength, fee resilience, and relationship-bank funding quality, again underscoring that even cleaner bank cases still carry more commodity-balance-sheet exposure than workflow owners. | 2025 annual / trailing quarters |
+
+## Exact claim-to-proof chains
+
+### 1. Broker workflow ownership is the cleanest trust model in the current lane.
+
+Exact supporting chain:
+
+- `Marsh` reported about `$27.0B` of full-year `2025` revenue and about `$9.75` of adjusted EPS.
+- In `1Q26`, `Marsh` still produced about `$7.6B` of revenue and about `$3.29` of adjusted EPS even though a Greensill litigation charge distorted reported operating income.
+- `Aon` centered `2025` on `6%` organic revenue growth and double-digit adjusted EPS growth.
+- In `1Q26`, `Aon` reported about `$5.034B` of revenue, about `39.1%` adjusted operating margin, and about `$6.48` of adjusted EPS.
+
+Why those facts matter:
+
+- these are very large profit pools
+- they remain strong without relying on deposit spreads, rent collection, or direct risk warehousing
+- the cash generation comes from staying inside client workflow, advice, placement, and analytics
+
+### 2. Aging-linked property is stronger than a plain yield story when occupancy and supply discipline reinforce each other.
+
+Exact supporting chain:
+
+- `Ventas` reported about `$0.97` of normalized FFO per share in `2Q26`, up about `9%`, while total company NOI grew about `17%` and SHOP same-store cash NOI grew about `16%`.
+- `Ventas` had already closed about `$3.4B` of year-to-date investments by `2Q26` and raised expected `2026` investment volume to about `$4.5B`.
+- `Welltower` reported `2Q26` normalized FFO of `$1.60` per diluted share and seniors-housing operating same-store NOI growth of `20.5%`.
+- `Welltower` also showed `22.1%` seniors-housing operating NOI growth in `1Q26` and `20.4%` same-store NOI growth in `4Q25`.
+
+Why those facts matter:
+
+- the same pattern held across multiple quarters, not just one print
+- these REITs are not only collecting rent
+- they are converting occupancy, pricing, operator quality, and low supply into real operating leverage
+
+### 3. The best alternative managers now look like recurring capital-manufacturing systems.
+
+Exact supporting chain:
+
+- `Brookfield` reported about `$5.4B` of distributable earnings before realizations in full-year `2025`, about `$6.0B` of total distributable earnings, and about `$3.2B` of net income.
+- In `1Q26`, `Brookfield` said it had raised about `$67B` since the prior quarter, including about `$44B` of insurance capital, and that total insurance assets had reached about `$180B`.
+- `KKR` closed `2025` with about `$3.7B` of FRE, about `$744B` of AUM, about `$129B` of capital raised, and about `$95B` of capital invested.
+- In `2Q26`, `KKR` reached about `$796B` of AUM, raised about `$34B` in the quarter, invested about `$24B`, and ended with about `$143B` of uncalled commitments.
+
+Why those facts matter:
+
+- these firms are not only waiting for asset prices to rise
+- they are repeatedly raising, routing, and deploying capital through insurance, wealth, private credit, and institutional channels
+- that is closer to infrastructure behavior than to a one-cycle asset-management story
+
+### 4. Even disciplined banks still carry a heavier proof burden than the lighter trust intermediaries.
+
+Exact supporting chain:
+
+- `M&T` earned about `$2.85B` in `2025`, but the recurring proof points in `2Q26` were still spread and balance-sheet metrics: about `$1.804B` of taxable-equivalent net interest income, about `3.70%` net interest margin, and about `10.19%` CET1.
+- `Regions` earned about `$2.1B` in `2025`, but `2Q26` still had to be read through about `1.69%` low-cost interest-bearing deposit costs, about `10.7%` CET1, and about `42` basis points of annualized net charge-offs.
+
+Why those facts matter:
+
+- these are good banks, not broken banks
+- but their quality still has to be re-proven through deposits, spreads, hedging, credit, and capital every quarter
+- that is a heavier operating and funding burden than the broker model and usually a heavier burden than the best private-capital and aging-REIT cases
 
 ## Why this matters
 
@@ -81,6 +148,22 @@ The completed CLI 6 batches now point to a clearer framing than the original ind
 - Alternative-capital managers increasingly resemble capital infrastructure rather than classic asset managers, especially when insurance liabilities, private-wealth distribution, and asset-based finance widen the model.
 - Regional banks remain important comparison cases because they show the difference between trusted intermediation with heavy funding burden and trusted intermediation with lighter fee or platform economics.
 - Participation is showing up here too, but not in the leisure sense. It appears through later-life housing uptake, retirement-channel dependence, and broader household access to private-capital products through advisors and wealth networks.
+
+## What the current filing window actually proved
+
+The `2025` annuals plus the latest reported quarters did not just prove that these businesses are large.
+
+They proved a ranking inside the lane.
+
+- `Broker workflow is the cleanest current model.` `Marsh` and `Aon` both showed large revenue bases, high adjusted earnings, and strong organic or underlying growth without needing the quarter-to-quarter spread and credit proof that banks need.
+- `Aging-linked property is a real operating system.` `Ventas` and `Welltower` did not only show stable rent collection. They showed double-digit NOI growth tied to occupancy, pricing, and low supply.
+- `Alternative managers are widening beyond classic fees.` `Brookfield` and `KKR` showed that fundraising, insurance-linked capital, private-wealth access, and deployment scale are now core parts of the model.
+- `Banks still define the burdened baseline.` `M&T` and `Regions` showed that even good bank cases are still read through deposit costs, margins, charge-offs, and capital ratios before they can be called high quality.
+
+That is the real CLI 6 conclusion:
+
+- the better economics usually go to the model that owns trust, workflow, demand channels, or capital formation with less commodity funding burden
+- the weaker-quality models are not necessarily weak companies; they are the ones that must absorb more plain balance-sheet pressure to stay necessary
 
 ## Durability Versus Commoditization Overlay
 

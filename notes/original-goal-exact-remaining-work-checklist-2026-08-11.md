@@ -94,13 +94,14 @@ Current status: `partial`
 What is missing:
 
 - the newer proof pages are concrete
-- some older framework memos are still more conceptual than evidentiary
+- the main older CLI lane frameworks have now been materially strengthened with exact claim-to-proof chains
+- some older bridge memos, extension notes, and thinner framework surfaces are still more conceptual than evidentiary
 - thin sub-lanes still need more named-company fact chains
 
 What would prove completion:
 
 - more proof-page style notes in the thin sub-lanes
-- selective upgrades of older framework notes where they are still too abstract to carry the stronger standard
+- selective upgrades of the remaining older framework and bridge notes where they are still too abstract to carry the stronger standard
 
 ## Exact Lane Gaps
 
@@ -282,11 +283,15 @@ Focus on older notes that are still too abstract relative to the newer `2026-08-
 
 Best targets:
 
-- any lane framework that still states the idea well but does not yet show enough exact named-company evidence
+- any remaining bridge or extension memo that still states the idea well but does not yet show enough exact named-company evidence
 
 Success condition:
 
 - a skeptical reader can trace every major claim back to named companies and exact fact-period chains
+
+Current state:
+
+- materially improved because the main `CLI 4`, `CLI 5`, and `CLI 6` lane frameworks now contain explicit claim-to-proof chains rather than only category-level summary logic
 
 ## Shortest Path To Honest Completion
 

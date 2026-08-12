@@ -1,12 +1,12 @@
 # Prudential Financial, Inc. Packet
 
-Date baseline: 2026-08-12
+Date baseline: `2026-08-12`
 
 ## Snapshot
 
-- Company: Prudential Financial, Inc.
-- Sector: Financial
-- Industry: Life Insurance
+- Company: `Prudential Financial, Inc.`
+- Sector: `Financial`
+- Industry: `Life Insurance`
 - Ticker: `PRU`
 - Fiscal year-end: December 31
 - Target annual report year: 2025
@@ -14,13 +14,14 @@ Date baseline: 2026-08-12
   - quarter 1: `Q2 2026`
   - quarter 2: `Q1 2026`
   - quarter 3: `Q4 2025`
-- Proof status in current repo: `qualified`
+- Proof status in current repo: `proven`
 
 ## Source state
 
-- AnnualReports is used here for taxonomy and archive confirmation. As of `2026-08-12`, it still lagged at `2024` for the hosted annual package.
+- AnnualReports is used here for taxonomy and archive confirmation only. As of `2026-08-12`, it still lagged at `2024` for the hosted annual package.
 - Company IR and SEC are the authoritative annual-plus-quarter chain for this packet.
-- The official annual-report page, quarterly-results page, official results releases, and SEC filing chain were verified directly, but a clean local raw-artifact chain was not rebuilt in this workspace, so the current proof standard depends on verified official URLs plus the SEC filing chain rather than locally saved binaries.
+- The AnnualReports company page, annual `10-K`, in-scope `8-K` wrappers, in-scope earnings-release exhibits, the `Q2 2026` preliminary update filing, the `Q2 2026` quarterly financial supplement, and both in-scope `10-Q` filings are now locally inspectable in this workspace.
+- Direct shell retrieval attempts to Prudential’s investor pages were rate-limited or otherwise did not yield clean saved HTML artifacts in this workspace, so the official IR routing and page-level confirmations are preserved in a local verification note instead.
 
 ## Annual report takeaways
 
@@ -62,30 +63,31 @@ Date baseline: 2026-08-12
 
 ## Source pointers
 
-- AnnualReports taxonomy: https://www.annualreports.com/Company/prudential-financial-inc
-- Official annual reports page: https://investor.prudential.com/financials/proxy-statement-annual-report-and-voting-results/default.aspx
-- Official quarterly results page: https://investor.prudential.com/financials/quarterly-results/default.aspx
-- Official `Q4 2025` results page: https://investor.prudential.com/news/news-details/2026/Prudential-Financial-Inc--Announces-Full-Year-and-Fourth-Quarter-2025-Results/default.aspx
-- Official `Q1 2026` results page: https://investor.prudential.com/news/news-details/2026/Prudential-Financial-Inc--Announces-First-Quarter-2026-Results/default.aspx
-- Official `Q2 2026` results page: https://www.investor.prudential.com/news/news-details/2026/Prudential-Financial-Inc--Announces-Second-Quarter-2026-Results/default.aspx
-- `2025` `10-K`: https://www.sec.gov/Archives/edgar/data/1137774/000113777426000048/pru-20251231.htm
-- `Q4 2025` earnings release exhibit: https://www.sec.gov/Archives/edgar/data/1137774/000113777426000012/exhibit991-4q25earningspre.htm
-- `Q4 2025` `8-K`: https://www.sec.gov/Archives/edgar/data/1137774/000113777426000012/pru-20260203.htm
-- `Q1 2026` earnings release exhibit: https://www.sec.gov/Archives/edgar/data/1137774/000113777426000093/exhibit991-1q26earningspre.htm
-- `Q1 2026` `8-K`: https://www.sec.gov/Archives/edgar/data/1137774/000113777426000093/pru-20260505.htm
-- `Q1 2026` `10-Q`: https://www.sec.gov/Archives/edgar/data/1137774/000113777426000095/pru-20260331.htm
-- `Q2 2026` preliminary update: https://www.sec.gov/Archives/edgar/data/1137774/000113777426000157/pru-20260715.htm
-- `Q2 2026` `10-Q`: https://www.sec.gov/Archives/edgar/data/1137774/000113777426000176/pru-20260630.htm
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/financial/life-insurance/prudential-financial-inc/company-page.html)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/life-insurance/prudential-financial-inc/official-ir-verification.md)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/life-insurance/prudential-financial-inc/2025-10k.html)
+- [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/life-insurance/prudential-financial-inc/2025-q4-press-release.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/life-insurance/prudential-financial-inc/2025-q4-8k.html)
+- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/life-insurance/prudential-financial-inc/2026-q1-press-release.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/life-insurance/prudential-financial-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/life-insurance/prudential-financial-inc/2026-q1-10q.html)
+- [2026-q2-preliminary-update-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/life-insurance/prudential-financial-inc/2026-q2-preliminary-update-8k.html)
+- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/life-insurance/prudential-financial-inc/2026-q2-press-release.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/life-insurance/prudential-financial-inc/2026-q2-8k.html)
+- [2026-q2-financial-supplement.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/life-insurance/prudential-financial-inc/2026-q2-financial-supplement.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/life-insurance/prudential-financial-inc/2026-q2-10q.html)
 
 ## Evidence-status note
 
 - The filing window used here is explicit and internally consistent with the company profile and source ledger.
 - The authority ordering is explicit:
-  - AnnualReports for taxonomy and archive confirmation
+  - AnnualReports for taxonomy and archive confirmation only
   - company IR and SEC for the authoritative annual and quarter chain
-- The main current weakness is artifact locality, not period definition:
-  - the authoritative official URLs and SEC filing chain are verified
-  - a clean local raw-artifact chain was not rebuilt in this workspace
+- The annual-plus-quarter artifact chain is now locally inspectable:
+  - AnnualReports company page
+  - official IR verification note
+  - SEC annual filing
+  - in-scope earnings-release exhibits, `8-K` wrappers, the `Q2 2026` financial supplement, the `Q2 2026` preliminary update filing, and `10-Q` filings
 - The right reading standard today is:
-  - strong enough for thematic interpretation and life-insurance comparison work
-  - still `qualified`, not fully `proven`, until the annual-plus-quarter artifact chain is saved locally in the same way as the cleanest proof-standard packets
+  - fully `proven` for annual-plus-quarter filing coverage and life-insurance comparison work
+  - still imperfect only in the narrower sense that no local transcript artifact is preserved

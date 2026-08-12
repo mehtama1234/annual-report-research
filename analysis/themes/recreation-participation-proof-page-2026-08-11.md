@@ -9,20 +9,20 @@ Collection window:
 
 Primary packet set used here:
 
-- [Host Hotels & Resorts, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-hotel-motel/host-hotels-resorts-inc/company-packet.md)
-- [Apple Hospitality REIT, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-hotel-motel/apple-hospitality-reit-inc/company-packet.md)
-- [Marriott International, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/marriott-international-inc/company-packet.md)
-- [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
-- [Las Vegas Sands Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/las-vegas-sands-corp/company-packet.md)
-- [Etsy, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-catalog-mail-order-houses/etsy-inc/company-packet.md)
-- [Wayfair Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/home-furnishing-stores/wayfair-inc/company-packet.md)
+- [Host Hotels & Resorts, Inc.](/extracted/real-estate/reit-hotel-motel/host-hotels-resorts-inc/company-packet.md)
+- [Apple Hospitality REIT, Inc.](/extracted/real-estate/reit-hotel-motel/apple-hospitality-reit-inc/company-packet.md)
+- [Marriott International, Inc.](/extracted/services/lodging/marriott-international-inc/company-packet.md)
+- [Caesars Entertainment, Inc.](/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
+- [Las Vegas Sands Corp.](/extracted/services/resorts-casinos/las-vegas-sands-corp/company-packet.md)
+- [Etsy, Inc.](/extracted/services/retail-catalog-mail-order-houses/etsy-inc/company-packet.md)
+- [Wayfair Inc.](/extracted/services/home-furnishing-stores/wayfair-inc/company-packet.md)
 
 Supporting lane context:
 
-- [Recreation Batch C Handoff](/home/manishmehta/ui-projects/annual-report-research/notes/recreation-batch-c-handoff-2026-08-10.md)
-- [Fandom, Play, and Participation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
-- [Ritual, Occasion, and Stimulation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
-- [Recreation Owner And Repeat Relationship Bridge](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/recreation-owner-and-repeat-relationship-bridge-2026-08-11.md)
+- [Recreation Batch C Handoff](/notes/recreation-batch-c-handoff-2026-08-10.md)
+- [Fandom, Play, and Participation Systems](/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
+- [Ritual, Occasion, and Stimulation Systems](/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
+- [Recreation Owner And Repeat Relationship Bridge](/analysis/themes/recreation-owner-and-repeat-relationship-bridge-2026-08-11.md)
 
 ## The question
 
@@ -227,14 +227,14 @@ In this lane, the best economics usually go to the company that owns the repeat 
 
 ## Exact next targets to deepen this proof
 
-1. [Signet Jewelers Limited](/home/manishmehta/ui-projects/annual-report-research/extracted/services/jewelry-stores/signet-jewelers-limited/company-packet.md)
+1. [Signet Jewelers Limited](/extracted/services/jewelry-stores/signet-jewelers-limited/company-packet.md)
 Reason: deepen the milestone, gifting, and occasion-demand side of the lane.
 
-2. [Sunstone Hotel Investors, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-hotel-motel/sunstone-hotel-investors-inc/company-packet.md)
+2. [Sunstone Hotel Investors, Inc.](/extracted/real-estate/reit-hotel-motel/sunstone-hotel-investors-inc/company-packet.md)
 Reason: test a second hotel-owner contrast beyond Host and Apple Hospitality.
 
-3. [US Foods Holding Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-grocery-stores/us-foods-holding-corp/company-packet.md)
+3. [US Foods Holding Corp.](/extracted/services/retail-grocery-stores/us-foods-holding-corp/company-packet.md)
 Reason: extend the lane into behind-the-experience food and hospitality supply.
 
-4. [Chewy, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
+4. [Chewy, Inc.](/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
 Reason: add another trust-heavy repeat lifestyle and replenishment platform.

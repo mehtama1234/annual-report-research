@@ -9,9 +9,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/charter-communications-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/charter-communications-inc/ir-source-links.md)
-- SEC filings folder: [charter-communications-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/charter-communications-inc)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/diversified-communication-services/charter-communications-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/diversified-communication-services/charter-communications-inc/ir-source-links.md)
+- SEC filings folder: [charter-communications-inc](/raw/sec/technology/diversified-communication-services/charter-communications-inc)
 
 ## Snapshot
 

@@ -6,7 +6,7 @@ Use this template for a coherent lane batch.
 Start with one coherent comparison set, then extend toward `4` to `8` flagship companies when the lane has enough breadth and source depth.
 Use the shared labels in:
 
-- [Status rubric](/home/manishmehta/ui-projects/annual-report-research/templates/status-rubric.md)
+- [Status rubric](/templates/status-rubric.md)
 
 ## Current Archive State
 

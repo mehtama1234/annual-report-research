@@ -5,7 +5,7 @@
 - Company page verified on 2026-08-10:
   - https://www.annualreports.com/Company/verizon-communications-inc
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/telecom-services-domestic/verizon-communications-inc/annualreports-verification.md)
+  - [annualreports-verification.md](/raw/annualreports/technology/telecom-services-domestic/verizon-communications-inc/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -38,7 +38,7 @@
 - Q2 2026 financials PDF:
   - https://www.verizon.com/about/file/78149/download?token=N7JvgAqd
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/ir-source-links.md)
+  - [ir-source-links.md](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/ir-source-links.md)
 
 ## SEC / EDGAR references
 
@@ -60,30 +60,30 @@
 ## Saved local artifacts
 
 - IR pages:
-  - [annual-report.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/annual-report.html)
-  - [quarterly-earnings.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/quarterly-earnings.html)
-  - [sec-filings.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/sec-filings.html)
+  - [annual-report.html](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/annual-report.html)
+  - [quarterly-earnings.html](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/quarterly-earnings.html)
+  - [sec-filings.html](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/sec-filings.html)
 - Company-hosted annual report:
-  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2025-annual-report.pdf)
+  - [2025-annual-report.pdf](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2025-annual-report.pdf)
 - Company-hosted quarter pages and PDFs:
-  - [2025-q4-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2025-q4-results.html)
-  - [2025-q4-news-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2025-q4-news-release.pdf)
-  - [2025-q4-financials.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2025-q4-financials.pdf)
-  - [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q1-results.html)
-  - [2026-q1-news-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q1-news-release.pdf)
-  - [2026-q1-financials.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q1-financials.pdf)
-  - [2026-q2-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q2-results.html)
-  - [2026-q2-news-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q2-news-release.pdf)
-  - [2026-q2-financials.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q2-financials.pdf)
+  - [2025-q4-results.html](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2025-q4-results.html)
+  - [2025-q4-news-release.pdf](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2025-q4-news-release.pdf)
+  - [2025-q4-financials.pdf](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2025-q4-financials.pdf)
+  - [2026-q1-results.html](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q1-results.html)
+  - [2026-q1-news-release.pdf](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q1-news-release.pdf)
+  - [2026-q1-financials.pdf](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q1-financials.pdf)
+  - [2026-q2-results.html](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q2-results.html)
+  - [2026-q2-news-release.pdf](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q2-news-release.pdf)
+  - [2026-q2-financials.pdf](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/2026-q2-financials.pdf)
 - SEC submission index:
-  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/sec-submissions.json)
+  - [sec-submissions.json](/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/sec-submissions.json)
 - Annual and quarter filing chain:
-  - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2025-10k.html)
-  - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2025-q4-8k.html)
-  - [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2026-q1-10q.html)
-  - [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2026-q1-8k.html)
-  - [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2026-q2-10q.html)
-  - [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2026-q2-8k.html)
+  - [2025-10k.html](/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2025-10k.html)
+  - [2025-q4-8k.html](/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2025-q4-8k.html)
+  - [2026-q1-10q.html](/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2026-q1-10q.html)
+  - [2026-q1-8k.html](/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2026-q1-8k.html)
+  - [2026-q2-10q.html](/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2026-q2-10q.html)
+  - [2026-q2-8k.html](/raw/sec/technology/telecom-services-domestic/verizon-communications-inc/2026-q2-8k.html)
 
 ## Notes on evidence quality
 

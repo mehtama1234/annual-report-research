@@ -6,10 +6,10 @@ This file converts the current archive state into an execution queue.
 
 It is not a wish list. Each lane below is based on evidence already present in:
 
-- [research-master-map-2026-08-09.md](/home/manishmehta/ui-projects/annual-report-research/indexes/research-master-map-2026-08-09.md)
-- [coverage-tracker.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/coverage-tracker.csv)
-- [consumer-interface-research-index-2026-08-09.md](/home/manishmehta/ui-projects/annual-report-research/indexes/consumer-interface-research-index-2026-08-09.md)
-- [theme-tracker.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/theme-tracker.csv)
+- [research-master-map-2026-08-09.md](/indexes/research-master-map-2026-08-09.md)
+- [coverage-tracker.csv](/indexes/coverage-tracker.csv)
+- [consumer-interface-research-index-2026-08-09.md](/indexes/consumer-interface-research-index-2026-08-09.md)
+- [theme-tracker.csv](/indexes/theme-tracker.csv)
 
 ## Priority logic
 

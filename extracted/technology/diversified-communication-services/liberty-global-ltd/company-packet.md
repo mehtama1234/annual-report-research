@@ -9,9 +9,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/liberty-global-ltd/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/liberty-global-ltd/ir-source-links.md)
-- SEC filings folder: [liberty-global-ltd](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/liberty-global-ltd)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/diversified-communication-services/liberty-global-ltd/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/diversified-communication-services/liberty-global-ltd/ir-source-links.md)
+- SEC filings folder: [liberty-global-ltd](/raw/sec/technology/diversified-communication-services/liberty-global-ltd)
 
 ## Snapshot
 

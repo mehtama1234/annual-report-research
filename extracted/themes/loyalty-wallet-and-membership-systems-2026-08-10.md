@@ -8,21 +8,21 @@ This memo is the cross-sector version of a pattern that `AnnualReports` does not
 
 It compares the current archive evidence across:
 
-- [Starbucks Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/starbucks-corporation/company-packet.md)
-- [McDonald's Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/mcdonalds-corporation/company-packet.md)
-- [Costco Wholesale Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md)
-- [Target Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/target-corp/company-packet.md)
-- [Delta Air Lines, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
-- [Marriott International, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/marriott-international-inc/company-packet.md)
-- [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
-- [American Express Company](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/credit-services/american-express-company/company-packet.md)
-- [Planet Fitness, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/recreation/planet-fitness-inc/company-packet.md)
+- [Starbucks Corporation](/extracted/services/restaurants/starbucks-corporation/company-packet.md)
+- [McDonald's Corporation](/extracted/services/restaurants/mcdonalds-corporation/company-packet.md)
+- [Costco Wholesale Corporation](/extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md)
+- [Target Corp.](/extracted/services/discount-variety-stores/target-corp/company-packet.md)
+- [Delta Air Lines, Inc.](/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
+- [Marriott International, Inc.](/extracted/services/lodging/marriott-international-inc/company-packet.md)
+- [Caesars Entertainment, Inc.](/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
+- [American Express Company](/extracted/financial/credit-services/american-express-company/company-packet.md)
+- [Planet Fitness, Inc.](/extracted/services/recreation/planet-fitness-inc/company-packet.md)
 
 Related existing files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Travel Loyalty and Wallet Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/services/themes/travel-loyalty-and-wallet-systems-2026-08-09.md)
-- [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Travel Loyalty and Wallet Systems](/extracted/services/themes/travel-loyalty-and-wallet-systems-2026-08-09.md)
+- [Consumer Interface Framework Across Sectors](/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
 
 It is based on the current `2025` annual reports plus late-`2025` and `2026` quarterlies already packetized in the repo.
 

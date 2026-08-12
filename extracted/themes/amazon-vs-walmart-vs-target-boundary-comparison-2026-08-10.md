@@ -22,11 +22,11 @@ The useful question is how far each one has moved from plain retail into a broad
 
 Related files:
 
-- [Retail Versus Marketplace Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md)
-- [Retail Marketplace Boundary Index](/home/manishmehta/ui-projects/annual-report-research/indexes/retail-marketplace-boundary-index-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
-- [Marketplace And Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
-- [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
+- [Retail Versus Marketplace Boundary](/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md)
+- [Retail Marketplace Boundary Index](/indexes/retail-marketplace-boundary-index-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [Marketplace And Coordination Systems](/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
+- [Loyalty, Wallet, and Membership Systems](/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
 
 ## Executive read
 

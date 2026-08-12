@@ -93,8 +93,8 @@ A skeptical reader should be able to answer:
 
 ## Source pointers
 
-- [Comfort Systems company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
-- [ABM company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
-- [HCA company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
-- [Cintas company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/business-services/cintas-corporation/company-packet.md)
-- [Industrial Goods sector brief](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors/industrial-goods-sector-initial-brief.md)
+- [Comfort Systems company packet](/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
+- [ABM company packet](/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
+- [HCA company packet](/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
+- [Cintas company packet](/extracted/services/business-services/cintas-corporation/company-packet.md)
+- [Industrial Goods sector brief](/analysis/sectors/industrial-goods-sector-initial-brief.md)

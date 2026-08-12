@@ -36,18 +36,18 @@ In `coverage-tracker.csv`, a company counts as a fully packetized base case when
 
 ## Core indexes
 
-- [Pilot Companies](/home/manishmehta/ui-projects/annual-report-research/indexes/pilot-companies.md)
-- [Coverage Tracker](/home/manishmehta/ui-projects/annual-report-research/indexes/coverage-tracker.csv)
-- [Theme Tracker](/home/manishmehta/ui-projects/annual-report-research/indexes/theme-tracker.csv)
-- [Force Map](/home/manishmehta/ui-projects/annual-report-research/indexes/force-map.csv)
-- [Sectors](/home/manishmehta/ui-projects/annual-report-research/indexes/sectors.csv)
-- [Companies](/home/manishmehta/ui-projects/annual-report-research/indexes/companies.csv)
+- [Pilot Companies](/indexes/pilot-companies.md)
+- [Coverage Tracker](/indexes/coverage-tracker.csv)
+- [Theme Tracker](/indexes/theme-tracker.csv)
+- [Force Map](/indexes/force-map.csv)
+- [Sectors](/indexes/sectors.csv)
+- [Companies](/indexes/companies.csv)
 
 Specialized interface maps already exist for higher-density areas:
 
-- [Technology Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/technology-interface-research-index-2026-08-09.md)
-- [Financial Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/financial-interface-research-index-2026-08-09.md)
-- [Consumer Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/consumer-interface-research-index-2026-08-09.md)
+- [Technology Interface Research Index](/indexes/technology-interface-research-index-2026-08-09.md)
+- [Financial Interface Research Index](/indexes/financial-interface-research-index-2026-08-09.md)
+- [Consumer Interface Research Index](/indexes/consumer-interface-research-index-2026-08-09.md)
 
 ## Active research tracks
 

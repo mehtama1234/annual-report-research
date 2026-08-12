@@ -10,18 +10,18 @@ consumer systems where recurring demand is driven by fandom, organized play, col
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Fandom Participation Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/fandom-participation-systems-index-2026-08-10.md)
-- [Consumer Cultural Pattern Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
-- [Platform And Ecosystem Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Fandom Participation Systems Index](/indexes/fandom-participation-systems-index-2026-08-10.md)
+- [Consumer Cultural Pattern Map](/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
+- [Platform And Ecosystem Map](/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
 
 Primary anchors:
 
-- [Hasbro, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/toys-games/hasbro-inc/company-packet.md)
-- [Mattel, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/toys-games/mattel-inc/company-packet.md)
-- [Roblox Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/roblox-corporation/company-packet.md)
-- [Take-Two Interactive Software, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/take-two-interactive-software-inc/company-packet.md)
-- [Electronic Arts Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/electronic-arts-inc/company-packet.md)
+- [Hasbro, Inc.](/extracted/consumer-goods/toys-games/hasbro-inc/company-packet.md)
+- [Mattel, Inc.](/extracted/consumer-goods/toys-games/mattel-inc/company-packet.md)
+- [Roblox Corporation](/extracted/technology/application-software/roblox-corporation/company-packet.md)
+- [Take-Two Interactive Software, Inc.](/extracted/technology/application-software/take-two-interactive-software-inc/company-packet.md)
+- [Electronic Arts Inc.](/extracted/technology/application-software/electronic-arts-inc/company-packet.md)
 
 ## Executive read
 
@@ -183,5 +183,5 @@ It cannot explain the actual cultural and monetization logic.
 ## Best next moves
 
 1. Extend the lane only if another company materially sharpens the split between collectible fandom, creator-world participation, and sports or franchise wallet behavior.
-2. Reuse [Fandom Participation Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/fandom-participation-systems-index-2026-08-10.md) when sorting the lane by participation type, monetization structure, and physical-versus-digital posture.
+2. Reuse [Fandom Participation Systems Index](/indexes/fandom-participation-systems-index-2026-08-10.md) when sorting the lane by participation type, monetization structure, and physical-versus-digital posture.
 3. Compare this lane against platform, ritual, and owned-demand files when the goal is showing where cultural attachment becomes a recurring spending system.

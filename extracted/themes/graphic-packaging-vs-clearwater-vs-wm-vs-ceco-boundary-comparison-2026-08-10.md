@@ -24,10 +24,10 @@ The useful question is which hidden infrastructure layer each one actually contr
 
 Related files:
 
-- [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
-- [Behind-The-Shelf Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- [Behind-The-Shelf Infrastructure Index](/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

@@ -59,21 +59,21 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/restaurants/dutch-bros-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/restaurants/dutch-bros-inc/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/restaurants/dutch-bros-inc/official-ir-verification.md)
-- [overview.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/restaurants/dutch-bros-inc/overview.html)
-- [submissions-cik0001866581.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/restaurants/dutch-bros-inc/submissions-cik0001866581.json)
-- [companyfacts-cik0001866581.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/restaurants/dutch-bros-inc/companyfacts-cik0001866581.json)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2025-q4-8k.html)
-- [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2025-q4-press-release.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q1-8k.html)
-- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q1-press-release.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q1-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q2-8k.html)
-- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q2-press-release.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q2-10q.html)
+- [annualreports-verification.md](/raw/annualreports/consumer-goods/restaurants/dutch-bros-inc/annualreports-verification.md)
+- [company-page.html](/raw/annualreports/consumer-goods/restaurants/dutch-bros-inc/company-page.html)
+- [official-ir-verification.md](/raw/company-ir/consumer-goods/restaurants/dutch-bros-inc/official-ir-verification.md)
+- [overview.html](/raw/company-ir/consumer-goods/restaurants/dutch-bros-inc/overview.html)
+- [submissions-cik0001866581.json](/raw/sec/consumer-goods/restaurants/dutch-bros-inc/submissions-cik0001866581.json)
+- [companyfacts-cik0001866581.json](/raw/sec/consumer-goods/restaurants/dutch-bros-inc/companyfacts-cik0001866581.json)
+- [2025-10k.html](/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2025-10k.html)
+- [2025-q4-8k.html](/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2025-q4-8k.html)
+- [2025-q4-press-release.html](/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2025-q4-press-release.html)
+- [2026-q1-8k.html](/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q1-8k.html)
+- [2026-q1-press-release.html](/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q1-press-release.html)
+- [2026-q1-10q.html](/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q1-10q.html)
+- [2026-q2-8k.html](/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q2-8k.html)
+- [2026-q2-press-release.html](/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q2-press-release.html)
+- [2026-q2-10q.html](/raw/sec/consumer-goods/restaurants/dutch-bros-inc/2026-q2-10q.html)
 
 ## Working interpretation
 

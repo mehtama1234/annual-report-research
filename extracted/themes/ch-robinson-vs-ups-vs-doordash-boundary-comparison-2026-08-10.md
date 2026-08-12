@@ -22,10 +22,10 @@ The useful question is what layer of the delivery and routing stack each one act
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
-- [Local-Demand Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/local-demand-coordination-systems-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- [Local-Demand Coordination Systems](/extracted/themes/local-demand-coordination-systems-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

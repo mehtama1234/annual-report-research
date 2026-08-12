@@ -127,12 +127,12 @@ A skeptical reader should be able to answer:
 
 ## Source pointers
 
-- [Delta company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
-- [American Express company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/credit-services/american-express-company/company-packet.md)
-- [Starbucks company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/starbucks-corporation/company-packet.md)
-- [Caesars company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
-- [Costco company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md)
-- [Amazon company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/retail/specialty-retail-other/amazoncom-inc/company-packet.md)
-- [Live Nation company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/entertainment-diversified/live-nation-entertainment-inc/company-packet.md)
-- [Recurring consumer interfaces memo](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/recurring-consumer-interfaces-and-membership-systems-initial-theme-memo.md)
-- [Services sector synthesis](/home/manishmehta/ui-projects/annual-report-research/extracted/services/services-sector-synthesis-2026-08-09.md)
+- [Delta company packet](/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
+- [American Express company packet](/extracted/financial/credit-services/american-express-company/company-packet.md)
+- [Starbucks company packet](/extracted/services/restaurants/starbucks-corporation/company-packet.md)
+- [Caesars company packet](/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
+- [Costco company packet](/extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md)
+- [Amazon company packet](/extracted/retail/specialty-retail-other/amazoncom-inc/company-packet.md)
+- [Live Nation company packet](/extracted/services/entertainment-diversified/live-nation-entertainment-inc/company-packet.md)
+- [Recurring consumer interfaces memo](/analysis/themes/recurring-consumer-interfaces-and-membership-systems-initial-theme-memo.md)
+- [Services sector synthesis](/extracted/services/services-sector-synthesis-2026-08-09.md)

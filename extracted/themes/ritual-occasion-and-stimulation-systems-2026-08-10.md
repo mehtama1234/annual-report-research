@@ -10,18 +10,18 @@ demand systems where repeat spending is driven less by plain necessity and more 
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Ritual Occasion Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/ritual-occasion-systems-index-2026-08-10.md)
-- [Consumer Cultural Pattern Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
-- [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Ritual Occasion Systems Index](/indexes/ritual-occasion-systems-index-2026-08-10.md)
+- [Consumer Cultural Pattern Map](/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
+- [Loyalty, Wallet, and Membership Systems](/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
 
 Primary anchors:
 
-- [Starbucks Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/starbucks-corporation/company-packet.md)
-- [Monster Beverage Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
-- [Dutch Bros Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/restaurants/dutch-bros-inc/company-packet.md)
-- [Brown-Forman](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-wineries-distillers/brown-forman/company-packet.md)
-- [Live Nation Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/entertainment-diversified/live-nation-entertainment-inc/company-packet.md)
+- [Starbucks Corporation](/extracted/services/restaurants/starbucks-corporation/company-packet.md)
+- [Monster Beverage Corp](/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
+- [Dutch Bros Inc.](/extracted/consumer-goods/restaurants/dutch-bros-inc/company-packet.md)
+- [Brown-Forman](/extracted/consumer-goods/beverages-wineries-distillers/brown-forman/company-packet.md)
+- [Live Nation Entertainment, Inc.](/extracted/services/entertainment-diversified/live-nation-entertainment-inc/company-packet.md)
 
 ## Executive read
 
@@ -192,5 +192,5 @@ It cannot classify the recurring behavior underneath them.
 ## Best next moves
 
 1. Extend the lane only if another company materially sharpens the frequency-versus-occasion split or the stimulation-versus-experience split.
-2. Reuse [Ritual Occasion Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/ritual-occasion-systems-index-2026-08-10.md) when sorting the lane by repeat behavior, social visibility, and second monetization layer.
+2. Reuse [Ritual Occasion Systems Index](/indexes/ritual-occasion-systems-index-2026-08-10.md) when sorting the lane by repeat behavior, social visibility, and second monetization layer.
 3. Compare this lane against routine-use trust and loyalty-system files when the goal is separating everyday necessity from culturally activated repeat spending.

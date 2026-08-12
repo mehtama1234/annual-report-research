@@ -10,10 +10,10 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/communication-equipment/ciena-corporation/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/communication-equipment/ciena-corporation/ir-source-links.md)
-- Annual report PDF: [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/communication-equipment/ciena-corporation/2025-annual-report.pdf)
-- SEC filings folder: [ciena-corporation](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/communication-equipment/ciena-corporation)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/communication-equipment/ciena-corporation/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/communication-equipment/ciena-corporation/ir-source-links.md)
+- Annual report PDF: [2025-annual-report.pdf](/raw/company-ir/technology/communication-equipment/ciena-corporation/2025-annual-report.pdf)
+- SEC filings folder: [ciena-corporation](/raw/sec/technology/communication-equipment/ciena-corporation)
 
 ## Snapshot
 

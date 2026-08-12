@@ -22,9 +22,9 @@ The useful question is what kind of recurring attention each one actually owns:
 
 Related files:
 
-- [Platform And Ecosystem Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
-- [Platform Ecosystem Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/platform-ecosystem-systems-index-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Platform And Ecosystem Map](/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
+- [Platform Ecosystem Systems Index](/indexes/platform-ecosystem-systems-index-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

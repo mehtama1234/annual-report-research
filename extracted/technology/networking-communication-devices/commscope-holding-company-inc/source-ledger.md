@@ -5,7 +5,7 @@
 - Company page verified on 2026-08-10:
   - https://www.annualreports.com/Company/commscope-holding-company-inc
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/networking-communication-devices/commscope-holding-company-inc/annualreports-verification.md)
+  - [annualreports-verification.md](/raw/annualreports/technology/networking-communication-devices/commscope-holding-company-inc/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -22,7 +22,7 @@
   - Q1 2026: https://ir.vistancenetworks.com/news-releases/news-release-details/vistance-networks-reports-first-quarter-2026-results
   - Q4 2025 IR listing anchor: https://ir.vistancenetworks.com/financial-information
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/ir-source-links.md)
+  - [ir-source-links.md](/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/ir-source-links.md)
 
 ## SEC / EDGAR references
 
@@ -38,27 +38,27 @@
 ## Saved local artifacts
 
 - Annual report PDF:
-  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/2025-annual-report.pdf)
+  - [2025-annual-report.pdf](/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/2025-annual-report.pdf)
 - Quarter-result PDFs:
-  - [2025-q4-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/2025-q4-results-release.pdf)
-  - [2026-q1-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/2026-q1-results-release.pdf)
-  - [2026-q2-results-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/2026-q2-results-release.pdf)
+  - [2025-q4-results-release.pdf](/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/2025-q4-results-release.pdf)
+  - [2026-q1-results-release.pdf](/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/2026-q1-results-release.pdf)
+  - [2026-q2-results-release.pdf](/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/2026-q2-results-release.pdf)
 - Saved IR pages:
-  - [financial-information.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/financial-information.html)
-  - [press-releases.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/press-releases.html)
-  - [events-and-presentations.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/events-and-presentations.html)
+  - [financial-information.html](/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/financial-information.html)
+  - [press-releases.html](/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/press-releases.html)
+  - [events-and-presentations.html](/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/events-and-presentations.html)
 - SEC submission index:
-  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/sec-submissions.json)
+  - [sec-submissions.json](/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/sec-submissions.json)
 - Annual filing:
-  - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2025-10k.html)
+  - [2025-10k.html](/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2025-10k.html)
 - Quarterly filing chain:
-  - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2025-q4-8k.html)
-  - [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2026-q1-10q.html)
-  - [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2026-q1-8k.html)
-  - [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2026-q2-10q.html)
-  - [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2026-q2-8k.html)
+  - [2025-q4-8k.html](/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2025-q4-8k.html)
+  - [2026-q1-10q.html](/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2026-q1-10q.html)
+  - [2026-q1-8k.html](/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2026-q1-8k.html)
+  - [2026-q2-10q.html](/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2026-q2-10q.html)
+  - [2026-q2-8k.html](/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/2026-q2-8k.html)
 - Q4 2025 SEC earnings-release exhibit:
-  - [visn-ex99_1-q4-2025.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/visn-ex99_1-q4-2025.html)
+  - [visn-ex99_1-q4-2025.html](/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc/visn-ex99_1-q4-2025.html)
 
 ## Notes on evidence quality
 

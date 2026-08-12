@@ -11,10 +11,10 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/networking-communication-devices/commscope-holding-company-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/ir-source-links.md)
-- Annual report PDF: [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/2025-annual-report.pdf)
-- SEC filings folder: [commscope-holding-company-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/networking-communication-devices/commscope-holding-company-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/ir-source-links.md)
+- Annual report PDF: [2025-annual-report.pdf](/raw/company-ir/technology/networking-communication-devices/commscope-holding-company-inc/2025-annual-report.pdf)
+- SEC filings folder: [commscope-holding-company-inc](/raw/sec/technology/networking-communication-devices/commscope-holding-company-inc)
 
 ## Snapshot
 

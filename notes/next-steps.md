@@ -15,8 +15,8 @@ Date baseline: 2026-08-10
 The repo is no longer in a vague pilot stage.
 The current rule is to pursue coherent lanes end to end starting from:
 
-- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
-- [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
+- [START-HERE.md](/START-HERE.md)
+- [Active lane board](/notes/active-lane-board-2026-08-10.md)
 
 As of Tuesday, August 11, 2026, many of the archive's highest-value lanes already have frameworks, proof pages, comparison memos, and watchlists.
 
@@ -38,11 +38,11 @@ It is usually to:
 
 If you need to verify which live instruction, queue, template, and review surfaces already reflect that continuation-phase state, use:
 
-- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
+- [Continuation mode alignment audit](/notes/continuation-mode-alignment-audit-2026-08-11.md)
 
 If you want the shortest continuation-mode statement of what is still left, which lanes matter most, and what now counts as real progress, use:
 
-- [Remaining meaty end-to-end operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+- [Remaining meaty end-to-end operator brief](/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
 
 ## Collection window
 

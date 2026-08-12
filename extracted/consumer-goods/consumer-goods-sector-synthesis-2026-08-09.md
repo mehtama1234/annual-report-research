@@ -7,61 +7,61 @@ Date baseline: 2026-08-10
 This synthesis is based on the completed consumer-goods packets currently in the archive:
 
 - Staples and household care:
-  - [Procter & Gamble Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/procter-gamble-co/company-packet.md)
-  - [Kimberly-Clark Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/kimberly-clark-corp/company-packet.md)
-  - [Colgate-Palmolive Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/colgate-palmolive-co/company-packet.md)
-  - [Church & Dwight Co. Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/cleaning-products/church-dwight-co-inc/company-packet.md)
-  - [The Clorox Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/housewares-accessories/the-clorox-company/company-packet.md)
+  - [Procter & Gamble Co.](/extracted/consumer-goods/personal-products/procter-gamble-co/company-packet.md)
+  - [Kimberly-Clark Corp.](/extracted/consumer-goods/personal-products/kimberly-clark-corp/company-packet.md)
+  - [Colgate-Palmolive Co.](/extracted/consumer-goods/personal-products/colgate-palmolive-co/company-packet.md)
+  - [Church & Dwight Co. Inc.](/extracted/consumer-goods/cleaning-products/church-dwight-co-inc/company-packet.md)
+  - [The Clorox Company](/extracted/consumer-goods/housewares-accessories/the-clorox-company/company-packet.md)
 - Food and beverage:
-  - [PepsiCo Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-packet.md)
-  - [The Campbell's Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/company-packet.md)
-  - [The Kraft Heinz Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/food-major-diversified/the-kraft-heinz-company/company-packet.md)
-  - [General Mills, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/general-mills-inc/company-packet.md)
-  - [Brown-Forman](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-wineries-distillers/brown-forman/company-packet.md)
-  - [Monster Beverage Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
-  - [Dutch Bros Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/restaurants/dutch-bros-inc/company-packet.md)
-  - [The Coca-Cola Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md)
-  - [Mondelez International](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/confectioners/mondelez-international/company-packet.md)
+  - [PepsiCo Inc.](/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-packet.md)
+  - [The Campbell's Company](/extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/company-packet.md)
+  - [The Kraft Heinz Company](/extracted/consumer-goods/food-major-diversified/the-kraft-heinz-company/company-packet.md)
+  - [General Mills, Inc.](/extracted/consumer-goods/processed-packaged-goods/general-mills-inc/company-packet.md)
+  - [Brown-Forman](/extracted/consumer-goods/beverages-wineries-distillers/brown-forman/company-packet.md)
+  - [Monster Beverage Corp](/extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md)
+  - [Dutch Bros Inc.](/extracted/consumer-goods/restaurants/dutch-bros-inc/company-packet.md)
+  - [The Coca-Cola Company](/extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md)
+  - [Mondelez International](/extracted/consumer-goods/confectioners/mondelez-international/company-packet.md)
 - Habit and regulated transition:
-  - [Philip Morris International](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/tobacco-products-other/philip-morris-international/company-packet.md)
+  - [Philip Morris International](/extracted/consumer-goods/tobacco-products-other/philip-morris-international/company-packet.md)
 - Apparel and wellness identity:
-  - [lululemon athletica inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-clothing/lululemon-athletica-inc/company-packet.md)
-  - [Deckers Outdoor Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-footwear-accessories/deckers-outdoor-corp/company-packet.md)
-  - [Crocs, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/company-packet.md)
-  - [Tapestry, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-clothing/tapestry-inc/company-packet.md)
-  - [Levi Strauss & Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/apparel-stores/levi-strauss-co/company-packet.md)
-  - [Abercrombie & Fitch Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/apparel-stores/abercrombie-fitch-co/company-packet.md)
-  - [Victoria's Secret & Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/apparel-stores/victorias-secret-co/company-packet.md)
+  - [lululemon athletica inc.](/extracted/consumer-goods/textile-apparel-clothing/lululemon-athletica-inc/company-packet.md)
+  - [Deckers Outdoor Corp.](/extracted/consumer-goods/textile-apparel-footwear-accessories/deckers-outdoor-corp/company-packet.md)
+  - [Crocs, Inc.](/extracted/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/company-packet.md)
+  - [Tapestry, Inc.](/extracted/consumer-goods/textile-apparel-clothing/tapestry-inc/company-packet.md)
+  - [Levi Strauss & Co.](/extracted/consumer-goods/apparel-stores/levi-strauss-co/company-packet.md)
+  - [Abercrombie & Fitch Co.](/extracted/consumer-goods/apparel-stores/abercrombie-fitch-co/company-packet.md)
+  - [Victoria's Secret & Co.](/extracted/consumer-goods/apparel-stores/victorias-secret-co/company-packet.md)
 - Outdoor utility and gear identity:
-  - [YETI Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/sporting-goods/yeti-holdings-inc/company-packet.md)
+  - [YETI Holdings, Inc.](/extracted/consumer-goods/sporting-goods/yeti-holdings-inc/company-packet.md)
 - Home improvement and built environment:
-  - [Lowe's Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
+  - [Lowe's Companies, Inc.](/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
 - Off-price and bargain discovery:
-  - [Burlington Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-packet.md)
+  - [Burlington Stores, Inc.](/extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-packet.md)
 - Department-store portfolio repair:
-  - [Macy's, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/department-stores/macys-inc/company-packet.md)
-  - [Nordstrom](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/department-stores/nordstrom/company-packet.md)
+  - [Macy's, Inc.](/extracted/consumer-goods/department-stores/macys-inc/company-packet.md)
+  - [Nordstrom](/extracted/consumer-goods/department-stores/nordstrom/company-packet.md)
 - Beauty and discretionary personal products:
-  - [Coty Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/coty-inc/company-packet.md)
-  - [e.l.f. Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/elf-beauty-inc/company-packet.md)
-  - [The Estee Lauder Companies Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md)
+  - [Coty Inc.](/extracted/consumer-goods/personal-products/coty-inc/company-packet.md)
+  - [e.l.f. Beauty, Inc.](/extracted/consumer-goods/personal-products/elf-beauty-inc/company-packet.md)
+  - [The Estee Lauder Companies Inc.](/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md)
 - Packaging and containers:
-  - [Graphic Packaging Holding Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md)
+  - [Graphic Packaging Holding Company](/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md)
 - Marketplace and recommerce:
-  - [eBay Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/internet-service-providers/ebay/company-packet.md)
+  - [eBay Inc.](/extracted/consumer-goods/internet-service-providers/ebay/company-packet.md)
 - Play and franchise IP:
-  - [Hasbro, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/toys-games/hasbro-inc/company-packet.md)
-  - [Mattel, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/toys-games/mattel-inc/company-packet.md)
+  - [Hasbro, Inc.](/extracted/consumer-goods/toys-games/hasbro-inc/company-packet.md)
+  - [Mattel, Inc.](/extracted/consumer-goods/toys-games/mattel-inc/company-packet.md)
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-10`.
 
 Related cross-sector memo:
 
-- [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
+- [Consumer Interface Framework Across Sectors](/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
 
 Relevant out-of-sector taxonomy outlier:
 
-- [Kenvue](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/biotechnology/kenvue/company-packet.md) is preserved under `Technology / Biotechnology` because that is the source taxonomy on AnnualReports, but the operating read belongs in the same consumer-health and trusted-routine-use comparison set as the household and personal-care names.
+- [Kenvue](/extracted/technology/biotechnology/kenvue/company-packet.md) is preserved under `Technology / Biotechnology` because that is the source taxonomy on AnnualReports, but the operating read belongs in the same consumer-health and trusted-routine-use comparison set as the household and personal-care names.
 
 ## Executive read
 

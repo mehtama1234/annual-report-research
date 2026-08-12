@@ -99,8 +99,8 @@ Aging is not abstract. It is a chain of concrete business problems that show up 
 
 ## Source pointers
 
-- [Brookdale company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
-- [UnitedHealth company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
-- [HCA company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
-- [Abbott company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md)
-- [Healthcare sector brief](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors/healthcare-sector-initial-brief.md)
+- [Brookdale company packet](/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
+- [UnitedHealth company packet](/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
+- [HCA company packet](/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
+- [Abbott company packet](/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md)
+- [Healthcare sector brief](/analysis/sectors/healthcare-sector-initial-brief.md)

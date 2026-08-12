@@ -92,8 +92,8 @@ A skeptical reader should be able to answer:
 
 ## Source pointers
 
-- [BrightView company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/business-services/brightview-holdings-inc/company-packet.md)
-- [ABM company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
-- [Waste Management company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/waste-management/waste-management-inc/company-packet.md)
-- [UPS company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/air-delivery-freight-services/united-parcel-service-inc/company-packet.md)
-- [Industrial Goods sector brief](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors/industrial-goods-sector-initial-brief.md)
+- [BrightView company packet](/extracted/industrial-goods/business-services/brightview-holdings-inc/company-packet.md)
+- [ABM company packet](/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
+- [Waste Management company packet](/extracted/industrial-goods/waste-management/waste-management-inc/company-packet.md)
+- [UPS company packet](/extracted/services/air-delivery-freight-services/united-parcel-service-inc/company-packet.md)
+- [Industrial Goods sector brief](/analysis/sectors/industrial-goods-sector-initial-brief.md)

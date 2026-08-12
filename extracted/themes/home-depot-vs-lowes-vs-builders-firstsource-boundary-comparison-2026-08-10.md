@@ -22,10 +22,10 @@ The useful question is what part of the shelter and upkeep chain each company ac
 
 Related files:
 
-- [Modern Real-Estate And Infrastructure Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
-- [Modern Real-Estate And Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
-- [Shelter Affordability And Upkeep Stack](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/shelter-affordability-and-upkeep-stack-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Crosswalk](/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Index](/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
+- [Shelter Affordability And Upkeep Stack](/extracted/themes/shelter-affordability-and-upkeep-stack-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

@@ -5,7 +5,7 @@
 - Company page verified on 2026-08-10:
   - https://www.annualreports.com/Company/cogent-communications-holdings-inc
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/cogent-communications-holdings-inc/annualreports-verification.md)
+  - [annualreports-verification.md](/raw/annualreports/technology/diversified-communication-services/cogent-communications-holdings-inc/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -33,7 +33,7 @@
   - Press release: https://www.cogentco.com/files/docs/news/press_releases/Earnings_Release_Q2_26.pdf
   - Financials spreadsheet: https://www.cogentco.com/files/docs/news/press_releases/CCOI_Summary_Financial_Operational_Results_Q2_2026.xlsx
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/ir-source-links.md)
+  - [ir-source-links.md](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/ir-source-links.md)
 
 ## SEC / EDGAR references
 
@@ -55,31 +55,31 @@
 ## Saved local artifacts
 
 - IR pages:
-  - [investor-relations.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/investor-relations.html)
-  - [financials.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/financials.html)
-  - [reports.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/reports.html)
+  - [investor-relations.html](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/investor-relations.html)
+  - [financials.html](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/financials.html)
+  - [reports.html](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/reports.html)
 - Company-hosted annual and quarter artifacts:
-  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-annual-report.pdf)
-  - [2025-q4-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-q4-presentation.pdf)
-  - [2025-q4-press-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-q4-press-release.pdf)
-  - [2025-q4-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-q4-transcript.pdf)
-  - [2026-q1-financials.xlsx](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-financials.xlsx)
-  - [2026-q1-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-presentation.pdf)
-  - [2026-q1-press-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-press-release.pdf)
-  - [2026-q1-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-transcript.pdf)
-  - [2026-q2-financials.xlsx](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-financials.xlsx)
-  - [2026-q2-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-presentation.pdf)
-  - [2026-q2-press-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-press-release.pdf)
-  - [2026-q2-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-transcript.pdf)
+  - [2025-annual-report.pdf](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-annual-report.pdf)
+  - [2025-q4-presentation.pdf](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-q4-presentation.pdf)
+  - [2025-q4-press-release.pdf](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-q4-press-release.pdf)
+  - [2025-q4-transcript.pdf](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-q4-transcript.pdf)
+  - [2026-q1-financials.xlsx](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-financials.xlsx)
+  - [2026-q1-presentation.pdf](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-presentation.pdf)
+  - [2026-q1-press-release.pdf](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-press-release.pdf)
+  - [2026-q1-transcript.pdf](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-transcript.pdf)
+  - [2026-q2-financials.xlsx](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-financials.xlsx)
+  - [2026-q2-presentation.pdf](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-presentation.pdf)
+  - [2026-q2-press-release.pdf](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-press-release.pdf)
+  - [2026-q2-transcript.pdf](/raw/company-ir/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-transcript.pdf)
 - SEC submission index:
-  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/sec-submissions.json)
+  - [sec-submissions.json](/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/sec-submissions.json)
 - Annual and quarter filing chain:
-  - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-10k.html)
-  - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-q4-8k.html)
-  - [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-10q.html)
-  - [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-8k.html)
-  - [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-10q.html)
-  - [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-8k.html)
+  - [2025-10k.html](/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-10k.html)
+  - [2025-q4-8k.html](/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2025-q4-8k.html)
+  - [2026-q1-10q.html](/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-10q.html)
+  - [2026-q1-8k.html](/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q1-8k.html)
+  - [2026-q2-10q.html](/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-10q.html)
+  - [2026-q2-8k.html](/raw/sec/technology/diversified-communication-services/cogent-communications-holdings-inc/2026-q2-8k.html)
 
 ## Notes on evidence quality
 

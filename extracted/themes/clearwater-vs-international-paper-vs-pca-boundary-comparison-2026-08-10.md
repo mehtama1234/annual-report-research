@@ -23,11 +23,11 @@ The useful question is which packaging-material and throughput layer each one ac
 
 Related files:
 
-- [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
-- [Behind-The-Shelf Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
-- [Graphic Packaging Versus Clearwater Versus WM Versus CECO Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/graphic-packaging-vs-clearwater-vs-wm-vs-ceco-boundary-comparison-2026-08-10.md)
-- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- [Behind-The-Shelf Infrastructure Index](/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
+- [Graphic Packaging Versus Clearwater Versus WM Versus CECO Boundary Comparison](/extracted/themes/graphic-packaging-vs-clearwater-vs-wm-vs-ceco-boundary-comparison-2026-08-10.md)
+- [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
 
 ## Executive read
 

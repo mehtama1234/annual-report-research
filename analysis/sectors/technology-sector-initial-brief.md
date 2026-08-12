@@ -237,20 +237,20 @@ This brief is built from:
 
 ## Source pointers
 
-- [Apple company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/consumer-services/apple-inc/company-profile.md)
-- [Microsoft company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/microsoft-corporation/company-profile.md)
-- [Adobe company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/adobe-inc/company-profile.md)
-- [ServiceNow company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/servicenow-inc/company-profile.md)
-- [Alphabet company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/alphabet-inc/company-profile.md)
-- [NVIDIA company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-specialized/nvidia-corporation/company-profile.md)
-- [Cisco company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/cisco-systems-inc/company-profile.md)
-- [Intel company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-broad-line/intel-corporation/company-profile.md)
-- [Snap company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/snap-inc/company-profile.md)
-- [Dell company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/dell-technologies-inc/company-profile.md)
-- [HP company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/computer-hardware/hp-inc/company-profile.md)
-- [Palo Alto Networks company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-profile.md)
-- [Accenture company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/accenture-plc/company-profile.md)
-- [technology-ai-platform-initial-theme-memo.md](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/technology-ai-platform-initial-theme-memo.md)
+- [Apple company profile](/extracted/technology/consumer-services/apple-inc/company-profile.md)
+- [Microsoft company profile](/extracted/technology/application-software/microsoft-corporation/company-profile.md)
+- [Adobe company profile](/extracted/technology/application-software/adobe-inc/company-profile.md)
+- [ServiceNow company profile](/extracted/technology/information-technology-services/servicenow-inc/company-profile.md)
+- [Alphabet company profile](/extracted/technology/internet-information-providers/alphabet-inc/company-profile.md)
+- [NVIDIA company profile](/extracted/technology/semiconductor-specialized/nvidia-corporation/company-profile.md)
+- [Cisco company profile](/extracted/technology/communication-equipment/cisco-systems-inc/company-profile.md)
+- [Intel company profile](/extracted/technology/semiconductor-broad-line/intel-corporation/company-profile.md)
+- [Snap company profile](/extracted/technology/internet-information-providers/snap-inc/company-profile.md)
+- [Dell company profile](/extracted/technology/information-technology-services/dell-technologies-inc/company-profile.md)
+- [HP company profile](/extracted/technology/computer-hardware/hp-inc/company-profile.md)
+- [Palo Alto Networks company profile](/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-profile.md)
+- [Accenture company profile](/extracted/technology/information-technology-services/accenture-plc/company-profile.md)
+- [technology-ai-platform-initial-theme-memo.md](/analysis/themes/technology-ai-platform-initial-theme-memo.md)
 
 ## Skeptical Reader Test
 

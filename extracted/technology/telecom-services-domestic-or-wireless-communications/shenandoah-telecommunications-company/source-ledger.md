@@ -5,7 +5,7 @@
 - AnnualReports domain checked on 2026-08-10:
   - https://www.annualreports.com/
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/annualreports-verification.md)
+  - [annualreports-verification.md](/raw/annualreports/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -14,7 +14,7 @@
 - Press releases:
   - https://investor.shentel.com/news-events/press-releases
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/ir-source-links.md)
+  - [ir-source-links.md](/raw/company-ir/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/ir-source-links.md)
 
 ## SEC / EDGAR references
 
@@ -38,17 +38,17 @@
 ## Saved local artifacts
 
 - AnnualReports context capture:
-  - [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/company-page.html)
+  - [company-page.html](/raw/annualreports/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/company-page.html)
 - SEC submission index:
-  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/sec-submissions.json)
+  - [sec-submissions.json](/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/sec-submissions.json)
 - Annual and quarter filing chain:
-  - [2025-10k.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2025-10k.txt)
-  - [2025-q4-8k.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2025-q4-8k.txt)
-  - [2026-q1-10q.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2026-q1-10q.txt)
-  - [2026-q1-8k.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2026-q1-8k.txt)
-  - [2026-q2-10q.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2026-q2-10q.txt)
-  - [2026-q2-10qa.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2026-q2-10qa.txt)
-  - [2026-q2-8k.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2026-q2-8k.txt)
+  - [2025-10k.txt](/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2025-10k.txt)
+  - [2025-q4-8k.txt](/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2025-q4-8k.txt)
+  - [2026-q1-10q.txt](/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2026-q1-10q.txt)
+  - [2026-q1-8k.txt](/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2026-q1-8k.txt)
+  - [2026-q2-10q.txt](/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2026-q2-10q.txt)
+  - [2026-q2-10qa.txt](/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2026-q2-10qa.txt)
+  - [2026-q2-8k.txt](/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/2026-q2-8k.txt)
 
 ## Notes on evidence quality
 

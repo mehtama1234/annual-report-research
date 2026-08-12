@@ -14,10 +14,10 @@ Date baseline: 2026-08-09
 
 I reviewed:
 
-- [README.md](/home/manishmehta/ui-projects/annual-report-research/README.md)
-- [coverage-tracker.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/coverage-tracker.csv)
-- [theme-tracker.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/theme-tracker.csv)
-- [force-map.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/force-map.csv)
+- [README.md](/README.md)
+- [coverage-tracker.csv](/indexes/coverage-tracker.csv)
+- [theme-tracker.csv](/indexes/theme-tracker.csv)
+- [force-map.csv](/indexes/force-map.csv)
 - [README.md](/home/manishmehta/ui-projects/ibis-industries/README.md)
 - [ECONOMIC_INTELLIGENCE_FRAMEWORK.md](/home/manishmehta/ui-projects/ibis-industries/ECONOMIC_INTELLIGENCE_FRAMEWORK.md)
 - [ECONOMY_2025_2026_NARRATIVE.md](/home/manishmehta/ui-projects/ibis-industries/ECONOMY_2025_2026_NARRATIVE.md)

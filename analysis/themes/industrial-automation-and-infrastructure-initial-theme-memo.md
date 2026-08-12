@@ -92,12 +92,12 @@ A skeptical reader should be able to answer:
 
 ## Source pointers
 
-- [Industrial sector brief](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors/industrial-goods-sector-initial-brief.md)
-- [Caterpillar company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/construction-farm-machinery/caterpillar-inc/company-packet.md)
-- [Honeywell company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/aerospace-defense-products-services/honeywell-international-inc/company-packet.md)
-- [Eaton company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/eaton-corporation/company-packet.md)
-- [Trane company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-equipment-components/trane-technologies-plc/company-packet.md)
-- [Northrop company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/aerospace-defense-products-services/northrop-grumman-corp/company-packet.md)
-- [Union Pacific company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/railroads/union-pacific-corporation/company-packet.md)
-- [Waste Management company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/waste-management/waste-management-inc/company-packet.md)
-- [ABM company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
+- [Industrial sector brief](/analysis/sectors/industrial-goods-sector-initial-brief.md)
+- [Caterpillar company packet](/extracted/industrial-goods/construction-farm-machinery/caterpillar-inc/company-packet.md)
+- [Honeywell company packet](/extracted/industrial-goods/aerospace-defense-products-services/honeywell-international-inc/company-packet.md)
+- [Eaton company packet](/extracted/industrial-goods/industrial-electrical-equipment/eaton-corporation/company-packet.md)
+- [Trane company packet](/extracted/industrial-goods/industrial-equipment-components/trane-technologies-plc/company-packet.md)
+- [Northrop company packet](/extracted/industrial-goods/aerospace-defense-products-services/northrop-grumman-corp/company-packet.md)
+- [Union Pacific company packet](/extracted/industrial-goods/railroads/union-pacific-corporation/company-packet.md)
+- [Waste Management company packet](/extracted/industrial-goods/waste-management/waste-management-inc/company-packet.md)
+- [ABM company packet](/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)

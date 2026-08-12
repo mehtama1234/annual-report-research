@@ -9,9 +9,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/internet-information-providers/akamai-technologies-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/akamai-technologies-inc/ir-source-links.md)
-- SEC filings folder: [akamai-technologies-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/akamai-technologies-inc)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/internet-information-providers/akamai-technologies-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/internet-information-providers/akamai-technologies-inc/ir-source-links.md)
+- SEC filings folder: [akamai-technologies-inc](/raw/sec/technology/internet-information-providers/akamai-technologies-inc)
 
 ## Snapshot
 

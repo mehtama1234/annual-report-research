@@ -22,11 +22,11 @@ The useful question is what workflow layer each one actually controls:
 
 Related files:
 
-- [Physical Execution And Embedded Workflow Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md)
-- [Physical Execution Embedded Workflow Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md)
-- [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Physical Execution And Embedded Workflow Systems](/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md)
+- [Physical Execution Embedded Workflow Systems Index](/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md)
+- [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

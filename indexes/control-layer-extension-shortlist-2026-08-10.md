@@ -25,11 +25,11 @@ The question is:
 
 Related files:
 
-- [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
-- [Control-Layer Connectivity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
-- [Hidden Connectivity And Access-Layer Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
-- [AnnualReports Noncovered No-Overlap Matrix](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
-- [Blind-Spot Next Actions](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-next-actions-2026-08-10.md)
+- [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
+- [Control-Layer Connectivity Systems Index](/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
+- [Hidden Connectivity And Access-Layer Systems](/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
+- [AnnualReports Noncovered No-Overlap Matrix](/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
+- [Blind-Spot Next Actions](/notes/blind-spot-next-actions-2026-08-10.md)
 
 ## Current lane map
 

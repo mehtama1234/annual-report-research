@@ -10,16 +10,16 @@ the systems that keep water moving, buildings habitable, and civic replacement d
 
 Related files:
 
-- [Modern Real-Estate And Infrastructure Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
-- [Modern Real-Estate And Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
-- [Connectivity Infrastructure Physical-Layer Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Crosswalk](/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Index](/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
+- [Connectivity Infrastructure Physical-Layer Map](/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
 
 Primary anchors:
 
-- [American Water Works Company, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/utilities/water-utilities/american-water-works-company-inc/company-packet.md)
-- [Core & Main, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/building-materials-wholesale/core-main-inc/company-packet.md)
-- [Ferguson Enterprises Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md)
-- [Comfort Systems USA, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
+- [American Water Works Company, Inc.](/extracted/utilities/water-utilities/american-water-works-company-inc/company-packet.md)
+- [Core & Main, Inc.](/extracted/industrial-goods/building-materials-wholesale/core-main-inc/company-packet.md)
+- [Ferguson Enterprises Inc.](/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md)
+- [Comfort Systems USA, Inc.](/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
 
 ## Executive read
 

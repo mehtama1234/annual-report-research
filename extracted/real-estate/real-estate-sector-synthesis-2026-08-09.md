@@ -6,12 +6,12 @@ Date baseline: 2026-08-09
 
 This synthesis is based on the six completed real-estate packets currently in the archive:
 
-- [Prologis Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-industrial-real-estate/prologis-inc/company-packet.md)
-- [Equinix Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-specialty-real-estate/equinix-inc/company-packet.md)
-- [Digital Realty Trust Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-packet.md)
-- [AvalonBay Communities, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-residential-real-estate/avalonbay-communities-inc/company-packet.md)
-- [CBRE Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/real-estate-development/cbre-group-inc/company-packet.md)
-- [Jones Lang LaSalle Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/real-estate-development/jones-lang-lasalle-inc/company-packet.md)
+- [Prologis Inc.](/extracted/real-estate/reit-industrial-real-estate/prologis-inc/company-packet.md)
+- [Equinix Inc.](/extracted/real-estate/reit-specialty-real-estate/equinix-inc/company-packet.md)
+- [Digital Realty Trust Inc.](/extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-packet.md)
+- [AvalonBay Communities, Inc.](/extracted/real-estate/reit-residential-real-estate/avalonbay-communities-inc/company-packet.md)
+- [CBRE Group Inc.](/extracted/real-estate/real-estate-development/cbre-group-inc/company-packet.md)
+- [Jones Lang LaSalle Inc.](/extracted/real-estate/real-estate-development/jones-lang-lasalle-inc/company-packet.md)
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-09`: `Q4 2025`, `Q1 2026`, and `Q2 2026`.
 

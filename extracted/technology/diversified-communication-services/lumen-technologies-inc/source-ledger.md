@@ -5,7 +5,7 @@
 - Company page verified on 2026-08-10:
   - https://www.annualreports.com/Company/lumen-technologies
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/lumen-technologies-inc/annualreports-verification.md)
+  - [annualreports-verification.md](/raw/annualreports/technology/diversified-communication-services/lumen-technologies-inc/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -16,7 +16,7 @@
 - IR SEC filings:
   - https://ir.lumen.com/financials/sec-filings/lumen/default.aspx
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/lumen-technologies-inc/ir-source-links.md)
+  - [ir-source-links.md](/raw/company-ir/technology/diversified-communication-services/lumen-technologies-inc/ir-source-links.md)
 
 ## SEC / EDGAR references
 
@@ -50,28 +50,28 @@
 ## Saved local artifacts
 
 - Saved IR challenge pages:
-  - [annual-reports.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/lumen-technologies-inc/annual-reports.html)
-  - [quarterly-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/lumen-technologies-inc/quarterly-results.html)
-  - [sec-filings.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/lumen-technologies-inc/sec-filings.html)
+  - [annual-reports.html](/raw/company-ir/technology/diversified-communication-services/lumen-technologies-inc/annual-reports.html)
+  - [quarterly-results.html](/raw/company-ir/technology/diversified-communication-services/lumen-technologies-inc/quarterly-results.html)
+  - [sec-filings.html](/raw/company-ir/technology/diversified-communication-services/lumen-technologies-inc/sec-filings.html)
 - SEC submission indexes:
-  - [sec-submissions-18926.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/sec-submissions-18926.json)
-  - [2025-q4-8k-index.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2025-q4-8k-index.json)
-  - [2026-q1-8k-index.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q1-8k-index.json)
-  - [2026-q2-8k-index.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q2-8k-index.json)
+  - [sec-submissions-18926.json](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/sec-submissions-18926.json)
+  - [2025-q4-8k-index.json](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2025-q4-8k-index.json)
+  - [2026-q1-8k-index.json](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q1-8k-index.json)
+  - [2026-q2-8k-index.json](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q2-8k-index.json)
 - Annual and quarter filing chain:
-  - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2025-10k.html)
-  - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2025-q4-8k.html)
-  - [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q1-8k.html)
-  - [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q1-10q.html)
-  - [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q2-8k.html)
-  - [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q2-10q.html)
+  - [2025-10k.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2025-10k.html)
+  - [2025-q4-8k.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2025-q4-8k.html)
+  - [2026-q1-8k.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q1-8k.html)
+  - [2026-q1-10q.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q1-10q.html)
+  - [2026-q2-8k.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q2-8k.html)
+  - [2026-q2-10q.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q2-10q.html)
 - SEC quarter exhibits:
-  - [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2025-q4-press-release.html)
-  - [2025-q4-quarterly-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2025-q4-quarterly-results.html)
-  - [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q1-press-release.html)
-  - [2026-q1-quarterly-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q1-quarterly-results.html)
-  - [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q2-press-release.html)
-  - [2026-q2-quarterly-presentation.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q2-quarterly-presentation.html)
+  - [2025-q4-press-release.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2025-q4-press-release.html)
+  - [2025-q4-quarterly-results.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2025-q4-quarterly-results.html)
+  - [2026-q1-press-release.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q1-press-release.html)
+  - [2026-q1-quarterly-results.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q1-quarterly-results.html)
+  - [2026-q2-press-release.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q2-press-release.html)
+  - [2026-q2-quarterly-presentation.html](/raw/sec/technology/diversified-communication-services/lumen-technologies-inc/2026-q2-quarterly-presentation.html)
 
 ## Notes on evidence quality
 

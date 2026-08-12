@@ -59,22 +59,22 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/sporting-goods/yeti-holdings-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/sporting-goods/yeti-holdings-inc/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/sporting-goods/yeti-holdings-inc/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/sporting-goods/yeti-holdings-inc/2025-annual-report.pdf)
-- [overview.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/sporting-goods/yeti-holdings-inc/overview.html)
-- [submissions-cik0001670592.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/submissions-cik0001670592.json)
-- [companyfacts-cik0001670592.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/companyfacts-cik0001670592.json)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-10k.html)
-- [2025-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-q3-8k.html)
-- [2025-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-q3-press-release.html)
-- [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-q3-10q.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-q4-8k.html)
-- [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-q4-press-release.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2026-q1-8k.html)
-- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2026-q1-press-release.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2026-q1-10q.html)
+- [annualreports-verification.md](/raw/annualreports/consumer-goods/sporting-goods/yeti-holdings-inc/annualreports-verification.md)
+- [company-page.html](/raw/annualreports/consumer-goods/sporting-goods/yeti-holdings-inc/company-page.html)
+- [official-ir-verification.md](/raw/company-ir/consumer-goods/sporting-goods/yeti-holdings-inc/official-ir-verification.md)
+- [2025-annual-report.pdf](/raw/company-ir/consumer-goods/sporting-goods/yeti-holdings-inc/2025-annual-report.pdf)
+- [overview.html](/raw/company-ir/consumer-goods/sporting-goods/yeti-holdings-inc/overview.html)
+- [submissions-cik0001670592.json](/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/submissions-cik0001670592.json)
+- [companyfacts-cik0001670592.json](/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/companyfacts-cik0001670592.json)
+- [2025-10k.html](/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-10k.html)
+- [2025-q3-8k.html](/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-q3-8k.html)
+- [2025-q3-press-release.html](/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-q3-press-release.html)
+- [2025-q3-10q.html](/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-q3-10q.html)
+- [2025-q4-8k.html](/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-q4-8k.html)
+- [2025-q4-press-release.html](/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2025-q4-press-release.html)
+- [2026-q1-8k.html](/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2026-q1-8k.html)
+- [2026-q1-press-release.html](/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2026-q1-press-release.html)
+- [2026-q1-10q.html](/raw/sec/consumer-goods/sporting-goods/yeti-holdings-inc/2026-q1-10q.html)
 
 ## Working interpretation
 

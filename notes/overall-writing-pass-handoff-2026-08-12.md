@@ -33,34 +33,34 @@ Current `main` commit at handoff: `391d10fd`
   - connectivity / telecom / infrastructure tech
   - capital structures / property / conglomerates
 - Many company packets are already strong enough for use.
-- There is a large cross-sector insight layer in [analysis/cross-sector](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector).
+- There is a large cross-sector insight layer in [analysis/cross-sector](/analysis/cross-sector).
 - There are lane-specific writing surfaces in:
-  - [analysis/sectors](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors)
-  - [analysis/themes](/home/manishmehta/ui-projects/annual-report-research/analysis/themes)
-- There are many operator and insight briefs in [notes](/home/manishmehta/ui-projects/annual-report-research/notes).
+  - [analysis/sectors](/analysis/sectors)
+  - [analysis/themes](/analysis/themes)
+- There are many operator and insight briefs in [notes](/notes).
 
 ## Best source material for the writing pass
 
 Start here:
 
-- [notes/main-wrap-up-checkpoint-handoff-2026-08-11.md](/home/manishmehta/ui-projects/annual-report-research/notes/main-wrap-up-checkpoint-handoff-2026-08-11.md)
-- [notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md)
-- [notes/master-insight-extraction-goal-2026-08-11.md](/home/manishmehta/ui-projects/annual-report-research/notes/master-insight-extraction-goal-2026-08-11.md)
-- [notes/insight-artifact-manifest-2026-08-11.md](/home/manishmehta/ui-projects/annual-report-research/notes/insight-artifact-manifest-2026-08-11.md)
-- [analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md)
-- [analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md)
-- [analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md)
-- [analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md)
+- [notes/main-wrap-up-checkpoint-handoff-2026-08-11.md](/notes/main-wrap-up-checkpoint-handoff-2026-08-11.md)
+- [notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md](/notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md)
+- [notes/master-insight-extraction-goal-2026-08-11.md](/notes/master-insight-extraction-goal-2026-08-11.md)
+- [notes/insight-artifact-manifest-2026-08-11.md](/notes/insight-artifact-manifest-2026-08-11.md)
+- [analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md](/analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md)
+- [analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md](/analysis/cross-sector/aha-moments-and-curiosity-questions-2026-08-10.md)
+- [analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md](/analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md)
+- [analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md](/analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md)
 
 Then use the comparison library selectively:
 
-- [analysis/cross-sector](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector)
+- [analysis/cross-sector](/analysis/cross-sector)
 
 High-value theme pages:
 
-- [analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md)
-- [analysis/themes/cli-5-connectivity-proof-page-2026-08-11.md](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-connectivity-proof-page-2026-08-11.md)
-- related `cli-4`, `cli-5`, and `cli-6` lane-run notes in [analysis/sectors](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors)
+- [analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md](/analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md)
+- [analysis/themes/cli-5-connectivity-proof-page-2026-08-11.md](/analysis/themes/cli-5-connectivity-proof-page-2026-08-11.md)
+- related `cli-4`, `cli-5`, and `cli-6` lane-run notes in [analysis/sectors](/analysis/sectors)
 
 ## What the writing pass should actually do
 

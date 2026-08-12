@@ -22,10 +22,10 @@ The useful question is which hidden-connectivity ownership structure each one mo
 
 Related files:
 
-- [Hidden Connectivity And Access-Layer Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
-- [Hidden Connectivity Access Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-access-systems-index-2026-08-10.md)
-- [American Tower Versus Crown Castle Versus SBA Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/american-tower-vs-crown-castle-vs-sba-boundary-comparison-2026-08-10.md)
-- [Converged Connectivity And Carrier Economics](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/converged-connectivity-and-carrier-economics-2026-08-10.md)
+- [Hidden Connectivity And Access-Layer Systems](/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
+- [Hidden Connectivity Access Systems Index](/indexes/hidden-connectivity-access-systems-index-2026-08-10.md)
+- [American Tower Versus Crown Castle Versus SBA Boundary Comparison](/extracted/themes/american-tower-vs-crown-castle-vs-sba-boundary-comparison-2026-08-10.md)
+- [Converged Connectivity And Carrier Economics](/extracted/themes/converged-connectivity-and-carrier-economics-2026-08-10.md)
 
 ## Executive read
 

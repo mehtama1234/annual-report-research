@@ -57,21 +57,21 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/personal-products/elf-beauty-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/personal-products/elf-beauty-inc/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2025-10k.html)
-- [2026-fyq3-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/2026-fyq3-press-release.html)
-- [2026-fyq3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2026-fyq3-8k.html)
-- [2026-fyq3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2026-fyq3-10q.html)
-- [2026-fyq4-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/2026-fyq4-press-release.html)
-- [2026-fyq4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2026-fyq4-8k.html)
-- [2027-fyq1-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/2027-fyq1-presentation.pdf)
-- [2027-fyq1-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/2027-fyq1-transcript.pdf)
-- [2027-fyq1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2027-fyq1-8k.html)
-- [2027-fyq1-earnings-release-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2027-fyq1-earnings-release-ex99.html)
-- [2027-fyq1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2027-fyq1-10q.html)
+- [annualreports-verification.md](/raw/annualreports/consumer-goods/personal-products/elf-beauty-inc/annualreports-verification.md)
+- [company-page.html](/raw/annualreports/consumer-goods/personal-products/elf-beauty-inc/company-page.html)
+- [official-ir-verification.md](/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/official-ir-verification.md)
+- [2025-annual-report.pdf](/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/2025-annual-report.pdf)
+- [2025-10k.html](/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2025-10k.html)
+- [2026-fyq3-press-release.html](/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/2026-fyq3-press-release.html)
+- [2026-fyq3-8k.html](/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2026-fyq3-8k.html)
+- [2026-fyq3-10q.html](/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2026-fyq3-10q.html)
+- [2026-fyq4-press-release.html](/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/2026-fyq4-press-release.html)
+- [2026-fyq4-8k.html](/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2026-fyq4-8k.html)
+- [2027-fyq1-presentation.pdf](/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/2027-fyq1-presentation.pdf)
+- [2027-fyq1-transcript.pdf](/raw/company-ir/consumer-goods/personal-products/elf-beauty-inc/2027-fyq1-transcript.pdf)
+- [2027-fyq1-8k.html](/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2027-fyq1-8k.html)
+- [2027-fyq1-earnings-release-ex99.html](/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2027-fyq1-earnings-release-ex99.html)
+- [2027-fyq1-10q.html](/raw/sec/consumer-goods/personal-products/elf-beauty-inc/2027-fyq1-10q.html)
 
 ## Working interpretation
 

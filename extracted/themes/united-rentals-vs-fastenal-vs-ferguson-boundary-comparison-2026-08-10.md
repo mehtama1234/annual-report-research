@@ -22,10 +22,10 @@ The useful question is what execution and workflow layer each one actually contr
 
 Related files:
 
-- [Physical Execution And Embedded Workflow Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md)
-- [Physical Execution Embedded Workflow Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Physical Execution And Embedded Workflow Systems](/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md)
+- [Physical Execution Embedded Workflow Systems Index](/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 
@@ -189,4 +189,4 @@ Those are different workflow-control structures inside the same physical-executi
 
 - use this memo when another worker needs the clearest direct comparison inside the physical-execution and embedded-workflow blind spot
 - reuse it when deciding whether a company belongs closer to outsourced equipment access, embedded procurement control, or branch-density contractor service
-- connect it to [WESCO Versus Applied Industrial Technologies Versus Core & Main Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/wesco-vs-applied-vs-core-main-boundary-comparison-2026-08-10.md) when the lane needs the stronger engineering-heavy, utility-specific, or electrical-channel counterpoint
+- connect it to [WESCO Versus Applied Industrial Technologies Versus Core & Main Boundary Comparison](/extracted/themes/wesco-vs-applied-vs-core-main-boundary-comparison-2026-08-10.md) when the lane needs the stronger engineering-heavy, utility-specific, or electrical-channel counterpoint

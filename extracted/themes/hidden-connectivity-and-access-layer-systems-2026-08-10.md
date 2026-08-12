@@ -23,20 +23,20 @@ The useful comparison is which access-layer and site-control structure each comp
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Hidden Connectivity Access Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-access-systems-index-2026-08-10.md)
-- [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
-- [Connectivity Infrastructure Physical-Layer Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
-- [Modern Real-Estate And Infrastructure Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Hidden Connectivity Access Systems Index](/indexes/hidden-connectivity-access-systems-index-2026-08-10.md)
+- [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
+- [Connectivity Infrastructure Physical-Layer Map](/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Crosswalk](/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
 
 Primary anchors:
 
-- [American Tower Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-specialty-real-estate/american-tower-corporation/company-packet.md)
-- [Crown Castle Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-specialty-real-estate/crown-castle-inc/company-packet.md)
-- [SBA Communications Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-specialty-real-estate/sba-communications-corporation/company-packet.md)
-- [Cogent Communications Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/diversified-communication-services/cogent-communications-holdings-inc/company-packet.md)
-- [Iridium Communications Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/iridium-communications-inc/company-packet.md)
-- [Viasat, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/viasat-inc/company-packet.md)
+- [American Tower Corporation](/extracted/real-estate/reit-specialty-real-estate/american-tower-corporation/company-packet.md)
+- [Crown Castle Inc.](/extracted/real-estate/reit-specialty-real-estate/crown-castle-inc/company-packet.md)
+- [SBA Communications Corporation](/extracted/real-estate/reit-specialty-real-estate/sba-communications-corporation/company-packet.md)
+- [Cogent Communications Holdings, Inc.](/extracted/technology/diversified-communication-services/cogent-communications-holdings-inc/company-packet.md)
+- [Iridium Communications Inc.](/extracted/technology/communication-equipment/iridium-communications-inc/company-packet.md)
+- [Viasat, Inc.](/extracted/technology/communication-equipment/viasat-inc/company-packet.md)
 
 ## Executive read
 
@@ -169,7 +169,7 @@ That is why this lane belongs to the blind-spot thread rather than to a normal p
 ## Best next moves
 
 1. Reuse this memo first when another thread treats these names as generic REITs instead of access-layer connectivity systems.
-2. Reuse [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md) when the question moves upward from physical access sites into trust, routing, transport, and optical-control layers.
-3. Reuse [American Tower Versus Cogent Versus Viasat Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/american-tower-vs-cogent-vs-viasat-boundary-comparison-2026-08-10.md) when the question is tower-site ownership versus terrestrial route-density ownership versus orbital access ownership.
+2. Reuse [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md) when the question moves upward from physical access sites into trust, routing, transport, and optical-control layers.
+3. Reuse [American Tower Versus Cogent Versus Viasat Boundary Comparison](/extracted/themes/american-tower-vs-cogent-vs-viasat-boundary-comparison-2026-08-10.md) when the question is tower-site ownership versus terrestrial route-density ownership versus orbital access ownership.
 4. `Iridium` and `Viasat` now split the orbital branch into resilient narrowband coverage versus heavier-bandwidth mobility and sovereign-access capacity, while `Cogent` now opens the terrestrial route-density branch, so the next useful extension should only happen if another name materially sharpens stricter private-fiber buyout ownership or a materially different space-layer model.
 5. Use `Zayo` later only if the archive needs the stricter private-fiber buyout and dark-fiber ownership counterpoint beyond the now-live public-market route-density branch.

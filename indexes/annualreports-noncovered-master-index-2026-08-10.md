@@ -10,112 +10,112 @@ Use this file first when another worker needs to continue the blind-spot lane wi
 
 For a branch-agnostic operating handoff, also use:
 
-- [AnnualReports Browse-Tree Blind-Spot Mandate](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
-- [Blind-Spot Notes Index](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-notes-index-2026-08-10.md)
-- [Blind-Spot Quickstart](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-quickstart-2026-08-10.md)
-- [Blind-Spot Lane Handoff](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-handoff-2026-08-10.md)
-- [Blind-Spot Lane Status Audit](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-status-audit-2026-08-10.md)
-- [Blind-Spot Take-Don't-Take Roster](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-take-dont-take-roster-2026-08-10.md)
-- [AnnualReports Blind-Spot Ownership Map](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-blind-spot-ownership-map-2026-08-10.md)
-- [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
+- [AnnualReports Browse-Tree Blind-Spot Mandate](/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
+- [Blind-Spot Notes Index](/notes/blind-spot-notes-index-2026-08-10.md)
+- [Blind-Spot Quickstart](/notes/blind-spot-quickstart-2026-08-10.md)
+- [Blind-Spot Lane Handoff](/notes/blind-spot-handoff-2026-08-10.md)
+- [Blind-Spot Lane Status Audit](/notes/blind-spot-status-audit-2026-08-10.md)
+- [Blind-Spot Take-Don't-Take Roster](/notes/blind-spot-take-dont-take-roster-2026-08-10.md)
+- [AnnualReports Blind-Spot Ownership Map](/indexes/annualreports-blind-spot-ownership-map-2026-08-10.md)
+- [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
 
 ## Read order
 
-1. [AnnualReports Browse-Tree Blind-Spot Mandate](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
-2. [AnnualReports Blind-Spot Ownership Map](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-blind-spot-ownership-map-2026-08-10.md)
-3. [AnnualReports Noncovered Hunting Ground](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-hunting-ground-2026-08-10.md)
-4. [AnnualReports Noncovered No-Overlap Matrix](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
-5. [annualreports-noncovered-no-overlap-matrix-2026-08-10.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.csv)
-6. [AnnualReports Noncovered Areas Priority Map](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md)
-7. [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
-8. [AnnualReports Noncovered Take-Leave Protocol](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-take-leave-protocol-2026-08-10.md)
-9. [AnnualReports Noncovered Priority Company Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md)
-10. [AnnualReports Noncovered Claim Test](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-claim-test-2026-08-10.md)
-11. [AnnualReports Noncovered Company Claim Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
-12. [AnnualReports Noncovered Assignment Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
-13. [annualreports-noncovered-assignment-queue-2026-08-10.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv)
-14. [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-15. [Blind-Spot Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-systems-index-2026-08-10.md)
-16. [Blind-Spot Notes Index](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-notes-index-2026-08-10.md)
-17. [Blind-Spot Quickstart](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-quickstart-2026-08-10.md)
-18. [Blind-Spot Lane Handoff](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-handoff-2026-08-10.md)
-19. [Blind-Spot Lane Status Audit](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-status-audit-2026-08-10.md)
-20. [Blind-Spot Take-Don't-Take Roster](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-take-dont-take-roster-2026-08-10.md)
+1. [AnnualReports Browse-Tree Blind-Spot Mandate](/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
+2. [AnnualReports Blind-Spot Ownership Map](/indexes/annualreports-blind-spot-ownership-map-2026-08-10.md)
+3. [AnnualReports Noncovered Hunting Ground](/indexes/annualreports-noncovered-hunting-ground-2026-08-10.md)
+4. [AnnualReports Noncovered No-Overlap Matrix](/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
+5. [annualreports-noncovered-no-overlap-matrix-2026-08-10.csv](/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.csv)
+6. [AnnualReports Noncovered Areas Priority Map](/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md)
+7. [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
+8. [AnnualReports Noncovered Take-Leave Protocol](/indexes/annualreports-noncovered-take-leave-protocol-2026-08-10.md)
+9. [AnnualReports Noncovered Priority Company Roster](/indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md)
+10. [AnnualReports Noncovered Claim Test](/indexes/annualreports-noncovered-claim-test-2026-08-10.md)
+11. [AnnualReports Noncovered Company Claim Roster](/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
+12. [AnnualReports Noncovered Assignment Queue](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
+13. [annualreports-noncovered-assignment-queue-2026-08-10.csv](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv)
+14. [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+15. [Blind-Spot Systems Index](/indexes/blind-spot-systems-index-2026-08-10.md)
+16. [Blind-Spot Notes Index](/notes/blind-spot-notes-index-2026-08-10.md)
+17. [Blind-Spot Quickstart](/notes/blind-spot-quickstart-2026-08-10.md)
+18. [Blind-Spot Lane Handoff](/notes/blind-spot-handoff-2026-08-10.md)
+19. [Blind-Spot Lane Status Audit](/notes/blind-spot-status-audit-2026-08-10.md)
+20. [Blind-Spot Take-Don't-Take Roster](/notes/blind-spot-take-dont-take-roster-2026-08-10.md)
 
 ## Current live execution proofs
 
 These are the best current examples of the blind-spot thread doing real analytical work rather than only defining scope:
 
-- [Consumer-Behavior Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md): the top-level consumer routing layer that reduces the consumer and cultural side of the blind spot to `comfort`, `value`, `routine`, `ritual`, `identity`, and `participation`
-- [Infrastructure Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md): the top-level infrastructure routing layer that reduces the hidden-layer side of the blind spot to `control`, `access`, and `workflow`
+- [Consumer-Behavior Blind-Spot Comparison Core](/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md): the top-level consumer routing layer that reduces the consumer and cultural side of the blind spot to `comfort`, `value`, `routine`, `ritual`, `identity`, and `participation`
+- [Infrastructure Blind-Spot Comparison Core](/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md): the top-level infrastructure routing layer that reduces the hidden-layer side of the blind spot to `control`, `access`, and `workflow`
 
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md) and [Retail Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/retail-systems-index-2026-08-10.md): the retail correction layer spanning utility retail, replenishment, bargain discovery, brand-led retail, marketplace retail, and project retail
-- [Retail Versus Marketplace Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md): the boundary memo for deciding when a company is still mainly retail, when it becomes marketplace-first, and when it is really a coordination layer around retail demand
-- [Retail Marketplace Boundary Index](/home/manishmehta/ui-projects/annual-report-research/indexes/retail-marketplace-boundary-index-2026-08-10.md): the sortable boundary map for separating retail-first, hybrid, marketplace-first, and coordination-first cases
-- [Amazon Versus Walmart Versus Target Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/amazon-vs-walmart-vs-target-boundary-comparison-2026-08-10.md): the first direct comparison memo built from the retail-versus-marketplace boundary lane
-- [Owned-Demand Versus Marketplace-Extended Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md): the boundary memo for deciding when demand is truly brand-owned, when marketplace reach only assists that demand, and when interface control has become the stronger economic reality
-- [Owned-Demand Marketplace Boundary Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-marketplace-boundary-index-2026-08-10.md): the sortable boundary map for separating true owned-demand systems, hybrid owned-demand cases, and marketplace-extended or interface-control systems
-- [YETI Versus Ulta Versus Amazon Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/yeti-vs-ulta-vs-amazon-boundary-comparison-2026-08-10.md): the first direct comparison memo built from the owned-demand versus marketplace-extended boundary lane
-- [Direct Boundary Comparisons Index](/home/manishmehta/ui-projects/annual-report-research/indexes/direct-boundary-comparisons-index-2026-08-10.md): the one-screen summary of the direct comparison memos and their current ordering logic
-- [Marketplace And Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md) and [Marketplace Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/marketplace-systems-index-2026-08-10.md): the marketplace subtype lane separating commerce flywheels, trust marketplaces, local-demand coordination, and travel orchestration
-- [Platform And Ecosystem Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/platform-and-ecosystem-map-2026-08-10.md) and [Platform Ecosystem Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/platform-ecosystem-systems-index-2026-08-10.md): the platform subtype lane separating commerce flywheels, trip networks, local-demand fulfillment, device ecosystems, creator participation, and recurring attention systems
-- [Recurring Attention Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/recurring-attention-systems-index-2026-08-10.md): the recurring-attention subgroup screen separating paid access, mixed discovery monetization, ad-funded daily attention, infrastructure-widened attention, franchise-linked membership ecosystems, and weaker ad-dependent attention surfaces
-- [Instacart Versus DoorDash Versus Uber Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/instacart-vs-doordash-vs-uber-boundary-comparison-2026-08-10.md): the first direct comparison memo built specifically from the local-demand coordination subgroup
-- [Graphic Packaging Versus Clearwater Versus WM Versus CECO Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/graphic-packaging-vs-clearwater-vs-wm-vs-ceco-boundary-comparison-2026-08-10.md): the direct comparison memo built from the behind-the-shelf infrastructure subgroup
-- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md): the reuse-first extension gate for the behind-the-shelf infrastructure subgroup
-- [Starbucks Versus Costco Versus American Express Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/starbucks-vs-costco-vs-american-express-boundary-comparison-2026-08-10.md): the direct comparison memo built from the loyalty, wallet, and membership subgroup
-- [Prologis Versus Equinix Versus Digital Realty Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/prologis-vs-equinix-vs-digital-realty-boundary-comparison-2026-08-10.md): the direct comparison memo built from the modern real-estate and infrastructure subgroup
-- [TJX Versus Ollie's Versus Dollar General Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/tjx-vs-ollies-vs-dollar-general-boundary-comparison-2026-08-10.md): the direct comparison memo built from the value-hunt and bargain-discovery subgroup
-- [Ulta Versus e.l.f. Beauty Versus Estee Lauder Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ulta-vs-elf-vs-estee-lauder-boundary-comparison-2026-08-10.md): the direct comparison memo built from the beauty, identity, and prestige subgroup
-- [Crocs Versus Birkenstock Versus Planet Fitness Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/crocs-vs-birkenstock-vs-planet-fitness-boundary-comparison-2026-08-10.md): the direct comparison memo built from the comfort, casualization, and practical-wellness subgroup
-- [Colgate Versus Kenvue Versus Chewy Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/colgate-vs-kenvue-vs-chewy-boundary-comparison-2026-08-10.md): the direct comparison memo built from the routine-use trust and everyday-care subgroup
-- [Starbucks Versus Monster Versus Brown-Forman Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/starbucks-vs-monster-vs-brown-forman-boundary-comparison-2026-08-10.md): the direct comparison memo built from the ritual, occasion, and stimulation subgroup
-- [Hasbro Versus Mattel Versus Roblox Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/hasbro-vs-mattel-vs-roblox-boundary-comparison-2026-08-10.md): the direct comparison memo built from the fandom, play, and participation subgroup
-- [Costco Versus Ulta Versus Ross Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/costco-vs-ulta-vs-ross-boundary-comparison-2026-08-10.md): the direct comparison memo built from the relationship-thickness subgroup
-- [Etsy Versus eBay Versus Airbnb Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/etsy-vs-ebay-vs-airbnb-boundary-comparison-2026-08-10.md): the direct comparison memo built from the trust-marketplace subgroup
-- [Booking Versus Expedia Versus Airbnb Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/booking-vs-expedia-vs-airbnb-boundary-comparison-2026-08-10.md): the direct comparison memo built from the travel-interface subgroup
-- [C.H. Robinson Versus UPS Versus DoorDash Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ch-robinson-vs-ups-vs-doordash-boundary-comparison-2026-08-10.md): the direct comparison memo built from the delivery-layer subgroup
-- [Cloudflare Versus Cisco Versus Palo Alto Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/cloudflare-vs-cisco-vs-palo-alto-boundary-comparison-2026-08-10.md): the direct comparison memo built from the control-layer and connectivity subgroup
-- [Cloudflare Versus Akamai Versus Palo Alto Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/cloudflare-vs-akamai-vs-palo-alto-boundary-comparison-2026-08-10.md): the direct comparison memo that makes the edge-native-control versus incumbent delivery-transition split explicit inside the same subgroup
-- [Cisco Versus Arista Versus Palo Alto Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/cisco-vs-arista-vs-palo-alto-boundary-comparison-2026-08-10.md): the direct comparison memo that makes the installed-base-network-control versus architecture-specialist-AI-networking versus trust-governance split explicit inside the same subgroup
-- [Corning Versus CommScope Versus Ciena Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/corning-vs-commscope-vs-ciena-boundary-comparison-2026-08-10.md): the direct comparison memo that makes the upstream optical-input versus downstream connectivity-equipment versus active-transport split explicit inside the same subgroup
-- [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md): the reuse-first extension gate for the control-layer and connectivity subgroup
-- [American Tower Versus Crown Castle Versus SBA Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/american-tower-vs-crown-castle-vs-sba-boundary-comparison-2026-08-10.md): the direct comparison memo built from the hidden-connectivity and access-layer subgroup
-- [American Tower Versus Cogent Versus Viasat Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/american-tower-vs-cogent-vs-viasat-boundary-comparison-2026-08-10.md): the direct comparison memo that makes the site-ownership versus terrestrial-route-density versus orbital-access split explicit inside the same subgroup
-- [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md): the reuse-first extension gate for the hidden-connectivity and access-layer subgroup
-- [United Rentals Versus Fastenal Versus Ferguson Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/united-rentals-vs-fastenal-vs-ferguson-boundary-comparison-2026-08-10.md): the direct comparison memo built from the physical-execution and embedded-workflow subgroup
-- [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md): the reuse-first extension gate for the physical-execution and embedded-workflow subgroup
-- [Apple Versus Netflix Versus Roblox Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/apple-vs-netflix-vs-roblox-boundary-comparison-2026-08-10.md): the direct comparison memo built from the platform-and-ecosystem subgroup
-- [Netflix Versus Spotify Versus Meta Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md): the direct comparison memo built from the recurring-attention subgroup inside the platform-and-ecosystem lane
-- [Warby Parker Versus Nike Versus Ulta Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/warby-parker-vs-nike-vs-ulta-boundary-comparison-2026-08-10.md): the direct comparison memo built from the owned-demand and channel-control subgroup
-- [Costco Versus Kroger Versus TJX Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/costco-vs-kroger-vs-tjx-boundary-comparison-2026-08-10.md): the direct comparison memo built from the retail-system subgroup
-- [Home Depot Versus Lowe's Versus Builders FirstSource Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/home-depot-vs-lowes-vs-builders-firstsource-boundary-comparison-2026-08-10.md): the direct comparison memo built from the shelter-upkeep and pro-workflow subgroup
-- [Modern Real-Estate And Infrastructure Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md) and [Modern Real-Estate And Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/modern-real-estate-infrastructure-index-2026-08-10.md): the built-environment correction layer spanning property, intermediation, supply, and execution
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md) and [Retail Systems Index](/indexes/retail-systems-index-2026-08-10.md): the retail correction layer spanning utility retail, replenishment, bargain discovery, brand-led retail, marketplace retail, and project retail
+- [Retail Versus Marketplace Boundary](/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md): the boundary memo for deciding when a company is still mainly retail, when it becomes marketplace-first, and when it is really a coordination layer around retail demand
+- [Retail Marketplace Boundary Index](/indexes/retail-marketplace-boundary-index-2026-08-10.md): the sortable boundary map for separating retail-first, hybrid, marketplace-first, and coordination-first cases
+- [Amazon Versus Walmart Versus Target Boundary Comparison](/extracted/themes/amazon-vs-walmart-vs-target-boundary-comparison-2026-08-10.md): the first direct comparison memo built from the retail-versus-marketplace boundary lane
+- [Owned-Demand Versus Marketplace-Extended Boundary](/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md): the boundary memo for deciding when demand is truly brand-owned, when marketplace reach only assists that demand, and when interface control has become the stronger economic reality
+- [Owned-Demand Marketplace Boundary Index](/indexes/owned-demand-marketplace-boundary-index-2026-08-10.md): the sortable boundary map for separating true owned-demand systems, hybrid owned-demand cases, and marketplace-extended or interface-control systems
+- [YETI Versus Ulta Versus Amazon Boundary Comparison](/extracted/themes/yeti-vs-ulta-vs-amazon-boundary-comparison-2026-08-10.md): the first direct comparison memo built from the owned-demand versus marketplace-extended boundary lane
+- [Direct Boundary Comparisons Index](/indexes/direct-boundary-comparisons-index-2026-08-10.md): the one-screen summary of the direct comparison memos and their current ordering logic
+- [Marketplace And Coordination Systems](/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md) and [Marketplace Systems Index](/indexes/marketplace-systems-index-2026-08-10.md): the marketplace subtype lane separating commerce flywheels, trust marketplaces, local-demand coordination, and travel orchestration
+- [Platform And Ecosystem Map](/extracted/themes/platform-and-ecosystem-map-2026-08-10.md) and [Platform Ecosystem Systems Index](/indexes/platform-ecosystem-systems-index-2026-08-10.md): the platform subtype lane separating commerce flywheels, trip networks, local-demand fulfillment, device ecosystems, creator participation, and recurring attention systems
+- [Recurring Attention Systems Index](/indexes/recurring-attention-systems-index-2026-08-10.md): the recurring-attention subgroup screen separating paid access, mixed discovery monetization, ad-funded daily attention, infrastructure-widened attention, franchise-linked membership ecosystems, and weaker ad-dependent attention surfaces
+- [Instacart Versus DoorDash Versus Uber Boundary Comparison](/extracted/themes/instacart-vs-doordash-vs-uber-boundary-comparison-2026-08-10.md): the first direct comparison memo built specifically from the local-demand coordination subgroup
+- [Graphic Packaging Versus Clearwater Versus WM Versus CECO Boundary Comparison](/extracted/themes/graphic-packaging-vs-clearwater-vs-wm-vs-ceco-boundary-comparison-2026-08-10.md): the direct comparison memo built from the behind-the-shelf infrastructure subgroup
+- [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md): the reuse-first extension gate for the behind-the-shelf infrastructure subgroup
+- [Starbucks Versus Costco Versus American Express Boundary Comparison](/extracted/themes/starbucks-vs-costco-vs-american-express-boundary-comparison-2026-08-10.md): the direct comparison memo built from the loyalty, wallet, and membership subgroup
+- [Prologis Versus Equinix Versus Digital Realty Boundary Comparison](/extracted/themes/prologis-vs-equinix-vs-digital-realty-boundary-comparison-2026-08-10.md): the direct comparison memo built from the modern real-estate and infrastructure subgroup
+- [TJX Versus Ollie's Versus Dollar General Boundary Comparison](/extracted/themes/tjx-vs-ollies-vs-dollar-general-boundary-comparison-2026-08-10.md): the direct comparison memo built from the value-hunt and bargain-discovery subgroup
+- [Ulta Versus e.l.f. Beauty Versus Estee Lauder Boundary Comparison](/extracted/themes/ulta-vs-elf-vs-estee-lauder-boundary-comparison-2026-08-10.md): the direct comparison memo built from the beauty, identity, and prestige subgroup
+- [Crocs Versus Birkenstock Versus Planet Fitness Boundary Comparison](/extracted/themes/crocs-vs-birkenstock-vs-planet-fitness-boundary-comparison-2026-08-10.md): the direct comparison memo built from the comfort, casualization, and practical-wellness subgroup
+- [Colgate Versus Kenvue Versus Chewy Boundary Comparison](/extracted/themes/colgate-vs-kenvue-vs-chewy-boundary-comparison-2026-08-10.md): the direct comparison memo built from the routine-use trust and everyday-care subgroup
+- [Starbucks Versus Monster Versus Brown-Forman Boundary Comparison](/extracted/themes/starbucks-vs-monster-vs-brown-forman-boundary-comparison-2026-08-10.md): the direct comparison memo built from the ritual, occasion, and stimulation subgroup
+- [Hasbro Versus Mattel Versus Roblox Boundary Comparison](/extracted/themes/hasbro-vs-mattel-vs-roblox-boundary-comparison-2026-08-10.md): the direct comparison memo built from the fandom, play, and participation subgroup
+- [Costco Versus Ulta Versus Ross Boundary Comparison](/extracted/themes/costco-vs-ulta-vs-ross-boundary-comparison-2026-08-10.md): the direct comparison memo built from the relationship-thickness subgroup
+- [Etsy Versus eBay Versus Airbnb Boundary Comparison](/extracted/themes/etsy-vs-ebay-vs-airbnb-boundary-comparison-2026-08-10.md): the direct comparison memo built from the trust-marketplace subgroup
+- [Booking Versus Expedia Versus Airbnb Boundary Comparison](/extracted/themes/booking-vs-expedia-vs-airbnb-boundary-comparison-2026-08-10.md): the direct comparison memo built from the travel-interface subgroup
+- [C.H. Robinson Versus UPS Versus DoorDash Boundary Comparison](/extracted/themes/ch-robinson-vs-ups-vs-doordash-boundary-comparison-2026-08-10.md): the direct comparison memo built from the delivery-layer subgroup
+- [Cloudflare Versus Cisco Versus Palo Alto Boundary Comparison](/extracted/themes/cloudflare-vs-cisco-vs-palo-alto-boundary-comparison-2026-08-10.md): the direct comparison memo built from the control-layer and connectivity subgroup
+- [Cloudflare Versus Akamai Versus Palo Alto Boundary Comparison](/extracted/themes/cloudflare-vs-akamai-vs-palo-alto-boundary-comparison-2026-08-10.md): the direct comparison memo that makes the edge-native-control versus incumbent delivery-transition split explicit inside the same subgroup
+- [Cisco Versus Arista Versus Palo Alto Boundary Comparison](/extracted/themes/cisco-vs-arista-vs-palo-alto-boundary-comparison-2026-08-10.md): the direct comparison memo that makes the installed-base-network-control versus architecture-specialist-AI-networking versus trust-governance split explicit inside the same subgroup
+- [Corning Versus CommScope Versus Ciena Boundary Comparison](/extracted/themes/corning-vs-commscope-vs-ciena-boundary-comparison-2026-08-10.md): the direct comparison memo that makes the upstream optical-input versus downstream connectivity-equipment versus active-transport split explicit inside the same subgroup
+- [Control-Layer Extension Shortlist](/indexes/control-layer-extension-shortlist-2026-08-10.md): the reuse-first extension gate for the control-layer and connectivity subgroup
+- [American Tower Versus Crown Castle Versus SBA Boundary Comparison](/extracted/themes/american-tower-vs-crown-castle-vs-sba-boundary-comparison-2026-08-10.md): the direct comparison memo built from the hidden-connectivity and access-layer subgroup
+- [American Tower Versus Cogent Versus Viasat Boundary Comparison](/extracted/themes/american-tower-vs-cogent-vs-viasat-boundary-comparison-2026-08-10.md): the direct comparison memo that makes the site-ownership versus terrestrial-route-density versus orbital-access split explicit inside the same subgroup
+- [Hidden Connectivity Extension Shortlist](/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md): the reuse-first extension gate for the hidden-connectivity and access-layer subgroup
+- [United Rentals Versus Fastenal Versus Ferguson Boundary Comparison](/extracted/themes/united-rentals-vs-fastenal-vs-ferguson-boundary-comparison-2026-08-10.md): the direct comparison memo built from the physical-execution and embedded-workflow subgroup
+- [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md): the reuse-first extension gate for the physical-execution and embedded-workflow subgroup
+- [Apple Versus Netflix Versus Roblox Boundary Comparison](/extracted/themes/apple-vs-netflix-vs-roblox-boundary-comparison-2026-08-10.md): the direct comparison memo built from the platform-and-ecosystem subgroup
+- [Netflix Versus Spotify Versus Meta Boundary Comparison](/extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md): the direct comparison memo built from the recurring-attention subgroup inside the platform-and-ecosystem lane
+- [Warby Parker Versus Nike Versus Ulta Boundary Comparison](/extracted/themes/warby-parker-vs-nike-vs-ulta-boundary-comparison-2026-08-10.md): the direct comparison memo built from the owned-demand and channel-control subgroup
+- [Costco Versus Kroger Versus TJX Boundary Comparison](/extracted/themes/costco-vs-kroger-vs-tjx-boundary-comparison-2026-08-10.md): the direct comparison memo built from the retail-system subgroup
+- [Home Depot Versus Lowe's Versus Builders FirstSource Boundary Comparison](/extracted/themes/home-depot-vs-lowes-vs-builders-firstsource-boundary-comparison-2026-08-10.md): the direct comparison memo built from the shelter-upkeep and pro-workflow subgroup
+- [Modern Real-Estate And Infrastructure Crosswalk](/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md) and [Modern Real-Estate And Infrastructure Index](/indexes/modern-real-estate-infrastructure-index-2026-08-10.md): the built-environment correction layer spanning property, intermediation, supply, and execution
 
 ## What each file does
 
 | File | Role |
 |---|---|
-| [AnnualReports Browse-Tree Blind-Spot Mandate](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md) | shortest direct statement of what this thread owns when other threads cover the ordinary `AnnualReports` browse tree |
-| [AnnualReports Blind-Spot Ownership Map](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-blind-spot-ownership-map-2026-08-10.md) | fastest one-screen answer to what this thread owns beyond ordinary `AnnualReports` sectors |
-| [AnnualReports Noncovered Hunting Ground](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-hunting-ground-2026-08-10.md) | one-screen ownership note for what this thread should actively hunt and what it should leave alone |
-| [AnnualReports Noncovered No-Overlap Matrix](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md) | strict keep-versus-return matrix for deciding whether a company belongs in this thread or goes back to normal sector coverage |
-| [annualreports-noncovered-no-overlap-matrix-2026-08-10.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.csv) | machine-readable no-overlap version of the lane ownership matrix |
-| [AnnualReports Noncovered Areas Priority Map](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md) | short plain-English scope note for what this thread owns |
-| [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md) | shortest enforceable `claim this` versus `leave this` rule for thread assignment |
-| [AnnualReports Noncovered Take-Leave Protocol](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-take-leave-protocol-2026-08-10.md) | strict keep-versus-leave protocol for assigning companies without overlap |
-| [AnnualReports Noncovered Priority Company Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md) | named `take now`, `conditional take`, and `leave` roster for real company assignment |
-| [AnnualReports Noncovered Claim Test](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-claim-test-2026-08-10.md) | one-screen keep-versus-leave decision rule for thread assignment |
-| [AnnualReports Noncovered Company Claim Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md) | take-versus-leave company roster when there is thread collision |
-| [AnnualReports Noncovered Assignment Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md) | practical `take now`, `take only if needed`, and `leave to other threads` queue |
-| [annualreports-noncovered-assignment-queue-2026-08-10.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv) | sortable machine-readable version of the assignment queue |
-| [Blind-Spot Take-Don't-Take Roster](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-take-dont-take-roster-2026-08-10.md) | shortest one-screen answer for which company clusters this lane should explicitly take versus leave |
-| [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md) | full structural explanation of what the live browse tree misses |
-| [Blind-Spot Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-systems-index-2026-08-10.md) | full lane roster with anchor sets, memo paths, and next-move guidance |
-| [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md) | reuse-first gate for behind-the-shelf subtype selection |
-| [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md) | reuse-first gate for control-layer subtype selection |
-| [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md) | reuse-first gate for hidden-connectivity subtype selection |
-| [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md) | reuse-first gate for workflow-control subtype selection |
+| [AnnualReports Browse-Tree Blind-Spot Mandate](/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md) | shortest direct statement of what this thread owns when other threads cover the ordinary `AnnualReports` browse tree |
+| [AnnualReports Blind-Spot Ownership Map](/indexes/annualreports-blind-spot-ownership-map-2026-08-10.md) | fastest one-screen answer to what this thread owns beyond ordinary `AnnualReports` sectors |
+| [AnnualReports Noncovered Hunting Ground](/indexes/annualreports-noncovered-hunting-ground-2026-08-10.md) | one-screen ownership note for what this thread should actively hunt and what it should leave alone |
+| [AnnualReports Noncovered No-Overlap Matrix](/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md) | strict keep-versus-return matrix for deciding whether a company belongs in this thread or goes back to normal sector coverage |
+| [annualreports-noncovered-no-overlap-matrix-2026-08-10.csv](/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.csv) | machine-readable no-overlap version of the lane ownership matrix |
+| [AnnualReports Noncovered Areas Priority Map](/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md) | short plain-English scope note for what this thread owns |
+| [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md) | shortest enforceable `claim this` versus `leave this` rule for thread assignment |
+| [AnnualReports Noncovered Take-Leave Protocol](/indexes/annualreports-noncovered-take-leave-protocol-2026-08-10.md) | strict keep-versus-leave protocol for assigning companies without overlap |
+| [AnnualReports Noncovered Priority Company Roster](/indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md) | named `take now`, `conditional take`, and `leave` roster for real company assignment |
+| [AnnualReports Noncovered Claim Test](/indexes/annualreports-noncovered-claim-test-2026-08-10.md) | one-screen keep-versus-leave decision rule for thread assignment |
+| [AnnualReports Noncovered Company Claim Roster](/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md) | take-versus-leave company roster when there is thread collision |
+| [AnnualReports Noncovered Assignment Queue](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md) | practical `take now`, `take only if needed`, and `leave to other threads` queue |
+| [annualreports-noncovered-assignment-queue-2026-08-10.csv](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv) | sortable machine-readable version of the assignment queue |
+| [Blind-Spot Take-Don't-Take Roster](/notes/blind-spot-take-dont-take-roster-2026-08-10.md) | shortest one-screen answer for which company clusters this lane should explicitly take versus leave |
+| [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md) | full structural explanation of what the live browse tree misses |
+| [Blind-Spot Systems Index](/indexes/blind-spot-systems-index-2026-08-10.md) | full lane roster with anchor sets, memo paths, and next-move guidance |
+| [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md) | reuse-first gate for behind-the-shelf subtype selection |
+| [Control-Layer Extension Shortlist](/indexes/control-layer-extension-shortlist-2026-08-10.md) | reuse-first gate for control-layer subtype selection |
+| [Hidden Connectivity Extension Shortlist](/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md) | reuse-first gate for hidden-connectivity subtype selection |
+| [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md) | reuse-first gate for workflow-control subtype selection |
 
 ## Current operating rule
 
@@ -143,8 +143,8 @@ If other threads are already covering the normal browse tree, this thread should
 
 Before assigning a company or starting a synthesis task, route the work through one of two top-level cores:
 
-- [Consumer-Behavior Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
-- [Infrastructure Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
+- [Consumer-Behavior Blind-Spot Comparison Core](/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
+- [Infrastructure Blind-Spot Comparison Core](/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
 
 Use the consumer-behavior core first when the strongest explanation is:
 

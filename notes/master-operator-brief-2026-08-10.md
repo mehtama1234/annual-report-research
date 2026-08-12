@@ -43,7 +43,7 @@ It is often to:
 
 If you need to verify that the repo's live goal, queue, template, and review surfaces are all aligned to that continuation-phase state, use:
 
-- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
+- [Continuation mode alignment audit](/notes/continuation-mode-alignment-audit-2026-08-11.md)
 
 ## What counts as success
 
@@ -156,19 +156,19 @@ If the run has evidence but not those interpretations, it is not done.
 
 Use these files in sequence when starting a new batch:
 
-1. [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
-2. [Insight extraction hub](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-hub-2026-08-11.md)
-3. [End-to-end insight operator and review brief](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md)
-4. [Remaining meaty end-to-end operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
-5. [Remaining end-to-end insight goal](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
-6. [Remaining insight execution board](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-insight-execution-board-2026-08-11.md)
-7. [Insight-driven next lane queue](/home/manishmehta/ui-projects/annual-report-research/notes/insight-driven-next-lane-queue-2026-08-11.md)
-8. [Lane end-to-end execution runbook](/home/manishmehta/ui-projects/annual-report-research/notes/lane-end-to-end-execution-runbook-2026-08-11.md)
-9. [Insight extraction templates](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-templates-2026-08-11.md)
-10. [Insight completion rubric](/home/manishmehta/ui-projects/annual-report-research/notes/insight-completion-rubric-2026-08-11.md)
-11. [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
-12. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
-13. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
+1. [START-HERE.md](/START-HERE.md)
+2. [Insight extraction hub](/notes/insight-extraction-hub-2026-08-11.md)
+3. [End-to-end insight operator and review brief](/notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md)
+4. [Remaining meaty end-to-end operator brief](/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+5. [Remaining end-to-end insight goal](/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
+6. [Remaining insight execution board](/notes/remaining-insight-execution-board-2026-08-11.md)
+7. [Insight-driven next lane queue](/notes/insight-driven-next-lane-queue-2026-08-11.md)
+8. [Lane end-to-end execution runbook](/notes/lane-end-to-end-execution-runbook-2026-08-11.md)
+9. [Insight extraction templates](/notes/insight-extraction-templates-2026-08-11.md)
+10. [Insight completion rubric](/notes/insight-completion-rubric-2026-08-11.md)
+11. [Active lane board](/notes/active-lane-board-2026-08-10.md)
+12. [Batch handoff template](/templates/batch-handoff-template.md)
+13. [Post-batch integration checklist](/templates/post-batch-integration-checklist.md)
 
 The insight hub is the current navigation layer for the aligned continuation-mode surfaces.
 The operator and review brief is the shortest statement of the proof chain and done standard.
@@ -179,9 +179,9 @@ The active lane board and handoff template stay useful once the worker has chose
 
 When the evidence chain depends on offloaded raw artifacts, also use:
 
-- [Raw evidence link policy](/home/manishmehta/ui-projects/annual-report-research/notes/raw-evidence-link-policy-2026-08-11.md)
-- [Raw blob offload readme](/home/manishmehta/ui-projects/annual-report-research/notes/raw-blob-offload-readme-2026-08-10.md)
-- [Legacy root reference audit](/home/manishmehta/ui-projects/annual-report-research/notes/legacy-root-reference-audit-2026-08-11.md)
+- [Raw evidence link policy](/notes/raw-evidence-link-policy-2026-08-11.md)
+- [Raw blob offload readme](/notes/raw-blob-offload-readme-2026-08-10.md)
+- [Legacy root reference audit](/notes/legacy-root-reference-audit-2026-08-11.md)
 
 ## Insight-System Maintenance
 
@@ -458,7 +458,7 @@ Every coherent batch should end with:
 
 For the fuller reference version of this brief, use:
 
-- [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research/indexes/cli-lane-instructions-2026-08-10.md)
+- [CLI lane instructions](/indexes/cli-lane-instructions-2026-08-10.md)
 
 ## Skeptical Reader Test
 

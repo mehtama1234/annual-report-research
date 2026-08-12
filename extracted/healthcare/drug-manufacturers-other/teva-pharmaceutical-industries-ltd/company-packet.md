@@ -58,12 +58,12 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/ir-source-links.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2025-q4-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2026-q1-10q.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2026-q1-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2026-q2-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2026-q2-8k.html)
+- [annualreports-verification.md](/raw/annualreports/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/annualreports-verification.md)
+- [ir-source-links.md](/raw/company-ir/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/ir-source-links.md)
+- [2025-annual-report.pdf](/raw/company-ir/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2025-annual-report.pdf)
+- [2025-10k.html](/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2025-10k.html)
+- [2025-q4-8k.html](/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2025-q4-8k.html)
+- [2026-q1-10q.html](/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2026-q1-10q.html)
+- [2026-q1-8k.html](/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2026-q1-8k.html)
+- [2026-q2-10q.html](/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2026-q2-10q.html)
+- [2026-q2-8k.html](/raw/sec/healthcare/drug-manufacturers-other/teva-pharmaceutical-industries-ltd/2026-q2-8k.html)

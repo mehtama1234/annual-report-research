@@ -22,9 +22,9 @@ The useful question is what kind of trust system each marketplace actually organ
 
 Related files:
 
-- [Trust Marketplace Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/trust-marketplace-systems-2026-08-10.md)
-- [Marketplace Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/marketplace-systems-index-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Trust Marketplace Systems](/extracted/themes/trust-marketplace-systems-2026-08-10.md)
+- [Marketplace Systems Index](/indexes/marketplace-systems-index-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

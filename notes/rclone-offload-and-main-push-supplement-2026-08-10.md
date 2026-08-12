@@ -43,7 +43,7 @@ These commits are mostly lightweight repo-surface repair work:
 They are not the main reason the push is heavy.
 The push pressure still comes from the same large `raw/...` payload described in:
 
-- [rclone-raw-blob-offload-handoff-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research/notes/rclone-raw-blob-offload-handoff-2026-08-10.md)
+- [rclone-raw-blob-offload-handoff-2026-08-10.md](/notes/rclone-raw-blob-offload-handoff-2026-08-10.md)
 
 ## Important Conclusion
 

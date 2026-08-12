@@ -12,33 +12,33 @@ Primary source:
 
 Related archive files:
 
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
-- [AnnualReports Noncovered Assignment Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
-- [AnnualReports Noncovered Company Claim Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
-- [AnnualReports Noncovered Areas Priority Map](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md)
-- [Blind-Spot Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-systems-index-2026-08-10.md)
-- [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
-- [Behind-The-Shelf Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
-- [Beauty, Identity, and Prestige Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md)
-- [Comfort, Casualization, and Practical-Wellness Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
-- [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
-- [Loyalty Wallet Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/loyalty-wallet-systems-index-2026-08-10.md)
-- [Relationship Thickness Index](/home/manishmehta/ui-projects/annual-report-research/indexes/relationship-thickness-index-2026-08-10.md)
-- [Fandom, Play, and Participation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
-- [Marketplace And Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
-- [Marketplace Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/marketplace-systems-index-2026-08-10.md)
-- [Modern Real-Estate And Infrastructure Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
-- [Modern Real-Estate And Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
-- [Recurring Attention Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/recurring-attention-systems-index-2026-08-10.md)
-- [Digital-Capacity Built-Environment Stack](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/digital-capacity-built-environment-stack-2026-08-10.md)
-- [Shelter Affordability And Upkeep Stack](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/shelter-affordability-and-upkeep-stack-2026-08-10.md)
-- [Water, Comfort, And Civic-Flow Stack](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/water-comfort-and-civic-flow-stack-2026-08-10.md)
-- [Retail Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/retail-systems-index-2026-08-10.md)
-- [Ritual, Occasion, and Stimulation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
-- [Recurring Behavior Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/recurring-behavior-crosswalk-2026-08-09.md)
-- [Routine-Use Trust and Everyday-Care Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md)
-- [Value-Hunt and Bargain-Discovery Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md)
-- [Prioritized Expansion Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/prioritized-expansion-queue-2026-08-09.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [AnnualReports Noncovered Assignment Queue](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
+- [AnnualReports Noncovered Company Claim Roster](/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
+- [AnnualReports Noncovered Areas Priority Map](/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md)
+- [Blind-Spot Systems Index](/indexes/blind-spot-systems-index-2026-08-10.md)
+- [Consumer Interface Framework Across Sectors](/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
+- [Behind-The-Shelf Infrastructure Index](/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
+- [Beauty, Identity, and Prestige Systems](/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md)
+- [Comfort, Casualization, and Practical-Wellness Systems](/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
+- [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- [Loyalty Wallet Systems Index](/indexes/loyalty-wallet-systems-index-2026-08-10.md)
+- [Relationship Thickness Index](/indexes/relationship-thickness-index-2026-08-10.md)
+- [Fandom, Play, and Participation Systems](/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
+- [Marketplace And Coordination Systems](/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
+- [Marketplace Systems Index](/indexes/marketplace-systems-index-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Crosswalk](/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Index](/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
+- [Recurring Attention Systems Index](/indexes/recurring-attention-systems-index-2026-08-10.md)
+- [Digital-Capacity Built-Environment Stack](/extracted/themes/digital-capacity-built-environment-stack-2026-08-10.md)
+- [Shelter Affordability And Upkeep Stack](/extracted/themes/shelter-affordability-and-upkeep-stack-2026-08-10.md)
+- [Water, Comfort, And Civic-Flow Stack](/extracted/themes/water-comfort-and-civic-flow-stack-2026-08-10.md)
+- [Retail Systems Index](/indexes/retail-systems-index-2026-08-10.md)
+- [Ritual, Occasion, and Stimulation Systems](/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
+- [Recurring Behavior Crosswalk](/extracted/themes/recurring-behavior-crosswalk-2026-08-09.md)
+- [Routine-Use Trust and Everyday-Care Systems](/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md)
+- [Value-Hunt and Bargain-Discovery Systems](/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md)
+- [Prioritized Expansion Queue](/indexes/prioritized-expansion-queue-2026-08-09.md)
 
 ## Executive read
 
@@ -134,7 +134,7 @@ This makes the source taxonomy weak for any serious comparison across:
 
 This is why the repo already has to do corrective work by holding source taxonomy fixed while reading a separate interface layer across `Amazon`, `Walmart`, `Costco`, `Kroger`, `Ross`, `Ulta`, `Nike`, `Home Depot`, and similar names.
 
-The structured retail correction layer is now preserved in [Retail Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/retail-systems-index-2026-08-10.md), which keeps the subtype, frequency, discretionary intensity, and monetization-side splits legible across these otherwise scattered source buckets.
+The structured retail correction layer is now preserved in [Retail Systems Index](/indexes/retail-systems-index-2026-08-10.md), which keeps the subtype, frequency, discretionary intensity, and monetization-side splits legible across these otherwise scattered source buckets.
 
 ### 2. The taxonomy does not organize around business-model reality
 
@@ -152,9 +152,9 @@ It does not cleanly separate companies by modern business-model structure, such 
 
 This makes the taxonomy weak for studying how a company actually converts demand into durable economics.
 
-The same issue is now explicitly corrected in [Marketplace Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/marketplace-systems-index-2026-08-10.md), which preserves the difference between commerce flywheels, trust marketplaces, local-demand coordination, and travel-interface systems rather than flattening them into old software or retail labels.
+The same issue is now explicitly corrected in [Marketplace Systems Index](/indexes/marketplace-systems-index-2026-08-10.md), which preserves the difference between commerce flywheels, trust marketplaces, local-demand coordination, and travel-interface systems rather than flattening them into old software or retail labels.
 
-The delivery layer is also now explicitly corrected in the archive through [C.H. Robinson Versus UPS Versus DoorDash Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ch-robinson-vs-ups-vs-doordash-boundary-comparison-2026-08-10.md), which separates freight orchestration, parcel-network infrastructure, and local merchant-demand coordination rather than letting all three collapse into legacy service or internet labels.
+The delivery layer is also now explicitly corrected in the archive through [C.H. Robinson Versus UPS Versus DoorDash Boundary Comparison](/extracted/themes/ch-robinson-vs-ups-vs-doordash-boundary-comparison-2026-08-10.md), which separates freight orchestration, parcel-network infrastructure, and local merchant-demand coordination rather than letting all three collapse into legacy service or internet labels.
 
 ### 3. Consumer and cultural patterns are mostly invisible
 
@@ -443,10 +443,10 @@ Lanes that are now materially established:
 - beauty and identity systems through `Ulta`, `e.l.f. Beauty`, `Coty`, and `The Estee Lauder Companies`
 - DTC and relationship-control systems through `Nike`, `Crocs`, `YETI`, `Deckers`, `Birkenstock`, `Levi Strauss`, `Tapestry`, and `Victoria's Secret`
 - value-hunt and bargain-discovery behavior through `TJX`, `Ross`, `Burlington`, `Ollie's`, `Dollar General`, `Dollar Tree`, and `Walmart`
-- comfort, casualization, and fit-confidence systems through `Crocs`, `Deckers`, `Birkenstock`, `Lululemon`, `Planet Fitness`, and `Warby Parker`, with the dedicated synthesis now preserved in [Comfort, Casualization, and Practical-Wellness Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
+- comfort, casualization, and fit-confidence systems through `Crocs`, `Deckers`, `Birkenstock`, `Lululemon`, `Planet Fitness`, and `Warby Parker`, with the dedicated synthesis now preserved in [Comfort, Casualization, and Practical-Wellness Systems](/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
 - routine-use trust and everyday-care systems through `Kenvue`, `Procter & Gamble`, `Colgate-Palmolive`, `Kimberly-Clark`, and `Church & Dwight`
 - loyalty, membership, and status systems through `Starbucks`, `Costco`, `American Express`, `Delta`, `Marriott`, `Caesars`, `MGM`, and `Planet Fitness`
-- behind-the-shelf consumer infrastructure through `Graphic Packaging`, `Waste Management`, `Clearwater Paper`, and `CECO Environmental`, with the dedicated synthesis now preserved in [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- behind-the-shelf consumer infrastructure through `Graphic Packaging`, `Waste Management`, `Clearwater Paper`, and `CECO Environmental`, with the dedicated synthesis now preserved in [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
 
 Lanes that are directionally covered but still thinner than they should be:
 

@@ -55,7 +55,7 @@ These raw deletions should not be reintroduced into Git:
 
 Related pointer already on `main`:
 
-- [notes/cli9-main-cencora-quest-raw-offload-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research/notes/cli9-main-cencora-quest-raw-offload-2026-08-10.md)
+- [notes/cli9-main-cencora-quest-raw-offload-2026-08-10.md](/notes/cli9-main-cencora-quest-raw-offload-2026-08-10.md)
 
 ### 1.3 Branch-behind packet trees that already exist on `main`
 

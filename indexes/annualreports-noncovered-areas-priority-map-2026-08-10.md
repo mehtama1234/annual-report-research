@@ -12,25 +12,25 @@ It is a list of the systems that the `AnnualReports` browse structure does not c
 
 Related files:
 
-- [AnnualReports Browse-Tree Blind-Spot Mandate](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
-- [Blind-Spot Lane Handoff](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-handoff-2026-08-10.md)
-- [Blind-Spot Lane Status Audit](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-status-audit-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
-- [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
-- [AnnualReports Noncovered Take-Leave Protocol](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-take-leave-protocol-2026-08-10.md)
-- [annualreports-noncovered-assignment-queue-2026-08-10.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv)
-- [AnnualReports Noncovered Assignment Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
-- [AnnualReports Noncovered Company Claim Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Blind-Spot Thread Charter](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-thread-charter-2026-08-10.md)
-- [Blind-Spot Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-systems-index-2026-08-10.md)
-- [Blind-Spot Coverage Map](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-coverage-map-2026-08-10.md)
-- [Blind Spot Expansion Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-expansion-queue-2026-08-10.md)
-- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
-- [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md)
-- [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
-- [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md)
-- [Recurring Attention Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/recurring-attention-systems-index-2026-08-10.md)
+- [AnnualReports Browse-Tree Blind-Spot Mandate](/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
+- [Blind-Spot Lane Handoff](/notes/blind-spot-handoff-2026-08-10.md)
+- [Blind-Spot Lane Status Audit](/notes/blind-spot-status-audit-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
+- [AnnualReports Noncovered Take-Leave Protocol](/indexes/annualreports-noncovered-take-leave-protocol-2026-08-10.md)
+- [annualreports-noncovered-assignment-queue-2026-08-10.csv](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv)
+- [AnnualReports Noncovered Assignment Queue](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
+- [AnnualReports Noncovered Company Claim Roster](/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Blind-Spot Thread Charter](/indexes/blind-spot-thread-charter-2026-08-10.md)
+- [Blind-Spot Systems Index](/indexes/blind-spot-systems-index-2026-08-10.md)
+- [Blind-Spot Coverage Map](/indexes/blind-spot-coverage-map-2026-08-10.md)
+- [Blind Spot Expansion Queue](/indexes/blind-spot-expansion-queue-2026-08-10.md)
+- [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
+- [Control-Layer Extension Shortlist](/indexes/control-layer-extension-shortlist-2026-08-10.md)
+- [Hidden Connectivity Extension Shortlist](/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
+- [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md)
+- [Recurring Attention Systems Index](/indexes/recurring-attention-systems-index-2026-08-10.md)
 
 ## Plain-English read
 
@@ -151,7 +151,7 @@ This thread should therefore own:
 - merchant-enablement and delivery-layer systems
 - consumer-adjacent plant and route-density infrastructure
 
-The archive now has a cleaner delivery-layer split available through [C.H. Robinson Versus UPS Versus DoorDash Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ch-robinson-vs-ups-vs-doordash-boundary-comparison-2026-08-10.md), which separates freight orchestration, parcel-network density, and local merchant-demand coordination rather than flattening them into old service or software labels.
+The archive now has a cleaner delivery-layer split available through [C.H. Robinson Versus UPS Versus DoorDash Boundary Comparison](/extracted/themes/ch-robinson-vs-ups-vs-doordash-boundary-comparison-2026-08-10.md), which separates freight orchestration, parcel-network density, and local merchant-demand coordination rather than flattening them into old service or software labels.
 
 ### 8. Modern built-environment systems
 
@@ -227,8 +227,8 @@ The practical default should be strict:
 
 Use these two files before selecting a narrower lane whenever possible:
 
-- [Consumer-Behavior Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
-- [Infrastructure Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
+- [Consumer-Behavior Blind-Spot Comparison Core](/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
+- [Infrastructure Blind-Spot Comparison Core](/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
 
 Inside the mature infrastructure lanes, use the matching extension shortlist before choosing another company so the next move is reuse-first and subtype-opening rather than generic backfill.
 
@@ -238,6 +238,6 @@ Use this file as the short scope note for any future thread that is told to cove
 
 Read it together with the stricter assignment layer now reflected in:
 
-- [AnnualReports Noncovered Assignment Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
-- [AnnualReports Noncovered Priority Company Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md)
-- [Blind-Spot Take-Don't-Take Roster](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-take-dont-take-roster-2026-08-10.md)
+- [AnnualReports Noncovered Assignment Queue](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
+- [AnnualReports Noncovered Priority Company Roster](/indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md)
+- [Blind-Spot Take-Don't-Take Roster](/notes/blind-spot-take-dont-take-roster-2026-08-10.md)

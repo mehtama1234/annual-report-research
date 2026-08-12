@@ -9,20 +9,20 @@ Collection window:
 
 Primary packet set used here:
 
-- [UnitedHealth Group Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
-- [HCA Healthcare, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
-- [Brookdale Senior Living Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
-- [Intuitive Surgical, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/intuitive-surgical-inc/company-packet.md)
-- [Option Care Health, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/option-care-health-inc/company-packet.md)
-- [DaVita Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/davita-inc/company-packet.md)
-- [AdaptHealth Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-appliances-equipment/adapthealth-corp/company-packet.md)
-- [Natera, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/natera-inc/company-packet.md)
+- [UnitedHealth Group Incorporated](/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
+- [HCA Healthcare, Inc.](/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
+- [Brookdale Senior Living Inc.](/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
+- [Intuitive Surgical, Inc.](/extracted/healthcare/medical-instruments-supplies/intuitive-surgical-inc/company-packet.md)
+- [Option Care Health, Inc.](/extracted/healthcare/specialized-health-services/option-care-health-inc/company-packet.md)
+- [DaVita Inc.](/extracted/healthcare/specialized-health-services/davita-inc/company-packet.md)
+- [AdaptHealth Corp.](/extracted/healthcare/medical-appliances-equipment/adapthealth-corp/company-packet.md)
+- [Natera, Inc.](/extracted/healthcare/medical-laboratories-research/natera-inc/company-packet.md)
 
 Supporting lane context:
 
-- [Healthcare Sector Synthesis](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/healthcare-sector-synthesis-2026-08-09.md)
-- [CLI 4 Recurring Care And Workflow Control Framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
-- [CLI 4 Payer And Provider Adjacent Burden Bridge](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-payer-provider-adjacent-burden-bridge-2026-08-11.md)
+- [Healthcare Sector Synthesis](/extracted/healthcare/healthcare-sector-synthesis-2026-08-09.md)
+- [CLI 4 Recurring Care And Workflow Control Framework](/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
+- [CLI 4 Payer And Provider Adjacent Burden Bridge](/analysis/themes/cli-4-payer-provider-adjacent-burden-bridge-2026-08-11.md)
 
 ## The question
 
@@ -225,8 +225,8 @@ Reason: sharpen the contrast between blockbuster therapeutic power and the enabl
 2. `The Cigna Group`
 Reason: test whether the payer-burden pattern holds beyond UnitedHealth.
 
-3. [Thermo Fisher Scientific Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md)
+3. [Thermo Fisher Scientific Inc.](/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md)
 Reason: deepen the research-tools and serving-science workflow side of the lane.
 
-4. [HCA Healthcare, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md) versus [Option Care Health, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/option-care-health-inc/company-packet.md)
+4. [HCA Healthcare, Inc.](/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md) versus [Option Care Health, Inc.](/extracted/healthcare/specialized-health-services/option-care-health-inc/company-packet.md)
 Reason: make the acute-care burden versus alternate-site workflow contrast even more explicit.

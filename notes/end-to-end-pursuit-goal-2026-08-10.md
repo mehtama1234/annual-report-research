@@ -37,7 +37,7 @@ In practice, the best next run may do one or more of these:
 
 If you need to verify which live goal, queue, template, and review surfaces already reflect that continuation-phase state, use:
 
-- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
+- [Continuation mode alignment audit](/notes/continuation-mode-alignment-audit-2026-08-11.md)
 
 ## Core objective
 

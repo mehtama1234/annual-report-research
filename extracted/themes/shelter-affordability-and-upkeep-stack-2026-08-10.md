@@ -10,19 +10,19 @@ the shelter chain that runs from housing ownership and direct homebuilding throu
 
 Related files:
 
-- [Modern Real-Estate And Infrastructure Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
-- [Modern Real-Estate And Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
-- [Home Depot Versus Lowe's Versus Builders FirstSource Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/home-depot-vs-lowes-vs-builders-firstsource-boundary-comparison-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Crosswalk](/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Index](/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
+- [Home Depot Versus Lowe's Versus Builders FirstSource Boundary Comparison](/extracted/themes/home-depot-vs-lowes-vs-builders-firstsource-boundary-comparison-2026-08-10.md)
 
 Primary anchors:
 
-- [AvalonBay Communities, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-residential-real-estate/avalonbay-communities-inc/company-packet.md)
-- [Lennar Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/residential-construction/lennar-corporation/company-packet.md)
-- [Builders FirstSource, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-building-materials/builders-firstsource-inc/company-packet.md)
-- [The Sherwin-Williams Company](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/specialty-chemicals/the-sherwin-williams-company/company-packet.md)
-- [The Home Depot, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/home-improvement-stores/the-home-depot-inc/company-packet.md)
-- [Lowe's Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
-- [Ferguson Enterprises Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md)
+- [AvalonBay Communities, Inc.](/extracted/real-estate/reit-residential-real-estate/avalonbay-communities-inc/company-packet.md)
+- [Lennar Corporation](/extracted/industrial-goods/residential-construction/lennar-corporation/company-packet.md)
+- [Builders FirstSource, Inc.](/extracted/industrial-goods/general-building-materials/builders-firstsource-inc/company-packet.md)
+- [The Sherwin-Williams Company](/extracted/basic-materials/specialty-chemicals/the-sherwin-williams-company/company-packet.md)
+- [The Home Depot, Inc.](/extracted/services/home-improvement-stores/the-home-depot-inc/company-packet.md)
+- [Lowe's Companies, Inc.](/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
+- [Ferguson Enterprises Inc.](/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md)
 
 ## Executive read
 

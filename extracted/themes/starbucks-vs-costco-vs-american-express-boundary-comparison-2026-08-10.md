@@ -22,10 +22,10 @@ The useful question is what kind of formal relationship each company actually mo
 
 Related files:
 
-- [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
-- [Loyalty Wallet Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/loyalty-wallet-systems-index-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Loyalty, Wallet, and Membership Systems](/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
+- [Loyalty Wallet Systems Index](/indexes/loyalty-wallet-systems-index-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

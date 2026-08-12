@@ -10,21 +10,21 @@ consumer systems where recurring spend is driven by bargain discovery, closeout 
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Value Hunt Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/value-hunt-systems-index-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
-- [Consumer Cultural Pattern Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
-- [Thick vs. Thin Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Value Hunt Systems Index](/indexes/value-hunt-systems-index-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [Consumer Cultural Pattern Map](/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
+- [Thick vs. Thin Relationship Systems](/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
 
 Primary anchors:
 
-- [The TJX Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/tjx-companies-inc/company-packet.md)
-- [Ross Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
-- [Burlington Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-packet.md)
-- [Ollie's Bargain Outlet Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/discount-variety-stores/ollies-bargain-outlet-holdings-inc/company-packet.md)
-- [Dollar General Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/dollar-general-corporation/company-packet.md)
-- [Dollar Tree, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/dollar-tree-inc/company-packet.md)
-- [Walmart Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/walmart-inc/company-packet.md)
+- [The TJX Companies, Inc.](/extracted/services/apparel-stores/tjx-companies-inc/company-packet.md)
+- [Ross Stores, Inc.](/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
+- [Burlington Stores, Inc.](/extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-packet.md)
+- [Ollie's Bargain Outlet Holdings, Inc.](/extracted/consumer-goods/discount-variety-stores/ollies-bargain-outlet-holdings-inc/company-packet.md)
+- [Dollar General Corporation](/extracted/services/discount-variety-stores/dollar-general-corporation/company-packet.md)
+- [Dollar Tree, Inc.](/extracted/services/discount-variety-stores/dollar-tree-inc/company-packet.md)
+- [Walmart Inc.](/extracted/services/discount-variety-stores/walmart-inc/company-packet.md)
 
 ## Executive read
 
@@ -207,5 +207,5 @@ It cannot explain the actual consumer logic.
 ## Best next moves
 
 1. Extend the lane only if another company materially sharpens the split between off-price discovery, closeout opportunism, and neighborhood essentials value.
-2. Reuse [Value Hunt Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/value-hunt-systems-index-2026-08-10.md) when sorting the lane by discovery intensity, convenience intensity, and second monetization layer.
+2. Reuse [Value Hunt Systems Index](/indexes/value-hunt-systems-index-2026-08-10.md) when sorting the lane by discovery intensity, convenience intensity, and second monetization layer.
 3. Compare this lane against loyalty, retail-system, and owned-demand files when the goal is showing where value behavior works without thick relationship control.

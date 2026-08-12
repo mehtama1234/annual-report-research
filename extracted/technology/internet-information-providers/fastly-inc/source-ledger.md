@@ -5,7 +5,7 @@
 - Company page verified on 2026-08-10:
   - https://www.annualreports.com/Company/fastly-inc
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/internet-information-providers/fastly-inc/annualreports-verification.md)
+  - [annualreports-verification.md](/raw/annualreports/technology/internet-information-providers/fastly-inc/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -24,7 +24,7 @@
   - Q1 2026: https://investors.fastly.com/static-files/68e0e0b1-bb3a-42fd-be1d-b826a1741d98
   - Q2 2026: https://investors.fastly.com/static-files/bf311bf6-2820-474d-8e88-113a23bb0638
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/fastly-inc/ir-source-links.md)
+  - [ir-source-links.md](/raw/company-ir/technology/internet-information-providers/fastly-inc/ir-source-links.md)
 
 ## SEC / EDGAR references
 
@@ -50,29 +50,29 @@
 ## Saved local artifacts
 
 - Saved IR shell pages:
-  - [quarterly-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/fastly-inc/quarterly-results.html)
-  - [sec-filings-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/fastly-inc/sec-filings-page.html)
+  - [quarterly-results.html](/raw/company-ir/technology/internet-information-providers/fastly-inc/quarterly-results.html)
+  - [sec-filings-page.html](/raw/company-ir/technology/internet-information-providers/fastly-inc/sec-filings-page.html)
 - Local IR fetch failures retained for auditability:
-  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/fastly-inc/2025-annual-report.pdf)
-  - [2025-q4-investor-supplement.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/fastly-inc/2025-q4-investor-supplement.pdf)
-  - [2026-02-11-q4-2025-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/fastly-inc/2026-02-11-q4-2025-results.html)
+  - [2025-annual-report.pdf](/raw/company-ir/technology/internet-information-providers/fastly-inc/2025-annual-report.pdf)
+  - [2025-q4-investor-supplement.pdf](/raw/company-ir/technology/internet-information-providers/fastly-inc/2025-q4-investor-supplement.pdf)
+  - [2026-02-11-q4-2025-results.html](/raw/company-ir/technology/internet-information-providers/fastly-inc/2026-02-11-q4-2025-results.html)
 - SEC submission index:
-  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/sec-submissions.json)
+  - [sec-submissions.json](/raw/sec/technology/internet-information-providers/fastly-inc/sec-submissions.json)
 - Annual and quarter filing chain:
-  - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2025-10k.html)
-  - [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2026-q1-10q.html)
-  - [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2026-q2-10q.html)
+  - [2025-10k.html](/raw/sec/technology/internet-information-providers/fastly-inc/2025-10k.html)
+  - [2026-q1-10q.html](/raw/sec/technology/internet-information-providers/fastly-inc/2026-q1-10q.html)
+  - [2026-q2-10q.html](/raw/sec/technology/internet-information-providers/fastly-inc/2026-q2-10q.html)
 - SEC quarter-exhibit chain:
-  - [2025-q4-earnings-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2025-q4-earnings-8k.html)
-  - [2025-q4-earnings-8k-index.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2025-q4-earnings-8k-index.json)
-  - [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2026-q1-8k.html)
-  - [2026-q1-8k-index.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2026-q1-8k-index.json)
-  - [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2026-q1-press-release.html)
-  - [2026-q1-investor-supplement.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2026-q1-investor-supplement.html)
-  - [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2026-q2-8k.html)
-  - [2026-q2-8k-index.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2026-q2-8k-index.json)
-  - [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2026-q2-press-release.html)
-  - [2026-q2-investor-supplement.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2026-q2-investor-supplement.html)
+  - [2025-q4-earnings-8k.html](/raw/sec/technology/internet-information-providers/fastly-inc/2025-q4-earnings-8k.html)
+  - [2025-q4-earnings-8k-index.json](/raw/sec/technology/internet-information-providers/fastly-inc/2025-q4-earnings-8k-index.json)
+  - [2026-q1-8k.html](/raw/sec/technology/internet-information-providers/fastly-inc/2026-q1-8k.html)
+  - [2026-q1-8k-index.json](/raw/sec/technology/internet-information-providers/fastly-inc/2026-q1-8k-index.json)
+  - [2026-q1-press-release.html](/raw/sec/technology/internet-information-providers/fastly-inc/2026-q1-press-release.html)
+  - [2026-q1-investor-supplement.html](/raw/sec/technology/internet-information-providers/fastly-inc/2026-q1-investor-supplement.html)
+  - [2026-q2-8k.html](/raw/sec/technology/internet-information-providers/fastly-inc/2026-q2-8k.html)
+  - [2026-q2-8k-index.json](/raw/sec/technology/internet-information-providers/fastly-inc/2026-q2-8k-index.json)
+  - [2026-q2-press-release.html](/raw/sec/technology/internet-information-providers/fastly-inc/2026-q2-press-release.html)
+  - [2026-q2-investor-supplement.html](/raw/sec/technology/internet-information-providers/fastly-inc/2026-q2-investor-supplement.html)
 
 ## Notes on evidence quality
 
@@ -80,4 +80,4 @@
 - AnnualReports.com lagged at the 2024 annual report and was not used as an authority for 2025 coverage.
 - Fastly IR shell pages were saved locally and were useful for URL verification, but several direct IR downloads failed in this environment and remain as zero-byte artifacts.
 - The Q4 2025 quarter narrative is anchored on the SEC-hosted exhibit URLs and the SEC annual filing rather than a locally saved IR PDF.
-- The file [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc/2025-q4-8k.html) is an unrelated 2026-03-05 filing and was not used for quarter analysis.
+- The file [2025-q4-8k.html](/raw/sec/technology/internet-information-providers/fastly-inc/2025-q4-8k.html) is an unrelated 2026-03-05 filing and was not used for quarter analysis.

@@ -31,7 +31,7 @@ In practice, that means the best next batch often does one or more of these:
 
 If you need to verify which live goal, execution, template, and review surfaces already reflect that continuation-phase state, use:
 
-- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
+- [Continuation mode alignment audit](/notes/continuation-mode-alignment-audit-2026-08-11.md)
 
 ## How to use this queue
 
@@ -205,15 +205,15 @@ What success looks like:
 
 ## Required operating files
 
-- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
-- [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
-- [CLI 4 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-4-kickoff-2026-08-10.md)
-- [CLI 5 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-5-kickoff-2026-08-10.md)
-- [CLI 6 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-6-kickoff-2026-08-10.md)
-- [Recreation / participation kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/recreation-participation-kickoff-2026-08-10.md)
-- [Lane run template](/home/manishmehta/ui-projects/annual-report-research/templates/lane-run-template.md)
-- [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
-- [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
+- [START-HERE.md](/START-HERE.md)
+- [Active lane board](/notes/active-lane-board-2026-08-10.md)
+- [CLI 4 kickoff brief](/notes/cli-4-kickoff-2026-08-10.md)
+- [CLI 5 kickoff brief](/notes/cli-5-kickoff-2026-08-10.md)
+- [CLI 6 kickoff brief](/notes/cli-6-kickoff-2026-08-10.md)
+- [Recreation / participation kickoff brief](/notes/recreation-participation-kickoff-2026-08-10.md)
+- [Lane run template](/templates/lane-run-template.md)
+- [Batch handoff template](/templates/batch-handoff-template.md)
+- [Post-batch integration checklist](/templates/post-batch-integration-checklist.md)
 
 ## Skeptical Reader Test
 

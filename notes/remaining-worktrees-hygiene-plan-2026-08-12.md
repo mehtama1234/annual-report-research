@@ -129,7 +129,7 @@ Large mixed local state across:
 
 ### Existing reference
 
-- [notes/cli9-remaining-frontiers-promotion-ledger-2026-08-12.md](/home/manishmehta/ui-projects/annual-report-research/notes/cli9-remaining-frontiers-promotion-ledger-2026-08-12.md)
+- [notes/cli9-remaining-frontiers-promotion-ledger-2026-08-12.md](/notes/cli9-remaining-frontiers-promotion-ledger-2026-08-12.md)
 
 ## Final keep/offload/ignore summary
 

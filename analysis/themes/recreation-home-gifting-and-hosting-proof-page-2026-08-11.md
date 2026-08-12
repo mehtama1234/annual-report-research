@@ -9,22 +9,22 @@ Collection window:
 
 Primary packet set used here:
 
-- [RH](/home/manishmehta/ui-projects/annual-report-research/extracted/services/home-furnishing-stores/rh/company-packet.md)
-- [Wayfair Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/home-furnishing-stores/wayfair-inc/company-packet.md)
-- [Williams-Sonoma, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/home-furnishings-fixtures/williams-sonoma-inc/company-packet.md)
-- [Signet Jewelers Limited](/home/manishmehta/ui-projects/annual-report-research/extracted/services/jewelry-stores/signet-jewelers-limited/company-packet.md)
-- [Etsy, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-catalog-mail-order-houses/etsy-inc/company-packet.md)
-- [Ulta Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
-- [Sysco Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/food-wholesale/sysco-corp/company-packet.md)
-- [US Foods Holding Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-grocery-stores/us-foods-holding-corp/company-packet.md)
-- [Marriott International, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/marriott-international-inc/company-packet.md)
-- [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
+- [RH](/extracted/services/home-furnishing-stores/rh/company-packet.md)
+- [Wayfair Inc.](/extracted/services/home-furnishing-stores/wayfair-inc/company-packet.md)
+- [Williams-Sonoma, Inc.](/extracted/services/home-furnishings-fixtures/williams-sonoma-inc/company-packet.md)
+- [Signet Jewelers Limited](/extracted/services/jewelry-stores/signet-jewelers-limited/company-packet.md)
+- [Etsy, Inc.](/extracted/services/retail-catalog-mail-order-houses/etsy-inc/company-packet.md)
+- [Ulta Beauty, Inc.](/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
+- [Sysco Corporation](/extracted/services/food-wholesale/sysco-corp/company-packet.md)
+- [US Foods Holding Corp.](/extracted/services/retail-grocery-stores/us-foods-holding-corp/company-packet.md)
+- [Marriott International, Inc.](/extracted/services/lodging/marriott-international-inc/company-packet.md)
+- [Caesars Entertainment, Inc.](/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
 
 Supporting lane context:
 
-- [Recreation, Lifestyle, and Participation Proof Page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/recreation-participation-proof-page-2026-08-11.md)
-- [Ritual, Occasion, and Stimulation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
-- [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
+- [Recreation, Lifestyle, and Participation Proof Page](/analysis/themes/recreation-participation-proof-page-2026-08-11.md)
+- [Ritual, Occasion, and Stimulation Systems](/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
+- [Loyalty, Wallet, and Membership Systems](/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
 
 ## The question
 
@@ -222,14 +222,14 @@ The lifestyle side of the archive is getting stronger when it is read as a syste
 
 ## Exact next targets to deepen this proof
 
-1. [Chewy, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
+1. [Chewy, Inc.](/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
 Reason: add another trust-heavy repeat household relationship built around care, replenishment, and emotional attachment.
 
-2. [Hilton Worldwide Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
+2. [Hilton Worldwide Holdings Inc.](/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
 Reason: strengthen the contrast between multiple asset-light hospitality relationship owners.
 
-3. [MGM Resorts International](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md)
+3. [MGM Resorts International](/extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md)
 Reason: compare a second major gaming-and-destination system against Caesars' wallet and loyalty model.
 
-4. [Choice Hotels International, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/choice-hotels-international-inc/company-packet.md)
+4. [Choice Hotels International, Inc.](/extracted/services/lodging/choice-hotels-international-inc/company-packet.md)
 Reason: add a more everyday lodging interface to test whether repeat relationship economics extend beyond upscale travel and destination spending.

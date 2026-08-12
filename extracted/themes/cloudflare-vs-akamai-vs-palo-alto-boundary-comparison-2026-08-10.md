@@ -22,10 +22,10 @@ The useful question is which control point each one most clearly owns:
 
 Related files:
 
-- [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
-- [Control-Layer Connectivity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
-- [Cloudflare Versus Cisco Versus Palo Alto Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/cloudflare-vs-cisco-vs-palo-alto-boundary-comparison-2026-08-10.md)
-- [Akamai Technologies, Inc. Company Packet](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/akamai-technologies-inc/company-packet.md)
+- [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
+- [Control-Layer Connectivity Systems Index](/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
+- [Cloudflare Versus Cisco Versus Palo Alto Boundary Comparison](/extracted/themes/cloudflare-vs-cisco-vs-palo-alto-boundary-comparison-2026-08-10.md)
+- [Akamai Technologies, Inc. Company Packet](/extracted/technology/internet-information-providers/akamai-technologies-inc/company-packet.md)
 
 ## Executive read
 

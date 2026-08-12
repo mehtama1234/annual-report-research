@@ -22,11 +22,11 @@ The useful question is what access-layer ownership structure each one actually r
 
 Related files:
 
-- [Hidden Connectivity And Access-Layer Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
-- [Hidden Connectivity Access Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-access-systems-index-2026-08-10.md)
-- [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Hidden Connectivity And Access-Layer Systems](/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
+- [Hidden Connectivity Access Systems Index](/indexes/hidden-connectivity-access-systems-index-2026-08-10.md)
+- [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

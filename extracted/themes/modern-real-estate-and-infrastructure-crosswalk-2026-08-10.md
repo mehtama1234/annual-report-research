@@ -10,30 +10,30 @@ modern real-estate and infrastructure systems that are split across `Financial`,
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Blind-Spot Coverage Map](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-coverage-map-2026-08-10.md)
-- [Blind Spot Expansion Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-expansion-queue-2026-08-10.md)
-- [Digital-Capacity Built-Environment Stack](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/digital-capacity-built-environment-stack-2026-08-10.md)
-- [Modern Real-Estate And Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
-- [Shelter Affordability And Upkeep Stack](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/shelter-affordability-and-upkeep-stack-2026-08-10.md)
-- [Water, Comfort, And Civic-Flow Stack](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/water-comfort-and-civic-flow-stack-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
-- [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Blind-Spot Coverage Map](/indexes/blind-spot-coverage-map-2026-08-10.md)
+- [Blind Spot Expansion Queue](/indexes/blind-spot-expansion-queue-2026-08-10.md)
+- [Digital-Capacity Built-Environment Stack](/extracted/themes/digital-capacity-built-environment-stack-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Index](/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
+- [Shelter Affordability And Upkeep Stack](/extracted/themes/shelter-affordability-and-upkeep-stack-2026-08-10.md)
+- [Water, Comfort, And Civic-Flow Stack](/extracted/themes/water-comfort-and-civic-flow-stack-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
 
 Primary anchors:
 
-- [Prologis Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-industrial-real-estate/prologis-inc/company-packet.md)
-- [Equinix Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-specialty-real-estate/equinix-inc/company-packet.md)
-- [Digital Realty Trust Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-packet.md)
-- [AvalonBay Communities, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-residential-real-estate/avalonbay-communities-inc/company-packet.md)
-- [CBRE Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/real-estate-development/cbre-group-inc/company-packet.md)
-- [The Home Depot, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/home-improvement-stores/the-home-depot-inc/company-packet.md)
-- [Lowe's Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
-- [Builders FirstSource, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-building-materials/builders-firstsource-inc/company-packet.md)
-- [Lennar Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/residential-construction/lennar-corporation/company-packet.md)
-- [The Sherwin-Williams Company](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/specialty-chemicals/the-sherwin-williams-company/company-packet.md)
-- [AECOM](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/engineering-construction/aecom/company-profile.md)
-- [Dycom Industries Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md)
+- [Prologis Inc.](/extracted/real-estate/reit-industrial-real-estate/prologis-inc/company-packet.md)
+- [Equinix Inc.](/extracted/real-estate/reit-specialty-real-estate/equinix-inc/company-packet.md)
+- [Digital Realty Trust Inc.](/extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-packet.md)
+- [AvalonBay Communities, Inc.](/extracted/real-estate/reit-residential-real-estate/avalonbay-communities-inc/company-packet.md)
+- [CBRE Group Inc.](/extracted/real-estate/real-estate-development/cbre-group-inc/company-packet.md)
+- [The Home Depot, Inc.](/extracted/services/home-improvement-stores/the-home-depot-inc/company-packet.md)
+- [Lowe's Companies, Inc.](/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
+- [Builders FirstSource, Inc.](/extracted/industrial-goods/general-building-materials/builders-firstsource-inc/company-packet.md)
+- [Lennar Corporation](/extracted/industrial-goods/residential-construction/lennar-corporation/company-packet.md)
+- [The Sherwin-Williams Company](/extracted/basic-materials/specialty-chemicals/the-sherwin-williams-company/company-packet.md)
+- [AECOM](/extracted/industrial-goods/engineering-construction/aecom/company-profile.md)
+- [Dycom Industries Inc.](/extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md)
 
 ## Executive read
 
@@ -221,9 +221,9 @@ This is exactly why the lane needs a cross-sector memo rather than another narro
 - Use `Prologis`, `Equinix`, `Digital Realty`, and `AvalonBay` to separate logistics, digital-capacity, and housing cash-flow systems inside one nominal sector.
 - Use `Home Depot`, `Lowe's`, `Builders FirstSource`, `Lennar`, and `Sherwin-Williams` to map the shelter chain from direct construction to maintenance, repaint, Pro demand, and contractor workflow.
 - Use `CBRE`, `AECOM`, and `Dycom` to show that service intermediation, planning, and field execution are now core parts of the infrastructure story rather than peripheral support functions.
-- Reuse [Digital-Capacity Built-Environment Stack](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/digital-capacity-built-environment-stack-2026-08-10.md) when the task is specifically to separate datacenter ownership, critical equipment, and utility or building-system execution layers.
-- Reuse [Shelter Affordability And Upkeep Stack](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/shelter-affordability-and-upkeep-stack-2026-08-10.md) when the task is specifically to separate stabilized housing ownership, direct homebuilding, builder supply, coatings, pro retail, and recurring repair distribution.
-- Reuse [Water, Comfort, And Civic-Flow Stack](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/water-comfort-and-civic-flow-stack-2026-08-10.md) when the task is specifically to separate regulated water-system ownership, civic-flow distribution, contractor flow distribution, and mechanical-comfort execution.
+- Reuse [Digital-Capacity Built-Environment Stack](/extracted/themes/digital-capacity-built-environment-stack-2026-08-10.md) when the task is specifically to separate datacenter ownership, critical equipment, and utility or building-system execution layers.
+- Reuse [Shelter Affordability And Upkeep Stack](/extracted/themes/shelter-affordability-and-upkeep-stack-2026-08-10.md) when the task is specifically to separate stabilized housing ownership, direct homebuilding, builder supply, coatings, pro retail, and recurring repair distribution.
+- Reuse [Water, Comfort, And Civic-Flow Stack](/extracted/themes/water-comfort-and-civic-flow-stack-2026-08-10.md) when the task is specifically to separate regulated water-system ownership, civic-flow distribution, contractor flow distribution, and mechanical-comfort execution.
 - Reuse this memo when deciding whether a target belongs in a normal property or industrial thread versus the blind-spot lane.
 
 ## Practical implication for the blind-spot thread

@@ -5,7 +5,7 @@
 - Company page verified on 2026-08-10:
   - https://www.annualreports.com/Company/liberty-broadband-corporation
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/liberty-broadband-corporation/annualreports-verification.md)
+  - [annualreports-verification.md](/raw/annualreports/technology/diversified-communication-services/liberty-broadband-corporation/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -22,7 +22,7 @@
 - Q2 2026 quarter-update page:
   - https://www.libertybroadband.com/investors/news-events/press-releases/detail/355/liberty-broadband-corporation-to-conduct-quarterly-qa
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/ir-source-links.md)
+  - [ir-source-links.md](/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/ir-source-links.md)
 
 ## SEC / EDGAR references
 
@@ -44,26 +44,26 @@
 ## Saved local artifacts
 
 - AnnualReports archive confirmation:
-  - [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/liberty-broadband-corporation/company-page.html)
+  - [company-page.html](/raw/annualreports/technology/diversified-communication-services/liberty-broadband-corporation/company-page.html)
 - Official IR artifacts:
-  - [annual-reports.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/annual-reports.html)
-  - [press-releases.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/press-releases.html)
-  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2025-annual-report.pdf)
-  - [2025-q4-qa.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2025-q4-qa.html)
-  - [2025-q4-qa.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2025-q4-qa.pdf)
-  - [2026-q1-qa.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2026-q1-qa.html)
-  - [2026-q1-qa.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2026-q1-qa.pdf)
-  - [2026-q2-qa.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2026-q2-qa.html)
-  - [2026-q2-qa.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2026-q2-qa.pdf)
+  - [annual-reports.html](/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/annual-reports.html)
+  - [press-releases.html](/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/press-releases.html)
+  - [2025-annual-report.pdf](/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2025-annual-report.pdf)
+  - [2025-q4-qa.html](/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2025-q4-qa.html)
+  - [2025-q4-qa.pdf](/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2025-q4-qa.pdf)
+  - [2026-q1-qa.html](/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2026-q1-qa.html)
+  - [2026-q1-qa.pdf](/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2026-q1-qa.pdf)
+  - [2026-q2-qa.html](/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2026-q2-qa.html)
+  - [2026-q2-qa.pdf](/raw/company-ir/technology/diversified-communication-services/liberty-broadband-corporation/2026-q2-qa.pdf)
 - SEC submission index:
-  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/sec-submissions.json)
+  - [sec-submissions.json](/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/sec-submissions.json)
 - Annual and quarter filing chain:
-  - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2025-10k.html)
-  - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2025-q4-8k.html)
-  - [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2026-q1-10q.html)
-  - [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2026-q1-8k.html)
-  - [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2026-q2-10q.html)
-  - [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2026-q2-8k.html)
+  - [2025-10k.html](/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2025-10k.html)
+  - [2025-q4-8k.html](/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2025-q4-8k.html)
+  - [2026-q1-10q.html](/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2026-q1-10q.html)
+  - [2026-q1-8k.html](/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2026-q1-8k.html)
+  - [2026-q2-10q.html](/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2026-q2-10q.html)
+  - [2026-q2-8k.html](/raw/sec/technology/diversified-communication-services/liberty-broadband-corporation/2026-q2-8k.html)
 
 ## Notes on evidence quality
 

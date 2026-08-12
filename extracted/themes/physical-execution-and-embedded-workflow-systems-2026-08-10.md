@@ -20,17 +20,17 @@ The useful comparison is which execution and workflow layer each company control
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Physical Execution Embedded Workflow Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md)
-- [Connectivity Infrastructure Physical-Layer Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
-- [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
-- [Modern Real-Estate And Infrastructure Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Physical Execution Embedded Workflow Systems Index](/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md)
+- [Connectivity Infrastructure Physical-Layer Map](/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
+- [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Crosswalk](/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
 
 Primary anchors:
 
-- [United Rentals, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/rental-leasing-services/united-rentals-inc/company-packet.md)
-- [Fastenal Company](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-supply/fastenal-company/company-packet.md)
-- [Ferguson Enterprises Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md)
+- [United Rentals, Inc.](/extracted/industrial-goods/rental-leasing-services/united-rentals-inc/company-packet.md)
+- [Fastenal Company](/extracted/industrial-goods/industrial-supply/fastenal-company/company-packet.md)
+- [Ferguson Enterprises Inc.](/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md)
 
 ## Executive read
 
@@ -183,6 +183,6 @@ That is why this lane belongs to the blind-spot thread rather than to a normal i
 ## Best next moves
 
 1. Reuse this memo first when another thread treats these names as generic industrial distributors or rental companies.
-2. Reuse [WESCO Versus Applied Industrial Technologies Versus Core & Main Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/wesco-vs-applied-vs-core-main-boundary-comparison-2026-08-10.md) when the question shifts from the original three-way workflow split into broader channel breadth, engineering-heavy uptime support, or civic-failure-response distribution.
+2. Reuse [WESCO Versus Applied Industrial Technologies Versus Core & Main Boundary Comparison](/extracted/themes/wesco-vs-applied-vs-core-main-boundary-comparison-2026-08-10.md) when the question shifts from the original three-way workflow split into broader channel breadth, engineering-heavy uptime support, or civic-failure-response distribution.
 3. Extend the lane only if another name materially sharpens the split between access-over-ownership, embedded procurement, branch-density service control, project-channel breadth, engineering-heavy MRO support, or civic-failure-response workflow density.
 4. Reuse the broader physical-layer infrastructure memo when the question moves from workflow control into power, cooling, connectivity, and field-execution buildout.

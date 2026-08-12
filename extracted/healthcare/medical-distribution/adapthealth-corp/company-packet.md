@@ -64,7 +64,7 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/healthcare/medical-distribution/adapthealth-corp/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/healthcare/medical-distribution/adapthealth-corp/company-page.html)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/healthcare/medical-distribution/adapthealth-corp/ir-source-links.md)
-- [submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/healthcare/medical-distribution/adapthealth-corp/submissions.json)
+- [annualreports-verification.md](/raw/annualreports/healthcare/medical-distribution/adapthealth-corp/annualreports-verification.md)
+- [company-page.html](/raw/annualreports/healthcare/medical-distribution/adapthealth-corp/company-page.html)
+- [ir-source-links.md](/raw/company-ir/healthcare/medical-distribution/adapthealth-corp/ir-source-links.md)
+- [submissions.json](/raw/sec/healthcare/medical-distribution/adapthealth-corp/submissions.json)

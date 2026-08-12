@@ -10,31 +10,31 @@ physical systems that sit behind visible consumer demand and retail activity, wh
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Behind-The-Shelf Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
-- [Graphic Packaging Versus Clearwater Versus WM Versus CECO Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/graphic-packaging-vs-clearwater-vs-wm-vs-ceco-boundary-comparison-2026-08-10.md)
-- [Waste Management Versus Clean Harbors Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/waste-management-vs-clean-harbors-boundary-comparison-2026-08-10.md)
-- [CECO Versus Veralto Versus Ecolab Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ceco-vs-veralto-vs-ecolab-boundary-comparison-2026-08-10.md)
-- [Sonoco Versus Aptar Versus Silgan Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/sonoco-vs-aptar-vs-silgan-boundary-comparison-2026-08-10.md)
-- [Clearwater Versus International Paper Versus PCA Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/clearwater-vs-international-paper-vs-pca-boundary-comparison-2026-08-10.md)
-- [Blind-Spot Coverage Map](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-coverage-map-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Behind-The-Shelf Infrastructure Index](/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
+- [Graphic Packaging Versus Clearwater Versus WM Versus CECO Boundary Comparison](/extracted/themes/graphic-packaging-vs-clearwater-vs-wm-vs-ceco-boundary-comparison-2026-08-10.md)
+- [Waste Management Versus Clean Harbors Boundary Comparison](/extracted/themes/waste-management-vs-clean-harbors-boundary-comparison-2026-08-10.md)
+- [CECO Versus Veralto Versus Ecolab Boundary Comparison](/extracted/themes/ceco-vs-veralto-vs-ecolab-boundary-comparison-2026-08-10.md)
+- [Sonoco Versus Aptar Versus Silgan Boundary Comparison](/extracted/themes/sonoco-vs-aptar-vs-silgan-boundary-comparison-2026-08-10.md)
+- [Clearwater Versus International Paper Versus PCA Boundary Comparison](/extracted/themes/clearwater-vs-international-paper-vs-pca-boundary-comparison-2026-08-10.md)
+- [Blind-Spot Coverage Map](/indexes/blind-spot-coverage-map-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
 
 Primary anchors:
 
-- [Graphic Packaging Holding Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md)
-- [Sonoco Products Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/sonoco-products-co/company-packet.md)
-- [AptarGroup, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/aptar-group-inc/company-packet.md)
-- [Silgan Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/silgan-holdings-inc/company-packet.md)
-- [Packaging Corporation of America](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/packaging-corporation-of-america/company-packet.md)
-- [Clearwater Paper Corp](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/paper-paper-products/clearwater-paper-corp/company-packet.md)
-- [International Paper Company](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/paper-paper-products/international-paper-co/company-packet.md)
-- [Waste Management, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/waste-management/waste-management-inc/company-packet.md)
-- [Republic Services, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/waste-management/republic-services-inc/company-packet.md)
-- [Casella Waste Systems, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/waste-management/casella-waste-systems-inc/company-packet.md)
-- [CECO Environmental Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrials/pollution-treatment-controls/ceco-environmental-corp/company-packet.md)
-- [Veralto Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/pollution-treatment-controls/veralto-corporation/company-packet.md)
-- [Ecolab Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/specialty-chemicals/ecolab-inc/company-packet.md)
+- [Graphic Packaging Holding Company](/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md)
+- [Sonoco Products Co.](/extracted/consumer-goods/packaging-containers/sonoco-products-co/company-packet.md)
+- [AptarGroup, Inc.](/extracted/consumer-goods/packaging-containers/aptar-group-inc/company-packet.md)
+- [Silgan Holdings Inc.](/extracted/consumer-goods/packaging-containers/silgan-holdings-inc/company-packet.md)
+- [Packaging Corporation of America](/extracted/consumer-goods/packaging-containers/packaging-corporation-of-america/company-packet.md)
+- [Clearwater Paper Corp](/extracted/basic-materials/paper-paper-products/clearwater-paper-corp/company-packet.md)
+- [International Paper Company](/extracted/basic-materials/paper-paper-products/international-paper-co/company-packet.md)
+- [Waste Management, Inc.](/extracted/industrial-goods/waste-management/waste-management-inc/company-packet.md)
+- [Republic Services, Inc.](/extracted/industrial-goods/waste-management/republic-services-inc/company-packet.md)
+- [Casella Waste Systems, Inc.](/extracted/industrial-goods/waste-management/casella-waste-systems-inc/company-packet.md)
+- [CECO Environmental Corp.](/extracted/industrials/pollution-treatment-controls/ceco-environmental-corp/company-packet.md)
+- [Veralto Corporation](/extracted/industrial-goods/pollution-treatment-controls/veralto-corporation/company-packet.md)
+- [Ecolab Inc.](/extracted/basic-materials/specialty-chemicals/ecolab-inc/company-packet.md)
 
 ## Executive read
 
@@ -311,7 +311,7 @@ That is a different system from identity demand, routine staples trust, or marke
 
 Together they turn the blind spot into a usable cross-sector system rather than a loose set of industrial side notes.
 
-The lane now also has a live narrower split through [Waste Management Versus Clean Harbors Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/waste-management-vs-clean-harbors-boundary-comparison-2026-08-10.md), which separates broad route-density cleanup and compliance networks from more specialized hazardous disposal, emergency-response, remediation, and re-refining intensity, while `Republic Services` now adds a second national-scale route-density peer inside the broad-network branch.
+The lane now also has a live narrower split through [Waste Management Versus Clean Harbors Boundary Comparison](/extracted/themes/waste-management-vs-clean-harbors-boundary-comparison-2026-08-10.md), which separates broad route-density cleanup and compliance networks from more specialized hazardous disposal, emergency-response, remediation, and re-refining intensity, while `Republic Services` now adds a second national-scale route-density peer inside the broad-network branch.
 
 ## Why this is a blind spot in `AnnualReports`
 
@@ -329,8 +329,8 @@ It cannot explain how the visible consumer economy rests on hidden physical infr
 
 ## Best next moves
 
-1. Reuse the direct `Graphic Packaging` versus `Clearwater` versus `WM` versus `CECO` comparison first when the question is which base physical layer a company actually controls behind consumer demand, then use [Sonoco Versus Aptar Versus Silgan Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/sonoco-vs-aptar-vs-silgan-boundary-comparison-2026-08-10.md), [Clearwater Versus International Paper Versus PCA Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/clearwater-vs-international-paper-vs-pca-boundary-comparison-2026-08-10.md), and [CECO Versus Veralto Versus Ecolab Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ceco-vs-veralto-vs-ecolab-boundary-comparison-2026-08-10.md) when the question is whether the lane widens into broader packaging control, dispensing-and-dosing interface control, rigid-container and closure concentration, focused SBS substrate supply, broader corrugated-throughput scale, tighter North American corrugated peer density, heavier plant-environment hardware, embedded quality-and-water control, or embedded hygiene-and-compliance service.
+1. Reuse the direct `Graphic Packaging` versus `Clearwater` versus `WM` versus `CECO` comparison first when the question is which base physical layer a company actually controls behind consumer demand, then use [Sonoco Versus Aptar Versus Silgan Boundary Comparison](/extracted/themes/sonoco-vs-aptar-vs-silgan-boundary-comparison-2026-08-10.md), [Clearwater Versus International Paper Versus PCA Boundary Comparison](/extracted/themes/clearwater-vs-international-paper-vs-pca-boundary-comparison-2026-08-10.md), and [CECO Versus Veralto Versus Ecolab Boundary Comparison](/extracted/themes/ceco-vs-veralto-vs-ecolab-boundary-comparison-2026-08-10.md) when the question is whether the lane widens into broader packaging control, dispensing-and-dosing interface control, rigid-container and closure concentration, focused SBS substrate supply, broader corrugated-throughput scale, tighter North American corrugated peer density, heavier plant-environment hardware, embedded quality-and-water control, or embedded hygiene-and-compliance service.
 2. Extend the lane only if another company materially sharpens the split between packaging conversion, broader packaging-format control, packaging-interface control, rigid-container and closure concentration, second corrugated-throughput peer density, SBS substrate, corrugated-throughput infrastructure, route-density environmental services, specialized hazardous intensity, heavier plant-embedded environmental systems, embedded quality-or-water-control systems, and service-led hygiene-or-compliance embedment.
-3. Reuse [Behind-The-Shelf Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md) when sorting the lane by physical embedding, regulatory intensity, and operating constraint.
+3. Reuse [Behind-The-Shelf Infrastructure Index](/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md) when sorting the lane by physical embedding, regulatory intensity, and operating constraint.
 4. The waste-side branch is now usable as a four-way split: `Waste Management` as national leader, `Republic Services` as national scale peer, `Clean Harbors` as hazardous specialist, and `Casella` as regional-density concentration.
 5. Compare this lane against retail and routine-use files when the goal is showing how much of the consumer system depends on invisible physical support rather than only on visible demand interfaces.

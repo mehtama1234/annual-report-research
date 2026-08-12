@@ -94,9 +94,9 @@ Commit hash: `e89d364a`
 1. Raw source archive for all fifty-three completed packets.
 2. Extracted company packets and thematic interpretation for each completed company.
 3. One frontier synthesis note:
-   [distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research/extracted/distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md)
+   [distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md](/extracted/distribution-wholesale-channel-control-b2b-service-middle-layer-synthesis-2026-08-10.md)
 4. One frontier discoverability index:
-   [distribution-wholesale-channel-control-b2b-service-middle-layer-index-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research/indexes/distribution-wholesale-channel-control-b2b-service-middle-layer-index-2026-08-10.md)
+   [distribution-wholesale-channel-control-b2b-service-middle-layer-index-2026-08-10.md](/indexes/distribution-wholesale-channel-control-b2b-service-middle-layer-index-2026-08-10.md)
 
 ## Cautions
 

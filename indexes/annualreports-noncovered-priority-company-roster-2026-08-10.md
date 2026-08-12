@@ -12,19 +12,19 @@ Use it when the question is not just "what kinds of companies belong here?" but:
 
 Related files:
 
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
-- [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
-- [AnnualReports Noncovered Take-Leave Protocol](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-take-leave-protocol-2026-08-10.md)
-- [AnnualReports Noncovered Company Claim Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
-- [AnnualReports Noncovered Assignment Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
-- [Blind-Spot Candidate Shortlist](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-candidate-shortlist-2026-08-10.md)
-- [Blind-Spot Next Actions](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-next-actions-2026-08-10.md)
-- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
-- [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md)
-- [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
-- [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md)
-- [Consumer-Behavior Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
-- [Infrastructure Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
+- [AnnualReports Noncovered Take-Leave Protocol](/indexes/annualreports-noncovered-take-leave-protocol-2026-08-10.md)
+- [AnnualReports Noncovered Company Claim Roster](/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
+- [AnnualReports Noncovered Assignment Queue](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
+- [Blind-Spot Candidate Shortlist](/notes/blind-spot-candidate-shortlist-2026-08-10.md)
+- [Blind-Spot Next Actions](/notes/blind-spot-next-actions-2026-08-10.md)
+- [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
+- [Control-Layer Extension Shortlist](/indexes/control-layer-extension-shortlist-2026-08-10.md)
+- [Hidden Connectivity Extension Shortlist](/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
+- [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md)
+- [Consumer-Behavior Blind-Spot Comparison Core](/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
+- [Infrastructure Blind-Spot Comparison Core](/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
 
 ## How to read this roster
 

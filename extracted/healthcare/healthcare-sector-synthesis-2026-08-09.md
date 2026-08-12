@@ -7,21 +7,21 @@ Date baseline: 2026-08-09
 This synthesis is based on the completed healthcare packets currently in the archive:
 
 - Biopharma:
-  - [Pfizer Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/drug-manufacturers-general/pfizer-inc/company-packet.md)
-  - [Johnson & Johnson](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/drug-manufacturers-general/johnson-johnson/company-packet.md)
+  - [Pfizer Inc.](/extracted/healthcare/drug-manufacturers-general/pfizer-inc/company-packet.md)
+  - [Johnson & Johnson](/extracted/healthcare/drug-manufacturers-general/johnson-johnson/company-packet.md)
 - Managed care:
-  - [UnitedHealth Group Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
+  - [UnitedHealth Group Incorporated](/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
 - Providers:
-  - [HCA Healthcare, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
+  - [HCA Healthcare, Inc.](/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
 - Senior living:
-  - [Brookdale Senior Living Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
+  - [Brookdale Senior Living Inc.](/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
 - Devices, diagnostics, and tools:
-  - [Abbott Laboratories](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md)
-  - [Boston Scientific Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/boston-scientific-corporation/company-packet.md)
-  - [Intuitive Surgical, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/intuitive-surgical-inc/company-packet.md)
-  - [Stryker Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/stryker-corporation/company-packet.md)
-  - [Thermo Fisher Scientific Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md)
-  - [Warby Parker Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/warby-parker-inc/company-packet.md)
+  - [Abbott Laboratories](/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md)
+  - [Boston Scientific Corporation](/extracted/healthcare/medical-instruments-supplies/boston-scientific-corporation/company-packet.md)
+  - [Intuitive Surgical, Inc.](/extracted/healthcare/medical-instruments-supplies/intuitive-surgical-inc/company-packet.md)
+  - [Stryker Corporation](/extracted/healthcare/medical-instruments-supplies/stryker-corporation/company-packet.md)
+  - [Thermo Fisher Scientific Inc.](/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md)
+  - [Warby Parker Inc.](/extracted/healthcare/medical-instruments-supplies/warby-parker-inc/company-packet.md)
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-10`.
 

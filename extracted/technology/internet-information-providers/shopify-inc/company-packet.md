@@ -9,11 +9,11 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/internet-information-providers/shopify-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/shopify-inc/ir-source-links.md)
-- SEC source links: [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/shopify-inc/sec-source-links.md)
-- Extracted company profile: [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/shopify-inc/company-profile.md)
-- Extracted source ledger: [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/shopify-inc/source-ledger.md)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/internet-information-providers/shopify-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/internet-information-providers/shopify-inc/ir-source-links.md)
+- SEC source links: [sec-source-links.md](/raw/sec/technology/internet-information-providers/shopify-inc/sec-source-links.md)
+- Extracted company profile: [company-profile.md](/extracted/technology/internet-information-providers/shopify-inc/company-profile.md)
+- Extracted source ledger: [source-ledger.md](/extracted/technology/internet-information-providers/shopify-inc/source-ledger.md)
 
 ## Snapshot
 

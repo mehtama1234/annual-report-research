@@ -22,11 +22,11 @@ The useful question is what kind of relationship control each company actually o
 
 Related files:
 
-- [Owned-Demand Versus Marketplace-Extended Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md)
-- [DTC Versus Channel-Control Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
-- [Owned-Demand Channel-Control Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-channel-control-index-2026-08-10.md)
-- [Owned-Demand Marketplace Boundary Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-marketplace-boundary-index-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Owned-Demand Versus Marketplace-Extended Boundary](/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md)
+- [DTC Versus Channel-Control Crosswalk](/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
+- [Owned-Demand Channel-Control Index](/indexes/owned-demand-channel-control-index-2026-08-10.md)
+- [Owned-Demand Marketplace Boundary Index](/indexes/owned-demand-marketplace-boundary-index-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

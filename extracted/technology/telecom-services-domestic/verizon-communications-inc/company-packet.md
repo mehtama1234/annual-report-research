@@ -10,9 +10,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/telecom-services-domestic/verizon-communications-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/ir-source-links.md)
-- SEC filings folder: [verizon-communications-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/verizon-communications-inc)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/telecom-services-domestic/verizon-communications-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/telecom-services-domestic/verizon-communications-inc/ir-source-links.md)
+- SEC filings folder: [verizon-communications-inc](/raw/sec/technology/telecom-services-domestic/verizon-communications-inc)
 
 ## Snapshot
 

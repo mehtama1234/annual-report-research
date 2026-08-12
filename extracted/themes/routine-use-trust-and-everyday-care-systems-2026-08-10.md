@@ -10,19 +10,19 @@ consumer systems where recurring demand is driven by trust, efficacy, replenishm
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Routine Use Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/routine-use-systems-index-2026-08-10.md)
-- [Consumer Cultural Pattern Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Routine Use Systems Index](/indexes/routine-use-systems-index-2026-08-10.md)
+- [Consumer Cultural Pattern Map](/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
 
 Primary anchors:
 
-- [Kenvue](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/biotechnology/kenvue/company-packet.md)
-- [Procter & Gamble Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/procter-gamble-co/company-packet.md)
-- [Kimberly-Clark Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/kimberly-clark-corp/company-packet.md)
-- [Colgate-Palmolive Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/colgate-palmolive-co/company-packet.md)
-- [Church & Dwight Co. Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/cleaning-products/church-dwight-co-inc/company-packet.md)
-- [Chewy, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
+- [Kenvue](/extracted/technology/biotechnology/kenvue/company-packet.md)
+- [Procter & Gamble Co.](/extracted/consumer-goods/personal-products/procter-gamble-co/company-packet.md)
+- [Kimberly-Clark Corp.](/extracted/consumer-goods/personal-products/kimberly-clark-corp/company-packet.md)
+- [Colgate-Palmolive Co.](/extracted/consumer-goods/personal-products/colgate-palmolive-co/company-packet.md)
+- [Church & Dwight Co. Inc.](/extracted/consumer-goods/cleaning-products/church-dwight-co-inc/company-packet.md)
+- [Chewy, Inc.](/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
 
 ## Executive read
 
@@ -201,5 +201,5 @@ It cannot explain the actual repeat-behavior logic.
 ## Best next moves
 
 1. Extend the lane only if another company materially sharpens the split between staples trust, healthcare-adjacent care, and digital replenishment management.
-2. Reuse [Routine Use Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/routine-use-systems-index-2026-08-10.md) when sorting the lane by trust source, replenishment depth, and service attachment.
+2. Reuse [Routine Use Systems Index](/indexes/routine-use-systems-index-2026-08-10.md) when sorting the lane by trust source, replenishment depth, and service attachment.
 3. Compare this lane against ritual, beauty, and value files when the goal is showing how much of the consumer economy still runs on low-consideration repeat behavior.

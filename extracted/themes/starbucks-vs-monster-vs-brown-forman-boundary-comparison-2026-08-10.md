@@ -22,10 +22,10 @@ The useful question is what kind of ritual or stimulation system each company ac
 
 Related files:
 
-- [Ritual, Occasion, and Stimulation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
-- [Ritual Occasion Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/ritual-occasion-systems-index-2026-08-10.md)
-- [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Ritual, Occasion, and Stimulation Systems](/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
+- [Ritual Occasion Systems Index](/indexes/ritual-occasion-systems-index-2026-08-10.md)
+- [Loyalty, Wallet, and Membership Systems](/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

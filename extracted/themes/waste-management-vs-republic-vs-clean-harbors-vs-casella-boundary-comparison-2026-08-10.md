@@ -24,12 +24,12 @@ The useful question is which post-use infrastructure layer each one actually con
 
 Related files:
 
-- [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
-- [Graphic Packaging Versus Clearwater Versus WM Versus CECO Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/graphic-packaging-vs-clearwater-vs-wm-vs-ceco-boundary-comparison-2026-08-10.md)
-- [Waste Management Versus Clean Harbors Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/waste-management-vs-clean-harbors-boundary-comparison-2026-08-10.md)
-- [Behind-The-Shelf Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
-- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- [Graphic Packaging Versus Clearwater Versus WM Versus CECO Boundary Comparison](/extracted/themes/graphic-packaging-vs-clearwater-vs-wm-vs-ceco-boundary-comparison-2026-08-10.md)
+- [Waste Management Versus Clean Harbors Boundary Comparison](/extracted/themes/waste-management-vs-clean-harbors-boundary-comparison-2026-08-10.md)
+- [Behind-The-Shelf Infrastructure Index](/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
+- [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
 
 ## Executive read
 
@@ -241,4 +241,4 @@ Those are different monetization positions inside the same hidden post-use infra
 
 - use this memo when the question is whether a candidate belongs closer to national route-density leadership, national scale-peer density, hazardous specialization, or regional-density concentration
 - reuse it before adding another waste or environmental-service name to the blind-spot lane
-- keep the older [Waste Management Versus Clean Harbors Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/waste-management-vs-clean-harbors-boundary-comparison-2026-08-10.md) for the narrowest broad-network-versus-hazardous split, and use this memo when the branch needs the full four-way operating map
+- keep the older [Waste Management Versus Clean Harbors Boundary Comparison](/extracted/themes/waste-management-vs-clean-harbors-boundary-comparison-2026-08-10.md) for the narrowest broad-network-versus-hazardous split, and use this memo when the branch needs the full four-way operating map

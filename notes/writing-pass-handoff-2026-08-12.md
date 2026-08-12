@@ -6,7 +6,7 @@ Branch: `main`
 Prior commit at start of pass: `998a8961`
 
 This closes out the overall writing pass requested in
-[overall-writing-pass-handoff-2026-08-12.md](/home/manishmehta/ui-projects/annual-report-research/notes/overall-writing-pass-handoff-2026-08-12.md).
+[overall-writing-pass-handoff-2026-08-12.md](/notes/overall-writing-pass-handoff-2026-08-12.md).
 
 ## What this pass did
 
@@ -16,11 +16,11 @@ This closes out the overall writing pass requested in
 
 ## Pages materially improved (new)
 
-- [analysis/cross-sector/what-this-archive-proves-2026-08-12.md](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/what-this-archive-proves-2026-08-12.md)
+- [analysis/cross-sector/what-this-archive-proves-2026-08-12.md](/analysis/cross-sector/what-this-archive-proves-2026-08-12.md)
   - Top-level synthesis. States the core finding (interface / workflow / trust / control owners capture cleaner economics than burden carriers) and eight core findings, each in a claim / why / named examples / tension shape. Closes with pointers to four existing proof pages.
-- [notes/how-to-read-this-archive-2026-08-12.md](/home/manishmehta/ui-projects/annual-report-research/notes/how-to-read-this-archive-2026-08-12.md)
+- [notes/how-to-read-this-archive-2026-08-12.md](/notes/how-to-read-this-archive-2026-08-12.md)
   - A new-reader on-ramp, distinct from the operator-facing START-HERE. Explains the one central idea, tours the folders in plain words, lists five entry-point files, and explains how to read a single company packet.
-- [analysis/cross-sector/four-lane-summaries-2026-08-12.md](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/four-lane-summaries-2026-08-12.md)
+- [analysis/cross-sector/four-lane-summaries-2026-08-12.md](/analysis/cross-sector/four-lane-summaries-2026-08-12.md)
   - One page covering all four lanes (recreation, healthcare / CLI 4, connectivity / CLI 5, capital structures / CLI 6): what each covers, notable companies, what it proved, who captures clean economics vs who carries the burden, and one open edge each.
 
 ## Fact-check notes

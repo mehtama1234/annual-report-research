@@ -84,13 +84,13 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrials/metal-fabrication/mueller-industries-inc/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrials/metal-fabrication/mueller-industries-inc/source-ledger.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2025-annual-report.pdf)
-- [2025-10k-company-hosted.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2025-10k-company-hosted.pdf)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2025-q4-earnings-release.pdf)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2026-q1-earnings-release.pdf)
-- [2026-q1-10q-company-hosted.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2026-q1-10q-company-hosted.pdf)
-- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2026-q2-earnings-release.pdf)
-- [2026-q2-10q-company-hosted.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2026-q2-10q-company-hosted.pdf)
-- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrials/metal-fabrication/mueller-industries-inc/sec-source-links.md)
+- [company-profile.md](/extracted/industrials/metal-fabrication/mueller-industries-inc/company-profile.md)
+- [source-ledger.md](/extracted/industrials/metal-fabrication/mueller-industries-inc/source-ledger.md)
+- [2025-annual-report.pdf](/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2025-annual-report.pdf)
+- [2025-10k-company-hosted.pdf](/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2025-10k-company-hosted.pdf)
+- [2025-q4-earnings-release.pdf](/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2025-q4-earnings-release.pdf)
+- [2026-q1-earnings-release.pdf](/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2026-q1-earnings-release.pdf)
+- [2026-q1-10q-company-hosted.pdf](/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2026-q1-10q-company-hosted.pdf)
+- [2026-q2-earnings-release.pdf](/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2026-q2-earnings-release.pdf)
+- [2026-q2-10q-company-hosted.pdf](/raw/company-ir/industrials/metal-fabrication/mueller-industries-inc/2026-q2-10q-company-hosted.pdf)
+- [sec-source-links.md](/raw/sec/industrials/metal-fabrication/mueller-industries-inc/sec-source-links.md)

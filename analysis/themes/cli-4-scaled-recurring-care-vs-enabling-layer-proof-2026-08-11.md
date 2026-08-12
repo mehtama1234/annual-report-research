@@ -9,21 +9,21 @@ Collection window:
 
 Primary packet set used here:
 
-- [UnitedHealth Group Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
-- [HCA Healthcare, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
-- [Brookdale Senior Living Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
-- [Addus HomeCare Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/addus-homecare-corporation/company-packet.md)
-- [Option Care Health, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/option-care-health-inc/company-packet.md)
-- [Quest Diagnostics Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/quest-diagnostics-incorporated/company-packet.md)
-- [Thermo Fisher Scientific Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md)
-- [Cencora](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-distribution/cencora/company-packet.md)
-- [Johnson & Johnson](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/drug-manufacturers-general/johnson-johnson/company-packet.md)
+- [UnitedHealth Group Incorporated](/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
+- [HCA Healthcare, Inc.](/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
+- [Brookdale Senior Living Inc.](/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
+- [Addus HomeCare Corporation](/extracted/healthcare/specialized-health-services/addus-homecare-corporation/company-packet.md)
+- [Option Care Health, Inc.](/extracted/healthcare/specialized-health-services/option-care-health-inc/company-packet.md)
+- [Quest Diagnostics Incorporated](/extracted/healthcare/medical-laboratories-research/quest-diagnostics-incorporated/company-packet.md)
+- [Thermo Fisher Scientific Inc.](/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md)
+- [Cencora](/extracted/healthcare/medical-distribution/cencora/company-packet.md)
+- [Johnson & Johnson](/extracted/healthcare/drug-manufacturers-general/johnson-johnson/company-packet.md)
 
 Supporting lane context:
 
-- [CLI 4 Healthcare Proof Page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md)
-- [CLI 4 Recurring Care And Workflow Control Framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
-- [Healthcare Sector Synthesis](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/healthcare-sector-synthesis-2026-08-09.md)
+- [CLI 4 Healthcare Proof Page](/analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md)
+- [CLI 4 Recurring Care And Workflow Control Framework](/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
+- [Healthcare Sector Synthesis](/extracted/healthcare/healthcare-sector-synthesis-2026-08-09.md)
 
 ## The question
 
@@ -240,8 +240,8 @@ Reason: test whether the payer-burden pattern holds beyond UnitedHealth.
 2. `Eli Lilly and Company`
 Reason: compare a more concentrated blockbuster-therapy owner against Johnson & Johnson's diversified healthcare-platform model.
 
-3. [Labcorp Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/labcorp-holdings-inc/company-packet.md)
+3. [Labcorp Holdings Inc.](/extracted/healthcare/medical-laboratories-research/labcorp-holdings-inc/company-packet.md)
 Reason: deepen the diagnostics-utility comparison against Quest.
 
-4. [DaVita Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/specialized-health-services/davita-inc/company-packet.md)
+4. [DaVita Inc.](/extracted/healthcare/specialized-health-services/davita-inc/company-packet.md)
 Reason: sharpen the contrast between mandatory chronic-treatment utility economics and home- or alternate-site care models.

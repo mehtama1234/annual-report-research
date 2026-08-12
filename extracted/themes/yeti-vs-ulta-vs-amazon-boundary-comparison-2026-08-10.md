@@ -22,10 +22,10 @@ The useful question is what kind of demand each company actually owns:
 
 Related files:
 
-- [Owned-Demand Versus Marketplace-Extended Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md)
-- [Owned-Demand Marketplace Boundary Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-marketplace-boundary-index-2026-08-10.md)
-- [DTC Versus Channel-Control Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
-- [Retail Versus Marketplace Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md)
+- [Owned-Demand Versus Marketplace-Extended Boundary](/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md)
+- [Owned-Demand Marketplace Boundary Index](/indexes/owned-demand-marketplace-boundary-index-2026-08-10.md)
+- [DTC Versus Channel-Control Crosswalk](/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
+- [Retail Versus Marketplace Boundary](/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md)
 
 ## Executive read
 

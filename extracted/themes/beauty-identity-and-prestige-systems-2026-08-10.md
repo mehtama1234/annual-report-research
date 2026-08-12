@@ -10,18 +10,18 @@ beauty and self-presentation systems that are too behavior-heavy, culturally sen
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Beauty Identity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/beauty-identity-systems-index-2026-08-10.md)
-- [Consumer Cultural Pattern Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
-- [Owned-Demand Identity Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Beauty Identity Systems Index](/indexes/beauty-identity-systems-index-2026-08-10.md)
+- [Consumer Cultural Pattern Map](/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
+- [Owned-Demand Identity Systems](/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
 
 Primary anchors:
 
-- [Ulta Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
-- [e.l.f. Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/elf-beauty-inc/company-packet.md)
-- [Coty Inc](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/coty-inc/company-packet.md)
-- [The Estee Lauder Companies Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md)
+- [Ulta Beauty, Inc.](/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
+- [e.l.f. Beauty, Inc.](/extracted/consumer-goods/personal-products/elf-beauty-inc/company-packet.md)
+- [Coty Inc](/extracted/consumer-goods/personal-products/coty-inc/company-packet.md)
+- [The Estee Lauder Companies Inc.](/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md)
 
 ## Executive read
 
@@ -172,5 +172,5 @@ the taxonomy can locate the issuers, but it cannot explain the lane.
 ## Best next moves
 
 1. Extend the beauty lane only if another name materially improves the retailer-versus-brand or prestige-versus-access split.
-2. Reuse [Beauty Identity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/beauty-identity-systems-index-2026-08-10.md) when sorting the lane by relationship type, trend sensitivity, and second monetization layer.
+2. Reuse [Beauty Identity Systems Index](/indexes/beauty-identity-systems-index-2026-08-10.md) when sorting the lane by relationship type, trend sensitivity, and second monetization layer.
 3. Compare this lane against routine-use trust categories only when the goal is highlighting how much more culturally sensitive beauty demand is than staples demand.

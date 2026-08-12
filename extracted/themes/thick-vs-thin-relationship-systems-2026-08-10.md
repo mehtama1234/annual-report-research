@@ -8,26 +8,26 @@ This memo extends the blind-spot work by separating consumer-facing models with 
 
 Primary thick-relationship anchors:
 
-- [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
-- [Starbucks Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/restaurants/starbucks-corporation/company-packet.md)
-- [Costco Wholesale Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md)
-- [Delta Air Lines, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
-- [Marriott International, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/marriott-international-inc/company-packet.md)
-- [Caesars Entertainment, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
+- [Loyalty, Wallet, and Membership Systems](/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
+- [Starbucks Corporation](/extracted/services/restaurants/starbucks-corporation/company-packet.md)
+- [Costco Wholesale Corporation](/extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md)
+- [Delta Air Lines, Inc.](/extracted/services/major-airlines/delta-air-lines-inc/company-packet.md)
+- [Marriott International, Inc.](/extracted/services/lodging/marriott-international-inc/company-packet.md)
+- [Caesars Entertainment, Inc.](/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
 
 Primary thin-relationship anchors:
 
-- [Ross Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
-- [Dollar General Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/dollar-general-corporation/company-packet.md)
-- [Burlington Stores, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-packet.md)
-- [Frontier Group Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/air-delivery-freight-services/frontier-group-holdings-inc/company-packet.md)
-- [eBay Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/internet-service-providers/ebay/company-packet.md)
+- [Ross Stores, Inc.](/extracted/services/apparel-stores/ross-stores-inc/company-packet.md)
+- [Dollar General Corporation](/extracted/services/discount-variety-stores/dollar-general-corporation/company-packet.md)
+- [Burlington Stores, Inc.](/extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-packet.md)
+- [Frontier Group Holdings, Inc.](/extracted/industrial-goods/air-delivery-freight-services/frontier-group-holdings-inc/company-packet.md)
+- [eBay Inc.](/extracted/consumer-goods/internet-service-providers/ebay/company-packet.md)
 
 Related blind-spot framing:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
-- [Relationship Thickness Index](/home/manishmehta/ui-projects/annual-report-research/indexes/relationship-thickness-index-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Consumer Interface Framework Across Sectors](/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
+- [Relationship Thickness Index](/indexes/relationship-thickness-index-2026-08-10.md)
 
 ## Executive read
 

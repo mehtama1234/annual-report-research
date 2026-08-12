@@ -128,10 +128,10 @@ During `Q2 2026`, PA distorted GAAP results, created financing needs, and added 
 
 ## Source pointers
 
-- AnnualReports taxonomy check: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/engineering-construction/jacobs-solutions-inc/annualreports-verification.md)
-- IR source chain: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/engineering-construction/jacobs-solutions-inc/ir-source-links.md)
-- SEC annual filing text: [2025-annual-10k.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/engineering-construction/jacobs-solutions-inc/2025-annual-10k.txt)
+- AnnualReports taxonomy check: [annualreports-verification.md](/raw/annualreports/industrial-goods/engineering-construction/jacobs-solutions-inc/annualreports-verification.md)
+- IR source chain: [ir-source-links.md](/raw/company-ir/industrial-goods/engineering-construction/jacobs-solutions-inc/ir-source-links.md)
+- SEC annual filing text: [2025-annual-10k.txt](/raw/sec/industrial-goods/engineering-construction/jacobs-solutions-inc/2025-annual-10k.txt)
 - SEC quarter filing texts:
-  - [2026-q1-10q.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/engineering-construction/jacobs-solutions-inc/2026-q1-10q.txt)
-  - [2026-q2-10q.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/engineering-construction/jacobs-solutions-inc/2026-q2-10q.txt)
-  - [2026-q3-10q.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/engineering-construction/jacobs-solutions-inc/2026-q3-10q.txt)
+  - [2026-q1-10q.txt](/raw/sec/industrial-goods/engineering-construction/jacobs-solutions-inc/2026-q1-10q.txt)
+  - [2026-q2-10q.txt](/raw/sec/industrial-goods/engineering-construction/jacobs-solutions-inc/2026-q2-10q.txt)
+  - [2026-q3-10q.txt](/raw/sec/industrial-goods/engineering-construction/jacobs-solutions-inc/2026-q3-10q.txt)

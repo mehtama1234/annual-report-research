@@ -6,9 +6,9 @@ Date baseline: 2026-08-09
 
 This memo links the current consumer-interface, financial-interface, and technology-interface work into one shared framework:
 
-- [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
-- [Financial Interface Framework](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/themes/financial-interface-framework-2026-08-09.md)
-- [Technology Interface Framework](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/themes/technology-interface-framework-2026-08-09.md)
+- [Consumer Interface Framework Across Sectors](/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
+- [Financial Interface Framework](/extracted/financial/themes/financial-interface-framework-2026-08-09.md)
+- [Technology Interface Framework](/extracted/technology/themes/technology-interface-framework-2026-08-09.md)
 
 It is based on the current `2025` annual reports plus late-`2025` and `2026` quarterlies already packetized in the archive.
 

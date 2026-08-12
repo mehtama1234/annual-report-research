@@ -8,20 +8,20 @@ This memo fills the middle band between the thickest wallet, membership, and sta
 
 Primary anchors:
 
-- [United Airlines Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/major-airlines/united-airlines-holdings-inc/company-packet.md)
-- [Hilton Worldwide Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
-- [Booking Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/transportation-services/booking-holdings/company-packet.md)
-- [Airbnb, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/airbnb-inc/company-packet.md)
-- [Ulta Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
-- [Lowe's Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
-- [The Coca-Cola Company](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md)
+- [United Airlines Holdings, Inc.](/extracted/services/major-airlines/united-airlines-holdings-inc/company-packet.md)
+- [Hilton Worldwide Holdings Inc.](/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
+- [Booking Holdings Inc.](/extracted/services/transportation-services/booking-holdings/company-packet.md)
+- [Airbnb, Inc.](/extracted/technology/application-software/airbnb-inc/company-packet.md)
+- [Ulta Beauty, Inc.](/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
+- [Lowe's Companies, Inc.](/extracted/consumer-goods/home-improvement-stores/lowes-companies-inc/company-packet.md)
+- [The Coca-Cola Company](/extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md)
 
 Related blind-spot files:
 
-- [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
-- [Thick vs. Thin Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Relationship Thickness Index](/home/manishmehta/ui-projects/annual-report-research/indexes/relationship-thickness-index-2026-08-10.md)
+- [Loyalty, Wallet, and Membership Systems](/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
+- [Thick vs. Thin Relationship Systems](/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Relationship Thickness Index](/indexes/relationship-thickness-index-2026-08-10.md)
 
 ## Executive read
 

@@ -22,10 +22,10 @@ The useful question is what kind of beauty system each company actually controls
 
 Related files:
 
-- [Beauty, Identity, and Prestige Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md)
-- [Beauty Identity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/beauty-identity-systems-index-2026-08-10.md)
-- [Owned-Demand Identity Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Beauty, Identity, and Prestige Systems](/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md)
+- [Beauty Identity Systems Index](/indexes/beauty-identity-systems-index-2026-08-10.md)
+- [Owned-Demand Identity Systems](/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

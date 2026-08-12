@@ -5,7 +5,7 @@
 - Company page verified on 2026-08-10:
   - https://www.annualreports.com/Company/charter-communications-inc
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/charter-communications-inc/annualreports-verification.md)
+  - [annualreports-verification.md](/raw/annualreports/technology/diversified-communication-services/charter-communications-inc/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -20,7 +20,7 @@
 - Q2 2026 earnings release page:
   - https://ir.charter.com/news-releases/news-release-details/charter-announces-second-quarter-2026-results/
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/charter-communications-inc/ir-source-links.md)
+  - [ir-source-links.md](/raw/company-ir/technology/diversified-communication-services/charter-communications-inc/ir-source-links.md)
 
 ## SEC / EDGAR references
 
@@ -42,14 +42,14 @@
 ## Saved local artifacts
 
 - SEC submission index:
-  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/charter-communications-inc/sec-submissions.json)
+  - [sec-submissions.json](/raw/sec/technology/diversified-communication-services/charter-communications-inc/sec-submissions.json)
 - Annual and quarter filing chain:
-  - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/charter-communications-inc/2025-10k.html)
-  - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/charter-communications-inc/2025-q4-8k.html)
-  - [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/charter-communications-inc/2026-q1-10q.html)
-  - [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/charter-communications-inc/2026-q1-8k.html)
-  - [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/charter-communications-inc/2026-q2-10q.html)
-  - [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/charter-communications-inc/2026-q2-8k.html)
+  - [2025-10k.html](/raw/sec/technology/diversified-communication-services/charter-communications-inc/2025-10k.html)
+  - [2025-q4-8k.html](/raw/sec/technology/diversified-communication-services/charter-communications-inc/2025-q4-8k.html)
+  - [2026-q1-10q.html](/raw/sec/technology/diversified-communication-services/charter-communications-inc/2026-q1-10q.html)
+  - [2026-q1-8k.html](/raw/sec/technology/diversified-communication-services/charter-communications-inc/2026-q1-8k.html)
+  - [2026-q2-10q.html](/raw/sec/technology/diversified-communication-services/charter-communications-inc/2026-q2-10q.html)
+  - [2026-q2-8k.html](/raw/sec/technology/diversified-communication-services/charter-communications-inc/2026-q2-8k.html)
 
 ## Notes on evidence quality
 

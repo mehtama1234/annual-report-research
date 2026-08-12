@@ -9,9 +9,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/data-storage-devices/seagate-technology-holdings-plc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/data-storage-devices/seagate-technology-holdings-plc/ir-source-links.md)
-- SEC filings folder: [seagate-technology-holdings-plc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/data-storage-devices/seagate-technology-holdings-plc)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/data-storage-devices/seagate-technology-holdings-plc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/data-storage-devices/seagate-technology-holdings-plc/ir-source-links.md)
+- SEC filings folder: [seagate-technology-holdings-plc](/raw/sec/technology/data-storage-devices/seagate-technology-holdings-plc)
 
 ## Snapshot
 

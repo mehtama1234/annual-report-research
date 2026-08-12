@@ -9,9 +9,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/internet-software-services/zscaler-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-software-services/zscaler-inc/ir-source-links.md)
-- SEC filings folder: [zscaler-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-software-services/zscaler-inc)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/internet-software-services/zscaler-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/internet-software-services/zscaler-inc/ir-source-links.md)
+- SEC filings folder: [zscaler-inc](/raw/sec/technology/internet-software-services/zscaler-inc)
 
 ## Snapshot
 

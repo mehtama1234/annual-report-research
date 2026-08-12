@@ -10,20 +10,20 @@ companies where demand is not just product demand, but owned demand shaped by di
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [DTC Versus Channel-Control Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
-- [Owned-Demand Channel-Control Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-channel-control-index-2026-08-10.md)
-- [Consumer Cultural Pattern Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
-- [Consumer Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/consumer-interface-research-index-2026-08-09.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [DTC Versus Channel-Control Crosswalk](/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
+- [Owned-Demand Channel-Control Index](/indexes/owned-demand-channel-control-index-2026-08-10.md)
+- [Consumer Cultural Pattern Map](/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
+- [Consumer Interface Research Index](/indexes/consumer-interface-research-index-2026-08-09.md)
 
 Primary anchors:
 
-- [Warby Parker Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/warby-parker-inc/company-packet.md)
-- [YETI Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/sporting-goods/yeti-holdings-inc/company-packet.md)
-- [Birkenstock Holding plc](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/birkenstock-holding-plc/company-packet.md)
-- [NIKE, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/retail/apparel-shoe-accessory-stores/nike-inc/company-packet.md)
-- [Levi Strauss & Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/apparel-stores/levi-strauss-co/company-packet.md)
-- [Ulta Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
+- [Warby Parker Inc.](/extracted/healthcare/medical-instruments-supplies/warby-parker-inc/company-packet.md)
+- [YETI Holdings, Inc.](/extracted/consumer-goods/sporting-goods/yeti-holdings-inc/company-packet.md)
+- [Birkenstock Holding plc](/extracted/services/apparel-stores/birkenstock-holding-plc/company-packet.md)
+- [NIKE, Inc.](/extracted/retail/apparel-shoe-accessory-stores/nike-inc/company-packet.md)
+- [Levi Strauss & Co.](/extracted/consumer-goods/apparel-stores/levi-strauss-co/company-packet.md)
+- [Ulta Beauty, Inc.](/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
 
 ## Executive read
 

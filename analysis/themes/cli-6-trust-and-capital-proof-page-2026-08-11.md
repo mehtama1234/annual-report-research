@@ -9,20 +9,20 @@ Collection window:
 
 Primary packet set used here:
 
-- [Aon plc](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/insurance-brokers/aon-plc/company-packet.md)
-- [Marsh & McLennan Companies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/insurance-brokers/marsh-mclennan-companies-inc/company-packet.md)
-- [Ventas Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-healthcare-facilities/ventas-inc/company-packet.md)
-- [Welltower Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-healthcare-facilities/welltower-inc/company-packet.md)
-- [Brookfield Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/brookfield-corporation/company-packet.md)
-- [KKR & Co. Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/kkr-co-inc/company-packet.md)
-- [M&T Bank Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/regional-mid-atlantic-banks/mt-bank-corporation/company-packet.md)
-- [Regions Financial Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/regional-southeast-banks/regions-financial-corp/company-packet.md)
+- [Aon plc](/extracted/financial/insurance-brokers/aon-plc/company-packet.md)
+- [Marsh & McLennan Companies, Inc.](/extracted/financial/insurance-brokers/marsh-mclennan-companies-inc/company-packet.md)
+- [Ventas Inc.](/extracted/real-estate/reit-healthcare-facilities/ventas-inc/company-packet.md)
+- [Welltower Inc.](/extracted/real-estate/reit-healthcare-facilities/welltower-inc/company-packet.md)
+- [Brookfield Corporation](/extracted/financial/asset-management/brookfield-corporation/company-packet.md)
+- [KKR & Co. Inc.](/extracted/financial/asset-management/kkr-co-inc/company-packet.md)
+- [M&T Bank Corporation](/extracted/financial/regional-mid-atlantic-banks/mt-bank-corporation/company-packet.md)
+- [Regions Financial Corp.](/extracted/financial/regional-southeast-banks/regions-financial-corp/company-packet.md)
 
 Supporting lane context:
 
-- [CLI 6 Trust Intermediation Framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-6-trust-intermediation-framework-2026-08-10.md)
-- [CLI 6 Batch G Handoff](/home/manishmehta/ui-projects/annual-report-research/notes/cli-6-batch-g-handoff-2026-08-10.md)
-- [CLI 6 Batch H Handoff](/home/manishmehta/ui-projects/annual-report-research/notes/cli-6-batch-h-handoff-2026-08-10.md)
+- [CLI 6 Trust Intermediation Framework](/analysis/themes/cli-6-trust-intermediation-framework-2026-08-10.md)
+- [CLI 6 Batch G Handoff](/notes/cli-6-batch-g-handoff-2026-08-10.md)
+- [CLI 6 Batch H Handoff](/notes/cli-6-batch-h-handoff-2026-08-10.md)
 
 ## The question
 
@@ -228,13 +228,13 @@ In this lane, better economics usually go to the model that controls trust, work
 
 ## Exact next targets to deepen this proof
 
-1. [MetLife, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/life-insurance/metlife-inc/company-packet.md)
+1. [MetLife, Inc.](/extracted/financial/life-insurance/metlife-inc/company-packet.md)
 Reason: test how much quality a large liability-and-asset manager can generate versus the broker and bank models.
 
-2. [Annaly Capital Management, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-mortgage/annaly-capital-management-inc/company-packet.md)
+2. [Annaly Capital Management, Inc.](/extracted/real-estate/reit-mortgage/annaly-capital-management-inc/company-packet.md)
 Reason: sharpen the contrast between durable workflow moats and more fragile funding-and-duration carry models.
 
-3. [Simon Property Group, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-retail/simon-property-group-inc/company-packet.md)
+3. [Simon Property Group, Inc.](/extracted/real-estate/reit-retail/simon-property-group-inc/company-packet.md)
 Reason: test whether destination retail property can approximate trust-and-duration quality without the same broker or aging tailwind.
 
 4. `Markel Group Inc.`

@@ -12,19 +12,19 @@ Use this file when the other threads are already covering the normal `AnnualRepo
 
 Related files:
 
-- [AnnualReports Browse-Tree Blind-Spot Mandate](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
-- [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
-- [AnnualReports Noncovered No-Overlap Matrix](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
-- [AnnualReports Noncovered Areas Priority Map](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md)
-- [AnnualReports Noncovered Claim Test](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-claim-test-2026-08-10.md)
-- [AnnualReports Noncovered Priority Company Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md)
-- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
-- [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md)
-- [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
-- [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md)
-- [Consumer-Behavior Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
-- [Infrastructure Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
+- [AnnualReports Browse-Tree Blind-Spot Mandate](/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
+- [AnnualReports Noncovered No-Overlap Matrix](/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
+- [AnnualReports Noncovered Areas Priority Map](/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md)
+- [AnnualReports Noncovered Claim Test](/indexes/annualreports-noncovered-claim-test-2026-08-10.md)
+- [AnnualReports Noncovered Priority Company Roster](/indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md)
+- [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
+- [Control-Layer Extension Shortlist](/indexes/control-layer-extension-shortlist-2026-08-10.md)
+- [Hidden Connectivity Extension Shortlist](/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
+- [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md)
+- [Consumer-Behavior Blind-Spot Comparison Core](/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
+- [Infrastructure Blind-Spot Comparison Core](/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
 
 ## One-sentence rule
 
@@ -36,7 +36,7 @@ This is a structural-taxonomy lane, not an uncovered-sector cleanup lane.
 
 Thin or awkward page quality by itself is not a reason to hunt the company here.
 
-Use the short [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md) first when a worker needs a one-screen keep-versus-leave decision before reading the longer collision-control files.
+Use the short [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md) first when a worker needs a one-screen keep-versus-leave decision before reading the longer collision-control files.
 
 ## The two top-level routes
 
@@ -143,4 +143,4 @@ If removing it would not weaken the blind-spot layer, leave it to the normal sec
 
 Inside the mature infrastructure lanes, use the matching extension shortlist before taking another company so the next move is subtype-opening rather than generic packet sprawl.
 
-For a stricter keep-versus-return decision table, use [AnnualReports Noncovered No-Overlap Matrix](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md).
+For a stricter keep-versus-return decision table, use [AnnualReports Noncovered No-Overlap Matrix](/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md).

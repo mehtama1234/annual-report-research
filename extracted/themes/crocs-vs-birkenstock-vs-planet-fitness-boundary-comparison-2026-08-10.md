@@ -22,10 +22,10 @@ The useful question is what kind of comfort-and-confidence system each company a
 
 Related files:
 
-- [Comfort, Casualization, and Practical-Wellness Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
-- [Comfort Wellness Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/comfort-wellness-systems-index-2026-08-10.md)
-- [Owned-Demand Identity Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Comfort, Casualization, and Practical-Wellness Systems](/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
+- [Comfort Wellness Systems Index](/indexes/comfort-wellness-systems-index-2026-08-10.md)
+- [Owned-Demand Identity Systems](/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

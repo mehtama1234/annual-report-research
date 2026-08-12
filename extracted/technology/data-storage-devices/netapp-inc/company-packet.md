@@ -9,9 +9,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/data-storage-devices/netapp-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/data-storage-devices/netapp-inc/ir-source-links.md)
-- SEC filings folder: [netapp-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/data-storage-devices/netapp-inc)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/data-storage-devices/netapp-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/data-storage-devices/netapp-inc/ir-source-links.md)
+- SEC filings folder: [netapp-inc](/raw/sec/technology/data-storage-devices/netapp-inc)
 
 ## Snapshot
 

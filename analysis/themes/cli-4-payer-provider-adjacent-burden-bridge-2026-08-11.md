@@ -9,16 +9,16 @@ Collection window:
 
 Primary packet set used here:
 
-- [UnitedHealth Group Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
-- [HCA Healthcare, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
-- [Astrana Health, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-equipment-wholesale/astrana-health/company-packet.md)
-- [Baxter International Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/baxter-international-inc/company-packet.md)
+- [UnitedHealth Group Incorporated](/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
+- [HCA Healthcare, Inc.](/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
+- [Astrana Health, Inc.](/extracted/healthcare/medical-equipment-wholesale/astrana-health/company-packet.md)
+- [Baxter International Inc.](/extracted/healthcare/medical-instruments-supplies/baxter-international-inc/company-packet.md)
 
 Supporting lane context:
 
-- [CLI 4 Healthcare Proof Page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md)
-- [CLI 4 Scaled Recurring Care Versus Enabling Layer Proof](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-scaled-recurring-care-vs-enabling-layer-proof-2026-08-11.md)
-- [Healthcare Sector Synthesis](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/healthcare-sector-synthesis-2026-08-09.md)
+- [CLI 4 Healthcare Proof Page](/analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md)
+- [CLI 4 Scaled Recurring Care Versus Enabling Layer Proof](/analysis/themes/cli-4-scaled-recurring-care-vs-enabling-layer-proof-2026-08-11.md)
+- [Healthcare Sector Synthesis](/extracted/healthcare/healthcare-sector-synthesis-2026-08-09.md)
 
 ## The question
 

@@ -7,36 +7,36 @@ Date baseline: 2026-08-09
 This synthesis is based on the completed technology packets currently in the archive:
 
 - Platform software and cloud:
-  - [Microsoft Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/microsoft-corporation/company-packet.md)
-  - [Adobe Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/adobe-inc/company-packet.md)
-  - [ServiceNow, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/servicenow-inc/company-packet.md)
+  - [Microsoft Corporation](/extracted/technology/application-software/microsoft-corporation/company-packet.md)
+  - [Adobe Inc.](/extracted/technology/application-software/adobe-inc/company-packet.md)
+  - [ServiceNow, Inc.](/extracted/technology/information-technology-services/servicenow-inc/company-packet.md)
 - Consumer and platform ecosystems:
-  - [Apple Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/consumer-services/apple-inc/company-packet.md)
-  - [Alphabet Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/alphabet-inc/company-packet.md)
-  - [Airbnb, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/airbnb-inc/company-packet.md)
-  - [DoorDash, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-service-providers/doordash/company-packet.md)
-  - [Roblox Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/roblox-corporation/company-packet.md)
-  - [Take-Two Interactive Software, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/take-two-interactive-software-inc/company-packet.md)
-  - [Electronic Arts Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/electronic-arts-inc/company-packet.md)
-  - [Snap Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/snap-inc/company-packet.md)
+  - [Apple Inc.](/extracted/technology/consumer-services/apple-inc/company-packet.md)
+  - [Alphabet Inc.](/extracted/technology/internet-information-providers/alphabet-inc/company-packet.md)
+  - [Airbnb, Inc.](/extracted/technology/application-software/airbnb-inc/company-packet.md)
+  - [DoorDash, Inc.](/extracted/technology/internet-service-providers/doordash/company-packet.md)
+  - [Roblox Corporation](/extracted/technology/application-software/roblox-corporation/company-packet.md)
+  - [Take-Two Interactive Software, Inc.](/extracted/technology/application-software/take-two-interactive-software-inc/company-packet.md)
+  - [Electronic Arts Inc.](/extracted/technology/application-software/electronic-arts-inc/company-packet.md)
+  - [Snap Inc.](/extracted/technology/internet-information-providers/snap-inc/company-packet.md)
 - Infrastructure, networking, and security:
-  - [Cisco Systems Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/cisco-systems-inc/company-packet.md)
-  - [Arista Networks, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/networking-communication-devices/arista-networks-inc/company-packet.md)
-  - [Palo Alto Networks, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-packet.md)
+  - [Cisco Systems Inc.](/extracted/technology/communication-equipment/cisco-systems-inc/company-packet.md)
+  - [Arista Networks, Inc.](/extracted/technology/networking-communication-devices/arista-networks-inc/company-packet.md)
+  - [Palo Alto Networks, Inc.](/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-packet.md)
 - Semiconductors:
-  - [NVIDIA Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-specialized/nvidia-corporation/company-packet.md)
-  - [Intel Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-broad-line/intel-corporation/company-packet.md)
-  - [Micron Technology, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-memory-chips/micron-technology-inc/company-packet.md)
+  - [NVIDIA Corporation](/extracted/technology/semiconductor-specialized/nvidia-corporation/company-packet.md)
+  - [Intel Corporation](/extracted/technology/semiconductor-broad-line/intel-corporation/company-packet.md)
+  - [Micron Technology, Inc.](/extracted/technology/semiconductor-memory-chips/micron-technology-inc/company-packet.md)
 - Systems and services layer:
-  - [Dell Technologies Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/dell-technologies-inc/company-packet.md)
-  - [HP Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/computer-hardware/hp-inc/company-packet.md)
-  - [Accenture plc](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/accenture-plc/company-packet.md)
+  - [Dell Technologies Inc.](/extracted/technology/information-technology-services/dell-technologies-inc/company-packet.md)
+  - [HP Inc.](/extracted/technology/computer-hardware/hp-inc/company-packet.md)
+  - [Accenture plc](/extracted/technology/information-technology-services/accenture-plc/company-packet.md)
 
 The source window is the `2025` annual report plus each company’s last three reported quarters in scope as of `2026-08-09`.
 
 Related focused memo:
 
-- [Technology Interface Framework](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/themes/technology-interface-framework-2026-08-09.md)
+- [Technology Interface Framework](/extracted/technology/themes/technology-interface-framework-2026-08-09.md)
 
 ## Executive read
 

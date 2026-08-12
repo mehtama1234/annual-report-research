@@ -7,39 +7,39 @@ Date baseline: 2026-08-09
 This synthesis is based on the completed industrial-goods packets currently in the archive:
 
 - Heavy equipment and machinery:
-  - [Caterpillar Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/construction-farm-machinery/caterpillar-inc/company-packet.md)
+  - [Caterpillar Inc.](/extracted/industrial-goods/construction-farm-machinery/caterpillar-inc/company-packet.md)
 - Electrical and power infrastructure:
-  - [Eaton Corporation plc](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/eaton-corporation/company-packet.md)
-  - [Hubbell Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/hubbell-inc/company-packet.md)
-  - [nVent Electric plc](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/nvent-electric-plc/company-packet.md)
-  - [Powell Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/powell-industries-inc/company-packet.md)
+  - [Eaton Corporation plc](/extracted/industrial-goods/industrial-electrical-equipment/eaton-corporation/company-packet.md)
+  - [Hubbell Incorporated](/extracted/industrial-goods/industrial-electrical-equipment/hubbell-inc/company-packet.md)
+  - [nVent Electric plc](/extracted/industrial-goods/industrial-electrical-equipment/nvent-electric-plc/company-packet.md)
+  - [Powell Industries, Inc.](/extracted/industrial-goods/industrial-electrical-equipment/powell-industries-inc/company-packet.md)
 - Critical digital infrastructure power and thermal:
-  - [Vertiv Holdings Co](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/vertiv-holdings-co/company-packet.md)
+  - [Vertiv Holdings Co](/extracted/industrial-goods/industrial-electrical-equipment/vertiv-holdings-co/company-packet.md)
 - Utility construction and field execution:
-  - [Quanta Services, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/quanta-services-inc/company-packet.md)
-  - [MYR Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/myr-group-inc/company-packet.md)
-  - [Primoris Services Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/heavy-construction/primoris-services-corporation/company-packet.md)
+  - [Quanta Services, Inc.](/extracted/industrial-goods/general-contractors/quanta-services-inc/company-packet.md)
+  - [MYR Group Inc.](/extracted/industrial-goods/general-contractors/myr-group-inc/company-packet.md)
+  - [Primoris Services Corporation](/extracted/industrial-goods/heavy-construction/primoris-services-corporation/company-packet.md)
 - Telecom and digital-infrastructure field execution:
-  - [Dycom Industries Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md)
+  - [Dycom Industries Inc.](/extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md)
 - Skilled-trades mechanical and electrical field execution:
-  - [Comfort Systems USA, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
-  - [EMCOR Group, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/emcor-group-inc/company-packet.md)
+  - [Comfort Systems USA, Inc.](/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
+  - [EMCOR Group, Inc.](/extracted/industrial-goods/general-contractors/emcor-group-inc/company-packet.md)
 - HVAC, controls, and thermal systems:
-  - [Trane Technologies plc](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-equipment-components/trane-technologies-plc/company-packet.md)
+  - [Trane Technologies plc](/extracted/industrial-goods/industrial-equipment-components/trane-technologies-plc/company-packet.md)
 - Aerospace and defense:
-  - [Honeywell International Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/aerospace-defense-products-services/honeywell-international-inc/company-packet.md)
-  - [Northrop Grumman Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/aerospace-defense-products-services/northrop-grumman-corp/company-packet.md)
+  - [Honeywell International Inc.](/extracted/industrial-goods/aerospace-defense-products-services/honeywell-international-inc/company-packet.md)
+  - [Northrop Grumman Corp.](/extracted/industrial-goods/aerospace-defense-products-services/northrop-grumman-corp/company-packet.md)
 - Transportation and logistics infrastructure:
-  - [Union Pacific Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/railroads/union-pacific-corporation/company-packet.md)
+  - [Union Pacific Corporation](/extracted/industrial-goods/railroads/union-pacific-corporation/company-packet.md)
 - Environmental infrastructure:
-  - [Waste Management, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/waste-management/waste-management-inc/company-packet.md)
+  - [Waste Management, Inc.](/extracted/industrial-goods/waste-management/waste-management-inc/company-packet.md)
 - Outsourced facilities and technical operations:
-  - [ABM Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
+  - [ABM Industries, Inc.](/extracted/industrial-goods/business-services/abm-industries-inc/company-packet.md)
 - Homebuilding supply chain and prefabrication:
-  - [Builders FirstSource, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-building-materials/builders-firstsource-inc/company-packet.md)
+  - [Builders FirstSource, Inc.](/extracted/industrial-goods/general-building-materials/builders-firstsource-inc/company-packet.md)
 - Residential construction and homebuilding:
-  - [D.R. Horton, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/residential-construction/d-r-horton-inc/company-packet.md)
-  - [Lennar Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/residential-construction/lennar-corporation/company-packet.md)
+  - [D.R. Horton, Inc.](/extracted/industrial-goods/residential-construction/d-r-horton-inc/company-packet.md)
+  - [Lennar Corporation](/extracted/industrial-goods/residential-construction/lennar-corporation/company-packet.md)
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-09`.
 

@@ -134,20 +134,20 @@ This brief is built from:
 
 ## Source pointers
 
-- [UnitedHealth company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-profile.md)
-- [UnitedHealth company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
-- [Pfizer company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/drug-manufacturers-general/pfizer-inc/company-profile.md)
-- [Pfizer company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/drug-manufacturers-general/pfizer-inc/company-packet.md)
-- [Johnson & Johnson company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/drug-manufacturers-general/johnson-johnson/company-profile.md)
-- [Johnson & Johnson company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/drug-manufacturers-general/johnson-johnson/company-packet.md)
-- [HCA Healthcare company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-profile.md)
-- [HCA Healthcare company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
-- [Abbott company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-profile.md)
-- [Abbott company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md)
-- [Thermo Fisher company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-profile.md)
-- [Thermo Fisher company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md)
-- [Brookdale company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-profile.md)
-- [Brookdale company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
+- [UnitedHealth company profile](/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-profile.md)
+- [UnitedHealth company packet](/extracted/healthcare/managed-health-care/unitedhealth-group-inc/company-packet.md)
+- [Pfizer company profile](/extracted/healthcare/drug-manufacturers-general/pfizer-inc/company-profile.md)
+- [Pfizer company packet](/extracted/healthcare/drug-manufacturers-general/pfizer-inc/company-packet.md)
+- [Johnson & Johnson company profile](/extracted/healthcare/drug-manufacturers-general/johnson-johnson/company-profile.md)
+- [Johnson & Johnson company packet](/extracted/healthcare/drug-manufacturers-general/johnson-johnson/company-packet.md)
+- [HCA Healthcare company profile](/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-profile.md)
+- [HCA Healthcare company packet](/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
+- [Abbott company profile](/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-profile.md)
+- [Abbott company packet](/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md)
+- [Thermo Fisher company profile](/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-profile.md)
+- [Thermo Fisher company packet](/extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md)
+- [Brookdale company profile](/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-profile.md)
+- [Brookdale company packet](/extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md)
 
 ## Skeptical Reader Test
 

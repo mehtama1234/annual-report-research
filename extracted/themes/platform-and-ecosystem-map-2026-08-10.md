@@ -12,15 +12,15 @@ They are better understood as ecosystems that widen the same user relationship a
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Platform Ecosystem Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/platform-ecosystem-systems-index-2026-08-10.md)
-- [Recurring Attention Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/recurring-attention-systems-index-2026-08-10.md)
-- [Apple Versus Netflix Versus Roblox Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/apple-vs-netflix-vs-roblox-boundary-comparison-2026-08-10.md)
-- [Netflix Versus Spotify Versus Meta Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
-- [DTC Versus Channel-Control Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
-- [Consumer Cultural Pattern Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
-- [Technology Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/technology-interface-research-index-2026-08-09.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Platform Ecosystem Systems Index](/indexes/platform-ecosystem-systems-index-2026-08-10.md)
+- [Recurring Attention Systems Index](/indexes/recurring-attention-systems-index-2026-08-10.md)
+- [Apple Versus Netflix Versus Roblox Boundary Comparison](/extracted/themes/apple-vs-netflix-vs-roblox-boundary-comparison-2026-08-10.md)
+- [Netflix Versus Spotify Versus Meta Boundary Comparison](/extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [DTC Versus Channel-Control Crosswalk](/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
+- [Consumer Cultural Pattern Map](/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
+- [Technology Interface Research Index](/indexes/technology-interface-research-index-2026-08-09.md)
 
 ## Executive read
 
@@ -326,8 +326,8 @@ They reorganize how consumers move through categories.
 
 ## Next best extensions
 
-- reuse [Platform Ecosystem Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/platform-ecosystem-systems-index-2026-08-10.md) first when the goal is sorting companies by platform type, owned interface, and widening layer
-- reuse [Recurring Attention Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/recurring-attention-systems-index-2026-08-10.md) first when the goal is sorting paid, mixed, ad-funded, infrastructure-widened, and franchise-linked attention systems
-- reuse [Apple Versus Netflix Versus Roblox Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/apple-vs-netflix-vs-roblox-boundary-comparison-2026-08-10.md) first when the question is installed-base lock-in versus paid attention versus creator participation
-- reuse [Netflix Versus Spotify Versus Meta Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md) first when the question is paid cultural access versus mixed discovery monetization versus ad-funded ambient daily attention
+- reuse [Platform Ecosystem Systems Index](/indexes/platform-ecosystem-systems-index-2026-08-10.md) first when the goal is sorting companies by platform type, owned interface, and widening layer
+- reuse [Recurring Attention Systems Index](/indexes/recurring-attention-systems-index-2026-08-10.md) first when the goal is sorting paid, mixed, ad-funded, infrastructure-widened, and franchise-linked attention systems
+- reuse [Apple Versus Netflix Versus Roblox Boundary Comparison](/extracted/themes/apple-vs-netflix-vs-roblox-boundary-comparison-2026-08-10.md) first when the question is installed-base lock-in versus paid attention versus creator participation
+- reuse [Netflix Versus Spotify Versus Meta Boundary Comparison](/extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md) first when the question is paid cultural access versus mixed discovery monetization versus ad-funded ambient daily attention
 - connect this memo to the eventual Hasbro and play-fandom work, since franchise worlds, digital participation, and collectible behavior may form another ecosystem subtype rather than only a product category

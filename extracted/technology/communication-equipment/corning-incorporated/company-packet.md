@@ -9,9 +9,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/communication-equipment/corning-incorporated/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/communication-equipment/corning-incorporated/ir-source-links.md)
-- SEC filings folder: [corning-incorporated](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/communication-equipment/corning-incorporated)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/communication-equipment/corning-incorporated/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/communication-equipment/corning-incorporated/ir-source-links.md)
+- SEC filings folder: [corning-incorporated](/raw/sec/technology/communication-equipment/corning-incorporated)
 
 ## Snapshot
 

@@ -10,54 +10,54 @@ The point is to claim the areas that `AnnualReports` does not organize well and 
 
 Related files:
 
-- [Blind-Spot Lane Handoff](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-handoff-2026-08-10.md)
-- [Blind-Spot Lane Status Audit](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-status-audit-2026-08-10.md)
-- [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Blind-Spot Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-systems-index-2026-08-10.md)
-- [Blind Spot Thread Charter](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-thread-charter-2026-08-10.md)
-- [Blind Spot Expansion Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-expansion-queue-2026-08-10.md)
-- [Consumer-Behavior Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
-- [Infrastructure Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
-- [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
-- [Loyalty Wallet Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/loyalty-wallet-systems-index-2026-08-10.md)
-- [Fandom, Play, and Participation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
-- [Fandom Participation Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/fandom-participation-systems-index-2026-08-10.md)
-- [Local-Demand Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/local-demand-coordination-systems-2026-08-10.md)
-- [Marketplace And Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
-- [Platform And Ecosystem Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
-- [Platform Ecosystem Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/platform-ecosystem-systems-index-2026-08-10.md)
-- [Recurring Attention Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/recurring-attention-systems-index-2026-08-10.md)
-- [Ritual, Occasion, and Stimulation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
-- [Ritual Occasion Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/ritual-occasion-systems-index-2026-08-10.md)
-- [Routine-Use Trust and Everyday-Care Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md)
-- [Routine Use Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/routine-use-systems-index-2026-08-10.md)
-- [Value-Hunt and Bargain-Discovery Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md)
-- [Value Hunt Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/value-hunt-systems-index-2026-08-10.md)
-- [Owned-Demand Identity Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
-- [Beauty, Identity, and Prestige Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md)
-- [Beauty Identity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/beauty-identity-systems-index-2026-08-10.md)
-- [Comfort, Casualization, and Practical-Wellness Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
-- [Comfort Wellness Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/comfort-wellness-systems-index-2026-08-10.md)
-- [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
-- [Behind-The-Shelf Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
-- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
-- [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
-- [Control-Layer Connectivity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
-- [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md)
-- [Hidden Connectivity And Access-Layer Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
-- [Hidden Connectivity Access Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-access-systems-index-2026-08-10.md)
-- [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
-- [Physical Execution And Embedded Workflow Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md)
-- [Physical Execution Embedded Workflow Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md)
-- [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md)
-- [Modern Real-Estate And Infrastructure Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
-- [Modern Real-Estate And Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
-- [Trust Marketplace Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/trust-marketplace-systems-2026-08-10.md)
-- [Thick vs. Thin Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
-- [Mid-Thickness Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/mid-thickness-relationship-systems-2026-08-10.md)
-- [Relationship Thickness Index](/home/manishmehta/ui-projects/annual-report-research/indexes/relationship-thickness-index-2026-08-10.md)
-- [Relationship-System Migration Paths](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/relationship-system-migration-paths-2026-08-10.md)
+- [Blind-Spot Lane Handoff](/notes/blind-spot-handoff-2026-08-10.md)
+- [Blind-Spot Lane Status Audit](/notes/blind-spot-status-audit-2026-08-10.md)
+- [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Blind-Spot Systems Index](/indexes/blind-spot-systems-index-2026-08-10.md)
+- [Blind Spot Thread Charter](/indexes/blind-spot-thread-charter-2026-08-10.md)
+- [Blind Spot Expansion Queue](/indexes/blind-spot-expansion-queue-2026-08-10.md)
+- [Consumer-Behavior Blind-Spot Comparison Core](/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
+- [Infrastructure Blind-Spot Comparison Core](/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
+- [Loyalty, Wallet, and Membership Systems](/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
+- [Loyalty Wallet Systems Index](/indexes/loyalty-wallet-systems-index-2026-08-10.md)
+- [Fandom, Play, and Participation Systems](/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
+- [Fandom Participation Systems Index](/indexes/fandom-participation-systems-index-2026-08-10.md)
+- [Local-Demand Coordination Systems](/extracted/themes/local-demand-coordination-systems-2026-08-10.md)
+- [Marketplace And Coordination Systems](/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
+- [Platform And Ecosystem Map](/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
+- [Platform Ecosystem Systems Index](/indexes/platform-ecosystem-systems-index-2026-08-10.md)
+- [Recurring Attention Systems Index](/indexes/recurring-attention-systems-index-2026-08-10.md)
+- [Ritual, Occasion, and Stimulation Systems](/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
+- [Ritual Occasion Systems Index](/indexes/ritual-occasion-systems-index-2026-08-10.md)
+- [Routine-Use Trust and Everyday-Care Systems](/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md)
+- [Routine Use Systems Index](/indexes/routine-use-systems-index-2026-08-10.md)
+- [Value-Hunt and Bargain-Discovery Systems](/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md)
+- [Value Hunt Systems Index](/indexes/value-hunt-systems-index-2026-08-10.md)
+- [Owned-Demand Identity Systems](/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
+- [Beauty, Identity, and Prestige Systems](/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md)
+- [Beauty Identity Systems Index](/indexes/beauty-identity-systems-index-2026-08-10.md)
+- [Comfort, Casualization, and Practical-Wellness Systems](/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
+- [Comfort Wellness Systems Index](/indexes/comfort-wellness-systems-index-2026-08-10.md)
+- [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- [Behind-The-Shelf Infrastructure Index](/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
+- [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
+- [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
+- [Control-Layer Connectivity Systems Index](/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
+- [Control-Layer Extension Shortlist](/indexes/control-layer-extension-shortlist-2026-08-10.md)
+- [Hidden Connectivity And Access-Layer Systems](/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
+- [Hidden Connectivity Access Systems Index](/indexes/hidden-connectivity-access-systems-index-2026-08-10.md)
+- [Hidden Connectivity Extension Shortlist](/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
+- [Physical Execution And Embedded Workflow Systems](/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md)
+- [Physical Execution Embedded Workflow Systems Index](/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md)
+- [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Crosswalk](/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Index](/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
+- [Trust Marketplace Systems](/extracted/themes/trust-marketplace-systems-2026-08-10.md)
+- [Thick vs. Thin Relationship Systems](/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
+- [Mid-Thickness Relationship Systems](/extracted/themes/mid-thickness-relationship-systems-2026-08-10.md)
+- [Relationship Thickness Index](/indexes/relationship-thickness-index-2026-08-10.md)
+- [Relationship-System Migration Paths](/extracted/themes/relationship-system-migration-paths-2026-08-10.md)
 
 ## Core rule
 
@@ -86,7 +86,7 @@ The current best first pass is now:
 - route hidden-layer and infrastructural names through the `infrastructure` core
 - only then select a narrower lane or direct comparison
 
-The retail lane now also has a concrete three-way subtype split through [Costco Versus Kroger Versus TJX Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/costco-vs-kroger-vs-tjx-boundary-comparison-2026-08-10.md), which separates paid utility membership, replenishment-and-basket-data retail, and treasure-hunt discovery.
+The retail lane now also has a concrete three-way subtype split through [Costco Versus Kroger Versus TJX Boundary Comparison](/extracted/themes/costco-vs-kroger-vs-tjx-boundary-comparison-2026-08-10.md), which separates paid utility membership, replenishment-and-basket-data retail, and treasure-hunt discovery.
 
 The practical question is not "which source industry is still uncovered?"
 
@@ -132,7 +132,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [Fandom, Play, and Participation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md) and [Fandom Participation Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/fandom-participation-systems-index-2026-08-10.md), and the cleanest current direct comparison is now [Hasbro Versus Mattel Versus Roblox Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/hasbro-vs-mattel-vs-roblox-boundary-comparison-2026-08-10.md); next addition remains optional unless another name materially sharpens the collectible-versus-creator-versus-franchise-wallet split
+- the main synthesis work is now explicitly captured in [Fandom, Play, and Participation Systems](/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md) and [Fandom Participation Systems Index](/indexes/fandom-participation-systems-index-2026-08-10.md), and the cleanest current direct comparison is now [Hasbro Versus Mattel Versus Roblox Boundary Comparison](/extracted/themes/hasbro-vs-mattel-vs-roblox-boundary-comparison-2026-08-10.md); next addition remains optional unless another name materially sharpens the collectible-versus-creator-versus-franchise-wallet split
 
 What this lane is trying to explain:
 
@@ -153,7 +153,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main open synthesis work is now explicitly captured in [Beauty, Identity, and Prestige Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md) and [Beauty Identity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/beauty-identity-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens retailer-versus-brand or prestige-versus-access comparison quality
+- the main open synthesis work is now explicitly captured in [Beauty, Identity, and Prestige Systems](/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md) and [Beauty Identity Systems Index](/indexes/beauty-identity-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens retailer-versus-brand or prestige-versus-access comparison quality
 
 What this lane is trying to explain:
 
@@ -181,7 +181,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md) and [Loyalty Wallet Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/loyalty-wallet-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between stored value, fee membership, partner-funded loyalty, and low-friction access conditioning
+- the main synthesis work is now explicitly captured in [Loyalty, Wallet, and Membership Systems](/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md) and [Loyalty Wallet Systems Index](/indexes/loyalty-wallet-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between stored value, fee membership, partner-funded loyalty, and low-friction access conditioning
 
 What this lane is trying to explain:
 
@@ -209,7 +209,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the core cross-sector marketplace synthesis is now established in [Marketplace And Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md), while the narrower trust, local-demand, travel-interface, and delivery-layer subgroup comparisons are now explicitly on file; the next useful move is subtype extension only when another name adds a genuinely different structure rather than another generic platform summary
+- the core cross-sector marketplace synthesis is now established in [Marketplace And Coordination Systems](/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md), while the narrower trust, local-demand, travel-interface, and delivery-layer subgroup comparisons are now explicitly on file; the next useful move is subtype extension only when another name adds a genuinely different structure rather than another generic platform summary
 
 What this lane is trying to explain:
 
@@ -217,13 +217,13 @@ What this lane is trying to explain:
 - how second monetization layers emerge through ads, seller tools, payments, and subscriptions
 - which platforms are thickening into broader operating systems
 
-Inside that broader marketplace lane, the trust-marketplace subgroup is now concretely separated by [Etsy Versus eBay Versus Airbnb Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/etsy-vs-ebay-vs-airbnb-boundary-comparison-2026-08-10.md), which isolates creator trust, recommerce-liquidity trust, and host-guest booking trust.
+Inside that broader marketplace lane, the trust-marketplace subgroup is now concretely separated by [Etsy Versus eBay Versus Airbnb Boundary Comparison](/extracted/themes/etsy-vs-ebay-vs-airbnb-boundary-comparison-2026-08-10.md), which isolates creator trust, recommerce-liquidity trust, and host-guest booking trust.
 
-The travel-interface subgroup is now also concretely separated by [Booking Versus Expedia Versus Airbnb Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/booking-vs-expedia-vs-airbnb-boundary-comparison-2026-08-10.md), which isolates OTA-style orchestration, loyalty-thickened travel intermediation, and decentralized host-guest trust.
+The travel-interface subgroup is now also concretely separated by [Booking Versus Expedia Versus Airbnb Boundary Comparison](/extracted/themes/booking-vs-expedia-vs-airbnb-boundary-comparison-2026-08-10.md), which isolates OTA-style orchestration, loyalty-thickened travel intermediation, and decentralized host-guest trust.
 
-The delivery-layer subgroup is now also concretely separated by [C.H. Robinson Versus UPS Versus DoorDash Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ch-robinson-vs-ups-vs-doordash-boundary-comparison-2026-08-10.md), which isolates freight orchestration, dense parcel-network infrastructure, and local merchant-demand last-mile coordination.
+The delivery-layer subgroup is now also concretely separated by [C.H. Robinson Versus UPS Versus DoorDash Boundary Comparison](/extracted/themes/ch-robinson-vs-ups-vs-doordash-boundary-comparison-2026-08-10.md), which isolates freight orchestration, dense parcel-network infrastructure, and local merchant-demand last-mile coordination.
 
-The recurring-attention subgroup is now also concretely separated by [Netflix Versus Spotify Versus Meta Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md), which isolates paid cultural access, mixed subscription-and-ad discovery, and ad-funded ambient daily attention rather than flattening all three into old internet or media buckets.
+The recurring-attention subgroup is now also concretely separated by [Netflix Versus Spotify Versus Meta Boundary Comparison](/extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md), which isolates paid cultural access, mixed subscription-and-ad discovery, and ad-funded ambient daily attention rather than flattening all three into old internet or media buckets.
 
 ### 5. Recurring attention, cultural distribution, and mixed monetization systems
 
@@ -242,7 +242,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main subgroup screen is now explicitly captured in [Recurring Attention Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/recurring-attention-systems-index-2026-08-10.md), and the cleanest current direct comparison is [Netflix Versus Spotify Versus Meta Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md); the next useful move is extension only if another name materially sharpens paid access, mixed subscription-and-ad discovery, ad-funded ambient attention, device-mediated attention control, or franchise-distribution structure
+- the main subgroup screen is now explicitly captured in [Recurring Attention Systems Index](/indexes/recurring-attention-systems-index-2026-08-10.md), and the cleanest current direct comparison is [Netflix Versus Spotify Versus Meta Boundary Comparison](/extracted/themes/netflix-vs-spotify-vs-meta-boundary-comparison-2026-08-10.md); the next useful move is extension only if another name materially sharpens paid access, mixed subscription-and-ad discovery, ad-funded ambient attention, device-mediated attention control, or franchise-distribution structure
 
 What this lane is trying to explain:
 
@@ -270,7 +270,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [DTC Versus Channel-Control Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md) and [Owned-Demand Channel-Control Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-channel-control-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between direct relationship control, wholesale dependence, distributor dependence, and service-linked owned demand
+- the main synthesis work is now explicitly captured in [DTC Versus Channel-Control Crosswalk](/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md) and [Owned-Demand Channel-Control Index](/indexes/owned-demand-channel-control-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between direct relationship control, wholesale dependence, distributor dependence, and service-linked owned demand
 
 What this lane is trying to explain:
 
@@ -296,7 +296,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [Value-Hunt and Bargain-Discovery Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md) and [Value Hunt Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/value-hunt-systems-index-2026-08-10.md); the next useful move is extension only if another company materially sharpens the split between off-price discovery, closeout opportunism, and convenience-led value
+- the main synthesis work is now explicitly captured in [Value-Hunt and Bargain-Discovery Systems](/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md) and [Value Hunt Systems Index](/indexes/value-hunt-systems-index-2026-08-10.md); the next useful move is extension only if another company materially sharpens the split between off-price discovery, closeout opportunism, and convenience-led value
 
 What this lane is trying to explain:
 
@@ -321,7 +321,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [Comfort, Casualization, and Practical-Wellness Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md) and [Comfort Wellness Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/comfort-wellness-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between mass comfort normalization, premium wellness identity, and care-linked fit confidence
+- the main synthesis work is now explicitly captured in [Comfort, Casualization, and Practical-Wellness Systems](/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md) and [Comfort Wellness Systems Index](/indexes/comfort-wellness-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between mass comfort normalization, premium wellness identity, and care-linked fit confidence
 
 What this lane is trying to explain:
 
@@ -345,7 +345,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [Ritual, Occasion, and Stimulation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md) and [Ritual Occasion Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/ritual-occasion-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the frequency-versus-occasion or stimulation-versus-experience split
+- the main synthesis work is now explicitly captured in [Ritual, Occasion, and Stimulation Systems](/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md) and [Ritual Occasion Systems Index](/indexes/ritual-occasion-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the frequency-versus-occasion or stimulation-versus-experience split
 
 What this lane is trying to explain:
 
@@ -370,7 +370,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [Routine-Use Trust and Everyday-Care Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md) and [Routine Use Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/routine-use-systems-index-2026-08-10.md); the next useful move is extension only if another company materially sharpens the split between staples trust, healthcare-adjacent care, and digital replenishment management
+- the main synthesis work is now explicitly captured in [Routine-Use Trust and Everyday-Care Systems](/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md) and [Routine Use Systems Index](/indexes/routine-use-systems-index-2026-08-10.md); the next useful move is extension only if another company materially sharpens the split between staples trust, healthcare-adjacent care, and digital replenishment management
 
 What this lane is trying to explain:
 
@@ -400,7 +400,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md) and [Behind-The-Shelf Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md); the lane now also has reusable direct comparisons for the broader packaging-versus-cleanup-versus-plant-control split, the waste-network-versus-hazardous-intensity split, the heavier hardware-versus-quality-workflow-versus-service-embedment plant branch, the broad-format-versus-interface-versus-rigid-container packaging branch, and the focused-SBS-versus-broader-corrugated-versus-tighter-North-American-corrugated branch, so the next useful move is extension only if another name materially sharpens one of those subtypes
+- the main synthesis work is now explicitly captured in [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md) and [Behind-The-Shelf Infrastructure Index](/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md); the lane now also has reusable direct comparisons for the broader packaging-versus-cleanup-versus-plant-control split, the waste-network-versus-hazardous-intensity split, the heavier hardware-versus-quality-workflow-versus-service-embedment plant branch, the broad-format-versus-interface-versus-rigid-container packaging branch, and the focused-SBS-versus-broader-corrugated-versus-tighter-North-American-corrugated branch, so the next useful move is extension only if another name materially sharpens one of those subtypes
 
 What this lane is trying to explain:
 
@@ -424,7 +424,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md) and [Control-Layer Connectivity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-connectivity-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between edge control, enterprise trust, optical transport, and upstream optical-input supply
+- the main synthesis work is now explicitly captured in [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md) and [Control-Layer Connectivity Systems Index](/indexes/control-layer-connectivity-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between edge control, enterprise trust, optical transport, and upstream optical-input supply
 
 What this lane is trying to explain:
 
@@ -448,7 +448,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [Hidden Connectivity And Access-Layer Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md) and [Hidden Connectivity Access Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-access-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between tower rent, route-density fiber ownership, satellite-resilience coverage, bandwidth-heavy orbital access, and private-infrastructure ownership
+- the main synthesis work is now explicitly captured in [Hidden Connectivity And Access-Layer Systems](/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md) and [Hidden Connectivity Access Systems Index](/indexes/hidden-connectivity-access-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between tower rent, route-density fiber ownership, satellite-resilience coverage, bandwidth-heavy orbital access, and private-infrastructure ownership
 
 What this lane is trying to explain:
 
@@ -470,7 +470,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [Physical Execution And Embedded Workflow Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md) and [Physical Execution Embedded Workflow Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between access-over-ownership, embedded procurement, branch-density service control, and engineering-heavy MRO support
+- the main synthesis work is now explicitly captured in [Physical Execution And Embedded Workflow Systems](/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md) and [Physical Execution Embedded Workflow Systems Index](/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md); the next useful move is extension only if another name materially sharpens the split between access-over-ownership, embedded procurement, branch-density service control, and engineering-heavy MRO support
 
 What this lane is trying to explain:
 
@@ -501,7 +501,7 @@ Covered anchors already in the archive:
 
 Best next targets for this lane:
 
-- the main synthesis work is now explicitly captured in [Modern Real-Estate And Infrastructure Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md); the next useful move is extension only if another name materially sharpens logistics-property versus datacenter-property versus housing-cash-flow, or ownership versus intermediation versus execution-system comparison quality
+- the main synthesis work is now explicitly captured in [Modern Real-Estate And Infrastructure Crosswalk](/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md); the next useful move is extension only if another name materially sharpens logistics-property versus datacenter-property versus housing-cash-flow, or ownership versus intermediation versus execution-system comparison quality
 
 What this lane is trying to explain:
 
@@ -579,7 +579,7 @@ The strongest next work items for this thread, based on fit and current archive 
 
 1. subtype extension inside the completed marketplace lane across `Amazon`, `eBay`, `Instacart`, `Etsy`, `DoorDash`, `Uber`, `Airbnb`, `Booking`, and `Expedia`, but only when another name adds a genuinely different trust, coordination, travel-interface, or delivery-layer structure
 2. cross-sector infrastructure comparison using existing `Graphic Packaging`, `Waste Management`, `Clearwater Paper`, and `CECO Environmental` coverage
-3. maintain and extend the completed [Value-Hunt and Bargain-Discovery Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md) memo across `TJX`, `Ross`, `Burlington`, `Ollie's`, `Dollar General`, `Dollar Tree`, and `Walmart`
+3. maintain and extend the completed [Value-Hunt and Bargain-Discovery Systems](/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md) memo across `TJX`, `Ross`, `Burlington`, `Ollie's`, `Dollar General`, `Dollar Tree`, and `Walmart`
 4. owned-demand comparison synthesis across `Warby Parker`, `YETI`, `Birkenstock`, `Nike`, `Levi Strauss`, and `Ulta`
 
 Reason:

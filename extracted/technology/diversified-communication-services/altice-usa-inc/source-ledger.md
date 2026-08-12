@@ -5,7 +5,7 @@
 - Company page verified on 2026-08-10:
   - https://www.annualreports.com/Company/altice-usa-inc
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/altice-usa-inc/annualreports-verification.md)
+  - [annualreports-verification.md](/raw/annualreports/technology/diversified-communication-services/altice-usa-inc/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -20,7 +20,7 @@
 - Q2 2026 earnings release page:
   - https://investors.optimum.com/news-events/press-releases/detail/239/optimum-reports-second-quarter-2026-results
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/ir-source-links.md)
+  - [ir-source-links.md](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/ir-source-links.md)
 
 ## SEC / EDGAR references
 
@@ -42,28 +42,28 @@
 ## Saved local artifacts
 
 - AnnualReports archive confirmation:
-  - [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/altice-usa-inc/company-page.html)
+  - [company-page.html](/raw/annualreports/technology/diversified-communication-services/altice-usa-inc/company-page.html)
 - Official IR artifacts:
-  - [investor-home.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/investor-home.html)
-  - [press-releases.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/press-releases.html)
-  - [2025-q4-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2025-q4-results.html)
-  - [2025-q4-results.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2025-q4-results.pdf)
-  - [2025-q4-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2025-q4-presentation.pdf)
-  - [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q1-results.html)
-  - [2026-q1-results.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q1-results.pdf)
-  - [2026-q1-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q1-presentation.pdf)
-  - [2026-q2-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q2-results.html)
-  - [2026-q2-results.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q2-results.pdf)
-  - [2026-q2-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q2-presentation.pdf)
+  - [investor-home.html](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/investor-home.html)
+  - [press-releases.html](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/press-releases.html)
+  - [2025-q4-results.html](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2025-q4-results.html)
+  - [2025-q4-results.pdf](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2025-q4-results.pdf)
+  - [2025-q4-presentation.pdf](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2025-q4-presentation.pdf)
+  - [2026-q1-results.html](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q1-results.html)
+  - [2026-q1-results.pdf](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q1-results.pdf)
+  - [2026-q1-presentation.pdf](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q1-presentation.pdf)
+  - [2026-q2-results.html](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q2-results.html)
+  - [2026-q2-results.pdf](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q2-results.pdf)
+  - [2026-q2-presentation.pdf](/raw/company-ir/technology/diversified-communication-services/altice-usa-inc/2026-q2-presentation.pdf)
 - SEC submission index:
-  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/altice-usa-inc/sec-submissions.json)
+  - [sec-submissions.json](/raw/sec/technology/diversified-communication-services/altice-usa-inc/sec-submissions.json)
 - Annual and quarter filing chain:
-  - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/altice-usa-inc/2025-10k.html)
-  - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/altice-usa-inc/2025-q4-8k.html)
-  - [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/altice-usa-inc/2026-q1-10q.html)
-  - [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/altice-usa-inc/2026-q1-8k.html)
-  - [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/altice-usa-inc/2026-q2-10q.html)
-  - [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/altice-usa-inc/2026-q2-8k.html)
+  - [2025-10k.html](/raw/sec/technology/diversified-communication-services/altice-usa-inc/2025-10k.html)
+  - [2025-q4-8k.html](/raw/sec/technology/diversified-communication-services/altice-usa-inc/2025-q4-8k.html)
+  - [2026-q1-10q.html](/raw/sec/technology/diversified-communication-services/altice-usa-inc/2026-q1-10q.html)
+  - [2026-q1-8k.html](/raw/sec/technology/diversified-communication-services/altice-usa-inc/2026-q1-8k.html)
+  - [2026-q2-10q.html](/raw/sec/technology/diversified-communication-services/altice-usa-inc/2026-q2-10q.html)
+  - [2026-q2-8k.html](/raw/sec/technology/diversified-communication-services/altice-usa-inc/2026-q2-8k.html)
 
 ## Notes on evidence quality
 

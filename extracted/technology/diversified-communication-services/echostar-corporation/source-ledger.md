@@ -5,7 +5,7 @@
 - Company page verified on 2026-08-10:
   - https://www.annualreports.com/Company/echostar-corporation
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/echostar-corporation/annualreports-verification.md)
+  - [annualreports-verification.md](/raw/annualreports/technology/diversified-communication-services/echostar-corporation/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -24,7 +24,7 @@
 - Q2 2026 earnings release PDF:
   - https://ir.echostar.com/node/33846/pdf
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/diversified-communication-services/echostar-corporation/ir-source-links.md)
+  - [ir-source-links.md](/raw/company-ir/technology/diversified-communication-services/echostar-corporation/ir-source-links.md)
 
 ## SEC / EDGAR references
 
@@ -46,16 +46,16 @@
 ## Saved local artifacts
 
 - AnnualReports archive confirmation:
-  - [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/diversified-communication-services/echostar-corporation/company-page.html)
+  - [company-page.html](/raw/annualreports/technology/diversified-communication-services/echostar-corporation/company-page.html)
 - SEC submission index:
-  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/echostar-corporation/sec-submissions.json)
+  - [sec-submissions.json](/raw/sec/technology/diversified-communication-services/echostar-corporation/sec-submissions.json)
 - Annual and quarter filing chain:
-  - [2025-10k.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/echostar-corporation/2025-10k.txt)
-  - [2025-q4-8k.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/echostar-corporation/2025-q4-8k.txt)
-  - [2026-q1-10q.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/echostar-corporation/2026-q1-10q.txt)
-  - [2026-q1-8k.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/echostar-corporation/2026-q1-8k.txt)
-  - [2026-q2-10q.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/echostar-corporation/2026-q2-10q.txt)
-  - [2026-q2-8k.txt](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/diversified-communication-services/echostar-corporation/2026-q2-8k.txt)
+  - [2025-10k.txt](/raw/sec/technology/diversified-communication-services/echostar-corporation/2025-10k.txt)
+  - [2025-q4-8k.txt](/raw/sec/technology/diversified-communication-services/echostar-corporation/2025-q4-8k.txt)
+  - [2026-q1-10q.txt](/raw/sec/technology/diversified-communication-services/echostar-corporation/2026-q1-10q.txt)
+  - [2026-q1-8k.txt](/raw/sec/technology/diversified-communication-services/echostar-corporation/2026-q1-8k.txt)
+  - [2026-q2-10q.txt](/raw/sec/technology/diversified-communication-services/echostar-corporation/2026-q2-10q.txt)
+  - [2026-q2-8k.txt](/raw/sec/technology/diversified-communication-services/echostar-corporation/2026-q2-8k.txt)
 
 ## Notes on evidence quality
 

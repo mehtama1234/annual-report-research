@@ -103,10 +103,10 @@ A skeptical reader should be able to answer:
 
 ## Source pointers
 
-- [Live Nation company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/entertainment-diversified/live-nation-entertainment-inc/company-packet.md)
-- [Hilton company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
-- [American Express company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/credit-services/american-express-company/company-packet.md)
-- [Caesars company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
-- [Services sector brief](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors/services-sector-initial-brief.md)
-- [Financial sector brief](/home/manishmehta/ui-projects/annual-report-research/analysis/sectors/financial-sector-initial-brief.md)
-- [Cultural value trust and automation memo](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cultural-value-trust-and-automation-initial-theme-memo.md)
+- [Live Nation company packet](/extracted/services/entertainment-diversified/live-nation-entertainment-inc/company-packet.md)
+- [Hilton company packet](/extracted/services/lodging/hilton-worldwide-holdings-inc/company-packet.md)
+- [American Express company packet](/extracted/financial/credit-services/american-express-company/company-packet.md)
+- [Caesars company packet](/extracted/services/resorts-casinos/caesars-entertainment-corporation/company-packet.md)
+- [Services sector brief](/analysis/sectors/services-sector-initial-brief.md)
+- [Financial sector brief](/analysis/sectors/financial-sector-initial-brief.md)
+- [Cultural value trust and automation memo](/analysis/themes/cultural-value-trust-and-automation-initial-theme-memo.md)

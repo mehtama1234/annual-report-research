@@ -87,19 +87,19 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/scientific-technical-instruments/teledyne-technologies-inc/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/scientific-technical-instruments/teledyne-technologies-inc/ir-source-links.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/scientific-technical-instruments/teledyne-technologies-inc/2025-annual-report.pdf)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/scientific-technical-instruments/teledyne-technologies-inc/2025-q4-earnings-release.pdf)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q1-earnings-release.pdf)
-- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q2-earnings-release.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2025-q4-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q1-10q.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q1-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q2-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q2-8k.html)
-- [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/sec-submissions.json)
+- [annualreports-verification.md](/raw/annualreports/technology/scientific-technical-instruments/teledyne-technologies-inc/annualreports-verification.md)
+- [ir-source-links.md](/raw/company-ir/technology/scientific-technical-instruments/teledyne-technologies-inc/ir-source-links.md)
+- [2025-annual-report.pdf](/raw/company-ir/technology/scientific-technical-instruments/teledyne-technologies-inc/2025-annual-report.pdf)
+- [2025-q4-earnings-release.pdf](/raw/company-ir/technology/scientific-technical-instruments/teledyne-technologies-inc/2025-q4-earnings-release.pdf)
+- [2026-q1-earnings-release.pdf](/raw/company-ir/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q1-earnings-release.pdf)
+- [2026-q2-earnings-release.pdf](/raw/company-ir/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q2-earnings-release.pdf)
+- [2025-10k.html](/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2025-10k.html)
+- [2025-q4-8k.html](/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2025-q4-8k.html)
+- [2026-q1-10q.html](/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q1-10q.html)
+- [2026-q1-8k.html](/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q1-8k.html)
+- [2026-q2-10q.html](/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q2-10q.html)
+- [2026-q2-8k.html](/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/2026-q2-8k.html)
+- [sec-submissions.json](/raw/sec/technology/scientific-technical-instruments/teledyne-technologies-inc/sec-submissions.json)
 
 ## Working interpretation
 

@@ -58,20 +58,20 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/application-software/electronic-arts-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/application-software/electronic-arts-inc/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/electronic-arts-inc/official-ir-verification.md)
-- [overview.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/electronic-arts-inc/overview.html)
-- [submissions-cik0000712515.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/electronic-arts-inc/submissions-cik0000712515.json)
-- [companyfacts-cik0000712515.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/electronic-arts-inc/companyfacts-cik0000712515.json)
-- [2026-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/electronic-arts-inc/2026-10k.html)
-- [2026-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/electronic-arts-inc/2026-q4-8k.html)
-- [2026-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/electronic-arts-inc/2026-q4-press-release.html)
-- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/electronic-arts-inc/2026-q3-8k.html)
-- [2026-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/electronic-arts-inc/2026-q3-press-release.html)
-- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/electronic-arts-inc/2026-q3-10q.html)
-- [2027-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/electronic-arts-inc/2027-q1-10q.html)
-- [2027-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/electronic-arts-inc/2027-q1-8k.html)
+- [annualreports-verification.md](/raw/annualreports/technology/application-software/electronic-arts-inc/annualreports-verification.md)
+- [company-page.html](/raw/annualreports/technology/application-software/electronic-arts-inc/company-page.html)
+- [official-ir-verification.md](/raw/company-ir/technology/application-software/electronic-arts-inc/official-ir-verification.md)
+- [overview.html](/raw/company-ir/technology/application-software/electronic-arts-inc/overview.html)
+- [submissions-cik0000712515.json](/raw/sec/technology/application-software/electronic-arts-inc/submissions-cik0000712515.json)
+- [companyfacts-cik0000712515.json](/raw/sec/technology/application-software/electronic-arts-inc/companyfacts-cik0000712515.json)
+- [2026-10k.html](/raw/sec/technology/application-software/electronic-arts-inc/2026-10k.html)
+- [2026-q4-8k.html](/raw/sec/technology/application-software/electronic-arts-inc/2026-q4-8k.html)
+- [2026-q4-press-release.html](/raw/sec/technology/application-software/electronic-arts-inc/2026-q4-press-release.html)
+- [2026-q3-8k.html](/raw/sec/technology/application-software/electronic-arts-inc/2026-q3-8k.html)
+- [2026-q3-press-release.html](/raw/sec/technology/application-software/electronic-arts-inc/2026-q3-press-release.html)
+- [2026-q3-10q.html](/raw/sec/technology/application-software/electronic-arts-inc/2026-q3-10q.html)
+- [2027-q1-10q.html](/raw/sec/technology/application-software/electronic-arts-inc/2027-q1-10q.html)
+- [2027-q1-8k.html](/raw/sec/technology/application-software/electronic-arts-inc/2027-q1-8k.html)
 
 ## Working interpretation
 

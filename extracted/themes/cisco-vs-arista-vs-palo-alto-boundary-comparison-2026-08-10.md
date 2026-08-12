@@ -22,10 +22,10 @@ The useful question is what control position each one actually owns:
 
 Related files:
 
-- [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
-- [Control-Layer Connectivity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
-- [Cloudflare Versus Cisco Versus Palo Alto Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/cloudflare-vs-cisco-vs-palo-alto-boundary-comparison-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
+- [Control-Layer Connectivity Systems Index](/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
+- [Cloudflare Versus Cisco Versus Palo Alto Boundary Comparison](/extracted/themes/cloudflare-vs-cisco-vs-palo-alto-boundary-comparison-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
 
 ## Executive read
 

@@ -22,10 +22,10 @@ The useful question is what kind of value behavior each company actually organiz
 
 Related files:
 
-- [Value-Hunt and Bargain-Discovery Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md)
-- [Value Hunt Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/value-hunt-systems-index-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Value-Hunt and Bargain-Discovery Systems](/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md)
+- [Value Hunt Systems Index](/indexes/value-hunt-systems-index-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

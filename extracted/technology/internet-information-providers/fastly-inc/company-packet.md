@@ -11,9 +11,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/internet-information-providers/fastly-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/fastly-inc/ir-source-links.md)
-- SEC filings folder: [fastly-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/fastly-inc)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/internet-information-providers/fastly-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/internet-information-providers/fastly-inc/ir-source-links.md)
+- SEC filings folder: [fastly-inc](/raw/sec/technology/internet-information-providers/fastly-inc)
 
 ## Snapshot
 

@@ -9,21 +9,21 @@ Collection window:
 
 Primary packet set used here:
 
-- [Alphabet Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/alphabet-inc/company-packet.md)
-- [AT&T Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/long-distance-carriers/att-inc/company-packet.md)
-- [Verizon Communications Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/long-distance-carriers/verizon-communications-inc/company-packet.md)
-- [Keysight Technologies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/scientific-technical-instruments/keysight-technologies-inc/company-packet.md)
-- [Cisco Systems, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/cisco-systems-inc/company-packet.md)
-- [Arista Networks, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/networking-communication-devices/arista-networks-inc/company-packet.md)
-- [Palo Alto Networks, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-packet.md)
-- [ServiceNow, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/servicenow-inc/company-packet.md)
-- [KLA Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-equipment-materials/kla-corporation/company-packet.md)
-- [Lam Research Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/semiconductor-equipment-materials/lam-research-corporation/company-packet.md)
+- [Alphabet Inc.](/extracted/technology/internet-information-providers/alphabet-inc/company-packet.md)
+- [AT&T Inc.](/extracted/technology/long-distance-carriers/att-inc/company-packet.md)
+- [Verizon Communications Inc.](/extracted/technology/long-distance-carriers/verizon-communications-inc/company-packet.md)
+- [Keysight Technologies, Inc.](/extracted/technology/scientific-technical-instruments/keysight-technologies-inc/company-packet.md)
+- [Cisco Systems, Inc.](/extracted/technology/communication-equipment/cisco-systems-inc/company-packet.md)
+- [Arista Networks, Inc.](/extracted/technology/networking-communication-devices/arista-networks-inc/company-packet.md)
+- [Palo Alto Networks, Inc.](/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-packet.md)
+- [ServiceNow, Inc.](/extracted/technology/information-technology-services/servicenow-inc/company-packet.md)
+- [KLA Corporation](/extracted/technology/semiconductor-equipment-materials/kla-corporation/company-packet.md)
+- [Lam Research Corporation](/extracted/technology/semiconductor-equipment-materials/lam-research-corporation/company-packet.md)
 
 Supporting lane context:
 
-- [CLI 5 Control Point And Chokepoint Framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
-- [Telecom Utility Economics Versus Control-Point Economics](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-telecom-utility-vs-control-point-economics-2026-08-10.md)
+- [CLI 5 Control Point And Chokepoint Framework](/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
+- [Telecom Utility Economics Versus Control-Point Economics](/analysis/themes/cli-5-telecom-utility-vs-control-point-economics-2026-08-10.md)
 
 ## The question
 

@@ -12,12 +12,12 @@ It does not explain when demand is really owned by a brand or service system, an
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [DTC Versus Channel-Control Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
-- [Owned-Demand Identity Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
-- [Owned-Demand Channel-Control Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-channel-control-index-2026-08-10.md)
-- [Owned-Demand Marketplace Boundary Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-marketplace-boundary-index-2026-08-10.md)
-- [Retail Versus Marketplace Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [DTC Versus Channel-Control Crosswalk](/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
+- [Owned-Demand Identity Systems](/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
+- [Owned-Demand Channel-Control Index](/indexes/owned-demand-channel-control-index-2026-08-10.md)
+- [Owned-Demand Marketplace Boundary Index](/indexes/owned-demand-marketplace-boundary-index-2026-08-10.md)
+- [Retail Versus Marketplace Boundary](/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md)
 
 ## Executive read
 

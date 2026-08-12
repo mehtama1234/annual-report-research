@@ -14,22 +14,22 @@ consumer demand is splitting by recurring behavior system rather than only by pr
 
 This core now rests on six direct comparison sets:
 
-- [Crocs Versus Birkenstock Versus Planet Fitness Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/crocs-vs-birkenstock-vs-planet-fitness-boundary-comparison-2026-08-10.md)
-- [TJX Versus Ollie's Versus Dollar General Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/tjx-vs-ollies-vs-dollar-general-boundary-comparison-2026-08-10.md)
-- [Colgate Versus Kenvue Versus Chewy Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/colgate-vs-kenvue-vs-chewy-boundary-comparison-2026-08-10.md)
-- [Starbucks Versus Monster Versus Brown-Forman Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/starbucks-vs-monster-vs-brown-forman-boundary-comparison-2026-08-10.md)
-- [Ulta Versus e.l.f. Beauty Versus Estee Lauder Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ulta-vs-elf-vs-estee-lauder-boundary-comparison-2026-08-10.md)
-- [Hasbro Versus Mattel Versus Roblox Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/hasbro-vs-mattel-vs-roblox-boundary-comparison-2026-08-10.md)
+- [Crocs Versus Birkenstock Versus Planet Fitness Boundary Comparison](/extracted/themes/crocs-vs-birkenstock-vs-planet-fitness-boundary-comparison-2026-08-10.md)
+- [TJX Versus Ollie's Versus Dollar General Boundary Comparison](/extracted/themes/tjx-vs-ollies-vs-dollar-general-boundary-comparison-2026-08-10.md)
+- [Colgate Versus Kenvue Versus Chewy Boundary Comparison](/extracted/themes/colgate-vs-kenvue-vs-chewy-boundary-comparison-2026-08-10.md)
+- [Starbucks Versus Monster Versus Brown-Forman Boundary Comparison](/extracted/themes/starbucks-vs-monster-vs-brown-forman-boundary-comparison-2026-08-10.md)
+- [Ulta Versus e.l.f. Beauty Versus Estee Lauder Boundary Comparison](/extracted/themes/ulta-vs-elf-vs-estee-lauder-boundary-comparison-2026-08-10.md)
+- [Hasbro Versus Mattel Versus Roblox Boundary Comparison](/extracted/themes/hasbro-vs-mattel-vs-roblox-boundary-comparison-2026-08-10.md)
 
 Related files:
 
-- [Consumer Cultural Pattern Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
-- [Comfort, Casualization, and Practical-Wellness Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
-- [Value-Hunt and Bargain-Discovery Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md)
-- [Routine-Use Trust and Everyday-Care Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md)
-- [Ritual, Occasion, and Stimulation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
-- [Beauty, Identity, and Prestige Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md)
-- [Fandom, Play, and Participation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
+- [Consumer Cultural Pattern Map](/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
+- [Comfort, Casualization, and Practical-Wellness Systems](/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
+- [Value-Hunt and Bargain-Discovery Systems](/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md)
+- [Routine-Use Trust and Everyday-Care Systems](/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md)
+- [Ritual, Occasion, and Stimulation Systems](/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
+- [Beauty, Identity, and Prestige Systems](/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md)
+- [Fandom, Play, and Participation Systems](/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
 
 ## Executive read
 

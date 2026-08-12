@@ -12,13 +12,13 @@ It does not explain when a company is still mainly a retailer with attached mark
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Retail Marketplace Boundary Index](/home/manishmehta/ui-projects/annual-report-research/indexes/retail-marketplace-boundary-index-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
-- [Retail Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/retail-systems-index-2026-08-10.md)
-- [Marketplace And Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
-- [Marketplace Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/marketplace-systems-index-2026-08-10.md)
-- [Owned-Demand Channel-Control Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-channel-control-index-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Retail Marketplace Boundary Index](/indexes/retail-marketplace-boundary-index-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [Retail Systems Index](/indexes/retail-systems-index-2026-08-10.md)
+- [Marketplace And Coordination Systems](/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
+- [Marketplace Systems Index](/indexes/marketplace-systems-index-2026-08-10.md)
+- [Owned-Demand Channel-Control Index](/indexes/owned-demand-channel-control-index-2026-08-10.md)
 
 ## Executive read
 

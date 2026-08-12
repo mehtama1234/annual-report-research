@@ -22,10 +22,10 @@ The useful question is how thick the relationship layer actually is:
 
 Related files:
 
-- [Thick vs. Thin Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
-- [Mid-Thickness Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/mid-thickness-relationship-systems-2026-08-10.md)
-- [Relationship Thickness Index](/home/manishmehta/ui-projects/annual-report-research/indexes/relationship-thickness-index-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Thick vs. Thin Relationship Systems](/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
+- [Mid-Thickness Relationship Systems](/extracted/themes/mid-thickness-relationship-systems-2026-08-10.md)
+- [Relationship Thickness Index](/indexes/relationship-thickness-index-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

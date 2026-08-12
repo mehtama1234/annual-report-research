@@ -22,9 +22,9 @@ The useful question is what kind of recurring platform each one actually organiz
 
 Related files:
 
-- [Platform And Ecosystem Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
-- [Technology Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/technology-interface-research-index-2026-08-09.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Platform And Ecosystem Map](/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
+- [Technology Interface Research Index](/indexes/technology-interface-research-index-2026-08-09.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

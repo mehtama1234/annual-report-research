@@ -11,10 +11,10 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/communication-equipment/viasat-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/communication-equipment/viasat-inc/ir-source-links.md)
-- Annual report PDF: [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/communication-equipment/viasat-inc/2025-annual-report.pdf)
-- SEC filings folder: [viasat-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/communication-equipment/viasat-inc)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/communication-equipment/viasat-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/communication-equipment/viasat-inc/ir-source-links.md)
+- Annual report PDF: [2025-annual-report.pdf](/raw/company-ir/technology/communication-equipment/viasat-inc/2025-annual-report.pdf)
+- SEC filings folder: [viasat-inc](/raw/sec/technology/communication-equipment/viasat-inc)
 
 ## Snapshot
 

@@ -20,10 +20,10 @@ The useful question is which terrestrial hidden-connectivity ownership model eac
 
 Related files:
 
-- [Hidden Connectivity And Access-Layer Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
-- [Hidden Connectivity Access Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-access-systems-index-2026-08-10.md)
-- [American Tower Versus Cogent Versus Viasat Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/american-tower-vs-cogent-vs-viasat-boundary-comparison-2026-08-10.md)
-- [Converged Connectivity And Carrier Economics](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/converged-connectivity-and-carrier-economics-2026-08-10.md)
+- [Hidden Connectivity And Access-Layer Systems](/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
+- [Hidden Connectivity Access Systems Index](/indexes/hidden-connectivity-access-systems-index-2026-08-10.md)
+- [American Tower Versus Cogent Versus Viasat Boundary Comparison](/extracted/themes/american-tower-vs-cogent-vs-viasat-boundary-comparison-2026-08-10.md)
+- [Converged Connectivity And Carrier Economics](/extracted/themes/converged-connectivity-and-carrier-economics-2026-08-10.md)
 
 ## Executive read
 

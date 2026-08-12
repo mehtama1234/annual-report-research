@@ -17,10 +17,10 @@ That distinction matters because the next pass should not waste time rediscoveri
 
 The repo now has committed proof pages for the four main frontier areas:
 
-- [CLI 4 healthcare proof page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md)
-- [CLI 5 connectivity proof page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-connectivity-proof-page-2026-08-11.md)
-- [CLI 6 trust and capital proof page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-6-trust-and-capital-proof-page-2026-08-11.md)
-- [Recreation participation proof page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/recreation-participation-proof-page-2026-08-11.md)
+- [CLI 4 healthcare proof page](/analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md)
+- [CLI 5 connectivity proof page](/analysis/themes/cli-5-connectivity-proof-page-2026-08-11.md)
+- [CLI 6 trust and capital proof page](/analysis/themes/cli-6-trust-and-capital-proof-page-2026-08-11.md)
+- [Recreation participation proof page](/analysis/themes/recreation-participation-proof-page-2026-08-11.md)
 
 That means the biggest remaining problem is no longer absence of lane-level interpretation.
 

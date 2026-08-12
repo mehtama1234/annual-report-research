@@ -275,7 +275,7 @@ Success condition:
 
 Current state:
 
-- materially addressed by [main-wrap-up-checkpoint-handoff-2026-08-11.md](/home/manishmehta/ui-projects/annual-report-research/notes/main-wrap-up-checkpoint-handoff-2026-08-11.md), which now gives `main` one authoritative continuation-ready closeout surface
+- materially addressed by [main-wrap-up-checkpoint-handoff-2026-08-11.md](/notes/main-wrap-up-checkpoint-handoff-2026-08-11.md), which now gives `main` one authoritative continuation-ready closeout surface
 
 ### D. Proof-page upgrades
 
@@ -304,7 +304,7 @@ If the goal is to move the original-goal audit from mostly `partial` to mostly `
 
 Note:
 
-- the active handoff layer is now materially normalized through [main-wrap-up-checkpoint-handoff-2026-08-11.md](/home/manishmehta/ui-projects/annual-report-research/notes/main-wrap-up-checkpoint-handoff-2026-08-11.md)
+- the active handoff layer is now materially normalized through [main-wrap-up-checkpoint-handoff-2026-08-11.md](/notes/main-wrap-up-checkpoint-handoff-2026-08-11.md)
 
 ## Bottom Line
 

@@ -22,10 +22,10 @@ The useful question is what kind of trust-and-repeat system each company actuall
 
 Related files:
 
-- [Routine-Use Trust and Everyday-Care Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md)
-- [Routine Use Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/routine-use-systems-index-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Routine-Use Trust and Everyday-Care Systems](/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md)
+- [Routine Use Systems Index](/indexes/routine-use-systems-index-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

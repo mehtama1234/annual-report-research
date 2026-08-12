@@ -10,20 +10,20 @@ Use it when work needs to be split across threads and the question is not just "
 
 Related files:
 
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
-- [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
-- [annualreports-noncovered-assignment-queue-2026-08-10.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv)
-- [AnnualReports Noncovered Areas Priority Map](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md)
-- [AnnualReports Noncovered Company Claim Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Blind Spot Expansion Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-expansion-queue-2026-08-10.md)
-- [Blind-Spot Coverage Map](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-coverage-map-2026-08-10.md)
-- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
-- [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md)
-- [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
-- [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md)
-- [Consumer-Behavior Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
-- [Infrastructure Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
+- [annualreports-noncovered-assignment-queue-2026-08-10.csv](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv)
+- [AnnualReports Noncovered Areas Priority Map](/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md)
+- [AnnualReports Noncovered Company Claim Roster](/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Blind Spot Expansion Queue](/indexes/blind-spot-expansion-queue-2026-08-10.md)
+- [Blind-Spot Coverage Map](/indexes/blind-spot-coverage-map-2026-08-10.md)
+- [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
+- [Control-Layer Extension Shortlist](/indexes/control-layer-extension-shortlist-2026-08-10.md)
+- [Hidden Connectivity Extension Shortlist](/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
+- [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md)
+- [Consumer-Behavior Blind-Spot Comparison Core](/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
+- [Infrastructure Blind-Spot Comparison Core](/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
 
 ## First routing step
 

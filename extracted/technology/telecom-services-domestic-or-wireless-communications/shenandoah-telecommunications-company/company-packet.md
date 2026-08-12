@@ -9,9 +9,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/ir-source-links.md)
-- SEC filings folder: [shenandoah-telecommunications-company](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company/ir-source-links.md)
+- SEC filings folder: [shenandoah-telecommunications-company](/raw/sec/technology/telecom-services-domestic-or-wireless-communications/shenandoah-telecommunications-company)
 
 ## Snapshot
 

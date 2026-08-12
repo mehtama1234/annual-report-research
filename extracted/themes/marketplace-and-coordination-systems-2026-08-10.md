@@ -12,16 +12,16 @@ They are different coordination systems with different trust structures, frequen
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Local-Demand Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/local-demand-coordination-systems-2026-08-10.md)
-- [Marketplace Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/marketplace-systems-index-2026-08-10.md)
-- [Platform And Ecosystem Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
-- [Retail Versus Marketplace Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
-- [Trust Marketplace Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/trust-marketplace-systems-2026-08-10.md)
-- [Booking Versus Expedia Versus Airbnb Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/booking-vs-expedia-vs-airbnb-boundary-comparison-2026-08-10.md)
-- [DTC Versus Channel-Control Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
-- [Blind Spot Coverage Map](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-coverage-map-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Local-Demand Coordination Systems](/extracted/themes/local-demand-coordination-systems-2026-08-10.md)
+- [Marketplace Systems Index](/indexes/marketplace-systems-index-2026-08-10.md)
+- [Platform And Ecosystem Map](/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
+- [Retail Versus Marketplace Boundary](/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [Trust Marketplace Systems](/extracted/themes/trust-marketplace-systems-2026-08-10.md)
+- [Booking Versus Expedia Versus Airbnb Boundary Comparison](/extracted/themes/booking-vs-expedia-vs-airbnb-boundary-comparison-2026-08-10.md)
+- [DTC Versus Channel-Control Crosswalk](/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
+- [Blind Spot Coverage Map](/indexes/blind-spot-coverage-map-2026-08-10.md)
 
 ## Executive read
 
@@ -338,7 +338,7 @@ It usually cannot tell you whether the real business is:
 
 ## Next best extensions
 
-- maintain and extend the [Marketplace Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/marketplace-systems-index-2026-08-10.md) if the goal is easier sorting by trust structure, repeat frequency, physical embedding, and second monetization layer
+- maintain and extend the [Marketplace Systems Index](/indexes/marketplace-systems-index-2026-08-10.md) if the goal is easier sorting by trust structure, repeat frequency, physical embedding, and second monetization layer
 - reuse the direct `Instacart` versus `DoorDash` versus `Uber` comparison when the question is local-demand coordination
 - reuse the direct `Etsy` versus `eBay` versus `Airbnb` comparison when the question is trust-marketplace structure
 - reuse the direct `Booking` versus `Expedia` versus `Airbnb` comparison when the question is travel-interface structure

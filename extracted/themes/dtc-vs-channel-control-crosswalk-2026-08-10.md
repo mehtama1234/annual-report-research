@@ -10,12 +10,12 @@ when does direct-to-consumer control actually improve the economics, and when do
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Owned-Demand Versus Marketplace-Extended Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md)
-- [Owned-Demand Channel-Control Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-channel-control-index-2026-08-10.md)
-- [Owned-Demand Identity Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
-- [Consumer Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/consumer-interface-research-index-2026-08-09.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Owned-Demand Versus Marketplace-Extended Boundary](/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md)
+- [Owned-Demand Channel-Control Index](/indexes/owned-demand-channel-control-index-2026-08-10.md)
+- [Owned-Demand Identity Systems](/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [Consumer Interface Research Index](/indexes/consumer-interface-research-index-2026-08-09.md)
 
 ## Executive read
 
@@ -208,7 +208,7 @@ It is product-control economics versus traffic-and-interface control economics.
 
 The archive now suggests a more useful hierarchy than the usual direct-versus-wholesale binary.
 
-The [Owned-Demand Versus Marketplace-Extended Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md) memo should be reused when the harder question is no longer direct versus wholesale, but whether the relationship is truly brand-owned or instead widened into interface, discovery, or marketplace control.
+The [Owned-Demand Versus Marketplace-Extended Boundary](/extracted/themes/owned-demand-versus-marketplace-extended-boundary-2026-08-10.md) memo should be reused when the harder question is no longer direct versus wholesale, but whether the relationship is truly brand-owned or instead widened into interface, discovery, or marketplace control.
 
 ### Highest-quality cases
 
@@ -278,6 +278,6 @@ It is also a behavioral and cultural topic.
 
 ## Next best extensions
 
-- maintain and extend the [Owned-Demand Channel-Control Index](/home/manishmehta/ui-projects/annual-report-research/indexes/owned-demand-channel-control-index-2026-08-10.md) if the goal is sorting by DTC mix, partner dependence, marketplace exposure, and relationship type
+- maintain and extend the [Owned-Demand Channel-Control Index](/indexes/owned-demand-channel-control-index-2026-08-10.md) if the goal is sorting by DTC mix, partner dependence, marketplace exposure, and relationship type
 - add a dedicated comparison between `Gap`, `American Eagle`, and `Abercrombie` if the goal is to sharpen the mall-sensitive mid-tier relationship-control ladder
 - connect this memo to a future consumer-behavior map, since channel control and cultural relevance are now clearly linked in the archive rather than separate topics

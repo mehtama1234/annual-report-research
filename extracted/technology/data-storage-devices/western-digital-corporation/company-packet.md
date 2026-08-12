@@ -9,9 +9,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/data-storage-devices/western-digital-corporation/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/data-storage-devices/western-digital-corporation/ir-source-links.md)
-- SEC filings folder: [western-digital-corporation](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/data-storage-devices/western-digital-corporation)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/data-storage-devices/western-digital-corporation/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/data-storage-devices/western-digital-corporation/ir-source-links.md)
+- SEC filings folder: [western-digital-corporation](/raw/sec/technology/data-storage-devices/western-digital-corporation)
 
 ## Snapshot
 

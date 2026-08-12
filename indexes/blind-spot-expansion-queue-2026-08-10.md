@@ -8,35 +8,35 @@ It is intentionally different from ordinary sector packetization work.
 
 Related memo:
 
-- [AnnualReports Noncovered Assignment Queue](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
-- [AnnualReports Noncovered Company Claim Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
-- [AnnualReports Noncovered Areas Priority Map](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Blind-Spot Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-systems-index-2026-08-10.md)
-- [Blind-Spot Thread Charter](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-thread-charter-2026-08-10.md)
-- [Blind-Spot Coverage Map](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-coverage-map-2026-08-10.md)
-- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
-- [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md)
-- [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
-- [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md)
-- [Fandom, Play, and Participation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
-- [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
-- [Loyalty Wallet Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/loyalty-wallet-systems-index-2026-08-10.md)
-- [Local-Demand Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/local-demand-coordination-systems-2026-08-10.md)
-- [Marketplace And Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
-- [Owned-Demand Identity Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
-- [Beauty, Identity, and Prestige Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md)
-- [Comfort, Casualization, and Practical-Wellness Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
-- [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
-- [Routine-Use Trust and Everyday-Care Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md)
-- [Ritual, Occasion, and Stimulation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
-- [Value-Hunt and Bargain-Discovery Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md)
-- [Trust Marketplace Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/trust-marketplace-systems-2026-08-10.md)
-- [Thick vs. Thin Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
-- [Mid-Thickness Relationship Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/mid-thickness-relationship-systems-2026-08-10.md)
-- [Relationship Thickness Index](/home/manishmehta/ui-projects/annual-report-research/indexes/relationship-thickness-index-2026-08-10.md)
-- [Relationship-System Migration Paths](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/relationship-system-migration-paths-2026-08-10.md)
-- [Recurring Attention Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/recurring-attention-systems-index-2026-08-10.md)
+- [AnnualReports Noncovered Assignment Queue](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.md)
+- [AnnualReports Noncovered Company Claim Roster](/indexes/annualreports-noncovered-company-claim-roster-2026-08-10.md)
+- [AnnualReports Noncovered Areas Priority Map](/indexes/annualreports-noncovered-areas-priority-map-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Blind-Spot Systems Index](/indexes/blind-spot-systems-index-2026-08-10.md)
+- [Blind-Spot Thread Charter](/indexes/blind-spot-thread-charter-2026-08-10.md)
+- [Blind-Spot Coverage Map](/indexes/blind-spot-coverage-map-2026-08-10.md)
+- [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
+- [Control-Layer Extension Shortlist](/indexes/control-layer-extension-shortlist-2026-08-10.md)
+- [Hidden Connectivity Extension Shortlist](/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
+- [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md)
+- [Fandom, Play, and Participation Systems](/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
+- [Loyalty, Wallet, and Membership Systems](/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md)
+- [Loyalty Wallet Systems Index](/indexes/loyalty-wallet-systems-index-2026-08-10.md)
+- [Local-Demand Coordination Systems](/extracted/themes/local-demand-coordination-systems-2026-08-10.md)
+- [Marketplace And Coordination Systems](/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
+- [Owned-Demand Identity Systems](/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
+- [Beauty, Identity, and Prestige Systems](/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md)
+- [Comfort, Casualization, and Practical-Wellness Systems](/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md)
+- [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- [Routine-Use Trust and Everyday-Care Systems](/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md)
+- [Ritual, Occasion, and Stimulation Systems](/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md)
+- [Value-Hunt and Bargain-Discovery Systems](/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md)
+- [Trust Marketplace Systems](/extracted/themes/trust-marketplace-systems-2026-08-10.md)
+- [Thick vs. Thin Relationship Systems](/extracted/themes/thick-vs-thin-relationship-systems-2026-08-10.md)
+- [Mid-Thickness Relationship Systems](/extracted/themes/mid-thickness-relationship-systems-2026-08-10.md)
+- [Relationship Thickness Index](/indexes/relationship-thickness-index-2026-08-10.md)
+- [Relationship-System Migration Paths](/extracted/themes/relationship-system-migration-paths-2026-08-10.md)
+- [Recurring Attention Systems Index](/indexes/recurring-attention-systems-index-2026-08-10.md)
 
 ## Purpose
 
@@ -140,18 +140,18 @@ To avoid overlap with the ordinary sector threads, this queue should treat the n
 
 ### Next queue
 
-- maintain and extend the completed [Marketplace And Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md) memo across `Amazon`, `eBay`, `Instacart`, `Etsy`, `DoorDash`, `Uber`, `Airbnb`, `Booking`, and `Expedia` only when another name adds a genuinely different subtype
-- maintain and extend the completed [Local-Demand Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/local-demand-coordination-systems-2026-08-10.md) memo across `DoorDash`, `Uber`, and `Instacart`
-- maintain and extend the completed [Trust Marketplace Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/trust-marketplace-systems-2026-08-10.md) memo across `Etsy`, `eBay`, `Airbnb`, and selected resale adjacencies
+- maintain and extend the completed [Marketplace And Coordination Systems](/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md) memo across `Amazon`, `eBay`, `Instacart`, `Etsy`, `DoorDash`, `Uber`, `Airbnb`, `Booking`, and `Expedia` only when another name adds a genuinely different subtype
+- maintain and extend the completed [Local-Demand Coordination Systems](/extracted/themes/local-demand-coordination-systems-2026-08-10.md) memo across `DoorDash`, `Uber`, and `Instacart`
+- maintain and extend the completed [Trust Marketplace Systems](/extracted/themes/trust-marketplace-systems-2026-08-10.md) memo across `Etsy`, `eBay`, `Airbnb`, and selected resale adjacencies
 - maintain and extend the direct travel-interface comparison across `Booking`, `Expedia`, `Airbnb`, and selected travel adjacencies only if another name adds a genuinely different orchestration, intermediation, or trust structure
 - maintain and extend the direct delivery-layer comparison across `C.H. Robinson`, `UPS`, `DoorDash`, and selected routing or logistics-control adjacencies only if another name adds a genuinely different delivery-layer structure
 - cross-sector infrastructure comparison using existing `Graphic Packaging`, `Waste Management`, `Clearwater Paper`, and `CECO Environmental` coverage
-- maintain and extend the completed [Beauty, Identity, and Prestige Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md) memo across `Ulta`, `e.l.f. Beauty`, `Coty`, and `The Estee Lauder Companies`
-- maintain and extend the completed [Ritual, Occasion, and Stimulation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md) memo across `Starbucks`, `Monster Beverage`, `Dutch Bros`, `Brown-Forman`, and `Live Nation`
-- maintain and extend the completed [Value-Hunt and Bargain-Discovery Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md) memo across `TJX`, `Ross`, `Burlington`, `Ollie's`, `Dollar General`, `Dollar Tree`, and `Walmart`
-- maintain and extend the completed [Fandom, Play, and Participation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md) memo across `Hasbro`, `Mattel`, `Roblox`, `Take-Two`, and `Electronic Arts`
-- maintain and extend the completed [Routine-Use Trust and Everyday-Care Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md) memo across `Kenvue`, `P&G`, `Kimberly-Clark`, `Colgate`, `Church & Dwight`, and `Chewy`
-- maintain and extend the completed [Comfort, Casualization, and Practical-Wellness Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md) memo across `Crocs`, `Deckers`, `Birkenstock`, `lululemon`, `Planet Fitness`, and `Warby Parker`
+- maintain and extend the completed [Beauty, Identity, and Prestige Systems](/extracted/themes/beauty-identity-and-prestige-systems-2026-08-10.md) memo across `Ulta`, `e.l.f. Beauty`, `Coty`, and `The Estee Lauder Companies`
+- maintain and extend the completed [Ritual, Occasion, and Stimulation Systems](/extracted/themes/ritual-occasion-and-stimulation-systems-2026-08-10.md) memo across `Starbucks`, `Monster Beverage`, `Dutch Bros`, `Brown-Forman`, and `Live Nation`
+- maintain and extend the completed [Value-Hunt and Bargain-Discovery Systems](/extracted/themes/value-hunt-and-bargain-discovery-systems-2026-08-10.md) memo across `TJX`, `Ross`, `Burlington`, `Ollie's`, `Dollar General`, `Dollar Tree`, and `Walmart`
+- maintain and extend the completed [Fandom, Play, and Participation Systems](/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md) memo across `Hasbro`, `Mattel`, `Roblox`, `Take-Two`, and `Electronic Arts`
+- maintain and extend the completed [Routine-Use Trust and Everyday-Care Systems](/extracted/themes/routine-use-trust-and-everyday-care-systems-2026-08-10.md) memo across `Kenvue`, `P&G`, `Kimberly-Clark`, `Colgate`, `Church & Dwight`, and `Chewy`
+- maintain and extend the completed [Comfort, Casualization, and Practical-Wellness Systems](/extracted/themes/comfort-casualization-and-practical-wellness-systems-2026-08-10.md) memo across `Crocs`, `Deckers`, `Birkenstock`, `lululemon`, `Planet Fitness`, and `Warby Parker`
 - maintain and extend the recurring-attention comparison across `Netflix`, `Spotify`, `Meta`, `Alphabet`, `Disney`, and `Snap` only if another name adds a genuinely different subscription, advertising, creator, device-ecosystem, or franchise-distribution structure
 - retail-system comparison work using `Target`, `TJX`, `Walmart`, `Costco`, and `Amazon`
 - owned-demand comparison work using `Warby Parker`, `YETI`, `Birkenstock`, `Nike`, `Levi Strauss`, and `Ulta`
@@ -185,7 +185,7 @@ Why this matters:
 
 Current status:
 
-- the main synthesis work is now in place across [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md) and [Behind-The-Shelf Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
+- the main synthesis work is now in place across [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md) and [Behind-The-Shelf Infrastructure Index](/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
 
 Core anchor names already in the repo:
 
@@ -216,7 +216,7 @@ Why this matters:
 
 Current status:
 
-- the main synthesis work is now in place at [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md) and [Control-Layer Connectivity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
+- the main synthesis work is now in place at [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md) and [Control-Layer Connectivity Systems Index](/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
 
 Core anchor names already in the repo:
 
@@ -239,7 +239,7 @@ Why this matters:
 
 Current status:
 
-- the main synthesis work is now in place at [Consumer Cultural Pattern Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
+- the main synthesis work is now in place at [Consumer Cultural Pattern Map](/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
 
 Priority theme lanes:
 
@@ -300,8 +300,8 @@ Why this matters:
 
 Current status:
 
-- the main synthesis work is now in place at [Platform And Ecosystem Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
-- the attention-specific subtype split is now preserved separately in [Recurring Attention Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/recurring-attention-systems-index-2026-08-10.md)
+- the main synthesis work is now in place at [Platform And Ecosystem Map](/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
+- the attention-specific subtype split is now preserved separately in [Recurring Attention Systems Index](/indexes/recurring-attention-systems-index-2026-08-10.md)
 
 Core anchor names already in the repo:
 
@@ -339,7 +339,7 @@ Core anchor names already in the repo:
 
 Current status:
 
-- the main synthesis work is now in place at [Loyalty, Wallet, and Membership Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md) and [Loyalty Wallet Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/loyalty-wallet-systems-index-2026-08-10.md)
+- the main synthesis work is now in place at [Loyalty, Wallet, and Membership Systems](/extracted/themes/loyalty-wallet-and-membership-systems-2026-08-10.md) and [Loyalty Wallet Systems Index](/indexes/loyalty-wallet-systems-index-2026-08-10.md)
 
 Next-step implication:
 
@@ -354,7 +354,7 @@ Why this matters:
 
 Current status:
 
-- the main synthesis work is now in place at [Modern Real-Estate And Infrastructure Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
+- the main synthesis work is now in place at [Modern Real-Estate And Infrastructure Crosswalk](/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
 
 Core anchor names already in the repo:
 
@@ -386,7 +386,7 @@ Why this matters:
 
 Current status:
 
-- the main synthesis work is now in place at [Blind-Spot Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-systems-index-2026-08-10.md) and [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- the main synthesis work is now in place at [Blind-Spot Systems Index](/indexes/blind-spot-systems-index-2026-08-10.md) and [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
 
 Likely examples:
 

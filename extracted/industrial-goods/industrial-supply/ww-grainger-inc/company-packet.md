@@ -90,11 +90,11 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-supply/ww-grainger-inc/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-supply/ww-grainger-inc/source-ledger.md)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/ww-grainger-inc/2025-10k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/ww-grainger-inc/2026-q1-10q.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/ww-grainger-inc/2026-q2-10q.html)
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/industrial-goods/industrial-supply/ww-grainger-inc/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrial-goods/industrial-supply/ww-grainger-inc/ir-source-links.md)
-- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrial-goods/industrial-supply/ww-grainger-inc/sec-source-links.md)
+- [company-profile.md](/extracted/industrial-goods/industrial-supply/ww-grainger-inc/company-profile.md)
+- [source-ledger.md](/extracted/industrial-goods/industrial-supply/ww-grainger-inc/source-ledger.md)
+- [2025-10k.html](/raw/sec/industrial-goods/industrial-supply/ww-grainger-inc/2025-10k.html)
+- [2026-q1-10q.html](/raw/sec/industrial-goods/industrial-supply/ww-grainger-inc/2026-q1-10q.html)
+- [2026-q2-10q.html](/raw/sec/industrial-goods/industrial-supply/ww-grainger-inc/2026-q2-10q.html)
+- [annualreports-verification.md](/raw/annualreports/industrial-goods/industrial-supply/ww-grainger-inc/annualreports-verification.md)
+- [ir-source-links.md](/raw/company-ir/industrial-goods/industrial-supply/ww-grainger-inc/ir-source-links.md)
+- [sec-source-links.md](/raw/sec/industrial-goods/industrial-supply/ww-grainger-inc/sec-source-links.md)

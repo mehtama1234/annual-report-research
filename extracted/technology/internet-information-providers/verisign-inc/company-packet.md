@@ -9,9 +9,9 @@
 
 ## Source map
 
-- AnnualReports verification: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/internet-information-providers/verisign-inc/annualreports-verification.md)
-- Official IR source links: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/verisign-inc/ir-source-links.md)
-- SEC filings folder: [verisign-inc](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/verisign-inc)
+- AnnualReports verification: [annualreports-verification.md](/raw/annualreports/technology/internet-information-providers/verisign-inc/annualreports-verification.md)
+- Official IR source links: [ir-source-links.md](/raw/company-ir/technology/internet-information-providers/verisign-inc/ir-source-links.md)
+- SEC filings folder: [verisign-inc](/raw/sec/technology/internet-information-providers/verisign-inc)
 
 ## Snapshot
 

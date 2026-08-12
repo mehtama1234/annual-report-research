@@ -25,22 +25,22 @@ The useful comparison is which layer of the modern network stack each company co
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Control-Layer Connectivity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
-- [Platform And Ecosystem Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
-- [Connectivity Infrastructure Physical-Layer Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
-- [Blind-Spot Coverage Map](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-coverage-map-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Control-Layer Connectivity Systems Index](/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
+- [Platform And Ecosystem Map](/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
+- [Connectivity Infrastructure Physical-Layer Map](/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
+- [Blind-Spot Coverage Map](/indexes/blind-spot-coverage-map-2026-08-10.md)
 
 Primary anchors:
 
-- [Cloudflare, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/cloudflare-inc/company-packet.md)
-- [Akamai Technologies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/akamai-technologies-inc/company-packet.md)
-- [Cisco Systems Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/cisco-systems-inc/company-packet.md)
-- [Arista Networks, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/networking-communication-devices/arista-networks-inc/company-packet.md)
-- [Palo Alto Networks, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-packet.md)
-- [Ciena Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/ciena-corporation/company-packet.md)
-- [Vistance Networks, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/networking-communication-devices/commscope-holding-company-inc/company-packet.md)
-- [Corning Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/corning-incorporated/company-packet.md)
+- [Cloudflare, Inc.](/extracted/technology/internet-information-providers/cloudflare-inc/company-packet.md)
+- [Akamai Technologies, Inc.](/extracted/technology/internet-information-providers/akamai-technologies-inc/company-packet.md)
+- [Cisco Systems Inc.](/extracted/technology/communication-equipment/cisco-systems-inc/company-packet.md)
+- [Arista Networks, Inc.](/extracted/technology/networking-communication-devices/arista-networks-inc/company-packet.md)
+- [Palo Alto Networks, Inc.](/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-packet.md)
+- [Ciena Corporation](/extracted/technology/communication-equipment/ciena-corporation/company-packet.md)
+- [Vistance Networks, Inc.](/extracted/technology/networking-communication-devices/commscope-holding-company-inc/company-packet.md)
+- [Corning Incorporated](/extracted/technology/communication-equipment/corning-incorporated/company-packet.md)
 
 ## Executive read
 
@@ -171,9 +171,9 @@ That is why this lane belongs to the blind-spot thread.
 ## Best next moves
 
 1. Reuse this memo first when another thread treats these names as plain software, plain hardware, or plain networking categories.
-2. Reuse [Cloudflare Versus Akamai Versus Palo Alto Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/cloudflare-vs-akamai-vs-palo-alto-boundary-comparison-2026-08-10.md) when the question is edge-native control versus delivery-to-security transition versus enterprise-trust governance.
-3. Reuse [Cisco Versus Arista Versus Palo Alto Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/cisco-vs-arista-vs-palo-alto-boundary-comparison-2026-08-10.md) when the question is installed-base enterprise networking versus architecture-specialist AI networking versus trust governance.
-4. Reuse [Corning Versus CommScope Versus Ciena Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/corning-vs-commscope-vs-ciena-boundary-comparison-2026-08-10.md) when the question is upstream optical input versus downstream connectivity equipment versus active transport systems.
+2. Reuse [Cloudflare Versus Akamai Versus Palo Alto Boundary Comparison](/extracted/themes/cloudflare-vs-akamai-vs-palo-alto-boundary-comparison-2026-08-10.md) when the question is edge-native control versus delivery-to-security transition versus enterprise-trust governance.
+3. Reuse [Cisco Versus Arista Versus Palo Alto Boundary Comparison](/extracted/themes/cisco-vs-arista-vs-palo-alto-boundary-comparison-2026-08-10.md) when the question is installed-base enterprise networking versus architecture-specialist AI networking versus trust governance.
+4. Reuse [Corning Versus CommScope Versus Ciena Boundary Comparison](/extracted/themes/corning-vs-commscope-vs-ciena-boundary-comparison-2026-08-10.md) when the question is upstream optical input versus downstream connectivity equipment versus active transport systems.
 5. Extend the lane with `SBA Communications` and `Crown Castle` when the question moves from transport and control into access-layer physical connectivity.
 6. Extend the lane only if another name materially sharpens the split between edge control, enterprise trust, transport, or optical-content supply.
-7. Reuse [Connectivity Infrastructure Physical-Layer Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md) when the question broadens from control and transport into labor, utilities, cooling, and field execution.
+7. Reuse [Connectivity Infrastructure Physical-Layer Map](/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md) when the question broadens from control and transport into labor, utilities, cooling, and field execution.

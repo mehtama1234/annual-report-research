@@ -9,20 +9,20 @@ Collection window:
 
 Primary packet set used here:
 
-- [MetLife, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/life-insurance/metlife-inc/company-packet.md)
-- [Annaly Capital Management, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-mortgage/annaly-capital-management-inc/company-packet.md)
-- [Simon Property Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-retail/simon-property-group-inc/company-packet.md)
-- [Realty Income Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-retail/realty-income-corp/company-packet.md)
-- [Markel Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/property-casualty-insurance/markel-group-inc/company-packet.md)
-- [Berkshire Hathaway Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/conglomerates/berkshire-hathaway-inc/company-packet.md)
-- [Brookfield Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/brookfield-corporation/company-packet.md)
-- [Aon plc](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/insurance-brokers/aon-plc/company-packet.md)
+- [MetLife, Inc.](/extracted/financial/life-insurance/metlife-inc/company-packet.md)
+- [Annaly Capital Management, Inc.](/extracted/real-estate/reit-mortgage/annaly-capital-management-inc/company-packet.md)
+- [Simon Property Group Inc.](/extracted/real-estate/reit-retail/simon-property-group-inc/company-packet.md)
+- [Realty Income Corp.](/extracted/real-estate/reit-retail/realty-income-corp/company-packet.md)
+- [Markel Group Inc.](/extracted/financial/property-casualty-insurance/markel-group-inc/company-packet.md)
+- [Berkshire Hathaway Inc.](/extracted/financial/conglomerates/berkshire-hathaway-inc/company-packet.md)
+- [Brookfield Corporation](/extracted/financial/asset-management/brookfield-corporation/company-packet.md)
+- [Aon plc](/extracted/financial/insurance-brokers/aon-plc/company-packet.md)
 
 Supporting lane context:
 
-- [CLI 6 Trust And Capital Proof Page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-6-trust-and-capital-proof-page-2026-08-11.md)
-- [CLI 6 Trust Intermediation Framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-6-trust-intermediation-framework-2026-08-10.md)
-- [Financial Sector Synthesis](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/financial-sector-synthesis-2026-08-09.md)
+- [CLI 6 Trust And Capital Proof Page](/analysis/themes/cli-6-trust-and-capital-proof-page-2026-08-11.md)
+- [CLI 6 Trust Intermediation Framework](/analysis/themes/cli-6-trust-intermediation-framework-2026-08-10.md)
+- [Financial Sector Synthesis](/extracted/financial/financial-sector-synthesis-2026-08-09.md)
 
 ## The question
 
@@ -236,13 +236,13 @@ In CLI 6, the quality of a balance-sheet-heavy model depends on whether the bala
 
 ## Exact next targets to deepen this proof
 
-1. [Loews Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/conglomerates/loews-corporation/company-packet.md)
+1. [Loews Corporation](/extracted/financial/conglomerates/loews-corporation/company-packet.md)
 Reason: test a second conglomerate allocator against Berkshire’s much larger permanent-capital model.
 
-2. [Chubb Limited](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/property-casualty-insurance/chubb-limited/company-packet.md)
+2. [Chubb Limited](/extracted/financial/property-casualty-insurance/chubb-limited/company-packet.md)
 Reason: test whether the cleaner underwriting-and-float case extends beyond Markel.
 
-3. [Apollo Global Management, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/apollo-global-management-inc/company-packet.md)
+3. [Apollo Global Management, Inc.](/extracted/financial/asset-management/apollo-global-management-inc/company-packet.md)
 Reason: deepen the insurance-linked capital-architecture comparison against Brookfield and the hybrid insurer models.
 
 4. A third pure life-insurance flagship only if broader closure becomes more valuable than another lane gap.

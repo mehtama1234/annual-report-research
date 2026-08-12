@@ -12,16 +12,16 @@ Use this file when the question is:
 
 Related files:
 
-- [AnnualReports Browse-Tree Blind-Spot Mandate](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
-- [AnnualReports Noncovered No-Overlap Matrix](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
-- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
-- [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md)
-- [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
-- [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md)
-- [Blind-Spot Candidate Shortlist](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-candidate-shortlist-2026-08-10.md)
-- [Blind-Spot Next Actions](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-next-actions-2026-08-10.md)
+- [AnnualReports Browse-Tree Blind-Spot Mandate](/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
+- [AnnualReports Noncovered No-Overlap Matrix](/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
+- [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
+- [Control-Layer Extension Shortlist](/indexes/control-layer-extension-shortlist-2026-08-10.md)
+- [Hidden Connectivity Extension Shortlist](/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
+- [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md)
+- [Blind-Spot Candidate Shortlist](/notes/blind-spot-candidate-shortlist-2026-08-10.md)
+- [Blind-Spot Next Actions](/notes/blind-spot-next-actions-2026-08-10.md)
 
 ## The core answer
 
@@ -238,4 +238,4 @@ It also conditionally owns:
 - relationship ownership
 - cross-sector operating systems
 
-For the cleanest direct statement of that rule, use [AnnualReports Browse-Tree Blind-Spot Mandate](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md).
+For the cleanest direct statement of that rule, use [AnnualReports Browse-Tree Blind-Spot Mandate](/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md).

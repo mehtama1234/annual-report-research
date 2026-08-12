@@ -87,13 +87,13 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrials/pollution-treatment-controls/ceco-environmental-corp/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrials/pollution-treatment-controls/ceco-environmental-corp/source-ledger.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2025-annual-report.pdf)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2025-q4-earnings-release.pdf)
-- [2025-q4-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2025-q4-presentation.pdf)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2026-q1-earnings-release.pdf)
-- [2026-q1-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2026-q1-presentation.pdf)
-- [2026-q2-rescheduling-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2026-q2-rescheduling-release.html)
-- [2026-q2-event-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2026-q2-event-page.html)
-- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/industrials/pollution-treatment-controls/ceco-environmental-corp/sec-source-links.md)
+- [company-profile.md](/extracted/industrials/pollution-treatment-controls/ceco-environmental-corp/company-profile.md)
+- [source-ledger.md](/extracted/industrials/pollution-treatment-controls/ceco-environmental-corp/source-ledger.md)
+- [2025-annual-report.pdf](/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2025-annual-report.pdf)
+- [2025-q4-earnings-release.pdf](/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2025-q4-earnings-release.pdf)
+- [2025-q4-presentation.pdf](/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2025-q4-presentation.pdf)
+- [2026-q1-earnings-release.pdf](/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2026-q1-earnings-release.pdf)
+- [2026-q1-presentation.pdf](/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2026-q1-presentation.pdf)
+- [2026-q2-rescheduling-release.html](/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2026-q2-rescheduling-release.html)
+- [2026-q2-event-page.html](/raw/company-ir/industrials/pollution-treatment-controls/ceco-environmental-corp/2026-q2-event-page.html)
+- [sec-source-links.md](/raw/sec/industrials/pollution-treatment-controls/ceco-environmental-corp/sec-source-links.md)

@@ -56,20 +56,20 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/apparel-stores/tjx-companies-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/apparel-stores/tjx-companies-inc/official-ir-verification.md)
-- [overview.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/apparel-stores/tjx-companies-inc/overview.html)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/tjx-companies-inc/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/tjx-companies-inc/2025-10k.html)
-- [2025-q3-fy26-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/apparel-stores/tjx-companies-inc/2025-q3-fy26-results.html)
-- [2025-q3-fy26-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/tjx-companies-inc/2025-q3-fy26-8k.html)
-- [2025-q3-fy26-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/tjx-companies-inc/2025-q3-fy26-10q.html)
-- [2026-q4-fy26-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/apparel-stores/tjx-companies-inc/2026-q4-fy26-results.html)
-- [2025-q4-fy26-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/tjx-companies-inc/2025-q4-fy26-8k.html)
-- [2026-q1-fy27-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/apparel-stores/tjx-companies-inc/2026-q1-fy27-results.html)
-- [2026-q1-fy27-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/tjx-companies-inc/2026-q1-fy27-8k.html)
-- [2026-q1-fy27-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/apparel-stores/tjx-companies-inc/2026-q1-fy27-10q.html)
-- [2026-q2-fy27-report-date.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/apparel-stores/tjx-companies-inc/2026-q2-fy27-report-date.html)
+- [annualreports-verification.md](/raw/annualreports/services/apparel-stores/tjx-companies-inc/annualreports-verification.md)
+- [official-ir-verification.md](/raw/company-ir/services/apparel-stores/tjx-companies-inc/official-ir-verification.md)
+- [overview.html](/raw/company-ir/services/apparel-stores/tjx-companies-inc/overview.html)
+- [2025-annual-report.pdf](/raw/sec/services/apparel-stores/tjx-companies-inc/2025-annual-report.pdf)
+- [2025-10k.html](/raw/sec/services/apparel-stores/tjx-companies-inc/2025-10k.html)
+- [2025-q3-fy26-results.html](/raw/company-ir/services/apparel-stores/tjx-companies-inc/2025-q3-fy26-results.html)
+- [2025-q3-fy26-8k.html](/raw/sec/services/apparel-stores/tjx-companies-inc/2025-q3-fy26-8k.html)
+- [2025-q3-fy26-10q.html](/raw/sec/services/apparel-stores/tjx-companies-inc/2025-q3-fy26-10q.html)
+- [2026-q4-fy26-results.html](/raw/company-ir/services/apparel-stores/tjx-companies-inc/2026-q4-fy26-results.html)
+- [2025-q4-fy26-8k.html](/raw/sec/services/apparel-stores/tjx-companies-inc/2025-q4-fy26-8k.html)
+- [2026-q1-fy27-results.html](/raw/company-ir/services/apparel-stores/tjx-companies-inc/2026-q1-fy27-results.html)
+- [2026-q1-fy27-8k.html](/raw/sec/services/apparel-stores/tjx-companies-inc/2026-q1-fy27-8k.html)
+- [2026-q1-fy27-10q.html](/raw/sec/services/apparel-stores/tjx-companies-inc/2026-q1-fy27-10q.html)
+- [2026-q2-fy27-report-date.html](/raw/company-ir/services/apparel-stores/tjx-companies-inc/2026-q2-fy27-report-date.html)
 
 ## Working interpretation
 

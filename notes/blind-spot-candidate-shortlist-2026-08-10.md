@@ -193,7 +193,7 @@ Best use:
 
 - extend the behind-the-shelf and execution-system interpretation
 - compare access models, rental models, embedded distribution-control models, broad infrastructure-channel coordination, engineering-heavy uptime support, and civic-failure-response channel density
-- reuse the current `United Rentals` / `Fastenal` / `Ferguson` split and the live [WESCO Versus Applied Industrial Technologies Versus Core & Main Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/wesco-vs-applied-vs-core-main-boundary-comparison-2026-08-10.md) before taking another name
+- reuse the current `United Rentals` / `Fastenal` / `Ferguson` split and the live [WESCO Versus Applied Industrial Technologies Versus Core & Main Boundary Comparison](/extracted/themes/wesco-vs-applied-vs-core-main-boundary-comparison-2026-08-10.md) before taking another name
 
 ## Priority order for this thread
 

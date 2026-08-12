@@ -10,18 +10,18 @@ the physical stack that turns AI, cloud, and data-center demand into owned campu
 
 Related files:
 
-- [Modern Real-Estate And Infrastructure Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
-- [Modern Real-Estate And Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
-- [Connectivity Infrastructure Physical-Layer Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Crosswalk](/extracted/themes/modern-real-estate-and-infrastructure-crosswalk-2026-08-10.md)
+- [Modern Real-Estate And Infrastructure Index](/indexes/modern-real-estate-infrastructure-index-2026-08-10.md)
+- [Connectivity Infrastructure Physical-Layer Map](/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
 
 Primary anchors:
 
-- [Equinix Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-specialty-real-estate/equinix-inc/company-packet.md)
-- [Digital Realty Trust Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-packet.md)
-- [Vertiv Holdings Co](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-electrical-equipment/vertiv-holdings-co/company-packet.md)
-- [Quanta Services, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/quanta-services-inc/company-packet.md)
-- [EMCOR Group, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/emcor-group-inc/company-packet.md)
-- [Dycom Industries Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md)
+- [Equinix Inc.](/extracted/real-estate/reit-specialty-real-estate/equinix-inc/company-packet.md)
+- [Digital Realty Trust Inc.](/extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-packet.md)
+- [Vertiv Holdings Co](/extracted/industrial-goods/industrial-electrical-equipment/vertiv-holdings-co/company-packet.md)
+- [Quanta Services, Inc.](/extracted/industrial-goods/general-contractors/quanta-services-inc/company-packet.md)
+- [EMCOR Group, Inc.](/extracted/industrial-goods/general-contractors/emcor-group-inc/company-packet.md)
+- [Dycom Industries Inc.](/extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md)
 
 ## Executive read
 

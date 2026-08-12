@@ -31,11 +31,11 @@ The question is:
 
 Related files:
 
-- [Behind-The-Shelf Consumer Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
-- [Graphic Packaging Versus Clearwater Versus WM Versus CECO Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/graphic-packaging-vs-clearwater-vs-wm-vs-ceco-boundary-comparison-2026-08-10.md)
-- [Behind-The-Shelf Infrastructure Index](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
-- [AnnualReports Noncovered No-Overlap Matrix](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
-- [Blind-Spot Next Actions](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-next-actions-2026-08-10.md)
+- [Behind-The-Shelf Consumer Infrastructure Systems](/extracted/themes/behind-the-shelf-consumer-infrastructure-systems-2026-08-10.md)
+- [Graphic Packaging Versus Clearwater Versus WM Versus CECO Boundary Comparison](/extracted/themes/graphic-packaging-vs-clearwater-vs-wm-vs-ceco-boundary-comparison-2026-08-10.md)
+- [Behind-The-Shelf Infrastructure Index](/indexes/behind-the-shelf-infrastructure-index-2026-08-10.md)
+- [AnnualReports Noncovered No-Overlap Matrix](/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
+- [Blind-Spot Next Actions](/notes/blind-spot-next-actions-2026-08-10.md)
 
 ## Current lane map
 
@@ -72,11 +72,11 @@ Why this subsection is now largely covered:
 Current evidence status:
 
 - `Sonoco` is no longer only a candidate. It is now packetized in the repo as the first broader packaging-format and container-control extension:
-  [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/sonoco-products-co/company-packet.md)
+  [company-packet.md](/extracted/consumer-goods/packaging-containers/sonoco-products-co/company-packet.md)
 - `AptarGroup` is no longer only a candidate. It is now packetized in the repo as the first packaging-interface and dispensing-component control extension:
-  [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/aptar-group-inc/company-packet.md)
+  [company-packet.md](/extracted/consumer-goods/packaging-containers/aptar-group-inc/company-packet.md)
 - `Silgan` is no longer only a candidate. It is now packetized in the repo as the rigid-container and closure-control extension:
-  [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/silgan-holdings-inc/company-packet.md)
+  [company-packet.md](/extracted/consumer-goods/packaging-containers/silgan-holdings-inc/company-packet.md)
 
 Best use:
 
@@ -97,9 +97,9 @@ Why these are useful:
 Current evidence status:
 
 - `International Paper` is no longer only a candidate. It is now packetized in the repo as the first corrugated and containerboard throughput extension beyond `Clearwater Paper`:
-  [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/paper-paper-products/international-paper-co/company-packet.md)
+  [company-packet.md](/extracted/basic-materials/paper-paper-products/international-paper-co/company-packet.md)
 - `Packaging Corporation of America` is no longer only a candidate. It is now packetized in the repo as the tighter North American corrugated-and-containerboard throughput peer beside `International Paper`:
-  [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/packaging-corporation-of-america/company-packet.md)
+  [company-packet.md](/extracted/consumer-goods/packaging-containers/packaging-corporation-of-america/company-packet.md)
 
 Best use:
 
@@ -126,11 +126,11 @@ Best use:
 Current evidence status:
 
 - `Republic Services` is no longer only a candidate. It is now packetized in the repo as the first scale-peer route-density extension beside `Waste Management`:
-  [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/waste-management/republic-services-inc/company-packet.md)
+  [company-packet.md](/extracted/industrial-goods/waste-management/republic-services-inc/company-packet.md)
 - `Clean Harbors` is no longer only a candidate. It is the first live specialization split already packetized in the repo:
-  [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/waste-management/clean-harbors-inc/company-packet.md)
+  [company-packet.md](/extracted/industrial-goods/waste-management/clean-harbors-inc/company-packet.md)
 - `Casella Waste Systems` is no longer only a candidate. It is now packetized in the repo as the regional-density and local-market concentration extension:
-  [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/waste-management/casella-waste-systems-inc/company-packet.md)
+  [company-packet.md](/extracted/industrial-goods/waste-management/casella-waste-systems-inc/company-packet.md)
 - the waste-side branch is now covered well enough that another immediate extension is not required unless a new subtype appears
 
 ### 4. Plant-embedded quality, hygiene, and water-control extension
@@ -152,9 +152,9 @@ Best use:
 Current evidence status:
 
 - `Veralto` is no longer only a candidate. It is now packetized in the repo as the first embedded quality, water, and product-control extension:
-  [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/pollution-treatment-controls/veralto-corporation/company-packet.md)
+  [company-packet.md](/extracted/industrial-goods/pollution-treatment-controls/veralto-corporation/company-packet.md)
 - `Ecolab` is no longer only a candidate. It is now packetized in the repo as the first embedded hygiene, water, and compliance-service extension beside `Veralto`:
-  [company-packet.md](/home/manishmehta/ui-projects/annual-report-research/extracted/basic-materials/specialty-chemicals/ecolab-inc/company-packet.md)
+  [company-packet.md](/extracted/basic-materials/specialty-chemicals/ecolab-inc/company-packet.md)
 
 ## Best current ordering
 

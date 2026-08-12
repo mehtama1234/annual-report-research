@@ -9,24 +9,24 @@ Collection window:
 
 Primary packet set used here:
 
-- [Seiko Epson Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/computer-based-systems/epson/company-packet.md)
-- [Zebra Technologies Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/computer-peripherals/zebra-technologies-corp/company-packet.md)
-- [HP Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/computer-hardware/hp-inc/company-packet.md)
-- [Hewlett Packard Enterprise Company](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/diversified-computer-systems/hewlett-packard-enterprise-company/company-packet.md)
-- [Dell Technologies Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/dell-technologies-inc/company-packet.md)
-- [Amphenol Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/diversified-electronics/amphenol-corporation/company-packet.md)
-- [Zscaler, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/security-software-services/zscaler-inc/company-packet.md)
-- [Palo Alto Networks, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-packet.md)
-- [Corning Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/corning-incorporated/company-packet.md)
-- [Motorola Solutions, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/motorola-solutions-inc/company-packet.md)
-- [Oracle Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/oracle-corporation/company-packet.md)
+- [Seiko Epson Corporation](/extracted/technology/computer-based-systems/epson/company-packet.md)
+- [Zebra Technologies Corp.](/extracted/technology/computer-peripherals/zebra-technologies-corp/company-packet.md)
+- [HP Inc.](/extracted/technology/computer-hardware/hp-inc/company-packet.md)
+- [Hewlett Packard Enterprise Company](/extracted/technology/diversified-computer-systems/hewlett-packard-enterprise-company/company-packet.md)
+- [Dell Technologies Inc.](/extracted/technology/information-technology-services/dell-technologies-inc/company-packet.md)
+- [Amphenol Corporation](/extracted/technology/diversified-electronics/amphenol-corporation/company-packet.md)
+- [Zscaler, Inc.](/extracted/technology/security-software-services/zscaler-inc/company-packet.md)
+- [Palo Alto Networks, Inc.](/extracted/technology/networking-communication-devices/palo-alto-networks-inc/company-packet.md)
+- [Corning Incorporated](/extracted/technology/communication-equipment/corning-incorporated/company-packet.md)
+- [Motorola Solutions, Inc.](/extracted/technology/communication-equipment/motorola-solutions-inc/company-packet.md)
+- [Oracle Corporation](/extracted/technology/application-software/oracle-corporation/company-packet.md)
 
 Supporting lane context:
 
-- [CLI 5 Connectivity And Control Proof Page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-connectivity-proof-page-2026-08-11.md)
-- [CLI 5 Control Point And Chokepoint Framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
-- [CLI 5 Software Control Versus Physical Chokepoints](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-software-control-vs-physical-chokepoints-2026-08-10.md)
-- [CLI 5 Healthcare Information And Workflow Bridge](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-healthcare-information-and-workflow-bridge-2026-08-11.md)
+- [CLI 5 Connectivity And Control Proof Page](/analysis/themes/cli-5-connectivity-proof-page-2026-08-11.md)
+- [CLI 5 Control Point And Chokepoint Framework](/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
+- [CLI 5 Software Control Versus Physical Chokepoints](/analysis/themes/cli-5-software-control-vs-physical-chokepoints-2026-08-10.md)
+- [CLI 5 Healthcare Information And Workflow Bridge](/analysis/themes/cli-5-healthcare-information-and-workflow-bridge-2026-08-11.md)
 
 ## The question
 
@@ -292,13 +292,13 @@ The strongest operators do not all win the same way:
 
 ## Exact next targets to deepen this proof
 
-1. [CrowdStrike Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/crowdstrike-holdings-inc/company-packet.md)
+1. [CrowdStrike Holdings, Inc.](/extracted/technology/application-software/crowdstrike-holdings-inc/company-packet.md)
 Reason: test a second strong software-control layer against Zscaler’s narrower access-governance model and Palo Alto’s broader platform model.
 
-2. [Ciena Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/ciena-corporation/company-packet.md)
+2. [Ciena Corporation](/extracted/technology/communication-equipment/ciena-corporation/company-packet.md)
 Reason: deepen the active optical-networking comparison against Corning’s more materials-heavy optical layer.
 
-3. [Iridium Communications Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/iridium-communications-inc/company-packet.md)
+3. [Iridium Communications Inc.](/extracted/technology/communication-equipment/iridium-communications-inc/company-packet.md)
 Reason: add a specialized communications-control layer where connectivity quality depends on a very different physical architecture.
 
 4. A pure-play healthcare-workflow or healthcare-IT packet if later added.

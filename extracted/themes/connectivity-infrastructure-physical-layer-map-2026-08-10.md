@@ -16,17 +16,17 @@ The point is to preserve the pattern that the source taxonomy obscures:
 
 Primary anchor packets:
 
-- [Dycom Industries Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md)
-- [WESCO International, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/electronics-wholesale/wesco-international-inc/company-packet.md)
-- [Comfort Systems USA, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
-- [Valmont Industries, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/conglomerates/valmont-industries-inc/company-packet.md)
-- [CECO Environmental Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrials/pollution-treatment-controls/ceco-environmental-corp/company-packet.md)
-- [Core & Main, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/building-materials-wholesale/core-main-inc/company-packet.md)
+- [Dycom Industries Inc.](/extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md)
+- [WESCO International, Inc.](/extracted/industrial-goods/electronics-wholesale/wesco-international-inc/company-packet.md)
+- [Comfort Systems USA, Inc.](/extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md)
+- [Valmont Industries, Inc.](/extracted/industrial-goods/conglomerates/valmont-industries-inc/company-packet.md)
+- [CECO Environmental Corp.](/extracted/industrials/pollution-treatment-controls/ceco-environmental-corp/company-packet.md)
+- [Core & Main, Inc.](/extracted/industrial-goods/building-materials-wholesale/core-main-inc/company-packet.md)
 
 Related files:
 
-- [Downstream Physical Inputs Batch](/home/manishmehta/ui-projects/annual-report-research/notes/downstream-physical-inputs-batch-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Downstream Physical Inputs Batch](/notes/downstream-physical-inputs-batch-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
 
 ## Executive read
 

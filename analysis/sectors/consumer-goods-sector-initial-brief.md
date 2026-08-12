@@ -96,21 +96,21 @@ This brief is built from:
 
 ## Source pointers
 
-- [PepsiCo company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-profile.md)
-- [PepsiCo company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-packet.md)
-- [Procter & Gamble company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/procter-gamble-co/company-profile.md)
-- [Procter & Gamble company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/procter-gamble-co/company-packet.md)
-- [Kimberly-Clark company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/kimberly-clark-corp/company-profile.md)
-- [Kimberly-Clark company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/kimberly-clark-corp/company-packet.md)
-- [Colgate-Palmolive company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/colgate-palmolive-co/company-profile.md)
-- [Colgate-Palmolive company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/colgate-palmolive-co/company-packet.md)
-- [Coty company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/coty-inc/company-profile.md)
-- [Coty company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/coty-inc/company-packet.md)
-- [The Estee Lauder Companies company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-profile.md)
-- [The Estee Lauder Companies company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md)
-- [Graphic Packaging company profile](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-profile.md)
-- [Graphic Packaging company packet](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md)
-- [consumer-goods-value-portfolio-initial-theme-memo.md](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/consumer-goods-value-portfolio-initial-theme-memo.md)
+- [PepsiCo company profile](/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-profile.md)
+- [PepsiCo company packet](/extracted/consumer-goods/processed-packaged-goods/pepsico-inc/company-packet.md)
+- [Procter & Gamble company profile](/extracted/consumer-goods/personal-products/procter-gamble-co/company-profile.md)
+- [Procter & Gamble company packet](/extracted/consumer-goods/personal-products/procter-gamble-co/company-packet.md)
+- [Kimberly-Clark company profile](/extracted/consumer-goods/personal-products/kimberly-clark-corp/company-profile.md)
+- [Kimberly-Clark company packet](/extracted/consumer-goods/personal-products/kimberly-clark-corp/company-packet.md)
+- [Colgate-Palmolive company profile](/extracted/consumer-goods/personal-products/colgate-palmolive-co/company-profile.md)
+- [Colgate-Palmolive company packet](/extracted/consumer-goods/personal-products/colgate-palmolive-co/company-packet.md)
+- [Coty company profile](/extracted/consumer-goods/personal-products/coty-inc/company-profile.md)
+- [Coty company packet](/extracted/consumer-goods/personal-products/coty-inc/company-packet.md)
+- [The Estee Lauder Companies company profile](/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-profile.md)
+- [The Estee Lauder Companies company packet](/extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md)
+- [Graphic Packaging company profile](/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-profile.md)
+- [Graphic Packaging company packet](/extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md)
+- [consumer-goods-value-portfolio-initial-theme-memo.md](/analysis/themes/consumer-goods-value-portfolio-initial-theme-memo.md)
 
 ## Skeptical Reader Test
 

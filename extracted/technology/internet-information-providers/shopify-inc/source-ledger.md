@@ -4,24 +4,24 @@ Date baseline: 2026-08-10
 
 ## Authoritative source chain used
 
-- AnnualReports taxonomy confirmation: [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/internet-information-providers/shopify-inc/annualreports-verification.md)
-- Official IR source map: [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/shopify-inc/ir-source-links.md)
-- SEC source map and limitation note: [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/shopify-inc/sec-source-links.md)
+- AnnualReports taxonomy confirmation: [annualreports-verification.md](/raw/annualreports/technology/internet-information-providers/shopify-inc/annualreports-verification.md)
+- Official IR source map: [ir-source-links.md](/raw/company-ir/technology/internet-information-providers/shopify-inc/ir-source-links.md)
+- SEC source map and limitation note: [sec-source-links.md](/raw/sec/technology/internet-information-providers/shopify-inc/sec-source-links.md)
 
 ## Annual artifact
 
 | Scope | Source | Local path | Used for |
 |---|---|---|---|
-| FY2025 annual | Shopify annual reports page and annual report PDF | [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/shopify-inc/2025-annual-report.pdf) | Annual scope confirmation and company-hosted annual artifact |
-| FY2025 annual | SEC `10-K` URL verified during run | [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/internet-information-providers/shopify-inc/sec-source-links.md) | Revenue mix, GMV, MRR, payments penetration, operating income, and annual net income figures |
+| FY2025 annual | Shopify annual reports page and annual report PDF | [2025-annual-report.pdf](/raw/company-ir/technology/internet-information-providers/shopify-inc/2025-annual-report.pdf) | Annual scope confirmation and company-hosted annual artifact |
+| FY2025 annual | SEC `10-K` URL verified during run | [sec-source-links.md](/raw/sec/technology/internet-information-providers/shopify-inc/sec-source-links.md) | Revenue mix, GMV, MRR, payments penetration, operating income, and annual net income figures |
 
 ## Latest three quarters in scope
 
 | Quarter | Results page | Press release PDF | Filing artifact | Primary metrics used |
 |---|---|---|---|---|
-| Q4 2025 | [2025-q4-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/shopify-inc/2025-q4-results.html) | none usable; stray local file is invalid | annual filing chain | Revenue growth, free cash flow margin, annual free cash flow headline, buyback authorization, AI-commerce framing |
-| Q1 2026 | [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q1-results.html) | [2026-q1-press-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q1-press-release.pdf) | [2026-q1-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q1-10q.pdf) | Revenue, GMV, MRR, gross profit, operating income, free cash flow, payments penetration, cash balances, buybacks |
-| Q2 2026 | [2026-q2-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q2-results.html) | [2026-q2-press-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q2-press-release.pdf) | [2026-q2-10q.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q2-10q.pdf) | Revenue, GMV, MRR, gross profit, operating income, free cash flow, guidance, payments penetration, cash balances, buybacks |
+| Q4 2025 | [2025-q4-results.html](/raw/company-ir/technology/internet-information-providers/shopify-inc/2025-q4-results.html) | none usable; stray local file is invalid | annual filing chain | Revenue growth, free cash flow margin, annual free cash flow headline, buyback authorization, AI-commerce framing |
+| Q1 2026 | [2026-q1-results.html](/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q1-results.html) | [2026-q1-press-release.pdf](/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q1-press-release.pdf) | [2026-q1-10q.pdf](/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q1-10q.pdf) | Revenue, GMV, MRR, gross profit, operating income, free cash flow, payments penetration, cash balances, buybacks |
+| Q2 2026 | [2026-q2-results.html](/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q2-results.html) | [2026-q2-press-release.pdf](/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q2-press-release.pdf) | [2026-q2-10q.pdf](/raw/company-ir/technology/internet-information-providers/shopify-inc/2026-q2-10q.pdf) | Revenue, GMV, MRR, gross profit, operating income, free cash flow, guidance, payments penetration, cash balances, buybacks |
 
 ## Metric spine captured
 

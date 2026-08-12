@@ -10,19 +10,19 @@ consumer systems where recurring demand is driven by comfort, ease, body confide
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Comfort Wellness Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/comfort-wellness-systems-index-2026-08-10.md)
-- [Consumer Cultural Pattern Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
-- [Owned-Demand Identity Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Comfort Wellness Systems Index](/indexes/comfort-wellness-systems-index-2026-08-10.md)
+- [Consumer Cultural Pattern Map](/extracted/themes/consumer-cultural-pattern-map-2026-08-10.md)
+- [Owned-Demand Identity Systems](/extracted/themes/owned-demand-identity-systems-2026-08-10.md)
 
 Primary anchors:
 
-- [Crocs, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/company-packet.md)
-- [Deckers Outdoor Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-footwear-accessories/deckers-outdoor-corp/company-packet.md)
-- [Birkenstock Holding plc](/home/manishmehta/ui-projects/annual-report-research/extracted/services/apparel-stores/birkenstock-holding-plc/company-packet.md)
-- [lululemon athletica inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-clothing/lululemon-athletica-inc/company-packet.md)
-- [Planet Fitness, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/recreation/planet-fitness-inc/company-packet.md)
-- [Warby Parker Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-instruments-supplies/warby-parker-inc/company-packet.md)
+- [Crocs, Inc.](/extracted/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/company-packet.md)
+- [Deckers Outdoor Corp.](/extracted/consumer-goods/textile-apparel-footwear-accessories/deckers-outdoor-corp/company-packet.md)
+- [Birkenstock Holding plc](/extracted/services/apparel-stores/birkenstock-holding-plc/company-packet.md)
+- [lululemon athletica inc.](/extracted/consumer-goods/textile-apparel-clothing/lululemon-athletica-inc/company-packet.md)
+- [Planet Fitness, Inc.](/extracted/services/recreation/planet-fitness-inc/company-packet.md)
+- [Warby Parker Inc.](/extracted/healthcare/medical-instruments-supplies/warby-parker-inc/company-packet.md)
 
 ## Executive read
 
@@ -202,5 +202,5 @@ It cannot explain the actual embodied-behavior logic.
 ## Best next moves
 
 1. Extend the lane only if another company materially sharpens the split between premium wellness identity, mass comfort normalization, and care-linked fit confidence.
-2. Reuse [Comfort Wellness Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/comfort-wellness-systems-index-2026-08-10.md) when sorting the lane by confidence source, wellness depth, and service attachment.
+2. Reuse [Comfort Wellness Systems Index](/indexes/comfort-wellness-systems-index-2026-08-10.md) when sorting the lane by confidence source, wellness depth, and service attachment.
 3. Compare this lane against beauty, routine-use, and ritual files when the goal is showing how much of the consumer economy now depends on comfort, confidence, and practical self-maintenance rather than on formal category lines.

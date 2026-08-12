@@ -10,12 +10,12 @@ This memo covers a narrower blind spot inside the broader marketplace lane: mark
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Marketplace And Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
-- [Marketplace Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/marketplace-systems-index-2026-08-10.md)
-- [Platform And Ecosystem Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
-- [Blind Spot Coverage Map](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-coverage-map-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Marketplace And Coordination Systems](/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
+- [Marketplace Systems Index](/indexes/marketplace-systems-index-2026-08-10.md)
+- [Platform And Ecosystem Map](/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [Blind Spot Coverage Map](/indexes/blind-spot-coverage-map-2026-08-10.md)
 
 ## Executive read
 
@@ -235,6 +235,6 @@ This is why the thread should treat trust marketplaces as their own analytical l
 
 ## Next best extensions
 
-- extend the [Marketplace Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/marketplace-systems-index-2026-08-10.md) if the goal is sorting by trust source, repeat frequency, and second monetization layer
+- extend the [Marketplace Systems Index](/indexes/marketplace-systems-index-2026-08-10.md) if the goal is sorting by trust source, repeat frequency, and second monetization layer
 - extend the lane later with another resale, travel, or peer-supply name only if it adds a different trust structure
 - connect this memo more explicitly to cultural-pattern work around identity, participation, and non-commodity demand

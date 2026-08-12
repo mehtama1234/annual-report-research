@@ -22,9 +22,9 @@ The useful question is what kind of participation system each company actually o
 
 Related files:
 
-- [Fandom, Play, and Participation Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
-- [Fandom Participation Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/fandom-participation-systems-index-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [Fandom, Play, and Participation Systems](/extracted/themes/fandom-play-and-participation-systems-2026-08-10.md)
+- [Fandom Participation Systems Index](/indexes/fandom-participation-systems-index-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
 
 ## Executive read
 

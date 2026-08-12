@@ -57,20 +57,20 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/application-software/uber-technologies-inc/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/uber-technologies-inc/official-ir-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/application-software/uber-technologies-inc/company-page.html)
-- [2025-annual-report-sec-ars.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/application-software/uber-technologies-inc/2025-annual-report-sec-ars.pdf)
-- [submissions-cik0001543151.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/uber-technologies-inc/submissions-cik0001543151.json)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/uber-technologies-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/uber-technologies-inc/2025-q4-8k.html)
-- [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/uber-technologies-inc/2025-q4-press-release.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/uber-technologies-inc/2026-q1-8k.html)
-- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/uber-technologies-inc/2026-q1-press-release.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/uber-technologies-inc/2026-q1-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/uber-technologies-inc/2026-q2-8k.html)
-- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/uber-technologies-inc/2026-q2-press-release.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/application-software/uber-technologies-inc/2026-q2-10q.html)
+- [annualreports-verification.md](/raw/annualreports/technology/application-software/uber-technologies-inc/annualreports-verification.md)
+- [official-ir-verification.md](/raw/company-ir/technology/application-software/uber-technologies-inc/official-ir-verification.md)
+- [company-page.html](/raw/annualreports/technology/application-software/uber-technologies-inc/company-page.html)
+- [2025-annual-report-sec-ars.pdf](/raw/company-ir/technology/application-software/uber-technologies-inc/2025-annual-report-sec-ars.pdf)
+- [submissions-cik0001543151.json](/raw/sec/technology/application-software/uber-technologies-inc/submissions-cik0001543151.json)
+- [2025-10k.html](/raw/sec/technology/application-software/uber-technologies-inc/2025-10k.html)
+- [2025-q4-8k.html](/raw/sec/technology/application-software/uber-technologies-inc/2025-q4-8k.html)
+- [2025-q4-press-release.html](/raw/sec/technology/application-software/uber-technologies-inc/2025-q4-press-release.html)
+- [2026-q1-8k.html](/raw/sec/technology/application-software/uber-technologies-inc/2026-q1-8k.html)
+- [2026-q1-press-release.html](/raw/sec/technology/application-software/uber-technologies-inc/2026-q1-press-release.html)
+- [2026-q1-10q.html](/raw/sec/technology/application-software/uber-technologies-inc/2026-q1-10q.html)
+- [2026-q2-8k.html](/raw/sec/technology/application-software/uber-technologies-inc/2026-q2-8k.html)
+- [2026-q2-press-release.html](/raw/sec/technology/application-software/uber-technologies-inc/2026-q2-press-release.html)
+- [2026-q2-10q.html](/raw/sec/technology/application-software/uber-technologies-inc/2026-q2-10q.html)
 
 ## Working interpretation
 

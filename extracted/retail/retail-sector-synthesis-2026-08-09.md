@@ -6,21 +6,21 @@ Date baseline: 2026-08-09
 
 This synthesis is based on the completed Retail packets currently in the archive:
 
-- [Amazon.com, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/retail/specialty-retail-other/amazoncom-inc/company-packet.md)
-- [Bath & Body Works, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/retail/specialty-retail-other/bath-body-works/company-packet.md)
-- [NIKE, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/retail/apparel-shoe-accessory-stores/nike-inc/company-packet.md)
+- [Amazon.com, Inc.](/extracted/retail/specialty-retail-other/amazoncom-inc/company-packet.md)
+- [Bath & Body Works, Inc.](/extracted/retail/specialty-retail-other/bath-body-works/company-packet.md)
+- [NIKE, Inc.](/extracted/retail/apparel-shoe-accessory-stores/nike-inc/company-packet.md)
 
 The source window is the `2025` annual report plus each company’s last three reported quarters in scope as of `2026-08-09`.
 
 Related cross-sector memo:
 
-- [Consumer Interface Framework Across Sectors](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
+- [Consumer Interface Framework Across Sectors](/extracted/themes/consumer-interface-framework-cross-sector-2026-08-09.md)
 
 Important classification note:
 
-- [Best Buy Co., Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/electronics-stores/best-buy-co-inc/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Services / Electronics Stores` because that is how AnnualReports classifies it. It should therefore be read as an adjacent counterexample rather than counted inside the formal Retail coverage base.
-- [Target Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/discount-variety-stores/target-corp/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Services / Discount, Variety Stores` because that is how AnnualReports classifies it. It should therefore be read as adjacent mass-retail evidence rather than counted inside the formal Retail coverage base.
-- [lululemon athletica inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/textile-apparel-clothing/lululemon-athletica-inc/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Consumer Goods / Textile - Apparel Clothing` because that is how AnnualReports classifies it. It should therefore be read as adjacent brand-led retail evidence rather than counted inside the formal Retail coverage base.
+- [Best Buy Co., Inc.](/extracted/services/electronics-stores/best-buy-co-inc/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Services / Electronics Stores` because that is how AnnualReports classifies it. It should therefore be read as an adjacent counterexample rather than counted inside the formal Retail coverage base.
+- [Target Corp.](/extracted/services/discount-variety-stores/target-corp/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Services / Discount, Variety Stores` because that is how AnnualReports classifies it. It should therefore be read as adjacent mass-retail evidence rather than counted inside the formal Retail coverage base.
+- [lululemon athletica inc.](/extracted/consumer-goods/textile-apparel-clothing/lululemon-athletica-inc/company-packet.md) is now completed and is highly relevant to the retail read, but it remains under `Consumer Goods / Textile - Apparel Clothing` because that is how AnnualReports classifies it. It should therefore be read as adjacent brand-led retail evidence rather than counted inside the formal Retail coverage base.
 
 ## Executive read
 

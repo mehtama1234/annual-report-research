@@ -9,17 +9,17 @@ Collection window:
 
 Primary packet set used here:
 
-- [Oracle Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/application-software/oracle-corporation/company-packet.md)
-- [ServiceNow, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/information-technology-services/servicenow-inc/company-packet.md)
-- [Quest Diagnostics Incorporated](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/quest-diagnostics-inc/company-packet.md)
-- [Labcorp Holdings Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/healthcare/medical-laboratories-research/labcorp-holdings-inc/company-packet.md)
-- [Waystar Holding Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/healthcare-information-services/waystar-holding-corp/company-packet.md)
+- [Oracle Corporation](/extracted/technology/application-software/oracle-corporation/company-packet.md)
+- [ServiceNow, Inc.](/extracted/technology/information-technology-services/servicenow-inc/company-packet.md)
+- [Quest Diagnostics Incorporated](/extracted/healthcare/medical-laboratories-research/quest-diagnostics-inc/company-packet.md)
+- [Labcorp Holdings Inc.](/extracted/healthcare/medical-laboratories-research/labcorp-holdings-inc/company-packet.md)
+- [Waystar Holding Corp.](/extracted/technology/healthcare-information-services/waystar-holding-corp/company-packet.md)
 
 Supporting comparison context:
 
-- [Accepted Record And Auditable Workflow Control Comparison](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/accepted-record-and-auditable-workflow-control-comparison-2026-08-11.md)
-- [CLI 5 Enterprise Edge And Hidden Control Layer Proof](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-enterprise-edge-and-hidden-control-layer-proof-2026-08-11.md)
-- [CLI 4 Healthcare Proof Page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md)
+- [Accepted Record And Auditable Workflow Control Comparison](/analysis/cross-sector/accepted-record-and-auditable-workflow-control-comparison-2026-08-11.md)
+- [CLI 5 Enterprise Edge And Hidden Control Layer Proof](/analysis/themes/cli-5-enterprise-edge-and-hidden-control-layer-proof-2026-08-11.md)
+- [CLI 4 Healthcare Proof Page](/analysis/themes/cli-4-healthcare-proof-page-2026-08-11.md)
 
 ## The question
 

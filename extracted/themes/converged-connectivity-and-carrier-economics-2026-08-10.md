@@ -18,22 +18,22 @@ The useful question is where recurring connectivity dependence is actually monet
 
 Primary anchors:
 
-- [Charter Communications, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/diversified-communication-services/charter-communications-inc/company-packet.md)
-- [Lumen Technologies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/diversified-communication-services/lumen-technologies-inc/company-packet.md)
-- [Cogent Communications Holdings, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/diversified-communication-services/cogent-communications-holdings-inc/company-packet.md)
-- [Viasat, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/diversified-communication-services/viasat-inc/company-packet.md)
-- [American Tower Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-specialty-real-estate/american-tower-corporation/company-packet.md)
-- [Crown Castle Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-specialty-real-estate/crown-castle-inc/company-packet.md)
-- [SBA Communications Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-specialty-real-estate/sba-communications-corporation/company-packet.md)
-- [Cloudflare, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/cloudflare-inc/company-packet.md)
-- [Akamai Technologies, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/akamai-technologies-inc/company-packet.md)
-- [Fastly, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/internet-information-providers/fastly-inc/company-packet.md)
+- [Charter Communications, Inc.](/extracted/technology/diversified-communication-services/charter-communications-inc/company-packet.md)
+- [Lumen Technologies, Inc.](/extracted/technology/diversified-communication-services/lumen-technologies-inc/company-packet.md)
+- [Cogent Communications Holdings, Inc.](/extracted/technology/diversified-communication-services/cogent-communications-holdings-inc/company-packet.md)
+- [Viasat, Inc.](/extracted/technology/diversified-communication-services/viasat-inc/company-packet.md)
+- [American Tower Corporation](/extracted/real-estate/reit-specialty-real-estate/american-tower-corporation/company-packet.md)
+- [Crown Castle Inc.](/extracted/real-estate/reit-specialty-real-estate/crown-castle-inc/company-packet.md)
+- [SBA Communications Corporation](/extracted/real-estate/reit-specialty-real-estate/sba-communications-corporation/company-packet.md)
+- [Cloudflare, Inc.](/extracted/technology/internet-information-providers/cloudflare-inc/company-packet.md)
+- [Akamai Technologies, Inc.](/extracted/technology/internet-information-providers/akamai-technologies-inc/company-packet.md)
+- [Fastly, Inc.](/extracted/technology/internet-information-providers/fastly-inc/company-packet.md)
 
 Related files:
 
-- [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
-- [Hidden Connectivity And Access-Layer Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
-- [Connectivity Infrastructure Physical-Layer Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
+- [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
+- [Hidden Connectivity And Access-Layer Systems](/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
+- [Connectivity Infrastructure Physical-Layer Map](/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
 
 ## Executive read
 
@@ -258,4 +258,4 @@ because the actual economic question is where dependence becomes recurring monet
 1. Reuse this memo first when another thread treats telecom, towers, satellite, and edge-control names as unrelated categories.
 2. Extend the lane with `Comcast Corporation` if the archive next needs the larger cable-and-bundle control comparison against Charter.
 3. Extend the lane with `T-Mobile US, Inc.` if the archive next needs the outside-in wireless and fixed-wireless pressure on cable bundle economics.
-4. Reuse [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md) when the question moves upward into enterprise trust, optical control, and transport governance.
+4. Reuse [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md) when the question moves upward into enterprise trust, optical control, and transport governance.

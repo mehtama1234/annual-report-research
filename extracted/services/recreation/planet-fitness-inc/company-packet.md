@@ -58,21 +58,21 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/recreation/planet-fitness-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/services/recreation/planet-fitness-inc/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/recreation/planet-fitness-inc/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/services/recreation/planet-fitness-inc/2025-annual-report.pdf)
-- [submissions-cik0001637207.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/recreation/planet-fitness-inc/submissions-cik0001637207.json)
-- [companyfacts-cik0001637207.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/recreation/planet-fitness-inc/companyfacts-cik0001637207.json)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/recreation/planet-fitness-inc/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/recreation/planet-fitness-inc/2025-q4-8k.html)
-- [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/recreation/planet-fitness-inc/2025-q4-press-release.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/recreation/planet-fitness-inc/2026-q1-8k.html)
-- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/recreation/planet-fitness-inc/2026-q1-press-release.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/recreation/planet-fitness-inc/2026-q1-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/recreation/planet-fitness-inc/2026-q2-8k.html)
-- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/recreation/planet-fitness-inc/2026-q2-press-release.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/services/recreation/planet-fitness-inc/2026-q2-10q.html)
+- [annualreports-verification.md](/raw/annualreports/services/recreation/planet-fitness-inc/annualreports-verification.md)
+- [company-page.html](/raw/annualreports/services/recreation/planet-fitness-inc/company-page.html)
+- [official-ir-verification.md](/raw/company-ir/services/recreation/planet-fitness-inc/official-ir-verification.md)
+- [2025-annual-report.pdf](/raw/company-ir/services/recreation/planet-fitness-inc/2025-annual-report.pdf)
+- [submissions-cik0001637207.json](/raw/sec/services/recreation/planet-fitness-inc/submissions-cik0001637207.json)
+- [companyfacts-cik0001637207.json](/raw/sec/services/recreation/planet-fitness-inc/companyfacts-cik0001637207.json)
+- [2025-10k.html](/raw/sec/services/recreation/planet-fitness-inc/2025-10k.html)
+- [2025-q4-8k.html](/raw/sec/services/recreation/planet-fitness-inc/2025-q4-8k.html)
+- [2025-q4-press-release.html](/raw/sec/services/recreation/planet-fitness-inc/2025-q4-press-release.html)
+- [2026-q1-8k.html](/raw/sec/services/recreation/planet-fitness-inc/2026-q1-8k.html)
+- [2026-q1-press-release.html](/raw/sec/services/recreation/planet-fitness-inc/2026-q1-press-release.html)
+- [2026-q1-10q.html](/raw/sec/services/recreation/planet-fitness-inc/2026-q1-10q.html)
+- [2026-q2-8k.html](/raw/sec/services/recreation/planet-fitness-inc/2026-q2-8k.html)
+- [2026-q2-press-release.html](/raw/sec/services/recreation/planet-fitness-inc/2026-q2-press-release.html)
+- [2026-q2-10q.html](/raw/sec/services/recreation/planet-fitness-inc/2026-q2-10q.html)
 
 ## Working interpretation
 

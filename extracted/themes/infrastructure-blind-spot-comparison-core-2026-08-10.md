@@ -14,21 +14,21 @@ some of the most important `AnnualReports` blind spots are not consumer-facing c
 
 This core now rests on three direct comparison sets:
 
-- [Cloudflare Versus Cisco Versus Palo Alto Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/cloudflare-vs-cisco-vs-palo-alto-boundary-comparison-2026-08-10.md)
-- [American Tower Versus Crown Castle Versus SBA Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/american-tower-vs-crown-castle-vs-sba-boundary-comparison-2026-08-10.md)
-- [United Rentals Versus Fastenal Versus Ferguson Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/united-rentals-vs-fastenal-vs-ferguson-boundary-comparison-2026-08-10.md)
+- [Cloudflare Versus Cisco Versus Palo Alto Boundary Comparison](/extracted/themes/cloudflare-vs-cisco-vs-palo-alto-boundary-comparison-2026-08-10.md)
+- [American Tower Versus Crown Castle Versus SBA Boundary Comparison](/extracted/themes/american-tower-vs-crown-castle-vs-sba-boundary-comparison-2026-08-10.md)
+- [United Rentals Versus Fastenal Versus Ferguson Boundary Comparison](/extracted/themes/united-rentals-vs-fastenal-vs-ferguson-boundary-comparison-2026-08-10.md)
 
 The hidden-connectivity lane itself now also extends beyond the public tower trio through:
 
-- [Iridium Communications Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/iridium-communications-inc/company-packet.md)
-- [Viasat, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/communication-equipment/viasat-inc/company-packet.md)
+- [Iridium Communications Inc.](/extracted/technology/communication-equipment/iridium-communications-inc/company-packet.md)
+- [Viasat, Inc.](/extracted/technology/communication-equipment/viasat-inc/company-packet.md)
 
 Related lane memos:
 
-- [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
-- [Hidden Connectivity And Access-Layer Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
-- [Physical Execution And Embedded Workflow Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md)
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
+- [Hidden Connectivity And Access-Layer Systems](/extracted/themes/hidden-connectivity-and-access-layer-systems-2026-08-10.md)
+- [Physical Execution And Embedded Workflow Systems](/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
 
 ## Executive read
 

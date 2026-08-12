@@ -5,7 +5,7 @@
 - Company page verified on 2026-08-10:
   - https://www.annualreports.com/Company/att-inc
 - Local note:
-  - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/technology/telecom-services-domestic/att-inc/annualreports-verification.md)
+  - [annualreports-verification.md](/raw/annualreports/technology/telecom-services-domestic/att-inc/annualreports-verification.md)
 
 ## Official investor relations
 
@@ -30,7 +30,7 @@
 - Q2 2026 schedules PDF:
   - https://investors.att.com/~/media/Files/A/ATT-IR-V2/financial-reports/quarterly-earnings/2026/2Q-2026/2Q26_ATT_Financial_and_Operational_Schedules_and_Non_GAAP_Reconciliations.pdf
 - Local IR note:
-  - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/ir-source-links.md)
+  - [ir-source-links.md](/raw/company-ir/technology/telecom-services-domestic/att-inc/ir-source-links.md)
 
 ## SEC / EDGAR references
 
@@ -52,31 +52,31 @@
 ## Saved local artifacts
 
 - IR pages:
-  - [annual-reports.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/annual-reports.html)
-  - [quarterly-earnings-2026.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/quarterly-earnings-2026.html)
-  - [quarterly-earnings-2025.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/quarterly-earnings-2025.html)
+  - [annual-reports.html](/raw/company-ir/technology/telecom-services-domestic/att-inc/annual-reports.html)
+  - [quarterly-earnings-2026.html](/raw/company-ir/technology/telecom-services-domestic/att-inc/quarterly-earnings-2026.html)
+  - [quarterly-earnings-2025.html](/raw/company-ir/technology/telecom-services-domestic/att-inc/quarterly-earnings-2025.html)
 - Company-hosted annual report:
-  - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/2025-annual-report.pdf)
+  - [2025-annual-report.pdf](/raw/company-ir/technology/telecom-services-domestic/att-inc/2025-annual-report.pdf)
 - Company-hosted quarter PDFs:
-  - [2025-q4-news-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/2025-q4-news-release.pdf)
-  - [2025-q4-schedules.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/2025-q4-schedules.pdf)
-  - [2025-q4-8k-item-801.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/2025-q4-8k-item-801.pdf)
-  - [2026-q1-news-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q1-news-release.pdf)
-  - [2026-q1-schedules.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q1-schedules.pdf)
-  - [2026-q2-news-release.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q2-news-release.pdf)
-  - [2026-q2-schedules.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q2-schedules.pdf)
+  - [2025-q4-news-release.pdf](/raw/company-ir/technology/telecom-services-domestic/att-inc/2025-q4-news-release.pdf)
+  - [2025-q4-schedules.pdf](/raw/company-ir/technology/telecom-services-domestic/att-inc/2025-q4-schedules.pdf)
+  - [2025-q4-8k-item-801.pdf](/raw/company-ir/technology/telecom-services-domestic/att-inc/2025-q4-8k-item-801.pdf)
+  - [2026-q1-news-release.pdf](/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q1-news-release.pdf)
+  - [2026-q1-schedules.pdf](/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q1-schedules.pdf)
+  - [2026-q2-news-release.pdf](/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q2-news-release.pdf)
+  - [2026-q2-schedules.pdf](/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q2-schedules.pdf)
 - IR access-denied stubs not used as evidence:
-  - [2026-q1-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q1-results.html)
-  - [2026-q2-results.html](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q2-results.html)
+  - [2026-q1-results.html](/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q1-results.html)
+  - [2026-q2-results.html](/raw/company-ir/technology/telecom-services-domestic/att-inc/2026-q2-results.html)
 - SEC submission index:
-  - [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/att-inc/sec-submissions.json)
+  - [sec-submissions.json](/raw/sec/technology/telecom-services-domestic/att-inc/sec-submissions.json)
 - Annual and quarter filing chain:
-  - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/att-inc/2025-10k.html)
-  - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/att-inc/2025-q4-8k.html)
-  - [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/att-inc/2026-q1-10q.html)
-  - [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/att-inc/2026-q1-8k.html)
-  - [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/att-inc/2026-q2-10q.html)
-  - [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/technology/telecom-services-domestic/att-inc/2026-q2-8k.html)
+  - [2025-10k.html](/raw/sec/technology/telecom-services-domestic/att-inc/2025-10k.html)
+  - [2025-q4-8k.html](/raw/sec/technology/telecom-services-domestic/att-inc/2025-q4-8k.html)
+  - [2026-q1-10q.html](/raw/sec/technology/telecom-services-domestic/att-inc/2026-q1-10q.html)
+  - [2026-q1-8k.html](/raw/sec/technology/telecom-services-domestic/att-inc/2026-q1-8k.html)
+  - [2026-q2-10q.html](/raw/sec/technology/telecom-services-domestic/att-inc/2026-q2-10q.html)
+  - [2026-q2-8k.html](/raw/sec/technology/telecom-services-domestic/att-inc/2026-q2-8k.html)
 
 ## Notes on evidence quality
 

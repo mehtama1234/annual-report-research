@@ -60,22 +60,22 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/toys-games/mattel-inc/annualreports-verification.md)
-- [company-page.html](/home/manishmehta/ui-projects/annual-report-research/raw/annualreports/consumer-goods/toys-games/mattel-inc/company-page.html)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/toys-games/mattel-inc/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/toys-games/mattel-inc/2025-annual-report.pdf)
-- [2025-q4-and-fy-results.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/toys-games/mattel-inc/2025-q4-and-fy-results.pdf)
-- [2025-q4-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/toys-games/mattel-inc/2025-q4-transcript.pdf)
-- [2026-q1-results.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/toys-games/mattel-inc/2026-q1-results.pdf)
-- [2026-q1-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research/raw/company-ir/consumer-goods/toys-games/mattel-inc/2026-q1-transcript.pdf)
-- [submissions-cik0000063276.json](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/toys-games/mattel-inc/submissions-cik0000063276.json)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/toys-games/mattel-inc/2025-10k.html)
-- [2025-q4-and-fy-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/toys-games/mattel-inc/2025-q4-and-fy-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/toys-games/mattel-inc/2026-q1-10q.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/toys-games/mattel-inc/2026-q1-8k.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/toys-games/mattel-inc/2026-q2-10q.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/toys-games/mattel-inc/2026-q2-8k.html)
-- [2026-q2-earnings-release-ex99.html](/home/manishmehta/ui-projects/annual-report-research/raw/sec/consumer-goods/toys-games/mattel-inc/2026-q2-earnings-release-ex99.html)
+- [annualreports-verification.md](/raw/annualreports/consumer-goods/toys-games/mattel-inc/annualreports-verification.md)
+- [company-page.html](/raw/annualreports/consumer-goods/toys-games/mattel-inc/company-page.html)
+- [official-ir-verification.md](/raw/company-ir/consumer-goods/toys-games/mattel-inc/official-ir-verification.md)
+- [2025-annual-report.pdf](/raw/company-ir/consumer-goods/toys-games/mattel-inc/2025-annual-report.pdf)
+- [2025-q4-and-fy-results.pdf](/raw/company-ir/consumer-goods/toys-games/mattel-inc/2025-q4-and-fy-results.pdf)
+- [2025-q4-transcript.pdf](/raw/company-ir/consumer-goods/toys-games/mattel-inc/2025-q4-transcript.pdf)
+- [2026-q1-results.pdf](/raw/company-ir/consumer-goods/toys-games/mattel-inc/2026-q1-results.pdf)
+- [2026-q1-transcript.pdf](/raw/company-ir/consumer-goods/toys-games/mattel-inc/2026-q1-transcript.pdf)
+- [submissions-cik0000063276.json](/raw/sec/consumer-goods/toys-games/mattel-inc/submissions-cik0000063276.json)
+- [2025-10k.html](/raw/sec/consumer-goods/toys-games/mattel-inc/2025-10k.html)
+- [2025-q4-and-fy-8k.html](/raw/sec/consumer-goods/toys-games/mattel-inc/2025-q4-and-fy-8k.html)
+- [2026-q1-10q.html](/raw/sec/consumer-goods/toys-games/mattel-inc/2026-q1-10q.html)
+- [2026-q1-8k.html](/raw/sec/consumer-goods/toys-games/mattel-inc/2026-q1-8k.html)
+- [2026-q2-10q.html](/raw/sec/consumer-goods/toys-games/mattel-inc/2026-q2-10q.html)
+- [2026-q2-8k.html](/raw/sec/consumer-goods/toys-games/mattel-inc/2026-q2-8k.html)
+- [2026-q2-earnings-release-ex99.html](/raw/sec/consumer-goods/toys-games/mattel-inc/2026-q2-earnings-release-ex99.html)
 
 ## Working interpretation
 

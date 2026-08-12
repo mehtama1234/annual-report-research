@@ -12,18 +12,18 @@ Use it when multiple threads are working at once and the main question is:
 
 Related files:
 
-- [AnnualReports Browse-Tree Blind-Spot Mandate](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
-- [AnnualReports Noncovered Hunting Ground](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-hunting-ground-2026-08-10.md)
-- [AnnualReports Noncovered Master Index](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-master-index-2026-08-10.md)
-- [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
-- [AnnualReports Noncovered Claim Test](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-claim-test-2026-08-10.md)
-- [annualreports-noncovered-assignment-queue-2026-08-10.csv](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv)
-- [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
-- [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md)
-- [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
-- [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md)
-- [Consumer-Behavior Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
-- [Infrastructure Blind-Spot Comparison Core](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
+- [AnnualReports Browse-Tree Blind-Spot Mandate](/indexes/annualreports-browse-tree-blind-spot-mandate-2026-08-10.md)
+- [AnnualReports Noncovered Hunting Ground](/indexes/annualreports-noncovered-hunting-ground-2026-08-10.md)
+- [AnnualReports Noncovered Master Index](/indexes/annualreports-noncovered-master-index-2026-08-10.md)
+- [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
+- [AnnualReports Noncovered Claim Test](/indexes/annualreports-noncovered-claim-test-2026-08-10.md)
+- [annualreports-noncovered-assignment-queue-2026-08-10.csv](/indexes/annualreports-noncovered-assignment-queue-2026-08-10.csv)
+- [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md)
+- [Control-Layer Extension Shortlist](/indexes/control-layer-extension-shortlist-2026-08-10.md)
+- [Hidden Connectivity Extension Shortlist](/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md)
+- [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md)
+- [Consumer-Behavior Blind-Spot Comparison Core](/extracted/themes/consumer-behavior-blind-spot-comparison-core-2026-08-10.md)
+- [Infrastructure Blind-Spot Comparison Core](/extracted/themes/infrastructure-blind-spot-comparison-core-2026-08-10.md)
 
 ## Absolute default
 
@@ -35,7 +35,7 @@ The test is whether the site classifies the real system well enough that another
 
 Do not treat a thin, stale, awkward, or sparsely populated browse-tree industry page as evidence by itself that the blind-spot thread should own the company.
 
-Use the short [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md) first when a worker needs a fast screen before using this stricter overlap table.
+Use the short [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md) first when a worker needs a fast screen before using this stricter overlap table.
 
 ## Two-route gate
 

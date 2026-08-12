@@ -20,11 +20,11 @@ The question is:
 
 Related files:
 
-- [Physical Execution And Embedded Workflow Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md)
-- [Physical Execution Embedded Workflow Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md)
-- [Connectivity Infrastructure Physical-Layer Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
-- [AnnualReports Noncovered No-Overlap Matrix](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
-- [Blind-Spot Next Actions](/home/manishmehta/ui-projects/annual-report-research/notes/blind-spot-next-actions-2026-08-10.md)
+- [Physical Execution And Embedded Workflow Systems](/extracted/themes/physical-execution-and-embedded-workflow-systems-2026-08-10.md)
+- [Physical Execution Embedded Workflow Systems Index](/indexes/physical-execution-embedded-workflow-systems-index-2026-08-10.md)
+- [Connectivity Infrastructure Physical-Layer Map](/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
+- [AnnualReports Noncovered No-Overlap Matrix](/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
+- [Blind-Spot Next Actions](/notes/blind-spot-next-actions-2026-08-10.md)
 
 ## Current lane map
 

@@ -12,12 +12,12 @@ They are different systems for coordinating everyday physical-world demand.
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Marketplace And Coordination Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
-- [Marketplace Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/marketplace-systems-index-2026-08-10.md)
-- [Platform And Ecosystem Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
-- [Blind Spot Coverage Map](/home/manishmehta/ui-projects/annual-report-research/indexes/blind-spot-coverage-map-2026-08-10.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Marketplace And Coordination Systems](/extracted/themes/marketplace-and-coordination-systems-2026-08-10.md)
+- [Marketplace Systems Index](/indexes/marketplace-systems-index-2026-08-10.md)
+- [Platform And Ecosystem Map](/extracted/themes/platform-and-ecosystem-map-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [Blind Spot Coverage Map](/indexes/blind-spot-coverage-map-2026-08-10.md)
 
 ## Executive read
 
@@ -234,5 +234,5 @@ That is the real blind spot this thread should own.
 ## Next best extensions
 
 - connect this memo more explicitly to grocery and retail-media comparisons against `Kroger`, `Walmart`, and `Amazon`
-- extend the [Marketplace Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/marketplace-systems-index-2026-08-10.md) if the goal is sorting by frequency, counterparty type, membership role, and physical embedding
+- extend the [Marketplace Systems Index](/indexes/marketplace-systems-index-2026-08-10.md) if the goal is sorting by frequency, counterparty type, membership role, and physical embedding
 - extend the comparison later with another mobility, delivery, or merchant-software name only if it adds a clearly different coordination structure

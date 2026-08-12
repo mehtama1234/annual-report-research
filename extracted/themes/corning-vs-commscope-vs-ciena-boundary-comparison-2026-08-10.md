@@ -22,10 +22,10 @@ The useful question is which physical or network layer each one most clearly own
 
 Related files:
 
-- [Control-Layer And Connectivity Infrastructure Systems](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
-- [Control-Layer Connectivity Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
-- [Connectivity Infrastructure Physical-Layer Map](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
-- [Vistance Networks, Inc. Company Packet](/home/manishmehta/ui-projects/annual-report-research/extracted/technology/networking-communication-devices/commscope-holding-company-inc/company-packet.md)
+- [Control-Layer And Connectivity Infrastructure Systems](/extracted/themes/control-layer-and-connectivity-infrastructure-systems-2026-08-10.md)
+- [Control-Layer Connectivity Systems Index](/indexes/control-layer-connectivity-systems-index-2026-08-10.md)
+- [Connectivity Infrastructure Physical-Layer Map](/extracted/themes/connectivity-infrastructure-physical-layer-map-2026-08-10.md)
+- [Vistance Networks, Inc. Company Packet](/extracted/technology/networking-communication-devices/commscope-holding-company-inc/company-packet.md)
 
 ## Executive read
 

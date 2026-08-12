@@ -10,11 +10,11 @@ It is intended to cover one of the main structural blind spots in `AnnualReports
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Retail System Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-system-crosswalk-2026-08-10.md)
-- [DTC Versus Channel-Control Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
-- [Consumer Goods Sector Synthesis](/home/manishmehta/ui-projects/annual-report-research/extracted/consumer-goods/consumer-goods-sector-synthesis-2026-08-09.md)
-- [Recurring Behavior Crosswalk](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/recurring-behavior-crosswalk-2026-08-09.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Retail System Crosswalk](/extracted/themes/retail-system-crosswalk-2026-08-10.md)
+- [DTC Versus Channel-Control Crosswalk](/extracted/themes/dtc-vs-channel-control-crosswalk-2026-08-10.md)
+- [Consumer Goods Sector Synthesis](/extracted/consumer-goods/consumer-goods-sector-synthesis-2026-08-09.md)
+- [Recurring Behavior Crosswalk](/extracted/themes/recurring-behavior-crosswalk-2026-08-09.md)
 
 ## Executive read
 

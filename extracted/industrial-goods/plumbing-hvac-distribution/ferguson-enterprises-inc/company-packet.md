@@ -87,8 +87,8 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/source-ledger.md)
+- [company-profile.md](/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-profile.md)
+- [source-ledger.md](/extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/source-ledger.md)
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/annualreports-verification.md)
 - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/ir-source-links.md)
 - [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/sec-source-links.md)

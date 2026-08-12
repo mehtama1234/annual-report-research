@@ -10,11 +10,11 @@ This memo therefore groups retail-like operators by operating model rather than 
 
 Related files:
 
-- [AnnualReports Taxonomy Blind Spots](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
-- [Retail Versus Marketplace Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md)
-- [Retail Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/retail-systems-index-2026-08-10.md)
-- [Retail sector synthesis](/home/manishmehta/ui-projects/annual-report-research/extracted/retail/retail-sector-synthesis-2026-08-09.md)
-- [Consumer Interface Research Index](/home/manishmehta/ui-projects/annual-report-research/indexes/consumer-interface-research-index-2026-08-09.md)
+- [AnnualReports Taxonomy Blind Spots](/extracted/themes/annualreports-taxonomy-blind-spots-2026-08-10.md)
+- [Retail Versus Marketplace Boundary](/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md)
+- [Retail Systems Index](/indexes/retail-systems-index-2026-08-10.md)
+- [Retail sector synthesis](/extracted/retail/retail-sector-synthesis-2026-08-09.md)
+- [Consumer Interface Research Index](/indexes/consumer-interface-research-index-2026-08-09.md)
 
 ## Executive read
 
@@ -239,7 +239,7 @@ That means retail is not just a store sector. It is one of the clearest windows 
 
 ## Next best extensions
 
-- maintain and extend the [Retail Systems Index](/home/manishmehta/ui-projects/annual-report-research/indexes/retail-systems-index-2026-08-10.md) if the goal is easier sorting by retail subtype, source sector, and second monetization layer
-- reuse the [Retail Versus Marketplace Boundary](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md) memo if the goal is to separate inventory-led retail, retailer-service hybrids, marketplace retail, and coordination layers more explicitly
+- maintain and extend the [Retail Systems Index](/indexes/retail-systems-index-2026-08-10.md) if the goal is easier sorting by retail subtype, source sector, and second monetization layer
+- reuse the [Retail Versus Marketplace Boundary](/extracted/themes/retail-versus-marketplace-boundary-2026-08-10.md) memo if the goal is to separate inventory-led retail, retailer-service hybrids, marketplace retail, and coordination layers more explicitly
 - add one more weaker or culturally loaded discretionary retailer if the goal is to sharpen the brand-led middle and lower tiers
 - connect this memo to a dedicated DTC-versus-channel-control crosswalk, since brand-led retail is one of the strongest blind-spot systems already visible in the archive

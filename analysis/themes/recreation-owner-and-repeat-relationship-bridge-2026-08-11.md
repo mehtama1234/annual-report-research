@@ -9,17 +9,17 @@ Collection window:
 
 Primary packet set used here:
 
-- [Host Hotels & Resorts, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-hotel-motel/host-hotels-resorts-inc/company-packet.md)
-- [Apple Hospitality REIT, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-hotel-motel/apple-hospitality-reit-inc/company-packet.md)
-- [Sunstone Hotel Investors, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/real-estate/reit-hotel-motel/sunstone-hotel-investors-inc/company-packet.md)
-- [Ulta Beauty, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
-- [Chewy, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
-- [Bath & Body Works, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/retail/specialty-retail-other/bath-body-works/company-packet.md)
+- [Host Hotels & Resorts, Inc.](/extracted/real-estate/reit-hotel-motel/host-hotels-resorts-inc/company-packet.md)
+- [Apple Hospitality REIT, Inc.](/extracted/real-estate/reit-hotel-motel/apple-hospitality-reit-inc/company-packet.md)
+- [Sunstone Hotel Investors, Inc.](/extracted/real-estate/reit-hotel-motel/sunstone-hotel-investors-inc/company-packet.md)
+- [Ulta Beauty, Inc.](/extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md)
+- [Chewy, Inc.](/extracted/services/retail-catalog-mail-order-houses/chewy-inc/company-packet.md)
+- [Bath & Body Works, Inc.](/extracted/retail/specialty-retail-other/bath-body-works/company-packet.md)
 
 Supporting lane context:
 
-- [Recreation, Lifestyle, And Participation Proof Page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/recreation-participation-proof-page-2026-08-11.md)
-- [Recreation Home, Gifting, And Hosting Proof Page](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/recreation-home-gifting-and-hosting-proof-page-2026-08-11.md)
+- [Recreation, Lifestyle, And Participation Proof Page](/analysis/themes/recreation-participation-proof-page-2026-08-11.md)
+- [Recreation Home, Gifting, And Hosting Proof Page](/analysis/themes/recreation-home-gifting-and-hosting-proof-page-2026-08-11.md)
 
 ## The question
 

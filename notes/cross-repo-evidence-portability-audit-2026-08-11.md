@@ -33,8 +33,8 @@ It does not treat the documented Google Drive raw-offload model itself as a defe
 
 For that intended model, see:
 
-- [raw-blob-offload-readme-2026-08-10.md](/home/manishmehta/ui-projects/annual-report-research/notes/raw-blob-offload-readme-2026-08-10.md)
-- [raw-blob-offload-summary-2026-08-10.tsv](/home/manishmehta/ui-projects/annual-report-research/indexes/raw-blob-offload-summary-2026-08-10.tsv)
+- [raw-blob-offload-readme-2026-08-10.md](/notes/raw-blob-offload-readme-2026-08-10.md)
+- [raw-blob-offload-summary-2026-08-10.tsv](/indexes/raw-blob-offload-summary-2026-08-10.tsv)
 
 ## Top-level content concentration
 

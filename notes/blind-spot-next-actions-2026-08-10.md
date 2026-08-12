@@ -40,9 +40,9 @@ Pick the next task by asking:
 
 Before taking a name, also check the concrete roster at:
 
-- [AnnualReports Noncovered Ownership Rule](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
-- [AnnualReports Noncovered Priority Company Roster](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md)
-- [AnnualReports Noncovered No-Overlap Matrix](/home/manishmehta/ui-projects/annual-report-research/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
+- [AnnualReports Noncovered Ownership Rule](/indexes/annualreports-noncovered-ownership-rule-2026-08-10.md)
+- [AnnualReports Noncovered Priority Company Roster](/indexes/annualreports-noncovered-priority-company-roster-2026-08-10.md)
+- [AnnualReports Noncovered No-Overlap Matrix](/indexes/annualreports-noncovered-no-overlap-matrix-2026-08-10.md)
 
 ## Highest-value next moves now
 
@@ -66,7 +66,7 @@ If another worker asks what this thread should own while the normal sector threa
 Best current move:
 
 - extend the existing behind-the-shelf lane only if another name materially sharpens packaging conversion versus broader packaging-format control versus substrate supply versus route-density environmental service versus plant-embedded control
-- use [Behind-The-Shelf Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md) before selecting the next name inside this lane
+- use [Behind-The-Shelf Extension Shortlist](/indexes/behind-the-shelf-extension-shortlist-2026-08-10.md) before selecting the next name inside this lane
 - `Clean Harbors` is now the first live extension case already packetized in the repo for the route-density-versus-specialized-environmental-service split
 - `Republic Services` is now the first live scale-peer route-density extension already packetized in the repo beside `Waste Management`
 - `Sonoco` is now the first live packaging-format and container-control extension already packetized in the repo beyond `Graphic Packaging` and `Clearwater Paper`
@@ -91,7 +91,7 @@ Best current move:
 
 - extend the newer `Cloudflare` / `Akamai` / `Cisco` / `Arista Networks` / `Palo Alto Networks` / `Ciena` / `CommScope` / `Corning` lane only if another name adds a genuinely different edge-control, delivery-transition, installed-base enterprise-networking, architecture-specialist AI networking, enterprise-trust, optical-transport, downstream connectivity-equipment, or optical-input structure
 - extend the newer `American Tower` / `Crown Castle` / `SBA Communications` / `Cogent` / `Iridium` / `Viasat` lane only if another name adds a genuinely different tower-rent, stricter private-fiber ownership, satellite-resilience, or private-infrastructure structure
-- use [Control-Layer Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/control-layer-extension-shortlist-2026-08-10.md) and [Hidden Connectivity Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md) before taking a new name in either lane
+- use [Control-Layer Extension Shortlist](/indexes/control-layer-extension-shortlist-2026-08-10.md) and [Hidden Connectivity Extension Shortlist](/indexes/hidden-connectivity-extension-shortlist-2026-08-10.md) before taking a new name in either lane
 - `Akamai` is now the live delivery-to-security and edge-compute transition extension beside `Cloudflare`, `Cisco`, and `Palo Alto Networks`
 - `Arista Networks` is now the live architecture-specialist AI-networking and observability extension beside `Cisco` and `Palo Alto Networks`
 - `CommScope` is now the live downstream connectivity-equipment and broadband-access residual extension beside `Ciena` and `Corning`
@@ -111,9 +111,9 @@ Why this is second:
 
 Best current move:
 
-- reuse the current `United Rentals` / `Fastenal` / `Ferguson` split together with the live [WESCO Versus Applied Industrial Technologies Versus Core & Main Boundary Comparison](/home/manishmehta/ui-projects/annual-report-research/extracted/themes/wesco-vs-applied-vs-core-main-boundary-comparison-2026-08-10.md)
+- reuse the current `United Rentals` / `Fastenal` / `Ferguson` split together with the live [WESCO Versus Applied Industrial Technologies Versus Core & Main Boundary Comparison](/extracted/themes/wesco-vs-applied-vs-core-main-boundary-comparison-2026-08-10.md)
 - extend the lane only if another name adds a genuinely different access-over-ownership, embedded procurement, branch-density service, broad infrastructure-channel, engineering-heavy MRO, or civic-failure-response structure
-- use [Physical Execution Extension Shortlist](/home/manishmehta/ui-projects/annual-report-research/indexes/physical-execution-extension-shortlist-2026-08-10.md) before taking a new workflow-control name
+- use [Physical Execution Extension Shortlist](/indexes/physical-execution-extension-shortlist-2026-08-10.md) before taking a new workflow-control name
 
 Why this is third:
 

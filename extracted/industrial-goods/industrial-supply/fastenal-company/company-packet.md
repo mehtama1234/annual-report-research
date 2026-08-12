@@ -88,8 +88,8 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-supply/fastenal-company/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-supply/fastenal-company/source-ledger.md)
+- [company-profile.md](/extracted/industrial-goods/industrial-supply/fastenal-company/company-profile.md)
+- [source-ledger.md](/extracted/industrial-goods/industrial-supply/fastenal-company/source-ledger.md)
 - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/2025-10k.html)
 - [2025-annual-report-ars.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/industrial-goods/industrial-supply/fastenal-company/2025-annual-report-ars.pdf)
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/industrial-supply/fastenal-company/annualreports-verification.md)

@@ -88,8 +88,8 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [company-profile.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/company-profile.md)
-- [source-ledger.md](/home/manishmehta/ui-projects/annual-report-research/extracted/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/source-ledger.md)
+- [company-profile.md](/extracted/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/company-profile.md)
+- [source-ledger.md](/extracted/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/source-ledger.md)
 - [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/2025-annual-report.pdf)
 - [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/annualreports-verification.md)
 - [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/ir-source-links.md)

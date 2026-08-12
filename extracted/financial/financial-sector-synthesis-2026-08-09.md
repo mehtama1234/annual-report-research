@@ -7,34 +7,34 @@ Date baseline: 2026-08-09
 This synthesis is based on the completed financial packets currently in the archive:
 
 - Money-center banks:
-  - [JPMorgan Chase & Co.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/money-center-banks/jpmorgan-chase-co/company-packet.md)
-  - [Bank of America Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/money-center-banks/bank-of-america-corporation/company-packet.md)
-  - [Citigroup Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/money-center-banks/citigroup-inc/company-packet.md)
+  - [JPMorgan Chase & Co.](/extracted/financial/money-center-banks/jpmorgan-chase-co/company-packet.md)
+  - [Bank of America Corporation](/extracted/financial/money-center-banks/bank-of-america-corporation/company-packet.md)
+  - [Citigroup Inc.](/extracted/financial/money-center-banks/citigroup-inc/company-packet.md)
 - Consumer payments / credit:
-  - [American Express Company](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/credit-services/american-express-company/company-packet.md)
+  - [American Express Company](/extracted/financial/credit-services/american-express-company/company-packet.md)
 - Insurance:
-  - [Chubb Limited](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/property-casualty-insurance/chubb-limited/company-packet.md)
+  - [Chubb Limited](/extracted/financial/property-casualty-insurance/chubb-limited/company-packet.md)
 - Public and hybrid asset management:
-  - [T. Rowe Price Group, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/t-rowe-price-group-inc/company-packet.md)
-  - [Franklin Resources, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/franklin-resources-inc/company-packet.md)
-  - [Invesco Ltd.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/invesco-ltd/company-packet.md)
-  - [BlackRock, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/blackrock-inc/company-packet.md)
-  - [State Street Corp.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/state-street-corp/company-packet.md)
+  - [T. Rowe Price Group, Inc.](/extracted/financial/asset-management/t-rowe-price-group-inc/company-packet.md)
+  - [Franklin Resources, Inc.](/extracted/financial/asset-management/franklin-resources-inc/company-packet.md)
+  - [Invesco Ltd.](/extracted/financial/asset-management/invesco-ltd/company-packet.md)
+  - [BlackRock, Inc.](/extracted/financial/asset-management/blackrock-inc/company-packet.md)
+  - [State Street Corp.](/extracted/financial/asset-management/state-street-corp/company-packet.md)
 - Alternatives:
-  - [Blackstone Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/blackstone-inc/company-packet.md)
-  - [Apollo Global Management, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/apollo-global-management-inc/company-packet.md)
-  - [KKR & Co. Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/kkr-co-inc/company-packet.md)
-  - [Ares Management Corporation](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/ares-management-corporation/company-packet.md)
-  - [The Carlyle Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/the-carlyle-group-inc/company-packet.md)
+  - [Blackstone Inc.](/extracted/financial/asset-management/blackstone-inc/company-packet.md)
+  - [Apollo Global Management, Inc.](/extracted/financial/asset-management/apollo-global-management-inc/company-packet.md)
+  - [KKR & Co. Inc.](/extracted/financial/asset-management/kkr-co-inc/company-packet.md)
+  - [Ares Management Corporation](/extracted/financial/asset-management/ares-management-corporation/company-packet.md)
+  - [The Carlyle Group Inc.](/extracted/financial/asset-management/the-carlyle-group-inc/company-packet.md)
 - Market and data infrastructure:
-  - [CME Group Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/investment-brokerage-national/cme-group-inc/company-packet.md)
-  - [S&P Global Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/investment-brokerage-national/sp-global-inc/company-packet.md)
+  - [CME Group Inc.](/extracted/financial/investment-brokerage-national/cme-group-inc/company-packet.md)
+  - [S&P Global Inc.](/extracted/financial/investment-brokerage-national/sp-global-inc/company-packet.md)
 
 The source window is the `2025` annual report plus the last three reported quarters in scope as of `2026-08-09`: `Q4 2025`, `Q1 2026`, and `Q2 2026`.
 
 Related focused memo:
 
-- [Financial Interface Framework](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/themes/financial-interface-framework-2026-08-09.md)
+- [Financial Interface Framework](/extracted/financial/themes/financial-interface-framework-2026-08-09.md)
 
 ## Executive read
 

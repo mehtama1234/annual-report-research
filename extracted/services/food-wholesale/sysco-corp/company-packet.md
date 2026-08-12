@@ -1,6 +1,6 @@
 # Sysco Corporation Company Packet
 
-Date baseline: 2026-08-10
+Date baseline: 2026-08-12
 
 ## Snapshot
 
@@ -14,13 +14,13 @@ Date baseline: 2026-08-10
   - quarter 1: `Q4 FY26`
   - quarter 2: `Q3 FY26`
   - quarter 3: `Q2 FY26`
-- Proof status in current repo: `qualified`
+- Proof status in current repo: `proven`
 
 ## Source state
 
 - AnnualReports is used here for taxonomy and archive-confirmation context only; as of `2026-08-10`, it still lagged at `2024`.
 - Company IR and SEC are the authoritative annual-plus-quarter chain for this packet.
-- The packet is analytically strong and locally inspectable through the annual filing plus the `Q2 FY26` and `Q3 FY26` filed chains, but it is still not a proof-standard case because the matching local `Q4 FY26` filed wrapper and year-end filed report were not present in the reviewed raw tree.
+- The packet is analytically strong and now locally inspectable through the annual filing plus the full `Q2 FY26`, `Q3 FY26`, and `Q4 FY26` release-and-filing chain.
 
 ## Annual report takeaways
 
@@ -34,7 +34,7 @@ Date baseline: 2026-08-10
 
 ### Most recent quarter: Q4 FY26
 
-- Results: the `Q4 FY26` earnings release PDF is saved locally, giving the packet a current-quarter operating read even though a matching local `8-K` wrapper and year-end filed report were not present in the current raw tree at packet-audit time.
+- Results: the `Q4 FY26` earnings release PDF plus the matching SEC `8-K` wrapper and press-release exhibit are now saved locally, giving the packet a current-quarter operating read with the full release-and-filing chain preserved.
 - Structural read: this quarter matters because it shows whether away-from-home demand, hospitality throughput, and restaurant activity remained healthy into summer `2026`. It is the freshest operating check for the physical participation economy in this batch.
 - Management message: Sysco's current-quarter materials continue to frame performance around sales growth, case growth, gross-profit control, and execution against local-customer and sourcing initiatives rather than around headline consumer sentiment alone.
 
@@ -76,6 +76,8 @@ Date baseline: 2026-08-10
 - [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q3-10q.html)
 - [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q3-8k.html)
 - [2026-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q3-press-release.html)
+- [2026-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q4-8k.html)
+- [2026-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q4-press-release.html)
 - [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2025-q4-8k.html)
 - [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2025-q4-press-release.html)
 
@@ -91,9 +93,9 @@ Date baseline: 2026-08-10
 - The authority ordering is explicit:
   - AnnualReports for taxonomy and archive lag confirmation
   - company IR and SEC for the authoritative annual and quarter chain
-- The main current weakness is narrow and specific:
-  - `Q4 FY26` is locally proven at earnings-release level
-  - the matching local `8-K` wrapper and year-end filed report were not present in the reviewed raw tree
+- The remaining nuance is temporal, not evidentiary:
+  - `Q4 FY26` is now locally proven through the earnings release, the SEC `8-K` wrapper, and the attached press-release exhibit
+  - the FY2026 `10-K` was not yet due as of `2026-08-10`, so it should not be treated as a missing artifact inside the required latest-three-quarters window
 - The right reading standard today is:
-  - strong enough for thematic interpretation and lane comparison
-  - still `qualified`, not fully `proven`, for thin-lane filing-window closeout work
+  - fully `proven` for annual-plus-quarter filing coverage and lane comparison work
+  - still imperfect only in the narrow sense that no local prepared remarks or full earnings-call transcript are preserved

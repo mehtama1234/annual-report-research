@@ -1,6 +1,6 @@
 # Sysco Corporation
 
-Date baseline: 2026-08-10
+Date baseline: 2026-08-12
 
 ## Identity
 
@@ -43,7 +43,7 @@ Date baseline: 2026-08-10
 
 | Quarter | Earnings release | Filing | Transcript | Key headline |
 |---|---|---|---|---|
-| `Q4 FY26` | [2026-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/food-wholesale/sysco-corp/2026-q4-earnings-release.pdf) | `8-K` wrapper not yet saved locally in the current raw tree | none collected | Current-quarter release materials are saved locally and provide the freshest read on away-from-home food demand, sales growth, and execution into summer `2026`. |
+| `Q4 FY26` | [2026-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/food-wholesale/sysco-corp/2026-q4-earnings-release.pdf) and [2026-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q4-press-release.html) | [2026-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q4-8k.html) | none collected | Sales increased `4.7%`, U.S. Foodservice volume increased `2.5%`, adjusted EPS increased `3.4%` to `$1.53`, and FY2027 guidance called for `6%-7%` sales growth plus `9%-11%` adjusted EPS growth on a `53-week` basis. |
 | `Q3 FY26` | [2026-q3-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/food-wholesale/sysco-corp/2026-q3-earnings-release.pdf) and [2026-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q3-press-release.html) | [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q3-10q.html) and [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q3-8k.html) | none collected | Sales grew `4.7%`, U.S. Foodservice volume grew `2.3%`, and adjusted EPS was `$0.94`. |
 | `Q2 FY26` | [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/food-wholesale/sysco-corp/2026-q2-earnings-release.pdf) and [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q2-press-release.html) | [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q2-10q.html) and [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q2-8k.html) | none collected | Sales grew `3.0%`, U.S. Foodservice volume grew `0.8%`, and adjusted EPS was `$0.99`. |
 
@@ -54,6 +54,7 @@ Date baseline: 2026-08-10
 - Local-customer strength: the quarter chain places unusual emphasis on U.S. local case growth, which makes Sysco a useful read on independent restaurant health rather than only on broad institutional foodservice.
 - Operating character: unlike Signet or Marriott, Sysco is not monetizing aspiration or identity directly. It is monetizing physical throughput, logistics density, and purchasing discipline underneath the experience economy.
 - Lane role: Sysco gives the recreation / participation lane its clearest non-glamorous infrastructure anchor and helps prove that the broader consumer story requires real supply-chain execution to convert into cash flow.
+- Evidence quality: the packet now reads as `proven` because the target annual plus latest-three-quarters chain is locally preserved at annual-report, earnings-release, and SEC filing-wrapper level; the absence of an FY2026 `10-K` on `2026-08-10` was a timing issue, not a missing-proof issue.
 
 ## Open questions
 

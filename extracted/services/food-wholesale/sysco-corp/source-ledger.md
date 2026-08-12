@@ -1,6 +1,6 @@
 # Source Ledger
 
-Date baseline: 2026-08-10
+Date baseline: 2026-08-12
 
 Use evidence tags:
 
@@ -35,6 +35,8 @@ Use evidence tags:
 | SYY-T18 | Sysco Q3 FY26 press-release exhibit | 2026-04-29 | SEC-hosted earnings exhibit | Detailed quarter metrics and commentary for `Q3 FY26` | `[Filed]` | [2026-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q3-press-release.html) |
 | SYY-T19 | Sysco Q4 FY26 earnings release PDF | 2026-07-29 | IR earnings release PDF | Freshest quarter-release evidence for fiscal `2026` year-end | `[Disclosed]` | [2026-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/food-wholesale/sysco-corp/2026-q4-earnings-release.pdf) |
 | SYY-T20 | SEC submissions JSON for Sysco | 2026-08-10 | SEC index JSON | Confirms issuer identity and filing sequence across the packet chain | `[Filed]` | [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/sec-submissions.json) |
+| SYY-T21 | Sysco Q4 FY26 earnings 8-K | 2026-08-04 | SEC filing HTML | Wrapper filing for fourth-quarter fiscal `2026` results | `[Filed]` | [2026-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q4-8k.html) |
+| SYY-T22 | Sysco Q4 FY26 press-release exhibit | 2026-08-04 | SEC-hosted earnings exhibit | Detailed quarter and full-year metrics plus FY2027 guidance and AI-efficiency framing | `[Filed]` | [2026-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q4-press-release.html) |
 
 ## Reconciliation notes
 
@@ -44,9 +46,9 @@ Use evidence tags:
   - AnnualReports for taxonomy and archive-lag confirmation
   - company IR and SEC for the authoritative annual and quarter chain
 - The local evidence chain is stronger than many other thin-lane names because it includes official IR quarter PDFs, IR results-page snapshots, and the SEC annual and quarter filing chain.
-- The `Q4 FY26` release PDF is saved locally, but a matching local `8-K` wrapper was not present in the current raw tree when this ledger was written.
+- The packet is now `proven` for annual-plus-quarter coverage because AnnualReports taxonomy confirmation exists, official IR annual and quarter routing is locally preserved, the `2025` annual filing is local, and the required `Q4 FY26`, `Q3 FY26`, and `Q2 FY26` chain is locally preserved through release materials, SEC wrappers, and filed quarterlies where applicable.
+- The FY2026 `10-K` was not yet due as of `2026-08-10`, so it should not be treated as a missing artifact inside the required latest-three-quarters window.
 
 ## Missing evidence
 
-- No local `Q4 FY26` `8-K` wrapper or `10-K`/`10-Q` for that quarter-year-end reporting point was present in the current raw tree at write time.
 - No local prepared remarks or full earnings-call transcript capture was collected for `Q2 FY26`, `Q3 FY26`, or `Q4 FY26`.

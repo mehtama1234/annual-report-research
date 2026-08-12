@@ -245,5 +245,5 @@ Reason: test whether the cleaner underwriting-and-float case extends beyond Mark
 3. [Apollo Global Management, Inc.](/home/manishmehta/ui-projects/annual-report-research/extracted/financial/asset-management/apollo-global-management-inc/company-packet.md)
 Reason: deepen the insurance-linked capital-architecture comparison against Brookfield and the hybrid insurer models.
 
-4. A second pure life-insurance flagship such as `Prudential Financial, Inc.` if later added.
-Reason: the life-insurance bucket is still the main pure-anchor gap inside this thinner balance-sheet comparison set.
+4. A third pure life-insurance flagship only if broader closure becomes more valuable than another lane gap.
+Reason: `MetLife` and `Prudential` now give the archive a real two-name life-insurance comparison, so the remaining question is depth rather than absence.

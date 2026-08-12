@@ -214,17 +214,17 @@ Already strong:
 
 Still thin or still needing a cleaner comparison set:
 
-- life insurance is still mostly `MetLife`
+- life insurance now has a real second flagship anchor through `Prudential Financial, Inc.`, but the comparison set is still thinner than the broker and regional-bank clusters
 - mortgage REIT is now explicitly represented through `Annaly`, but still as a single pure anchor rather than a broader comparison set
 - savings and loans is not yet a real explicit packet cluster
 - retail REIT is now explicit through `Simon` and `Realty Income`, so it is no longer a major unresolved bucket
 
 Best exact next names:
 
-1. `Prudential Financial, Inc.` to make life insurance a real comparison instead of a one-name read
-2. another mortgage REIT only if the goal is to turn `Annaly` from explicit anchor into a fuller subcluster
-3. `New York Community Bancorp, Inc.` or the best available surviving public thrift / savings analog if the goal is to create a true savings-and-loans comparison set
-4. a second life-insurance or liability-management name only if the goal is maximum closure beyond `MetLife`
+1. another mortgage REIT only if the goal is to turn `Annaly` from explicit anchor into a fuller subcluster
+2. `New York Community Bancorp, Inc.` or the best available surviving public thrift / savings analog if the goal is to create a true savings-and-loans comparison set
+3. a third life-insurance or liability-management name only if the goal is maximum closure beyond `MetLife` and `Prudential`
+4. a stronger local-artifact rebuild for `Prudential Financial, Inc.` only if the goal is proof-standard tightening rather than lane closure
 
 Why these names matter:
 
@@ -298,7 +298,7 @@ Current state:
 If the goal is to move the original-goal audit from mostly `partial` to mostly `achieved`, the highest-yield sequence is:
 
 1. close the thinnest bucket gaps with the best role-filling names:
-   `Prudential`, `Annaly`, and either `Dell` or `HP`, with `Cigna` and `Tenet` now moved from target to completed anchors
+   `Annaly` and either `Dell` or `HP`, with `Cigna`, `Tenet`, and `Prudential` now moved from target to completed anchors
 2. run a targeted quarter-window and source-authority audit on those additions plus the other highest-priority thin-lane anchors
 3. selectively upgrade the most abstract older framework notes with proof-page style exact evidence
 

@@ -158,17 +158,17 @@ The thin areas are the exact capital-heavy archive targets:
 
 #### Highest-value remaining work
 
-1. Add a second and third life-insurance anchor.
+1. Deepen the life-insurance comparison now that `Prudential Financial, Inc.` gives the lane a second flagship anchor.
 2. Add a second mortgage REIT or a cleaner spread-risk comparison.
 3. Add at least one more conglomerate or allocator packet and place it in a lane-appropriate structure.
 4. Tighten the comparison between fee-like intermediaries and heavier spread-risk balance-sheet models.
 
 #### Best next names
 
-1. `Prudential Financial, Inc.`
-2. `AGNC Investment Corp.`
-3. `Berkshire Hathaway Inc.`
-4. `Apollo Global Management, Inc.`
+1. `AGNC Investment Corp.`
+2. `Berkshire Hathaway Inc.`
+3. `Apollo Global Management, Inc.`
+4. a third life-insurance name only if broader closure is more valuable than another lane gap
 
 ### Recreation, Lifestyle, And Participation
 
@@ -249,10 +249,10 @@ The new proof pages solved part of the original problem, but the strongest remai
 1. `Eli Lilly and Company`
 2. `HP Inc.`
 3. `TE Connectivity plc`
-4. `Prudential Financial, Inc.`
-5. `AGNC Investment Corp.`
-6. `Sysco Corporation`
-7. `Williams-Sonoma, Inc.`
+4. `AGNC Investment Corp.`
+5. `Sysco Corporation`
+6. `Williams-Sonoma, Inc.`
+7. a pure-play healthcare-IT or hospital-workflow name
 8. `Universal Health Services, Inc.` only if a third hospital comparator becomes more valuable than another lane gap
 
 ## Bottom line

@@ -14,13 +14,13 @@ Date baseline: 2026-08-12
   - quarter 1: `Q3 FY2026` ended `2026-06-30`
   - quarter 2: `Q2 FY2026` ended `2026-03-31`
   - quarter 3: `Q1 FY2026` ended `2025-12-31`
-- Proof status in current repo: `qualified`
+- Proof status in current repo: `proven`
 
 ## Source state
 
 - AnnualReports is used here for taxonomy and archive confirmation, and it still labels the company as `Savings & Loans`.
 - Company IR and SEC are the authoritative chain for the `2025` annual report and the latest three reported quarters as of `2026-08-10`.
-- The official investor page, official financial-news PDFs, annual-report link, and SEC filing chain were verified directly, but a local raw-artifact chain was not rebuilt in this workspace.
+- The official investor page, official financial-news PDFs, annual-report materials, AnnualReports taxonomy page, and SEC filing chain are now rebuilt as local raw artifacts in this workspace.
 
 ## Annual report takeaways
 
@@ -62,22 +62,23 @@ Date baseline: 2026-08-12
 
 ## Source pointers
 
-- AnnualReports taxonomy: https://www.annualreports.com/Company/washington-federal-inc
-- Official investor overview: https://www.wafdbank.com/about-us/investor-relations
-- Official financial news page: https://www.wafdbank.com/about-us/investor-relations/financial-news
-- Official annual report PDF: https://www.wafdbank.com/documents/wfsl-financial-data/wafd-bank-2025-annual-report.pdf
-- SEC annual report filing index (`ARS`): https://www.sec.gov/Archives/edgar/data/936528/000093652825000122/0000936528-25-000122-index.htm
-- SEC annual report PDF: https://www.sec.gov/Archives/edgar/data/936528/000093652825000122/wafdarfinal.pdf
-- `2025` `10-K`: https://www.sec.gov/Archives/edgar/data/936528/000093652825000117/wfsl-20250930.htm
-- Official `Q1 FY2026` earnings PDF: https://www.wafdbank.com/documents/financial-news/2026/wafd-bank-press-release-20260115.pdf
-- `Q1 FY2026` `8-K`: https://www.sec.gov/Archives/edgar/data/936528/000093652826000011/wfsl-20260115.htm
-- `Q1 FY2026` `10-Q`: https://www.sec.gov/Archives/edgar/data/936528/000093652826000020/wfsl-20251231.htm
-- Official `Q2 FY2026` earnings PDF: https://www.wafdbank.com/documents/financial-news/2026/wafd-bank-press-release-20260416.pdf
-- `Q2 FY2026` `8-K`: https://www.sec.gov/Archives/edgar/data/936528/000093652826000038/wfsl-20260416.htm
-- `Q2 FY2026` `10-Q`: https://www.sec.gov/Archives/edgar/data/936528/000093652826000043/wfsl-20260331.htm
-- Official `Q3 FY2026` earnings PDF: https://www.wafdbank.com/documents/financial-news/2026/wafd-bank-press-release-20260716.pdf
-- `Q3 FY2026` `8-K`: https://www.sec.gov/Archives/edgar/data/936528/000093652826000055/wfsl-20260716.htm
-- `Q3 FY2026` `10-Q` filing index: https://www.sec.gov/Archives/edgar/data/936528/000093652826000061/0000936528-26-000061-index.htm
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/financial/savings-loans/wafd-inc/company-page.html)
+- [investor-overview.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/savings-loans/wafd-inc/investor-overview.html)
+- [financial-news.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/savings-loans/wafd-inc/financial-news.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/savings-loans/wafd-inc/2025-annual-report.pdf)
+- [2025-annual-report-index.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/savings-loans/wafd-inc/2025-annual-report-index.html)
+- [2025-sec-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/savings-loans/wafd-inc/2025-sec-annual-report.pdf)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/savings-loans/wafd-inc/2025-10k.html)
+- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/savings-loans/wafd-inc/2026-q1-earnings-release.pdf)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/savings-loans/wafd-inc/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/savings-loans/wafd-inc/2026-q1-10q.html)
+- [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/savings-loans/wafd-inc/2026-q2-earnings-release.pdf)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/savings-loans/wafd-inc/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/savings-loans/wafd-inc/2026-q2-10q.html)
+- [2026-q3-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/savings-loans/wafd-inc/2026-q3-earnings-release.pdf)
+- [2026-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/savings-loans/wafd-inc/2026-q3-8k.html)
+- [2026-q3-10q-index.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/savings-loans/wafd-inc/2026-q3-10q-index.html)
+- [2026-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/financial/savings-loans/wafd-inc/2026-q3-10q.html)
 
 ## Evidence-status note
 
@@ -85,10 +86,9 @@ Date baseline: 2026-08-12
 - The authority ordering is explicit:
   - AnnualReports for taxonomy and archive confirmation
   - company IR and SEC for the authoritative annual and quarter chain
-- The main current weakness is artifact locality, not period definition:
-  - the official annual-report and quarter-release PDFs were verified
-  - the SEC filing chain was verified
-  - a clean local raw-artifact chain was not rebuilt in this workspace
+- The annual-plus-quarter artifact chain is now locally inspectable:
+  - the AnnualReports taxonomy page, official investor overview, official financial-news hub, annual-report PDFs, and in-scope quarter-release PDFs are preserved locally
+  - the SEC annual filing, annual-report index, in-scope `8-K` filings, and all three in-scope `10-Q` filings are preserved locally
 - The right reading standard today is:
-  - strong enough for thematic interpretation and thrift-versus-bank comparison work
-  - still `qualified`, not fully `proven`, until the annual-plus-quarter artifact chain is rebuilt locally
+  - fully `proven` for annual-plus-quarter filing coverage and thrift-versus-bank comparison work
+  - still imperfect only in the narrower sense that no local call transcript or prepared-remarks artifacts are preserved

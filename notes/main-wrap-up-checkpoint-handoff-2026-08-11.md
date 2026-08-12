@@ -42,7 +42,7 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 
 ## Qualified companies
 
-- `Tenet Healthcare`: usable for hospital-lane comparison, but the packet still carries a remaining proof-standard artifact gap.
+- None in the current proof-tightening queue.
 
 ## Partial companies
 

@@ -1,12 +1,12 @@
 # Tenet Healthcare Corporation Packet
 
-Date baseline: 2026-08-11
+Date baseline: `2026-08-12`
 
 ## Snapshot
 
-- Company: Tenet Healthcare Corporation
-- Sector: Healthcare
-- Industry: Medical Care Facilities
+- Company: `Tenet Healthcare Corporation`
+- Sector: `Healthcare`
+- Industry: `Medical Care Facilities`
 - Ticker: `THC`
 - Fiscal year-end: December 31
 - Target annual report year: 2025
@@ -14,13 +14,14 @@ Date baseline: 2026-08-11
   - quarter 1: `Q2 2026`
   - quarter 2: `Q1 2026`
   - quarter 3: `Q4 2025`
-- Proof status in current repo: `qualified`
+- Proof status in current repo: `proven`
 
 ## Source state
 
 - AnnualReports is used here for taxonomy and archive confirmation.
 - Company IR press-release and financials pages plus SEC filings are the authoritative annual-plus-quarter chain for this packet.
-- The official annual filing, official quarterly press pages, and SEC filing chain were verified directly, but a clean local raw-artifact chain was not rebuilt in this workspace, so the current proof standard depends on verified official URLs plus the SEC filing chain rather than locally saved binaries.
+- The AnnualReports company page, annual `10-K`, in-scope `8-K` wrappers, in-scope earnings-release exhibits, and both in-scope `10-Q` filings are now locally inspectable in this workspace.
+- Direct shell retrieval attempts to `investor.tenethealth.com` returned `429` in this workspace, so the official IR routing and page-level confirmations are preserved in a local verification note instead.
 
 ## Annual report takeaways
 
@@ -32,21 +33,21 @@ Date baseline: 2026-08-11
 
 ## Quarter-by-quarter takeaways
 
-### Most recent quarter: Q2 2026
+### Most recent quarter: `Q2 2026`
 
 - Results: net operating revenues were about `$5.628B`, net income available to common shareholders was about `$826M` or `$9.84` per diluted share, and adjusted EBITDA was about `$1.304B`.
 - Operating detail: second-quarter `2026` adjusted EBITDA margin was about `23.2%`; hospital adjusted EBITDA margin increased to about `18.0%` from `15.6%` in the prior year quarter despite payer-mix headwinds.
 - Strategic read: Tenet raised full-year `2026` adjusted EBITDA outlook to about `$4.83B` to `$5.03B` and adjusted free cash flow outlook to about `$2.725B` to `$3.025B`, which reinforces that provider earnings can still expand when same-store revenue growth, acuity, and expense discipline outrun payer pressure.
 - Pressure signal: the quarter still showed lower exchange admissions and unfavorable payer mix, even as the hospital segment benefited from about `$92M` of favorable pre-tax Medicaid supplemental revenue tied to prior years.
 
-### Quarter minus 1: Q1 2026
+### Quarter minus 1: `Q1 2026`
 
 - Results: net operating revenues were about `$5.368B`, net income available to common shareholders was about `$702M` or `$8.01` per diluted share, and adjusted EBITDA was about `$1.162B`.
 - Operating detail: first-quarter `2026` ambulatory care adjusted EBITDA was about `$484M`; hospital adjusted EBITDA was about `$678M`, down from about `$707M` in the prior year quarter.
-- Structural read: Q1 showed how hospital economics can stay operationally strong while reported quality is still dragged by payer mix. Same-hospital net patient service revenue per adjusted admission fell about `1.5%` year over year, partly because prior-year Medicaid supplemental benefits did not repeat and exchange admissions were lower.
+- Structural read: `Q1 2026` showed how hospital economics can stay operationally strong while reported quality is still dragged by payer mix. Same-hospital net patient service revenue per adjusted admission fell about `1.5%` year over year, partly because prior-year Medicaid supplemental benefits did not repeat and exchange admissions were lower.
 - Special item: the company also recognized an approximate `$40M` favorable non-recurring pre-tax impact tied to previously deferred revenue associated with the CommonSpirit agreement.
 
-### Quarter minus 2: Q4 2025
+### Quarter minus 2: `Q4 2025`
 
 - Results: fourth-quarter net operating revenues were about `$5.527B`, net income available to common shareholders was about `$371M` or `$4.22` per diluted share, and adjusted EBITDA was about `$1.183B`.
 - Full-year readthrough: fiscal `2025` net operating revenues were about `$21.310B`, adjusted EBITDA was about `$4.566B`, free cash flow was about `$2.53B`, and the ratio of net debt to adjusted EBITDA improved to about `2.25x`.
@@ -61,31 +62,29 @@ Date baseline: 2026-08-11
 
 ## Source pointers
 
-- AnnualReports taxonomy: https://www.annualreports.com/Company/tenet-healthcare-corp
-- Official financials and SEC filings page: https://investor.tenethealth.com/financials-and-sec-filings/default.aspx
-- Official press releases page: https://investor.tenethealth.com/press-releases/default.aspx
-- Official `Q4 2025` press release page: https://investor.tenethealth.com/press-releases/press-release-details/2026/Tenet-Reports-Strong-Fourth-Quarter-and-FY-2025-Results-Provides-2026-Financial-Outlook/default.aspx
-- Official `Q1 2026` press release page: https://investor.tenethealth.com/press-releases/press-release-details/2026/Tenet-Reports-Strong-First-Quarter-2026-Results/default.aspx
-- Official `Q2 2026` press release page: https://investor.tenethealth.com/press-releases/press-release-details/2026/Tenet-Reports-Strong-Second-Quarter-2026-Results-Raises-2026-Financial-Outlook/default.aspx
-- `2025` `10-K`: https://www.sec.gov/Archives/edgar/data/70318/000007031826000012/thc-20251231.htm
-- `Q4 2025` earnings release exhibit: https://www.sec.gov/Archives/edgar/data/70318/000007031826000007/thc-20251231ex991earningsr.htm
-- `Q4 2025` `8-K`: https://www.sec.gov/Archives/edgar/data/70318/000007031826000007/thc-20260211.htm
-- `Q1 2026` earnings release exhibit: https://www.sec.gov/Archives/edgar/data/70318/000007031826000023/thc-20260331ex991earningsr.htm
-- `Q1 2026` `8-K`: https://www.sec.gov/Archives/edgar/data/70318/000007031826000023/thc-20260430.htm
-- `Q1 2026` `10-Q`: https://www.sec.gov/Archives/edgar/data/70318/000007031826000026/thc-20260331.htm
-- `Q2 2026` earnings release exhibit: https://www.sec.gov/Archives/edgar/data/70318/000007031826000032/thc-20260630ex991earningsr.htm
-- `Q2 2026` `8-K`: https://www.sec.gov/Archives/edgar/data/70318/000007031826000032/thc-20260723.htm
-- `Q2 2026` `10-Q`: https://www.sec.gov/Archives/edgar/data/70318/000007031826000037/thc-20260630.htm
+- [company-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/healthcare/medical-care-facilities/tenet-healthcare-corp/company-page.html)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/healthcare/medical-care-facilities/tenet-healthcare-corp/official-ir-verification.md)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/medical-care-facilities/tenet-healthcare-corp/2025-10k.html)
+- [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/medical-care-facilities/tenet-healthcare-corp/2025-q4-press-release.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/medical-care-facilities/tenet-healthcare-corp/2025-q4-8k.html)
+- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/medical-care-facilities/tenet-healthcare-corp/2026-q1-press-release.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/medical-care-facilities/tenet-healthcare-corp/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/medical-care-facilities/tenet-healthcare-corp/2026-q1-10q.html)
+- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/medical-care-facilities/tenet-healthcare-corp/2026-q2-press-release.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/medical-care-facilities/tenet-healthcare-corp/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/medical-care-facilities/tenet-healthcare-corp/2026-q2-10q.html)
 
 ## Evidence-status note
 
-- The filing window used here is explicit and internally consistent with the company profile and source ledger.
+- The filing window used in this packet is explicit and internally consistent with the company profile and source ledger.
 - The authority ordering is explicit:
   - AnnualReports for taxonomy and archive confirmation
   - company IR and SEC for the authoritative annual and quarter chain
-- The main current weakness is artifact locality, not period definition:
-  - the authoritative official URLs and SEC filing chain are verified
-  - a clean local raw-artifact chain was not rebuilt in this workspace
+- The annual-plus-quarter artifact chain is now locally inspectable:
+  - AnnualReports company page
+  - official IR verification note
+  - SEC annual filing
+  - in-scope earnings-release exhibits, `8-K` wrappers, and `10-Q` filings
 - The right reading standard today is:
-  - strong enough for thematic interpretation and hospital comparison work
-  - still `qualified`, not fully `proven`, until the annual-plus-quarter artifact chain is saved locally in the same way as the cleanest proof-standard packets
+  - fully `proven` for annual-plus-quarter filing coverage and hospital comparison work
+  - still imperfect only in the narrower sense that no local prepared-remarks or transcript artifact is preserved

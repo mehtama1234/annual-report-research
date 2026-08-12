@@ -14,13 +14,13 @@ Date baseline: 2026-08-12
   - quarter 1: `Q2 2026`
   - quarter 2: `Q1 2026`
   - quarter 3: `Q4 2025`
-- Proof status in current repo: `qualified`
+- Proof status in current repo: `proven`
 
 ## Source state
 
 - No usable AnnualReports company page surfaced during the `2026-08-12` check, so AnnualReports could not be used as the taxonomy anchor for this name.
 - Company IR and SEC are the authoritative annual-plus-quarter chain for this packet.
-- The official investor-relations site, official results releases, SEC filing index, and SEC annual-plus-quarter filing chain were verified directly, but a clean local raw-artifact chain was not rebuilt in this workspace, so the current proof standard depends on verified official URLs plus the SEC filing chain rather than locally saved binaries.
+- The official investor-relations site, official results releases, SEC filing index, and SEC annual-plus-quarter filing chain are now rebuilt as local raw artifacts in this workspace, so the packet is locally inspectable through the full annual-plus-quarter window.
 
 ## Annual report takeaways
 
@@ -62,17 +62,17 @@ Date baseline: 2026-08-12
 
 ## Source pointers
 
-- Official investor-relations overview: https://investors.waystar.com/investor-relations/
-- Official SEC filings page: https://investors.waystar.com/financial-information/sec-filings/
-- Official `Q4 2025` results page: https://investors.waystar.com/news-releases/news-release-details/waystar-reports-fourth-quarter-and-fiscal-year-2025-results/
-- Official `Q1 2026` results page: https://investors.waystar.com/news-releases/news-release-details/waystar-reports-first-quarter-2026-results/
-- Official `Q2 2026` results page: https://investors.waystar.com/news-releases/news-release-details/waystar-reports-second-quarter-2026-results/
-- `2025` `10-K`: https://www.sec.gov/Archives/edgar/data/1990354/000199035426000011/way-20251231.htm
-- `Q4 2025` `8-K`: https://www.sec.gov/Archives/edgar/data/1990354/000199035426000012/way-20260217.htm
-- `Q1 2026` `10-Q`: https://www.sec.gov/Archives/edgar/data/1990354/000199035426000025/way-20260331.htm
-- `Q1 2026` `8-K`: https://www.sec.gov/Archives/edgar/data/1990354/000199035426000024/way-20260429.htm
-- `Q2 2026` `10-Q`: https://www.sec.gov/Archives/edgar/data/1990354/000199035426000035/way-20260630.htm
-- `Q2 2026` `8-K`: https://www.sec.gov/Archives/edgar/data/1990354/000199035426000034/way-20260729.htm
+- [investor-relations-overview.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/healthcare-information-services/waystar-holding-corp/investor-relations-overview.html)
+- [sec-filings-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/healthcare-information-services/waystar-holding-corp/sec-filings-page.html)
+- [2025-q4-results-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/healthcare-information-services/waystar-holding-corp/2025-q4-results-page.html)
+- [2026-q1-results-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/healthcare-information-services/waystar-holding-corp/2026-q1-results-page.html)
+- [2026-q2-results-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/healthcare-information-services/waystar-holding-corp/2026-q2-results-page.html)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/healthcare-information-services/waystar-holding-corp/2025-10k.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/healthcare-information-services/waystar-holding-corp/2025-q4-8k.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/healthcare-information-services/waystar-holding-corp/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/healthcare-information-services/waystar-holding-corp/2026-q1-10q.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/healthcare-information-services/waystar-holding-corp/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/healthcare-information-services/waystar-holding-corp/2026-q2-10q.html)
 
 ## Evidence-status note
 
@@ -80,9 +80,9 @@ Date baseline: 2026-08-12
 - The authority ordering is explicit:
   - company IR and SEC for the authoritative annual and quarter chain
   - no usable AnnualReports company page surfaced during the check, so AnnualReports could not serve as taxonomy confirmation for this name
-- The main current weakness is artifact locality, not period definition:
-  - the authoritative official URLs and SEC filing chain are verified
-  - a clean local raw-artifact chain was not rebuilt in this workspace
+- The annual-plus-quarter artifact chain is now locally inspectable:
+  - the official IR overview, filings hub, and in-scope quarterly results pages are preserved locally
+  - the SEC annual filing, `Q4 2025` `8-K`, and both in-scope quarterly `8-K` and `10-Q` filings are preserved locally
 - The right reading standard today is:
-  - strong enough for thematic interpretation and healthcare-information workflow comparison work
-  - still `qualified`, not fully `proven`, until the annual-plus-quarter artifact chain is saved locally in the same way as the cleanest proof-standard packets
+  - fully `proven` for annual-plus-quarter filing coverage and healthcare-information workflow comparison work
+  - still imperfect only in the narrower sense that no local prepared-remarks or transcript artifacts are preserved

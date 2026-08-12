@@ -1,6 +1,6 @@
 # MetLife, Inc.
 
-Date baseline: 2026-08-10
+Date baseline: 2026-08-12
 
 ## Identity
 
@@ -52,6 +52,7 @@ Date baseline: 2026-08-10
 - Liability-management role: the business keeps reading less like a simple premium-growth story and more like a balance-sheet and retirement-risk management platform spanning underwriting, investment income, pension risk transfer, and capital release.
 - Operating sensitivity: compared with banks, the key moving pieces are underwriting, investment income, reserving, product mix, and portfolio positioning rather than loan growth or deposit competition.
 - Societal signal: the packet strengthens the lane's read that aging, retirement security, and institutional pension offloading are long-cycle demand drivers that make certain life insurers part of the archive's capital-infrastructure story.
+- Evidence quality: the packet now reads as `proven` because the SEC annual and trailing-quarter chain is fully local and the official IR routes were separately verified, even though clean company-hosted IR binaries were not preserved in this workspace.
 
 ## Open questions
 

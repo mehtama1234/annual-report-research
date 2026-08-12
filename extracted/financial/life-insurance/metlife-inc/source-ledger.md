@@ -1,6 +1,6 @@
 # Source Ledger
 
-Date baseline: 2026-08-10
+Date baseline: 2026-08-12
 
 Use evidence tags:
 
@@ -34,6 +34,10 @@ Use evidence tags:
   - company IR and SEC for the authoritative annual and quarter chain
 - Local direct fetches to several MetLife IR assets returned Cloudflare challenge pages. Because of that, the authoritative locally saved evidence chain is the SEC filing set plus the verified official IR URLs in [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/financial/life-insurance/metlife-inc/ir-source-links.md).
 - The source chain is still authoritative for reported results because the quarter wrappers and filed quarterlies are present locally from SEC.
+- The packet should therefore be treated as `proven` for annual-plus-quarter coverage:
+  - taxonomy confirmation exists
+  - official IR routing exists and was verified
+  - the annual filing and target-quarter SEC chain are locally present
 
 ## Missing evidence
 

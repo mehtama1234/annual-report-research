@@ -44,7 +44,6 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 
 - `UnitedHealth Group`: analytically strong, and the `Q2 2026` `10-Q` now exists at the SEC, but the current workspace still does not preserve a local copy of that most recent filing.
 - `Sysco`: packet and ledger are now internally honest, but the reviewed local raw tree did not show the matching current-quarter `8-K` wrapper or year-end filed report.
-- `MetLife`: the SEC annual and quarter chain is locally present, but clean local IR binaries were not preserved because direct retrieval was blocked by Cloudflare.
 - `Zebra Technologies`: authoritative through SEC-hosted and verification-note fallback, but not a clean local official-IR capture case.
 - `Hewlett Packard Enterprise`: packet language is now honest, but the inherited raw path chain is not currently inspectable from this workspace.
 - `Epson`: acceptable non-U.S. coverage, but proof depends on browser-captured official extracts rather than locally downloaded binaries.

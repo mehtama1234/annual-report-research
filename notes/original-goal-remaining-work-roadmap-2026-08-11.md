@@ -52,17 +52,17 @@ Healthcare is still thin in the large scaled recurring-care anchors that the use
 
 #### Highest-value remaining work
 
-1. Add a second and third flagship health-plan packet so the payer layer is not represented by only one anchor.
+1. Deepen the payer comparison now that `The Cigna Group` gives the lane a second flagship health-plan anchor.
 2. Add at least one more hospital or scaled care-delivery anchor.
 3. Add one or two more major drug manufacturers to strengthen the comparison between recurring therapeutic demand and care-delivery burden.
 4. Tighten the bridge between enabling-layer economics and burdened care-delivery economics in the existing synthesis pages.
 
 #### Best next names
 
-1. `The Cigna Group`
-2. `Tenet Healthcare Corporation` or `Universal Health Services, Inc.`
-3. `Eli Lilly and Company`
-4. `Merck & Co., Inc.`
+1. `Tenet Healthcare Corporation` or `Universal Health Services, Inc.`
+2. `Eli Lilly and Company`
+3. `Merck & Co., Inc.`
+4. a stronger long-term-care or scaled-care comparator if broader direct-care contrast is the goal
 
 ### CLI 5: Connectivity, Telecom, And Technical Infrastructure
 
@@ -246,7 +246,7 @@ The new proof pages solved part of the original problem, but the strongest remai
 
 ## Best exact next batch if the goal is to close the highest-value gaps fast
 
-1. `The Cigna Group`
+1. `Tenet Healthcare Corporation`
 2. `Eli Lilly and Company`
 3. `HP Inc.`
 4. `TE Connectivity plc`

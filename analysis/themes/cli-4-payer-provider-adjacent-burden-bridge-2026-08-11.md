@@ -27,7 +27,7 @@ If the archive still lacks a literal second major payer and a literal second maj
 The short answer is:
 
 - yes, but only if it is precise
-- the archive still does not have a full pure-play `UnitedHealth` versus `Cigna` or `HCA` versus `Tenet` comparison
+- the archive now has a real pure-play `UnitedHealth` versus `Cigna` comparison, but it still does not have a full pure-play `HCA` versus `Tenet` comparison
 - it does have enough adjacent evidence to show how payer and provider burden spill into the middle layers around them
 
 That matters because it makes the healthcare story less binary.
@@ -149,7 +149,7 @@ This is the honest end-state.
 
 | Gap | What is now true | What is still not true |
 |---|---|---|
-| Managed-care comparison depth | The archive can now compare pure payer burden with payer-adjacent delegated-risk infrastructure through `UnitedHealth` and `Astrana`. | The archive still does not have a true second major managed-care flagship like `Cigna`. |
+| Managed-care comparison depth | The archive can now compare one pure payer against another through `UnitedHealth` and `Cigna`, and can also compare pure payer burden with payer-adjacent delegated-risk infrastructure through `Astrana`. | The archive still has a shallower payer comparison set than some other healthcare subclusters, and `Cigna` is currently `qualified` rather than fully `proven` in local artifact terms. |
 | Hospital comparison depth | The archive can now compare pure hospital-operator burden with provider-adjacent supply and workflow burden through `HCA` and `Baxter`. | The archive still does not have a true second major hospital operator like `Tenet`. |
 
 ### Why this supports the bigger conclusion
@@ -185,9 +185,9 @@ the archive can now show how payer and provider burden spread into the adjacent 
 
 ## Exact next targets to deepen this bridge
 
-1. `The Cigna Group` remains the cleanest pure second payer target.
-2. `Tenet Healthcare Corporation` remains the cleanest pure second hospital target.
-3. A direct hospital-IT, revenue-cycle, or provider-admin platform could deepen the adjacent burden layer even further.
+1. `Tenet Healthcare Corporation` remains the cleanest pure second hospital target.
+2. A direct hospital-IT, revenue-cycle, or provider-admin platform could deepen the adjacent burden layer even further.
+3. A stronger local-artifact rebuild for `The Cigna Group` would upgrade the payer comparison from `qualified` to cleaner proof-standard status.
 
 ## Queue status
 

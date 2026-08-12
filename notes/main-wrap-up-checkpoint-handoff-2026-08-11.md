@@ -87,10 +87,10 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 
 ## Exact next targets
 
-1. `The Cigna Group` to create a second pure payer comparison against `UnitedHealth`.
-2. `Tenet Healthcare Corporation` to give hospitals a second operator and sharpen reimbursement-versus-execution contrast.
-3. A pure-play healthcare-IT or hospital-workflow company to make the `CLI 5` healthcare-information bridge a true subcluster rather than an adjacent bridge.
-4. `Prudential Financial, Inc.` to turn life insurance from a one-anchor read into a real comparison set.
+1. `Tenet Healthcare Corporation` to give hospitals a second operator and sharpen reimbursement-versus-execution contrast.
+2. A pure-play healthcare-IT or hospital-workflow company to make the `CLI 5` healthcare-information bridge a true subcluster rather than an adjacent bridge.
+3. `Prudential Financial, Inc.` to turn life insurance from a one-anchor read into a real comparison set.
+4. A second pure mortgage-REIT or thrift-style analog only if the goal is maximum bucket closure rather than practical closure.
 
 ## Open gaps
 
@@ -103,8 +103,8 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 
 - Strongest signal already proved: control, trust, and workflow owners usually earn cleaner economics than the most burdened direct operators around them.
 - Strongest signal still tentative: whether the thinnest remaining role gaps would materially change the lane conclusions or mainly strengthen comparison quality.
-- Exact next company most likely to improve the archive: `The Cigna Group`.
-- Exact next test that company should run: whether managed-care economics still look structurally cleaner than direct-care delivery once the comparison is no longer carried mostly by `UnitedHealth`.
+- Exact next company most likely to improve the archive: `Tenet Healthcare Corporation`.
+- Exact next test that company should run: whether a second hospital operator confirms that direct-care delivery remains structurally more burdened than the surrounding workflow, tools, diagnostics, and distribution layers.
 
 ## Next-step instruction
 

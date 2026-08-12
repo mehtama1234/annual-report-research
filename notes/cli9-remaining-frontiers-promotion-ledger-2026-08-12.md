@@ -193,6 +193,27 @@ Offload rule:
 4. Offload any supporting raw evidence for the kept names to Drive and record a pointer note.
 5. Leave the huge blind-spot index/note surface for a separate integration pass.
 
+## August 12 review result
+
+The healthcare text-review pass was completed on `2026-08-12`.
+
+Result: no packet or synthesis files from this healthcare salvage set were promoted to `main`.
+
+Why:
+
+- Johnson & Johnson, Pfizer, Brookdale, and HCA only differed by local link rewrites from worktree-specific raw paths to the canonical `annual-report-research/raw/...` paths already used on `main`.
+- UnitedHealth was a regression relative to `main`:
+  - older date baseline
+  - removal of `proven` status language
+  - removal of the locally preserved `Q2 2026` `10-Q`
+- Stryker pointed at an obsolete sibling workspace path (`annual-report-research-cli8-middle-layer`) rather than improving the canonical source chain.
+- Abbott, Baxter, Boston Scientific, Intuitive Surgical, Thermo Fisher, and the healthcare sector synthesis produced no net text diff against `main` in this review pass.
+
+Operational conclusion:
+
+- Treat the healthcare salvage portion of `cli9-remaining-frontiers` as closed for packet promotion.
+- Any further value in this worktree is more likely to come from curated raw offload or from the broader blind-spot planning surface, not from direct packet merges.
+
 ## Short Version
 
 `cli9-remaining-frontiers` is not a merge candidate. It is a salvage candidate.

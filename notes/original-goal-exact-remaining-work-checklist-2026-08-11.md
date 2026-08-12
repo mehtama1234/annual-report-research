@@ -153,20 +153,20 @@ Already strong:
 Still thin or still needing a cleaner comparison set:
 
 - managed-care / health plans now has a real second pure flagship anchor through `The Cigna Group`, but the comparison set is still shallower than some other healthcare subclusters
-- hospitals still lack a second pure flagship operator, but adjacent burden comparison is now stronger through `Baxter`
+- hospitals now have a real second pure flagship operator through `Tenet Healthcare Corporation`, but the comparison set is still shallower than some other healthcare subclusters
 - long-term care facilities still center on `Brookdale`
 - major drug manufacturers are present, but a cleaner quality-growth comparator would improve the lane
 
 Best exact next names:
 
-1. `Tenet Healthcare Corporation` to give hospitals a second operator and sharpen reimbursement versus execution differences
-2. `Ventas, Inc.` only if the goal is to tighten care-property exposure against direct operators and senior-living burden
-3. `Eli Lilly and Company` to add a higher-quality pharma-growth anchor against the more burdened recurring-care layers
-4. another long-term-care or scaled-care operator only if the goal is broader care-delivery comparison rather than practical closure
+1. `Ventas, Inc.` only if the goal is to tighten care-property exposure against direct operators and senior-living burden
+2. `Eli Lilly and Company` to add a higher-quality pharma-growth anchor against the more burdened recurring-care layers
+3. another long-term-care or scaled-care operator only if the goal is broader care-delivery comparison rather than practical closure
+4. a stronger local-artifact rebuild for `Tenet Healthcare Corporation` only if the goal is proof-standard tightening rather than lane closure
 
 Why these names matter:
 
-- they close the remaining pure-anchor payer and hospital thin spots rather than the broader healthcare burden map
+- they deepen the remaining healthcare comparison and burden-split questions rather than fill a still-missing pure-anchor hospital role
 - they improve the burden split between direct care delivery, financing, tools, and therapeutic ownership
 
 ### CLI 5 Connectivity, Telecom, And Technical Infrastructure
@@ -298,7 +298,7 @@ Current state:
 If the goal is to move the original-goal audit from mostly `partial` to mostly `achieved`, the highest-yield sequence is:
 
 1. close the thinnest bucket gaps with the best role-filling names:
-   `Tenet`, `Prudential`, `Annaly`, and either `Dell` or `HP`, with `Cigna` now moved from target to completed anchor
+   `Prudential`, `Annaly`, and either `Dell` or `HP`, with `Cigna` and `Tenet` now moved from target to completed anchors
 2. run a targeted quarter-window and source-authority audit on those additions plus the other highest-priority thin-lane anchors
 3. selectively upgrade the most abstract older framework notes with proof-page style exact evidence
 

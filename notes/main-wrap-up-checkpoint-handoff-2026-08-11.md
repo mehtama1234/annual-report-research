@@ -29,14 +29,14 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 ## Lanes coherent but still thin at the edge
 
 - Recreation still has optional room for a deeper hotel-owner cluster or a broader everyday-participation counterweight.
-- `CLI 4` still benefits from a second pure payer anchor, a second pure hospital anchor, and a cleaner long-term-care or scaled-care contrast.
+- `CLI 4` now has second pure payer and second pure hospital anchors, but it still benefits from a cleaner long-term-care or scaled-care contrast.
 - `CLI 5` still benefits from a pure-play healthcare-IT or hospital-workflow comparator if the goal is maximum closure rather than practical closure.
 - `CLI 6` still benefits from a second life-insurance anchor and a cleaner savings-and-loans or thrift analog.
 
 ## Completed companies
 
 - Recreation flagship comparison sets already completed include `Marriott`, `Hilton`, `Hyatt`, `Choice`, `Wyndham`, `Host`, `Apple Hospitality`, `Sunstone`, `Caesars`, `Las Vegas Sands`, `MGM`, `DraftKings`, `RH`, `Wayfair`, `Williams-Sonoma`, `Etsy`, `Ulta`, `Signet`, `Chewy`, `Bath & Body Works`, `Sysco`, and `US Foods`.
-- `CLI 4` flagship comparison sets already completed include `HCA Healthcare`, `Brookdale`, `Abbott`, `Stryker`, `Intuitive Surgical`, `Thermo Fisher`, `Johnson & Johnson`, `Pfizer`, `Teva`, `Cencora`, `McKesson`, `Cardinal Health`, `Quest Diagnostics`, `Labcorp`, `Natera`, `Exact Sciences`, `Dexcom`, `Insulet`, `Boston Scientific`, `Becton Dickinson`, `West`, `Addus`, `Option Care`, `Aveanna`, `BrightSpring`, `Enhabit`, `DaVita`, `Chemed`, and `Astrana`.
+- `CLI 4` flagship comparison sets already completed include `HCA Healthcare`, `Tenet Healthcare`, `Brookdale`, `Abbott`, `Stryker`, `Intuitive Surgical`, `Thermo Fisher`, `Johnson & Johnson`, `Pfizer`, `Teva`, `Cencora`, `McKesson`, `Cardinal Health`, `Quest Diagnostics`, `Labcorp`, `Natera`, `Exact Sciences`, `Dexcom`, `Insulet`, `Boston Scientific`, `Becton Dickinson`, `West`, `Addus`, `Option Care`, `Aveanna`, `BrightSpring`, `Enhabit`, `DaVita`, `Chemed`, and `Astrana`.
 - `CLI 5` flagship comparison sets already completed include `Alphabet`, `AT&T`, `Verizon`, `T-Mobile`, `Charter`, `Comcast`, `Cogent`, `Lumen`, `EchoStar`, `Cloudflare`, `Akamai`, `Fastly`, `DigitalOcean`, `Zscaler`, `Fortinet`, `Palo Alto Networks`, `Arista`, `Cisco`, `Corning`, `Amphenol`, `Motorola Solutions`, `Keysight`, `Teledyne`, `Applied Materials`, `KLA`, `Lam Research`, `Teradyne`, `Dell`, `HP`, `HPE`, `Oracle`, `ServiceNow`, `Accenture`, `Leidos`, `CACI`, `Zebra`, and `Epson`.
 - `CLI 6` flagship comparison sets already completed include `Aon`, `Marsh McLennan`, `Gallagher`, `PNC`, `M&T Bank`, `Regions`, `Truist`, `U.S. Bancorp`, `MetLife`, `Annaly`, `Welltower`, `Ventas`, `Simon Property Group`, `Realty Income`, `Brookfield`, `Apollo`, `KKR`, `Blackstone`, `Ares`, `BlackRock`, `Berkshire Hathaway`, `Loews`, and `Markel`.
 
@@ -87,10 +87,10 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 
 ## Exact next targets
 
-1. `Tenet Healthcare Corporation` to give hospitals a second operator and sharpen reimbursement-versus-execution contrast.
-2. A pure-play healthcare-IT or hospital-workflow company to make the `CLI 5` healthcare-information bridge a true subcluster rather than an adjacent bridge.
-3. `Prudential Financial, Inc.` to turn life insurance from a one-anchor read into a real comparison set.
-4. A second pure mortgage-REIT or thrift-style analog only if the goal is maximum bucket closure rather than practical closure.
+1. A pure-play healthcare-IT or hospital-workflow company to make the `CLI 5` healthcare-information bridge a true subcluster rather than an adjacent bridge.
+2. `Prudential Financial, Inc.` to turn life insurance from a one-anchor read into a real comparison set.
+3. A second pure mortgage-REIT or thrift-style analog only if the goal is maximum bucket closure rather than practical closure.
+4. A stronger local-artifact rebuild for one of the highest-value qualified names if the goal is proof-standard tightening rather than lane closure.
 
 ## Open gaps
 
@@ -103,8 +103,8 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 
 - Strongest signal already proved: control, trust, and workflow owners usually earn cleaner economics than the most burdened direct operators around them.
 - Strongest signal still tentative: whether the thinnest remaining role gaps would materially change the lane conclusions or mainly strengthen comparison quality.
-- Exact next company most likely to improve the archive: `Tenet Healthcare Corporation`.
-- Exact next test that company should run: whether a second hospital operator confirms that direct-care delivery remains structurally more burdened than the surrounding workflow, tools, diagnostics, and distribution layers.
+- Exact next company most likely to improve the archive: `Prudential Financial, Inc.`.
+- Exact next test that company should run: whether a second life-insurance anchor confirms the trust-and-liability-management pattern already visible in `MetLife`.
 
 ## Next-step instruction
 

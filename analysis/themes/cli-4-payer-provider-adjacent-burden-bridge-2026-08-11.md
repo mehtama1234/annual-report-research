@@ -27,7 +27,7 @@ If the archive still lacks a literal second major payer and a literal second maj
 The short answer is:
 
 - yes, but only if it is precise
-- the archive now has a real pure-play `UnitedHealth` versus `Cigna` comparison, but it still does not have a full pure-play `HCA` versus `Tenet` comparison
+- the archive now has real pure-play `UnitedHealth` versus `Cigna` and `HCA` versus `Tenet` comparisons
 - it does have enough adjacent evidence to show how payer and provider burden spill into the middle layers around them
 
 That matters because it makes the healthcare story less binary.
@@ -150,7 +150,7 @@ This is the honest end-state.
 | Gap | What is now true | What is still not true |
 |---|---|---|
 | Managed-care comparison depth | The archive can now compare one pure payer against another through `UnitedHealth` and `Cigna`, and can also compare pure payer burden with payer-adjacent delegated-risk infrastructure through `Astrana`. | The archive still has a shallower payer comparison set than some other healthcare subclusters, and `Cigna` is currently `qualified` rather than fully `proven` in local artifact terms. |
-| Hospital comparison depth | The archive can now compare pure hospital-operator burden with provider-adjacent supply and workflow burden through `HCA` and `Baxter`. | The archive still does not have a true second major hospital operator like `Tenet`. |
+| Hospital comparison depth | The archive can now compare one pure hospital operator against another through `HCA` and `Tenet`, and can also compare pure hospital burden with provider-adjacent supply and workflow burden through `Baxter`. | The archive still has a shallower hospital comparison set than some other healthcare subclusters, and `Tenet` is currently `qualified` rather than fully `proven` in local artifact terms. |
 
 ### Why this supports the bigger conclusion
 
@@ -169,7 +169,7 @@ The right conclusion is:
 This note proves several useful things:
 
 1. Payer burden now has a stronger adjacent comparison through `Astrana`, even without a second pure managed-care giant.
-2. Hospital burden now has a stronger adjacent comparison through `Baxter`, even without a second pure hospital operator.
+2. Hospital burden now has a true operator comparison through `HCA` and `Tenet`, plus a stronger adjacent comparison through `Baxter`.
 3. The healthcare lane can now describe where burden leaks into the middle layer rather than treating payers and providers as isolated boxes.
 4. The exact remaining gap is narrower and more honest: pure second anchors are still desirable, but the system-level interpretation is stronger now.
 
@@ -177,7 +177,7 @@ This note proves several useful things:
 
 - It does not prove that `Astrana` is a substitute for `Cigna`.
 - It does not prove that `Baxter` is a substitute for `Tenet`.
-- It does not prove that the pure payer and pure provider comparison set is fully closed.
+- It does not prove that the healthcare lane needs no further depth work beyond the new second anchors.
 
 It proves something narrower and still valuable:
 
@@ -185,9 +185,9 @@ the archive can now show how payer and provider burden spread into the adjacent 
 
 ## Exact next targets to deepen this bridge
 
-1. `Tenet Healthcare Corporation` remains the cleanest pure second hospital target.
-2. A direct hospital-IT, revenue-cycle, or provider-admin platform could deepen the adjacent burden layer even further.
-3. A stronger local-artifact rebuild for `The Cigna Group` would upgrade the payer comparison from `qualified` to cleaner proof-standard status.
+1. A direct hospital-IT, revenue-cycle, or provider-admin platform could deepen the adjacent burden layer even further.
+2. A stronger local-artifact rebuild for `The Cigna Group` would upgrade the payer comparison from `qualified` to cleaner proof-standard status.
+3. A stronger local-artifact rebuild for `Tenet Healthcare Corporation` would upgrade the hospital comparison from `qualified` to cleaner proof-standard status.
 
 ## Queue status
 
@@ -197,6 +197,7 @@ Completed company set used directly in this memo:
 
 - UnitedHealth
 - HCA
+- Tenet
 - Astrana
 - Baxter
 

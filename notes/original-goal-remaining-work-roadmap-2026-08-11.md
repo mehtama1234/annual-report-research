@@ -53,15 +53,15 @@ Healthcare is still thin in the large scaled recurring-care anchors that the use
 #### Highest-value remaining work
 
 1. Deepen the payer comparison now that `The Cigna Group` gives the lane a second flagship health-plan anchor.
-2. Add at least one more hospital or scaled care-delivery anchor.
+2. Deepen the provider comparison now that `Tenet Healthcare Corporation` gives the lane a second flagship hospital anchor.
 3. Add one or two more major drug manufacturers to strengthen the comparison between recurring therapeutic demand and care-delivery burden.
 4. Tighten the bridge between enabling-layer economics and burdened care-delivery economics in the existing synthesis pages.
 
 #### Best next names
 
-1. `Tenet Healthcare Corporation` or `Universal Health Services, Inc.`
-2. `Eli Lilly and Company`
-3. `Merck & Co., Inc.`
+1. `Eli Lilly and Company`
+2. `Merck & Co., Inc.`
+3. `Universal Health Services, Inc.` only if the goal is a third large hospital comparator rather than practical closure
 4. a stronger long-term-care or scaled-care comparator if broader direct-care contrast is the goal
 
 ### CLI 5: Connectivity, Telecom, And Technical Infrastructure
@@ -246,14 +246,14 @@ The new proof pages solved part of the original problem, but the strongest remai
 
 ## Best exact next batch if the goal is to close the highest-value gaps fast
 
-1. `Tenet Healthcare Corporation`
-2. `Eli Lilly and Company`
-3. `HP Inc.`
-4. `TE Connectivity plc`
-5. `Prudential Financial, Inc.`
-6. `AGNC Investment Corp.`
-7. `Sysco Corporation`
-8. `Williams-Sonoma, Inc.`
+1. `Eli Lilly and Company`
+2. `HP Inc.`
+3. `TE Connectivity plc`
+4. `Prudential Financial, Inc.`
+5. `AGNC Investment Corp.`
+6. `Sysco Corporation`
+7. `Williams-Sonoma, Inc.`
+8. `Universal Health Services, Inc.` only if a third hospital comparator becomes more valuable than another lane gap
 
 ## Bottom line
 

@@ -16,7 +16,7 @@ Most of the cleanest economics in this archive do not come from the most visible
 
 **extracted/** — Individual company packets (100+ companies). Each includes annual takeaways, latest three quarters, operating model, strategy read, economics interpretation, and what comes next.
 
-**analysis/cross-sector/** — The biggest conclusions. Proof pages show how the same pattern repeats across three or more companies. Comparison memos pit two company models against each other to explain why one earns cleaner economics than the other. There are many comparison pages; [comparison-library-map-2026-08-12.md](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/comparison-library-map-2026-08-12.md) groups them so you can find the angle you want.
+**analysis/cross-sector/** — The biggest conclusions. Proof pages show how the same pattern repeats across three or more companies. Comparison memos pit two company models against each other to explain why one earns cleaner economics than the other. There are many comparison pages; [comparison-library-map-2026-08-12.md](/analysis/cross-sector/comparison-library-map-2026-08-12.md) groups them so you can find the angle you want.
 
 **analysis/themes/** — Lane-specific frameworks showing what the healthcare lane, connectivity lane, capital-markets lane, and lifestyle lane each teach us. Organized around ideas like workflow control, burden distribution, and where value actually concentrates.
 
@@ -26,15 +26,15 @@ Most of the cleanest economics in this archive do not come from the most visible
 
 ## If You Only Read Five Things
 
-1. [What this archive proves](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/what-this-archive-proves-2026-08-12.md) — The main proven findings in plain English, each backed by named companies. Start here.
+1. [What this archive proves](/analysis/cross-sector/what-this-archive-proves-2026-08-12.md) — The main proven findings in plain English, each backed by named companies. Start here.
 
-2. [Main wrap-up checkpoint](/home/manishmehta/ui-projects/annual-report-research/notes/main-wrap-up-checkpoint-handoff-2026-08-11.md) — Current state of the archive, what each lane found, strongest repeated signals.
+2. [Main wrap-up checkpoint](/notes/main-wrap-up-checkpoint-handoff-2026-08-11.md) — Current state of the archive, what each lane found, strongest repeated signals.
 
-3. [Concrete insights and curiosity map](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md) — How the archive builds arguments from company evidence. Shows the depth standard.
+3. [Concrete insights and curiosity map](/analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md) — How the archive builds arguments from company evidence. Shows the depth standard.
 
-4. [Four lane summaries](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/four-lane-summaries-2026-08-12.md) — Each of the four lanes on one page: what it covers, notable companies, what it proved, and who carries the burden.
+4. [Four lane summaries](/analysis/cross-sector/four-lane-summaries-2026-08-12.md) — Each of the four lanes on one page: what it covers, notable companies, what it proved, and who carries the burden.
 
-5. A comparison page from [analysis/cross-sector/](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/) — pick [access instead of ownership](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/access-instead-of-ownership-comparison-2026-08-11.md), [aging as operating reality](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/aging-as-operating-reality-comparison-2026-08-11.md), or [coordination toll without asset ownership](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/coordination-toll-without-asset-ownership-comparison-2026-08-11.md) to see one pattern backed by named companies.
+5. A comparison page from [analysis/cross-sector/](/analysis/cross-sector/) — pick [access instead of ownership](/analysis/cross-sector/access-instead-of-ownership-comparison-2026-08-11.md), [aging as operating reality](/analysis/cross-sector/aging-as-operating-reality-comparison-2026-08-11.md), or [coordination toll without asset ownership](/analysis/cross-sector/coordination-toll-without-asset-ownership-comparison-2026-08-11.md) to see one pattern backed by named companies.
 
 ## How to Read a Single Company Packet
 

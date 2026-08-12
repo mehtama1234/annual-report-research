@@ -22,19 +22,19 @@ This keeps raw evidence separate from downstream interpretation.
 
 If you just want to understand what this archive found — not continue the research — use the reader layer, not the operator briefs below:
 
-- [How to read this archive](/home/manishmehta/ui-projects/annual-report-research/notes/how-to-read-this-archive-2026-08-12.md) — the front door: what this is, the one central idea, and where to look.
-- [What this archive proves](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/what-this-archive-proves-2026-08-12.md) — the main proven findings in plain English, each backed by named companies.
-- [Four lane summaries](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/four-lane-summaries-2026-08-12.md) — each of the four research lanes on one page.
-- [Comparison library map](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/comparison-library-map-2026-08-12.md) — a grouped index into the detailed company-by-company comparison pages.
+- [How to read this archive](/notes/how-to-read-this-archive-2026-08-12.md) — the front door: what this is, the one central idea, and where to look.
+- [What this archive proves](/analysis/cross-sector/what-this-archive-proves-2026-08-12.md) — the main proven findings in plain English, each backed by named companies.
+- [Four lane summaries](/analysis/cross-sector/four-lane-summaries-2026-08-12.md) — each of the four research lanes on one page.
+- [Comparison library map](/analysis/cross-sector/comparison-library-map-2026-08-12.md) — a grouped index into the detailed company-by-company comparison pages.
 
 Everything below this point is for an operator who is continuing the research.
 
 Remote `main` currently carries the extracted, analysis, notes, and index layers, but not the heavy offloaded `raw/**` payload.
 If a packet cites a raw evidence path that is no longer present in the checkout, resolve it through:
 
-- [Raw blob offload readme](/home/manishmehta/ui-projects/annual-report-research/notes/raw-blob-offload-readme-2026-08-10.md)
-- [Raw evidence link policy](/home/manishmehta/ui-projects/annual-report-research/notes/raw-evidence-link-policy-2026-08-11.md)
-- [Legacy root reference audit](/home/manishmehta/ui-projects/annual-report-research/notes/legacy-root-reference-audit-2026-08-11.md)
+- [Raw blob offload readme](/notes/raw-blob-offload-readme-2026-08-10.md)
+- [Raw evidence link policy](/notes/raw-evidence-link-policy-2026-08-11.md)
+- [Legacy root reference audit](/notes/legacy-root-reference-audit-2026-08-11.md)
 - `python3 scripts/resolve-offloaded-raw-path.py 'raw/.../file.ext'`
 - `bash scripts/verify-raw-evidence-governance.sh`
 
@@ -42,25 +42,25 @@ If a packet cites a raw evidence path that is no longer present in the checkout,
 
 Start here:
 
-- [START-HERE.md](/home/manishmehta/ui-projects/annual-report-research/START-HERE.md)
+- [START-HERE.md](/START-HERE.md)
 
 That file points to the active operator brief, lane instructions, next-step workflow, and current handoff.
 Together those files define the end-to-end pursuit goal, the lane-level output standard, the `3` to `4` flagship-company batch rule, the handoff requirements, and the expanded lane coverage across recreation, healthcare frontier, connectivity / telecom / infra tech, and capital structures / property / conglomerates.
 
 If you want the shortest continuation-mode statement of what work is still left, which lanes matter most, and what outputs now count as real progress, use:
 
-- [Remaining meaty end-to-end operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
-- [Remaining end-to-end insight goal](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
-- [Remaining insight execution board](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-insight-execution-board-2026-08-11.md)
+- [Remaining meaty end-to-end operator brief](/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+- [Remaining end-to-end insight goal](/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
+- [Remaining insight execution board](/notes/remaining-insight-execution-board-2026-08-11.md)
 
 If you want the explicit audit trail for why those live surfaces now default to strengthening already-open lanes rather than restarting them from zero, use:
 
-- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
+- [Continuation mode alignment audit](/notes/continuation-mode-alignment-audit-2026-08-11.md)
 
 For the fastest lane-selection view, use:
 
-- [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
-- [Current execution queue](/home/manishmehta/ui-projects/annual-report-research/notes/current-execution-queue-2026-08-10.md)
+- [Active lane board](/notes/active-lane-board-2026-08-10.md)
+- [Current execution queue](/notes/current-execution-queue-2026-08-10.md)
 
 ## Why this exists
 
@@ -73,7 +73,7 @@ This workspace fills the missing middle: a disciplined repository of annual repo
 
 For the current cross-project fit, see:
 
-- [Annual report stack alignment](/home/manishmehta/ui-projects/annual-report-research/analysis/annual-report-stack-alignment-2026-08-09.md)
+- [Annual report stack alignment](/analysis/annual-report-stack-alignment-2026-08-09.md)
 
 ## Folder layout
 

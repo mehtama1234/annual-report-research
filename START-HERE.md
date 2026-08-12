@@ -3,33 +3,33 @@
 Date baseline: 2026-08-10
 Repo: `annual-report-research`
 
-This page is for an **operator continuing the research**. If you are a **reader** who just wants to understand what the archive found, use [How to read this archive](/home/manishmehta/ui-projects/annual-report-research/notes/how-to-read-this-archive-2026-08-12.md) instead — it is the reader front door and points to the plain-English findings.
+This page is for an **operator continuing the research**. If you are a **reader** who just wants to understand what the archive found, use [How to read this archive](/notes/how-to-read-this-archive-2026-08-12.md) instead — it is the reader front door and points to the plain-English findings.
 
 If you are starting work in this repo, read these files in this order:
 
-1. [Insight extraction hub](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-hub-2026-08-11.md)
-2. [End-to-end insight operator and review brief](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md)
-3. [Remaining meaty end-to-end operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
-4. [Remaining end-to-end insight goal](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
-5. [Remaining insight execution board](/home/manishmehta/ui-projects/annual-report-research/notes/remaining-insight-execution-board-2026-08-11.md)
-6. [Insight-driven next lane queue](/home/manishmehta/ui-projects/annual-report-research/notes/insight-driven-next-lane-queue-2026-08-11.md)
-7. [Lane end-to-end execution runbook](/home/manishmehta/ui-projects/annual-report-research/notes/lane-end-to-end-execution-runbook-2026-08-11.md)
-8. [Insight extraction templates](/home/manishmehta/ui-projects/annual-report-research/notes/insight-extraction-templates-2026-08-11.md)
-9. [Insight completion rubric](/home/manishmehta/ui-projects/annual-report-research/notes/insight-completion-rubric-2026-08-11.md)
-10. [Insight artifact manifest](/home/manishmehta/ui-projects/annual-report-research/notes/insight-artifact-manifest-2026-08-11.md)
-11. [Next steps](/home/manishmehta/ui-projects/annual-report-research/notes/next-steps.md)
-12. [Master operator brief](/home/manishmehta/ui-projects/annual-report-research/notes/master-operator-brief-2026-08-10.md)
-13. [End-to-end pursuit goal](/home/manishmehta/ui-projects/annual-report-research/notes/end-to-end-pursuit-goal-2026-08-10.md)
-14. [CLI lane instructions](/home/manishmehta/ui-projects/annual-report-research/indexes/cli-lane-instructions-2026-08-10.md)
-15. [Lane run template](/home/manishmehta/ui-projects/annual-report-research/templates/lane-run-template.md)
-16. [Batch log template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-log-template.md)
-17. [Theme memo template](/home/manishmehta/ui-projects/annual-report-research/templates/theme-memo.md)
-18. [Batch handoff template](/home/manishmehta/ui-projects/annual-report-research/templates/batch-handoff-template.md)
-19. [Status rubric](/home/manishmehta/ui-projects/annual-report-research/templates/status-rubric.md)
-20. [Post-batch integration checklist](/home/manishmehta/ui-projects/annual-report-research/templates/post-batch-integration-checklist.md)
-21. [Current handoff](/home/manishmehta/ui-projects/annual-report-research/notes/handoff-2026-08-10.md)
-22. [Active lane board](/home/manishmehta/ui-projects/annual-report-research/notes/active-lane-board-2026-08-10.md)
-23. [Current execution queue](/home/manishmehta/ui-projects/annual-report-research/notes/current-execution-queue-2026-08-10.md)
+1. [Insight extraction hub](/notes/insight-extraction-hub-2026-08-11.md)
+2. [End-to-end insight operator and review brief](/notes/end-to-end-insight-operator-and-review-brief-2026-08-11.md)
+3. [Remaining meaty end-to-end operator brief](/notes/remaining-meaty-end-to-end-operator-brief-2026-08-11.md)
+4. [Remaining end-to-end insight goal](/notes/remaining-end-to-end-insight-goal-2026-08-11.md)
+5. [Remaining insight execution board](/notes/remaining-insight-execution-board-2026-08-11.md)
+6. [Insight-driven next lane queue](/notes/insight-driven-next-lane-queue-2026-08-11.md)
+7. [Lane end-to-end execution runbook](/notes/lane-end-to-end-execution-runbook-2026-08-11.md)
+8. [Insight extraction templates](/notes/insight-extraction-templates-2026-08-11.md)
+9. [Insight completion rubric](/notes/insight-completion-rubric-2026-08-11.md)
+10. [Insight artifact manifest](/notes/insight-artifact-manifest-2026-08-11.md)
+11. [Next steps](/notes/next-steps.md)
+12. [Master operator brief](/notes/master-operator-brief-2026-08-10.md)
+13. [End-to-end pursuit goal](/notes/end-to-end-pursuit-goal-2026-08-10.md)
+14. [CLI lane instructions](/indexes/cli-lane-instructions-2026-08-10.md)
+15. [Lane run template](/templates/lane-run-template.md)
+16. [Batch log template](/templates/batch-log-template.md)
+17. [Theme memo template](/templates/theme-memo.md)
+18. [Batch handoff template](/templates/batch-handoff-template.md)
+19. [Status rubric](/templates/status-rubric.md)
+20. [Post-batch integration checklist](/templates/post-batch-integration-checklist.md)
+21. [Current handoff](/notes/handoff-2026-08-10.md)
+22. [Active lane board](/notes/active-lane-board-2026-08-10.md)
+23. [Current execution queue](/notes/current-execution-queue-2026-08-10.md)
 
 ## Current Archive State
 
@@ -84,10 +84,10 @@ Use these when you need to refresh or rerun the linked note-boundary and insight
 
 Current boundary artifacts:
 
-- [Note layer boundary audit report](/home/manishmehta/ui-projects/annual-report-research/notes/note-layer-boundary-audit-2026-08-11.md)
-- [Note layer boundary audit JSON](/home/manishmehta/ui-projects/annual-report-research/notes/note-layer-boundary-audit-2026-08-11.json)
-- [Insight artifact manifest](/home/manishmehta/ui-projects/annual-report-research/notes/insight-artifact-manifest-2026-08-11.md)
-- [Continuation mode alignment audit](/home/manishmehta/ui-projects/annual-report-research/notes/continuation-mode-alignment-audit-2026-08-11.md)
+- [Note layer boundary audit report](/notes/note-layer-boundary-audit-2026-08-11.md)
+- [Note layer boundary audit JSON](/notes/note-layer-boundary-audit-2026-08-11.json)
+- [Insight artifact manifest](/notes/insight-artifact-manifest-2026-08-11.md)
+- [Continuation mode alignment audit](/notes/continuation-mode-alignment-audit-2026-08-11.md)
 
 ## Raw Evidence Maintenance
 
@@ -103,29 +103,29 @@ If a packet, profile, or source ledger points at raw evidence that is not presen
 
 Supporting references:
 
-- [Raw evidence link policy](/home/manishmehta/ui-projects/annual-report-research/notes/raw-evidence-link-policy-2026-08-11.md)
-- [Raw blob offload readme](/home/manishmehta/ui-projects/annual-report-research/notes/raw-blob-offload-readme-2026-08-10.md)
-- [Legacy root reference audit](/home/manishmehta/ui-projects/annual-report-research/notes/legacy-root-reference-audit-2026-08-11.md)
+- [Raw evidence link policy](/notes/raw-evidence-link-policy-2026-08-11.md)
+- [Raw blob offload readme](/notes/raw-blob-offload-readme-2026-08-10.md)
+- [Legacy root reference audit](/notes/legacy-root-reference-audit-2026-08-11.md)
 
 ## Current integrated checkpoints
 
 Use these before opening a new batch if you want the current state rather than only the kickoff briefs:
 
-- [Concrete insights and curiosity map](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md)
-- [CLI 4 recurring-care framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
-- [CLI 5 control-point framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
-- [CLI 6 trust-intermediation framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-6-trust-intermediation-framework-2026-08-10.md)
-- [CLI 4 / 5 / 6 recurring-interface framework](/home/manishmehta/ui-projects/annual-report-research/analysis/themes/cli-4-5-6-recurring-interface-control-framework-2026-08-10.md)
-- [CLI 4 / 5 / 6 multi-lane handoff](/home/manishmehta/ui-projects/annual-report-research/notes/cli-4-5-6-multi-lane-handoff-2026-08-10.md)
+- [Concrete insights and curiosity map](/analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md)
+- [CLI 4 recurring-care framework](/analysis/themes/cli-4-recurring-care-and-workflow-control-framework-2026-08-10.md)
+- [CLI 5 control-point framework](/analysis/themes/cli-5-control-point-and-chokepoint-framework-2026-08-10.md)
+- [CLI 6 trust-intermediation framework](/analysis/themes/cli-6-trust-intermediation-framework-2026-08-10.md)
+- [CLI 4 / 5 / 6 recurring-interface framework](/analysis/themes/cli-4-5-6-recurring-interface-control-framework-2026-08-10.md)
+- [CLI 4 / 5 / 6 multi-lane handoff](/notes/cli-4-5-6-multi-lane-handoff-2026-08-10.md)
 
 ## Direct kickoff briefs
 
 Use these when you already know which lane you are opening:
 
-- [Recreation / participation kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/recreation-participation-kickoff-2026-08-10.md)
-- [CLI 4 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-4-kickoff-2026-08-10.md)
-- [CLI 5 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-5-kickoff-2026-08-10.md)
-- [CLI 6 kickoff brief](/home/manishmehta/ui-projects/annual-report-research/notes/cli-6-kickoff-2026-08-10.md)
+- [Recreation / participation kickoff brief](/notes/recreation-participation-kickoff-2026-08-10.md)
+- [CLI 4 kickoff brief](/notes/cli-4-kickoff-2026-08-10.md)
+- [CLI 5 kickoff brief](/notes/cli-5-kickoff-2026-08-10.md)
+- [CLI 6 kickoff brief](/notes/cli-6-kickoff-2026-08-10.md)
 
 ## Working goal
 

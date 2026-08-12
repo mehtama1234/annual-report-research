@@ -46,7 +46,6 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 - `AGNC Investment Corp.`: usable for lane comparison, but the packet still marks the local evidence chain as not yet fully rebuilt to proof-standard depth.
 - `The Cigna Group`: analytically strong, but the packet still marks the annual-plus-quarter local filing chain as not yet fully tightened.
 - `Tenet Healthcare`: usable for hospital-lane comparison, but the packet still carries a remaining proof-standard artifact gap.
-- `Hewlett Packard Enterprise`: packet language is now honest, but the inherited raw path chain is not currently inspectable from this workspace.
 
 ## Partial companies
 

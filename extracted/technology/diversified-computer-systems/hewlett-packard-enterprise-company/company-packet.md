@@ -1,6 +1,6 @@
 # Hewlett Packard Enterprise Company Packet
 
-Date baseline: `2026-08-11`
+Date baseline: `2026-08-12`
 
 ## Snapshot
 
@@ -13,13 +13,14 @@ Date baseline: `2026-08-11`
   - `Q2 FY2026`
   - `Q1 FY2026`
   - `Q4 FY2025`
-- Proof status in current repo: `qualified`
+- Proof status in current repo: `proven`
 
 ## Source state
 
-- AnnualReports is used here for taxonomy and archive-confirmation context only; the inherited packet notes that current-year coverage lagged and still used legacy `Hewlett-Packard Company` naming.
-- Company IR and SEC are the intended authoritative chain for the annual anchor and quarter window used in this packet.
-- This packet was inherited without a currently inspectable local raw path set in the present workspace, so it should be used as an analytically strong but not proof-standard packet until the raw chain is rebuilt or restored.
+- AnnualReports is used here for taxonomy and archive-lag context only; as of `2026-08-12`, it still resolved through the legacy `Hewlett-Packard Company` page rather than a clean `HPE` page.
+- Company IR and SEC are the authoritative chain for the annual anchor and quarter window used in this packet.
+- The SEC submissions index, fiscal `2025` annual filing set, annual-report package PDF, in-scope `8-K` wrappers, in-scope `10-Q` filings, and in-scope SEC-hosted earnings-release exhibits are now locally inspectable in this workspace.
+- Direct shell retrieval of issuer-hosted `investors.hpe.com` HTML pages and PDFs is `403`-blocked in this workspace, so the official IR routing and exact issuer-hosted URLs are preserved in a local verification note rather than as downloaded issuer binaries.
 
 ## Why this company belongs in CLI 5
 
@@ -41,7 +42,7 @@ The annual and year-end evidence points to several strategic realities:
 - Juniper changes the lane position materially by making HPE a more complete networking and AI-fabric participant
 - portfolio pruning and cost discipline remain central because the company is still trying to improve quality of earnings while carrying a large, mixed business
 
-The broader annual interpretation is that HPE is trying to turn “necessary but messy enterprise infrastructure” into a more coherent systems franchise. That means the company is attempting to capture more of the AI-era budget that enterprises spend once they realize the real problem is not just having chips, but modernizing the whole environment around them.
+The broader annual interpretation is that HPE is trying to turn necessary but messy enterprise infrastructure into a more coherent systems franchise. That means the company is attempting to capture more of the AI-era budget that enterprises spend once they realize the real problem is not just having chips, but modernizing the whole environment around them.
 
 ## Latest three reported quarters as of `2026-08-10`
 
@@ -102,7 +103,7 @@ The broader annual interpretation is that HPE is trying to turn “necessary but
 
 HPE strengthens CLI 5 by proving that the next AI-era winner class is not only chips, cloud software, or clean control-point platforms. There is also a large systems-integration layer where enterprises pay to make networking, servers, storage, and financing work together inside a modernized operating environment. That layer is structurally messier, but it is also economically important because most enterprises still need someone to assemble the full stack.
 
-The quarter chain makes the direction clear. Once Juniper closes, networking stops being an adjacent category and becomes a central growth engine. At the same time, HPE keeps framing customer demand around infrastructure modernization, scaling AI, and unified systems. This suggests that one of the main recurring realities in the lane is not simply “AI needs more compute.” It is that AI turns more of the enterprise estate into mandatory technical overhead: networking fabrics, storage architecture, lifecycle financing, support, and operating discipline all become more valuable because the environment is harder to run.
+The quarter chain makes the direction clear. Once Juniper closes, networking stops being an adjacent category and becomes a central growth engine. At the same time, HPE keeps framing customer demand around infrastructure modernization, scaling AI, and unified systems. This suggests that one of the main recurring realities in the lane is not simply that AI needs more compute. It is that AI turns more of the enterprise estate into mandatory technical overhead: networking fabrics, storage architecture, lifecycle financing, support, and operating discipline all become more valuable because the environment is harder to run.
 
 The bigger-picture readthrough is strong:
 
@@ -115,11 +116,32 @@ HPE also shows the tension inside this profit pool. The company can benefit from
 
 That makes HPE a useful CLI 5 company not because it is the cleanest business, but because it reveals where enterprises are being forced to spend once AI, data growth, and network complexity become normal operating conditions.
 
+## Source pointers
+
+- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/technology/diversified-computer-systems/hewlett-packard-enterprise-company/annualreports-verification.md)
+- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/technology/diversified-computer-systems/hewlett-packard-enterprise-company/official-ir-verification.md)
+- [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/diversified-computer-systems/hewlett-packard-enterprise-company/sec-submissions.json)
+- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/diversified-computer-systems/hewlett-packard-enterprise-company/2025-10k.html)
+- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/diversified-computer-systems/hewlett-packard-enterprise-company/2025-annual-report.pdf)
+- [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/diversified-computer-systems/hewlett-packard-enterprise-company/2025-q4-press-release.html)
+- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/diversified-computer-systems/hewlett-packard-enterprise-company/2025-q4-8k.html)
+- [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/diversified-computer-systems/hewlett-packard-enterprise-company/2026-q1-press-release.html)
+- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/diversified-computer-systems/hewlett-packard-enterprise-company/2026-q1-8k.html)
+- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/diversified-computer-systems/hewlett-packard-enterprise-company/2026-q1-10q.html)
+- [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/diversified-computer-systems/hewlett-packard-enterprise-company/2026-q2-press-release.html)
+- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/diversified-computer-systems/hewlett-packard-enterprise-company/2026-q2-8k.html)
+- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/technology/diversified-computer-systems/hewlett-packard-enterprise-company/2026-q2-10q.html)
+
 ## Evidence-status note
 
 - The filing window used in this packet is explicit and internally consistent with the profile and source ledger.
-- The main current weakness is not the period definition or lane fit.
-- The main current weakness is evidence portability: the inherited raw references behind the packet are not currently re-openable from this workspace.
+- The authority ordering is explicit:
+  - AnnualReports for taxonomy and archive-lag confirmation only
+  - company IR and SEC for the authoritative annual and quarter chain
+- The annual-plus-quarter artifact chain is now locally inspectable:
+  - AnnualReports legacy-page verification note
+  - official IR routing note
+  - SEC annual filing, annual-report package PDF, in-scope `8-K` wrappers, in-scope earnings-release exhibits, and in-scope `10-Q` filings
 - The right reading standard today is:
-  - good enough for thematic interpretation and lane comparison
-  - not yet strong enough to treat as a proof-standard packet for source-authority or filing-window closure work
+  - fully `proven` for annual-plus-quarter filing coverage and CLI 5 infrastructure comparison work
+  - still imperfect only in the narrower sense that no local prepared-remarks or transcript artifacts are preserved

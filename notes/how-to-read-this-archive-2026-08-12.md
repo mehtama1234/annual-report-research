@@ -16,7 +16,7 @@ Most of the cleanest economics in this archive do not come from the most visible
 
 **extracted/** — Individual company packets (100+ companies). Each includes annual takeaways, latest three quarters, operating model, strategy read, economics interpretation, and what comes next.
 
-**analysis/cross-sector/** — The biggest conclusions. Proof pages show how the same pattern repeats across three or more companies. Comparison memos pit two company models against each other to explain why one earns cleaner economics than the other.
+**analysis/cross-sector/** — The biggest conclusions. Proof pages show how the same pattern repeats across three or more companies. Comparison memos pit two company models against each other to explain why one earns cleaner economics than the other. There are many comparison pages; [comparison-library-map-2026-08-12.md](/home/manishmehta/ui-projects/annual-report-research/analysis/cross-sector/comparison-library-map-2026-08-12.md) groups them so you can find the angle you want.
 
 **analysis/themes/** — Lane-specific frameworks showing what the healthcare lane, connectivity lane, capital-markets lane, and lifestyle lane each teach us. Organized around ideas like workflow control, burden distribution, and where value actually concentrates.
 

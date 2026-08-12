@@ -1,6 +1,6 @@
 # Source Ledger
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-12
 
 Use evidence tags:
 
@@ -28,15 +28,21 @@ Use evidence tags:
 | UNH-T11 | Q2 2026 earnings release | 2026-07-16 | IR earnings release PDF | Exact Q2 2026 metrics, raised 2026 guidance, and reform commitments across affordability, prior authorization, and pharmacy pricing | `[Disclosed]` | [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/healthcare/managed-health-care/unitedhealth-group-inc/2026-q2-earnings-release.pdf) |
 | UNH-T12 | Q2 2026 8-K | 2026-07-16 | SEC filing PDF | Wrapper filing for second-quarter 2026 earnings release | `[Filed]` | [2026-q2-8k.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/managed-health-care/unitedhealth-group-inc/2026-q2-8k.pdf) |
 | UNH-T13 | Q2 2026 earnings-call prepared remarks | 2026-07-16 | IR prepared-remarks PDF | Adds management commentary on Medicare, Medicaid, commercial cost pressure, Optum momentum, and AI-enabled system simplification | `[Disclosed]` | [2026-q2-earnings-call-remarks.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/healthcare/managed-health-care/unitedhealth-group-inc/2026-q2-earnings-call-remarks.pdf) |
+| UNH-T14 | Q2 2026 Form 10-Q | 2026-08-10 | SEC filing HTML | Filed quarterly report for the quarter ended `2026-06-30`, closing the latest-quarter filing gap in the earlier packet state | `[Filed]` | https://www.sec.gov/Archives/edgar/data/731766/000073176626000197/unh-20260630.htm |
 
 ## Reconciliation notes
 
-- AnnualReports is useful here for classification and company metadata only. As of `2026-08-08`, it still lagged at `2024`, so the authoritative `2025` annual evidence chain comes from UnitedHealth IR and SEC materials.
-- The correct trailing-quarter set as of `2026-08-08` is `Q2 2026`, `Q1 2026`, and `Q4 2025`.
-- The Q2 2026 source chain is intentionally recorded as earnings release + `8-K` + prepared remarks. No Q2 2026 `10-Q` was posted on the IR page as of `2026-08-08`, and none was collected into this workspace.
+- AnnualReports is useful here for classification and company metadata only. It still lagged at `2024` when the packet was first built, so the authoritative `2025` annual evidence chain comes from UnitedHealth IR and SEC materials.
+- The correct trailing-quarter set as of `2026-08-10` is `Q2 2026`, `Q1 2026`, and `Q4 2025`.
+- The Q2 2026 source chain is now stronger than the earlier packet state:
+  - earnings release
+  - `8-K`
+  - prepared remarks
+  - filed `10-Q` at SEC accession `0000731766-26-000197`
+- The packet is still marked `qualified` because the current workspace does not preserve a local copy of the `Q2 2026` `10-Q`, even though the filing now clearly exists.
 - For Q4 2025, the annual filing package serves as the main filed artifact alongside the earnings release and `8-K`.
 
 ## Missing evidence
 
-- No posted Q2 2026 `10-Q` was collected as of `2026-08-08`.
+- No local copy of the filed Q2 2026 `10-Q` is preserved in the current workspace.
 - No full Q4 2025 earnings-call transcript was collected in the current workspace.

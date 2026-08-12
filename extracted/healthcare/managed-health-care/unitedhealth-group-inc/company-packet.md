@@ -1,6 +1,6 @@
 # UnitedHealth Group Incorporated Company Packet
 
-Date baseline: 2026-08-08
+Date baseline: 2026-08-12
 
 ## Snapshot
 
@@ -14,6 +14,7 @@ Date baseline: 2026-08-08
   - quarter 1: Q2 2026
   - quarter 2: Q1 2026
   - quarter 3: Q4 2025
+- Proof status in current repo: `qualified`
 
 ## Annual report takeaways
 
@@ -30,7 +31,7 @@ Date baseline: 2026-08-08
 - Results: Q2 2026 revenue was `$112.0 billion`, earnings from operations were `$8.0 billion`, net margin was `4.9%`, and adjusted EPS was `$6.38`.
 - Guidance: on July 16, 2026 management raised full-year 2026 adjusted EPS guidance to `$19.50` to `$20.00`, with expected cash flow from operations of about `$24.0 billion` and at least `$5.0 billion` of share repurchase.
 - Management message: management emphasized affordability, transparency, prior-approval reform, pharmacy-pricing transparency, and continuing operational improvement across Medicare, Medicaid, Optum Health, and Optum Insight.
-- Structural themes: the key read is that UnitedHealth is repairing and repricing the model while using governance changes, AI investment, and policy-oriented reforms to stabilize a complex healthcare platform. As of `2026-08-08`, the source chain for this quarter includes the earnings release, `8-K`, and prepared remarks, but not a posted Q2 2026 `10-Q`.
+- Structural themes: the key read is that UnitedHealth is repairing and repricing the model while using governance changes, AI investment, and policy-oriented reforms to stabilize a complex healthcare platform. The `Q2 2026` `10-Q` was filed with the SEC on `2026-08-10`, which closes the formal filing gap that existed in earlier repo notes, but the current workspace still does not preserve a local copy of that artifact.
 
 ### Quarter minus 1
 
@@ -70,3 +71,17 @@ Date baseline: 2026-08-08
 - [2026-q2-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/healthcare/managed-health-care/unitedhealth-group-inc/2026-q2-earnings-release.pdf)
 - [2026-q2-8k.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/healthcare/managed-health-care/unitedhealth-group-inc/2026-q2-8k.pdf)
 - [2026-q2-earnings-call-remarks.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/earnings-calls/healthcare/managed-health-care/unitedhealth-group-inc/2026-q2-earnings-call-remarks.pdf)
+- https://www.sec.gov/Archives/edgar/data/731766/000073176626000197/unh-20260630.htm
+
+## Evidence-status note
+
+- The filing window used here is explicit and internally consistent with the company profile and source ledger.
+- The authority ordering is explicit:
+  - AnnualReports for taxonomy confirmation only
+  - company IR and SEC for the authoritative annual and quarter chain
+- The main current weakness is artifact locality, not filing existence:
+  - the `Q2 2026` `10-Q` now exists and is verified through the SEC filing chain
+  - the current workspace still does not preserve a local copy of that `10-Q`
+- The right reading standard today is:
+  - stronger than the earlier release-plus-remarks-only state
+  - still `qualified`, not fully `proven`, until the most recent `10-Q` is preserved locally in the same evidence chain as the other saved artifacts

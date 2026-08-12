@@ -42,7 +42,7 @@ These lanes are usable now for company reading, lane synthesis, cross-company th
 
 ## Qualified companies
 
-- `UnitedHealth Group`: analytically strong, but the most recent quarter is proven through official release, `8-K`, and prepared-remarks level rather than a locally saved `Q2 2026` `10-Q`.
+- `UnitedHealth Group`: analytically strong, and the `Q2 2026` `10-Q` now exists at the SEC, but the current workspace still does not preserve a local copy of that most recent filing.
 - `Sysco`: packet and ledger are now internally honest, but the reviewed local raw tree did not show the matching current-quarter `8-K` wrapper or year-end filed report.
 - `MetLife`: the SEC annual and quarter chain is locally present, but clean local IR binaries were not preserved because direct retrieval was blocked by Cloudflare.
 - `Zebra Technologies`: authoritative through SEC-hosted and verification-note fallback, but not a clean local official-IR capture case.

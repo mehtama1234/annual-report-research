@@ -91,3 +91,13 @@ footer{color:var(--muted);font:400 13px/1.5 -apple-system,system-ui,sans-serif;m
 .acard .at{font:600 10px/1 -apple-system,system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;color:var(--gold)}
 .acard h4{font-size:1.12rem;line-height:1.2;margin:.35em 0 .3em}
 .acard p{color:var(--muted);font-size:.92rem;margin:0}
+
+.crumb{font:600 12px/1 -apple-system,system-ui,sans-serif;color:var(--muted);margin-bottom:6px}
+.crumb a{color:var(--accent);text-decoration:none}
+.groupt{font:700 1.1rem/1.2 -apple-system,system-ui,sans-serif;color:var(--ink);margin:1.8em 0 .2em}
+.angles{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;margin:.6em 0 1.4em}
+.acard{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;text-decoration:none;color:var(--ink);transition:.15s}
+.acard:hover{border-color:var(--accent);transform:translateY(-2px)}
+.acard .at{font:600 10px/1 -apple-system,system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;color:var(--gold)}
+.acard h4{font-size:1.12rem;line-height:1.2;margin:.35em 0 .3em}
+.acard p{color:var(--muted);font-size:.92rem;margin:0}

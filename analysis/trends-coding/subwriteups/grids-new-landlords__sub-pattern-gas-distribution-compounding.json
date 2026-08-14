@@ -1,0 +1,75 @@
+{
+  "slug": "grids-new-landlords__sub-pattern-gas-distribution-compounding",
+  "trend_slug": "grids-new-landlords",
+  "name": "Sub-Pattern: Gas Distribution Compounding",
+  "deck": "Natural-gas distribution utilities compound rate-base and system value through mandated infrastructure capital. Atmos projects $26B capex through 2030, expanding rate-base from $21.4B to $42B, creating durable regulatory-arbitrage returns regardless of demand volatility.",
+  "core_bet": "Gas distribution combines monopoly infrastructure, regulatory recovery, and mandated capital deployment into a rate-base compounding machine. Atmos and ONE Gas generate reliable earnings through approved rate relief and system-modernization capex, creating a new landlord model where regulated recovery outweighs commodity exposure.",
+  "numbers": [
+    {
+      "stat": "$26B",
+      "label": "Atmos Energy capital expenditure projection through FY2030"
+    },
+    {
+      "stat": "$21.4B",
+      "label": "Atmos rate-base at FY2025 year-end"
+    },
+    {
+      "stat": "$42B",
+      "label": "Atmos projected rate-base at FY2030"
+    },
+    {
+      "stat": "6-8%",
+      "label": "Atmos forecasted EPS and dividend growth through FY2030"
+    },
+    {
+      "stat": "$3.1B",
+      "label": "Atmos capital expenditures year-to-date fiscal Q3 2026 (85% safety/reliability)"
+    },
+    {
+      "stat": "$8.40-$8.50",
+      "label": "Atmos FY2026 EPS guidance"
+    },
+    {
+      "stat": "$264.2M",
+      "label": "ONE Gas FY2025 net income"
+    },
+    {
+      "stat": "$4.48",
+      "label": "ONE Gas FY2025 adjusted diluted EPS"
+    }
+  ],
+  "mechanism": [
+    "Rate-base expansion through mandated safety and reliability capital becomes self-reinforcing. Atmos projects $26B in capital expenditures through FY2030, growing the rate-base from $21.4B to $42B (96% expansion). Over 85% of capital is directed toward safety and reliability modernization—not discretionary expansion. Regulators mandate this spending to keep aging gas infrastructure safe; the utility recovers these investments through rate design and automatic recovery mechanisms, expanding the earnings base with each capital cycle.",
+    "Regulatory recovery mechanics insulate earnings from volume and weather volatility. ONE Gas demonstrates that weather-normalization mechanisms, approved rate relief, and regulatory-lag reduction allow gas utilities to defend earnings even when weather is 42% warmer than normal or volumes decline. The company raised FY2026 EPS guidance despite unusual warm weather because rate mechanisms and regulatory outcomes trump commodity exposure. This is fundamental: the economics are about approved recovery, not demand growth.",
+    "Customer and territory growth in selective jurisdictions adds incremental leverage. Both Atmos (serving 3.4M customers across 8 states) and ONE Gas (Oklahoma, Kansas, Texas) emphasize customer growth and line extensions to new areas. As served populations grow and infrastructure expands, the rate-base compounds without requiring acquisition risk or new-market entry expense. ONE Gas Q2 2026 showed line-extension revenue and customer growth in Oklahoma and Texas driving operating-income growth even during warm weather."
+  ],
+  "why_now": "Through 2025-2026, gas-distribution compounding accelerates because: (1) infrastructure aging requires accelerating capital deployment, (2) regulatory policy supports approved capex recovery, (3) jurisdictions like Oklahoma and Texas show population and load growth, (4) safety mandates create non-discretionary capex streams, and (5) weighted-average-cost-of-capital remains investment-grade favorable. Unlike electric utilities chasing renewable buildout or merchant generators playing commodity spreads, gas distributors operate in a simpler and more durable regulatory environment where capex recovery is nearly automatic.",
+  "who_pays": "Gas distribution customers across 1,400+ communities (Atmos) and selective growth territories (ONE Gas); customers have limited substitution options and pay for mandated infrastructure modernization through rate recovery; industrial and commercial users benefit from grid reliability but also pay for capacity upgrades; taxpayers benefit from maintained public-safety standards but fund through utility bills.",
+  "who_profits": "Atmos Energy, ONE Gas, and peer gas utilities capture stable regulatory returns (typically 9-11% ROE) through rate-base growth. Equity investors benefit from 6-8% EPS and dividend growth tied to mandated capex cycles. The model leaves limited room for new entrants or alternative operators; the moat is regulation and existing infrastructure.",
+  "tension": "Gas-distribution growth faces three pressures: (1) energy-transition policy may eventually restrict natural-gas expansion or mandate accelerated electrification, (2) demand could stagnate if industrial load migration or residential electrification accelerates, (3) regulatory support could weaken if public pressure to limit gas investment increases. ONE Gas's emphasis on weather normalization also hints at underlying volume pressure masked by rate relief. The model works as long as regulators approve capex recovery; if that changes, the compounding breaks.",
+  "surprising_part": "Atmos' $26B capex projection through 2030 effectively guarantees a 96% rate-base expansion from $21.4B to $42B. That is not growth projection; that is a mathematical certainty conditional on regulatory approval of cost recovery. Most equity stories depend on business execution or market share wins; Atmos' story depends primarily on regulators consistently approving capex recovery—which they have done for decades. This is why gas distribution is now a new landlord: the utility is not competing for growth; it is simply deploying mandated capital and recovering it through rates.",
+  "one_sentence": "Gas utilities convert mandated infrastructure capital into regulated rate-base expansion, creating landlord-like returns unmoored from commodity prices or volume growth.",
+  "societal_stake": "Gas distribution's compounding model depends on decades of regulatory consensus that natural gas remains essential infrastructure and that utilities should recover modernization capex. If energy-transition policy shifts to accelerate electrification or restrict new gas investment, the regulatory foundation cracks and utility economics deteriorate. Customers also face decades of rising bills if capex recovery accelerates and rate design shifts toward volumetric charges.",
+  "evidence": [
+    {
+      "company": "Atmos Energy",
+      "fact": "Projects $26B capital expenditures through FY2030 with rate-base growth from $21.4B to $42B (96% expansion); forecasts 6-8% EPS and dividend growth, creating predictable compounding tied entirely to approved capex recovery"
+    },
+    {
+      "company": "Atmos Energy",
+      "fact": "FY2026 guidance raised to $8.40-$8.50 despite stable market; over 85% of capex directed to safety and reliability (mandated by regulators), showing capital deployment is largely non-discretionary"
+    },
+    {
+      "company": "Atmos Energy",
+      "fact": "3.4M customers served across 1,400+ communities in 8 states with large pipeline and storage assets in Texas, creating geographic diversification and multiple jurisdictions for rate-recovery mechanisms"
+    },
+    {
+      "company": "ONE Gas",
+      "fact": "FY2025 adjusted diluted EPS of $4.48 with capital expenditures of $759.5M; Q2 2026 raised FY2026 guidance to upper half of ranges despite 42% above-normal warm weather, showing weather-normalization mechanisms insulate earnings"
+    },
+    {
+      "company": "ONE Gas",
+      "fact": "Q2 2026 operating income grew primarily from new rates and line-extension revenue, not volume growth, demonstrating regulated recovery model trumps commodity/demand exposure"
+    }
+  ]
+}

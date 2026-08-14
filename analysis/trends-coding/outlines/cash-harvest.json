@@ -1,0 +1,86 @@
+{
+  "slug": "cash-harvest",
+  "name": "The Cash Harvest",
+  "overview_deck": "From addiction-priced cigarettes to broadband monopolies to fertilizer super-cycles, a generation of companies has discovered that extracting more from captive customers and returning the proceeds to shareholders is a more reliable business model than building new value — and the proceeds are flowing upward, not outward.",
+  "groups": [
+    {
+      "group_title": "How the Harvest Works",
+      "angles": [
+        {
+          "sub_slug": "origin-buyback-republic",
+          "title": "The Discipline That Became a Doctrine",
+          "angle_type": "origin",
+          "focus": "Post-2022 rate shock forced real cost discipline onto corporate balance sheets; once rates stabilized and cash generation recovered, management teams discovered that returning capital was easier to defend to shareholders than reinvesting in labor, infrastructure, or long-cycle assets. The result is a structural posture — ConocoPhillips targeting 45% of CFO returned, ExxonMobil distributing $37.2B in 2025, CF Industries repurchasing $1.34B in shares — that now looks like financial virtue but encodes a preference for distribution over productive capacity.",
+          "companies": ["ConocoPhillips", "ExxonMobil", "CF Industries", "Nutrien", "Suncor Energy"],
+          "key_question": "What turned a cyclical cash-management behavior into a standing policy across industries?"
+        },
+        {
+          "sub_slug": "addiction-pricing-engine",
+          "title": "Pricing Into the Habit: When Inelastic Demand Is the Business Model",
+          "angle_type": "sub-pattern",
+          "focus": "Where demand is structurally inelastic — because of addiction, chronic disease, or regulatory lock-in — companies raise prices independent of volume trends, and the market rewards the discipline. Philip Morris International grew combustibles net revenues 9.5% while shipment volumes declined, lifting EPS from $4.52 to $7.26 in a single year; BrightSpring raised revenue per prescription to $314.20 while the script count held flat, expanding gross profit per script to $27.50. The habit, not innovation, is the pricing engine.",
+          "companies": ["Philip Morris International", "BrightSpring Health Services", "Cencora", "McKesson Corporation", "Cigna Group"],
+          "key_question": "How do companies turn habituated or medically dependent demand into a reliable pricing lever — and what happens to the people who cannot switch?"
+        },
+        {
+          "sub_slug": "platform-fee-inflation",
+          "title": "The Fee That Never Stops Growing: Premium Networks and Captive Cardholders",
+          "angle_type": "sub-pattern",
+          "focus": "Platform economics creates a different captivity: once a customer is embedded in a network — AmEx's closed loop, Synchrony's point-of-sale credit, Marriott's co-brand card agreements — the fee can be raised steadily because switching costs are real and the perceived benefit is sticky. American Express posted 30 consecutive quarters of double-digit net card fee growth with more than 70% of new accounts on fee-paying products; Synchrony returned $3.3B to shareholders in 2025 while holding $102B in consumer loan receivables at 15%+ net interest margins. The premium is not for a better product — it is for the fact of being embedded.",
+          "companies": ["American Express Company", "Synchrony Financial", "Marriott International", "VeriSign", "Waste Management"],
+          "key_question": "What separates a platform fee that customers accept from one that triggers churn — and who captures the rents in between?"
+        },
+        {
+          "sub_slug": "infrastructure-monopoly-pricing",
+          "title": "The Last Mile Lock-In: Broadband, Cable, and Captive Connectivity",
+          "angle_type": "sub-pattern",
+          "focus": "Where physical infrastructure creates a de facto duopoly at the household level, operators can raise broadband prices even as video subscribers leave, because the underlying connectivity is not substitutable. Charter Communications serves 31.5M customer relationships across 59M estimated passings — a density that creates local market power; when video attrition accelerates, the company embeds streaming apps and raises broadband prices, keeping household revenue flat or rising. Liberty Broadband's wrapper structure captures this value above the operator level, concentrating returns further toward controlling holders.",
+          "companies": ["Charter Communications", "Comcast Corporation", "Verizon Communications", "AT&T", "Liberty Broadband Corporation"],
+          "key_question": "When infrastructure monopoly is the real competitive advantage, how much of the consumer's payment is for the service and how much is a captivity tax?"
+        }
+      ]
+    },
+    {
+      "group_title": "Who Pays, Who Profits",
+      "angles": [
+        {
+          "sub_slug": "who-profits-shareholder-concentration",
+          "title": "The Upward Drain: Where the Extracted Cash Actually Goes",
+          "angle_type": "who-profits",
+          "focus": "Buyback mechanics concentrate value in institutional holders and insiders: each repurchased share raises per-share EPS and book value for remaining holders without requiring operational improvement. Suncor's 100% excess capital return policy distributed C$5.8B in 2025 while reducing its WTI breakeven by $10/bbl — so the distribution is sustainable even at lower commodity prices, decoupling shareholder return from operational risk. Nutrien returned $848M in H1 2026 alone, accelerating repurchases in Q3. The beneficiaries are defined by who held shares before the cycle turned — a distribution that strongly favors institutional ownership.",
+          "companies": ["Suncor Energy", "Nutrien", "ConocoPhillips", "CF Industries", "ExxonMobil"],
+          "key_question": "Who captures the cash harvest, and what ownership structure ensures the distribution flows upward rather than outward?"
+        },
+        {
+          "sub_slug": "who-pays-captive-households",
+          "title": "The Burden Carriers: Low-Income Households, Smokers, and Prescription Patients",
+          "angle_type": "who-pays",
+          "focus": "The harvest is asymmetric because the people who pay price increases are the least able to leave: low-income smokers whose addiction makes demand inelastic regardless of price; prescription patients on specialty medications with no therapeutic equivalent; broadband subscribers in markets where Charter or Comcast is the only viable provider. Synchrony's $102B loan receivable book illustrates a related mechanism — point-of-sale financing that manufactures demand among households who then service debt at 15%+ margins, with $6.5B in repurchases authorized for the company's own shareholders while borrowers carry the receivables.",
+          "companies": ["Philip Morris International", "BrightSpring Health Services", "Synchrony Financial", "Charter Communications", "Comcast Corporation"],
+          "key_question": "What does the distribution of who pays versus who profits reveal about which parts of the economy are funding which others?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Limits and the Warning",
+      "angles": [
+        {
+          "sub_slug": "company-deepdive-echostar",
+          "title": "EchoStar: The Harvest That Ate Itself",
+          "angle_type": "company-deepdive",
+          "focus": "EchoStar is the clearest proof that the harvest has a terminal horizon. Pay-TV subscriber count fell from 6.998M at FY2025 year-end to 6.391M by Q2 2026 as price increases exceeded perceived value; the company's FY2025 annual report stated substantial doubt about going concern with $7.321B in current debt maturities against $1.883B in liquidity. The strategy that once generated cash — harvesting the legacy satellite pay-TV base while building toward 5G — failed when the subscriber base shrank faster than the buildout could replace it, and the company ultimately abandoned its facilities-based network ambition and migrated traffic to AT&T. The assets (spectrum, orbital slots) retain value; the franchise does not.",
+          "companies": ["EchoStar Corporation", "Charter Communications", "Nexstar Media Group", "Fox Corporation", "Liberty Global"],
+          "key_question": "How does a harvest model unwind when the captive base shrinks faster than returns can be extracted — and what is left when it does?"
+        },
+        {
+          "sub_slug": "tension-productive-capacity-hollowing",
+          "title": "The Capex Debt: What Buyback-Over-Investment Leaves Behind",
+          "angle_type": "tension",
+          "focus": "The discipline that looks like financial virtue — minimizing capex, maximizing returns — also hollows out productive capacity over long cycles. ExxonMobil distributed $37.2B while investing $29.0B in capex in 2025; ConocoPhillips disposed of $5B in assets early specifically to fund returns rather than growth. When commodity cycles turn or infrastructure shortages emerge, the years of buyback-over-capex choices will have reduced the supply base's ability to respond. Planet Fitness's experience is instructive on the consumer side: after a 50% entry-price hike proved durable, management then paused a further Black Card increase when same-club growth softened — the pricing model has a ceiling, and finding it costs growth.",
+          "companies": ["ExxonMobil", "ConocoPhillips", "Planet Fitness", "Philip Morris International", "Waste Management"],
+          "key_question": "What does a decade of distribution-over-investment leave behind when the next shortage, technology disruption, or regulatory intervention arrives?"
+        }
+      ]
+    }
+  ]
+}

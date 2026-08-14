@@ -1,0 +1,87 @@
+{
+  "slug": "origin-reliable-power-gap",
+  "trend_slug": "grids-new-landlords",
+  "name": "The Reliability Gap That Handed Gas the Keys",
+  "deck": "The energy transition assumed renewables plus storage would displace gas before AI demand arrived, but data-center buildout exposed the gap: intermittent generation cannot guarantee the continuous, firm megawatts hyperscalers require, and gas infrastructure was already built, depreciated, and ownable.",
+  "core_bet": "For a decade, energy-transition economics assumed that renewables plus battery storage would become cheap and reliable enough to replace gas infrastructure before major new baseload demand emerged. The 2025-2026 data-center buildout shattered that assumption. Hyperscalers require firm, continuous power that renewables cannot guarantee—wind does not blow when it is 2 PM on a calm day, and batteries store only hours of energy, not days or seasons. The infrastructure that can guarantee that reliability—natural gas peaking plants, transmission corridors, and storage—was already built, already depreciated, and already owned by a handful of corridor operators. Gas infrastructure became indispensable not through technological triumph but through default: it was the only existing system that could meet the reliability requirement. The landlords who own it are now extracting structural rents.",
+  "numbers": [
+    {
+      "stat": "$7.750B",
+      "label": "Williams Companies adjusted EBITDA in FY2025 (record)"
+    },
+    {
+      "stat": "$5.858B",
+      "label": "Williams Companies AFFO in FY2025"
+    },
+    {
+      "stat": "$8.4B",
+      "label": "Williams Companies 2026 adjusted EBITDA midpoint (raised $200M)"
+    },
+    {
+      "stat": "3.67x",
+      "label": "Williams Companies debt-to-adjusted EBITDA Q2 2026"
+    },
+    {
+      "stat": "3.4 GW",
+      "label": "Alliant Energy contracted data-center demand after new Iowa ESA (60% increase by 2031)"
+    },
+    {
+      "stat": "$79.7B",
+      "label": "NextEra FPL regulatory capital employed Q2 2026 (up 9.3% from $72.9B)"
+    },
+    {
+      "stat": "3.6 GW",
+      "label": "NextEra Energy Resources new renewables and storage origination added to backlog Q2 2026"
+    },
+    {
+      "stat": "28 Tcfe",
+      "label": "EQT Corporation proved reserves (up 7% year over year in Q4 2025)"
+    }
+  ],
+  "mechanism": [
+    "The reliability gap is mathematical and inescapable. A hyperscaler data center requires power 24/7/365. Wind generation has a capacity factor of roughly 35 to 40 percent; solar is closer to 25 percent. That means a 100 MW wind turbine produces an average of only 35-40 MW. On a windless night, it produces zero. Battery storage can bridge gaps of hours—6, 8, 12 hours with modern systems—but it cannot bridge seasonal deficits or multi-day low-wind periods. Natural gas plants have a capacity factor of 50-90 percent depending on dispatch, and they can ramp up and down within minutes. They run whenever needed, not whenever the weather permits. When a data-center operator evaluates their power infrastructure options, they have three choices: oversize renewables and batteries by enough to cover worst-case weather scenarios (expensive), maintain their own gas generation (capital-intensive, regulated), or sign a long-term power purchase agreement (PPA) backed by gas infrastructure. All three paths lead back to gas.",
+    "Williams Companies' 2025-2026 trajectory makes this dependence visible. The company raised its FY2025 adjusted EBITDA guidance to a record $7.750B while simultaneously raising its 2026 EBITDA midpoint by another $200M to $8.4B. Williams is not winning because it built innovative gas infrastructure. It is winning because data centers need firm power and Williams already owns the corridor infrastructure—Transco, Gulf Coast operations, storage, and gathering systems—that can deliver it. The company is now explicitly monetizing that ownership through power-infrastructure plays like Socrates and partnerships with Blackstone. Management framed Williams not as a pipeline company but as a 'gas-and-power backbone.' That language shift reflects the structural change: gas infrastructure is no longer a commodity toll road. It is the bedrock of AI-scale power reliability.",
+    "Alliant Energy's trajectory shows the same pattern at a smaller scale. The company contracted approximately 3.4 GW of data-center demand in Iowa, which management described as a 60 percent increase in peak-load demand by 2031 from 2025 levels. That is not coming from solar panels on warehouses. It is coming from utility-scale infrastructure, which means gas peaking plants, transmission upgrades, and wind generation backed by gas dispatch flexibility. Alliant is not glamorous. It is not a pure renewable developer. But it controls the regulated infrastructure—poles, wires, gas distribution, dispatch flexibility—that hyperscalers depend on. NextEra and Williams both describe data-center hub strategies and power-supply partnerships. Alliant just quietly captures the load from the data centers that want to site in Iowa. In all three cases, the reliability gap made the existing gas and regulated-utility infrastructure indispensable."
+  ],
+  "why_now": "Three converged forces created this moment. First, AI demand for power arrived faster and larger than energy planners forecasted. GPUs consume 200-300 watts per unit, and a modern data center might have 10,000 or more units. The cumulative load is gigawatts, not megawatts, and it is growing month by month. Second, renewable buildout, while substantial, has not kept pace with power demand growth. In 2024-2026, wind and solar represented only 20-25 percent of U.S. generation. Filling the gap with renewables alone would require a multi-year infrastructure build that has not happened. Third, storage costs, while falling, are still too high to make seasonal energy storage economical at scale. A data center cannot build a 200 GWh battery system to cover winter; it would cost billions and degrade too quickly. The gap between what hyperscalers need and what renewables plus storage can provide is real, measurable, and structural. Gas infrastructure filled that gap immediately because it was already built.",
+  "who_pays": "Three groups pay the rent. First, the data-center operators themselves pay through electricity costs that are now indexed to gas-backed reliability. Their PPAs with utilities and power operators include premiums for firm, dispatchable power. Second, customers who use cloud services (everyone) pay indirectly through higher computing costs. Third, regional electricity ratepayers in areas with concentrated data-center build pay through transmission upgrades, peaker plants, and system reliability investments that are passed through to rates. Alliant's Iowa ratepayers are paying for the transmission and generation to serve Google and Meta facilities. Williams' customers—downstream producers and industrial users—are paying for the midstream infrastructure that gas-backed power depends on.",
+  "who_profits": "Four groups profit. First, the midstream and utility operators: Williams, Alliant, NextEra, EQT, and similar companies that own firm-power infrastructure capture structure rents. Williams can raise EBITDA $200M in six months because hyperscalers have no choice but to use their corridors. Alliant and NextEra are growing regulatory capital employed by 8-9 percent annually because data centers require infrastructure. Second, gas producers like EQT profit directly. In Q1 2026, EQT realized natural-gas pricing above $5/Mcf while generating a record $1.832B of free cash flow. The demand for firm power in the data center boom is driving gas consumption. Third, financial sponsors and private-equity firms that own stakes in these businesses capture the compounding returns. Fourth, shareholders of the gas and utility infrastructure companies benefit from both dividend growth and capital appreciation as these reliable, regulated businesses grow.",
+  "tension": "The breaking point comes in three forms. First, carbon policy. If a government or coalition decides that gas-backed power-infrastructure expansion is incompatible with climate goals, they can restrict gas infrastructure builds through permitting, carbon pricing, or outright bans. This has already happened in some European jurisdictions. Second, renewable cost curves. If solar and battery costs fall faster than expected, it becomes economical to over-build renewables and storage enough to cover seasonal gaps. We are not there yet, but if battery costs drop another 40-50 percent, the economics change. Third, distributed generation. If companies build their own on-site power systems (solar, geothermal, fuel cells), they reduce dependence on corridor infrastructure. Google and other hyperscalers are already investing in distributed generation. If enough of the load moves off-grid, the centralized gas infrastructure loses relevance. For now, the reliability gap makes gas indispensable. But that gap is the only reason. If the gap closes, the landlords lose.",
+  "surprising_part": "The surprise is not that gas infrastructure still matters—that is forecastable. The surprise is that it became MORE valuable precisely when the energy-transition narrative said it should become less valuable. In 2020, the consensus was that renewables plus storage would make gas obsolete by 2035. In 2026, gas infrastructure is so valuable that Williams is building new power-infrastructure platforms and charging hyperscalers premiums for the privilege of using it. The second surprise is that the infrastructure operators know they are capturing a reliability tax. Williams' earnings calls increasingly frame the company as a 'power infrastructure' operator rather than a gas company. That is marketing, but it is accurate: the company is charging for the unique service of being able to guarantee 99.9 percent uptime in an era where renewables cannot provide that. That tax—the premium over what pure commodity gas would justify—is the structural rent. When demand is inelastic and supply is concentrated, rents emerge, and infrastructure landlords capture them.",
+  "one_sentence": "Gas infrastructure became the indispensable foundation of AI power demand not because it won an innovation competition but because the reliability gap made it the only existing system that could deliver firm, continuous power at scale.",
+  "societal_stake": "This is how infrastructure rents become embedded in the cost of AI services and electricity. Hyperscalers are forced to buy reliability from gas infrastructure operators because there is no alternative. That cost flows through into higher cloud computing prices, which affects every consumer and company that uses cloud services. Additionally, regional ratepayers in areas like Iowa face higher electricity bills because utilities must invest in transmission and generation to serve hyperscale data-center loads. The structure creates a situation where old gas infrastructure, which should be winding down, becomes more valuable and captures an increasing share of power-system economics. That is efficient in the short term—it solves the immediate reliability problem. But it is also a tax on the energy transition because it incentivizes investment in gas infrastructure that might have otherwise been retired or not built. The broader question is whether a power system forced to rely on gas-backed reliability for decades can still meet climate goals.",
+  "evidence": [
+    {
+      "company": "Williams Companies Inc.",
+      "fact": "Adjusted EBITDA reached record $7.750B in FY2025, with 2026 guidance raised by $200M to $8.4B midpoint"
+    },
+    {
+      "company": "Williams Companies Inc.",
+      "fact": "Company explicitly monetizing data-center power demand through projects like Socrates and Blackstone joint venture, framing business as 'gas-and-power backbone'"
+    },
+    {
+      "company": "Williams Companies Inc.",
+      "fact": "AFFO of $5.858B in FY2025 with dividend coverage of 2.26x in Q2 2026, enabling regular dividend raises amid growth"
+    },
+    {
+      "company": "Alliant Energy",
+      "fact": "Contracted 3.4 GW of data-center demand with expected 60% increase in peak-load demand by 2031, driving capital plan of $13.4B for 2026-2029"
+    },
+    {
+      "company": "NextEra Energy",
+      "fact": "FPL regulatory capital employed grew 9.3% to $79.7B in Q2 2026 as utility builds infrastructure to serve large-load data-center customers"
+    },
+    {
+      "company": "NextEra Energy",
+      "fact": "NextEra Energy Resources added 3.6 GW of new renewables and storage origination in Q2 2026 but still backs it with gas flexibility and utility partnerships"
+    },
+    {
+      "company": "EQT Corporation",
+      "fact": "Signed 5-year LNG offtake agreement for 0.5 MTPA beginning 2028 and 10-year premium power supply agreement with CPV Shay Energy Center for 325,000 Dth/d in Q2 2026"
+    },
+    {
+      "company": "EQT Corporation",
+      "fact": "Proved reserves of 28 Tcfe (up 7% year over year) with standardized measure of ~$21B discounted future net cash flows, indicating long-duration gas assets being monetized for LNG and power demand"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "local-news-collapse",
+  "name": "The Local News Collapse",
+  "deck": "Advertising dollars that once funded local newsrooms have fled to Google and Meta, leaving a structural vacuum no company has learned to fill—and communities blind to their own governments.",
+  "core_bet": "Local journalism is not dying because it stopped mattering to readers; it is dying because the business model that financed it for 150 years has migrated permanently to digital platforms. The New York Times proves that premium journalism can work at national scale through subscriptions. But no one has built a profitable model for covering zoning boards and city halls.",
+  "numbers": [
+    {
+      "stat": "$2.825B",
+      "label": "The New York Times total FY2025 revenue—proving scale works nationally"
+    },
+    {
+      "stat": "12.78M",
+      "label": "The New York Times total subscribers end of FY2025—direct consumer relationship at national scale"
+    },
+    {
+      "stat": "$2.924B",
+      "label": "Nexstar distribution revenue (retransmission fees) vs $1.959B advertising revenue in FY2025—local TV now survives on cable fees, not journalism value"
+    },
+    {
+      "stat": "$233M",
+      "label": "Nexstar political advertising collapse year-over-year in Q4 2025—shows how volatile local broadcast ad demand became"
+    },
+    {
+      "stat": "1.5M",
+      "label": "Gannett digital-only subscriptions by end of 2025, outpacing print—local papers shifting digital but not yet profitable at it"
+    },
+    {
+      "stat": "47.4%",
+      "label": "Gannett digital revenue as percent of total in Q2 2026—nearly half the business now digital but total revenue still down 8.3% year-over-year"
+    },
+    {
+      "stat": "6.391M",
+      "label": "EchoStar pay-TV subscribers Q2 2026—going-concern uncertainty and deconsolidation of satellite broadcast infrastructure accelerating"
+    }
+  ],
+  "mechanism": [
+    "For 150 years, local newspapers survived on a closed loop: display and classified advertising from local businesses funded newsrooms, which built audience trust, which sold subscriptions and drew advertisers. Digital platforms broke that loop by offering national reach and precision targeting at a fraction of the cost. Google and Meta absorbed the advertising dollars—particularly the high-margin classified and small-business-services advertising that local papers depended on—leaving newsrooms without the revenue to operate.",
+    "Gannett tried to adapt by converting audience reach into digital subscriptions, digital ad products, and marketing services (LocaliQ). That effort shows real progress: digital revenue reached 47% of total revenue. But digital growth has not kept pace with print collapse. In Q2 2026, even as digital improved, total revenue fell 8.3% year-over-year because the legacy print base was contracting faster than digital could offset.",
+    "Broadcast television fared better temporarily through retransmission fees—cable operators pay stations to carry local channels. Nexstar's distribution revenue ($2.924B) now exceeds its advertising revenue ($1.959B) by 50%. But retransmission fees are also under pressure as broadband and wireless replace cable, and they fund only transmission capacity, not journalism. The moment political advertising rolled off—a cyclical phenomenon not a structural strength—Nexstar swung from profit to loss.",
+    "The only profitable model for news at scale is premium subscription. The New York Times proved that: 12.78M subscribers, $1.951B in subscription revenue, and expanding margins because they own the customer relationship. But the same model breaks at local scale. A Dayton Daily News subscriber is willing to pay for national news from trained reporters and editors in New York. The same person will not pay $20/month for coverage of the Dayton city council. The audience exists, but it does not have willingness-to-pay that amortizes the cost of full-time investigative journalists across a small geographic market."
+  ],
+  "why_now": "The structural shift accelerated in the last five years as advertising permanently migrated. Gannett's numbers show digital revenue growth, but from a shrinking base—the company is profitable only at lower scale. Nexstar's reliance on retransmission fees means profitability now depends on cable staying intact, not on journalism. Meanwhile, the companies that absorbed the advertising dollars—Google, Meta, and national platforms—are not reinvesting those dollars into local reporting. The arbitrage is complete and durable. No startup or established player has yet built a profitable alternative model for local accountability journalism.",
+  "who_pays": "Communities pay through systematic civic blindness. Without reporters in city halls, county courts, and planning offices, citizens cannot monitor where tax money goes, who cuts corners in construction or safety, or what their elected officials actually do in private. Small businesses lose the information advantage of knowing what is happening locally—permits granted, economic shifts, competitor moves visible to someone who reads the news. Patients lose public-health coverage. Vulnerable populations lose someone watching what institutions are doing to them. Democratic accountability erodes because it assumes someone is watching.",
+  "who_profits": "Google and Meta captured the advertising dollars. They invested nothing in local reporting; they simply offered a better product for advertisers (precision targeting, scale, measurable ROI). National media brands (New York Times, Fox, NBC) that can amortize journalism across a large audience still thrive. Aggregators and social platforms repurpose local reporting without paying for it. Comcast, Charter, and EchoStar collect retransmission fees from consumers' cable and streaming bills, capturing value from the distribution layer even as the content layer collapses.",
+  "tension": "No company in the codes is building a sustainable local-journalism business at scale. The structural proof is negative: Gannett shows real effort, real digital progress, and still shrinking total revenue. The New York Times shows the only profitable model (premium subscriptions at national scale) is unavailable locally. Nexstar survives because it is also a cable-fee collection system, not because journalism pays. The gap is not a temporary recession or a management failure. It is a permanent migration of where advertising money flows. The tension is between the civic function that still matters (someone needs to watch local government) and the absence of anyone positioned to make money doing it.",
+  "surprising_part": "The most non-obvious part is that local broadcast TV is still being paid—but Nexstar's distribution revenue is now larger than its advertising revenue. That means the money keeping local TV alive is not coming from people who value local journalism. It is coming from cable and streaming bundles that include the local stations as legacy baggage. When cable fully collapses, that revenue source disappears too. Gannett's second-order surprise is that going digital has not solved the business model problem; it has just made the decline slightly more gradual by converting a portion of lost print readers into digital subscribers. Digital is 47% of revenue, but the company is not yet profitable on digital-only basis.",
+  "one_sentence": "Local journalism's business model collapsed when digital advertising migrated to Google and Meta, and no company has built a profitable replacement—leaving communities without watchdog coverage of their own governments.",
+  "societal_stake": "Democratic governance requires informed voters. That requires someone watching what governments, courts, and institutions are actually doing. For 150 years, local newspapers served that function because they were funded by local advertisers with a vested interest in their communities. That system broke. The companies that profited from its collapse (Google, Meta) have no reason to rebuild it. Local communities are left functionally blind to their own affairs. Corruption, waste, and institutional malfeasance go unwatched. That is not a media problem; it is a democratic problem.",
+  "evidence": [
+    {
+      "company": "Gannett",
+      "fact": "FY2025 total revenue $2.302B; digital revenue 46% of total, or ~$1.1B; digital-only subscriptions reached 1.5M by end of 2025, outnumbering print subscriptions; Q2 2026 total revenue $536.3M down 8.3% despite digital revenue of $254.3M being 47.4% of total"
+    },
+    {
+      "company": "The New York Times Company",
+      "fact": "FY2025 total revenue $2.825B; subscription revenue $1.951B; 12.78M total subscribers end of FY2025; 12.80M digital-only subscribers in Q2 2026; demonstrates profitable scale only achievable nationally"
+    },
+    {
+      "company": "Nexstar Media Group",
+      "fact": "FY2025 distribution revenue $2.924B vs advertising revenue $1.959B; Q4 2025 political advertising dropped $233M year-over-year to $21M; business model now depends on retransmission fees from cable operators, not journalism value"
+    },
+    {
+      "company": "Nexstar Media Group",
+      "fact": "Q4 2025 net loss $(170)M despite distribution revenue of $720M; Q1 2026 recovery to net income $160M shows cyclical dependence on political advertising rather than stable journalism monetization"
+    },
+    {
+      "company": "Comcast Corporation",
+      "fact": "Q2 2026 announced intent to separate NBCUniversal and Sky; video customers declined to 11.270M by end of 2025; reflects structural shift away from old cable-and-content bundle model that once sustained local TV infrastructure"
+    },
+    {
+      "company": "EchoStar Corporation",
+      "fact": "Q2 2026 pay-TV subscribers 6.391M down from 6.632M in Q1 2026; pay-TV segment substantially deconsolidated as of June 2026; going-concern uncertainty raised in FY2025 annual report; local satellite infrastructure deteriorating"
+    },
+    {
+      "company": "Clear Channel Outdoor Holdings",
+      "fact": "Physical attention monetization (billboards, transit, airport media) survives through programmatic tools and digital displays, but out-of-home captures attention in public space where media trust is eroding—a different market from local journalism"
+    }
+  ]
+}

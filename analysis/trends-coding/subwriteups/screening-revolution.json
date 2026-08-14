@@ -1,0 +1,39 @@
+{
+  "slug": "screening-revolution",
+  "name": "The Screening Revolution",
+  "one_line": "Medicine is quietly shifting from treating disease to finding it before it becomes untreatable — and the companies enabling that shift are growing at venture-tech rates inside the healthcare system.",
+  "axis_mix": ["societal", "cultural", "technological", "demographic"],
+  "mechanism": "Diagnostic companies are expanding the detection surface — multi-cancer tests, at-home colon cancer screening, prenatal genetics, organ health monitoring — from specialty clinical settings into mail-in, pharmacy-accessible, and primary-care-adjacent touchpoints. Patients are participating at higher rates because friction is lower and cultural anxiety about cancer is high. Medicare coverage expansion is validating the economic model. The shift from episodic sick-care to systematic surveillance represents a fundamental redesign of what healthcare is for.",
+  "why_now": "Exact Sciences reports 12.78M subscribers (analogous to media), Natera shows oncology tests up 57% YoY in Q2 2026, and the Abbott merger signals institutional consolidation of this emerging category. Medicare coverage decisions for Oncodetect and Prospera are the policy signal that the payer system is accepting the model. This convergence — consumer adoption, clinical evidence, payer acceptance — is happening simultaneously.",
+  "who_pays": "Medicare and Medicaid bear most of the cost as testing expands. Individual patients who fall outside coverage windows pay out of pocket. Healthcare systems absorb the follow-up burden when positive tests require confirmatory workup and treatment — a cost that does not appear in the diagnostic company's financials.",
+  "who_benefits": "At-home diagnostic platform operators (Exact Sciences, Natera), integrated diagnostic labs (Labcorp, Quest Diagnostics), and by acquisition, large healthcare conglomerates (Abbott). Patients who catch cancers early benefit materially. Drug companies benefit if early detection increases the addressable market for treatments.",
+  "tension": "Screening catches more, but not everything caught is life-threatening. The risk of overdiagnosis — treatment of slow-growing conditions that would never have caused harm — creates real costs in anxiety, procedures, and iatrogenic harm. The business model rewards volume of tests, not optimization of patient outcomes. The benefits accrue unequally — the insured, the digitally literate, those near health systems that have adopted new protocols.",
+  "evidence_companies": [
+    {
+      "company": "Exact Sciences Corporation",
+      "fact": "2025 full-year revenue $3.25B; screening revenue $2.7B; Cancerguard multi-cancer test launched Q3 2025; Abbott merger closed March 2026; management talks about 'screening more people than ever'"
+    },
+    {
+      "company": "Natera Inc.",
+      "fact": "Q2 2026 oncology tests ~296,700 up 57.2%; total tests 1.04M up 22.4%; Signatera gained regulatory approvals; Medicare coverage expanded for Prospera"
+    },
+    {
+      "company": "Labcorp Holdings",
+      "fact": "Q2 2026 revenue grew 6% to $3.73B; dual-engine clinical and biopharma laboratory model; infrastructure framing emphasizes throughput and workflow embeddedness"
+    },
+    {
+      "company": "Becton, Dickinson",
+      "fact": "$110M Nebraska investment in prefillable-syringe capacity for biologics and GLP-1; drug delivery infrastructure described as central growth engine"
+    },
+    {
+      "company": "West Pharmaceutical Services",
+      "fact": "Q2 2026 net sales $872.3M up 13.8%; obesity drug buildout and GLP-1 injectable therapies driving high-value containment and delivery demand"
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "fact": "Dupixent global sales $6.0B annualized; specialty biologic franchise requiring recurrent commercialization not a build-once network; patients face reimbursement restrictions on specialty biotech costs"
+    }
+  ],
+  "societal_stake": "A society that can detect cancer early and treat it before it metastasizes is dramatically better than one that cannot. But the benefits accrue unequally — the insured, the digitally literate, those near health systems that have adopted new protocols. The screening revolution is real, but it is arriving unevenly, and the business model is not designed to solve that.",
+  "merged_from": ["The Screening Revolution"]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "vertical-integration-ratchet",
+  "name": "The Vertical Integration Ratchet",
+  "one_line": "Across energy, mining, distribution, and industrials, companies are buying adjacent stages of their value chain not to grow revenue but to insulate margin from commodity and customer pressure — and the resulting complexity is a liability as much as a shield, with industrial winners emerging from structural input advantages that competitors cannot replicate.",
+  "axis_mix": ["industrial", "economic"],
+  "mechanism": "When commodity prices swing and customer concentration creates bargaining pressure, companies respond by integrating upstream or downstream to capture the spread that intermediaries would otherwise take. Whether it is pharmaceutical distribution, waste hauling, industrial distribution, or specialty contracting, companies consolidate through acquisition and then use scale and routing density to charge prices that independent operators cannot match. The integration creates genuine efficiency but also generates moat-rents extracted from customers who lack alternatives. Meanwhile, companies with structural input advantages — EAF mini-mills using ~98% recycled domestic scrap, decoupled from seaborne iron-ore pricing — are quietly outperforming integrated blast-furnace competitors whose fixed-price contracts create earnings lags.",
+  "why_now": "Supply-chain shocks in 2022-2024, followed by commodity volatility and customer consolidation, forced companies to acknowledge that pure-play exposure meant permanent margin fragility. Low-rate debt markets funded the acquisition wave; now that leverage is in place, the moats are structural. Cleveland-Cliffs posted a GAAP net loss in 2025 despite $18.6B revenue — the integrated-steel model under pressure — while Commercial Metals reported 14.2% EBITDA margins in the same environment by running EAF on recycled material.",
+  "who_pays": "Workers at divested units, communities around closed facilities, and equity holders absorbing integration charges and purchase-accounting distortions. Middle-market operators who cannot afford to integrate are structurally disadvantaged. Downstream customers with limited alternatives absorb the moat-rents.",
+  "who_benefits": "Large platforms with capital access and execution track records — Suncor's record refining throughput alongside oil-sands production, Cencora's OneOncology acquisition embedding physician workflows. EAF operators with urban scrap-collection density like Commercial Metals whose inputs are domestic and whose carbon footprint aligns with decarbonization mandates.",
+  "tension": "Integration creates operating complexity that requires management bandwidth acquirors often do not have. DNOW's ERP transition disrupted collections in Q1 2026. Cenovus's refining margin capture fell from 114% in Q1 to 67% in Q2 despite upstream records. Complexity introduces failure modes that commodity-cycle timing cannot absorb. Scrap price and availability vary regionally and cyclically — if construction demand slows, EAF operators lose the volume cushion that keeps their fixed costs absorbed.",
+  "evidence_companies": [
+    {
+      "company": "Suncor Energy",
+      "fact": "Integrated oil sands mining, upgrading, refining, and retail delivering record upstream 860K bbls/d and record refining 480K bbls/d simultaneously in Q2 2026; integration captures SCO premium spread; C$5.8B returned in 2025"
+    },
+    {
+      "company": "Cencora",
+      "fact": "OneOncology acquisition embedding physician workflow to improve earnings quality despite GLP-1 margin pressure; $321B revenue platform controlling manufacturer-to-pharmacy access"
+    },
+    {
+      "company": "DNOW Inc.",
+      "fact": "MRC Global acquisition closed November 2025; Q1 2026 ERP transition created collections and execution disruptions; Q2 showed rebound; integration burden explicit in filings"
+    },
+    {
+      "company": "Freeport-McMoRan",
+      "fact": "Byproduct economics from gold ($4,520/oz) and molybdenum ($28.75/lb) provide cash-flow cushion unavailable to copper-only players; integration justification is spread capture, not growth"
+    },
+    {
+      "company": "Commercial Metals Company",
+      "fact": "~98% recycled material manufacturing; Q3 2026 adjusted EBITDA margin 14.2% on North America Steel vs Cleveland-Cliffs' GAAP net loss; precast acquisitions contributed $52.9M EBITDA Q3 2026"
+    },
+    {
+      "company": "Cleveland-Cliffs",
+      "fact": "2025 revenues $18.6B with GAAP net loss $1.4B; Q1 2026 energy costs from extreme cold weather cut ~$80M EBITDA; fixed-price automotive contracts created earnings lag relative to spot pricing"
+    },
+    {
+      "company": "EMCOR Group",
+      "fact": "~100 operating subsidiaries; Miller Electric acquisition 2025; RPO $17.14B up from $11.91B prior year; integration is the operating model, not a phase"
+    },
+    {
+      "company": "Ferguson Enterprises",
+      "fact": "1,746 branches; five acquisitions Q2 2026; local inventory and technical support create moat against fragmented competition"
+    }
+  ],
+  "societal_stake": "As industrial supply chains consolidate into fewer, larger vertically integrated platforms, the redundancy that historically allowed price competition and supplier diversity disappears. Communities and workers in divested segments bear the adjustment cost while concentrated platforms capture the margin. The communities hosting integrated mines and mills bear the downside of structural shifts while the productivity gains compound upward.",
+  "merged_from": ["The Vertical Integration Ratchet", "The Integration Tax", "The Scrap-Steel Comeback"]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "presence-premium",
+  "name": "The Presence Premium",
+  "one_line": "Live, in-person, and shared-location experiences command spending loyalty that digital convenience has never eroded — and as streaming hits a profitability ceiling and content atomizes, synchronized presence has become genuinely scarce and explicitly priced.",
+  "axis_mix": ["cultural", "economic", "societal", "technological"],
+  "mechanism": "Consumers who can afford it are allocating discretionary money toward experiences that cannot be replicated on a screen: concerts, parks, stadium events, hotel stays. Companies that control presence-scarce venues — ticketing, theme parks, luxury hotels, live sports rights — are converting that cultural preference into pricing power and deferred-revenue moats. Meanwhile, streaming platforms built their early economics on subscriber growth; the codes now show the system maturing into profitability squeezes, subscriber churn normalizing, and a structural limit on how many subscriptions households will maintain. The content that holds audiences — live sports, live news, live events — migrates toward appointment scarcity, rewarding those who own live rights.",
+  "why_now": "Media fragmentation has pushed algorithmic content into every waking hour, making synchronous shared presence rarer and therefore more valuable. Live Nation's record deferred revenue of $6.6B in Q1 2026, Disney's Experiences segment hitting record $10B, affluent hotel RevPAR accelerating while mid-market softens. Simultaneously: EchoStar's going-concern warning, Comcast separating its media assets, the pay-TV subscriber base approaching single-digit millions — the legacy video model in terminal decline. This is not a post-pandemic bounce but a structural bifurcation in how leisure time is spent.",
+  "who_pays": "Working- and middle-class consumers who cannot afford premium live experiences and are increasingly priced out of the 'presence' tier of culture. Local news ecosystems, smaller content creators, and mid-tier cable channels that depended on the bundle for distribution and funding.",
+  "who_benefits": "Operators controlling scarce live-experience inventory: Live Nation/Ticketmaster, Disney Experiences, luxury hotel REITs, Fox Corporation through FIFA and sports rights. Platform operators with subscription moats (Netflix, Spotify) and live-rights holders who own the appointment-based content that cannot be substituted.",
+  "tension": "Antitrust scrutiny of ticketing monopolies (Live Nation's $450M legal accrual) and affordability exclusion could delegitimize the premium. The ad-supported tier creates a two-tier cultural experience: some people get Netflix without ads, others get it with surveillance-grade targeting. The cultural commons of shared television — everyone watching the same show — is replaced by fragmented, algorithmically personalized experiences that reduce shared cultural reference points.",
+  "evidence_companies": [
+    {
+      "company": "Live Nation Entertainment Inc.",
+      "fact": "Event-related deferred revenue reached record $6.6B in Q1 2026, with 159M fan attendance in FY2025 and sponsorship AOI $845M; $450M legal accrual for antitrust scrutiny of ticketing monopoly"
+    },
+    {
+      "company": "Walt Disney Co.",
+      "fact": "Experiences delivered record Q3 2026 revenue of $10.0B and segment operating income $3.3B; management explicitly frames parks as reinforcing digital engagement, not competing with it"
+    },
+    {
+      "company": "Host Hotels & Resorts, Inc.",
+      "fact": "Comparable hotel Total RevPAR $417.58 up 5.9% in Q2 2026, driven by affluent traveler demand and FIFA World Cup travel; full-year guidance raised to 4.75%-5.25% growth"
+    },
+    {
+      "company": "Fox Corporation",
+      "fact": "Advertising revenue spiked 78% in Q4 FY2026 driven by FIFA World Cup; management frames live news and sports as 'appointment-based' content that cannot be substituted with on-demand alternatives"
+    },
+    {
+      "company": "Netflix, Inc.",
+      "fact": "325M+ paid memberships; FY2025 revenue $45.2B, operating margin 29.5%; ad revenue >2.5x to $1.5B in 2025; ad tier is not a concession, it is the growth engine"
+    },
+    {
+      "company": "EchoStar Corporation",
+      "fact": "Substantial doubt about going concern stated in FY2025 annual report; 6.391M pay-TV subscribers as of Q2 2026, down from 6.998M; the full legacy satellite TV model unwinding in a single company"
+    },
+    {
+      "company": "Comcast Corporation",
+      "fact": "NBCUniversal and Sky separation announced; Peacock reached quarterly profitability Q2 2026; management has accepted that the cable bundle is dead and is dismantling the conglomerate structure that depended on it"
+    },
+    {
+      "company": "Sirius XM Holdings Inc.",
+      "fact": "Q2 2026 churn 1.4% record low and 33M paid subscribers; podcast grew 41% FY2025; in-car default access creates a different and more durable retention profile than algorithmic recommendation"
+    }
+  ],
+  "societal_stake": "When presence becomes a luxury, culture bifurcates: the rich share live moments and the social cohesion that comes with them, while everyone else watches highlights alone. When every piece of content is personalized, the shared cultural moments that create civic identity — the game everyone watched, the news everyone heard — disappear. Fragmented attention is also fragmented community.",
+  "merged_from": ["The Presence Premium", "Screen Fatigue's Revenge"]
+}

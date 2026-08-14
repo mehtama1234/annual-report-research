@@ -1,0 +1,91 @@
+{
+  "slug": "scrap-steel-comeback",
+  "trend_slug": "vertical-integration-ratchet",
+  "name": "The Mini-Mill That Doesn't Need Iron Ore",
+  "deck": "Electric arc furnace producers running on domestic scrap are outperforming legacy integrated mills not through commodity pricing but through structural cost advantage and construction backlog lock-in.",
+  "core_bet": "Commercial Metals Company manufactures from approximately 98% recycled material through electric arc furnace mini-mills and has deployed $2.5 billion into precast concrete fabrication since late 2025. This vertical integration into downstream construction systems—combined with EAF's structural cost advantage over ore-dependent blast furnaces—creates a durable margin ratchet that outlasts commodity price cycles.",
+  "numbers": [
+    {
+      "stat": "98%",
+      "label": "Recycled material input into CMC's steel mills, decoupling from seaborne iron ore markets"
+    },
+    {
+      "stat": "$111 per ton",
+      "label": "Year-over-year metal margin improvement for CMC's North America Steel Group in Q3 2026 (selling prices +$130/ton, scrap costs +$19/ton)"
+    },
+    {
+      "stat": "$2.5 billion",
+      "label": "Capital deployed by CMC into precast concrete acquisitions since December 2025, extending ratchet downstream into construction solutions"
+    },
+    {
+      "stat": "20 million gross tons",
+      "label": "Scrap steel recycled by Nucor in 2025, anchoring EAF-based production model independent of integrated iron ore dependencies"
+    },
+    {
+      "stat": "14.2%",
+      "label": "Adjusted EBITDA margin for CMC's North America Steel Group in Q3 2026, versus 11.5% a year prior"
+    },
+    {
+      "stat": "$173 million",
+      "label": "CMC's net earnings in Q3 2026, up 108% year-over-year despite only 1.7% volume decline"
+    },
+    {
+      "stat": "85%",
+      "label": "Nucor's sheet steel sales going to contract customers in 2025, damping spot-price volatility relative to pure commodity exposure"
+    },
+    {
+      "stat": "$52.9 million",
+      "label": "Precast concrete contribution to CMC's Construction Solutions Group adjusted EBITDA in Q3 2026"
+    }
+  ],
+  "mechanism": [
+    "The structural advantage of electric arc furnace mini-mills over integrated blast-furnace mills runs through input economics, not just operating leverage. CMC's model, centered on 98% recycled scrap input, removes exposure to seaborne iron ore pricing—a cost node that Cleveland-Cliffs must manage through its vertically integrated mining and pellet operations. When scrap spreads widen (selling prices rise faster than scrap costs), EAF producers capture the full margin arbitrage. In Q3 2026, CMC's North America Steel Group saw metal margins improve by $111 per ton as selling prices climbed $130 per ton while scrap input costs rose only $19 per ton. Nucor, processing 20 million gross tons of scrap in 2025, benefits from the same structural advantage: no mining capex, no ore reserves constraint, no long-term supply-chain lock-in to ports and ocean freight.",
+    "The second ratchet is vertical integration downward into fabrication and construction assembly, not upward into raw materials. Unlike Cleveland-Cliffs' integration strategy—which ties the company to iron ore mining, pellet plants, and direct reduced iron capacity that must run at scale to absorb fixed costs—CMC is extending ownership into precast concrete, rebar fabrication, and construction delivery systems. Since December 2025, CMC has deployed $2.5 billion into precast acquisitions (Contech Precast & Preload, Foley), adding $52.9 million of adjusted EBITDA from precast alone in Q3 2026 and driving a strategic rename from 'Emerging Businesses Group' to 'Construction Solutions Group.' This downstream integration does three things: (1) it embeds CMC deeper in project backlog and infrastructure spend, reducing spot-price sensitivity; (2) it allows margin capture from the rebar-to-fabrication-to-delivery chain rather than just the mill margin; and (3) it ties input demand (rebar, wire, merchant bar) directly to CMC's own end-market visibility. Construction Solutions Group net sales jumped 97.9% year-over-year in Q2 2026.",
+    "The durability of this advantage rests on two structural shifts. First, EAF economics reward capital expenditure in margin-accretive technology and end-market closeness, not in mining footprint expansion. CMC's recent capex serves precast bolt-on acquisitions, Nucor's capital spending ($2.5-3.4 billion annually) funds fabricated-products capacity and contract-oriented sheet production. Cleveland-Cliffs, by contrast, must service a high fixed-cost integrated asset base (blast furnaces, DRI plants, mining operations) that cannot shrink without destroying capacity. In 2025, Cleveland-Cliffs reported adjusted EBITDA of only $37 million on $18.6 billion of revenue—a 0.2% conversion rate—while shouldering $3.3 billion of liquidity demands. CMC converted $7.798 billion of 2025 revenue into $84.7 million of net earnings with far less capital intensity. Second, construction backlog and infrastructure project lock-in provide revenue floors that commodity mills lack. CMC management cited 'project pipeline and backlog being supported by public infrastructure, data centers, semiconductors, and energy buildouts' in Q3 2026 even as shipment volumes declined 1.7% year-over-year. This is project-linked demand visibility, not spot market exposure."
+  ],
+  "why_now": "For fifteen years, integrated steelmakers like Cleveland-Cliffs could argue that backward integration into ore mining created efficiency. But structural changes in capital availability, environmental regulation, and infrastructure spending have inverted the advantage. Seaborne iron ore spot prices remain volatile, integrated mills carry undeployed capital for mine expansions that may never pencil, and the fixed-cost drag of legacy blast furnace capacity makes rapid profit scaling impossible in recovery years. Meanwhile, EAF-based mini-mills face a compounding advantage: access to abundant domestic scrap (25+ million tons annually), electricity that is increasingly stable and decarbonized, and no need for mining-scale capex. CMC's transition to a 'Construction Solutions Group' identity—backed by $2.5 billion in precast acquisitions—signals that the competitively durable edge is no longer about raw material reserves but about owning the construction assembly and delivery layer. Infrastructure spending, data center power buildouts, and semiconductor fabrication all require rebar, wire, and precast systems on schedule. That demand is less cyclical than spot steel pricing and rewards companies that can embed into project backlog.",
+  "who_pays": "End customers—construction firms, infrastructure project developers, data center builders, and industrial manufacturers—pay the structural cost difference. They still buy rebar, sheet, and fabricated products, but now increasingly from integrated construction solutions providers rather than commodity mills. For commercial developers, CMC's ability to guarantee precast delivery schedules tied to rebar supply is worth a premium relative to spot-market dependence. For infrastructure projects, having a single vendor managing both steel supply and fabrication reduces execution risk. The economic burden shifts from the mill to the project delivery timeline.",
+  "who_profits": "Commercial Metals, through margin expansion and EBITDA growth from its Construction Solutions Group (up 127% EBITDA year-over-year in Q2 2026). Nucor, through scale in EAF production, contract-oriented sheet sales (85% of sheet to contract customers in 2025), and fabricated-products leverage. Smaller domestic scrap-based EAF producers that lack integrated mining but can still access abundant recycled input. Notably, Cleveland-Cliffs does not profit from this shift—the company's earnings remained depressed ($37 million adjusted EBITDA in 2025, $286 million in Q2 2026 after $191 million sequential recovery) because its integrated model requires very high utilization to cover fixed costs, and its automotive-heavy customer base (29% of steelmaking revenue in Q2 2026) lags infrastructure spending cycles.",
+  "tension": "The risk is that CMC's precast acquisition strategy adds asset complexity and operational execution risk precisely as integration is supposed to reduce complexity. The company went from a relatively focused scrap-to-rebar operation to a multi-geography precast and fabrication platform in 18 months. Construction project delays, regional overcapacity in precast, or acquisition integration failures could turn the $2.5 billion capex into a drag on returns rather than a margin ratchet. Additionally, if infrastructure spending disappoints or project cancellations accelerate, CMC's Construction Solutions Group loses its primary demand anchor. Nucor, by contrast, faces less acquisition integration risk but remains exposed to contract-price lag: roughly 35-40% of flat-rolled sales at Cleveland-Cliffs are fixed-price contracts, meaning price recoveries take time to flow into reported earnings. A commodity downturn would hit Nucor's realized prices before it hits the backlog visibility that CMC's construction solutions model provides.",
+  "surprising_part": "The ratchet is not that CMC is cheaper to operate than blast furnace mills (that has been true for 20 years). The surprise is that the advantage is now *durable* and *accelerating* because downstream integration into fabrication and precast allows mini-mills to own project backlog rather than spot market exposure. Cleveland-Cliffs, the largest integrated steelmaker, reported a GAAP net loss of $1.4 billion in 2025 despite $18.6 billion of revenue. CMC reported $84.7 million of net earnings on $7.8 billion of revenue in 2025 and is now growing faster in 2026. The traditional logic was that integrated mills would maintain margins through ore reserves and asset scale. The new logic is that margin is captured by whichever company owns the delivery obligation to the infrastructure project, not by whoever owns the mine.",
+  "one_sentence": "Mini-mills running on domestic scrap are outperforming integrated ore-dependent competitors because they've extended backward into fabrication and construction delivery systems, turning commodity mills into project-locked infrastructure suppliers.",
+  "societal_stake": "Data centers, power grids, roads, and bridges are built from steel and concrete. If the fastest-growing, most efficient suppliers are EAF-based mini-mills dependent on scrap recycling and domestic construction backlog, then energy buildout and infrastructure projects are constrained by scrap availability and fab shop capacity, not by mining reserves or integrated capacity. This means recycling systems, fabrication shop density, and project management matter as much as raw material endowments for delivering the physical buildout the energy transition requires.",
+  "evidence": [
+    {
+      "company": "Commercial Metals Company",
+      "fact": "Q3 2026 net earnings of $173 million, up 108% year-over-year, despite 1.7% volume decline, showing margin expansion independent of tonnage growth"
+    },
+    {
+      "company": "Commercial Metals Company",
+      "fact": "Manufacturing from 98% recycled material, eliminating iron ore sourcing and seaborne pricing exposure that integrated mills carry"
+    },
+    {
+      "company": "Commercial Metals Company",
+      "fact": "$2.5 billion deployed into precast concrete acquisitions since December 2025 (CP&P, Foley), signaling deliberate strategy shift from mill-only to construction solutions platform"
+    },
+    {
+      "company": "Commercial Metals Company",
+      "fact": "Construction Solutions Group EBITDA up 127% year-over-year in Q2 2026 to $53.4 million, with precast platform alone generating $33.6-40.3 million EBITDA"
+    },
+    {
+      "company": "Commercial Metals Company",
+      "fact": "North America Steel Group metal margin improved $111 per ton year-over-year in Q3 2026 (selling prices +$130/ton, scrap costs +$19/ton), proving EAF cost structure advantage"
+    },
+    {
+      "company": "Nucor Corporation",
+      "fact": "Recycled 20 million gross tons of scrap steel in 2025, anchoring production model independent of integrated iron ore and pellet supply chains"
+    },
+    {
+      "company": "Nucor Corporation",
+      "fact": "Q2 2026 net earnings of $1.16 billion with steel mills segment earnings before tax of $1.556 billion, showing leverage of scale in EAF-based production"
+    },
+    {
+      "company": "Cleveland-Cliffs Inc.",
+      "fact": "2025 adjusted EBITDA of $37 million on $18.6 billion revenue (0.2% conversion), demonstrating how integrated ore-dependent model struggles to convert gross margin into earnings when automotive demand is weak"
+    },
+    {
+      "company": "Cleveland-Cliffs Inc.",
+      "fact": "Q2 2026 GAAP net loss of $134 million despite sequential EBITDA recovery of $191 million, showing that even operational improvement cannot overcome fixed-cost structure of integrated mills"
+    }
+  ]
+}

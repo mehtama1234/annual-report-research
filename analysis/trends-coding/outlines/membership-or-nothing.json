@@ -1,0 +1,86 @@
+{
+  "slug": "membership-or-nothing",
+  "name": "Membership or Nothing",
+  "overview_deck": "Across every sector simultaneously, the companies that captured a recurring paid relationship before the transaction are pulling structurally away from those that did not — using predictable revenue to subsidize acquisition, undercut non-member pricing, and convert frequency data into compounding advantage.",
+  "groups": [
+    {
+      "group_title": "How It Got Here",
+      "angles": [
+        {
+          "sub_slug": "the-architecture-of-capture",
+          "title": "The Architecture of Capture: How Membership Became the Product",
+          "angle_type": "origin",
+          "focus": "The shift from transaction to relationship did not happen overnight — it was engineered over two decades as loyalty points gave way to paid tiers, which gave way to behavioral subscription engines. This page traces the inflection from Amazon Prime (2005) through Uber One (2021) to the 2024–2026 moment when membership economics crossed into structural dominance across retail, media, finance, and mobility at the same time.",
+          "companies": ["Amazon", "Starbucks Corporation", "Netflix, Inc.", "Spotify Technology S.A.", "American Express Company"],
+          "key_question": "Why did membership economics reach maturity across every sector simultaneously in 2024–2026 rather than sequentially?"
+        }
+      ]
+    },
+    {
+      "group_title": "Sub-Patterns Inside the Trend",
+      "angles": [
+        {
+          "sub_slug": "the-fee-card-flywheel",
+          "title": "The Fee-Card Flywheel: When the Card IS the Membership",
+          "angle_type": "sub-pattern",
+          "focus": "Premium credit cards have quietly become the most durable membership layer in consumer finance — not loyalty programs attached to a card, but fee-paying relationships where the card itself is the product. American Express ($72.2B revenue, 30th straight quarter of double-digit net card fee growth, 70%+ of new cards on fee-paying products) and Marriott (75% of U.S. room nights from Bonvoy members, co-branded card fees up $60M Q1 2026 alone, new multi-year JPMorgan Chase and AmEx deals) show how card economics and loyalty economics have fused into a single recurring-revenue engine.",
+          "companies": ["American Express Company", "Marriott International Inc.", "Delta Air Lines, Inc.", "Synchrony Financial"],
+          "key_question": "How did the credit card become the most profitable membership layer — more valuable than the underlying service it rewards?"
+        },
+        {
+          "sub_slug": "autoship-as-destiny",
+          "title": "Autoship as Destiny: Replenishment Subscriptions That Never Get Cancelled",
+          "angle_type": "sub-pattern",
+          "focus": "The purest form of membership-or-nothing is the replenishment subscription — where the customer does not decide to buy each time, because the decision was made once. Chewy (84% Autoship as % of net sales, $595 net sales per active customer, record Q1 2026 profitability on 200K net customer additions) is the clearest case, but the pattern runs from pet food to solar energy: Sunrun (1.206M contracted customers, 74% storage attachment) and SiriusXM (93% subscriber revenue, record-low 1.4% monthly churn) both show the same logic — convert a one-time buyer into a never-leave relationship.",
+          "companies": ["Chewy, Inc.", "Sirius XM Holdings Inc.", "Sunrun, Inc.", "Iridium Communications Inc."],
+          "key_question": "What makes a replenishment subscription structurally different from loyalty — and why is the churn curve so hard to reverse once you are inside?"
+        },
+        {
+          "sub_slug": "platform-membership-as-multi-category-wallet",
+          "title": "The Multi-Category Wallet: One Membership, Every Transaction",
+          "angle_type": "sub-pattern",
+          "focus": "The most aggressive version of membership-or-nothing is the platform that uses a single paid relationship to colonize multiple spend categories simultaneously. Uber One (50M members driving roughly half of $58B gross bookings across both Mobility and Delivery) and Amazon (advertising $19.8B + subscriptions $13.7B in Q2 2026 alone, same-day delivery surpassed 1B items YTD) show how a membership tier converts every new category launch into a preloaded customer relationship — no acquisition cost, no re-decision required.",
+          "companies": ["Uber Technologies Inc.", "Amazon.com, Inc.", "Shopify Inc.", "DoorDash"],
+          "key_question": "How does a membership tier become a multi-category acquisition engine — and what happens to single-category competitors when the member never needs to look elsewhere?"
+        },
+        {
+          "sub_slug": "bundle-wars-media-membership",
+          "title": "Bundle Wars: How Media Turned Subscriptions Into Fortresses",
+          "angle_type": "sub-pattern",
+          "focus": "In media, membership-or-nothing plays out as the bundle — the accumulation of enough daily-use products under one recurring fee that cancellation becomes cognitively and economically irrational. The New York Times (12.78M total subscribers, $1.951B subscription revenue FY2025, digital-only ARPU rising to $9.94, bundling News + Games + Cooking + Audio + Sports) and Walt Disney Co. (Disney+ SVOD operating income up to $450M in Q1 2026, management describing a 'comprehensive membership ecosystem') show the same logic: each added product lowers the probability of churn without adding proportional cost.",
+          "companies": ["The New York Times Company", "Walt Disney Co.", "Netflix, Inc.", "Spotify Technology S.A.", "Sirius XM Holdings Inc."],
+          "key_question": "How many reasons-to-stay does a bundle need before the cancellation calculation stops being rational — and which media companies have crossed that threshold?"
+        }
+      ]
+    },
+    {
+      "group_title": "Who Wins, Who Pays, What Breaks",
+      "angles": [
+        {
+          "sub_slug": "who-profits-compounding-economics",
+          "title": "The Compounding Machine: Who Captures the Economics of Predictability",
+          "angle_type": "who-profits",
+          "focus": "Recurring revenue is not just stable — it compounds. This page maps where the surplus lands: American Express shareholders received 30 consecutive quarters of double-digit net card fee growth; Chewy's gross margin expanded 50 basis points in back-to-back quarters on service mix alone rather than pricing power; Uber's Q2 2026 GAAP net income reached $2.4B and FCF $2.8B, a level unthinkable when Uber One launched. The page argues that membership converts uncertain transaction volume into a capital-allocation advantage — giving incumbents the cash to subsidize acquisition, fund logistics, and undercut non-member pricing in ways that purely transactional competitors structurally cannot match.",
+          "companies": ["American Express Company", "Chewy, Inc.", "Uber Technologies Inc.", "Amazon.com, Inc.", "Sirius XM Holdings Inc."],
+          "key_question": "What does the recurring-revenue premium actually buy — and why does it widen moats faster than equivalent transactional revenue would?"
+        },
+        {
+          "sub_slug": "who-pays-the-non-member-tax",
+          "title": "The Non-Member Tax: Who Subsidizes the Membership Economy",
+          "angle_type": "who-pays",
+          "focus": "The membership model's profitability depends on a hidden regressive transfer: non-members pay higher per-unit prices that fund the acquisition costs, logistics subsidies, and pricing advantages that members receive. Bath & Body Works (40M active loyalty members, but sales soft — showing that even when the program exists, non-participation still penalizes) and Planet Fitness (50% Classic Card price hike absorbed by new members, but member growth stalling — management launched a 'membership repair' posture) show that the burden falls unevenly on lower-income, occasional, or late-adopter consumers. The societal arithmetic is quiet and pervasive: the infrastructure of everyday commerce increasingly prices exclusion into its base.",
+          "companies": ["Bath & Body Works, Inc.", "Planet Fitness, Inc.", "Starbucks Corporation", "Ollie's Bargain Outlet Holdings, Inc."],
+          "key_question": "How much more does a non-member pay — in price, in service quality, in data disadvantage — relative to a member using the same platform?"
+        },
+        {
+          "sub_slug": "the-saturation-trap",
+          "title": "The Saturation Trap: What Happens When Everyone Who Would Join Has Joined",
+          "angle_type": "tension",
+          "focus": "The membership model carries an internal contradiction: growth requires adding new members, but when the addressable pool is exhausted, the only levers are price increases (which trigger churn) or service degradation (which breaks the trust that justified the membership in the first place). Starbucks spent two full years recovering from a period when the Rewards program failed to deliver perceived value — Q1 2026 marked the first positive comparable transaction growth in eight quarters. Planet Fitness paused a planned Black Card price increase because member growth stalled after a 50% entry-price hike. SiriusXM holds 33M subscribers but has been in single-digit subscriber decline for years, sustaining economics through churn discipline rather than growth. The page asks: what does the endgame look like when the membership model runs out of new joiners?",
+          "companies": ["Starbucks Corporation", "Planet Fitness, Inc.", "Sirius XM Holdings Inc.", "The New York Times Company"],
+          "key_question": "When a membership platform reaches saturation, does it extract more from existing members, degrade service to cut costs, or find a structural exit — and what do the early signs look like?"
+        }
+      ]
+    }
+  ]
+}

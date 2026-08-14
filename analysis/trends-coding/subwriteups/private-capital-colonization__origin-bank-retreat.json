@@ -1,0 +1,72 @@
+{
+  "slug": "origin-bank-retreat",
+  "trend_slug": "private-capital-colonization",
+  "name": "When the Banks Stepped Back",
+  "deck": "Post-2008 Basel III capital requirements and post-2022 regional bank failures forced regulated lenders to shrink credit supply and raise capital ratios, creating a regulatory vacuum that alternative asset managers rushed to fill with private credit, asset-based finance, and direct lending.",
+  "core_bet": "The structural inflection that enabled private-capital colonization was regulatory asymmetry: banks were constrained by Basel III, credit-risk weighting, and deposit-base pressure, while non-bank alternatives faced comparatively loose oversight. This asymmetry is now permanent. Regulated banks like PNC are retreating to high-margin relationship lending and capital-light fee income. Private-credit platforms like Apollo, KKR, and Ares have filled the gap with $1T+ of deployed capital in illiquid, higher-yielding strategies that banks can no longer or will not underwrite.",
+  "numbers": [
+    {
+      "stat": "$938B",
+      "label": "Apollo total AUM (Q4 2025)"
+    },
+    {
+      "stat": "$709B",
+      "label": "Apollo fee-generating AUM (Q4 2025)"
+    },
+    {
+      "stat": "$300B+",
+      "label": "Apollo origination activity (2025)"
+    },
+    {
+      "stat": "75%",
+      "label": "KKR ANI conversion rate (capital deployed vs AUM)"
+    },
+    {
+      "stat": "$744B",
+      "label": "KKR total AUM (2025)"
+    },
+    {
+      "stat": "$622.5B",
+      "label": "Ares total AUM (2025)"
+    },
+    {
+      "stat": "25%",
+      "label": "Ares management-fee growth year-over-year (2025)"
+    }
+  ],
+  "mechanism": [
+    "Basel III tightened regulatory capital requirements for banks in 2010-2020, requiring higher Tier 1 capital ratios and more conservative risk-weighting of assets. This made certain lending products uneconomical for banks: illiquid loans, small-to-mid-market credit, real estate development loans, and structured credit. The math changed. A regional bank like PNC had to choose between holding more capital against risky loans or exiting the business. Many chose to exit.",
+    "Regional bank failures in 2023-2024 (SVB, Signature, First Republic) accelerated the retreat. These banks had deployed capital into longer-duration assets and faced deposit-flight risk when rates rose. Regulators tightened oversight even further. Surviving banks like PNC raised capital ratios and focused on relationship franchises and fee income. The lending gap this created was enormous—trillions of dollars in credit demand that had historically been served by banks now had no obvious supply source.",
+    "Alternative asset managers stepped into the gap. Private-credit platforms like Apollo, KKR, and Ares have built dedicated origination teams, balance-sheet capacity (especially through insurance and retirement assets), and fee structures designed to monetize less-liquid, higher-yielding credit. Apollo's 2025 origination of $300B+ shows the scale. KKR's integration of insurance economics through Global Atlantic allows the firm to deploy capital at longer durations and lower expected returns than pure PE. Ares' $156B of available capital (dry powder + undeployed) sits ready to execute.",
+    "The regulatory asymmetry is the structural permanence. Non-bank lenders face less stringent capital requirements, less-strict loan-documentation rules, and greater flexibility in pricing and structure. They can hold illiquid assets longer. They can take credit-quality risk that banks cannot. The result is a permanent economic arbitrage: alternative platforms can monetize credit creation that banks no longer can or will undertake, because the regulatory and capital cost of doing so is too high for regulated lenders."
+  ],
+  "why_now": "Basel III was written in 2010, implemented gradually through 2020, and tightened further after 2023. Fifteen years of regulatory pressure has reset the economics of bank lending. At the same time, private markets have grown and institutionalized. Insurance companies and pension funds now have appetite for private credit that they did not have in 2008. Technology has improved for underwriting and servicing less-liquid credit. Fee structures have matured. The timing is now: there is enough supply of capital (insurance float, institutional AUM, family offices) and enough demand for credit (the lending gap from retreating banks) that alternatives have scale. The regulatory difference is also more durable now because political and regulatory will to re-regulate non-banks is weak—they are not seen as systemically critical yet.",
+  "who_pays": "Small-to-mid-market companies and borrowers pay the cost through higher lending rates, tighter covenants, and higher required equity contributions. Private-credit platforms charge 3-5% management fees plus carry on returns—significantly higher than traditional bank lending. Retail savers and pension-fund beneficiaries pay indirectly: the capital flowing into private credit is capital not flowing into public-market infrastructure or bank deposits, which shifts yields and risk allocation. Workers and communities in regions where small-business lending has dried up lose access to affordable credit for local business expansion.",
+  "who_profits": "Alternative asset managers capture fee and carry spread on trillions of dollars of private credit. Apollo's $2.5B in fee-related earnings (2025) plus $3.4B in spread-related earnings (Athene insurance operations) is the proof. KKR's integration of insurance and credit yields nearly pure managed-capital growth without needing to depend only on exits. Institutional LPs (pensions, endowments, insurance companies) benefit from higher-yielding strategies, though at increased liquidity and credit risk. Large corporations with scale can still access bank credit; middle-market and smaller firms are funneled into private credit where pricing is 100-200bps higher.",
+  "tension": "The first tension is that non-bank credit is less stable and more pro-cyclical than bank credit. Banks have FDIC insurance and central-bank backstops. Non-bank lenders have investor capital and reputation. In a credit crisis, private-credit platforms must redeem or mark down investments quickly, creating sell pressure and contagion. The second tension is that this model depends on favorable credit conditions and low defaults. Apollo's spread earnings depend on Athene's portfolio performing well. If credit conditions tighten, origination slows, refinancing pressure builds, and the model compresses. A third tension: political risk. If private credit is seen as destabilizing or unfair, regulation could tighten suddenly, shrinking available capital and repricing the entire system. A final tension: the regulatory asymmetry is not sustainable long-term. If non-banks grow large enough to pose systemic risk, regulation will eventually follow.",
+  "surprising_part": "What stands out is how thoroughly banks have ceded the middle market. PNC is still a massive franchise ($7B annual net income), but it is focused on the top 1,000 companies and ultra-high-net-worth individuals. Middle-market lending has moved almost entirely into private platforms. The speed of this transition—essentially 2018-2025—is remarkable. A second surprise is how effectively alternative platforms have integrated insurance and balance-sheet economics to solve the duration and leverage constraints that fund-based models face. Apollo's Athene strategy is not a side business; it is the core earnings engine. KKR's Global Atlantic acquisition is central to monetization at scale. This is not happenstance; it is deliberate.",
+  "one_sentence": "Regulatory constraints on banks created a permanent capital supply gap that private alternatives filled with higher fees, looser structures, and insurance-backed balance sheets.",
+  "societal_stake": "The migration of credit creation from banks to private alternatives is a fundamental shift in access and cost. Banks are utility-like intermediaries with public accountability. Private-credit platforms are profit-maximizing entities with limited public obligation. This means: (1) smaller companies and entrepreneurs pay more to borrow; (2) credit becomes less stable and more cyclical; (3) fee capture is higher, reducing real-economy deployment of capital; (4) the system is more fragile because non-bank lenders have no public backstop.",
+  "evidence": [
+    {
+      "company": "Apollo Global Management, Inc.",
+      "fact": "Full-year 2025 fee-related earnings of about $2.5B, spread-related earnings of about $3.4B, adjusted net income of about $5.2B"
+    },
+    {
+      "company": "Apollo Global Management, Inc.",
+      "fact": "Total AUM about $938B (Q4 2025), fee-generating AUM about $709B, origination activity of more than $300B"
+    },
+    {
+      "company": "KKR & Co. Inc.",
+      "fact": "Full-year 2025 FRE about $3.7B, TOE about $5.0B, ANI about $4.4B, AUM about $744B, capital raised about $129B"
+    },
+    {
+      "company": "Ares Management Corporation",
+      "fact": "Full-year 2025 AUM about $622.5B, FPAUM about $384.9B, available capital about $156.0B, fee related earnings about $1.78B"
+    },
+    {
+      "company": "The PNC Financial Services Group, Inc.",
+      "fact": "Full-year 2025 net income of $7.0B and diluted EPS of $16.59, but company is focused on relationship franchises and capital-light fee capture rather than balance-sheet credit expansion"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "who-pays-ratepayers-communities",
+  "trend_slug": "grids-new-landlords",
+  "name": "Who Actually Pays for the AI Power Buildout",
+  "deck": "Utilities are deploying massive capex to serve data-center demand, but the bill goes to residential ratepayers and small businesses, not to the hyperscalers benefiting most from the infrastructure.",
+  "core_bet": "The capex that utilities are deploying to serve AI data-center load is being recovered through regulated rate bases that include residential and small-business customers. Alliant Energy expects to double peak-load demand by 2031; NextEra added 13.5 GW of renewable and storage origination in 2025; AEP raised its five-year capital plan to $78B and expects 69 GW of new load by 2030. This infrastructure is being built because large hyperscalers signed demand agreements, but the financing mechanism recovers the cost from all ratepayers through regulated rates, not from the data-center customers themselves. The burden-transfer is embedded in how regulated utility economics work.",
+  "numbers": [
+    {
+      "stat": "$13.4B",
+      "label": "Alliant Energy capital plan 2026-2029"
+    },
+    {
+      "stat": "3.4 GW",
+      "label": "Alliant Energy contracted data-center demand (early 2026)"
+    },
+    {
+      "stat": "60%",
+      "label": "Alliant projected peak-load demand increase by 2031 from 2025 levels"
+    },
+    {
+      "stat": "$26B",
+      "label": "Atmos Energy projected capex through fiscal 2030 (safety and modernization)"
+    },
+    {
+      "stat": "$42B",
+      "label": "Atmos Energy rate base projected 2030 (from $21.4B at 2025)"
+    },
+    {
+      "stat": "29.8 GW",
+      "label": "NextEra Energy Resources backlog (end of 2025)"
+    },
+    {
+      "stat": "69 GW",
+      "label": "AEP expected new load additions by 2030"
+    },
+    {
+      "stat": "$78B",
+      "label": "AEP five-year capital plan (raised from $72B)"
+    }
+  ],
+  "mechanism": [
+    "Regulated utilities recover capex through rate bases that are approved by state regulatory commissions. When Alliant Energy signs a large-load agreement with a data-center operator, the utility does not charge that single customer for the entire transmission line, substation upgrade, or generation procurement needed to serve them. Instead, the utility files for a rate case, argues that serving the new load requires infrastructure investment, and gets approval to add the capex to its rate base. The cost is then spread across all customers—residential, small business, and large industrial. Alliant's $13.4B capital plan for 2026-2029 and its projection of 60% load growth by 2031 are funded this way. Residential customers in Iowa and Wisconsin will pay rates that reflect the cost of transmission and distribution infrastructure built to serve large data-center demand, even though they receive no direct benefit from having a hyperscaler in their region.",
+    "The affordability argument provides political cover for the cost transfer. Utilities like Alliant, Atmos, and AEP repeatedly argue that adding large-load customers can actually reduce rates for residential customers by spreading fixed costs across a larger base. This is mathematically true in specific cases but masks the underlying transfer: a household in Cedar Rapids is paying higher bills to finance infrastructure that primarily serves an Amazon or Google data center outside town. AEP explicitly said it expects 'customer cost offsets' and 'customer savings' from DOE loans and grants—language that suggests the large-load buildout is a collective good. But the savings accrue to the large customers with negotiated rates; the residential customer sees the capex bill.",
+    "The regulatory structure embeds the burden-transfer by design. State Public Utilities Commissions approve utility rates based on cost-of-service plus a regulated return. When utilities file for rate increases to fund capex, the commission reviews the filing and usually approves most of the requested recovery because denying capex investment risks grid adequacy and competitiveness. The regulator is caught between a mandate to keep rates affordable and pressure from utilities and state economic-development agencies to fund large-load infrastructure. The result is that capex gets approved, rates rise, and the cost flows through to all ratepayers. Atmos's rate base is projected to grow from $21.4B to $42B by fiscal 2030—a 96% increase driven by safety and reliability capex that includes infrastructure built to serve large-load customers. That rate-base growth translates directly into higher bills for all Atmos customers."
+  ],
+  "why_now": "Three drivers converged. First, data-center and AI-related demand accelerated in 2024-2026, creating visible large-load agreements with hyperscalers. Alliant saw contracted data-center demand jump from roughly 1.5 GW to 3.4 GW in a single year. Second, electricity prices and scarcity became obvious in 2023-2025 as ERCOT and other markets faced tight supply, making utilities confident they could approve and pass through large capex. Third, state economic-development priorities shifted to attract data centers, and public utility commissions became more receptive to utility arguments that large load drives affordability. All three forces made utilities willing to spend heavily on infrastructure recovery through rate bases.",
+  "who_pays": "Residential ratepayers and small businesses without large-load negotiating power. A household using 10,000 kWh per year in an Alliant service territory pays a share of the $13.4B capex plan proportional to its consumption. A small business in the same service territory pays its share. Neither signed a data-center demand agreement. Neither negotiated a rate structure that offsets their share of capex. Their rates rise to fund infrastructure they did not request and may not use directly. Communities near transmission routes and pipeline expansions also pay through siting disruption, construction noise, environmental risk, and property-value impacts—without direct compensation.",
+  "who_profits": "Hyperscaler tech companies benefit from subsidized infrastructure. They sign large-load demand agreements with favorable terms because utilities need the long-term revenue certainty and regulatory backing that comes from signed contracts. They negotiate rates that are often below what residential customers pay per megawatt-hour, because their scale and credit quality give them bargaining power. The infrastructure is built first for them; the cost is borne by the regulated ratepayer base. Utilities benefit through higher rate bases, which generate guaranteed regulated returns. Shareholders of utilities profit through higher earnings as rate bases grow.",
+  "tension": "The cross-subsidy model breaks when the regulatory compact is questioned. If residential customers become aware that their bills are rising partly to finance data-center infrastructure, political pressure may mount to change rate structures. Some states may attempt to impose data-center-specific surcharges or 'cost allocation' rules that require large-load customers to pay directly for their infrastructure rather than spreading the cost through the regulated base. This would make data-center economics less attractive to hyperscalers, potentially slowing infrastructure growth and creating tensions between state development goals and ratepayer fairness.",
+  "surprising_part": "The burden-transfer is not accidental or hidden—it is built into regulated utility economics and is now explicit in regulatory filings and investor presentations. AEP and NextEra clearly state that new load reduces per-unit costs and supports affordability. Utilities are comfortable with this framing because it aligns with state development priorities and has proven politically durable. The surprising part is that consumers (residential ratepayers) do not resist more strongly, and regulators do not impose stronger cost-allocation mechanisms. The answer appears to be that the per-household bill impact is modest, regulatory political economy favors utilities, and the data-center jobs narrative is politically powerful enough to overcome fairness objections.",
+  "one_sentence": "The infrastructure bill for powering AI goes to residential electricity customers, while the value accrues to hyperscalers and utility shareholders.",
+  "societal_stake": "Affordability of electricity is being eroded for price-sensitive households to fund infrastructure that benefits capital-intensive hyperscalers. This widens inequality between those who can negotiate favorable large-load rates and those who pay standard residential rates. Communities near transmission corridors absorb environmental and social costs without compensation. The regulatory mechanism that enables this cross-subsidy is also hollowing out political support for utility regulation itself—when ratepayers feel they are financing private companies' infrastructure, faith in regulated utility models erodes.",
+  "evidence": [
+    {
+      "company": "Alliant Energy Corporation",
+      "fact": "Contracted data-center demand reached 3.4 GW by early 2026, expected to drive 60% increase in peak-load demand by 2031"
+    },
+    {
+      "company": "Alliant Energy Corporation",
+      "fact": "Capital plan of $13.4B for 2026-2029 to support large-load customer growth and system modernization"
+    },
+    {
+      "company": "Atmos Energy Corporation",
+      "fact": "Projected rate base growth from $21.4B at fiscal 2025 to $42B by fiscal 2030 (96% increase)"
+    },
+    {
+      "company": "Atmos Energy Corporation",
+      "fact": "$26B of projected capex through fiscal 2030, over 85% focused on safety and reliability"
+    },
+    {
+      "company": "NextEra Energy, Inc.",
+      "fact": "Added 13.5 GW of new renewables and storage origination in 2025, with backlog around 29.8 GW"
+    },
+    {
+      "company": "NextEra Energy, Inc.",
+      "fact": "FPL regulatory capital employed grew from $72.9B to $79.7B in Q2 2026 (9.3% growth)"
+    },
+    {
+      "company": "American Electric Power Company",
+      "fact": "Raised five-year capital plan to $78B from $72B and expects 69 GW of new load additions by 2030"
+    },
+    {
+      "company": "American Electric Power Company",
+      "fact": "Q2 2026 expected new load additions increased to 69 GW by 2030; secured 13 GW of gas-fired turbine capacity with another 10 GW under evaluation"
+    }
+  ]
+}

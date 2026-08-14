@@ -1,0 +1,94 @@
+{
+  "slug": "outage-anxiety-economy",
+  "name": "The Outage Anxiety Economy",
+  "overview_deck": "Grid fragility, AI-driven load growth, and extreme weather have repriced backup electricity from a luxury accessory into a mandatory industrial input — and the companies building resilience infrastructure are capturing that premium at every layer of the stack.",
+  "groups": [
+    {
+      "group_title": "Why Now: The Convergence That Made Reliability a Product",
+      "angles": [
+        {
+          "sub_slug": "the-inflection-point",
+          "title": "When the Lights Became a Business Risk",
+          "angle_type": "origin",
+          "focus": "Three simultaneous pressures — extreme-weather disruption, AI-driven load growth, and a cultural shift where every outage is now a productivity or safety emergency — converged between 2024 and 2026 to transform backup power from a niche product into a strategic asset class. This page traces the historical arc from Hurricane Sandy through Winter Storm Fern and the hyperscaler buildout, showing why the inflection happened now and not five years earlier.",
+          "companies": ["Generac Holdings", "Alliant Energy Corporation", "NextEra Energy", "Williams Companies Inc."],
+          "key_question": "What exactly changed in 2024-2026 to make grid reliability a strategic input rather than a background assumption?"
+        },
+        {
+          "sub_slug": "grid-stress-anatomy",
+          "title": "The Grid Under Siege: AI Load, Weather, and the Capacity Gap",
+          "angle_type": "sub-pattern",
+          "focus": "The same regional grids that were built for slow population growth are now absorbing 60%+ peak-load increases from contracted data-center demand while simultaneously absorbing storm-driven disruptions. This page maps the physical stress: Alliant Energy projecting 60% peak-load growth by 2031, Williams Companies routing natural gas into power-generation backbones, and Kinder Morgan building a $10B backlog where nearly 60% is tied to power-generation support.",
+          "companies": ["Alliant Energy Corporation", "Williams Companies Inc.", "Kinder Morgan", "NextEra Energy", "Atmos Energy Corporation"],
+          "key_question": "How did the convergence of AI compute demand and weather volatility create a structural capacity gap that no single grid operator could absorb alone?"
+        }
+      ]
+    },
+    {
+      "group_title": "Who Captures the Premium: The Resilience Stack",
+      "angles": [
+        {
+          "sub_slug": "generac-deepdive",
+          "title": "Generac's Bifurcation: When the Same Company Sells to Homeowners and Hyperscalers",
+          "angle_type": "company-deepdive",
+          "focus": "Generac is the clearest single-company proof that reliability has been repriced as a strategic asset: C&I external net sales rose 29% to $556M in Q2 2026 while residential fell 2%, the data-center backlog hit $1.6B after two hyperscaler global supply agreements, and a $71M tariff refund masked the true margin structure underneath. This page dissects the bifurcation — why the same generator platform now serves two radically different buyers, and what that split reveals about how resilience infrastructure gets priced.",
+          "companies": ["Generac Holdings"],
+          "key_question": "How does one company simultaneously sell residential 'insurance purchases' to anxious homeowners and mission-critical megawatt systems to hyperscalers — and what does the margin split reveal?"
+        },
+        {
+          "sub_slug": "physical-build-layer",
+          "title": "The Contractors Who Wire the Resilience Economy",
+          "angle_type": "sub-pattern",
+          "focus": "Behind every hyperscaler backup-power contract is a field-execution layer of specialty contractors integrating electrical, mechanical, cooling, and controls systems under one roof. EMCOR's remaining performance obligations hit a record $17.14B in Q2 2026 with data-center construction the biggest driver; Comfort Systems USA posted 51% organic growth in Q1 2026 with a $14.06B backlog driven by data-center HVAC; and Eaton's Electrical Americas segment delivered 14% organic growth as power-distribution bottlenecks became the binding constraint on AI deployment. This page shows how resilience demand translates into a massive physical build cycle.",
+          "companies": ["EMCOR Group", "Comfort Systems USA", "Eaton Corporation", "Powell Industries Inc.", "Trane Technologies"],
+          "key_question": "Who actually builds the physical layer of the resilience economy, and how is the labor and execution scarcity creating its own pricing power?"
+        },
+        {
+          "sub_slug": "backup-generation-platform",
+          "title": "Beyond the Generator: Cummins and the Power-Systems Platform",
+          "angle_type": "sub-pattern",
+          "focus": "Cummins shows that the backup-power opportunity extends well beyond standby generators into natural-gas microgrids, fast-start platforms, and global service networks — Power Systems revenue rose 19% in both Q1 and Q2 2026 driven by data-center demand, and a natural-gas microgrid agreement with Circe Energy for an HPC data center in Texas signals the shift from backup to always-on distributed generation. The aftermarket and Distribution segment's record performance shows that installed-base service revenue is becoming the durable layer underneath hardware sales.",
+          "companies": ["Cummins Inc.", "Generac Holdings", "Williams Companies Inc."],
+          "key_question": "How is the backup-generation market evolving from one-time standby equipment into a platform of microgrids, service networks, and recurring reliability contracts?"
+        },
+        {
+          "sub_slug": "distributed-home-grid",
+          "title": "The Home as a Power Plant: Sunrun and the Residential Resilience Model",
+          "angle_type": "sub-pattern",
+          "focus": "Sunrun's storage attachment rate reached a record 74% in Q2 2026 — up from 71% in Q4 2025 — and the company now operates 4.647 GWh of networked storage capacity, explicitly framing itself as a distributed power plant operator rather than a solar installer. This page examines how residential solar-plus-storage has become a resilience product sold on outage anxiety and utility-rate risk, and how the shift from panel sales to subscriber value (1.206M customers, $3.677B contracted net earning assets) represents the household version of the same insurance-purchase dynamic Generac describes in the standby market.",
+          "companies": ["Sunrun Inc.", "Digital Realty", "Prologis Inc."],
+          "key_question": "How did rooftop solar transform from an environmental statement into a resilience product — and what does the 74% storage attachment rate reveal about what customers are actually buying?"
+        },
+        {
+          "sub_slug": "who-profits",
+          "title": "Where the Reliability Premium Lands: Value Capture Across the Stack",
+          "angle_type": "who-profits",
+          "focus": "The reliability premium is captured at multiple layers simultaneously: backup-generation OEMs (Generac, Cummins) capture it through hyperscaler contract pricing; specialty contractors (EMCOR, Comfort Systems) capture it through execution scarcity and record backlogs; regional utilities with data-center siting advantages (Alliant Energy) capture it through rate-base expansion and customer-specific pricing; and residential solar operators (Sunrun) capture it through subscriber lifetime value. This page maps exactly where in the stack the pricing power is largest and most durable.",
+          "companies": ["Generac Holdings", "EMCOR Group", "Alliant Energy Corporation", "Sunrun Inc.", "Cummins Inc.", "Eaton Corporation"],
+          "key_question": "Across the full resilience stack — from hyperscaler generator contracts to residential storage subscriptions — where is the reliability premium actually accruing, and to whom?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Fault Lines: Cost, Equity, and What Could Break",
+      "angles": [
+        {
+          "sub_slug": "who-pays",
+          "title": "The Unequal Grid: Who Bears the Cost of Unreliability",
+          "angle_type": "who-pays",
+          "focus": "The distributed-resilience model creates a stark stratification: affluent homeowners buy solar-plus-storage systems and opt out of grid dependence, while low-income neighborhoods remain fully exposed to the outages that drive the entire market. At the industrial scale, utility customers and grid operators absorb the system cost of intermittency without capturing the reliability premium that accrues to backup-generation vendors. Atmos Energy's $26B capex program through FY2030 — funded through customer rates — exemplifies how the cost of modernization is socialized while the resilience premium is privatized.",
+          "companies": ["Atmos Energy Corporation", "Alliant Energy Corporation", "Sunrun Inc.", "NextEra Energy"],
+          "key_question": "Who actually bears the cost of grid unreliability — and how does the distributed-resilience model shift that burden onto the communities least able to opt out?"
+        },
+        {
+          "sub_slug": "the-tension",
+          "title": "The Fragility Inside the Resilience Economy",
+          "angle_type": "tension",
+          "focus": "Three structural fragilities threaten the outage-anxiety economy: Generac's $71M Q2 2026 tariff refund inflated EBITDA guidance and masked the true margin position against hyperscaler pricing discipline when the relief expires; Sunrun's lowered 2026 guidance (to $4.6B-$4.9B ASV) exposed how heavily the residential model depends on affiliate channel volumes, financing timing, and safe-harbor decisions rather than demand; and the entire build cycle relies on an increasingly scarce skilled-labor pool that Comfort Systems USA explicitly identifies as the binding constraint on executing its $14.06B backlog. When tariff relief expires, capital-market windows tighten, or labor runs short, the resilience premium may compress faster than the anxiety that created it.",
+          "companies": ["Generac Holdings", "Sunrun Inc.", "Comfort Systems USA", "EMCOR Group", "Eaton Corporation"],
+          "key_question": "What are the structural fragilities inside the outage-anxiety economy — and which one is most likely to crack the reliability premium first?"
+        }
+      ]
+    }
+  ]
+}

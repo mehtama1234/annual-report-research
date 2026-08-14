@@ -1,0 +1,94 @@
+{
+  "slug": "screening-revolution",
+  "name": "The Screening Revolution",
+  "overview_deck": "Medicine is quietly shifting from treating disease to finding it before it becomes untreatable — and the companies enabling that shift are growing at venture-tech rates inside the healthcare system.",
+  "groups": [
+    {
+      "group_title": "The Inflection",
+      "angles": [
+        {
+          "sub_slug": "why-now",
+          "title": "From Sick-Care to Surveillance: The Moment Everything Changed",
+          "angle_type": "origin",
+          "focus": "For most of medical history, patients entered the healthcare system when they felt sick. This page traces how a convergence of molecular biology, consumer behavior, Medicare coverage decisions, and cultural anxiety about cancer collapsed that assumption — making the 2020s the decade when systematic surveillance became economically viable at mass scale. The Medicare coverage of Oncodetect and Prospera, the Cologuard adoption curve, and the Abbott-Exact merger are not isolated events — they are the policy, consumer, and capital signals arriving simultaneously.",
+          "companies": ["Exact Sciences Corporation", "Natera Inc.", "Abbott Laboratories", "Guardant Health Inc."],
+          "key_question": "Why did the shift from reactive sick-care to proactive surveillance happen now, and what made it stick?"
+        },
+        {
+          "sub_slug": "at-home-friction-collapse",
+          "title": "The Mailbox as the New Clinic: How At-Home Testing Broke the Participation Barrier",
+          "angle_type": "sub-pattern",
+          "focus": "Colorectal cancer screening had a compliance problem for decades — colonoscopy required prep, sedation, and a day off work. Cologuard and its successors solved a behavior problem, not just a biology problem. This page examines how at-home, mail-in formats unlocked participation at a scale that clinic-based testing never could, and how the Quest Diagnostics collection network, pharmacy-adjacent access, and DTC campaigns became the commercial infrastructure behind the screening revolution.",
+          "companies": ["Exact Sciences Corporation", "Quest Diagnostics Incorporated", "Guardant Health Inc."],
+          "key_question": "How does lowering friction — not improving clinical accuracy — drive adoption in mass-market screening?"
+        }
+      ]
+    },
+    {
+      "group_title": "Sub-Patterns Inside the Revolution",
+      "angles": [
+        {
+          "sub_slug": "multi-cancer-early-detection",
+          "title": "One Blood Draw, Fifty Cancers: The Race to Own Multi-Cancer Detection",
+          "angle_type": "sub-pattern",
+          "focus": "Single-organ screening (colon, cervix, breast) built the first generation of the screening industry. Multi-cancer early detection — a single blood test that surveys dozens of cancer types simultaneously — is attempting to build the second generation. This page examines the Cancerguard launch, the Guardant Shield trajectory, and what it means to expand the detection surface from a handful of well-screened cancers to the long tail of cancers that currently have no screening protocols at all.",
+          "companies": ["Exact Sciences Corporation", "Guardant Health Inc.", "Natera Inc."],
+          "key_question": "What happens to the screening industry when a single test can replace a dozen specialist referrals?"
+        },
+        {
+          "sub_slug": "prenatal-and-organ-monitoring",
+          "title": "Before Birth and After Transplant: The Other Frontiers of Molecular Surveillance",
+          "angle_type": "sub-pattern",
+          "focus": "The screening revolution is not only about cancer. Natera's Panorama prenatal test and Prospera organ-health monitor represent a parallel expansion of molecular diagnostics into entirely different surveillance windows — fetal chromosomal risk before birth, and transplant rejection risk after organ surgery. This page examines how the same technological substrate (cell-free DNA, liquid biopsy, reimbursement expansion) is being applied to radically different patient populations and risk windows, and what that says about the breadth of the underlying category.",
+          "companies": ["Natera Inc.", "Labcorp Holdings Inc.", "Quest Diagnostics Incorporated"],
+          "key_question": "How far can the molecular surveillance model extend beyond oncology, and which patient populations are next?"
+        },
+        {
+          "sub_slug": "recurrence-monitoring",
+          "title": "The Test After the Test: Minimal Residual Disease and the Post-Treatment Surveillance Market",
+          "angle_type": "sub-pattern",
+          "focus": "Screening for first diagnosis is only one half of the surveillance opportunity. Monitoring for cancer recurrence — tracking whether treatment worked, whether residual disease persists, whether molecular signals reappear — is a second, distinct, and arguably larger market. Natera's Signatera, Guardant's Guardant360 Liquid CDx, and Quest's Haystack MRD product represent the emerging recurrence-monitoring layer, where the patient is already in the system and the question is whether they can ever leave it safely.",
+          "companies": ["Natera Inc.", "Guardant Health Inc.", "Quest Diagnostics Incorporated"],
+          "key_question": "Is post-treatment molecular monitoring a medical necessity, a business model, or both — and who decides?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Economics and the Reckoning",
+      "angles": [
+        {
+          "sub_slug": "exact-sciences-deepdive",
+          "title": "Exact Sciences: How a Stool Test Became a $3 Billion Platform — and Then Got Absorbed",
+          "angle_type": "company-deepdive",
+          "focus": "Exact Sciences is the clearest case study of what the screening revolution looks like when it reaches commercial scale: $3.25B in 2025 revenue, 12.78M subscribers, a portfolio spanning Cologuard to Cancerguard, and then an acquisition by Abbott that signals the category is mature enough to consolidate. This page dissects how Exact built a demand-creation machine rather than a passive lab service — and what the Abbott merger reveals about where value accrues as a category tips from innovation to infrastructure.",
+          "companies": ["Exact Sciences Corporation", "Abbott Laboratories"],
+          "key_question": "What does Exact Sciences' arc — from single test to platform to acquisition target — tell us about the lifecycle of a screening category?"
+        },
+        {
+          "sub_slug": "who-profits",
+          "title": "The Value Map: Where Money Flows When Medicine Screens More People",
+          "angle_type": "who-profits",
+          "focus": "The screening revolution distributes profits unevenly. At-home platform operators (Exact, Guardant) capture the highest-multiple valuations because they own demand formation. Infrastructure labs (Labcorp, Quest) capture recurring throughput margin. Large conglomerates (Abbott) capture category consolidation. This page maps where the economic surplus actually lands — and why companies that own the front door of the testing pathway (patient access, physician ordering, payer coverage) command premiums over those that only process samples.",
+          "companies": ["Exact Sciences Corporation", "Guardant Health Inc.", "Labcorp Holdings Inc.", "Quest Diagnostics Incorporated", "Abbott Laboratories"],
+          "key_question": "Who captures the most value in a healthcare category that is simultaneously growing volume and compressing price per test?"
+        },
+        {
+          "sub_slug": "who-pays-the-burden",
+          "title": "Medicare Absorbs the Bill — and So Does the Health System That Has to Act on Every Positive",
+          "angle_type": "who-pays",
+          "focus": "The screening revolution has two invisible cost centers that do not appear in the diagnostic company's financials. Medicare and Medicaid bear the direct testing cost as coverage expands. But healthcare systems — clinics, oncologists, surgeons — absorb the downstream burden: every positive screening result requires confirmatory workup, anxiety management, follow-up visits, and sometimes treatment for conditions that might never have caused harm. This page traces who actually pays, in money and in capacity, for a system that is designed to screen more and act on every signal.",
+          "companies": ["Labcorp Holdings Inc.", "Quest Diagnostics Incorporated", "Natera Inc.", "Guardant Health Inc."],
+          "key_question": "When diagnostic companies grow revenue by generating more results, who absorbs the cost of acting on those results — and is that cost visible in any financial statement?"
+        },
+        {
+          "sub_slug": "the-overdiagnosis-tension",
+          "title": "The Screen That Caught Too Much: Overdiagnosis, Business Model Incentives, and the Unequal Revolution",
+          "angle_type": "tension",
+          "focus": "The screening revolution has a structural flaw: business model rewards are tied to test volume, not to whether each test improved a patient's life. Overdiagnosis — catching slow-growing conditions that would never have caused harm — creates real costs in anxiety, unnecessary procedures, and iatrogenic harm that are externalized onto patients and health systems. The benefits of earlier detection also accrue unequally: to the insured, the digitally literate, and those near health systems that have adopted new protocols. This page makes the skeptic's case — not that screening is bad, but that the current incentive structure is not designed to optimize outcomes.",
+          "companies": ["Exact Sciences Corporation", "Guardant Health Inc.", "Natera Inc.", "Quest Diagnostics Incorporated"],
+          "key_question": "When the business model rewards more tests and more results, what mechanism exists to distinguish tests that save lives from tests that only generate revenue?"
+        }
+      ]
+    }
+  ]
+}

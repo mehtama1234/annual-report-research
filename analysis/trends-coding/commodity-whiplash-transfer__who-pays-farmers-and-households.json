@@ -1,0 +1,89 @@
+{
+  "slug": "who-pays-farmers-and-households",
+  "trend_slug": "commodity-whiplash-transfer",
+  "name": "The Final Link: Farmers, Contractors, and Households",
+  "deck": "The unhedged actors at the end of supply chains—small farmers, contractors, and households—absorb commodity volatility that large producers systematically pass through.",
+  "core_bet": "At the end of every commodity pass-through chain sits an actor with no hedging infrastructure, no negotiating power, and no pricing power to pass costs further. The farmer buying nitrogen fertilizer at prices set by CF Industries, the small contractor buying steel at spot rates, the household buying packaged food from Mondelez after cocoa costs are embedded in retail prices—these are the final links, and their inability to absorb or pass costs is not temporary or negotiable but structurally permanent.",
+  "numbers": [
+    {
+      "stat": "$1.46 billion",
+      "label": "CF Industries full-year 2025 net earnings"
+    },
+    {
+      "stat": "10.1 million tons",
+      "label": "CF Industries gross ammonia production 2025"
+    },
+    {
+      "stat": "$2.30 billion",
+      "label": "Nutrien full-year 2025 net earnings"
+    },
+    {
+      "stat": "600,000+",
+      "label": "Nutrien customer accounts (farmers and operators)"
+    },
+    {
+      "stat": "$12.05 billion",
+      "label": "Mosaic full-year 2025 external net sales"
+    },
+    {
+      "stat": "$38.537 billion",
+      "label": "Mondelez full-year 2025 net revenues"
+    },
+    {
+      "stat": "3.7%",
+      "label": "Mondelez volume/mix decline 2025 (despite price increases)"
+    },
+    {
+      "stat": "$4.9 billion",
+      "label": "Mondelez capital returned to shareholders 2025"
+    }
+  ],
+  "mechanism": [
+    "Commodity price volatility is not absorbed equally across supply chains. Instead, it flows downstream in a systematic pattern: producers lock in prices through hedging, contracts, and scale; large intermediaries negotiate based on volume and relationships; and the final links—small farmers, small contractors, households—face spot prices with no negotiating power. CF Industries, Nutrien, and Mosaic control the upstream nitrogen, potash, and phosphate prices that determine fertilizer costs. These companies have hedging desks, scale contracts, natural-gas locking mechanisms, and the ability to adjust production and capital spending to manage commodity risk. In 2025, CF Industries reported $1.46 billion in net earnings and $2.89 billion in adjusted EBITDA despite volatile markets; Nutrien reported $2.30 billion in net earnings and returned $848 million to shareholders in just the first half of 2026. These companies capture the spread between commodity inputs and fertilizer outputs. But at the end of the chain sits a farmer in Iowa or Brazil who must buy nitrogen at whatever price CF Industries' production and natural-gas costs dictate. That farmer cannot hedge, cannot negotiate batch contracts, and cannot reduce acreage fast enough to avoid buying at peak prices.",
+    "The pattern repeats across commodity chains. Mondelez, the global snacking platform with $38.537 billion in 2025 revenue, faces cocoa cost volatility that it explicitly frames as an unprecedented headwind pressuring profitability. But Mondelez has multiple tools to manage this pressure: it can raise prices on consumers (which it did, generating volume/mix declines of 3.7% in 2025 despite top-line growth), it can reduce cocoa content in products, it can shift sourcing, and it can substitute lower-cost commodities where possible. A Mondelez consumer in Europe who buys Cadbury Dairy Milk or Oreos faces a price increase when cocoa costs rise. But that consumer cannot hedge, cannot negotiate directly with Mondelez, and cannot stockpile because the product is perishable and shelf-stable time is limited. What Mondelez did in 2025—raise prices, cut costs, maintain capital returns of $4.9 billion to shareholders—only worked because consumers kept buying despite price increases. The company succeeded by passing the cost forward to households, not backward to cocoa suppliers. The household paid, and Mondelez still generated earnings and returned capital. The farmer buying Mosaic's phosphate or CF's ammonia faces the inverse problem: they cannot raise the price of corn or soybeans to the market. They face a global commodity price set on exchanges they do not access. When fertilizer costs rise, their margin gets compressed, and they absorb the loss.",
+    "The structural permanence of this imbalance is the key insight. A farmer cannot start a hedging desk or negotiate a five-year fertilizer contract at reasonable terms. Small construction contractors cannot negotiate bulk-steel pricing with US Steel or ArcelorMittal. Households cannot negotiate cocoa prices with Mondelez. The reason is scale and information asymmetry. Nutrien operates more than 600,000 customer accounts and over 1,800 retail locations. These give Nutrien direct access to agronomic data, farm economics, credit decisions, and product bundling that individual farmers cannot replicate. When Nutrien sells proprietary biological products, agronomy services, and financial support alongside commodity fertilizer, the customer is locked into a relationship where Nutrien controls the pricing menu. In 2026, Nutrien Q2 reported $1.22 billion in net earnings and emphasized record potash sales volumes and stronger proprietary-product margins. The proprietary products generate higher margins precisely because customers cannot price-shop as easily for customized agronomy as they can for bulk urea. This is not just commodity pricing; it is relationship lock-in where the large integrated player has all the negotiating power and the farmer has none."
+  ],
+  "why_now": "Global commodity volatility since 2022 has exposed the fragility of unhedged supply chains. Fertilizer costs have remained elevated relative to historical norms even after the initial post-Russia-sanctions spike. Cocoa costs remain near multi-year highs. Shipping and logistics disruption make spot purchases necessary even when prices are unfavorable. At the same time, large integrated producers like CF, Nutrien, and Mosaic have proven they can maintain earnings and return capital even in high-cost environments by passing prices forward. The imbalance is now structural rather than cyclical—the large producers are not waiting for prices to fall; they are actively monetizing scarcity and cost inflation.",
+  "who_pays": "Small farmers who must buy nitrogen, potash, and phosphate at whatever price fertilizer companies set. Contractors and developers who must buy materials at spot prices because they lack scale. Households who absorb food-price inflation when cocoa, palm, or grain costs rise. In 2025, Mondelez raised prices while cutting volume/mix by 3.7%, which means it shifted the cost burden to the consumers who kept buying treats at higher prices. Those households paid; Mondelez still generated capital returns. A farmer in developing markets who buys Nutrien retail fertilizer or Mosaic phosphate faces margin compression when input costs stay high relative to crop prices.",
+  "who_profits": "CF Industries, Nutrien, Mosaic, and Mondelez—the large producers and intermediaries with scale, hedging infrastructure, and pricing power. CF Industries earned $1.46 billion in 2025 and repurchased $1.34 billion in stock. Nutrien has consolidated retail networks and proprietary products that lock customers into higher-margin relationships. Mosaic controls phosphate production and can dictate pricing through supply constraints. Mondelez has brand power to raise prices and can shift costs to consumers who value Oreo and Cadbury more than they value price elasticity.",
+  "who_pays_burden": "The unhedged final links in the supply chain absorb the volatility that large integrated producers systematically transfer downward. This creates a persistent wealth transfer from small operators and consumers to large producers. The farmer's margin gets squeezed when input costs stay high. The household's discretionary budget gets compressed when food prices rise. These are not one-time shocks that reverse; they are structural economic features of supply chains where power is concentrated at the top.",
+  "who_profits": "Large integrated commodity producers and branded manufacturers who control pricing, hedging, and customer relationships",
+  "tension": "The system is only stable if the final links have some ability to absorb costs or can be continually squeezed without collapsing. For households buying Mondelez, the limit is price elasticity and brand strength—they can absorb 3.7% volume declines if Mondelez raises prices, but eventually demand curves bend. For farmers, the limit is crop economics and debt capacity—they can absorb one year of margin compression, but repeated years force consolidation or exit. The deepening tension is that large producers have every incentive to keep prices high to maximize near-term earnings, while small farmers have declining incentive to stay in business if margins stay compressed. This could eventually snap into agricultural consolidation or commodity supply disruption if farmers exit faster than new entrants replace them.",
+  "surprising_part": "The most non-obvious twist is that Mondelez's ability to pass costs forward is not inevitable or permanent—it depends on brand strength and consumer loyalty holding even as prices rise. In Q2 2026, Mondelez reported volume/mix growth of 0.7% and raised guidance to expect at least 2% organic growth. That is a shift from the 3.7% volume/mix decline in 2025. This suggests that either consumers are adapting to higher prices or Mondelez is finding ways to absorb some costs internally. But the underlying dynamic—that Mondelez was willing to cut volume by 3.7% rather than cut costs or margins—reveals the priority: maintain profitability and capital returns even if it means fewer sales. The farmer and the household absorb the cost, not the shareholder.",
+  "one_sentence": "The unhedged final links in supply chains—farmers, contractors, households—absorb commodity volatility that large producers systematically pass through, creating a permanent wealth transfer upward through every commodity system.",
+  "societal_stake": "This pattern determines who gets hurt when commodity prices spike and who stays insulated. Large companies and their shareholders get protected through hedging, pricing power, and scale. Small farmers face margin compression and potential bankruptcy during commodity booms because their input costs stay high relative to commodity prices they cannot control. Households face food-price inflation that reflects both genuine commodity scarcity and corporate margin protection. The political consequence is that when food or fertilizer prices spike, small producers get blamed for not producing more, but the real issue is that the supply chain is designed so large intermediaries capture the spread. This creates long-term consolidation pressure and pushes small operators out of business, which then further concentrates power and pricing in large producers' hands.",
+  "evidence": [
+    {
+      "company": "CF Industries Holdings, Inc.",
+      "fact": "Full-year 2025 net earnings were $1.46 billion with adjusted EBITDA of $2.89 billion; company returned $1.7 billion to shareholders through buybacks and dividends while funding Blue Point decarbonization project"
+    },
+    {
+      "company": "CF Industries Holdings, Inc.",
+      "fact": "Gross ammonia production was 10.1 million tons in 2025; Q2 2026 net earnings were $727 million with 98% capacity utilization, showing pricing power even with partial Yazoo outage"
+    },
+    {
+      "company": "Nutrien Ltd.",
+      "fact": "Operates 1,800+ retail locations and serves 600,000+ customer accounts; 2025 net earnings were $2.30 billion with adjusted EBITDA of $6.05 billion; emphasis on proprietary products and agronomy creates customer lock-in"
+    },
+    {
+      "company": "Nutrien Ltd.",
+      "fact": "Q2 2026 net earnings were $1.22 billion; company returned $848 million to shareholders in first half of 2026; explicitly emphasized stronger proprietary-product margins"
+    },
+    {
+      "company": "The Mosaic Company",
+      "fact": "2025 external net sales were $12.05 billion with adjusted EBITDA of $2.4 billion; controls 10% of global phosphate production and 12% of global potash production, giving direct pricing influence"
+    },
+    {
+      "company": "The Mosaic Company",
+      "fact": "Q2 2026 adjusted EBITDA was $407 million despite $2.8 billion revenue; potash segment maintained $278 million adjusted EBITDA while phosphate struggled with sulfur availability constraints, showing selective margin protection"
+    },
+    {
+      "company": "Mondelez International",
+      "fact": "Full-year 2025 net revenues were $38.537 billion; despite 3.7% volume/mix decline, company maintained adjusted EPS of $2.92 and returned $4.9 billion to shareholders—proof that price increases absorbed customer demand rather than compressing corporate margins"
+    },
+    {
+      "company": "Mondelez International",
+      "fact": "Management explicitly cited 'unprecedented cocoa cost headwinds' as pressuring profitability in 2025, but company raised prices to pass costs to consumers rather than negotiate backward in supply chain"
+    }
+  ]
+}

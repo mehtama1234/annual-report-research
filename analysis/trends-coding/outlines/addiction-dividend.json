@@ -1,0 +1,94 @@
+{
+  "slug": "addiction-dividend",
+  "name": "The Addiction Dividend",
+  "overview_deck": "The most durable businesses in the economy are not built on superior products — they are built on habits so deeply embedded in daily life that the consumer stops choosing and simply repeats, generating pricing power, switching-cost moats, and compounding cash flows that conventional competitive analysis systematically undervalues.",
+  "groups": [
+    {
+      "group_title": "How It Works",
+      "angles": [
+        {
+          "sub_slug": "why-now-behavioral-infrastructure",
+          "title": "The Habit Economy: How Behavioral Measurement Turned Loyalty Into Infrastructure",
+          "angle_type": "origin",
+          "focus": "For most of the 20th century, companies could observe purchase frequency but not the behavioral loop that produced it. Mobile-first design, real-time app telemetry, and subscription enrollment changed that: companies can now monitor, reward, and reinforce the habit at a granularity never before available. This page traces how the convergence of app platforms, stored-value mechanics, and subscription enrollment created a new class of economic asset — behavioral infrastructure — that generates returns compounding well above the cost of capital.",
+          "companies": ["Starbucks Corporation", "McDonald's Corporation", "Chewy, Inc.", "Spotify Technology S.A.", "Amazon.com, Inc."],
+          "key_question": "What changed in the last decade that turned ordinary repeat purchase into a deliberate engineering project, and which companies crossed that threshold first?"
+        },
+        {
+          "sub_slug": "sub-pattern-nicotine-migration",
+          "title": "Smoke-Free, Same Grip: How PMI Turned Regulatory Pressure Into a Pricing Upgrade",
+          "angle_type": "sub-pattern",
+          "focus": "Philip Morris International's pivot to IQOS and ZYN is not harm reduction in any public-health sense — it is addiction monetization at higher price points with lower regulatory friction and a lifestyle-transition narrative that makes the habit feel like a responsible personal choice. This page examines how PMI turned a shrinking combustibles base into an expanding smoke-free revenue engine, documenting the mechanics of habit migration, premium pricing, and geographic rollout that made smoke-free 41.5% of FY2025 revenues while combustibles still grew 9.5% through pricing power alone.",
+          "companies": ["Philip Morris International"],
+          "key_question": "How does PMI grow revenue while cigarette volumes decline, and what does 'harm reduction' actually mean when the dependency is preserved and the price goes up?"
+        },
+        {
+          "sub_slug": "sub-pattern-gaming-participation",
+          "title": "The Check-In Economy: How Games Replaced Purchases With Participation",
+          "angle_type": "sub-pattern",
+          "focus": "Electronic Arts, Take-Two Interactive, Roblox, and Playtika have collectively shifted the unit of monetization from a one-time software sale to a recurring participation system built on daily check-ins, seasonal content drops, battle passes, and social identity anchored inside a franchise. Live services — not game sales — now dominate revenue, and the mechanics are indistinguishable from behavioral conditioning: variable reward schedules, FOMO-driven content windows, and social pressure to maintain in-game status.",
+          "companies": ["Electronic Arts Inc.", "Take-Two Interactive Software, Inc.", "Roblox Corporation", "Playtika Holding Corp."],
+          "key_question": "At what point does a game's engagement design cross from entertainment into a compulsion loop, and how do the financials prove the line has already been crossed?"
+        },
+        {
+          "sub_slug": "sub-pattern-daily-ritual",
+          "title": "The Ritual Premium: Coffee, Oral Care, and the Pricing Power of Morning Routine",
+          "angle_type": "sub-pattern",
+          "focus": "Dutch Bros, Starbucks, and Colgate-Palmolive occupy a different register of the addiction dividend — not chemical dependency but deep behavioral routine that functions as identity and self-care. Dutch Bros' drive-thru ritual with app-linked rewards has produced 13 consecutive quarters of positive same-shop sales and a record AUV of $2.1M; Starbucks' stored-value card and loyalty program rebuilt the brand after service failure by making the transaction feel like membership. Both show that habitual consumption attached to identity and convenience generates the same pricing power as chemical dependency.",
+          "companies": ["Dutch Bros Inc.", "Starbucks Corporation", "Colgate-Palmolive Co.", "Planet Fitness, Inc."],
+          "key_question": "How do companies build enough routine stickiness that customers absorb price increases without defection, even when the product is coffee or toothpaste?"
+        },
+        {
+          "sub_slug": "sub-pattern-subscription-attention",
+          "title": "Attention on Autopilot: Streaming, Audio, and the 97-Billion-Hour Habit",
+          "angle_type": "sub-pattern",
+          "focus": "Netflix and Spotify have converted entertainment consumption from a deliberate choice into a default ambient activity — 97B hours watched by Netflix members in H1 2026 is not the result of great content alone, it is the result of autoplay, personalized queues, and a subscription relationship that makes cancellation feel like a loss. SiriusXM demonstrates the in-car version of the same model: 1.4% churn at record-low levels because the listening habit is embedded before the driver decides what to play. This page shows how the attention economy monetizes passivity rather than choice.",
+          "companies": ["Netflix, Inc.", "Spotify Technology S.A.", "Sirius XM Holdings Inc.", "Roku, Inc."],
+          "key_question": "How do streaming and audio companies engineer default consumption, and what does 97 billion hours of viewing tell us about the relationship between content and behavioral lock-in?"
+        }
+      ]
+    },
+    {
+      "group_title": "Who Wins, Who Pays",
+      "angles": [
+        {
+          "sub_slug": "who-profits-loyalty-infrastructure",
+          "title": "The Membership Layer: Where Loyalty Infrastructure Becomes a Pricing Machine",
+          "angle_type": "who-profits",
+          "focus": "The companies that have built the most sophisticated loyalty infrastructure — Amazon Prime, Uber One, McDonald's loyalty at 220M 90-day active users, Chewy Autoship at 84% of net sales — are not simply rewarding customers. They are constructing switching costs that feel cultural and relational rather than commercial, converting transactional demand into recurring subscription economics and generating behavioral data that compounds the moat over time. This page maps the profit mechanics: membership drives frequency, frequency drives data, data drives personalization, personalization drives upsell, and upsell funds the next generation of habit reinforcement.",
+          "companies": ["Amazon.com, Inc.", "Uber Technologies Inc.", "McDonald's Corporation", "Chewy, Inc.", "Expedia Group, Inc."],
+          "key_question": "When a company's best customers generate half of gross bookings and 84% of net sales, what exactly are they buying — a product or a relationship they cannot easily leave?"
+        },
+        {
+          "sub_slug": "company-deepdive-pmi",
+          "title": "Philip Morris International: The World's Most Profitable Habit Migration",
+          "angle_type": "company-deepdive",
+          "focus": "PMI is the clearest case study in the addiction dividend because it makes the mechanism legible: 43M+ adults remain nicotine-dependent, the company is simply moving them from a cheaper delivery format to a more expensive one while framing the migration as a health upgrade. This page dissects the full PMI model — combustibles pricing power despite volume decline, smoke-free margin expansion, geographic rollout strategy across 109 markets, and the EPS trajectory from $4.52 in 2024 to $7.26 in 2025 — as a template for understanding how addiction translates directly into capital returns.",
+          "companies": ["Philip Morris International"],
+          "key_question": "What does PMI's financial architecture reveal about how addiction economics work at scale — and what happens to the model if the health claims for smoke-free products are eventually disputed?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Fragility",
+      "angles": [
+        {
+          "sub_slug": "who-pays-captured-consumers",
+          "title": "The Cost of the Loop: Who Actually Pays for the Addiction Dividend",
+          "angle_type": "who-pays",
+          "focus": "The addiction dividend is not a victimless profit structure. Low-income consumers spend a disproportionate share of income on habituated products — cigarettes, mobile gaming microtransactions, daily coffee rituals — because the habit is less price-elastic than discretionary spending. Health systems absorb the externalized costs of nicotine dependency, gaming disorder, and metabolic consequences of food rituals that never appear in any company's cost structure. DraftKings' responsible-gaming disclosures acknowledge addiction litigation risk while generating $53.6B in sportsbook handle. This page documents who bears the burden of the habits that other companies monetize.",
+          "companies": ["Philip Morris International", "DraftKings Inc.", "Electronic Arts Inc.", "Snap Inc."],
+          "key_question": "If the addiction dividend generates returns by externalizing harm onto consumers and public health systems, what is the full social cost that does not appear on any income statement?"
+        },
+        {
+          "sub_slug": "tension-what-breaks-it",
+          "title": "When the Habit Breaks: Regulatory Pressure, Substitution, and the Limits of Stickiness",
+          "angle_type": "tension",
+          "focus": "Every addiction-economy business model contains a fragility that the company's own filings acknowledge but investors discount: the habit can be disrupted by regulation, by generational substitution, or by a competing habit that offers the same identity signal at lower cost. Kohl's shows that 40M loyalty members are worthless if the product and brand erode — loyalty infrastructure alone does not produce revenue. PMI's smoke-free model depends on regulatory tolerance that will collapse if IQOS or ZYN prove harmful at scale. Bath and Body Works' 40M active loyalty members did not prevent sales decline when the product lost cultural relevance. This page is the skeptic's case against the addiction dividend.",
+          "companies": ["Philip Morris International", "Kohl's Corporation", "Bath & Body Works, Inc.", "Planet Fitness, Inc.", "DraftKings Inc."],
+          "key_question": "What are the conditions under which the habit breaks — and which companies in this trend are most exposed to the specific disruption that their model cannot survive?"
+        }
+      ]
+    }
+  ]
+}

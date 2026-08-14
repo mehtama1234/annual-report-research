@@ -1,0 +1,75 @@
+{
+  "slug": "screening-revolution",
+  "name": "The Screening Revolution",
+  "deck": "Medicine is shifting from treating disease to finding it before it becomes untreatable — and the companies enabling that shift are growing faster than traditional healthcare.",
+  "core_bet": "Diagnostic companies are expanding the detection surface from specialty clinical settings into mail-in, pharmacy-adjacent, and primary-care touchpoints. Patients participate at higher rates because friction is lower and cultural anxiety about cancer is high. The shift from episodic sick-care to systematic surveillance represents a fundamental redesign of what healthcare is for.",
+  "numbers": [
+    {
+      "stat": "$3.25 billion",
+      "label": "Exact Sciences 2025 full-year revenue; screening revenue $2.7B"
+    },
+    {
+      "stat": "296,700 tests, up 57.2%",
+      "label": "Natera Q2 2026 oncology tests year-over-year growth"
+    },
+    {
+      "stat": "1.04 million total tests, up 22.4%",
+      "label": "Natera Q2 2026 aggregate test volume"
+    },
+    {
+      "stat": "$3.73 billion",
+      "label": "Labcorp Q2 2026 revenue, up 6% year-over-year"
+    },
+    {
+      "stat": "$872.3 million",
+      "label": "West Pharmaceutical Q2 2026 sales, up 13.8%, driven by GLP-1 and biologic delivery demand"
+    },
+    {
+      "stat": "$6.0 billion annualized",
+      "label": "Regeneron Dupixent global sales Q2 2026; specialty biologic requiring recurrent commercialization"
+    },
+    {
+      "stat": "$110 million",
+      "label": "Becton Dickinson Nebraska investment in prefillable-syringe capacity for biologics and GLP-1 drug delivery"
+    }
+  ],
+  "mechanism": [
+    "Diagnostic platforms have evolved from single-use confirmatory tests into recurring screening systems. Exact Sciences pioneered the model with Cologuard (mail-in colorectal screening), then expanded via Cologuard Plus (enhanced detection), Oncodetect (post-treatment residual disease), and Cancerguard (multi-cancer blood test). Natera runs parallel stacks: Panorama for prenatal genetics, Signatera for cancer recurrence, Prospera for organ transplant rejection. Each operates as a consumer-adjacent franchise with reimbursement expansion built into the economics.",
+    "The mechanism works by lowering friction while raising perceived risk. Mail-in samples eliminate procedure anxiety. At-home blood draws replace clinic visits. Medicare and commercial insurers cover tests once clinical data accumulates. The result: volume growth that outpaces disease incidence. Natera's oncology tests grew 57% year-over-year in Q2 2026 while cancer rates stayed flat. Exact added 12+ million screening subscribers since 2020 by combining lower friction with normalized behavior (what used to be optional now feels routine).",
+    "The business model depends on turning detection into a recurring relationship. Instead of one colonoscopy per decade, patients now undergo annual blood screening for cancer recurrence or annual prenatal genetics testing. Exact framed its annual base as 'subscribers' — language borrowed from media and streaming platforms — to signal the shift from one-time test to ongoing surveillance. Labcorp and Quest Diagnostics have embedded these tests into primary-care workflows, making screening default behavior rather than opt-in.",
+    "Scale consolidates in the hands of platform operators. Exact's Abbott merger (closed March 2026) connected screening to Abbott's existing diagnostics, point-of-care, and hospital infrastructure. Natera's growth and rising ASPs signal the market's willingness to pay premium pricing for specialized assays. Labcorp and Quest have added screening franchises to their existing central-lab infrastructure, turning commoditized testing into higher-margin screening-focused businesses."
+  ],
+  "why_now": "Three conditions converged simultaneously in 2025-2026. First: clinical evidence matured. Exact's Cancerguard and Natera's Signatera moved from research into commercial validation. Second: payers accepted the model. Medicare coverage decisions for Oncodetect (Exact) and Prospera (Natera) signaled acceptance that screening tests can be cost-justified if early detection prevents expensive late-stage treatment. Third: consumer adoption scaled. Cultural anxiety about cancer is high, and mail-in testing removed the last friction barrier. The result: Natera's oncology tests grew 57% year-over-year in Q2 2026, while Exact's revenue climbed to $3.25 billion in 2025 on screening volume alone. Abbott's acquisition of Exact Sciences in March 2026 was the institutional signal that this is no longer a niche but a permanent category.",
+  "who_pays": "Medicare and Medicaid bear most of the cost as coverage expands. Individual patients pay out-of-pocket for tests that fall outside coverage windows (typically younger-age screening or tests pending guideline adoption). Healthcare systems absorb the follow-up burden when positive tests require confirmatory workup and treatment — CT scans, colonoscopies, biopsies, oncology consultations — costs that do not appear in the diagnostic company's P&L. Specialty drug makers (Regeneron's Dupixent generated $6 billion in global sales Q2 2026) benefit from the addressable-market expansion as early detection increases patient classification and treatment starts.",
+  "who_profits": "At-home and mail-in diagnostic platforms capture the highest margins: Exact Sciences (screening revenue $2.7B in 2025), Natera (oncology tests growing 57% YoY). Integrated lab networks (Labcorp $3.73B Q2 2026, up 6%) expand workflow embedding and reduce per-test costs via scale. Consolidated players benefit most: Abbott's acquisition of Exact integrates screening into a global diagnostics platform. Prefillable-syringe and drug-delivery infrastructure (West Pharma $872.3M Q2 2026, up 13.8%; Becton Dickinson's $110M Nebraska investment) capture optionality as early detection expands biologic and GLP-1 patient populations.",
+  "tension": "Screening catches more disease, but not everything caught is life-threatening. The risk of overdiagnosis — treatment of slow-growing cancers or benign findings that would never cause harm — creates real costs: anxiety, confirmatory procedures (biopsies, colonoscopies), unnecessary treatment, and iatrogenic harm (surgical complications, medication side effects). The business model rewards volume of tests, not optimization of patient outcomes. Natera's 57% oncology test growth and Exact's subscriber base grew faster than cancer mortality declined, which suggests the tests are catching more-but-not-necessarily-more-deadly disease. The benefits accrue unequally: the insured, the digitally literate, those near health systems that have adopted new protocols get early detection. The uninsured, the digitally disconnected, and those in underserving regions miss the screening revolution entirely. This creates a two-tier healthcare system where early detection is a premium service, not a public-health achievement.",
+  "surprising_part": "The scale is coming from consumer behavior change, not clinical breakthrough. Exact's Cancerguard is useful but not revolutionary — it detects cancer recurrence earlier, not better. What scaled adoption is that 12+ million people now mail in a blood sample annually because it feels easy and they're anxious. Natera's oncology growth (57% YoY) outpaces cancer-incidence growth by 5-10x. This is not because disease got worse; it is because the friction to participate in screening fell through the floor. Mail-in testing and digital-first platforms turned cancer monitoring into consumer behavior, not clinical obligation. The second surprise: drug companies now benefit from screening volume even if they do not own the test. Dupixent (Regeneron, $6B global sales) and obesity drugs (West Pharma's 21% Q1 2026 growth) benefit from population-wide screening because early detection identifies millions of treatable patients who would have otherwise gone undiagnosed.",
+  "one_sentence": "The screening revolution transfers the burden of finding disease from sick patients visiting doctors to healthy people mailing samples annually — and the companies controlling that shift are growing faster than healthcare itself.",
+  "societal_stake": "A society that can detect cancer early and treat it before metastasis is dramatically better than one that cannot. Early detection saves lives. But the benefits accrue unevenly. Exact Sciences' 12+ million subscribers are skewed toward the insured, employed, digitally confident. Medicare covers Oncodetect and Prospera, but coverage lags are measured in years. Underinsured and uninsured populations do not participate in the screening revolution. The business model is optimized for volume and ASP, not for equitable access. The screening revolution is real, but it is arriving unevenly, and it is reinforcing the healthcare system's existing inequalities. The societal question is whether earlier, better detection becomes a public-health achievement (like vaccination) or a premium service available mainly to the affluent.",
+  "evidence": [
+    {
+      "company": "Exact Sciences Corporation",
+      "fact": "2025 full-year revenue $3.25 billion; screening revenue $2.7 billion; Cancerguard multi-cancer test launched Q3 2025; Abbott merger closed March 2026"
+    },
+    {
+      "company": "Natera Inc.",
+      "fact": "Q2 2026 oncology tests 296,700, up 57.2% year-over-year; total tests 1.04 million, up 22.4%; Signatera gained regulatory approvals; Medicare coverage expanded for Prospera"
+    },
+    {
+      "company": "Labcorp Holdings",
+      "fact": "Q2 2026 revenue $3.73 billion, up 6%; dual-engine clinical and biopharma laboratory model; infrastructure embeds diagnostic screening into provider workflows"
+    },
+    {
+      "company": "Becton Dickinson",
+      "fact": "$110 million Nebraska investment in prefillable-syringe capacity for biologics and GLP-1 drug delivery in Q1 FY2026; drug-delivery infrastructure central growth engine"
+    },
+    {
+      "company": "West Pharmaceutical Services",
+      "fact": "Q2 2026 net sales $872.3 million, up 13.8%; obesity drug buildout and GLP-1 injectable therapies driving high-value containment and delivery demand; Q1 2026 sales $844.9 million, up 21.0%"
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "fact": "Q2 2026 Dupixent global sales $6.0 billion annualized; specialty biologic franchise requiring recurrent commercialization; patient access and reimbursement central to value capture"
+    }
+  ]
+}

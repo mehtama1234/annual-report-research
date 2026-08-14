@@ -1,0 +1,86 @@
+{
+  "slug": "commodity-whiplash-transfer",
+  "name": "The Commodity Whiplash Transfer",
+  "overview_deck": "When commodity prices spike, the companies with the most sophisticated financial infrastructure absorb nothing — they pass every cent downstream until it lands on a farmer, a small contractor, or a household that has no hedge and no way out.",
+  "groups": [
+    {
+      "group_title": "How the Transfer Works",
+      "angles": [
+        {
+          "sub_slug": "origin-post-2022-volatility",
+          "title": "Why Commodity Pain Stopped Being Shared",
+          "angle_type": "origin",
+          "focus": "Before 2022, commodity volatility was absorbed across integrated supply chains through long-term contracts, inventory buffers, and diversified producers. Post-2022 geopolitical fragmentation — Iran fertilizer sanctions, DRC cobalt quotas, Middle East energy disruptions — broke those buffers and made asymmetric pass-through the new default operating posture for major commodity companies.",
+          "companies": ["CF Industries", "Glencore", "The Mosaic Company", "LyondellBasell Industries"],
+          "key_question": "What structural shift turned commodity volatility into a systematic pass-through mechanism rather than a shared industry burden?"
+        },
+        {
+          "sub_slug": "who-profits-cost-curve-kings",
+          "title": "The Cost-Curve Kings: Who Captures the Upside",
+          "angle_type": "who-profits",
+          "focus": "Producers sitting at the bottom of the global cost curve — CF Industries in nitrogen, Freeport-McMoRan in copper, Suncor in oil sands — capture near-full commodity price upside while their breakeven costs remain anchored. The mechanism is not luck but structural: low-cost integrated assets, access to cheap feedstock, and the discipline to hold unit costs flat while realized prices soar.",
+          "companies": ["CF Industries", "Freeport-McMoRan", "Suncor Energy", "Southern Copper Corporation"],
+          "key_question": "Which companies structurally capture commodity upside and what specific cost-curve or asset advantages make them immune to the pain they pass downstream?"
+        },
+        {
+          "sub_slug": "sub-pattern-trader-arbitrage",
+          "title": "The Trader's Dividend: Monetizing Disruption Itself",
+          "angle_type": "sub-pattern",
+          "focus": "Commodity traders with physical assets do not merely benefit from price moves — they actively profit from the disruption that causes them. Glencore's marketing arm posted $3.3B Adjusted EBIT in H1 2026, up 142%, explicitly citing Middle East conflict benefits on crude, refined products, and freight. This is a distinct sub-pattern: the transfer mechanism here is not production margin but arbitrage infrastructure that converts geopolitical chaos into a revenue line.",
+          "companies": ["Glencore", "Reliance Steel & Aluminum Co.", "Nutrien Ltd."],
+          "key_question": "How do commodity traders with physical assets turn supply-chain disruption into a profit center rather than a cost, and what makes this model different from production-side pass-through?"
+        }
+      ]
+    },
+    {
+      "group_title": "Where the Whiplash Lands",
+      "angles": [
+        {
+          "sub_slug": "sub-pattern-industrial-contract-lag",
+          "title": "Locked In: The Steel Contract That Destroys Margin",
+          "angle_type": "sub-pattern",
+          "focus": "Fixed-price contracts that protect downstream buyers (auto OEMs, construction firms) when prices fall become a trap for the integrated converter when prices rise. Cleveland-Cliffs lost $1.4B in 2025 because 35–40% of its flat-rolled sales were locked at prior-year contract prices while input costs moved freely. The whiplash here runs backward — the large industrial buyer hedged its exposure and transferred risk to the supplier who had no choice.",
+          "companies": ["Cleveland-Cliffs", "Nucor Corporation", "Steel Dynamics", "Commercial Metals Company"],
+          "key_question": "How do fixed-price industrial contracts flip the direction of commodity transfer, trapping integrated producers instead of downstream buyers?"
+        },
+        {
+          "sub_slug": "sub-pattern-packaging-converter",
+          "title": "The Converter's Squeeze: Aluminum, Steel, and the Middle Link",
+          "angle_type": "sub-pattern",
+          "focus": "Packaging converters like Crown Holdings and Ball Corporation sit between commodity suppliers and branded beverage companies, using pass-through contract structures to protect their own converter margins — but those contracts pass the final cost to the brand owner, who passes it to the consumer. The mechanism is layered: each link in the chain uses contractual protection to ensure the cost travels to whoever has the least negotiating power.",
+          "companies": ["Crown Holdings", "Ball Corporation", "Silgan Holdings", "Sonoco Products"],
+          "key_question": "How do packaging converters use contract structures to pass aluminum and steel cost swings through the chain, and who ultimately absorbs them?"
+        },
+        {
+          "sub_slug": "who-pays-farmers-and-households",
+          "title": "The Final Link: Farmers, Contractors, and Households",
+          "angle_type": "who-pays",
+          "focus": "At the end of every commodity pass-through chain sits an actor with no hedging infrastructure: the farmer buying nitrogen fertilizer at the price CF Industries set, the small construction contractor buying steel at spot, the household buying packaged food from Mondelez after cocoa costs were embedded in the price. These actors cannot hedge, cannot negotiate long-term contracts, and have no pricing power to push the cost further down.",
+          "companies": ["CF Industries", "Nutrien Ltd.", "The Mosaic Company", "Mondelez International"],
+          "key_question": "Who are the unhedged actors at the end of each commodity transfer chain, and what makes their inability to absorb or pass on costs structurally permanent rather than temporary?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Breaking Points",
+      "angles": [
+        {
+          "sub_slug": "company-deepdive-mondelez",
+          "title": "Mondelez: When the Consumer Finally Flinches",
+          "angle_type": "company-deepdive",
+          "focus": "Mondelez is the clearest evidence of what happens when commodity pass-through reaches the consumer and hits the affordability ceiling. Unprecedented cocoa cost headwinds in 2025 compressed EPS even as organic revenue grew 4.3% — but volume declined as price increases landed, demonstrating that the consumer is not an infinite absorber. Mondelez is simultaneously the passer (raising prices to consumers) and the victim (absorbing cocoa costs it cannot fully pass), making it the most instructive case study in the limits of the transfer mechanism.",
+          "companies": ["Mondelez International", "PepsiCo", "Packaging Corporation of America"],
+          "key_question": "At what point does consumer price resistance break the commodity pass-through chain, and how does Mondelez's cocoa experience reveal that ceiling?"
+        },
+        {
+          "sub_slug": "tension-what-breaks-it",
+          "title": "The Skeptic's Case: When the Chain Snaps Back",
+          "angle_type": "tension",
+          "focus": "The commodity whiplash transfer is not a one-way ratchet — it reverses when consumers stop buying. PepsiCo's North America volume declines and Mondelez's EPS compression both show that consumer affordability is the hard limit. When the final link cannot absorb more, the compression travels backward: branded companies face margin squeeze, converters lose volume, and even low-cost producers see demand destruction. The same asymmetry that created the transfer also creates the reversal.",
+          "companies": ["PepsiCo", "Mondelez International", "Cleveland-Cliffs", "The Mosaic Company"],
+          "key_question": "What are the structural limits of the commodity pass-through mechanism, and what evidence shows the chain reversing when consumers and small operators reach their affordability floor?"
+        }
+      ]
+    }
+  ]
+}

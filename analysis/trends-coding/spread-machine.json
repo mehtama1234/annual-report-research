@@ -1,0 +1,86 @@
+{
+  "slug": "spread-machine",
+  "name": "The Spread Machine",
+  "overview_deck": "The most durable profit engines in today's economy are not innovators but consolidators — companies that control the intermediary layer between producers and end-users, collecting recurring spreads that function less like logistics fees and more like invisible taxes on essential supply chains.",
+  "groups": [
+    {
+      "group_title": "How The Machine Was Built",
+      "angles": [
+        {
+          "sub_slug": "origin-chokehold-economy",
+          "title": "The Chokehold Economy: How Middlemen Became the Economy's Toll Collectors",
+          "angle_type": "origin",
+          "focus": "The intermediary layer was not always this powerful — decades of consolidation, regulatory capture, and infrastructure under-investment handed pricing control to a shrinking number of distributors. This page traces the historical arc from fragmented local middlemen to national platforms with moat economics: permitted landfills, licensed pipeline corridors, branch-dense contractor networks, and pharma-distribution licenses that take years and capital to replicate.",
+          "companies": ["Republic Services", "Energy Transfer", "Cencora", "Cardinal Health", "Ferguson Enterprises", "McKesson"],
+          "key_question": "How did distribution infrastructure consolidate into a handful of pricing-power platforms over thirty years, and what structural conditions made that consolidation permanent?"
+        },
+        {
+          "sub_slug": "why-now-volume-surge",
+          "title": "More Volume, Same Pipes: Why 2025–2026 Broke the Spread Machine Open",
+          "angle_type": "origin",
+          "focus": "Three simultaneous volume surges — GLP-1 drug adoption, AI hardware buildout, and the infrastructure construction boom — flooded existing intermediary infrastructure without adding competing intermediaries. This page shows how fixed-capacity distribution platforms extracted outsized spread growth from volume that had nowhere else to go: Arrow's components revenue up 39% YoY, Energy Transfer EBITDA up 31% YoY, WESCO data-center sales up 45%.",
+          "companies": ["Arrow Electronics", "WESCO International", "Energy Transfer", "Cencora", "DNOW", "Applied Industrial Technologies"],
+          "key_question": "Why did three unrelated demand booms simultaneously accelerate spread-machine economics in 2025–2026, and which intermediaries captured the most incremental margin?"
+        }
+      ]
+    },
+    {
+      "group_title": "Four Chokepoints, One Machine",
+      "angles": [
+        {
+          "sub_slug": "pharma-toll-road",
+          "title": "The Drug Tax: How Pharmaceutical Distributors Sit Between Every Pill and Every Patient",
+          "angle_type": "sub-pattern",
+          "focus": "Three companies — McKesson, Cencora, and Cardinal Health — control roughly 90% of U.S. drug distribution, sitting between every manufacturer and every pharmacy, hospital, and oncology practice. This page examines how the GLP-1 surge created a paradox: revenue rising as gross margin percentage fell, because the distributors are locked into percentage-of-price economics on drugs where the volume reward is enormous but the unit spread is thin — and how specialty and oncology channels (McKesson's $14.2B Oncology & Multispecialty, Cencora's OneOncology) are the escape valve toward higher-quality spread.",
+          "companies": ["McKesson", "Cencora", "Cardinal Health"],
+          "key_question": "How do three pharmaceutical distributors extract durable spread from $1 trillion in annual drug flow, and why does the GLP-1 boom make the economics stranger rather than simpler?"
+        },
+        {
+          "sub_slug": "pipeline-corridor-control",
+          "title": "The Gas Corridor: Pipeline Operators as Molecule Landlords",
+          "angle_type": "sub-pattern",
+          "focus": "Pipeline operators do not own the oil or gas — they own the only viable path for it to travel. Energy Transfer's 140,000-mile network, Williams' gathering and processing corridors, and Enbridge's cross-border infrastructure function as landlords over molecule flow, charging fee-based tariffs on long-term contracts that extend into the 2030s regardless of commodity price direction. This page shows how the AI data-center power demand and LNG export buildout have created a new wave of corridor scarcity — more molecules that must transit the same limited permitted corridors.",
+          "companies": ["Energy Transfer", "Williams Companies", "Enbridge", "Enterprise Products Partners", "ONEOK"],
+          "key_question": "Why do pipeline operators earn durable fee-based spread regardless of commodity prices, and how has AI power demand and LNG export growth created a new corridor-scarcity premium?"
+        },
+        {
+          "sub_slug": "contractor-branch-control",
+          "title": "The Branch Network: Industrial Distributors as the Hidden Nervous System of Construction",
+          "angle_type": "sub-pattern",
+          "focus": "Ferguson's 1,729 branches, WESCO's 700+ sites, and DNOW's 300-location combined platform control the timing and availability of physical components for contractors who cannot wait days for parts. The moat is not product — it is local inventory, fleet proximity, and technical support in markets too fragmented for contractors to self-supply. This page examines how these branch networks extract persistent gross margins (Ferguson 31.0%, WESCO 22%+) through pricing discipline, bolt-on M&A density expansion, and the irreplaceable role of the local relationship in a market where a missing valve shuts down a job site.",
+          "companies": ["Ferguson Enterprises", "WESCO International", "DNOW", "Applied Industrial Technologies", "W.W. Grainger", "Core & Main"],
+          "key_question": "How do branch-dense industrial distributors maintain pricing power in a market where product is theoretically commoditized, and why do local relationships and inventory timing create margins that online alternatives have failed to erode?"
+        },
+        {
+          "sub_slug": "waste-route-density",
+          "title": "The Local Landfill Lock: How Waste Operators Turn Permitted Acreage Into Perpetual Pricing Power",
+          "angle_type": "sub-pattern",
+          "focus": "Republic Services and Waste Management control waste pricing in local markets because permitted landfills are irreplaceable: no new major landfill has been permitted in a U.S. metro in decades. Republic's pricing ran in excess of cost inflation every quarter with 50 basis points of EBITDA margin expansion, while Casella Waste posted 5th consecutive years of double-digit pricing growth in the Northeast. This page shows how landfill scarcity is the ultimate spread-machine asset — durable because alternative infrastructure is prohibitively expensive to replicate.",
+          "companies": ["Republic Services", "Waste Management", "Casella Waste Systems", "Clean Harbors"],
+          "key_question": "How does landfill permit scarcity translate into irreversible pricing power for waste operators, and what does Republic's 13 million customer base across 1,000+ locations reveal about the local-density moat?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Cost and the Crack",
+      "angles": [
+        {
+          "sub_slug": "who-pays-invisible-tax",
+          "title": "The Invisible Tax: Who Actually Pays the Spread Machine",
+          "angle_type": "who-pays",
+          "focus": "The spread is invisible because it is embedded in the price of the end product — not labeled as a distribution fee in a drug price, an energy bill, or a building contract. Pharmacies pass drug-distribution costs to patients, contractors pass Ferguson's margins to homebuilders and municipalities, pipeline tariffs flow into utility bills, and waste-collection pricing rolls into municipal tax bases and commercial leases. This page maps the actual burden chain from the intermediary spread back to the households and institutions who bear it without knowing it exists.",
+          "companies": ["Cencora", "Republic Services", "Ferguson Enterprises", "Energy Transfer", "McKesson", "Cardinal Health"],
+          "key_question": "Who ultimately pays the spread embedded in pharmaceutical distribution, pipeline tariffs, industrial components, and waste collection — and why do those end-payers have no visibility into the margin being extracted?"
+        },
+        {
+          "sub_slug": "tension-disintermediation-threat",
+          "title": "The Crack in the Machine: Disintermediation, Digital Competition, and Regulatory Pressure",
+          "angle_type": "tension",
+          "focus": "Every spread machine faces the same existential threat: someone builds a direct channel. Amazon has spent years attacking industrial distribution; GLP-1 manufacturers like Eli Lilly have launched direct-to-patient programs that bypass pharmacy benefit managers and potentially distributors; digital freight platforms are displacing CH Robinson; WESCO's data-center clients are large enough to self-supply at scale. This page examines the three disintermediation vectors — manufacturer direct, digital platforms, and regulatory intervention — and assesses which spread machines are most exposed to which crack.",
+          "companies": ["CH Robinson", "Cardinal Health", "Fastenal", "WESCO International", "DNOW", "McKesson"],
+          "key_question": "Which spread-machine operators face credible disintermediation risk from manufacturers going direct, digital platforms replacing the broker, or regulators breaking up concentration — and what is the realistic timeline for those threats to materialize?"
+        }
+      ]
+    }
+  ]
+}

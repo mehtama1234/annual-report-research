@@ -1,0 +1,78 @@
+{
+  "slug": "presence-premium",
+  "name": "The Presence Premium",
+  "deck": "Live, shared-location experiences now command spending loyalty that digital convenience has never dented — and as streaming profitability plateaus, synchronized presence has become genuinely scarce and explicitly priced.",
+  "core_bet": "Affluent consumers are allocating discretionary money toward experiences that cannot be replicated on a screen. Companies that control presence-scarce venues—ticketing, theme parks, luxury hotels, live sports rights—are converting that cultural preference into lasting pricing power. The streaming model that promised infinite content at falling prices hit a ceiling; the experience model that promises scarcity and synchronicity is where the margin lives.",
+  "numbers": [
+    {
+      "stat": "159M fans attended Live Nation events in FY2025",
+      "label": "Live Nation Entertainment Inc."
+    },
+    {
+      "stat": "$6.6B event-related deferred revenue, record high in Q1 2026",
+      "label": "Live Nation Entertainment Inc."
+    },
+    {
+      "stat": "Disney Experiences segment hit record $10.0B revenue in Q3 2026, $3.3B operating income",
+      "label": "Walt Disney Co."
+    },
+    {
+      "stat": "Host Hotels comparable hotel Total RevPAR $417.58, up 5.9% in Q2 2026, guidance raised to 4.75%-5.25% growth",
+      "label": "Host Hotels & Resorts, Inc."
+    },
+    {
+      "stat": "Fox advertising revenue spiked 78% in Q4 FY2026 on FIFA World Cup broadcast rights",
+      "label": "Fox Corporation"
+    },
+    {
+      "stat": "Netflix 325M+ paid memberships, $45.2B FY2025 revenue, 29.5% operating margin",
+      "label": "Netflix, Inc."
+    },
+    {
+      "stat": "Sirius XM churn at record-low 1.4% in Q2 2026 with 33M paid subscribers; podcast grew 41% FY2025",
+      "label": "Sirius XM Holdings Inc."
+    }
+  ],
+  "mechanism": [
+    "For decades, the digital-content thesis promised infinite supply, falling costs, and perfect convenience. Streaming captured the behavior. But subscription economics hit a wall: households maintain a shrinking number of services, customer acquisition costs spiked, and churn normalized. The content that still holds audiences—live sports, live news, live events—is moving toward appointment scarcity. Netflix built a 325-million-subscriber base on on-demand flexibility; now it grows by adding live programming, gaming, and sports exclusivity. The same pattern repeats everywhere: convenience alone no longer commands pricing power.",
+    "Simultaneously, physical presence became structurally rarer. Algorithmic feeds deliver personalized content every waking hour. The cultural commons—everyone watching the same show, everyone at the same stadium—fragmented into infinite micro-audiences. This fragmentation made synchronous shared experience actually scarce. Consumers with means respond by paying for it. Live Nation's deferred revenue hit a record $6.6B in Q1 2026 because fans pre-buy tickets for events they want to experience together in person. Disney Experiences hit record revenue of $10B because parks offer something no app can deliver: the presence of other people, the collective energy, the impossibility of replication.",
+    "The venue operators have pricing power because the supply is genuinely constrained. Concert capacity is fixed by the room. Stadium seats do not materialize on demand. The best hotel properties in major cities are already built and cannot be quickly added. Live sports rights are won or lost in auctions. This is not a psychological preference; it is a structural scarcity. And scarcity is monetizable in ways that infinite content never was. Ticketmaster sells not only access but guaranteed presence at a specific moment. Theme parks charge premium prices because capacity is fixed and demand is proven. Luxury hotels in major markets can raise RevPAR when affluent travelers allocate budget toward experiences."
+  ],
+  "why_now": "Media fragmentation has pushed algorithmic content into every moment, making synchronous shared presence rarer and therefore more valuable. Live Nation's record deferred revenue of $6.6B in Q1 2026, Disney's Experiences segment hitting record $10B in Q3 2026, and affluent hotel RevPAR accelerating while mid-market softens all point to the same bifurcation. Simultaneously, the legacy video model is in terminal decline. EchoStar warned about going concern in its FY2025 filing. Comcast announced the separation of NBCUniversal and Sky. The pay-TV subscriber base approaches single-digit millions. Netflix, which built its empire on streaming convenience, now grows through live events and ad-supported tiers. This is not a post-pandemic bounce. It is a structural repricing: convenience is cheap and abundant; presence is scarce and priced accordingly.",
+  "who_pays": "Working- and middle-class consumers increasingly priced out of the 'presence' tier of culture. Families cannot attend every concert or stadium event. Local entertainment becomes less accessible when pricing power concentrates on scarce venues owned by large operators. Small- and mid-tier content creators and local news ecosystems that depended on the cable bundle for distribution and funding. The cultural commons shrinks when only affluent households can afford synchronous shared experiences. Streaming subscribers forced to choose between Netflix, Disney+, and live-sports-only services, fragmenting their attention and budget.",
+  "who_profits": "Operators controlling scarce live-experience inventory: Live Nation's Ticketmaster owns the ticketing monopoly and captures take-rates on secondary markets. Disney Experiences generates the highest operating margins in the entire conglomerate. Fox controls national sports and news inventory that cannot be substituted, allowing it to command 78% advertising growth in a World Cup quarter. Luxury hotel REITs like Host can raise RevPAR in affluent markets because their inventory is fixed and demand is proven. Platform operators with subscription moats (Netflix crossing $45B in revenue, Spotify defending music economics) that own live-rights hold appointment-based content their competitors cannot replicate. Sirius XM's in-car default access creates retention and churn discipline that algorithmic recommendation services cannot match.",
+  "tension": "Antitrust scrutiny of Live Nation's ticketing monopoly (company accrued $450M in Q1 2026 for legal matters) and affordability exclusion could delegitimize the premium. When presence becomes a luxury good, it fragments the shared cultural reference points that hold civic identity together. The ad-supported tier creates a two-tier experience: some people get Netflix without ads, others get it with surveillance-grade targeting. Comcast's Peacock reaches quarterly profitability, but the company still carries $90.4B in debt from the old cable-and-content structure. The cultural commons—everyone watching the same show, everyone hearing the same news—is replaced by fragmented, algorithmically personalized experiences. Revenue concentration among a few venue operators and rights holders raises political and regulatory pressure.",
+  "surprising_part": "The most non-obvious twist is that streaming platforms themselves are now the biggest believers in the scarcity model. Netflix is growing through live events, not through on-demand catalog expansion. Disney is bundling streaming with parks and live sports, not selling streaming as a standalone convenience. Disney+ remains loss-making at scale; Disney Experiences is where the margin and growth live. The company that built its model on infinite content on demand now frames parks as reinforcing digital engagement, not competing with it. This reversal shows that even the companies that proved streaming works have concluded that the future lives in scarce, synchronous, presence-intensive experiences layered on top of commodity streaming.",
+  "one_sentence": "When content is infinitely replicable and algorithmically personalized, presence—the irreducible fact of being in the same room at the same time—becomes the only defensible premium.",
+  "societal_stake": "When presence becomes a luxury, culture bifurcates. The affluent share live moments and the social cohesion that comes with them. Everyone else watches highlights alone. When every piece of content is personalized to individual preference, the shared cultural moments that create civic identity disappear. The game everyone watched, the news everyone heard, the concert everyone attended—these become experiences only some can afford. Fragmented attention is also fragmented community. The cohesion that comes from knowing your neighbor watched the same thing, heard the same news, experienced the same cultural moment—that dissolves when the cultural commons is a luxury product.",
+  "evidence": [
+    {
+      "company": "Live Nation Entertainment Inc.",
+      "fact": "Event-related deferred revenue reached record $6.6B in Q1 2026; 159M fan attendance in FY2025; sponsorship AOI $845M in FY2025; $450M legal accrual for antitrust scrutiny of ticketing monopoly"
+    },
+    {
+      "company": "Walt Disney Co.",
+      "fact": "Experiences delivered record Q3 2026 revenue of $10.0B and segment operating income $3.3B; full-year FY2025 Experiences segment operating income reached $10.0B; management frames parks as reinforcing digital engagement, not competing"
+    },
+    {
+      "company": "Host Hotels & Resorts, Inc.",
+      "fact": "Comparable hotel Total RevPAR $417.58 up 5.9% in Q2 2026; comparable hotel RevPAR up 7.0%; full-year guidance raised to 4.75%-5.25% growth; affluent traveler demand and FIFA World Cup travel drove results"
+    },
+    {
+      "company": "Fox Corporation",
+      "fact": "Advertising revenue spiked 78% in Q4 FY2026 driven by FIFA Men's World Cup broadcast; full-year fiscal 2026 revenue $17.13B with $3.91B adjusted EBITDA; management frames live news and sports as 'appointment-based' content that cannot be substituted"
+    },
+    {
+      "company": "Netflix, Inc.",
+      "fact": "325M+ paid memberships; FY2025 revenue $45.2B, operating margin 29.5%; ad revenue grew to $1.5B, representing >2.5x growth; members watched 97 billion hours in first half of 2026"
+    },
+    {
+      "company": "Comcast Corporation",
+      "fact": "Peacock reached quarterly profitability in Q2 2026; announced NBCUniversal and Sky separation; cable bundle economically dead; broadband customer net losses continuing despite improved trends"
+    },
+    {
+      "company": "Sirius XM Holdings Inc.",
+      "fact": "Q2 2026 churn at record low 1.4% with 33M paid subscribers; podcasting grew 41% in FY2025; in-car default access creates durable retention profile; 255M combined monthly audio audience"
+    }
+  ]
+}

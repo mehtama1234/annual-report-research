@@ -1,0 +1,88 @@
+{
+  "slug": "pharmacy-infrastructure-trajectory",
+  "trend_slug": "pet-economy-mirror",
+  "name": "The Vet Pharmacy Arc: How Pet Care Follows the Human Healthcare Supply-Chain Path",
+  "deck": "BrightSpring's pharmacy infrastructure shows pet healthcare following the same consolidation and monetization path as human healthcare: script volume, per-script pricing power, and integration of medication into recurring care platforms are becoming the lever for margin expansion.",
+  "core_bet": "BrightSpring delivered approximately 43 million prescriptions in 2025 at an average revenue of $314.20 per script (gross profit $27.50 per script), enabling $205.5 million of adjusted EBITDA on $3.873 billion of Q2 2026 revenue. Pet health is not just Chewy selling commodities; it is becoming an integrated pharmacy and provider play similar to human healthcare. Colgate's Hill's Pet Nutrition segment contributes materially to margins, and Chewy is building Autoship and repeat relationships around prescriptions. The pattern is structural: pet owner spending on health and wellness remains sticky even when discretionary spending tightens, and script economics are becoming the monetization lever.",
+  "numbers": [
+    {
+      "stat": "43 million",
+      "label": "Prescriptions fulfilled by BrightSpring, 2025"
+    },
+    {
+      "stat": "$314.20",
+      "label": "BrightSpring revenue per prescription, Q2 2026"
+    },
+    {
+      "stat": "$27.50",
+      "label": "BrightSpring gross profit per prescription, Q2 2026"
+    },
+    {
+      "stat": "$205.5 million",
+      "label": "BrightSpring adjusted EBITDA, Q2 2026"
+    },
+    {
+      "stat": "$3.873 billion",
+      "label": "BrightSpring net revenue, Q2 2026"
+    },
+    {
+      "stat": "46,448",
+      "label": "BrightSpring home health average daily census, Q2 2026 (up 54% YoY)"
+    },
+    {
+      "stat": "21.3 million",
+      "label": "Chewy active customers at FY2025 year-end"
+    },
+    {
+      "stat": "84%",
+      "label": "Chewy Autoship customer sales as % of net sales, Q3 2025"
+    }
+  ],
+  "mechanism": [
+    "BrightSpring's model is the clearest example of how veterinary pharmacy is consolidating. The company serves 465,000+ patients daily through pharmacy (43 million scripts annually), home health, hospice, infusion, and primary care. That is not just drug distribution; it is integrated healthcare infrastructure for complex geriatric and specialty patients (and increasingly, animal owners treating pets as family members warrant similar complexity). The script economics matter: each prescription generates $314.20 of revenue and $27.50 of gross profit. Scale that by 43 million prescriptions and it is clear that script volume and per-script economics drive profitability.",
+    "Chewy is building the same infrastructure from the consumer side. The company has 21.3 million active customers with 84% Autoship penetration. That is recurring revenue locked in at the customer level. Chewy is not just moving pet food online; it is building the subscription and relationship layer that Autoship provides. As Chewy adds pharmacy and prescription capabilities (which it has been investing in), it becomes a closer analog to BrightSpring—a unified interface for repeated pet care purchases including medications.",
+    "Colgate's Hill's Pet Nutrition segment is the upstream analog. Pet nutrition margins are higher than human food margins, and pet owners show less price sensitivity on health-focused products. Hill's has become one of Colgate's strongest growth drivers, contributing to category-specific premium positioning (prescription diet formulas, therapeutic nutrition) that parallels human pharmaceutical nutrition markets. The pet owner will pay for specialized formulas addressing allergies, kidney disease, or GI issues.",
+    "The ecosystem is building toward the human healthcare model: pharmacy infrastructure captures scripts and recurring revenue, provider services (veterinary practices) are consolidating and linking to pharmacy platforms, and consumers (pet owners) are being locked into Autoship and subscription models that reduce churn. Pricing power sits in script economics and in specialty formulations where alternatives do not exist. Pet owners face similar constraints to human patients: if their pet needs a specific medication or therapeutic diet, they will pay the price."
+  ],
+  "why_now": "The inflection is 2024-2026. Pet spending proved resilient through inflation even when discretionary spending tightened. Pet owners treat pets as family members and will absorb higher prices for health and wellness. That stickiness makes pet healthcare defensible, which in turn makes consolidation and infrastructure investment rational. BrightSpring is aggressive on home health (54% growth in daily census year over year) and scaling script operations. Chewy is embedding pharmacy into its platform. These are not speculative bets; they are evidence that companies see durable unit economics in pet healthcare and are investing accordingly.",
+  "who_pays": "Pet owners pay through higher per-script costs, higher prices for therapeutic pet nutrition, and subscription lock-in via Autoship and recurring care. Those costs are absorbed because pet health is increasingly treated as non-discretionary by owners. Veterinary clinics pay through industry consolidation and dependence on pharmacy partnerships for patient management.",
+  "who_profits": "BrightSpring, Chewy, and integrated pharmacy platforms capture margin expansion as pet healthcare spending consolidates. Colgate and Hill's Pet Nutrition benefit from premium pricing and recurring demand. The winners are companies that own the repeated interaction (BrightSpring script fulfillment, Chewy Autoship) and those that own the brand loyalty around therapeutic nutrition (Colgate Hill's).",
+  "tension": "The tension is whether pet insurance, telehealth, and direct-to-consumer pharmacy alternatives can erode the infrastructure moat. If pet insurance expands and covers medications more broadly, insurance networks may bypass integrated pharmacy platforms. If online pharmacies or lower-cost alternatives become available without veterinary gatekeeping, script volume economics suffer. For now, the infrastructure is still consolidating, but the business model depends on continued gatekeeping by veterinarians and on pet owner willingness to pay higher prices for convenience and quality assurance.",
+  "surprising_part": "The most counter-intuitive signal is that BrightSpring's pet pharmacy segment is as significant to corporate strategy as its human healthcare side. The company is scaling both verticals aggressively, and management treats pet prescription economics as a standalone margin driver. That normalization—treating pet pharmacy as a financial and strategic equal to human healthcare services—is evidence that the industry fully expects pet healthcare to follow human healthcare's consolidation path.",
+  "one_sentence": "Pet healthcare is following human healthcare's consolidation trajectory: script volume and per-script margins are becoming the core monetization engine, integrating pharmacy, provider services, and consumer subscriptions into unified platforms where pricing power rests in repeated customer lock-in.",
+  "societal_stake": "This pattern matters because it reflects how pet ownership culture has shifted. Pets are no longer optional consumer goods; they are family members that warrant healthcare infrastructure equivalent to human healthcare. The consequence is that pet healthcare is becoming a predictable expense stream tied to chronic disease management, therapeutic nutrition, and integrated care coordination. For lower-income households, this means pet ownership may become increasingly expensive or unsustainable if veterinary and pharmacy consolidation continues to push prices higher. For the broader economy, pet healthcare is becoming a permanent and growing component of consumer spending with similar characteristics to human healthcare: recurring, price-inelastic, and concentrated on chronic disease management.",
+  "evidence": [
+    {
+      "company": "BrightSpring Health Services",
+      "fact": "Approximately 43 million prescriptions fulfilled in 2025"
+    },
+    {
+      "company": "BrightSpring Health Services",
+      "fact": "Q2 2026: revenue per script rose to $314.20, gross profit per script rose to $27.50"
+    },
+    {
+      "company": "BrightSpring Health Services",
+      "fact": "Home health average daily census reached 46,448 in Q2 2026, up 54% year over year"
+    },
+    {
+      "company": "BrightSpring Health Services",
+      "fact": "Q2 2026 adjusted EBITDA guidance increased to $820 million to $845 million for full year 2026, and leverage fell to 2.15x, below stated 2.5x long-term target"
+    },
+    {
+      "company": "Chewy, Inc.",
+      "fact": "21.3 million active customers at FY2025 year-end, with 84% Autoship customer sales penetration in Q3 2025"
+    },
+    {
+      "company": "Chewy, Inc.",
+      "fact": "FY2025 net sales $12.60 billion (up 6.2% YoY), adjusted EBITDA $719.2 million (5.7% margin), record free cash flow $562 million"
+    },
+    {
+      "company": "Chewy, Inc.",
+      "fact": "Q1 2026: net sales $3.36 billion (up 7.7% YoY) with gross margin expanding to 30.1%, showing continued profitability improvement"
+    },
+    {
+      "company": "Colgate-Palmolive",
+      "fact": "Hill's Pet Nutrition segment is a major growth and category-quality asset contributing meaningfully to overall corporate performance"
+    }
+  ]
+}

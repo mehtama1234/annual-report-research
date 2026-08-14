@@ -1,0 +1,87 @@
+{
+  "slug": "home-as-care-site",
+  "trend_slug": "gray-wave-dividend",
+  "name": "The Last Move: When Home Becomes the Hospital",
+  "deck": "Medicare and Medicaid are funding the wholesale migration of care out of institutions and into kitchens and bedrooms, creating simultaneous revenue expansion for every home health operator.",
+  "core_bet": "Aging-in-place is no longer a preference—it is now policy infrastructure. Payers actively reward home-based care because it costs less than SNFs, hospitals, and assisted-living facilities, while seniors demand it. This creates a durable, policy-backed expansion in home health, personal care, and hospice revenue across all four major operators, even as unit economics tighten and labor remains constrained.",
+  "numbers": [
+    {
+      "stat": "$1.42 billion",
+      "label": "Addus annual revenue 2025: record annual revenue demonstrating sustained demand for home-based personal care and hospice"
+    },
+    {
+      "stat": "78.4%",
+      "label": "Addus Q2 2026 mix: personal care revenue share, showing home support, not clinical care, drives the bulk of recurring demand"
+    },
+    {
+      "stat": "$647.9 million",
+      "label": "Aveanna Q1 2026 revenue, up 15.9% YoY: pediatric private duty home-care scaling in high-acuity, family-dependent market"
+    },
+    {
+      "stat": "249",
+      "label": "Enhabit home-health locations as of 12/31/2025: clinical home-health branch density across 34 states"
+    },
+    {
+      "stat": "41,786",
+      "label": "Enhabit average daily census Q4 2025: cumulative patient volume in skilled home-health and hospice"
+    },
+    {
+      "stat": "46,448",
+      "label": "BrightSpring home-health average daily census Q2 2026, up 54% YoY: explosive expansion of home-based primary and specialty care"
+    },
+    {
+      "stat": "465,000+",
+      "label": "BrightSpring daily patient census across all modalities (pharmacy, home health, hospice, infusion): integrated home-and-community care platform scale"
+    },
+    {
+      "stat": "9.5%",
+      "label": "Enhabit home-health admissions growth Q1 2026: sustained admission volume growth despite reimbursement headwinds"
+    }
+  ],
+  "mechanism": [
+    "The economics are simple and relentless. A skilled-nursing facility bed costs Medicare and Medicaid roughly $300–500 per day. A hospital inpatient stay averages $2,500–3,500 per day. A home-health visit, personal-care hour, or hospice-service day costs a fraction of that. Payers—both government and commercial—have written policies that route patients into home-based care whenever clinically feasible. Aveanna's pediatric private duty work, Addus's personal-care empire, Enhabit's skilled home-health branch network, and BrightSpring's integrated pharmacy-and-provider model all exist because this reimbursement shift happened, not in spite of it.",
+    "The second driver is patient and family preference. Seniors want to age at home. Parents of medically complex children want their kids at home, not in institutions. Families experience less disruption, less infection risk, and more autonomy when care is home-based. This preference is no longer treated as nice-to-have. It is now embedded in outcome metrics, quality ratings, and value-based-care contracts. The result is that home-health operators are not fighting demand. They are managing explosive growth in referral volume while navigating simultaneous pressure to hire caregivers and clinicians faster than supply permits.",
+    "The third mechanism is consolidation and density. Home-based care is fragmented at the local level but increasingly concentrated at the operator level. Addus acquired HomeCourt in Indiana to build recurring local density. Aveanna announced the Family First acquisition to deepen pediatric private duty. Enhabit was merged into Kinderhook's platform to benefit from operational integration. BrightSpring divested Community Living to focus on higher-acuity home-health and pharmacy. Each operator is using acquisition and branch pruning to build density—more locations, more clinicians, more predictable referral flow—in geography where they can compete for managed-care contracts and capture local market share. Fragmented home care was invisible. Consolidated home care is a scaled, recognizable payor partner that can negotiate rates and sign turnkey service agreements."
+  ],
+  "why_now": "The policy environment has shifted decisively. Value-based-care arrangements, bundled payments, and managed-Medicaid penetration have all created explicit financial incentives to move volume out of institutions. Simultaneously, the aging population is reaching critical mass—Medicare enrollment is climbing, Medicaid long-term-services-and-supports spending is under sustained pressure, and the 65-plus demographic wave is accelerating. Post-pandemic, labor-intensive service businesses have proven their resilience. Home-health and hospice operators showed they could keep operating through supply shocks, adapt workflows, and maintain quality standards without facility infrastructure. Payers took notice. Operators are now being rewarded for executing at scale. The timing also reflects post-COVID normalization. During 2020–2022, home-based care was viewed as a temporary substitute for institutional care. By 2024–2026, it is treated as the default care site for entire patient populations. Enhabit's nine consecutive quarters of debt reduction and operating improvement, Aveanna's 15.9% YoY revenue growth, BrightSpring's 54% YoY home-health census expansion, and Addus's record revenue all reflect the same story: payers are not rationing home care. They are funding it more aggressively, and operators are racing to build capacity to capture that demand.",
+  "who_pays": "Medicare and Medicaid are the spine—they cover skilled nursing, home-health visits, personal-care attendants, and hospice for the populations that most need care. Commercial managed-care plans are the accelerator—they have contractual flexibility to incentivize home-based settings and penalize institutional settings through benefit design and reimbursement. Families, out-of-pocket, fill the gaps. Aveanna's private-duty model is often funded through a mix of Medicaid, commercial riders, and family self-pay. Addus's personal-care business leans heavily on state Medicaid and state-level rate decisions (Texas and Illinois rate increases were called out as material drivers in Q1 2026).",
+  "who_profits": "The four operators—Addus, Aveanna, Enhabit, and BrightSpring—capture direct recurring revenue. But the profit accrues unevenly. Addus is mostly personal care (78.4% of Q2 2026 revenue), which is labor-intensive and lower-margin. Enhabit and Aveanna sit in the middle: clinically managed, better-reimbursed, but still labor-constrained and exposed to admissions and census volatility. BrightSpring is the most integrated and arguably the highest-margin operator because it combines pharmacy (where margins are better) with home-health and provider delivery. Downstream, regional and local home-care startups, therapy networks, and primary-care clinics benefit from referral flow. The real winners are managed-care organizations, accountable-care organizations, and value-based-care networks that hold per-member costs down by shifting volume to lower-cost settings.",
+  "tension": "Labor is the breaking point. Every operator reports hiring and retention pressure. Caregivers, nurses, therapists, and home-health aides are hard to recruit and keep. Wages need to rise to compete with other low-skill healthcare work and non-healthcare options. As volume scales, the per-unit reimbursement rate can flatten or fall even as total revenue rises (Enhabit's Q1 2026 showed 0.6% home-health revenue growth despite 9.5% admissions growth—unit revenue per patient day fell due to mix and Medicare reimbursement decline). The labor cost squeeze is built into the model. Additionally, the payer environment can shift. If Medicare reimbursement declines more sharply, if managed-Medicaid contracts tighten, or if state budgets cut long-term-services-and-supports funding, the expansion stops abruptly. Technology and compliance costs are rising too—electronic visit verification, cybersecurity, clinical documentation, and regulatory infrastructure all burden smaller and less-efficient operators. The last tension is that much of the demand being absorbed is the demand that used to go to family caregivers, often unpaid. Home-based care operators are monetizing what was previously a household burden. This transfers cost from the unpaid caregiver to the payer and the operator, creating a redistribution and a potential externalized cost if caregiver quality or training lags.",
+  "surprising_part": "The surprising piece is not that home-based care is growing—that is obvious. It is that the growth is simultaneous and synchronized across all four operators. Addus, Aveanna, Enhabit, and BrightSpring are all expanding home-health census, acquiring local competitors, and posting record adjusted EBITDA at the same time. This is not a zero-sum market share shift. This is absolute demand expansion driven by policy. In a fragmented market, simultaneous growth would be unusual. In a consolidating market, it signals policy-backed tailwind, not competition. The second surprise is that the financial metrics are decoupling from the volume metrics. Admissions, census, and referrals are all up double digits, but revenue per visit, per day, or per script is flat or falling. Operators are growing margin through scale and mix, not through price increases. The third surprise is the speed at which home-based care has become the default care setting, not the alternative. Ten years ago, home care was seen as a lower-cost last resort. Now it is the first destination for discharge planning. That shift is policy, not consumer preference, though preference reinforces policy.",
+  "one_sentence": "Four operators simultaneously expanding home-based care not because they competed for market share, but because payers systematically redirected an entire generation of care into kitchens and bedrooms to cut costs and meet patient preference.",
+  "societal_stake": "For an aging adult or a family with a medically complex child, this trend means care happens at home, not in an institution—better quality of life, less disruption, more autonomy. For families stretched by caregiver burden, this trend means paid professional care can absorb work that used to fall on unpaid relatives, though it also means that labor cost rises and may not be covered by insurance. For the healthcare system, this is the mechanism by which aging is managed without overwhelming institutional capacity—it is how we make aging-in-place real, not rhetorical. For payers and public budgets, this trend is cost-control infrastructure—the way aging populations are absorbed without explosive spending growth. The societal stake is whether this system holds: whether caregivers can be hired and trained reliably, whether reimbursement remains stable, whether quality is maintained in dispersed settings, and whether the burden of care is shared fairly across families, payers, and operators.",
+  "evidence": [
+    {
+      "company": "Addus HomeCare",
+      "fact": "Q2 2026 revenue $377.4M with personal care at 78.4% of revenue mix; record 2025 annual revenue of $1.42B shows sustained demand growth for home-based recurring care"
+    },
+    {
+      "company": "Addus HomeCare",
+      "fact": "Acquired HomeCourt in Indiana during Q1 2026 for recurring local-market density build; acquisition focused on expanding personal-care footprint, not new service categories"
+    },
+    {
+      "company": "Aveanna Healthcare",
+      "fact": "Q1 2026 revenue $647.9M, up 15.9% YoY with private duty services up ~$75.7M; raised full-year 2026 guidance to $2.56B–$2.58B revenue with $328M–$332M adjusted EBITDA"
+    },
+    {
+      "company": "Aveanna Healthcare",
+      "fact": "Announced Family First Homecare acquisition post-Q4 2025 to deepen pediatric private-duty footprint; Q4 2025 revenue up 27.4% YoY driven by $118.5M private duty revenue expansion"
+    },
+    {
+      "company": "Enhabit Inc.",
+      "fact": "Operated 249 home-health and 117 hospice locations across 34 states as of 12/31/2025; home-health average daily census of 41,786 reflects sustained institutional-to-home shift"
+    },
+    {
+      "company": "Enhabit Inc.",
+      "fact": "Q1 2026 home-health admissions rose 9.5% but revenue grew only 0.6%—unit revenue per patient day fell 3.1% despite cost per patient day improving 2.2%, showing policy-driven volume expansion with reimbursement headwind"
+    },
+    {
+      "company": "BrightSpring Health",
+      "fact": "Q2 2026 home-health average daily census reached 46,448, up 54% YoY; 465,000+ total daily patient census across integrated pharmacy, home health, hospice, infusion demonstrates scaled platform reach"
+    },
+    {
+      "company": "BrightSpring Health",
+      "fact": "Full-year 2025 continuing-operations revenue $12.911B with 28.2% growth; Q2 2026 guidance increased to $15.1B–$15.425B revenue and $820M–$845M adjusted EBITDA, reflecting accelerating home-care demand capture"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "presence-premium",
+  "name": "The Presence Premium",
+  "overview_deck": "As screens saturate every waking hour, synchronized physical presence has become the scarcest and most explicitly priced commodity in the leisure economy — and the companies controlling live-event venues, destination parks, and appointment-based sports rights are converting that scarcity into durable pricing power while the legacy bundle that once made digital feel sufficient quietly collapses.",
+  "groups": [
+    {
+      "group_title": "The Live Economy",
+      "angles": [
+        {
+          "sub_slug": "why-presence-got-scarce",
+          "title": "When Everywhere Became Nowhere: The Structural Scarcity of Being There",
+          "angle_type": "origin",
+          "focus": "The paradox driving this trend is that digital ubiquity created presence scarcity: once algorithmic content filled every idle moment, the experience of synchronized shared attention — in a stadium, at a park, in the same room — became rarer and therefore more economically valuable. This page traces the inflection from pandemic-era digital saturation through the 2025-2026 evidence of record live-event demand, charting how the cultural preference crystallized into a distinct spending tier.",
+          "companies": ["Live Nation Entertainment Inc.", "Walt Disney Co.", "Fox Corporation", "Sirius XM Holdings Inc."],
+          "key_question": "Why did physical presence become a premium category in the mid-2020s rather than a legacy default, and what conditions made it stick?"
+        },
+        {
+          "sub_slug": "ticketing-moat",
+          "title": "The Toll Booth for Togetherness: Live Nation's Vertically Integrated Live-Event Machine",
+          "angle_type": "company-deepdive",
+          "focus": "Live Nation is the clearest single-company argument that presence scarcity is now a structural business rather than a cyclical bounce: $25.2B in 2025 revenue, 159M fan attendees, $6.6B event-related deferred revenue in Q1 2026, and sponsorship AOI of $845M — all before a single show happens. This page dissects how the vertical integration of venues, ticketing, and artist relationships creates a compounding moat that lets the company price and fill events years in advance, and why the $450M antitrust accrual is also evidence of market power.",
+          "companies": ["Live Nation Entertainment Inc."],
+          "key_question": "How did Live Nation turn the scarcity of live attendance into a vertically integrated pricing machine, and what does record deferred revenue signal about demand durability?"
+        },
+        {
+          "sub_slug": "destination-parks-hotels",
+          "title": "Destination as Product: Theme Parks, Luxury Hotels, and the Geography of Presence",
+          "angle_type": "sub-pattern",
+          "focus": "Physical destinations — theme parks, luxury hotel stays, resort travel — represent the most capital-intensive and pricing-power-rich layer of the presence premium: Disney Experiences hit record Q3 2026 revenue of $10.0B with segment operating income of $3.3B, while Host Hotels & Resorts posted Total RevPAR of $417.58 up 5.9% in Q2 2026 driven by affluent traveler demand and FIFA World Cup travel. This page argues that destination operators differ from event operators by owning repeat-visit loyalty loops that compound over decades, not concert seasons.",
+          "companies": ["Walt Disney Co.", "Host Hotels & Resorts, Inc.", "Marriott International, Inc.", "Hilton Worldwide Holdings Inc."],
+          "key_question": "Why are theme parks and luxury destinations showing accelerating returns while mid-market travel softens, and how do operators convert physical scarcity into loyalty economics?"
+        },
+        {
+          "sub_slug": "live-sports-appointment-content",
+          "title": "The Last Appointment: Live Sports Rights as the Scarcest Inventory in Media",
+          "angle_type": "sub-pattern",
+          "focus": "Live sports are the one category of video content that cannot be consumed on delay without losing its core value, making rights ownership the defining moat in a streaming era that has otherwise commoditized on-demand content: Fox Corporation's advertising revenue spiked 78% in Q4 FY2026 driven by FIFA World Cup broadcast, while management explicitly frames live news and sports as 'appointment-based' content that cannot be substituted. This page examines how live-rights holders — not streaming platforms — hold the structural leverage in a fragmenting media economy.",
+          "companies": ["Fox Corporation", "Nexstar Media Group Inc.", "Walt Disney Co.", "DraftKings Inc."],
+          "key_question": "Why does live sports rights ownership produce a qualitatively different economic outcome than any other content category, and which operators benefit most from this scarcity?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Bundle Unravels",
+      "angles": [
+        {
+          "sub_slug": "streaming-profitability-ceiling",
+          "title": "The Subscription Ceiling: When Growth Becomes Margin Management",
+          "angle_type": "sub-pattern",
+          "focus": "The streaming model that displaced pay-TV is now facing its own structural limit: Netflix at 325M+ subscribers and 29.5% operating margin is maturing into a profitability optimization story rather than a subscriber growth story, with ad revenue growing 2.5x to $1.5B in 2025 as the real growth engine — while Spotify at 777M MAUs and 300M premium subscribers is showing the same pattern of premium-tier saturation driving platforms toward ad-supported tiers. This page argues that the streaming-as-presence-substitute thesis has hit its ceiling, and what replaces subscriber growth is ad monetization and live content acquisition.",
+          "companies": ["Netflix, Inc.", "Spotify Technology S.A.", "Comcast Corporation"],
+          "key_question": "Why are streaming platforms converging on ad-supported models and live-rights acquisition, and what does this reveal about the limits of on-demand content as a substitute for presence?"
+        },
+        {
+          "sub_slug": "pay-tv-terminal-decline",
+          "title": "The Bundle's Autopsy: Pay-TV's Final Years as a Mass-Market Product",
+          "angle_type": "sub-pattern",
+          "focus": "The legacy pay-TV bundle is not in slow decline — it is in terminal contraction, and EchoStar's going-concern warning on 6.391M remaining subscribers (down from 6.998M) and Comcast's decision to separate NBCUniversal and Sky are the clearest evidence that even the companies inside the model have stopped pretending it has a future. This page treats the bundle's death not as context for streaming's rise but as the mechanism that restructured where cultural presence and live content now command their premium.",
+          "companies": ["EchoStar Corporation", "Comcast Corporation", "Charter Communications Inc.", "Nexstar Media Group Inc."],
+          "key_question": "How did the pay-TV bundle's collapse restructure the economics of live and appointment content, and what does the terminal phase look like from inside the companies experiencing it?"
+        }
+      ]
+    },
+    {
+      "group_title": "Stakes and Fractures",
+      "angles": [
+        {
+          "sub_slug": "who-profits-presence",
+          "title": "Presence Arbitrage: Where the Value Is Captured and Why It Compounds",
+          "angle_type": "who-profits",
+          "focus": "The companies capturing maximum value from the presence premium share a common trait: they own inventory that is structurally scarce and not replicable by a competitor with capital — Live Nation's venue network, Disney's branded park destinations, Host Hotels' upper-upscale assets, Fox's live sports rights portfolio. This page maps the value chain and explains why physical control points compound over time while digital alternatives face margin compression from content costs, subscriber limits, and ad-market cyclicality.",
+          "companies": ["Live Nation Entertainment Inc.", "Host Hotels & Resorts, Inc.", "Fox Corporation", "Marriott International, Inc."],
+          "key_question": "Which structural features of presence-economy businesses create durable pricing power rather than temporary demand spikes, and why do physical control points compound differently than digital ones?"
+        },
+        {
+          "sub_slug": "priced-out-excluded",
+          "title": "The Presence Gap: Affordability Exclusion and the Two-Tier Cultural Commons",
+          "angle_type": "who-pays",
+          "focus": "When presence becomes a luxury, cultural participation bifurcates: the portion of the population priced out of live events, premium hotel stays, and theme-park access does not substitute an equivalent experience — they consume algorithmically personalized highlights alone, without the social cohesion of shared moments. This page documents the human cost of the trend: the price escalation in live events driven by Live Nation's dynamic ticketing, the RevPAR bifurcation between affluent and mid-market travel, and the disappearance of the cultural commons that mass broadcast once provided.",
+          "companies": ["Live Nation Entertainment Inc.", "EchoStar Corporation", "Nexstar Media Group Inc.", "Gannett Co. Inc."],
+          "key_question": "Who bears the social and economic cost of presence becoming premium, and what happens to civic and cultural identity when shared real-time experience is rationed by price?"
+        },
+        {
+          "sub_slug": "antitrust-fragility",
+          "title": "The Fragile Monopoly: When Presence Scarcity Invites Regulatory Attack",
+          "angle_type": "tension",
+          "focus": "The same concentration that creates pricing power in live events and sports rights is generating antitrust scrutiny and affordability backlash that could delegitimize the premium: Live Nation's $450M legal accrual for ticketing monopoly scrutiny signals the vulnerability of vertically integrated presence control, while the two-tier streaming model — Netflix ad-free for premium subscribers, surveillance-grade targeting for the ad tier — is creating visible cultural inequity. This page makes the skeptic's case: presence pricing power is real but fragile, dependent on regulatory forbearance and consumer acceptance that is not guaranteed.",
+          "companies": ["Live Nation Entertainment Inc.", "Netflix, Inc.", "Fox Corporation", "Walt Disney Co."],
+          "key_question": "What specific regulatory, social, and competitive pressures could erode the presence premium, and are the companies benefiting from it building durable moats or extracting from a trend that will be corrected?"
+        }
+      ]
+    }
+  ]
+}

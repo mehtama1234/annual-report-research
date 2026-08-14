@@ -1,0 +1,93 @@
+{
+  "slug": "site-preparation-electrical",
+  "trend_slug": "ai-infrastructure-toll",
+  "name": "Dirt, Trenches, and High Voltage: The Site-Prep Tier",
+  "deck": "Before a server rack is installed, a data-center campus requires grading, site utilities, electrical conduit, substation tie-ins, and precision civil work—a layer that Sterling Infrastructure has deliberately repositioned to dominate, representing 92% of E-Infrastructure backlog and $7B+ of combined visibility.",
+  "core_bet": "The site-preparation and electrical-integration tier has become a distinct, high-margin sub-industry within AI construction. Mission-critical projects—data centers, semiconductor facilities, manufacturing campuses—now demand specialized contractors who can handle grading, site utilities, electrical substation integration, and complex mission-critical electrical infrastructure as a bundled offering. Sterling, Primoris, Dycom, and MYR Group have each repositioned to capture this layer, competing on labor capacity, project execution discipline, and the ability to integrate civil work with electrical systems.",
+  "numbers": [
+    {
+      "stat": "92%",
+      "label": "Sterling Infrastructure mission-critical projects as share of E-Infrastructure backlog (Q2 2026)"
+    },
+    {
+      "stat": "$7.0B+",
+      "label": "Sterling Infrastructure total visibility stack (signed backlog + unsigned awards + future phase opportunities, Q2 2026)"
+    },
+    {
+      "stat": "$5.62B",
+      "label": "Sterling Infrastructure combined backlog (Q2 2026)"
+    },
+    {
+      "stat": "20%",
+      "label": "Sterling Infrastructure Transportation Solutions revenue decline in Q2 2026 (intentional resource reallocation to higher-margin E-Infrastructure)"
+    },
+    {
+      "stat": "$13.9B",
+      "label": "Primoris total backlog reaching record levels in Q2 2026, including $8.2B master service agreement backlog"
+    },
+    {
+      "stat": "$11.906B",
+      "label": "Dycom Industries record total backlog (fiscal Q1 2027), representing 46.5% year-over-year growth"
+    },
+    {
+      "stat": "2.2x",
+      "label": "Dycom book-to-bill ratio (fiscal Q1 2027), signaling strong forward demand"
+    },
+    {
+      "stat": "$3.16B",
+      "label": "MYR Group record backlog (Q2 2026), with $1.27B in Transmission and Distribution and $1.89B Commercial and Industrial"
+    }
+  ],
+  "mechanism": [
+    "The site-preparation tier exists because data centers, semiconductor fabs, and advanced manufacturing facilities cannot be dropped onto raw land. They require grading and slope stabilization, storm-water management systems, electrical-service conduits buried deep into subgrades, high-voltage substation tie-ins, and precision earthwork that integrates with both civil and electrical infrastructure. Sterling Infrastructure has captured this opportunity by deliberately repositioning away from commodity transportation work toward what it calls 'E-Infrastructure Solutions'—a segment combining site development with mission-critical electrical services. In Q2 2026, Sterling reported that 92% of E-Infrastructure backlog consisted of mission-critical projects (data centers, semiconductor facilities, manufacturing sites), and the company explicitly described delivering integrated site and electrical services on two data-center campuses simultaneously. This is not an incidental offering; it is the center of Sterling's growth engine.",
+    "Primoris and Dycom approach the same tier differently but land in the same value pool. Primoris, traditionally stronger in utility and pipeline work, now explicitly markets electrical construction and industrial services through its PayneCrest Electric acquisition (closed May 2026), positioning itself to capture electrical work on 'industrial, manufacturing, advanced facilities, and data-center services.' Dycom, historically a telecom and fiber contractor, acquired Power Solutions (a Mid-Atlantic data-center electrical contractor) and announced National Technology Integrators to move into structured cabling, audio-visual systems, and inside-plant electrical work within critical facilities. The language is different (Primoris says 'advanced facilities'; Dycom says 'inside the fence'), but the economic reality is identical: there is now a distinct market segment where specialized electrical and site-execution contractors collect premium margins by wrapping mission-critical work around AI and industrial infrastructure.",
+    "MYR Group's positioning sharpens the economics further. The company's 'Transmission and Distribution' segment covers high-voltage transmission lines, substations, overhead and underground distribution, and clean energy projects—the utility-side backbone that feeds data centers. Its 'Commercial and Industrial' segment explicitly serves 'data centers, airports, hospitals, manufacturing plants, processing facilities, and other large-load industrial sites.' MYR's Q2 2026 backlog of $3.16B, with equal growth across both segments, suggests that site and electrical work is being booked from both ends simultaneously: utilities expanding grid capacity to support data centers, and data-center operators hiring electrical contractors to integrate that supply into their facilities. This dual pull is what distinguishes the site-preparation tier from generic infrastructure work—it exists because AI and semiconductor demand create a specific type of project that requires both utility-scale electrical expertise and complex on-site electrical systems.",
+    "Labor capacity has become the binding constraint in this tier, reshaping both competitive advantage and project economics. Dycom explicitly noted that 'customers are extending contract durations to lock in skilled workforce capacity,' which is a candid admission that field labor—electricians, linemen, site engineers, equipment operators—is no longer abundant. Primoris increased its labor force by over 2,800 people in 2025 and highlighted 'tighter markets for certified journeyman linemen.' Sterling's adjusted EBITDA margin exceeded 20% for the first time in company history in 2025, a quality shift achieved partly through resource reallocation away from lower-margin work but also through the labor-intensive nature of mission-critical projects, which command premium rates when skilled labor is scarce. The site-preparation tier is therefore not just a volume story; it is a capacity and labor moat story, where contractors who can maintain specialized field teams, project management depth, and execution discipline win repeated awards at improving margins.",
+    "The economics of this tier are reinforced by project sequencing and multi-year visibility. Sterling reported Q2 2026 visibility of $7.0B+ when combining signed backlog, unsigned awards, and future-phase opportunities. Dycom's book-to-bill of 2.2x (with $11.9B backlog against quarterly run-rate revenue of ~$2B) implies four-to-five years of forward work. Primoris noted $1.4B of natural-gas power-generation awards in a single quarter. This multi-year visibility does not mean revenue will be smooth—project sequencing, weather, and labor productivity can all disrupt execution—but it means contractors can invest confidently in labor hiring, equipment staging, and project management infrastructure, further concentrating competitive advantage among contractors who already have scale."
+  ],
+  "why_now": "AI and semiconductor buildout have collapsed the timeline for data-center and fab expansion. Where a similar surge in 2010 might have unfolded over five years, current hyperscaler and chip-manufacturer capital plans compress site and electrical work into 2–3-year windows. Simultaneously, the electrical grid itself is under strain. Utilities are expanding transmission and substations to support data-center load growth while managing aging infrastructure replacement and electrification (EVs, building heating, industrial process conversion). This dual push—simultaneous site prep and electrical integration demand from both data-center operators and utilities—has created a distinct high-margin segment that did not exist in the same form five years ago. Sterling's shift to 92% mission-critical backlog, Primoris's PayneCrest acquisition, and Dycom's move into inside-facility electrical work all occurred between 2025 and mid-2026, confirming that contractors are repositioning their capital and labor allocation in real time to capture this window.",
+  "who_pays": "Hyperscalers (Google, Amazon, Microsoft, Meta), semiconductor manufacturers (Intel, TSMC, Samsung), and advanced-manufacturing operators pay for site-preparation and electrical work through capital budgets allocated to data-center and fab campus buildout. In many cases, these companies hire Sterling, Primoris, Dycom, or MYR directly as general or specialty contractors. In other cases, they fund the work indirectly through utilities (which recover costs via tariff recovery and rate-base expansion) or through public-private partnerships (especially for power-generation facilities that feed data centers). A manufacturing engineer at a chip-fab campus knows that before the fab building itself is erected, 18–24 months of site work must complete: grading, stormwater systems, electrical substations, underground utilities. That work is paid for from the same capex bucket as the fab building itself, and it cannot be skipped or deferred.",
+  "who_profits": "Sterling Infrastructure, Primoris Services, Dycom Industries, and MYR Group capture margin in this tier. Sterling's adjusted EBITDA margin exceeded 20% for the first time in 2025, driven partly by mission-critical work mix. Dycom achieved 2.2x book-to-bill and record backlog growth of 46.5% year-over-year in fiscal 2027, with margins expanding through data-center and fiber infrastructure work. MYR Group's Commercial and Industrial backlog reached $1.89B (Q2 2026), competing alongside Transmission and Distribution for field labor and project management resources. These four firms are not alone in this market—Quanta Services, MasTec, Granite Construction, and others also compete—but they have been most explicit about repositioning capital allocation toward the mission-critical segment. The margin uplift is real: contractors can charge premium rates when customers (data-center operators and manufacturers) have tight schedules, labor is scarce, and mission-critical infrastructure cannot fail or slip.",
+  "tension": "The site-preparation tier remains exposed to several breaking points. First, labor productivity and execution risk on complex electrical projects are not stable. Primoris's Q2 2026 loss of $24.2M despite record backlog and strong utilities demand shows that 'project redesign, sequencing, labor productivity, sub-surface conditions, and weather' can rapidly flip project economics from favorable to distressed. Second, multi-year backlogs assume project starts and phase-gate timing remain intact, but if data-center or semiconductor capital plans slip, backlog can become stale faster than simple revenue recognition suggests. Third, the labor pool is finite. Dycom and Primoris are both increasing headcount, but if certified linemen and project engineers become truly scarce, wage inflation could compress margins across the tier. Fourth, regulatory and permitting delays on large campuses (environmental review, utility interconnection, local approvals) can slow project starts and extend timelines, reducing the efficiency that contractors count on when quoting margin. Finally, if AI capex momentum slows (which would reverse demand pull-through), site-preparation work becomes a trailing indicator, deprioritized in favor of maintenance and lower-margin work. Sterling's intentional abandonment of transportation work and reallocation to E-Infrastructure is a bet; if it misfires, the company has made itself smaller and more dependent on a single end-market.",
+  "surprising_part": "The most counterintuitive finding is that site-preparation and electrical work are not scalable in the traditional sense. Dycom can deploy 40 operating companies across all 50 states, but that structure reflects the local, project-specific nature of fiber and communications work. Similarly, Primoris and MYR Group have deep geographic footprints, but they compete on project-by-project wins, not on manufacturing scale or algorithmic leverage. This is a labor-intensive, margin-differentiated business where competitive advantage flows from project execution discipline, labor relationships, and the ability to absorb complexity, not from technology or process efficiency. That stands in sharp contrast to the AI and semiconductor industry narratives, which stress algorithmic innovation, compute scaling, and software leverage. The truth is that data centers and fabs require both: they need cutting-edge cooling, power delivery, and architectural systems from companies like Vertiv and Eaton (equipment margin), but they also need Sterling, Dycom, and Primoris to actually dig trenches, pull cable, wire substations, and build the foundation that those systems sit on (labor and execution margin). The site-preparation tier is booming not because technology improved but because demand density improved—data centers are being built faster and closer together than ever before, which means contractors can maintain utilization and labor deployment without sacrificing project discipline or safety standards.",
+  "one_sentence": "Site-preparation and mission-critical electrical work have bifurcated into a high-margin specialty tier within industrial construction, where labor capacity and execution discipline command premium pricing from data-center operators and semiconductor manufacturers competing for speed and reliability.",
+  "societal_stake": "The average person does not think about the dirt and trenches that precede a data center, but the speed at which data centers can be built shapes real-world outcomes: the availability and cost of cloud services (which affects productivity and equity), the resilience of digital infrastructure (which affects national security and disaster recovery), and the distribution of computation capacity across geographies (which affects whether AI and compute scale remain concentrated in a few hyperscaler hubs or diffuse more broadly). Site-preparation capacity is a real binding constraint. If contractors cannot dig, grade, and integrate electrical systems fast enough to match hyperscaler buildout plans, data-center deployment slows, cloud costs may rise, and innovation may concentrate further in well-served regions. Conversely, if site-preparation becomes commoditized and margins compress, contractors may under-invest in labor, safety, and execution discipline, which risks project failures, cost overruns, and delays that harm the companies trying to build digital infrastructure and, by extension, the users who depend on it. The labor side is especially important: the United States does not have infinite certified linemen, electricians, and project managers, and if site-preparation work is pulling the most skilled field talent away from other infrastructure (water systems, power grids, telecommunications), there are hidden tradeoffs in resource allocation across different types of physical infrastructure that nobody is explicitly managing.",
+  "evidence": [
+    {
+      "company": "Sterling Infrastructure",
+      "fact": "Mission-critical projects (data centers, semiconductor facilities, manufacturing) represented 92% of E-Infrastructure backlog at end of Q2 2026, up from 84% at year-end 2025"
+    },
+    {
+      "company": "Sterling Infrastructure",
+      "fact": "Adjusted EBITDA margin exceeded 20% for the first time in company history in 2025, signaling margin quality improvement coinciding with E-Infrastructure mix shift"
+    },
+    {
+      "company": "Sterling Infrastructure",
+      "fact": "Combined visibility stack of $7.0B+ when signed backlog ($4.33B), unsigned awards, and future-phase opportunities are combined (Q2 2026)"
+    },
+    {
+      "company": "Primoris Services",
+      "fact": "PayneCrest Electric acquisition closed May 1, 2026, adding electrical construction and services capabilities explicitly for industrial, manufacturing, advanced facilities, and data-center services"
+    },
+    {
+      "company": "Primoris Services",
+      "fact": "Increased labor force by more than 2,800 people in 2025; highlighted 'tighter markets for certified journeyman linemen' as a key operating constraint"
+    },
+    {
+      "company": "Dycom Industries",
+      "fact": "Power Solutions acquisition positioned the company as a premier data-center electrical contractor, explicitly linking telecom fiber infrastructure to inside-facility electrical and building systems work"
+    },
+    {
+      "company": "Dycom Industries",
+      "fact": "Record backlog of $11.906B (fiscal Q1 2027) with 2.2x book-to-bill ratio; management noted 'customers are extending contract durations to lock in skilled workforce capacity'"
+    },
+    {
+      "company": "MYR Group",
+      "fact": "Commercial and Industrial backlog reached $1.89B (Q2 2026), explicitly serving data centers alongside transmission and distribution work ($1.27B backlog), showing dual pull on electrical contractor capacity"
+    },
+    {
+      "company": "MYR Group",
+      "fact": "Q2 2026 backlog rose to record $3.16B, up 19.6% year-over-year, reflecting strong momentum in both utility infrastructure and commercial-industrial electrical work for large-load facilities"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "open-internet-middleware-scramble",
+  "trend_slug": "local-news-collapse",
+  "name": "The Open-Internet Middleware Scramble",
+  "deck": "Ad-tech companies monetize fragmented publisher audiences but invest nothing in the reporting that fills them.",
+  "core_bet": "A layer of ad-tech and content-distribution infrastructure—Taboola, Outbrain/Teads, PubMatic, The Trade Desk—has built sophisticated systems to help independent publishers monetize fragmented attention without supporting the cost of original local reporting. These are extraction layers, not journalism investment. They capture yield from existing audience distribution but systematically avoid funding the human costs of news-gathering itself.",
+  "numbers": [
+    {
+      "stat": "$1.912 billion",
+      "label": "Taboola full-year 2025 revenue"
+    },
+    {
+      "stat": "600M+",
+      "label": "Taboola daily active users reached across publishers and OEMs"
+    },
+    {
+      "stat": "$1.300 billion",
+      "label": "Outbrain/Teads full-year 2025 revenue"
+    },
+    {
+      "stat": "10,000+",
+      "label": "Publishers connected to Outbrain/Teads platform"
+    },
+    {
+      "stat": "$282.9 million",
+      "label": "PubMatic full-year 2025 revenue"
+    },
+    {
+      "stat": "60%",
+      "label": "PubMatic Q2 2026 revenue from CTV, mobile app, and emerging (non-legacy) sources"
+    },
+    {
+      "stat": "$2.896 billion",
+      "label": "The Trade Desk full-year 2025 revenue"
+    },
+    {
+      "stat": "41%",
+      "label": "The Trade Desk adjusted EBITDA margin 2025"
+    }
+  ],
+  "mechanism": [
+    "The open-internet ad-tech stack is designed to extract value from publishers without investing in content. Taboola reaches over 600 million daily active users across publishers and OEMs, generating $1.912 billion in annual revenue by monetizing the decision about which content gets surfaced next. But Taboola does not fund a single journalist, does not conduct a single investigation, and does not pay for the cost of gathering news. It is pure distribution and monetization infrastructure. Outbrain/Teads connects 10,000+ publishers and 20,000+ advertisers, generating $1.3 billion in annual revenue by optimizing how advertising gets placed and measured across fragmented publisher inventory. PubMatic, with $282.9 million in 2025 revenue, operates at a 64% gross margin by routing programmatic demand across open-internet supply without funding the supply itself. The Trade Desk, at $2.896 billion in 2025 revenue and a 41% adjusted EBITDA margin, sits at the demand-side control layer, helping advertisers navigate fragmentation without bearing any responsibility for whether the underlying publisher stays solvent. These companies are not media piranhas; they are fundamental infrastructure providers. But the structure of their business models is profoundly extractive: they capture yield from existing audience without funding the cost of creating that audience.",
+    "The key distinction is that these ad-tech companies have solved the distribution half of the publisher equation but refused the investment half. A local newspaper that collapses because it cannot generate $5 million in annual revenue from digital advertising might have 2 million page views per month. Those page views generate real value—they are routed through Taboola's recommendation engine, sold to advertisers through PubMatic's auction system, and bought by brands through The Trade Desk's demand platform. That value is real. But not a single dollar of it goes to pay journalists or fund investigations. Taboola Q2 2026 adjusted EBITDA margin reached 28.8%, meaning the company kept nearly three dollars of every dollar of gross profit. Outbrain/Teads, despite recent pressure, reported adjusted EBITDA of $93.4 million on $1.3 billion revenue in 2025. PubMatic adjusted EBITDA margin hit 35% in Q4 2025. These are extraordinarily profitable businesses because they are pure infrastructure plays with low capital intensity and no content responsibility. The middleware companies are not choosing to avoid funding journalism; their business models systematically exclude journalism investment by design. They monetize the audience without building the content that draws the audience.",
+    "The false assumption in the ad-tech narrative is that middleware efficiency is good for publishers. The reasoning goes: publishers can use sophisticated demand-routing and yield-optimization tools to make more money from existing traffic. But this logic breaks down when the efficiency gains go to the infrastructure provider instead of the publisher. Taboola's ex-TAC gross profit—the actual amount publishers and platforms receive—was $713.5 million in 2025, but Taboola's operating leverage meant the company generated $215.5 million in adjusted EBITDA and $42.3 million in net income. The company grew ex-TAC profit by 11.8% in Q2 2026 while only growing reported revenue by 2.4%, which means the economics are getting better for Taboola while remaining flat for the publishers driving the traffic. This is the fundamental misdirection in the open-internet narrative. When Taboola, Outbrain, PubMatic, and The Trade Desk grew profitably through 2025 and 2026, they were capturing the spread between publisher value and advertiser value without bearing any responsibility for content quality, newsroom capacity, or investigative depth. They scaled efficiently by monetizing scarcity without funding production."
+  ],
+  "why_now": "Local news collapse accelerated in 2024-2026 because digital advertising economics fragmented faster than any single ad-tech platform could support a functional newsroom. The big players—Google and Facebook—kept most of the advertising dollars through search and social feeds. Publishers turned to ad-tech platforms to monetize what remained. But those platforms were designed for content monetization, not content funding. Simultaneously, ad-tech consolidation (Outbrain/Teads merger, Taboola expansion, PubMatic scaling into CTV) created infrastructure that was good enough to extract value but not good enough to pay for journalism. The result is a two-layer problem: small publishers do not have distribution anymore (that is owned by ad-tech platforms and social networks), and they do not have funding sources (because the ad-tech companies take the spread without funding content).",
+  "who_pays": "Local reporters and editors whose newsrooms have been hollowed out because the money generated by their work flows to ad-tech platforms instead of back to editorial costs. Regional newspapers that see their traffic monetized through Taboola and Outbrain but receive diminishing revenue because the platforms keep the spread. Small independent publishers that cannot afford to build their own direct monetization and must rely on ad-tech networks that extract value. Communities that lose local reporting capacity and find themselves functionally blind to what local government, courts, and businesses are doing.",
+  "who_profits": "Taboola, Outbrain/Teads, PubMatic, and The Trade Desk—the ad-tech companies that scaled efficiently by monetizing publisher audiences without funding publisher operations. These four companies generated nearly $6.5 billion in combined annual revenue in 2025-2026 by operating as pure infrastructure layers. Their margins are high precisely because they have no content responsibility. Advertisers benefit from access to fragmented publisher inventory without needing to build direct relationships. But the efficiency gains captured by these companies come at the cost of news organizations that can no longer fund journalism.",
+  "who_pays_burden": "The externalized cost is the structural defunding of local journalism. Publishers cannot pay for reporters if the money generated by their traffic goes to ad-tech platforms. Ad-tech companies become more profitable precisely as publisher margins get squeezed. This is not incidental; it is the core dynamic. As Taboola and Outbrain optimized yield extraction in 2025-2026, they were simultaneously making it harder for publishers to fund editorial operations. The burden falls on newsrooms that shrink, investigations that do not happen, and communities that lose accountability reporting.",
+  "who_profits": "Ad-tech infrastructure providers who capture spread between publisher inventory value and advertiser demand value without funding content production",
+  "tension": "The system is only stable if small publishers can survive with diminishing returns from ad-tech monetization or if they find alternative funding sources (subscriptions, membership, philanthropy, events). For many local and regional news organizations, neither alternative is available at scale. Taboola's own financial statements show the tension: ex-TAC gross profit grew 11.8% in Q2 2026 while reported revenue grew only 2.4%, which means publishers are getting squeezed harder as the platform optimizes for its own economics. Eventually, publishers shrink newsrooms to match available revenue, which degrades content quality, which reduces audience, which reduces advertiser demand. This is a downward spiral that benefits ad-tech platforms in the short term but destroys the audience base they monetize in the medium term.",
+  "surprising_part": "The most non-obvious twist is that ad-tech companies frame themselves as helping publishers survive when they are actually optimizing the conditions for publisher collapse. Taboola's messaging emphasizes 'performance advertising technology' and 'measurable outcomes,' which sounds like publisher enablement. But the measurable outcomes are for advertisers, not publishers. PubMatic's Q2 2026 highlight of 80+ fully autonomous campaigns and 4,000+ AI-powered deals sounds like innovation, but it is innovation in monetization efficiency, not journalism funding. The Trade Desk's rhetoric about 'fragmentation as opportunity' is accurate, but only from the advertiser perspective. For publishers, fragmentation is a crisis that ad-tech platforms then monetize without helping solve. The companies are not deceptive about this—they are publicly traded and their business models are transparent. But the cultural narrative has inverted: infrastructure companies are being praised for 'helping publishers navigate fragmentation' when they are actually profiting from fragmentation while publishers collapse.",
+  "one_sentence": "Ad-tech infrastructure companies extract yield from publisher audiences without funding the reporting that draws those audiences, making local news collapse more profitable for the infrastructure layer.",
+  "societal_stake": "This pattern determines whether local accountability reporting survives or disappears. Taboola, Outbrain, PubMatic, and The Trade Desk are not evil; they are just following their incentives. But their incentives are structurally misaligned with journalism funding. A reporter investigating local government corruption used to be funded by a newspaper's advertising spread. Now that reporter is laid off, the investigation does not happen, and the ad-tech platform monetizes the remaining traffic from lighter content. Communities lose the institutional capacity to know what is happening in their own local systems. This is not a technology problem or a business model problem; it is a structural economics problem where infrastructure companies have taken control of distribution and monetization without accepting responsibility for content quality or continuity.",
+  "evidence": [
+    {
+      "company": "Taboola.com Ltd.",
+      "fact": "Full-year 2025 revenue reached $1.912 billion; ex-TAC Gross Profit reached $713.5 million; but Taboola kept $215.5 million in adjusted EBITDA, meaning the company extracted significant spread from publisher traffic without funding publisher operations"
+    },
+    {
+      "company": "Taboola.com Ltd.",
+      "fact": "Q2 2026 ex-TAC Gross Profit grew 11.8% while reported revenue grew only 2.4%, showing the company is extracting greater value from publisher inventory even as publisher monetization opportunities narrow"
+    },
+    {
+      "company": "Taboola.com Ltd.",
+      "fact": "Company reaches over 600M daily active users across publishers and OEMs; this represents the audience scale that could fund journalism but does not because Taboola monetizes distribution without funding content"
+    },
+    {
+      "company": "Outbrain Inc. / Teads Holding Co.",
+      "fact": "Full-year 2025 revenue was $1.300 billion with ex-TAC gross profit of $529.7 million; despite connection to 10,000+ publishers, company assumes zero responsibility for publisher newsroom funding or content investment"
+    },
+    {
+      "company": "Outbrain Inc. / Teads Holding Co.",
+      "fact": "Q2 2026 CTV revenue grew 67% year-over-year and CTV represented 13% of Q2 revenue; company is successfully capturing premium yield from fragmented inventory while publisher revenue remains under pressure"
+    },
+    {
+      "company": "PubMatic, Inc.",
+      "fact": "Full-year 2025 revenue was $282.9 million with 64% gross margin; Q2 2026 adjusted EBITDA margin reached 25%, showing consistent operational profitability derived from routing publisher inventory without funding publisher content"
+    },
+    {
+      "company": "PubMatic, Inc.",
+      "fact": "By Q2 2026, CTV, mobile app, and emerging revenues represented 60% of total revenue, roughly double the level of three years earlier; this shows ad-tech successfully capturing premium yield from fragmented surfaces while publishers struggle to fund basic operations"
+    },
+    {
+      "company": "The Trade Desk, Inc.",
+      "fact": "Full-year 2025 revenue reached $2.896 billion with $1.196 billion adjusted EBITDA and 41% EBITDA margin; despite zero content responsibility, company maintains higher margins than most publishers"
+    },
+    {
+      "company": "The Trade Desk, Inc.",
+      "fact": "Customer retention remained above 95% for 12th consecutive year, showing advertiser lock-in and platform stickiness; but this same lock-in creates no corresponding obligation to fund publisher newsroom sustainability"
+    }
+  ]
+}

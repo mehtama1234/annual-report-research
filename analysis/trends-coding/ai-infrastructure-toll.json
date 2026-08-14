@@ -1,0 +1,94 @@
+{
+  "slug": "ai-infrastructure-toll",
+  "name": "The AI Infrastructure Toll",
+  "overview_deck": "Every AI model requires a physical supply chain — power, concrete, aggregates, copper, skilled labor, backup generation — and the companies that control irreplaceable local inputs to that supply chain are collecting tolls the hyperscalers cannot route around.",
+  "groups": [
+    {
+      "group_title": "How the Toll Booth Got Built",
+      "angles": [
+        {
+          "sub_slug": "origin-inflection",
+          "title": "From Cyclical Construction to Structural Backlog",
+          "angle_type": "origin",
+          "focus": "Until 2023, specialty construction and aggregates were classic cyclical businesses priced off housing starts and public-works appropriations. The simultaneous multi-year capex commitments of the major hyperscalers in 2024-2026 created a demand floor that has nothing to do with interest rates or residential starts — turning backlog from a trailing indicator into a multi-year visibility asset. This page traces how the AI buildout crystallized into a durable structural demand shift that rewrote contractor economics.",
+          "companies": ["Comfort Systems USA", "Sterling Infrastructure", "Granite Construction", "Martin Marietta Materials"],
+          "key_question": "What changed between 2022 and 2026 that turned specialty contractors from cyclical operators into structural beneficiaries with record multi-year backlogs?"
+        },
+        {
+          "sub_slug": "who-profits-specialty-contractors",
+          "title": "The Execution Premium: Why Only a Few Contractors Collect the Toll",
+          "angle_type": "who-profits",
+          "focus": "Not every contractor benefits equally. Hyperscalers award large data-center mechanical, electrical, and site-work contracts to a short list of proven execution platforms because mission-critical timelines and zero-defect standards disqualify generalist and regional contractors. This page maps the execution moat — depth of licensed crews, proven project management, and existing hyperscaler relationships — that concentrates value at Comfort Systems, EMCOR, MYR Group, and Quanta Services while keeping the door closed to most of the industry.",
+          "companies": ["Comfort Systems USA", "EMCOR Group", "MYR Group", "Quanta Services"],
+          "key_question": "Why are execution depth and hyperscaler relationships a durable moat in specialty contracting, and which companies control that access?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Sub-Dynamics Inside the Toll",
+      "angles": [
+        {
+          "sub_slug": "quarry-chokehold",
+          "title": "The Quarry Chokehold: Local Stone, National Power",
+          "angle_type": "sub-pattern",
+          "focus": "Aggregates — crushed stone, sand, gravel — cannot be economically trucked more than 50 miles, so whoever owns the permitted quarry closest to a data-center construction corridor has a local pricing monopoly that no hyperscaler procurement team can negotiate away. This page examines how AI site-selection decisions are now routing capital through the aggregates layer, why reserve position and permitting depth translate directly into pricing power, and how Vulcan, Martin Marietta, and Knife River are collecting an involuntary toll on every cubic yard of the buildout.",
+          "companies": ["Martin Marietta Materials", "Knife River Corporation", "Vulcan Materials Company", "Commercial Metals Company"],
+          "key_question": "How does local aggregates scarcity create an unbypassable pricing toll on AI infrastructure construction, and which reserve holders benefit most?"
+        },
+        {
+          "sub_slug": "site-preparation-electrical",
+          "title": "Dirt, Trenches, and High Voltage: The Site-Prep Tier",
+          "angle_type": "sub-pattern",
+          "focus": "Before a server rack is installed, a data-center campus requires grading, site utilities, electrical conduit, substation tie-ins, and precision civil work — a layer of the stack that Sterling Infrastructure has deliberately repositioned to dominate. Mission-critical projects now represent 92% of Sterling's E-Infrastructure backlog, with $7B+ of combined pipeline visibility. This page examines how the site-preparation and electrical-integration tier has become a distinct, high-margin sub-industry within the broader AI construction story.",
+          "companies": ["Sterling Infrastructure", "Primoris Services Corporation", "Dycom Industries", "MYR Group"],
+          "key_question": "What is the site-preparation and electrical-integration layer, why is it a margin premium business, and who controls it?"
+        },
+        {
+          "sub_slug": "backup-power-grid-gap",
+          "title": "The Grid Gap: Backup Power as Permanent Infrastructure",
+          "angle_type": "sub-pattern",
+          "focus": "AI data centers demand uninterrupted power at megawatt scale, but grid capacity cannot keep pace — Alliant Energy projects a 60% load increase by 2031. The result is that large-megawatt backup generation has shifted from optional redundancy to de facto permanent infrastructure, and Generac's two hyperscaler global supply agreements plus $1.6B data-center backlog mark a structural transition from residential standby to enterprise-critical power. This page traces the grid scarcity mechanism and how it is creating a durable C&I market for backup generation.",
+          "companies": ["Generac Holdings", "Alliant Energy", "Digital Realty", "Quanta Services"],
+          "key_question": "Why is grid scarcity converting backup power from a commodity into a permanent infrastructure layer, and who captures that shift?"
+        },
+        {
+          "sub_slug": "component-substrate-layer",
+          "title": "The Board Under the Server: PCBs and the Physical Compute Stack",
+          "angle_type": "sub-pattern",
+          "focus": "AI demand reaches the physical economy not only through construction but through hardware: the printed circuit boards, substrates, and RF components that sit inside every networking switch, accelerator card, and server chassis. TTM Technologies' data-center and networking segment grew 91% YoY to 40% of Q2 2026 sales, and the company is expanding into Europe to relieve capacity constraints. This page examines the component manufacturing layer as a distinct toll point that sits upstream of hyperscaler deployment timelines.",
+          "companies": ["TTM Technologies", "Broadcom", "Cisco Systems", "Seagate Technology"],
+          "key_question": "How does the AI compute buildout translate into manufacturing demand for PCBs and interconnect components, and why is capacity the binding constraint?"
+        }
+      ]
+    },
+    {
+      "group_title": "Costs, Ceilings, and Fragility",
+      "angles": [
+        {
+          "sub_slug": "labor-structural-ceiling",
+          "title": "The Labor Ceiling: When Demand Is Not the Bottleneck",
+          "angle_type": "who-pays",
+          "focus": "Every major specialty contractor in this trend — Comfort Systems, EMCOR, Quanta — names skilled-labor depth, not customer demand, as the primary growth constraint. Comfort Systems' Q2 2026 backlog of $14.06B means nothing if there are not enough licensed HVAC technicians, electricians, and pipe fitters to burn it. This page argues that the AI buildout is creating a secondary labor crisis in the skilled trades, where workers are the scarcest input, their wages are rising, and training pipelines are measured in years not quarters.",
+          "companies": ["Comfort Systems USA", "EMCOR Group", "Primoris Services Corporation", "MYR Group"],
+          "key_question": "How does the labor scarcity ceiling cap the physical AI buildout, who bears that cost, and how long will skilled-trades supply constraints persist?"
+        },
+        {
+          "sub_slug": "community-power-burden",
+          "title": "Communities on the Hook: Who Really Pays for AI's Power Appetite",
+          "angle_type": "who-pays",
+          "focus": "The power infrastructure required by AI data centers is not free — it is financed through regulated utility rate bases, meaning every residential and commercial electricity customer in AI-hosting regions helps pay for grid expansion they did not choose. Digital Realty codes already show power scarcity limiting data-center siting; Alliant Energy's 3.4GW of contracted data-center demand is being built into future rate increases. This page traces how the financial and environmental externalities of the AI buildout land on utility customers, water users, and host communities.",
+          "companies": ["Alliant Energy", "Digital Realty", "Commercial Metals Company", "Knife River Corporation"],
+          "key_question": "How are the infrastructure costs of AI being distributed across utility ratepayers and communities, and what is the scale of that subsidy?"
+        },
+        {
+          "sub_slug": "tension-overcapacity-stranding",
+          "title": "What Breaks the Toll: Overcapacity, Grid Failure, and Stranded Build",
+          "angle_type": "tension",
+          "focus": "The entire physical toll chain rests on two assumptions: hyperscalers keep spending and the grid keeps expanding. If AI demand softens, if large-language model efficiency gains reduce compute intensity, or if grid buildout stalls before 2031 demand projections are met, contractors with multi-year backlogs face a sudden burn-rate collapse and aggregates operators face stranded volume commitments. This page examines the fragility case — the scenarios under which today's record backlogs become tomorrow's stranded capacity, and which companies are most exposed.",
+          "companies": ["Sterling Infrastructure", "Generac Holdings", "Martin Marietta Materials", "TTM Technologies"],
+          "key_question": "What are the scenarios under which the AI infrastructure toll collapses, and which companies in the physical stack are most exposed to a demand reversal?"
+        }
+      ]
+    }
+  ]
+}

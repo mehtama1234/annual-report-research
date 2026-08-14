@@ -1,0 +1,84 @@
+{
+  "slug": "backup-generation-platform",
+  "trend_slug": "outage-anxiety-economy",
+  "name": "Beyond the Generator: Cummins and the Power-Systems Platform",
+  "deck": "Backup power is evolving from one-time standby equipment into a platform of natural-gas microgrids, service networks, and recurring reliability contracts—driven by data-center demand and grid stress that make continuous electricity non-negotiable.",
+  "core_bet": "The backup-generation market is no longer about selling a generator and walking away. Cummins and Generac are moving upmarket from standby equipment into power-systems platforms, microgrids, and service-dependent installed bases. Cummins Power Systems revenue rose 19% in both Q1 and Q2 2026 on data-center demand; the company signed a natural-gas microgrid agreement with Circe Energy for an HPC data center in Texas, marking a shift from backup-only to always-on distributed generation. Aftermarket and service revenue is becoming the durable layer underneath hardware sales, turning episodic equipment sales into recurring relationships.",
+  "numbers": [
+    {
+      "stat": "19%",
+      "label": "Cummins Power Systems revenue growth in Q1 2026 (data-center driven)"
+    },
+    {
+      "stat": "19%",
+      "label": "Cummins Power Systems revenue growth in Q2 2026 (data-center driven)"
+    },
+    {
+      "stat": "$9.5B",
+      "label": "Cummins record Q2 2026 revenue (+9% year-over-year)"
+    },
+    {
+      "stat": "29%",
+      "label": "Generac C&I (Commercial & Industrial) external net sales growth in Q2 2026"
+    },
+    {
+      "stat": "$1.6B",
+      "label": "Generac data-center backlog excluding additional committed volumes (Q2 2026)"
+    },
+    {
+      "stat": "28%",
+      "label": "Generac C&I external net sales growth in Q1 2026"
+    },
+    {
+      "stat": "$1.17B",
+      "label": "Generac Q2 2026 net sales (+11% year-over-year)"
+    }
+  ],
+  "mechanism": [
+    "For decades, the backup-generation business was transactional: a homeowner or business bought a generator for a few thousand dollars, it sat dormant for years, and when a storm hit, it ran. Generac built an enormous residential business on exactly this model—53.9% of 2025 sales from residential products. Cummins treated power generation as an industrial side business. But this model is collapsing because outage expectations have changed. Customers no longer accept episodic power loss; they expect reliability as a baseline. More importantly, the economics of power reliability have shifted. A data-center operator losing power for even 15 minutes loses millions in compute revenue. The willingness-to-pay for certainty is no longer $10K for a residential generator; it is millions of dollars for systems that guarantee uptime.",
+    "Cummins Power Systems revenue growing 19% in both Q1 and Q2 2026 (while the core Engine and Components segment flat to down) shows the shift in full force. But the deeper move is the natural-gas microgrid agreement with Circe Energy for an HPC data center in Texas. This is not a generator sale; it is a distributed generation platform with interconnection to the grid, always-on operation (not standby-only), optimization controls, and service continuity. Cummins is not selling equipment; it is selling a power-reliability layer that sits between the data center and the unreliable grid. The equipment (generator set, controls, interconnection) is just the foundation. The service model, the monitoring, the optimization, and the customer relationship are the actual business. This is why Cummins is guiding full-year 2026 revenue growth at 10-13% despite truck-cycle weakness in Engine—the power-systems platform is carrying the company.",
+    "Generac's trajectory shows the same shift from a different angle. Residential sales (53.9% of 2025 sales) are flat-to-down; C&I sales rose 29% in Q2 2026 and 28% in Q1 2026. The company signed a global supply agreement with a leading hyperscale operator in Q2 2026, followed by a second hyperscale agreement on June 24, 2026, and expanded data-center backlog to $1.6B. But here is the platform shift: Generac is not just supplying generator sets. The company is integrating enclosure packaging, controls systems, monitoring software (Mobile Link), grid-services participation capabilities, and support-network expansion. The tariff refund in Q2 2026 ($71M of pretax benefit) got attention, but the real story is that C&I margins expanded to 24.8% of net sales—showing that large-megawatt systems command substantially higher margins than residential backup. The business is repricingitself from commodity equipment toward solution platforms.",
+    "The installed-base and service layer is the hidden driver. Cummins' Distribution segment (which includes parts, maintenance, and field support across the installed base) posted record revenue in 2025, rising 7-9% in each quarter of 2026. Generac's shift toward monitoring, grid-services enrollment, and software-attached equipment means the customer relationship no longer ends at delivery. A data-center customer with a $5M+ backup generation system and microcontroller integration is going to need ongoing support, optimization, software updates, spare parts, and service escalation. That recurring revenue stream is much higher-margin and longer-lived than the initial equipment sale. Cummins is already positioned to monetize this through its global distribution network; Generac is building capacity through acquisitions (Allmand, Enercon) and vertical integration (Belvidere facility expansion)."
+  ],
+  "why_now": "The backup-generation-platform shift is accelerating because three supply-and-demand conditions converged. First: AI and hyperscale data centers are consolidating around grid-stressed corridors (Texas, California, Arizona) and explicitly requiring power certainty. The capital commitment to a data center ($10B+) is large enough that $500M for backup generation and microgrids is trivial if it guarantees uptime. Hyperscalers are now running RFQs for 100+ megawatt generation platforms, not 10 megawatt. Second: grid reliability is degrading faster than grid investment can repair. Peak demand is rising (from AC loads and AI compute), transmission bottlenecks are worsening, and distributed generation looks economically attractive to both utility operators and large end-users. Third: natural gas pricing and availability have stabilized, making fast-start gas generation competitive with battery-only strategies for mission-critical loads. Cummins' microgrid agreements and Generac's capacity expansion are responses to demand that was already forming in late 2025 and accelerating through 2026.",
+  "who_pays": "Data-center operators and hyperscalers absorb the cost of backup generation and microgrids through higher capex and opex; some of this gets passed to consumers through higher cloud and AI service pricing. Industrial customers and smaller commercial operators who need standby power but face higher pricing as Generac and Cummins reprice from commodity to platform economics. Residential customers experience less impact because residential backup generation remains a lower priority for these companies (Generac C&I now growing faster than residential). Grid operators and utility ratepayers who are competing against distributed generation for customer loyalty and may face higher transmission costs if distributed systems bypass traditional utility infrastructure.",
+  "who_profits": "Cummins and Generac, through higher ASPs (average selling prices), service revenue, and margin expansion on large-megawatt systems. Hyperscalers benefit from certainty and redundancy, though they pay for it. Service-network operators and contractors who can integrate, install, and maintain complex backup-power systems and microgrids capture implementation revenue. Software and controls vendors who can optimize distributed generation and grid integration are also benefiting.",
+  "tension": "The backup-generation-platform model creates two tensions. First: scaling from episodic equipment sales to recurring service relationships requires different capital structures, operational disciplines, and customer relationships. Cummins and Generac have to expand field capacity, build software platforms, and hire support staff simultaneously while still funding the core hardware business. Second: the model is implicitly betting on continued grid stress and the failure of grid investment to catch up to demand growth. If governments massively invest in transmission, renewable capacity, and grid modernization, the premium that customers pay for backup certainty erodes. The companies are profitable only as long as grid reliability remains visibly stressed. Third, the model creates long-term lock-in and customer dependence—customers become deeply embedded with monitoring, controls, and service relationships that are expensive to exit. This raises potential regulatory scrutiny around fairness of service pricing and terms.",
+  "surprising_part": "The most striking aspect is that Cummins and Generac are not becoming software companies or moving into energy-only markets. They are deepening their hardware advantage by adding software, service, and platform layering on top. Cummins is using its existing distribution network and power-systems expertise to offer microgrids as a service, not a sale. Generac is vertically integrating backward into enclosure and control manufacturing, not forward into IT or cloud. These are hardware-defined businesses extending upmarket into software and recurring service, not pivoting away from their core. This matters because it shows how physical infrastructure businesses capture digital-age value: they layer services and software onto durable hardware assets rather than trying to compete with pure software businesses on their own terms.",
+  "one_sentence": "Backup-generation equipment is becoming a power-systems platform as data-center demand and grid stress make reliability a mission-critical service rather than an episodic purchase.",
+  "societal_stake": "This is about who controls electricity continuity and what they charge for it. When backup power was episodic (a few storms per year), Generac sold commodity equipment to homeowners and businesses. Now that electricity continuity is a business necessity for AI clusters and critical infrastructure, Generac and Cummins are pricing reliability as a platform service with recurring revenue. Consumers will pay higher electricity costs; cloud services will be more expensive; and the companies that control backup-generation platforms will have enormous leverage over industrial and digital infrastructure. This also shows how the energy transition is being monetized differently than expected: instead of replacing natural gas with renewables, infrastructure companies are layering natural gas backup and distributed generation on top of stressed grids, extending fossil-fuel relevance and locking in higher energy costs.",
+  "evidence": [
+    {
+      "company": "Cummins Inc.",
+      "fact": "Power Systems revenue rose 19% in Q1 2026 and 19% in Q2 2026, primarily driven by data-center-related power-generation demand in United States, China, and Asia Pacific"
+    },
+    {
+      "company": "Cummins Inc.",
+      "fact": "Q2 2026 record revenue of $9.5B with net income $932M; Power Systems sales $2.3B within record Q2 results; management raised full-year 2026 guidance to 10-13% revenue growth and 18.0-18.5% EBITDA"
+    },
+    {
+      "company": "Cummins Inc.",
+      "fact": "Signed natural-gas generator-set and microgrid agreement with Circe Energy for HPC data center in Texas; represents shift from backup-only standby equipment to always-on distributed generation platform"
+    },
+    {
+      "company": "Cummins Inc.",
+      "fact": "Distribution segment posted record revenue in 2025 and continued strong growth in 2026 (Q1 +7%, Q2 +9%), driven by demand for power-generation products and aftermarket support services"
+    },
+    {
+      "company": "Generac Holdings Inc.",
+      "fact": "C&I (Commercial & Industrial) external net sales rose 29% in Q2 2026 and 28% in Q1 2026, far outpacing residential growth; data-center momentum described as accelerating across both hyperscale agreements and backlog expansion"
+    },
+    {
+      "company": "Generac Holdings Inc.",
+      "fact": "Expanded data-center backlog to approximately $1.6B excluding additional committed volumes by Q2 2026; signed first global supply agreement with leading hyperscale operator in Q2 2026, followed by second hyperscale agreement on June 24, 2026"
+    },
+    {
+      "company": "Generac Holdings Inc.",
+      "fact": "Q2 2026 C&I net sales $556M with adjusted EBITDA margin of 24.8% for the quarter, reflecting premium pricing on large-megawatt backup-power systems versus residential equipment"
+    },
+    {
+      "company": "Generac Holdings Inc.",
+      "fact": "Management stated goal to double C&I product sales in the years ahead and is dramatically increasing capacity for large-megawatt generators; integrating Allmand and Enercon acquisitions, expanding Belvidere facility"
+    }
+  ]
+}

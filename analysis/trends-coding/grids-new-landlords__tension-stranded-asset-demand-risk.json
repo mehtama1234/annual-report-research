@@ -1,0 +1,87 @@
+{
+  "slug": "tension-stranded-asset-demand-risk",
+  "trend_slug": "grids-new-landlords",
+  "name": "The Stranded Asset Trap: What Breaks If AI Demand Disappoints",
+  "deck": "Infrastructure operators have committed tens of billions in capex betting that AI data-center load will materialize for decades. If hyperscaler growth slows, model efficiency improves, or policy shifts, that committed capex becomes stranded — absorbed by equity holders and ratepayers rather than the customers who signed the contracts.",
+  "core_bet": "Every utility capex plan and midstream EBITDA guidance is premised on contracted AI data-center demand materializing for decades. Energy Transfer suspended Lake Charles LNG in favor of natural-gas infrastructure projects, betting on sustained demand. Williams is committing $7B of capital to power-innovation infrastructure. Alliant expects load to climb 60% by 2031 based on signed customer contracts. If that demand thesis breaks — through model efficiency improvements, hyperscaler pullback, or regulatory disruption — the capex already deployed cannot be recovered from ratepayers the same way.",
+  "numbers": [
+    {
+      "stat": "$15.984B",
+      "label": "Energy Transfer adjusted EBITDA, fiscal 2025"
+    },
+    {
+      "stat": "$18.8B-$19.1B",
+      "label": "Energy Transfer full-year 2026 adjusted-EBITDA guidance (raised)"
+    },
+    {
+      "stat": "$5.6B-$5.9B",
+      "label": "Energy Transfer 2026 growth capital expenditure guidance"
+    },
+    {
+      "stat": "$7.75B",
+      "label": "Williams adjusted EBITDA, fiscal 2025 (record)"
+    },
+    {
+      "stat": "$8.4B",
+      "label": "Williams 2026 adjusted-EBITDA guidance (midpoint raised $200M)"
+    },
+    {
+      "stat": "$7B",
+      "label": "Williams power-innovation capital in execution"
+    },
+    {
+      "stat": "60%",
+      "label": "Alliant expected load growth by 2031 from 2025 levels"
+    },
+    {
+      "stat": "3 GW",
+      "label": "Alliant contracted data-center demand as of Q1 2026"
+    }
+  ],
+  "mechanism": [
+    "Infrastructure operators have built a business model on the assumption that AI data-center load is durable, rising, and will underwrite capital spending for decades. Alliant Energy signed 3 GW of contracted data-center load as of Q1 2026, with management expecting this to drive a 60% increase in peak-load demand by 2031 from 2025 levels. That is not discretionary headroom — that is a capital allocation committed to serve that load. Energy Transfer suspended Lake Charles LNG (a headline $13B+ project) and redeployed capital toward natural-gas infrastructure projects that would serve the same power-generation and industrial-demand buildout. Williams is committing $7B to power-innovation infrastructure and Blackstone joint ventures, explicitly betting that data-center power and industrial demand will anchor earnings growth.",
+    "The stranding risk emerges when any of three things happen. First, if AI model efficiency improves faster than data-center deployment accelerates, the compute intensity per megawatt of demand falls — meaning hyperscalers need less electricity per unit of computation than the contracts assume. Second, if hyperscaler capex slows due to competition, model saturation, or economics shifting, the demand growth simply doesn't materialize. Third, if regulatory pressure builds around grid reliability, carbon footprints, or water usage, mandates could force data-center operators to shift to other regions or constrain buildout. When that happens, utilities and midstream operators are left holding capex that was justified by demand assumptions that didn't materialize.",
+    "The specific mechanism of stranding is different for regulated utilities versus midstream. A regulated utility like Alliant can theoretically pass through stranded capex to ratepayers in rate cases — but that requires regulatory approval, assumes the utility can prove the capex was prudent even if demand didn't materialize, and almost always triggers consumer backlash. A midstream operator like Energy Transfer faces a harder stranding scenario: if NGL export infrastructure or natural-gas takeaway projects cannot be fully subscribed because demand faltered, the operator absorbs the loss directly. There is no rate-case mechanism. The capex is simply underwater. This explains why midstream operators are simultaneously raising capex guidance (betting aggressively on demand) while managing leverage carefully (hedging against that same demand thesis breaking)."
+  ],
+  "why_now": "The stranding tension is acute right now because infrastructure operators are in the middle of multi-year capex cycles, capital has been authorized and committed, and the business-case assumptions are freshly embedded in guidance and analyst models. If demand falters in 2027-2028, the committed capital cannot be easily reversed. Williams is already executing on a $7B power-innovation capital program; Alliant is building to serve contracted load; Energy Transfer is routing capital away from LNG toward natural-gas infrastructure. These are not hypothetical decisions; they are real capex burn. The other timing factor is that the AI demand thesis is still being stress-tested by the market. If hyperscaler competition intensifies, if efficiency gains surprise to the upside, or if regulatory pressure mounts faster than expected, the demand assumptions could begin to look optimistic within 18-24 months.",
+  "who_pays": "Ratepayers and equity holders. For regulated utilities, a slowdown in demand growth means either lower revenue (if the utility cannot pass capex through rate cases) or higher rates (if the utility attempts to recover stranded capex from customers). Either way, the burden of capital misallocation falls on someone without the ability to hedge. For midstream operators, equity holders absorb the loss directly through write-downs, lower cash generation, and reduced distributions. If an NGL export dock or natural-gas pipeline cannot be fully utilized, the per-unit economics deteriorate across the entire system, affecting returns for all projects. The ultimate payee is either the ratepayer or the shareholder, depending on the company structure.",
+  "who_profits": "In the bull-case scenario (demand materializes), midstream and utility operators capture enormous value. Energy Transfer's guidance raise for 2026 EBITDA and Williams' $200M midpoint raise both reflect the upside case. If AI demand materializes and utilization stays high, cash generation will exceed expectations, distributions will exceed guidance, and equity holders will see outsized returns. The bet is asymmetrically profitable if right and catastrophic if wrong — which is why these companies are simultaneously raising capex aggressively while maintaining conservative leverage targets.",
+  "tension": "The fragility is multi-layered. First, the demand thesis is model-dependent: it assumes AI compute demand continues to grow, hyperscalers continue to invest, and power intensity per compute unit doesn't improve dramatically. A breakthrough in AI efficiency (fewer chips needed for the same output) breaks the entire assumption. Second, the regulatory risk is rising: if state or federal policy shifts toward carbon-constrained grids or water-scarcity protection, data-center buildout could face new constraints that force siting shifts or demand destruction. Third, the competitive risk: if GPU competition or cloud-market oversupply reduces the return-on-investment for hyperscaler capex, capex cycles could compress faster than infrastructure operators can absorb. Fourth, the structural risk: if the power-generation mix itself shifts (e.g., renewables become so cheap that dispatchable-power premiums evaporate), the entire economics of peaker plants and reliability infrastructure could reprice downward.",
+  "surprising_part": "The non-obvious insight is that infrastructure operators are not purely hedged by passing costs to customers or suppliers. A regulated utility can ask the regulator for a rate increase, but only if the investment was prudent and necessary — and if demand falters, proving prudence becomes harder. A midstream operator has zero recourse: if a pipeline or export dock isn't subscribed, the asset sits idle and capital is wasted. This means infrastructure operators are actually taking massive directional bets on AI demand, not the hedged toll-booth bets the market often assumes. The fact that they are raising capex guidance despite these risks suggests either genuine confidence in demand sustainability or a commitment to a strategy that cannot easily be reversed.",
+  "one_sentence": "Infrastructure operators have committed billions to serve AI data-center demand that could be demolished by efficiency gains or regulatory shifts, leaving capex stranded and capital destroyed.",
+  "societal_stake": "If AI-demand assumptions are wrong, the stranding will either transfer to ratepayers (through higher utility rates) or destroy shareholder value in midstream operators. In the regulated case, lower-income ratepayers would see electric bill increases to pay for capacity that isn't used. In the equity-destruction case, pension funds, insurance companies, and retail investors holding infrastructure stocks will absorb losses. Either way, capital will have been misallocated — committed to infrastructure that couldn't be justified by actual demand — and that capital won't be available for other productive investments.",
+  "evidence": [
+    {
+      "company": "Energy Transfer",
+      "fact": "Suspended Lake Charles LNG development in December 2025 to redirect capital toward natural-gas infrastructure projects with better risk-return profiles"
+    },
+    {
+      "company": "Energy Transfer",
+      "fact": "FY2025 adjusted EBITDA $15.984B; Q2 2026 guidance raised to $18.8B-$19.1B with 2026 growth capex $5.6B-$5.9B"
+    },
+    {
+      "company": "Energy Transfer",
+      "fact": "Q2 2026: Announced Nederland export expansion (240K bpd ethane + 55K bpd LPG), Lone Star Express upgrades (90K+ bpd Permian NGL), and 300K bpd y-grade agreements extending into 2030s"
+    },
+    {
+      "company": "Williams",
+      "fact": "FY2025 adjusted EBITDA $7.75B (record); 2026 guidance raised $200M to $8.4B midpoint; power-innovation capital $7B in execution"
+    },
+    {
+      "company": "Williams",
+      "fact": "Q2 2026: Completed Socrates phase one, progressed Transco projects (Leidy Access, Garden Connector), Momentum Midstream acquisition strengthening Haynesville position"
+    },
+    {
+      "company": "Alliant Energy",
+      "fact": "Contracted data-center demand reached 3 GW as of Q1 2026, with expected load growth of 60% by 2031 from 2025 levels"
+    },
+    {
+      "company": "Alliant Energy",
+      "fact": "Q1 2026: Guidance of $3.36-$3.46 ongoing EPS for 2026, 5-7%+ long-term EPS growth, $13.4B capital plan for 2026-2029"
+    },
+    {
+      "company": "Enbridge",
+      "fact": "Sanctioned $1.0B Line 5 Relocation project in Wisconsin explicitly framed around secure/reliable energy delivery; secured backlog of C$39-40B as of 2026"
+    }
+  ]
+}

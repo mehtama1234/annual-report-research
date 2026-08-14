@@ -1,0 +1,94 @@
+{
+  "slug": "local-news-collapse",
+  "name": "The Local News Collapse",
+  "overview_deck": "The business model that funded local watchdog journalism for 150 years has permanently collapsed, and the platforms that absorbed the advertising dollars are not paying to rebuild what they displaced.",
+  "groups": [
+    {
+      "group_title": "How We Got Here",
+      "angles": [
+        {
+          "sub_slug": "the-150-year-bargain-breaks",
+          "title": "The 150-Year Bargain Breaks",
+          "angle_type": "origin",
+          "focus": "Local newspapers were never really in the content business — they were in the classified and display advertising business, and journalism was the cost of acquiring that captive local audience. When Google and Meta offered advertisers better targeting at lower cost, the bargain that had financed local reporting since the 1870s dissolved inside a decade.",
+          "companies": ["Gannett", "The New York Times Company", "iHeartMedia, Inc.", "Meta Platforms, Inc."],
+          "key_question": "Why did the local advertising model collapse so fast, and why is there no structural replacement in sight?"
+        },
+        {
+          "sub_slug": "retransmission-as-last-moat",
+          "title": "The Retransmission Fee as the Last Moat",
+          "angle_type": "sub-pattern",
+          "focus": "Local broadcast television found a revenue floor that print never had: retransmission fees paid by cable and satellite operators to carry local channels. Nexstar's distribution revenue ($2.924B) now exceeds its advertising revenue ($1.959B), revealing a business that survives not because viewers value local journalism but because the cable bundle still requires local affiliates as a regulatory and contractual matter.",
+          "companies": ["Nexstar Media Group, Inc.", "Fox Corporation", "EchoStar Corporation", "Comcast Corporation"],
+          "key_question": "How long can retransmission fees prop up local broadcast newsrooms as MVPD households shrink?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Sub-Dynamics Inside the Collapse",
+      "angles": [
+        {
+          "sub_slug": "print-to-digital-race-against-decay",
+          "title": "The Race Against Decay: Print to Digital",
+          "angle_type": "sub-pattern",
+          "focus": "Gannett is the clearest case study in whether a scaled local-newspaper operator can convert audience trust into digital subscriptions and SMB marketing services fast enough to outrun the print revenue base still funding the newsrooms. With $2.302B in FY2025 revenue declining ~8% year-over-year and digital now 47% of the mix, the transition is real but the finish line keeps moving.",
+          "companies": ["Gannett", "iHeartMedia, Inc.", "Taboola.com Ltd.", "Outbrain Inc. / Teads Holding Co."],
+          "key_question": "Can a legacy local-news operator reach digital escape velocity before the print base funds too little to sustain a real newsroom?"
+        },
+        {
+          "sub_slug": "national-scale-works-local-scale-doesnt",
+          "title": "National Scale Works. Local Scale Doesn't.",
+          "angle_type": "sub-pattern",
+          "focus": "The New York Times has demonstrated that the subscriber-supported journalism model can be highly profitable — $2.825B in FY2025 revenue, 12.78M subscribers, $550M in free cash flow — but only because it can amortize journalism costs across a global English-speaking audience. The exact same subscription model is structurally unavailable to a paper covering a mid-sized city's zoning board or school budget.",
+          "companies": ["The New York Times Company", "Gannett", "Nexstar Media Group, Inc."],
+          "key_question": "Why does the NYT subscription model prove subscriber willingness to pay for journalism while simultaneously proving nothing for local journalism?"
+        },
+        {
+          "sub_slug": "open-internet-middleware-scramble",
+          "title": "The Open-Internet Middleware Scramble",
+          "angle_type": "sub-pattern",
+          "focus": "A layer of ad-tech companies — Taboola, Outbrain/Teads, The Trade Desk, PubMatic — has built infrastructure that helps independent publishers monetize fragmented attention against the walled gardens. But this middleware captures yield from existing audience without funding the cost of original local reporting: it is an extraction layer, not a replacement for journalism investment.",
+          "companies": ["Taboola.com Ltd.", "Outbrain Inc. / Teads Holding Co.", "PubMatic, Inc.", "The Trade Desk, Inc."],
+          "key_question": "Does the open-internet ad stack help independent local publishers survive, or does it just make their decline more efficient?"
+        }
+      ]
+    },
+    {
+      "group_title": "Who Wins, Who Pays, What Breaks",
+      "angles": [
+        {
+          "sub_slug": "platform-advertising-capture",
+          "title": "Who Captured the Money: Platform Advertising at Scale",
+          "angle_type": "who-profits",
+          "focus": "Meta Platforms, with 3.6B daily active people and AI-optimized ad delivery, and Google/Alphabet, through search and YouTube, absorbed the advertising dollars that once funded local newsrooms. Their scale, targeting precision, and measurement infrastructure make local newspaper CPMs structurally uncompetitive. The value did not disappear — it migrated to platforms that have no obligation to fund local civic reporting.",
+          "companies": ["Meta Platforms, Inc.", "AppLovin Corporation", "Criteo S.A.", "The Trade Desk, Inc."],
+          "key_question": "Which companies captured the advertising dollars that once funded local journalism, and what gives them structural pricing power?"
+        },
+        {
+          "sub_slug": "communities-left-blind",
+          "title": "Communities Left Functionally Blind",
+          "angle_type": "who-pays",
+          "focus": "The burden of the local news collapse is borne by communities that have lost the capacity to monitor what their local governments, courts, and businesses are doing. Without reporters at city council meetings, school board hearings, or county courtrooms, accountability gaps widen invisibly. EchoStar's going-concern uncertainty and pay-TV collapse further erode the delivery infrastructure that once reached rural and lower-income households who depend most on local broadcasting.",
+          "companies": ["EchoStar Corporation", "Gannett", "Clear Channel Outdoor Holdings Inc.", "iHeartMedia, Inc."],
+          "key_question": "Who concretely bears the cost of losing local journalism, and what does the evidence suggest about where accountability voids are widening?"
+        },
+        {
+          "sub_slug": "the-nexstar-paradox",
+          "title": "The Nexstar Paradox: Local Trust Without Local Journalism Investment",
+          "angle_type": "company-deepdive",
+          "focus": "Nexstar is the most instructive single company in this trend because it exposes the paradox at the heart of surviving local media: the company earns record revenues ($1.993B in Q2 2026) and frames local trust as its competitive moat, yet its business increasingly depends on distribution fees and political advertising rather than on the investigative capacity of its local newsrooms. TEGNA acquisition scale amplifies reach without resolving the journalism-investment gap.",
+          "companies": ["Nexstar Media Group, Inc.", "Fox Corporation", "Comcast Corporation"],
+          "key_question": "How does Nexstar monetize local trust while investing less in the journalism that creates it, and how long does that arbitrage hold?"
+        },
+        {
+          "sub_slug": "no-replacement-has-arrived",
+          "title": "The Replacement That Has Not Arrived",
+          "angle_type": "tension",
+          "focus": "Every attempted substitute for the local advertising model has failed to close the gap at scale: digital subscriptions work only for premium national brands, out-of-home advertising (Clear Channel, being taken private by Mubadala) captures physical attention without funding original reporting, and podcast revenue (iHeartMedia's $147M in Q1 2026 up 27%) is concentrated in entertainment not civic accountability. The structural gap between what local journalism costs and what any current business model can fund is widening, not narrowing.",
+          "companies": ["iHeartMedia, Inc.", "Clear Channel Outdoor Holdings Inc.", "Taboola.com Ltd.", "Outbrain Inc. / Teads Holding Co."],
+          "key_question": "Why has no business model emerged at the local scale to replace the advertising subsidy that funded local journalism for 150 years?"
+        }
+      ]
+    }
+  ]
+}

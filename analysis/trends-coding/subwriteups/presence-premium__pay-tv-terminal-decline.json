@@ -1,0 +1,44 @@
+{
+  "slug": "presence-premium__pay-tv-terminal-decline",
+  "trend_slug": "presence-premium",
+  "name": "Pay-TV Terminal Decline",
+  "deck": "Pay-TV bundle in terminal contraction; EchoStar's going-concern warning and Comcast's split signal that satellite and cable bundles no longer sustain equity value, only legacy cash extraction.",
+  "core_bet": "EchoStar reported FY2025 pay-TV subscribers of 6.998M (5.022M DISH, 1.976M SLING) with going-concern doubt in the annual report. By Q2 2026, pay-TV fell to 6.391M. Comcast is splitting its cable and entertainment businesses, signaling that the bundled model no longer creates shareholder value—only extracted legacy cash from aging subscriber bases facing inevitable churn. The premium for \"being in the home\" has evaporated as households shifted to app-based, streaming, and on-demand access. The carriers remaining in pay-TV are managing slow contraction, not growth.",
+  "numbers": [
+    "EchoStar FY2025: revenue $15.005B, operating loss $17.723B, net loss $14.497B; pay-TV 6.998M (DISH 5.022M, SLING 1.976M); wireless 7.511M",
+    "EchoStar FY2025: cash $1.883B vs debt $7.321B current, $18.659B noncurrent; going-concern doubt stated in annual report",
+    "EchoStar Q2 2026: pay-TV 6.391M (DISH 4.684M, SLING 1.707M); Q1 2026 6.632M; pay-TV deconsolidated in Q2 2026",
+    "EchoStar Q1 2026: revenue $3.667B, net loss $146.9M; cash $1.344B, current debt $6.237B; pay-TV 6.632M",
+    "EchoStar Q2 2026: revenue $3.576B, operating income $512.9M; cash $440.0M (down $904M from Q1); pay-TV deconsolidation mechanics signal exit from core business"
+  ],
+  "mechanism": "Pay-TV terminal decline operates through subscriber migration and the economics of legacy capex. Households shift to streaming (Netflix, Disney+, YouTube, TikTok) because those services offer on-demand access, lower price, and no channel bundles. Pay-TV operators face two pressures simultaneously: declining subscriber base (lower revenue) and fixed costs that scale with the satellite network, cable plant, and customer-service infrastructure. EchoStar's FY2025 operating loss of $17.723B reflects this: revenue fell, but programming, satellite capacity, customer acquisition, and network maintenance all persisted as mostly-fixed costs. By Q2 2026, EchoStar deconsolidated substantially all of the pay-TV segment, meaning the company exited operational control and consolidated those entities' losses. The deconsolidation was restructuring theater—the business is still there, but the legal and financial reporting shifted to relieve balance-sheet pressure. Comcast's split signals the same dynamic: separating cable operations from entertainment assets allows Comcast to harvest cash from legacy cable subscribers without having to grow or reinvent the business.\n\nThe terminal mechanics show in pricing power and subscriber defensibility. When pay-TV had cultural dominance in the 1990s-2010s, operators could raise prices faster than churn accelerated. As streaming arrived and choice expanded, churn accelerated above pricing tolerance. EchoStar's pay-TV subscriber declines accelerated through FY2025 and into 2026: from 7.1M (approx.) at the start of the period to 6.4M by Q2 2026. That is not managed decline; that is contraction. Once contraction dominates and fixed costs remain high, the operator faces margin collapse. EchoStar's path was explicit: reduce capex, cut programming investment, migrate customer traffic onto partner networks (AT&T for wireless, SpaceX for satellite), and eventually exit or restructure equity claims. That is the terminal-decline playbook.",
+  "why_now": "Pay-TV terminal decline is apparent now because three facts collided. First, streaming penetration is high enough that it is the default, not the alternative. Second, broadband bandwidth has improved enough that streaming works reliably in most homes. Third, younger households never had pay-TV as a cultural norm. The combination means churn is no longer temporary cyclicality; it is structural. EchoStar's going-concern statement made the dynamics public. Previously, pay-TV decline was discussed as competitive pressure; now it is discussed as viability risk.",
+  "who_pays": "Remaining pay-TV subscribers, who face rising prices as operators defend margins against shrinking subscriber bases. Employees in customer service, network operations, and programming roles as operators automate and downsize. Communities losing media and local-news operations as regional programming budgets shrink. Consumers dependent on cable broadband (bundled with pay-TV) who face higher broadband-only pricing as carriers extract value from that last remaining bundled service.",
+  "who_profits": "Private-equity firms and activist investors buying distressed assets and paying down debt through cost cutting; streaming platforms capturing cord-cutting households; wireless and broadband carriers who can offer connectivity without the pay-TV anchor.",
+  "tension": "The tension is between the declining business and the capital requirements to maintain it. Pay-TV networks require satellite launches, cable-plant maintenance, and customer support infrastructure. Declining subscriber bases cannot amortize those costs fast enough. Management responses (price increases, content cuts, technological degradation) accelerate churn and create a downward spiral. EchoStar's deconsolidation and Comcast's split both signal that pay-TV cannot be salvaged—only managed for cash extraction from the final cohort of remaining subscribers.",
+  "surprising_part": "The surprising element is how complete the reversal is. Fifteen years ago, pay-TV operators were the most powerful media companies in the economy, with captive household access and bundling leverage. Now they are managing contraction. EchoStar's going-concern warning is remarkable not because the company is unique, but because it makes explicit what others hide: the pay-TV model is broken.",
+  "societal_stake": "An economy where local news and broadcast infrastructure depend on pay-TV bundling is fragile. As pay-TV dies, local news, sports broadcasting, and regional media all lose revenue bases. The cultural consequence is the erosion of shared local information and community discourse. That has political consequences when local newsrooms shrink and voters lose access to locally relevant information.",
+  "one_sentence": "Pay-TV bundle in terminal contraction as households migrate to streaming; EchoStar's going-concern warning and Comcast's split signal that bundled models no longer sustain equity value.",
+  "evidence": [
+    {
+      "company": "EchoStar Corporation",
+      "fact": "FY2025 revenue $15.005B, operating loss $17.723B, net loss $14.497B; pay-TV 6.998M (DISH 5.022M, SLING 1.976M); annual report stated substantial doubt about ability to continue as going concern"
+    },
+    {
+      "company": "EchoStar Corporation",
+      "fact": "FY2025 cash $1.883B vs current debt $7.321B, noncurrent $18.659B; 2026 debt maturities $2.0B (July), $1.377B (August), $2.750B (December); total liabilities exceed near-term liquidity"
+    },
+    {
+      "company": "EchoStar Corporation",
+      "fact": "Q1 2026 pay-TV 6.632M, Q2 2026 6.391M; pay-TV segment deconsolidated in Q2 2026; wireless strategy shifted to hybrid MNO using AT&T; customer traffic migrated off 5G network by November 2025"
+    },
+    {
+      "company": "EchoStar Corporation",
+      "fact": "Q1 2026 revenue $3.667B, net loss $146.9M; Q2 2026 revenue $3.576B; cash declined from $1.344B (Q1) to $440M (Q2); restructuring and operating drag continuing"
+    },
+    {
+      "company": "EchoStar Corporation",
+      "fact": "FY2025 reflected household abandonment of old satellite bundle; SLING streaming option (1.976M at year-end) could not offset DISH decline; business model proved unable to defend subscriber base or margin"
+    }
+  ]
+}

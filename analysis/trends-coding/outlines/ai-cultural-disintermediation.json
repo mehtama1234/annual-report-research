@@ -1,0 +1,86 @@
+{
+  "slug": "ai-cultural-disintermediation",
+  "name": "AI Cultural Disintermediation",
+  "overview_deck": "Across healthcare, finance, marketing, and commerce, AI is not merely automating tasks — it is absorbing the cultural authority once held by doctors, advisors, agents, and creative professionals, transferring it to the platforms that own the algorithm.",
+  "groups": [
+    {
+      "group_title": "The Inflection",
+      "angles": [
+        {
+          "sub_slug": "why-now-threshold",
+          "title": "The Threshold Moment: When Algorithms Became Good Enough to Replace Humans",
+          "angle_type": "origin",
+          "focus": "AI capability crossed a practical deployment threshold simultaneously across five sectors in 2025-2026, not as a future projection but as a measurable operating reality — Airbnb resolving 45% of support cases without humans, Upstart automating 90%+ of loan approvals, Exact Sciences removing the gastroenterologist from a cancer screening decision. This page traces the arc from 'AI as assistant' to 'AI as replacement intermediary' and explains why the inflection happened now: model quality, consumer tolerance, and platform scale all crossed at once.",
+          "companies": ["Airbnb, Inc.", "Upstart Holdings, Inc.", "Exact Sciences Corporation", "Affirm Holdings Inc.", "Stagwell Inc."],
+          "key_question": "What changed in 2025-2026 that made AI capable of absorbing — not just assisting — human intermediary functions at commercial scale?"
+        }
+      ]
+    },
+    {
+      "group_title": "Where It Is Happening",
+      "angles": [
+        {
+          "sub_slug": "credit-without-underwriters",
+          "title": "Credit Without Underwriters: The Loan Officer Becomes a Parameter",
+          "angle_type": "sub-pattern",
+          "focus": "Consumer credit origination is the clearest current case of AI fully replacing a human expert class. Upstart's platform automates 90%+ of loans across 100+ bank partners, with conversion rates rising as the AI model sharpens — the human loan officer's judgment has been encoded, deployed at scale, and outperformed on speed and consistency. Affirm's AdaptAI and BoostAI take this further: not just approving loans but optimizing the offer itself, merchant by merchant, consumer by consumer, eliminating the need for a human underwriter to design financial products.",
+          "companies": ["Upstart Holdings, Inc.", "Affirm Holdings Inc.", "Synchrony Financial", "American Express Company"],
+          "key_question": "How has AI converted financial underwriting — once the domain of trained human judgment — into an automated parameter in a software platform?"
+        },
+        {
+          "sub_slug": "health-screening-without-specialists",
+          "title": "The Mailbox as Diagnosis: Removing the Specialist from Screening",
+          "angle_type": "sub-pattern",
+          "focus": "Exact Sciences' Cologuard turns a decision previously gated by gastroenterologist access into a mail-in consumer behavior: the physician referral, the colonoscopy procedure, and the specialist relationship are all bypassed. Abbott's acquisition of Exact Sciences in March 2026 signals that the diagnostic distribution layer is being absorbed into a larger medtech platform, not preserved as a specialist-dependent service. The cultural shift is not just efficiency — it reframes participation in cancer screening as a consumer choice rather than a medical system gatekeeping decision.",
+          "companies": ["Exact Sciences Corporation", "Abbott Laboratories", "Astrana Health, Inc.", "The Cigna Group"],
+          "key_question": "When AI and at-home diagnostics remove the specialist from screening, what happens to the physician's role as cultural gatekeeper to healthcare?"
+        },
+        {
+          "sub_slug": "creative-agency-compressed",
+          "title": "The Machine Eats the Agency: AI Workflow Compression in Marketing",
+          "angle_type": "sub-pattern",
+          "focus": "Stagwell's 'The Machine' and Marketing Cloud are not incremental agency productivity tools — they are a structural bet that the workflow value previously held by large creative and strategy agencies can be compressed into AI-driven platform services. With 230% YoY revenue growth in the Marketing Cloud and record new business wins, Stagwell is evidence that the agency model itself is being re-intermediated: brands are not hiring fewer agencies, they are hiring AI-native ones that eliminate the labor overhead of traditional holding-company structures. Omnicom's IPG acquisition, justified partly on AI and data scale, shows the incumbents reading the same signal.",
+          "companies": ["Stagwell Inc.", "Omnicom Group Inc.", "The Trade Desk, Inc.", "Nexxen International Ltd."],
+          "key_question": "Is AI compressing agency workflows into software, or is it eliminating the agency relationship altogether and handing that cultural authority to platform operators?"
+        },
+        {
+          "sub_slug": "agentic-commerce-layer",
+          "title": "The Algorithm as Buyer: AI Agents Taking Over Commerce Discovery",
+          "angle_type": "sub-pattern",
+          "focus": "American Express's annual narrative describes a world where AI agents discover products, make decisions, and complete payments — and AmEx is positioning to be the trust infrastructure inside that loop, not the card the human holds. Shopify's Catalog and Sidekick prepare merchants for a world where the consumer browsing session is replaced by machine-mediated discovery. Etsy's AI shopping partnerships with Google, Microsoft, and ChatGPT-linked checkout show the same dynamic at the SMB seller layer. The intermediary being displaced here is not a human professional but the consumer's own browsing intent — AI becomes the discovery agent that previously required human curiosity.",
+          "companies": ["American Express Company", "Shopify Inc.", "Etsy, Inc.", "Airbnb, Inc."],
+          "key_question": "When AI agents complete purchases without human browsing, discovery, or deliberation, what remains of the consumer relationship that merchants and platforms have historically cultivated?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Stakes",
+      "angles": [
+        {
+          "sub_slug": "platform-value-capture",
+          "title": "Who Owns the Algorithm Owns the Relationship: Where the Value Goes",
+          "angle_type": "who-profits",
+          "focus": "The economics of AI disintermediation concentrate at the platform layer, not at the point of service. Affirm captures the underwriting margin formerly earned by bank loan officers; Airbnb captures the customer-service cost formerly paid to human agents; Upstart captures origination fees across a network of 100+ bank partners who outsource their AI capability entirely. The pattern is consistent: the company that builds or controls the AI layer absorbs the economic relationship — the trust, the data, the recurring contact — previously held by a human professional.",
+          "companies": ["Affirm Holdings Inc.", "Airbnb, Inc.", "Upstart Holdings, Inc.", "Shopify Inc.", "Stagwell Inc."],
+          "key_question": "What is the economic structure of AI disintermediation — and why does the value concentrate at the model layer rather than at the merchant, provider, or consumer end?"
+        },
+        {
+          "sub_slug": "human-experts-displaced",
+          "title": "The Knowledge Intermediary Under Pressure: Experts in a World of Cheap AI Answers",
+          "angle_type": "who-pays",
+          "focus": "Forrester Research is a direct case study in the squeeze: the firm whose business is curating expert judgment saw 2025 revenue fall from $432M to $397M and contract value fall 6%, even as management argued that curated interpretation becomes more valuable when AI floods the world with raw information. The same pressure hits traditional loan officers displaced by Upstart, customer service agents replaced by Airbnb's AI, and creative professionals whose workflows are being compressed by Stagwell's Machine. The human cost is not only economic — it is the erosion of the professional credential as a social signifier of trust and access.",
+          "companies": ["Forrester Research Inc.", "Gartner Inc.", "Korn Ferry", "Omnicom Group Inc."],
+          "key_question": "What is the human cost when AI absorbs expert functions — and which professional classes are most exposed to having their cultural authority converted into training data?"
+        },
+        {
+          "sub_slug": "accountability-gap-tension",
+          "title": "When the Algorithm Is Wrong and Nobody Is Responsible",
+          "angle_type": "tension",
+          "focus": "AI disintermediation creates a structural accountability vacuum: when Upstart's model denies a loan, when an AI customer service agent resolves a dispute incorrectly, when Exact Sciences' mail-in test produces a false negative, there is no human professional to appeal to and no clear liability chain. Forrester's own predicament — investing in AI that may erode the value of its analyst content — illustrates the recursive problem: the companies building AI disintermediation are also subject to it. The tension is not only ethical but systemic: AI errors propagate at scale rather than individually, and the platforms that capture the relationship also absorb the accountability risk they have no existing framework to handle.",
+          "companies": ["Forrester Research Inc.", "Upstart Holdings, Inc.", "Exact Sciences Corporation", "Airbnb, Inc.", "Affirm Holdings Inc."],
+          "key_question": "When AI replaces human judgment at scale, who is accountable for its errors — and is that accountability gap a social risk or a regulatory time bomb?"
+        }
+      ]
+    }
+  ]
+}

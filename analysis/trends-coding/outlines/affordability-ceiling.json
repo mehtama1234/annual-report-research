@@ -1,0 +1,86 @@
+{
+  "slug": "affordability-ceiling",
+  "name": "The Affordability Ceiling",
+  "overview_deck": "The American middle market is not in a slow decline — it is being structurally evacuated from both ends simultaneously, as premium identity brands capture the affluent and mass platforms capture the value-seeker, leaving the brands and stores that built the 20th-century retail economy without a viable position in the 21st.",
+  "groups": [
+    {
+      "group_title": "The Architecture of the Split",
+      "angles": [
+        {
+          "sub_slug": "how-the-middle-was-built-and-why-it-broke",
+          "title": "The Department Store Was Always a Bet on the Middle Class",
+          "angle_type": "origin",
+          "focus": "The mid-market retail format — department store, mid-range specialty, branded athletic — was created by and for the aspirational mass-market consumer of the postwar expansion. The affordability ceiling is not a new problem but an acceleration of pressures that began with the 2008 income stagnation and was then lit on fire by inflation, tariffs, and the identity-premium shift in consumption after 2020.",
+          "companies": ["Macy's, Inc.", "ACCO Brands Corporation", "Bath & Body Works, Inc.", "Nordstrom"],
+          "key_question": "When did the middle market stop being the center of gravity, and what structural forces made the 2024–2026 period the visible inflection?"
+        },
+        {
+          "sub_slug": "the-bifurcation-in-food-and-staples",
+          "title": "Even Chips and Cookies Have a Class Problem",
+          "angle_type": "sub-pattern",
+          "focus": "Mass-market food and snack brands are hitting the affordability ceiling in developed markets: consumers want value and familiarity but resist paying premium-brand prices for items they buy weekly. PepsiCo's and Mondelez's explicit messaging about value and affordability in North America is a leading indicator that the bifurcation is not limited to discretionary retail — it has now reached everyday staples.",
+          "companies": ["PepsiCo", "Mondelez International", "Dollar General Corporation", "Dollar Tree Inc."],
+          "key_question": "How is the affordability squeeze showing up in the packaged-food and snack categories that were once considered recession-resilient?"
+        },
+        {
+          "sub_slug": "the-bifurcation-in-apparel-and-footwear",
+          "title": "NIKE Loses the Middle While HOKA Owns the Top",
+          "angle_type": "sub-pattern",
+          "focus": "The athletic apparel market is sorting into two viable positions: premium identity brands commanding aspirational pricing (HOKA, UGG) and value-channel wholesale platforms recovering volume (Walmart, Amazon). NIKE is exposed in the middle — traffic is weak, Direct is declining, and wholesale recovery is happening primarily in value channels rather than full-price partners, showing that brand scale alone does not protect against the bifurcation.",
+          "companies": ["NIKE Inc.", "Deckers Outdoor", "Tapestry, Inc.", "YETI Holdings, Inc."],
+          "key_question": "Why are the largest athletic and lifestyle brands losing share to both the premium tier and the value tier at the same time, and what does that say about the death of the mid-market identity play?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Winners and the Evacuees",
+      "angles": [
+        {
+          "sub_slug": "off-price-as-the-new-middle",
+          "title": "The Bargain Aisle Is the New Main Street",
+          "angle_type": "sub-pattern",
+          "focus": "Off-price retail (TJX, Burlington, Ross, Ollie's) is filling the evacuated middle not by offering a middle-market experience but by offering a treasure-hunt proposition that reframes scarcity as discovery. These operators are growing both store count and comparable sales simultaneously precisely because the middle-market consumer still exists — they just need a fundamentally different value structure than the one that department stores and mid-range specialty retailers provided.",
+          "companies": ["The TJX Companies, Inc.", "Burlington Stores, Inc.", "Ross Stores, Inc.", "Ollie's Bargain Outlet Holdings, Inc."],
+          "key_question": "Is off-price retail saving the middle-market consumer or cannibalizing the full-price middle — and what does sustained off-price growth tell us about the permanence of the ceiling?"
+        },
+        {
+          "sub_slug": "who-profits-identity-premium",
+          "title": "The Identity Premium: Who Collects the Rent at the Top",
+          "angle_type": "who-profits",
+          "focus": "The brands and operators capturing value at the premium end are not simply selling better products — they are selling identity membership in tiers that signal status without the explicit luxury price point. HOKA's performance-to-lifestyle crossover, YETI's DTC-at-60%-of-sales model, Tapestry's Coach Gen Z acquisition strategy, and Bloomingdale's 10% comp outperformance of the Macy's nameplate all share the same mechanism: the consumer is paying for social positioning, not just function.",
+          "companies": ["Deckers Outdoor", "YETI Holdings, Inc.", "Tapestry, Inc.", "Macy's, Inc."],
+          "key_question": "What makes a brand able to collect the identity premium — and why is that position getting more valuable, not less, as the mass market contracts beneath it?"
+        },
+        {
+          "sub_slug": "macy-deep-dive",
+          "title": "Macy's Autopsy: What a Department Store Does When the Middle Disappears",
+          "angle_type": "company-deepdive",
+          "focus": "Macy's is the clearest single-company case study of the affordability ceiling at work: the nameplate comps at 1.5–1.6% while Bloomingdale's comps at 9.9–10.2%, Bluemercury at 6.4%, and the company has built a $188M media network and a $669M credit-card revenue layer because merchandise margin on the core format is insufficient to justify the store network alone. The Bold New Chapter is not a turnaround — it is a controlled migration away from the middle.",
+          "companies": ["Macy's, Inc."],
+          "key_question": "What does Macy's transformation reveal about the structural changes required for a middle-market department store to survive when its core consumer is squeezed — and what gets lost in that transformation?"
+        }
+      ]
+    },
+    {
+      "group_title": "Who Pays and What Breaks",
+      "angles": [
+        {
+          "sub_slug": "who-pays-the-squeezed-majority",
+          "title": "The Squeezed Majority: When You Can't Trade Up and Can't Afford Not To",
+          "angle_type": "who-pays",
+          "focus": "The affordability ceiling's human cost is carried by working-class and lower-middle-income households who are simultaneously losing access to the middle-market goods they relied on, absorbing higher prices on necessities, and being pushed toward value-channel alternatives that require more time and more trade-offs. Robert Half's white-collar hiring softness and Home Depot's DIY-versus-pro contractor split are two indicators that the income pressure is not limited to retail spending — it reflects a broader contraction in discretionary capacity for the mass-market household.",
+          "companies": ["Robert Half Inc.", "Home Depot", "Bath & Body Works, Inc.", "PepsiCo"],
+          "key_question": "Who specifically is being pushed out of the middle market, and what does their spending behavior tell us about the social and economic consequences of a bifurcated consumer economy?"
+        },
+        {
+          "sub_slug": "the-fragility-of-the-premium-tier",
+          "title": "The Identity Floor: What Happens When Even Premium Brands Hit a Ceiling",
+          "angle_type": "tension",
+          "focus": "The premium tier's apparent immunity to the affordability ceiling has limits: YETI's tariff sensitivity showed that even DTC-at-60% identity brands cannot fully insulate their margin from input costs; HOKA's rapid growth risks the scarcity premium that made identity attachment possible; and Tapestry's Gen Z acquisition pace creates an over-exposure risk when the identity premium depends on selective access. The deeper tension is that premium brand growth requires a functioning mass market beneath it — the consumer who aspires to HOKA today is the consumer whose income is being compressed tomorrow.",
+          "companies": ["YETI Holdings, Inc.", "Deckers Outdoor", "Tapestry, Inc.", "Mondelez International"],
+          "key_question": "What are the structural fragilities of the premium tier — and what happens to identity-premium brands when the aspirational mass-market consumer who drives their cultural relevance can no longer afford the entry point?"
+        }
+      ]
+    }
+  ]
+}

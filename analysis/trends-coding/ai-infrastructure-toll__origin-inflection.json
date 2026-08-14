@@ -1,0 +1,88 @@
+{
+  "slug": "origin-inflection",
+  "trend_slug": "ai-infrastructure-toll",
+  "name": "From Cyclical Construction to Structural Backlog: How AI Demand Changed Construction Economics",
+  "deck": "Construction flipped from cyclical to structural in 2023-2024 as data-center and AI infrastructure capex created multi-year demand backlogs that did not exist before, shifting from project-to-project volatility to sustained throughput.",
+  "core_bet": "Construction and materials companies transitioned from classic cyclical demand patterns (macro sensitive, project episodic) into a new regime where AI, cloud, semiconductor, and manufacturing infrastructure created structural, multi-year backlog visibility. Data-center site work, electrical integration, and aggregates demand became tied to enterprise capex and industrial policy, not housing cycles. Record backlogs, margin expansion, and workforce constraints signal this is structural, not cyclical, but it remains geographically concentrated and policy-dependent.",
+  "numbers": [
+    {
+      "stat": "$14.06 billion",
+      "label": "Comfort Systems backlog, Q2 2026 (vs. $8.12 billion Q2 2025)"
+    },
+    {
+      "stat": "$11.94 billion",
+      "label": "Comfort Systems backlog, end of FY2025"
+    },
+    {
+      "stat": "72%",
+      "label": "Year-over-year backlog increase, Comfort Systems Q2 2026 vs Q2 2025"
+    },
+    {
+      "stat": "$4.33 billion",
+      "label": "Sterling Infrastructure backlog, Q2 2026"
+    },
+    {
+      "stat": "$7.0 billion",
+      "label": "Granite CAP (combined assigned and awarded projects), FY2025 year-end"
+    },
+    {
+      "stat": "32%",
+      "label": "Granite CAP year-over-year increase, FY2025 vs FY2024"
+    },
+    {
+      "stat": "92%",
+      "label": "Sterling E-Infrastructure backlog from mission-critical (data centers, manufacturing, semiconductors), Q2 2026"
+    },
+    {
+      "stat": "$1.533 billion",
+      "label": "Martin Marietta aggregates revenues, Q2 2026 (up 16% YoY)"
+    }
+  ],
+  "mechanism": [
+    "The inflection began in 2023-2024 when U.S. and allied governments made industrial policy bets on semiconductor reshoring, data-center expansion, and advanced manufacturing. This was not a natural market cycle; it was policy-driven capex acceleration. Companies like TSMC, Samsung, Intel, and hyperscalers (Amazon, Google, Microsoft) began announcing multi-billion-dollar campus projects with 5-10 year timelines. This demand was structurally different from previous construction cycles because it came from enterprise and government capex, not from housing or consumer-sensitive commercial real estate.",
+    "Construction companies built backlogs they had never seen before. Comfort Systems grew backlog from $5.99 billion (end of 2024) to $14.06 billion (Q2 2026)—more than doubling in 18 months. Sterling Infrastructure's combined backlog reached $5.62 billion in Q2 2026, with 92% of E-Infrastructure backlog tied to mission-critical projects (data centers, manufacturing, semiconductors). Granite's CAP (combined assigned and awarded projects) grew 32% year over year to a record $7.0 billion. These were not project-by-project wins; they were multi-phase, multi-year commitments that pulled through site work, electrical integration, and materials supply continuously.",
+    "The materials layer deepened with this infrastructure shift. Martin Marietta's aggregates demand became tied to data-center site development, semiconductor fab construction, and manufacturing-facility buildout. In Q2 2026, Martin Marietta aggregates revenues grew 16% to $1.533 billion, with shipments up 17% to 61.6 million tons. Management explicitly tied growth to infrastructure, nonresidential construction, data centers, and logistics. This was not cyclical housing demand; this was structural industrial buildout. Quarry position, local scarcity, and freight economics suddenly mattered more than broad commodity pricing.",
+    "The labor and execution constraint became the limiting factor, not demand. Comfort Systems said record results came from execution quality and continued backlog growth 'despite high burn rates.' Sterling management emphasized that resources were being reallocated toward higher-margin E-Infrastructure work. This signals that backlog visibility is real, but the constraint has shifted from winning projects to converting them—from bidding to staffing, from demand to labor availability. That is the inflection point from cyclical to structural: demand is no longer the bottleneck; capacity is."
+  ],
+  "why_now": "The timing convergence matters. CHIPS Act funding accelerated in 2023-2024. Data-center capex surged as hyperscalers rushed to build AI training and inference capacity. Geopolitical risk (China tensions, allied reshoring) justified government support for U.S.-based manufacturing and infrastructure. Construction backlogs emerged not from housing recovery or normal commercial cycles, but from structural policy and tech-company capex decisions with 5-10 year horizons. This is why it is different from 2007-2008 housing-led cycles or 2010-2015 cyclical commercial recovery. It is concentrated, policy-amplified, and tied to long-duration projects.",
+  "who_pays": "Ultimately, consumers and taxpayers pay through higher prices and tax support. Semiconductor manufacturers and data-center operators raise capex budgets, which eventually flows through to higher equipment and service costs. Governments fund public-works components through spending. Consumers absorb higher prices for semiconductors, cloud services, and energy. Materials prices rise where demand is concentrated (quarries near data-center sites). Construction labor wages rise due to sustained demand and competitive pressure to staff projects. The beneficiaries capture temporary margin expansion, but the cost is broadly distributed.",
+  "who_profits": "Owners of construction execution capacity (Comfort Systems, Sterling, Granite), materials assets (Martin Marietta, aggregates producers), and specialized equipment (electrical, HVAC) capture the most value. Comfort Systems' gross profit per script-like metrics show the advantage. Sterling's E-Infrastructure segment posted 123% revenue growth and 91% adjusted operating income growth in Q4 2025. Martin Marietta's aggregates margins benefited from volume and pricing. The window is compressed: this is concentrated on the companies that can actually execute during the 5-10 year policy-driven capex wave.",
+  "tension": "The core risk is policy reversal or macro deterioration. If geopolitical risk recedes, chip reshoring becomes less urgent. If hyperscaler capex slows or gets redirected globally, backlogs shrink quickly. If housing affordability and commercial real estate stress continue to weigh on construction labor supply, wage inflation and project delays could compress margins faster than the backlog is burned through. Granite explicitly flagged weather risk in Q2 2026; operational execution remains contingent. For construction, structural backlogs only matter if they convert to revenue at acceptable margin—and that depends on labor availability, project execution, and absence of macro shock.",
+  "surprising_part": "The most counter-intuitive shift is that construction stopped looking like a cyclical sector. Companies that historically had 9-18 month forward visibility suddenly have 3-5 year visibility tied to specific data-center and manufacturing campuses. This is not housing demand recovering; it is enterprise capex becoming durable due to policy and tech demand. Sterling's admission that it is reallocating resources away from low-margin transportation work toward high-margin mission-critical infrastructure shows the margin arbitrage is real. But it also shows that this is not uniform sector recovery; it is a dramatic winner-take-most shift toward companies positioned on the right projects.",
+  "one_sentence": "AI infrastructure capex flipped construction economics from cyclical-project-driven to structural-backlog-driven, creating multi-year demand visibility that construction and materials companies have never seen, but compressed into a narrow set of data-center and semiconductor geographies.",
+  "societal_stake": "This pattern signals where U.S. industrial policy is actually moving capital. Semiconductor facilities, data centers, and AI infrastructure are being built at scale through policy-supported capex. That is measurable in construction backlogs and materials demand, not just in venture capital or tech narratives. For communities, this means sustained construction activity, job creation, wage pressure, and infrastructure buildout in specific regions. For labor, it means execution talent is suddenly scarce and valuable. For policy, it is evidence that industrial policy capex does translate into real physical buildout, not just announcements. The constraint is no longer capital; it is labor, land, and permitting.",
+  "evidence": [
+    {
+      "company": "Comfort Systems USA",
+      "fact": "Backlog grew from $5.99 billion (2024-12-31) to $11.94 billion (2025-12-31) to $14.06 billion (2026-06-30), a 135% increase in 18 months"
+    },
+    {
+      "company": "Comfort Systems USA",
+      "fact": "Q2 2026 backlog rose to $14.06 billion from $12.45 billion in Q1 2026, with record results driven by unmatched execution and continued demand"
+    },
+    {
+      "company": "Sterling Infrastructure",
+      "fact": "Mission-critical projects (data centers, manufacturing, semiconductor facilities) represented 92% of E-Infrastructure backlog in Q2 2026"
+    },
+    {
+      "company": "Sterling Infrastructure",
+      "fact": "Combined backlog reached $5.62 billion in Q2 2026 with signed backlog $4.33 billion and pipeline exceeding $1.4 billion in high-probability future phase work"
+    },
+    {
+      "company": "Sterling Infrastructure",
+      "fact": "E-Infrastructure revenue grew 123% and adjusted operating income grew 91% in Q4 2025"
+    },
+    {
+      "company": "Granite Construction",
+      "fact": "CAP (combined assigned and awarded projects) increased 32% year over year to record $7.0 billion at 2025 year-end"
+    },
+    {
+      "company": "Granite Construction",
+      "fact": "Management expanded guidance into federal portfolio work, mission-critical infrastructure including data-center site development, reflecting structural demand shift"
+    },
+    {
+      "company": "Martin Marietta Materials",
+      "fact": "Aggregates shipments increased 17% to 61.6M tons in Q2 2026; aggregates revenues grew 16% to $1.533 billion with demand explicitly tied to data centers and infrastructure"
+    }
+  ]
+}

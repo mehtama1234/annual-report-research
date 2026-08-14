@@ -1,0 +1,87 @@
+{
+  "slug": "addiction-dividend",
+  "name": "The Addiction Dividend",
+  "deck": "The most durable businesses in modern capitalism are not building products—they are building behavioral dependencies and the infrastructure that makes compulsion feel like identity.",
+  "core_bet": "Companies that successfully habituate consumers to daily or near-daily use have discovered the most profitable moat in capitalism. By converting transactions into relationships, relationships into switching costs, and switching costs into price increases that habituated customers absorb without leaving, they defy the gravity of mature markets. The loyalty infrastructure—apps, memberships, subscriptions, rewards—ensures the behavior feels cultural rather than commercial.",
+  "numbers": [
+    {
+      "stat": "41.5% of FY2025 revenues",
+      "label": "Philip Morris International smoke-free business contribution"
+    },
+    {
+      "stat": "43M+ adult consumers",
+      "label": "Using PMI smoke-free products (IQOS, ZYN) as of end-2025"
+    },
+    {
+      "stat": "97B hours watched",
+      "label": "Netflix members in first half of 2026"
+    },
+    {
+      "stat": "84%",
+      "label": "Chewy's Autoship customer sales as percent of total net sales (Q3 2025)"
+    },
+    {
+      "stat": "71% of revenue",
+      "label": "Electronic Arts live services and other (FY2026)"
+    },
+    {
+      "stat": "8 consecutive quarters",
+      "label": "First positive comparable transaction growth at Starbucks (Q1 2026)"
+    },
+    {
+      "stat": "13 consecutive quarters",
+      "label": "Positive same-shop sales growth at Dutch Bros"
+    },
+    {
+      "stat": "50M Uber One members",
+      "label": "Driving roughly half of Uber gross bookings across Mobility and Delivery"
+    }
+  ],
+  "mechanism": [
+    "The pattern repeats across industries and consumer segments. Philip Morris charges premium prices for IQOS and ZYN—smoke-free products that command higher margins than combustible cigarettes—because nicotine-dependent users have no realistic alternative. Forty-three million adults switched to a higher-cost format and accepted device ownership requirements to maintain their habit. Netflix users watch 97 billion hours not because the app is free, but because the platform has embedded itself into daily viewing routines; 325 million paid members absorb price increases because the switching cost—rebuilding a watchlist, retraining recommendations, abandoning shared accounts—feels steeper than the price. Chewy's 84% Autoship penetration means pet owners have delegated replenishment decisions to the company; they no longer choose Chewy each time—they choose it once, and the habit perpetuates. The mechanism is structural: habituation converts consumer agency into predictability.",
+    "The loyalty infrastructure accelerates this conversion. Starbucks rebuilds transaction growth through prepaid stored value, mobile app ordering, and Rewards Stars: customers preload money, the platform tracks Stars redemption across deferred revenue, and each transaction reinforces the habit loop. Dutch Bros creates daily beverage ritual through drive-thru speed, social energy, and app-linked rewards that signal belonging to a tribe, not just purchasing a drink. Electronic Arts monetizes repeat competitive identity through live services, seasonal content, battle passes, and progression systems that require regular check-ins to stay current—missing a season means falling behind in the social graph. Spotify deepens listening habit through algorithmic discovery, personalization, Wrapped cultural moments, and playlist curation that makes the service feel irreplaceable. Uber converts rides and delivery into one membership relationship: 50 million Uber One members generate half of gross bookings because membership turns occasional transportation into a reflex.",
+    "The fundamental shift is measurement depth. Previous generations of loyalty programs tracked repeat purchase and offered discounts. Modern behavioral infrastructure monitors engagement granularity: check-in frequency, session length, content consumption, progression velocity, peer-network depth. That data feeds back into product design—content drops, rewards, social signals, personalization—that systematically reinforce return visits. The loop becomes self-reinforcing: the more a user engages, the more the system learns; the more the system learns, the more personalized and sticky the engagement becomes. Switching cost becomes not just economic but psychological and social.",
+    "Who pays and who profits tells the full story. Consumers absorb price increases because the habit has created genuine switching costs that feel cultural. Health systems treat addiction-related conditions that never appear in PMI's cost structure. Public health authorities regulate the category while private companies profit from harm-reduction positioning that may or may not prove safe at scale. Low-income consumers pay a higher share of their income for habituated products. The benefit flows to brand owners: PMI's combustible cigarettes still grow net revenues 9.5% despite volume declines through pricing power enabled by habit stickiness. Netflix expands margins to 29.5% operating margin by capturing advertising revenue from the same captive audience paying subscription fees. Chewy compounds record profitability through predictable Autoship cash flow. Spotify converts 300 million Premium subscribers into 15.8% operating margins. Uber uses membership to deepen wallet capture and drive half of bookings through a single relationship layer."
+  ],
+  "why_now": "The corpus shows simultaneous maturation of behavioral measurement and digital-first capture across industries. PMI's smoke-free business crossed 41.5% of total revenues in FY2025—a threshold where category migration determines company economics. Starbucks showed positive comparable transaction growth for the first time in eight quarters only after investing heavily in the loyalty loop. Netflix members watched 97 billion hours in H1 2026, evidence that streaming is not discretionary novelty but normalized daily routine. Dutch Bros reported thirteen consecutive quarters of positive same-shop sales growth driven by repeat beverage ritual, not unit expansion alone. Mobile-first behavior has made it structurally possible to monitor, reward, and reinforce consumer behavior at a granularity unavailable to previous generations. Digital payments, app-based ordering, and stored-value systems have removed friction from repeat transactions. The companies that master this layer—measuring engagement, personalizing reinforcement, converting transactions into relationships—have discovered the most durable moat available to mature businesses.",
+  "who_pays": "Consumers who believe they are making choices but are operating within partly-captured behavioral loops. Low-income consumers disproportionately pay a higher share of income for habituated products across categories: nicotine products, streaming services, mobile gaming, coffee rituals, food delivery. The 43 million consumers who remain nicotine-dependent now in a more expensive smoke-free format. Health systems treating addiction-related conditions that never appear in the company's cost structure as a liability. Public health systems that must manage the externalities of normalized behavioral addiction while private companies profit from the habit. Workers whose attention and time are commodified through loyalty apps and gamified engagement loops designed to maximize check-in frequency, not welfare.",
+  "who_profits": "Philip Morris International (IQOS and ZYN commanding premium prices, 43% of gross profit), Netflix (29.5% operating margin, $1.5B ad revenue growing 2.5x), Chewy (84% Autoship penetration creating predictable recurring revenue), Electronic Arts (live services 71% of revenue), Starbucks (loyalty infrastructure driving transaction recovery), Dutch Bros (13 consecutive quarters positive same-shop sales on repeat beverage ritual), Spotify (300 million Premium subscribers at 15.8% operating margin), Uber (50 million Uber One members driving half of gross bookings). The pattern is identical across categories: brand owners with high switching costs and platform operators whose software makes the platform feel like part of the user's identity.",
+  "tension": "The most profitable version of this model externalizes harm onto users and public health systems. Regulatory pressure builds as the externalities accumulate. PMI explicitly acknowledges that combustible addiction enables price increases despite volume declines. The harm-reduction framing for smoke-free products depends on them being genuinely safer—the science remains contested. If the products prove harmful at scale, the regulatory tolerance that enabled the category migration collapses. Loyalty infrastructure creates anti-competitive moats that regulators increasingly scrutinize: when Uber One members drive half of gross bookings, regulators see wallet capture; when Starbucks prepaid balances accumulate in deferred revenue, regulators see whether merchants can compete. The model also faces saturation: once you have captured the habituated base, incremental growth requires either price increases that risk defection or expanded monetization layers (ads, membership tiers, adjacent services) that risk alienating the core relationship. Most critically, the model depends on continuous behavioral measurement and personalization powered by algorithmic systems. If those systems prove manipulative, if data breaches expose the personalization layer, if regulatory pressure requires transparency about behavioral targeting—the entire moat weakens because users realize they are not making choices.",
+  "surprising_part": "The most striking insight is that companies are not hiding the addiction model—they are disclosing it transparently. PMI reports 43 million smoke-free product users in investor filings while explicitly acknowledging that the business model depends on switching costs and pricing power. Netflix reports 97 billion hours watched to prove habit formation. Starbucks discloses prepaid balances and stored-value deferred revenue in regulatory filings. Electronic Arts reports live-services revenue as 71% of the total and emphasizes seasonal content and progression mechanics designed to drive check-in behavior. Spotify discloses 300 million Premium subscribers and emphasizes algorithmic personalization. Chewy reports 84% Autoship penetration as a competitive strength. Uber discloses that 50 million members drive half of bookings. The addiction dividend is not a secret—it is the core business model, disclosed to shareholders as a durable moat, and investors reward companies that demonstrate the highest level of behavioral capture. The regulatory and societal resistance has been modest because the companies have successfully reframed addiction as lifestyle transition (PMI), entertainment routine (Netflix, EA), convenience (Chewy, Starbucks), cultural discovery (Spotify), or everyday mobility (Uber).",
+  "one_sentence": "The most durable businesses in modern capitalism are those that have successfully engineered daily or near-daily habits and built infrastructure that makes compulsion feel like identity, allowing them to raise prices without defection and monetize behavior at a granularity that turns users into predictable cash machines.",
+  "societal_stake": "Habit is the most durable moat in capitalism. Understanding which habits are being deliberately engineered—and who profits from the compulsion—is the first step to asking whether a society wants to permit those profit structures. A society in which corporate harm-reduction programs define what healthy behavior looks like is one where public health outcomes are determined by profit motive. When loyalty infrastructure mediates daily life, the companies that build it acquire cultural authority over ordinary existence. The question is not whether these habits are real—the financial metrics prove they are. The question is whether individuals are aware they are being systematically habituated, whether that habituation serves their interests, and whether a democratic society should permit the most durable business model in capitalism to be one that depends on partially-captured consumer choice.",
+  "evidence": [
+    {
+      "company": "Philip Morris International",
+      "fact": "Smoke-free products represent 41.5% of FY2025 revenues and 43% of gross profit; 43M+ adult consumers use smoke-free products; EPS $7.26 vs $4.52 prior year; combustibles net revenues grew 9.5% despite volume declines, demonstrating pricing power maintained by habit stickiness"
+    },
+    {
+      "company": "Netflix Inc.",
+      "fact": "325M+ paid memberships with members watching >97B hours in first half 2026; ad revenue grew 2.5x to $1.5B in 2025; operating margin 29.5%; subscription habit creates pricing power and margin expansion"
+    },
+    {
+      "company": "Chewy Inc.",
+      "fact": "84% Autoship customer sales as percent of net sales; 21.3M active customers; FY2025 net sales $12.60B with record free cash flow $562M; Autoship behavior creates recurring revenue and customer stickiness"
+    },
+    {
+      "company": "Electronic Arts Inc.",
+      "fact": "Live services and other revenue $5.383B vs full game revenue $2.148B (71% of FY2026 revenue); seasonal content drops and battle-pass mechanics optimize player check-in behavior; Apex Legends and EA SPORTS FC depend on live-service repeat engagement"
+    },
+    {
+      "company": "Starbucks Corporation",
+      "fact": "Q1 2026 showed first positive comparable transaction growth in eight quarters; Q3 2026 global comp +7.9% driven by transaction growth; stored-value card and rewards system recovery drove brand turnaround from service failure"
+    },
+    {
+      "company": "Dutch Bros Inc.",
+      "fact": "13 consecutive quarters positive same-shop sales growth; app-linked Dutch Rewards explicit in 10-K; drive-thru speed and repeat use designed to create daily beverage ritual; record AUVs $2.1M Q2 2026"
+    },
+    {
+      "company": "Spotify Technology",
+      "fact": "777M MAUs and 300M Premium subscribers; AI-powered personalization deepens engagement; >$11B paid to music industry in 2025; daily listening habit described as core relationship with operating margin 15.8%"
+    },
+    {
+      "company": "Uber Technologies Inc.",
+      "fact": "50M Uber One members drive roughly half of gross bookings across Mobility and Delivery; Q2 2026 GAAP net income $2.4B with trips 3.9B up 18%; membership layer converts transactional demand into subscription relationship"
+    }
+  ]
+}

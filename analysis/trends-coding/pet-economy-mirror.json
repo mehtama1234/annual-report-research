@@ -1,0 +1,86 @@
+{
+  "slug": "pet-economy-mirror",
+  "name": "The Pet Economy's Mirror",
+  "overview_deck": "Pet care spending is growing through affordability pressure because pets have stepped into the relational roles — dependent, companion, daily ritual — that human social structures increasingly fail to fill, and companies that colonize that identity category capture the pricing power and lock-in that identity-driven consumption always generates.",
+  "groups": [
+    {
+      "group_title": "How We Got Here",
+      "angles": [
+        {
+          "sub_slug": "origin-loneliness-dividend",
+          "title": "The Loneliness Dividend: How Pets Became Dependents",
+          "angle_type": "origin",
+          "focus": "Declining birth rates, delayed household formation, pandemic-era pet adoption, and the collapse of other communal structures created a generation of 'pet parents' who spend on animals the way prior generations spent on children — protecting the budget line even when everything else compresses. This page traces the demographic and cultural inflection from the early 2010s through 2026 that made pet care recession-resistant rather than discretionary.",
+          "companies": ["Chewy, Inc.", "Colgate-Palmolive Co.", "Signet Jewelers Limited", "Starbucks Corporation"],
+          "key_question": "Why did pet spending defy affordability pressure when nearly every other consumer category bent to it?"
+        },
+        {
+          "sub_slug": "identity-consumption-pattern",
+          "title": "Identity at the Register: When a Purchase Becomes a Statement",
+          "angle_type": "sub-pattern",
+          "focus": "Pet parenthood, specialty coffee ritual, and milestone jewelry share the same consumer psychology: they are identity-defining purchases that resist compression because cutting them feels like a statement about who you are, not just what you buy. This page examines how Chewy's Autoship lock-in, Starbucks' loyalty prepaid structure, and Signet's bridal resilience all reflect the same underlying mechanism — identity-category consumption generating pricing power that affordability logic cannot erode.",
+          "companies": ["Chewy, Inc.", "Starbucks Corporation", "Signet Jewelers Limited", "Build-A-Bear Workshop, Inc."],
+          "key_question": "What makes pet spending structurally similar to coffee ritual and milestone gifting — and why does that similarity matter for pricing power?"
+        }
+      ]
+    },
+    {
+      "group_title": "Where the Money Flows",
+      "angles": [
+        {
+          "sub_slug": "platform-lock-in-chewy",
+          "title": "The Autoship Empire: Chewy's Recurring-Care Platform",
+          "angle_type": "company-deepdive",
+          "focus": "Chewy is not a pet-food retailer that happened to add subscriptions; it is a recurring-care platform that uses Autoship (~84% of net sales), prescription pharmacy, and digital account management to make switching feel like a healthcare disruption rather than a retail switch. This page dissects how Chewy converted 21.3M active customers into a $12.60B annual revenue base with widening gross margins (30.1% in Q1 2026) by embedding itself into the veterinary, prescription, and wellness layers of pet parenthood.",
+          "companies": ["Chewy, Inc."],
+          "key_question": "How did Chewy build switching costs that are closer to a pharmacy benefit manager than to an online retailer?"
+        },
+        {
+          "sub_slug": "premium-nutrition-escape-velocity",
+          "title": "Nutrition as the New Pharmacy: Hill's and the Premium Pet Food Wedge",
+          "angle_type": "sub-pattern",
+          "focus": "Hill's Pet Nutrition is outgrowing Colgate's oral and personal care segments because specialty pet food has been repositioned from commodity kibble to science-backed therapeutic nutrition — the same reframing that turned human vitamins into healthcare. This page examines how Colgate's Hill's unit achieved 'escape velocity' from the affordability pressure compressing personal care, why the Walmart private-label threat (noted in Colgate's own 10-K) is the main structural risk, and how packaging infrastructure (Silgan's 7% metal-container pet-food growth in Q4 2025) is the invisible supply chain behind the premium tier.",
+          "companies": ["Colgate-Palmolive Co.", "Silgan Holdings Inc."],
+          "key_question": "Why is premium pet nutrition growing faster than premium human nutrition, and who owns the supply chain underneath it?"
+        },
+        {
+          "sub_slug": "pharmacy-infrastructure-trajectory",
+          "title": "Veterinary Pharmacy as the Next Script Frontier",
+          "angle_type": "sub-pattern",
+          "focus": "BrightSpring's pharmacy-delivery infrastructure — 43M prescriptions fulfilled in 2025, revenue per script rising to $314.20 — was built for complex human patients, but the same logistics, specialty-pharmacy contracting, and per-script economics map directly onto the veterinary pharmacy trajectory that Chewy is building from the retail side. This page argues that pet healthcare is following the same cost-escalation and infrastructure-building arc that human specialty pharmacy followed a decade ago, and that the companies building recurring prescription infrastructure now will capture the margin pool when the arc completes.",
+          "companies": ["BrightSpring Health Services, Inc.", "Chewy, Inc.", "Colgate-Palmolive Co."],
+          "key_question": "Is veterinary pharmacy following the same infrastructure-capture arc as human specialty pharmacy — and who is positioned to own it?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Costs Others Bear",
+      "angles": [
+        {
+          "sub_slug": "who-pays-inequality",
+          "title": "The Two-Tier Pet Economy: Premium Care and the Surrender Gap",
+          "angle_type": "who-pays",
+          "focus": "The premiumization of pet care — specialty diets, veterinary specialists, prescription protocols normalized by Chewy and Hill's — creates an affordability cliff for lower-income pet owners who cannot match the standard of care that premium culture sets. This page examines the surrender gap: the social pressure to spend beyond means or relinquish animals that owners are emotionally dependent on, and the invisible burden on non-pet-owners (higher insurance costs, housing restrictions, public-space adaptation) as the built environment adapts to pet culture.",
+          "companies": ["Chewy, Inc.", "Colgate-Palmolive Co.", "Silgan Holdings Inc."],
+          "key_question": "Who absorbs the costs of a society that has normalized premium pet care as the baseline, not the luxury?"
+        },
+        {
+          "sub_slug": "tension-what-breaks-it",
+          "title": "When the Mirror Cracks: The Fragility Underneath Pet Economy Resilience",
+          "angle_type": "tension",
+          "focus": "The pet economy's recession-resistance rests on two fragile assumptions: that pandemic-era adoption rates sustain ongoing customer counts (Chewy's 21.3M active customers include a cohort of pandemic adopters whose pets are aging into higher-cost care), and that identity-category spending holds even when household balance sheets are genuinely stressed rather than merely squeezed. This page examines the private-label threat Colgate explicitly named in its 10-K, the customer-count ceiling visible in Chewy's sequential additions slowing, and the broader question of whether 'pet spending as essential' is a durable cultural shift or a leveraged emotional bet that will face a harder test in a genuine income shock.",
+          "companies": ["Chewy, Inc.", "Colgate-Palmolive Co.", "Starbucks Corporation", "Signet Jewelers Limited"],
+          "key_question": "What would it take to break the pet economy's affordability immunity — and are those conditions already forming?"
+        },
+        {
+          "sub_slug": "societal-mirror",
+          "title": "What the Pet Economy Reveals About Everything Else",
+          "angle_type": "who-profits",
+          "focus": "A society in which pet care attracts the emotional investment, regulatory attention, and infrastructure build-out that childcare, elder care, and human mental health services do not is revealing something about where its institutional failures are sharpest. This page synthesizes the trend's societal stake: the pet economy is partly a market consequence of broken human relational infrastructure — inadequate parental leave, isolated elderly, unaffordable childcare, urban loneliness — and the companies capturing its profit pool are, indirectly, monetizing those failures.",
+          "companies": ["Chewy, Inc.", "Colgate-Palmolive Co.", "BrightSpring Health Services, Inc.", "Signet Jewelers Limited"],
+          "key_question": "What does the pet economy's growth tell us about the state of every other form of relational infrastructure in modern society?"
+        }
+      ]
+    }
+  ]
+}

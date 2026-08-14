@@ -1,0 +1,86 @@
+{
+  "slug": "private-capital-colonization",
+  "name": "The Private Capital Colonization",
+  "overview_deck": "Alternative asset managers — KKR, Apollo, Blackstone, Ares, Brookfield, Franklin — have quietly assumed the credit-creation, pension-assumption, and savings-intermediation roles once owned by regulated banks, charging higher fees for the same economic functions while operating outside the regulatory safety net.",
+  "groups": [
+    {
+      "group_title": "How It Happened",
+      "angles": [
+        {
+          "sub_slug": "origin-bank-retreat",
+          "title": "When the Banks Stepped Back",
+          "angle_type": "origin",
+          "focus": "Post-2008 Basel III and post-2022 regional bank failures forced regulated lenders to shrink credit supply and raise capital ratios, creating a vacuum that alternative managers rushed to fill with private credit, asset-based finance, and direct lending. The regulatory asymmetry — banks constrained, non-banks comparatively free — is the structural inflection that made this decade's colonization possible.",
+          "companies": ["KKR & Co.", "Ares Management Corporation", "The PNC Financial Services Group", "Apollo Global Management"],
+          "key_question": "Why did credit creation migrate from banks to alternatives, and what regulatory divergence made it permanent?"
+        },
+        {
+          "sub_slug": "insurance-float-capture",
+          "title": "The Float Gambit: Turning Policyholders Into LP Capital",
+          "angle_type": "sub-pattern",
+          "focus": "The most structurally durable move in the colonization playbook is embedding an insurance business inside an asset manager: Global Atlantic at KKR, Athene at Apollo, and Oaktree's role inside Brookfield all convert insurance premium float — low-cost, long-duration, captive — into a permanent capital base that funds higher-fee private investments. The policyholder pays competitive premiums; the manager earns private-market returns on the float.",
+          "companies": ["KKR & Co.", "Apollo Global Management", "Brookfield Corporation", "Berkshire Hathaway", "MetLife"],
+          "key_question": "How do alternative managers use insurance subsidiaries to manufacture their own permanent capital supply?"
+        },
+        {
+          "sub_slug": "pension-liability-assumption",
+          "title": "Pension De-Risking: The $Trillion Liability Transfer",
+          "angle_type": "sub-pattern",
+          "focus": "Corporate pension sponsors are paying insurers and alternative managers to assume defined-benefit longevity obligations, creating durable, recurring inflows that fund decades of fee-generating AUM. Prudential's PGIM and MetLife lead this sub-market, with pension risk transfers becoming a structural demand driver that the retirement crisis only accelerates.",
+          "companies": ["Prudential Financial", "MetLife", "The Carlyle Group", "Marsh & McLennan Companies"],
+          "key_question": "Who profits when a corporate pension fund hands its obligations to an insurance-linked asset manager — and who carries the longevity risk?"
+        },
+        {
+          "sub_slug": "retail-democratization",
+          "title": "The Retail Unlock: Selling Private Markets to Main Street",
+          "angle_type": "sub-pattern",
+          "focus": "Having exhausted institutional LP capacity, the largest alternative managers are now distributing private equity, private credit, and infrastructure funds through registered investment advisors and wealth channels — KKR's K-Series, Blackstone's BREIT model, Franklin's alternatives AUM ($294.2B record), and Invesco's private markets ($130.7B). The democratization story widens the fee base while shifting illiquidity risk onto retail-adjacent investors who lack the liquidity buffers of pension funds.",
+          "companies": ["KKR & Co.", "Blackstone", "Franklin Resources", "Invesco Ltd.", "T. Rowe Price Group"],
+          "key_question": "What happens when private-market illiquidity risks are distributed to individual investors through advisor channels?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Machinery of Profit",
+      "angles": [
+        {
+          "sub_slug": "company-deepdive-apollo",
+          "title": "Apollo's Two-Engine Machine: Fee Earnings Meet Spread Earnings",
+          "angle_type": "company-deepdive",
+          "focus": "Apollo is the clearest proof that the colonization is structural, not cyclical: its $1.05T AUM (Q2 2026) earns fee-related earnings ($785M in Q2 2026) AND spread-related earnings through Athene ($877M in Q2 2026), making it simultaneously an asset manager and a credit-manufacturing balance sheet. More than $300B in annual origination — investment-grade and private credit funneled into insurance and retirement channels — makes Apollo less a fund manager and more a private-market financial intermediary.",
+          "companies": ["Apollo Global Management"],
+          "key_question": "How did Apollo build a model that earns both management fees and bank-like spread income without being regulated as a bank?"
+        },
+        {
+          "sub_slug": "who-profits-fee-arbitrage",
+          "title": "The Fee Arbitrage: Who Actually Captures the Value",
+          "angle_type": "who-profits",
+          "focus": "The economic logic of the colonization is a fee-rate arbitrage: bank deposits and mutual funds earn 5–40 basis points for intermediation; private credit, infrastructure, and PE funds charge 100–200 bps management plus 20% carry for the same underlying economic function. The firms that win — KKR (FRE $3.7B, 2025), Ares ($671B AUM, Q2 2026 record), Blackstone ($1.27T AUM, 45.9% adjusted operating margin at BlackRock) — capture the spread between what capital costs and what capital earns.",
+          "companies": ["KKR & Co.", "Ares Management Corporation", "Blackstone", "BlackRock"],
+          "key_question": "Where does the fee value sit in the colonization food chain — GP founders, LP allocators, or distribution channel operators?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Fragility Underneath",
+      "angles": [
+        {
+          "sub_slug": "who-pays-burden-carriers",
+          "title": "Who Pays: The Hidden Cost of Privatized Credit",
+          "angle_type": "who-pays",
+          "focus": "The costs of the colonization fall on three groups in descending visibility: limited partners (pension funds, retail investors through advisor channels) paying 2-and-20 fees on products that mutual funds deliver for 40 bps; bank customers who face tighter credit because bank capital is now more constrained after 2022 failures; and communities — particularly small businesses — that historically depended on relationship bank lending now crowded out by capital allocated toward higher-return private borrowers. Affirm's 48% GMV growth (Q3 2026) shows how even consumer installment credit has migrated outside regulated banking.",
+          "companies": ["Affirm Holdings", "Loews Corporation", "American Express", "Invesco Ltd."],
+          "key_question": "Which borrowers and savers absorb the costs when credit creation moves from regulated, visible institutions into private, opaque structures?"
+        },
+        {
+          "sub_slug": "tension-systemic-opacity",
+          "title": "The Blind Spot: What Regulators Cannot See When the Next Crisis Hits",
+          "angle_type": "tension",
+          "focus": "Private credit portfolios are illiquid in ways bank deposits are not, and the regulatory safety net — deposit insurance, Fed facilities, Basel oversight — does not extend to them. When the exit environment weakens (Carlyle's realized net performance revenues swung from $21M in Q1 2026 to $115M in Q2 2026), the volatility is absorbed by LPs who cannot redeem. Systemic risk has migrated into structures that are opaque to regulators, carry no public backstop, and concentrate illiquidity risk precisely where liquidity is most needed in a crisis.",
+          "companies": ["The Carlyle Group", "Ares Management Corporation", "Brookfield Corporation", "Prudential Financial"],
+          "key_question": "If private credit is now credit, what happens to the financial system in a liquidity crisis when the new credit providers cannot be bailed out?"
+        }
+      ]
+    }
+  ]
+}

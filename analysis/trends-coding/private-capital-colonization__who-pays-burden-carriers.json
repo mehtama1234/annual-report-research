@@ -1,0 +1,91 @@
+{
+ "slug": "who-pays-burden-carriers",
+ "trend_slug": "private-capital-colonization",
+ "name": "Who Pays: The Hidden Cost of Privatized Credit",
+ "deck": "Affirm's 48% Q3 2026 GMV growth shows consumer installment credit escaping regulated banking, while investors in private credit and alternative funds pay 2-and-20 fees on products mutual funds deliver for 40 basis points.",
+ "core_bet": "Private-capital colonization extracts costs from three groups in order of visibility. Retail investors and institutional limited partners pay explicit fee premiums (2-and-20 on private credit funds vs. 40-50 basis points on public mutual funds) for products that often underperform. Bank customers and small businesses lose access to relationship-based lending as capital flows toward higher-return private assets. Communities lose the credit infrastructure that once served SMBs, creating a secondary market for predatory lending and making small-business formation harder. Affirm's explosive growth (48% GMV in Q3 2026, 146% Affirm Card growth) shows that even consumer credit—traditionally the most visible and regulated form of lending—is now being captured by alternative-finance operators that operate outside banking regulation but enjoy similar capital access.",
+ "numbers": [
+  {
+   "stat": "48%",
+   "label": "Affirm Q3 2026 total GMV growth, showing consumer credit escaping regulated banking"
+  },
+  {
+   "stat": "$11.6B",
+   "label": "Affirm Q3 2026 quarterly GMV showing scale of unregulated installment credit flowing through tech platforms"
+  },
+  {
+   "stat": "146%",
+   "label": "Affirm Card GMV growth in Q3 2026 to $2.1B, outpacing core BNPL and showing card-linked repeat usage"
+  },
+  {
+   "stat": "72%",
+   "label": "Affirm FY2025 GMV from interest-bearing monthly installments, capturing consumer credit traditionally held by banks"
+  },
+  {
+   "stat": "$36.7B",
+   "label": "Affirm FY2025 total gross merchandise volume, scale equivalent to mid-sized consumer bank"
+  },
+  {
+   "stat": "$1.7B",
+   "label": "Loews Corporation 2025 net income, showing insurance float as still central to alternative-asset generation"
+  },
+  {
+   "stat": "26.8M",
+   "label": "Affirm Q3 2026 active consumers, up 22% YoY, showing embedded credit becoming expected at checkout"
+  },
+  {
+   "stat": "40bps-2%",
+   "label": "Fee spread between passive mutual funds and private credit funds for similar underlying credit exposure"
+  }
+ ],
+ "mechanism": [
+  "The cost structure of private-capital colonization is buried in three layers, each making the burden invisible to the final customer. At the surface, institutional investors (pension funds, endowments, wealth managers) allocate capital to private-credit funds and alternative-asset managers paying 2-and-20 fee structures (2% management fee, 20% carry on profits). For equivalent credit exposure, publicly traded credit funds or mutual funds charge 40-50 basis points annually. The fee differential alone—roughly 150-200 basis points per year—flows to the alternative manager and away from pension beneficiaries or retail savers. Affirm exemplifies this: it raises capital from venture investors at implied valuations that assume it captures merchant-funding spreads, interest income from installments, and card-linked fees. Traditional banks, subject to deposits-insurance regulations and liquidity requirements, cannot pay those implied returns. So capital systematically flows toward Affirm even though it finances the same consumer transactions that a bank could.",
+  "Beneath that visible fee layer is a credit allocation problem. When capital flows into private credit seeking 12-15% returns, it competes for the same borrowers (SMBs, real estate, consumer installment) that banks once financed at 6-8% spreads. Private-credit managers and alternative operators bid up prices for the highest-quality credit (Affirm focuses on 'near-prime' and 'prime' consumers), leaving banks with lower-quality borrowers, forced either to raise spreads (making credit more expensive for vulnerable borrowers) or to exit the market entirely. Loews owns CNA, an insurance company with float that can be deployed into credit strategies; that float itself is cheaper capital than deposits due to tax and regulatory arbitrage. The result is a bifurcated credit market: prime credit flows to private capital operators at low spreads, while subprime or relationship-dependent credit (small businesses that need a loan officer's judgment, or consumers with thin credit histories) gets either more expensive or disappears.",
+  "The final layer is systemic. When credit creation moves from regulated banks (which must maintain capital buffers, pass stress tests, and limit leverage) into private-equity-backed operators and alternative funds (which operate in a lighter regulatory envelope), credit supply becomes more procyclical. In good times, private capital floods into credit, driving explosive growth (Affirm's 48% GMV growth). In downturns, private capital withdraws or gets hamstrung by LP redemptions and mark-to-market losses, and credit collapses faster than the traditional banking system would allow. Communities and small businesses—lacking the scale to access capital markets—bear the brunt of that collapse. The burden of supporting credit availability shifts from regulated banks (where capital requirements force some continuity of lending) to private operators (who can exit instantly)."
+ ],
+ "why_now": "Three shifts have accelerated privatization. First, regulatory pressure post-2008 made traditional banking less profitable: capital requirements, stress tests, and regulatory scrutiny cut ROE, pushing capital toward less-regulated alternatives. Second, asset managers recognized that credit is a profitable intermediate layer if you can source capital cheaply (from LPs, insurance float, or capital markets) and avoid regulated-bank costs. Third, technology has made origination frictionless: Affirm's AdaptAI and BoostAI systems can underwrite and approve in real-time without loan officers, making the traditional bank's labor-intensive model obsolete. Affirm's $36.7B FY2025 GMV and explosive growth show that capital has figured out it can build credit supply without any of the traditional bank infrastructure. The inflection is urgent because regulatory windows are closing. After SVB and related 2023 bank failures, regulators are focusing on bank capital, liquidity coverage, and stress-testing. Those moves will further constrain bank lending, pushing more credit creation toward alternative operators. Meanwhile, private-credit fundraising reached record levels in 2025-2026, suggesting LPs are committing fresh capital to alternative credit at accelerating rates.",
+ "who_pays": "Three groups pay in different ways. Pension beneficiaries and retail savers pay through higher fees (2-and-20 vs. 40 bps) and worse returns when private funds underperform public indices, as they often do when you account for fees and J-curve drag. Small-business owners pay through credit scarcity and higher spreads: as prime lending flows to private capital, SMBs compete for the credit that banks still offer, at higher rates. Consumers in thin-credit-history categories pay through either exclusion (Affirm focuses on 'near-prime' and above, leaving subprime to payday lenders and predatory operators) or through higher rates when they do get access. Communities lose small-business lending infrastructure: if a bank's relationship-lending unit closes because deposits are being drained to earn higher returns in private credit, that community loses the ability to finance neighborhood businesses.",
+ "who_profits": "Private-capital operators (Affirm, private-equity-backed credit platforms, alternative-asset managers) capture the value. Affirm's Q3 2026 adjusted operating income was 27% of revenue, a margin that traditional banks cannot achieve due to regulatory and funding costs. Loews profits by deploying insurance float (which regulatory arbitrage makes cheaper than deposits) into investment strategies that return more than Treasuries. Alternative-asset managers profit through fee collection, carry, and deal sourcing. The chain of profit moves from pensioners and savers (who pay the fees) to LPs and operators (who collect them).",
+ "tension": "The tension is unsustainable fee compression. If private-credit funds outperform and LP demand stays high, fee pressure eases. But Affirm's profitability depends on capital remaining cheap, origination staying frictionless, and credit losses staying low. A recession, rising capital costs, or credit tightening at scale all threaten the economics. Moreover, regulatory scrutiny will eventually reach private credit: once policymakers notice that $15T+ of non-bank credit creation is happening outside regulated banking, pressure will mount for either regulatory capture or capital restriction. The secondary tension is credit allocation: if private capital siphons all the good credit, the banking system becomes a residual holder of bad credit, raising systemic fragility. Finally, the LP fee dynamic creates a transparency problem: pension funds and retail investors may not realize they are paying 2-and-20 for credit exposure that public funds offer for 40 bps.",
+ "surprising_part": "The most surprising fact is that Affirm Card GMV grew 146% in Q3 2026 while core BNPL growth plateaued. This shows the real profit is not in one-time purchase financing but in building a payment network with repeat usage and card-linked economics. Affirm is becoming a bank-like system without being a bank, with credit, cards, and merchant relationships all integrated. That is harder to regulate, more resilient, and more profitable than the traditional BNPL thesis suggested.",
+ "one_sentence": "Private capital colonizes credit creation by capturing high-quality borrowers at low spreads while leaving regulated banks with residual, lower-return portfolios—and passing the fee costs to pensioners.",
+ "societal_stake": "If credit creation increasingly flows outside regulated banking, the public loses the stability that regulation provides: capital buffers, stress-testing, and mandatory lending continuity. In downturns, credit withdraws faster than the traditional banking system would allow, hitting small businesses and communities hardest. Pensioners and savers lose real returns to fee extraction that benefits alternative managers and operators. And the credit-allocation system becomes more bifurcated: prime borrowers get cheap capital from alternative funds, while subprime and relationship-dependent borrowers get either excluded or served by increasingly predatory lenders filling the gap left by traditional banking.",
+ "evidence": [
+  {
+   "company": "Affirm Holdings",
+   "fact": "Q3 2026 GMV grew 48% to $11.6B, showing consumer installment credit escaping regulated banking at scale"
+  },
+  {
+   "company": "Affirm Holdings",
+   "fact": "Affirm Card GMV grew 146% in Q3 2026 to $2.1B, showing card-linked repeat usage building bank-like switching costs"
+  },
+  {
+   "company": "Affirm Holdings",
+   "fact": "FY2025 GMV of $36.7B with 72% from interest-bearing monthly installments—equivalent to mid-sized consumer bank credit portfolio"
+  },
+  {
+   "company": "Affirm Holdings",
+   "fact": "Q3 2026 active cardholders more than doubled to 4.4M, and over 65% of U.S. loan approvals were presented as 0% APR offers"
+  },
+  {
+   "company": "Affirm Holdings",
+   "fact": "Q3 2026 adjusted operating income of 27% of revenue—a margin traditional banks cannot achieve due to regulatory and funding costs"
+  },
+  {
+   "company": "Loews Corporation",
+   "fact": "2025 net income of $1.7B deployed through insurance float into investment strategies that generate private-capital returns"
+  },
+  {
+   "company": "American Express",
+   "fact": "Competes with Affirm-like operators for merchant conversion and installment-finance relationships at checkout"
+  },
+  {
+   "company": "Invesco Ltd.",
+   "fact": "Manages alternative-credit funds at 2-and-20 fee structures, extracting value from LPs seeking yield"
+  },
+  {
+   "company": "Affirm Holdings",
+   "fact": "Q1 2026: active consumers reached 24.1M (up 24% YoY) and 0% APR GMV grew 74%, showing credit penetration deepening"
+  }
+ ]
+}

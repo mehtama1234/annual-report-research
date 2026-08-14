@@ -1,0 +1,86 @@
+{
+  "slug": "ritual-economy",
+  "name": "The Ritual Economy",
+  "overview_deck": "While discretionary spending collapses under affordability pressure, the companies embedded inside daily habits, life-stage ceremonies, and identity rituals are reporting record profitability — because a ritual does not need to be re-sold at each transaction.",
+  "groups": [
+    {
+      "group_title": "Why Rituals Hold",
+      "angles": [
+        {
+          "sub_slug": "origin-ritual-vs-discretionary-split",
+          "title": "The Great Sorting: How Affordability Pressure Exposed the Ritual Floor",
+          "angle_type": "origin",
+          "focus": "From 2022 onward, consumer spending fractured along a single fault line — not luxury vs. mass, but ritual vs. optional. The structural origin of the Ritual Economy is the affordability squeeze that forced households to cut everything except the behaviors tied to identity, habit, and social obligation.",
+          "companies": ["Starbucks Corporation", "Chewy, Inc.", "Colgate-Palmolive Co.", "Signet Jewelers Limited"],
+          "key_question": "What macro inflection made ritual stickiness visible as a competitive moat rather than background noise?"
+        },
+        {
+          "sub_slug": "sub-pattern-daily-beverage-ritual",
+          "title": "The Morning Transaction: How Beverage Brands Colonized the Daily Routine",
+          "angle_type": "sub-pattern",
+          "focus": "Morning coffee is among the most price-inelastic consumer behaviors in the dataset — Starbucks turned comparable transaction growth positive after eight quarters of decline by investing in service quality, while Dutch Bros posted 13 consecutive quarters of positive same-shop sales by engineering the drive-thru as a frictionless daily ceremony, not a restaurant visit.",
+          "companies": ["Starbucks Corporation", "Dutch Bros Inc."],
+          "key_question": "Why do beverage rituals resist substitution even when consumers cut other food-away-from-home spending?"
+        },
+        {
+          "sub_slug": "sub-pattern-pet-parenthood-routine",
+          "title": "Pet Parenthood as Household Utility: The Ritual That Beats Recession",
+          "angle_type": "sub-pattern",
+          "focus": "Pet care shifted from indulgence to managed essential household routine — Chewy's 84% Autoship mix and $595 net sales per active customer are structural evidence that the pet-parent identity ritual creates recurring purchase behavior that operates outside normal discretionary budget reviews.",
+          "companies": ["Chewy, Inc.", "Colgate-Palmolive Co. (Hill's Pet Nutrition)", "Silgan Holdings Inc."],
+          "key_question": "How did pet parenthood become an identity-anchored ritual that consumers protect even when cutting other household spending?"
+        },
+        {
+          "sub_slug": "sub-pattern-life-milestone-gifting",
+          "title": "Marking the Moment: The Economics of Life-Stage Ceremony Spending",
+          "angle_type": "sub-pattern",
+          "focus": "Bridal, anniversary, and gifting occasions function as spending that is socially obligatory rather than discretionary — Signet's bridal segment grew 6% and fashion 8% in a quarter when broader consumer confidence was deteriorating, while Build-A-Bear monetizes the Heart Ceremony itself, not just a plush unit.",
+          "companies": ["Signet Jewelers Limited", "Build-A-Bear Workshop, Inc.", "Etsy, Inc."],
+          "key_question": "Why does milestone and occasion spending survive affordability pressure that collapses aspirational and hedonic categories?"
+        }
+      ]
+    },
+    {
+      "group_title": "Who Wins and How",
+      "angles": [
+        {
+          "sub_slug": "company-deepdive-chewy",
+          "title": "Chewy's Autoship Empire: Inside the Pet-Care Ritual Machine",
+          "angle_type": "company-deepdive",
+          "focus": "Chewy is the purest case study in ritual monetization architecture — by designing Autoship as the default, embedding pharmacy and prescription services into the pet-parent relationship, and treating the mobile app as a care-management interface rather than a checkout button, the company converted a commodity category into a recurring relationship generating record free cash flow of $562M in FY2025 despite a 'dynamic consumer backdrop.'",
+          "companies": ["Chewy, Inc."],
+          "key_question": "What does the inside of a ritual-economy business model actually look like — and how does Chewy ensure the habit stays locked?"
+        },
+        {
+          "sub_slug": "who-profits-ritual-infrastructure",
+          "title": "The Loyalty Layer: Stored Value, Rewards, and Who Captures the Ritual Premium",
+          "angle_type": "who-profits",
+          "focus": "The value in the Ritual Economy is captured not by the product but by the infrastructure that mediates the ritual — Starbucks' stored-value and Rewards system creates deferred revenue from customer money held before a purchase is made; Dutch Bros' app-linked loyalty turns frequency into data ownership; Chewy's Autoship turns consent into recurring shipment authority.",
+          "companies": ["Starbucks Corporation", "Dutch Bros Inc.", "Chewy, Inc.", "Signet Jewelers Limited"],
+          "key_question": "Where exactly does the margin premium from ritual stickiness get captured — and which layer of the value chain captures most of it?"
+        }
+      ]
+    },
+    {
+      "group_title": "Where the Model Breaks",
+      "angles": [
+        {
+          "sub_slug": "who-pays-ritual-colonization",
+          "title": "The Colonized Moment: What It Costs When a Brand Owns Your Ritual",
+          "angle_type": "who-pays",
+          "focus": "When brands successfully embed themselves inside identity rituals, they acquire pricing authority over behaviors consumers cannot easily abandon — Colgate's 'habitual science-based consumption' positioning is explicitly designed to defend price premiums against private-label substitution, while Signet's control of the engagement ring narrative shapes what milestone ceremonies cost and what counts as an adequate expression of commitment.",
+          "companies": ["Colgate-Palmolive Co.", "Signet Jewelers Limited", "Starbucks Corporation", "Build-A-Bear Workshop, Inc."],
+          "key_question": "Who bears the cost when a corporation colonizes a daily habit or life-stage ceremony — and how visible is that cost to the people paying it?"
+        },
+        {
+          "sub_slug": "tension-ritual-disruption-vectors",
+          "title": "When the Habit Breaks: Private Label, Demographic Shift, and Category Substitution",
+          "angle_type": "tension",
+          "focus": "Three disruption vectors threaten ritual incumbents: private label capturing oral-care habitual spend despite brand investment (Clorox losing share while Colgate barely holds); demographic substitution as Gen Z coffee behavior diverges from Millennial drive-thru models; and experiential competition explicitly acknowledged by Signet as travel and experiences compete with milestone jewelry.",
+          "companies": ["The Clorox Company", "Colgate-Palmolive Co.", "Dutch Bros Inc.", "Signet Jewelers Limited", "Church & Dwight Co. Inc."],
+          "key_question": "What kills a ritual moat — and which of today's ritual-economy leaders are most exposed to the specific disruption vectors in the current data?"
+        }
+      ]
+    }
+  ]
+}

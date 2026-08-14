@@ -1,0 +1,83 @@
+{
+  "slug": "outage-anxiety-economy__physical-build-layer",
+  "trend_slug": "outage-anxiety-economy",
+  "name": "Physical Build Layer: Specialty Contractors and Resilience Infrastructure",
+  "deck": "Specialty contractors executing resilience builds, data-center construction, and power/cooling/control system modernization. EMCOR reports $17.14B remaining performance obligations; Comfort Systems $14.06B backlog with 51% organic growth; scaled execution and skilled-labor constraints become the binding constraint.",
+  "core_bet": "Resilience infrastructure demand—from data centers to electrical modernization to HVAC and controls upgrades—now depends entirely on execution capacity, not on product availability or capital availability. Specialty contractors with scale, labor depth, and project management discipline capture disproportionate share; labor scarcity becomes the operating bottleneck.",
+  "numbers": [
+    {
+      "stat": "$17.14B",
+      "label": "EMCOR remaining performance obligations (Q2 2026)"
+    },
+    {
+      "stat": "$16.99B",
+      "label": "EMCOR FY2025 revenue (record)"
+    },
+    {
+      "stat": "$28.19",
+      "label": "EMCOR FY2025 diluted EPS"
+    },
+    {
+      "stat": "$14.06B",
+      "label": "Comfort Systems USA backlog (Q2 2026)"
+    },
+    {
+      "stat": "51%",
+      "label": "Comfort Systems organic revenue growth (Q1 2026)"
+    },
+    {
+      "stat": "$9.10B",
+      "label": "Comfort Systems FY2025 revenue"
+    },
+    {
+      "stat": "$28.88",
+      "label": "Comfort Systems FY2025 diluted EPS"
+    },
+    {
+      "stat": "14%",
+      "label": "Eaton organic growth"
+    }
+  ],
+  "mechanism": [
+    "Data-center and AI infrastructure construction demand overwhelms pure project capacity. EMCOR's remaining performance obligations jumped to $17.14B (Q2 2026) from $13.25B year-end 2025, with network and communications as the largest driver. This reflects not finished construction but committed backlog waiting for execution. Comfort Systems' backlog surged to $14.06B from $5.99B a year prior, with 51% organic growth in Q1 2026, showing demand that vastly exceeds existing execution teams.",
+    "Labor scarcity becomes the binding constraint, not capital or materials. Comfort Systems explicitly states that the bottleneck is not whether demand exists, but whether enough qualified HVAC, electrical, and mechanical tradespeople exist to convert that demand into completed work. Management notes record backlog paired with 'unprecedented demand' and constant emphasis on 'growing teams' and 'workforce depth.' The company is turning away work because it cannot execute it fast enough.",
+    "Specialty-contractor scale amplifies execution advantage. EMCOR's roughly 100 operating subsidiaries and Comfort Systems' distributed HVAC and electrical teams benefit from labor pools, acquisition targets, and project management discipline that smaller contractors lack. This creates a moat: the demand is available to anyone, but only scaled operators with deep labor markets and integrated management can capture it profitably."
+  ],
+  "why_now": "Through 2025-2026, resilience infrastructure demand accelerates because: (1) data-center and AI buildout continues at capacity levels, (2) power grid modernization and decarbonization require electrical and mechanical updates, (3) water and wastewater infrastructure replacement is mandated, (4) healthcare and institutional facility upgrades remain strong, and (5) commercial building complexity (cloud, controls, automation) continues to rise. Simultaneously, skilled-trade labor has not kept pace; the supply of qualified electricians, HVAC technicians, and mechanical crews remains constrained.",
+  "who_pays": "Data-center operators and cloud providers funding construction and infrastructure contracts; facility owners and operators paying for electrical, mechanical, HVAC, and building-automation upgrades; municipalities funding water and wastewater infrastructure replacement; commercial and institutional facility operators absorbing higher labor costs through contractor pricing; end consumers indirectly funding through higher data-center services and facility-dependent product costs.",
+  "who_profits": "EMCOR, Comfort Systems, and peer specialty contractors with scale and labor depth. These companies can maintain high gross margins because demand vastly exceeds supply, allowing them to raise pricing and selectivity on projects. Smaller regional contractors lose share to aggregators. Equipment manufacturers benefit from upgraded HVAC, electrical, and building-control sales. Labor itself remains scarce, but organized contractors benefit most.",
+  "tension": "The specialty-contractor model breaks if: (1) labor-training pipeline accelerates and supply normalizes, (2) economic slowdown reduces data-center and infrastructure investment, (3) larger construction or engineering firms build competing capacity, (4) automation of mechanical and electrical tasks progresses faster than expected, or (5) execution quality deteriorates under pressure to burn backlog. Both EMCOR and Comfort Systems risk project-quality issues or cost overruns if they scale too aggressively.",
+  "surprising_part": "Comfort Systems' $14.06B backlog growing 51% organically (Q1 2026) represents work that the company has already been awarded but cannot execute. This is not pipeline optimism; it is committed customer orders waiting for crew availability. That backlog-to-revenue ratio implies 1.5+ years of work at current burn rates—an extraordinary constraint situation for a contractor. The surprise is not that demand is strong; it is that demand is strong enough that the company is in the unusual position of rationing its execution capacity.",
+  "one_sentence": "Resilience infrastructure demand now exceeds execution capacity, giving scaled specialty contractors pricing power and the unusual burden of turning away profitable work due to labor constraints.",
+  "societal_stake": "When infrastructure execution becomes the bottleneck rather than capital or materials, it signals that the U.S. economy faces a skilled-labor deficit that cannot be easily solved through automation or outsourcing. Data-center and power-system modernization are essential infrastructure, but they depend on electricians, HVAC technicians, and mechanical crews that remain scarce. If labor supply continues lagging demand, infrastructure projects will slow, costs will rise, and smaller communities may fall behind in resilience investments.",
+  "evidence": [
+    {
+      "company": "EMCOR Group",
+      "fact": "Remaining performance obligations (backlog) of $17.14B in Q2 2026, up from $13.25B at year-end 2025; revenue reached record $16.99B in FY2025 with diluted EPS of $28.19; largest RPO growth in network/communications, data-center, water/wastewater, and institutional projects"
+    },
+    {
+      "company": "EMCOR Group",
+      "fact": "Q2 2026 guidance raised to $32.00-$33.25 diluted EPS; management explicitly linked industry growth to cloud, AI, data storage, and data-center buildout plus energy-transition and reshoring activity"
+    },
+    {
+      "company": "Comfort Systems USA",
+      "fact": "Backlog surged to $14.06B in Q2 2026 from $5.99B a year prior; Q1 2026 organic revenue growth of 51%; FY2025 operating cash flow of $1.19B on $9.10B revenue shows cash generation despite tight labor markets"
+    },
+    {
+      "company": "Comfort Systems USA",
+      "fact": "Management explicitly emphasizes 'unprecedented demand,' 'growing teams,' and 'workforce depth' as the operating focus; company notes record backlog but frames the challenge as execution capacity and skilled-labor availability, not market demand"
+    },
+    {
+      "company": "Eaton Corporation",
+      "fact": "Q2 2026 sales were a record $8.531B with 14% organic growth; the electrical/power-distribution segment is where power availability becomes the binding constraint on AI deployment. FY2025 delivered record sales of $27.448B, 8% organic growth, and record 24.5% segment margins, with data centers cited as a key driver and full-year 2026 organic-growth guidance raised to 11-13%."
+    },
+    {
+      "company": "Powell Industries Inc.",
+      "fact": "Q3 FY2026 new orders hit a record $934M with backlog rising to $2.4B and a book-to-bill of 3.0x — meaning orders came in at three times the rate of revenue recognition, direct evidence that demand for electrical distribution and data-center power design far outpaces execution capacity."
+    },
+    {
+      "company": "Trane Technologies",
+      "fact": "Q2 2026 organic bookings up 37% with backlog reaching a record $12.1B (from ~$7.8B at year-end 2025); Americas Commercial HVAC bookings up 50%, driven in part by data-center HVAC, controls, and liquid cooling — the cooling half of the resilience build cycle."
+    }
+  ]
+}

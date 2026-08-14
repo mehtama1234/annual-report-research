@@ -1,0 +1,76 @@
+{
+  "slug": "generac-deepdive",
+  "trend_slug": "outage-anxiety-economy",
+  "name": "Generac's Bifurcation: When the Same Company Sells to Homeowners and Hyperscalers",
+  "deck": "Generac is repricing backup electricity as a strategic asset: residential sales to anxious homeowners are flat-to-declining, while C&I external net sales to data-center operators and enterprises are accelerating 28-29%, creating a margin bifurcation that reveals how the same physical infrastructure serves radically different buyer economics.",
+  "core_bet": "Generac is experiencing a bifurcation in customer economics that mirrors the outage-anxiety economy itself. Residential standby generators ($617M in Q2 2026, down 2% year-over-year) are mature products selling insurance against personal utility failure. Commercial and industrial generators ($556M in Q2 2026, up 29% year-over-year) are infrastructure-as-a-service components for data centers and hyperscalers who cannot tolerate grid dependence. The same technology platform commands vastly different price points and urgency across these two customer sets.",
+  "numbers": [
+    {
+      "stat": "29%",
+      "label": "C&I external net sales growth in Q2 2026"
+    },
+    {
+      "stat": "$556M",
+      "label": "C&I external net sales in Q2 2026"
+    },
+    {
+      "stat": "$617M",
+      "label": "Residential external net sales in Q2 2026 (down 2% YoY)"
+    },
+    {
+      "stat": "$1.6B",
+      "label": "Data-center backlog (Q2 2026) after two hyperscaler global supply agreements"
+    },
+    {
+      "stat": "$71M",
+      "label": "Tariff refund benefit in Q2 2026 (boosted margins)"
+    },
+    {
+      "stat": "24.8%",
+      "label": "Q2 2026 adjusted EBITDA margin"
+    },
+    {
+      "stat": "2%",
+      "label": "Full-year 2025 net sales decline to $4.21B"
+    },
+    {
+      "stat": "53.9%",
+      "label": "Residential products as percentage of 2025 net sales (down from 56.6% in 2024)"
+    }
+  ],
+  "mechanism": [
+    "Generac operates two fundamentally different businesses under one brand. The residential business sells psychological insurance against grid failure. A homeowner who lives in an outage-prone market (Florida, California, Texas) purchases a standby generator as protection against spoiled food, lost HVAC, and disrupted routines. The purchase decision is driven by outage frequency, storm season intensity, and household risk tolerance—not by hyperscaler capex discipline or power-purchase-agreement pricing. These customers are price-sensitive and weathering-dependent; they buy at peaks of outage anxiety and go dormant in calm periods.",
+    "The C&I business is inverted. A hyperscaler like Google or Meta building a data-center campus signs multi-year power-purchase agreements that specify uptime requirements and penalty clauses. Backup generation is not optional—it is a contractual requirement. A facility that loses power loses millions of dollars per minute. Generac's systems are not sold as generators; they are sold as redundancy components in mission-critical infrastructure. The margin structure is entirely different: hyperscalers will pay substantial premiums for reliability, speed of installation, and proven track record.",
+    "The bifurcation is accelerating visibly. Q2 2026 showed residential sales down 2% ($617M) while C&I sales grew 29% ($556M). Generac says it has signed global supply agreements with leading hyperscalers and expanded data-center backlog to $1.6B. The company is explicitly investing in vertical integration and facility expansion (Allmand, Enercon, Belvidere facility) to handle the higher complexity and volume of large-megawatt systems. But the same manufacturing footprint, supply chain, and dealer network must serve both segments.",
+    "The margin trap is that residential demand is unpredictable and deflationary, while C&I demand is growing but requires higher capital intensity and more complex engineering. Q2's 24.8% adjusted EBITDA margin benefited from a $71M tariff refund—without that, margins would be much tighter. The company must choose between defending residential volumes (which requires promotional spending and dealer incentives) or pivoting to C&I (which requires vertical integration, engineering depth, and customer concentration risk)."
+  ],
+  "why_now": "Three factors converge to create the bifurcation. First, residential outage anxiety has plateaued or reversed: the combination of renewable deployment, grid modernization efforts, and recently calm hurricane seasons have reduced perceived outage risk. Second, data-center growth is accelerating faster than grid expansion can keep pace, forcing hyperscalers to treat backup power as an integral part of their infrastructure strategy. Third, tariff volatility and supply-chain normalization have made purchasing economics more favorable for large contracts than for retail distribution. A hyperscaler can absorb tariff swings through long-term agreements; a homeowner financing a $10K generator cannot.",
+  "who_pays": "Residential customers subsidize C&I growth through dealer-network economics: Generac must maintain a broad dealer base to serve homeowners, but those dealers now compete with direct sales and engineering firms serving hyperscalers. The result is dealer margin compression. Energy-constrained communities in outage-prone regions bear the risk of being priced out: as Generac de-emphasizes residential standby, availability and affordability decline for the customers most dependent on it. Workers in divested facilities (Belvidere consolidation) lose jobs in favor of higher-automation C&I production.",
+  "who_profits": "Hyperscalers and large enterprises benefit disproportionately: they lock in long-term backup power capacity at scale, shifting cost and reliability risk to Generac's balance sheet. Generac shareholders profit from the C&I margin expansion, even as residential margins compress. Investors in the company benefit from the narrative shift from mature residential to high-growth data-center business, which commands higher multiples.",
+  "tension": "The first tension is customer concentration: hyperscaler agreements are large but few. The $1.6B backlog is meaningful, but it represents two or three customers, not thousands. If a major customer delays, scales back, or shifts to an alternative supplier, Generac's guidance suffers immediately. The second tension is operational: residential demand is unpredictable and driven by weather and emergency mood, while C&I demand requires predictable engineering, quality, and uptime. Scaling C&I while maintaining residential service is operationally complex. A third tension is tariff exposure: the $71M tariff refund in Q2 2026 is a one-time benefit that masked underlying margin pressure. Without that refund, the quarter looks much weaker. A final tension: if the residential business shrinks below critical mass, the dealer network collapses, and Generac loses the distribution infrastructure it has built over decades.",
+  "surprising_part": "What stands out is how openly Generac has stopped defending residential growth. Residential net sales fell 7% in 2025 (full year), fell 2% in Q2 2026, and management is framing this as normal rather than concerning. That is a significant shift from a company that built itself on standby-generator ubiquity. The surprise is that management is willing to let residential shrink because C&I growth and margins more than offset it. A second surprise is the speed of hyperscaler adoption: Generac moved from pilot programs to $1.6B of backlog in roughly two years. The third surprise is that the company is using acquisitions (Allmand, Enercon) to build vertical integration and large-system capability rather than organically scaling—a sign that it wants to de-risk the C&I transition and lock in engineering talent and manufacturing capacity.",
+  "one_sentence": "When backup electricity becomes infrastructure, the same generator sells at vastly different margins to homeowners versus hyperscalers, forcing a company to choose which customer it wants to serve.",
+  "societal_stake": "The bifurcation narrows resilience options for middle- and working-class households. Generac standby generators are already expensive ($5,000-$25,000 installed). As the company pivots to C&I, residential availability declines and pricing rises. Communities and households that depend on these generators—elderly, disabled, low-income, outage-prone regions—lose access to affordable resilience. Meanwhile, hyperscalers and large enterprises lock in power reliability that ordinary citizens cannot afford. This reinforces inequality: the wealthy and powerful can guarantee their uptime; the vulnerable are stranded.",
+  "evidence": [
+    {
+      "company": "Generac Holdings Inc.",
+      "fact": "Q2 2026 net sales rose 11% to $1.17 billion; residential external net sales fell 2% to $617 million while C&I external net sales rose 29% to $556 million"
+    },
+    {
+      "company": "Generac Holdings Inc.",
+      "fact": "Company signed global supply agreement with leading hyperscale operator and secured second hyperscale agreement on 2026-06-24; data-center backlog expanded to approximately $1.6 billion excluding additional committed volumes"
+    },
+    {
+      "company": "Generac Holdings Inc.",
+      "fact": "Q2 2026 adjusted EBITDA was $291 million or 24.8% of net sales; $71 million pretax tariff refund materially boosted gross margin and EBITDA"
+    },
+    {
+      "company": "Generac Holdings Inc.",
+      "fact": "Full-year 2025 net sales fell 2% to $4.21 billion; residential product sales fell 7% to $2.27 billion; C&I product sales rose 5% to $1.46 billion"
+    },
+    {
+      "company": "Generac Holdings Inc.",
+      "fact": "Company is dramatically increasing capacity for large megawatt generators and expects data-center opportunities and related investments to help double C&I product sales in years ahead"
+    }
+  ]
+}

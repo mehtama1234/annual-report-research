@@ -1,0 +1,72 @@
+{
+  "slug": "sub-pattern-regulated-utility-load-magnet",
+  "trend_slug": "grids-new-landlords",
+  "name": "The Regional Utility as Data-Center Landlord",
+  "deck": "Regulated utilities with geographic proximity to AI campus corridors are converting large-load customer demand into decades of predictable capital expansion and rate-base growth, shifting construction and financing risk to ratepayers.",
+  "core_bet": "Alliant Energy's Iowa and Wisconsin footprint illustrates how a mid-sized regulated utility becomes a data-center infrastructure landlord. With 3.4 GW of contracted large-load demand and a projected 60% peak-load increase by 2031, Alliant is building a $13.4B capital plan justified entirely by signed Electric Service Agreements with QTS, Google, and Meta. The regulated compact converts hyperscaler growth into predictable, ratepayer-funded returns.",
+  "numbers": [
+    {
+      "stat": "3.4 GW",
+      "label": "Alliant Energy contracted large-load demand (Q1 2026)"
+    },
+    {
+      "stat": "60%",
+      "label": "Alliant projected peak-load increase by 2031 from 2025 levels"
+    },
+    {
+      "stat": "$13.4B",
+      "label": "Alliant capital plan for 2026-2029"
+    },
+    {
+      "stat": "7.6 GW",
+      "label": "Duke Energy total secured data-center ESAs (Q1 2026)"
+    },
+    {
+      "stat": "5 GW",
+      "label": "Duke Energy data-center load already under construction (Q1 2026)"
+    },
+    {
+      "stat": "$103B",
+      "label": "Duke Energy five-year capital plan for 2026-2030"
+    },
+    {
+      "stat": "5-7%",
+      "label": "Alliant Energy long-term adjusted EPS growth target"
+    }
+  ],
+  "mechanism": [
+    "The regulated utility model creates a unique value capture mechanism: the utility signs a long-term Electric Service Agreement with a hyperscaler, commits to build generation, transmission, and distribution infrastructure to serve that load, and recovers all costs through a combination of base rates, formula rates, and advance-ratemaking mechanisms. The load growth itself becomes the justification for capital expansion, and the capital expansion itself becomes the earnings driver.",
+    "Alliant's story makes the mechanism legible. The company entered 2026 with a 60% projected load-increase target by 2031—a massive number for a utility that had grown in single digits for decades. That growth is entirely driven by large-load agreements with data centers. Instead of competing on price or negotiating customer-specific rates, Alliant is using its regulatory compact in Iowa and Wisconsin to offer advance-ratemaking and individualized rate structures. This means the company can commit to capex before the risk of customer disconnection exists, and recover that capex cost across the broader ratepayer base.",
+    "Duke Energy's example shows the same pattern at much larger scale. Duke has secured 7.6 GW of data-center demand (Q1 2026), with 5 GW already under construction. That justifies a $103B five-year capital plan and 14 GW of new capacity by 2031. Like Alliant, Duke is using regulatory tools (advance ratemaking, formula rates, investment-recovery mechanisms) to convert customer demand into earnings visibility. The key insight is that Duke can raise its earnings-per-share growth target to 5-7% through the decade specifically because the capital plan is justified by signed customer agreements—not by speculative demand forecasting.",
+    "The risk transfer is the hidden mechanism. A hyperscaler signs a long-term PPA or ESA, but actual site construction, zoning approval, and supply-chain execution remain the hyperscaler's problem. The utility's problem is different: it must build transmission, substations, and generation to match the timeline and capacity. If the hyperscaler delays or pulls back, the utility still owns the infrastructure. If construction costs rise, the utility absorbs the cost through rate recovery mechanisms. The utility's regulated status means it passes through costs to ratepayers—not shareholders."
+  ],
+  "why_now": "Data-center and AI workload concentration in specific geographic regions (Iowa, the Carolinas, Ohio) has created a structural mismatch: the supply of large-load capacity cannot match demand. Hyperscalers have already identified the sites they need, but the power infrastructure is not there. Regulated utilities in those regions are the only actors that can finance and build the infrastructure at the required speed and scale. The regulatory compact—which guarantees cost recovery and reasonable returns—makes them the natural landlords. This is happening now because: (1) hyperscalers are committing multi-year capex plans and need infrastructure certainty; (2) grid reliability has become a competitive differentiator for data-center sites; (3) renewable buildout requires new transmission, so utilities are expanding capacity anyway; (4) regulatory commissions are receptive to data-center load because it brings economic development and tax revenue to their jurisdictions.",
+  "who_pays": "Existing and future ratepayers in Alliant's service territory (Iowa and Wisconsin) and Duke's service area (the Carolinas, Indiana, Ohio, Kentucky, and Florida) pay for the infrastructure build through rate increases. Alliant explicitly points to affordability as a constraint, saying it keeps Iowa base electric rates stable—but only through a narrow regulatory framework. If the utility cannot recover costs through rate recovery, ratepayers absorb any shortfall. Small businesses and low-income households in these regions face higher electricity costs as the utility's cost base expands. Regional gas utilities also pay an indirect cost: as power demand grows, natural-gas demand for peaking and baseload generation may compress, stranding gas infrastructure and shifting depreciation burdens.",
+  "who_profits": "The regulated utility captures predictable returns through rate recovery and earnings growth tied to capital expansion. Hyperscalers benefit because they offload infrastructure risk to a regulated entity with guaranteed cost recovery. They can build data centers with near-certain power availability at contractually fixed rates. Large shareholders of Alliant and Duke benefit from years of predictable EPS growth (5-7% at Alliant, same at Duke). Contractors and equipment suppliers benefit from the large, long-duration capex programs. Regulatory commissions benefit politically from economic development in their regions.",
+  "tension": "The first tension is stranded capacity risk. Utilities are building infrastructure for specific hyperscaler commitments. If those customers re-evaluate, delay, or move to other regions, the infrastructure becomes underutilized. The cost of that underutilization gets socialized across all ratepayers. The second tension is that this model only works when regulatory commissions are permissive and affordable-rate constraints are loose. If rate pressures intensify or regulation tightens, utilities cannot expand capex at this pace without causing customer backlash. A third tension: hyperscalers are shopping their load across multiple utilities. A company like Alliant could build the infrastructure, but the hyperscaler could switch to a lower-cost region, leaving Alliant with stranded assets. The final tension is that this model privileges large-load customers (data centers) over residential and small-business ratepayers in cost-allocation frameworks.",
+  "surprising_part": "The speed of load-growth recognition is surprising. Alliant had essentially no data-center load in 2023. By Q1 2026, it had 3.4 GW committed and was projecting 60% peak-load growth. That is not a gradual forecast adjustment; it is a regime shift. The utility has reoriented its entire five-year capital plan around it. The second surprise is how openly utilities are embracing the hyperscaler landlord role. There is no pretense of broad economic development or serving the regional economy. The growth is explicitly tied to specific data-center customers under contracts. The third surprise is that this is happening in lower-income Midwest regions (Iowa, parts of the Carolinas) where customers have less political power to resist rate increases.",
+  "one_sentence": "Regulated utilities in data-center corridors become landlords whose capital expansion and earnings growth are justified by hyperscaler commitments, with construction and financing risk transferred to ratepayers.",
+  "societal_stake": "This model accelerates infrastructure inequality: regions with data-center activity get new generation, transmission, and grid modernization. Regions without it see slower infrastructure investment and relative decline. It also redistributes wealth from ratepayers to hyperscalers by locking in low power costs for large customers while bundling infrastructure costs across all ratepayers. For rural and small-business customers, it means rate increases to fund infrastructure they do not use directly. For employment, the data-center jobs are highly technical and capital-intensive, not labor-intensive. The local benefit is modest relative to the infrastructure and rate burden. Finally, it concentrates power-system risk: if hyperscalers consolidate their workloads or relocate en masse, entire regional power systems become stranded.",
+  "evidence": [
+    {
+      "company": "Alliant Energy Corporation",
+      "fact": "Q1 2026 management stated expected load growth by 2031 remained about 60% above 2025 levels, with total contracted demand reaching 3.4 GW"
+    },
+    {
+      "company": "Alliant Energy Corporation",
+      "fact": "Company described Q1 2026 capital plan of $13.4B for 2026-2029 driven by large-customer load materialization"
+    },
+    {
+      "company": "Alliant Energy Corporation",
+      "fact": "Management emphasized disciplined growth tools including individual-customer rates, advance ratemaking, and Iowa base-rate stability through the decade"
+    },
+    {
+      "company": "Duke Energy Corporation",
+      "fact": "Q1 2026 management stated Duke had signed approximately 2.7 GW of additional data-center ESAs, bringing total secured data-center ESAs to roughly 7.6 GW"
+    },
+    {
+      "company": "Duke Energy Corporation",
+      "fact": "Duke raised five-year capital plan to $103B with targeted 14 GW of capacity by 2031 and secured 20 gas turbines through GE Vernova partnership"
+    }
+  ]
+}

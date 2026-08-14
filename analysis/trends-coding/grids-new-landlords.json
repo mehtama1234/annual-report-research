@@ -1,0 +1,39 @@
+{
+  "slug": "grids-new-landlords",
+  "name": "The Grid's New Landlords",
+  "one_line": "Gas pipelines, midstream networks, and utility transmission operators are quietly becoming the indispensable infrastructure beneath the AI economy — collecting tolls on electrons and molecules that neither hyperscalers nor renewable developers can route around.",
+  "axis_mix": ["industrial", "economic", "infrastructure"],
+  "mechanism": "Data centers require continuous, reliable power at scales that intermittent renewables cannot guarantee without storage. Gas infrastructure operators — Williams, Energy Transfer, EQT, Enbridge — are signing long-duration power and LNG supply agreements with data centers and industrial facilities. Utilities like Alliant and NextEra are building transmission specifically to serve contracted hyperscaler loads. The providers who own the wires and pipes between generation and consumption are capturing a structural toll on the AI buildout without bearing technology or demand risk.",
+  "why_now": "The corpus shows a decisive shift in 2025-2026: Williams Companies raised 2026 EBITDA guidance $200M partly driven by power innovation investments; Energy Transfer signed long-term agreements extending into the 2030s; Alliant Energy contracted 3.4GW of data-center demand and projected a 60% load increase by 2031. These are not forecast assumptions — they are signed contracts flowing into infrastructure capex plans.",
+  "who_pays": "Electricity consumers in regulated markets where data-center load growth drives rate increases; communities near new transmission and pipeline routes absorbing siting and construction disruption.",
+  "who_benefits": "Infrastructure operators with existing geographic footprints near AI campus corridors — Williams, Energy Transfer, Atmos Energy, Alliant — who can expand capacity at incremental cost against already-depreciated networks.",
+  "tension": "Grid operators are assuming data-center demand will materialize and persist. If AI buildout slows or demand projections prove optimistic, the capex already committed creates stranded asset risk that rate-payers and equity holders absorb. The regulatory compact that protects utilities also limits how quickly they can adjust when demand assumptions change.",
+  "evidence_companies": [
+    {
+      "company": "Williams Companies",
+      "fact": "Q2 2026 raised EBITDA guidance $200M; Blackstone power-innovation JV and Power Express/Socrates projects explicitly target data-center and industrial power demand; management describes gas transmission morphing into 'LNG-plus-power backbone'"
+    },
+    {
+      "company": "Energy Transfer",
+      "fact": "140,000 miles of pipeline; record NGL exports; long-term agreements extending into 2030s; J-W Power acquisition through USA Compression adding generation capacity as new revenue layer"
+    },
+    {
+      "company": "Alliant Energy",
+      "fact": "Contracted demand 3.4GW including 370MW new Iowa ESA in Q1 2026; $13.4B capital plan 2026-2029; projects 60% peak-load increase by 2031 from AI and industrial siting"
+    },
+    {
+      "company": "NextEra Energy",
+      "fact": "Large-scale renewable portfolio expansion from regulatory mandates; transmission infrastructure investment creating regulated returns; fossil fuel portfolio being exited while AI-adjacent renewable and transmission capacity grows"
+    },
+    {
+      "company": "Atmos Energy",
+      "fact": "$26B capex through FY2030; rate base projected to double from $21.4B to $42B; modernization-driven compounding on local distribution and intrastate pipeline assets"
+    },
+    {
+      "company": "EQT Corporation",
+      "fact": "Conscious choice to prioritize infrastructure over distributions in natural gas; long-cycle infrastructure investment shows alternative to pure shareholder-return posture in energy sector"
+    }
+  ],
+  "societal_stake": "The energy infrastructure built to serve 20th-century industrial demand is being repurposed as the power backbone for 21st-century AI. The companies collecting tolls on this infrastructure hold veto power over AI deployment timelines. Rate-payers — including households — fund the buildout through regulated returns whether or not AI economic gains flow to them.",
+  "merged_from": ["The Grid's New Landlords"]
+}

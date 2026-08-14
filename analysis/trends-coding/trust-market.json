@@ -1,0 +1,86 @@
+{
+  "slug": "trust-market",
+  "name": "The Trust Market",
+  "overview_deck": "As AI floods the information commons with zero-cost synthetic content, verified credibility has become a scarce, priced commodity — and the institutions that hold it are compounding the premium faster than anyone expected.",
+  "groups": [
+    {
+      "group_title": "Why Trust Became Scarce",
+      "angles": [
+        {
+          "sub_slug": "origin-arc",
+          "title": "From Free to Fee: How a Generation of 'Information Wants to Be Free' Broke and What Replaced It",
+          "angle_type": "origin",
+          "focus": "This page traces how the decade-long collapse of advertising-supported mass media, combined with the 2024–2026 flood of AI-generated content, converted editorial credibility from a reputational asset into a directly monetizable one. It maps the specific inflection: NYT digital-only ARPU rising from $9.72 in Q4 2025 to $9.94 in Q2 2026 is not noise — it is the price signal of a market forming around verified truth.",
+          "companies": ["The New York Times Company", "Gannett Co., Inc.", "Comscore", "Fox Corporation"],
+          "key_question": "What specific conditions in 2024–2026 turned institutional credibility from a brand attribute into a line item on a consumer's subscription bill?"
+        },
+        {
+          "sub_slug": "measurement-trust",
+          "title": "The Measurement Layer: When Nobody Trusts the Ruler, Whoever Owns It Wins",
+          "angle_type": "sub-pattern",
+          "focus": "In a fragmented, multi-platform media environment, the credibility of measurement itself has become a product. Comscore's cross-platform currency growing 24–30% while legacy syndicated products decline shows that advertisers and publishers will pay a premium for a trusted third-party arbitration layer — not for raw data, but for verified numbers that all parties in a transaction can accept. This page examines measurement trust as a distinct sub-market inside the broader trust economy.",
+          "companies": ["Comscore", "Gannett Co., Inc.", "Fox Corporation", "Nexstar Media Group"],
+          "key_question": "When media fragmentation makes audience measurement contested, who wins the right to be the trusted scorekeeper — and how do they monetize it?"
+        }
+      ]
+    },
+    {
+      "group_title": "Where the Premium Lives",
+      "angles": [
+        {
+          "sub_slug": "journalism-paywall",
+          "title": "The Subscription Premium: How the New York Times Turned Independent Journalism Into a $2.8B Recurring Revenue Machine",
+          "angle_type": "company-deepdive",
+          "focus": "This page dissects NYT's bundle economics in depth: 13.35M total subscribers, $9.94 digital-only ARPU, digital advertising up 20.7%, and operating costs rising 7.7% as the company deliberately invests in the journalism that justifies the premium. The Athletic, Cooking, Games, Wirecutter, and Audio all sit inside the bundle not as diversification but as daily habit anchors that reinforce the subscriber's willingness to keep paying for a trusted brand. The key argument: trust is not just reputational — it is the cost structure of credibility maintenance amortized across 13M subscribers.",
+          "companies": ["The New York Times Company"],
+          "key_question": "How has NYT structurally converted independent editorial credibility into compounding subscription ARPU at scale, and what does the cost base reveal about the price of maintaining the premium?"
+        },
+        {
+          "sub_slug": "financial-identity-trust",
+          "title": "The Closed-Loop Premium: American Express and the Monetization of Financial Identity Trust",
+          "angle_type": "sub-pattern",
+          "focus": "AmEx is not primarily a credit company — it is a trust infrastructure that consumers pay to affiliate with. Net card fee revenue posted its 30th consecutive quarter of double-digit growth; more than 70% of new accounts are on fee-paying products; and 65% of new account acquisitions come from millennials and Gen Z who are choosing to pay for the AmEx identity signal rather than settling for a free card. This page frames the AmEx membership model as a parallel trust market to journalism: consumers paying for a credibility anchor in their financial identity.",
+          "companies": ["American Express Company"],
+          "key_question": "Why are consumers — especially younger ones — paying growing fees to affiliate with a financial brand, and what does that reveal about trust as a premium product beyond information?"
+        },
+        {
+          "sub_slug": "government-trust-moat",
+          "title": "Classified Credibility: How Government Trust Certification Becomes an Unassailable Competitive Moat",
+          "angle_type": "sub-pattern",
+          "focus": "Leidos derives 87% of FY2025 revenue from U.S. government contracts and holds a $48.7B total backlog precisely because government trust — security clearances, classified network access, compliance certification — cannot be manufactured quickly or cheaply. The Entrust acquisition adding trusted-identity and infrastructure capability is a deliberate move to extend the trust moat into digital identity infrastructure. This page examines sovereign trust as the highest-value, most-durable sub-market in the trust economy: customers who will pay premium prices because switching to an untrusted vendor is simply not an option.",
+          "companies": ["Leidos Holdings, Inc."],
+          "key_question": "How does trust certification in government technology create a structurally different moat than in consumer or media markets — and why does the $48.7B backlog quantify the value of that moat?"
+        },
+        {
+          "sub_slug": "compliance-traceability",
+          "title": "The Compliance Layer: Brady, Labcorp, and Natera — Where Verification Is the Product",
+          "angle_type": "sub-pattern",
+          "focus": "Safety and traceability infrastructure is a trust market where the buyer is not a consumer but a regulator, insurer, or healthcare system that requires certified verification. Brady's $1.51B in FY2025 revenue from identification, labeling, and lockout-tagout systems grows because organizations need proof that their facilities and processes are what they say they are. Natera's Signatera and Labcorp's clinical certification serve the same structural role in healthcare: not just a test, but a trusted, reimbursement-supported verification that becomes standard of care. This page frames industrial and clinical compliance as the B2B sub-market of the trust economy.",
+          "companies": ["Brady Corporation", "Natera, Inc.", "Labcorp Holdings, Inc."],
+          "key_question": "In industrial safety and clinical diagnostics, what converts a test or label from a commodity into a trusted verification standard — and who captures the premium when that standard is established?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Price and the Fracture",
+      "angles": [
+        {
+          "sub_slug": "who-pays",
+          "title": "The Information Underclass: What Happens to People Who Cannot Afford the Trust Premium",
+          "angle_type": "who-pays",
+          "focus": "The trust market's burden falls on those who cannot pay the paywall: readers left with the low-trust information commons where AI-generated content, contested claims, and brand-unsafe environments dominate. Gannett's local-news economics make this concrete — $2.3B in FY2025 revenue still declining, digital-only subscribers at only 1.5M, print subscriptions falling, and 186M monthly unique visitors who are not converting to paying subscribers. These readers are not paying for trust; they are receiving whatever residual credibility a stressed local news operator can sustain on advertising economics. This page argues that stratified information access stratifies democratic deliberation.",
+          "companies": ["Gannett Co., Inc.", "Nexstar Media Group", "Comscore"],
+          "key_question": "When trusted information becomes a premium product, what information environment do non-payers actually inhabit — and what are the downstream social consequences?"
+        },
+        {
+          "sub_slug": "tension-oligopoly",
+          "title": "The Trust Oligopoly: Why Credibility at Scale Creates the Information Monoculture It Claims to Cure",
+          "angle_type": "tension",
+          "focus": "Trust consolidation is not neutral: as credibility concentrates into a small number of scaled institutions — NYT, AmEx, Leidos, Fox — the information and financial ecosystem increasingly depends on a handful of gatekeepers whose own editorial, underwriting, or procurement decisions shape what counts as verified truth. NYT's operating costs rising 7.7% signals that credibility is expensive to maintain, which means only large, well-capitalized incumbents can sustain the premium — creating a new information oligopoly. Fox's live-event appointment strategy and Nexstar's local-franchise model show that even 'trusted' platforms pursue their own competitive interests. The deeper tension: trust at scale can also be mimicked — a sophisticated synthetic-content operation that achieves the aesthetic of credibility acquires equivalent market value without the underlying accountability.",
+          "companies": ["The New York Times Company", "Fox Corporation", "Nexstar Media Group", "American Express Company"],
+          "key_question": "Does the monetization of trust inevitably concentrate it — and if so, is the trust market solving the information-quality problem or just relocating it inside a smaller set of incumbent gatekeepers?"
+        }
+      ]
+    }
+  ]
+}

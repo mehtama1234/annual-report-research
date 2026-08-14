@@ -1,0 +1,105 @@
+{
+  "slug": "sub-pattern-gaming-participation",
+  "trend_slug": "addiction-dividend",
+  "name": "The Check-In Economy: How Games Replaced Purchases With Participation",
+  "deck": "Four gaming companies generating $20+ billion from players who show up daily, not quarterly—proving that the greatest recurring revenue model isn't subscriptions, it's habit.",
+  "core_bet": "Gaming companies have engineered check-in loops that eliminate the purchase friction of traditional entertainment. Players don't buy a game; they participate in a world that monetizes their daily return. Recurring revenue isn't tied to new releases but to engagement cadence: battle passes reset each season, daily login bonuses expire, limited-time events create urgency. The business model has inverted from one-time transactions to infinite small commitments.",
+  "numbers": [
+    {
+      "stat": "71%",
+      "label": "Electronic Arts: Digital live services as percentage of total FY2026 revenue ($7.531B)"
+    },
+    {
+      "stat": "84%",
+      "label": "Take-Two: Recurrent consumer spending as percentage of Q1 FY2027 net bookings ($1.39B)"
+    },
+    {
+      "stat": "17%",
+      "label": "Take-Two: Year-over-year growth in recurrent consumer spending for full-year FY2026 ($6.721B)"
+    },
+    {
+      "stat": "55%",
+      "label": "Roblox: Bookings growth in FY2025 to $6.788B (revenue $4.891B); 60 million DAU added in single year"
+    },
+    {
+      "stat": "132 million",
+      "label": "Roblox: Daily Active Users in Q1 2026; 31 billion hours engaged that quarter alone"
+    },
+    {
+      "stat": "43.2% YoY",
+      "label": "Playtika: Direct-to-consumer revenue growth in Q4 2025 ($250.1M quarterly); 63.1% growth continued in Q2 2026"
+    },
+    {
+      "stat": "4.5%",
+      "label": "Playtika: Payer conversion rate in Q4 2025 from 357 thousand daily paying users"
+    },
+    {
+      "stat": "70.8%",
+      "label": "Playtika: Casual games (non-casino) revenue mix in 2025; shift away from pure social casino toward licensed IP like Disney Solitaire"
+    }
+  ],
+  "mechanism": [
+    "The traditional game business depended on two moments: release day (spike) and optional cosmetics (tail). The new model inverts this entirely. Players subscribe to a world that evolves continuously—daily login bonuses that expire, seasonal battle passes that reset, limited-time events that create artificial scarcity, cosmetics tied to time-gated seasons, and progression systems that reset annually. Electronic Arts' Ultimate Team systems and annual EA Sports FC refresh cycles are the clearest archetype: players return not to play a new game, but to refresh their digital assets in a persistent ecosystem. This creates a participation tax—a small daily commitment that compounds into lifetime spending.",
+    "The check-in habit operates on four interlocked levers. First, time-scarcity: if you miss a daily login, the bonus expires forever. If you miss a limited-time event, cosmetics become unobtainable. Second, social proof: Roblox saw 60 million new DAUs added in a single year by emphasizing creator-built worlds where your friends already play. Third, progression entrapment: accounts are valuable because they hold cosmetics, battle-pass progress, seasonal rank. Switching costs soar not because the game is better, but because your account is worth weeks of play-time. Fourth, micro-monetization at scale: Playtika's Q4 2025 data shows 357,000 daily paying users converting at 4.5%, not from new users each day, but from the same habituals making small purchases repeatedly (direct-to-consumer revenue up 43% YoY).",
+    "The shift from one-time purchase to recurring participation has required three operational changes. First, platform consolidation: Take-Two's FY2026 bookings were 49% mobile, 40% console, and 11% PC—distribution is now channel-agnostic because the revenue model doesn't depend on platform, it depends on habit portability. Second, direct billing: Playtika's 2025 annual report shows direct-to-consumer revenue reaching $814.5M, up from $694.2M, because owning the payment layer matters more than the game layer. Third, seasonal reset cycles: EA's digital live services at 71% of FY2026 revenue would be impossible without annual sports refresh cycles (EA Sports FC 26, NFL Madden 26) that force players to rebuild accounts and cosmetics—a revenue reset each September. Take-Two's recurrent consumer spending grew 17% in FY2026 while full revenue grew only 1%, proving that engagement is now the only growth lever.",
+    "The cultural proof that games are now participation systems, not products, sits in the data distribution. Roblox reached 132 million DAU in Q1 2026 and spent 31 billion hours engaged that quarter—that is not a game, it is infrastructure for digital identity and social connection. Playtika's Disney Solitaire generated $71.6M in Q4 2025 revenue not because the solitaire variant is better, but because Disney IP refreshed attention in an already-optimized habit loop (Disney partnership validates the franchise, licensing amplifies cosmetic-set value, existing monetization infrastructure captures upside). The 43% of revenue from top-ten titles and 4.5% payer conversion show an industry that has reversed from creating new players to extracting lifetime value from habituals. Take-Two's explicit tie of FY2027 guidance to Grand Theft Auto VI's November 19, 2026 launch proves launches matter only as reset events that reset attention and cosmetics cycles, not as one-time revenue spikes."
+  ],
+  "why_now": [
+    "The check-in economy emerged because mobile distribution and free-to-play pricing made habit scale possible at a way smaller unit cost than console games. Roblox grew to 132 million DAU because there is no download friction, no $70 gatekeep, and no time-to-value penalty. Playtika can operate at sub-$1 customer acquisition cost in habitual casual games because the monetization is not asking players to spend $60 upfront; it is asking them to spend 50 cents a day for 3 years. The entire industry shifted when Apple and Google proved that app-store distribution and virtual currency could scale to billions.",
+    "The shift also follows a strategic realization: one-time transactions cap at replacement rate (buy new game every 2 years), but recurring transactions scale with engagement time. Take-Two framed this explicitly in FY2027 guidance—the November 2026 GTA VI launch is not the annual event, it is a catalyst for resetting cosmetic and battle-pass cycles that compound indefinitely. Roblox's FY2025 bookings growth of 55% while revenue grew 36% shows that player spending per hour is increasing as the platform optimizes monetization layers (advertising, marketplace, subscriptions, communication). Electronic Arts' 71% digital live services revenue is not the result of one expansion; it is the result of 15 years of optimizing annual refresh cycles around participation habits."
+  ],
+  "who_pays": [
+    "The core payer is a 14-35 year old who checks in daily. Playtika's data: 357 thousand daily paying users, 4.5% conversion rate. These are not whales dropping $500/month; they are habituals spending $2-5/week on battle passes, cosmetics, and time-limited offers. The economics work because there are 10-30x as many habituals as whales, and each habituals' lifetime value (LTV) is predictable: if they stay for 2 years at $3/week, that is $312 LTV on a sub-$10 CAC. The secondary payer is the event-driven spender who ignores the game for months, then sinks $50 into a limited-time cosmetic set because it is seasonal and irreproducible.",
+    "The payer structure is hidden inside aggregate revenue but becomes visible in unit economics. Roblox's 132 million DAU in Q1 2026 and 31 billion hours suggests that the median user plays 4 hours a week; only a fraction are paying. Take-Two's FY2027 Q1 recurrent consumer spending at 84% of net bookings shows the model: every new GTA VI player who stays for a year will spend $100+ on in-game cosmetics, battle passes, and time-limited events. Playtika's payer conversion at 4.5% suggests that for every 100 daily actives, 4-5 are spending, but those 4-5 are spending repeatedly and predictably."
+  ],
+  "who_profits": [
+    "The platform owner captures 70-85% of the value in a check-in economy. Electronic Arts takes 100% of Apex Legends cosmetic revenue and 90-100% of Ultimate Team revenue (platform risk: Apple and Google take 30%, but Ultimate Team is console/PC direct). Take-Two takes 100% of Red Dead Redemption Online cosmetics on console and 70% on mobile. Roblox takes 30% of marketplace transactions as the platform (creators take 40%, payment processors take 30%). Playtika takes 100% of direct-to-consumer ($286.9M in Q2 2026) but only 70% of third-party (iOS/Android 30% cut).",
+    "The competitive asymmetry is extreme. EA's 71% digital live services revenue is defensible only because Ultimate Team requires a console and annual sports refresh (player accounts are sticky because cosmetics reset each September and cannot be transferred). Take-Two's 17% YoY recurrent spending growth is defensible only because GTA Online's 15-year installed base and FY2027 launch cycle create unavoidable reset windows. Roblox's 55% bookings growth is defensible because creator lock-in and discovery algorithms make exit costly. Playtika's 63% direct-to-consumer growth is defensible only because Disney licensing creates limited-time cosmetic value that deprecates."
+  ],
+  "tension": [
+    "The check-in economy depends on continuous player presence, but player attention is fixed. Roblox added 60 million DAU in 2025, but Q2 2026 hourly monetization weakened because engagement shifted from high-monetizing 2025 viral games toward newer evergreen titles with lower hourly monetization. The tension: growth in users (DAU +35% in Q1 2026) did not match booking growth (bookings only +43% in Q1 2026 vs. +63% in Q4 2025). This suggests saturation in monetization per hour as the audience shifted younger and younger players spend less per hour.",
+    "The second tension is acquisition cost vs. LTV. Playtika's Q1 2026 sales and marketing expense rose $88.8M largely from SuperPlay media buy. This is only profitable if Disney Solitaire player LTV exceeds $50-100 CAC. Q2 2026 operating cash flow was $51.5M, down from $164.9M prior year, largely because of $111M cash outflow for SuperPlay earnout. The model works if acquired titles remain high-margin; it breaks if retention degrades or if acquisition prices inflate beyond reasonable LTV multiples.",
+    "The third tension is regulatory risk. Playtika's 2025 10-K discloses litigation around Dice Dreams in Washington and social-casino monetization claims in Australia. The check-in economy's core mechanism—time-scarcity + small recurring purchases + cosmetic progression—is structurally similar to gambling. If regulators re-classify battle passes, limited-time cosmetics, or loot boxes as gambling or require disclosure of odds, the unit economics of the model could flip."
+  ],
+  "surprising_part": "The most counterintuitive data point is that gross revenue growth has decoupled from bookings growth. Roblox grew FY2025 bookings 55% while revenue grew only 36%. Take-Two grew FY2026 recurrent spending 17% while total revenue grew 1%. This is not margin expansion; it is monetization per engagement hour becoming the new accounting metric. The surprise is that the industry stopped reporting 'players' or 'titles' and started reporting 'bookings', 'DAU', and 'hours engaged'—a sign that the underlying metric has shifted from product success (did the game ship?) to participation success (how much time and money per day per user?). The most haunting data: Playtika's payer conversion at 4.5% proves that 95.5% of daily users are not paying at all, yet the platform still generates $731M quarterly revenue. This is only possible if the 4.5% who pay are spending 30-50x the average game player.",
+  "one_sentence": "Games stopped asking players to buy and started asking them to return, monetizing the daily commitment rather than the one-time transaction.",
+  "societal_stake": "The check-in economy has become the primary vehicle for youth engagement with digital worlds and social identity. A 16-year-old's social status increasingly depends on cosmetics they own in Roblox or Fortnite, not clothes they wear offline. The 132 million Roblox DAU and 31 billion quarterly hours represent billions of hours redirected from other media and activities toward engagement loops optimized for monetization. The societal question is not whether games are entertainment—they are—but whether the shift from 'buy once, play forever' to 'check in daily, spend forever' is a feature (players love ongoing content) or an exploitative design (habits are engineered, not organic). The economic pressure is clear: EA can only grow digital revenue if players return daily; Roblox only grows if creators build worlds that create checking-in behavior; Playtika only survives if payer conversion remains 4%+ on a shrinking attention budget.",
+  "evidence": [
+    {
+      "company": "Electronic Arts",
+      "fact": "Digital live services and other net revenue represented 71% of total annual net revenue in fiscal 2026 ($7.531B total); net bookings increased 4% primarily due to increased extra-content sales from Apex Legends"
+    },
+    {
+      "company": "Electronic Arts",
+      "fact": "Management's core operating frame is built around Global Football (EA SPORTS FC 26, FC Online, FC Mobile) and Apex Legends with Ultimate Team functioning as one of the company's most important recurring monetization systems"
+    },
+    {
+      "company": "Take-Two",
+      "fact": "Recurrent consumer spending accounted for 84% of Q1 FY2027 net bookings and grew 17% for full-year FY2026; FY2026 net bookings were 49% mobile, 40% console, 11% PC across 3.6 billion global players and 149 billion annual mobile downloads"
+    },
+    {
+      "company": "Take-Two",
+      "fact": "FY2027 guidance of $8.0B-$8.2B net bookings explicitly tied to scheduled November 19, 2026 launch of Grand Theft Auto VI; recurrent spending model shows business depends less on one-time product cycles than multi-platform and increasingly recurrent franchise economy"
+    },
+    {
+      "company": "Roblox",
+      "fact": "Bookings grew 55% to $6.788B while revenue reached $4.891B (36% growth) in FY2025; added 60 million DAU in single year; Q1 2026 reached 132 million DAU with 31 billion hours engaged; management pursues 10% of global gaming content market through older-user expansion and subscription features"
+    },
+    {
+      "company": "Roblox",
+      "fact": "Q2 2026 bookings growth of 8% (vs 43% in Q1 2026) was dampened by hourly monetization weakness, especially in younger U.S./Canada cohorts as engagement shifted from high-monetizing 2025 viral games toward newer evergreen titles with lower hourly monetization"
+    },
+    {
+      "company": "Playtika",
+      "fact": "Direct-to-consumer revenue reached $814.5M in 2025 (up from $694.2M), representing shift toward lower-friction payment flows; Q4 2025 DTC grew 43.2% YoY and Q2 2026 DTC grew 63.1% YoY to $286.9M quarterly"
+    },
+    {
+      "company": "Playtika",
+      "fact": "Casual games generated 70.8% of 2025 revenue (vs social casino 29.2%), showing shift from pure social-casino monetization; Q4 2025 average daily paying users at 357 thousand with 4.5% payer conversion rate; Disney Solitaire revenue reached $71.6M in Q4 2025 as licensed IP refresh mechanism"
+    },
+    {
+      "company": "Playtika",
+      "fact": "Top ten games represented 90.2% of 2025 revenue; company faces platform dependence on Apple and Google for distribution and revenue collection; 2025 10-K discloses litigation around Dice Dreams in Washington and social-casino monetization claims in Australia"
+    }
+  ]
+}

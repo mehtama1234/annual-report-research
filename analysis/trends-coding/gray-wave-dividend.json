@@ -1,0 +1,94 @@
+{
+  "slug": "gray-wave-dividend",
+  "name": "The Gray Wave Dividend",
+  "overview_deck": "An aging boomer cohort is converting chronic disease, loneliness, and frailty into the most reliably growing market in the economy — and capital is chasing it into every room where a senior lives.",
+  "groups": [
+    {
+      "group_title": "The Demographic Engine",
+      "angles": [
+        {
+          "sub_slug": "why-now-inflection",
+          "title": "The Boomer Cliff: Why This Demand Wave Is Different",
+          "angle_type": "origin",
+          "focus": "The oldest boomers turned 80 in 2026, crossing the threshold where chronic disease transitions into dependency — not a prediction but a demonstrated census surge visible simultaneously across independent company filings. This page traces the historical arc from deinstitutionalization through value-based care to today's multi-company inflection, where a demographic clock that has been ticking for decades is finally cashing out.",
+          "companies": ["Welltower Inc.", "Ventas Inc.", "Brookdale Senior Living Inc.", "Addus HomeCare Corporation"],
+          "key_question": "What structural forces converged in 2025-2026 to turn a decades-old demographic forecast into a hard, multi-company revenue fact?"
+        },
+        {
+          "sub_slug": "senior-housing-reit-play",
+          "title": "Buildings That Can't Be Built Fast Enough",
+          "angle_type": "sub-pattern",
+          "focus": "Senior housing REITs are experiencing a rare combination of surging demand and historically low new supply — a structural supply-demand imbalance that is converting demographic pressure into same-store NOI growth of 16-22% without any new construction required. This page examines how healthcare-facility REITs are transitioning from passive rent collectors to operating-system participants, earning returns from occupancy leverage and operator quality rather than from property appreciation alone.",
+          "companies": ["Welltower Inc.", "Ventas Inc.", "Brookdale Senior Living Inc."],
+          "key_question": "How are senior housing REITs capturing demographic tailwinds through occupancy leverage, supply scarcity, and operator quality rather than just property ownership?"
+        },
+        {
+          "sub_slug": "home-as-care-site",
+          "title": "The Last Move: When Home Becomes the Hospital",
+          "angle_type": "sub-pattern",
+          "focus": "Medicare and Medicaid are actively incentivizing home-based care because institutional settings cost more — and seniors prefer familiar environments, creating a policy-demand alignment that is driving census expansion across every home health operator simultaneously. This page documents the migration of care out of hospitals, SNFs, and assisted-living facilities and into kitchens and bedrooms, where coordinated home health, personal care, and hospice are absorbing what used to be institutional volume.",
+          "companies": ["Addus HomeCare Corporation", "Aveanna Healthcare Holdings Inc.", "Enhabit Inc.", "BrightSpring Health Services Inc."],
+          "key_question": "What is driving the structural shift of care from institutions to homes, and which operators are capturing it at scale?"
+        }
+      ]
+    },
+    {
+      "group_title": "Who Profits and How",
+      "angles": [
+        {
+          "sub_slug": "integrated-platform-play",
+          "title": "The Patient as Platform: Pharmacy, Provider, and the Recurring Care Bundle",
+          "angle_type": "company-deepdive",
+          "focus": "BrightSpring Health Services is the clearest single example of the new home-care economics: it has tied pharmacy fulfillment, home health, infusion, hospice, rehab, and primary care into one integrated platform around the same complex patients — a model where 43 million prescriptions and 465,000 daily patients create compounding economics that standalone operators cannot replicate. This deep-dive dissects how script economics ($27.50 gross profit per script), census density (home health ADC up 54% YoY), and the Community Living divestiture reveal a deliberate bet on integrated recurring care as an operating moat.",
+          "companies": ["BrightSpring Health Services Inc."],
+          "key_question": "How does BrightSpring's integrated pharmacy-plus-provider model create economics that are structurally different from single-service home health operators?"
+        },
+        {
+          "sub_slug": "who-profits-value-capture",
+          "title": "Where the Money Actually Lands",
+          "angle_type": "who-profits",
+          "focus": "The financial value of the aging wave is not evenly distributed — it concentrates in operators who own the recurring relationship with the patient, whether through equipment delivery, specialty drug distribution, infusion networks, or diagnostic testing that generates reorder cycles. This page maps the distinct profit pools: the equipment-delivery layer (AdaptHealth's 4.3M patients and 38,500 daily deliveries), the distribution middle layer (Cencora's $321B revenue and specialty-channel embedment), the alternate-site infusion model (Option Care's national network), and the injectable-delivery infrastructure (Becton Dickinson's GLP-1 syringe investment).",
+          "companies": ["AdaptHealth Corp.", "Cencora Inc.", "Option Care Health Inc.", "Becton Dickinson and Company"],
+          "key_question": "Which layers of the aging-care value chain capture durable margin, and why does recurring patient relationship ownership determine who wins?"
+        },
+        {
+          "sub_slug": "glp1-home-delivery",
+          "title": "Ozempic Comes Home: GLP-1 as New Senior Infrastructure",
+          "angle_type": "sub-pattern",
+          "focus": "GLP-1 drugs are creating a new wave of home-based injectable infrastructure requirements — prefillable syringes, cold-chain logistics, specialty distribution, and home-delivery pharmacy — that is layering onto the existing senior care network and generating new capital investment from device makers and distributors simultaneously. This page traces how a drug category that began as a diabetes and obesity treatment is becoming infrastructure demand for home-care operators, distributors, and medical device manufacturers already serving the aging population.",
+          "companies": ["Becton Dickinson and Company", "Cencora Inc.", "West Pharmaceutical Services Inc.", "BrightSpring Health Services Inc."],
+          "key_question": "How are GLP-1 drugs creating new home-care infrastructure requirements, and which companies are positioned to capture the delivery and supply-chain layer?"
+        }
+      ]
+    },
+    {
+      "group_title": "Burden, Fragility, and What Breaks",
+      "angles": [
+        {
+          "sub_slug": "who-pays-burden",
+          "title": "The Invisible Labor: Who Actually Provides the Care",
+          "angle_type": "who-pays",
+          "focus": "The home-care model externalizes a vast burden onto two groups that do not appear in any balance sheet: the predominantly female, often immigrant workforce of home health aides working near-minimum wages in isolated settings, and the unpaid family caregivers — disproportionately women — who absorb coordination, supervision, and direct care tasks without compensation. This page uses the labor-shortage language in Aveanna's and Addus's filings to document the human cost of the care migration, arguing that the financial model of home care is subsidized by labor that cannot yet price its own scarcity.",
+          "companies": ["Aveanna Healthcare Holdings Inc.", "Addus HomeCare Corporation", "Brookdale Senior Living Inc.", "Welltower Inc."],
+          "key_question": "Who actually bears the physical and economic cost of aging care, and why does the financial model of home-based care depend on labor it cannot afford to adequately pay?"
+        },
+        {
+          "sub_slug": "tension-labor-wage",
+          "title": "The Wage Floor That Could Break the Model",
+          "angle_type": "tension",
+          "focus": "The home-care financial model depends on a workforce willing to work for near-minimum wages in isolated, demanding conditions — and the same demographic pressure driving demand is shrinking that workforce, because the aging population competes for the same low-wage service workers as food service, retail, and warehousing. This page makes the skeptic's case: if wages must rise to attract sufficient workers, the cost advantage of home care over institutional settings erodes, the reimbursement spread that makes the business viable compresses, and the model either becomes dependent on perpetual Medicare rate increases or becomes inaccessible to anyone without private wealth.",
+          "companies": ["Aveanna Healthcare Holdings Inc.", "Addus HomeCare Corporation", "BrightSpring Health Services Inc.", "Brookdale Senior Living Inc.", "AdaptHealth Corp."],
+          "key_question": "If labor costs rise to market-clearing wages, does the home-care economic model survive — and who bears the cost if it does not?"
+        },
+        {
+          "sub_slug": "medicaid-policy-cliff",
+          "title": "The Public Payer Cliff: When Medicare and Medicaid Decide Who Gets Care",
+          "angle_type": "tension",
+          "focus": "Most of this market's revenue flows through Medicare and Medicaid — which means that every rate decision, coverage determination, and budget negotiation in Washington and state capitals is simultaneously a corporate revenue event and a care-access decision for millions of seniors and disabled people. This page examines how the concentration of revenue in public payers creates a structural fragility: reimbursement policy changes that look like accounting line items are, in practice, rationing decisions about who gets to age in their home and who gets moved to an institution.",
+          "companies": ["Addus HomeCare Corporation", "Aveanna Healthcare Holdings Inc.", "BrightSpring Health Services Inc.", "Welltower Inc.", "Ventas Inc."],
+          "key_question": "What happens to access, staffing, and care quality when public payers control the revenue of an entire care-delivery system serving a non-discretionary population?"
+        }
+      ]
+    }
+  ]
+}

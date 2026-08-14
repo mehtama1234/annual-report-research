@@ -1,0 +1,67 @@
+{
+  "slug": "ritual-economy",
+  "name": "The Ritual Economy",
+  "deck": "Brands embedded in daily or life-stage rituals weather affordability pressure where purely hedonic spending collapses.",
+  "core_bet": "Consumers cut discretionary spending before they abandon rituals. Pet parenthood, morning coffee, oral hygiene, wedding gifting are behaviors tied to identity or habit—not to marketing pitch. Companies that own these moments maintain volume and pricing power even when broader consumer spending compresses.",
+  "numbers": [
+    {
+      "stat": "84%",
+      "label": "Chewy's Q3 2025 sales from Autoship customers—the repeat-purchase engine that sustained growth despite affordability pressure"
+    },
+    {
+      "stat": "$595",
+      "label": "Chewy's net sales per active customer (Q3 2025)—showing depth of recurring pet-parent spending"
+    },
+    {
+      "stat": "44%",
+      "label": "Colgate's oral care as share of total sales, growing 1.4% organically despite pricing pressure and private-label competition"
+    },
+    {
+      "stat": "+7.9%",
+      "label": "Starbucks Q3 2026 global comp sales, driven by transaction growth—first sustained improvement after eight quarters of decline"
+    },
+    {
+      "stat": "+6%",
+      "label": "Signet Bridal category growth in Q1 FY27, with AUR up 5% overall—milestone gifting holding despite experiential spending competition"
+    },
+    {
+      "stat": "$2.1M",
+      "label": "Dutch Bros record AUV in Q2 2026, with 13 consecutive quarters of positive same-shop sales and transaction growth"
+    }
+  ],
+  "mechanism": [
+    "A ritual is a behavior anchored to identity, habit, or social occasion rather than to price or aspiration messaging. Pet parenthood, daily hygiene, morning coffee, lifecycle gifting, and drive-thru convenience routines create repeat purchase without requiring re-selling at each transaction. They are defensive by structure.",
+    "Companies that successfully position inside a ritual benefit from price inelasticity—consumers maintain volumes even as they cut other spending. Chewy's Autoship model (84% of sales), Colgate's oral-care category leadership, Starbucks' stored-value and rewards system, Signet's bridal and occasion positioning, and Dutch Bros' drive-thru transaction growth all show the same pattern: habit insulates margin.",
+    "The tension is who pays for the insulation. Non-ritual categories—fragrance, home décor, sporting goods, experiential alternatives—shrink first. Consumers trade down on aspirational purchases but protect the rituals that define daily identity or mark life transitions. Brands lose shelf space in discretionary categories; ritual brands gain wallet share.",
+    "The mechanism works because rituals are pre-decided. A consumer wakes up, buys coffee. A pet parent opens Autoship. A bride shops for engagement jewelry. A drive-thru customer swipes the app for the daily buzz. Once the ritual is established, the friction disappears. That makes repeat purchase automatic and price negotiation secondary."
+  ],
+  "why_now": "Macro affordability pressure is sorting consumer spending into two buckets. The ritual holds while the discretionary collapses. Pet spending (Chewy Q1 2026: 7.7% growth, record profitability) grew even as middle-market department stores struggled. Starbucks turned comparable transaction growth positive after eight quarters of decline by fixing service—not the coffee—which kept the morning ritual intact. Colgate maintained oral-care category leadership through price and science-based positioning while fragrance and beauty aspirational categories contracted. Signet's bridal category posted 6% growth and same-store sales of 1.8% in Q1 FY27 even though experiential travel purchases compete directly for discretionary dollars. Dutch Bros posted 13 consecutive quarters of positive same-shop sales with transaction growth accelerating (5.1% in Q1 2026, 3.4% in Q2 2026). This is not a cycle. It is structural sorting.",
+  "who_pays": "Categories that positioned on aspiration or occasional indulgence—fragrance, home décor, sporting goods, apparel premiums, experiential luxury—see traffic and wallet share collapse. Consumers still need to smell good and live well, but they defer upgrades. Brands that cannot manufacture a habit or essential positioning lose discretionary share to ritual categories. The burden falls on non-essentials that lack identity or social-occasion anchoring.",
+  "who_profits": "Colgate-Palmolive (oral care habit, 44% of sales, 1.4% organic growth maintained); Chewy (pet parenthood ritual, 84% Autoship, $595 sales per customer); Starbucks (morning routine with app-locked rewards, transaction growth positive again); Signet Jewelers (life-milestone gifting, 6% bridal growth, 1.8% same-store sales); Dutch Bros (drive-thru beverage ritual, $2.1M AUV, 13 consecutive quarters of same-shop sales growth). Ritual brands capture wallet share and maintain pricing power even as overall consumer spending compresses.",
+  "tension": "Rituals can be disrupted by category substitution—private-label capturing habitual oral care (Colgate explicitly flags this risk), or by death of the in-car commute affecting Dutch Bros' drive-thru model. Overdependence on a single ritual demographic whose behavior changes (Gen Z coffee differs from Millennial; younger consumers delay marriage, reducing bridal spending). New rituals can displace old ones—if streaming replaces movie theaters as the couple's date ritual, Signet loses gifting occasions. Ritual spending is sticky, not permanent.",
+  "surprising_part": "The non-obvious insight is that service quality, not product innovation, often wins the ritual war. Starbucks' recovery came from fixing labor and store experience through Back to Starbucks, not new coffee. Chewy's growth is powered by Autoship convenience and account management, not product innovation. Signet's resilience depends on assortment architecture, pricing, and brand mediation—not diamond quality alone. Dutch Bros' edge is drive-thru speed and rewards participation, not beverage uniqueness. Ritual brands don't win on product category. They win by making the ritual frictionless and identity-reinforcing.",
+  "one_sentence": "Consumers under affordability pressure cut hedonic spending first, but the rituals they use to signal identity or mark life events remain price-inelastic and sticky—making ritual-embedded brands defensible even as broader consumer spending falters.",
+  "societal_stake": "Ritual consumption shapes cultural identity and social meaning. Pet parenthood signals care and emotional depth. Morning coffee marks the transition into the day. Wedding jewelry marks life commitment. Beverage routines signal identity and belonging. When brands successfully colonize these moments, they acquire cultural authority over how we mark identity and life transitions—and at what cost. The ritual economy raises a structural question: who controls the rituals through which we define ourselves?",
+  "evidence": [
+    {
+      "company": "Chewy, Inc.",
+      "fact": "~84% of Q3 2025 sales from Autoship customers; net sales per active customer ~$595; Q1 2026 record profitability driven by treating pet care as 'essential household routine, not discretionary luxury'"
+    },
+    {
+      "company": "Colgate-Palmolive Co.",
+      "fact": "Oral care 44% of 2025 net sales ($20.382B); 1.4% organic sales growth maintained despite pricing pressure; category leadership framed as 'habitual science-based consumption' that defends against private label"
+    },
+    {
+      "company": "Starbucks Corporation",
+      "fact": "Q3 2026 global comp +7.9% driven by transaction growth; Q1 2026 U.S. comparable transaction growth turned positive for first time in eight quarters; stored-value card and rewards system the reason recovery, not coffee"
+    },
+    {
+      "company": "Signet Jewelers Limited",
+      "fact": "Q1 FY27 same-store sales up 1.8%; bridal up 6%, fashion up 8%; business framed around 'milestone and ritual stickiness' as primary moat against experiential spending competition"
+    },
+    {
+      "company": "Dutch Bros Inc.",
+      "fact": "13 consecutive quarters of positive same-shop sales; AUV record $2.1M in Q2 2026; full-year 2025 revenue $1.64B with 5.6% system same-shop sales growth; app-linked rewards and drive-thru speed frame model as daily ritual participation"
+    }
+  ]
+}

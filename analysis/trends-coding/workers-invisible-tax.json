@@ -1,0 +1,86 @@
+{
+  "slug": "workers-invisible-tax",
+  "name": "The Workers' Invisible Tax",
+  "overview_deck": "Across every sector in this corpus — construction, landscaping, mining, home health, waste collection, industrial supply — companies cite labor as their defining constraint while simultaneously deploying capital to reduce their dependence on it, and the gap between who produces the value and who captures the return has never been more legible.",
+  "groups": [
+    {
+      "group_title": "How the Transfer Happens",
+      "angles": [
+        {
+          "sub_slug": "the-automation-inflection",
+          "title": "The Inflection That Wasn't Gradual",
+          "angle_type": "origin",
+          "focus": "Post-pandemic labor scarcity compressed a decade of automation capital expenditure into three years, making the displacement curve visible in filings for the first time. The years 2023-2025 mark the period when automation stopped being a long-run aspiration and became a line item in competitive strategy across sectors that had historically relied on abundant low-wage labor.",
+          "companies": ["Nutrien Ltd.", "Waste Management, Inc.", "MSC Industrial Direct Co., Inc.", "PepsiCo Inc.", "ABM Industries, Inc."],
+          "key_question": "What changed between 2020 and 2025 that made automation acceleration show up simultaneously across mining, services, food, and facilities?"
+        },
+        {
+          "sub_slug": "mines-without-miners",
+          "title": "Mines Without Miners",
+          "angle_type": "sub-pattern",
+          "focus": "In capital-intensive extraction, automation is not a future aspiration — it is already the operating model. Nutrien mines 49% of its potash tonnes with automated equipment and calls it a competitive advantage; Freeport-McMoRan's scale relies on digitized mine planning; The Mosaic Company idles phosphate capacity rather than employ workers at uneconomic rates. The communities that built their identity around these mines have no equivalent retraining infrastructure.",
+          "companies": ["Nutrien Ltd.", "The Mosaic Company", "Freeport-McMoRan Inc.", "ConocoPhillips", "Alcoa Corporation"],
+          "key_question": "How far has mining automation already gone, and what does it mean for the towns whose employment base it replaced?"
+        },
+        {
+          "sub_slug": "service-labor-squeeze",
+          "title": "The Service Sector's Quiet Squeeze",
+          "angle_type": "sub-pattern",
+          "focus": "In services, the mechanism is different: companies don't automate the work away, they suppress wages, rely on visa labor pools, or cap growth at what their existing workforce can absorb. BrightView's H-2B dependency, Aveanna's near-minimum wage home healthcare aides, Comfort Systems' $14B backlog constrained by technician availability — each is a different expression of the same structural refusal to let wages clear the labor market.",
+          "companies": ["BrightView Holdings, Inc.", "Aveanna Healthcare", "Comfort Systems USA Inc.", "Primoris Services Corporation", "ABM Industries, Inc."],
+          "key_question": "When companies say 'labor is our binding constraint,' what are they actually choosing not to do — and who absorbs the cost of that choice?"
+        },
+        {
+          "sub_slug": "machines-replacing-sales-reps",
+          "title": "The Vending Machine That Replaced Your Rep",
+          "angle_type": "sub-pattern",
+          "focus": "In industrial distribution and facilities services, automation is arriving not as a robot on a factory floor but as a vending machine, a routing algorithm, or an automated HVAC control system — each one quietly reducing the number of people needed per dollar of revenue. MSC Industrial replaced field sales associates with vending machines at measurable scale; Applied Industrial Technologies profits from the very labor scarcity it helps create; Waste Management achieved 'best-ever operating expenses as a percentage of revenue' through automation and route optimization.",
+          "companies": ["MSC Industrial Direct Co., Inc.", "Applied Industrial Technologies Inc.", "Waste Management, Inc.", "Honeywell International Inc.", "Global Industrial Company"],
+          "key_question": "How is automation spreading through distribution and facilities services, and which workers are most exposed to displacement by efficiency software rather than robots?"
+        }
+      ]
+    },
+    {
+      "group_title": "Who Pays, Who Collects",
+      "angles": [
+        {
+          "sub_slug": "capital-captures-the-gain",
+          "title": "Capital Captures the Gain",
+          "angle_type": "who-profits",
+          "focus": "The operating leverage created by controlled labor costs flows directly to shareholders through buybacks and dividends. ConocoPhillips returned $9B to shareholders in 2025 while describing workers and communities at its operational footprint as cost and risk absorbers. Nutrien returned $848M in the first half of 2026 alone while its potash mines run nearly half-automated. The pattern is consistent: when labor costs are controlled — through automation, visa programs, or wage suppression — the savings convert to capital returns, not reinvestment in workforce or community.",
+          "companies": ["ConocoPhillips", "Nutrien Ltd.", "Graphic Packaging International", "Diamondback Energy", "Halliburton Company"],
+          "key_question": "How directly can the operating leverage from labor cost control be traced to shareholder return programs, and what is the dollar magnitude?"
+        },
+        {
+          "sub_slug": "who-absorbs-the-risk",
+          "title": "The Invisible Carriers",
+          "angle_type": "who-pays",
+          "focus": "Home healthcare aides working alone in patients' homes; seasonal landscapers on H-2B visas with no path to permanence; mining workers in potash communities as their mines automate; packaging workers as paperboard facilities close; field sales associates as vending machines replace their routes. These are the specific categories of worker whose labor enables record earnings but who absorb the physical risk, the wage compression, and the displacement — without the retraining infrastructure that would let them absorb the transition.",
+          "companies": ["Aveanna Healthcare", "BrightView Holdings, Inc.", "Graphic Packaging International", "MSC Industrial Direct Co., Inc.", "Brookdale Senior Living Inc."],
+          "key_question": "Which specific worker categories in this corpus are absorbing the most concentrated combination of physical risk, wage suppression, and displacement threat?"
+        }
+      ]
+    },
+    {
+      "group_title": "The Fragility and What Could Break It",
+      "angles": [
+        {
+          "sub_slug": "the-retraining-gap",
+          "title": "The Retraining Infrastructure That Does Not Exist",
+          "angle_type": "tension",
+          "focus": "The automation curve is proceeding faster than any social infrastructure can buffer it — and the filings make this visible. Adtalem's healthcare enrollment surge reveals the scale of unmet worker reskilling demand; Uber's management frames autonomous vehicles as 'supply expansion not replacement' while its own analysis shows gig-worker displacement; and the structural fact that small and mid-size manufacturers cannot afford equivalent automation capex means a widening productivity gap that policy has not addressed at scale.",
+          "companies": ["Adtalem Global Education Inc.", "Uber Technologies Inc.", "Applied Industrial Technologies Inc.", "MasTec, Inc.", "Option Care Health Inc."],
+          "key_question": "Is there any evidence in this corpus that retraining, community investment, or policy response to automation displacement is materializing at a scale proportional to the displacement itself?"
+        },
+        {
+          "sub_slug": "nutrien-deepdive",
+          "title": "Inside the Automated Mine: Nutrien as Case Study",
+          "angle_type": "company-deepdive",
+          "focus": "Nutrien is the clearest single-company demonstration of the full transfer mechanism: 49% automated potash mining, record EBITDA of $6.05B in 2025, $848M returned to shareholders in the first half of 2026, strategic divestitures of lower-margin operations, and a portfolio increasingly concentrated in the assets that need the fewest workers per dollar of output. The company is not exceptional — it is exemplary of what disciplined capital allocation looks like when labor is treated as a cost to be engineered away.",
+          "companies": ["Nutrien Ltd."],
+          "key_question": "How does Nutrien's automation strategy, capital return program, and portfolio rationalization illustrate the full mechanism of the workers' invisible tax from mine to shareholder account?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "grids-new-landlords",
+  "name": "The Grid's New Landlords",
+  "deck": "Gas pipelines, midstream networks, and utility transmission operators are quietly capturing structural economic rents from the AI buildout without bearing technology or demand risk.",
+  "core_bet": "Data centers require continuous, reliable power at scales that intermittent renewables cannot guarantee without storage. Gas infrastructure operators own the physical pipes and wires between generation and consumption. They are signing long-duration power and LNG supply agreements with data centers and industrial facilities, collecting tolls on electrons and molecules that neither hyperscalers nor renewable developers can route around. The companies with existing geographic footprints near AI campus corridors can expand capacity at incremental cost against already-depreciated networks.",
+  "numbers": [
+    {
+      "stat": "$200M",
+      "label": "2026 EBITDA guidance raise for Williams Companies, driven by power-innovation investments and data-center-focused projects"
+    },
+    {
+      "stat": "140,000 miles",
+      "label": "Pipeline infrastructure operated by Energy Transfer across 44 states"
+    },
+    {
+      "stat": "3.4 GW",
+      "label": "Contracted data-center demand signed by Alliant Energy as of Q1 2026, including 370 MW new Iowa ESA"
+    },
+    {
+      "stat": "60%",
+      "label": "Projected peak-load increase for Alliant Energy by 2031 from 2025 levels driven by AI and industrial siting"
+    },
+    {
+      "stat": "$26B",
+      "label": "Total capital expenditures projected by Atmos Energy through FY2030, with rate base doubling from $21.4B to $42B"
+    },
+    {
+      "stat": "4 GW",
+      "label": "Record renewables and storage origination added by NextEra Energy Resources in Q1 2026, including 1.3 GW battery storage"
+    }
+  ],
+  "mechanism": [
+    "The economic lever is simple: data centers need power 24/7 at reliability standards that renewable-only portfolios cannot meet without massive battery investment. Utilities and midstream operators with existing transmission and gas infrastructure are the only real bottleneck. They sign long-term take-or-pay agreements with hyperscalers and industrial customers that lock in demand for 10-15 years. Because the pipes and wires were built for 20th-century industrial loads, incremental capacity expansion costs far less than building new corridors. The utility or midstream operator makes 6-8% regulated returns on incremental transmission capex or takes 10-year fees on long-haul gas transport.",
+    "Gas infrastructure plays a specific role: natural gas plants can ramp in minutes to fill the gap when solar and wind fall short. Midstream operators like Energy Transfer and Williams own the pipes that deliver that gas from production basins to power plants and industrial facilities. When a data center signs a 15-year power contract backed by a combined-cycle gas plant, that contract flow reaches all the way back to the midstream operator who owns the gathering and transmission assets. The operator does not own the plant or the data center; it just owns the toll road that nobody can avoid.",
+    "Transmission utilities like Alliant and NextEra face a different but equally structural position. A hyperscaler site near Des Moines or Tampa needs 500 MW of local transmission and distribution. The local utility owns those lines. It can build a dedicated transmission line to that data center and charge a 40-year regulated return on that capital. Again, the developer cannot avoid this. The capital cost is real, but the utility spreads it across a customer base and makes a transparent, auditable return through state regulatory approval."
+  ],
+  "why_now": "The 2025-2026 period shows a decisive inflection. Williams Companies raised Q2 2026 guidance by $200M partly driven by power-innovation projects explicitly targeting data-center and industrial power demand. Energy Transfer signed long-term agreements extending into the 2030s and announced record NGL exports and acquisitions (J-W Power through USA Compression) that layer generation capacity on top of transport. Alliant Energy contracted 3.4 GW of data-center demand and projects a 60% load increase by 2031 from AI and industrial siting. These are not forecast assumptions — they are signed contracts flowing into infrastructure capex plans. NextEra added a record 4 GW of renewables and storage origination in Q1 2026, with 1.3 GW of battery storage, and explicitly ties its hub strategy to hyperscaler and large-load opportunity. Atmos Energy is doubling its rate base from $21.4B to $42B by 2030 through modernization capex. This is not speculation; it is committed capital and binding customer contracts.",
+  "who_pays": "Electricity consumers in regulated markets where data-center load growth drives rate increases, as utilities pass through transmission and distribution capex to retail customers. Communities near new transmission routes, pipeline expansions, and gas export facilities absorb siting disruption, construction costs, and operating impacts. Communities where gas infrastructure operates face the incremental emissions and safety/noise burden of increased throughput on aging infrastructure. Regions without data-center corridors see their share of national energy capex decline relative to AI hub regions, creating regional affordability divergence.",
+  "who_profits": "Infrastructure operators with existing geographic footprints near AI campus corridors — Williams Companies, Energy Transfer, Atmos Energy, Alliant Energy, NextEra Energy — who can expand capacity at incremental cost against already-depreciated networks. Williams' power-innovation joint venture with Blackstone and projects like Socrates and Power Express generate new revenue streams from behind-the-meter solutions. Energy Transfer's compression and generation acquisitions (J-W Power) layer higher-margin services on commodity transport. Utility rate bases grow predictably as capex is recovered through regulated returns. These companies face no technology risk and no demand-creation risk; they collect tolls on demand that hyperscalers create.",
+  "tension": "Grid operators are assuming data-center demand will materialize and persist. If AI buildout slows, if hyperscalers shift to alternative power sources or on-site generation, or if battery storage costs fall faster than expected, the capex already committed by utilities and midstream operators creates stranded asset risk. Regulatory commissions in each state must approve rate increases to fund transmission and distribution capex; public opposition to rate increases or to new transmission routing can delay or block projects. The regulatory compact that protects utilities also limits how quickly they can adjust when demand assumptions change. A utility that built a 500 MW dedicated transmission line to a hyperscaler that never materializes cannot simply write off that asset; it passes the cost to remaining customers or absorbs it. Stranded capex creates political and regulatory pressure.",
+  "surprising_part": "The surprising part is how much of AI infrastructure economics has been outsourced to regulated utilities and midstream operators. Hyperscalers solved the generation problem by signing power purchase agreements with wind and solar developers. But they cannot solve the transport problem; they cannot build transmission lines or own gas pipelines in most jurisdictions. They are forced to pay utilities and midstream operators whatever those companies ask, within reason, because the alternative is not to build the data center at all. This gives infrastructure operators extraordinary pricing power and structural optionality. They do not need to forecast AI accurately or bet on specific companies succeeding. They just need to collect enough tolls from enough customers to recover capex. That is a very different risk profile from the hyperscalers or the renewable developers.",
+  "one_sentence": "The owners of wires, pipes, and transmission corridors are extracting structural economic rents from the AI buildout because hyperscalers have no choice but to pay them, and rate-payers have no choice but to fund the capex.",
+  "societal_stake": "The energy infrastructure being built to serve 20th-century industrial demand is being repurposed as the power backbone for 21st-century AI. The companies collecting tolls on this infrastructure hold veto power over AI deployment timelines and geographies. Rate-payers — including low-income households — fund the buildout through regulated returns whether or not AI economic gains flow to them. Communities where data centers concentrate see faster rate growth and more siting disruption. Regions without data-center corridors see their share of national energy investment decline. The outcome is a widening of regional energy costs and economic opportunity based not on industrial fundamentals but on which geographies attract hyperscaler sites. This transforms energy from a commodity utility into a geographically distributed market for industrial infrastructure, with winners and losers determined by infrastructure operators' capital allocation decisions made years in advance of actual demand.",
+  "evidence": [
+    {
+      "company": "Williams Companies",
+      "fact": "Q2 2026 raised EBITDA guidance by $200M to $8.4B; management describes business morphing into 'LNG-plus-power backbone'; Socrates, Power Express, and Leidy Access projects explicitly target data-center and industrial power demand; Blackstone power-innovation joint venture in execution at analyst-day stage with more than $7B of capital"
+    },
+    {
+      "company": "Energy Transfer",
+      "fact": "Operates 140,000 miles of pipeline across 44 states; Q2 2026 raised full-year adjusted-EBITDA guidance to $18.8B-$19.1B; signed long-term transportation and fractionation agreements for about 300,000 bpd extending into the 2030s; acquired J-W Power through USA Compression, adding generation capacity as new revenue layer"
+    },
+    {
+      "company": "Alliant Energy",
+      "fact": "Contracted demand reached 3.4 GW including 370 MW new Iowa ESA in Q1 2026; $13.4B capital plan 2026-2029; projects 60% peak-load increase by 2031 from AI and industrial siting; reaffirmed 2026 EPS guidance of $3.36-$3.46"
+    },
+    {
+      "company": "NextEra Energy",
+      "fact": "Q1 2026 added record 4 GW of renewables and storage origination including 1.3 GW battery storage; Q2 2026 added 3.6 GW to backlog; FPL regulatory capital employed grew to $79.7B in Q2 2026 from $72.9B year-prior; explicitly ties hub strategy to hyperscaler and large-load demand"
+    },
+    {
+      "company": "Atmos Energy",
+      "fact": "Projected $26B capex through FY2030; rate base projected to double from $21.4B to $42B; fiscal Q3 2026 capex reached $3.1B year-to-date with >85% focused on safety and reliability; raised fiscal 2026 EPS guidance to $8.40-$8.50"
+    },
+    {
+      "company": "EQT Corporation",
+      "fact": "Q2 2026 signed 5-year LNG offtake SPA for 0.5 MTPA beginning 2028 and 10-year premium power supply agreement with CPV Shay Energy Center for 325,000 Dth/d, explicitly linking Appalachian gas to LNG and power-demand monetization; raised Q2 2026 production guidance by 90 Bcfe to 2,375-2,450 Bcfe full-year"
+    },
+    {
+      "company": "Williams Companies",
+      "fact": "Full-year 2025 adjusted EBITDA reached record $7.750B; adjusted EBITDA for Q2 2026 was $1.921B; AFFO dividend coverage 2.26x; describes Transco and Gulf Coast connectivity as part of economic engine increasingly tied to serving Gulf Coast export pull and fast-growing power demand"
+    },
+    {
+      "company": "Energy Transfer",
+      "fact": "Q2 2026 net income attributable to partners $2.09B versus $1.16B in Q2 2025; adjusted EBITDA $5.07B versus $3.87B; distributable cash flow as adjusted $2.59B versus $1.96B; record NGL transportation volumes rose 13% and NGL exports rose 25%"
+    }
+  ]
+}

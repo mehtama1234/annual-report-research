@@ -1,0 +1,47 @@
+{
+  "slug": "cash-harvest",
+  "name": "The Cash Harvest",
+  "one_line": "Across energy, media, consumer brands, and healthcare, companies have discovered that extracting more from existing captive customers is more reliable than building new value — and they are simultaneously returning the proceeds to shareholders rather than reinvesting in productive capacity.",
+  "axis_mix": ["economic", "societal", "cultural"],
+  "mechanism": "When commodity cycles, infrastructure contracts, or platform economics generate cash faster than capex can absorb it, two complementary behaviors emerge. First, companies raise prices on habituated or captive customers: Philip Morris raises cigarette prices despite volume declines because addiction makes demand inelastic; cable and broadband operators raise prices as subscribers churn elsewhere; AmEx grows net card fees for 30 consecutive quarters. Second, management teams return that cash to shareholders through buybacks and dividends rather than reinvesting in workers, communities, or long-cycle assets. The discipline is real but the distribution is asymmetric: shareholders capture the upside while communities bearing the operational footprint get little.",
+  "why_now": "Post-2022 high-rate environments forced cost discipline; now balance sheets are clean and cash generation is record. PMI EPS went from $4.52 to $7.26 in a single year primarily through smoke-free product pricing power and combustible inelastic demand. ConocoPhillips targets 45% of CFO returned; Nutrien returned $848M in H1 2026; ExxonMobil distributed $37.2B in 2025. This is a structural posture, not a momentary excess.",
+  "who_pays": "Low-income consumers with habitual spending patterns (smokers, prescription medication users, broadband subscribers in markets with one provider); long-term equity holders who would benefit from reinvestment; workers in divested or curtailed assets; communities adjacent to operations that see capex shrink.",
+  "who_benefits": "Existing shareholders — concentrated among institutional owners and insiders — who capture the per-share value lift from buybacks and the extraction economics of price increases on captive customers without bearing churn risk.",
+  "tension": "The harvest has a terminal horizon: subscription churn accelerates when price increases exceed perceived value; smoker populations shrink; patients find alternatives; regulators intervene. EchoStar is the warning — the video harvest hit its limit and the company now faces going-concern uncertainty. The discipline that looks like financial virtue is also an underinvestment in productive capacity: when the next commodity or infrastructure shortage hits, years of buyback-over-capex choices will have hollowed out the supply base.",
+  "evidence_companies": [
+    {
+      "company": "Philip Morris International",
+      "fact": "Combustibles net revenues grew 9.5% despite volume declines; EPS $7.26 reported FY2025 vs $4.52 FY2024; addiction stickiness enabling price increases even as formats migrate"
+    },
+    {
+      "company": "ConocoPhillips",
+      "fact": "$9.0B distributed in 2025 ($5.0B buybacks, $4.0B dividends); 45% CFO return guidance with simultaneous Permian production records"
+    },
+    {
+      "company": "ExxonMobil",
+      "fact": "$37.2B shareholder distributions in 2025 paired with $29.0B capex; management frames structural cost advantage as justification"
+    },
+    {
+      "company": "American Express Company",
+      "fact": "Net card fee revenue in 30th consecutive quarter of double-digit growth; 70%+ on fee-paying products; premium customer concentration enables pricing without churn"
+    },
+    {
+      "company": "BrightSpring Health Services",
+      "fact": "Revenue per script rose sharply to $314.20 while prescriptions stable; gross profit per script expanded to $27.50 through mix and pricing"
+    },
+    {
+      "company": "Nutrien",
+      "fact": "$848M returned to shareholders in H1 2026; 30% increase in total cash returns in 2025; share repurchases accelerated in Q3"
+    },
+    {
+      "company": "Suncor Energy",
+      "fact": "C$5.8B returned in 2025; 100% excess capital return policy; US$10/bbl WTI breakeven reduction enabling distribution at lower prices"
+    },
+    {
+      "company": "EchoStar Corporation",
+      "fact": "6.391M pay-TV subscribers declining; going-concern uncertainty stated in FY2025 annual report; the full legacy satellite TV harvest model unwinding as price increases could no longer retain subscribers"
+    }
+  ],
+  "societal_stake": "When the most cash-generative companies in the economy systematically choose buybacks over wages, infrastructure, or community investment, the economy's productive capacity stagnates while inequality compounds. And when the most profitable corporate strategy is extracting more from existing captive customers rather than creating new value, households pay more for services they cannot easily leave.",
+  "merged_from": ["The Buyback Republic", "The Cash Harvest"]
+}

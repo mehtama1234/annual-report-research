@@ -1,0 +1,44 @@
+{
+  "slug": "screening-revolution__recurrence-monitoring",
+  "trend_slug": "screening-revolution",
+  "name": "Recurrence Monitoring",
+  "deck": "Post-treatment molecular monitoring has become a distinct market layer. Patients screened for early disease are now monitored continuously through liquid biopsies and genetic testing, creating recurring test volume and information-layer value independent of drug companies.",
+  "core_bet": "Natera's Signatera oncology platform, Guardant's blood-based cancer monitoring, and Quest's expanding molecular portfolio show that post-treatment surveillance is becoming standard of care. Natera's FY2025 oncology tests grew 51.6%, Q2 2026 oncology tests grew 57.2%. This is not one-time screening; it is longitudinal molecular monitoring paid by payers as part of cancer care. The value is not in drug approval or treatment volume; it is in information—detecting recurrence earlier through liquid biopsies, informing treatment decisions, and enabling closer patient monitoring.",
+  "numbers": [
+    "Natera FY2025: revenue $2.31B up 35.9%, oncology tests +51.6%, total tests +24.9%; full-year guidance raised multiple times",
+    "Natera Q2 2026: revenue $752.8M up 37.7%, oncology tests 296,700 (+57.2%), total tests 1.04M (+22.4%); full-year guidance raised to $2.85-$2.91B",
+    "Natera Q1 2026: revenue $696.6M up 38.8%, oncology tests 258,900 (+54.4%), total tests >1.0M; Signatera and Fetal Focus adoption accelerating",
+    "Natera: Signatera for circulating tumor DNA monitoring in early-stage cancer, Panorama for prenatal screening, Horizon for organ transplant monitoring, Prospera expanded Medicare coverage",
+    "Natera Q4 2025: oncology tests +54.7%, ASP improvements, higher-value assay mix driving margin expansion; category-shaping franchise dynamics"
+  ],
+  "mechanism": "The screening-revolution operates through three mechanisms. First, clinical evidence-to-practice translation: Natera's 2025 data readouts for Signatera (early cancer detection) and oncology monitoring drove adoption increases. Clinical trials show that circulating tumor DNA monitoring detects recurrence earlier than imaging alone; payers responded by covering the tests as standard of care. This is not marketing or physician persuasion; it is evidence-based guideline adoption. Second, test-volume multiplication: early cancer screening generates initial positive tests; post-treatment monitoring requires recurring tests (quarterly or more frequent). Each cancer patient becomes a multi-year revenue stream. Natera's oncology tests grew 51.6% in FY2025 and 57.2% in Q2 2026—faster than overall test growth—because oncology represents recurring monitoring, not one-time screening. Third, information-layer monetization independent from treatment: Natera's Signatera creates value by detecting recurrence earlier, but that value accrues to Natera (the diagnostics company), not to the drug maker. The test can be used with any oncology treatment; it creates optionality. This is the inverse of old diagnostics tied to specific drugs. The modern pattern is: develop a molecular test, get evidence, win payer coverage, and capture recurring volume independent of which drugs are prescribed.\n\nThe mechanics show in guidance and guidance raises. Natera raised revenue guidance in Q1 and Q2 2026, signaling that adoption exceeded expectations. The company is not supply-constrained or demand-constrained; it is execution-constrained on assay rollout, payer coverage expansion, and clinical-evidence spending. That is the signature of a frontier market where information uptake is the binding constraint, not volume or price.\n\nThe tension emerges in reimbursement and evidence permanence. Payers cover Natera's tests because clinical evidence justifies the cost. If evidence weakens (if recurrence monitoring does not actually change outcomes), payer coverage contracts and the market shrinks. If too many tests are ordered without clear clinical indication, payers push back on utilization. Natera's business depends on evidence durability and clinical-guideline entrenchment; if that falters, the recurring model breaks.",
+  "why_now": "Screening and molecular monitoring are apparent now because three facts aligned. First, liquid-biopsy science matured enough to be clinically reliable—tests like Natera's Signatera can now detect circulating tumor DNA at scale. Second, payer coverage expanded as clinical evidence accumulated—Medicare and commercial plans now reimburse post-treatment monitoring because randomized trials showed earlier detection improves outcomes. Third, clinical guidelines shifted—oncology recommendations now include molecular monitoring as part of standard care rather than as a research add-on. The combination means recurring monitoring is now infrastructure, not innovation.",
+  "who_pays": "Payers (Medicare, commercial insurers, employers) who now cover recurring molecular tests; patients who face out-of-pocket costs if coverage is incomplete; healthcare systems that absorb ordering volume and testing complexity.",
+  "who_profits": "Molecular diagnostics platforms (Natera, Guardant, exact Sciences) that capture recurring test volume and information-layer value. Healthcare systems that can demonstrate improved outcomes through better monitoring. Asset-light diagnostics companies that own the assay intellectual property but outsource lab operations.",
+  "tension": "The tension is between test expansion and clinical utility. As more cancers are monitored and more testing is ordered, payers may challenge utilization or demand evidence that monitoring changes outcomes and reduces treatment cost. If ordering expands without evidence of benefit, payer pushback follows and growth slows. Natera's success depends on evidence permanence; any evidence weakness creates cliff risk.",
+  "surprising_part": "The surprising element is how complete the shift to recurring monitoring has been. Ten years ago, diagnostics were often one-time confirmatory tests. Now the model is screening (one-time or periodic), then ongoing monitoring (quarterly or more frequent) for years. That multiplies the test volume per patient and creates far more durable revenue than one-time screening alone. The surprise is how quickly payers accepted this as standard of care.",
+  "societal_stake": "An economy where cancer surveillance depends on continuous molecular testing creates pressure on healthcare costs, screening access, and patient anxiety. It is efficient if monitoring genuinely improves outcomes, but it extracts information rent on every test. Patients gain earlier recurrence detection, but only if they can afford or access the tests consistently.",
+  "one_sentence": "Post-treatment molecular monitoring is becoming standard of care as payers cover recurring liquid-biopsy tests, creating a distinct market layer independent of drug companies.",
+  "evidence": [
+    {
+      "company": "Natera, Inc.",
+      "fact": "FY2025 revenue $2.31B up 35.9%, oncology tests +51.6%, total tests +24.9%; Q4 2025 oncology tests +54.7%; Signatera adoption accelerating on clinical evidence"
+    },
+    {
+      "company": "Natera, Inc.",
+      "fact": "Q2 2026 revenue $752.8M up 37.7%, oncology tests 296,700 (+57.2%), total tests 1.04M (+22.4%); guidance raised to $2.85-$2.91B; record oncology growth"
+    },
+    {
+      "company": "Natera, Inc.",
+      "fact": "Q1 2026 revenue $696.6M up 38.8%, oncology tests +54.4%, total tests >1.0M; Signatera and Fetal Focus adoption on 2025 data readouts; Medicare expansion for Prospera"
+    },
+    {
+      "company": "Natera, Inc.",
+      "fact": "Signatera for circulating tumor DNA monitoring in early-stage cancer; Panorama for prenatal screening; Horizon for organ-transplant monitoring; Prospera for renal-transplant monitoring"
+    },
+    {
+      "company": "Natera, Inc.",
+      "fact": "Higher-value assay mix driving margin expansion; oncology represents recurring monitoring layer, not one-time screening; average selling price improvements in Q4 2025"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "ai-infrastructure-toll",
+  "name": "The AI Infrastructure Toll",
+  "deck": "As hyperscalers race to build data centers, a small tier of specialized contractors, quarry operators, and component makers are collecting outsized returns by controlling the physical layer that cannot be routed around.",
+  "core_bet": "The AI buildout is not primarily a software story. It is a massive physical infrastructure program that flows capital through construction, power, materials, and labor-intensive trades. Whoever owns the quarries, controls the crews, or manufactures the specialized equipment that fits between two data centers captures pricing power that hyperscalers cannot evade. This is a toll, and hyperscalers are paying it.",
+  "numbers": [
+    {
+      "stat": "$14.06 billion",
+      "label": "Comfort Systems backlog Q2 2026, up from $8.12B a year earlier"
+    },
+    {
+      "stat": "123% revenue growth, 91% adjusted operating income growth",
+      "label": "Sterling Infrastructure E-Infrastructure segment FY2025"
+    },
+    {
+      "stat": "$17.14 billion",
+      "label": "EMCOR remaining performance obligations Q2 2026, up from $11.91B a year ago"
+    },
+    {
+      "stat": "91% YoY growth",
+      "label": "TTM Technologies data center and networking revenue Q2 2026, now 40% of total sales"
+    },
+    {
+      "stat": "$1.6 billion",
+      "label": "Generac data-center backlog after second hyperscaler agreement Q2 2026"
+    },
+    {
+      "stat": "88% of segment profit",
+      "label": "Martin Marietta aggregates contribution to total gross profit FY2025"
+    },
+    {
+      "stat": "$52.9 million EBITDA",
+      "label": "Commercial Metals precast acquisitions contribution Q3 2026"
+    }
+  ],
+  "mechanism": [
+    "Every AI model requires computing power. Computing power requires data centers. Data centers require land, power, cooling, precision construction, electrical integration, and specialized personnel. Those requirements flow capital through an ecosystem that has become overwhelmed by simultaneous demand from every major hyperscaler at once.",
+    "The work cannot be outsourced, postponed, or automated at scale. A 500-megawatt data-center campus needs thousands of tons of aggregates for site preparation, concrete for foundations, rebar for structure, electrical distribution equipment, HVAC systems, fiber-optic cable, backup generators, and teams of licensed electricians, mechanical engineers, and specialty contractors to assemble it all. That work happens in specific locations where the aggregate quarry, the power grid connection, and the skilled labor all exist.",
+    "Hyperscalers signed multi-year capital plans starting in 2025-2026. Their demand became visible and sticky. Sterling Infrastructure named mission-critical projects at 92 percent of E-Infrastructure backlog by Q2 2026. EMCOR's data-center construction contracts became the biggest contributor to rising RPO. Comfort Systems cited data-center and hyperscaler HVAC work as the driver of a record backlog doubling from $8 billion to $14 billion in one year. The throughput capacity constraints appeared immediately.",
+    "The binding constraint shifted from demand to execution depth. Comfort Systems management explicitly cited execution depth and team availability, not customer demand, as the growth bottleneck. Labor is hard to scale in specialized trades. A concrete crew that can pour a quarter-million-ton foundation does not appear overnight. An electrical contractor with experience fitting out a 50-megawatt power distribution system for a data center operates at a different technical depth than a residential installer. Specialty subcontractors and regional builders that lack the team bench cannot compete for mission-critical work. That creates a two-tier market where a small tier of national firms (Comfort Systems, Sterling, EMCOR) can command outsized margins because they are the only ones who can deliver."
+  ],
+  "why_now": "The acceleration crystallized in 2025-2026 as AI inference demand translated into real capital commitments. TTM Technologies saw data-center and networking revenue grow 91 percent year over year in Q2 2026. Sterling Infrastructure E-Infrastructure segment revenue grew 123 percent in FY2025 with adjusted operating income growth of 91 percent. Generac secured a second hyperscaler global supply agreement in Q2 2026 with a $1.6 billion data-center backlog. Comfort Systems backlog jumped from $8.12 billion a year earlier to $14.06 billion in Q2 2026. The visible milestone was 2026: when infrastructure contractors and suppliers moved from discussing AI demand to reporting record backlogs tied to named hyperscaler projects. This was not gradual. It was a cliff.",
+  "who_pays": "Cloud and AI companies absorbing massive capex budgets. Electricity consumers funding grid expansion through regulated utility rates. Communities hosting data centers that consume enormous volumes of water and power without proportional tax contribution. Specialty subcontractors and smaller regional construction firms that lack the team depth or scale to win mission-critical work and therefore exit the most profitable market segment. Workers in trades where demand outpaces training pipelines.",
+  "who_profits": "A small tier of national specialty contractors with proven execution track records and hyperscaler relationships: Comfort Systems, Sterling Infrastructure, EMCOR. Quarry operators with permitted aggregates reserves near data-center corridors, protected by freight limitations that prevent economic long-distance shipping. PCB and components manufacturers with existing capacity and qualification relationships: TTM Technologies grew data-center and networking revenue 91 percent year over year. Backup-power manufacturers like Generac securing multi-year supply agreements. Their backlog visibility now extends years, not quarters.",
+  "tension": "Labor scarcity is the structural ceiling. Every major contractor explicitly named team availability and execution depth, not customer demand, as the binding constraint. Comfort Systems cited workforce quality and the ability to scale skilled labor as the core challenge. EMCOR said acquisitions help acquisition of capability depth. Generac is expanding facilities and integrating acquisitions to increase capacity. If labor supply cannot keep pace, the entire physical toll chain hits a hard ceiling. Power is the secondary binding constraint. Alliant Energy projects a 60 percent load increase by 2031. Digital Realty's data-center power scarcity is already limiting expansion in key corridors. If grid buildout cannot keep pace with AI demand, overbuilt capacity in data-center construction and components becomes stranded, and the premium pricing that specialty contractors and material suppliers are commanding begins to erode.",
+  "surprising_part": "Aggregates—crushed stone, sand, and gravel—cannot be economically shipped more than 50 miles. Martin Marietta materials with 88 percent of segment profit from aggregates cannot rationally move inventory across country. That means whoever owns the quarry with available permits and reserves closest to a new data-center site in Texas, Virginia, or Oregon has local pricing power that hyperscalers cannot route around. The quarry operator is not just a commodity supplier anymore. They are infrastructure gatekeepers with Junk Bond yield but commodity-looking equity valuations. The same applies to specialty electrical contractors, HVAC teams, and concrete crews. The data center cannot be relocated because the grid connection, the water source, and the available land are fixed. The specialized labor must come from within 200 miles because talent does not move for a single project. That immobility creates unusual pricing power for suppliers with geographic presence.",
+  "one_sentence": "The physical layer of AI—aggregates, contractors, components, power equipment, and labor—is being paid by hyperscalers at premium rates because it is specialized, immobile, and cannot scale faster than demand.",
+  "societal_stake": "The physical cost of AI expansion—land use, power consumption, water depletion, carbon footprint, and community disruption from construction—is being externalized to utility customers and local communities without their consent or negotiation, while the financial gains flow to hyperscalers and their shareholders. The workers and firms delivering the physical infrastructure are seeing real demand and real backlog, yet they face structural labor constraints that mean they are being asked to scale faster than training systems, immigration policy, or demographic trends allow. When physical constraints bind tighter than customer demand, the society is choosing to accelerate AI deployment before it has solved the human and material layer underneath.",
+  "evidence": [
+    {
+      "company": "Comfort Systems USA",
+      "fact": "Q2 2026 backlog $14.06B vs $8.12B a year ago; management cites execution depth, not demand, as the bottleneck; record backlog driven by data-center and hyperscaler HVAC work"
+    },
+    {
+      "company": "Sterling Infrastructure",
+      "fact": "E-Infrastructure revenue grew 123% FY2025 with 91% adjusted operating income growth; mission-critical projects 92% of E-Infrastructure backlog; Q2 2026 backlog $4.33B with $7.0B+ pipeline visibility"
+    },
+    {
+      "company": "EMCOR Group",
+      "fact": "Remaining performance obligations record $17.14B Q2 2026 vs $11.91B prior year; data-center construction contracts the largest RPO contributor; management cites digital processing, cloud computing, AI, and data centers as drivers of industry growth"
+    },
+    {
+      "company": "TTM Technologies",
+      "fact": "Data center and networking 40% of Q2 2026 sales, up 91% YoY; management tied growth to continued robust demand supporting AI and data-center buildouts; book-to-bill 1.41"
+    },
+    {
+      "company": "Generac Holdings",
+      "fact": "Second hyperscaler global supply agreement secured Q2 2026; data-center backlog expanded to $1.6B; C&I external net sales up 29% while residential down 2%; company dramatically increasing capacity for large megawatt generators"
+    },
+    {
+      "company": "Martin Marietta Materials",
+      "fact": "Aggregates generated 88% of segment gross profit FY2025; data-center siting tied to aggregates intensity; AI expansion creating demand for rock and asphalt; freight limitations reinforce local scarcity pricing"
+    },
+    {
+      "company": "Knife River",
+      "fact": "Vertical integration across quarries and distribution defends margins; data-center siting explicit demand driver in 2026; company raised guidance for revenue and aggregate volumes"
+    },
+    {
+      "company": "Commercial Metals Company",
+      "fact": "Q3 2026 net earnings up 108.1% YoY; steel product margins improved $111 per ton YoY; project pipeline and backlog supported by data centers, semiconductors, and energy buildouts; precast acquisitions contributed $52.9M EBITDA"
+    }
+  ]
+}

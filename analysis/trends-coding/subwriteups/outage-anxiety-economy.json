@@ -1,0 +1,47 @@
+{
+  "slug": "outage-anxiety-economy",
+  "name": "The Outage Anxiety Economy",
+  "one_line": "Grid unreliability, extreme weather, and AI-driven power demand have turned backup electricity from a luxury purchase into psychological insurance and industrial compliance requirement — and the companies that control resilience infrastructure are repricing it as a strategic asset.",
+  "axis_mix": ["societal", "cultural", "industrial", "economic", "environmental"],
+  "mechanism": "Consumers and enterprises are paying for energy resilience not because outages are more frequent on average, but because the consequences of losing power feel more catastrophic — home offices, medical devices, electric vehicles, smart home infrastructure. At the industrial scale, data centers require backup generation as a mission-critical architectural requirement, not a fallback. Power outages have shifted from inconvenient to existential for data centers, hospitals, and manufacturing facilities. The same grid stress that drives residential backup-generator purchases is driving hyperscaler contracts for large-megawatt backup systems.",
+  "why_now": "The codes show convergence of three simultaneous pressures: extreme weather events disrupting supply (wildfires, Winter Storm Fern), AI-driven load growth straining grids, and a cultural shift where every outage is now a productivity and safety emergency. Generac signed a second hyperscaler global supply agreement in Q2 2026 and built a $1.6B data-center backlog simultaneously with residential market softness — the bifurcation is the clearest signal that reliability has been repriced as a strategic asset.",
+  "who_pays": "Residential customers buying standby generators and solar-plus-storage systems pay a significant upfront premium. Grid operators and utility customers absorb the system cost of intermittency without capturing the reliability premium that accrues to backup-generation vendors. Low-income neighborhoods remain grid-dependent while affluent homeowners get solar-backed power.",
+  "who_benefits": "Backup generation manufacturers (Generac), residential solar-plus-storage operators (Sunrun), data center power infrastructure builders, utilities with data-center siting advantages (Alliant Energy, NextEra), and specialty contractors (Comfort Systems, EMCOR) building the physical facilities.",
+  "tension": "The distributed resilience model requires massive materials and labor inputs. The cost of reliability is being unevenly distributed, with affluent homeowners getting solar-backed power while low-income neighborhoods remain grid-dependent. Tariff refunds masked Generac's true margin position in Q2 2026 ($71M pretax refund boosted EBITDA guidance) — when tariff relief expires, the cost structure will be tested against hyperscaler pricing discipline.",
+  "evidence_companies": [
+    {
+      "company": "Generac Holdings",
+      "fact": "Data-center backlog expanded to $1.6B; second hyperscaler agreement secured Q2 2026; C&I external net sales up 29% while residential down 2%; residential standby described as 'insurance purchase not premium feature'; grid fragility and AI load growth cited as tailwinds"
+    },
+    {
+      "company": "Sunrun Inc.",
+      "fact": "Storage attachment rate reached record 74% Q2 2026; networked storage capacity 4.647 GWh; management describing platform as distributed power plant"
+    },
+    {
+      "company": "Alliant Energy Corporation",
+      "fact": "Contracted data-center demand 3.4GW; projecting 60% peak-load increase by 2031 vs 2025 levels; $13.4B capital plan 2026-2029"
+    },
+    {
+      "company": "NextEra Energy",
+      "fact": "Renewable portfolio expansion from regulatory mandates; transmission infrastructure investment creating regulated returns; fossil portfolio exit accelerating"
+    },
+    {
+      "company": "Comfort Systems USA",
+      "fact": "Record backlog $14.06B Q2 2026; data-center HVAC and mechanical work driving organic growth 51% Q1 2026; execution quality framed as strategic asset"
+    },
+    {
+      "company": "EMCOR Group",
+      "fact": "Data-center construction contracts largest RPO contributor; Q2 2026 RPO record $17.14B; power and mechanical systems integration central to data-center delivery"
+    },
+    {
+      "company": "Digital Realty",
+      "fact": "Power infrastructure becoming scarce and limiting data center expansion; power-adjacent positioning central to competitive moat"
+    },
+    {
+      "company": "Atmos Energy",
+      "fact": "Over 85% of capex focused on safety and reliability; $26B capex through FY2030; modernization-driven growth requiring massive infrastructure investment"
+    }
+  ],
+  "societal_stake": "A society where power reliability is purchased rather than provided equally is a society stratifying by resilience. The rich get solar and batteries; everyone else gets managed outages. When reliability infrastructure is priced as a premium commodity, industrial and hyperscaler buyers absorb it while communities and small businesses facing the same grid stress cannot.",
+  "merged_from": ["The Outage Anxiety Economy", "The Reliability Premium"]
+}

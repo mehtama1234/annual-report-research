@@ -1,0 +1,85 @@
+{
+  "slug": "platform-lock-in-chewy",
+  "trend_slug": "pet-economy-mirror",
+  "name": "The Autoship Empire: Chewy's Recurring-Care Platform",
+  "deck": "Chewy converted 21.3M customers into a $12.60B platform not through better prices, but through switching costs that make pet care feel like a healthcare system instead of online retail.",
+  "core_bet": "Chewy is not a retailer that added subscriptions; it is a recurring-care platform that uses Autoship (roughly 84% of net sales), pharmacy integration, prescription fulfillment, and digital account management to make switching providers feel like a healthcare disruption rather than a retail switch. Pet parents are locked in through replenishment convenience, pharmacy relationships, and service depth rather than through price alone.",
+  "numbers": [
+    {
+      "stat": "$12.60 billion",
+      "label": "Chewy full-year fiscal 2025 net sales"
+    },
+    {
+      "stat": "21.3 million",
+      "label": "Chewy active customers year-end 2025"
+    },
+    {
+      "stat": "84%",
+      "label": "Chewy Autoship sales as percent of net sales Q3 2025"
+    },
+    {
+      "stat": "$595",
+      "label": "Chewy net sales per active customer Q3 2025"
+    },
+    {
+      "stat": "30.1%",
+      "label": "Chewy gross margin Q1 2026"
+    },
+    {
+      "stat": "$562 million",
+      "label": "Chewy record quarterly free cash flow full-year 2025"
+    },
+    {
+      "stat": "~250,000",
+      "label": "Chewy net active customer additions Q3 2025"
+    },
+    {
+      "stat": "~190,000",
+      "label": "Chewy products and service offerings available on platform"
+    }
+  ],
+  "mechanism": [
+    "Chewy's switching costs are not price-based—they are structural and behavioral. Autoship represents approximately 84% of net sales, which means the median customer has automatic recurring deliveries set up for pet food, medications, or supplies. Once a customer enrolls a pet in Autoship for prescription flea treatment, diabetes medication, or routine food delivery, switching to another retailer requires more than just finding a better price. It requires interrupting a medication schedule, finding a new pharmacy relationship, re-entering pet health information, and abandoning the account management infrastructure Chewy has built. Q3 2025 showed this lock-in working at scale: the company added roughly 250,000 net active customers despite a competitive market, achieved $595 in net sales per active customer, and maintained about 84% of revenue from Autoship. This is not transaction-based retail; it is subscription-like infrastructure where the customer has already woven Chewy into their pet-care routine.",
+    "The second layer of lock-in is pharmacy and health integration. Chewy uses prescription fulfillment, veterinary partnerships, and digital account management to position itself as more than a pet-product retailer. The company describes its digital surfaces as letting pet parents manage merchandise, health, wellness, and prescription needs—language that places Chewy in the healthcare adjacency rather than in generic e-commerce. When a customer uploads their pet's prescription for a chronic medication, Chewy manages the refill schedule, coordinates with the veterinary clinic, and integrates the medication into the household pet-care system. Switching then requires not just finding another pet-food store, but reestablishing pharmacy relationships and interrupting medication continuity. The gross margin expansion to 30.1% in Q1 2026 (up 50 basis points) is driven by this transition: as Autoship mix deepens and prescription volume grows, Chewy extracts more value per customer without relying on price competition. The switching cost is no longer about price; it is about the organizational disruption of leaving.",
+    "Third, Chewy has built a network effect where customer density and service breadth reinforce each other. The company describes itself as connected with approximately 4,000 brands and offering about 190,000 products and service offerings. This breadth matters not because every customer uses everything, but because the platform becomes easier to stay on than to leave. A customer buying dog food, prescription medications, and flea treatments from Chewy is buying from one integrated system rather than across three different providers. The network effect is bidirectional: as Chewy adds brands and service layers, the switching cost for individual customers rises because they would have to migrate each relationship separately. Full-year fiscal 2025 generated record free cash flow of $562 million, which funds continued expansion of brand relationships and service offerings. This capital allocation directly increases customer lock-in by making the Chewy platform objectively harder to leave."
+  ],
+  "why_now": "Pet care spending is one of the most resilient consumer categories during uncertainty, and digitization of pet healthcare and routine replenishment is accelerating. Veterinary prescription fulfillment through digital platforms has become normalized post-pandemic, making online pet pharmacy a standard rather than a novelty. Simultaneously, autoship and subscription models have become normalized across consumer categories, so pet parents increasingly expect recurring delivery and account management rather than one-time purchases. The combination of durable pet spending, acceptance of digital health management, and subscription normalization created the exact conditions where Chewy could build structural lock-in rather than competing only on price.",
+  "who_pays": "Pet parents who face increasing convenience lock-in and switching costs as Chewy deepens its integration into veterinary, prescription, and wellness layers. Smaller pet retailers and specialty pharmacies that cannot match Chewy's platform breadth or Autoship convenience. Veterinary clinics that lose direct customer relationships to Chewy's pharmacy fulfillment.",
+  "who_profits": "Chewy shareholders and the company itself, which captured 21.3 million active customers with 84% Autoship penetration, generating $12.60 billion in annual revenue and record free cash flow of $562 million. Venture capital and private-equity investors who backed Chewy before the public market recognized the recurring-revenue model.",
+  "who_pays_burden": "Pet parents lose pricing optionality and switching flexibility as Chewy becomes structurally integrated into their pet-care routines. Smaller retailers and pharmacies that cannot compete on platform breadth face margin compression or exit. Communities dependent on local pet-supply retailers lose local employment and service relationships.",
+  "who_profits": "Chewy platform and recurring-revenue model creating structural switching costs and customer lock-in",
+  "tension": "The system is only stable if Chewy maintains service quality and prescription accuracy—any significant failures would accelerate switching despite lock-in costs. Additionally, if Chewy's platform advantages eventually stall customer growth or if new competitors build equivalent platform depth, the switching-cost advantage could erode. The deeper tension is whether platform lock-in in healthcare-adjacent categories (prescription fulfillment, pet wellness management) should face different regulatory scrutiny than simple retail lock-in.",
+  "surprising_part": "The most non-obvious twist is that Chewy's lock-in is often benign or even positive for customers. Unlike platform lock-in in financial services or healthcare where opacity or predatory behavior can harm users, Chewy's lock-in often correlates with better pet outcomes: automatic medication refills prevent lapsed prescriptions, routine food delivery prevents stockouts, and integrated account management makes it easier to track pet health. This means Chewy's switching costs are partly self-imposed by customers who genuinely value the integration. But that same integration makes switching costs invisible until a customer decides to leave and realizes how much of their pet-care infrastructure is woven into the Chewy platform.",
+  "one_sentence": "Chewy built pet-care lock-in not through price, but through Autoship convenience and prescription integration that makes leaving feel like a healthcare system disruption.",
+  "societal_stake": "This pattern shows how platform dominance in repeat-purchase categories works when lock-in is wrapped in convenience and health management. It demonstrates that the most durable switching costs are structural (integration into routines) and emotional (tied to pet welfare) rather than purely economic. For consumers, this means platform convenience carries an invisible cost: the longer you stay, the harder switching becomes. For pet retailers and veterinarians, it shows how digital platforms can absorb distribution and fulfillment functions that once supported local economies.",
+  "evidence": [
+    {
+      "company": "Chewy, Inc.",
+      "fact": "Full-year fiscal 2025 net sales reached $12.60 billion with 21.3 million active customers; approximately 84% of net sales came from Autoship in Q3 2025"
+    },
+    {
+      "company": "Chewy, Inc.",
+      "fact": "Q1 2026 gross margin expanded 50 basis points to 30.1%; net sales increased 7.7% to $3.36 billion; company added nearly 200,000 net customer additions despite dynamic consumer backdrop"
+    },
+    {
+      "company": "Chewy, Inc.",
+      "fact": "Q3 2025 showed net sales per active customer of approximately $595, with roughly 250,000 net customer additions; Autoship maintained approximately 84% of net sales"
+    },
+    {
+      "company": "Chewy, Inc.",
+      "fact": "Full-year 2025 record free cash flow reached $562 million; cash balance was approximately $675 million; company operates approximately 190,000 products and service offerings through 4,000 brands"
+    },
+    {
+      "company": "Chewy, Inc.",
+      "fact": "Company explicitly describes platform as digital surfaces letting pet parents manage merchandise, health, wellness, and prescription needs—positioning Chewy as healthcare adjacency rather than generic retailer"
+    },
+    {
+      "company": "Chewy, Inc.",
+      "fact": "Fiscal 2025 adjusted EBITDA margin reached 5.7% for the year; Q1 2026 adjusted EBITDA margin reached 7.5%; margin expansion driven by Autoship mix deepening and improved customer economics"
+    },
+    {
+      "company": "Chewy, Inc.",
+      "fact": "Q4 2025 showed approximately 84% Autoship customer sales as percent of net sales with diluted EPS of $0.09, demonstrating sustained high-margin subscription penetration through full fiscal year"
+    }
+  ]
+}

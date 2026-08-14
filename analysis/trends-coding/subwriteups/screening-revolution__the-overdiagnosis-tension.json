@@ -1,0 +1,76 @@
+{
+  "slug": "the-overdiagnosis-tension",
+  "trend_slug": "screening-revolution",
+  "name": "The Screen That Caught Too Much: Overdiagnosis, Business Model Incentives, and the Unequal Revolution",
+  "deck": "The screening revolution has a structural flaw: business-model rewards are tied to test volume, not to whether each test improved a patient's life. Overdiagnosis—catching slow-growing conditions that would never have caused harm—creates real costs in anxiety, unnecessary procedures, and iatrogenic harm that are externalized onto patients and health systems.",
+  "core_bet": "Exact Sciences grew revenue to $3.25B in 2025 and Natera to $2.31B, both on the back of expanded screening and earlier detection. But the incentive structure for these companies is to maximize test volume, test frequency, and positive results, not to validate that each test improved mortality or morbidity. Overdiagnosis—particularly in multi-cancer screening, prenatal testing, and early-detection assays—is an externality borne by patients and payers, not by the test makers. The benefits of earlier detection also accrue unequally: to the insured, the digitally literate, and those near health systems that have adopted new protocols.",
+  "numbers": [
+    {
+      "stat": "$3.25B",
+      "label": "Exact Sciences full-year 2025 revenue"
+    },
+    {
+      "stat": "$2.31B",
+      "label": "Natera full-year 2025 revenue"
+    },
+    {
+      "stat": "37.7%",
+      "label": "Natera Q2 2026 revenue growth (YoY)"
+    },
+    {
+      "stat": "36%-38%",
+      "label": "Guardant full-year 2026 revenue growth guidance"
+    },
+    {
+      "stat": "66,000",
+      "label": "Guardant Shield tests in Q2 2026 (up from 38,000 in Q4 2025)"
+    },
+    {
+      "stat": "1.04M",
+      "label": "Natera total test volume in Q2 2026 (up 22.4% YoY)"
+    },
+    {
+      "stat": "296,700",
+      "label": "Natera oncology tests in Q2 2026 (up 57.2% YoY)"
+    },
+    {
+      "stat": "52.9%",
+      "label": "Guardant screening-revenue growth YoY (Q2 2026)"
+    }
+  ],
+  "mechanism": [
+    "The business-model incentive structure is simple: screening companies are paid per test performed. Exact Sciences makes revenue when Cologuard is ordered. Natera makes revenue when Signatera or Panorama is ordered. Guardant makes revenue when Shield is ordered. This creates a mechanical incentive to maximize test volume. The more people screened, the more tests ordered, the higher the revenue. The company does not directly bear the cost of false positives (patient anxiety), overdiagnosis (unnecessary treatment of slow-growing cancers), or iatrogenic harm (complications from procedures done to investigate positive tests).",
+    "Overdiagnosis is mathematically inevitable when you screen for rare conditions with imperfect tests. Multi-cancer early detection assays like Exact's Cancerguard or Guardant's Shield are designed to detect any one of 20+ cancer types with specificity high enough to be actionable, but not so high as to miss cases. The mathematics means that as you screen more people, you will catch many cancers that would have remained slow-growing or undiagnosed. Some of these would have progressed and caused death. Many would not have. The test maker does not have incentive to distinguish between the two—both are revenue.",
+    "Prenatal screening adds a behavioral dimension. Natera's Panorama and similar NIPT tests are now routine for pregnant women. They detect fetal chromosomal abnormalities with >99% detection for trisomy 21. But that high detection rate also catches cases of chromosomal anomalies that would result in miscarriage or very short life expectancy, cases that some parents would not terminate, and cases that create immense decision-making burden. The test maker profits from the ordering whether or not the result improves outcomes.",
+    "The inequality layer is critical: screening expansion reaches the insured, the connected, and those near health systems that have adopted new protocols. Uninsured and low-income populations do not get access to Exact, Natera, or Guardant tests at the same rate. This means the benefits of earlier detection (when real) accrue to higher-income groups, while the broader healthcare system absorbs the cost of managing the overdiagnosed cases and the anxiety-driven care-seeking that follows positive tests in all segments."
+  ],
+  "why_now": "Multiple pressures converge: (1) payer coverage has expanded for multi-cancer and early-detection assays, making these tests economically viable at scale; (2) direct-to-consumer marketing has normalized the idea of routine cancer screening; (3) clinical-guideline adoption has embedded some tests (like NIPT for all pregnancies) into standard practice; (4) the startup culture around 'liquid biopsies' and AI-enabled diagnostics has created competitive pressure to expand indications and population reach; (5) venture funding has been plentiful, allowing these companies to subsidize adoption and capture market share before the overdiagnosis cost becomes obvious.",
+  "who_pays": "Patients pay through anxiety, unnecessary biopsies, unnecessary surgical interventions, and complications from procedures done to investigate positive screening tests. A woman with an abnormal Panorama result may undergo amniocentesis (which carries miscarriage risk) when the abnormality would have self-resolved. A person with a positive Shield multi-cancer screen may undergo diagnostic workup for a cancer that would never have progressed. Health systems pay through diagnostic workup and follow-up care for positive screens that turn out to be false positives or slow-growing conditions. Payers absorb diagnostic and treatment costs for overdiagnosed conditions. Workers lose productivity to anxiety and unnecessary procedures.",
+  "who_profits": "Test makers profit from every test ordered, regardless of outcome impact. Exact Sciences, Natera, Guardant, and similar companies benefit from expanded screening populations and higher test frequency. The growth rates—37-39% for Natera, 36-38% for Guardant, 11.8% for Quest—are driven by volume expansion, not by outcome improvement or better test specificity. Physicians benefit from simplified decision-making (the test tells them what to do next) even when the decision tree is flawed. Digital health platforms benefit from patient engagement and data capture around test results.",
+  "tension": "The first tension is that screening companies cannot publically acknowledge overdiagnosis or slow-growth detection without undermining their own value proposition. If Exact Sciences admitted that 20% of detected colorectal cancers in Cologuard-screened populations would never have become clinically significant, the stock would collapse. But that 20% number is likely real. The second tension is regulatory: the FDA pathway for laboratory-developed tests is permissive, and once a test is in clinical use, outcomes tracking is weak. There is no infrastructure to measure whether screening at population scale improves mortality or just captures more disease. A third tension: clinical guidelines have incorporated these tests even without clear mortality-reduction data at population level. Pregnancy screening with NIPT is now routine, but the guidelines do not clearly state the overdiagnosis rate or the decision-making burden.",
+  "surprising_part": "What stands out is how openly companies are expanding into screening of asymptomatic populations—not just patients with symptoms or high-risk factors. Guardant's Shield is marketed as routine cancer screening for all adults. Natera's Panorama is now routine prenatal screening. Exact's multi-cancer tests are marketed as early-detection tools for average-risk people. This is a remarkable shift from the traditional screening model, where you screen only high-risk or symptomatic populations. The rationale is that 'earlier is better,' but the evidence that population-wide screening improves outcomes is weaker than the companies' growth rates suggest. A second surprise is how little discussion there is of overdiagnosis. Medical journals publish literature on the overdiagnosis rates (typically 10-30% for multi-cancer screens), but companies do not disclose overdiagnosis rates in investor communications, and payers do not demand them.",
+  "one_sentence": "When test makers profit from volume, not outcomes, screening expansion inevitably creates overdiagnosis whose costs are borne by patients and health systems, not shareholders.",
+  "societal_stake": "The screening revolution threatens to medicalize normal aging and risk. If every adult undergoes routine multi-cancer screening, a certain percentage will have positive results requiring diagnostic workup, many of which will be false positives or slow-growing conditions. This creates a cascade of anxiety, medical procedures, and healthcare spending that does not clearly improve longevity or quality of life. For pregnant women, the proliferation of screening options (NIPT, advanced ultrasound, additional testing) increases decision-making burden and anxiety even when outcomes are good. The inequality dimension is profound: high-income, well-insured, well-educated populations benefit from the possibility of earlier intervention when real cancers are caught. Lower-income populations do not get the same screening access, but the health system still bears costs when overdiagnosis or anxiety-driven care-seeking occurs in those populations. Finally, the normalization of preventive testing shifts medical identity: more people come to see themselves as potentially ill or at-risk, even when the screening test did not improve their individual outcome.",
+  "evidence": [
+    {
+      "company": "Exact Sciences Corporation",
+      "fact": "Full-year 2025 revenue reached $3.25 billion; screening revenue was $695 million; Cancerguard launch emphasized multi-cancer early detection expansion"
+    },
+    {
+      "company": "Natera Inc.",
+      "fact": "Q2 2026 revenue was $752.8 million, up 37.7% YoY; oncology tests reached 296,700, up 57.2%; total tests exceeded 1.04 million, up 22.4%"
+    },
+    {
+      "company": "Guardant Health Inc.",
+      "fact": "Q2 2026 screening revenue grew 52.9% YoY; Shield tests reached 66,000 in Q2 2026 (up from 38,000 in Q4 2025); company raised full-year 2026 guidance to 36-38% growth"
+    },
+    {
+      "company": "Quest Diagnostics Incorporated",
+      "fact": "Q2 2026 Advanced Diagnostics showed double-digit growth including Alzheimer's and cardiometabolic testing; questhealth.com and consumer channel expanded; full-year revenue guidance raised to $11.95-$12.05 billion"
+    },
+    {
+      "company": "Exact Sciences Corporation",
+      "fact": "Q4 2025 emphasized screened more people than ever, launched three new tests in 2025, and expanded into blood-based CRC screening through Freenome license"
+    }
+  ]
+}

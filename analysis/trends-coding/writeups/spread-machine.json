@@ -1,0 +1,79 @@
+{
+  "slug": "spread-machine",
+  "name": "The Spread Machine",
+  "deck": "The most durable profit engines in the economy are not innovators but intermediaries — companies that control access to essential supply chains, extracting recurring spreads that have less to do with logistics and more to do with structural chokehold.",
+  "core_bet": "Distribution consolidators sit between producers and consumers controlling mandatory access layers. They do not own the underlying commodity or infrastructure, but they extract a persistent spread by being the only practical way to reach the other side. The spread is durable because building alternative infrastructure to bypass them is prohibitively expensive — regulatory moats, route density, and real estate scarcity price access rather than compete on service.",
+  "numbers": [
+    {
+      "stat": "321.3B",
+      "label": "Cencora FY2025 consolidated revenue controlling pharmaceutical distribution"
+    },
+    {
+      "stat": "13M customers, 17,000 trucks",
+      "label": "Republic Services operational scale with 1,000+ local route locations"
+    },
+    {
+      "stat": "5.31B",
+      "label": "Republic Services FY2025 adjusted EBITDA with 50 basis points margin expansion"
+    },
+    {
+      "stat": "31.0%",
+      "label": "Ferguson gross margin maintained through pricing discipline with 1,746 branches"
+    },
+    {
+      "stat": "140,000 miles",
+      "label": "Energy Transfer pipeline network generating fee-based EBITDA"
+    },
+    {
+      "stat": "5.07B",
+      "label": "Energy Transfer Q2 2026 adjusted EBITDA up from 3.87B YoY"
+    },
+    {
+      "stat": "7.366B",
+      "label": "Arrow Electronics Q2 2026 global components sales up 39% YoY"
+    }
+  ],
+  "mechanism": [
+    "Pharmaceutical distributors like Cencora control drug access between manufacturer and pharmacy, moving 321.3B in revenue while doing almost none of the research or manufacturing. Republic Services controls landfill access in local markets where routing physics make alternatives economically impossible — they operate 1,000+ permitted locations and 13M recurring customers. Energy Transfer controls gas flow between producer and end-user through 140,000 miles of pipeline and export infrastructure. Ferguson controls component timing between manufacturer and contractor through 1,746 branches in fragmented construction markets. Arrow Electronics intermediates semiconductor and enterprise IT through global components distribution where inventory, design support, and logistics coordination determine real access. None own the underlying commodity; all extract a spread by controlling the intermediary layer.",
+    "The mechanism is not novel logistics or product innovation. It is **structural chokehold**. Building a competing pharmaceutical distribution network would require massive capital, regulatory approval, and relationships with thousands of suppliers and pharmacies. Launching a new landfill or pipeline network takes years of permitting and environmental compliance. Opening competing branches in fragmented contractor markets requires real estate, inventory, technical staff, and local relationships that take a decade to build. Instead, customers have limited alternatives and are forced to accept pricing that reflects the distributor's cost of capital plus a return on the moat, not just the marginal cost of moving the commodity.",
+    "The spread is typically invisible. A patient pays a pharmacy price for a drug that includes Cencora's margin. A contractor buys a valve from Ferguson that embeds Ferguson's margin. A utility customer pays a gas bill that includes Energy Transfer's fee. A manufacturer buys components from Arrow that carry Arrow's spread. The end user has no visibility into how much of the final price is margin extraction by the intermediary versus actual value creation, and no practical way to bypass the intermediary anyway.",
+    "This model compounds through pricing discipline, volume growth, and bolt-on acquisition. Republic raised pricing in excess of cost inflation every quarter through 2026 while handling more volume. Cencora maintained gross margin percentage even as GLP-1 volume surged (a lower-margin product category). Ferguson completed five acquisitions in one quarter while holding pricing discipline. Applied Industrial moved 40% of revenue into higher-margin Engineered Solutions. Each consolidator uses cash flow to acquire smaller regional distributors, eliminating switching options and extending their route density and pricing power."
+  ],
+  "why_now": "Three structural changes in 2026 increase volume flowing through fixed intermediary infrastructure without proportionally increasing the number of intermediaries. The GLP-1 drug volume surge created new pharmaceutical throughput that Cencora alone could serve at scale, pressuring gross margin percentage but lifting overall spread revenue. The AI hardware demand wave lifted Arrow Electronics components sales 39% YoY in Q2 2026 and flooded inventory systems with new working capital intensity that only scaled distributors could finance. The infrastructure construction boom — water systems, utilities expansion, energy transition projects, data-center buildout — created recurring demand for Ferguson (eight acquisitions per quarter), DNOW (first $1B midstream run rate), and Applied Industrial (Engineered Solutions approaching 40% of sales). More volume through fixed infrastructure, in markets where the number of licensed/permitted/capable intermediaries is capped, means the spread widens without commensurate cost growth.",
+  "who_pays": "Downstream customers with limited alternatives: pharmacies with restricted access to drug sources, municipalities with no choice in waste disposal (Republic operates the only permitted landfill within economic distance in most markets), utilities locked into pipeline transportation by physics, contractors forced to source from the only distributor with local inventory and technical support. Smaller regional distributors who cannot match scale economics and are gradually absorbed or priced out. Patients who indirectly pay drug prices that embed Cencora's margin. Businesses and households who pay energy bills, water bills, and construction costs that all include distributor spreads as invisible rents embedded in the final price.",
+  "who_profits": "The major distribution consolidators: Cencora (321.3B revenue), Republic Services (5.31B FY2025 EBITDA), Ferguson (31.0% gross margin across 1,746 branches), Energy Transfer (5.07B Q2 2026 EBITDA), Arrow Electronics (7.366B Q2 2026 components sales), Applied Industrial Technologies (40% of sales in high-margin Engineered Solutions), DNOW/MRC Global combined ($1B+ midstream annualized run rate). Each is compounding margin through pricing discipline, recurring contracts, and bolt-on acquisition that extends geographic density and reduces customer switching options.",
+  "tension": "Disintermediation risk is constant. Every intermediary faces the possibility that producers or consumers build direct relationships — Amazon has spent years disintermediating distributors of physical goods; GLP-1 manufacturers could build direct-to-patient channels to capture Cencora's margin; digital freight platforms threaten CH Robinson; direct-to-contractor supply could undercut Ferguson. Regulatory scrutiny of healthcare distribution concentration (Cencora controls pharmaceutical access) and antitrust attention to waste-sector consolidation (Republic) could disrupt the pricing assumptions embedded in these platforms' valuations. A shift to modular, decentralized infrastructure — local microgrids competing with centralized energy networks, for example — could gradually erode the need for large pipeline operators. Environmental or climate regulations could strand assets (landfills, pipelines) or force capital spending that compresses margins.",
+  "surprising_part": "The paradox is that higher volume can actually compress margins while lifting spread revenue. Cencora's Q2 2026 commentary made this explicit: GLP-1 volume growth 'pressured gross margin percentage while lifting revenue.' This happens because the commodity (in this case, the drug) is lower margin, and the distributor is already at maximum scale anyway — they cannot add much more capacity cost without building new infrastructure. So they absorb more volume at lower margin per unit, but the total spread revenue still rises because they now handle 15% more throughput. That is precisely the opposite of how consumers expect pricing to work: more volume should mean lower unit costs, but in this model, more volume just means the intermediary takes a slightly thinner slice of a much bigger pie.",
+  "one_sentence": "Intermediaries between producers and consumers own nothing, build nothing, and innovate nothing, but extract durable pricing power because rebuilding the infrastructure to bypass them is economically impossible.",
+  "societal_stake": "Intermediary rents embedded in drug prices, energy bills, water costs, and construction expenses are invisible taxes on households that have no visibility into the margin being extracted between the commodity they consume and the company that produced it. When essential supply chains are controlled by a small number of consolidators with pricing power, the public loses the ability to hold any single operator accountable for waste, inefficiency, or unfair profit extraction. The rents are particularly egregious in healthcare, where Cencora's spread is embedded in drug prices that already face affordability pressure. More broadly, the growth of intermediary consolidation means more of the economy is captured by chokepoint businesses that do not create new demand or consumer value but simply tax access to existing demand. The incentive structure is inverted: instead of competing on efficiency or service quality, consolidators compete on acquiring competitors and eliminating switching options. Over time, this transfers wealth from workers, consumers, and productive businesses to capital owners who own distribution franchises.",
+  "evidence": [
+    {
+      "company": "Cencora",
+      "fact": "321.3B FY2025 consolidated revenue controlling pharmaceutical distribution; GLP-1 volume growth pressured gross margin percentage while lifting revenue; U.S. Healthcare Solutions operating income grew 22%"
+    },
+    {
+      "company": "Republic Services",
+      "fact": "13M customers, 17,000 trucks, 1,000+ locations with local route density creating pricing moat; adjusted EBITDA 5.31B FY2025; 50 basis points EBITDA margin expansion Q1 2026; pricing in excess of cost inflation maintained"
+    },
+    {
+      "company": "Ferguson Enterprises",
+      "fact": "1,746 branches, ~6,200 fleet vehicles, 31.0% gross margin maintained through pricing discipline; five acquisitions Q2 2026; local inventory and technical support critical to contractor value proposition"
+    },
+    {
+      "company": "Energy Transfer",
+      "fact": "140,000 miles pipeline infrastructure; Q2 2026 adjusted EBITDA 5.07B up from 3.87B YoY; majority of margin fee-based with limited commodity sensitivity; long-term agreements extending into 2030s"
+    },
+    {
+      "company": "Arrow Electronics",
+      "fact": "Q2 2026 global components sales 7.366B up 39% YoY; 28B receivables plus 5.94B inventories showing working-capital intensity of distribution spread; 140+ sales facilities and 39 distribution centers globally"
+    },
+    {
+      "company": "DNOW Inc.",
+      "fact": "MRC Global acquisition closed November 2025 creating ~300-location combined platform; midstream revenue surpassed 1B annualized run rate for first time; gas utility maintenance creating embedded recurring demand"
+    },
+    {
+      "company": "Applied Industrial Technologies",
+      "fact": "Engineered Solutions approaching 40% of sales versus 18% ten years prior; technical distribution adding application engineering depth; customer labor constraints create value for distributor technical support"
+    }
+  ]
+}

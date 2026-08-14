@@ -1,0 +1,55 @@
+{
+  "slug": "affordability-ceiling",
+  "name": "The Affordability Ceiling",
+  "one_line": "Consumer spending is bifurcating not by preference but by constraint \u2014 a growing share of the population is hitting a ceiling where they cannot absorb price increases, cannot trade up, and are losing access to the middle-market brands and stores that built the 20th century retail economy.",
+  "axis_mix": [
+    "economic",
+    "societal",
+    "cultural",
+    "demographic"
+  ],
+  "mechanism": "Middle-market retail formats \u2014 department stores, mid-range specialty apparel, standard sporting goods \u2014 are losing both ends. Affluent consumers migrate toward premium identity brands (HOKA, YETI, Bloomingdale's, luxury hotels); value-seeking consumers consolidate around platforms offering lowest-cost basics (Amazon, Walmart). PepsiCo says shoppers want value; Macy's Bloomingdale's comps at 10% while the nameplate comps at 1.5%; NIKE Direct falls while wholesale recovers in value channels; Home Depot's pro contractor business outperforms DIY as homeowners defer maintenance due to affordability. The brands and stores caught in the middle lack the identity premium to justify higher prices and lack the scale to compete on logistics.",
+  "why_now": "The codes show the ceiling appearing simultaneously across apparel (NIKE), food (PepsiCo, Mondelez), housing (Ferguson residential soft, Home Depot DIY weak), and discretionary services (Robert Half white-collar hiring soft). Affordability pressure from tariffs and inflation is accelerating the sorting that was already underway from identity-driven premium consumption. This is a structural sorting, not a cycle.",
+  "who_pays": "Mass-market consumers \u2014 disproportionately working-class and lower-middle-income households \u2014 who cannot access the premium tier and are paying more for necessities while cutting discretionary spending. Workers in mid-market retail and brands who staff department stores, make mid-range goods, and serve customers no longer spending in the middle.",
+  "who_benefits": "Premium identity brands (Deckers/HOKA, YETI, Bloomingdale's), luxury real estate operators, mass-market platforms (Amazon, Walmart, Chewy), and companies that offer genuine value at sufficient convenience to capture trade-down volume.",
+  "tension": "When mass-market consumer spending stalls, the tax base that funds public services shrinks, small businesses that depend on mass-market foot traffic fail, and the employment base that generates premium spending erodes. Premium brands require ongoing cultural legitimacy \u2014 YETI's tariff sensitivity shows that even identity brands have margin constraints; HOKA's rapid growth creates the risk of losing the premium scarcity that justified the identity premium. The premium tier cannot sustain itself indefinitely when the mass market contracts beneath it.",
+  "evidence_companies": [
+    {
+      "company": "Macy's, Inc.",
+      "fact": "Q1 2026 Bloomingdale's comp sales +10.2%, Bluemercury +6.4%; Macy's nameplate only +1.6%; management launched media-network monetization ($188M in 2025) as a new revenue layer because merchandise margin alone is insufficient to sustain the store network"
+    },
+    {
+      "company": "PepsiCo",
+      "fact": "Management explicit: shoppers want value, convenience, new experiences; North America softer than international; affordability messaging central to 2026 strategy; core operating profit $14.9B from $93.9B revenue"
+    },
+    {
+      "company": "NIKE",
+      "fact": "Q4 2026 revenue down 1% reported (down 4% currency-neutral); persistent traffic weakness despite brand strength; housing affordability constraining consumer spending"
+    },
+    {
+      "company": "Deckers Outdoor",
+      "fact": "HOKA growth driving total company earnings while premium margin maintenance enables pricing power; performance running and lifestyle fusion creating a new category explicitly taking share from traditional athletic brands"
+    },
+    {
+      "company": "Bath & Body Works, Inc.",
+      "fact": "Full-year 2025 net sales down 0.2%, operating income down 11%; 40M active loyalty members insufficient as moat; specialty fragrance and home care face discretionary compression"
+    },
+    {
+      "company": "ACCO Brands Corporation",
+      "fact": "2025 net sales $1.525B down 8.5%; hybrid work normalization permanently reduced office intensity; pivoting to gaming, learning, and tech peripherals because core office categories face secular decline"
+    },
+    {
+      "company": "YETI Holdings, Inc.",
+      "fact": "DTC channel 60% of 2025 sales; premium outdoor-utility identity scaling internationally; Q1 2026 profitability pressured by tariffs, showing even identity brands have margin fragility when input costs rise"
+    },
+    {
+      "company": "Home Depot",
+      "fact": "Professional contractor business outperforming DIY; housing affordability pressure reducing homeowner discretionary maintenance; mass-market homeowner segment under constraint"
+    }
+  ],
+  "societal_stake": "The death of the middle shelf is also the death of the middle-class retail experience \u2014 the stores and brands that served aspirational but non-wealthy consumers. An economy where the premium tier thrives while the mass market stagnates is not a stable equilibrium \u2014 it is a structural exclusion of the majority from the prosperity narrative, which has political, social, and eventually economic consequences.",
+  "merged_from": [
+    "The Affordability Ceiling",
+    "The Death of the Middle Shelf"
+  ]
+}

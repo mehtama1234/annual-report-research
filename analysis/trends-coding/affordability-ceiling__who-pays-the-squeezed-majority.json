@@ -1,0 +1,79 @@
+{
+  "slug": "affordability-ceiling__who-pays-the-squeezed-majority",
+  "trend_slug": "affordability-ceiling",
+  "name": "Who Pays the Squeezed Majority",
+  "deck": "Working-class households lose access to middle-market goods and trade services; forced into value channels and DIY as professional contractors raise prices and middle-tier retailers struggle.",
+  "core_bet": "The affordability ceiling is compressing the middle market. As wage growth lags price increases across home improvement, consumer discretionary, and staffing services, working households retreat from larger projects, specialty purchases, and contractor-led solutions into value segments and deferred maintenance.",
+  "numbers": [
+    {
+      "stat": "$164.7B",
+      "label": "Home Depot full-year FY2025 sales"
+    },
+    {
+      "stat": "0.3%",
+      "label": "Home Depot FY2025 comparable sales growth"
+    },
+    {
+      "stat": "$41.8B",
+      "label": "Home Depot Q1 2026 sales (4.8% growth)"
+    },
+    {
+      "stat": "0.4%",
+      "label": "Home Depot Q1 2026 U.S. comparable sales growth"
+    },
+    {
+      "stat": "2.5%",
+      "label": "Robert Half permanent placement adjusted YoY revenue growth (Q2 2026)"
+    },
+    {
+      "stat": "$7.291B",
+      "label": "Bath & Body Works FY2025 net sales (down 0.2%)"
+    },
+    {
+      "stat": "$93.9B",
+      "label": "PepsiCo FY2025 net revenue"
+    },
+    {
+      "stat": "14%",
+      "label": "Walmart share of PepsiCo consolidated revenue"
+    }
+  ],
+  "mechanism": [
+    "Housing affordability pressure forces households to defer large remodel projects, trade work, and major capital expenditures. Home Depot reports that after adjusting for storms, underlying demand remains stable but pressured by housing affordability constraints. Comparable sales growth of 0.3% reflects the ceiling: the company can maintain traffic through repair and maintenance, but large-ticket discretionary work is vanishing.",
+    "Middle-income consumers retreat from specialty retail and branded goods into value channels. Bath & Body Works' sales declined 0.2% year-over-year, with direct channel dropping 2.4% and store traffic under pressure despite 40 million loyalty members. This mirrors PepsiCo's observation that U.S. food and beverage demand moderated as consumer budgets tightened under inflation pressure—households are still eating and buying, but through cheaper formats.",
+    "White-collar hiring demand remains soft despite staffing-market improvement. Robert Half shows permanent placement growing 2.5% adjusted YoY in Q2 2026 after three consecutive quarters of negative growth, suggesting employers are hesitant to commit to new permanent headcount. Protiviti consulting remains resilient only because enterprises need compliance and risk work regardless of hiring cycles. Working-class use of staffing services shrinks as companies switch to tighter hiring or gig arrangements."
+  ],
+  "why_now": "Through 2025-2026, the squeeze tightens because wage growth has lagged cumulative inflation. Home Depot's steady but weak comp sales, Bath & Body Works' need for a multi-year Consumer First Formula transformation, and Robert Half's muted hiring demand all point to the same pressure: middle-income households have less discretionary money available for projects, services, and branded goods than they did two years ago. PepsiCo's explicit focus on affordability positioning and value-driven innovation underscores that even staples companies are reshaping product lines for tighter budgets.",
+  "who_pays": "Working and lower-middle-class households: young families deferring home projects, professionals cutting back on contractor use and hiring help, discretionary-income earners trading down from specialty retailers to value channels and private-label alternatives, and employers freezing permanent headcount while monitoring temp staffing use.",
+  "who_profits": "Ultra-low-cost retailers, value private-label suppliers, DIY and self-service operators, gig and contingent platforms, and ultra-efficient contractors who consolidate market share. Large platforms like Home Depot capture repair and maintenance traffic but see big-project revenue vanish. Specialty retailers like Bath & Body Works lose full-price sales. Staffing firms lose permanent placement demand and compete for contingent work on tighter margins.",
+  "tension": "The middle market cannot hold. Home Depot's pro-distribution strategy through SRS and GMS suggests it is building around contractors and commercial customers rather than waiting for consumer remodeling to return. Bath & Body Works' Consumer First Formula is an emergency transformation, not a recovery playbook. Robert Half's permanent placement improvement is real but 2.5% growth is half the historical normalized rate. If affordability remains tight, the next phase is either accelerated consolidation (strong players buy weak players' customer bases) or permanent reshaping of the market into high-end and value-only segments with a hollowed middle.",
+  "surprising_part": "Home Depot is not in crisis—it is structurally preparing for a permanently lower consumer-remodel environment. Rather than betting on housing normalization, the company is becoming more pro-trade, more delivery-dense, and more infrastructure-like. This is a winning move in an affordability-ceiling scenario, but it also signals management's actual view: consumer project demand is unlikely to return to historical levels.",
+  "one_sentence": "Middle-income households are locking out of contractor services, specialty retail, and big-ticket projects, forcing suppliers to choose between value-segment survival and premium-niche escape.",
+  "societal_stake": "The health of the middle-class economy depends on access to skilled labor, discretionary goods, and the confidence to invest in homes and experiences. When affordability pressure forces retreat into DIY, value channels, and deferred maintenance, it signals deteriorating household financial security and the loss of the economic layer that historically supported skilled trades, mid-market services, and specialty retail brands.",
+  "evidence": [
+    {
+      "company": "Home Depot",
+      "fact": "FY2025 comparable sales increased only 0.3% despite $164.7B in total sales; Q1 2026 U.S. comp sales up 0.4% with underlying demand described as pressured by housing affordability"
+    },
+    {
+      "company": "Home Depot",
+      "fact": "SRS and GMS pro-distribution strategy now includes 1,300+ SRS branches and 16,000 delivery assets with $400M cross-sell run rate, showing deliberate shift toward contractor and commercial channels"
+    },
+    {
+      "company": "Bath & Body Works",
+      "fact": "FY2025 net sales down 0.2% to $7.291B; Q1 2026 stores revenue $1.062B vs $1.110B prior year; launched Consumer First Formula transformation in Q3 2025"
+    },
+    {
+      "company": "Robert Half",
+      "fact": "Permanent placement adjusted YoY revenue growth of 2.5% in Q2 2026; Q2 2026 revenues down 2% reported (3% adjusted) but showing sequential sequential improvements in permanent placement"
+    },
+    {
+      "company": "PepsiCo",
+      "fact": "FY2025 net revenue $93.9B with explicit focus on consumer value and affordability; Q2 2026 management noted U.S. food and beverage categories moderated as consumer budgets tightened under inflation pressure"
+    },
+    {
+      "company": "PepsiCo",
+      "fact": "Walmart and affiliates represent 14% of consolidated net revenue, showing extreme retailer concentration leverage over pricing; company pivoting to productivity savings and value positioning"
+    }
+  ]
+}

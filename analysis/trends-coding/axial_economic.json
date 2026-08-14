@@ -1,0 +1,174 @@
+[
+  {
+    "name": "The Buyback Republic",
+    "one_line": "Across energy, materials, tech, and finance, companies are converting operational cash into share repurchases and dividends at a scale that eclipses growth investment — rewarding existing shareholders while deferring the future.",
+    "axis_mix": ["economic", "societal"],
+    "mechanism": "When commodity cycles, infrastructure contracts, or platform economics generate cash faster than capex can absorb it, management teams — under relentless investor pressure — return capital through buybacks and dividends rather than reinvesting in workers, communities, or long-cycle assets. The discipline is real but the distribution is asymmetric: shareholders capture the upside while communities bearing the operational footprint get little. The mechanism is self-reinforcing: buybacks reduce share count, which boosts EPS, which justifies the next buyback.",
+    "why_now": "Post-2022 high-rate environments forced cost discipline; now balance sheets are clean and cash generation is record. The codes show a coordinated cross-sector pattern — not cyclical exuberance but explicit management doctrine. ConocoPhillips targets 45% of CFO returned; Nutrien returned $848M in H1 2026; ExxonMobil distributed $37.2B in 2025; KKR raised capital to $129B while fee-compounding accelerated. This is a structural posture, not a momentary excess.",
+    "who_pays": "Long-term equity holders who would benefit from reinvestment, workers in divested or curtailed assets, communities adjacent to operations that see capex shrink, and future customers who face supply constraints from under-investment.",
+    "who_benefits": "Existing shareholders — concentrated among institutional owners and insiders — who capture the per-share value lift from buybacks without bearing operational risk.",
+    "tension": "The discipline that looks like financial virtue is also an underinvestment in productive capacity. When the next commodity or infrastructure shortage hits, years of buyback-over-capex choices will have hollowed out the supply base that could respond. The codes already show hints of this in data-center power constraints, PCB manufacturing capacity limits, and EQT's conscious choice to prioritize infrastructure over distributions.",
+    "evidence_companies": [
+      {"company": "ConocoPhillips", "fact": "$9.0B distributed in 2025 ($5.0B buybacks, $4.0B dividends); 45% CFO return guidance with simultaneous Permian production records"},
+      {"company": "ExxonMobil", "fact": "$37.2B shareholder distributions in 2025 paired with $29.0B capex; management frames structural cost advantage as justification"},
+      {"company": "Nutrien", "fact": "$848M returned to shareholders in H1 2026; 30% increase in total cash returns in 2025; share repurchases accelerated in Q3"},
+      {"company": "CF Industries", "fact": "16.6M shares repurchased for $1.34B; dividend raised to $0.60 while Yazoo City outage reset production expectations"},
+      {"company": "Suncor Energy", "fact": "C$5.8B returned in 2025; 100% excess capital return policy; US$10/bbl WTI breakeven reduction enabling distribution at lower prices"},
+      {"company": "Republic Services", "fact": "$4.30B operating cash flow FY2025; $2.43B adjusted FCF with disciplined shareholder return even while acquiring >$700M of assets"}
+    ],
+    "societal_stake": "When the most cash-generative companies in the economy systematically choose buybacks over wages, infrastructure, or community investment, the economy's productive capacity stagnates while inequality compounds — the gains go to whoever already owned the shares."
+  },
+  {
+    "name": "The Integration Tax",
+    "one_line": "Across every sector, the dominant competitive strategy is now vertical or horizontal integration — and the cost is quietly passed to customers, workers, and small operators who have nowhere else to go.",
+    "axis_mix": ["economic", "industrial"],
+    "mechanism": "Whether it is pharmaceutical distribution (Cencora, Cardinal Health), waste hauling (Republic Services), industrial distribution (Ferguson, DNOW/MRC), or specialty contracting (EMCOR, Comfort Systems), companies are consolidating through acquisition and then using scale and routing density to charge prices that independent operators cannot match. The integration creates genuine efficiency but also generates moat-rents — pricing power that exceeds the efficiency gain — extracted from customers who lack alternatives.",
+    "why_now": "Low-rate debt markets funded the acquisition wave; now that leverage is in place, the moats are structural. The codes show consolidation accelerating in 2025-2026 across distribution, services, real estate, and infrastructure. Integration is no longer a phase — it is the permanent operating model. DNOW acquired MRC Global to hit ~300 locations; EMCOR operates ~100 subsidiaries; Republic has 1,000+ locations and 13M customers.",
+    "who_pays": "Small regional operators being acquired or undercut, customers without switching options (municipalities, hospitals, utilities), and workers in acquired facilities who face rationalization.",
+    "who_benefits": "Shareholders and management of the platform companies, who capture scale rents and acquisition synergies; and occasionally customers who receive genuine efficiency improvements in complex procurement.",
+    "tension": "Integration creates systemic fragility: if the dominant consolidator fails or is disrupted, there is no redundant network. The codes show this in pharmaceutical distribution (Cencora's Walgreens concentration risk), airline logistics (Sun Country's Amazon dependency), and natural gas infrastructure (Energy Transfer's long-term contracts locking in utilization but limiting flexibility).",
+    "evidence_companies": [
+      {"company": "Republic Services", "fact": "13M customers across 1,000+ locations; pricing in excess of cost inflation maintained; >$700M in acquisitions Q1 2026 on top of organic pricing power"},
+      {"company": "Ferguson Enterprises", "fact": "1,746 branches; five acquisitions Q2 2026; local inventory and technical support create moat against fragmented competition"},
+      {"company": "DNOW", "fact": "MRC Global acquisition closed November 2025 creating ~300-location combined platform in PVF and process equipment distribution"},
+      {"company": "EMCOR Group", "fact": "~100 operating subsidiaries; Miller Electric acquisition 2025; RPO $17.14B up from $11.91B prior year"},
+      {"company": "Cencora", "fact": "$321B FY2025 revenue controlling pharmaceutical distribution; OneOncology acquisition deepening provider workflow embedding"},
+      {"company": "Comfort Systems USA", "fact": "Record $14.06B backlog Q2 2026; management explicitly ties moat to execution depth and team capacity, not price competition"}
+    ],
+    "societal_stake": "When a handful of platforms control the infrastructure of daily life — drug distribution, waste removal, construction, industrial supply — the public loses the ability to hold any single operator accountable, and pricing power concentrates with no market corrective."
+  },
+  {
+    "name": "The AI Infrastructure Toll",
+    "one_line": "The AI buildout is not just a technology story — it is a massive capital transfer from cloud operators and enterprise buyers to a specific set of physical-layer companies in construction, power, materials, and components, creating winners who had nothing to do with artificial intelligence.",
+    "axis_mix": ["economic", "technological", "industrial"],
+    "mechanism": "Every AI model requires data centers, which require power, which requires construction, which requires aggregates, concrete, copper, fiber, PCBs, specialty contractors, and backup generation. The codes reveal a cascading demand signal: hyperscalers sign contracts with Generac (backup power), TTM Technologies (PCBs), Sterling Infrastructure (site development), Comfort Systems (HVAC/electrical), EMCOR (systems integration), Corning (fiber), and Martin Marietta (aggregates). None of these companies built AI; they are collecting tolls from companies that did.",
+    "why_now": "The inflection is visible in the data: TTM data-center revenue grew 91% YoY in Q2 2026; Sterling E-Infrastructure revenue grew 123%; Comfort Systems organic growth was 51% Q1 2026; Generac secured a second hyperscaler agreement with a $1.6B data-center backlog. The codes show these are real contracts, not speculative demand.",
+    "who_pays": "Cloud and AI companies absorbing massive capex; electricity consumers who fund grid expansion through regulated utility rates; communities hosting data centers that consume enormous water and power resources.",
+    "who_benefits": "Specialty construction, materials, power, and component companies that happen to sit in the physical supply chain of AI infrastructure — and their shareholders, who had no part in the AI innovation.",
+    "tension": "Power is the binding constraint: Digital Realty codes show power scarcity limiting deployment; Alliant Energy projects a 60% load increase by 2031. If grid buildout cannot keep pace with AI demand, the entire physical toll chain hits a ceiling — and overbuilt capacity in data-center construction and components becomes stranded.",
+    "evidence_companies": [
+      {"company": "TTM Technologies", "fact": "Data center and networking 40% of Q2 2026 sales, up 91% YoY; European acquisition expansion planned to meet capacity constraints"},
+      {"company": "Sterling Infrastructure", "fact": "E-Infrastructure revenue grew 123% FY2025; mission-critical projects 92% of backlog; signed backlog $4.33B with $7.0B+ pipeline visibility"},
+      {"company": "Comfort Systems USA", "fact": "51% organic revenue growth Q1 2026; $14.06B backlog; management attributes to data-center, semiconductor, hyperscaler buildout"},
+      {"company": "Generac Holdings", "fact": "Two hyperscaler agreements signed; data-center backlog expanded to $1.6B; C&I sales up 29% Q2 2026 as company repositions to large systems"},
+      {"company": "Martin Marietta Materials", "fact": "Data-center siting tied to aggregates intensity; 88% of segment gross profit from aggregates with freight-limited local pricing power"},
+      {"company": "Corning", "fact": "Broadband and 5G fiber demand from connectivity expansion central to growth narrative; specialty glass enabling device miniaturization"}
+    ],
+    "societal_stake": "The physical cost of AI — in land, power, water, carbon, and community disruption — is being distributed across utility customers and local communities without their consent, while the financial gains flow to data-center owners and their shareholders."
+  },
+  {
+    "name": "Membership or Nothing",
+    "one_line": "Across retail, media, mobility, and finance, the economic model has bifurcated into two tiers: members who receive subsidized convenience and preferential pricing, and non-members who increasingly fund those subsidies through full-price transactions.",
+    "one_line": "Platforms that have cracked recurring membership are pulling away from everyone else — using the predictable revenue stream to subsidize acquisition, undercut non-member pricing, and lock in behaviors that casual users can never replicate.",
+    "axis_mix": ["economic", "cultural"],
+    "mechanism": "Amazon Prime, Uber One, Chewy Autoship, AmEx premium cards, Starbucks Rewards, SiriusXM subscriptions, and NYT bundles all operate on the same logic: capture the customer relationship before the transaction, price the membership to generate habitual behavior, and use the data and frequency to extract increasing lifetime value. The non-member customer effectively cross-subsidizes member acquisition and pricing — paying higher per-unit prices to fund a model built around someone else.",
+    "why_now": "The codes show membership economics maturing across every sector simultaneously: Uber One reaches 50M members driving half of gross bookings; Chewy Autoship reaches 84% of net sales; AmEx net card fee revenue grows for 30 consecutive quarters; NYT reaches 12.78M subscribers. The inflection is not emergence — it is maturation into structural dominance.",
+    "who_pays": "Occasional or lower-income consumers who cannot justify membership costs and end up paying higher per-unit prices; non-platform competitors who lose the relationship entirely; workers whose jobs depend on transaction frequency that concentrates in member ecosystems.",
+    "who_benefits": "Platform owners who convert transaction uncertainty into recurring revenue and behavioral data; members who receive outsized value relative to transaction cost; institutional shareholders who receive the compounding economics.",
+    "tension": "Membership saturation: when everyone who would join has joined, growth requires either price increases (which trigger churn) or service degradation (which breaks the trust that justified the membership). The codes show early signs — Starbucks spent two years recovering from a period when the loyalty program was not delivering perceived value.",
+    "evidence_companies": [
+      {"company": "Uber Technologies", "fact": "50M Uber One members drive ~half of gross bookings across Mobility and Delivery; 208M MAPCs; Q2 2026 GAAP net income $2.4B"},
+      {"company": "American Express", "fact": "70%+ of new cards on fee-paying products; net card fee revenue in 30th consecutive quarter of double-digit growth; $1.67T billed business"},
+      {"company": "Amazon", "fact": "Advertising $19.8B and subscription $13.7B Q2 2026; same-day delivery surpassed 1B items; Prime member density driving repeat behavior"},
+      {"company": "The New York Times", "fact": "12.78M total subscribers; digital-only ARPU $9.94 up from $9.72; digital advertising up 20.7% Q2 2026 on premium inventory"},
+      {"company": "Chewy", "fact": "~84% Autoship as % of net sales; ~$595 net sales per active customer; record Q1 2026 profitability with ~200K net customer additions"},
+      {"company": "SiriusXM", "fact": "Record-low 1.4% monthly churn Q2 2026; 33M paid subscribers; 93% of SiriusXM segment revenue from subscriptions"}
+    ],
+    "societal_stake": "When the best prices and best service are gated behind membership fees, households that cannot afford or access the tier pay more for less — a quiet regressive redistribution embedded in the infrastructure of everyday commerce."
+  },
+  {
+    "name": "The Spread Machine",
+    "one_line": "The most durable profit engines in the economy are not innovators but intermediaries — companies that sit between producers and consumers, controlling timing, access, or information asymmetry, and extracting a spread without bearing commodity risk.",
+    "axis_mix": ["economic", "industrial"],
+    "mechanism": "Pharmaceutical distributors (Cencora, Cardinal Health) control drug access between manufacturer and pharmacy; pipeline operators (Energy Transfer, Williams, Enbridge) control gas flow between producer and end-user; distribution platforms (Arrow Electronics, Ferguson, Applied Industrial) control component timing between manufacturer and contractor. None own the underlying commodity; all extract a spread by controlling the intermediary layer. The spread is durable because building alternative infrastructure is prohibitively expensive.",
+    "why_now": "The GLP-1 drug volume surge, the AI hardware demand wave, and the infrastructure construction boom have all increased the volume flowing through these intermediary layers without proportionally increasing the number of intermediaries. More volume through fixed infrastructure means more spread revenue without commensurate cost growth. Arrow Electronics components revenue grew 39% YoY in Q2 2026; Cencora's GLP-1 volume growth created a paradox of revenue rising while gross margin percentage fell.",
+    "who_pays": "Producers who must sell through the intermediary layer; end-consumers whose prices embed the spread margin; patients who pay drug prices that include distributor margins; builders who pay component prices inflated by distribution markups.",
+    "who_benefits": "Intermediary platforms with existing infrastructure — pipelines, distribution networks, logistics systems — that cannot be quickly replicated. Their shareholders capture the volume upside without bearing commodity price risk.",
+    "tension": "Disintermediation: every intermediary faces the risk that producers or consumers build direct relationships. Amazon has spent years disintermediating distributors; GLP-1 manufacturers might build direct-to-patient channels; digital freight platforms threaten CH Robinson. The intermediary advantage is real but not permanent.",
+    "evidence_companies": [
+      {"company": "Cencora", "fact": "$321B consolidated revenue FY2025 controlling pharmaceutical distribution; GLP-1 volume growth pressured gross margin percentage while lifting revenue"},
+      {"company": "Energy Transfer", "fact": "140,000 miles pipeline; Q2 2026 EBITDA $5.07B up from $3.87B YoY; majority of margin fee-based with limited commodity sensitivity"},
+      {"company": "Arrow Electronics", "fact": "Q2 2026 global components sales +39% YoY to $7.366B; $28B receivables + $5.94B inventories showing working-capital intensity of distribution spread"},
+      {"company": "Ferguson Enterprises", "fact": "Gross margin 31.0% maintained through pricing discipline; waterworks 24% of sales with non-residential infrastructure up 8%"},
+      {"company": "Williams Companies", "fact": "AFFO dividend coverage 2.26x Q2 2026; long-term contracts reducing cyclicality; EBITDA guidance raised $200M to $8.4B"},
+      {"company": "CH Robinson", "fact": "Digital disruption reshaping freight intermediation; tight carrier capacity supporting broker margins despite platform competition"}
+    ],
+    "societal_stake": "Intermediary rents embedded in drug prices, energy bills, and building costs are invisible taxes on households that have no visibility into the margin being extracted between the commodity they consume and the company that produced it."
+  },
+  {
+    "name": "The Commodity Whiplash Transfer",
+    "one_line": "Commodity price swings are no longer absorbed by large integrated companies — they are systematically passed to the next link in the supply chain, and the final link is always the consumer or the small operator who cannot hedge.",
+    "axis_mix": ["economic", "industrial"],
+    "mechanism": "When silver prices rise, Kodak's margins compress; when cocoa prices surge, Mondelez passes costs downstream; when natural gas prices move, CF Industries captures the upside and fertilizer buyers absorb the downside; when aluminum and steel inflate, Crown Holdings and Cleveland-Cliffs navigate pass-through contracts while consumers bear the final bill. The transfer mechanism is pass-through contract structures, pricing power differentials, and the asymmetry between hedged large operators and unhedged small buyers.",
+    "why_now": "Post-2022 commodity volatility has not settled; geopolitical disruptions (Iran-related fertilizer, Middle East energy, DRC cobalt quotas) continue to create scarcity premiums. The codes show companies actively managing who absorbs the price — CF Industries benefiting from tight global nitrogen supply; Glencore's marketing arm explicitly monetizing freight and commodity disruptions; Freeport-McMoRan holding unit costs steady at $1.97/lb while realized copper prices hit $6.17/lb.",
+    "who_pays": "Farmers buying nitrogen fertilizer; consumers buying packaged food; construction contractors buying steel and copper; small businesses buying packaging materials — all operating without the hedging infrastructure that large companies use to protect themselves.",
+    "who_benefits": "Integrated commodity producers with low breakeven costs (CF Industries, ConocoPhillips, Suncor); commodity traders with physical assets (Glencore); and any operator with pricing power strong enough to pass increases downstream faster than cost inflation arrives.",
+    "tension": "Consumer affordability breaks the chain: PepsiCo and Mondelez both show that when commodity pass-through hits the consumer, volume declines. At some price point, the consumer cannot absorb more, and the entire chain is forced to reverse — pushing margin compression back upstream, often to the most vulnerable operators.",
+    "evidence_companies": [
+      {"company": "CF Industries", "fact": "2025 net earnings $1.46B driven by higher average selling prices; Iran-related disruption exposed fertilizer supply fragility; farmers absorb the cost"},
+      {"company": "Mondelez International", "fact": "2025 described as 'unprecedented cocoa cost headwinds'; organic revenue grew 4.3% but EPS under pressure; consumers facing price increases"},
+      {"company": "Glencore", "fact": "Marketing Adjusted EBIT rose to $3.3B H1 2026 up 142%; CEO explicitly cited Middle East conflict benefits; cobalt production shifted to copper as prices diverged"},
+      {"company": "Eastman Kodak", "fact": "Higher silver and aluminum prices offset part of operational gain; commodity input cost pressure explicitly limits margin expansion"},
+      {"company": "Crown Holdings", "fact": "Q1 2026 navigated Middle East conflict via global sourcing flexibility; aluminum and steel pass-through contracts protect converter margins while beverage brands face input cost"},
+      {"company": "Cleveland-Cliffs", "fact": "Fixed-price automotive contracts created earnings lag relative to spot pricing; 35-40% of flat-rolled sales locked in fixed contracts during price downturns"}
+    ],
+    "societal_stake": "The companies with the most sophisticated financial infrastructure bear the least commodity risk; the people with none bear the most — a structural amplifier of economic precarity for workers and households at the end of the supply chain."
+  },
+  {
+    "name": "The Cash Harvest",
+    "one_line": "Across media, consumer brands, infrastructure, and healthcare, companies have shifted from growth investment to systematic cash extraction from existing customer relationships — raising prices, cutting costs, and monetizing installed bases rather than building new ones.",
+    "axis_mix": ["economic", "cultural"],
+    "mechanism": "Philip Morris raises cigarette prices despite volume declines because addiction makes demand inelastic; cable and broadband operators raise prices as subscribers churn elsewhere; pharmaceutical distributors extract spread from drug pricing while manufacturers bear R&D risk; legacy brands raise average unit retail on reduced volume. The pattern is consistent: when you cannot grow the base, you extract more from what remains. The behavioral moat (habit, addiction, subscription inertia, regulatory moat) is what makes the harvest viable.",
+    "why_now": "The codes show this is not a transitional strategy but a mature operating model: Philip Morris EPS went from $4.52 to $7.26 in a single year primarily through smoke-free product pricing power and combustible inelastic demand; Signet's merchandise AUR up 5% against volume softness; BrightSpring's revenue per script rose sharply while prescription volume was stable; AmEx net card fee growth for 30 consecutive quarters.",
+    "who_pays": "Low-income consumers with habitual spending patterns (smokers, prescription medication users, broadband subscribers in markets with one provider); patients locked into home healthcare systems; subscribers facing annual price increases without viable alternatives.",
+    "who_benefits": "Shareholders of companies with behavioral moats — addiction, switching costs, regulatory protection, or geographic monopoly — who capture the extraction economics without bearing churn risk.",
+    "tension": "The harvest has a terminal horizon: subscription churn accelerates when price increases exceed perceived value; smoker populations shrink; patients find alternatives; regulators intervene. The codes show EchoStar as a warning — the video harvest hit its limit and the company now faces going-concern uncertainty.",
+    "evidence_companies": [
+      {"company": "Philip Morris International", "fact": "Combustibles net revenues grew 9.5% despite volume declines; EPS $7.26 reported FY2025 vs $4.52 FY2024; addiction stickiness enabling price increases"},
+      {"company": "Charter Communications", "fact": "Broadband price increases and bundling replacing video losses; video subscriber churn outpacing broadband net adds but ARPU rising"},
+      {"company": "BrightSpring Health Services", "fact": "Revenue per script rose sharply to $314.20 while prescriptions stable; gross profit per script expanded to $27.50 through mix and pricing"},
+      {"company": "Signet Jewelers", "fact": "Merchandise AUR up ~5% Q1 FY27; bridal up 6% and fashion up 8% Q3 FY26; pricing offsetting volume pressure in jewelry"},
+      {"company": "American Express", "fact": "Net card fee revenue in 30th consecutive quarter of double-digit growth despite mass-market volume softness; premium customer concentration enables pricing"},
+      {"company": "EchoStar Corporation", "fact": "6.998M FY2025 pay-TV subscribers declining; $7.321B current debt maturities; substantial doubt about going concern as harvest model collapsed"}
+    ],
+    "societal_stake": "When the most profitable corporate strategy is extracting more from existing captive customers rather than creating new value, the economy concentrates gains in moat-holding companies while households pay more for services they cannot easily leave."
+  },
+  {
+    "name": "The Private Capital Colonization",
+    "one_line": "Alternative asset managers — KKR, Invesco, Prudential's PGIM — are quietly colonizing more of the financial system, converting insurance float, retail savings, and pension obligations into fee-generating assets under management, and expanding the reach of private markets into domains once served by regulated banks.",
+    "axis_mix": ["economic", "regulatory"],
+    "mechanism": "KKR's $744B AUM spans private equity, credit, infrastructure, and insurance through Global Atlantic. Prudential's PGIM manages $1.49T alongside insurance underwriting. Invesco's QQQ ETF platform ($407B) and private markets ($130.7B) sit alongside a China JV. The mechanism is fee-rate arbitrage: moving capital from low-fee regulated bank products (deposits, mutual funds) into higher-fee alternative vehicles (private credit, infrastructure funds, insurance-linked products) while providing the same economic function of capital intermediation.",
+    "why_now": "Post-2022 bank failures and tighter bank regulation pushed credit supply toward non-bank lenders. KKR's 'asset-based finance' is explicitly positioned as credit supply for non-bank lending. The codes show record capital raising ($129B at KKR in 2025) and record net inflows at Invesco led by ETFs and private markets. The shift is structural: regulated banks face capital constraints; alternative managers face comparatively fewer.",
+    "who_pays": "Limited partners (pension funds, insurance companies, sovereign wealth funds, and increasingly retail investors) paying 2-and-20 fee structures; bank customers who face tighter credit because bank capital is now more constrained; communities that depend on bank credit for small-business lending.",
+    "who_benefits": "Alternative asset manager founders and shareholders; institutional allocators with access to private market returns; high-net-worth individuals gaining access through advisor channels.",
+    "tension": "The shift of credit creation from regulated banks to alternative managers reduces systemic visibility and regulatory oversight. When the next liquidity crisis hits, private credit portfolios are illiquid in ways that bank deposits are not — and the regulatory safety net does not extend to these structures.",
+    "evidence_companies": [
+      {"company": "KKR & Co.", "fact": "FRE $3.7B 2025; FPAUM $604B; record capital raised $129B; ABF explicitly called 'major live growth vector'; insurance embedded alongside asset management"},
+      {"company": "Invesco", "fact": "ETFs and Index AUM $630.2B; private markets $130.7B; QQQ $407.2B; operating margin 37.5% on $1.826B revenue Q2 2026"},
+      {"company": "Prudential Financial", "fact": "PGIM AUM $1.609T FY2025 alongside insurance underwriting; retirement and pension de-risking creating durable demand for liability assumption"},
+      {"company": "American Express", "fact": "Closed-loop network first-party data used for personalization; AI agents discovering/deciding/completing payments positions AmEx inside private market infrastructure"},
+      {"company": "Loews Corporation", "fact": "Insurance float optionality through CNA subsidiary providing capital deployment flexibility; patient capital allocation outperforming quarterly compounding"},
+      {"company": "Affirm Holdings", "fact": "Merchant-funded 0% APR offers; Q3 2026 GMV grew 48% YoY; operating income 27% shows private-credit economics at scale in consumer installment"}
+    ],
+    "societal_stake": "Capital is migrating from regulated, transparent institutions into private structures that are opaque to the public, difficult to audit, and not backstopped by deposit insurance — concentrating systemic risk in places regulators cannot see."
+  },
+  {
+    "name": "The Affordability Ceiling",
+    "one_line": "Consumer spending is bifurcating not by preference but by constraint — a growing share of the population is hitting an affordability ceiling where they cannot trade up, cannot absorb price increases, and cannot access the premium tier that is driving most corporate profit growth.",
+    "axis_mix": ["economic", "societal", "demographic"],
+    "mechanism": "PepsiCo says shoppers want value; Colgate grows at 2.4% organic while Hill's Pet Nutrition outperforms; Macy's Bloomingdale's comps at 10% while the nameplate comps at 1.5%; NIKE Direct falls while wholesale recovers in value channels; Home Depot's pro contractor business outperforms DIY as homeowners defer maintenance due to affordability. The pattern is consistent: the premium tier holds; the mass market softens. The affordability ceiling is structural, driven by housing costs, food inflation, interest rates on consumer debt, and wage growth that has not kept pace.",
+    "why_now": "The codes show the ceiling appearing simultaneously across apparel (NIKE), food (PepsiCo, Mondelez), housing (Ferguson residential soft, Home Depot DIY weak), and discretionary services (Robert Half white-collar hiring soft). This is not a single category issue but a cross-sector affordability compression visible in every consumer-facing business.",
+    "who_pays": "Mass-market consumers — disproportionately working-class and lower-middle-income households — who cannot access the premium tier and are paying more for necessities while cutting discretionary spending.",
+    "who_benefits": "Premium brand operators (Deckers/HOKA, Bloomingdale's, American Express, Hill's Pet Nutrition) whose customers are insulated from the affordability ceiling; and companies that offer genuine value (Instacart, Dutch Bros, Amazon) at sufficient convenience to capture trade-down volume.",
+    "tension": "When mass-market consumer spending stalls, the tax base that funds public services shrinks, small businesses that depend on mass-market foot traffic fail, and the employment base that generates premium spending erodes. The premium tier cannot sustain itself indefinitely when the mass market contracts beneath it.",
+    "evidence_companies": [
+      {"company": "PepsiCo", "fact": "Management explicit: shoppers want value, convenience, new experiences; North America softer than international; affordability messaging central to 2026 strategy"},
+      {"company": "NIKE", "fact": "Q4 2026 revenue down 1% reported (down 4% currency-neutral); persistent traffic weakness despite brand strength; housing affordability constraining consumer spending"},
+      {"company": "Macy's", "fact": "Q1 2026 Bloomingdale's comp +10.2% while Macy's nameplate +1.6%; bifurcation between premium and mass retail visible within a single company"},
+      {"company": "Home Depot", "fact": "Professional contractor business outperforming DIY; housing affordability pressure reducing homeowner discretionary maintenance"},
+      {"company": "Grand Canyon Education", "fact": "For-profit education enrollment tied to economic desperation; performance correlates with economic cycles and employment uncertainty"},
+      {"company": "Robert Half", "fact": "White-collar hiring soft with revenues down 2-6% across 2025-Q2 2026; permanent placement recovering before contingent, showing employers cautious on headcount"}
+    ],
+    "societal_stake": "An economy where the premium tier thrives while the mass market stagnates is not a stable equilibrium — it is a structural exclusion of the majority from the prosperity narrative, which has political, social, and eventually economic consequences."
+  }
+]

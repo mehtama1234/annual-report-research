@@ -1,0 +1,62 @@
+{
+  "sector": "Industrials",
+  "slug": "industrials",
+  "deck": "Two companies, two different models — commodity pass-through and engineered compliance infrastructure — both being re-rated because AI, electrification, and reshoring have made their old-economy products essential again.",
+  "summary": "Industrials in this cohort split cleanly into two operating models that are converging on the same demand thesis. Mueller Industries (MLI) runs a commodity-pass-through fabrication business: copper tube, brass fittings, HVAC line sets, valves, and wire-and-cable products whose selling prices float with raw-material costs. CECO Environmental runs a project-engineered platform: air pollution control, industrial water treatment, and thermal management systems sold into utilities, refineries, semiconductors, and data centers. Neither company is chasing the same customer, but both are being pulled toward the same underlying demand wave — electrification, grid buildout, industrial reshoring, and the physical infrastructure required to run AI computing.\n\nMueller's 2025 showed what a well-run pass-through model looks like under pressure: $4.179B in net sales, $958.5M in operating income, and net income of $765.2M despite soft residential construction, tariff disruption, and weak international markets. The key insight is that Mueller doesn't need housing starts to boom — repair and remodeling demand, HVAC replacement cycles, and acquired revenue from Bison, Nehring, and Elkhart kept earnings climbing. The 2030 strategic plan targets $1.5B of operating income by pushing downstream into HVAC and electrical lanes where margins are stickier. CECO is playing a different, faster game. Full-year 2025 revenue was $774.4M with adjusted EBITDA of $90.3M, then the company absorbed Thermon (closed June 2026) to create a combined 2026 outlook of $1.3B–$1.375B in revenue and $200M–$225M in adjusted EBITDA. The Q1 2026 quarter alone produced the largest natural-gas power order in company history, tied explicitly to data-center demand.\n\nThe fault line in this sector is between the companies' cash dynamics. Mueller generates operating income at a 23% margin and converts cash steadily. CECO's Q1 2026 free cash flow was negative $(15.7)M even as orders surged 97% and backlog crossed $1B. The project-industrial model front-loads the good news in order and backlog metrics while deferring cash realization. That gap — between backlog visibility and near-term cash conversion — is the tension that separates industrial winners from companies that grow themselves into distress.",
+  "numbers": [
+    {"stat": "$4.179B", "label": "Mueller Industries 2025 net sales"},
+    {"stat": "$958.5M", "label": "Mueller Industries 2025 operating income"},
+    {"stat": "$765.2M", "label": "Mueller Industries 2025 net income attributable to MLI"},
+    {"stat": "$1.5B", "label": "Mueller Industries 2030 operating income target"},
+    {"stat": "$18.2M", "label": "Mueller Industries Q4 2025 unrealized hedge loss on open copper contracts"},
+    {"stat": "$774.4M", "label": "CECO Environmental 2025 full-year revenue"},
+    {"stat": "$1.819B", "label": "CECO Environmental Q2 2026 backlog (post-Thermon)"},
+    {"stat": "$285.0M", "label": "CECO Environmental Q2 2026 revenue, up 54% year-over-year"}
+  ],
+  "sub_trends": [
+    {
+      "name": "Commodity pass-through as operating model, not risk",
+      "what": "Mueller runs a deliberate spread business where selling prices float with copper, brass, and aluminum. The company explicitly states this policy in filings — it does not try to absorb material costs, it resets prices with the market. That model works until customers refuse to absorb increases, but in 2025 they did absorb them, driving the top-line beat even as unit volumes declined in core products.",
+      "companies": ["Mueller Industries"]
+    },
+    {
+      "name": "Electrification and grid infrastructure as adjacency upgrade",
+      "what": "Mueller's acquisition of Nehring brought wire-and-cable and electrical transmission exposure that didn't exist in the old plumbing-and-refrigeration identity. The 2030 plan explicitly expands the electrical lane. CECO's largest single order in company history was a natural-gas power project tied to data-center demand. Both companies are repositioning product lines that used to serve buildings as now also serving grid infrastructure.",
+      "companies": ["Mueller Industries", "CECO Environmental"]
+    },
+    {
+      "name": "Repair and remodeling as residential construction offset",
+      "what": "Mueller's 10-K carefully separates new housing starts from repair and remodeling demand, and management leans on this distinction every time residential construction softens. In 2025, higher rates suppressed new starts, but replacement HVAC, plumbing retrofits, and commercial mechanical upgrades held earnings together. This is underappreciated resilience that looks like housing exposure but behaves more like maintenance infrastructure.",
+      "companies": ["Mueller Industries"]
+    },
+    {
+      "name": "Environmental compliance becoming embedded industrial infrastructure",
+      "what": "CECO is not a one-time cleanup contractor. It is building a recurring installed base of air pollution control, industrial water treatment, and thermal management systems inside industrial plants and utilities. As regulations tighten and reshoring expands the number of plants, the demand for environmental compliance infrastructure becomes structural rather than episodic.",
+      "companies": ["CECO Environmental"]
+    },
+    {
+      "name": "Acquisition-driven platform building at both ends",
+      "what": "Mueller added Bison, Chicago Extruded, Nehring, and Elkhart across 2024-2026 to widen its copper tube platform, expand electrical exposure, and deepen HVAC capability. CECO absorbed Thermon in June 2026 to add thermal management to its environmental systems platform. Both companies are buying adjacent capabilities rather than organic adjacencies — and both are absorbing meaningful integration complexity simultaneously.",
+      "companies": ["Mueller Industries", "CECO Environmental"]
+    },
+    {
+      "name": "AI and data-center demand as physical-layer pull-through",
+      "what": "Neither company sells chips, software, or cloud capacity. But both are benefiting from AI infrastructure build because data centers need cooling, power generation, air handling, emissions control, copper wiring, and HVAC systems at industrial scale. CECO's Q1 2026 management commentary made this explicit, tying the largest natural-gas power order in company history directly to AI computing demand.",
+      "companies": ["Mueller Industries", "CECO Environmental"]
+    }
+  ],
+  "standout_companies": [
+    {
+      "company": "Mueller Industries",
+      "why_notable": "Generated $958.5M in operating income on $4.179B in sales in 2025 while residential construction was still soft — proving that copper fabrication economics depend more on spread management, repair demand, and acquired revenue than on housing starts."
+    },
+    {
+      "company": "CECO Environmental",
+      "why_notable": "Grew backlog to $1.819B post-Thermon and received the largest natural-gas power order in company history in Q1 2026, directly tied to AI data-center demand — repositioning a pollution-control business as essential digital infrastructure."
+    }
+  ],
+  "tension": "The core fault line is between backlog optimism and cash realization in project-industrial models. CECO's order book is exploding, but Q1 2026 free cash flow was negative $(15.7)M and the Thermon acquisition required a reporting delay. Meanwhile, Mueller's copper-hedge mechanics created an $18.2M unrealized loss in a single quarter when copper prices moved fast. Both companies are managing the gap between what the top-line story says and what the cash account shows — a gap that doesn't kill good industrial businesses but regularly punishes the ones that borrow too much against it.",
+  "who_wins_who_loses": "Winners are industrial companies with genuine installed-base advantages — like Mueller's replacement-cycle positioning in HVAC and plumbing — or project-engineering platforms with multi-year backlog visibility tied to structural demand like electrification and AI infrastructure. Losers are commodity processors without spread management capability, companies dependent on new residential construction without repair-and-remodeling offset, and acquisitive industrials that borrowed at peak to buy growth and now face integration costs while cash conversion lags. Pure-play residential construction suppliers sitting upstream of repair demand are the most exposed to rate-driven housing weakness.",
+  "outlook": "Industrials in this cohort are in a quiet re-rating. The companies that looked like slow-growth commodity processors five years ago are increasingly essential to grid buildout, environmental compliance, and the physical layer beneath the digital economy. Mueller's 2030 plan targeting $1.5B in operating income is ambitious but grounded — the company is building downstream into HVAC and electrical markets that carry stronger margins and less pure commodity exposure. CECO's combined company is projecting $1.3B–$1.375B in 2026 revenue with $200M–$225M in adjusted EBITDA, which represents a step-change from its pre-Thermon scale. The macro risks are real: a sharp copper price reversal hurts Mueller's hedging mechanics; a regulatory softening on environmental standards slows CECO's compliance infrastructure demand. But the structural pull from electrification, reshoring, and AI infrastructure spending is durable enough that both companies should continue to see above-cycle demand through at least 2027-2028.",
+  "one_sentence": "Two old-economy industrial companies — one a copper fabricator, one an environmental systems builder — are being pulled upmarket by the same force: the physical infrastructure requirements of electrification, reshoring, and AI are making their metal fittings and emissions controls essential again."
+}

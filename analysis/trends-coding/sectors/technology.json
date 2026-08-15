@@ -1,0 +1,86 @@
+{
+  "sector": "Technology",
+  "slug": "technology",
+  "deck": "AI infrastructure demand has split technology into two economies: companies touching the AI buildout are compounding at historic rates, while those outside it are defending against obsolescence or quietly imploding.",
+  "summary": "The technology sector in 2025-2026 is defined by one structural reality: AI capital expenditure has become the organizing force around which every company is either benefiting, adapting, or being bypassed. At the top of the stack, Broadcom hit $10.8B in AI semiconductor revenue growing 143% YoY and expects $16B in Q3 2026. Micron's revenue scaled from $13.6B in Q1 to $41.5B in Q3 2026 as HBM became mandatory AI infrastructure. Arista Networks crossed its first $3B quarter on AI-fabric networking demand. Microsoft's Azure surpassed $100B in annual revenue with $627B in commercial remaining performance obligations. These are not incremental gains — they are structural step-changes driven by hyperscaler AI buildout compounding across silicon, memory, networking, and cloud.\n\nA second tier of companies is monetizing the AI wave indirectly but durably: AppLovin generates $800M+ in quarterly free cash flow from AI-driven ad optimization; Snowflake repositions its data warehouse as the governance layer for agentic AI; CrowdStrike crosses $5B ARR as security complexity expands with AI adoption; Adobe's AI-first ARR tripled year-over-year before exceeding $500M. These companies are not selling AI infrastructure — they are capturing the productivity and monetization layer above it. Meanwhile, the ad-tech mid-tier (Trade Desk, PubMatic, Taboola, Teads) is fighting fragmentation and the threat of AI-mediated discovery displacing intent-based buying entirely.\n\nThe fault lines are stark. Intel generated flat revenue at $52.9B in FY2025 while the AI boom raged around it, betting survival on a 18A foundry ramp that has yet to attract anchor customers. EchoStar disclosed going-concern doubt with $7.3B in current debt. Forrester's revenue fell to $396.9M from $432.5M as AI eroded perceived value of legacy analyst content. The companies that didn't wire themselves to either the infrastructure buildout or the software governance layer are compressing fast — and the compression is structural, not cyclical.",
+  "numbers": [
+    {"stat": "$627B", "label": "Microsoft commercial remaining performance obligations — future contracted revenue"},
+    {"stat": "$41.5B", "label": "Micron quarterly revenue Q3 2026, up from $13.6B in Q1 2026"},
+    {"stat": "$10.8B", "label": "Broadcom AI semiconductor revenue FY2026, +143% YoY"},
+    {"stat": "$5.3B", "label": "Cisco year-to-date AI infrastructure orders through Q3 FY2026"},
+    {"stat": "$5.51B ARR", "label": "CrowdStrike ARR Q1 FY2027 with $1.61B operating cash flow"},
+    {"stat": "49.9%", "label": "Arista Networks non-GAAP operating margin in its first $3B quarter (Q2 2026)"},
+    {"stat": "$115.6B GMV", "label": "Shopify Q2 2026 gross merchandise volume with 68% Payments penetration"},
+    {"stat": "3.60B DAP", "label": "Meta daily active people average Q2 2026 — 98% of global internet users"}
+  ],
+  "sub_trends": [
+    {
+      "name": "AI silicon and memory become the primary capital allocation target",
+      "what": "Custom AI accelerators, HBM, and AI-fabric networking are absorbing unprecedented capex from hyperscalers. Broadcom's custom silicon relationships with cloud giants drove 143% AI revenue growth. Micron's HBM business scaled revenue nearly 3x in three quarters. Lam Research, KLA, and semiconductor equipment providers are seeing sustained intensity across NAND, DRAM, and logic as architectures advance beyond 2D layouts.",
+      "companies": ["Broadcom Inc.", "Micron Technology, Inc.", "Lam Research Corporation", "KLA Corporation", "Arista Networks, Inc.", "TTM Technologies, Inc.", "Amphenol Corporation"]
+    },
+    {
+      "name": "Platform security consolidation around AI-era threat complexity",
+      "what": "Security vendors are converting AI complexity into a consolidation argument: more attack surface, more AI-powered attackers, and more compliance obligations all funnel spend toward platforms rather than point products. CrowdStrike is positioned as the 'operating system of cybersecurity,' Palo Alto Networks is consolidating point products, and Zscaler is processing ~1 trillion AI transactions annually as enterprises route agentic workloads through inline inspection.",
+      "companies": ["CrowdStrike Holdings, Inc.", "Palo Alto Networks", "Zscaler, Inc.", "Fortinet, Inc.", "F5, Inc."]
+    },
+    {
+      "name": "Subscription and recurring model maturation across software",
+      "what": "Legacy technology companies are completing the shift from transactional to recurring revenue — and the financial results are showing. Adobe's ARR reached $27.1B growing consistently each quarter. Snowflake's RPO stands at $9.2B. Fortinet has $7.12B in deferred revenue from appliance-embedded subscriptions. The ARR/RPO metrics are now the real score, and they are diverging from headline revenue in informative ways: companies with high RPO are trading on future revenue certainty, not current earnings.",
+      "companies": ["Adobe Inc.", "Snowflake Inc.", "Fortinet, Inc.", "Microsoft Corporation", "ServiceNow Inc.", "CrowdStrike Holdings, Inc."]
+    },
+    {
+      "name": "AI-native commerce and advertising infrastructure",
+      "what": "Commerce and advertising platforms are reconfiguring around AI-mediated discovery and optimization. Shopify is building toward 'Universal Commerce Protocol' for agent-based buying. AppLovin's Axon Ads Manager generates 53% revenue growth driven by AI auction optimization. Affirm's AdaptAI and BoostAI are improving offer selection at checkout. The underlying dynamic is that AI is both routing buyers differently (threat) and optimizing conversion more precisely (opportunity) — companies positioned at the optimization layer are winning.",
+      "companies": ["AppLovin Corporation", "Shopify Inc.", "Affirm Holdings Inc.", "The Trade Desk, Inc.", "Meta Platforms, Inc."]
+    },
+    {
+      "name": "HDD and storage as AI data retention infrastructure",
+      "what": "Contrary to the SSD narrative, HDDs are experiencing structural demand growth driven by AI data retention economics. Seagate's revenue grew 39% YoY in FY2025 to $9.1B and is tracking to $12B+ in FY2026. Western Digital separated its SSD business (SanDisk) to run as an HDD pure-play. Management framing has shifted from 'commodity cycle' to 'AI infrastructure supply': virtually every AI workload creates persistent data that must be retained cost-efficiently at scale.",
+      "companies": ["Seagate Technology Holdings plc", "Western Digital Corporation", "Pure Storage Inc.", "NetApp, Inc."]
+    },
+    {
+      "name": "Legacy infrastructure in managed decline or restructuring",
+      "what": "Several large-cap technology companies are executing structural retreats while AI competition accelerates around them. Intel's revenue was flat at $52.9B in FY2025 despite the AI boom, and the company is betting survival on a 18A foundry ramp without anchor customers. EchoStar disclosed going-concern doubt. Forrester's revenue fell as AI eroded analyst content value. Charter and AT&T are managing legacy copper and video decline while accelerating fiber buildouts that take years to cover the capex.",
+      "companies": ["Intel Corporation", "EchoStar Corporation", "Forrester Research Inc.", "AT&T Inc.", "HP Inc."]
+    }
+  ],
+  "standout_companies": [
+    {
+      "company": "Broadcom Inc.",
+      "why_notable": "Custom AI accelerator revenue reached $10.8B growing 143% YoY, with Q3 2026 guidance of $16B — the company has become the dominant supplier of AI silicon to hyperscalers who want custom chips rather than NVIDIA commodity GPUs."
+    },
+    {
+      "company": "Micron Technology, Inc.",
+      "why_notable": "Revenue scaled from $13.6B to $41.5B across three consecutive quarters in 2026 as HBM became mandatory in AI systems — the most dramatic revenue step-change in the sector, backed by 16 strategic customer agreements that lock future demand under contract."
+    },
+    {
+      "company": "AppLovin Corporation",
+      "why_notable": "Generates $800M+ in free cash flow per quarter from a pure AI-driven advertising infrastructure model — after divesting its gaming assets, the company runs no consumer products and captures only the auction economics of mobile app monetization at 53% revenue growth."
+    },
+    {
+      "company": "Microsoft Corporation",
+      "why_notable": "Azure crossed $100B in annual revenue while $627B in commercial remaining performance obligations locks in future revenue — the company has converted the enterprise AI transition into a multi-year contracted backlog of extraordinary scale."
+    },
+    {
+      "company": "Arista Networks, Inc.",
+      "why_notable": "Crossed its first $3B quarter with a 49.9% non-GAAP operating margin — proof that AI-fabric networking is both a rapid growth category and a high-margin one, driven by 150M cumulative port shipments creating ecosystem lock-in."
+    },
+    {
+      "company": "CrowdStrike Holdings, Inc.",
+      "why_notable": "Crossed $5B ARR while recovering from the July 2024 global outage — the incident tested whether customers would defect, and the ARR trajectory shows they did not, validating platform consolidation as more durable than product-switching risk."
+    },
+    {
+      "company": "Intel Corporation",
+      "why_notable": "The most important negative standout: flat revenue at $52.9B in FY2025 while the AI boom generated record profits for everyone around it — the company is executing a foundry bet without proven external customer demand, and the outcome determines whether x86 remains relevant in the next decade."
+    },
+    {
+      "company": "Snowflake Inc.",
+      "why_notable": "Repositioned from data warehouse to 'control plane for the agentic enterprise' — with $9.2B in RPO, NRR above 125%, and Cortex Agents/MCP Server framing data governance as AI infrastructure, the company is claiming a layer above compute that doesn't belong to hyperscalers."
+    }
+  ],
+  "tension": "The sector's core fault line is the divergence between AI infrastructure winners compounding at 30-143% growth and legacy platforms managing structural decline — with the inflection happening faster than balance sheets can absorb. But the deeper tension is whether AI model commoditization eventually collapses the pricing power of infrastructure vendors. If foundation models become cheap utilities, the marginal value of custom silicon, HBM, and AI networking compresses rapidly. Broadcom and Micron's current windfalls depend on hyperscalers continuing to compete on AI capability rather than simply buying commodity inference capacity. The second tension is capital: Microsoft is spending $80B+ annually on datacenter buildout, Meta $72B, Amazon and Google comparable — this is the largest coordinated capital deployment in technology history, and it assumes AI monetization materializes before rate pressures force discipline.",
+  "who_wins_who_loses": "Winners are the companies embedded in AI infrastructure supply chains that cannot be bypassed: custom silicon designers (Broadcom), HBM suppliers (Micron), AI-fabric networking (Arista), process-control equipment (KLA, Lam Research), and physical interconnect (Amphenol). The software layer winners are platforms with high switching costs and AI expansion narratives that increase ARR per customer: CrowdStrike, Snowflake, Zscaler, Adobe. Losers are companies dependent on traffic patterns that AI disrupts — content recommendation platforms (Taboola, Trade Desk facing a 3% quarter), legacy enterprise IT without AI narrative (Intel, HP Inc.), and analyst/research intermediaries being disintermediated by AI-generated content (Forrester). The structural loser is any company in the middle tier that cannot demonstrate either AI infrastructure necessity or sticky subscription economics — they will be compressed on both margins and multiples.",
+  "outlook": "The AI infrastructure buildout has at minimum two to three more years of compounding capex intensity before the supply-demand curves balance — hyperscaler capital commitments already booked through 2027 ensure that. The question is not whether AI hardware demand continues but whether the software monetization layer catches up fast enough to justify the infrastructure spend. Microsoft Copilot at 30M seats and GitHub Copilot at 20M users are early validation, but the revenue per seat needs to scale significantly to match the infrastructure investment. The next battleground is agentic AI governance: who controls the data layer, identity layer, and policy enforcement layer when AI agents execute workflows autonomously. Snowflake, Zscaler, CrowdStrike, and Microsoft are each positioning as the control plane. The legacy telecom and cable infrastructure names (AT&T, Charter, Comcast) are caught in a parallel transition — fiber buildouts will eventually yield recurring broadband economics, but the capex absorption period is multi-year and the video decline is accelerating faster than fiber customer acquisition fills the gap.",
+  "one_sentence": "AI infrastructure spending has created the most concentrated wealth transfer in technology history — from enterprise IT budgets into a handful of silicon, memory, networking, and platform companies — and the companies outside that transfer are discovering that structural decline is faster than they planned."
+}

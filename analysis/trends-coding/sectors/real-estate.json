@@ -1,0 +1,82 @@
+{
+  "sector": "Real Estate",
+  "slug": "real-estate",
+  "deck": "Real estate has fractured into two separate asset classes: infrastructure-grade winners (towers, logistics, senior housing) compounding at double digits, and everything else managing for survival.",
+  "summary": "The defining fact of the 2025-2026 real estate cycle is bifurcation so severe that calling it one sector is almost misleading. At one end, Prologis runs industrial logistics at 95.5% occupancy with cash same-store NOI up 8.8% and a 5.8 GW data-center power pipeline. American Tower and Crown Castle are tower landlords reframing themselves as AI compute infrastructure — AMT's CoreSite posted record leasing while total Q2 2026 revenue hit $2.75B. Welltower and Ventas are riding the senior-housing supply scarcity wave, posting 20%+ same-store NOI growth driven by aging demographics and a new-supply drought. These companies are not doing well because the real estate cycle turned — they're doing well because they found secular demand sources entirely independent of office utilization or housing affordability.\n\nAt the other end, hotel REITs like Apple Hospitality and Sunstone are grinding through RevPAR recovery stories where government-travel pullbacks, renovation timing, and weather swings determine quarterly narrative. Crown Castle is actively shrinking — it sold its fiber and small-cell businesses for $8.5B net to become a pure-play U.S. tower company, cut 20% of its workforce, and is absorbing DISH and Sprint churn that still suppresses organic growth below 4%. Annaly Capital is a rate-regime bet dressed up as a REIT, posting 1.5% economic return one quarter and 5.5% the next depending entirely on repo funding conditions. Realty Income keeps 98.9% occupancy in net-lease retail, but its own guidance points toward data centers and private capital as the next frontier — an implicit admission that boring retail leases are not where the money is.\n\nThe fault line running through all of it is capital access and rate sensitivity. REITs are structurally dependent on debt markets, and the companies pulling ahead are those that maintained discipline — Welltower at 3.0x net debt/EBITDA and $11B of investment capacity, Ventas at 4.7x with $4.9B liquidity and a raised $4.5B annual deployment target. The ones in trouble or stagnant are those where leverage is a constraint rather than a tool. CBRE sits above all of this as the market's intelligence layer: its critical infrastructure services (data centers, power, telecom) grew from 3% to 14% of core EBITDA since 2021, making it one of the clearest beneficiaries of the AI-infrastructure real estate thesis without carrying any asset risk.",
+  "numbers": [
+    {"stat": "20.5%", "label": "Welltower Q2 2026 seniors housing operating same-store NOI growth"},
+    {"stat": "95.5%", "label": "Prologis Q2 2026 occupancy, with cash same-store NOI +8.8% in Q1"},
+    {"stat": "$2.75B", "label": "American Tower Q2 2026 total revenue, with $1.81B Adjusted EBITDA"},
+    {"stat": "$8.5B", "label": "Crown Castle net proceeds from fiber and small-cell divestiture"},
+    {"stat": "14% of EBITDA", "label": "CBRE critical infrastructure share (data centers, power, telecom) vs 3% in 2021"},
+    {"stat": "$4.5B", "label": "Ventas raised full-year 2026 investment deployment target"},
+    {"stat": "5.8 GW", "label": "Prologis data-center power pipeline as of Q2 2026"},
+    {"stat": "RevPAR +7.0%", "label": "Host Hotels Q2 2026 comparable RevPAR, with full-year guidance raised to 4.75-5.25%"}
+  ],
+  "sub_trends": [
+    {
+      "name": "Infrastructure Real Estate",
+      "what": "Towers and logistics warehouses are now competing for the same AI and cloud capital as data centers. Prologis expanded its data-center power pipeline to 5.8 GW and positions logistics sites as power-rich infrastructure. American Tower frames CoreSite colocation as AI compute adjacency. The result is a category of real estate with secular demand entirely decoupled from consumer or office cycles.",
+      "companies": ["Prologis Inc.", "American Tower Corporation", "Digital Realty", "CBRE Group Inc."]
+    },
+    {
+      "name": "Senior Housing Operating Leverage",
+      "what": "Senior housing has crossed from passive rent collection into an operating-leverage story. Welltower's seniors housing operating portfolio posted 20.5% same-store NOI growth in Q2 2026 and 22.1% in Q1; Ventas posted 16% total NOI growth. Supply constraints built through years of underbuilding are meeting a demographic wave that doesn't turn off. The operators who control occupancy pricing and facility execution are capturing disproportionate returns.",
+      "companies": ["Welltower Inc.", "Ventas Inc."]
+    },
+    {
+      "name": "Tower Pure-Play Consolidation",
+      "what": "Crown Castle's $8.5B divestiture of fiber and small cells completed the sector's verdict that investors want tower REITs to be exactly that — not mixed digital-infrastructure vehicles. The move eliminated narrative complexity but concentrated all revenue risk on a handful of domestic carriers and exposed lingering DISH/Sprint churn that still suppresses organic growth to ~3-4%. SBA Communications is executing the same focus internationally, where Millicom transactions drive Central America expansion even as domestic revenues fell 3.7% in Q2 2026.",
+      "companies": ["Crown Castle Inc.", "SBA Communications Corporation", "American Tower Corporation"]
+    },
+    {
+      "name": "Luxury and Destination Hotel Recovery",
+      "what": "Upper-upscale and luxury hotel real estate is recovering faster and more durably than midmarket or government-travel-exposed properties. Host Hotels raised full-year RevPAR guidance to 4.75-5.25% growth with FIFA World Cup tailwinds; Sunstone's Andaz Miami Beach ramp drove Q2 RevPAR +9.3%. Apple Hospitality's government-travel drag is the counter-example — its RevPAR was down 1.6% in 2025 before recovering 5.3% in Q2 2026.",
+      "companies": ["Host Hotels & Resorts, Inc.", "Sunstone Hotel Investors, Inc.", "Apple Hospitality REIT, Inc."]
+    },
+    {
+      "name": "Net-Lease Defensiveness Under Pressure",
+      "what": "Realty Income maintains 98.9% occupancy and $4.28 AFFO per share by turning retail leases into quasi-bond instruments — long duration, diversified tenants, monthly income. But the model's financing-cost sensitivity is its core fragility, and management's own pivot toward data centers and private capital structures signals that the pure retail net-lease story has limited growth upside. The moat is real; the ceiling is visible.",
+      "companies": ["Realty Income Corp.", "Simon Property Group Inc."]
+    },
+    {
+      "name": "Mortgage REIT Rate Dependency",
+      "what": "Annaly Capital is the sector's most naked rate bet — 20.2% full-year 2025 economic return, then 1.5% in Q1 2026 and 5.5% in Q2 2026. The agency liquidity moat is real and the $0.75/share dividend is defended, but the volatility is structural. Economic leverage at 5.6x means small rate-regime shifts produce large quarterly swings. This is not real estate in any operational sense — it is a leveraged fixed-income vehicle wearing a REIT structure.",
+      "companies": ["Annaly Capital Management Inc."]
+    }
+  ],
+  "standout_companies": [
+    {
+      "company": "Welltower Inc.",
+      "why_notable": "Turned senior housing from a passive property yield into a 20%+ NOI growth engine by treating operator quality and occupancy data as the actual product — and backed it with $11B in 2025 investment activity at 3.0x leverage."
+    },
+    {
+      "company": "Prologis Inc.",
+      "why_notable": "Holds 95.5% occupancy across industrial logistics while simultaneously building a 5.8 GW data-center power pipeline — the only REIT that plausibly straddles physical supply chains and AI infrastructure in a single portfolio."
+    },
+    {
+      "company": "American Tower Corporation",
+      "why_notable": "Posted $10.6B in 2025 revenue and is repositioning tower real estate as AI compute infrastructure through CoreSite, a credible reframe that adds demand durability beyond carrier 5G spending cycles."
+    },
+    {
+      "company": "CBRE Group Inc.",
+      "why_notable": "Grew critical infrastructure services (data centers, power, telecom) from 3% to 14% of core EBITDA since 2021 while most of its peers are still debating whether office recovery is real — the asset-light intelligence layer wins regardless of who owns the buildings."
+    },
+    {
+      "company": "Crown Castle Inc.",
+      "why_notable": "Made the most decisive structural bet in the sector — $8.5B fiber divestiture, 20% workforce cut, $7B+ debt repayment — to become a pure-play U.S. tower company, but now faces concentrated carrier risk and lingering DISH/Sprint churn with no geographic hedge."
+    },
+    {
+      "company": "Ventas Inc.",
+      "why_notable": "Raised its annual capital deployment target to $4.5B mid-year, betting that senior housing supply scarcity plus demographic demand creates a decade-long acquisition opportunity most REITs are too cautious to chase at scale."
+    },
+    {
+      "company": "Annaly Capital Management Inc.",
+      "why_notable": "A $20.15 book value with a $0.75 quarterly dividend that is entirely a function of repo market conditions — honest about the rate dependency, but economically returns ranging from 1.5% to 8.6% quarterly expose the model's limits."
+    }
+  ],
+  "tension": "The sector's biggest fault line is the divergence between REITs with genuine secular demand (AI infrastructure, senior demographics, logistics) and those whose income depends on financing conditions they cannot control. As interest rates remain elevated and debt markets price real-estate risk more carefully, the bifurcation will widen: companies like Welltower and Prologis that locked in long-duration leases and maintained conservative leverage will continue deploying capital at scale, while rate-sensitive models (mortgage REITs, highly levered hotel owners, net-lease REITs dependent on spread economics) will see growth compressed. The secondary tension is carrier consolidation risk for tower REITs — Crown Castle's domestic-only posture concentrates nearly all revenue on three carriers, and the DISH/Sprint churn story is a preview of what happens when a major tenant disappears.",
+  "who_wins_who_loses": "Winners: Senior-housing REITs with occupancy leverage and operator discipline (Welltower, Ventas); logistics REITs that doubled as AI/data-center infrastructure landlords (Prologis); tower REITs with geographic diversification and data-center adjacency (American Tower); the asset-light services layer (CBRE). Losers: Pure rate-spread plays with no operational anchor (Annaly in adverse rate environments); hotel REITs exposed to government-travel pullback and renovation timing risk (Apple Hospitality, Sunstone); tower pure-plays carrying concentrated domestic carrier risk and historical churn (Crown Castle); net-lease retail at yield compression limits (Realty Income, if financing costs stay elevated).",
+  "outlook": "Real estate in 2026 and beyond is a sector that rewards precision over macro calls. The companies compounding fastest are not betting on a Fed pivot or an office recovery — they are riding demographic inevitability (seniors housing), physical infrastructure scarcity (towers, logistics, data centers), and the AI buildout's insatiable appetite for power-rich, well-connected physical sites. The AvalonBay/Equity Residential merger of equals is the sector's most visible strategic bet on residential multifamily consolidation as a way to compete against supply-constrained fundamentals. Senior housing supply will remain tight for years because permitting, construction costs, and operator certification timelines prevent rapid new build — Welltower and Ventas have a multi-year NOI growth window that is demographic rather than cyclical. Tower and logistics real estate face more nuanced paths: tower growth depends on 5G completion and AI densification demand continuing to outpace carrier consolidation risk; logistics depends on e-commerce and nearshoring sustaining occupancy above 95%. The companies that lose in this environment are those treating real estate as a financing arbitrage rather than an operational business.",
+  "one_sentence": "Real estate has split into two industries: infrastructure-grade compounders riding AI, demographics, and logistics scarcity at 20% NOI growth, and rate-sensitive yield vehicles grinding through macro headwinds they cannot control."
+}

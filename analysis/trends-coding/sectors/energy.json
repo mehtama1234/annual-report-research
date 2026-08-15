@@ -1,0 +1,86 @@
+{
+  "sector": "Energy",
+  "slug": "energy",
+  "deck": "The U.S. and Canadian energy complex is not transitioning away from hydrocarbons — it is industrializing them: building out LNG export trains, NGL fractionation networks, gas-to-power infrastructure, and midstream integration at a scale that makes the sector look less like a commodity patch and more like a permanent supply machine wired to global demand.",
+  "summary": "What is actually happening in Energy right now is a consolidation-and-infrastructure supercycle layered on top of disciplined capital returns. Producers from Expand Energy (largest U.S. gas producer after the Southwestern merger, ~7.5 Bcfe/d, ~0.5x leverage) to Devon/Coterra (1,359,000 Boe/d post-merger) to Canadian Natural Resources (31-year proved reserve life, 624,754 bbl/d oil sands mining record) have spent 2025-2026 using M&A to build scale, then immediately shifting to deleveraging and buyback programs. The growth narrative is not volume maximization — it is per-share value through cost discipline, reserve replacement, and shareholder distribution. Free cash flow conversion is the scorecard: EQT generated $1.832B FCF in Q1 2026 alone; Cheniere hit a 670-cargo record in 2025; Enterprise Products set a $1.8B net income record in Q2 2026.\n\nMidstream has quietly become the most powerful part of the sector. Energy Transfer (140,000 miles of pipe, $5.07B Q2 2026 EBITDA vs $3.87B YoY), Enterprise Products Partners (14.7 MMBPD equivalent volumes), ONEOK (acquisition-layered EBITDA now $2.1B/quarter), and Targa Resources ($1.603B Q2 2026 record EBITDA, $5.7-5.9B full-year 2026 guidance) are not just toll roads — they are actively building fractionators, processing plants, LPG export terminals, and gas-to-power infrastructure. The Waha basis problem (Waha traded as low as -$9.52/Mcf in Q2 2026) has become an engineering problem to solve, not a price risk to hedge around.\n\nThe equipment and services layer is undergoing its own transformation. Baker Hughes has reoriented around IET (record $37.1B RPO in Q2 2026) rather than oilfield services, with LNG equipment, turbomachinery, and power-systems orders from Venture Global, Cheniere, and Golar reshaping its revenue mix. SLB is building recurring digital ARR above $1B and growing Data Center Solutions revenue 80% YoY to $186M in Q2 2026 — a direct bridge from oilfield capability into hyperscaler infrastructure. TechnipFMC delivered $30B in subsea orders over three years and holds $16.4B backlog, with offshore production investment accelerating rather than slowing.",
+  "numbers": [
+    {"stat": "$5.07B", "label": "Q2 2026 adjusted EBITDA — Energy Transfer LP (up from $3.87B YoY)"},
+    {"stat": "670 cargoes", "label": "2025 record LNG exports — Cheniere Energy"},
+    {"stat": "$37.1B", "label": "Q2 2026 IET remaining performance obligations record — Baker Hughes"},
+    {"stat": "1,359,000 Boe/d", "label": "Q2 2026 production, first full post-merger quarter — Devon/Coterra combined"},
+    {"stat": "$1.832B", "label": "Q1 2026 record free cash flow — EQT Corporation"},
+    {"stat": "$1.603B", "label": "Q2 2026 record adjusted EBITDA — Targa Resources"},
+    {"stat": "624,754 bbl/d", "label": "Q2 2026 record oil sands mining production — Canadian Natural Resources"},
+    {"stat": "$460M", "label": "FY2025 Data Center Solutions revenue (121% YoY growth) — SLB"}
+  ],
+  "sub_trends": [
+    {
+      "name": "LNG export industrialization",
+      "what": "The U.S. is locking domestic gas into decade-long export contracts at scale. Cheniere completed Corpus Christi Stage 3 trains 1-4 in 2025, exported a record 670 cargoes, and has a $10B+ buyback authorization through 2030. Expand Energy signed a 20-year Delfin SPA for 1.15 mtpa. EQT has a 5-year LNG SPA for 0.5 MTPA starting 2028 and a 10-year premium power supply agreement for 325,000 Dth/d. The practical effect: Appalachian and Gulf Coast gas is being priced against global LNG markets, not just domestic Henry Hub.",
+      "companies": ["Cheniere Energy", "EQT Corporation", "Expand Energy", "Baker Hughes", "Williams Companies", "TechnipFMC"]
+    },
+    {
+      "name": "Permian and Appalachian consolidation endgame",
+      "what": "Both the Permian and Appalachian basins are entering a phase where scale advantages are decisive. In the Permian, Diamondback Energy, Devon, Coterra, Permian Resources, and Matador are consolidating acreage through hundreds of bolt-on transactions per quarter — Permian Resources completed 190+ transactions for $1.05B in Q2 2026 alone. In Appalachia, EQT, Expand Energy, Antero, CNX, and Range are differentiating on LNG exposure, NGL premiums, and per-Mcfe cost structure rather than volume. Both basins now reward infrastructure-connected operators over pure drillers.",
+      "companies": ["Diamondback Energy", "Permian Resources", "Devon Energy", "EQT Corporation", "Expand Energy", "Antero Resources", "Range Resources"]
+    },
+    {
+      "name": "Midstream as margin engine",
+      "what": "Midstream is no longer a passive toll-road business. Energy Transfer, Enterprise Products, ONEOK, Targa, and Williams are actively building fractionators, sour-gas treating plants, LPG export terminals, and gas-to-power infrastructure. Enterprise monetized both volume growth and global shipping disruption simultaneously in Q2 2026. Targa is spending $4.5B of net growth capital annually while distributing $5.00/unit annually and guiding to $5.7-5.9B EBITDA for 2026. The capacity buildout is self-funding and compounding.",
+      "companies": ["Energy Transfer LP", "Enterprise Products Partners", "ONEOK", "Targa Resources", "Williams Companies", "MPLX LP"]
+    },
+    {
+      "name": "Oil sands integration and Canadian scale",
+      "what": "Canada's oil sands operators — Suncor, Canadian Natural Resources, Cenovus, and Imperial Oil — are running their integrated upstream-to-retail systems at record throughput while slashing breakevens and returning capital. Suncor hit record upgrader utilization of 99% and record refining throughput of 480,000 bbls/d in Q2 2026. CNR achieved an industry-leading C$22.19/bbl oil sands operating cost and captured an average US$8.37/bbl SCO premium to WTI. These are not commodity businesses anymore — they are industrial precision operations with 30+ year reserve lives.",
+      "companies": ["Suncor Energy", "Canadian Natural Resources", "Cenovus Energy", "Imperial Oil"]
+    },
+    {
+      "name": "Gas-to-power infrastructure as new demand layer",
+      "what": "Data centers and industrial electrification are routing AI power demand back into natural gas infrastructure. Williams Companies raised its 2026 EBITDA guidance $200M to $8.4B in Q2 2026 specifically citing a Blackstone power-innovation JV and Power Express/Socrates data-center projects. Enterprise Products traced new gas-pipeline demand explicitly to AI and data-center load growth in Q4 2025. Baker Hughes received $1.4B+ in Q1 2026 Power Systems orders. This is a structural demand layer that did not exist in prior energy cycles.",
+      "companies": ["Williams Companies", "Enterprise Products Partners", "Baker Hughes", "Energy Transfer LP", "TC Energy"]
+    },
+    {
+      "name": "Services companies pivot to industrialized platforms",
+      "what": "Baker Hughes and SLB are no longer purely oilfield-service cyclicals. Baker Hughes IET RPO hit a record $37.1B in Q2 2026 on LNG, turbomachinery, and power-systems demand. SLB's Data Center Solutions grew 80% YoY to $186M in Q2 2026 and digital ARR exceeded $1B. TechnipFMC accumulated $30B in subsea orders over three years with offshore production capital intensity accelerating. Halliburton returned 85% of FCF to shareholders while emphasizing electric fracturing and digital moat rather than rig-count growth. The service layer is upgrading itself into infrastructure technology.",
+      "companies": ["Baker Hughes", "SLB", "TechnipFMC", "Halliburton", "NOV"]
+    }
+  ],
+  "standout_companies": [
+    {
+      "company": "Cheniere Energy",
+      "why_notable": "The clearest proof that U.S. LNG is no longer optionality — it is baseload infrastructure. Record 670 cargoes in 2025, Corpus Christi Stage 3 trains completing on schedule, $20B+ deployed since 2022, and $10B+ buyback authorization through 2030 make Cheniere a compounding cash machine tied to global energy demand."
+    },
+    {
+      "company": "Enterprise Products Partners",
+      "why_notable": "Owns the connective tissue between wellhead and export dock at scale that cannot be replicated: 14.7 MMBPD equivalent volumes, record $1.8B Q2 2026 net income, $5.6B capital investment in 2025, and the ability to monetize simultaneously volume growth and global shipping disruption from a single integrated NGL and crude network."
+    },
+    {
+      "company": "Expand Energy",
+      "why_notable": "Built the largest U.S. natural gas producer via the Southwestern merger, then pivoted immediately to capital discipline: peer-leading leverage of ~0.5x, $4.575B operating cash flow in 2025, $530M of stock repurchased in Q2 2026 alone, a 20-year LNG export SPA, and a pending Twin Eagle acquisition to build North America's leading integrated gas company."
+    },
+    {
+      "company": "Baker Hughes",
+      "why_notable": "The clearest energy-technology transition story in the sector: IET RPO at a record $37.1B in Q2 2026 with LNG, turbomachinery, and power-systems orders from every major global project; Chart Industries acquisition deepening LNG capability; and full-year 2025 free cash flow of $2.732B from a business that five years ago was primarily an oilfield-services cyclical."
+    },
+    {
+      "company": "Suncor Energy",
+      "why_notable": "Record upstream production of 860,000 bbls/d, record upgrader utilization of 99%, record refining throughput of 480,000 bbls/d, and US$10/bbl WTI breakeven reduction — all simultaneously in 2025-2026. Suncor has made operational reliability, not commodity price, the primary earnings driver of a fully integrated oil sands system."
+    },
+    {
+      "company": "Targa Resources",
+      "why_notable": "Spending $4.5B of growth capital annually while simultaneously guiding to $5.7-5.9B full-year 2026 EBITDA, raising distributions to $5.00/unit, and posting Q2 2026 record EBITDA of $1.603B — a self-funding NGL and fractionation buildout in the Permian that is compounding infrastructure density faster than any competitor."
+    },
+    {
+      "company": "EQT Corporation",
+      "why_notable": "Deleveraged from $7.69B net debt at YE 2025 to $5.54B in a single quarter while generating $1.832B FCF in Q1 2026 alone, holds 28 Tcfe proved reserves with PV-10 of ~$26B, and is linking Appalachian gas to LNG export and data-center power demand through 20-year contracts — transforming a commodity producer into a contracted infrastructure play."
+    },
+    {
+      "company": "Valero Energy",
+      "why_notable": "Delivered Q2 2026 refining operating income of $4.5B and returned $2.6B to shareholders in a single quarter while simultaneously running Diamond Green Diesel for $717M renewable-diesel operating income — the clearest proof that a disciplined refiner with renewable adjacency can compound across both the carbon and energy-transition cycles."
+    }
+  ],
+  "tension": "The sector's biggest fault line is the gap between contracted LNG/power demand narratives and the physical reality of Waha basis, Appalachian transport bottlenecks, and oil sands regulatory exposure. When Waha traded at -$9.52/Mcf in Q2 2026, producers with firm transport access captured value while others curtailed. The multi-decade LNG export contracts that EQT, Expand, Antero, and Range are signing lock domestic supply to global markets for 10-20 years — which looks brilliant if global LNG demand holds and catastrophic if demand shifts, policy reverses, or Europe accelerates renewables faster than expected. The parallel tension is the assumption underneath every midstream expansion and oil sands growth plan: that commodity-intensive hydrocarbons retain their social license and regulatory footing through the 2030s while ESG pressure and energy-transition policy remain manageable. Companies are running both narratives simultaneously — carbon-management positioning from Occidental, renewable diesel from Valero and HF Sinclair, renewable diesel at Imperial Oil's Strathcona — but the physical capex is still overwhelmingly going into hydrocarbon expansion.",
+  "who_wins_who_loses": "Winners are integrated platform operators with LNG access, NGL fractionation density, and low-cost basin positions: Cheniere, Enterprise Products, Expand Energy, EQT, Targa, ONEOK, and Suncor. Also winning are the services companies that have successfully pivoted from cyclical oilfield exposure to industrial infrastructure — Baker Hughes with IET RPO of $37.1B and SLB with $1B+ digital ARR. Losers are standalone pure-commodity producers without contracted takeaway, midstream access, or scale advantages — operators exposed to full Waha basis in the Permian without firm transport, Appalachian producers without LNG linkage, and standalone refiners (PBF Energy post-Martinez fire is the extreme case) without midstream buffering. The refining pure-plays face structural margin cyclicality that integrated operators (Marathon with MPLX, Phillips 66 with midstream, Suncor with upgrading and retail) can offset. Halliburton's North America oilfield services business faces a structural headwind as producers discipline activity — the recovery there is slower and less certain than IET-style infrastructure.",
+  "outlook": "The sector is heading toward a 2027-2030 period defined by three concurrent forces: LNG export capacity reaching full utilization as Stage 3 trains complete and new SPAs activate, NGL fractionation and Gulf Coast export infrastructure reaching the capacity necessary to handle Permian production growth, and gas-to-power demand from data centers becoming a structural baseload layer rather than an incremental opportunity. The Canadian oil sands players will continue compounding at low breakevens with multi-decade reserve lives as long as SCO premiums hold and pipeline capacity (Trans Mountain operational) remains available. The risk scenario is a commodity price collapse triggered by synchronized global demand slowdown, European LNG demand destruction, or policy reversal on fossil fuel infrastructure — any of which would expose the sector's 2025-2026 expansion capex as over-investment. The base case is that the infrastructure already built is too embedded and contracted to unwind fast, which means cash generation continues even in a softer commodity environment, and the winners are the operators whose economics are driven more by throughput, utilization, and contract coverage than by spot prices.",
+  "one_sentence": "American and Canadian energy is not winding down — it is being re-engineered into a permanent export and infrastructure machine, with LNG trains, NGL fractionators, and gas-to-power systems compounding cash returns for whoever owns the connective tissue between wellhead and global demand."
+}

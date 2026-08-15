@@ -101,3 +101,14 @@ footer{color:var(--muted);font:400 13px/1.5 -apple-system,system-ui,sans-serif;m
 .acard .at{font:600 10px/1 -apple-system,system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;color:var(--gold)}
 .acard h4{font-size:1.12rem;line-height:1.2;margin:.35em 0 .3em}
 .acard p{color:var(--muted);font-size:.92rem;margin:0}
+
+.topnav{display:flex;gap:20px;border-bottom:1px solid var(--line);padding:10px 0 14px;margin-bottom:20px;font:600 14px/1 -apple-system,system-ui,sans-serif}
+.topnav a{color:var(--muted);text-decoration:none}.topnav a.on{color:var(--accent)}
+.subtrend{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin-bottom:10px}
+.subtrend h4{margin:.1em 0 .3em;font-size:1.08rem}
+.standout li{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:9px 13px;margin-bottom:7px;list-style:none;font-size:.95rem}
+.standout b{color:var(--gold)}
+.cico{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:13px 15px;margin-bottom:9px}
+.cico .cn{font-weight:700}.cico .ind{font:400 11px/1 -apple-system,system-ui,sans-serif;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.cico .hl{margin:.35em 0 .3em}.cico .sn{color:var(--accent);font:600 13px/1.4 -apple-system,system-ui,sans-serif}
+.cico .wd{color:var(--muted);font-size:.92rem;margin-top:.3em}

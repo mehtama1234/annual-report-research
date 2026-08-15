@@ -1,0 +1,87 @@
+{
+  "sector": "Services",
+  "slug": "services",
+  "deck": "Services companies are bifurcating between operators who own recurring relationship infrastructure — loyalty currencies, subscription flywheels, franchise fee engines — and those still running legacy formats whose structural decline accelerating automation and digital substitution can no longer mask.",
+  "summary": "The defining story across Services is not disruption by tech — it is the internal separation of high-margin recurring relationship businesses from commodity volume businesses housed inside the same company. Delta's American Express remuneration reached $8.2B in 2025 and is tracking to $10B; McDonald's loyalty members generated $37B in systemwide sales across 70 markets; Netflix crossed 325M paid memberships while its ad tier doubled revenue to $1.5B. In each case the flywheel is a recurring behavioral lock-in layer — miles, Stars, Autoship, Rewards, Bonvoy — that earns money independently of whether the underlying commodity service grows.\n\nThe second organizing force is selective consolidation around scarcity. Live Nation posted $25.2B revenue and $6.6B in deferred bookings because you cannot skip a stadium show. TJX reached $60.4B in net sales because treasure-hunt retail provides a discovery experience that algorithms do not replicate. Cintas locked 95% of its revenue into route-based service contracts at clients' physical locations. Rollins grew recurring pest-control revenue more than 7% organically. These businesses are winning not by going digital but by being physically present in a way that cannot be disintermediated.\n\nThe third thread is structural stress at the hollowed middle. Kohl's — fiscal 2025 net sales down 4%, comparable sales down 3.1% — exemplifies the fate of the format with no pricing power and no platform leverage. Xerox shows the same pattern in business equipment: 79% of revenue is post-sale recurring but organic pro forma revenue fell 3.7% in Q1 FY2026 even while reported numbers grew through acquisition accounting. iHeartMedia carries $495M in liquidity against a leveraged balance sheet, growing its podcast business 27% while 860 broadcast stations generate GAAP operating losses. The legacy format persists, the new growth wedge is real, but the economics of the transition are brutal.",
+  "numbers": [
+    {"stat": "$8.2B", "label": "American Express loyalty remuneration paid to Delta in 2025, expected to grow to $10B"},
+    {"stat": "$40B", "label": "McDonald's trailing-12-month loyalty member systemwide sales, 220M active users, Q2 2026"},
+    {"stat": "325M+", "label": "Netflix paid memberships crossed Q2 2026; $45.2B FY2025 revenue; 29.5% operating margin"},
+    {"stat": "$25.2B", "label": "Live Nation FY2025 revenue; $6.6B Q1 2026 event-related deferred bookings (record)"},
+    {"stat": "$60.4B", "label": "TJX net sales FY2026; comp sales +5%; all divisions positive Q1 FY27"},
+    {"stat": "$1.5B", "label": "Netflix ad-tier revenue 2025 (2.5x growth); expected to reach $3B in 2026"},
+    {"stat": "$2.9B", "label": "New York Times FY2025 total revenue; $1.951B from subscriptions; 12.78M total subscribers"},
+    {"stat": "$1.757B", "label": "Cintas FY2026 free cash flow; FY2026 revenue $10.340B with record operating margins"}
+  ],
+  "sub_trends": [
+    {
+      "name": "Loyalty currency as parallel profit center",
+      "what": "The most valuable businesses inside large service operators are now the recurring-relationship layers built on top of the core service. Delta earns $8.2B annually from American Express alone — a sum approaching the operating income of many airlines. McDonald's $40B in loyalty-linked systemwide sales means the digital relationship is now a measurable operating driver, not a marketing feature. The economics flow from behavioral lock-in: miles, points, stars, and Rewards members buy more, churn less, and generate partner fee income that carries higher margins than the underlying service.",
+      "companies": ["Delta Air Lines, Inc.", "McDonald's Corporation", "Starbucks Corporation", "Marriott International Inc.", "Caesars Entertainment, Inc.", "DraftKings Inc."]
+    },
+    {
+      "name": "Subscription and streaming profitability inflection",
+      "what": "Several large streaming and subscription platforms crossed profitability thresholds that were deferred for years. Netflix posted a 29.5% operating margin on $45.2B in revenue while adding 325M+ paid members. Peacock reached quarterly profitability in Q2 2026. Starbucks reported positive comparable transaction growth for the first time in eight quarters. The pattern is similar in each: the subscriber base has become large enough and the ad tier mature enough that the unit economics finally work without sacrificing growth.",
+      "companies": ["Netflix, Inc.", "Comcast Corporation", "Sirius XM Holdings Inc.", "The New York Times Company", "Planet Fitness, Inc."]
+    },
+    {
+      "name": "Physical scarcity as anti-digital moat",
+      "what": "The strongest non-digital moats in Services are built on things that cannot be copied or streamed. Live Nation controls venue relationships, artist promotion, and Ticketmaster at scale; its $6.6B forward deferred bookings reflect demand that predates the quarter in which it was recognized. Rollins's pest-control routes behave like regulated monopolies in residential territories. Cintas's uniform and safety routes run on a 95% recurring base. Mistras Group inspects industrial assets that cannot be shut down for testing. These businesses grow by adding density to physical networks, not by adding features to software.",
+      "companies": ["Live Nation Entertainment Inc.", "Rollins, Inc.", "Cintas Corporation", "Mistras Group, Inc.", "APi Group Corporation", "Choice Hotels International, Inc."]
+    },
+    {
+      "name": "Retail and media bifurcation: discovery vs. format",
+      "what": "TJX ($60.4B, +7% net sales) and Dollar General (same-store sales +3%, operating profit +28.6%) are growing because their formats create conditions — treasure hunt, neighborhood convenience, traffic-first pricing — that digital does not replicate. Meanwhile Kohl's comparable sales fell 3.1% in fiscal 2025 with no clear format identity, Gannett faces structural decline in local advertising, and iHeartMedia runs 860 broadcast stations generating GAAP losses even as its podcast segment grows 27%. The winner is the format that serves a use case no screen can serve; the loser is everything in between.",
+      "companies": ["The TJX Companies, Inc.", "Dollar General Corporation", "Kohl's Corporation", "Gannett", "iHeartMedia, Inc.", "National CineMedia, Inc."]
+    },
+    {
+      "name": "Brand platforms displacing physical asset ownership",
+      "what": "Hotel companies, airline alliances, and entertainment platforms are all converging on the same structural conclusion: the valuable layer is the fee and loyalty system, not the owned asset underneath it. Marriott manages 1.78M rooms across 9,805 properties with 75% of U.S. nights booked by loyalty members. Choice Hotels grew U.S. extended-stay net rooms 11.7% and increased franchise agreements awarded 30% without owning buildings. Hyatt reached 154K rooms in its development pipeline (+10% YoY). Live Nation's Ticketmaster sold ~90M fee-bearing tickets on $26B in GTV. None of these value pools require owning the physical venue.",
+      "companies": ["Marriott International Inc.", "Hilton Worldwide Holdings Inc.", "Hyatt Hotels Corporation", "Choice Hotels International, Inc.", "Live Nation Entertainment Inc.", "Wyndham Hotels & Resorts, Inc."]
+    },
+    {
+      "name": "Commerce and advertising convergence",
+      "what": "Retail operators are discovering that customer data and physical footprint can generate advertising margins that exceed merchandise margins. Walmart's global advertising revenue grew 37% in Q4 2025 and Walmart Connect grew 44% in Q1 2026 excluding VIZIO. Kroger's alternative profit businesses generated $1.5B in operating profit with Kroger Precision Marketing up 20%. Criteo announced an OpenAI partnership with 2,000+ brands advertising on ChatGPT. The pattern is the same across operators: the transaction relationship generates shopper data, the shopper data generates advertising inventory, and the advertising margin is structurally higher than the product margin it supplements.",
+      "companies": ["Walmart Inc.", "The Kroger Company", "Criteo S.A.", "Best Buy Co., Inc.", "Roku, Inc."]
+    }
+  ],
+  "standout_companies": [
+    {
+      "company": "Netflix, Inc.",
+      "why_notable": "Crossed 325M paid memberships at a 29.5% operating margin while its ad tier doubled to $1.5B and is tracking to $3B — the clearest proof that subscription-plus-advertising can compound at scale without cannibalizing each other."
+    },
+    {
+      "company": "Delta Air Lines, Inc.",
+      "why_notable": "$8.2B in annual American Express remuneration — tracking to $10B — means Delta's loyalty partnership alone generates more than most airlines earn from flying; premium revenue grew 17% in Q2 2026 while peers faced macro pressure."
+    },
+    {
+      "company": "The TJX Companies, Inc.",
+      "why_notable": "$60.4B in net sales at +7% with comp sales +5% and all four divisions growing in Q1 FY27; TJX is taking share from every format — department stores, specialty, online — by making the shopping act itself the value proposition."
+    },
+    {
+      "company": "Live Nation Entertainment Inc.",
+      "why_notable": "$6.6B in Q1 2026 event-related deferred revenue (record) on top of $25.2B FY2025 revenue and 159M fan attendances — live is the one category where the audience cannot be served by a screen substitute."
+    },
+    {
+      "company": "Cintas Corporation",
+      "why_notable": "95% recurring route-based revenue, record operating margins, $1.757B in free cash flow in FY2026, and the UniFirst acquisition pending — the most quietly durable business-services franchise in the sector."
+    },
+    {
+      "company": "Walmart Inc.",
+      "why_notable": "Global advertising up 37%, eCommerce up 24%, membership fee income up 15-17%; Walmart is becoming a three-revenue-stream company (merchandise + advertising + membership) and the advertising business is the fastest-growing and highest-margin layer."
+    },
+    {
+      "company": "DraftKings Inc.",
+      "why_notable": "$6.055B in 2025 revenue and $620M adjusted EBITDA, expanding into prediction markets alongside sports betting, and tracking to ~$1B adjusted EBITDA in 2026 — the fastest-growing attention-monetization business in services."
+    },
+    {
+      "company": "Birkenstock Holding plc",
+      "why_notable": "EUR 2.1B revenue up 18% in 2025 with closed-toe now 38% of business and APAC up 38% — the brand repositioned orthopedic sandals as a lifestyle premium category and is now expanding seasonally and geographically at a pace that typical footwear brands cannot match."
+    }
+  ],
+  "tension": "The sector's deepest fault line is the speed at which legacy format cash flows are declining relative to the time needed to build replacement recurring revenue streams. iHeartMedia's podcast business is real (27% growth, $147M Q1 2026) but 860 broadcast stations are bleeding; the company runs $495M in available liquidity against a leveraged balance sheet. Xerox's ITsavvy and Lexmark acquisitions are buying time against a core print business whose organic pro forma revenue fell 3.7% in Q1 FY2026. Comcast is executing on wireless and Peacock, but broadband lost 167K customers in Q2 2026 and NBCUniversal separation is underway. In each case the incumbent has identified the right growth lever but is carrying the legacy cost structure while executing the pivot — and the capital markets are watching whether the new stream reaches critical mass before the old stream erodes too far.",
+  "tension_fault_line": "Legacy format cash flow decay vs. time required to reach recurring-revenue replacement scale — across media, logistics, retail, and business services operators simultaneously.",
+  "who_wins_who_loses": "Winners: operators who built behavioral lock-in before the format war started — Netflix (subscription habit), TJX (treasure-hunt ritual), Delta (AmEx loyalty), McDonald's (digital orders at scale), Cintas (route density), Live Nation (venue control). Companies where the new revenue stream is already larger or growing faster than the legacy decline. Losers: operators trapped in the format middle — Kohl's (no pricing power, no platform leverage), Xerox (post-sale recurring but shrinking installed base), iHeartMedia (broadcast economics broken even if podcast is growing), Gannett (local advertising structurally impaired). Also exposed: UPS, which is deliberately shedding Amazon volume and absorbing $930M in reported vs $2.1B adjusted operating profit gap to prove the higher-quality mix thesis — the reset is right but the execution window is long.",
+  "outlook": "Services will continue bifurcating along the loyalty-and-recurring-revenue fault line. The ceiling for operators who own behavioral relationships — subscription, autoship, miles, rewards, franchise fees — is rising because these relationships compound; each member who earns and redeems entrenches the next. The floor for legacy format operators is falling faster than most guidance ranges acknowledge, because the middle of the market — mid-price retail, linear media, commodity business services — has no structural pricing power and no network effect to defend. The clearest near-term indicator is whether ad-supported streaming tiers reach profitability at scale (Peacock in Q2 2026 is the first live proof point), because that outcome would accelerate the shift of brand advertising spend away from legacy broadcast and print, accelerating the bleed at Nexstar, iHeartMedia, Gannett, and Clear Channel simultaneously. Physical scarcity businesses (live events, pest control, uniform routes, safety inspection) will quietly compound while the media sector headlines dominate. The sector's biggest unanswered question is whether UPS's margin-over-volume strategy produces adjusted operating margin near 9.6% on $88.7B in revenue, or whether the Amazon glide-down turns out to have left more gap than the adjusted numbers reveal.",
+  "one_sentence": "Services is a sector where loyalty currencies and recurring-relationship infrastructure are printing durable profits while legacy formats in media, retail, and business equipment are managed-declining faster than the replacement wedges can fully offset."
+}

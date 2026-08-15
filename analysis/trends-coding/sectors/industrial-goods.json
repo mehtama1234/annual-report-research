@@ -1,0 +1,86 @@
+{
+  "sector": "Industrial Goods",
+  "slug": "industrial-goods",
+  "deck": "The AI buildout has rewired Industrial Goods from a cyclical machinery play into an infrastructure execution race—every contractor, distributor, and equipment maker that touches power, cooling, fiber, or physical site development is running at a pace the sector has never seen.",
+  "summary": "Industrial Goods in 2025-2026 is not a single sector story—it is three colliding demand waves that have restructured who wins and why. The first wave is AI infrastructure: data centers, hyperscaler campuses, and the power and cooling systems they require have turned Vertiv, Eaton, EMCOR, Comfort Systems, Quanta, Sterling, Dycom, nVent, and Powell Industries into execution-constrained operators rather than demand-limited ones. Backlog at these companies has compounded in ways that have no precedent in their histories—Quanta reached $53.4B total backlog at Q2 2026, Comfort Systems held $14.06B, EMCOR's remaining performance obligations hit $17.14B, and Vertiv's backlog stood at $15.0B with a 2.9x book-to-bill. The constraint in every case is not customers or capital but craft-skilled labor and manufacturing throughput.\n\nThe second wave is the physical electrification of North America—grid modernization, transmission buildout, utility capex tied to EV load, renewable interconnection, and the BEAD broadband program. MYR Group, Dycom, and Quanta are converting this into record backlogs in T&D and fiber. Eaton is selling the transformers and switchgear that make it possible. United Rentals and Herc Holdings are supplying the equipment that moves the job sites. The third wave is the waste-and-water infrastructure compound: Republic Services, Waste Management, Casella, and Clean Harbors are raising prices faster than volume, adding RNG and recycling assets, and using route density as a pricing moat that customers simply cannot escape. Pricing in excess of cost inflation has become a reliable earnings engine that barely exists in any other part of the economy.\n\nAcross all three waves, the companies that win share a structural trait: they have execution depth—field crews, local branches, installed-base relationships—that is genuinely hard to replicate at speed. The companies under pressure are those tied to either new residential construction (Builders FirstSource, D.R. Horton, Lennar) or legacy categories facing secular decline (ACCO Brands). The rest of the sector is running, and the binding resource is the craft-skilled worker, not the order book.",
+  "numbers": [
+    {"stat": "$53.4B", "label": "Total backlog, Quanta Services Q2 2026 — record quarter-end level"},
+    {"stat": "$15.0B", "label": "Backlog, Vertiv Q4 2025 — up 109% YoY, book-to-bill 2.9x"},
+    {"stat": "$14.06B", "label": "Backlog, Comfort Systems Q2 2026 — from $5.99B just 18 months earlier"},
+    {"stat": "$8.531B", "label": "Quarterly sales, Eaton Q2 2026 — record; organic growth 14%"},
+    {"stat": "$17.14B", "label": "Remaining performance obligations, EMCOR Q2 2026 — up from $11.91B prior year"},
+    {"stat": "47%", "label": "Organic growth, nVent Electric Q2 2026 — driven by data-center liquid cooling"},
+    {"stat": "$2.937B", "label": "Free cash flow, Waste Management FY2025 — pricing discipline at route-based scale"},
+    {"stat": "51%", "label": "Organic revenue growth, Comfort Systems Q1 2026 — while GDP ran single-digit"}
+  ],
+  "sub_trends": [
+    {
+      "name": "AI Infrastructure Buildout as Industrial Demand Engine",
+      "what": "Hyperscaler data-center construction has become the largest single demand signal in U.S. industrial goods. Power distribution, cooling, switchgear, electrical contracting, and site development are all executing against AI-tied backlogs that dwarf prior cycle peaks. The constraint is not demand—it is skilled-trade labor and manufacturing throughput. Vertiv, Eaton, EMCOR, Comfort Systems, Powell Industries, nVent, and Sterling Infrastructure are all directly in this current.",
+      "companies": ["Vertiv Holdings Co", "Eaton Corporation plc", "EMCOR Group, Inc.", "Comfort Systems USA Inc.", "nVent Electric plc", "Powell Industries Inc.", "Sterling Infrastructure, Inc."]
+    },
+    {
+      "name": "Grid Electrification and T&D Surge",
+      "what": "Utility capex for transmission, distribution, and substation work is running at a sustained high driven by EV load, renewable interconnection, data-center power delivery, and grid modernization policy. Quanta's $53.4B backlog and MYR Group's $3.16B backlog both reflect multi-year project visibility with no sign of moderating. Dycom's book-to-bill of 2.2x is being driven by fiber and broadband alongside traditional T&D, with customers extending contract durations to secure scarce field crews.",
+      "companies": ["Quanta Services, Inc.", "MYR Group Inc.", "Dycom Industries Inc.", "Eaton Corporation plc", "Valmont Industries Inc."]
+    },
+    {
+      "name": "Waste and Water Infrastructure as Pricing Moats",
+      "what": "Solid waste, hazardous waste, and water infrastructure distribution share a structural characteristic: customers cannot easily switch suppliers because service is route-based, regulated, or tied to local permit rights. Republic Services, Waste Management, and Casella Waste have maintained pricing well above cost inflation for multiple consecutive years. Waste Management's free cash flow reached $2.937B in FY2025—up from $2.317B—on pricing discipline alone. The addition of RNG and recycling assets is layering a sustainability-narrative margin premium onto an already captive demand base.",
+      "companies": ["Waste Management, Inc.", "Republic Services, Inc.", "Casella Waste Systems Inc.", "Clean Harbors Inc.", "Core & Main, Inc."]
+    },
+    {
+      "name": "Industrial Distribution Transformation",
+      "what": "MRO and industrial distribution is bifurcating sharply. One lane is digital embedding—Fastenal's FMI vending machines and onsite programs (61.4% of 2025 sales from digital footprint), Grainger's Endless Assortment at $3.6B and growing 15%+, and MSC Industrial deploying 30,790 vending machines while cutting field reps. The other lane is project-based transformation: WESCO's data-center sales hit $4.3B in 2025, up ~50%, converting what was once a spot-order distribution business into a project-supply chain with forward backlog. The distributors unable to make either transition are facing structural gross-margin compression.",
+      "companies": ["Fastenal Company", "W.W. Grainger, Inc.", "WESCO International Inc.", "MSC Industrial Direct Co., Inc.", "Applied Industrial Technologies Inc."]
+    },
+    {
+      "name": "Specialty Rental as Secular Shift Away from Ownership",
+      "what": "United Rentals ($16.1B FY2025 revenue, $2.2B free cash flow) and Herc Holdings ($4.4B total revenues, H&E acquisition) are both recording that the shift from equipment ownership to rental is accelerating. Large infrastructure projects prefer rental for capital flexibility; reshoring manufacturers avoid balance-sheet intensity. Specialty rental is outpacing general rental inside both companies, with United Rentals opening 60 new specialty branches in FY2025 alone. Fleet productivity at United Rentals reached +3.4% in Q2 2026.",
+      "companies": ["United Rentals, Inc.", "Herc Holdings Inc."]
+    },
+    {
+      "name": "Residential Construction Under Affordability Pressure",
+      "what": "The one segment pulling in the opposite direction of the sector's dominant trends is new residential construction. D.R. Horton's cancellation rates rose to 20% in Q3 FY2026, Lennar reported 12.9% incentives in Q2 2026 with gross margin at 15.2%, and Builders FirstSource saw net sales down 8.8% in Q2 2026 with adjusted EBITDA down 34.9%. Housing affordability has effectively decoupled residential construction from the infrastructure and industrial investment boom running everywhere else in the sector.",
+      "companies": ["D.R. Horton, Inc.", "Lennar Corporation", "Builders FirstSource, Inc.", "Pool Corp."]
+    }
+  ],
+  "standout_companies": [
+    {
+      "company": "Vertiv Holdings Co",
+      "why_notable": "The most direct industrial bridge from AI demand to physical infrastructure: $15.0B backlog at 2.9x book-to-bill, 252% organic order growth in Q4 2025, and a net cash position achieved by Q2 2026—all from power and cooling for data centers."
+    },
+    {
+      "company": "Comfort Systems USA Inc.",
+      "why_notable": "Backlog of $14.06B at Q2 2026 grew from $5.99B just 18 months earlier, and the company delivered 51% organic revenue growth in Q1 2026 while GDP ran in the low single digits—proving that skilled-trade execution capacity, not demand, is the real bottleneck in this cycle."
+    },
+    {
+      "company": "Quanta Services, Inc.",
+      "why_notable": "Total backlog of $53.4B and RPO of $33.6B at Q2 2026 make Quanta the largest forward-demand indicator in the sector; it is the field-execution operator that turns grid modernization, data-center load growth, and electrification policy into actual wire in the ground."
+    },
+    {
+      "company": "Eaton Corporation plc",
+      "why_notable": "Record Q2 2026 sales of $8.531B, $13B of announced acquisitions in 2025, and a planned Mobility spin-off signal that Eaton is deliberately repositioning as a pure power-infrastructure compounder—betting the AI and electrification demand waves are structural, not cyclical."
+    },
+    {
+      "company": "Sterling Infrastructure, Inc.",
+      "why_notable": "Achieved adjusted EBITDA margins above 20% for the first time in company history in FY2025, and grew E-Infrastructure revenue 123% by concentrating 92% of its E-Infrastructure backlog on mission-critical data-center and semiconductor sites while deliberately exiting lower-margin transportation work."
+    },
+    {
+      "company": "nVent Electric plc",
+      "why_notable": "47% organic growth in Q2 2026 on liquid cooling and data-center electrical enclosures, with a $2.6B backlog and new products contributing 30%+ of growth—the fastest-turning beneficiary of the AI cooling infrastructure wave in the sector."
+    },
+    {
+      "company": "Waste Management, Inc.",
+      "why_notable": "Free cash flow of $2.937B in FY2025, route automation reducing labor intensity, and a pricing model raising prices 5%+ per year against volumes growing 0.2-0.6%—the most disciplined cash compounder in a sector full of growth stories."
+    },
+    {
+      "company": "Powell Industries Inc.",
+      "why_notable": "Book-to-bill of 3.0x in Q3 FY2026 and backlog of $2.4B on custom medium-voltage switchgear—a niche component that is a hard chokepoint for both AI data-center power distribution and Gulf Coast LNG terminals, giving it pricing power that shows up in 30.6% gross margins."
+    }
+  ],
+  "tension": "The sector's biggest fault line is labor and execution capacity. Every high-performing company in this sector—Comfort Systems, Quanta, Dycom, EMCOR, MYR Group, MasTec—describes extraordinary backlogs that cannot be converted faster because craft-skilled workers are genuinely scarce. This creates two compounding risks: (1) customers begin extending contract durations and locking in capacity to secure execution, raising switching costs but also concentrating customer exposure; and (2) any cost-estimate errors on fixed-price contracts—where a backlog book is effectively a string of bets on future labor and materials costs—could produce earnings air pockets even as headline backlog numbers look strong. The tariff environment (Eaton, Valmont, MSC Industrial all flagged tariff friction) and supply-chain volatility add a second order of cost uncertainty inside a labor-constrained execution environment. The question is whether all this visible backlog converts at the margins that were assumed when it was booked.",
+  "who_wins_who_loses": "Winners are the execution platforms with craft-skilled depth, proprietary distribution moats, or infrastructure-criticality pricing power: Vertiv, Eaton, Quanta, Comfort Systems, EMCOR, Waste Management, Republic Services, Fastenal, and the specialty rental operators. These companies are either irreplaceable in the physical infrastructure supply chain or structurally embedded in customer workflows in ways that insulate pricing. Losers are the companies on the wrong end of the structural trends: Builders FirstSource and residential building-materials distributors tied to an unaffordable housing market; ACCO Brands trying to pivot out of a category in secular decline; and the generalist MRO distributors losing gross margin to large-customer mix shift (MSC Industrial, Grainger's High-Touch) without yet capturing enough digital-embedding premium to offset it. The mid-tier contractors without either the scale to win mega-projects or the labor depth to execute complex work are at risk of being squeezed out of the most lucrative work in the cycle.",
+  "outlook": "The sector is heading into a sustained execution phase rather than a demand-generation phase. Order books at the infrastructure-exposed companies are already full; the next 12-24 months will be determined by who can actually convert backlog into revenue and cash without cost overruns or labor shortfalls. The AI infrastructure wave is not moderating—hyperscaler capital expenditure guidance remains elevated, and the physical infrastructure required to support it (power, cooling, fiber, site development) has multi-year lead times that sustain contractor demand even if hyperscaler investment plateaus. Grid modernization and T&D buildout are driven by utility capex programs that span decades, not quarters. Waste pricing power is structural, not cyclical. The residential construction drag is a real weight but is overwhelmingly offset by the infrastructure and industrial investment boom. The companies best positioned for the next two years are those that can scale execution throughput—which means winning the war for craft-skilled labor, managing fixed-price contract risk carefully, and deploying capital into manufacturing capacity or branch density that locks in the next wave of backlog.",
+  "one_sentence": "Industrial Goods has split in two: an AI-and-grid infrastructure buildout running at record pace and constrained only by execution capacity, and a housing-tied residential segment struggling against affordability gravity—and the distance between them is growing."
+}

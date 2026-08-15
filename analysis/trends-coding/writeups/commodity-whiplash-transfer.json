@@ -1,83 +1,88 @@
 {
-  "slug": "commodity-whiplash-transfer",
-  "name": "The Commodity Whiplash Transfer",
-  "deck": "When commodity prices spike, they no longer compress the earnings of integrated giants. Instead, large operators with hedging power pass the shock downstream to smaller buyers and consumers who cannot hedge.",
-  "core_bet": "The modern commodity system is no longer a unified cost absorption. Large producers with pricing power and financial infrastructure have engineered pass-through contracts and contract structures that systematically shift commodity risk away from themselves and onto the next layer—smaller operators, converters, consumers. When nitrogen prices surge or cocoa costs spike, the burden lands on farmers, packagers, construction buyers, and households.",
-  "numbers": [
-    {
-      "stat": "$1.46 billion",
-      "label": "CF Industries 2025 net earnings, driven by higher average selling prices on tight global nitrogen supply"
-    },
-    {
-      "stat": "$38.537 billion",
-      "label": "Mondelez 2025 full-year net revenues, but organic net revenue growth slowed to 4.3% due to unprecedented cocoa cost headwinds"
-    },
-    {
-      "stat": "$3.3 billion",
-      "label": "Glencore Marketing Adjusted EBIT in H1 2026, up 142% year over year, monetizing Middle East conflict disruptions"
-    },
-    {
-      "stat": "$1.97 per pound",
-      "label": "Freeport-McMoRan unit net cash costs for copper, while realized prices hit $6.17 per pound in Q2 2026"
-    },
-    {
-      "stat": "35-40%",
-      "label": "Cleveland-Cliffs flat-rolled steel sales locked in fixed contracts, creating earnings lag when prices move down"
-    },
-    {
-      "stat": "$1.4 billion",
-      "label": "Cleveland-Cliffs 2025 GAAP net loss, partly driven by lagging fixed annual contract pricing while material costs moved"
-    },
-    {
-      "stat": "$232 million",
-      "label": "Eastman Kodak Q1-Q2 2026 gross profit increase partially offset by higher silver and aluminum prices"
-    }
-  ],
-  "mechanism": [
-    "The transfer works through asymmetric contract power. Large integrated commodity producers—CF Industries, Glencore, Freeport-McMoRan, ConocoPhillips—have hedging infrastructure, financial depth, and global sourcing flexibility. When commodity prices rise, they either have already locked in supply at lower costs or can quickly activate hedges. They then negotiate pass-through clauses with customers one tier down: packagers like Crown Holdings and Mondelez, or downstream converters like Cleveland-Cliffs.",
-    "The key mechanism is the pass-through lag and the pricing power asymmetry. Large operators can push price increases to customers faster than those customers can absorb them. Crown Holdings and Mondelez both have real pricing power with their own customers—beverage brands absorb can cost increases, consumers pay more for snacks. But there is a limit. When Mondelez faces unprecedented cocoa headwinds, it tries to pass costs forward, but volume falls—consumers resist. That volume collapse then reverberates backward, forcing margin compression back upstream.",
-    "Fixed-price contracts amplify the whiplash for smaller operators. Cleveland-Cliffs locks 35-40% of flat-rolled steel sales under fixed annual automotive contracts. When material costs spike, the company absorbs the margin hit for the contract term. When prices fall, the automaker holds the contract price fixed and captures the benefit. The asymmetry is permanent unless the contract renegotiates. Eastman Kodak faces the same pressure: higher silver and aluminum prices directly offset operational gains because the company cannot immediately push those costs into customer contracts.",
-    "Glencore's marketing business shows the flip side. When geopolitical disruption creates freight, energy, and commodity dislocations, Glencore's marketing arm monetizes the chaos. H1 2026 marketing EBIT jumped 142% because Middle East conflict benefits made freight premiums, energy-product spreads, and trading inventory positioning unusually profitable. The company captures upside from the same supply-chain stress that hurts smaller, non-hedged buyers."
-  ],
-  "why_now": "Post-2022 commodity volatility never fully settled. Geopolitical disruptions remain endemic: Iran-related fertilizer supply fragility, Middle East energy conflicts, DRC cobalt production quotas, Indonesian mining regulations. CF Industries explicitly described tight global nitrogen supply and the way Iran-related disruption exposed how fragile the nitrogen chain remains. Glencore's CEO linked marketing profits directly to Middle East conflict benefits. Freeport-McMoRan continues managing the restart of Grasberg Block Cave after the September 2025 mud-rush incident. These are not one-time shocks; they are structural supply scarcities that keep getting extended. Simultaneously, companies have had two years to harden their pass-through contract infrastructure and pricing power differentials. The transfer mechanism is now institutionalized.",
-  "who_pays": "Farmers buying nitrogen fertilizer. When CF Industries earnings surge on tight nitrogen markets, farmers absorb higher fertilizer costs and adjust acreage or yields downward. Consumers buying packaged treats and beverages. When Mondelez faces unprecedented cocoa cost headwinds, it passes price increases downstream; consumers see higher Oreo and Cadbury prices at the checkout and buy fewer units. Construction contractors and automotive makers buying finished steel. When Cleveland-Cliffs' materials costs rise faster than fixed contracts allow, contractors and automakers benefit—but only those without pass-through clauses of their own. Small businesses and converters without hedging infrastructure. When aluminum and steel prices spike, small manufacturers buying materials in spot or short-term contracts have no buffer. Packaging converters, appliance makers, and component suppliers absorb the hit directly.",
-  "who_profits": "Integrated commodity producers with low breakeven costs and hedging infrastructure: CF Industries (nitrogen), ConocoPhillips (oil and gas), Suncor (oil sands), Freeport-McMoRan (copper—unit costs $1.97/lb while realized prices $6.17/lb in Q2 2026). Commodity traders with physical assets and marketing arms. Glencore explicitly captures value from supply disruptions and freight volatility through its marketing business. Any operator with pricing power strong enough to pass increases downstream faster than cost inflation arrives: Mondelez (through brand strength), Crown Holdings (through can demand and customer stickiness), PepsiCo (through distribution and scale). Large multinationals with geographic diversification and global sourcing flexibility. Crown Holdings navigated Middle East conflict via global sourcing flexibility; Glencore shifted cobalt production toward copper when prices diverged.",
-  "tension": "Consumer affordability breaks the chain. Mondelez showed that when commodity pass-through hits the shelf price, volume declines. Organic net revenue grew only 4.3% in 2025 despite higher selling prices—the growth was anchored by pricing, not volume. At some price point, the consumer cannot absorb more. They trade down, buy fewer units, or switch to cheaper brands. When volume collapses, the entire margin structure inverts. Companies like Mondelez are forced to cut cost more aggressively or accept lower margins. That margin pressure then pushes back upstream: suppliers tighten terms, converters demand price rollbacks, and the whip reverses. The most vulnerable operators—those without hedging, without long-term contracts, without scale—bear the full volatility in both directions.",
-  "surprising_part": "The most counterintuitive part is that commodity whiplash is no longer a problem that integrated companies absorb together. It used to be that vertically integrated oil companies or aluminum producers would smooth price swings across their supply chains. Now, the sophistication of modern contract law and financial engineering means large operators have found ways to systematically shift volatility to smaller operators while protecting their own margins. Cleveland-Cliffs fixed-price contracts are the clearest proof: the company does not just fail to capture upside; it actively absorbs downside in ways its customers avoid. Glencore's marketing business is the structural answer to this trend: if you cannot hide from volatility as a pure producer, become a trader who profits from it.",
-  "one_sentence": "Commodity price swings no longer hit integrated producers—they are systematically passed downstream to smaller operators, converters, and consumers, concentrating financial risk among those with the least ability to hedge.",
-  "societal_stake": "The companies with the most sophisticated financial infrastructure bear the least commodity risk. The people with none bear the most. This is not just about corporate profit margins; it is about structural amplification of economic precarity. A farmer buying fertilizer, a household buying snacks, a small contractor buying steel—none have the hedging tools, contract power, or scale that CF Industries or Glencore command. When commodity prices shock the system, the cost absorption cascades backward to the least-protected layer. This is a hidden driver of affordability pressure in middle-income households and a persistent squeeze on small and medium-sized industrial operators. The physical and financial infrastructure of modern markets makes this transfer systematic rather than random.",
-  "evidence": [
-    {
-      "company": "CF Industries",
-      "fact": "2025 net earnings $1.46 billion driven by higher average selling prices; Q1 2026 emphasized tight global nitrogen supply and Iran-related disruption exposing fertilizer supply fragility; farmers absorb the cost while CF captures the upside"
-    },
-    {
-      "company": "Mondelez International",
-      "fact": "2025 described as 'unprecedented cocoa cost headwinds'; full-year net revenues $38.537B with organic growth of 4.3% but EPS under pressure; consumers face price increases from commodity pass-through"
-    },
-    {
-      "company": "Glencore",
-      "fact": "H1 2026 Marketing Adjusted EBIT rose to $3.3B, up 142%; CEO explicitly cited Middle East conflict benefits; cobalt production shifted to copper as prices diverged, monetizing supply-chain disruptions"
-    },
-    {
-      "company": "Freeport-McMoRan",
-      "fact": "Q2 2026 unit net cash costs steady at $1.97 per pound copper while realized prices hit $6.17 per pound; byproduct economics from gold and molybdenum provide cushion; producers at this cost level capture upside while downstream buyers pay more"
-    },
-    {
-      "company": "Cleveland-Cliffs",
-      "fact": "2025 GAAP net loss $1.4 billion partly driven by persistently weak automotive production and lagging fixed annual contract pricing; 35-40% of flat-rolled sales locked in fixed contracts—the company bears the whiplash auto OEMs avoided"
-    },
-    {
-      "company": "Crown Holdings",
-      "fact": "Q1 2026 navigated Middle East conflict via global sourcing flexibility; aluminum and steel pass-through contracts protect converter margins while beverage brands face input cost pressure"
-    },
-    {
-      "company": "Eastman Kodak",
-      "fact": "Q1 2026 higher silver and aluminum prices explicitly offset part of operational gain; Q2 2026 gross profit improved 61% but AM&C revenue growth was constrained by higher commodity inputs"
-    },
-    {
-      "company": "PepsiCo (via CF Industries partnership)",
-      "fact": "CF launched low-carbon UAN collaboration with PepsiCo tied to Frito-Lay's U.S. potato supply chain, showing how commodity pricing pressure flows into food production systems"
-    }
-  ]
+ "slug": "commodity-whiplash-transfer",
+ "name": "The Commodity Whiplash Transfer",
+ "deck": "When nitrogen prices spike or cocoa costs surge, integrated giants no longer absorb the pain — they pass it downstream through contracts engineered to shift risk onto the next tier. The farmer, the packager, the small contractor, and the household bear the hit so CF Industries, Glencore, and Freeport-McMoRan do not have to.",
+ "core_bet": "The modern commodity system runs on asymmetric contract power. Large producers with hedging infrastructure and pricing leverage — CF Industries, Glencore, Freeport-McMoRan — have rebuilt their commercial structures around pass-through clauses, fixed-price exposure for counterparties, and marketing arms that profit from the same supply disruptions that hurt non-hedged buyers. When commodity prices spike, the pain travels downstream to whoever signed the wrong contract or lacks the scale to hedge. When prices fall, fixed-contract holders like Cleveland-Cliffs absorb the lag while their automotive customers collect the benefit. The transfer is not random; it is designed, enforced in each contract cycle, and increasingly institutionalized.",
+ "numbers": [
+  {
+   "stat": "$1.46 billion",
+   "label": "CF Industries 2025 net earnings, driven by higher average selling prices across all segments on tight global nitrogen supply — while farmers buying nitrogen fertilizer absorbed the cost"
+  },
+  {
+   "stat": "$727 million",
+   "label": "CF Industries Q2 2026 net earnings, with the company running at 98% of available ammonia capacity year-to-date even while Yazoo City remained partly offline — nitrogen pricing remained structurally firm"
+  },
+  {
+   "stat": "$3.3 billion",
+   "label": "Glencore Marketing Adjusted EBIT in H1 2026, up 142% year over year — management explicitly attributed the jump to materially disrupted energy, freight, and commodity markets including Middle East conflict benefits"
+  },
+  {
+   "stat": "$6.17 per pound vs. $1.97 per pound",
+   "label": "Freeport-McMoRan Q2 2026 realized copper price versus unit net cash cost — a $4.20 per pound spread that captures what integrated low-cost producers earn while downstream copper buyers pay near-record prices"
+  },
+  {
+   "stat": "$1.4 billion",
+   "label": "Cleveland-Cliffs 2025 GAAP net loss on $18.6 billion in revenues, driven by lagging fixed annual contract pricing and weak automotive volumes — the company bore the whiplash its automotive customers avoided through those same fixed contracts"
+  },
+  {
+   "stat": "35–40%",
+   "label": "Share of Cleveland-Cliffs flat-rolled steel sales locked in fixed-price annual contracts — when material costs rose, Cliffs absorbed the margin hit; when prices fell, automakers held the fixed price and captured the benefit"
+  },
+  {
+   "stat": "$2.092 billion",
+   "label": "Crown Holdings 2025 adjusted EBITDA, a best-ever result — achieved partly because aluminum and steel pass-through contract structures protect the converter's margin while beverage brands upstream absorb metal-cost volatility"
+  },
+  {
+   "stat": "$38.537 billion / 4.3% organic growth",
+   "label": "Mondelez 2025 full-year net revenues and organic revenue growth rate — the growth was price-led while volume/mix fell 3.7%, proof that commodity pass-through to consumers works until volume collapses under the weight of higher shelf prices"
+  }
+ ],
+ "mechanism": [
+  "The transfer runs through contract-power asymmetry at each tier of the supply chain. CF Industries sits at the top of the nitrogen chain. It produced 10.1 million tons of gross ammonia in 2025 at full utilization and collected $1.46 billion in net earnings because global nitrogen supply was tight and Iran-related disruption kept it that way. The farmers buying CF's urea and UAN have no equivalent hedging infrastructure. They adjust acreage, accept higher per-acre input costs, or reduce yield. The cost lands with them.",
+  "One tier down, the packager and converter layer operates under pass-through contracts that insulate them partially — but not fully. Crown Holdings posted a best-ever $2.092 billion adjusted EBITDA in 2025 because its aluminum and steel supply contracts include pass-through clauses that push metal-cost moves to beverage brands. The brands push those costs to shelf prices. Mondelez did exactly that: 2025 organic net revenue grew 4.3%, but volume/mix fell 3.7%, meaning the growth was entirely price. The consumer absorbed higher snack prices and bought fewer units.",
+  "Fixed-price contracts create the sharpest whiplash for industrial buyers without pricing power. Cleveland-Cliffs locks 35–40% of flat-rolled steel shipments under fixed annual automotive contracts. When material costs spiked in 2025, Cliffs could not pass the increase through until contracts rolled over. The result: a $1.4 billion GAAP net loss on $18.6 billion in revenues, with adjusted EBITDA of only $37 million. Meanwhile, the automakers holding fixed-price contracts received stable input costs while Cliffs bore the full margin compression. The asymmetry is not accidental — it is the negotiated outcome of contract cycles where large OEM buyers have more leverage than a single steel producer.",
+  "Glencore's marketing business is the structural answer to this dynamic. Rather than absorb commodity volatility as a producer, Glencore built a marketing engine that profits from the same disruptions that hurt non-hedged buyers. H1 2026 Marketing Adjusted EBIT jumped 142% to $3.3 billion because Middle East conflict created freight premiums, energy-product spread opportunities, and commodity dislocation that Glencore's physical assets, inventory positions, and logistics network could monetize. The DRC cobalt-quota regime is another example: Glencore shifted production priority toward copper when cobalt economics deteriorated, cutting cobalt output 46% in H1 2026 while copper rose 15%. That kind of production pivot requires global infrastructure most buyers cannot replicate.",
+  "The result is a layered transfer system with predictable losers at each level. At the upstream end, integrated producers with low breakeven costs capture the full benefit of supply tightness. In the middle, converters like Crown Holdings pass costs through via contract but face their own sourcing and freight pressures when global supply chains dislocate. At the downstream end, consumer-brand operators like Mondelez can push price increases to the shelf, but only until volume declines signal consumer saturation. The final absorber — the farmer, the household, the small contractor without hedging — has no further tier to pass the cost to."
+ ],
+ "why_now": "Two specific inflection points make this transfer more visible and more institutionalized than before 2022. First, the post-2022 interest-rate environment forced companies to manage working capital and commodity exposure more deliberately. When borrowing costs rose above 5%, carrying unhedged commodity inventory became genuinely expensive. Large operators with treasury departments and hedging programs gained a structural advantage over smaller buyers who could not afford the same risk-management infrastructure. Second, the supply-chain crises of 2021–2022 showed every major commodity producer exactly which contracts left them exposed and which protected them. By 2024–2025, those contracts had been renegotiated with explicit pass-through clauses and pricing-lag protections installed on the side with the most bargaining power. CF Industries' Q1 2026 language about Iran-related disruption exposing fertilizer supply fragility is not a description of a new shock — it is a description of a structural scarcity that management is explicitly managing and pricing around. Glencore's H1 2026 marketing results show the same: the marketing business did not accidentally earn $3.3 billion from Middle East conflict benefits; it was positioned to do so because management explicitly built the trading book and logistics infrastructure to monetize disruption. These are institutional choices made between 2022 and 2024 that are now generating the documented results in company filings.",
+ "who_pays": "Farmers buying nitrogen fertilizer: when CF Industries earns $1.46 billion on tight nitrogen markets, the cost per acre of fertilizer rises and farmers absorb it directly, adjusting planting decisions and yields. Consumers buying packaged snacks: Mondelez's 2025 volume/mix fell 3.7% against 4.3% organic revenue growth, meaning consumers paid more and bought less. Households at the end of the food chain have no hedging option. Cleveland-Cliffs and the automotive supply tier: Cliffs is a counterintuitive example because it is a large manufacturer — yet it is the one absorbing the commodity whiplash that its auto OEM customers avoided through fixed-price annual contracts. When material costs spike, a company with $18.6 billion in revenue and a $1.4 billion net loss is still structurally the downstream absorber relative to the OEMs it supplies. Small and mid-size industrial buyers: any manufacturer buying aluminum, steel, or chemical inputs on spot or short-term contracts faces the same compression without the working-capital depth or contract leverage to defer it.",
+ "who_profits": "Integrated commodity producers with low breakeven costs: Freeport-McMoRan Q2 2026 unit net cash cost of $1.97 per pound against realized copper prices of $6.17 per pound is the clearest single data point. That $4.20 per pound spread — on 710 million pounds of copper sales in a single quarter — shows what the upstream position earns when commodity markets are tight. CF Industries earns on the same principle in nitrogen: high utilization, low gas costs relative to benchmark nitrogen prices, and captive North American supply create durable margin. Commodity traders with physical infrastructure: Glencore's marketing arm earned $3.3 billion of EBIT in H1 2026 specifically because it holds the physical assets, logistics contracts, and inventory positions to profit from the disruptions that hurt non-hedged buyers. Converters with pass-through contracts: Crown Holdings protects its own margin by passing aluminum and steel cost moves through to beverage brands. Its best-ever $2.092 billion EBITDA in 2025 reflects a business model that insulates converter economics from the same cost swings that hit its customers.",
+ "tension": "Consumer volume is the circuit breaker. Mondelez's 2025 results show the limit precisely: organic net revenue grew 4.3%, but volume/mix fell 3.7%. The revenue growth was not demand growth; it was price passed through until enough consumers bought fewer Oreos and Cadbury bars to register in the volume line. Mondelez entered 2026 focused on restoring volume rather than depending on further price carry, which is a direct admission that the pass-through chain hit its ceiling. When volumes fall far enough, margin pressure reverses direction: consumer brands are forced to trade on price to recover units, packagers face lower throughput, and upstream producers lose the demand anchor that supported their pricing. The transfer mechanism is not permanent; it runs until affordability fails at the household level, and then the compression travels back up the chain. The operators with the least flexibility — those with fixed assets, high fixed costs, and no pricing buffer — absorb the reversal first.",
+ "surprising_part": "The most counterintuitive data point is Cleveland-Cliffs. A company with $18.6 billion in revenues and roughly 25,000 employees across North America is, in this system, the downstream absorber — not the upstream profiteer. Cleveland-Cliffs lost $1.4 billion in 2025 not because it lacked volume or customers, but because its fixed-price annual automotive contracts locked it into receiving prices that did not move when material costs did. The auto OEMs holding those same contracts collected the stability benefit. That inversion — where a vertically integrated steel manufacturer is structurally positioned as the commodity-risk absorber relative to its own customers — shows that size alone does not determine which side of the transfer you end up on. Contract structure, customer leverage, and the direction of pricing power in each bilateral relationship determine who absorbs the whiplash. Glencore's 142% jump in marketing EBIT from the same market disruptions that hurt Cliffs is the other half of the same truth: the companies that designed their commercial structures to monetize volatility rather than just produce through it are in a categorically different position.",
+ "one_sentence": "Commodity price swings no longer land on the balance sheets of integrated producers — contract engineering, hedging infrastructure, and pricing-power asymmetry have systematically routed the risk to the tier with the least ability to push it further downstream.",
+ "societal_stake": "The pattern documented in these company filings has a direct household consequence. The farmer who cannot hedge nitrogen costs, the consumer who pays more for snacks while buying fewer, the small manufacturer buying steel on spot — each is absorbing price volatility that the counterparty on the other side of a contract has specifically engineered away. That is not a market failure in the conventional sense; it is the intended outcome of contract structures built by parties with unequal access to financial infrastructure. The disparity is widening, not narrowing. Post-2022 interest rates made hedging more valuable and more expensive, which means the advantage of having hedging infrastructure grew precisely when access to it became more unequal. The companies with the most sophisticated financial operations — CF Industries, Glencore, Freeport-McMoRan — end 2025 with strong earnings and strong cash returns to shareholders. The households and small operators at the end of those supply chains end 2025 with higher input costs, compressed margins, and no equivalent mechanism for relief.",
+ "evidence": [
+  {
+   "company": "CF Industries",
+   "fact": "2025 net earnings $1.46 billion on $2.89 billion adjusted EBITDA, driven by higher average selling prices across all segments; Q2 2026 net earnings reached $727 million with the business running at 98% of available ammonia capacity; Q1 2026 management emphasized tight global nitrogen supply and Iran-related disruption exposing nitrogen supply fragility; farmers absorb the cost side while CF captures the upside through supply tightness"
+  },
+  {
+   "company": "Glencore",
+   "fact": "H1 2026 Marketing Adjusted EBIT rose to $3.3 billion, up 142% year over year; Group Adjusted EBITDA reached $10.1 billion, up 86%; management attributed marketing performance to materially disrupted energy, freight, and commodity markets including Middle East conflict benefits; cobalt production cut 46% in H1 2026 as Glencore shifted priority toward copper under DRC quota regime — active production management, not passive output"
+  },
+  {
+   "company": "Freeport-McMoRan",
+   "fact": "Q2 2026 average realized copper price was $6.17 per pound while unit net cash cost was $1.97 per pound — a $4.20 per pound spread on 710 million pounds sold; Q2 2026 net income attributable to common stock was $984 million and operating cash flow was $2.0 billion; byproduct gold at $4,520 per ounce and molybdenum at $28.75 per pound provided additional cushion; 2025 full-year revenues were $25.9 billion with $5.6 billion operating cash flow"
+  },
+  {
+   "company": "Cleveland-Cliffs",
+   "fact": "2025 GAAP net loss of $1.4 billion on revenues of $18.6 billion and adjusted EBITDA of only $37 million; management explicitly cited lagging fixed annual contract pricing and persistently weak automotive production as the core problem; 35–40% of flat-rolled steel shipments sold under fixed-price annual contracts — when material costs rose, Cliffs absorbed the compression while automotive OEMs held fixed prices; Q2 2026 showed sequential recovery with adjusted EBITDA of $286 million but GAAP net loss still at $134 million"
+  },
+  {
+   "company": "Mondelez International",
+   "fact": "2025 full-year net revenues $38.537 billion; organic net revenue grew 4.3% but volume/mix fell 3.7%, meaning all growth came from price pass-through while consumers bought fewer units; management described 2025 as facing unprecedented cocoa cost headwinds that materially pressured profitability; adjusted EPS was $2.92 against free cash flow of $3.2 billion; company entered 2026 focused on restoring volume rather than additional price carry"
+  },
+  {
+   "company": "Crown Holdings",
+   "fact": "2025 full-year net sales $12.365 billion, adjusted EBITDA a best-ever $2.092 billion, adjusted net leverage 2.5x; Q1 2026 management cited global sourcing flexibility to navigate Middle East conflict headwinds; global beverage can volumes grew 5% in Q2 2026; aluminum and steel pass-through contract structures protect converter margin while cost moves fall on beverage brand customers"
+  },
+  {
+   "company": "Eastman Kodak",
+   "fact": "Q1 2026 gross profit rose 24% year over year but management explicitly said higher silver and aluminum prices offset part of the operational gain; Q2 2026 gross profit rose 61% to $82 million and AM&C revenue rose 40%, but higher inventory tied partly to silver and aluminum commodities drew down cash from $337 million to $290 million; 2025 full-year gross profit was $232 million on $1.069 billion revenue — a company without hedging infrastructure absorbing commodity input swings directly into margin"
+  },
+  {
+   "company": "CF Industries / PepsiCo",
+   "fact": "CF launched a low-carbon UAN collaboration with PepsiCo tied to Frito-Lay's U.S. potato supply chain — a direct commercial link between nitrogen pricing at the producer level and food production costs embedded in a major consumer snack supply chain, showing how the transfer mechanism runs from CF's pricing into the food system that reaches household consumers"
+  }
+ ]
 }

@@ -1,88 +1,88 @@
 {
-  "slug": "tension-what-breaks-it",
-  "trend_slug": "commodity-whiplash-transfer",
-  "name": "The Consumer Affordability Wall: Where Commodity Inflation Compression Stops",
-  "deck": "Consumer goods companies pushed commodity inflation costs backward through pricing, but that pass-through hits a hard limit when household budgets break and purchase frequency collapses, forcing cost compression back onto suppliers and manufacturers.",
-  "core_bet": "For 2024-2025, consumer-goods companies like PepsiCo and Mondelez held pricing power despite commodity headwinds by absorbing costs into margins initially, then passing them forward to consumers who had limited alternatives. But the tension is now visible: consumer budgets are tightening, volume growth is slowing, and private-label switching is increasing. When consumers stop buying at the elevated prices or trade down to lower-margin formats, the cost compression has nowhere left to go—it travels backward to suppliers and manufacturers with immediate margin impact.",
-  "numbers": [
-    {
-      "stat": "U.S. food and beverage categories moderated",
-      "label": "PepsiCo Q2 2026 guidance, explicitly citing consumer budget tightness"
-    },
-    {
-      "stat": "3.7%",
-      "label": "Volume/mix decline, Mondelez FY2025 despite 4.3% organic revenue growth (pricing carried the narrative)"
-    },
-    {
-      "stat": "2.2%",
-      "label": "Organic net revenue growth, Mondelez Q2 2026 (down from 4.3% FY2025)"
-    },
-    {
-      "stat": "Unprecedented cocoa cost headwinds",
-      "label": "Mondelez FY2025 annual characterization"
-    },
-    {
-      "stat": "Flat to 2%",
-      "label": "Organic revenue growth guidance, Mondelez 2026 (vs 4.3% achieved in 2025)"
-    },
-    {
-      "stat": "$18.6 billion",
-      "label": "Cleveland-Cliffs FY2025 revenues with $1.4 billion GAAP net loss and $2.48 per share adjusted loss"
-    },
-    {
-      "stat": "Persistently weak automotive production",
-      "label": "Cleveland-Cliffs FY2025 descriptor for earnings pressure"
-    },
-    {
-      "stat": "-$0.43 per share",
-      "label": "Cleveland-Cliffs adjusted net loss per share, Q4 2025"
-    }
-  ],
-  "mechanism": [
-    "The commodity-inflation transfer began in 2021-2022 when input costs (cocoa, phosphate, sulfur, steel, freight) spiked. Consumer-goods companies had several paths: absorb margins, raise prices, reduce volume, or hedge. Most chose aggressive pricing because they had pricing power in habit-driven categories. Mondelez said 2025 was dynamic and challenging with unprecedented cocoa headwinds, but full-year organic revenue still grew 4.3% because of pricing discipline. PepsiCo raised prices while managing volume pressure through portfolio reshaping and productivity.",
-    "But the pass-through is now hitting limits. Mondelez's FY2025 showed the tension: volume/mix fell 3.7% even while organic revenue grew 4.3%, meaning the company won the math on pricing but lost the game on category health. Q2 2026 organic revenue growth decelerated to 2.2%, with volume/mix only marginally positive at 0.7%. Management is now focused on 'improved volumes' and 'volume growth' in 2026—language it did not need in 2025. That shift signals consumers are beginning to switch formats or purchase less frequently at elevated prices.",
-    "The leverage operates differently at the input level. Cleveland-Cliffs is experiencing the opposite pressure: customers (automotive, infrastructure) are forcing margin compression because they face consumer and end-user affordability constraints. The company reported $18.6 billion of revenue but $1.4 billion of GAAP net loss in FY2025 partly because fixed-price automotive contracts lagged spot pricing when prices fell. But the deeper issue is that auto demand itself is weak due to consumer affordability pressure on vehicle purchases. That demand weakness flows backward through the supply chain, forcing Cleveland-Cliffs to choose between accepting lower volumes or accepting lower prices.",
-    "Mosaic faced the same backward pressure. Q2 2026 operating loss was $36 million despite $2.8 billion of revenue, with reported net loss of $273 million. Mosaic Fertilizantes segment contributed only $60 million of adjusted EBITDA out of $407 million total, showing Brazil weakness and inventory management drag. The company partially idled Bartow (40% of targeted operating rate) because demand for phosphate did not justify production. That idling is not normal capacity management; it is a visible admission that downstream demand is not absorbing prices at the level manufacturers need to stay profitable."
-  ],
-  "why_now": "Consumer budgets are hitting a hard constraint in 2026 after two years of elevated prices and persistent inflation in rent, energy, and childcare. Wage growth has not kept pace with cumulative price increases in many categories. Younger and lower-income households are seeing share loss to private label and discount formats. Frequency is declining (consumers buying less often) and basket size is shrinking (consumers buying smaller packages to reduce per-trip spend). At the same time, input costs have not returned to pre-2021 levels, so manufacturers face a squeeze: they cannot raise prices further without losing more volume, but they also cannot absorb input costs without compression to operating margins.",
-  "who_pays": "In the near term, manufacturers absorb the cost compression first. PepsiCo and Mondelez have productivity programs and cost-reduction initiatives running to offset margin pressure. Cleveland-Cliffs and Mosaic are idling assets and cutting capex. But consumers also pay through reduced assortment, smaller packages, lower quality, or less frequent purchases. Input suppliers (mining, agriculture, chemicals) pay through demand reduction and price pressure. The transfer is not frictionless; it is a chain of margin loss rippling backward through the supply chain as each link tries to pass the burden to the next.",
-  "who_profits": "Short-term: discount and private-label operators who can serve price-conscious consumers. Dollar General and private-label brands are gaining share as consumers trade down. Long-term: companies that can reduce operating complexity and cost structure faster than demand falls. But there are no real winners in a commodity-whiplash scenario; there are only companies that lose less.",
-  "tension": "The core tension is irreversible. Consumer affordability is the hard constraint. Pricing power evaporates when consumers have limited choice but choosing not to buy instead. Once volume loss begins, manufacturers cannot recover it by reversing prices—consumer behavior stickiness means they stay with lower-price alternatives or reduced frequency even if prices fall. For commodity producers, demand destruction from downstream margin compression is permanent within that cycle. For consumer-goods companies, the tradeoff is between accepting margin compression or accepting volume loss, and both are negative for total profit.",
-  "surprising_part": "The most counter-intuitive signal is that the biggest consumer-goods companies are now prioritizing 'volume growth' and 'improved volumes' in guidance—language that would have been beneath them in 2022-2024 when pricing was the headline. That linguistic shift is evidence of margin exhaustion. PepsiCo emphasizing value and affordability in Q2 2026, Mondelez guiding to flat-to-2% revenue growth after 4.3% in 2025, and Cleveland-Cliffs running plants at 40% capacity are not normal cyclical moves. They are evidence that the commodity-inflation pass-through has reversed direction.",
-  "one_sentence": "Consumer affordability became the irreversible constraint when elevated prices forced purchasing-frequency collapse and private-label switching, reversing commodity inflation costs backward through the supply chain where there is no pricing power to push them forward again.",
-  "societal_stake": "This pattern matters because it shows the limit of corporate pricing power in essential categories. Consumers cannot simply refuse food, beverages, and basic goods indefinitely when prices rise, but they can reduce frequency, trade down, and shift behavior. At the societal level, this creates pressure on household budgets, especially for lower-income households who spend a higher share of income on food and essentials. It also signals to policy that inflation in essentials, even if wholesale inflation recedes, can create lasting consumer behavior shifts that erode category health. For labor and wages, it suggests that without wage growth matching cumulative price increases, consumer volume behavior will continue deteriorating.",
-  "evidence": [
-    {
-      "company": "PepsiCo",
-      "fact": "Q2 2026: U.S. food and beverage categories moderated as consumer budgets tightened under inflation pressure, with management explicitly tied results to affordability pressure"
-    },
-    {
-      "company": "PepsiCo",
-      "fact": "International organic revenue growth accelerated to 7% in Q2 2026, with North America remaining under affordability pressure, showing geographic bifurcation"
-    },
-    {
-      "company": "Mondelez",
-      "fact": "FY2025: volume/mix declined 3.7% despite 4.3% organic revenue growth, showing pricing carried results while category health deteriorated"
-    },
-    {
-      "company": "Mondelez",
-      "fact": "Q2 2026 organic revenue growth decelerated to 2.2% with volume/mix only +0.7%, and management guided 2026 organic revenue growth to flat-to-2% vs 4.3% achieved in 2025"
-    },
-    {
-      "company": "Mondelez",
-      "fact": "FY2025 annual report explicitly stated unprecedented cocoa cost headwinds materially pressured profitability and management entered 2026 focused on improved volumes and brand investments"
-    },
-    {
-      "company": "Cleveland-Cliffs",
-      "fact": "FY2025: $18.6 billion revenue, $1.4 billion GAAP net loss, $2.48 per share adjusted loss, with weak automotive production cited as major drag"
-    },
-    {
-      "company": "Cleveland-Cliffs",
-      "fact": "Q2 2026: Sequential recovery to adjusted EBITDA of $286 million, but still operating within constrained end-market demand and fixed-price contract lag"
-    },
-    {
-      "company": "Mosaic",
-      "fact": "Q2 2026: $2.8 billion revenue, $273 million net loss, $36 million operating loss, with Bartow running at only 40% of targeted annual operating rate due to demand constraints"
-    }
-  ]
+ "slug": "tension-what-breaks-it",
+ "trend_slug": "commodity-whiplash-transfer",
+ "name": "The Consumer Affordability Wall: Where Commodity Inflation Compression Stops",
+ "deck": "Consumer goods companies pushed commodity inflation costs backward through pricing, but that pass-through hits a hard limit when household budgets break and purchase frequency collapses, forcing cost compression back onto suppliers and manufacturers.",
+ "core_bet": "From 2022-2025, consumer-goods companies like PepsiCo and Mondelez absorbed commodity cost spikes and passed them forward to consumers through aggressive pricing. Mondelez's FY2025 organic revenue grew 4.3% but volume/mix fell 3.7%—pricing carried the narrative while category health deteriorated. But by Q2 2026, the reversal is visible: PepsiCo explicitly states 'U.S. food and beverage categories moderated as consumer budgets tightened,' Mondelez cut volume/mix guidance from negative 3.7% to only +0.7% in Q2 2026, and management is now prioritizing 'improved volumes' instead of pricing. When consumers stop absorbing prices or trade down, the cost compression reverses direction and travels backward to suppliers with no pricing power to push it further forward.",
+ "numbers": [
+  {
+   "stat": "4.3%",
+   "label": "Mondelez FY2025 organic net revenue growth, entirely driven by pricing"
+  },
+  {
+   "stat": "-3.7%",
+   "label": "Mondelez FY2025 volume/mix decline despite revenue growth — proof pricing won while category health lost"
+  },
+  {
+   "stat": "2.2%",
+   "label": "Mondelez Q2 2026 organic net revenue growth, down from 4.3% in FY2025"
+  },
+  {
+   "stat": "+0.7%",
+   "label": "Mondelez Q2 2026 volume/mix improvement, show of management's shift toward volume over pricing"
+  },
+  {
+   "stat": "$93.9B",
+   "label": "PepsiCo FY2025 net revenue; Q2 2026 management said U.S. categories 'moderated as consumer budgets tightened'"
+  },
+  {
+   "stat": "Flat to 2%",
+   "label": "Mondelez 2026 organic revenue guidance (down from 4.3% achieved in 2025)"
+  },
+  {
+   "stat": "$38.537B",
+   "label": "Mondelez FY2025 net revenues; adjusted EPS $2.92 pressured by 'unprecedented cocoa cost headwinds'"
+  },
+  {
+   "stat": "7%",
+   "label": "PepsiCo Q2 2026 international organic revenue growth versus North America under affordability pressure — geographic bifurcation"
+  }
+ ],
+ "mechanism": [
+  "Commodity inflation began in 2021-2022 when input costs (cocoa, grain, energy, freight) spiked. Consumer-goods companies had choices: absorb margins, raise prices, reduce volume, or hedge. Most chose aggressive pricing because they had pricing power in habit-driven categories. Mondelez's FY2025 showed this explicitly: organic revenue grew 4.3% but volume/mix fell 3.7%, meaning the company won the math on pricing but lost the game on category health. PepsiCo similarly pushed price increases through North America while international organic revenue still grew 7% in Q2 2026.",
+  "But the pass-through is hitting limits precisely in Q2 2026. Mondelez organic revenue growth decelerated from 4.3% (FY2025) to 2.2% (Q2 2026), and volume/mix improved only marginally to +0.7% after negative 3.7% in 2025. That shift signals consumers are trading down or buying less frequently at elevated prices. PepsiCo's explicit Q2 2026 statement that 'U.S. food and beverage categories moderated as consumer budgets tightened' is the same signal. Management's language shifted from 'pricing power' to 'affordability,' 'value,' and 'improved volumes'—a linguistic reversal that signals margin exhaustion.",
+  "The leverage reverses at the input level. When consumer demand softens, manufacturers cannot justify high prices to input suppliers, but input suppliers face demand destruction themselves. Those suppliers face the choice: accept lower volumes or accept lower prices. Mondelez's explicit 2026 guidance of flat-to-2% organic revenue (down from 4.3% in 2025) is the company itself admitting that the pricing pass-through has reversed. The company is now committed to finding 'improved volumes' and 'structural cost savings' instead of relying on price carry.",
+  "The structural trap is that consumer affordability is the hard constraint. Household budgets did not expand to match cumulative price increases across food, rent, energy, and childcare. Wage growth has not kept pace. When consumers cannot absorb more price, they have three options: buy less frequently, trade down to private label or discount formats, or simply consume less. Mondelez and PepsiCo filings show all three happening simultaneously. For input suppliers (mining, agriculture, chemicals), demand destruction from downstream margin compression is permanent within that cycle."
+ ],
+ "why_now": "The inflection is Q2 2026 combined with FY2025 year-end filings. Mondelez's Q2 2026 organic growth decelerated to 2.2% from 4.3% in FY2025, and management raised 2026 guidance only to 'flat to 2%' (from 4.3% achieved). PepsiCo's Q2 2026 stated explicitly that 'U.S. food and beverage categories moderated as consumer budgets tightened.' These are not forecasts; they are reports of what already happened. The commodity pass-through worked from 2022-2025 because consumers absorbed prices. But by Q2 2026, the absorption mechanism has reversed. Volumes are being prioritized over pricing. Affordability language dominates conference calls. This is a structural reversal, not a cyclical pause.",
+ "who_pays": "In the near term, manufacturers absorb the cost compression first through productivity programs and operational discipline. Mondelez is explicitly targeting 'structural cost savings' and volume recovery. PepsiCo is relying on 'productivity plus affordability' as the operating response. But consumers also pay—through reduced assortment, smaller packages, lower quality formulations, or less frequent purchases. They pay twice: once by cutting everything else from their budgets, and again by having pricing power exercised against them on the categories they cannot cut. Input suppliers pay through demand destruction with limited pricing power.",
+ "who_profits": "Short-term: discount and private-label operators who serve price-conscious consumers. Mondelez's own volume/mix decline shows consumers are switching to lower-price alternatives. Long-term: companies that can reduce operating complexity and cost structure faster than demand falls. But there are no real winners in commodity whiplash. There are only companies that lose less.",
+ "tension": "The core tension is irreversible. Consumer affordability is the hard constraint. Pricing power evaporates when consumers face the choice between buying at elevated prices or choosing not to buy. Once volume loss begins, manufacturers cannot recover it by reversing prices—consumer behavior stickiness means they stay with lower-price alternatives or reduced frequency even if prices fall. For commodity producers, demand destruction from downstream margin compression is permanent within that cycle. For consumer-goods companies, the tradeoff is between accepting margin compression or accepting volume loss, and both are negative for total profit.",
+ "surprising_part": "The most counter-intuitive signal is that the biggest consumer-goods companies are now prioritizing 'volume growth' and 'improved volumes' in their Q2 2026 messaging—language that would have been beneath them in 2022-2024 when pricing was the headline. Mondelez's shift from 4.3% organic revenue growth (FY2025) to flat-to-2% guidance (2026) with focus on 'volumes' is evidence of margin exhaustion. PepsiCo emphasizing 'value' and 'affordability' in Q2 2026 instead of pricing power is evidence that the commodity-inflation pass-through has reversed direction.",
+ "one_sentence": "Consumer affordability became the irreversible constraint when elevated prices forced purchasing-frequency collapse and private-label switching, reversing commodity inflation costs backward through the supply chain where there is no pricing power to push them forward again.",
+ "societal_stake": "This pattern matters because it shows the limit of corporate pricing power in essential categories. Consumers cannot simply refuse food and beverages indefinitely, but they can reduce frequency, trade down, and shift behavior. This creates lasting damage to category health and household budgets, especially for lower-income households who spend higher share of income on food and essentials. For labor and wages, it suggests that without wage growth matching cumulative price increases, consumer volume behavior will continue deteriorating.",
+ "evidence": [
+  {
+   "company": "Mondelez International",
+   "fact": "FY2025 net revenues $38.537B with organic growth 4.3%; volume/mix declined 3.7% despite revenue growth, showing pricing carried while category health deteriorated; management explicitly cited 'unprecedented cocoa cost headwinds' pressuring profitability."
+  },
+  {
+   "company": "Mondelez International",
+   "fact": "Q2 2026 organic net revenue growth decelerated to 2.2% (vs 4.3% FY2025) with volume/mix improved only +0.7%; management guided 2026 organic revenue to flat-to-2% (down from 4.3% achieved), signaling the pricing pass-through has reversed."
+  },
+  {
+   "company": "Mondelez International",
+   "fact": "FY2025 adjusted EPS $2.92 with free cash flow $3.2B; Q2 2026 management shifted language from 'pricing power' to 'improved volumes,' 'brand investments,' and 'structural cost savings,' evidence of margin exhaustion."
+  },
+  {
+   "company": "PepsiCo Inc.",
+   "fact": "FY2025 net revenue $93.9B; Q2 2026 management explicitly stated 'U.S. food and beverage categories moderated as consumer budgets tightened under inflation pressure,' marking the reversal from pricing-led growth to affordability focus."
+  },
+  {
+   "company": "PepsiCo Inc.",
+   "fact": "Q2 2026 total net revenue $24.2B; international organic revenue growth accelerated to 7% while North America remained under affordability pressure, showing geographic bifurcation between developed and developing markets."
+  },
+  {
+   "company": "PepsiCo Inc.",
+   "fact": "PepsiCo Q2 2026 guidance affirmed full-year 2026; company stressed 'productivity plus affordability' as the operating response, evidence that pricing power has shifted to value and cost discipline."
+  },
+  {
+   "company": "Multiple",
+   "fact": "Both Mondelez and PepsiCo filings show consumers trading down to private label and discount formats; purchase frequency declining under affordability pressure; input suppliers facing demand destruction with limited pricing power."
+  },
+  {
+   "company": "Multiple",
+   "fact": "Mondelez cocoa cost headwinds and PepsiCo commodity exposure illustrate the commodity-whiplash mechanism: companies that passed costs forward 2022-2025 now face reversal when consumers stop absorbing prices in Q2 2026."
+  }
+ ]
 }

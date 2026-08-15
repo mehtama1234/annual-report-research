@@ -1,83 +1,69 @@
 {
-  "slug": "service-labor-squeeze",
-  "trend_slug": "workers-invisible-tax",
-  "name": "The Service Sector's Quiet Squeeze",
-  "deck": "In services, companies do not automate work away — they suppress wages, rely on visa labor pools, or cap growth at what existing workforce can absorb. BrightView's H-2B dependency, Aveanna's home-care aide wages near minimum, Comfort Systems' $14B backlog constrained by technician availability — each is a structural refusal to let wages clear the market.",
-  "core_bet": "The service sector is choosing labor suppression over wage increases or automation. BrightView explicitly depends on H-2B visa workers (1,500 in fiscal 2025); Aveanna is scaling home-care delivery at wage points that would be uneconomical at market-clearing rates; Comfort Systems has a $14B backlog but cannot grow faster because skilled HVAC technician labor is not available at current wages. The pattern is consistent: demand exceeds available labor at offered wages, but companies would rather constrain growth, suppress wages, or import workers than raise compensation to market-clearing levels.",
-  "numbers": [
-    {
-      "stat": "1,500",
-      "label": "H-2B seasonal workers employed by BrightView, fiscal 2025"
-    },
-    {
-      "stat": "18,600",
-      "label": "Total BrightView employees including seasonal, Q3 FY2026"
-    },
-    {
-      "stat": "$2.67B",
-      "label": "BrightView total net service revenues, fiscal 2025"
-    },
-    {
-      "stat": "$647.9M",
-      "label": "Aveanna revenue Q1 2026 (up 15.9%)"
-    },
-    {
-      "stat": "25.2%",
-      "label": "Aveanna adjusted EBITDA growth Q1 2026"
-    },
-    {
-      "stat": "$14.06B",
-      "label": "Comfort Systems backlog Q2 2026"
-    },
-    {
-      "stat": "$3.27B",
-      "label": "Comfort Systems quarterly revenue Q2 2026"
-    },
-    {
-      "stat": "51%",
-      "label": "Comfort Systems organic revenue growth, Q1 2026"
-    }
-  ],
-  "mechanism": [
-    "BrightView shows the visa-labor strategy explicitly. The company employed 1,500 seasonal workers through the H-2B visa program in fiscal 2025 (down from 2,000 in 2024). That decline is not due to reduced labor demand — BrightView's 2026 guidance has been constructive, and landscaping remains a strong recurring service. The decline is likely due to tighter visa availability and the company potentially shifting some work to lower-wage direct hire. Either way, the company's 10-K makes clear it expects to continue relying on the H-2B program. That dependence reveals the economic logic: if BrightView had to hire seasonal landscaping workers at market-clearing wages without visa access, either the business model would be uneconomical or prices would need to rise substantially. Instead, the company is structured to depend on a wage-suppressed visa labor pool.",
-    "Aveanna shows the wage-suppression path within home care. The company scaled adjusted EBITDA 25.2% in Q1 2026 while revenue grew 15.9%, suggesting margin improvement through operational leverage. But home-care aide wages are a known constraint in the home-care industry — many operators explicitly state they pay near minimum wage because the reimbursement rates don't support higher wages. Aveanna is growing by acquiring other home-care operators and consolidating them under lower cost structures. Scaling depends on the ability to employ caregivers at current wage levels; if those wages had to rise to market-clearing rates, the business model would compress significantly.",
-    "Comfort Systems shows the growth-constraint strategy. The company has a $14B backlog at Q2 2026, up from $8.12B a year earlier. Quarterly revenue was $3.27B with 51% organic growth in Q1 2026. Yet management keeps noting that execution depends on 'growing teams' and that the company can only grow as fast as it can source and retain skilled HVAC technicians. The backlog would be larger if the company could hire more technicians; the growth constraint is pure labor availability. Rather than raise wages aggressively to pull technicians into the market, Comfort Systems is accepting lower growth, accepting that some backlog will never convert to revenue, and moving at whatever pace the existing technician pool allows."
-  ],
-  "why_now": "The service squeeze is acute now because demand growth from AI infrastructure, building automation, healthcare scaling, and commercial property maintenance is outpacing labor-supply growth. Comfort Systems' massive backlog did not emerge overnight; it resulted from sustained demand growth hitting a fixed labor pool. Immigration policy tightness makes visa-dependent models (BrightView) more precarious. Healthcare reimbursement pressures keep Aveanna from raising wages even as demand for home care escalates. Companies across all three models are simultaneously facing higher demand and lower labor supply, and they are all choosing to suppress wages, import workers, or cap growth rather than let compensation rise to market-clearing levels.",
-  "who_pays": "Home-care aides earning Aveanna wages. Landscaping workers on H-2B visas (who are cheaper to recruit internationally than paying domestic market rates). HVAC technicians and skilled trades who see wage growth lagging demand growth because companies prefer to constrain volume rather than raise wages. The final payment comes from consumers: nursing-home families paying Aveanna for home care, commercial property owners paying BrightView for landscaping, businesses paying Comfort Systems for HVAC at inflated prices due to execution scarcity. The worker pays through suppressed wages; the customer pays through higher prices; the company keeps the margin.",
-  "who_profits": "Service operators who can maintain pricing power while suppressing wages or using cheaper labor sources. Comfort Systems can raise prices on HVAC work because capacity is scarce; the company pockets the margin differential between what it charges customers and what it pays technicians. Aveanna can scale home-care delivery at reimbursement rates that don't support market-clearing wages; growth and EBITDA expansion are profitable because labor is an input with suppressed pricing. BrightView has margin because visa workers earn less than domestic labor would demand. These are not high-margin businesses by manufacturing standards, but they are capturing spread by not allowing wages to clear the market.",
-  "tension": "The fragility sits in labor availability. H-2B visa programs can be restricted or eliminated by policy. Immigration barriers can tighten. If domestic workers have alternative opportunities (if other sectors start raising wages or if automation reduces pressure on non-service employment), visa-dependent models like BrightView become unsustainable. Home-care operators like Aveanna face continuous pressure: if healthcare reimbursement doesn't rise, wages stay suppressed, and caregiver burnout accelerates. Comfort Systems could face a shock if skilled trades simply become unavailable (though that seems unlikely given aging workforce demographics). The deepest fragility is political: if society decides that service workers deserve higher wages and enforces that through policy, the cost structure of these businesses breaks.",
-  "surprising_part": "The non-obvious pattern is that these companies have rationally chosen constraint over wage competition. From a capital-allocation perspective, Comfort Systems with a $14B backlog could theoretically hire more technicians by offering higher wages — but that would compress margins more than accepting slower growth. Aveanna could expand faster if it paid home-care aides more, but reimbursement rates don't support it, so the company scales consolidation instead. BrightView relies on visa labor because paying domestic market wages would make the business uncompetitive. All three are making rational decisions within their constraints, but those decisions collectively suppress wages and limit the access to service-sector jobs at market-clearing rates. The system-level consequence is that service-sector wage growth lags broader employment growth, creating a structural tax on workers in those industries.",
-  "one_sentence": "Service companies suppress wages, import visa labor, and constrain growth rather than allowing compensation to clear labor markets, creating a hidden tax on service workers and extracting spread for operators.",
-  "societal_stake": "This pattern cascades into inequality and household economics. Workers in service sectors (landscaping, home care, technical services) are facing suppressed wage growth while demand for those services is rising. Households relying on those services see prices rising (because operators are raising customer prices while suppressing worker wages) while the workers providing the services see stagnant compensation. Immigration policy designed to restrict labor supply benefits operators like BrightView more than it protects domestic workers — instead of forcing wage increases, it just constrains growth and enables visa programs. The reimbursement crisis in home care means Aveanna and other operators can scale only by finding lower-wage workers or consolidating at lower cost, not by paying existing workers more. The aggregate effect is that service-sector employment is becoming increasingly unequal: capital owners and operators capturing spread while workers absorb wage suppression.",
-  "evidence": [
-    {
-      "company": "BrightView Holdings",
-      "fact": "Fiscal 2025: 18,600 total employees including ~1,500 H-2B seasonal workers; 10-K explicitly states expectation to continue using H-2B program for seasonal labor"
-    },
-    {
-      "company": "BrightView Holdings",
-      "fact": "Fiscal 2025: $2.67B total net service revenues; $245.5M maintenance-services adjusted EBITDA; growth constrained by labor availability"
-    },
-    {
-      "company": "Aveanna Healthcare",
-      "fact": "Q1 2026: revenue $647.9M (up 15.9%), adjusted EBITDA $84.4M (up 25.2%); $75.7M from private duty services growth alone"
-    },
-    {
-      "company": "Aveanna Healthcare",
-      "fact": "Home-care aide reimbursement rates do not support significant wage increases; scaling depends on finding lower-cost operators or consolidating at current wage levels"
-    },
-    {
-      "company": "Comfort Systems USA",
-      "fact": "Q2 2026: $14.06B backlog (up from $8.12B year earlier); $3.27B quarterly revenue; management explicitly tied growth constraint to skilled technician availability"
-    },
-    {
-      "company": "Comfort Systems USA",
-      "fact": "Q1 2026: 51% organic revenue growth; growing teams emphasized as key constraint; backlog implies unutilized demand due to labor scarcity"
-    },
-    {
-      "company": "Primoris Services",
-      "fact": "Service contractor exposed to similar skilled-labor constraints as Comfort Systems; growth tied to construction labor availability, not only demand"
-    }
-  ]
+ "slug": "service-labor-squeeze",
+ "trend_slug": "workers-invisible-tax",
+ "name": "The Service Labor Squeeze",
+ "deck": "Rather than let pay rise until enough workers show up, service companies lean on temporary-visa labor, hold wages near the floor, or simply cap growth at the size of the crew they already have. The unpaid difference is the workers' invisible tax.",
+ "core_bet": "Labor-heavy service firms are betting they can keep margins by managing around wage pressure instead of clearing it: BrightView rations seasonal work through H-2B visas, Aveanna scales home care staffed near the wage floor, and Comfort Systems lets a record backlog pile up rather than bid up scarce technicians. The market signal that pay should rise gets absorbed by the workforce instead of paid out.",
+ "numbers": [
+  {
+   "stat": "~1,500",
+   "label": "BrightView seasonal workers employed through the H-2B visa program in FY2025, down from ~2,000 in FY2024"
+  },
+  {
+   "stat": "18,600",
+   "label": "BrightView total employees at 2025-09-30 delivering $2.67B in FY2025 net service revenues"
+  },
+  {
+   "stat": "$245.5M",
+   "label": "BrightView FY2025 Maintenance segment adjusted EBITDA on $1.89B of maintenance revenue, a labor-heavy field business"
+  },
+  {
+   "stat": "$647.9M",
+   "label": "Aveanna Q1 2026 revenue, up 15.9%, driven by ~$75.7M of added private-duty home-care volume"
+  },
+  {
+   "stat": "$84.4M",
+   "label": "Aveanna Q1 2026 adjusted EBITDA, up 25.2%, on home-care aide labor priced near the wage floor"
+  },
+  {
+   "stat": "$14.06B",
+   "label": "Comfort Systems backlog at Q2 2026, up from $8.12B a year earlier, work constrained by technician availability"
+  },
+  {
+   "stat": "$3.27B",
+   "label": "Comfort Systems Q2 2026 revenue with management citing skilled-labor depth, not demand, as the bottleneck"
+  },
+  {
+   "stat": "51%",
+   "label": "Comfort Systems organic revenue growth in Q1 2026, capped by how fast it can staff skilled trades"
+  }
+ ],
+ "mechanism": [
+  "When demand for a service outruns the local labor supply, the market answer is higher pay until enough workers show up. These firms route around that instead.",
+  "BrightView satisfies seasonal peaks with H-2B temporary-visa workers (~1,500 in FY2025) rather than raising wages to attract domestic seasonal labor, keeping a labor-heavy platform profitable at $245.5M maintenance segment adjusted EBITDA.",
+  "Aveanna scales pediatric private-duty home care staffed by aides paid near minimum, growing revenue 15.9% and adjusted EBITDA 25.2% in Q1 2026 while the underlying labor stays cheap and hard to retain.",
+  "Comfort Systems lets backlog balloon to $14.06B and grows organically 51% but frames the binding constraint as skilled-trades availability, meaning demand it can't staff simply waits rather than clearing through higher wages.",
+  "In each case the gap between what labor could command in a clearing market and what it's actually paid is retained as margin, and the adjustment burden falls on the workforce."
+ ],
+ "why_now": "The 2025-2026 window makes the squeeze visible in the filings. Comfort Systems' backlog jumped from $8.12B a year earlier to $14.06B at Q2 2026 on $3.27B quarterly revenue and 51% organic growth in Q1 2026, with management repeatedly naming technician availability, not demand, as the limit. In the same period BrightView disclosed cutting H-2B seasonal workers from ~2,000 to ~1,500 while running an 18,600-person, $2.67B service platform, and Aveanna grew Q1 2026 revenue 15.9% to $647.9M on low-wage home-care labor. Demand that these firms literally cannot staff, alongside continued reliance on visa and near-floor labor, is the dated inflection.",
+ "who_pays": "The workers: H-2B seasonal laborers tied to a single employer with limited bargaining power, home-care aides paid near the minimum wage, and skilled tradespeople whose scarcity should be pushing pay far higher than it is. Customers and communities also pay in the form of work that waits, because capacity is capped at the crew a firm already has.",
+ "who_profits": "BrightView, which keeps a labor-intensive $2.67B maintenance-and-development business profitable partly on visa-mediated seasonal labor; Aveanna, which grows adjusted EBITDA 25.2% on aide wages near the floor; and Comfort Systems, whose $1.02B FY2025 net income and $14.06B backlog rest on technicians it pays less than a truly clearing market would demand.",
+ "tension": "Firms will say H-2B fills genuine seasonal gaps, home-care rates are constrained by Medicaid reimbursement, and skilled trades take years to train so wages can't fix scarcity overnight. All partly true, yet each is also a way to avoid letting compensation rise to the level the demand implies, and the workforce carries the difference.",
+ "surprising_part": "Comfort Systems' backlog more than tripled over two years to $14.06B and it is still turning down or delaying work, not because customers won't pay but because it can't find enough technicians and won't bid pay up fast enough to conjure them. In a genuinely clearing market that scarcity would be the biggest raise skilled trades have seen in a generation; instead it shows up as a growing backlog and record margins.",
+ "one_sentence": "Across landscaping, home care, and the building trades, companies are managing around a labor shortage instead of paying to end it, and the difference between what the work is worth and what the worker is paid is the invisible tax.",
+ "societal_stake": "When service firms cap growth, lean on visa labor, or hold wages near the floor rather than let pay clear the market, the productivity gains flow to margins and the adjustment cost lands on workers with the least leverage. It suppresses wages in exactly the essential, hard-to-automate jobs, keeping frontline pay disconnected from the real scarcity of the labor and quietly transferring value from workers to employers and shareholders.",
+ "evidence": [
+  {
+   "company": "BrightView",
+   "fact": "Employed ~1,500 H-2B seasonal workers in FY2025 (down from ~2,000 in FY2024) within an 18,600-person workforce generating $2.67B in net service revenues and $245.5M Maintenance segment adjusted EBITDA."
+  },
+  {
+   "company": "Aveanna",
+   "fact": "Grew Q1 2026 revenue 15.9% to $647.9M and adjusted EBITDA 25.2% to $84.4M on pediatric private-duty home care staffed by aides paid near the wage floor, adding ~$75.7M of private-duty volume."
+  },
+  {
+   "company": "Comfort Systems",
+   "fact": "Backlog reached $14.06B at Q2 2026 (up from $8.12B a year earlier) on $3.27B quarterly revenue and 51% Q1 2026 organic growth, with management naming technician availability, not demand, as the constraint."
+  }
+ ]
 }

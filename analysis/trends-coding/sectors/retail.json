@@ -1,66 +1,127 @@
 {
-  "sector": "Retail",
-  "slug": "retail",
-  "deck": "Retail in 2026 is a three-speed sector: Amazon's flywheel compounds at 20% growth, Nike fights for direct-channel relevance while wholesale rebounds, and Bath & Body Works runs a brand repair program with 40 million members who aren't buying enough.",
-  "summary": "The headline story in retail is not a recovery — it is a divergence. Amazon added $33.7B in net sales quarter over quarter to hit $200.6B in Q2 2026 alone, fueled by grocery penetration, same-day delivery exceeding 1B items year-to-date, and advertising revenue at $19.8B growing faster than Prime subscriptions. The platform compounds: faster delivery begets more purchases, which deepens merchant demand, which funds ad inventory, which subsidizes further logistics investment. No specialty retailer can match that loop.\n\nNike's situation is the inverse of what the DTC playbook promised. NIKE Direct fell 7–9% currency-neutral in Q4 2026 while wholesale rose 4–8% across recent quarters. The brand still generated $46.4B in full-year revenue and 42.9% gross margin, but Q4's 49.2% margin included a ~900bps one-time tariff-recovery benefit worth $0.52 per diluted share — strip that out and the underlying economics look far less clean. Nike is managing a channel rebalancing that is slower and messier than the original DTC narrative suggested, and the portfolio cleanup and marketplace repositioning work is ongoing execution risk rather than a finished story.\n\nBath & Body Works illustrates the trap of scale without momentum. $7.3B in annual revenue, 40 million active loyalty members, nearly 2,500 stores globally — and declining sales in three consecutive quarters. Management's Consumer First Formula is an honest admission that brand renovation, not just operational efficiency, is required. Q1 2026 net income included an $88M one-time interchange-fee settlement benefit; the adjusted earnings story was much weaker. The loyalty file is large but apparently insufficient — members are enrolled but not buying enough, and the brand is chasing cultural relevance it once had by default.",
-  "numbers": [
-    {"stat": "$200.6B", "label": "Amazon Q2 2026 net sales, up 20% YoY"},
-    {"stat": "$19.8B", "label": "Amazon advertising services revenue, Q2 2026"},
-    {"stat": "$46.8B", "label": "Amazon third-party seller services, Q2 2026"},
-    {"stat": "1B+ items", "label": "Amazon same-day or overnight deliveries in 2026 YTD as of Q1"},
-    {"stat": "$46.4B", "label": "NIKE full-year fiscal 2026 revenues"},
-    {"stat": "49.2%", "label": "NIKE Q4 2026 gross margin (includes ~900bps one-time tariff-recovery benefit)"},
-    {"stat": "-7% to -9%", "label": "NIKE Direct revenue decline in Q4 2026 (currency-neutral)"},
-    {"stat": "$7.291B", "label": "Bath & Body Works full-year 2025 net sales, down 0.2% with operating income down 11%"}
-  ],
-  "sub_trends": [
-    {
-      "name": "Platform flywheel pulling away from standalone retail",
-      "what": "Amazon's growth is not retail growth in any traditional sense — it is an ecosystem compounding delivery speed, merchant monetization, and advertising density simultaneously. Q2 2026 advertising ($19.8B) now grows faster than Prime subscriptions ($13.7B), meaning the customer relationship is generating higher-margin revenue streams beyond the nominal membership fee. Grocery and everyday essentials outgrowing discretionary signals that Amazon is converting convenience into a habitual infrastructure layer.",
-      "companies": ["Amazon.com, Inc."]
-    },
-    {
-      "name": "DTC retrenchment and wholesale rehabilitation",
-      "what": "The direct-to-consumer thesis that dominated 2020–2023 is being revised in real time. Nike's NIKE Direct has contracted for three consecutive quarters while wholesale has reaccelerated, forcing the brand to reframe channel ownership as portfolio balance rather than DTC purity. The implied lesson is that wholesale scale provides traffic and reach that direct channels cannot fully substitute, especially under macro and consumer sentiment pressure.",
-      "companies": ["NIKE Inc."]
-    },
-    {
-      "name": "Tariff distortion masking true margin trajectories",
-      "what": "Nike's Q4 2026 gross margin of 49.2% is not a clean signal — approximately 900 basis points of that came from non-recurring tariff-recovery benefits worth $0.52 in diluted EPS. Analysts and the brand itself have to strip this out to assess underlying operating health. The implication is that 2026 headline profitability in consumer goods and retail is being inflated by one-time tariff timing effects, making comparisons across periods unreliable without adjustment.",
-      "companies": ["NIKE Inc."]
-    },
-    {
-      "name": "Loyalty membership as lagging indicator, not moat",
-      "what": "Both Nike and Bath & Body Works carry large enrolled loyalty bases — BBWI with 40 million active members — and both show that membership scale is not sufficient without product relevance and cultural pull. BBWI's membership file is large and declining sales simultaneously. Nike's direct apps and loyalty ecosystem are real but have not prevented direct-channel contraction. Enrollment is a necessary but not sufficient condition for loyalty economics to deliver.",
-      "companies": ["Bath & Body Works, Inc.", "NIKE Inc."]
-    },
-    {
-      "name": "Specialty brand transformation as ongoing execution risk",
-      "what": "Bath & Body Works launched its Consumer First Formula in Q3 2025 as an explicit multi-year transformation — disruptive product, brand reignition, broader marketplace reach, operational speed. Three quarters in, net sales are still negative and reported earnings are being supported by one-time items. This is not a failure yet, but it demonstrates the execution gap between announcing a transformation and delivering the demand signal. The formula is right; the proof is still pending.",
-      "companies": ["Bath & Body Works, Inc."]
-    },
-    {
-      "name": "Physical stores as ecosystem acquisition layer, not primary P&L driver",
-      "what": "Amazon's Q1 2026 stores unit growth of 15% is being managed not as a margin story but as a consumer acquisition and frequency-building layer that feeds the broader Prime ecosystem. This is the opposite of how specialty retail thinks about stores — BBWI and Nike treat stores as revenue generators under pressure, while Amazon treats them as relationship acquisition infrastructure subsidized by AWS and advertising. The structural advantage is obvious.",
-      "companies": ["Amazon.com, Inc."]
-    }
-  ],
-  "standout_companies": [
-    {
-      "company": "Amazon.com, Inc.",
-      "why_notable": "The only retailer in this sector genuinely compounding across multiple economic layers simultaneously — $716.9B in 2025 revenue, $80B operating income, advertising growing faster than subscriptions, grocery penetrating everyday habit, and AWS providing capital to fund the consumer flywheel without merchant leverage."
-    },
-    {
-      "company": "NIKE Inc.",
-      "why_notable": "The definitive case study in channel tension at scale — $46.4B brand with direct channels contracting while wholesale rebounds, a 49.2% Q4 gross margin inflated by one-time tariff recovery, and an ongoing portfolio cleanup that shows real limits to the DTC model even for the world's most recognized athletic brand."
-    },
-    {
-      "company": "Bath & Body Works, Inc.",
-      "why_notable": "A $7.3B specialty retailer with 40 million active loyalty members and three consecutive quarters of declining sales — the clearest evidence in this sector that loyalty file size and store count cannot substitute for product leadership and cultural renewal."
-    }
-  ],
-  "tension": "The sector's deepest fault line is between relationship assets and relationship economics. Nike and Bath & Body Works have invested heavily in first-party consumer surfaces — apps, loyalty programs, owned stores — and the filings show those assets are real but insufficient on their own. Meanwhile, Amazon converts its relationship assets into multiple compounding revenue streams that no pure retail operator can match. The risk is that mid-tier and specialty retailers spend capital building direct-relationship infrastructure that produces declining engagement and sales, while the platform operator extracts the value from the same consumer without owning brand identity at all.",
-  "who_wins_who_loses": "Amazon wins structurally — its flywheel of delivery speed, merchant monetization, and advertising density is self-reinforcing and capital-efficient relative to the returns it generates. NIKE has the brand to survive channel rebalancing, but only if product innovation and marketplace repositioning actually close, which is unproven over the trailing quarters. Bath & Body Works is in the hardest position: the Consumer First Formula needs multiple years to validate, the loyalty base is enrolled but disengaged, and macro headwinds on discretionary fragrance and home care spending compound the brand work required. Retailers without platform economics, pricing power, and genuine product differentiation are the structural losers — they face Amazon's logistics density, declining traffic, and consumer willingness to defer discretionary spending all at once.",
-  "outlook": "Retail bifurcates further. Amazon continues taking frequency share in grocery and everyday replenishment while advertising compounding makes the ecosystem economics increasingly self-sustaining. Nike's recovery depends on product innovation reaccelerating demand through both direct and wholesale channels — the tariff-distorted profitability of FY2026 will normalize and the real operating trajectory will be visible in FY2027 comparisons. Bath & Body Works has a two-to-three year transformation window before the loyalty file ages further; if the Consumer First Formula drives product wins that show up in direct channel volumes and comparable store sales within the next 18 months, the reinvention is credible. If not, the brand faces structural share erosion from both platform retail and adjacent personal care competitors. The sector rewards operators with either platform density or genuine product irreplaceability; everything in between is under margin pressure.",
-  "one_sentence": "Retail in 2026 is a test of whether owning the customer relationship is enough — and the answer, across three very different companies, is clearly no."
+ "sector": "Retail",
+ "slug": "retail",
+ "deck": "Retail is fracturing into two irreducible tiers: Amazon's compounding logistics and advertising flywheel pulling $200.6B in Q2 2026 revenue, versus Nike and Bath & Body Works fighting for relevance with worn-out channel strategies and eroding membership trust. The DTC era is over; wholesale rebalancing and brand transformation are the only stories.",
+ "summary": "Retail in 2026 reveals a market fundamentally reorganized around platform density versus brand weakness. Amazon captured $200.6B in Q2 2026 net sales (up 20% YoY), with advertising services ($19.8B) growing faster than subscription revenue ($13.7B). The logistics backbone—1 billion same-day or overnight deliveries in 2026 YTD—is converting convenience into habitual infrastructure that third-party sellers and advertisers alike fund. AWS operating income ($80B annually) provides the capital to continuously subsidize Prime ecosystem expansion without debt. Nike's channel rebalancing tells a different story: NIKE Direct fell 7% (currency-neutral) in Q4 2026 while wholesale grew 4%, and the reported 49.2% gross margin includes approximately 900 basis points from non-recurring tariff-recovery benefits worth $0.52 per diluted share. Strip that out and underlying profitability is under real pressure. The direct-to-consumer thesis that dominated 2020–2023 is now openly revised as channel portfolio management rather than ownership aspiration. Bath & Body Works operates at the structural extreme: $7.3B in annual revenue, 40 million enrolled loyalty members, nearly 2,500 stores, and three consecutive quarters of declining sales. Q1 2026 net income ($249M) was lifted by $88M in one-time interchange-fee settlement benefits; adjusted operating performance was far weaker. The Consumer First Formula announced in Q3 2025 as a multi-year transformation remains unproven in the filings—membership scale and retail footprint have not halted the sales deterioration. The sector's bifurcation is not cyclical; it is structural. Operators without either platform economics or genuine product irreplaceability face simultaneous compression from Amazon's logistics density, normalized consumer traffic, and persistent macro headwinds on discretionary spending.",
+ "numbers": [
+  {
+   "stat": "$200.6B",
+   "label": "Amazon Q2 2026 net sales, up 20% YoY"
+  },
+  {
+   "stat": "$19.8B",
+   "label": "Amazon advertising services revenue Q2 2026, growing faster than subscription revenue"
+  },
+  {
+   "stat": "$13.7B",
+   "label": "Amazon subscription services revenue Q2 2026"
+  },
+  {
+   "stat": "$46.8B",
+   "label": "Amazon third-party seller services revenue Q2 2026"
+  },
+  {
+   "stat": "1B+ items",
+   "label": "Amazon same-day or overnight deliveries in 2026 YTD (as of Q1 2026)"
+  },
+  {
+   "stat": "15%",
+   "label": "Amazon stores unit growth Q1 2026, framed as ecosystem acquisition layer not profit driver"
+  },
+  {
+   "stat": "$46.4B",
+   "label": "NIKE full-year fiscal 2026 revenue"
+  },
+  {
+   "stat": "49.2%",
+   "label": "NIKE Q4 2026 gross margin (includes ~900bps one-time tariff-recovery benefit)"
+  },
+  {
+   "stat": "-7%",
+   "label": "NIKE Direct revenue decline Q4 2026 (currency-neutral)"
+  },
+  {
+   "stat": "+4%",
+   "label": "NIKE wholesale revenue growth recent quarters"
+  },
+  {
+   "stat": "$0.52",
+   "label": "NIKE Q4 2026 tariff-recovery benefit per diluted share"
+  },
+  {
+   "stat": "$7.3B",
+   "label": "Bath & Body Works full-year 2025 net sales, down 0.2% with operating income down 11%"
+  },
+  {
+   "stat": "40M",
+   "label": "Bath & Body Works active loyalty members"
+  },
+  {
+   "stat": "-3%",
+   "label": "Bath & Body Works Q1 2026 sales decline"
+  }
+ ],
+ "sub_trends": [
+  {
+   "name": "Platform flywheel pulling away from standalone retail",
+   "what": "Amazon's growth is not retail growth in any traditional sense—it is an ecosystem compounding delivery speed, merchant monetization, and advertising density simultaneously. Q2 2026 advertising ($19.8B) now grows faster than Prime subscriptions ($13.7B), meaning the customer relationship generates higher-margin revenue streams beyond nominal membership fees. Grocery and everyday essentials outgrowing discretionary signals that Amazon is converting convenience into a habitual infrastructure layer funded by third-party sellers and advertisers. AWS operating income provides capital to continuously subsidize expansion without merchant or consumer leverage.",
+   "companies": [
+    "Amazon.com, Inc."
+   ]
+  },
+  {
+   "name": "DTC retrenchment and wholesale rehabilitation",
+   "what": "The direct-to-consumer thesis that dominated 2020–2023 is being revised in real time. Nike's NIKE Direct contracted for three consecutive quarters (down 7% Q4 2026, down 4% Q3, flat reported Q4) while wholesale reaccelerated (up 4–8% recent quarters), forcing the brand to reframe channel ownership as portfolio balance rather than DTC purity. The lesson is that wholesale scale provides traffic and reach that direct channels cannot fully substitute, especially under macro and consumer sentiment pressure. DTC infrastructure investment is now sunk cost that must generate returns through blended channel economics, not ownership fantasy.",
+   "companies": [
+    "NIKE Inc."
+   ]
+  },
+  {
+   "name": "Tariff distortion masking true margin trajectories",
+   "what": "Nike's Q4 2026 gross margin of 49.2% is not a clean signal—approximately 900 basis points came from non-recurring tariff-recovery benefits worth $0.52 in diluted EPS. Stripping this out reveals underlying margin pressure and the limits of current sourcing and pricing discipline. The implication is that 2026 headline profitability in consumer goods and retail is being inflated by one-time tariff timing effects, making period-over-period comparisons unreliable without adjustment. True operating health requires adjusted metrics; headline numbers are noise.",
+   "companies": [
+    "NIKE Inc."
+   ]
+  },
+  {
+   "name": "Membership enrollment as lagging indicator, not moat",
+   "what": "Both Nike and Bath & Body Works carry large enrolled loyalty bases—BBWI with 40 million active members—and both show that membership scale is not sufficient without product relevance and cultural pull. BBWI's membership file is large and sales are declining simultaneously across three consecutive quarters. Nike's direct apps and loyalty ecosystem are real infrastructure but have not prevented direct-channel contraction. Enrollment is a necessary cost; retention and repurchase are the proof. Neither company demonstrates that membership size translates to durable competitive advantage when core product or brand narrative weakens.",
+   "companies": [
+    "Bath & Body Works, Inc.",
+    "NIKE Inc."
+   ]
+  },
+  {
+   "name": "Specialty brand transformation as ongoing execution risk",
+   "what": "Bath & Body Works launched its Consumer First Formula in Q3 2025 as an explicit multi-year transformation targeting disruptive product, brand reignition, broader marketplace reach, and operational speed. Three quarters in, net sales are still negative YoY and reported earnings are being supported by one-time items ($88M interchange-fee settlement in Q1 2026). This is not failure; it is evidence that announcing a transformation and delivering demand signal are separated by quarters or years. The formula may be right; the proof is still pending. Until comparable store sales and direct channel volumes turn positive, the transformation remains aspirational.",
+   "companies": [
+    "Bath & Body Works, Inc."
+   ]
+  },
+  {
+   "name": "Physical stores as ecosystem acquisition layer, not primary P&L driver",
+   "what": "Amazon's Q1 2026 stores unit growth of 15% is being managed not as a margin story but as a consumer acquisition and frequency-building layer that feeds the broader Prime ecosystem. This is structurally opposite to how specialty retail thinks about stores—BBWI and Nike treat stores as revenue generators under traffic and conversion pressure, while Amazon treats them as relationship acquisition infrastructure subsidized by AWS and advertising. The structural advantage is obvious: stores generate customers who generate data, orders, and advertising inventory that compound across time. Pure-play retailers cannot afford this capital deployment model.",
+   "companies": [
+    "Amazon.com, Inc."
+   ]
+  }
+ ],
+ "standout_companies": [
+  {
+   "company": "Amazon.com, Inc.",
+   "why_notable": "$200.6B in Q2 2026 revenue growing 20% YoY, with advertising services ($19.8B) expanding faster than subscription revenue. Same-day or overnight delivery surpassed 1 billion items in 2026 YTD. AWS operating income ($80B+ annually) funds consumer ecosystem expansion without merchant or subscriber leverage. The only retailer genuinely compounding across logistics, merchant monetization, and advertising simultaneously."
+  },
+  {
+   "company": "NIKE Inc.",
+   "why_notable": "$46.4B in fiscal 2026 revenue with 42.9% full-year gross margin, but Q4 2026 49.2% margin includes ~900bps of non-recurring tariff-recovery ($0.52 EPS benefit). NIKE Direct down 7% (currency-neutral) Q4 2026 while wholesale up 4%, forcing open acknowledgment that channel portfolio management replaces DTC purity. The definitive case study in how even tier-one brands face limits to direct-channel ownership."
+  },
+  {
+   "company": "Bath & Body Works, Inc.",
+   "why_notable": "$7.3B in annual revenue with 40 million active loyalty members, ~2,500 stores, and three consecutive quarters of declining sales. Q1 2026 adjusted earnings weak despite $88M one-time interchange settlement. The Consumer First Formula (launched Q3 2025) remains unproven—membership file and retail footprint have not halted sales deterioration. The clearest evidence that loyalty infrastructure alone cannot substitute for product leadership and brand cultural renewal."
+  }
+ ],
+ "tension": "The sector's deepest fault line is between relationship assets and relationship economics. Nike and Bath & Body Works have invested heavily in first-party consumer surfaces—apps, loyalty programs, owned stores—and the filings show those assets are real but insufficient on their own. Enrollment and store count do not drive growth if product innovation and brand narrative weaken. Meanwhile, Amazon converts its relationship assets into multiple compounding revenue streams (subscription, advertising, seller services) that no pure retail operator can match. Mid-tier and specialty retailers face the trap of spending capital to build direct-relationship infrastructure that produces declining engagement and sales, while the platform operator extracts structural value from the same consumer without owning brand identity at all.",
+ "who_wins_who_loses": "Amazon wins structurally. Its flywheel of delivery speed, merchant monetization, and advertising density is self-reinforcing and capital-efficient relative to returns generated. AWS funding removes capital constraints that pure retailers face. NIKE has the brand strength to survive channel rebalancing, but only if product innovation and marketplace repositioning actually close—Q4 2026 tariff-distorted profitability will normalize and the real trajectory will be visible in FY2027. The underlying trend is still unproven. Bath & Body Works is in the hardest structural position: the Consumer First Formula needs 18–24 months to validate, the loyalty base is enrolled but disengaged, and macro headwinds on discretionary fragrance and home-care spending compound the brand work required. Retailers without platform economics, pricing power, or genuine product differentiation face simultaneous compression from Amazon's logistics density, declining traffic, and consumer willingness to defer discretionary spending.",
+ "outlook": "Retail bifurcates further over the next 18–24 months. Amazon continues taking frequency share in grocery and everyday replenishment while advertising compounding makes ecosystem economics increasingly self-sustaining. Nike's recovery depends on product innovation reaccelerating demand through both direct and wholesale channels—tariff-distorted FY2026 profitability will normalize, and the real operating trajectory will be visible in FY2027 comparisons. If product and marketplace repositioning work stalls, margin expansion will not offset traffic and conversion pressure. Bath & Body Works has a two-to-three year transformation window before the loyalty file ages and competitors consolidate share. If Consumer First Formula drives product wins that show up in direct channel volumes and comparable store sales within the next 18 months, the reinvention is credible. If not, the brand faces structural share erosion from both platform retail and adjacent personal-care competitors. The sector rewards operators with either genuine platform density or authentic product irreplaceability. Everything in between is under structural margin pressure and faces execution risk with no safety net.",
+ "one_sentence": "Retail in 2026 is a three-company audit of whether owning the customer relationship is enough—and across Amazon, Nike, and Bath & Body Works, the answer is unambiguously no."
 }

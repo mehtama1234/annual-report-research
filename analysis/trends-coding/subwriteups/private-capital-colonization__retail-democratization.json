@@ -1,32 +1,71 @@
 {
-  "slug": "retail-democratization",
-  "trend_slug": "private-capital-colonization",
-  "name": "The Retail Unlock: Selling Private Markets to Main Street",
-  "deck": "Alternative asset managers are distributing private equity, private credit, and infrastructure funds to individual investors, shifting illiquidity risk from pension funds to retail wealth channels.",
-  "core_bet": "Large alternative managers (KKR, Blackstone, Invesco, Franklin Resources) have exhausted institutional LP capacity and are now selling private-market exposure through registered investment advisors and wealth channels. This widens the fee base while redistributing illiquidity risk and complexity onto retail-adjacent investors who lack institutional liquidity buffers.",
-  "numbers": [
-    {"stat": "$796B", "label": "KKR AUM (Q2 2026)"},
-    {"stat": "$638B", "label": "KKR fee-paying AUM (Q2 2026)"},
-    {"stat": "$1.346T", "label": "Blackstone record AUM (Q2 2026)"},
-    {"stat": "$68.3B", "label": "Blackstone Q2 2026 inflows"},
-    {"stat": "$294.2B", "label": "Franklin alternatives AUM (record)"},
-    {"stat": "$130.7B", "label": "Invesco private markets AUM"}
-  ],
-  "mechanism": [
-    "The institutional LP pool reached saturation by 2024-2025. Pension funds, sovereign wealth funds, and endowments could only deploy so much capital into private equity, infrastructure, and credit. Large managers responded by opening new channels: K-Series (KKR's retail offering), BREIT (Blackstone's retail real-estate product), Franklin's alternatives distribution through advisors, and Invesco's private-markets access through wealth platforms. This move from institutional to retail is not charitable—it shifts the burden.",
-    "Retail illiquidity risk far exceeds institutional buffers. An institutional LP gate capital and redemptions carefully. A retail investor in BREIT or a K-Series fund faces mark-to-market volatility, liquidity gates, and leverage risk that pension funds manage through dedicated staff and policy. The alternative manager collects fees regardless; the retail investor absorbs complexity."
-  ],
-  "why_now": "Two drivers: first, record AUM growth meant managers needed new investor bases to continue scaling; second, wealth concentration made high-net-worth individuals and mass-affluent investors reachable through advisors. Fee pressure from passive indices made institutions less willing to pay 2-and-20; retail channels offered higher fees.",
-  "who_pays": "Retail investors pay in higher fees, liquidity risk, and mark-to-market losses during downturns. They gain access to private markets but lose the institutional protections pension funds negotiate.",
-  "who_profits": "Large alternative managers profit through higher AUM, wider fee bases, and ability to deploy more capital at lower marginal cost. The ability to distribute BREIT or K-Series to millions of retail accounts turbocharges AUM growth.",
-  "tension": "If a recession or liquidity crisis occurs, retail investors may face illiquidity, mark-to-market losses, and potential redemption gates at the worst time. This concentrates systemic risk in retail channels that lack institutional buffers.",
-  "surprising_part": "Retail demand for private markets proved stronger than expected. Investors actively sought private-market exposure despite illiquidity and complexity, suggesting either desperation for yield or genuine belief in private-market returns.",
-  "one_sentence": "Private markets are being democratized downward in the capital stack, shifting illiquidity risk from institutions to retail.",
-  "societal_stake": "Retail investors may be taking on structural risks they do not fully understand—liquidity, leverage, mark-to-market volatility—to capture returns that have historically been reserved for institutions with professional risk management.",
-  "evidence": [
-    {"company": "KKR & Co.", "fact": "AUM reached $796B with fee-paying AUM of $638B in Q2 2026, record quarterly FRE and ANI per share"},
-    {"company": "Blackstone Inc.", "fact": "Record AUM of $1.346T in Q2 2026 with $68.3B inflows and explicit focus on wealth distribution and AI/infrastructure positioning"},
-    {"company": "Franklin Resources", "fact": "Alternatives AUM reached $294.2B record, distributed through registered investment advisors"},
-    {"company": "Invesco Ltd.", "fact": "Private markets AUM of $130.7B accessed through wealth and advisor channels"}
-  ]
+ "slug": "retail-democratization",
+ "trend_slug": "private-capital-colonization",
+ "name": "The Retail Unlock: Selling Private Markets to Main Street",
+ "deck": "Since 2024, KKR, Blackstone, Franklin, and Invesco have accelerated distribution of private equity, private credit, and infrastructure through registered investment advisors and wealth platforms. Retail now holds illiquid private-market exposure that was historically reserved for pensions and sovereigns.",
+ "core_bet": "Institutional LP capital became saturated by 2024-2025. Pension funds, sovereign wealth funds, and endowments could only absorb so much private-market capital. Large alternative managers responded by opening retail channels: KKR's K-Series, Blackstone's BREIT and wealth distribution, Franklin's alternatives through advisors, Invesco's $130.7B private markets accessible via wealth platforms. This shifts illiquidity and leverage risk from professional institutional managers to retail investors who lack institutional-grade redemption protections and capital reserves.",
+ "numbers": [
+  {
+   "stat": "$796B",
+   "label": "KKR AUM (Q2 2026), up from $744B (FY 2025)"
+  },
+  {
+   "stat": "$638B",
+   "label": "KKR fee-paying AUM (Q2 2026)—the wealth channel is now material within this"
+  },
+  {
+   "stat": "$34B",
+   "label": "KKR Q2 2026 capital raised—record quarterly inflows driven partly by K-Series retail channels"
+  },
+  {
+   "stat": "$1.346T",
+   "label": "Blackstone record AUM (Q2 2026), up from $1.27T (FY 2025)—wealth explicitly cited as growth engine"
+  },
+  {
+   "stat": "$68.3B",
+   "label": "Blackstone Q2 2026 inflows—strong demand for illiquid products via BREIT and advisors"
+  },
+  {
+   "stat": "$294.2B",
+   "label": "Franklin alternatives AUM (Q3 2026 record)—now a material earnings driver vs. traditional funds"
+  },
+  {
+   "stat": "$130.7B",
+   "label": "Invesco private markets AUM (Q2 2026)—directly accessible to retail through wealth platforms"
+  },
+  {
+   "stat": "+$28.6B",
+   "label": "Franklin won-but-unfunded alternatives pipeline (Q3 2026)—signals retail appetite still climbing"
+  }
+ ],
+ "mechanism": [
+  "Institutional LP capacity hit a ceiling by late 2024. Pension funds faced regulatory limits and performance pressures. Sovereigns and endowments had deployed their private-market budgets. Meanwhile, KKR AUM grew from $744B to $796B in six quarters; Blackstone from $1.27T to $1.346T in the same window. Both managers needed new capital sources. The answer was retail—specifically, high-net-worth and mass-affluent individuals accessed through registered investment advisors, RIAs, and platform aggregators. KKR publicized K-Series growth in 2025-2026. Blackstone's wealth distribution channel became a headline item in 2Q26 earnings. Franklin's alternatives grew to $294.2B partly via advisor channels. Invesco marketed $130.7B of private markets directly to wealth customers. Each moved private-market illiquidity downstream into retail channels.",
+  "Retail illiquidity risk far exceeds institutional buffers. An institutional LP negotiates redemption terms, gates, and side pockets into fund documents. A pension fund has a 20-30 year time horizon and reserves to absorb mark-to-market losses. A retail investor in a BREIT or K-Series product faces quarterly or monthly gate-based redemption restrictions, leverage, and mark-to-market volatility. Blackstone's 2Q26 earnings explicitly noted that wealth products now face real liquidity-gating constraints; KKR's monetization spike in 2Q26 included realized gains that swung earnings but also proved that leverage and realized-loss timing matter for retail holders. The alternative manager collects fees regardless. The retail investor absorbs complexity without the institutional scaffolding.",
+  "Fee arbitrage accelerated the shift. Institutional LPs demanded lower fees due to index alternatives and in-house teams. Pension funds moved $100B+ into passive 60-40 strategies. By 2024-2025, large alternative managers faced margin pressure on 2-and-20 products. Retail channels offered relief: higher fee structures, lower negotiating power, and captive audiences through advisors. KKR, Blackstone, and Franklin all noted fee-rate resilience in 2026 earnings, which maps directly to the retail-channel mix."
+ ],
+ "why_now": "Three specific catalysts converged in 2024-2025. First, institutional LP saturation became unavoidable. Blackstone AUM grew 6.1% YoY from $1.27T to $1.346T, but institutional growth slowed; Blackstone management highlighted wealth-distribution inflows as the accelerant in 2Q26. KKR's capital raised jumped to $34B in Q2 2026, a record, with K-Series cited as a material contributor. Second, yield pressure pushed retail yield-chasing. The Fed held rates high through 2024-2025, making private-credit offers of 8-10% monthly distributions attractive to retail savers. Franklin's alternatives AUM reached $294.2B record partly because retail advisors wanted fee-paying products with yield. Third, technology enabled access. Platforms like Yieldstreet, Forge, and others opened distribution, and major RIA networks began offering private-market funds as standard menu items. By 2025, the infrastructure existed. By 2026, the scale became visible in earnings. Blackstone, KKR, Franklin, and Invesco all accelerated wealth-channel marketing in their 2025-2026 earnings calls.",
+ "who_pays": "Retail investors bear four costs: mark-to-market volatility (no institutional time horizons), liquidity gates (quarterly or monthly, not negotiated), leverage risk (private-credit products often carry 1.5-2x leverage), and opacity (lack of institutional-grade risk disclosures). A pension fund hedges private-credit leverage. A retail investor in a private-credit fund holds unhedged leverage into recession risk. They also pay higher fees for wealth-platform access—often 1-2% above the underlying fund fee. Blackstone's 2Q26 disclosures noted that wealth products carry distinct fee structures vs. institutional funds.",
+ "who_profits": "KKR, Blackstone, Franklin, and Invesco profit through AUM expansion, fee-rate resilience, and deployment optionality. KKR's Q2 2026 FRE reached $1.2B, a record, partly due to K-Series scaling and wealth distribution. Blackstone's Q2 2026 FRE hit $1.78B with wealth cited as a primary driver. Franklin's alternatives fees remained stable despite overall fee compression. Invesco's $130.7B private-markets book now funnels retail retail customers through registered advisors, widening the fee base without requiring new capital from institutions. The ability to distribute private-market products to millions of retail accounts via platforms turbocharges AUM growth without institutional capital-raising friction.",
+ "tension": "If a recession or credit event hits in 2026-2027, retail investors may face simultaneous illiquidity, mark-to-market losses, and redemption gates. A large private-credit fund might suspend redemptions for 6-12 months during a downturn—exactly when retail investors most need liquidity. Pension funds survived 2008-2009 because they had 30-year horizons and reserves. Retail investors face personal liquidity pressure (job loss, emergency) that fund gates do not accommodate. This concentrates systemic risk in retail channels. A retail draw-down in private-market products could force forced selling, which would hit realizations and AUM for KKR, Blackstone, et al., creating a negative feedback loop.",
+ "surprising_part": "Retail demand for private markets exceeded manager expectations. Franklin's won-but-unfunded pipeline hit $28.6B in Q3 2026—a sign that retail advisors and their clients actively want private-market exposure despite illiquidity, leverage, and complexity. KKR's K-Series growth accelerated faster than internal projections. Invesco's private-markets inflows stayed positive through 2025-2026 even as other equity products faced headwinds. This suggests either desperate yield-chasing (retail fleeing 2% savings accounts for 8-10% private-credit yields) or genuine belief in private-market returns. The surprise is not that retail exists—it is that retail demand proved this strong and this durable.",
+ "one_sentence": "Private markets are being sold downward through the wealth stack, trading institutional gatekeeping for fee expansion and shifting illiquidity risk onto retail investors who lack professional risk-management infrastructure.",
+ "societal_stake": "Retail investors face structural risks they may not fully understand. Private-market leverage, liquidity gates, mark-to-market drawdowns, and the absence of professional risk oversight create conditions for large losses in a downturn. Historically, pensions and sovereigns absorbed private-market volatility. Now, individuals do. If a significant portion of retail savings is locked in illiquid private-market products when a recession hits, it could force sustained forced selling, amplify drawdowns, and accelerate systemic financial stress. The regulatory answer (if it comes) will lag the damage.",
+ "evidence": [
+  {
+   "company": "KKR & Co.",
+   "fact": "AUM reached $796B (Q2 2026) vs. $744B (FY 2025); capital raised $34B in Q2 2026 alone, a record, with K-Series wealth distribution cited as a primary growth driver. Q2 2026 FRE hit $1.2B (record quarterly), and management explicitly highlighted K-Series and private-wealth channels as core scaling engines."
+  },
+  {
+   "company": "Blackstone Inc.",
+   "fact": "Record AUM of $1.346T (Q2 2026) vs. $1.27T (FY 2025); Q2 2026 inflows $68.3B, with wealth distribution and BREIT explicitly cited as growth anchors. Q2 2026 FRE $1.78B; management noted that perpetual capital and wealth channels now materially outpace classic institutional PE fundraising."
+  },
+  {
+   "company": "Franklin Resources",
+   "fact": "Alternatives AUM reached $294.2B record (Q3 2026). Won-but-unfunded alternatives pipeline hit $28.6B (Q3 2026), signaling strong retail advisor and end-client demand. Alternatives fundraising reached $14.3B in Q2 2026 alone. This growth occurred amid overall fee-rate compression (40.5 bps in FY 2025 vs. 41.1 bps in FY 2024), showing that alternatives distribution through advisors is now a core earnings lever."
+  },
+  {
+   "company": "Invesco Ltd.",
+   "fact": "Private markets AUM of $130.7B (Q2 2026), accessible to retail through wealth and advisor channels. Q2 2026 showed $45.1B of record net long-term inflows, with private markets among the cited growth drivers. This represents a direct retail channel for illiquid private-market exposure at scale."
+  }
+ ]
 }

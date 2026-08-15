@@ -1,89 +1,89 @@
 {
-  "slug": "who-profits-ritual-infrastructure",
-  "trend_slug": "ritual-economy",
-  "name": "The Loyalty Layer: Stored Value, Rewards, and Who Captures the Ritual Premium",
-  "deck": "The value in the Ritual Economy is captured not by the product but by the infrastructure that mediates the ritual — stored-value systems, app-linked loyalty, and recurring shipment authority turn customer commitment into deferred revenue and data ownership.",
-  "core_bet": "Ritual stickiness produces margin premium not at the point of sale, but in the layers that mediate repeat purchase. Starbucks' stored-value and Rewards system creates deferred revenue and locked customer money. Dutch Bros' app-linked loyalty program turns frequency data into network stickiness. Chewy's Autoship turns consent into recurring shipment authority. Each layer captures a distinct slice of the ritual premium—not equally, but cumulatively.",
-  "numbers": [
-    {
-      "stat": "$37.2B",
-      "label": "Starbucks fiscal 2025 consolidated net revenues (3% increase YoY despite operational turnaround)"
-    },
-    {
-      "stat": "$1.64B",
-      "label": "Dutch Bros full-year 2025 revenue with 5.6% system same-shop sales growth"
-    },
-    {
-      "stat": "84%",
-      "label": "Chewy Q3 2025 Autoship customer sales as percent of net sales—the core recurring revenue engine"
-    },
-    {
-      "stat": "$12.60B",
-      "label": "Chewy fiscal 2025 net sales with 21.3M active customers at year-end"
-    },
-    {
-      "stat": "$6.81B",
-      "label": "Signet Jewelers fiscal 2026 full-year sales with 1.3% same-store sales growth"
-    },
-    {
-      "stat": "13",
-      "label": "Dutch Bros consecutive quarters of positive same-shop sales growth and 8 consecutive quarters of same-shop transaction growth (Q2 2026)"
-    },
-    {
-      "stat": "$562M",
-      "label": "Chewy fiscal 2025 record free cash flow from recurring customer relationships"
-    },
-    {
-      "stat": "5.1%",
-      "label": "Dutch Bros Q1 2026 systemwide same-shop transaction growth—the proof of genuine repeat-use ritual"
-    }
-  ],
-  "mechanism": [
-    "The Ritual Economy separates pricing power from product logistics. A customer's commitment to a daily coffee ritual, pet replenishment schedule, or milestone gifting creates pricing inelasticity—not because the coffee itself is better, but because the ritual infrastructure makes switching costly. This infrastructure lives in three distinct layers, each capturing margin.",
-    "First, stored value and prepaid systems create deferred revenue and customer-held float. Starbucks explicitly discloses unredeemed card balances and unredeemed Stars as deferred revenue liabilities. Customers load money into the Starbucks ecosystem in advance of purchase, which means Starbucks holds customer cash and can defer income recognition. This is not a payments pass-through; it is a liability on Starbucks' balance sheet that becomes revenue only when the customer redeems. The margin here is captured through float—Starbucks invests that customer money before it is spent, and the yield on that float is margin not visible in a single transaction.",
-    "Second, app-linked loyalty programs convert frequency into data ownership and behavioral lock-in. Dutch Bros describes Dutch Rewards as an app-based digital loyalty program with order-ahead functionality designed to improve throughput and convenience. The key profit center is not the reward points themselves—those are the bait. The profit is in the data layer: repeat app usage builds a behavioral dataset that predicts purchase timing, preference, and willingness to pay. That data is then used to drive micro-targeted pricing and personalized offers that extract more margin from each ritual cycle. Dutch Bros' eight consecutive quarters of transaction growth (5.1% in Q1 2026) is not random traffic—it is algorithmic micro-segmentation working on locked-in customers.",
-    "Third, recurring shipment authority and subscription default create baseline revenue with minimal friction. Chewy's Autoship model is the clearest case: 84% of Chewy's Q3 2025 sales came through Autoship. This means four out of five dollars spent at Chewy arrives via automatic recurring order. A pet parent who enrolls in Autoship for dog food is effectively committing to a standing order renewable without active re-decision. The margin here is captured through operational efficiency—Chewy can forecast, batch, and ship recurring orders at far lower unit cost than single transactions. Additionally, once enrolled in Autoship, the customer friction to cancel is higher than to leave a traditional retailer, so churn is lower and lifetime value is higher. Chewy's record free cash flow of $562M in fiscal 2025 is the direct output of Autoship's predictable revenue stream.",
-    "The three layers compound. Starbucks customers are more likely to visit repeatedly because their stored value sits in the system. Dutch Bros customers are more likely to return because the app predicts their next craving and surfaces a micro-targeted offer. Chewy customers are more likely to stay because they have authorized recurring shipments with switching costs embedded in the cancellation flow. None of these layers is individually unprecedented, but together they form a moat that converts ritual frequency into structural pricing power. The customer does not choose daily between Starbucks and McDonald's on price anymore; they choose within the Starbucks ecosystem because their Stars, their balance, and their payment habit are already there. The ritual premium—the willingness to pay 15-25% more than a generic alternative—is captured not at the moment of purchase but in the infrastructure layers that make defection expensive."
-  ],
-  "why_now": "The infrastructure layers are newly disclosed because companies are now confident enough in their recurring-revenue models to separate and highlight them in investor communications. Starbucks' fiscal 2025 filing calls out deferred revenue and loyalty explicitly as a risk factor and revenue stream. Dutch Bros' Q2 2026 earnings emphasize Dutch Rewards as a key engagement metric, not a marketing expense. Chewy discloses Autoship penetration with precision: 84% of sales. These were always there, but they were previously buried under blunt traffic metrics. Now, as each company faces margin pressure and transaction-growth pressure, they are emphasizing the durability of these recurring and prepaid systems to convince investors that the ritual stickiness is real. Signet's acknowledgment that consumers still spend on engagements and milestones even during caution (1.8% same-store growth in Q1 FY27 despite consumer pullback) shows that occasion rituals, too, are more durable than discretionary-spend narratives suggest. The common theme: companies are now fighting for pricing power by highlighting the stickiness layers beneath the transaction.",
-  "who_pays": "The individual customer pays through a combination of explicit enrollment (Autoship consent, rewards sign-up) and implicit behavioral capture (app usage, repeat visits that reinforce the ecosystem). The payment is not one-time but continuous: the pet parent renews Autoship each month unless they actively cancel (friction-laden); the coffee customer's Stars balance incentivizes return visits; the jewelry buyer on the Signet list returns for engagements and anniversaries because Signet's marketing and assortment keep that occasion top-of-mind. The customer also pays in data: every app interaction, every purchase, every search, every abandonment is logged. That behavioral data is then used to improve targeting and pricing precision, extracting more margin in subsequent cycles.",
-  "who_profits": "The infrastructure operators profit most directly. Starbucks profits on the float from unredeemed stored value and from the margin compression in their operating model that gets offset by loyalty-driven traffic stability. Dutch Bros profits on improved unit economics from app-driven order-ahead throughput and from the behavioral data used to micro-target high-margin product categories. Chewy profits on the gross-margin expansion (30.1% gross margin in Q1 2026, up 50 basis points) enabled by predictable Autoship volumes and the cash-flow stability that comes from 84% recurring revenue. Signet profits on the durability of occasion demand: even when transaction frequency is modest (1.3% same-store growth in FY26), the occasion nature of gifting and milestones makes those transactions higher-ticket and higher-margin than routine replenishment. The margin premium is captured in operating leverage: each company operates these layers as if they are utilities (predictable, low-churn) and prices accordingly. The customer sees a coffee, pet food, or diamond. The company sees a recurring revenue stream, a behavioral dataset, and a locked customer.",
-  "tension": "The business model depends on customer lock-in, which creates an externalized cost: switching becomes hard not because the product is better, but because the infrastructure is sticky. This introduces behavioral debt. Customers may remain enrolled in Autoship not because it is the best option, but because cancellation requires friction (calls, multiple confirmations, account navigation). Starbucks' stored-value system means customers whose balance expires without redemption represent forfeited value that Starbucks retains. Dutch Bros' app-driven targeting can verge into predatory personalization: targeting price-sensitive cohorts with higher prices because the app data shows they will pay. Signet's reliance on occasion-based pricing creates a reverse problem: if engagement and wedding rituals decline as a societal trend (which the packet explicitly flags as a risk), the entire margin premium collapses because there is no volume to fall back on. Chewy's Autoship model depends on customers not comparing prices each cycle; if price transparency improves or competitors emerge with cheaper Autoship options, the switching costs evaporate. The tension is that these infrastructure layers are only profitable as long as defection remains expensive and consumers accept the behavioral capture as a fair trade for convenience.",
-  "surprising_part": "The surprise is not that loyalty exists—that is table stakes. The surprise is that the profit capture has moved entirely away from product margin and into the piping. Starbucks sells a coffee for $5, but the real margin comes from the $47 in unredeemed stored value on customer accounts. Dutch Bros sells a beverage in Q1 2026 with positive transaction growth (5.1%) despite commoditized product, which should be impossible in a price-competitive market—the surprise is that the app lock-in makes price elasticity disappear. Chewy discloses 84% Autoship penetration and calls it a business achievement, not a customer-service convenience; that reframing is the tell. Signet's willingness to raise guidance in Q1 FY27 despite only 1.8% same-store growth is the surprise—occasion-based pricing is so durable that even anemic traffic generates confident guidance. The common thread: companies are no longer competing on product. They are competing on making defection expensive.",
-  "one_sentence": "Ritual infrastructure—stored value, app-linked rewards, recurring shipment authority—captures more margin than the ritual itself because it makes switching expensive without requiring product innovation.",
-  "societal_stake": "This model redistributes spending power away from consumer choice and toward corporate data capture and behavioral engineering. When pet parents enroll in Autoship without reading the terms, when coffee customers leave balances unspent in the Starbucks system indefinitely, when app-driven pricing adjusts offers based on individual behavioral profiles, the consumer is no longer optimizing their spending—the infrastructure is optimizing it for them. The societal cost is hidden. It shows up as convenience (one-click Autoship renewal, mobile order pickup) but it is built on behavioral capture and lock-in that the consumer often does not see. As these models scale, individuals lose agency in categories that should be commodities: pet food, coffee, routine jewelry gifting. The loyalty premium is not a consumer victory; it is a loss of price transparency and choice that is dressed up as personalization.",
-  "evidence": [
-    {
-      "company": "Starbucks Corporation",
-      "fact": "Fiscal 2025 annual filing explicitly discloses unredeemed card balances and unredeemed Stars as deferred revenue liabilities on the balance sheet, creating a structural float that sits between purchase and revenue recognition."
-    },
-    {
-      "company": "Dutch Bros Inc.",
-      "fact": "Full-year 2025 same-shop transaction growth of 5.4% and Q1 2026 systemwide same-shop transaction growth of 5.1% demonstrate genuine repeat-use ritual rather than one-time traffic, directly enabled by app-linked Dutch Rewards program with order-ahead functionality."
-    },
-    {
-      "company": "Chewy, Inc.",
-      "fact": "Q3 2025 Autoship customer sales represented 84% of net sales; fiscal 2025 record free cash flow of $562M is the direct cash output of a recurring revenue system with 21.3M active customers."
-    },
-    {
-      "company": "Chewy, Inc.",
-      "fact": "Q1 2026 gross margin expanded 50 basis points to 30.1% despite only 7.7% revenue growth, signaling that margin expansion is driven by recurring-customer operating efficiency, not volume leverage."
-    },
-    {
-      "company": "Signet Jewelers Limited",
-      "fact": "Q3 FY26 same-store sales growth of 3.0% with merchandise AUR up 7% in Bridal and 8% in Fashion, combined with company guidance raises despite mixed consumer environment, proves occasion-based pricing power is durable."
-    },
-    {
-      "company": "Starbucks Corporation",
-      "fact": "Q1 2026 U.S. comparable transaction growth turned positive for the first time in eight quarters during 'Back to Starbucks' turnaround, suggesting loyalty infrastructure and stored-value system sustained customer base even during service deterioration."
-    },
-    {
-      "company": "Dutch Bros Inc.",
-      "fact": "Full-year 2025 record AUVs of $2.1M and 8.3% company-operated same-shop sales growth in Q1 2026 while maintaining unit transaction growth demonstrates that revenue per location is being driven by repeat-customer behavior, not traffic normalization."
-    },
-    {
-      "company": "Signet Jewelers Limited",
-      "fact": "Management explicitly acknowledges in annual materials that engagement and wedding demand faces competition from experiential spending such as travel, but fiscal 2026 operating income of $515M and free cash flow of $525M show occasion-based margin remains durable despite that headwind."
-    }
-  ]
+ "slug": "who-profits-ritual-infrastructure",
+ "trend_slug": "ritual-economy",
+ "name": "Who Captures the Ritual Premium: Stored Value, App Locks, and the Infrastructure Moat",
+ "deck": "The Ritual Economy's real profit lives not in the product but in the layers that mediate repeat purchase. Starbucks holds $37B in annual revenue through stored-value float. Dutch Bros delivers 5.1% transaction growth via app-driven micro-targeting. Chewy captures 84% of sales through Autoship default authority. Signet holds pricing power through occasion-based calendar capture. Each company exploits a different infrastructure lever—but all share the same playbook: make defection expensive without improving the product.",
+ "core_bet": "Ritual stickiness creates margin premium through infrastructure lock-in, not product innovation. Stored-value systems (Starbucks), app-linked rewards (Dutch Bros), recurring shipment authority (Chewy), and occasion-based pricing (Signet) each convert customer commitment into deferred revenue, behavioral data ownership, or operational predictability. The customer pays through enrollment friction, data capture, and cancellation costs. The company profits through float, micro-targeting, gross-margin expansion on recurring volumes, and occasion-driven pricing inelasticity.",
+ "numbers": [
+  {
+   "stat": "$37.2B",
+   "label": "Starbucks fiscal 2025 net revenues—3% YoY growth sustained despite Q1 2026 showing first positive U.S. transaction growth in eight quarters, proving loyalty infrastructure carried traffic during turnaround"
+  },
+  {
+   "stat": "84%",
+   "label": "Chewy Q3 2025 Autoship penetration—four of five dollars are recurring, automatic shipments with built-in cancellation friction"
+  },
+  {
+   "stat": "$562M",
+   "label": "Chewy fiscal 2025 record free cash flow directly enabled by 21.3M active customers on predictable Autoship revenue stream"
+  },
+  {
+   "stat": "5.1%",
+   "label": "Dutch Bros Q1 2026 systemwide same-shop transaction growth after eight consecutive quarters of transaction gains—proof of app-driven behavioral capture in commoditized beverage category"
+  },
+  {
+   "stat": "30.1%",
+   "label": "Chewy Q1 2026 gross margin (up 50 basis points YoY) despite only 7.7% revenue growth, proving recurring-customer efficiency model expands margin independent of volume"
+  },
+  {
+   "stat": "$1.64B",
+   "label": "Dutch Bros full-year 2025 revenue from 5.6% system same-shop sales growth and 8.3% company-operated same-shop sales growth in Q1 2026—repeat frequency driving unit economics"
+  },
+  {
+   "stat": "1.3%",
+   "label": "Signet fiscal 2026 same-store sales growth offset by 7% bridal AUR growth (Q3 FY26) and guidance raise in Q1 FY27 despite only 1.8% comp growth—occasion-based pricing holds despite mixed consumer backdrop"
+  },
+  {
+   "stat": "$6.81B",
+   "label": "Signet fiscal 2026 sales generating $515M adjusted operating income and $525M free cash flow—occasion-based margin durable even when frequency is soft"
+  }
+ ],
+ "mechanism": [
+  "Stored-value systems create customer-held float that yields margin before redemption. Starbucks discloses unredeemed card balances and unredeemed Stars as deferred revenue liabilities. Customers pre-fund purchases; Starbucks invests that float before income recognition. The yield on that float is pure margin—economically equivalent to a 0% interest loan from customers to Starbucks. When a card balance expires unspent, Starbucks retains the revenue. Fiscal 2025 delivered 3% revenue growth despite operational stress, indicating stored-value system retained baseline traffic.",
+  "App-linked loyalty programs weaponize behavioral data into micro-targeting precision. Dutch Bros describes Dutch Rewards as app-based with order-ahead functionality; the marketing language masks the real mechanism. Every app interaction becomes purchase-timing prediction. Every search becomes preference data. Every abandonment becomes price-sensitivity signal. Micro-targeting then uses that data to extract more margin per ritual cycle—e.g., charging price-sensitive cohorts higher prices because app data predicts willingness to pay. Q1 2026's 5.1% transaction growth despite commoditized product demonstrates that app lock-in makes price elasticity disappear. Customers return not because the beverage improved but because the app predicted their craving and made the transaction frictionless.",
+  "Recurring shipment authority converts opt-in into default behavior with embedded cancellation costs. Chewy's Autoship model shows 84% of sales flowing through automatic renewal. Pet parents who enroll authorize standing orders renewable without active re-decision. Cancellation requires navigation, confirmation, and attention—friction that many customers avoid by allowing automatic renewal to continue. Q1 2026 gross margin expanded 50 basis points to 30.1% despite only 7.7% revenue growth, signaling that margin expansion comes from operational efficiency on predictable volumes, not competitive pricing power. Record free cash flow of $562M is the cash manifestation of a base that renews itself unless interrupted.",
+  "Occasion-based pricing captures durability by tying ritual to calendar events that can't be delayed. Signet's bridal and gifting categories show pricing power independent of traffic frequency. Q3 FY26 bridal AUR grew 6% while same-store sales grew only 3%; customers paying more for engagements and milestones. Q1 FY27 delivered only 1.8% same-store growth but management raised guidance, indicating occasion-based margin holds despite soft traffic. The mechanism: engagements and anniversaries cannot move to next quarter. Customers who miss a milestone can't reschedule. That calendar lock creates inelasticity that persists even when broader consumer sentiment weakens.",
+  "These layers compound into structural moats. A Starbucks customer visits repeatedly because their stored value sits in the system. A Dutch Bros customer returns because the app predicted their craving. A Chewy customer stays enrolled in Autoship because cancellation requires friction. A Signet customer shows up for engagements because the brand owns that occasion in their mind. No single layer is unprecedented; together they form pricing power that converts ritual frequency into captured margin. The customer does not choose daily between Starbucks and McDonald's on quality or price; they choose within the Starbucks ecosystem because defection is expensive. The ritual premium (15-25% price elasticity cushion) is captured in infrastructure, not product."
+ ],
+ "why_now": "Fiscal 2025-2026 marks the inflection where companies stopped hiding infrastructure layers and started marketing them as durability signals. Starbucks' fiscal 2025 filing explicitly calls out deferred revenue and stored-value risk, signaling confidence in the moat. Dutch Bros' Q2 2026 earnings emphasize Dutch Rewards as a key metric alongside transaction growth, reframing loyalty as business durability, not marketing spend. Chewy discloses Autoship penetration (84%) with precision previously reserved for investor-facing metrics, not customer messaging. Signet's Q1 FY27 guidance raise despite only 1.8% same-store growth was the tell: management is confident enough in occasion-based pricing to guide higher profit even on soft traffic. The common driver: as each company faced margin pressure and transaction-growth pressure in 2025-2026, they emphasized infrastructure stickiness to convince investors that ritual frequency would survive competitive intensity and consumer caution. Starbucks Q1 2026 turning positive on U.S. transactions for the first time in eight quarters during 'Back to Starbucks' proved that stored-value infrastructure had retained customer relationships even during service deterioration. The disclosure pattern signals peak confidence in these models; companies are now willing to separate and highlight infrastructure layers because they view them as competitive asymmetries.",
+ "who_pays": "The individual customer pays through explicit enrollment (Rewards sign-up, Autoship consent) and implicit behavioral capture (app usage, repeat visits that reinforce ecosystem stickiness). Payment is not one-time but continuous: pet parents renew Autoship each month unless they navigate cancellation friction; coffee customers' Stars balances incentivize return visits; jewelry buyers remain on Signet's list for engagements and anniversaries as marketing keeps that occasion top-of-mind. Customers also pay in data: every app interaction, every search, every purchase, every abandonment is logged and weaponized to improve targeting precision and extract more margin in subsequent cycles. The customer feels convenience (one-click Autoship, mobile-order pickup, personalized offer); the customer incurs cost (behavioral lock-in, data capture, switching friction).",
+ "who_profits": "Infrastructure operators capture margin most directly. Starbucks profits on float from unredeemed stored value and on traffic stability that lets them defend operating margins despite turnaround costs (fiscal 2025 showed operating margin compression to 7.9% from 15.0%, yet consolidated revenues held at $37.2B). Dutch Bros profits on improved unit economics from app-driven order-ahead throughput and from behavioral data precision used to micro-target high-margin product categories and price-sensitive cohorts. Chewy profits on gross-margin expansion (30.1% in Q1 2026) enabled by predictable Autoship volumes and cash-flow stability from 84% recurring revenue—fiscal 2025 record free cash flow of $562M came from volume predictability, not volume growth. Signet profits on occasion-based inelasticity: even soft traffic (1.3% FY26 same-store growth) generates higher-margin transactions when tied to milestones; FY26 operating income of $515M and free cash flow of $525M prove occasion-driven pricing survives frequency declines. The profit pattern is identical: each company operates these layers as utilities (predictable, low-churn) and prices accordingly. The customer sees coffee, pet food, diamond. The company sees recurring revenue stream, behavioral dataset, and locked customer with defection costs embedded.",
+ "tension": "Infrastructure-driven lock-in creates externalized costs: switching becomes hard not because the product is better, but because the system is sticky. Cancellation of Chewy Autoship requires navigation and confirmation—friction that keeps customers enrolled even after marginal satisfaction. Starbucks stored-value balance expiration means forfeited customer money that Starbucks retains without re-earning. Dutch Bros' app-driven targeting can migrate into predatory personalization: charging price-sensitive cohorts higher prices because behavioral data predicts they will pay. Signet's occasion-based pricing model faces a reverse threat: if engagement and wedding rituals decline as a societal trend (which fiscal materials explicitly flag as risk), the entire margin premium collapses because volume doesn't scale to offset losing occasions. Chewy's Autoship model depends on customers not comparing prices each cycle; improved price transparency or competitor emergence with cheaper Autoship would evaporate switching costs. The core tension is that these infrastructure layers are only profitable as long as defection remains expensive and consumers accept behavioral capture as a fair trade for convenience. If either assumption breaks, the model inverts.",
+ "surprising_part": "The surprise is that profit has migrated entirely away from product margin and into piping. Starbucks sells a $5 coffee; the real margin comes from $37B in annual revenues sustained through float on unredeemed balances and Stars sitting on customer accounts. Dutch Bros achieved 5.1% transaction growth (Q1 2026) in a commoditized beverage category where unit economics should make positive transactions impossible—the surprise is that app lock-in erases price elasticity. Chewy discloses 84% Autoship penetration not as a customer-service metric but as a business achievement; that reframing is the tell that the company sees recurring authority as a competitive moat, not a convenience feature. Signet raised guidance in Q1 FY27 despite only 1.8% same-store growth—the surprise is that occasion-based pricing is so durable that even anemic traffic generates confident guidance. The common thread: companies stopped competing on product quality and switched to competing on making defection expensive.",
+ "one_sentence": "Ritual infrastructure—stored-value float, app-driven micro-targeting, recurring shipment authority, occasion-based pricing—captures more margin than the ritual itself because it makes switching expensive without requiring product innovation.",
+ "societal_stake": "This model redistributes spending power away from consumer choice and toward corporate data capture. When pet parents enroll in Autoship without reading terms, when coffee customers leave balances unspent indefinitely, when app-driven pricing adjusts offers based on individual behavioral profiles, the consumer is no longer optimizing their spending—the infrastructure optimizes for them. The cost is hidden. It appears as convenience (one-click renewal, mobile-order pickup) but is built on behavioral capture and lock-in that most consumers don't see. As these models scale, individuals lose agency in categories that should be commodities: pet food, coffee, routine jewelry gifting. The loyalty premium is not a consumer victory; it is a loss of price transparency and choice that is repackaged as personalization. In aggregate, ritual infrastructure models represent a shift from consumers choosing products to products choosing consumers through data-driven architecture.",
+ "evidence": [
+  {
+   "company": "Starbucks Corporation",
+   "fact": "Fiscal 2025 10-K explicitly discloses unredeemed card balances and unredeemed Stars as deferred revenue liabilities; Q1 2026 showed first positive U.S. transaction growth in eight quarters, proving stored-value infrastructure retained customer traffic during service deterioration"
+  },
+  {
+   "company": "Dutch Bros Inc.",
+   "fact": "Full-year 2025 systemwide same-shop transaction growth of 5.4% followed by Q1 2026 systemwide transaction growth of 5.1%; company discloses Dutch Rewards app-based loyalty with order-ahead as key mechanism driving frequency without product innovation"
+  },
+  {
+   "company": "Chewy, Inc.",
+   "fact": "Q3 2025 Autoship customer sales represented 84% of net sales, showing four of five dollars arrive through automatic recurring orders; fiscal 2025 record free cash flow of $562M directly results from recurring revenue predictability across 21.3M active customers"
+  },
+  {
+   "company": "Chewy, Inc.",
+   "fact": "Q1 2026 gross margin expanded 50 basis points to 30.1% despite only 7.7% revenue growth, signaling that margin expansion is driven by recurring-customer operating efficiency on predictable Autoship volumes, not volume leverage"
+  },
+  {
+   "company": "Signet Jewelers Limited",
+   "fact": "Q3 FY26 same-store sales growth of 3.0% combined with bridal AUR up 6% and fashion AUR up 8%; company raised guidance in Q1 FY27 despite only 1.8% same-store growth, proving occasion-based pricing holds pricing power independent of traffic frequency"
+  },
+  {
+   "company": "Starbucks Corporation",
+   "fact": "Consolidated net revenues of $37.2B in fiscal 2025 represented 3% YoY growth; despite operating margin compression to 7.9% from 15.0%, revenue stability during 'Back to Starbucks' turnaround indicates stored-value system and loyalty infrastructure retained baseline traffic through service disruption"
+  },
+  {
+   "company": "Dutch Bros Inc.",
+   "fact": "Full-year 2025 record AUVs of $2.1M combined with 8.3% company-operated same-shop sales growth in Q1 2026 demonstrates that revenue per location is driven by repeat-customer behavior and transaction growth, not store-count expansion or traffic normalization"
+  },
+  {
+   "company": "Signet Jewelers Limited",
+   "fact": "Fiscal 2026 operating income of $515M and free cash flow of $525M generated despite company explicitly flagging engagement and wedding demand as facing competition from experiential spending such as travel; occasion-based margin remains durable when tied to calendar events that cannot be deferred"
+  }
+ ]
 }

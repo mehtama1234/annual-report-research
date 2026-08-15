@@ -1,36 +1,79 @@
 {
-  "slug": "mines-without-miners",
-  "trend_slug": "workers-invisible-tax",
-  "name": "Mines Without Miners",
-  "deck": "Automation in mining has already arrived—49% of potash is mined by machines, copper is being extracted by autonomous methods—and the towns built around these mines have no retraining infrastructure.",
-  "core_bet": "Nutrien mines 49% of its potash tonnes with automated equipment and calls it a competitive advantage. Freeport-McMoRan's scale relies on digitized mine planning and execution. Mosaic idles phosphate capacity rather than employ workers at uneconomic rates. The mining industry is not debating whether automation will happen—it has happened. Communities dependent on these mines have no equivalent retraining or economic transition plan.",
-  "numbers": [
-    {"stat": "49%", "label": "Nutrien potash mined by automation (2025)"},
-    {"stat": "$2.43B", "label": "Nutrien adjusted EBITDA (Q2 2026, record)"},
-    {"stat": "$2.53", "label": "Nutrien diluted EPS (Q2 2026)"},
-    {"stat": "786M lbs", "label": "Freeport copper production (Q2 2026)"},
-    {"stat": "$6.17/lb", "label": "Freeport realized copper price (Q2 2026)"},
-    {"stat": "1.4M tonnes", "label": "Mosaic phosphate sales volumes (Q2 2026)"},
-    {"stat": "$407M", "label": "Mosaic adjusted EBITDA (Q2 2026)"}
-  ],
-  "mechanism": [
-    "Automation in mining is not incremental or future-facing—it is the operating model today. Nutrien explicitly states that 49% of potash ore tonnes were mined using automated equipment in 2025, calling it a 'competitive advantage.' This is not a pilot. It is production at scale. Freeport's quarterly reports describe 'digitized mine planning,' automated drilling, and autonomous haul systems. These are not experimental. They are how the company operates. Mosaic idles phosphate production capacity when it cannot operate profitably—not because demand disappeared, but because the operating costs (even automated) exceed the price. That idle capacity represents labor that will never be hired back.",
-    "The economics are unambiguous: automation is cheaper than employment. A potash mine running at 49% automation produces more tonnage per headcount than a purely manual operation. A copper mine with autonomous haul systems operates 24/7 without shift rotation or break costs. Even Mosaic, under margin pressure, finds idling capacity preferable to operating at labor costs that exceed revenue. No company will voluntarily re-humanize a process they have already automated unless forced by regulation or labor action.",
-    "The towns built around these mines face irreversible shock. Mining operations typically employ hundreds or thousands of workers per location. Automation reduces that to dozens. Retraining programs cannot absorb 500 laid-off miners into 30 new roles per facility. These communities lack diversified economic bases. They were built to serve mines. As mines automate, they become ghost towns without a transition path."
-  ],
-  "why_now": "Three factors accelerated automation timing. First, AI and robotics improved enough by 2023-2024 to be economically viable at scale. Second, labor costs rose materially as mining regions faced talent shortages (skilled workers could not be retained at former wage levels). Third, commodity prices (copper, potash, phosphate) remained supportive enough to justify capex investment in automation despite softer demand. The convergence made automation irresistible.",
-  "who_pays": "Workers in mining communities pay through job loss, wage suppression, and forced relocation. Families pay through community collapse and lost stability. Governments pay through unemployment benefits, social services, and tax-base erosion as working-age populations leave affected regions.",
-  "who_profits": "Mining companies profit through lower labor costs, higher productivity, and reduced operational friction. Shareholders of miners profit through cost reduction that flows directly to earnings. Equipment manufacturers (automation vendors) profit through sales of drilling, haul, and processing systems.",
-  "tension": "Automation increases productivity but creates concentrated local job loss. Mining companies have no incentive to slow automation to preserve employment. Governments lack retraining capacity. Workers cannot compete with machines at similar task levels. The system has no brake—only acceleration.",
-  "surprising_part": "Mining companies are stating automation explicitly as a competitive advantage rather than hiding it. Nutrien highlights the 49% automation rate to investors as evidence of superior cost position. This transparency suggests that automation in mining is already normalized—companies do not view it as controversial. The social cost has not yet created policy or regulatory backlash strong enough to slow adoption.",
-  "one_sentence": "Mines are becoming unmanned factories, leaving mining-dependent communities with no transition plan and no alternative employment.",
-  "societal_stake": "Automation in resource extraction concentrates wealth (profits to companies/shareholders) while externalizing employment shock onto specific communities. Mining towns often lack diversity, education infrastructure, or alternative employers. A mine closure via automation creates permanent structural unemployment in regions with no retraining capability and limited in-migration. This drives geographic inequality and leaves working-class communities stranded.",
-  "evidence": [
-    {"company": "Nutrien Ltd.", "fact": "49% of potash ore tonnes mined using automation in 2025, cited as competitive advantage"},
-    {"company": "Nutrien Ltd.", "fact": "Q2 2026 record adjusted EBITDA of $2.43B with potash segment adjusted EBITDA of $1.24B"},
-    {"company": "Freeport-McMoRan Inc.", "fact": "Q2 2026 consolidated copper production of 786M pounds with digitized mine planning and autonomous haul systems described as core operating model"},
-    {"company": "Freeport-McMoRan Inc.", "fact": "Full-year 2025 copper production of 3.383B pounds with automated methods accounting for significant portion of output"},
-    {"company": "The Mosaic Company", "fact": "Q2 2026 idled phosphate production capacity at Bartow and other facilities rather than operate at uneconomic labor costs"},
-    {"company": "The Mosaic Company", "fact": "Full-year 2025 phosphate production at record levels but workforce optimization ongoing"}
-  ]
+ "slug": "mines-without-miners",
+ "trend_slug": "workers-invisible-tax",
+ "name": "Mines Without Miners",
+ "deck": "Nutrien automated 49% of potash production by 2025. Freeport runs autonomous haul systems 24/7. Mosaic idles phosphate facilities rather than pay human labor rates. Mining companies are not planning to automate—they have already done it. The towns built around these mines have zero transition infrastructure.",
+ "core_bet": "The automation of mining is not a future scenario. It is operational reality. Nutrien mines 49% of potash tonnage with automated equipment and explicitly calls it a competitive advantage in earnings calls (2025). Freeport operates autonomous haul systems and digitized mine planning as standard execution (Q2 2026). Mosaic idles phosphate capacity at Bartow and other facilities because operating costs—even automated—exceed commodity prices; the company chooses idling over staffing at uneconomic margins. This is not philosophy. These are active capital allocation decisions made in real-time quarterly earnings. Communities dependent on these mines have no retraining capacity, no alternative employer base, and no plan to absorb hundreds of laid-off miners into thirty new roles per facility.",
+ "numbers": [
+  {
+   "stat": "49%",
+   "label": "Nutrien potash ore tonnes mined by automation (2025)"
+  },
+  {
+   "stat": "$1.24B",
+   "label": "Nutrien potash segment adjusted EBITDA (H1 2026, record potash volumes)"
+  },
+  {
+   "stat": "786M lbs",
+   "label": "Freeport copper production (Q2 2026, using autonomous haul systems)"
+  },
+  {
+   "stat": "$6.17/lb",
+   "label": "Freeport realized copper price (Q2 2026)"
+  },
+  {
+   "stat": "40%",
+   "label": "Mosaic Bartow phosphate facility operating rate (Q2 2026, partial idling)"
+  },
+  {
+   "stat": "$1.97/lb",
+   "label": "Freeport unit net cash costs copper (Q2 2026, ultra-low with automation)"
+  },
+  {
+   "stat": "3.383B lbs",
+   "label": "Freeport full-year 2025 copper production, majority automated"
+  },
+  {
+   "stat": "1.4M tonnes",
+   "label": "Mosaic phosphate sales volumes (Q2 2026, idled capacity not included)"
+  }
+ ],
+ "mechanism": [
+  "Automation in mining has already shifted from capital plan to operating model. Nutrien disclosed that 49% of potash ore tonnes were mined using automated equipment in 2025. That is not a pilot or test phase. It is half of annual production running on machines. Freeport's Q2 2026 quarterly describes autonomous haul systems as the standard execution method at multiple mine sites. Mosaic running Bartow at 40% capacity in Q2 2026 is a choice: the company chose to idle production rather than operate at labor-cost levels that exceed commodity economics. This is not a capacity shortage or market softness forcing idling. It is a capital-allocation decision to prioritize margin over volume.",
+  "The cost physics are stark. A potash mine at 49% automation extracts more ore per employee than a manual operation. A copper mine with 24/7 autonomous haul systems has no shift-rotation inefficiency, no break costs, no sick days. Freeport's unit cash costs fell to $1.97 per pound in Q2 2026 even with copper at $6.17/lb realized price. That cost performance is delivered by mining machines, not by lower commodity prices. No company returns to human labor after proving a process can be automated at lower cost unless forced by regulation, labor action, or inability to access capital. None of those constraints are visible in these earnings.",
+  "Mining communities face non-recoverable employment shock. A single potash mine or phosphate facility employs 300-800 workers. Automation reduces that to 20-40. A retraining program cannot credibly place 500 laid-off miners into 30 new facility jobs. These communities were built to serve one employer. They have no diversified economic base. No second industry waiting for workers. No in-migration from outside. As mines automate, they become stranded."
+ ],
+ "why_now": "Three separate forces converged in 2023-2025. First: automation technology matured. Autonomous haul systems, predictive drilling, and remote monitoring are no longer experimental—they run in production at scale (visible in Freeport and Nutrien 2025 reports). Second: labor scarcity hit mining regions. Skilled mining workers began leaving resource towns after 2022 as remote work and broader economic shifts offered alternatives. Companies faced either wage inflation or reduced headcount, and wage inflation ate margins faster than automation capex at commodity prices then prevailing. Third: commodity markets stayed resilient enough to justify investment. Copper held above $5/lb through 2024-2025. Potash saw record volumes (Nutrien H1 2026). Phosphate remained strategic (Mosaic full-year 2025 phosphate output at 'record levels'). That pricing floor made automation capex economically rational. The convergence of mature technology + labor exit + commodity resilience made automation irresistible. Companies did not choose between employing people and investing in machines. They chose machines because both labor and capex were available, but machines were cheaper and faster.",
+ "who_pays": "Mine workers pay through immediate job loss. Families pay through forced relocation or permanent income loss if they stay. Communities pay through tax-base erosion as working-age populations leave and young people choose not to return. Governments pay through unemployment benefits, public assistance, and infrastructure maintenance in hollow towns. Schools close. Hospitals shrink. The payment is irreversible—a mine closure via automation is permanent, not cyclical.",
+ "who_profits": "Mining companies profit directly. Lower per-unit labor cost flows to operating margin. Nutrien's Q2 2026 record potash EBITDA of $1.24B is enabled by 49% automation. Shareholders of miners profit through cost reduction that becomes earnings accretion. Automation equipment vendors (drilling systems, haul trucks, processing controls) profit through sustained capex as miners replace labor with machines.",
+ "tension": "Automation extracts more wealth from the same natural resource but concentrates that wealth with machine owners and shareholders. It externalizes employment shock onto specific geographies with zero absorption capacity. Mining companies have no incentive to slow or reverse automation. Governments lack retraining scale. Workers cannot compete with machines on cost or speed. The system has accelerated, not braked.",
+ "surprising_part": "Mining companies are not hiding automation from investors. They are advertising it. Nutrien highlights the 49% automation rate to investors as proof of superior cost position and competitive advantage. Freeport's earnings calls present autonomous haul systems as evidence of operational excellence. This transparency suggests automation is already normalized in the mining industry—companies see it as a competitive strength, not a controversy. No company is defensive about eliminating workers from earnings calls. That normalization is the surprising part. The social cost has not yet created policy backlash, regulatory resistance, or shareholder pressure strong enough to slow deployment.",
+ "one_sentence": "Mining became unmanned before mining communities had any plan for the workers it was leaving behind.",
+ "societal_stake": "Automation in resource extraction concentrates wealth (profits to companies and shareholders) while externalizing employment shock onto specific communities that were built around a single industry. Mining towns typically lack education infrastructure, employer diversity, or geographic appeal to remote-work migrants. A mine closure via automation creates permanent structural unemployment in a region with zero transition plan and minimal in-migration. This concentrates geographic inequality. It leaves working-class communities stranded with no path forward.",
+ "evidence": [
+  {
+   "company": "Nutrien Ltd.",
+   "fact": "49% of potash ore tonnes mined using automated equipment in 2025, explicitly cited as competitive advantage in annual disclosures and earnings communication"
+  },
+  {
+   "company": "Nutrien Ltd.",
+   "fact": "H1 2026 potash segment adjusted EBITDA of $1.24B (record potash volumes) enabled by automation and cost discipline"
+  },
+  {
+   "company": "Freeport-McMoRan Inc.",
+   "fact": "Q2 2026 consolidated copper production of 786M pounds delivered via digitized mine planning and autonomous haul systems as standard operating model"
+  },
+  {
+   "company": "Freeport-McMoRan Inc.",
+   "fact": "Full-year 2025 copper production of 3.383B pounds with unit net cash costs at $1.65/lb (2025 annual, $1.97/lb Q2 2026), ultra-low levels only achievable with heavy automation"
+  },
+  {
+   "company": "The Mosaic Company",
+   "fact": "Q2 2026 Bartow phosphate facility operated at only 40% of targeted annual operating rate—a deliberate choice to idle capacity rather than operate at uneconomic labor-inclusive costs"
+  },
+  {
+   "company": "The Mosaic Company",
+   "fact": "Full-year 2025 phosphate production described as 'record levels' while workforce underwent 'optimization,' showing production gains despite, not because of, labor growth"
+  }
+ ]
 }

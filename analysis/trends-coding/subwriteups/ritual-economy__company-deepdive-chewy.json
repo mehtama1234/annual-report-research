@@ -1,42 +1,93 @@
 {
-  "slug": "company-deepdive-chewy",
-  "trend_slug": "ritual-economy",
-  "name": "Chewy's Autoship Empire: Inside the Pet-Care Ritual Machine",
-  "deck": "Chewy monetized pet parenthood by making the recurring purchase invisible—84% Autoship adoption means the habit, not the transaction, is the moat.",
-  "core_bet": "Chewy converted pet food from a discretionary purchase category into a locked ritual by making Autoship the default, embedding pharmacy and prescription services into daily pet-parent workflows, and treating mobile apps as care-management interfaces rather than checkout buttons. The $562M free cash flow in FY2025 despite a dynamic consumer backdrop proves that ritual infrastructure, once built, is immune to discretionary spending pressure.",
-  "numbers": [
-    {"stat": "$12.60B", "label": "FY2025 net sales, up 6.2% year-over-year"},
-    {"stat": "84%", "label": "Autoship as percent of net sales (Q3 2025)"},
-    {"stat": "21.3M", "label": "Active customers at fiscal year-end 2025"},
-    {"stat": "$562M", "label": "Record free cash flow in FY2025"},
-    {"stat": "$595", "label": "Net sales per active customer (Q3 2025)"},
-    {"stat": "$719.2M", "label": "Adjusted EBITDA in FY2025, margin of 5.7%"},
-    {"stat": "7.7%", "label": "Net sales growth in Q1 2026 to $3.36B"},
-    {"stat": "$253.1M", "label": "Adjusted EBITDA in Q1 2026, margin of 7.5%"}
-  ],
-  "mechanism": [
-    "Chewy's core architecture is not e-commerce—it is behavioral lock. By defaulting all customers into Autoship, the company inverted the typical retail friction curve. Instead of requiring customers to remember to repurchase, Chewy forces them to affirmatively opt out. The result is 84% of revenue generated through automatic replenishment, making price sensitivity irrelevant to the decision-making process. Once a pet owner enrolls their dog in a particular food, the switching cost becomes emotional (will my pet refuse unfamiliar kibble?) rather than economic. Ritual beats price every time.",
-    "The ritual deepens through platform architecture. Chewy's websites and mobile apps are not storefronts—they are care-management systems. Pet parents track prescription refills, manage dietary restrictions, maintain health histories, and monitor autoship schedules inside the same interface. The company explicitly frames itself as a 'trusted destination for pet parents,' and that trust language is operational, not marketing. When a vet prescribes a specialty diet, Chewy becomes the default fulfillment channel, not one competitor among many. The prescription integration creates a health-care adjacent moat that commodity pet food never possessed.",
-    "Scale amplifies the moat. With 21.3M active customers, Chewy has built a data layer that commodity retailers cannot replicate. The company works with 4,000 brands and maintains ~190,000 products and service offerings, but the real value is in knowing which customers need which products on which schedule. That behavioral data allows Chewy to predict shortages, optimize inventory, and adjust pricing on a micro-segment basis. The free cash flow ($562M in FY2025) proves that scale has crossed into margin expansion, not just top-line revenue. The ritual economy scales better than traditional retail because locked-in behavior reduces customer acquisition costs and increases lifetime value.",
-    "The financial proof is unambiguous. Q1 2026 showed net sales growth of 7.7% to $3.36B alongside margin expansion: adjusted EBITDA margin reached 7.5%, up from 5.7% in the full year. The company added nearly 200,000 customers in a single quarter and claimed 'record quarterly profitability despite a more dynamic consumer backdrop.' That phrase is crucial—in a market where traditional discretionary spending should be under pressure, Chewy's ritual architecture is insulating it. Pet care spending is not optional; it is non-negotiable to 21M+ households that have made pet ownership their primary emotional attachment.",
-    "Chewy's superiority over traditional pet food retailers (PetSmart, local pet stores) is architectural, not tactical. It is not that Chewy has better prices or selection—it is that Chewy owns the behavioral workflow. A pet owner who buys kibble at Walmart makes an active decision each month. A Chewy Autoship customer has already made the decision and only needs to be reminded of it. Over time, that 84% Autoship revenue mix becomes self-reinforcing: the more repeat behavior is embedded in the system, the more confidence Chewy has to raise prices or introduce premium offerings (prescriptions, specialty diets, health products) inside the existing relationship. The ritual is the business model."
-  ],
-  "why_now": "Pet ownership as a primary emotional and household priority has accelerated since 2020, and Chewy's timing as an IPO (2019) means it matured into the market exactly when remote work, loneliness, and urban dwelling were pushing households to substitute pet companionship for human connection. By 2025, the cohort of pet owners who treat pets as family members has become the mainstream buyer, not the niche. Chewy's FY2025 performance—accelerating from 6.2% growth with expanding margins—reflects the maturation of that cohort into a stable, high-frequency ritual economy. The company is no longer fighting to convert one-time retail buyers; it is managing a locked base of recurring pet parents.",
-  "who_pays": "Pet owners, specifically millennial and Gen Z households living in urban areas without children, bear the full cost of the premium pricing that Chewy enables. A customer on Autoship cannot easily compare prices, cannot opportunistically shop sales, and faces switching costs if they try to leave. Chewy's margin expansion (5.7% to 7.5% in FY2025-Q1 2026) comes directly from pricing power that ritual infrastructure provides. The non-pet-owning households also pay indirectly through higher rents and housing prices in pet-friendly markets, and through pet liability clauses in insurance policies that reflect the normalization of expensive pet care.",
-  "who_profits": "Chewy captures 100% of the value created by pet-care ritualization. With 21.3M customers locked into Autoship behavior, recurring revenue margins of 7.5%, and embedded prescription fulfillment, Chewy operates like a utility. The company's FY2025 free cash flow of $562M flows directly to shareholders (and PetSmart's parent Nestlé, which holds a stake). The ritual economy gives Chewy pricing power that traditional retail cannot defend, allowing margin expansion even during consumer pressure.",
-  "tension": "The tension is cultural and regulatory. First, pet owners may eventually recognize that they are paying Autoship premium pricing and attempt to exit, but the embedded prescription and health-history systems make that costly and inconvenient. Second, premium pet food and veterinary care creates an affordability cliff for lower-income pet owners, forcing impossible choices between veterinary standards they cannot afford and animal welfare they care about. Third, as pet care becomes the primary household ritual for childless adults, society bears the cultural cost of a declining birth rate being replaced by pet parenthood—demographics that shape labor supply, community formation, and intergenerational resource transfer. Fourth, Chewy's dependency on private-label suppression (noted in Colgate's filings as a recurring issue) means the company cannot guarantee margin persistence if manufacturing partners develop direct channels.",
-  "surprising_part": "Chewy's margins are expanding during an inflationary cycle when most consumer retailers are under pressure. This defies the usual playbook—ritual infrastructure is stronger than discretionary spending hedges. The company added 200,000+ customers per quarter even after the post-pandemic pet-buying surge should have plateaued, which means the company is now converting the general pet population into its system rather than just capturing the growth cohort. The $595 net sales per active customer across 21.3M users suggests that Chewy is not just selling pet food; it is monetizing the full relationship—pharmacy, prescriptions, health services, and premium diets.",
-  "one_sentence": "Chewy built an 84%-Autoship empire by making the pet-care ritual invisible and inescapable, proving that behavioral lock transcends category and consumer cycle.",
-  "societal_stake": "Chewy's success proves that ritual infrastructure, once embedded, can command permanent pricing power and margin expansion in ways that traditional retail cannot. For society, this means a growing share of household spending on pet care will be locked into a single platform that owns the behavioral workflow. The rise of Chewy as a utility-like business reflects broader patterns: as human connection declines, substitute rituals (pets, gaming, streaming) become the primary relationship and commerce channels. Pet parenthood funded by recurring Autoship subscriptions is a economically efficient way to monetize that shift—but it concentrates relational attachment and spending power into a single platform, raising questions about dependency, affordability, and what happens to the pet-owning households when economic pressure forces a recession.",
-  "evidence": [
-    {"company": "Chewy, Inc.", "fact": "FY2025 net sales $12.60B, up 6.2% YoY; adjusted EBITDA $719.2M (5.7% margin)"},
-    {"company": "Chewy, Inc.", "fact": "Q1 2026 net sales $3.36B (+7.7%), net income $94.8M; adjusted EBITDA margin 7.5%"},
-    {"company": "Chewy, Inc.", "fact": "Record free cash flow $562M in FY2025 with 21.3M active customers"},
-    {"company": "Chewy, Inc.", "fact": "84% of net sales from Autoship in Q3 2025; net sales per active customer ~$595"},
-    {"company": "Chewy, Inc.", "fact": "Q3 2025 added ~250,000 net active customers; ~190,000 products/services across 4,000 brands"},
-    {"company": "Chewy, Inc.", "fact": "Q1 2026 included nearly 200,000 net customer additions with record quarterly profitability despite dynamic consumer backdrop"},
-    {"company": "Chewy, Inc.", "fact": "Mobile app + website + Autoship + pharmacy + prescriptions positioned as integrated care-management interface"},
-    {"company": "Colgate-Palmolive, Inc.", "fact": "Hill's Pet Nutrition segment (owned by parent) contributes to Colgate's portfolio as major growth asset with science-based positioning"},
-    {"company": "Silgan Holdings Inc.", "fact": "7% growth in metal containers for pet-food markets in FY2025; pet-food packaging is material revenue driver"}
-  ]
+ "slug": "company-deepdive-chewy",
+ "trend_slug": "ritual-economy",
+ "name": "Chewy's Autoship Empire: Inside the Pet-Care Ritual Machine",
+ "deck": "Chewy monetized pet parenthood by making the recurring purchase invisible—84% Autoship adoption means the habit, not the transaction, is the moat.",
+ "core_bet": "Chewy converted pet food from a discretionary purchase category into a locked ritual by making Autoship the default, embedding pharmacy and prescription services into daily pet-parent workflows, and treating mobile apps as care-management interfaces rather than checkout buttons. The $562M free cash flow in FY2025 despite a dynamic consumer backdrop proves that ritual infrastructure, once built, is immune to discretionary spending pressure. The company has crossed from retail into household infrastructure—it owns a piece of the daily routine of 21.3 million households.",
+ "numbers": [
+  {
+   "stat": "$12.60B",
+   "label": "FY2025 net sales, up 6.2% year-over-year"
+  },
+  {
+   "stat": "84%",
+   "label": "Autoship as percent of net sales (Q3 2025)"
+  },
+  {
+   "stat": "21.3M",
+   "label": "Active customers at fiscal year-end 2025"
+  },
+  {
+   "stat": "$562M",
+   "label": "Record free cash flow in FY2025"
+  },
+  {
+   "stat": "$595",
+   "label": "Net sales per active customer (Q3 2025)"
+  },
+  {
+   "stat": "$719.2M",
+   "label": "Adjusted EBITDA in FY2025, margin of 5.7%"
+  },
+  {
+   "stat": "7.7%",
+   "label": "Net sales growth in Q1 2026 to $3.36B"
+  },
+  {
+   "stat": "$253.1M",
+   "label": "Adjusted EBITDA in Q1 2026, margin of 7.5%"
+  }
+ ],
+ "mechanism": [
+  "Chewy's core architecture is not e-commerce—it is behavioral lock. By defaulting all customers into Autoship, the company inverted the typical retail friction curve. Instead of requiring customers to remember to repurchase, Chewy forces them to affirmatively opt out. The result is 84% of revenue generated through automatic replenishment, making price sensitivity irrelevant to the decision-making process. Once a pet owner enrolls their dog in a particular food, the switching cost becomes emotional (will my pet refuse unfamiliar kibble?) rather than economic. Ritual beats price every time.",
+  "The ritual deepens through platform architecture. Chewy's websites and mobile apps are not storefronts—they are care-management systems. Pet parents track prescription refills, manage dietary restrictions, maintain health histories, and monitor autoship schedules inside the same interface. The company explicitly frames itself as a 'trusted destination for pet parents,' and that trust language is operational, not marketing. When a vet prescribes a specialty diet, Chewy becomes the default fulfillment channel, not one competitor among many. The prescription integration creates a health-care adjacent moat that commodity pet food never possessed. The company's ~190,000 products and 4,000 brands become white noise; what matters is the managed workflow around the customer's specific pet's needs.",
+  "Scale amplifies the moat. With 21.3M active customers, Chewy has built a data layer that commodity retailers cannot replicate. The company works with 4,000 brands and maintains ~190,000 products and service offerings, but the real value is in knowing which customers need which products on which schedule. That behavioral data allows Chewy to predict shortages, optimize inventory, and adjust pricing on a micro-segment basis. The free cash flow ($562M in FY2025) proves that scale has crossed into margin expansion, not just top-line revenue. The ritual economy scales better than traditional retail because locked-in behavior reduces customer acquisition costs and increases lifetime value.",
+  "The financial proof is unambiguous. Q1 2026 showed net sales growth of 7.7% to $3.36B alongside margin expansion: adjusted EBITDA margin reached 7.5%, up from 5.7% in the full year. The company added nearly 200,000 customers in a single quarter and claimed 'record quarterly profitability despite a more dynamic consumer backdrop.' That phrase is crucial—in a market where traditional discretionary spending should be under pressure, Chewy's ritual architecture is insulating it. Pet care spending is not optional; it is non-negotiable to 21M+ households that have made pet ownership their primary emotional attachment. The margin expansion from 5.7% to 7.5% in one quarter shows the company is extracting pricing power from ritual lock.",
+  "Chewy's superiority over traditional pet food retailers (PetSmart, local pet stores) is architectural, not tactical. It is not that Chewy has better prices or selection—it is that Chewy owns the behavioral workflow. A pet owner who buys kibble at Walmart makes an active decision each month. A Chewy Autoship customer has already made the decision and only needs to be reminded of it. Over time, that 84% Autoship revenue mix becomes self-reinforcing: the more repeat behavior is embedded in the system, the more confidence Chewy has to raise prices or introduce premium offerings (prescriptions, specialty diets, health products) inside the existing relationship. The ritual is the business model. The company's margin expansion even during consumer pressure is proof that ritual infrastructure transcends economic cycles."
+ ],
+ "why_now": "Pet ownership as a primary emotional and household priority has accelerated since 2020, and Chewy's timing as an IPO (2019) means it matured into the market exactly when remote work, loneliness, and urban dwelling were pushing households to substitute pet companionship for human connection. By 2025, the cohort of pet owners who treat pets as family members has become the mainstream buyer, not the niche. Chewy's FY2025 performance—accelerating from 6.2% growth with expanding margins—reflects the maturation of that cohort into a stable, high-frequency ritual economy. The company is no longer fighting to convert one-time retail buyers; it is managing a locked base of recurring pet parents. The Q1 2026 data showing margin expansion to 7.5% despite consumer pressure proves the transition is complete: Chewy has become essential infrastructure, not discretionary retail.",
+ "who_pays": "Pet owners, specifically millennial and Gen Z households living in urban areas without children, bear the full cost of the premium pricing that Chewy enables. A customer on Autoship cannot easily compare prices, cannot opportunistically shop sales, and faces switching costs if they try to leave. Chewy's margin expansion (5.7% to 7.5% in FY2025-Q1 2026) comes directly from pricing power that ritual infrastructure provides. The non-pet-owning households also pay indirectly through higher rents and housing prices in pet-friendly markets, and through pet liability clauses in insurance policies that reflect the normalization of expensive pet care. Chewy customers pay a ritual premium they do not consciously register because the transaction is invisible.",
+ "who_profits": "Chewy captures 100% of the value created by pet-care ritualization. With 21.3M customers locked into Autoship behavior, recurring revenue margins of 7.5%, and embedded prescription fulfillment, Chewy operates like a utility. The company's FY2025 free cash flow of $562M flows directly to shareholders (and PetSmart's parent Nestlé, which holds a stake). The ritual economy gives Chewy pricing power that traditional retail cannot defend, allowing margin expansion even during consumer pressure. The company's profitability structure resembles healthcare or utilities more than retail because the customer has no practical way to reduce spending without compromising pet welfare.",
+ "tension": "The tension is cultural and regulatory. First, pet owners may eventually recognize that they are paying Autoship premium pricing and attempt to exit, but the embedded prescription and health-history systems make that costly and inconvenient. Second, premium pet food and veterinary care creates an affordability cliff for lower-income pet owners, forcing impossible choices between veterinary standards they cannot afford and animal welfare they care about. Third, as pet care becomes the primary household ritual for childless adults, society bears the cultural cost of a declining birth rate being replaced by pet parenthood—demographics that shape labor supply, community formation, and intergenerational resource transfer. Fourth, Chewy's dependency on private-label suppression (noted in Colgate's filings as a recurring issue) means the company cannot guarantee margin persistence if manufacturing partners develop direct channels. Fifth, the regulatory risk is that Chewy's pricing power may eventually attract antitrust scrutiny or consumer protection action if the company's use of behavioral defaults crosses into deceptive practices.",
+ "surprising_part": "Chewy's margins are expanding during an inflationary cycle when most consumer retailers are under pressure. This defies the usual playbook—ritual infrastructure is stronger than discretionary spending hedges. The company added 200,000+ customers per quarter even after the post-pandemic pet-buying surge should have plateaued, which means the company is now converting the general pet population into its system rather than just capturing the growth cohort. The $595 net sales per active customer across 21.3M users suggests that Chewy is not just selling pet food; it is monetizing the full relationship—pharmacy, prescriptions, health services, and premium diets. The second surprise is that Q1 2026 margin expansion happened even as the company was still absorbing consumer caution—this suggests that Chewy's pricing power is fundamentally asymmetric. The company can maintain margin expansion by raising prices on the ritual bundle because customers are locked in by emotional attachment to their pets' needs, not by active shopping decisions.",
+ "one_sentence": "Chewy built an 84%-Autoship empire by making the pet-care ritual invisible and inescapable, proving that behavioral lock transcends category and consumer cycle.",
+ "societal_stake": "Chewy's success proves that ritual infrastructure, once embedded, can command permanent pricing power and margin expansion in ways that traditional retail cannot. For society, this means a growing share of household spending on pet care will be locked into a single platform that owns the behavioral workflow. The rise of Chewy as a utility-like business reflects broader patterns: as human connection declines, substitute rituals (pets, gaming, streaming) become the primary relationship and commerce channels. Pet parenthood funded by recurring Autoship subscriptions is a economically efficient way to monetize that shift—but it concentrates relational attachment and spending power into a single platform, raising questions about dependency, affordability, and what happens to the pet-owning households when economic pressure forces a recession. The normalization of Chewy as essential household infrastructure means that a single company now owns a core emotional and logistical relationship for 21 million households.",
+ "evidence": [
+  {
+   "company": "Chewy, Inc.",
+   "fact": "FY2025 net sales $12.60B, up 6.2% YoY; adjusted EBITDA $719.2M (5.7% margin)"
+  },
+  {
+   "company": "Chewy, Inc.",
+   "fact": "Q1 2026 net sales $3.36B (+7.7%), net income $94.8M; adjusted EBITDA margin 7.5%, showing margin expansion during consumer pressure"
+  },
+  {
+   "company": "Chewy, Inc.",
+   "fact": "Record free cash flow $562M in FY2025 with 21.3M active customers"
+  },
+  {
+   "company": "Chewy, Inc.",
+   "fact": "84% of net sales from Autoship in Q3 2025; net sales per active customer ~$595"
+  },
+  {
+   "company": "Chewy, Inc.",
+   "fact": "Q3 2025 added ~250,000 net active customers; ~190,000 products/services across 4,000 brands"
+  },
+  {
+   "company": "Chewy, Inc.",
+   "fact": "Q1 2026 included nearly 200,000 net customer additions with record quarterly profitability despite dynamic consumer backdrop"
+  },
+  {
+   "company": "Chewy, Inc.",
+   "fact": "Mobile app + website + Autoship + pharmacy + prescriptions positioned as integrated care-management interface"
+  },
+  {
+   "company": "Colgate-Palmolive, Inc.",
+   "fact": "Hill's Pet Nutrition segment (owned by parent) contributes to Colgate's portfolio as major growth asset with science-based positioning"
+  },
+  {
+   "company": "Silgan Holdings Inc.",
+   "fact": "7% growth in metal containers for pet-food markets in FY2025; pet-food packaging is material revenue driver"
+  }
+ ]
 }

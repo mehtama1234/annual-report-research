@@ -1,71 +1,77 @@
 {
-  "slug": "tension-what-breaks-it",
-  "trend_slug": "addiction-dividend",
-  "name": "When the Habit Breaks: Regulatory Pressure, Substitution, and the Limits of Stickiness",
-  "deck": "A 40-million-member loyalty base cannot stop decline when the brand loses cultural relevance and the product erodes.",
-  "core_bet": "The addiction dividend contains a hidden fragility: habits can be disrupted by regulation, generational substitution, or competing habits that offer the same identity signal at lower cost. Companies that built moats around behavioral infrastructure discover those moats crumble when the underlying product or regulatory environment shifts. Loyalty membership size alone does not guarantee revenue.",
-  "numbers": [
-    {
-      "stat": "40 million",
-      "label": "Active loyalty members at Kohl's—yet sales decreased 4.0% to $14.8B in fiscal 2025"
-    },
-    {
-      "stat": "40 million",
-      "label": "Active loyalty members at Bath & Body Works—yet net sales were $7.291B, down 0.2%, despite transformation efforts"
-    },
-    {
-      "stat": "43 million",
-      "label": "Legal-age consumers using PMI smoke-free products as of end-2025, yet regulatory tolerance for IQOS and ZYN remains uncertain and faces potential future restrictions"
-    },
-    {
-      "stat": "50%",
-      "label": "Price increase for Planet Fitness Classic Card new members, yet the company still grew membership by 1.1M in 2025, showing pricing is not automatically sticky once disruption begins"
-    },
-    {
-      "stat": "$6.055 billion",
-      "label": "DraftKings 2025 full-year revenue, but Q2 2026 showed how hold volatility and sports outcomes can pressure reported revenue even as engagement grows"
-    },
-    {
-      "stat": "11%",
-      "label": "Operating income decline for Bath & Body Works to $1.126B in fiscal 2025, showing operational leverage disappears when loyalty does not translate to sales"
-    },
-    {
-      "stat": "1.1 million",
-      "label": "Net new members Planet Fitness added in 2025 (1.0% of base), down sharply from prior-year growth rates—habit stickiness weakened by affordability ceiling and market saturation"
-    }
-  ],
-  "mechanism": [
-    "The addiction dividend thesis assumes that once a habit is formed and wrapped in identity, it becomes durable and profitable. Loyalty infrastructure, subscription billing, and behavioral conditioning create a moat. But the company filings reveal a critical blind spot: the habit is only as durable as three unstable foundations—the underlying product, the regulatory permission, and the consumer's willingness to absorb the cost. When any one of these shifts, membership numbers become a vanity metric, not a revenue anchor.",
-    "Kohl's exemplifies this pattern. The company ended fiscal 2025 with large-scale customer reach, rewards programs, credit-card economics, and omnichannel tools. Yet net sales decreased 4.0% to $14.8B, comparable sales decreased 3.1%, and diluted EPS was $2.38. Management repeatedly emphasized value, inventory cleanup, and Sephora adjacency—not because loyalty failed, but because it never solved the deeper erosion. The loyalty base proved worthless when the product and brand no longer signaled the right identity. Kohl's loyalty members did not abandon the program; they abandoned Kohl's because the brand stopped mattering. Bath & Body Works tells the same story differently. With 40 million active loyalty members, direct e-commerce reach, 1,927 company-operated stores, and an explicit Consumer First Formula transformation, the company was still unable to stop a 0.2% sales decline in fiscal 2025. Operating income fell 11% to $1.126B. Again, the loyalty infrastructure did not break. The consumer's willingness to show up did.",
-    "Philip Morris International faces a different but equally real fragility. The smoke-free business now accounts for 41.5% of revenues, with 43 million legal-age consumers using IQOS, ZYN, and nicotine pouches. Management frames this as a transition success. But the model depends entirely on regulatory tolerance. If IQOS or ZYN prove harmful at scale, if youth adoption rates trigger legislative action, or if plain-packaging rules extend to smoke-free formats, the entire habit-migration strategy fails. PMI cannot default to defending cigarettes—that category faces structural headwinds. It must succeed with smoke-free, but success is not assured. The company's filings acknowledge this risk; investors discount it. That is the fragility."
-  ],
-  "why_now": "The addiction dividend thesis was born in an era of regulatory permissiveness and cultural acceptance. Tobacco had its place, streaming subscriptions seemed infinite, gaming was becoming normalized, and loyalty programs were seen as permanent moats. But the inflection has arrived: regulatory bodies are moving toward restrictions on nicotine products, consumer attention is fragmenting across more subscriptions than any household can sustain, and the cultural identity premium attached to many habit-based brands has eroded. The companies built their infrastructure during the expansion phase. Now the contraction phase exposes which habits were truly sticky and which were just expensive.",
-  "who_pays": "The consumer who held the habit pays twice: first in the cost of the subscription or product, and second in the sunk-cost psychology that keeps them showing up even when the experience deteriorates. But when the habit finally breaks—when the brand stops mattering, when regulation tightens, or when a competitor offers the same identity signal at half the cost—the consumer stops paying and walks away. The loyalty member is gone.",
-  "who_profits": "During the expansion phase, nobody. The companies built infrastructure and educated consumers at massive cost. During the plateau phase, the companies that manage the transition profit: PMI through smoke-free premiums, Planet Fitness through scale efficiencies, and DraftKings through multi-product cross-sell. But the companies that fail to manage the transition—those that relied on loyalty membership as a proxy for durability without solving the product and brand problem—see profitability collapse. Kohl's and Bath & Body Works are in that category.",
-  "tension": "The addiction dividend breaks when the product loses cultural relevance, when regulation tightens, or when a cheaper substitute emerges that delivers the same behavioral signal. At that point, the loyalty infrastructure becomes a liability: it proves the consumer used to care, which makes their exit more visible and more damaging to earnings guidance. The company cannot hide the defection behind macro headwinds because the loyalty data is real-time. The inflection from membership growth to membership erosion is immediate and undeniable.",
-  "surprising_part": "The most counterintuitive finding is that larger loyalty bases accelerate the downside rather than cushion it. Kohl's 40-million-member base made the sales decline more visible and more damaging to management credibility. Bath & Body Works' 40-million-member base did not prevent operating-income decline. Planet Fitness' membership growth of 1.1 million in 2025 looked strong on a 20.8-million-member base, but the company explicitly paused Black Card price increases and reframed the year as a membership-repair story, not a growth story. The loyalty infrastructure that was supposed to create durable pricing power instead created obligation to show up and fix it.",
-  "one_sentence": "A loyalty membership of 40 million is worthless if the product erodes and the brand stops mattering—and the larger the membership, the more visible and damaging the defection.",
-  "societal_stake": "This matters to a normal person because it exposes the fragility of their own habits. You are part of PMI's 43-million-user base, or Kohl's 40-million-member loyalty program, or Planet Fitness' 20.8-million-member system. The company's ability to keep you engaged and the price you pay depends on whether the underlying product or brand stays relevant. If regulation tightens, if the identity signal fades, or if you discover a cheaper substitute, you will leave. The addiction dividend thesis assumes you stay; the tension reveals why you might not.",
-  "evidence": [
-    {
-      "company": "Kohl's Corporation",
-      "fact": "Fiscal 2025 net sales decreased 4.0% to $14.8B, comparable sales decreased 3.1%, with large-scale loyalty infrastructure and omnichannel tools unable to reverse the decline"
-    },
-    {
-      "company": "Bath & Body Works, Inc.",
-      "fact": "40 million active loyalty members could not prevent net sales of $7.291B (down 0.2%) or operating income decline of 11% to $1.126B in fiscal 2025"
-    },
-    {
-      "company": "Philip Morris International",
-      "fact": "Smoke-free business generates 41.5% of revenues with 43 million legal-age consumers using products, but entire model depends on regulatory tolerance for IQOS and ZYN which remains uncertain"
-    },
-    {
-      "company": "Planet Fitness, Inc.",
-      "fact": "Company added 1.1M net members in 2025 but explicitly paused Black Card price increases in Q1 2026 and reframed year as membership-repair story, not growth story"
-    },
-    {
-      "company": "DraftKings Inc.",
-      "fact": "Q2 2026 showed sports outcomes and promotional reinvestment pressured revenue to $1.443B (down 5%) despite strong engagement metrics: volume up 15%, ARPMUP down 13%"
-    }
-  ]
+ "slug": "tension-what-breaks-it",
+ "trend_slug": "addiction-dividend",
+ "name": "When the Habit Breaks: The Loyalty Membership That Cannot Save Shrinking Revenue",
+ "deck": "A 40-million-member loyalty base fails to arrest sales decline when the brand loses relevance. Membership becomes a mirror of failure, not a moat.",
+ "core_bet": "Loyalty membership size is a lagging indicator of business health, not a leading one. When product relevance, regulatory permission, or price tolerance shift, the loyalty infrastructure reveals its true fragility: it can measure defection in real-time but cannot stop it. The addiction dividend thesis assumes stickiness persists. These filings prove it does not.",
+ "numbers": [
+  {
+   "stat": "40 million",
+   "label": "Active loyalty members at Kohl's; net sales fell 4.0% to $14.8B in fiscal 2025"
+  },
+  {
+   "stat": "4.0%",
+   "label": "Kohl's net sales decline fiscal 2025 despite large-scale customer reach, rewards programs, and Sephora partnership"
+  },
+  {
+   "stat": "40 million",
+   "label": "Active loyalty members at Bath & Body Works; net sales $7.291B, down 0.2%, operating income fell 11% to $1.126B"
+  },
+  {
+   "stat": "11%",
+   "label": "Bath & Body Works operating income decline to $1.126B despite 40 million loyalty members and Consumer First Formula transformation"
+  },
+  {
+   "stat": "43 million",
+   "label": "Legal-age consumers using Philip Morris smoke-free products (end-2025); entire business model depends on regulatory tolerance for IQOS and ZYN"
+  },
+  {
+   "stat": "41.5%",
+   "label": "Philip Morris smoke-free revenue share of total; growth depends on regulatory permission, not consumer habit alone"
+  },
+  {
+   "stat": "1.1 million",
+   "label": "Net new members added by Planet Fitness in 2025 on 20.8M base; company explicitly paused Black Card price increases due to membership repair pressure"
+  },
+  {
+   "stat": "5%",
+   "label": "DraftKings Q2 2026 revenue decline to $1.443B despite engagement up 15% by volume, proving sports outcomes and promotional spend override user growth"
+  }
+ ],
+ "mechanism": [
+  "The addiction dividend thesis assumes that behavioral habits, once wrapped in identity and subscription billing, become durable and profitable. Loyalty infrastructure, repeat purchase cycles, and brand loyalty create a moat. But the company filings reveal a critical structural weakness: the habit is only as durable as the product, the regulatory permission, and the consumer's cost tolerance. When any one shifts, membership becomes a liability that measures defection in real-time.",
+  "Kohl's demonstrates the pattern directly. With 40 million active loyalty members, credit-card economics, omnichannel access, and Sephora adjacency, the company still reported net sales decline of 4.0% to $14.8B in fiscal 2025, comparable sales decline of 3.1%, and diluted EPS of $2.38. The loyalty base did not fail to prevent decline; the brand failed to remain relevant. The membership data made that failure undeniable and immediate.",
+  "Bath & Body Works tells the same story with higher stakes. Fiscal 2025 showed 40 million active loyalty members across 1,927 company-operated stores, direct e-commerce, international operations, and marketplace access. Yet net sales were $7.291B (down 0.2%), operating income fell 11% to $1.126B, and net income was $649M. Management responded with an explicit Consumer First Formula transformation. The loyalty infrastructure did not break; the brand's ability to command pricing and frequency did. The membership base became evidence of the problem, not a solution.",
+  "Philip Morris faces a different but equally real fragility. Smoke-free products now account for 41.5% of revenues and are used by 43 million legal-age consumers globally. This looks like successful habit migration. But the entire business depends on regulatory tolerance for IQOS and ZYN. If youth adoption triggers legislative action, if harm studies prompt restrictions, or if plain-packaging rules extend to smoke-free formats, the transition strategy collapses. PMI cannot defend cigarettes—that category faces structural headwinds. It must succeed with smoke-free, but regulatory permission is not guaranteed. The company's filings acknowledge this risk explicitly.",
+  "DraftKings illustrates how engagement metrics and revenue can diverge sharply. Q2 2026 showed sports consumer volume up 15% and user base up 9%, yet revenue fell 5% to $1.443B. Promotions and customer-friendly sports outcomes consumed the value. The habit—checking accounts, placing bets, chasing favorites—is strong. The conversion to profit is fragile. Hold volatility and promotional reinvestment override engagement growth."
+ ],
+ "why_now": "The addiction dividend thesis was built on regulatory permissiveness (tobacco had its place), cultural acceptance (loyalty programs seemed permanent), and consumption expansion (subscriptions seemed infinite). But the inflection is now visible in filings: regulatory bodies are restricting nicotine products, consumer attention is fragmenting across competing subscriptions, and cultural identity premiums attached to legacy brands have eroded. Companies built infrastructure during expansion. These filings show contraction phase pressure.",
+ "who_pays": "The consumer who holds the habit pays twice: once in direct cost (monthly dues, purchase price), and again in sunk-cost psychology that keeps them showing up even as the experience deteriorates. When the habit finally breaks—brand relevance fades, regulation tightens, a competitor offers the same signal at half the cost—the consumer stops paying and exits. The loyalty member is gone.",
+ "who_profits": "In the expansion phase, nobody profits; companies invest in infrastructure and consumer education at massive cost. In the plateau phase, only companies that manage the transition profit: PMI through smoke-free premiums, DraftKings through multi-product cross-sell and adjusted EBITDA expansion ($620M in 2025), Planet Fitness through scale efficiencies despite membership pressure. Companies that relied on loyalty as a proxy for durability without solving product and brand problems see profitability collapse: Kohl's and Bath & Body Works demonstrate this clearly.",
+ "tension": "The addiction dividend breaks when product relevance erodes, regulation tightens, or a cheaper substitute emerges offering the same behavioral signal. At that inflection, loyalty infrastructure becomes a liability that proves the consumer used to care, making their exit undeniable. The company cannot hide the defection behind macro headwinds because the membership data is real-time. The shift from growth to decline is immediate.",
+ "surprising_part": "Larger loyalty bases accelerate the downside rather than cushion it. Kohl's 40-million-member base made the 4.0% sales decline more visible and damaging to credibility. Bath & Body Works' 40-million-member base did not prevent 11% operating-income decline. Planet Fitness' membership growth of 1.1M in 2025 looked strong (1.0% growth on 20.8M base) until the company explicitly paused Black Card price increases and reframed the year as a membership-repair story, not a growth story. The infrastructure built to create pricing power created instead an obligation to fix it.",
+ "one_sentence": "A loyalty base of 40 million becomes evidence of failure when the brand loses relevance—the larger the base, the more visible the defection.",
+ "societal_stake": "This matters because you are in these systems: part of PMI's 43-million-user smoke-free base, or Kohl's 40-million loyalty program, or Planet Fitness' 20.8-million membership. The price you pay and the experience you receive depends on whether the underlying product or brand stays relevant. If regulation tightens, if the brand fades, or if you find a cheaper substitute, you will leave. These filings show that when you do, the company has no fallback; the loyalty infrastructure that was supposed to keep you was built on the assumption you would never question it.",
+ "evidence": [
+  {
+   "company": "Kohl's Corporation",
+   "fact": "40 million active loyalty members could not prevent net sales decline of 4.0% to $14.8B fiscal 2025, comparable sales decline of 3.1%, diluted EPS $2.38"
+  },
+  {
+   "company": "Bath & Body Works",
+   "fact": "40 million active loyalty members across 1,927 stores did not prevent net sales $7.291B (down 0.2%) or operating income decline 11% to $1.126B fiscal 2025"
+  },
+  {
+   "company": "Philip Morris International",
+   "fact": "Smoke-free products 41.5% of revenue, 43 million legal-age consumers globally; entire transition strategy depends on regulatory tolerance for IQOS and ZYN which remains uncertain"
+  },
+  {
+   "company": "Planet Fitness",
+   "fact": "Added 1.1M net members 2025 (1.0% of 20.8M base); explicitly paused Black Card price increases Q1 2026 and reframed as membership-repair story, not growth story"
+  },
+  {
+   "company": "DraftKings",
+   "fact": "Q2 2026 revenue $1.443B (down 5%) despite strong engagement: sports consumer volume up 15%, users up 9%; promotional spend and favorable sports outcomes consumed margin"
+  }
+ ]
 }

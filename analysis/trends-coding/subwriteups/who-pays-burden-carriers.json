@@ -1,0 +1,119 @@
+{
+ "slug": "who-pays-burden-carriers",
+ "trend_slug": "private-capital-colonization",
+ "name": "Who Pays: The Hidden Cost of Privatized Credit",
+ "deck": "Affirm's 48% Q3 2026 GMV growth shows consumer installment credit escaping regulated banking, while institutional investors in private credit and alternative funds pay 2-and-20 fees (2% management, 20% carry) on products that public mutual funds deliver for 40 basis points. The burden cascades invisibly: pension funds lose returns to fee drag, small businesses lose access to relationship banking as capital flees to higher-return private assets, and communities lose the infrastructure that once supported SMB lending—creating a predatory-lending vacuum.",
+ "core_bet": "Private-capital colonization extracts costs from three groups in order of visibility. Retail investors and institutional limited partners pay explicit fee premiums (2-and-20 on private credit funds vs. 40-50 basis points on public mutual funds) for products that often underperform public indices even before fees. Bank customers and small businesses lose access to relationship-based lending as capital flows toward higher-return private assets; prime borrowers get captured by alternative operators at low spreads, forcing banks either to raise spreads on subprime borrowers or exit entirely. Communities lose the credit infrastructure that once served SMBs, creating a secondary market for predatory lending and making small-business formation harder. Affirm's explosive growth (48% GMV in Q3 2026, 146% Affirm Card growth, $36.7B FY2025 GMV) shows that even consumer credit—traditionally the most visible and regulated form of lending—is now being captured by alternative-finance operators that operate outside banking regulation but enjoy similar capital access through venture funding.",
+ "numbers": [
+  {
+   "stat": "48%",
+   "label": "Affirm Q3 2026 total GMV growth, showing consumer credit escaping regulated banking"
+  },
+  {
+   "stat": "$11.6B",
+   "label": "Affirm Q3 2026 quarterly GMV showing scale of unregulated installment credit flowing through tech platforms"
+  },
+  {
+   "stat": "146%",
+   "label": "Affirm Card GMV growth in Q3 2026 to $2.1B, outpacing core BNPL and showing card-linked repeat usage"
+  },
+  {
+   "stat": "72%",
+   "label": "Affirm FY2025 GMV from interest-bearing monthly installments, capturing consumer credit traditionally held by banks"
+  },
+  {
+   "stat": "$36.7B",
+   "label": "Affirm FY2025 total gross merchandise volume, scale equivalent to mid-sized consumer bank"
+  },
+  {
+   "stat": "27%",
+   "label": "Affirm Q3 2026 adjusted operating margin as % of revenue—double what traditional banks achieve due to regulatory and funding cost differences"
+  },
+  {
+   "stat": "$1.7B",
+   "label": "Loews Corporation 2025 net income, showing insurance float deployed into investment strategies that generate private-capital returns"
+  },
+  {
+   "stat": "26.8M",
+   "label": "Affirm Q3 2026 active consumers, up 22% YoY, showing embedded credit becoming expected at checkout"
+  },
+  {
+   "stat": "40bps-2%",
+   "label": "Fee spread between passive mutual funds and private credit funds for similar underlying credit exposure (150-200 basis points annual differential)"
+  },
+  {
+   "stat": "2-and-20",
+   "label": "Industry standard private credit and PE fund fee structure: 2% management fee + 20% carry on profits; institutional investor cost structure"
+  },
+  {
+   "stat": "4-6x EBITDA",
+   "label": "Typical debt-to-equity leverage on PE/infrastructure acquisitions, funded through capital markets access unavailable to small businesses"
+  }
+ ],
+ "mechanism": [
+  "The cost structure of private-capital colonization is buried in three layers, each making the burden invisible to the final customer. At the surface, institutional investors (pension funds, endowments, wealth managers) allocate capital to private-credit funds and alternative-asset managers paying 2-and-20 fee structures (2% management fee, 20% carry on profits). For equivalent credit exposure, publicly traded credit funds or mutual funds charge 40-50 basis points annually—a 150-200 basis point annual fee differential that flows to the alternative manager and away from pension beneficiaries or retail savers. Affirm exemplifies this cost shift: it raises capital from venture investors at implied valuations that assume it captures merchant-funding spreads, interest income from installments, and card-linked fees. Traditional banks, subject to deposits-insurance regulations and liquidity requirements, cannot pay those implied returns. So capital systematically flows toward Affirm even though it finances the same consumer transactions that a bank could finance—but banks can only offer 8-12% returns post-regulatory costs, while Affirm offers venture investors the prospect of 20%+ returns through growth and margin expansion.",
+  "Beneath that visible fee layer is a credit allocation problem. When capital flows into private credit seeking 12-15% returns, it competes for the same borrowers (SMBs, real estate, consumer installment) that banks once financed at 6-8% spreads. Private-credit managers and alternative operators bid up prices for the highest-quality credit (Affirm focuses on 'near-prime' and 'prime' consumers; Blackstone and KKR infrastructure funds target investment-grade assets), leaving banks with lower-quality borrowers, forced either to raise spreads (making credit more expensive for vulnerable borrowers) or to exit the market entirely. Loews owns CNA, an insurance company with float that can be deployed into credit strategies; that float itself is cheaper capital than deposits due to tax and regulatory arbitrage, allowing Loews to outbid traditional banks for the same credit. The result is a bifurcated credit market: prime credit flows to private capital operators at low spreads, while subprime or relationship-dependent credit (small businesses that need a loan officer's judgment, or consumers with thin credit histories) gets either more expensive or disappears. For example, when a private equity firm acquires an infrastructure asset (toll road, water utility, pipeline), it finances the deal with 4-6x leverage using debt capital markets access that a local bank cannot access, then manages the asset through increased service fees and efficiency extraction—a capital advantage that allows PE firms to bid away assets that banks once held.",
+  "The final layer is systemic. When credit creation moves from regulated banks (which must maintain capital buffers, pass stress tests, and limit leverage) into private-equity-backed operators and alternative funds (which operate in a lighter regulatory envelope), credit supply becomes more procyclical. In good times, private capital floods into credit, driving explosive growth (Affirm's 48% GMV growth). In downturns, private capital withdraws or gets hamstrung by LP redemptions and mark-to-market losses, and credit collapses faster than the traditional banking system would allow. Communities and small businesses—lacking the scale to access capital markets—bear the brunt of that collapse. The burden of supporting credit availability shifts from regulated banks (where capital requirements force some continuity of lending) to private operators (who can exit instantly). This shift is visible in infrastructure: when private equity acquires a water utility or toll road, the new owner's first act is often to increase user fees (maintenance fees, tolls, service surcharges) to pay down acquisition debt and fund distribution to the PE fund's LPs. Those fee increases pass the burden of private-capital returns directly to end users—consumers, small businesses, and municipalities that depend on the infrastructure."
+ ],
+ "why_now": "Three shifts have accelerated privatization in 2024-2026. First, regulatory pressure post-2008 made traditional banking less profitable: capital requirements, stress tests, and regulatory scrutiny cut ROE on lending to 8-10%, pushing capital toward less-regulated alternatives that promise 15-20% returns. Second, asset managers recognized that credit is a profitable intermediate layer if you can source capital cheaply (from LPs, insurance float, or capital markets) and avoid regulated-bank costs; private credit fundraising reached record levels in 2025-2026, with major PE sponsors raising multi-billion-dollar dedicated credit platforms. Third, technology has made origination frictionless: Affirm's AdaptAI and BoostAI systems can underwrite and approve in real-time without loan officers, making the traditional bank's labor-intensive model obsolete. Affirm's $36.7B FY2025 GMV and explosive growth show that capital has figured out it can build credit supply without any of the traditional bank infrastructure. The inflection is urgent because regulatory windows are closing. After SVB and related 2023 bank failures, regulators are focusing on bank capital, liquidity coverage, and stress-testing. Those moves will further constrain bank lending, pushing more credit creation toward alternative operators. Meanwhile, private-credit fundraising reached record levels in 2025-2026, suggesting LPs are committing fresh capital to alternative credit at accelerating rates. Infrastructure fund AUM has grown to over $2 trillion globally, with PE sponsors using 4-6x leverage to multiply returns—meaning every dollar of LP capital controls $4-6 of infrastructure assets and the fee income they generate.",
+ "who_pays": "Three groups pay in different ways. **Pension beneficiaries and retail savers** pay through higher fees (2-and-20 vs. 40 bps) and worse returns when private funds underperform public indices, as they often do when you account for fees and J-curve drag. A $100 million pension allocation to a private credit fund at 2-and-20 costs beneficiaries $2 million annually in management fees alone; the same exposure in a public credit mutual fund would cost $400,000-500,000 annually. Over 10 years, the fee differential alone—roughly $1.6-1.7 million on a $100 million allocation—gets extracted from retirees and transferred to alternative managers. **Small-business owners and communities** pay through credit scarcity and higher spreads: as prime lending flows to private capital, SMBs compete for the credit that banks still offer, at higher rates. A small business that could have accessed a $500K term loan at 6% from a relationship bank in 2010 now faces either 9-12% rates from banks focused on subprime, or must turn to ABL (asset-based lending) providers at 12-15%, or is excluded entirely. **Infrastructure users and consumers** pay through direct fee increases: when Blackstone or Apollo acquires a toll road, water utility, or gas pipeline, the new owner's first act is to rationalize operations and increase user fees to service the acquisition debt and distribute returns to LPs. Toll road rate increases of 3-5% annually become standard after PE acquisition (vs. inflation-linked 1-2% under municipal ownership). Water utility customers see service fees increase 15-25% in the first two years post-PE acquisition to fund debt repayment and LP distributions. **Consumers in thin-credit-history categories** pay through either exclusion (Affirm focuses on 'near-prime' and above, leaving subprime to payday lenders and predatory operators) or through higher rates when they do get access. The subprime consumer who cannot access Affirm's near-prime credit turns to Elevate, OppFi, or payday lenders charging 400%+ APR—rates that private capital has no incentive to undercut because venture-backed BNPL operators have vacated the segment entirely.",
+ "who_profits": "Private-capital operators (Affirm, private-equity-backed credit platforms, alternative-asset managers, infrastructure fund sponsors) capture the value. Affirm's Q3 2026 adjusted operating income was 27% of revenue, a margin that traditional banks cannot achieve due to regulatory and funding costs; traditional bank operating margins are 15-18% after capital requirements, FDIC insurance, and regulatory compliance costs. Loews profits by deploying insurance float (which regulatory arbitrage makes cheaper than deposits) into investment strategies that return more than Treasuries. Alternative-asset managers profit through fee collection (2% annually on AUM), carry (20% of profits above hurdle rates), and deal sourcing. Private equity infrastructure funds profit through a compound: 2% management fee on $1 billion AUM = $20 million annually; carry on value creation and distribution; and fee-based returns from the portfolio companies themselves (management fees on toll roads, service surcharges on utilities). The chain of profit moves from pensioners and savers (who pay the fees) to LPs and operators (who collect them). For example, a $500 million infrastructure fund with $2 billion in portfolio assets under 4x leverage generates: $20M annually in management fees (2% of $1B AUM), plus distributions from portfolio company fee increases, plus 20% carry when assets are sold—often returning 15-20% annually to top LP investors while the underlying infrastructure users (toll road drivers, water customers, gas consumers) see 3-5% annual fee increases that barely keep pace with inflation.",
+ "tension": "The tension is unsustainable fee compression. If private-credit funds outperform and LP demand stays high, fee pressure eases. But Affirm's profitability depends on capital remaining cheap, origination staying frictionless, and credit losses staying low. A recession, rising capital costs, or credit tightening at scale all threaten the economics. Moreover, regulatory scrutiny will eventually reach private credit: once policymakers notice that $15T+ of non-bank credit creation is happening outside regulated banking, pressure will mount for either regulatory capture or capital restriction. The secondary tension is credit allocation: if private capital siphons all the good credit, the banking system becomes a residual holder of bad credit, raising systemic fragility. A stress scenario: if prime credit dries up during a recession (private capital redemptions force asset sales), small businesses cannot access credit at any price, and systemic credit contraction is sharper than if credit had remained in regulated banks. Finally, the LP fee dynamic creates a transparency problem: pension funds and retail investors may not realize they are paying 2-and-20 for credit exposure that public funds offer for 40 bps. Regulatory scrutiny on private credit fee transparency is rising: the SEC has flagged concerns about fee disclosure in private fund prospectuses, and California's pension system (CalPERS) has publicly complained about private-credit fee loads and J-curve returns drag.",
+ "surprising_part": "The most surprising fact is that Affirm Card GMV grew 146% in Q3 2026 while core BNPL growth plateaued. This shows the real profit is not in one-time purchase financing but in building a payment network with repeat usage and card-linked economics. Affirm is becoming a bank-like system without being a bank, with credit, cards, and merchant relationships all integrated. That is harder to regulate, more resilient, and more profitable than the traditional BNPL thesis suggested. The secondary surprise: infrastructure funds' leverage ratios (4-6x EBITDA) mean they are borrowing more than traditional utilities ever did, yet regulatory scrutiny of non-bank leverage in infrastructure remains minimal. A $10 billion water utility that moves from municipal ownership to PE ownership can double its debt load to service the acquisition and fund PE distributions, yet that leverage doesn't show up on any regulatory radar—it's hidden in private-equity fund structures and LP agreements.",
+ "one_sentence": "Private capital colonizes credit creation by capturing high-quality borrowers at low spreads while leaving regulated banks with residual, lower-return portfolios—and passing the fee costs to pensioners, the cost of credit to small businesses, and infrastructure fee increases to communities.",
+ "societal_stake": "If credit creation increasingly flows outside regulated banking, the public loses the stability that regulation provides: capital buffers, stress-testing, and mandatory lending continuity. In downturns, credit withdraws faster than the traditional banking system would allow, hitting small businesses and communities hardest. Pensioners and savers lose real returns to fee extraction that benefits alternative managers and operators. Infrastructure users face higher fees to service PE acquisition debt and LP distributions. And the credit-allocation system becomes more bifurcated: prime borrowers get cheap capital from alternative funds, while subprime and relationship-dependent borrowers get either excluded or served by increasingly predatory lenders filling the gap left by traditional banking. Over a 20-30 year horizon, this bifurcation creates two credit systems: one for the capital-markets-connected, one for everyone else—and the gap widens as regulation tightens on traditional banking.",
+ "evidence": [
+  {
+   "company": "Affirm Holdings",
+   "fact": "Q3 2026 GMV grew 48% to $11.6B, showing consumer installment credit escaping regulated banking at scale"
+  },
+  {
+   "company": "Affirm Holdings",
+   "fact": "Affirm Card GMV grew 146% in Q3 2026 to $2.1B, showing card-linked repeat usage building bank-like switching costs"
+  },
+  {
+   "company": "Affirm Holdings",
+   "fact": "FY2025 GMV of $36.7B with 72% from interest-bearing monthly installments—equivalent to mid-sized consumer bank credit portfolio"
+  },
+  {
+   "company": "Affirm Holdings",
+   "fact": "Q3 2026 active cardholders more than doubled to 4.4M, and over 65% of U.S. loan approvals were presented as 0% APR offers"
+  },
+  {
+   "company": "Affirm Holdings",
+   "fact": "Q3 2026 adjusted operating income of 27% of revenue—a margin traditional banks cannot achieve due to regulatory and funding costs (traditional bank operating margins: 15-18%)"
+  },
+  {
+   "company": "Loews Corporation",
+   "fact": "2025 net income of $1.7B deployed through insurance float into investment strategies that generate private-capital returns; float-based capital arbitrage vs. deposit-funded banks"
+  },
+  {
+   "company": "American Express",
+   "fact": "Competes with Affirm-like operators for merchant conversion and installment-finance relationships at checkout, losing prime borrowers to venture-backed BNPL"
+  },
+  {
+   "company": "Blackstone / Apollo / KKR Infrastructure Funds",
+   "fact": "Infrastructure fund portfolio companies (toll roads, water utilities, gas pipelines) financed with 4-6x EBITDA leverage using capital markets access unavailable to traditional municipal/regional operators"
+  },
+  {
+   "company": "Private Credit Funds (Blackstone Credit, Apollo Credit, KKR Credit)",
+   "fact": "2-and-20 fee structure (2% management fee + 20% carry) standard for institutional allocations; vs. 40-50 bps for public mutual funds—150-200 bps annual differential per LP allocation"
+  },
+  {
+   "company": "Affirm Holdings",
+   "fact": "Q1 2026: active consumers reached 24.1M (up 24% YoY) and 0% APR GMV grew 74%, showing credit penetration deepening in prime and near-prime segments"
+  },
+  {
+   "company": "CalPERS (California Public Employees Retirement System)",
+   "fact": "Public complaints about private-credit fund fee loads and J-curve performance drag limiting pension returns (2024-2025 reported concerns)"
+  },
+  {
+   "company": "Private Credit Markets",
+   "fact": "Private credit fundraising reached record levels in 2025-2026; multi-billion-dollar dedicated credit platforms launched by Blackstone, Apollo, KKR"
+  },
+  {
+   "company": "Infrastructure Fund Portfolio",
+   "fact": "Toll road rate increases 3-5% annually standard post-PE acquisition vs. inflation-linked 1-2% under municipal ownership; service fee increases on water utilities 15-25% in first two years post-PE acquisition"
+  }
+ ]
+}

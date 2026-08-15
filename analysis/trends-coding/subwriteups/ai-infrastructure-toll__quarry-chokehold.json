@@ -1,87 +1,87 @@
 {
-  "slug": "quarry-chokehold",
-  "trend_slug": "ai-infrastructure-toll",
-  "name": "The Quarry Chokehold: Local Stone, National Power",
-  "deck": "Crushed stone and gravel cannot move more than 50 miles economically, which means every data center under construction is held hostage to whoever owns the permitted quarry in the region—and they know it.",
-  "core_bet": "AI-driven data-center construction is routing billions through aggregates companies because the physics of freight cost makes local quarry position an unbypassable toll gate. Vulcan Materials, Martin Marietta, and Knife River hold permitted reserves that hyperscalers cannot negotiate around. The result is a three-year window where regional aggregates operators collect involuntary premiums on every cubic yard of infrastructure, while hyperscaler procurement teams watch their construction costs climb because there is literally no alternative source.",
-  "numbers": [
-    {
-      "stat": "88%",
-      "label": "Martin Marietta aggregates share of gross profit (2025)"
-    },
-    {
-      "stat": "400",
-      "label": "Martin Marietta quarries, mines, and distribution yards across 28 states (2025)"
-    },
-    {
-      "stat": "$22.74",
-      "label": "Martin Marietta average selling price per ton, Q2 2026"
-    },
-    {
-      "stat": "61.6M",
-      "label": "Martin Marietta aggregates shipments in Q2 2026 (tons)"
-    },
-    {
-      "stat": "227M",
-      "label": "Vulcan Materials aggregates shipments in 2025 (tons)"
-    },
-    {
-      "stat": "$11.33",
-      "label": "Vulcan cash gross profit per ton in 2025"
-    },
-    {
-      "stat": "1.3B",
-      "label": "Knife River aggregate reserves (tons)"
-    },
-    {
-      "stat": "89%",
-      "label": "Knife River 2025 year-end backlog tied to publicly funded projects"
-    }
-  ],
-  "mechanism": [
-    "The physics of aggregates economics creates a structural chokehold that no digital-era procurement innovation can escape. Crushed stone, sand, and gravel are low-density, bulk materials. Transportation cost scales with distance far faster than value does. A truckload of stone worth a few hundred dollars cannot profitably move more than 50 miles. This is not a friction that will dissolve with better logistics or alternative sourcing. It is permanent physical constraint embedded into the cost structure of any construction project. When a hyperscaler announces a $20 billion data-center campus, the construction schedule and cost floor are immediately hostage to the nearest permitted quarry operator.",
-    "Martin Marietta Materials operates 400 quarries, mines, and distribution yards across 28 states, Canada, and the Bahamas. In fiscal 2025, aggregates generated 88% of the company's total reportable segment gross profit—not 50%, not 70%, but 88%. This is not a diversified business. It is a quarry business with some other products attached. The company explicitly frames its strategy around aggregates: the 2025 10-K repeatedly ties demand to infrastructure, nonresidential construction, logistics, energy, and data centers. That last item—data centers—is new language for a 30-year-old materials company, and it reflects the reality that every megawatt of compute infrastructure now requires a foundation of rock that has to come from somewhere local.",
-    "Vulcan Materials, the national aggregates leader, shipped 227 million tons in 2025 and achieved cash gross profit per ton of $11.33. This metric matters because it proves the model works on disciplined volume and price realization, not exotic leverage. Knife River, the vertically integrated competitor, ended 2025 with 1.3 billion tons of aggregate reserves and backlog that was 89% publicly funded. These are not numbers that suggest tight supply. They signal that all three companies have built their reserve bases, permitting depth, and geographic footprints to own the local scarcity that data-center construction requires. They did this not for AI, but the AI buildout is now walking straight into their prepared moat."
-  ],
-  "why_now": "The trigger is the sudden capital intensity of AI infrastructure. Five years ago, hyperscalers built data centers at a measured pace tied to incremental compute demand. Today, trillion-dollar AI procurement timelines have compressed that cycle into 18-month sprint schedules. A hyperscaler announcing a 500-acre campus now needs excavation, foundation work, and site development to happen in parallel, all of which requires massive aggregates inputs on a compressed timeline. That urgency inverts the traditional buyer-seller dynamic. Normally, a construction buyer might shop for stone from multiple regions. Today, they announce a site, the geology is fixed, and they are now dependent on the permitted quarry closest to that location. If that quarry operator already has capacity and is willing to prioritize the work, they can charge premium rates. If the quarry does not exist yet, the timeline extends by years for new permitting and development. Either way, the hyperscaler cannot negotiate the physics away. The reserve position compounds this effect. Vulcan, Martin Marietta, and Knife River have spent decades acquiring and permitting quarries in high-growth regions. They knew residential construction, highway maintenance, and public infrastructure would drive steady demand. They did not know that concentrated compute buildout would create spiky, urgent, regionalized demand surges. The structural scarcity was already embedded. The AI timeline just accelerated when it gets called into service.",
-  "who_pays": "Every construction company, general contractor, and construction manager working on a hyperscaler data-center campus pays higher aggregates costs because they have no alternative source and no time to find one. Those costs flow into the construction budget, the project timeline, and ultimately the cost basis of the data-center asset. Some of this cost may be passed to consumers via higher cloud prices over time, but initially, it is absorbed by the hyperscaler's capital budget as a higher-than-modeled construction cost. The procurement team budgeted $15/ton for aggregate delivery; they are now negotiating at $22-25/ton because the quarry operator knows the project cannot move without their stone. Smaller construction firms and regional builders that also need aggregates for other projects (warehouses, mixed-use, industrial sites) also face higher costs, because the peak AI-driven demand tightens the local supply queue and pushes marginal projects back in the queue.",
-  "who_profits": "Vulcan Materials, Martin Marietta Materials, and Knife River Corporation profit directly. Q2 2026 data shows Martin Marietta raising full-year guidance to $7.2B-$7.4B revenue and $2.36B-$2.5B adjusted EBITDA. Knife River reported Q2 2026 aggregate pricing improvements of 8% on a product-mix-adjusted basis and raised guidance for revenue and volumes. Vulcan maintained cash gross profit per ton above $12 in Q2 2026 despite weather disruptions in Texas. None of these companies are reporting margin compression. They are reporting margin expansion or stability in an environment where input costs and freight are rising. That spread widens their buffer. Commercial Metals also benefits indirectly. The company manufactures products from 98% recycled material and serves the construction sector. As data-center construction pulls rebar, fabrication, and precast inputs into compressed timelines, CMC's backlog and pricing expand. Q3 2026 showed metal margins improving by $111/ton year over year as selling prices rose $130/ton while scrap increased only $19/ton.",
-  "tension": "The chokehold is temporary but visible. For the next 2-4 years, while major hyperscaler campuses are under construction in waves, aggregates demand will remain elevated and regional quarries will operate at high utilization. Pricing power will persist. After the main buildout is complete, demand normalizes and prices soften. Quarry operators are aware of this cycle—they have seen it before in construction booms. The tension is not whether the cycle will reverse, but whether they invested in capacity expansion that will be stranded when it does. Martin Marietta spent $450M in the QUIKRETE exchange and acquired New Frontier for roughly 8M additional tons of annual capacity. Knife River spent $244.5M on growth initiatives in H1 2026, including $184.4M on acquisitions. That is $428.5M of capital deployed betting that the surge lasts long enough to justify the capacity. If AI infrastructure buildout cools sharply in 2028-2029, those capital projects become marginal. If the buildout extends another 2-3 years as expected, the investments look prescient. There is also a permitting and environmental tension. Quarries require state-level permits, local approvals, and environmental mitigation. Expanding capacity at existing sites requires amending permits. Greenfield quarries require multi-year permitting. The companies are using recent capital to expand *now*, before permitting backlogs get longer. This is a race against regulatory friction, not against competitors with capital. The winner is whoever secured permits and land access before the rush.",
-  "surprising_part": "The most non-obvious element is that aggregates prices matter more to total project cost than most AI infrastructure narratives admit. A 500-acre data-center campus requires roughly 2-3 million cubic yards of fill, compacted base, and site-work aggregate. At $20-25/ton delivered, that is $40-75 million in aggregates costs on a $5-10 billion capital project. It looks small as a percentage. But aggregates are among the few project inputs where there is zero substitution and no negotiation. You cannot use less stone. You cannot use a different material. You cannot import it from a cheaper region. That inflexibility is what makes it a toll. Hyperscalers are used to negotiating commodity inputs down—power, cooling, fiber, labor. Aggregates do not bend to that leverage. This is the layer of the AI buildout that operates like a natural resource play, not like a technology play. The second surprising element is the permitting advantage. Vulcan, Martin Marietta, and Knife River accumulated their reserve bases over decades, often in advance of clear demand signals. The new permitting environment makes that impossible. A startup or challenger wanting to open a new quarry today faces 5-10 year permitting cycles, environmental reviews, and community opposition. The incumbents do not face that friction for capacity additions at existing sites. Their permit depth is an asset that cannot be replicated or purchased. That is what makes the chokehold durable.",
-  "one_sentence": "Every cubic yard of AI infrastructure passes through a quarry that the hyperscaler does not own and cannot replace, and the quarry operator knows it.",
-  "societal_stake": "A person should care because this illustrates how even a digital-era phenomenon like AI infrastructure buildout still depends on old-economy physical constraints that cannot be automated away. The progress of AI, the competitiveness of cloud computing, and the pace of data-center expansion are ultimately limited by the speed at which rock can be extracted from the ground, trucked 30-50 miles, and compacted into foundations. Permitting, environmental review, and local opposition to quarrying operations become indirect constraints on AI deployment. If aggregate supply tightens enough, it can compress the timeline for data-center construction, which affects the availability and cost of cloud services. Conversely, permitting reform that accelerates aggregate extraction could unlock billions of dollars of faster infrastructure deployment. This is the overlooked infrastructure chokepoint—not power or fiber, but dirt and stone. It also reflects a broader pattern: the most important physical constraints in the modern economy often hide in boring, unsexy industries. Quarries, trucking, permitting, and local supply chains do not capture venture capital or cultural attention. But they are the hard constraint on how fast and how cheap AI infrastructure can actually be built. Understanding that constraint is essential to any realistic picture of how the AI transition will actually happen.",
-  "evidence": [
-    {
-      "company": "Martin Marietta Materials",
-      "fact": "Aggregates generated 88% of total reportable segment gross profit in 2025"
-    },
-    {
-      "company": "Martin Marietta Materials",
-      "fact": "Operating 400 quarries, mines, and distribution yards across 28 states, Canada, and the Bahamas"
-    },
-    {
-      "company": "Martin Marietta Materials",
-      "fact": "Q2 2026 aggregates shipments increased 17% to 61.6M tons with average selling price of $22.74/ton"
-    },
-    {
-      "company": "Vulcan Materials Company",
-      "fact": "2025 cash gross profit per ton was $11.33, achieved on 227M tons of shipments"
-    },
-    {
-      "company": "Vulcan Materials Company",
-      "fact": "Operating 425 active aggregates facilities, 71 asphalt facilities, and 76 concrete facilities nationally"
-    },
-    {
-      "company": "Knife River Corporation",
-      "fact": "1.3 billion tons of aggregate reserves underpinning the business"
-    },
-    {
-      "company": "Knife River Corporation",
-      "fact": "2025 year-end backlog of $1.0B with 89% tied to publicly funded projects"
-    },
-    {
-      "company": "Knife River Corporation",
-      "fact": "Q2 2026 aggregate pricing improved 8% on product-mix-adjusted basis with backlog increasing sequentially to $1.2B"
-    }
-  ]
+ "slug": "quarry-chokehold",
+ "trend_slug": "ai-infrastructure-toll",
+ "name": "The Quarry Chokehold: Local Stone, National Power",
+ "deck": "Crushed stone and gravel cannot move more than 50 miles economically, which means every AI data-center campus is held hostage to whoever owns the permitted quarry closest to the site—and they know it.",
+ "core_bet": "AI-driven data-center construction is routing billions through aggregates companies because physics makes local quarry position an unbypassable toll gate. Vulcan Materials, Martin Marietta, and Knife River hold permitted reserves that hyperscalers cannot negotiate around. The result is a three-year window where regional aggregates operators collect involuntary premiums on every cubic yard of infrastructure, while hyperscaler procurement watches construction costs climb because there is literally no alternative source. A 500-acre data-center campus requires 2-3 million cubic yards of fill and base aggregate at $20-25/ton delivered—$40-75 million in non-negotiable costs on a $5-10 billion project that cannot be delayed.",
+ "numbers": [
+  {
+   "stat": "88%",
+   "label": "Martin Marietta aggregates share of gross profit in 2025"
+  },
+  {
+   "stat": "400",
+   "label": "Martin Marietta quarries, mines, and distribution yards across 28 states, Canada, and the Bahamas"
+  },
+  {
+   "stat": "$22.74",
+   "label": "Martin Marietta average selling price per ton in Q2 2026"
+  },
+  {
+   "stat": "61.6 million",
+   "label": "Martin Marietta aggregates shipments in Q2 2026 measured in tons"
+  },
+  {
+   "stat": "227 million",
+   "label": "Vulcan Materials aggregates shipments in 2025"
+  },
+  {
+   "stat": "$11.33",
+   "label": "Vulcan cash gross profit per ton in 2025"
+  },
+  {
+   "stat": "1.3 billion",
+   "label": "Knife River aggregate reserves in tons as of year-end 2025"
+  },
+  {
+   "stat": "89%",
+   "label": "Knife River 2025 year-end backlog tied to publicly funded projects"
+  }
+ ],
+ "mechanism": [
+  "The physics of aggregates economics creates a structural chokehold that digital-era procurement cannot escape. Crushed stone, sand, and gravel are low-density bulk materials. Transportation cost scales with distance far faster than value does. A truckload of stone worth a few hundred dollars cannot profitably move more than 50 miles—this is not friction that logistics innovation will dissolve. It is a permanent physical constraint embedded into construction cost structure. When a hyperscaler announces a $20 billion data-center campus on a specific 500-acre site, that construction schedule and cost floor are immediately hostage to the nearest permitted quarry operator. Martin Marietta Materials operates 400 quarries and distribution yards across 28 states. In fiscal 2025, aggregates generated 88% of the company's gross profit—not a diversified portfolio but a specialized quarry business. The company explicitly frames its strategy around aggregates demand tied to infrastructure, nonresidential construction, energy, and data centers. That last item is new language, reflecting reality that every megawatt of compute infrastructure requires a foundation of locally-sourced rock.",
+  "Vulcan Materials shipped 227 million tons in 2025 and achieved $11.33 cash gross profit per ton, proving the model works on disciplined volume and price discipline, not exotic leverage. Knife River ended 2025 with 1.3 billion tons of reserves and backlog that was 89% publicly funded—metrics that suggest not tight supply but carefully positioned incumbents. All three companies have built reserve bases, permitting depth, and geographic footprints to own the local scarcity that data-center construction requires. They did this over decades in advance of clear AI demand signals. Today, as hyperscalers sprint to build campuses on compressed 18-month schedules, that incumbent positioning becomes a chokehold. A challenger wanting to open a new quarry today faces 5-10 year permitting cycles, environmental reviews, and community opposition. The incumbents can expand existing sites at lower friction. That permit depth is an asset that cannot be replicated or purchased.",
+  "The trigger is sudden capital intensity of AI infrastructure. Five years ago hyperscalers built data centers at measured pace tied to incremental compute demand. Today, trillion-dollar AI procurement timelines compressed the cycle into 18-month sprint schedules. A hyperscaler announcing a 500-acre campus needs excavation, foundation work, and site development in parallel, all requiring massive aggregates inputs on compressed timeline. That urgency inverts the buyer-seller dynamic. Normally a construction buyer might shop stone from multiple regions. Today they announce a site, geology is fixed, and they depend on the permitted quarry closest to that location. If that quarry has capacity and prioritizes the work, they can charge premium rates. If the quarry does not exist yet, the timeline extends by years. Either way, the hyperscaler cannot negotiate the physics away."
+ ],
+ "why_now": "The AI infrastructure buildout crystallized in 2025-2026 as hyperscalers committed multi-year capital plans simultaneously. Data-center construction intensity reached levels never seen before outside defense spending. Martin Marietta and Knife River explicitly named data-center demand as a new volume driver in Q2 2026 earnings. Q2 2026 Martin Marietta aggregates shipments reached 61.6 million tons, up 17% year-over-year, with average selling price of $22.74/ton—pricing that reflects demand tightness and urgency from construction projects. Knife River Q2 2026 showed aggregate pricing improvements of 8% on product-mix-adjusted basis with backlog increasing sequentially to $1.2 billion. Vulcan maintained cash gross profit per ton above $12 in Q2 2026 despite weather disruptions in Texas. The inflection point is that hyperscaler buildout is neither a prediction nor a forecast—it is visible in real-time in aggregates company backlogs, shipment volumes, and pricing power in Q2 2026.",
+ "who_pays": "Every construction company, general contractor, and construction manager working on a hyperscaler data-center campus pays higher aggregates costs because they have no alternative source and no time to find one. Those costs flow into construction budgets, project timelines, and ultimately the cost basis of the data-center asset. Construction teams that budgeted $15/ton for aggregate delivery are now negotiating at $22-25/ton because quarry operators know the project cannot move without their stone. Smaller construction firms and regional builders that need aggregates for other projects (warehouses, mixed-use, industrial sites) also face tightened supply queues as peak AI-driven demand pushes marginal projects backward.",
+ "who_profits": "Vulcan Materials, Martin Marietta Materials, and Knife River Corporation profit directly. Q2 2026 Martin Marietta raised full-year guidance to $7.2B-$7.4B revenue and $2.36B-$2.5B adjusted EBITDA. Knife River reported Q2 2026 aggregate pricing improvements and raised guidance for revenue and volumes. Vulcan maintained price realization above $12 per ton despite input-cost inflation. None are reporting margin compression. They are reporting margin expansion or stability in an environment where input and freight costs are rising. Commercial Metals also benefits indirectly. CMC manufactures from 98% recycled material and serves construction sector. As data-center construction pulls rebar and fabrication into compressed timelines, CMC's backlog and pricing expand. Q3 2026 showed metal margins improving by $111/ton year-over-year as selling prices rose $130/ton while scrap increased only $19/ton.",
+ "tension": "The chokehold is temporary but visible. For 2-4 years while major hyperscaler campuses are under construction in waves, aggregates demand remains elevated and regional quarries operate at high utilization. Pricing power persists. After buildout completes, demand normalizes and prices soften. Quarry operators are aware of this cycle. The tension is whether they invested in capacity expansion that will be stranded when it reverses. Martin Marietta spent $450M on the QUIKRETE exchange and acquired New Frontier for 8M additional tons of annual capacity. Knife River spent $244.5M on growth initiatives in H1 2026, including $184.4M on acquisitions—$428.5M betting the surge lasts. If AI infrastructure buildout cools sharply in 2028-2029, those capital projects become marginal. If buildout extends 2-3 more years as expected, investments look prescient. There is also a permitting and environmental tension. Expanding capacity at existing sites requires amending permits. The companies are using recent capital to expand now, before permitting backlogs lengthen. This is a race against regulatory friction.",
+ "surprising_part": "The non-obvious part is that aggregates prices matter more to total data-center project cost than most narratives admit. A 500-acre campus requires 2-3 million cubic yards of aggregate. At $20-25/ton delivered, that is $40-75 million in costs on a $5-10 billion project. It looks small as a percentage. But aggregates are among few project inputs with zero substitution and no negotiation. You cannot use less stone. You cannot use different material. You cannot import from a cheaper region. That inflexibility makes it a toll. Hyperscalers negotiate commodity inputs down—power, cooling, fiber, labor. Aggregates do not bend to that leverage. This is the layer of AI buildout that operates like a natural-resource play, not a technology play. The second surprise is that permitting advantage is durable. A startup wanting to open a new quarry faces 5-10 year cycles. Incumbent operators expanding existing sites face much lower friction. That permit depth creates an unbypassable moat that money cannot purchase—only time and prior decision-making can replicate it.",
+ "one_sentence": "Every cubic yard of AI infrastructure passes through a quarry that the hyperscaler does not own and cannot replace, and the quarry operator knows it.",
+ "societal_stake": "A person should care because this illustrates how even a digital-era phenomenon like AI infrastructure depends on old-economy physical constraints that cannot be automated away. The progress of AI, the competitiveness of cloud computing, and the pace of data-center expansion are ultimately limited by the speed at which rock can be extracted from ground, trucked 30-50 miles, and compacted into foundations. Permitting, environmental review, and local opposition to quarrying become indirect constraints on AI deployment. If aggregate supply tightens enough, it can compress data-center construction timelines and affect cloud-service availability and cost. Permitting reform that accelerates aggregate extraction could unlock billions of dollars of faster infrastructure deployment. This is the overlooked infrastructure chokepoint—not power or fiber, but dirt and stone. The physical constraints in modern economy often hide in boring industries. Quarries, trucking, permitting, and local supply chains do not capture venture capital or cultural attention. But they are hard constraints on how fast and how cheap AI infrastructure can actually be built.",
+ "evidence": [
+  {
+   "company": "Martin Marietta Materials",
+   "fact": "Aggregates generated 88% of total reportable segment gross profit in 2025"
+  },
+  {
+   "company": "Martin Marietta Materials",
+   "fact": "Operating 400 quarries, mines, and distribution yards across 28 states, Canada, and the Bahamas"
+  },
+  {
+   "company": "Martin Marietta Materials",
+   "fact": "Q2 2026 aggregates shipments increased 17% to 61.6 million tons with average selling price of $22.74/ton, raising full-year guidance"
+  },
+  {
+   "company": "Vulcan Materials Company",
+   "fact": "2025 cash gross profit per ton was $11.33 achieved on 227 million tons of shipments"
+  },
+  {
+   "company": "Vulcan Materials Company",
+   "fact": "Operating 425 active aggregates facilities, 71 asphalt facilities, and 76 concrete facilities nationally"
+  },
+  {
+   "company": "Knife River Corporation",
+   "fact": "1.3 billion tons of aggregate reserves underpinning the business"
+  },
+  {
+   "company": "Knife River Corporation",
+   "fact": "2025 year-end backlog of $1.0 billion with 89% tied to publicly funded projects"
+  },
+  {
+   "company": "Knife River Corporation",
+   "fact": "Q2 2026 aggregate pricing improved 8% on product-mix-adjusted basis with backlog increasing sequentially to $1.2 billion"
+  }
+ ]
 }

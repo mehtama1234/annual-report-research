@@ -1,36 +1,75 @@
 {
-  "slug": "pharma-toll-road",
-  "trend_slug": "spread-machine",
-  "name": "The Drug Tax: How Pharmaceutical Distributors Sit Between Every Pill and Every Patient",
-  "deck": "Three companies control 90% of U.S. drug distribution, collecting recurring spreads that have nothing to do with logistics and everything to do with structural chokehold.",
-  "core_bet": "McKesson, Cencora, and Cardinal Health control ~90% of U.S. drug distribution. They sit between every manufacturer and every pharmacy, hospital, and provider. The GLP-1 surge created a paradox: revenue rising while gross-margin percentage fell, because distributors are locked into percentage-of-price economics. Specialty and oncology channels (McKesson's $14.2B Oncology & Multispecialty, Cencora's OneOncology) are the escape valve toward higher-quality spread.",
-  "numbers": [
-    {"stat": "$359.1B", "label": "McKesson FY2025 revenue"},
-    {"stat": "$14.2B", "label": "McKesson Oncology & Multispecialty segment revenue (Q1 FY2027)"},
-    {"stat": "$25.72", "label": "McKesson diluted EPS (FY2025)"},
-    {"stat": "$321B", "label": "Cencora FY2025 consolidated revenue"},
-    {"stat": "$16.00", "label": "Cencora FY2025 adjusted diluted EPS"},
-    {"stat": "$222.6B", "label": "Cardinal Health FY2025 revenue"},
-    {"stat": "$8.24", "label": "Cardinal Health FY2025 non-GAAP diluted EPS"}
-  ],
-  "mechanism": [
-    "The distribution structure is a three-layer tax. Manufacturers produce drugs at cost; distributors buy and hold inventory; pharmacies and providers dispense. Distributors do not own drugs long. They hold them days or weeks, collect a small percentage spread (1-3%), and move massive volume. With $1 trillion flowing through distribution annually, even 1-2% spread generates enormous absolute dollar income. But volume does not increase infinitely. Every pill sold is one fewer pill to sell next cycle.",
-    "The GLP-1 paradox reveals the margin trap. GLP-1 volume surged 100%+, so gross-profit dollars rose. But gross-margin percentage fell because GLP-1 drugs are high-volume, thin-spread commodities. Distributors bought and moved more volume but earned less per unit. The financial engineering is to shift into higher-spread channels: specialty, oncology, and provider-facing services (McKesson's Oncology & Multispecialty at $14.2B; Cencora's OneOncology acquisition). These channels have lower volume but higher margin per unit.",
-    "The structural chokehold is that there is no bypass route. Manufacturers cannot sell directly to every pharmacy and hospital. Distributors control the logistics layer and have negotiated exclusive or preferred relationships with most providers. This creates dependency and insulates margins from pure commoditization."
-  ],
-  "why_now": "GLP-1 growth exposed the limits of the percentage-of-price model. Distributors got more revenue but lower margins. This forced a strategic pivot: either push into specialty/oncology/services, or accept lower profitability. All three are pivoting simultaneously, creating consolidation (Cencora's OneOncology, McKesson's service expansion) and a race for higher-quality spread channels.",
-  "who_pays": "Manufacturers and providers pay through reduced wholesale margin and pressure to negotiate channel access. Patients potentially pay through higher end retail prices if distributors pass through pressure to pharmacies. Healthcare systems pay through complexity and embedded service costs.",
-  "who_profits": "Distributors profit through market concentration, switching costs, and the ability to monetize every layer: distribution margin, specialty services, data services, logistics, and financing. McKesson, Cencora, and Cardinal Health are among the most durable businesses in healthcare because they sit at the chokepoint.",
-  "tension": "The percentage-of-price model is broken by high-volume, thin-margin drugs like GLP-1s. Distributors must either raise prices (unlikely in a competitive market), reduce costs (subject to logistics constraints), or shift into higher-margin channels. The shift to specialty/oncology/services increases complexity and risk, and depends on sustained pricing power in those channels.",
-  "surprising_part": "Despite years of industry warnings about thin margins and volume pressure, all three distributors remain extraordinarily profitable. This suggests that the structural chokehold is stronger than cost pressure—manufacturers and providers have no choice but to use them.",
-  "one_sentence": "Pharmaceutical distributors control the one mandatory chokepoint between every drug and every patient, collecting tolls regardless of their actual value-add.",
-  "societal_stake": "Three companies control access to medicines for the entire U.S. healthcare system. Any disruption in their operations (strikes, cyber attacks, supply issues) cascades through the entire pharmacy and hospital network. The dependence is absolute, which means cost pressure from any direction (regulation, consolidation, geopolitics) can propagate through drug availability and pricing.",
-  "evidence": [
-    {"company": "McKesson Corporation", "fact": "FY2025 revenue $359.1B with Oncology & Multispecialty reaching $14.2B in Q1 FY2027"},
-    {"company": "McKesson Corporation", "fact": "Adjusted EPS of $9.93 in Q1 FY2027, up 20%, showing sustained profitability despite thin base margins"},
-    {"company": "Cencora", "fact": "FY2025 consolidated revenue $321B with adjusted diluted EPS of $16.00"},
-    {"company": "Cencora", "fact": "Q3 FY2026 revenue $84.8B with 5.1% year-over-year growth and renewed guidance raise"},
-    {"company": "Cardinal Health", "fact": "FY2025 revenue $222.6B with non-GAAP diluted EPS of $8.24, down 2% as reported but up 18% excluding customer contract expiration"},
-    {"company": "Cardinal Health", "fact": "Q2 FY2026 revenue $65.6B with 19% growth and service-platform monetization driving earnings acceleration"}
-  ]
+ "slug": "pharma-toll-road",
+ "trend_slug": "spread-machine",
+ "name": "The Drug Tax: How Pharmaceutical Distributors Sit Between Every Pill and Every Patient",
+ "deck": "Three companies control 90% of U.S. drug distribution, collecting recurring spreads that have nothing to do with logistics and everything to do with structural chokehold.",
+ "core_bet": "McKesson, Cencora, and Cardinal Health control ~90% of U.S. drug distribution. They sit between every manufacturer and every pharmacy, hospital, and provider. The GLP-1 surge created a paradox: revenue rising while gross-margin percentage fell, because distributors are locked into percentage-of-price economics. Specialty and oncology channels (McKesson's $14.2B Oncology & Multispecialty segment, Cencora's OneOncology) are the escape valve toward higher-quality spread.",
+ "numbers": [
+  {
+   "stat": "$359.1B",
+   "label": "McKesson FY2025 revenue"
+  },
+  {
+   "stat": "$14.2B",
+   "label": "McKesson Oncology & Multispecialty segment revenue (Q1 FY2027)"
+  },
+  {
+   "stat": "$25.72",
+   "label": "McKesson diluted EPS (FY2025)"
+  },
+  {
+   "stat": "$321B",
+   "label": "Cencora FY2025 consolidated revenue"
+  },
+  {
+   "stat": "$16.00",
+   "label": "Cencora FY2025 adjusted diluted EPS"
+  },
+  {
+   "stat": "$222.6B",
+   "label": "Cardinal Health FY2025 revenue"
+  },
+  {
+   "stat": "$8.24",
+   "label": "Cardinal Health FY2025 non-GAAP diluted EPS"
+  }
+ ],
+ "mechanism": [
+  "The distribution structure is a three-layer tax. Manufacturers produce drugs at cost; distributors buy and hold inventory; pharmacies and providers dispense. Distributors do not own drugs long. They hold them days or weeks, collect a small percentage spread (1-3%), and move massive volume. With $1 trillion flowing through distribution annually, even 1-2% spread generates enormous absolute dollar income. But volume does not increase infinitely. Every pill sold is one fewer pill to sell next cycle.",
+  "The GLP-1 paradox reveals the margin trap. GLP-1 volume surged 100%+, so gross-profit dollars rose. But gross-margin percentage fell because GLP-1 drugs are high-volume, thin-spread commodities. Distributors bought and moved more volume but earned less per unit. The financial engineering is to shift into higher-spread channels: specialty, oncology, and provider-facing services (McKesson's Oncology & Multispecialty at $14.2B; Cencora's OneOncology acquisition). These channels have lower volume but higher margin per unit.",
+  "The structural chokehold is that there is no bypass route. Manufacturers cannot sell directly to every pharmacy and hospital. Distributors control the logistics layer and have negotiated exclusive or preferred relationships with most providers. This creates dependency and insulates margins from pure commoditization. McKesson's $25.72 FY2025 diluted EPS and Cencora's $16.00 FY2025 adjusted EPS reflect sustained profitability despite the bulk-commodity nature of base pharmaceutical distribution. Specialty and oncology become the margin defense."
+ ],
+ "why_now": "The GLP-1 volume surge of 2023-2025 exposed the limits of the percentage-of-price model with crystalline clarity. From 2023 to 2025, GLP-1 utilization exploded — Ozempic, Wegovy, Mounjaro volume surged 100%+ as obesity and diabetes indications expanded beyond early-adopter pools. Distributors got more revenue but lower margins because GLP-1 drugs are priced lower than specialty injectables but move much higher volume. This forced a strategic pivot: either push into specialty/oncology/services, or accept lower profitability. All three major distributors pivoted simultaneously in 2024-2025, creating consolidation (Cencora's OneOncology acquisition, McKesson's service expansion) and a race for higher-quality spread channels. The inflection was not gradual — it was the collision of GLP-1 volume surge meeting the mathematical reality that percentage-of-price economics break on high-volume, low-margin drugs.",
+ "who_pays": "Manufacturers and providers pay through reduced wholesale margin and pressure to negotiate channel access. Patients potentially pay through higher end retail prices if distributors pass through pressure to pharmacies. Healthcare systems pay through complexity and embedded service costs.",
+ "who_profits": "Distributors profit through market concentration, switching costs, and the ability to monetize every layer: distribution margin, specialty services, data services, logistics, and financing. McKesson, Cencora, and Cardinal Health are among the most durable businesses in healthcare because they sit at the chokepoint. Their structural margin is insulated by the fact that there is no alternative infrastructure.",
+ "tension": "The percentage-of-price model is broken by high-volume, thin-margin drugs like GLP-1s. Distributors must either raise prices (unlikely in a competitive market), reduce costs (subject to logistics constraints), or shift into higher-margin channels. The shift to specialty/oncology/services increases complexity and risk, and depends on sustained pricing power in those channels. The second tension is that as GLP-1 market penetration deepens and competition increases (new GLP-1 entrants, price competition), the volume surge can turn into a margin squeeze that no specialty channel migration can fully offset.",
+ "surprising_part": "Despite years of industry warnings about thin margins and volume pressure, all three distributors remain extraordinarily profitable. McKesson's $25.72 FY2025 diluted EPS and Cencora's $16.00 FY2025 adjusted EPS suggest that the structural chokehold is stronger than cost pressure — manufacturers and providers have no choice but to use them. What is surprising is that the distributors can simultaneously expand specialty segments while maintaining base-distribution profitability, suggesting they have pricing power in specialty that base-distribution lacks.",
+ "one_sentence": "Pharmaceutical distributors control the one mandatory chokepoint between every drug and every patient, collecting tolls regardless of their actual value-add.",
+ "societal_stake": "Three companies control access to medicines for the entire U.S. healthcare system. Any disruption in their operations (strikes, cyber attacks, supply issues) cascades through the entire pharmacy and hospital network. The dependence is absolute, which means cost pressure from any direction (regulation, consolidation, geopolitics) can propagate through drug availability and pricing.",
+ "evidence": [
+  {
+   "company": "McKesson Corporation",
+   "fact": "FY2025 revenue $359.1B with Oncology & Multispecialty reaching $14.2B in Q1 FY2027; demonstrates strategic pivot toward higher-margin specialty channels"
+  },
+  {
+   "company": "McKesson Corporation",
+   "fact": "Adjusted EPS of $9.93 in Q1 FY2027, up 20%, showing sustained profitability despite thin base margins"
+  },
+  {
+   "company": "Cencora",
+   "fact": "FY2025 consolidated revenue $321B with adjusted diluted EPS of $16.00; U.S. Healthcare Solutions operating income grew 22%"
+  },
+  {
+   "company": "Cencora",
+   "fact": "Q3 FY2026 revenue $84.8B with 5.1% year-over-year growth and renewed guidance raise reflecting market consolidation and GLP-1 volume normalization"
+  },
+  {
+   "company": "Cardinal Health",
+   "fact": "FY2025 revenue $222.6B with non-GAAP diluted EPS of $8.24, down 2% as reported but up 18% excluding customer contract expiration"
+  },
+  {
+   "company": "Cardinal Health",
+   "fact": "Q2 FY2026 revenue $65.6B with 19% growth and service-platform monetization driving earnings acceleration; specialty distribution increasingly important to earnings mix"
+  }
+ ]
 }

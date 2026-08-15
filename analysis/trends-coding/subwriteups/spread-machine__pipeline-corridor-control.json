@@ -1,83 +1,95 @@
 {
-  "slug": "pipeline-corridor-control",
-  "trend_slug": "spread-machine",
-  "name": "The Gas Corridor: Pipeline Operators as Molecule Landlords",
-  "deck": "Pipeline operators do not own the oil or gas — they own the only viable path for it to travel. Energy Transfer's 140,000-mile network, Williams' gathering and processing corridors, and Enbridge's cross-border infrastructure function as molecule landlords charging fee-based tariffs on long-term contracts extending into the 2030s regardless of commodity price direction.",
-  "core_bet": "Pipeline operators are indispensable choke points. Energy Transfer's 140,000-mile network moved record NGL volumes (up 13%), exports (up 25%), and fractionation (up 3%) in Q2 2026, with long-term agreements for 300,000 bpd of y-grade takeaway extending into 2030s. Williams' Transco and gathering systems deliver one-third of U.S. natural gas with $7B of power-infrastructure capital in execution. Enbridge's Mainline was fully apportioned all year (meaning every slot was subscribed). The fee-based tariff structure means these operators capture spread regardless of commodity price direction — they win when molecules flow and lose only when nothing moves.",
-  "numbers": [
-    {
-      "stat": "140,000",
-      "label": "Miles of pipeline and infrastructure, Energy Transfer"
-    },
-    {
-      "stat": "$18.8B-$19.1B",
-      "label": "Energy Transfer 2026 adjusted-EBITDA guidance (raised)"
-    },
-    {
-      "stat": "13%",
-      "label": "Energy Transfer NGL transportation volume growth, Q2 2026"
-    },
-    {
-      "stat": "25%",
-      "label": "Energy Transfer NGL export growth, Q2 2026"
-    },
-    {
-      "stat": "300,000 bpd",
-      "label": "y-grade takeaway capacity committed on long-term agreements extending to 2030s, Energy Transfer"
-    },
-    {
-      "stat": "33%",
-      "label": "Williams' share of U.S. natural gas delivery"
-    },
-    {
-      "stat": "$7B",
-      "label": "Williams power-innovation capital in execution"
-    },
-    {
-      "stat": "100% apportioned",
-      "label": "Enbridge Mainline utilization all year, Q1 2026"
-    }
-  ],
-  "mechanism": [
-    "Pipeline operators make money by charging tariffs for access to corridors that cannot be duplicated. Energy Transfer's Nederland export expansion added 240,000 bpd of ethane export capacity and 55,000 bpd of LPG capacity, with most capacity already subscribed before construction completed. Those subscriptions lock in fee-based revenue regardless of whether oil prices are $50 or $150 per barrel. The tariff model means a producer or exporter pays Energy Transfer a fixed or formula-based toll to move molecules through the system, and that toll accrues to the pipeline operator regardless of the commodity price the molecules sell for downstream.",
-    "The corridor is the bottleneck that creates the spread. Enbridge's Mainline was fully apportioned all year in Q1 2026, meaning producers had more crude to ship than available pipeline capacity. That scarcity allows Enbridge to maintain high utilization and to negotiate premium tariffs for incremental capacity expansions. Similarly, Williams' Transco and gathering systems are so central to U.S. natural gas that any producer or exporter wanting to move volume must use Williams' infrastructure or negotiate through it. That centrality of position is what turns a pipeline into a spread machine — the operator collects fees regardless of commodity direction, and upgrades to the system (bottleneck relief, expansions, new corridors) translate into incremental tariff revenue.",
-    "The AI and LNG dimension adds new demand without changing the model. Energy Transfer is using the same networks that historically moved crude and NGLs to also serve LNG export terminals, power generation, and data-center-adjacent industrial demand. Williams is committing $7B to power-infrastructure projects that use the same gathering and transmission spine to serve data-center and industrial customers. These new demand sources do not require new corridors; they require the same molecules and pipes that already exist. That means new revenue from the same capital base, which is the most profitable kind of incremental demand."
-  ],
-  "why_now": "The corridor-scarcity premium is acute now because AI power demand and LNG export growth are creating competing demands for the same limited midstream capacity. Energy Transfer suspended Lake Charles LNG not because the project wasn't valuable, but because natural-gas pipeline and storage projects offered better returns on the same capital. That arbitrage decision reveals the market dynamic: there is more demand for corridor access than available capacity to expand, so operators are rationing capital toward the highest-return projects. Enbridge's full Mainline apportionment, Energy Transfer's fully subscribed export expansions, and Williams' elevated utilization all point to the same fact: corridor capacity is scarce relative to demand.",
-  "who_pays": "Producers (oil, gas, NGL originators), consumers of exported energy (LNG buyers offshore, industrial customers), and data-center operators all pay higher costs because corridor capacity is scarce. They pay pipeline tariffs to move molecules, and those tariffs flow through to end consumers as higher energy prices. For a data center that needs natural-gas generation backup or power feeds, the cost of energy depends on local grid capacity and pipeline tariff structures that utilities are passing through. The final consumer — households paying electricity bills, businesses paying for industrial feedstocks — ultimately bears the cost of corridor scarcity.",
-  "who_profits": "Pipeline operators and corridor owners capture the margin. Energy Transfer's 2026 EBITDA guidance was raised to $18.8-19.1B; Williams raised 2026 EBITDA guidance by $200M to $8.4B; Enbridge's secured backlog is $39-40B, supporting organic growth and cash returns. All three benefit from the combination of fixed tariff revenue (which grows with inflation), utilization (which is near peak because capacity is full), and expansions (which add new tariffs onto the same system). The game is not to own the commodity or refine it; it is to own the irreplaceable conduit through which molecules must travel.",
-  "tension": "The fragility is policy and competition. First, regulatory pressure could force tariff reductions if policymakers view corridor operators as too profitable or too central to energy independence. Second, energy transition could reduce demand for natural gas and oil if LNG exports slow or if industrial electrification reduces hydrocarbon throughput faster than expected. Third, alternative corridors could be built (though rarely — pipeline permitting is difficult), reducing scarcity premiums if new infrastructure suddenly increased capacity. Fourth, if API-rated efficiency improvements reduce the energy intensity of AI, the new demand growth that seemed guaranteed could evaporate, leaving corridor operators with unused capacity and lower utilization.",
-  "surprising_part": "The non-obvious insight is that the spread machine benefits most from stability, not from commodity price swings. A pipeline operator makes more money in a regime where molecules flow steadily at medium utilization and tariffs inflate gently year over year. Extreme commodity volatility can actually reduce utilization if producers pull back spending or if export demand stops. This is why Energy Transfer and Williams are willing to commit multi-year capital to bottleneck-relief and expansion projects that may not pay off for 5+ years — they are betting that demand stability justifies the capital, and that fee-based tariffs will accrue predictably regardless of whether oil is $50 or $150.",
-  "one_sentence": "Pipeline operators own the only viable corridors for molecules to travel, enabling them to charge fee-based tariffs on long-term contracts that generate spread regardless of commodity prices or market cycles.",
-  "societal_stake": "Pipeline infrastructure is now the rate-limiting step for energy supply. Producers can drill, refiners can process, but if pipeline capacity does not exist, molecules cannot reach end users. This gives pipeline operators enormous structural power over energy prices and availability. In a transition environment where society is trying to move away from hydrocarbons, pipeline capacity becomes a chokepoint that either accelerates or stalls the energy mix shift. If pipeline operators lock in long-term natural-gas infrastructure, they are betting — and betting others' money — on continued hydrocarbon demand for decades. That capital deployment has societal consequences beyond the operating returns for Energy Transfer or Williams.",
-  "evidence": [
-    {
-      "company": "Energy Transfer",
-      "fact": "140,000-mile network across 44 states; ~40% of adjusted EBITDA from natural-gas assets; fee-based margins vast majority of segment margin"
-    },
-    {
-      "company": "Energy Transfer",
-      "fact": "Q2 2026: suspended Lake Charles LNG to redirect capital to natural-gas infrastructure projects with better risk-return; $5.6B-$5.9B growth capex guidance"
-    },
-    {
-      "company": "Energy Transfer",
-      "fact": "Q2 2026: NGL transportation +13%, NGL exports +25%, record NGL fractionation; Nederland export expansion fully subscribed; 300K bpd y-grade agreements extend to 2030s"
-    },
-    {
-      "company": "Williams",
-      "fact": "Delivers ~33% of U.S. natural gas; Transmission, Power & Gulf largest strategic layer; $7B power-innovation capital in execution"
-    },
-    {
-      "company": "Williams",
-      "fact": "Q2 2026: 2026 adjusted-EBITDA guidance raised to $8.4B; power-innovation projects (Socrates, Power Express) progressing; Haynesville position strengthened via Momentum Midstream"
-    },
-    {
-      "company": "Enbridge",
-      "fact": "Mainline fully apportioned all year Q1 2026 (100% utilization); secured backlog C$39-40B; sanctioned $1.0B Line 5 Relocation Wisconsin"
-    },
-    {
-      "company": "Enbridge",
-      "fact": "Full-year 2025 adjusted EBITDA C$20.0B, distributable cash flow C$12.5B; placed C$5B organic growth capital into service; strong utility-rate and renewable-power component"
-    }
-  ]
+ "slug": "pipeline-corridor-control",
+ "trend_slug": "spread-machine",
+ "name": "The Gas Corridor: Pipeline Operators as Molecule Landlords",
+ "deck": "Pipeline operators do not own the oil or gas — they own the only viable path for molecules to reach markets. Energy Transfer's 140,000-mile network, Williams' one-third share of U.S. natural-gas delivery, and Enbridge's fully subscribed Mainline function as irreplaceable toll roads. They charge fee-based tariffs locked into long-term contracts; molecules flow or tariffs inflate regardless of commodity price direction. The spread machine wins when utilization stays high and demand for corridor access exceeds available capacity.",
+ "core_bet": "Pipeline operators profit from structural scarcity of corridor capacity. Energy Transfer moved record NGL volumes (transportation +13%, exports +25% in Q2 2026) with 300,000 bpd of y-grade takeaway under long-term agreements extending to 2030s. Williams delivers one-third of U.S. natural gas and is executing $7B of power-infrastructure capital to serve data-center demand on the same transmission spine. Enbridge operated its Mainline at 100% apportionment (fully subscribed all year in Q1 2026), meaning utilization is capped by available capacity, not by demand. Fee-based tariffs mean these operators capture value in spread regardless of whether crude trades at $50 or $150 per barrel — they win if molecules move, lose only if nothing flows.",
+ "numbers": [
+  {
+   "stat": "140,000",
+   "label": "Miles of pipeline infrastructure across 44 U.S. states, Energy Transfer"
+  },
+  {
+   "stat": "$15.98B",
+   "label": "Energy Transfer full-year 2025 adjusted EBITDA; raised 2026 guidance to $18.8B-$19.1B"
+  },
+  {
+   "stat": "300,000 bpd",
+   "label": "Y-grade NGL takeaway capacity sold under long-term contracts extending into 2030s, Energy Transfer (Q2 2026)"
+  },
+  {
+   "stat": "25%",
+   "label": "Energy Transfer NGL export volume growth, Q2 2026 vs. Q2 2025"
+  },
+  {
+   "stat": "33%",
+   "label": "Williams' share of total U.S. natural gas delivery; largest strategic layer is Transmission + Power + Gulf Coast"
+  },
+  {
+   "stat": "$7.75B",
+   "label": "Williams full-year 2025 record adjusted EBITDA; 2026 guidance raised by $200M to $8.4B"
+  },
+  {
+   "stat": "C$20.0B",
+   "label": "Enbridge full-year 2025 adjusted EBITDA (Canadian dollars); Mainline fully apportioned all year"
+  },
+  {
+   "stat": "C$39B-C$40B",
+   "label": "Enbridge secured organic growth backlog as of Q2 2026 (up 35% from Enbridge Day)"
+  }
+ ],
+ "mechanism": [
+  "Pipeline tariffs are paid per molecule moved, not per dollar of commodity value. Energy Transfer's Nederland export expansion added 240,000 bpd of ethane export capacity with capacity already subscribed before construction. A producer pays Energy Transfer a fixed or formula-tied toll per barrel of ethane moved — independent of ethane market price. If ethane trades at $0.50 or $1.50 per gallon, the tariff paid by the shipper stays constant. That tariff flows to Energy Transfer shareholders as pure fee-based margin. Enbridge's 100% Mainline apportionment in Q1 2026 means every available pipeline slot was subscribed, creating pricing power for any incremental capacity addition.",
+  "Corridor capacity is the bottleneck that cannot be easily duplicated. Williams delivers one-third of U.S. natural gas, making it the central artery for gas moving from production regions to consumers and LNG export terminals. Any producer, processor, or exporter needing to ship volume must negotiate with Williams or accept lower utilization on alternative, less-efficient paths. That structural centrality turns pipeline operations into a spread machine: Williams collects tariffs regardless of commodity direction and converts every system upgrade (Transco expansion, new gathering capacity, compressor debottlenecking) into incremental tariff revenue on the same asset base.",
+  "New demand sources (AI-driven power, LNG exports, industrial reshoring) layer onto existing corridor infrastructure, generating margin on incremental molecules without new capital base. Energy Transfer's fractionation volumes (up 3% in Q2 2026) and crude transportation (up 4%) grew on the same 140,000-mile network. Williams is executing $7B of power-infrastructure projects — not new transmission pipes, but behind-the-meter generation and storage — to monetize the same gas gathering and transmission network for data-center electricity demand. Enbridge's secured backlog of C$39B-C$40B includes utility-rate-base growth and renewable-power projects that all feed back to the core pipeline and storage system. More demand on the same corridor = more tariff revenue per dollar of capital deployed."
+ ],
+ "why_now": "The corridor scarcity became acute starting 2024-2025 as three demand pressures collided: (1) LNG export growth accelerated after years of permitting delays (Energy Transfer halted Lake Charles LNG development in December 2025 to redirect capital to natural-gas infrastructure with better near-term returns, signaling the real bottleneck is pipeline/storage, not export terminals); (2) AI data-center demand for reliable backup power and grid-support generation emerged as a new major consumer of natural gas (Williams' $7B power-infrastructure commitment quantifies this); (3) Industrial reshoring and onshoring demand for reliable natural-gas feedstocks and power inputs grew faster than pipeline capacity could expand. By Q2 2026, this collision was visible in the numbers: Energy Transfer raised 2026 EBITDA guidance to $18.8B-$19.1B, Williams raised guidance by $200M, and Enbridge's Mainline was fully apportioned. Pipeline operators stopped expanding infrastructure to chase commodity upside and started rationing capital to bottleneck-relief projects with 5-10 year payback horizons — exactly the behavior you see when corridor capacity is scarce relative to demand.",
+ "who_pays": "Producers (oil, gas, NGL originators paying tariffs to move molecules), industrial end-users (petrochemical manufacturers, power generators, data-center operators buying electricity at higher cost due to pipeline tariff pass-through), consumers (households paying higher electricity and heating bills when natural-gas tariffs rise). For a data center paying $50-100 per MWh for electricity in a region where natural-gas generation is marginal, every increase in pipeline tariffs to move gas to power plants raises the final electricity cost. These tariffs are not optional; molecules must travel through existing corridor infrastructure or not move at all.",
+ "who_profits": "Pipeline operators and infrastructure owners capture the spread. Energy Transfer's adjusted EBITDA grew from $15.48B (2024) to $15.98B (2025) to guidance of $18.8B-$19.1B (2026) — three years of raising guidance on the same 140,000-mile base. Williams' full-year 2025 adjusted EBITDA reached $7.75B record and 2026 guidance was raised to $8.4B. Enbridge's adjusted EBITDA was C$19.95B (2025) with distributable cash flow of C$12.45B, funding both capital reinvestment and shareholder distributions. All three benefit from: (a) fixed tariff revenue growing with inflation on fully utilized corridors; (b) 100% utilization near peak capacity (Enbridge's apportionment proves scarcity); (c) new demand layers (data centers, LNG, reshoring) adding tariff revenue on the same capital base without proportional new capex.",
+ "tension": "The spread machine is fragile to four pressures: (1) Regulatory risk — if U.S. or Canadian regulators view corridor operators as too profitable or too central to energy security, tariff caps or forced expansions could reduce margin (Enbridge faces FERC and Canadian regulation); (2) Energy transition risk — if LNG export demand plateaus or if electrification reduces hydrocarbon throughput faster than expected, corridor utilization could fall, stranding capital (this is the hidden bet in Energy Transfer's Lake Charles suspension and Williams' power-infrastructure pivot); (3) Geopolitical risk — if LNG export destinations shift or if cross-border trade restrictions limit Enbridge's throughput, utilization drops (Enbridge's Line 5 relocation is a $1B bet on continued Canadian-U.S. energy interdependence); (4) Technological disruption — if data-center power demand can be met by renewable generation + battery storage without natural-gas backup, the new demand layer evaporates, leaving corridor operators over-built.",
+ "surprising_part": "The non-obvious insight is that pipeline operators benefit more from steady-state molecule flow than from commodity price volatility. A tariff model with 100% utilization on a stable corridor generates predictable, inflation-hedged cash flow year after year. Commodity booms can actually reduce utilization if capital costs spike for new drilling, or if producers retract capex. Commodity crashes can reduce utilization if producers go offline or if export demand stops abruptly. By contrast, pipeline operators maximize value by locking in long-term take-or-pay contracts (Energy Transfer's 300,000 bpd through 2030s, Enbridge's C$39B-C$40B backlog) that guarantee molecule flow and tariff revenue regardless of price direction. Energy Transfer and Williams would rather have 10 years of 90% utilization on known tariff contracts than 2 years of 110% volatility with price risk. This explains why both suspended or deprioritized headline LNG projects to redirect capital toward boring, high-return natural-gas pipeline and storage projects with decade-long payback schedules.",
+ "one_sentence": "Pipeline operators own the irreplaceable corridors that molecules must travel to reach markets, enabling them to charge fixed-fee tariffs on long-term contracts that generate stable spread regardless of commodity prices or market cycles.",
+ "societal_stake": "Pipeline infrastructure is now the rate-limiting step for energy supply and energy transition. Producers can drill wells and wells can produce, but if pipeline capacity does not exist, molecules cannot reach end markets, power plants, export terminals, or industrial users. This gives pipeline operators disproportionate structural power over energy prices, availability, and the pace of the energy transition. Energy Transfer's capital reallocation away from Lake Charles LNG toward natural-gas infrastructure represents a $multi-billion bet that natural gas will remain central to U.S. energy supply through the 2030s. Williams' C$7B power-infrastructure commitment is a bet that data centers and industrial users will continue to rely on natural-gas generation for reliability. These capital decisions, made by private corporations, determine whether alternative energy sources can scale and whether energy independence becomes real or remains constrained by infrastructure bottlenecks. Pipeline operators are not just collecting tariffs; they are embedding infrastructure that influences energy policy and energy transition timelines for decades.",
+ "evidence": [
+  {
+   "company": "Energy Transfer",
+   "fact": "140,000-mile network across 44 states; ~40% of adjusted EBITDA from natural-gas-related assets; vast majority of segment margin is fee-based with limited commodity-price sensitivity (2025 10-K)"
+  },
+  {
+   "company": "Energy Transfer",
+   "fact": "December 2025: suspended Lake Charles LNG development to redirect capital to natural-gas infrastructure projects with better risk-return profiles; raised 2026 growth capex guidance to $5.6B-$5.9B (Q4 2025 earnings release)"
+  },
+  {
+   "company": "Energy Transfer",
+   "fact": "Q2 2026: NGL transportation volumes +13%, NGL exports +25%, record NGL fractionation +3%, crude transportation +4%; Nederland export expansion added 240K bpd ethane + 55K bpd LPG, majority pre-subscribed; 300K bpd y-grade takeaway under long-term agreements extending into 2030s (Q2 2026 earnings release)"
+  },
+  {
+   "company": "Energy Transfer",
+   "fact": "Full-year 2025 adjusted EBITDA $15.98B, up from $15.48B in 2024; Q2 2026 adjusted EBITDA $5.07B; 2026 full-year guidance raised to $18.8B-$19.1B (Q2 2026 earnings release)"
+  },
+  {
+   "company": "Williams",
+   "fact": "Delivers approximately one-third of U.S. natural gas; Transmission, Power & Gulf is largest strategic segment combining interstate pipelines, storage, Gulf gathering and processing, and power-innovation projects (2025 annual close materials)"
+  },
+  {
+   "company": "Williams",
+   "fact": "Full-year 2025: GAAP net income $2.615B, adjusted net income $2.571B, adjusted EBITDA record $7.750B, AFFO $5.858B, cash flow from operations $5.898B; raised dividend 5% to $2.10 annualized; 2026 adjusted-EBITDA guidance $8.05B-$8.35B, raised to $8.4B midpoint in Q2 2026 (2025 annual and Q2 2026 earnings release)"
+  },
+  {
+   "company": "Williams",
+   "fact": "Q2 2026: $7B of power-innovation capital in execution (Socrates, Power Express, Blackstone joint venture); Transco projects (Leidy Access, Garden Connector) advancing; Haynesville position strengthened via Momentum Midstream acquisition (Q2 2026 earnings release)"
+  },
+  {
+   "company": "Enbridge",
+   "fact": "Mainline fully apportioned all year in Q1 2026, meaning 100% of available capacity was subscribed; managed throughput of 3.2 million barrels per day average (Q1 2026 supplemental package)"
+  },
+  {
+   "company": "Enbridge",
+   "fact": "Full-year 2025 GAAP earnings C$7.1B ($3.23 per share), adjusted earnings C$6.6B ($3.02 per share), adjusted EBITDA C$20.0B, distributable cash flow C$12.5B; placed C$5B organic growth capital into service during 2025; secured backlog C$39B as of 2025 year-end (2025 annual report)"
+  },
+  {
+   "company": "Enbridge",
+   "fact": "Q2 2026: secured backlog expanded to C$40B (up ~35% since Enbridge Day); sanctioned $1.0B Line 5 Relocation Wisconsin project for secure and reliable Midwest/Ontario/Quebec energy delivery; signed exclusive option on TTC Connector pipeline; Algonquin Gas Transmission expansion demand exceeding expectations (Q2 2026 supplemental package)"
+  }
+ ]
 }

@@ -1,78 +1,123 @@
 {
-  "sector": "Utilities",
-  "slug": "utilities",
-  "deck": "Utilities are in the middle of the largest synchronized capital build in decades, driven simultaneously by data-center load, grid hardening, climate liability, and aging-pipe replacement — but every dollar of that build rides on regulatory approval, and the fault lines are widening between who captures the upside and who absorbs the risk.",
-  "summary": "The utilities sector has fractured into three distinct investment stories running in parallel. The first is the data-center demand wave reshaping electric utilities from sleepy rate-base compounders into high-conviction growth platforms: Alliant Energy locked up 3.4 GW of contracted data-center demand by Q1 2026, projecting a 60% peak-load increase by 2031 versus 2025 levels, while backing that with a $13.4B capital plan for 2026-2029. The second story is climate-driven capex in stress-tested geographies. Edison International is spending $38B-$41B from 2026 to 2030 — not to grow load, but to harden grid infrastructure and survive wildfire exposure in California, where the 2025 Eaton Fire already created material balance-sheet stress and where the entire investment case depends on regulatory cost recovery and Wildfire Fund mechanics. The third story is the quiet compounders: Atmos Energy (gas distribution), American Water Works (water), ONE Gas, and Fortis, all grinding out 5-9% earnings growth via safety and reliability capex, rate-base expansion, and regulatory approval cycles — with no need for hyperscaler tailwinds and no interest in merchant risk.\n\nWhat connects all three is the absolute centrality of regulatory relationships. A utility's growth ceiling is not its service territory size or its load forecast — it is the quality of its rate design, its ability to recover capital through approved structures, and its regulators' appetite for sustained investment. Alliant's Iowa advance-ratemaking tools, Atmos's annualized regulatory outcomes metric ($355M in Q3 FY2026), American Water's infrastructure surcharges, and Edison's securitization capacity are all versions of the same thing: regulatory architecture as earnings engine. When regulation works, the model compounds reliably. When it stalls — as in California after wildfire attribution questions, or in gas jurisdictions facing transition pressure — the same regulated-monopoly structure becomes a liability trap.\n\nThe sector's two unresolved structural tensions are energy transition and customer concentration. Gas utilities (Atmos, ONE Gas) have a durable near-term moat but face a multi-decade question about whether natural gas distribution remains a regulated growth asset or becomes a stranded-cost runoff. Water utilities (American Water, Essential Utilities) face a different but real problem: PFAS/PFOS treatment mandates are raising capital requirements beyond what rate cases can absorb quickly, and municipal acquisition pipelines depend on political goodwill that can evaporate. Meanwhile, for electric utilities banking on data-center load, Alliant's own filings show that a single large industrial customer departure can cut guidance by $0.12/share — meaning the same demand concentration that drives growth also creates lumpy downside.",
-  "numbers": [
-    {"stat": "$38B-$41B", "label": "Edison International 2026-2030 capex plan, primarily grid hardening and wildfire resilience"},
-    {"stat": "3.4 GW", "label": "Alliant Energy contracted data-center demand as of Q1 2026, driving 60% peak-load growth by 2031"},
-    {"stat": "$26B", "label": "Atmos Energy projected capex through FY2030, with rate base doubling from $21.4B to ~$42B"},
-    {"stat": "$46B-$48B", "label": "American Water Works planned decade-long capital investment in water infrastructure renewal and acquisitions"},
-    {"stat": "$13.4B", "label": "Alliant Energy capital plan for 2026-2029 backed by contracted large-load demand"},
-    {"stat": "$355M", "label": "Atmos Energy annualized regulatory outcomes implemented in Q3 FY2026"},
-    {"stat": "$48.2B", "label": "Edison International 2025 rate base, with $6.7B in 2025 capital expenditures"},
-    {"stat": "$89M", "label": "American Water Works authorized annualized revenue additions since January 2026, across six completed rate cases"}
-  ],
-  "sub_trends": [
-    {
-      "name": "Data-center load anchoring regional electric utilities",
-      "what": "The AI infrastructure buildout has become the primary growth signal for regulated electric utilities in favorable geographies. Alliant Energy's 3.4 GW of contracted data-center demand — including ESAs with QTS, Google, and Meta — projects a 60% increase in system peak load from 2025 to 2031. This is not speculation; it is contracted demand that justifies a $13.4B capital plan, advance-ratemaking structures, and Iowa base-rate stability commitments through the decade. The story has moved from 'data centers might boost load' to 'we have signed agreements and are deploying capital now.'",
-      "companies": ["Alliant Energy Corporation", "Edison International", "NextEra Energy"]
-    },
-    {
-      "name": "Regulated rate-base compounding as the gas-utility model",
-      "what": "Gas utilities have decoupled earnings entirely from commodity volume. Atmos Energy and ONE Gas both grow earnings through capital deployment, regulatory lag reduction, and rate recovery — not through selling more gas. Atmos expects rate base to double from $21.4B to $42B by FY2030 through $26B of capex, more than 85% focused on safety and reliability. ONE Gas's weather-normalization mechanisms protected 2026 earnings even when Q2 weather ran 42% warmer than normal. The model works as long as gas infrastructure remains a regulated asset — the long-term threat is transition risk, not near-term operational risk.",
-      "companies": ["Atmos Energy Corporation", "ONE Gas, Inc."]
-    },
-    {
-      "name": "Climate liability as a balance-sheet operating variable",
-      "what": "Edison International has turned wildfire risk management into a core operating discipline, not a disclosure footnote. The 2025 Eaton Fire created real financial exposure, and the company's entire investment thesis — 5-7% core EPS CAGR through 2030 — depends on California's Wildfire Fund reimbursement mechanics, securitization capacity, and prudency cost recovery. A $38B-$41B capex plan exists not because demand is growing, but because the grid needs physical hardening to reduce ignition risk. This is climate-adaptation infrastructure funded through regulated returns — a model that only works if California's regulatory architecture holds.",
-      "companies": ["Edison International"]
-    },
-    {
-      "name": "Water utility consolidation as a regulated roll-up",
-      "what": "American Water Works is executing a disciplined acquisition-led consolidation of fragmented municipal and private water systems. The company added approximately 40,000 customer connections in 2025 and had $582M of acquisitions under agreement representing 104,000 connections at year-end. Essential Utilities is running a parallel playbook. The growth engine is not organic demand but system fragmentation — thousands of small water operators that lack capital, face PFAS/PFOS mandates, and find regulated consolidation attractive. Rate-case execution and infrastructure surcharges convert acquired systems into compounding earnings.",
-      "companies": ["American Water Works Company Inc.", "Essential Utilities Inc."]
-    },
-    {
-      "name": "Multi-jurisdiction regulatory diversification as a risk-management strategy",
-      "what": "Fortis operates across five Canadian provinces, ten U.S. states, and the Caribbean, with FY2025 revenue of $12B and a $28.8B five-year capital plan guiding rate base from $42.4B to $57.9B through 2030. The diversification thesis is explicit: no single regulator can disrupt the compound. Consolidated Edison runs a similar playbook in a single dense urban territory — $24.3B aggregate capital program 2028-2030, planning 28 new substations by 2035. The model is: own the infrastructure, navigate regulation, and convert the monopoly into a compounding machine.",
-      "companies": ["Fortis Inc.", "Consolidated Edison, Inc."]
-    },
-    {
-      "name": "Transmission and grid infrastructure as the regulated capital frontier",
-      "what": "Across electric utilities, transmission investment has become the highest-confidence growth category — regulated returns with long asset lives, no commodity exposure, and bipartisan political support for grid expansion. NextEra Energy is explicitly framing transmission infrastructure as a regulated capital-return story. Consolidated Edison is targeting 28 new substations in New York by 2035. The energy transition requires grid expansion regardless of whether the power source is solar, gas, or nuclear — which means transmission capex is largely insulated from the political debate about generation mix.",
-      "companies": ["NextEra Energy", "Consolidated Edison, Inc.", "Alliant Energy Corporation"]
-    }
-  ],
-  "standout_companies": [
-    {
-      "company": "Alliant Energy Corporation",
-      "why_notable": "The clearest proof that data-center demand is reshaping regional regulated utilities, not just large national platforms: 3.4 GW of contracted load in Iowa and Wisconsin, backed by advance-ratemaking tools and a $13.4B capital plan, producing a projected 60% peak-load increase by 2031 from a 1-million-customer Midwest base."
-    },
-    {
-      "company": "Edison International",
-      "why_notable": "The sector's most honest stress case: a major California electric utility spending $38B-$41B through 2030 not to chase demand but to harden the grid against wildfire ignition risk, with the entire investment case resting on Wildfire Fund mechanics, securitization capacity, and regulatory cost-recovery approval."
-    },
-    {
-      "company": "Atmos Energy Corporation",
-      "why_notable": "The country's largest fully regulated natural-gas-only distributor, projecting rate-base doubling from $21.4B to $42B by FY2030 through $26B of safety-and-reliability capex — a pure compounding machine that shows the gas utility model still works at scale in the current regulatory environment."
-    },
-    {
-      "company": "American Water Works Company Inc.",
-      "why_notable": "The largest regulated U.S. water utility, executing a decade-long $46B-$48B infrastructure plan funded through rate cases and acquisition-led consolidation — serving 14 million people and adding customer connections through municipal roll-ups while keeping residential bills below 1% of median household income."
-    },
-    {
-      "company": "ONE Gas, Inc.",
-      "why_notable": "A pure gas distribution utility that grew earnings in Q2 2026 despite weather running 42% warmer than normal, through weather-normalization mechanisms and new-rate implementation — demonstrating how deeply decoupled regulated gas earnings have become from actual commodity consumption."
-    },
-    {
-      "company": "Fortis Inc.",
-      "why_notable": "The sector's most deliberately diversified platform: $12B in FY2025 revenue across five Canadian provinces, ten U.S. states, and the Caribbean, with a $28.8B capital plan and 4-6% annual dividend growth guidance through 2030 — regulatory diversification as explicit risk management."
-    }
-  ],
-  "tension": "The sector's central fault line is the regulatory compact under stress: utilities need massive, long-duration capital commitments justified by demand signals and climate mandates, but the earnings on that capital depend entirely on regulatory decisions that can be delayed, revised, or denied. In California, Edison's multi-decade grid-hardening plan rests on wildfire-liability legislation and cost-recovery rulings that the state can withdraw. In gas jurisdictions, Atmos and ONE Gas are compounding capital that has a 30-50 year asset life into a system whose long-run regulatory status is uncertain as energy-transition pressure grows. In electric markets, Alliant's entire load-growth thesis depends on contracted data-center customers actually building and absorbing power — customer concentration risk at scale. The utilities that win are those that have already locked in regulatory frameworks, advance-rate tools, and long-term capital plans before political conditions shift. The ones that lose are those whose capital programs depend on approvals that haven't yet been granted.",
-  "who_wins_who_loses": "Winners are electric utilities in regulatory-friendly jurisdictions with credible contracted load growth — Alliant Energy is the clearest current example. Also winning: water utilities executing regulated consolidation in fragmented markets (American Water Works), and multi-jurisdiction platforms with diversified regulatory exposure (Fortis). Gas utilities like Atmos and ONE Gas are near-term winners who face a long-term structural question: if regulators in key states start treating new gas infrastructure as potentially stranded, the compounding model breaks. Losers are utilities in single high-stress jurisdictions where political risk is elevated — Edison International is managing this right now in California, where wildfire liability and affordability politics can override the normal regulatory compact. Also at risk: smaller utilities like Avista with meaningful customer concentration (one large industrial departure = $0.12/share guidance cut) and hydro-dependent operators exposed to drought and climate variability with no offsetting diversification.",
-  "outlook": "Utilities are heading into a sustained capital supercycle driven by three independent mandates that happen to require the same thing — more wires, more pipes, more substations, and more infrastructure spending. Data-center demand is accelerating load growth in electric service territories. Climate adaptation is forcing grid hardening regardless of demand growth. Aging infrastructure across gas, water, and electric networks is triggering replacement capex that cannot be deferred without regulatory and safety consequences. The sector's EPS growth ceiling — typically 5-9% for most players — is not a reflection of constrained opportunity; it is a reflection of how regulated return on equity translates capital into earnings. The companies with the clearest visibility are those that have already converted contracted demand, approved capital plans, and advance-ratemaking tools into a decade of locked-in compounding. The sector's biggest medium-term risk is not demand; it is affordability politics. As customer bills rise to fund the buildout, regulators in high-cost-of-living states will face increasing pressure to slow capital recovery, creating lag and earnings risk for exactly the utilities taking the most aggressive infrastructure positions.",
-  "one_sentence": "Utilities are running the largest synchronized infrastructure build in a generation, but every dollar of earnings on that build depends on a regulatory compact that is under stress from wildfire liability, energy transition politics, and the rising customer bills that inevitably follow."
+ "sector": "Utilities",
+ "slug": "utilities",
+ "deck": "Utilities are executing the largest capital buildout in decades — data-center load, climate hardening, aging-pipe replacement — but regulatory approval gates every dollar of earnings. The fault lines are between who locked in cost recovery before politics shifted and who still needs approvals they may never get.",
+ "summary": "The utilities sector has fractured into three distinct capital stories with radically different risk profiles. First: data-center-anchored electric utilities. Alliant Energy has 3.4 GW of contracted data-center demand (Q1 2026) — Google, Meta, QTS — justifying a $13.4B capital plan for 2026-2029 and projecting 60% system peak-load growth by 2031. This is contracted, not speculative. The second story: climate-driven grid hardening in single high-stress jurisdictions. Edison International is spending $38B-$41B from 2026-2030 not to grow load but to harden grid infrastructure against wildfire ignition risk in California, where the 2025 Eaton Fire created material balance-sheet exposure and where the entire 5-7% core EPS CAGR depends on Wildfire Fund reimbursement mechanics, securitization capacity, and regulatory cost-recovery approval that can be withdrawn. The third story: the quiet compounders grinding out 5-9% earnings growth via regulatory rate-base expansion. Atmos Energy is doubling rate base from $21.4B (FY2025) to ~$42B (FY2030) through $26B of capital, 85%+ safety and reliability focused. American Water Works is adding 40,000 customer connections annually (2025: 40k added; $582M acquisitions under agreement at year-end for 104k more connections) while maintaining residential bills below 1% of median household income through rate-case execution and infrastructure surcharges.\n\nAll three stories depend entirely on regulatory architecture. Alliant has advance-ratemaking tools and Iowa base-rate stability through the decade. Atmos tracks annualized regulatory outcomes ($355M Q3 FY2026 as the material operating variable). American Water converts acquired systems into earnings via rate-case approval and infrastructure surcharges. Edison's entire value hinges on California's Wildfire Fund and securitization framework holding. When regulatory relationships work — when rate designs permit cost recovery and regulators approve capital plans in advance — the utilities compound reliably at 5-9% EPS. When they stall — as in California where wildfire attribution questions created cost-recovery uncertainty, or in gas jurisdictions where transition pressure is starting to creep into regulatory vocabulary — the same monopoly structure becomes a liability trap.\n\nTwo unresolved structural tensions frame the sector's medium-term risk. First: energy transition. Gas utilities (Atmos, ONE Gas) have durable near-term moat — weather-normalization mechanisms made ONE Gas grow earnings in Q2 2026 despite weather 42% warmer than normal — but face a multi-decade question about whether new gas distribution infrastructure remains a regulated growth asset or becomes stranded cost. Water utilities (American Water, Essential Utilities) face PFAS/PFOS treatment mandates that are raising capital requirements faster than rate cases can absorb, with consolidation pipelines dependent on municipal goodwill that can evaporate. Second: customer concentration. Alliant's own filings show a single large industrial customer departure cuts guidance $0.12/share. For utilities banking on data-center load tailwinds, the same demand concentration that drives peak-load growth creates lumpy downside risk.\n\nFortis operates the explicit diversification playbook: five Canadian provinces, ten U.S. states, Caribbean — FY2025 revenue $12B, $28.8B five-year capital plan, rate base $42.4B → $57.9B through 2030, 4-6% annual dividend growth. Consolidated Edison is equivalent in a single dense urban geography: $24.3B aggregate capital 2028-2030, planning 28 new substations by 2035. Transmission and grid infrastructure (NextEra, ConEd, Alliant) are the highest-confidence capex categories — regulated returns, long asset lives, no commodity exposure, bipartisan political support — because the energy transition requires more wires regardless of generation mix.",
+ "numbers": [
+  {
+   "stat": "$38B-$41B",
+   "label": "Edison International 2026-2030 capex plan for grid hardening and wildfire resilience"
+  },
+  {
+   "stat": "3.4 GW",
+   "label": "Alliant Energy Q1 2026 contracted data-center demand (Google, Meta, QTS ESAs), driving 60% peak-load increase by 2031"
+  },
+  {
+   "stat": "$26B",
+   "label": "Atmos Energy capex through FY2030, rate base $21.4B (FY2025) → $42B (FY2030), 85%+ safety and reliability"
+  },
+  {
+   "stat": "$46B-$48B",
+   "label": "American Water Works planned ten-year capital investment, 14 million people served"
+  },
+  {
+   "stat": "$13.4B",
+   "label": "Alliant Energy capital plan 2026-2029, backed by contracted large-load demand"
+  },
+  {
+   "stat": "$355M",
+   "label": "Atmos Energy annualized regulatory outcomes implemented Q3 FY2026, core operating variable"
+  },
+  {
+   "stat": "42% warmer",
+   "label": "ONE Gas Q2 2026 weather vs. normal, earnings protected by weather-normalization mechanisms"
+  },
+  {
+   "stat": "$89M",
+   "label": "American Water Works authorized annualized revenue additions since 2026-01-01 (six completed, seven active rate cases)"
+  },
+  {
+   "stat": "$0.12/share",
+   "label": "Alliant Energy guidance cut from single large industrial customer departure"
+  }
+ ],
+ "sub_trends": [
+  {
+   "name": "Contracted data-center load anchoring regional electric utilities into decade-long capex plans",
+   "what": "Alliant Energy has 3.4 GW of contracted data-center demand (Q1 2026) with Google, Meta, QTS — not pipeline or expected load, but executed ESAs justifying a $13.4B capital plan for 2026-2029 and advance-ratemaking tools. Management projects 60% increase in system peak load from 2025 to 2031. This is the inflection point where regulated electric utilities shift from load-flat compounding to growth-equity narratives backed by signed contracts. The model works because data-center customers commit to long-term fixed demand, allowing utilities to plan capital deployment with visibility that never existed in commodity-driven demand cycles.",
+   "companies": [
+    "Alliant Energy Corporation"
+   ]
+  },
+  {
+   "name": "Gas distribution earnings decoupled from commodity volume through weather normalization and rate-base expansion",
+   "what": "ONE Gas and Atmos Energy both grew earnings in recent periods despite weather headwinds (Q2 2026: 42% warmer than normal for ONE Gas) through weather-normalization mechanisms and new-rate implementation. Earnings are no longer a function of selling more gas; they flow from capital deployment and regulatory lag reduction. Atmos expects rate base to double from $21.4B to $42B by FY2030 through $26B capex, 85%+ focused on safety and reliability — not throughput. The model is structurally sound as long as new gas infrastructure remains a regulated asset with cost-recovery guarantees, but the long-term threat is transition risk: if state regulators begin treating new gas distribution capex as potentially stranded, the entire compounding thesis breaks.",
+   "companies": [
+    "Atmos Energy Corporation",
+    "ONE Gas, Inc."
+   ]
+  },
+  {
+   "name": "Wildfire liability and grid hardening as core balance-sheet operating variables in high-risk geographies",
+   "what": "Edison International's 2025 Eaton Fire created material financial exposure that forced wildfire management into the center of operating discipline, not a disclosure footnote. The company's 5-7% core EPS CAGR through 2030 depends on California's Wildfire Fund reimbursement mechanics, securitization capacity, and regulatory cost-recovery approval. A $38B-$41B capex plan exists not because demand is growing but because grid infrastructure requires physical hardening to reduce ignition risk. This is climate-adaptation capex funded through regulated returns — a model that only works if California's regulatory architecture (Wildfire Fund, cost recovery, securitization) holds stable. Regulatory withdrawal of any component creates material earnings risk.",
+   "companies": [
+    "Edison International"
+   ]
+  },
+  {
+   "name": "Water utility consolidation converting fragmented municipal systems into regulated rate-base earnings",
+   "what": "American Water Works added 40,000 customer connections in 2025 and had $582M of acquisitions under agreement representing 104,000 connections at year-end — growth engine is not organic demand but system fragmentation. Thousands of small water operators lack capital, face PFAS/PFOS mandates, and find regulated consolidation attractive. American Water converts acquired systems into compounding earnings through rate-case execution and infrastructure surcharges, maintaining residential bills below 1% of median household income. Essential Utilities runs the parallel playbook. The growth is durable as long as municipalities remain willing to sell systems to regulated operators and rate cases continue to grant cost recovery.",
+   "companies": [
+    "American Water Works Company Inc.",
+    "Essential Utilities Inc."
+   ]
+  },
+  {
+   "name": "Multi-jurisdiction regulatory diversification insulating platform compounding from single-regulator risk",
+   "what": "Fortis operates across five Canadian provinces, ten U.S. states, and the Caribbean with FY2025 revenue $12B, a $28.8B five-year capital plan guiding rate base from $42.4B to $57.9B through 2030, and explicit 4-6% annual dividend growth guidance. The thesis is disciplined: no single regulator can materially disrupt the compound because earnings are spread across independent regulatory jurisdictions. Consolidated Edison achieves similar insulation in a single dense urban territory — $24.3B aggregate capital program 2028-2030 with regulatory approval already in place and 28 new substations planned by 2035. Both are versions of the same principle: own the infrastructure, navigate regulation methodically, and convert the monopoly into a compounding machine.",
+   "companies": [
+    "Fortis Inc.",
+    "Consolidated Edison, Inc."
+   ]
+  },
+  {
+   "name": "Transmission infrastructure as the regulated capital frontier with bipartisan support and commodity-neutral returns",
+   "what": "Transmission investment is the highest-confidence capex category across electric utilities because it offers regulated returns with long asset lives, no commodity exposure, and bipartisan political support for grid expansion. The energy transition requires more wires regardless of whether the power source is solar, gas, wind, or nuclear — which means transmission capex is structurally insulated from the political debate about generation mix. NextEra Energy is explicitly framing transmission infrastructure as a core regulated capital-return story. Consolidated Edison is deploying 28 new substations in New York by 2035. Alliant is backing data-center demand with transmission buildout. The returns are predictable, the lives are long, and the political cover is durable.",
+   "companies": [
+    "NextEra Energy",
+    "Consolidated Edison, Inc.",
+    "Alliant Energy Corporation"
+   ]
+  }
+ ],
+ "standout_companies": [
+  {
+   "company": "Alliant Energy Corporation",
+   "why_notable": "Clearest proof that contracted data-center demand is reshaping regional regulated utilities: 3.4 GW of signed ESAs (Google, Meta, QTS) in Iowa and Wisconsin backed by advance-ratemaking tools and a $13.4B capital plan, projecting 60% peak-load increase by 2031. The model is no longer speculation but executed customer commitment. Single large customer departure = $0.12/share guidance cut (concentration risk embedded in the growth thesis)."
+  },
+  {
+   "company": "Edison International",
+   "why_notable": "Sector's clearest stress case: spending $38B-$41B through 2030 not to chase load but to harden grid against wildfire ignition risk in California. The entire 5-7% core EPS CAGR depends on Wildfire Fund reimbursement mechanics, securitization capacity, and regulatory cost-recovery approval — all of which can be withdrawn. Shows how climate liability becomes a core operating variable and how regulatory support can evaporate."
+  },
+  {
+   "company": "Atmos Energy Corporation",
+   "why_notable": "Country's largest fully regulated gas-only distributor projecting rate-base doubling from $21.4B (FY2025) to $42B (FY2030) through $26B capex (85%+ safety and reliability focused). Annualized regulatory outcomes ($355M Q3 FY2026) is the material operating variable, not commodity volume. Demonstrates how deeply gas utility earnings have decoupled from gas consumption, but also how long-term regulatory status of gas infrastructure remains unresolved as transition pressure grows."
+  },
+  {
+   "company": "American Water Works Company Inc.",
+   "why_notable": "Largest regulated U.S. water utility executing disciplined consolidation: 40,000 connections added in 2025; $582M acquisitions under agreement for 104,000 more. Serves 14 million people. Decade-long $46B-$48B infrastructure plan funded through rate cases and consolidation. Keeps residential bills below 1% of median household income through rate-case management. Growth engine is system fragmentation, not organic demand."
+  },
+  {
+   "company": "ONE Gas, Inc.",
+   "why_notable": "Pure gas distribution utility where Q2 2026 earnings grew despite weather 42% warmer than normal, through weather-normalization mechanisms and new-rate implementation. FY2025 net income $264.2M. Proof that gas utility earnings are structurally decoupled from commodity consumption; also proof of how durable the regulatory model is in the near term, though long-term gas infrastructure regulatory status remains uncertain."
+  },
+  {
+   "company": "Fortis Inc.",
+   "why_notable": "Most deliberately diversified utility platform: FY2025 revenue $12B across five Canadian provinces, ten U.S. states, and Caribbean. $28.8B five-year capital plan guides rate base from $42.4B to $57.9B through 2030 with explicit 4-6% annual dividend growth guidance. Regulatory diversification as explicit risk-management strategy — no single regulator can materially disrupt compound earnings."
+  }
+ ],
+ "tension": "The sector's central fault line is the regulatory compact under stress. Utilities need massive, long-duration capital commitments justified by demand signals (data-center contracts) or climate mandates (grid hardening), but the earnings on that capital depend entirely on regulatory decisions that can be delayed, revised, or denied. In California, Edison's multi-decade grid-hardening plan rests on Wildfire Fund reimbursement and cost-recovery rulings that the state can withdraw. In gas jurisdictions, Atmos and ONE Gas are compounding capital with 30-50 year asset lives into a system whose regulatory status is uncertain as energy-transition pressure grows. In electric markets with data-center anchors, Alliant's load-growth thesis depends on contracted customers actually building and absorbing power — customer concentration risk at scale. The utilities that win have already locked in regulatory frameworks, advance-rate tools, and multi-year capital plans before political conditions shifted. The utilities that lose are those whose capital programs still depend on approvals that haven't been granted.",
+ "who_wins_who_loses": "Winners: electric utilities in regulatory-friendly jurisdictions with credible contracted load growth (Alliant Energy). Water utilities executing regulated consolidation in fragmented markets (American Water Works). Multi-jurisdiction platforms with diversified regulatory exposure (Fortis, Consolidated Edison). Near-term winners with long-term uncertainty: gas utilities like Atmos and ONE Gas that are compounding capital reliably now but face multi-decade question about whether regulators will treat new gas infrastructure as stranded cost. Losers: utilities in single high-stress jurisdictions where political risk is elevated (Edison International managing wildfire liability and affordability politics in California right now). Smaller utilities with meaningful customer concentration (Avista: one large industrial departure = $0.12/share guidance cut). Hydro-dependent operators (water availability exposure) with no offsetting geographic diversification.",
+ "outlook": "Utilities are entering a sustained capital supercycle driven by three independent mandates requiring the same infrastructure deployment: data-center demand accelerating load growth in select territories; climate adaptation forcing grid hardening regardless of demand; aging infrastructure across gas, water, electric networks triggering replacement capex that regulators cannot defer without safety consequences. The sector's 5-9% EPS growth ceiling is not constrained opportunity but the mathematical result of regulated return on equity translating capital into earnings. Companies with clearest visibility have already locked in contracted demand (data centers), approved capital plans, and advance-ratemaking tools into decade-long compounding. Medium-term risk: affordability politics. As customer bills rise to fund infrastructure buildout, regulators in high-cost-of-living states face pressure to slow capital recovery, creating earnings lag for exactly the utilities taking aggressive infrastructure positions. Long-term risk: regulatory status of gas infrastructure. If state regulators begin treating new gas capex as potentially stranded, the compounding model for gas utilities breaks regardless of near-term visibility.",
+ "one_sentence": "Utilities are locked into a decade of infrastructure capital deployment, but every dollar of earnings on that build depends on regulatory frameworks that are increasingly subject to political revision as customer bills rise and climate liability concentrates in high-risk geographies."
 }

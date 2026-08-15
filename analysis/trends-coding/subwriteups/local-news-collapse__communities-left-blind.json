@@ -1,88 +1,87 @@
 {
-  "slug": "communities-left-blind",
-  "trend_slug": "local-news-collapse",
-  "name": "When the Watchdog Disappears: How News Collapse Leaves Communities Accountable to No One",
-  "deck": "EchoStar's pay-TV collapse, Gannett's ongoing local-news erosion, and radio/outdoor-media retrenchment mean fewer reporters covering local courts, schools, and government. Communities lose institutional memory and accountability oversight. The cost is borne by residents, not by media companies abandoning the work.",
-  "core_bet": "Local news infrastructure is failing because digital advertising does not monetize at the same scale as broadcast or print, and subscription models work for national brands (NYT) but not for local coverage. That economics collapse means fewer journalists covering city councils, police departments, court systems, and school boards. EchoStar's going-concern language and pay-TV subscriber collapse ($6.998M down to $6.391M in Q2 2026) signal that legacy media infrastructure is being deconsolidated. Gannett's 47.4% digital revenue mix and continued print erosion show the transitional state. Radio and outdoor media are shifting toward programmatic and digital formats without rebuilding accountability journalism. Communities bear the cost in lost oversight.",
-  "numbers": [
-    {
-      "stat": "6.998 million",
-      "label": "EchoStar pay-TV subscribers, FY2025 (DISH TV 5.022M + SLING TV 1.976M)"
-    },
-    {
-      "stat": "6.391 million",
-      "label": "EchoStar pay-TV subscribers, Q2 2026 (DISH TV 4.684M + SLING TV 1.707M)"
-    },
-    {
-      "stat": "-607,000",
-      "label": "EchoStar pay-TV net subscriber loss from FY2025 to Q2 2026"
-    },
-    {
-      "stat": "Going concern doubt",
-      "label": "EchoStar FY2025 annual report disclosure of substantial doubt about ability to continue as a going concern"
-    },
-    {
-      "stat": "47.4%",
-      "label": "Digital revenue % of total revenue, Gannett Q2 2026"
-    },
-    {
-      "stat": "$2.302 billion",
-      "label": "Gannett total revenue, FY2025"
-    },
-    {
-      "stat": "186 million",
-      "label": "Average unique visitors across USA TODAY and Newsquest, Gannett FY2025"
-    },
-    {
-      "stat": "1.5 million",
-      "label": "Gannett digital-only subscriptions exceeding print subscriptions by end of 2025"
-    }
-  ],
-  "mechanism": [
-    "Local news economics broke first. Print advertising supported local newsrooms because classified ads, auto dealers, and real estate businesses needed local reach to function. When those advertisers migrated to Craigslist, Zillow, and digital directories, local newspaper revenue collapsed. Broadcasting economics lasted longer because broadcast reached large geographic areas and political advertising remained tied to local elections, but streaming and cord-cutting have eroded that base. EchoStar's 607,000 pay-TV subscriber loss from FY2025 to Q2 2026 is not slowing; it is accelerating. That destruction of eyeballs means broadcast advertising also collapses.",
-    "The subscription model has not replaced advertising revenue at the local level. Gannett has 1.5 million digital-only subscriptions, which is substantial, but total revenue fell from a prior baseline because the print base was far larger. The company is digitally native in the sense that 47.4% of revenue is now digital, but that mix shift reflects decline in the traditional base, not explosive growth in digital. Gannett earned $114.4 million of operating cash flow in FY2025 on $2.3 billion of revenue, a 5% margin—sustainable, but not rebuilt at scale. That means the company cannot afford the newsroom investment it once did.",
-    "The consequence is newsroom contraction. Without the financial base, local newspapers have shrunk their reporting footprint. Beats that once had dedicated reporters (city council, courts, police, schools) are now covered part-time or not at all. Breaking-news coverage in smaller cities and towns has nearly disappeared. That is not a side effect of digital transition; it is the core mechanism. The newsroom is the cost center, and without corresponding revenue growth, the cost center shrinks.",
-    "The absence of local accountability reporting has material downstream effects that are invisible in media company financials but visible in government and institutional behavior. When no one is watching, corruption, mismanagement, and waste go unchecked longer. School districts make worse decisions. City governments approve projects with thinner due diligence. Courts and police operate with less transparency. Citizens do not know these things are happening because no one is reporting them. The cost is externalized from media companies onto communities."
-  ],
-  "why_now": "The inflection is 2020-2024. COVID accelerated digital migration and streaming adoption, which compressed pay-TV and broadcast listenership. Advertisers who were partially digital before became fully digital-first. Local classifieds moved online years ago. The transition that could have been managed over 20 years was compressed into 5. Companies did not have time to rebuild business models at scale before the revenue base disappeared. For EchoStar, the going-concern language is the inflection point: the company cannot fund operations and debt service from current revenues without asset sales or restructuring. That is not a hypothetical; it is a filing statement from the company itself.",
-  "who_pays": "Communities pay through degraded civic oversight, loss of institutional memory, and reduced accountability for government, courts, schools, and businesses. Residents pay through worse government decisions, more frequent institutional failures, and higher ultimate costs. Individual journalists lose jobs or are forced into freelance/contract work with no benefits or stability. News sources lose their largest platform. The cost is not paid by media companies; they are simply abandoning the work.",
-  "who_profits": "Tech platforms (Google, Facebook/Meta) capture advertising spend that once went to local media. There is no alternative beneficiary at the local level. At the national level, premium direct-subscription media (NYT with 13.35M subscribers) captures audience and ad spend, but that is concentrated in national and international news, not local coverage.",
-  "tension": "The core tension is that local accountability journalism is a public good with no private market mechanism to fund it at the scale it once was. Subscription models work for national/premium brands with differentiated content. Advertising still funds some forms of media (e.g., programmatic digital display), but not local newsrooms. Philanthropic models and nonprofit newsrooms are emerging but do not replace the scale of traditional local news. The economic tension is irreversible under current technology and advertising models—there is no path back to the prior business model.",
-  "surprising_part": "The most counter-intuitive element is that audience still exists. Gannett has 186 million average monthly unique visitors. That is massive. But massive reach does not monetize at the scale required to fund local newsrooms. Digital advertising (CPMs) is a fraction of what print classified or broadcast advertising once paid. So media companies serve massive audiences at declining per-unit revenue. The scale paradox—huge reach, declining business value—is the defining feature of modern media that attempts to operate without subscription scale or platform control.",
-  "one_sentence": "Local news collapsed not because communities stopped needing accountability reporting, but because digital advertising fragmentation made that reporting economically impossible to fund at the local level, leaving governance and institutions operating without meaningful public scrutiny.",
-  "societal_stake": "This pattern is fundamentally about the conditions for democratic accountability and institutional transparency. Without local news, local government and institutions operate with less scrutiny, more waste, and less responsiveness to community feedback. School boards make decisions with lower transparency. Police departments operate without press coverage. Courts have fewer observers. Businesses engage in practices that would have been reported on in an earlier era. The cost is not abstract; it shows up in higher government waste, slower response to problems, and reduced civic participation. For communities that depended on local newspapers as the primary source of information about what their government is doing, the collapse of that infrastructure represents a real loss of citizen power. This is not a media industry problem; it is a civic infrastructure problem.",
-  "evidence": [
-    {
-      "company": "EchoStar Corporation",
-      "fact": "FY2025 annual report stated substantial doubt about ability to continue as a going concern due to lack of necessary cash for obligations over next twelve months"
-    },
-    {
-      "company": "EchoStar Corporation",
-      "fact": "Pay-TV subscribers declined from 6.998M (FY2025) to 6.391M (Q2 2026), a loss of 607,000 subscribers in ~18 months"
-    },
-    {
-      "company": "EchoStar Corporation",
-      "fact": "Q2 2026: substantially all of the Pay-TV segment was deconsolidated as of 2026-06-30, signaling structural business model failure"
-    },
-    {
-      "company": "Gannett Co., Inc.",
-      "fact": "Total revenue $2.302 billion in FY2025 with digital revenue reaching 46% ($1.1 billion), showing mix shift from legacy base"
-    },
-    {
-      "company": "Gannett Co., Inc.",
-      "fact": "Digital-only subscriptions reached 1.5 million, exceeding print subscriptions, but total revenue still declined because the print base was substantially larger"
-    },
-    {
-      "company": "Gannett Co., Inc.",
-      "fact": "Q2 2026 revenue was $536.3M (down 8.3%) with digital revenue $254.3M (47.4% of total), showing continued contraction in legacy publishing base"
-    },
-    {
-      "company": "Gannett Co., Inc.",
-      "fact": "FY2025 produced first positive annual net income since 2019 merger and third consecutive year of free cash flow growth, but at $114.4M operating cash flow on $2.3B revenue (5% margin), newsroom investment capacity is constrained"
-    },
-    {
-      "company": "iHeartMedia",
-      "fact": "Q3 2025 included $209 million of non-cash FCC-license impairment charges, signaling broadcast value deterioration"
-    }
-  ]
+ "slug": "communities-left-blind",
+ "trend_slug": "local-news-collapse",
+ "name": "When Accountability Stops: Local News Collapse Leaves Communities Operating Without Scrutiny",
+ "deck": "EchoStar's going-concern warning and subscriber collapse (6.998M to 6.391M in 18 months), Gannett's digital-only mix hitting 47.4% of revenue, and iHeartMedia's $209M license-value impairment show that the economics of local accountability journalism have inverted. Digital ads don't monetize, subscriptions don't scale locally, and news companies have stopped investing in the institutional scrutiny that kept government, courts, and schools accountable.",
+ "core_bet": "Local news collapsed not from lack of audience but from economics: the business model that funded accountability journalism (print classifieds, broadcast advertising, geographic reach) broke between 2015-2020. That destruction accelerated 2020-2026. Digital advertising pays a fraction of print rates. Subscription models work for national brands (NYT's 13.35M subscribers) but not local news. Neither Gannett, EchoStar, nor iHeartMedia rebuilt business models at scale to fund local newsrooms. Instead, all three contracted. Fewer journalists cover courts, police, schools, and city councils. Communities lose institutional memory and the overhead cost that kept institutions honest—the knowing that a reporter might show up.",
+ "numbers": [
+  {
+   "stat": "6.998 million",
+   "label": "EchoStar pay-TV subscribers FY 2025 (DISH TV 5.022M + SLING TV 1.976M)"
+  },
+  {
+   "stat": "6.391 million",
+   "label": "EchoStar pay-TV subscribers Q2 2026 (DISH TV 4.684M + SLING TV 1.707M)—loss of 607,000 in 18 months"
+  },
+  {
+   "stat": "Going concern doubt",
+   "label": "EchoStar FY 2025 annual report: substantial doubt about ability to continue as going concern"
+  },
+  {
+   "stat": "47.4%",
+   "label": "Gannett Q2 2026 digital revenue % of total—mix shift from legacy print collapse, not growth"
+  },
+  {
+   "stat": "$2.302 billion",
+   "label": "Gannett FY 2025 total revenue"
+  },
+  {
+   "stat": "1.5 million",
+   "label": "Gannett digital-only subscriptions (exceeding print subscriptions but total revenue still declining)"
+  },
+  {
+   "stat": "$114.4 million",
+   "label": "Gannett FY 2025 operating cash flow (5% margin on $2.3B revenue)—constrained newsroom investment"
+  },
+  {
+   "stat": "$209 million",
+   "label": "iHeartMedia Q3 2025 non-cash FCC-license impairment charge—broadcast value deterioration"
+  }
+ ],
+ "mechanism": [
+  "Local news economics broke along a specific timeline. Print advertising supported local newsrooms because classified ads, auto dealers, and real estate businesses needed local reach to function. When Craigslist, Zillow, and digital directories captured those advertisers (2008-2015), local newspaper revenue collapsed. Broadcasting economics lasted longer because broadcast reached large geographic areas and political advertising remained tied to local elections. But streaming and cord-cutting accelerated (2015-2020), and then COVID compressed adoption (2020-2022). EchoStar's 607,000 pay-TV subscriber loss from FY 2025 to Q2 2026 is not slowing; it is accelerating. That destruction of eyeballs means broadcast advertising collapses too. iHeartMedia's $209M license impairment (Q3 2025) is the market saying radio broadcast licenses have no value anymore.",
+  "The subscription model has not replaced that revenue at local scale. Gannett has 1.5 million digital-only subscriptions, which is substantial. But the company's total revenue fell because the print base was far larger. Gannett's 47.4% digital mix (Q2 2026) looks like progress until you remember: that mix reflects decline in the traditional base, not explosive growth in digital. The company earned $114.4M operating cash flow on $2.3B revenue (5% margin)—sustainable, but not rebuilt at scale. A 5% operating margin cannot fund the newsroom investment Gannett once made. Fewer reporters, fewer beats covered, less accountability journalism produced.",
+  "The consequence cascades invisibly. Newsrooms contracted. Beats that once had dedicated reporters (city council, courts, police, schools) are now covered part-time or not at all. Breaking-news coverage in smaller cities disappeared. That is not a side effect; it is the core mechanism. The cost center (newsroom) was cut because matching revenue growth didn't materialize. Without those reporters, accountability mechanisms stopped functioning. City governments approve projects with less due diligence because no one is watching. School districts make decisions without scrutiny. Police departments operate less transparently. Courts process cases without observers. Corruption and mismanagement go uncovered longer because the institutional check—the reporter who might show up—is gone. Citizens don't know these things are happening because no one is reporting them. This cost is externalized from media companies onto communities."
+ ],
+ "why_now": "The inflection was 2020-2024. COVID accelerated digital migration and streaming adoption, which compressed pay-TV and broadcast listenership simultaneously. Advertisers who were 60% digital before became 90% digital. Local classifieds had already moved online years before. The transition that could have been managed over 20 years was forced into 5. Companies did not have time to rebuild business models at scale before revenue disappeared. EchoStar's going-concern language (FY 2025 annual report) is the hard inflection: the company cannot fund operations and debt service from current revenues without asset sales or restructuring. That is not hypothetical; it is a filing statement required by accounting standards. When a public company discloses substantial doubt about going concern, the business model is broken, not in transition.",
+ "who_pays": "Communities pay through degraded civic oversight, loss of institutional memory, and reduced accountability for government, courts, schools, and businesses. Residents pay through worse government decisions, more frequent institutional failures, and higher ultimate costs (from waste, corruption, or poor policy). Individual journalists lose jobs or are forced into contract work with no benefits or pension. News sources lose their largest platform and reach. The cost is not paid by media companies; they are simply abandoning the work.",
+ "who_profits": "Tech platforms (Google, Facebook/Meta, TikTok) capture advertising spend that once went to local media. There is no alternative local beneficiary. National premium direct-subscription media (NYT's 13.35M subscribers) captures audience and ad spend, but that is concentrated in national and international news, not local accountability reporting.",
+ "tension": "Local accountability journalism is a public good with no private market mechanism to fund it at the scale it once was. Subscription models work for national/premium brands with differentiated content (NYT, WSJ). Advertising still funds some forms of media (programmatic digital display), but not local newsrooms because CPMs are 1/10th of what print classifieds or broadcast advertising paid. Philanthropic models and nonprofit newsrooms are emerging but do not replace the scale of traditional local news. The economic tension is irreversible under current technology and advertising models—there is no path back to the prior business model.",
+ "surprising_part": "The most counter-intuitive fact is that audience still exists. Gannett reached 186 million average monthly unique visitors in 2025. That is massive reach. But massive reach does not monetize at the scale required to fund local newsrooms. Digital advertising CPMs are a fraction of what print classified or broadcast advertising once paid. So media companies serve massive audiences at declining per-unit revenue. The scale paradox—huge reach, declining business value—is the defining feature of modern media attempting to operate without subscription scale or platform control.",
+ "one_sentence": "Local news collapsed not because communities stopped needing accountability reporting, but because digital advertising fragmentation made that reporting economically impossible to fund, leaving governance and institutions operating without meaningful public scrutiny.",
+ "societal_stake": "This pattern is fundamentally about the conditions for democratic accountability and institutional transparency. Without local news, local government and institutions operate with less scrutiny, more waste, and less responsiveness to community feedback. School boards make decisions without observing reporters. Police departments operate without press coverage. Courts have fewer observers. Businesses engage in practices that would have been reported in an earlier era. Waste, corruption, and mismanagement go longer unchecked because the institutional overhead—the knowing that someone might report it—is gone. This is not a media industry problem; it is a civic infrastructure problem that shows up in higher government waste, slower response to problems, and reduced civic participation.",
+ "evidence": [
+  {
+   "company": "EchoStar Corporation",
+   "fact": "FY 2025 annual report disclosed substantial doubt about ability to continue as going concern due to lack of necessary cash to fund obligations over next twelve months"
+  },
+  {
+   "company": "EchoStar Corporation",
+   "fact": "Pay-TV subscribers declined from 6.998M (FY 2025) to 6.391M (Q2 2026), a loss of 607,000 in approximately 18 months—accelerating not slowing"
+  },
+  {
+   "company": "EchoStar Corporation",
+   "fact": "Q2 2026: substantially all of Pay-TV segment was deconsolidated as of 2026-06-30, marking structural business model failure"
+  },
+  {
+   "company": "Gannett Co., Inc.",
+   "fact": "FY 2025 total revenue $2.302B with digital revenue reaching 46% ($1.1B), showing mix shift from legacy base contraction, not digital growth"
+  },
+  {
+   "company": "Gannett Co., Inc.",
+   "fact": "Digital-only subscriptions reached 1.5 million exceeding print, but total revenue still declined because print base was substantially larger—mix shift, not growth"
+  },
+  {
+   "company": "Gannett Co., Inc.",
+   "fact": "Q2 2026 revenue $536.3M (down 8.3% YoY) with digital revenue $254.3M (47.4% of total), continuing contraction in legacy publishing base"
+  },
+  {
+   "company": "Gannett Co., Inc.",
+   "fact": "FY 2025 operating cash flow $114.4M on $2.3B revenue (5% margin)—operating margin too thin to fund prior levels of newsroom investment"
+  },
+  {
+   "company": "iHeartMedia",
+   "fact": "Q3 2025 included $209M non-cash FCC-license impairment charge, signaling broadcast value deterioration and market's assessment that radio license value has declined"
+  }
+ ]
 }

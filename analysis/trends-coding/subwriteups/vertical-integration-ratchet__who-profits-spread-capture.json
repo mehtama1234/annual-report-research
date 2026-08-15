@@ -2,35 +2,74 @@
  "slug": "who-profits-spread-capture",
  "trend_slug": "vertical-integration-ratchet",
  "name": "Capturing the Spread the Intermediary Used to Take",
- "deck": "Vertical integration succeeds by capturing the margin that an arm's-length counterparty would have charged, but only some forms of spread capture are durable across commodity cycles.",
- "core_bet": "The economic logic of vertical integration is that the acquiring company captures the margin that an arm's-length intermediary would have extracted. Suncor's integrated oil-sands-to-refining spread, Freeport-McMoRan's copper-to-byproduct economics, Cencora's specialty-services attachment to drug distribution, and Commercial Metals' scrap-to-steel-product spread all prove that vertical integration can consolidate margin. But not all spread capture is permanent—some depends on temporary dislocations, commodity price disparities, or information advantages that decay over time.",
+ "deck": "Vertical integration succeeds by capturing the margin that an arm's-length intermediary would have charged, but only some forms of spread capture are durable across commodity cycles—scrap-to-steel and oil-sands-to-refining work; byproduct optimization is fragile.",
+ "core_bet": "The economic logic of vertical integration is that the acquiring company captures the margin that an arm's-length intermediary would have extracted. Suncor's integrated oil-sands-to-refining spread, Freeport-McMoRan's copper-to-byproduct economics, Cencora's specialty-services attachment, and Commercial Metals' scrap-to-steel spread all prove that vertical integration consolidates margin. But not all spread capture is permanent—some depends on temporary commodity-price dislocations or information advantages that decay. EAF mini-mills using 98% recycled domestic scrap outperform integrated blast-furnace competitors whose fixed-price contracts create earnings lags.",
  "numbers": [
-  {"stat": "$42B+", "label": "Suncor FY2025 revenue (integrated oil and refining)"},
-  {"stat": "$7.2B", "label": "Suncor annual operating cash flow (estimated)"},
-  {"stat": "350K bpd", "label": "Suncor crude-oil production capacity"},
-  {"stat": "$50B+", "label": "Freeport-McMoRan FY2025 revenue (copper + mining)"},
-  {"stat": "$20B+", "label": "Cencora FY2025 revenue (specialty pharmaceutical distribution)"},
-  {"stat": "$6B+", "label": "Commercial Metals FY2025 revenue (scrap steel recycling + fabrication)"}
+  {
+   "stat": "$42B+",
+   "label": "Suncor FY2025 revenue from integrated oil sands, upgrading, refining, and retail"
+  },
+  {
+   "stat": "860K bpd",
+   "label": "Suncor Q2 2026 record upstream crude-oil production capacity"
+  },
+  {
+   "stat": "$50B+",
+   "label": "Freeport-McMoRan FY2025 revenue from copper mining plus molybdenum, gold, silver byproducts"
+  },
+  {
+   "stat": "$321.3B",
+   "label": "Cencora FY2025 revenue from consolidated pharmaceutical distribution and specialty services"
+  },
+  {
+   "stat": "$1.4B",
+   "label": "Cleveland-Cliffs 2025 GAAP net loss despite $18.6B revenue from integrated blast-furnace model"
+  },
+  {
+   "stat": "14.2%",
+   "label": "Commercial Metals Q3 2026 adjusted EBITDA margin on North America Steel using 98% recycled material"
+  },
+  {
+   "stat": "$6.0B+",
+   "label": "Commercial Metals FY2025 revenue from integrated scrap collection, processing, and fabrication"
+  },
+  {
+   "stat": "480K bpd",
+   "label": "Suncor Q2 2026 record downstream refining capacity, capturing spread on own crude"
+  }
  ],
  "mechanism": [
-  "Suncor integrates oil-sands production with downstream refining and retail. Oil-sands crude has a narrower marketing window and lower spreads than light sweet crude—refineries typically discount it. Suncor refines its own oil-sands production internally, capturing the normal refining spread that would otherwise go to an independent refiner. This eliminates a middleman and consolidates margin inside the integrated company. The integrated spread is durable because it is tied to physical co-location and processing efficiency, not market timing. However, if crude prices collapse, the entire value chain compresses, and the integrated spread offers no more protection than an independent refiner would.",
-  "Freeport-McMoRan operates mines that produce copper plus molybdenum, gold, and silver as byproducts. A pure copper miner would sell these byproducts at commodity prices or modest premiums. Freeport captures more value by integrating byproduct marketing, negotiating higher prices for byproducts into long-term contracts, and optimizing extraction sequencing to maximize byproduct yields. The spread capture here is more fragile because it depends on Freeport's negotiating power with buyers and the current commodity price environment for gold and molybdenum. If gold prices collapse, the byproduct premium shrinks dramatically.",
-  "Cencora's specialty pharmaceutical distribution shows that spread capture can also appear in services. Cencora (formerly AmerisourceBergen) acquired specialty distribution and specialty services businesses, consolidating pharmaceutical distribution, specialty pharmacies, and provider services into one platform. The spread capture occurs through cross-selling (selling multiple services to the same client) and avoiding wholesale margins that independent specialty pharmacies would pay. Commercial Metals operates a similar model: the company collects scrap steel, processes it, and sells finished steel products, capturing the spread between scrap-input costs and finished-product prices. This spread is durable as long as scrap collection and steel fabrication remain efficient, but vulnerable if raw-material costs or finished-product prices diverge sharply."
+  "Suncor integrates oil-sands production with downstream refining and retail. Oil-sands crude has a narrower marketing window and lower spreads than light sweet crude—refineries typically discount it. Suncor refines its own oil-sands production internally, capturing the normal refining spread that would otherwise go to an independent refiner. The Q2 2026 record shows 860K bpd production paired with 480K bpd refining, proving the vertically integrated model is working. This eliminates a middleman and consolidates margin inside the integrated company. The spread is durable because it is tied to physical co-location and processing efficiency, not market timing. However, if crude prices collapse, the entire value chain compresses, and the integrated spread offers no more protection than an independent refiner would.",
+  "Freeport-McMoRan operates mines producing copper plus molybdenum, gold, and silver as byproducts. A pure copper miner would sell byproducts at commodity prices or modest premiums. Freeport captures more value by integrating byproduct marketing, negotiating higher prices into long-term contracts, and optimizing extraction sequencing to maximize yields. The spread capture is more fragile because it depends on Freeport's bargaining power with buyers and the current commodity price environment for gold and molybdenum. If gold prices collapse, the byproduct premium shrinks dramatically.",
+  "Commercial Metals proves that EAF mini-mills using domestic scrap outperform integrated blast-furnace operators. Commercial Metals reported Q3 2026 adjusted EBITDA margin of 14.2% on North America Steel using 98% recycled material. Cleveland-Cliffs posted a GAAP net loss of $1.4B in 2025 despite $18.6B revenue—the integrated-steel model under pressure. Commercial Metals' spread capture from scrap collection, processing, and finished-steel sales works because: (1) the company controls urban scrap-collection density, (2) EAF costs are lower than blast-furnace costs, (3) the inputs are domestic and decoupled from seaborne iron-ore pricing, and (4) carbon footprint aligns with decarbonization mandates. The spread is durable because the advantage is structural, not cyclical."
  ],
- "why_now": "Vertical integration is becoming attractive in commodities and distribution because commodity prices have become more volatile and geographically fragmented. Integrated companies can arbitrage price dislocations across their supply chain that independent companies cannot. Additionally, supply-chain pressures post-COVID made companies realize that controlling intermediaries reduced execution risk. Cencora and Commercial Metals both expanded through acquisition during 2023-2025 as these pressures mounted. Simultaneously, energy companies like Suncor are using integrated structures to defend refining margins against industry consolidation and margin compression.",
- "who_pays": "Independent refiners (who compete with integrated producers like Suncor), standalone specialty-pharmaceutical distributors (who compete with Cencora), independent scrap dealers and steel fabricators (who compete with Commercial Metals), and consumers of refined fuels, pharmaceuticals, and steel products (through higher prices if integrated companies can sustain premium pricing)",
- "who_profits": "Suncor, Freeport-McMoRan, Cencora, and Commercial Metals through consolidated margin across multiple steps of their value chains. The spread capture shows up as higher gross margins and lower distribution costs compared to pure-play competitors in a single segment.",
- "tension": "Vertical integration creates operational complexity and capital intensity that can offset spread-capture benefits if execution falters. Suncor must manage both mining and refining operations, exposing it to operational risk on both sides. Freeport must optimize ore sequencing across multiple commodities, which is complex. Cencora must integrate incompatible IT systems and sales forces from acquired companies, which creates risk. Additionally, spread capture is vulnerable if the commodity price environment shifts sharply (collapse in gold prices, for example) or if antitrust enforcement constrains integrated companies' ability to reallocate margin internally. Finally, competitors could replicate vertical integration, which would erode the spread-capture advantage and make the complexity cost worse.",
- "surprising_part": "The most counterintuitive insight is that vertical integration does NOT always create durable competitive advantage. It only captures spread that a middleman would have extracted. If margins are determined by commodity prices or full competition, vertical integration just compresses the value chain without adding sustainable profit. The companies that win through vertical integration are those that control a scarce input (Freeport's ore body, Suncor's oil-sands reserves, Cencora's scale in specialty distribution) or have information/processing advantages (Commercial Metals' scrap-sourcing network, Suncor's refining efficiency). The spread capture is durable only when the integrated company has a competitive position that an independent intermediary does not.",
+ "why_now": "Vertical integration became attractive in commodities and distribution in 2023-2026 because commodity prices became more volatile and geographically fragmented. Integrated companies can arbitrage price dislocations across their supply chain that independent companies cannot. Supply-chain shocks post-2022 made companies realize that controlling intermediaries reduced execution risk. Cencora and Commercial Metals both expanded through acquisition during this period. Suncor maintained record production and refining simultaneously in Q2 2026, proving that the integrated model scales even with tight energy markets. Cleveland-Cliffs' $1.4B 2025 loss versus Commercial Metals' 14.2% EBITDA margins shows the inflection point: integrated blast-furnace steel loses to EAF operators using recycled domestic scrap. Energy companies like Suncor use integrated structures to defend refining margins against industry consolidation.",
+ "who_pays": "Independent refiners (competing with integrated producers like Suncor), standalone specialty-pharmaceutical distributors (competing with Cencora), independent scrap dealers and steel fabricators (competing with Commercial Metals), and consumers of refined fuels, pharmaceuticals, and steel products (through higher prices if integrated companies sustain premium pricing). Cleveland-Cliffs' quarterly volatility shows that integrated blast-furnace operators absorb margin pressure that they cannot pass to automotive customers bound by fixed-price contracts.",
+ "who_profits": "Suncor, Freeport-McMoRan, Cencora, and Commercial Metals through consolidated margin across multiple steps of their value chains. The spread capture shows up as higher gross margins and lower distribution costs compared to pure-play competitors. Suncor's $42B revenue paired with vertical integration across production, upgrading, refining, and retail represents the full model. Commercial Metals' 14.2% EBITDA margins on recycled steel show that EAF-based integration captures more spread than blast-furnace competitors.",
+ "tension": "Vertical integration creates operational complexity and capital intensity that can offset spread-capture benefits if execution falters. Suncor manages both mining and refining operations, exposing it to operational risk on both sides. Freeport must optimize ore sequencing across multiple commodities, which is complex. Cencora must integrate incompatible IT systems and sales forces from acquired companies. Additionally, spread capture is vulnerable if the commodity price environment shifts sharply (collapse in gold prices, for example) or if antitrust enforcement constrains integrated companies' ability to reallocate margin internally. Finally, competitors could replicate vertical integration, which erodes the spread-capture advantage and makes the complexity cost worse. Cleveland-Cliffs proves this—the company cannot match Commercial Metals' EAF efficiency, so the integrated model generates losses instead of rents.",
+ "surprising_part": "The most counterintuitive insight is that vertical integration does NOT always create durable competitive advantage. It only captures spread that a middleman would have extracted. If margins are determined by commodity prices or full competition, vertical integration just compresses the value chain without adding sustainable profit. The companies that win through vertical integration are those controlling a scarce input (Freeport's ore body, Suncor's oil-sands reserves, Cencora's scale in specialty distribution) or having information/processing advantages (Commercial Metals' scrap-sourcing network and EAF efficiency, Suncor's refining efficiency). The spread capture is durable only when the integrated company has a competitive position that an independent competitor does not. Cleveland-Cliffs' losses show that without that competitive position, vertical integration is just a capital-intensive way to lose money.",
  "one_sentence": "Vertical integration captures margin from eliminated intermediaries, but that spread advantage is only durable if the integrating company controls a scarce input or has superior operational efficiencies that independent competitors cannot replicate.",
- "societal_stake": "If vertical integration concentrates industry structure, smaller competitors and independent middlemen are squeezed out, reducing industry dynamism and innovation. Integrated companies may also use their scale to extract uncompetitive pricing from suppliers or customers, embedding cost into supply chains. However, successful vertical integration can also improve efficiency and reduce wasteful middleman mark-ups that get socialized into consumer prices. The distribution effect is ambiguous—concentration can either worsen or improve outcomes depending on whether the integrated company uses its scale to improve efficiency or to extract rents.",
+ "societal_stake": "As industrial supply chains consolidate into fewer, larger vertically integrated platforms, the redundancy that historically allowed price competition and supplier diversity disappears. Communities and workers in divested segments bear adjustment costs while concentrated platforms capture the margin. The communities hosting integrated mines and mills bear the downside of structural shifts while productivity gains compound upward. However, successful vertical integration can also improve efficiency and reduce wasteful middleman mark-ups that get socialized into consumer prices. The distribution effect is ambiguous—concentration can either worsen or improve outcomes depending on whether the integrated company uses scale to improve efficiency or to extract rents.",
  "evidence": [
-  {"company": "Suncor Energy", "fact": "Integrated oil-sands producer and refiner; FY2025 revenue $42B+; captures refining spread on own crude rather than selling to independent refiners"},
-  {"company": "Suncor Energy", "fact": "350,000 bpd crude production capacity; downstream refining and retail integration consolidates margin across full value chain"},
-  {"company": "Freeport-McMoRan", "fact": "Large-scale copper mining with molybdenum, gold, silver byproducts; byproduct revenue captured through integrated marketing rather than commodity sales"},
-  {"company": "Freeport-McMoRan", "fact": "FY2025 revenue $50B+; byproduct optimization and long-term contract negotiation capture premium vs. standalone commodity sales"},
-  {"company": "Cencora", "fact": "Specialty pharmaceutical distribution consolidating wholesale distribution, specialty pharmacies, and provider services into single platform"},
-  {"company": "Cencora", "fact": "FY2025 revenue $20B+; spread capture through cross-selling and avoiding wholesale margins independent providers would pay"},
-  {"company": "Commercial Metals", "fact": "Integrated scrap collection, processing, and steel fabrication; captures spread between scrap input and finished-product output"}
+  {
+   "company": "Suncor Energy",
+   "fact": "Integrated oil-sands producer and refiner; FY2025 revenue $42B+; Q2 2026 record 860K bpd upstream production paired with 480K bpd downstream refining, capturing the refining spread on own crude"
+  },
+  {
+   "company": "Freeport-McMoRan",
+   "fact": "Large-scale copper mining with molybdenum, gold, silver byproducts; FY2025 revenue $50B+; byproduct optimization and long-term contract negotiation capture premium versus standalone commodity sales"
+  },
+  {
+   "company": "Commercial Metals Company",
+   "fact": "Integrated scrap collection, processing, and steel fabrication using ~98% recycled material; Q3 2026 adjusted EBITDA margin 14.2% on North America Steel versus Cleveland-Cliffs' GAAP net loss"
+  },
+  {
+   "company": "Cleveland-Cliffs",
+   "fact": "2025 GAAP net loss of $1.4B on $18.6B revenue; Q1 2026 energy costs from extreme weather cut ~$80M EBITDA; integrated blast-furnace model under pressure versus EAF competitors"
+  },
+  {
+   "company": "Cencora",
+   "fact": "Specialty pharmaceutical distribution consolidating wholesale distribution, specialty pharmacies, and provider services into single platform; FY2025 revenue $321.3B; spread capture through cross-selling"
+  }
  ]
 }

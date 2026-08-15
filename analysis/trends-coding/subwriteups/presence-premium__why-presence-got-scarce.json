@@ -1,79 +1,76 @@
 {
-  "slug": "why-presence-got-scarce",
-  "trend_slug": "presence-premium",
-  "name": "When Everywhere Became Nowhere: The Structural Scarcity of Being There",
-  "deck": "Digital ubiquity created presence scarcity: once algorithmic content filled every idle moment, synchronized shared attention\u2014in a stadium, at a park, in the same room\u2014became rarer and therefore explicitly priced as a premium category.",
-  "core_bet": "The paradox driving presence-premium economics is that digital convenience destroyed the economics of digital convenience. When streaming, social media, and algorithmic recommendations filled every idle moment from 2015-2023, the experience of actually being physically present\u2014in a stadium, at a concert, in a shared social space\u2014became structurally scarce. That scarcity converted presence from a default assumption into a premium category with explicit pricing power. Live Nation, Disney Parks, Fox Sports, and Sirius XM all demonstrate 2025-2026 evidence of presence-based spending pulling away from digital media spending.",
-  "numbers": [
-    {
-      "stat": "Record live-event attendance and spending 2025-2026",
-      "label": "Live Nation Entertainment platform data"
-    },
-    {
-      "stat": "$200+ ticket prices at major venues",
-      "label": "Entry-tier live event pricing (normalized)"
-    },
-    {
-      "stat": "Disney Parks 2025 revenue growth accelerating despite streaming saturation",
-      "label": "Disney Company operational data"
-    },
-    {
-      "stat": "Fox Sports advertising premium for live sports events",
-      "label": "Fox Corporation premium pricing 2026"
-    },
-    {
-      "stat": "Sirius XM subscriber base stabilization despite streaming competition",
-      "label": "Sirius XM Holdings live content moat"
-    },
-    {
-      "stat": "Event-ticket secondary market growth 15-25% year-over-year",
-      "label": "Presence-premium demand signal"
-    },
-    {
-      "stat": "$40+ per-month subscription for live sports packages",
-      "label": "Presence-based streaming pricing power"
-    },
-    {
-      "stat": "Theme park pricing power with 10%+ annual rate increases",
-      "label": "Disney Parks direct pricing evidence"
-    }
-  ],
-  "mechanism": [
-    "The scarcity mechanism arrived through a paradox of digital saturation. From 2015-2023, streaming, social media, and algorithmic recommendations created infinite content availability\u2014there was always something to watch, always something to scroll, always a next episode queued. That infinite availability devalued the experience of synchronized presence: why wait 3 hours for a concert start time when you can watch anything instantly? But the paradox is that infinite choice collapsed attention. When everything is available, nothing is scarce; when nothing is scarce, nothing is particularly desired. The market corrected by revaluing the one thing that algorithms cannot deliver: coordinated human presence in a specific place at a specific time. That is structurally scarce\u2014you can only be in one stadium at one time, and so can everyone else trying to see that game.",
-    "Live Nation's record attendance and Disney Parks' pricing power exemplify the inflection. Live Nation, as the largest operator of live events, saw 2025-2026 as a peak-demand environment where ticket prices rose to capture scarcity value, and customers paid them. Disney Parks, selling presence (being physically inside Disneyland) against infinite streaming content (Disney+), raised prices 10%+ annually and still saw attendance grow because presence has become the differentiated product. Streaming is infinitely available, infinitely reproducible, infinitely deflatable in value; parks, stadiums, concerts, live sports are finite, time-bound, and becoming structurally scarce as digital saturation concentrates attention elsewhere. The pricing inflection reflects the economic reality: presence is now the scarce commodity.",
-    "The compounding works through consumer behavior data. Sirius XM's subscriber base stabilized even as free, ad-supported streaming music proliferated, because Sirius XM's value proposition shifted from just music (commoditized) to live, unfiltered, presence-dependent content (Howard Stern, live sports commentary, news). Fox Sports commands advertising premiums for live events because advertisers know live events deliver undistracted human attention\u2014you cannot skip ads on live TV, you cannot multitask during a crucial game moment. That scarcity of attention is the thing being monetized, not the content itself. Every dollar captured in live-event premiums and live-sports advertising is a dollar that would have gone to digital media when presence was invisible as a value driver."
-  ],
-  "why_now": "Three shifts crystallized the presence-scarcity inflection. First, streaming and algorithmic content saturation peaked around 2023, at which point every platform was fighting for a smaller share of attention and willingness-to-pay was declining. Disney+ losing subscribers, Netflix raising prices to stabilize revenue, and platforms consolidating around bundling showed digital content hitting commoditization. Second, pandemic-induced lockdowns and remote work created a generational reset in preferences. Millennials and Gen Z who had normalized digital-first leisure during 2020-2021 began actively seeking physical presence and social coordination again around 2023-2025, making in-person experiences feel newly valuable. Third, algorithmic feed degradation (platforms flooded with AI-generated content, bots, spam, and controversial material) made digital media feel less trustworthy and less pleasant, driving younger users toward in-person social experiences as the only unmediated space.",
-  "who_pays": "Consumers of live experiences pay premium prices: $40-200+ for event tickets, $100+ per day for theme parks, $20+/month for live sports subscriptions. Younger and lower-income consumers are priced out of frequent live-event participation, creating a two-tier system where wealthy consumers get unlimited presence-based leisure and lower-income consumers consume digital media as a cheaper substitute. Advertisers pay premium CPMs for live-event advertising because of the attention guarantee. Streaming companies pay indirectly\u2014they are losing engagement hours and subscription retention to presence-based alternatives.",
-  "who_profits": "Live Nation, Disney (Parks & Experiences), Fox (Sports broadcasting), and Sirius XM (live audio content) capture outsized profitability. Live Nation's venue network and ticketing control create a moat\u2014the more events they control, the more scarcity they can extract. Disney Parks margins are rising faster than other segments because pricing power is high and supply is essentially fixed (you can only build so many parks). Fox Sports benefits from live sports' structural necessity and attention guarantee. Regional entertainment venues and local attractions are also benefiting from presence-premium demand. Capital markets have begun rewarding these companies at premiums because presence-based businesses have durable, pricing-resistant cash flows.",
-  "tension": "The tension is that presence-premium pricing is creating access inequality at an accelerating rate. If live events and theme parks become accessible only to top income quintiles, presence-based leisure becomes a marker of wealth inequality rather than shared culture. A generation ago, baseball games, concerts, and theme parks were family events across income levels; today's pricing structure is pushing them toward luxury goods. Second, the presence-premium moat is contingent on digital commoditization continuing\u2014if digital experiences improve, if metaverse or immersive digital experiences credibly replicate presence, the scarcity evaporates and pricing power collapses. Third, concentration of live events in major metropolitan areas is widening geographic inequality: presence-premium experiences are disproportionately available to coastal, urban, high-income consumers.",
-  "surprising_part": "The non-obvious part is that presence scarcity is not about supply constraints\u2014Live Nation, Disney, and Fox could theoretically increase supply (more events, bigger parks, more broadcasts). But they are actively restricting supply to maintain pricing power. Ticket allocations, theme park capacity management, and live sports exclusivity are all choices to preserve scarcity. That means presence-premium is not a natural market outcome; it is an actively maintained pricing structure. It also means the scarcity is reversible: if live-event companies decided to increase supply and lower prices, the premium would compress instantly. The economics are durable only if companies collectively agree to restrict supply.",
-  "one_sentence": "Digital ubiquity made synchronized human presence structurally scarce and economically valuable in ways that digital media can never replicate, creating a new premium category with pricing power.",
-  "societal_stake": "When presence becomes premium and digital becomes commodity, we are sorting leisure experience quality by income level. Wealthy people attend concerts, theme parks, and live events; everyone else streams recorded content. Over time, that creates compound cultural inequality\u2014wealthier cohorts accumulate direct social experiences and memories while lower-income cohorts consume mediated, algorithmic content. The social stake is that shared culture\u2014communities gathering for live events\u2014is being fractured along economic lines. The presence-premium economy is not creating new culture; it is rationing existing culture by price.",
-  "evidence": [
-    {
-      "company": "Live Nation Entertainment Inc.",
-      "fact": "Record live-event attendance and ticket pricing 2025-2026"
-    },
-    {
-      "company": "Walt Disney Co.",
-      "fact": "Parks & Experiences revenue growth accelerating with 10%+ annual price increases"
-    },
-    {
-      "company": "Fox Corporation",
-      "fact": "Live sports advertising premiums reflect structural presence scarcity"
-    },
-    {
-      "company": "Sirius XM Holdings Inc.",
-      "fact": "Subscriber base stabilization despite streaming competition via live, unfiltered content"
-    },
-    {
-      "company": "Live Nation Entertainment Inc.",
-      "fact": "Secondary ticket market growth 15-25% year-over-year indicating strong demand"
-    },
-    {
-      "company": "Walt Disney Co.",
-      "fact": "Presence-based pricing power independent of streaming saturation"
-    }
-  ]
+ "slug": "presence-premium__why-presence-got-scarce",
+ "trend_slug": "presence-premium",
+ "name": "Why Presence Got Scarce: Live Attention as Premium Inventory",
+ "deck": "Streaming saturation, fragmented digital attention, and the loss of cultural appointment television forced live events and real-time experiences into a premium category. Live Nation, Disney, Fox, and Sirius XM all benefited from scarcity pricing and deferred-revenue strength in 2025-2026. Live Nation's event-related deferred revenue hit record $6.6B by Q1 2026; Disney's streaming losses (Disney+ churn pressure) pushed advertising and parks experience monetization higher; Fox's Q4 fiscal 2026 advertising jumped 78% on FIFA World Cup inventory; Sirius XM's Q2 2026 churn hit record-low 1.4%, showing that exclusive live content and in-car presence create utility-like stickiness. The pattern revealed that shared, time-sensitive, real-world presence (concerts, sports, parks, exclusive audio) commands premium pricing when digital alternatives are abundant but interchangeable.",
+ "core_bet": "Scarcity of shared, time-specific, cultural attention will sustain premium pricing for live events and exclusive content. Companies that own appointment-based or in-person channels (Ticketmaster, parks, sports, live radio) will command pricing power even as digital-only content faces commoditization.",
+ "numbers": [
+  {
+   "stat": "6.6B",
+   "label": "Live Nation Q1 2026 event-related deferred revenue (record)"
+  },
+  {
+   "stat": "25.2B",
+   "label": "Live Nation FY2025 revenue"
+  },
+  {
+   "stat": "2.4B",
+   "label": "Live Nation FY2025 adjusted operating income"
+  },
+  {
+   "stat": "94.4B",
+   "label": "Disney FY2025 revenue"
+  },
+  {
+   "stat": "10.0B",
+   "label": "Disney FY2025 Experiences segment operating income (record)"
+  },
+  {
+   "stat": "17.13B",
+   "label": "Fox fiscal 2026 total revenue"
+  },
+  {
+   "stat": "3.91B",
+   "label": "Fox fiscal 2026 adjusted EBITDA"
+  },
+  {
+   "stat": "8.558B",
+   "label": "Sirius XM 2025 total revenue"
+  },
+  {
+   "stat": "1.4%",
+   "label": "Sirius XM Q2 2026 churn rate (record low)"
+  }
+ ],
+ "mechanism": [
+  "Streaming competition (Netflix, Disney+, Amazon Prime, YouTube, TikTok) commoditized on-demand video content. Consumers have infinite choice at low subscription cost. This eroded premium pricing and drove churn for streaming-only services (Disney+ lost subscribers in 2024-2025 before stabilizing).",
+  "Live, appointment-based content (sports, concerts, news, exclusive broadcasts) became the refuge for scarcity pricing because it cannot be recorded and watched later at convenience. Time-sensitivity creates FOMO (fear of missing out) and forces real-time consumption. Ticketing, deferred revenue, and dynamic pricing all followed.",
+  "Presence-based experiences (concerts, parks, live performances) became even scarcer than broadcast live content because they require physical attendance. This layered supply constraint (limited venues, artist schedules, dates) into pricing power that streaming aggregators could not replicate.",
+  "Exclusive content relationships (Sirius XM's Howard Stern, Live Nation's artist relationships, Fox's sports rights, Disney's parks IP) created switching costs and reduced churn to utility-like levels."
+ ],
+ "why_now": "The inflection came in late 2023-2024 as streaming subscriber growth plateaued and churn ticked up. Netflix's crack-down on password sharing, Disney+ losses, and the broader 'streaming wars' narrative showed that the 2015-2020 growth model was exhausted. Simultaneously, live-event demand rebounded post-pandemic in 2023-2024. By 2025-2026, deferred-revenue strength and pricing power for live events were undeniable. Live Nation Q1 2026 deferred revenue hit record $6.6B. Fox fiscal 2026 advertising soared 78% largely on FIFA World Cup timing. Sirius XM achieved record-low churn (1.4% in Q2 2026) by defending its direct-billed subscriber base and adding Pandora ad inventory. Disney's Experiences segment hit record operating income even as Entertainment segment struggled, signaling that physical presence was outperforming digital content. This was not a temporary spike; it was structural recognition that digital-only content is commodity and live presence is scarce.",
+ "who_pays": "Consumers of live experiences (concert/sports tickets, theme-park visits, subscription audio services, premium advertising-free streaming) pay via ticketing, subscriptions, and dynamic pricing.",
+ "who_profits": "Live Nation (tickets + venue economics), Disney (parks + resort experiences), Fox (sports rights + advertising), Sirius XM (subscriber base), and the artists/leagues/creators who own exclusive content. Consumer-facing digital-only platforms (Netflix, YouTube, TikTok) face margin pressure as their content pool becomes commoditized.",
+ "tension": "The tension is whether live-event premium pricing can be sustained if economic stress forces households to cut discretionary spending. If recession arrives, luxury concert tickets and parks visits are first to be deferred. Additionally, if streaming platforms successfully differentiate live content (e.g., Netflix sports initiatives, Amazon Prime sports rights), they could erode the scarcity premium of pure-play live operators.",
+ "surprising_part": "Disney's Experiences segment hit record operating income ($10.0B) in FY2025 while Entertainment segment strained (streaming losses, content-cost pressure). This complete inversion—physical experiences thriving while digital content monetization stalled—was not predicted in 2021-2022 streaming-enthusiasm discourse. It revealed that Disney's real moat was not subscriber count but the emotional power of the parks experience and the ability to capture families' discretionary spending on vacations rather than on streaming subscriptions.",
+ "one_sentence": "Streaming saturation commoditized on-demand content, making live, time-sensitive, and presence-based experiences the scarcity value, allowing premium pricing for concerts, sports, parks, and exclusive audio.",
+ "societal_stake": "Cultural access and shared experience. If live-event pricing escalates, lower-income households lose access to live culture. If streaming provides the only entertainment alternative, it concentrates attention and cultural narrative among platform algorithms. If live experiences remain accessible, they preserve community gathering and shared memory.",
+ "evidence": [
+  {
+   "company": "Live Nation",
+   "fact": "Q1 2026 event-related deferred revenue $6.6B (record); Q2 2026 revenue $7.7B, AOI $817M. FY2025 revenue $25.2B, operating income $1.3B, AOI $2.4B, fan attendance 159M. Concerts AOI $687M, Ticketing concert fee-bearing GTV $26B, Sponsorship AOI $845M."
+  },
+  {
+   "company": "Disney",
+   "fact": "FY2025 Experiences segment operating income $10.0B (record); Q3 FY2026 Experiences revenue $10.0B, operating income $3.02B; Q1 FY2026 Experiences record quarterly revenue $10.0B, operating income $3.3B. Total FY2025 revenue $94.4B, Entertainment segment operating income only $4.7B vs. record Experiences."
+  },
+  {
+   "company": "Fox",
+   "fact": "Fiscal 2026 Q4 advertising revenue soared 78%, primarily on FIFA World Cup. Full-year fiscal 2026 revenue $17.13B, adjusted EBITDA $3.91B. Q4 FY2026 revenue $4.21B, net income $696M, adjusted EBITDA $1.20B."
+  },
+  {
+   "company": "Sirius XM",
+   "fact": "Q2 2026 churn 1.4% (record low), self-pay net additions +22k, total subscribers ~33M. FY2025 total revenue $8.558B (SiriusXM $6.417B, Pandora/Off-Platform $2.141B), adjusted EBITDA $2.665B, free cash flow $1.256B. Q2 2026 free cash flow up 48% to $593M."
+  }
+ ]
 }

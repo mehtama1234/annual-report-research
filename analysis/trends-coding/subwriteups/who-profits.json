@@ -1,0 +1,152 @@
+{
+ "slug": "who-profits",
+ "trend_slug": "outage-anxiety-economy",
+ "name": "Where the Reliability Premium Lands: Value Capture Across the Stack",
+ "deck": "The reliability premium is captured at multiple layers simultaneously: OEMs through contract pricing and margin expansion, contractors through capacity scarcity and record backlogs, utilities through rate-base expansion and load premiums, and residential operators through lifetime value subscriptions. Every player is capturing durable pricing power.",
+ "core_bet": "Backup-generation OEMs like Generac (29% C&I growth, 24.8% EBITDA margins Q2 2026) and Cummins (19% Power Systems growth, 17.5% EBITDA margins Q2 2026) are capturing premium pricing through hyperscale contracts and capacity constraints. Specialty contractors like EMCOR ($17.14B backlog, $5.15B quarterly revenue Q2 2026) are capturing execution scarcity. Utilities like Alliant (3.4 GW contracted data-center demand, 60% load growth by 2031) are capturing power-demand premiums through disciplined rate structures. Distributed-power operators like Sunrun (74% storage attachment rate, $3.677B contracted earning assets Q2 2026) are capturing recurring revenue through subscriptions. This is a multi-layer, not concentrated, profit opportunity across the entire resilience stack.",
+ "numbers": [
+  {
+   "stat": "$1.6B",
+   "label": "Generac data-center backlog, Q2 2026"
+  },
+  {
+   "stat": "29%",
+   "label": "Generac C&I sales growth YoY, Q2 2026"
+  },
+  {
+   "stat": "24.8%",
+   "label": "Generac adjusted EBITDA margin, Q2 2026"
+  },
+  {
+   "stat": "$17.14B",
+   "label": "EMCOR remaining performance obligations, Q2 2026 (record)"
+  },
+  {
+   "stat": "$5.15B",
+   "label": "EMCOR quarterly revenue, Q2 2026 (record)"
+  },
+  {
+   "stat": "3.4 GW",
+   "label": "Alliant contracted data-center demand, Q1 2026 (370 MW new Iowa ESA)"
+  },
+  {
+   "stat": "60%",
+   "label": "Alliant expected load growth by 2031 vs. 2025 baseline"
+  },
+  {
+   "stat": "$9.5B",
+   "label": "Cummins quarterly revenue, Q2 2026 (record, up 9% YoY)"
+  },
+  {
+   "stat": "19%",
+   "label": "Cummins Power Systems revenue growth YoY, Q2 2026"
+  },
+  {
+   "stat": "17.5%",
+   "label": "Cummins EBITDA margin, Q2 2026"
+  },
+  {
+   "stat": "74%",
+   "label": "Sunrun storage attachment rate, Q2 2026"
+  },
+  {
+   "stat": "$3.677B",
+   "label": "Sunrun contracted net earning assets, Q2 2026"
+  },
+  {
+   "stat": "1.206M",
+   "label": "Sunrun customers at end of Q2 2026"
+  }
+ ],
+ "mechanism": [
+  "Generac and Cummins capture the OEM premium through hyperscale demand and capacity constraints. Generac signed a global supply agreement with a leading hyperscale operator in Q2 2026, secured a second hyperscale agreement on June 24, 2026, and expanded data-center backlog to $1.6B. C&I external net sales rose 29% to $556M in Q2 2026 while adjusted EBITDA reached 24.8% of net sales ($291M), up sharply from 18.3% in Q1 2026. Management raised full-year 2026 guidance on data-center momentum. Cummins saw Power Systems revenue rise 19% to $2.3B in Q2 2026 driven by data-center power demand across the US, China, and Asia Pacific, and signed a natural-gas generator-set agreement with Circe Energy for an HPC data center in Texas. Cummins' overall EBITDA reached 17.5% of record $9.5B revenue. Both companies are capacity-constrained: when a data-center operator must guarantee nine-nines uptime and power is the constraint, backup-generation OEMs have pricing power that does not exist for commodity suppliers.",
+  "EMCOR and specialty contractors capture the execution premium through scarcity and backlog velocity. EMCOR reported record remaining performance obligations of $17.14B in Q2 2026, up $3.89B from year-end 2025 and $5.23B from Q2 2025. Quarterly revenue hit a record $5.15B with net income of $403.7M and operating income of $547.3M. Data-center construction was the largest contributor to backlog growth, with additional awards in network and communications, water and wastewater, healthcare, and institutional. Management raised full-year 2026 diluted EPS guidance to $32.00-$33.25. The contractor premium comes from hard scarcity: there are only a few dozen firms globally that can execute large-scale electrical and mechanical data-center builds, project complexity is rising (sophisticated power delivery, cooling, controls, redundancy), and lead times are extended. When EMCOR has a $17B backlog and competitors have similar constraints, field execution is not for sale at commodity pricing.",
+  "Alliant Energy captures the utility premium through rate structures and long-term customer contracts. The company expects load to grow 60% by 2031 based on 3.4 GW of contracted data-center demand as of Q1 2026, which included a new 370 MW Iowa ESA. Management is using individual-customer rates, advance ratemaking, and Iowa regulatory structures to convert that load growth into earnings expansion. This is structurally different from commodity utilities: data-center load is negotiated bilaterally through long-term service agreements, not subject to blanket rate caps. Alliant's capital plan for 2026-2029 is $13.4B. The reliability premium translates directly to rate-base expansion and earnings accretion in a regulated-utility framework where large load = large infrastructure investment = large rate-base growth.",
+  "Sunrun captures the residential reliability premium through storage subscriptions and installed-base monetization. The company reported a storage-attachment rate of 74% in Q2 2026 (up from 71% in Q4 2025), with 1.206M customers and $3.677B of contracted net earning assets generating recurring subscription revenue. Q2 2026 revenue was $870M and cash generation was $23M ($45M excluding safe harbor). Each household paying for battery-backed solar is paying for resilience insurance through a 20+ year contract. Sunrun is monetizing household-level outage anxiety through long-term contracts with predictable cash flows and switching costs. The premium here is both psychological (peace of mind during grid stress) and economic (measurable backup power when the grid fails). Rising storage attachment from 71% to 74% shows customers are choosing resilience over capital efficiency."
+ ],
+ "why_now": "The reliability premium is systemic because grid stress, extreme weather, and AI-driven power demand are all converging with measurable urgency. On the grid side: Texas experienced rolling blackouts in August 2023 linked to air-conditioning load, and again in May 2024 during extreme heat. California narrowly avoided blackouts in summer 2024 as demand peaked above 145 GW. The Northeast experienced Tropical Storm Isaias (August 2020) and Hurricane Sandy (October 2012) effects that lasted into the 2020s, creating persistent outage anxiety in the region. On the AI side: Generac's Q2 2026 earnings call explicitly tied data-center demand acceleration to AI adoption and hyperscale capital expenditure. Cummins Q2 2026 noted data-center power demand was 'stronger than expected' and cited 'robust customer orders for standby power for data centers.' EMCOR's backlog growth in Q2 2026 was driven by 'network, computing, and data-center infrastructure buildout.' Alliant's 3.4 GW of contracted data-center demand as of Q1 2026 represents signed commitments from Google, Meta, QTS, and others—this is not speculative. Sunrun's storage attachment hit 74% in Q2 2026, up from 71% in Q4 2025, showing that households are actively choosing resilience products. Every company in the stack is saying the same thing in earnings calls from Q4 2025 through Q2 2026: reliability is no longer optional, and the demand is ramping faster than expected. That demand has not yet peaked, which is why pricing power remains high across the entire stack.",
+ "who_pays": "End consumers and hyperscalers ultimately foot the bill. Data-center operators pay premium prices for backup generation, specialty-contractor services, and grid-edge storage because the cost of downtime far exceeds redundancy costs. A single data-center outage can cost millions per hour in lost compute revenue, so reliability is not negotiable. Those costs pass through to cloud customers (AWS, Azure, Google Cloud), AI service users (ChatGPT, Claude, Gemini), and enterprise IT budgets. Households pay for Sunrun storage subscriptions (recurring monthly) and higher utility rates from Alliant (through Iowa regulatory rate structures that pass through data-center load growth to all ratepayers). Small businesses pay more for EMCOR's capacity-constrained contractors and Generac's premium backup systems. The distribution is uneven: large tech companies absorb cost inflation better than SMBs; wealthy homeowners afford Sunrun storage while lower-income households do not; regulated utilities pass costs to all ratepayers, creating cross-subsidy risk.",
+ "who_profits": "The entire stack profits durably because underlying demand (grid reliability, outage-prevention infrastructure, continuous uptime) is genuinely increasing rather than shifting. Generac captures OEM premiums: 29% C&I growth in Q2 2026, 24.8% EBITDA margins (vs. 17.0% full-year 2025), and $1.6B data-center backlog with committed future volumes. EMCOR captures contractor scarcity premiums: $17.14B backlog (up $3.89B in one quarter), record quarterly revenue of $5.15B, and EPS guidance raised to $32.00-$33.25 for full-year 2026. Alliant captures utility-regulation premiums: 3.4 GW contracted demand, 60% load growth trajectory, and disciplined rate structures that protect affordability while expanding rate-base. Sunrun captures subscription premiums: 74% storage attachment rate, 1.206M customers, $3.677B contracted earning assets, and 20+ year customer contracts with high switching costs. The winners are those with capacity constraints (Generac and Cummins have full-order books; EMCOR's backlog is growing faster than revenue can scale), execution scarcity (specialty contractors cannot be easily replicated or scaled), and regulatory moats (Alliant's Iowa regulatory framework protects its rate-setting ability). The loser is anyone betting that grid reliability improves so much that resilience infrastructure demand softens. That outcome is not visible in any company's Q2 2026 commentary or forward guidance.",
+ "tension": "The fragility sits in several places. First, if grid investment and renewable capacity deployment accelerate dramatically faster than expected (e.g., through unprecedented federal or state buildout), grid reliability could improve enough to reduce the perceived need for backup systems and subscription storage. However, neither Generac, Cummins, EMCOR, Alliant, nor Sunrun's Q2 2026 guidance reflects this risk. Second, if Generac and Cummins' data-center backlogs cannot be fulfilled because of supply-chain disruption or manufacturing constraints (enclosures, controls, fuel-system components), premium pricing will evaporate when customers face delays and seek alternatives. Q2 2026 commentary emphasized 'dramatic' capacity increases, suggesting management sees this as manageable. Third, if regulatory or political pushback emerges around data-center power consumption (water usage, carbon intensity, local grid impacts), policy could force constraints that reduce data-center buildout and dampen the demand justifying the entire stack. This would most hurt EMCOR (dependent on data-center construction) and Alliant (dependent on Iowa regulatory goodwill). Fourth, if AI demand slows or model efficiency improvements reduce power intensity per FLOP, the data-center build cycle could compress faster than infrastructure operators can redeploy capital. However, Q2 2026 guidance from all OEMs and contractors suggests acceleration, not deceleration, is the current baseline.",
+ "surprising_part": "The non-obvious pattern is that pricing power is most durable for those furthest from the direct hyperscaler relationship. Generac and Cummins have hyperscale contracts and negotiate premium prices (29% growth, 24.8% margins), but they are still commoditized relative to their customer's scale—a $1.6B backlog is large but not irreplaceable for a hyperscaler's capex plan. EMCOR captures more durable scarcity premiums because there are only 5-10 contractors globally that can execute at $100M+ data-center construction scale. Their $17.14B backlog cannot be easily replicated by competitors or absorbed by customer in-house teams. Alliant captures the most durable premium because it has regulatory protection, long-term rate structures, and a captive monopoly that lock in data-center economics regardless of competitive pressure or market commodity cycles. Sunrun captures recurring revenue that stays stable even if one-time install demand fluctuates because the customer is locked into a 20+ year service contract. The lesson: in a reliability-premium economy, the winner is whoever has the deepest scarcity, the longest customer contracts, and the hardest regulatory or switching-cost moat.",
+ "one_sentence": "The reliability premium flows across the entire stack from OEM to contractor to utility to residential subscriber, creating durable pricing power at multiple layers as long as grid stress, extreme weather, and hyperscale AI demand persist.",
+ "societal_stake": "This is a regressive distribution of resilience. Wealthy households and large companies can afford premium backup power, subscription storage, and location siting that secures priority access to grid capacity. Small businesses and lower-income households cannot afford Sunrun's subscriptions (which assume credit access), EMCOR's premium contractor services (which drive project costs higher), or the higher electricity rates that Alliant passes through from data-center load growth. If reliability becomes something you buy rather than something the grid provides universally, inequality in outage risk and electrical continuity will accelerate. The societal risk is also political: if public perception shifts toward viewing data-center power consumption as the cause of broader grid stress (rather than just a demand pressure), political pressure could mount to constrain that consumption through policy. That would undermine the entire resilience infrastructure stack that has been built to serve it and introduce policy risk into the supposedly stable regulatory moat that Alliant and other utilities depend on.",
+ "evidence": [
+  {
+   "company": "Generac Holdings",
+   "fact": "Q2 2026: signed global supply agreement with leading hyperscale operator, secured second hyperscale agreement on June 24, 2026, expanded data-center backlog to ~$1.6B excluding additional committed volumes"
+  },
+  {
+   "company": "Generac Holdings",
+   "fact": "Q2 2026: C&I external net sales rose 29% to $556M; residential sales fell 2% to $617M; adjusted EBITDA 24.8% of net sales ($291M), up from 18.3% in Q1 2026 and 17.0% full-year 2025"
+  },
+  {
+   "company": "Generac Holdings",
+   "fact": "Q1 2026: C&I external net sales rose 28% to $510M; adjusted EBITDA 18.3% of net sales; company in final stages of vendor approval with multiple hyperscale customers, expanded backlog with new and existing customers"
+  },
+  {
+   "company": "Generac Holdings",
+   "fact": "Full-year 2025: net sales $4.21B (down 2%), residential sales $2.27B (down 7%), C&I sales $1.46B (up 5%), adjusted EBITDA $716M (17.0% margin), free cash flow $268M"
+  },
+  {
+   "company": "Cummins Inc.",
+   "fact": "Q2 2026: record quarterly revenue $9.5B (up 9% YoY), net income $932M ($6.73 per diluted share), EBITDA $1.7B (17.5% of sales), Power Systems revenue $2.3B (up 19%), signed natural-gas generator-set and microgrid agreement with Circe Energy for HPC data center in Texas"
+  },
+  {
+   "company": "Cummins Inc.",
+   "fact": "Q2 2026: Power Systems grew 19% driven primarily by data-center-related power demand in US, China, Asia Pacific; company raised full-year 2026 revenue guidance to up 10%-13%, EBITDA guidance to 18.0%-18.5%"
+  },
+  {
+   "company": "Cummins Inc.",
+   "fact": "Q1 2026: revenue $8.4B (up 3%), EBITDA $1.3B (15.4% of sales), Power Systems revenue $2.0B (up 19%), management noted data-center backup power demand was 'stronger than expected'"
+  },
+  {
+   "company": "Cummins Inc.",
+   "fact": "Q4 2025 and full-year 2025: quarterly revenue $8.5B (up 1%), full-year revenue $33.7B, full-year EBITDA $5.4B (16.0% of sales), Power Systems revenue grew 11% in Q4 driven by data-center power-generation demand"
+  },
+  {
+   "company": "EMCOR Group",
+   "fact": "Q2 2026: record remaining performance obligations $17.14B (up $3.89B from year-end 2025, up $5.23B from Q2 2025); record quarterly revenue $5.15B; net income $403.7M; operating income $547.3M; diluted EPS $9.06; data-center construction largest backlog contributor"
+  },
+  {
+   "company": "EMCOR Group",
+   "fact": "Q2 2026: full-year 2026 diluted EPS guidance raised to $32.00-$33.25; management attributed backlog growth to network and communications, healthcare, water and wastewater, institutional, and data-center awards"
+  },
+  {
+   "company": "EMCOR Group",
+   "fact": "Q1 2026: record quarterly revenue $4.63B; remaining performance obligations $15.62B (up $4.37B from year-end 2025); net income $305.5M; diluted EPS $6.84; data-center construction was largest RPO contributor"
+  },
+  {
+   "company": "EMCOR Group",
+   "fact": "Full-year 2025: record revenue $16.99B; net income $1.27B; diluted EPS $28.19; operating income $1.71B; year-end RPO $13.25B; backlog growth driven by network/communications, institutional, water/wastewater, hospitality, manufacturing, commercial"
+  },
+  {
+   "company": "Alliant Energy",
+   "fact": "Q1 2026: contracted data-center demand reached 3.4 GW (including 370 MW new Iowa ESA); expected 60% load increase by 2031 from 2025 levels; management emphasized individual-customer rates, advance ratemaking, and Iowa regulatory structure for growth"
+  },
+  {
+   "company": "Alliant Energy",
+   "fact": "Q1 2026: $13.4B capital plan for 2026-2029; long-term EPS growth target 5%-7%+; emphasis on Iowa base-rate stability and disciplined growth tools"
+  },
+  {
+   "company": "Alliant Energy",
+   "fact": "Q4 2025 and full-year 2025: contracted data-center demand ~3 GW (described as 50% increase in peak-load demand by 2030); full-year ongoing EPS $3.22 (up 6% from $3.04 in 2024); management affirmed 2026 EPS guidance $3.36-$3.46"
+  },
+  {
+   "company": "Sunrun Inc.",
+   "fact": "Q2 2026: total revenue $870M; storage attachment rate 74% (record, up from 71% in Q4 2025); 20,979 customer additions; 1.206M total customers; contracted net earning assets $3.677B; networked storage capacity 4.647 GWh"
+  },
+  {
+   "company": "Sunrun Inc.",
+   "fact": "Q2 2026: Aggregate Subscriber Value $1.175B; cash generation $23M (or $45M excluding safe harbor); management reduced full-year 2026 guidance citing affiliate-channel volumes and direct-sales timing"
+  },
+  {
+   "company": "Sunrun Inc.",
+   "fact": "Q1 2026: total revenue $722M; storage attachment 73% (record); 18,948 customer additions; 1.185M customers; contracted net earning assets $3.701B; cash generation -$59M (or -$31M excluding safe harbor)"
+  },
+  {
+   "company": "Sunrun Inc.",
+   "fact": "Q4 2025 and full-year 2025: Q4 revenue $1.159B; full-year 2025 revenue $2.957B; storage attachment 71%; 27,773 Q4 customer additions; 1.166M customers; contracted net earning assets $3.571B; full-year cash generation $377M"
+  }
+ ]
+}

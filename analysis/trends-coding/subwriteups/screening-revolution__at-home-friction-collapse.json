@@ -1,83 +1,83 @@
 {
-  "slug": "at-home-friction-collapse",
-  "trend_slug": "screening-revolution",
-  "name": "The Mailbox as the New Clinic: How At-Home Testing Broke the Participation Barrier",
-  "deck": "At-home, mail-in screening formats solve a behavior problem, not just a biology problem—unlocking participation at a scale that clinic-based testing never could.",
-  "core_bet": "Colorectal cancer screening had a compliance problem for decades—colonoscopy required prep, sedation, and a day off work. At-home screening (Cologuard, Shield) solved this behavior barrier, not by being clinically superior, but by being friction-free. Exact Sciences' screening revenue reached $695 million in Q4 2025. Guardant's Shield test volume reached 66,000 in Q2 2026. Quest Diagnostics' questhealth.com and consumer channels grew double digits in 2026. The at-home format works because it makes testing accessible where inconvenience had been the blocking variable all along.",
-  "numbers": [
-    {
-      "stat": "$695 million",
-      "label": "Exact Sciences screening revenue in Q4 2025"
-    },
-    {
-      "stat": "$3.25 billion",
-      "label": "Exact Sciences full-year 2025 total revenue"
-    },
-    {
-      "stat": "66,000",
-      "label": "Guardant Shield tests in Q2 2026, showing accelerating screening adoption"
-    },
-    {
-      "stat": "44,000",
-      "label": "Guardant Shield tests in Q1 2026, up from 38,000 in Q4 2025"
-    },
-    {
-      "stat": "150+",
-      "label": "Consumer tests available through Quest questhealth.com as of Q4 2025"
-    },
-    {
-      "stat": "10.2%",
-      "label": "Quest Diagnostics Q2 2026 revenue growth, up to $3.04 billion"
-    },
-    {
-      "stat": "36-38%",
-      "label": "Guardant full-year 2026 revenue growth guidance, to $1.34-1.36 billion"
-    }
-  ],
-  "mechanism": [
-    "At-home screening works by removing the behavioral barrier that had suppressed participation rates for decades. Traditional colonoscopy compliance for colorectal cancer screening has never exceeded 65% among eligible populations, despite being the gold standard. The barriers were clear: require an appointment, prep bowel, take sedation, block out an entire day, undergo an invasive procedure, rely on third-party scheduling. Cologuard (stool-based testing) and Shield (blood-based testing) removed every one of those friction points. A consumer orders a test online or receives a kit in the mail. They complete it at home without preparation, discomfort, or sedation. They mail it back. Results arrive digitally. This is not because the test is superior to colonoscopy—it is not. This is because reducing friction changed the compliance math. When participation requires no appointment, no time off work, no bodily preparation, and no procedural discomfort, adoption rates jump from 65% to potentially 85%+. Exact Sciences' 2025 screening revenue of $695 million was generated through volume. The company screened more people than ever, not because each person was screened more thoroughly, but because many more people participated because the barrier fell.",
-    "The second mechanism is distribution through existing retail and network infrastructure. Guardant's Q1 2026 results explicitly mentioned 'a nationwide Quest collaboration' to expand Shield access. Quest operates 2,000+ patient-service centers across the U.S. That existing collection network turned screening from a specialist-routed procedure into a ubiquitous service. A consumer can walk into a Quest lab, order a Shield test, provide a blood sample, and have results routed directly to their physician or directly to the consumer. Exact similarly built distribution through both direct-to-consumer channels (patient ordering online) and professional channels (physicians ordering through their systems). By embedding at-home screening tests into the existing lab-and-retail ecosystem, the companies moved screening from 'special procedure' to 'routine test.' Questhealth.com offered 150+ consumer tests as of Q4 2025, pulling diagnostic ordering away from physician-gated access into consumer-directed purchase. When screening is available through the same lab where you get your annual physical, or where you can order directly online, the friction falls further.",
-    "The third mechanism is payer and guideline legitimacy. Exact Sciences mentioned 'Medicare coverage for Oncodetect' in Q2 2025. Guardant noted 'UnitedHealth coverage' and 'guideline inclusion' for Shield in Q2 2026. When major payers cover a test and clinical guidelines recommend it, the consumer signal moves from 'optional wellness test' to 'standard medical care.' This changes insurance coverage and patient expectations simultaneously. A screening test covered by insurance has far higher adoption than an out-of-pocket option. Guideline inclusion (from USPSTF, ASCS, etc.) sends a message that earlier detection is now considered standard practice. Guardant explicitly mentioned 'direct-to-consumer and influencer campaigns to increase colorectal cancer screening awareness' in Q1 2026. This means the company is not only removing friction—it is actively messaging that screening should happen earlier and more frequently, which reshapes patient expectations of what routine healthcare includes. The combination of reduced friction, network distribution, payer coverage, and public messaging creates a flywheel that converts screening from an avoidance behavior into an expected routine."
-  ],
-  "why_now": "At-home screening friction collapse accelerated in 2025-2026 because three conditions aligned simultaneously. First, clinical acceptance and guideline inclusion happened. Blood-based screening (Shield, Guardant tests) and stool-based screening (Cologuard) both achieved enough clinical validation and payer coverage to move from experimental to standard. Second, the technology matured and competition intensified. As more blood-based tests (Guardant, other startups) launched alongside established players like Exact, volumes increased and distribution widened through partnerships like Guardant-Quest. Third, and most importantly, consumer behavior normalized around at-home testing post-pandemic. Telehealth, mail-in testing, and direct-to-consumer health ordering became expected, not exceptional. The cultural barrier to ordering a cancer screening test at home disappeared. Exact's 2025 screening revenue of $695 million and Guardant's Shield acceleration (44,000→66,000 tests in two quarters) show the inflection.",
-  "who_pays": "Three constituencies pay for at-home screening adoption. First, payers and insurers pay through coverage expansion and higher utilization. When more people participate in screening because friction fell, total payer spend on screening increases, even though per-test costs may fall. Second, taxpayers and Medicare pay when screening scales—early detection is cheaper than treating advanced cancer, but driving population-wide screening still requires sustained funding. Third, patients themselves pay through the adoption of more frequent screening cycles. If at-home screening is convenient, screening cadence accelerates (annual instead of every 3-5 years), which increases total patient testing volume and cost.",
-  "who_profits": "The winners are the companies that control the at-home screening test platforms and the distribution infrastructure. Exact Sciences captured $695 million in screening revenue in Q4 2025 and $3.25 billion total in 2025 by owning Cologuard brand loyalty and an expanding screening portfolio. Guardant is growing Shield at 36-38% (full-year 2026 guidance) by combining blood-based convenience with direct-to-consumer reach and payer coverage. Quest Diagnostics profits by owning the collection network—Guardant paid for that partnership because Quest's 2,000+ labs made Shield accessible nationally without Guardant building its own infrastructure. The test providers capture absolute margin on higher volumes (lower per-unit cost through scale) while total revenue grows through expanded participation. Insurance and healthcare systems capture value through earlier detection reducing late-stage treatment costs, though the profit cycle is longer and less visible.",
-  "tension": "The core tension is sustainability of screening participation. At-home screening removes friction today, but relies on patient compliance with annual or biennial retesting. Over time, retest compliance may decline as the novelty wears off. A patient who orders a home screening test in 2025 may not reorder in 2027 if they feel they 'already tested' or if behaviors relapse into avoidance. The economic model assumes high repeat participation. If repeat rates fall below forecast, companies like Exact and Guardant face stalled growth even though first-time participation is strong. Another tension is overdiagnosis and false positives. At-home screening tests detect early abnormalities that may never have progressed to cancer. If screening becomes too sensitive or too frequent, consumer fear and healthcare costs rise without proportional survival benefit. The clinical community is still debating whether earlier and more frequent screening improves outcomes or creates harm through unnecessary follow-up procedures and anxiety.",
-  "surprising_part": "The surprising part is that at-home screening wins not through clinical superiority, but through behavioral economics. Colonoscopy is more definitive and therapeutic (can remove polyps during screening). At-home tests are less invasive but require follow-up colonoscopy if abnormal. Yet at-home screening adoption is accelerating faster than colonoscopy rates ever climbed, because convenience beats clinical thoroughness when adoption is the constraint. Guardant's Shield tests reached 66,000 in Q2 2026 and are projected to accelerate further, while colonoscopy screening rates have plateaued. This shows the market chose participation over perfection. The second surprise is that distribution matters as much as the science. Guardant's partnership with Quest didn't involve a major clinical breakthrough—it was about access. When Shield moved from specialty labs to Quest's 2,000+ patient-service centers, volume roughly doubled (38,000→66,000 tests in two quarters). This shows that getting a good test in front of enough people matters more than having the perfect test that people avoid.",
-  "one_sentence": "At-home screening converts avoidance into participation by removing inconvenience as the primary barrier—proving that behavior matters as much as biology.",
-  "societal_stake": "At-home screening matters because it determines whether early cancer detection becomes a public-health norm or remains stratified by access and preference. If at-home screening reaches high participation across income and education levels, it could detect cancers earlier and save lives. If adoption remains concentrated among affluent, health-aware populations, it widens the survival gap between rich and poor. The other stake is screening culture itself. As more people participate in routine screening for cancers they don't have symptoms for, healthcare becomes increasingly about preventing disease rather than treating illness. That shifts patient expectations and healthcare spending—more screening, more false positives, more anxiety, more follow-up procedures. The question is whether society has sufficient resources and wisdom to manage that volume of early intervention without causing net harm.",
-  "evidence": [
-    {
-      "company": "Exact Sciences Corporation",
-      "fact": "Q4 2025 screening revenue was $695 million out of $878 million total revenue, with full-year 2025 revenue reaching $3.25 billion"
-    },
-    {
-      "company": "Exact Sciences Corporation",
-      "fact": "Q3 2025 results highlighted launch of Cancerguard multi-cancer early detection test plus Quest Diagnostics collection partnership to expand patient access"
-    },
-    {
-      "company": "Exact Sciences Corporation",
-      "fact": "Q2 2025 emphasized strong Cologuard Plus launch momentum and Medicare coverage for Oncodetect, showing payer and guideline legitimacy"
-    },
-    {
-      "company": "Guardant Health Inc.",
-      "fact": "Q2 2026 Shield screening tests reached approximately 66,000 with full-year revenue guidance of $1.34-1.36 billion (36-38% growth)"
-    },
-    {
-      "company": "Guardant Health Inc.",
-      "fact": "Q1 2026 Shield tests reached 44,000 and management highlighted 'nationwide Quest collaboration' plus 'direct-to-consumer and influencer campaigns to increase colorectal cancer screening awareness'"
-    },
-    {
-      "company": "Guardant Health Inc.",
-      "fact": "Q2 2026 management noted FDA approvals for Guardant360 Liquid CDx and commercial validation for Shield through guideline inclusion and UnitedHealth coverage"
-    },
-    {
-      "company": "Quest Diagnostics Incorporated",
-      "fact": "Q2 2026 revenue growth of 10.2% to $3.04 billion emphasized 'robust consumer-channel growth through questhealth.com' with more than 150 consumer tests available"
-    },
-    {
-      "company": "Quest Diagnostics Incorporated",
-      "fact": "Q1 2026 highlighted 'several double-digit Advanced Diagnostics areas' and 'early patient engagement with the AI Companion tool' showing consumer-directed diagnostic engagement"
-    }
-  ]
+ "slug": "at-home-friction-collapse",
+ "trend_slug": "screening-revolution",
+ "name": "The Mailbox as the New Clinic: How At-Home Testing Broke the Participation Barrier",
+ "deck": "At-home, mail-in screening formats solve a behavior problem, not just a biology problem—unlocking participation at a scale that clinic-based testing never could, converting avoidance into adoption.",
+ "core_bet": "Colorectal cancer screening had a participation problem for decades—colonoscopy required prep, sedation, and time off work. At-home screening (Cologuard, Shield) solved this behavior barrier, not by being clinically superior, but by eliminating friction. Exact Sciences' screening revenue reached $695 million in Q4 2025. Guardant's Shield test volume reached 66,000 in Q2 2026. Quest Diagnostics' questhealth.com and consumer channels grew double digits in 2026. The at-home format works because it makes testing accessible where inconvenience had been the blocking variable all along.",
+ "numbers": [
+  {
+   "stat": "$695 million",
+   "label": "Exact Sciences screening revenue in Q4 2025"
+  },
+  {
+   "stat": "$3.25 billion",
+   "label": "Exact Sciences full-year 2025 total revenue"
+  },
+  {
+   "stat": "66,000",
+   "label": "Guardant Shield tests in Q2 2026, showing accelerating adoption"
+  },
+  {
+   "stat": "44,000",
+   "label": "Guardant Shield tests in Q1 2026, up from 38,000 in Q4 2025"
+  },
+  {
+   "stat": "150+",
+   "label": "Consumer tests available through Quest questhealth.com as of Q4 2025"
+  },
+  {
+   "stat": "10.2%",
+   "label": "Quest Diagnostics Q2 2026 revenue growth to $3.04 billion emphasizing consumer-channel expansion"
+  },
+  {
+   "stat": "36-38%",
+   "label": "Guardant full-year 2026 revenue growth guidance to $1.34-1.36 billion"
+  }
+ ],
+ "mechanism": [
+  "At-home screening works by removing the behavioral barrier that suppressed participation for decades. Traditional colonoscopy compliance for colorectal cancer screening never exceeded 65% among eligible populations, despite being the gold standard. The barriers were clear: appointment required, bowel prep, sedation, full-day block, invasive procedure, third-party scheduling. Cologuard (stool-based) and Shield (blood-based) removed every friction point. Consumer orders test online or receives kit in mail. Completes it at home without preparation, discomfort, or sedation. Mails it back. Results arrive digitally. This is not because the test is clinically superior to colonoscopy—it is not. This is because reducing friction changed compliance math. When participation requires no appointment, no time off, no bodily preparation, and no procedural discomfort, adoption rates jump from 65% to potentially 85%+. Exact Sciences' 2025 screening revenue of $695 million was generated through volume. The company screened more people than ever, not because each person was screened more thoroughly, but because many more people participated because barrier fell.",
+  "The second mechanism is distribution through existing retail and network infrastructure. Guardant's Q1 2026 results mentioned 'nationwide Quest collaboration' to expand Shield access. Quest operates 2,000+ patient-service centers across U.S. That existing collection network converted screening from specialist-routed procedure into ubiquitous service. Consumer can walk into Quest lab, order Shield test, provide blood sample, have results routed to physician or consumer. Exact similarly built distribution through direct-to-consumer channels and professional channels. By embedding at-home screening tests into existing lab-and-retail ecosystem, companies moved screening from 'special procedure' to 'routine test.' Questhealth.com offered 150+ consumer tests as of Q4 2025, pulling diagnostic ordering away from physician-gated access into consumer-directed purchase. When screening is available through same lab where you get annual physical, or where you order online, friction falls further.",
+  "The third mechanism is payer and guideline legitimacy. Exact Sciences mentioned 'Medicare coverage for Oncodetect' in Q2 2025. Guardant noted 'UnitedHealth coverage' and 'guideline inclusion' for Shield in Q2 2026. When major payers cover a test and clinical guidelines recommend it, consumer signal moves from 'optional wellness test' to 'standard medical care.' Insurance coverage has far higher adoption than out-of-pocket option. Guideline inclusion from USPSTF and ASCS sends message that earlier detection is now standard practice. Guardant mentioned 'direct-to-consumer and influencer campaigns to increase colorectal cancer screening awareness' in Q1 2026. The company is actively messaging that screening should happen earlier and more frequently, reshaping patient expectations. The combination of reduced friction, network distribution, payer coverage, and public messaging creates flywheel converting screening from avoidance behavior into expected routine."
+ ],
+ "why_now": "At-home screening friction collapse accelerated in 2025-2026 because three conditions aligned simultaneously. First, clinical acceptance and guideline inclusion happened. Blood-based screening (Shield, Guardant tests) and stool-based screening (Cologuard) both achieved enough clinical validation and payer coverage to move from experimental to standard. Second, technology matured and competition intensified. As more blood-based tests launched alongside Exact, volumes increased and distribution widened through partnerships like Guardant-Quest. Third, consumer behavior normalized around at-home testing post-pandemic. Telehealth, mail-in testing, and direct-to-consumer health ordering became expected, not exceptional. The cultural barrier to ordering cancer screening at home disappeared. Exact's 2025 screening revenue of $695 million and Guardant's Shield acceleration (44,000 Q1→66,000 Q2 2026) show the inflection is real-time data, not forecast.",
+ "who_pays": "Three constituencies pay for at-home screening adoption. First, payers and insurers pay through coverage expansion and higher utilization. When more people participate because friction fell, total payer spend on screening increases, even though per-test costs may fall. Second, taxpayers and Medicare pay when screening scales—early detection is cheaper than treating advanced cancer, but driving population-wide screening requires sustained funding. Third, patients themselves pay through adoption of more frequent screening cycles. If at-home screening is convenient, screening cadence accelerates, increasing total patient testing volume and cost.",
+ "who_profits": "Winners are companies controlling at-home screening test platforms and distribution infrastructure. Exact Sciences captured $695 million in screening revenue in Q4 2025 and $3.25 billion total in 2025 by owning Cologuard brand loyalty and expanding screening portfolio. Guardant is growing Shield at 36-38% (full-year 2026 guidance) by combining blood-based convenience with direct-to-consumer reach and payer coverage. Quest Diagnostics profits by owning collection network—Guardant paid for that partnership because Quest's 2,000+ labs made Shield accessible nationally. Test providers capture margin on higher volumes (lower per-unit cost through scale) while total revenue grows through expanded participation. Insurance and healthcare systems capture value through earlier detection reducing late-stage treatment costs.",
+ "tension": "The core tension is sustainability of screening participation. At-home screening removes friction today, but relies on patient compliance with annual or biennial retesting. Over time, retest compliance may decline as novelty wears off. A patient who orders home screening test in 2025 may not reorder in 2027 if they feel they 'already tested' or if behaviors relapse into avoidance. Economic model assumes high repeat participation. If repeat rates fall below forecast, companies like Exact and Guardant face stalled growth. Another tension is overdiagnosis and false positives. At-home screening detects early abnormalities that may never progress to cancer. If screening becomes too sensitive or frequent, consumer fear and healthcare costs rise without proportional survival benefit. Clinical community still debates whether earlier and more frequent screening improves outcomes or creates harm through unnecessary follow-up procedures.",
+ "surprising_part": "The surprising part is that at-home screening wins not through clinical superiority, but through behavioral economics. Colonoscopy is more definitive and therapeutic (can remove polyps). At-home tests are less invasive but require follow-up colonoscopy if abnormal. Yet at-home screening adoption is accelerating faster than colonoscopy rates ever climbed, because convenience beats clinical thoroughness when adoption is the constraint. Guardant's Shield tests reached 66,000 in Q2 2026 and are projected to accelerate, while colonoscopy screening rates have plateaued. Market chose participation over perfection. Second surprise is distribution matters as much as science. Guardant's Quest partnership did not involve major clinical breakthrough—it was about access. When Shield moved from specialty labs to Quest's 2,000+ patient-service centers, volume roughly doubled (38,000→66,000 tests in two quarters). This shows getting a good test in front of enough people matters more than having perfect test that people avoid.",
+ "one_sentence": "At-home screening converts avoidance into participation by removing inconvenience as the primary barrier—proving that behavior matters as much as biology.",
+ "societal_stake": "At-home screening matters because it determines whether early cancer detection becomes public-health norm or remains stratified by access and preference. If at-home screening reaches high participation across income and education levels, it could detect cancers earlier and save lives. If adoption remains concentrated among affluent health-aware populations, it widens survival gap between rich and poor. The other stake is screening culture itself. As more people participate in routine screening for cancers without symptoms, healthcare becomes increasingly about preventing disease. That shifts patient expectations and spending—more screening, more false positives, more anxiety, more follow-up procedures. The question is whether society has sufficient resources and wisdom to manage that volume of early intervention without causing net harm.",
+ "evidence": [
+  {
+   "company": "Exact Sciences Corporation",
+   "fact": "Q4 2025 screening revenue was $695 million out of $878 million total revenue, with full-year 2025 revenue reaching $3.25 billion"
+  },
+  {
+   "company": "Exact Sciences Corporation",
+   "fact": "Q3 2025 results highlighted Cancerguard multi-cancer test launch plus Quest Diagnostics collection partnership to expand patient access"
+  },
+  {
+   "company": "Exact Sciences Corporation",
+   "fact": "Q2 2025 emphasized strong Cologuard Plus launch momentum and Medicare coverage for Oncodetect, showing payer and guideline legitimacy"
+  },
+  {
+   "company": "Guardant Health Inc.",
+   "fact": "Q2 2026 Shield screening tests reached 66,000 with full-year revenue guidance of $1.34-1.36 billion (36-38% growth)"
+  },
+  {
+   "company": "Guardant Health Inc.",
+   "fact": "Q1 2026 Shield tests reached 44,000 and management highlighted 'nationwide Quest collaboration' plus 'direct-to-consumer and influencer campaigns'"
+  },
+  {
+   "company": "Guardant Health Inc.",
+   "fact": "Q2 2026 management noted FDA approvals and commercial validation for Shield through guideline inclusion and UnitedHealth coverage"
+  },
+  {
+   "company": "Quest Diagnostics Incorporated",
+   "fact": "Q2 2026 revenue growth of 10.2% to $3.04 billion emphasized 'robust consumer-channel growth through questhealth.com' with 150+ consumer tests"
+  },
+  {
+   "company": "Quest Diagnostics Incorporated",
+   "fact": "Q1 2026 highlighted 'double-digit Advanced Diagnostics areas' and 'early patient engagement with AI Companion tool' showing consumer-directed diagnostics"
+  }
+ ]
 }

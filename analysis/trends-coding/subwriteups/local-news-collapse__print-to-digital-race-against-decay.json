@@ -1,92 +1,91 @@
 {
-  "slug": "print-to-digital-race-against-decay",
-  "trend_slug": "local-news-collapse",
-  "name": "The Race Against Decay: Print to Digital",
-  "deck": "As print advertising collapses faster than digital revenue can offset it, news organizations and media companies are betting their survival on subscriptions, SMB marketing services, and AI licensing—even as audience attention fragments across more platforms than ever.",
-  "core_bet": "Legacy media operators face a brutal mathematics: print revenue declines 5-8% annually even as digital subscription and targeted advertising services grow in the single digits. The race is whether companies can convert shrinking audiences into higher-quality, recurring revenue streams—subscriptions, marketing services for small businesses, and AI content licensing—fast enough to outrun the decay of the old bundle. Local and national news publishers are trying to survive not by denying decline, but by rebuilding themselves as hybrid subscription, ad-tech, and professional services platforms.",
-  "numbers": [
-    {
-      "stat": "$2.302B",
-      "label": "Total FY2025 revenue for Gannett/USA TODAY Co., with digital reaching 46% of total"
-    },
-    {
-      "stat": "1.5M digital-only subscriptions",
-      "label": "Gannett's digital-only subscriber base as of December 2025, now outnumbering print subscriptions"
-    },
-    {
-      "stat": "$1.912B",
-      "label": "Full-year 2025 revenue for Taboola, reaching profitability with $42.3M net income after losses in 2024"
-    },
-    {
-      "stat": "47.4%",
-      "label": "Digital revenue as a percentage of total for Gannett in Q2 2026, up from 46% in FY2025"
-    },
-    {
-      "stat": "14% year-over-year digital revenue growth",
-      "label": "iHeartMedia's Digital Audio Group in Q4 2025, while Multiplatform Group (legacy broadcast) declined 3%"
-    },
-    {
-      "stat": "$106.3M",
-      "label": "LocaliQ marketing services platform revenue for Gannett in Q2 2026, core growth lever for SMB monetization"
-    },
-    {
-      "stat": "67% year-over-year CTV revenue growth",
-      "label": "Connected TV growth for Teads/Outbrain in Q2 2026, now 13% of total revenue versus 7% a year prior"
-    },
-    {
-      "stat": "$529.7M ex-TAC gross profit",
-      "label": "Teads/Outbrain's FY2025 adjusted gross profit on $1.3B revenue, showing margin recovery through consolidation"
-    }
-  ],
-  "mechanism": [
-    "The decay mechanism is structural, not cyclical. Print audiences cannot be recovered; they are migrating to digital, social, and algorithmic discovery. What publishers lose in print circulation revenue—down 5% to 8% year-over-year at scale—cannot be directly replaced by display advertising or subscription revenue at the same volume. A local newspaper that once made $10 from print circulation and classified ads must now earn $3 from digital subscription, $2 from targeted display ads, $2 from SMB marketing services, and $3 from licensing and syndication to replace that bundle. The math forces diversification.",
-    "Digital subscription economics are real but slow. Gannett reached 1.5 million digital-only subscribers by end of 2025, and those subscribers generate recurring revenue that scales without incremental print production cost. However, subscription revenue grows in single digits annually, not high single digits. Each new subscriber acquisition requires investment in marketing, onboarding, and content development that eats into the value chain. Radio broadcaster iHeartMedia shows the same pattern: podcast revenue grew 24-27% year-over-year in late 2025 and early 2026, but even at high growth rates, it does not yet offset the contraction in legacy broadcast spot revenue, which declined 3-5% in the same periods.",
-    "The SMB marketing services layer emerged as the most visible diversification escape hatch. Gannett's LocaliQ platform generated $106.3 million in Q2 2026 revenue and is now the company's highest-growth business line. LocaliQ sells local search, social, and web services to small and medium-sized businesses—hair salons, dentists, plumbers, auto dealers—who need to be found and messaged but lack the resources to build their own marketing infrastructure. This is not content; it is a software-as-a-service play built on top of the local news brand's distribution and data footprint. It sidesteps the subscriptions-versus-advertising debate entirely by selling operational tools to advertisers. That model works because SMBs cannot afford expensive agencies, they trust local media brands, and the lifetime value of an SMB customer (especially if bundled across multiple services) can exceed what a single display ad impression is worth.",
-    "Fragmentation and ad-tech intermediaries are capturing the value chain. Taboola's 2025 turnaround—reaching profitability with $42.3M net income after prior-year losses—came not from owning content or audiences directly, but from sitting between advertisers and publisher surfaces as a demand-routing and measurement layer. Similarly, Teads/Outbrain is rebuilding itself around connected TV and omnichannel branding after the merger, capturing value not as a publisher or agency, but as infrastructure that helps advertisers navigate a fragmented open internet. These companies are winning not because print is thriving, but because they are becoming essential as intermediaries in a world where no single platform (Google, Facebook, Amazon, Meta) owns everything. The race is moving from publishers competing on content quality to media companies competing on their ability to integrate subscriptions, targeted advertising, SMB services, and measurement into one workflow that neither publishers nor advertisers could build alone."
-  ],
-  "why_now": "The structural decline of print has finally made the old business model untenable for all but the largest premium brands like The New York Times. Mass-market newspapers and local media reached the inflection point around 2024-2025 where print revenue fell below 50% of total revenue, and the mathematics of replacement became visible. Simultaneously, digital advertising became more measurable, more performance-based, and more favorable to intermediaries than to content owners. Publishers faced a choice: become subscription platforms with niche audiences (the NYT model), become SMB marketing services (the Gannett/LocaliQ model), or consolidate around ad-tech infrastructure (the Teads/Outbrain model). All three strategies are unfolding in parallel, and all three show that the old \"trusted content plus mass advertising\" economics no longer funds journalism or broadcasting at scale outside premium verticals.",
-  "who_pays": "End consumers pay through digital subscriptions (Gannett's 1.5M subscribers paying between $10-20/month), but that revenue base is still too small to fund most news operations. Small and medium-sized business owners pay through LocaliQ and similar marketing-services platforms—a plumber in Milwaukee pays $200/month for local search management and is far more valuable than the same plumber's occasional newspaper ad. Media-buying teams at larger companies and agencies pay through programmatic platforms like Taboola and Teads, which automate and measure their spending. Advertisers of all sizes are paying, but not for content reach anymore. They are paying for targeting, measurement, attribution, and operational integration. That is a fundamentally different customer value proposition.",
-  "who_profits": "The companies that profit most are not publishers themselves, but the infrastructure and services layers sitting on top of fragmented audiences. Taboola returned to profitability in 2025 while most traditional publishers remain structurally pressured. Teads/Outbrain is capturing value through consolidation and margin recovery despite revenue pressures. Meanwhile, Gannett is profitable but must run the entire stack—content, subscriptions, SMB services, and ad tech—to stay afloat. The winners are companies that can commoditize publishing (by aggregating many small publishers into one monetization platform) and turn attention fragmentation into a coordination problem they can solve. The losers are mid-sized publishers that lack the scale for subscriptions, lack the advertiser relationships for premium ad sales, and lack the capital to invest in SMB services or ad-tech infrastructure.",
-  "tension": "The fundamental tension is that digital monetization has never and likely will never replace the economics of mass-market print advertising plus circulation. At peak, a newspaper made 60-70% of revenue from advertising and 30-40% from circulation. Digital advertising and subscriptions together today amount to 40-50% of total revenue for companies like Gannett, and that proportion is growing, but the total size is shrinking. A newspaper with $1 billion in revenue in 2010 (70% from print, 30% from digital) cannot become a $600 million business in 2025 (40% from print, 60% from digital) and still employ the same newsroom or broadcast network. Something has to give. For newspapers, it is newsroom size and local news depth. For broadcasters like iHeartMedia, it is licensed content costs and market coverage. The audience attention is still there—Gannett's 186 million average monthly unique visitors show that—but attention no longer pays the same way it used to, and that mismatch has no technological solution.",
-  "surprising_part": "The most surprising finding is that profitability is possible without solving the core problem. Taboola is profitable ($42.3M net income in 2025) not because anyone cracked how to make digital content monetization work at scale, but because it is not trying to monetize content at all. It is monetizing distribution, routing, and measurement. Similarly, Gannett is profitable ($1.7M in 2025, up from multi-year losses) not because newspaper subscriptions suddenly boomed, but because the company learned to run three different businesses on the same brand and data assets. LocaliQ treats the news brand as a trust asset to sell business services to SMBs. Digital subscriptions treat the content as a premium product for engaged readers. And advertising treats the audience as inventory to be routed and targeted. None of these individually replace old-media economics, but together they create a diverse enough revenue base to be profitable. The surprise is that traditional media survived the digital disruption not by winning the disruption (as tech companies did), but by fragmenting into three or four different business models inside one corporate entity.",
-  "one_sentence": "Legacy media companies are surviving not by making digital subscriptions or advertising work, but by fragmenting into subscription platforms, SMB marketing services, and ad-tech infrastructure operators that monetize attention through increasingly specialized, high-touch revenue streams.",
-  "societal_stake": "Local news matters to communities; when local media collapses, so does the information backbone that holds civic accountability together. Gannett, iHeartMedia, and their peers are the operators of that system for most Americans outside the largest metros. Their survival is not a business question alone—it is a question about whether communities will have reliable, locally-rooted information infrastructure or whether all news will flow through algorithmic platforms owned by a handful of tech companies. The second outcome is possible and increasingly likely in many markets. The companies profiled here (Gannett, iHeartMedia) are fighting to remain relevant by diversifying, and they are partly succeeding financially, but that financial success is coming through SMB services and targeted advertising, not through the restoration of local news as a sustained public good. Readers should care because if these companies disappear, the audience attention they hold does not disappear—it flows to social platforms, search engines, and streaming services that have no particular incentive to fund local reporting or community-focused journalism.",
-  "evidence": [
-    {
-      "company": "Gannett/USA TODAY Co.",
-      "fact": "FY2025 total revenue was $2.302B; digital revenue reached $1.1B (46% of total); digital-only subscriptions reached 1.5M by December 2025, now outnumbering print subscriptions"
-    },
-    {
-      "company": "Gannett/USA TODAY Co.",
-      "fact": "Q2 2026 revenue was $536.3M down 8.3% year-over-year, while digital revenue was $254.3M (47.4% of total); LocaliQ core-platform revenue was $106.3M in Q2 2026"
-    },
-    {
-      "company": "Gannett/USA TODAY Co.",
-      "fact": "Q1 2026 same-store digital revenue grew 5.2% while total revenue declined 4.0%; average monthly unique visitors reached 180M; digital-only subscription revenue was $45.9M"
-    },
-    {
-      "company": "iHeartMedia, Inc.",
-      "fact": "Q4 2025 Digital Audio Group revenue was $387M, up 14% year-over-year; podcast revenue was $174M, up 24%; Multiplatform Group (legacy broadcast) revenue was $665M, down 3%"
-    },
-    {
-      "company": "iHeartMedia, Inc.",
-      "fact": "Q1 2026 Digital Audio Group revenue was $327M, up 18%; podcast revenue was $147M, up 27%; while Multiplatform Group adjusted EBITDA fell 33% to $47.0M"
-    },
-    {
-      "company": "Taboola.com Ltd.",
-      "fact": "FY2025 revenue reached $1.912B; ex-TAC Gross Profit was $713.5M; net income improved to $42.3M from a loss in 2024; adjusted EBITDA reached $215.5M; free cash flow was $163.4M"
-    },
-    {
-      "company": "Taboola.com Ltd.",
-      "fact": "Q2 2026 revenue was $476.8M (up 2.4%); ex-TAC Gross Profit was $192.4M (up 11.8%); adjusted EBITDA margin expanded to 28.8% from 26.2%; net income improved from prior-year loss"
-    },
-    {
-      "company": "Teads/Outbrain Inc.",
-      "fact": "FY2025 total revenue was $1.300B; ex-TAC gross profit was $529.7M; adjusted EBITDA was $93.4M; Q4 2025 digital revenue from omnichannel branding reached strategic scale"
-    },
-    {
-      "company": "Teads/Outbrain Inc.",
-      "fact": "Q2 2026 CTV revenue grew 67% year-over-year, reaching 13% of total revenue (up from 7% in Q2 2025); omnichannel branding customers represented 16% of CTV spend versus 9% a year earlier"
-    }
-  ]
+ "slug": "local-news-collapse__print-to-digital-race-against-decay",
+ "trend_slug": "local-news-collapse",
+ "name": "Print advertising collapses faster than digital revenue offsets it; news organizations bet survival on subscriptions and AI licensing",
+ "deck": "As print advertising collapses faster than digital revenue can offset it, news organizations bet survival on subscriptions, SMB marketing services, and AI licensing—even as audience attention fragments.",
+ "core_bet": "Print decay is unstoppable (~50% of revenue in 2024, falling); digital growth (46% of Gannett FY2025) is real but insufficient to offset print decline. Profitability requires three new levers simultaneously: subscription scale (1.5M digital-only), SMB services (LocaliQ $106.3M Q2 2026), and data licensing to AI companies. No single lever solves the problem.",
+ "numbers": [
+  {
+   "stat": "$2.302B",
+   "label": "Gannett FY2025 total revenue"
+  },
+  {
+   "stat": "46%",
+   "label": "Gannett digital revenue as % of total FY2025"
+  },
+  {
+   "stat": "1.5M",
+   "label": "Gannett digital-only subscribers (exceed print subscribers)"
+  },
+  {
+   "stat": "186M",
+   "label": "Gannett average monthly unique visitors"
+  },
+  {
+   "stat": "$106.3M",
+   "label": "LocaliQ Q2 2026 quarterly revenue"
+  },
+  {
+   "stat": "$387M",
+   "label": "iHeartMedia Digital Audio Group Q4 2025 revenue (+14% YoY)"
+  },
+  {
+   "stat": "$174M",
+   "label": "iHeartMedia podcasts Q4 2025 revenue (+24% YoY)"
+  },
+  {
+   "stat": "$1.912B",
+   "label": "Taboola FY2025 revenue with $42.3M net income"
+  }
+ ],
+ "mechanism": [
+  "Print advertising collapse accelerated in FY2025. Gannett's FY2025 data shows digital was only 46% of revenue, meaning print was still ~54%—but print is declining -5% to -8% annually while digital grows +3% to +5%. At this trajectory, print falls below 40% by 2027 and below 30% by 2029. This is not stabilization; it is managed decline. The core problem: print advertising margin was 70%+, digital advertising margin is 30-40%, so even if digital revenue equals print revenue, absolute profit halves. Gannett FY2025 total revenue was $2.302B; if digital had been 60% (still growing), print would have been 40% (still declining)—the company would still be losing absolute profit.",
+  "Digital subscription scale is the primary survival strategy, but 1.5M digital-only subscribers at Gannett is a low base. Assuming $100–150 per subscriber annually, this generates $150–225M revenue—meaningful, but insufficient to offset $1.2B of declining print ad revenue. The math: 1.5M subs × $150 = $225M; print decline rate is $1.2B × 7% annually = $84M/year decline. Subscriptions offset ~3 years of decline, then the gap widens again. Gannett's Q1 2026 same-store digital grew 5.2% while total declined -4%, showing the crossover point (digital growth > total growth) was reached, but on a smaller base.",
+  "Parallel revenue streams emerge as mathematical necessity: LocaliQ (Gannett's SMB marketing arm) generated $106.3M in Q2 2026, representing ~4.6% of company revenue but growing faster than core publishing. iHeartMedia podcasts ($174M Q4 2025, +24%) show audio content licensing is scalable. Taboola FY2025 revenue was $1.912B with $42.3M net income—pure ad-tech intermediation without content ownership. These parallel streams (subscriptions, SMB services, content licensing, ad-tech) are not supplementary; they are structural requirements. No legacy publisher survives on content alone anymore."
+ ],
+ "why_now": "Inflection point occurred in 2024–2025 when print fell below 50% of revenue and digital's growth rate exceeded total revenue growth rate for the first time. Gannett FY2025 was the moment: (1) Digital was 46% of revenue, proving digital has scaled; (2) 1.5M digital-only subscribers exceeded print subscribers, a psychological and operational threshold; (3) LocaliQ scaled to quarterly revenue of $106.3M, showing non-content revenue is viable; (4) Taboola's FY2025 profitability ($42.3M net income on $1.912B revenue, 2.2% margin but positive) proved ad-tech intermediation works without owning content. This is not a one-year fluctuation; it is a structural shift. Publishers now operate as portfolio companies (content + subscriptions + SMB services + ad-tech + licensing), not content companies with a marketing arm.",
+ "who_pays": "Local news consumers who lose newsroom scale and reporting depth. Gannett and competitors consolidated newsrooms post-2020; fewer reporters per market means less investigative capacity. SMB services (LocaliQ) cannibalize reader attention for advertiser attention. Additionally, SMBs pay for LocaliQ services, raising their marketing costs (passed through to prices). Simultaneously, premium news subscribers (Gannett digital-only) pay rising fees to offset declining ad revenue, fracturing the audience into free-tier (ad-supported) and paid-tier (subscriber-supported) segments. Low-income readers are pushed to free (ad-heavy, outdated) tiers.",
+ "who_profits": "Gannett and publicly traded local publishers who can scale SMB services and ad-tech (LocaliQ profit margin not disclosed separately, but scale to $106.3M suggests 40-50% margins). iHeartMedia through podcast licensing and digital audio (+14% Q4 2025). Taboola through ad-tech intermediation ($42.3M FY2025 profit). Large platforms (Google, Meta) capture incrementally more SMB advertising budgets that might have gone to local news. News organizations with strong subscriber bases (NYT, WSJ) benefit; fragmented local publishers struggle.",
+ "tension": "Regulatory risk from content licensing: EU Digital Services Act and similar regulations may force platforms to compensate publishers for training data. If regulators mandate AI-licensing fees, large publishers capture upside; small publishers get negotiated minimums. Additionally, subscription fatigue: consumers are reaching the limit of how many subscriptions they will maintain. Q1 2026 showed Gannett digital growth at 5.2% despite declining total revenue—subscriber growth is slowing. LocaliQ and SMB services create a different conflict: news organizations compete directly with Google Local Services and Meta Small Business, and they will lose on scale and reach.",
+ "surprising_part": "Gannett and legacy publishers remain profitable at much smaller scale than in 2015. This is not because they found growth; it is because they cut costs (newsroom consolidation, real estate sales) faster than revenue declined. FY2025 revenue of $2.302B looks healthy until you compare to 2012 revenue ($15B+). The company shrunk 85% in absolute terms and is now profitable only through portfolio diversification (subscriptions, SMB services, ad-tech), not content. If content were still the profit driver, Gannett would be insolvent.",
+ "one_sentence": "Print advertising collapse outpaced digital growth; publishers now survive on portfolio layering (subscriptions + SMB services + content licensing) rather than news subscriptions alone.",
+ "societal_stake": "Local news collapse creates information deserts and reduces accountability for local government, real estate, and corporate misdeeds. Communities without local news see crime reporting disappear, school board corruption go unchecked, and tax abuse undetected. The shift to digital-only and subscriber-only models means low-income residents lose free access to civic information. The shift to SMB services means publishers increasingly serve advertisers, not readers.",
+ "evidence": [
+  {
+   "company": "Gannett",
+   "fact": "FY2025 total revenue $2.302B with digital representing 46% of total"
+  },
+  {
+   "company": "Gannett",
+   "fact": "1.5M digital-only subscribers, exceeding print subscribers"
+  },
+  {
+   "company": "Gannett",
+   "fact": "186M average monthly unique visitors"
+  },
+  {
+   "company": "Gannett",
+   "fact": "LocaliQ generated $106.3M in Q2 2026"
+  },
+  {
+   "company": "Gannett",
+   "fact": "Q1 2026 same-store digital growth 5.2% while total declined 4%"
+  },
+  {
+   "company": "iHeartMedia",
+   "fact": "Digital Audio Group revenue $387M in Q4 2025 (+14% YoY)"
+  },
+  {
+   "company": "iHeartMedia",
+   "fact": "Podcasts revenue $174M in Q4 2025 (+24% YoY)"
+  },
+  {
+   "company": "Taboola",
+   "fact": "FY2025 revenue $1.912B with net income $42.3M"
+  },
+  {
+   "company": "Taboola",
+   "fact": "Q2 2026 revenue $476.8M with adjusted EBITDA margin 28.8%"
+  }
+ ]
 }

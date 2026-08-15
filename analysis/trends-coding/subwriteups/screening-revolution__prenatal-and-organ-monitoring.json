@@ -1,93 +1,78 @@
 {
-  "slug": "prenatal-and-organ-monitoring",
-  "trend_slug": "screening-revolution",
-  "name": "Before Birth and After Transplant: The Other Frontiers of Molecular Surveillance",
-  "deck": "Cell-free DNA diagnostics that began in cancer recurrence monitoring now extend to fetal chromosomal screening and post-transplant organ-rejection surveillance—same reimbursement expansion curves, different risk windows.",
-  "core_bet": "Molecular surveillance is not confined to oncology. Natera's expansion of Panorama (prenatal) and Prospera (organ health) demonstrates that liquid biopsy platforms achieve their highest economic value when they span multiple patient populations and clinical moments. The same reimbursement infrastructure that enables cancer monitoring is now enabling earlier screening at life's other critical thresholds.",
-  "numbers": [
-    {
-      "stat": "$752.8 million",
-      "label": "Natera Q2 2026 revenue, up 37.7% YoY"
-    },
-    {
-      "stat": "57.2%",
-      "label": "Natera oncology test volume growth, Q2 2026"
-    },
-    {
-      "stat": "1.04 million",
-      "label": "Natera total test volume Q2 2026, up 22.4% YoY"
-    },
-    {
-      "stat": "$2.31 billion",
-      "label": "Natera full-year 2025 revenue, up 35.9% YoY"
-    },
-    {
-      "stat": "51.6%",
-      "label": "Natera full-year 2025 oncology test growth"
-    },
-    {
-      "stat": "$2.85–$2.91 billion",
-      "label": "Natera 2026 full-year revenue guidance (raised in Q2)"
-    },
-    {
-      "stat": "Medicare coverage expansion",
-      "label": "Prospera organ-health monitoring (Q2 2026 highlight)"
-    },
-    {
-      "stat": "3.7%",
-      "label": "Quest Diagnostics Q2 2026 organic revenue growth"
-    }
-  ],
-  "mechanism": [
-    "Natera's test menu spans three distinct clinical windows: prenatal chromosomal risk (Panorama NIPT), cancer recurrence surveillance (Signatera), and transplant organ-health monitoring (Prospera). Each window uses the same underlying technology—cell-free DNA analysis via liquid biopsy—but targets radically different patient populations and payment models. Panorama reaches expectant parents and obstetric practices through a combination of direct-to-consumer awareness and OB-GYN clinical integration. Signatera sits in post-treatment oncology, where cancer centers and medical oncologists monitor residual disease as part of surveillance protocols. Prospera addresses solid-organ transplant recipients, where rejection risk is a lifelong concern. The platform economics depend on turning each window into a recurring revenue stream.",
-    "Reimbursement expansion is the lever that unlocks scale across all three categories. In 2026, Natera specifically highlighted expanded Medicare coverage for Prospera as a material inflection point—organ-transplant patients are predominantly Medicare-eligible, and regulatory approval of new assays expands the addressable population. Panorama benefits from established commercial and managed Medicaid coverage and strong consumer demand for prenatal risk information. Signatera grew 57% in test volume (Q2 2026) because increased adoption among cancer centers, driven by published clinical evidence and guideline shifts, converted molecular monitoring from a specialty assay into a standard-of-care tool. The company's guidance raises are partly driven by ASP expansion—higher reimbursement rates for oncology tests shift the revenue mix upward even as consumer-facing prenatal tests remain volume-driven.",
-    "The platform's competitive durability comes from clinical evidence accumulation and branded adoption, not from being first. Natera has invested heavily in prospective trials and real-world data to establish that Signatera identifies recurrence before radiologic imaging, that Panorama with recent enhancements reduces false-positives in Down syndrome screening, and that Prospera predicts rejection risk in kidney and heart transplant patients. This evidence-building creates switching costs: once a cancer center or transplant program standardizes on Prospera or Signatera, clinicians embed the test into their protocols, and payers build coverage policy around the data. The cell-free DNA substrate is not proprietary, but the clinical playbook and reimbursement relationships are.",
-    "Labcorp and Quest, as broad infrastructure players, capture a different part of the value chain. Labcorp's Q2 2026 6% revenue growth with 15.8% adjusted operating margins reflects steady sample throughput across routine and specialty diagnostics, plus biopharma trial-support leverage. Quest's Q2 2026 10% organic growth and focus on Advanced Diagnostics (including Alzheimer's and cardiometabolic testing) shows that broader diagnostic networks are moving toward higher-value assays but at slower pace than specialist companies. Quest's questhealth.com consumer channel and AI Companion tool signal attempts to capture prenatal and preventive screening volume, but Natera's branded recognition in obstetric practices gives it first-mover advantage in that segment.",
-    "The societal read matters: prenatal screening and transplant-recipient monitoring represent a shift in how healthcare systems approach prevention and chronic risk. Instead of waiting for symptoms or clinical markers to drift, molecular surveillance enables earlier intervention. Pregnant women expect access to fetal chromosomal information; transplant recipients want assurance that their organ is not being silently rejected. These are not luxury tests but expectations embedded in modern care. The reimbursement expansion reflects health systems and payers recognizing that earlier detection reduces downstream costs and improves outcomes—a calculus that applies across all three windows."
-  ],
-  "why_now": "Two forces converge. First, liquid biopsy technology has matured enough that the same assay platform can reliably detect fetal cell-free DNA, cancer DNA, and donor DNA (in organ transplant recipients). Clinical evidence for Signatera accumulated over five years of post-treatment use; Medicare and commercial payers now view molecular recurrence detection as standard-of-care for many tumor types, driving the 57% test-volume growth. Second, regulatory approvals are cascading: Natera's Q2 2026 highlights include 'several regulatory approvals for Signatera' and 'expanded Medicare coverage for Prospera,' meaning that the company is no longer fighting for reimbursement inclusion but executing against established coverage policies. Panorama benefits from 20+ years of NIPT adoption and now includes enhancements (fetal fraction improvements, mosaicism detection) that keep it competitive against lower-cost screening platforms.\n\nThe timing also reflects supply-side maturity in the diagnostics industry. Natera went from high-growth startup to profitable, reinvesting company; Labcorp and Quest are embedding higher-value assays into routine networks. The capital required to scale these tests is no longer a constraint; the constraint is now clinical adoption, evidence credibility, and payer policy. This is why Natera's guidance raises focus on ASP and mix, not just volume—the company has reached scale in all three franchises simultaneously.",
-  "who_pays": "Three payers fund this ecosystem. Commercial insurers and managed Medicaid cover Panorama as an expectant-parent choice, typically as a covered benefit if ordered by a geneticist or OB-GYN; out-of-pocket cost is often absorbed or subsidized by practices seeking high adoption. Medicare covers Signatera and now Prospera for eligible patients; transplant recipients are nearly all Medicare-eligible over age 65, and cancer patients receiving molecular surveillance for high-grade tumors are often on Medicare. Employers and self-insured health plans pay for Panorama as a preventive benefit because the test reduces the probability of delivering an affected infant (or enables earlier decisions). The direct-to-consumer route (Panorama directly marketed to pregnant women) involves a mix of insurance claims and out-of-pocket demand. Labcorp and Quest operate at scale across all these payers via centralized contracting; Natera's higher ASP implies it captures more margin from each test but requires deeper clinical relationships to maintain adoption.",
-  "who_profits": "Natera captures the highest margin per test across all three franchises—Signatera and Prospera command premium ASPs in the $1500–$3000 range depending on payer mix; Panorama sits in the $500–$1200 range. The company's full-year 2025 revenue of $2.31 billion on 51.6% oncology test growth and 35.9% total revenue growth demonstrates that higher-value mix drives disproportionate profit expansion. Labcorp and Quest capture volume and workflow adjacency: by embedding higher-value assays into their central-lab networks, they retain specimen logistics, billing relationships, and data connectivity. Labcorp's 15.8% adjusted operating margin on Q2 2026 revenue of $3.73 billion reflects the efficiency of running large-scale labs; Quest's raised guidance to $11.95–$12.05 billion for full-year 2026 (up from $11.70–$11.82 billion) shows margin expansion from mix. The payers profit indirectly via improved risk stratification and earlier intervention, which reduce costly downstream events.",
-  "tension": "Three dynamics constrain expansion. First, Panorama prenatal screening is approaching saturation in affluent, insured populations; growth now depends on expansion into Medicaid populations where reimbursement is lower and adoption is slower. Second, Signatera and Prospera adoption depends entirely on clinical credibility and guideline inclusion—a single negative trial or shift in practice patterns could erase the premium ASP. Third, competition from lower-cost alternatives is rising: Quest and Labcorp are developing in-house oncology and prenatal assays; reference labs in China and India offer NIPT for a fraction of Natera's price. Finally, there is a latent societal tension: aggressive prenatal screening raises ethical questions about selective abortion based on Down syndrome risk; expanded transplant surveillance could increase medical burden on already-vulnerable recipients if it leads to over-testing and unnecessary interventions. Insurance coverage is not inevitable—payers may eventually view Panorama as a consumer choice rather than a covered benefit, or may restrict Signatera to specific cancer types and patient risk groups.",
-  "surprising_part": "The economic convergence of prenatal and post-transplant monitoring reveals that healthcare's value-creation frontier is not in treating disease but in continuous molecular surveillance across the lifespan. Prenatal testing is often positioned as a consumer choice (and it is), but Prospera organ-health monitoring is pure clinical necessity with no consumer marketing. That both test categories have become central to Natera's guidance and growth story shows that the same cell-free DNA platform can monetize across polar-opposite clinical contexts: anxiety reduction and parental choice in one case; lifelong organ-recipient management in the other. The surprise is not the technology but the speed of reimbursement expansion. Medicare coverage for Prospera materialized in 2026 because transplant networks and nephrology societies built the evidence case; it was not a consumer-driven demand like prenatal screening. This suggests that molecular surveillance could expand into other chronic-disease windows (early kidney disease, cardiac rejection, autoimmune flares) once the evidence and payer relationships align—the infrastructure is already built.",
-  "one_sentence": "Natera's parallel expansion of Panorama (prenatal screening) and Prospera (organ-transplant monitoring) demonstrates that liquid-biopsy diagnostics achieve their full economic potential when applied across multiple risk windows and patient populations, not just in cancer surveillance.",
-  "societal_stake": "Molecular surveillance changes the social contract around risk and intervention. Pregnant women and their partners now have routine access to fetal chromosomal information, forcing earlier and harder decisions about pregnancy continuation. Transplant recipients can expect continuous monitoring for organ rejection, potentially extending survival—or creating permanent medical anxiety. The question is whether universal access to these tests will exacerbate health inequities (affluent patients get earlier screening and more aggressive monitoring) or enable earlier intervention across populations. There is also a question about consent and burden: does expanding molecular surveillance for transplant recipients improve outcomes, or does it increase unnecessary interventions and clinic visits? For society, the pattern matters because it signals that healthcare is moving from episodic treatment toward continuous surveillance. If this trend extends to other chronic conditions (early kidney disease, cardiac remodeling, autoimmune flares), the health system's entire operational model may shift toward real-time risk monitoring and preventive intervention. The costs of that shift—both financial and psychological—are still being calculated.",
-  "evidence": [
-    {
-      "company": "Natera",
-      "fact": "Q2 2026 revenue was $752.8 million, up 37.7% YoY; total test volume reached 1.04 million, up 22.4%; oncology tests grew 57.2%"
-    },
-    {
-      "company": "Natera",
-      "fact": "Full-year 2025 revenue reached $2.31 billion, up 35.9%; oncology tests grew 51.6% for the year"
-    },
-    {
-      "company": "Natera",
-      "fact": "Q2 2026 guidance raised to $2.85–$2.91 billion full-year 2026 revenue, after Q1 raise to $2.74–$2.82 billion"
-    },
-    {
-      "company": "Natera",
-      "fact": "Business built around four branded franchises: Signatera (oncology), Panorama (prenatal), Horizon, and Prospera (organ health)"
-    },
-    {
-      "company": "Natera",
-      "fact": "Q2 2026 highlights included 'expanded Medicare coverage for Prospera' and 'several regulatory approvals for Signatera' and 'major enhancement to Panorama NIPT'"
-    },
-    {
-      "company": "Labcorp",
-      "fact": "Q2 2026 revenue grew 6% to $3.73 billion; adjusted operating margin reached 15.8%"
-    },
-    {
-      "company": "Quest Diagnostics",
-      "fact": "Q2 2026 revenue was $3.04 billion, up 10.2%; organic revenue growth was 10.0%; adjusted diluted EPS was $3.12, up 19.1%"
-    },
-    {
-      "company": "Quest Diagnostics",
-      "fact": "Advanced Diagnostics showing double-digit growth in Alzheimer's and cardiometabolic testing; questhealth.com consumer channel expanding"
-    },
-    {
-      "company": "Natera",
-      "fact": "Platform monetizes through reimbursement expansion, clinical-evidence accumulation, branded adoption, and higher-value assay mix as oncology becomes larger share of business"
-    }
-  ]
+ "slug": "prenatal-and-organ-monitoring",
+ "trend_slug": "screening-revolution",
+ "name": "Before Birth and After Transplant: The Other Frontiers of Molecular Surveillance",
+ "deck": "Cell-free DNA diagnostics that began in cancer recurrence monitoring now extend to fetal chromosomal screening and post-transplant organ-rejection surveillance—same reimbursement expansion curves, different risk windows.",
+ "core_bet": "Molecular surveillance is not confined to oncology. Natera's expansion of Panorama (prenatal) and Prospera (organ health) demonstrates that liquid biopsy platforms achieve their highest economic value when they span multiple patient populations and clinical moments. The same reimbursement infrastructure that enables cancer monitoring is now enabling earlier screening at life's other critical thresholds. Natera's Q2 2026 revenue of $752.8M (up 37.7% YoY) and full-year 2026 guidance of $2.85–$2.91B show that oncology tests (57.2% growth) are funding the expansion into prenatal and transplant monitoring.",
+ "numbers": [
+  {
+   "stat": "$752.8 million",
+   "label": "Natera Q2 2026 revenue, up 37.7% YoY, driven by expanded oncology tests and prenatal screening"
+  },
+  {
+   "stat": "57.2%",
+   "label": "Natera oncology test volume growth in Q2 2026, showing acceleration in cancer recurrence surveillance adoption"
+  },
+  {
+   "stat": "1.04 million",
+   "label": "Natera total test volume Q2 2026, up 22.4% YoY, spanning four distinct test categories (Signatera, Panorama, Horizon, Prospera)"
+  },
+  {
+   "stat": "$2.31 billion",
+   "label": "Natera full-year 2025 revenue, up 35.9% YoY, with oncology tests up 51.6%"
+  },
+  {
+   "stat": "$2.85–$2.91 billion",
+   "label": "Natera 2026 full-year revenue guidance (raised in Q2 2026), reflecting confidence in multi-category expansion"
+  },
+  {
+   "stat": "$3.73 billion",
+   "label": "Labcorp Q2 2026 revenue, up 6% with 15.8% adjusted operating margin from diagnostic scale and Advanced Diagnostics growth"
+  },
+  {
+   "stat": "$3.04 billion",
+   "label": "Quest Diagnostics Q2 2026 revenue, up 10.2% organic with Advanced Diagnostics showing double-digit growth in Alzheimer's and cardiometabolic testing"
+  }
+ ],
+ "mechanism": [
+  "Natera's test menu spans three distinct clinical windows: prenatal chromosomal risk (Panorama NIPT), cancer recurrence surveillance (Signatera), and transplant organ-health monitoring (Prospera). Each window uses the same underlying technology—cell-free DNA analysis via liquid biopsy—but targets radically different patient populations and payment models. Panorama reaches expectant parents and obstetric practices through a combination of direct-to-consumer awareness and OB-GYN clinical integration. Signatera sits in post-treatment oncology, where cancer centers and medical oncologists monitor residual disease as part of surveillance protocols. Prospera addresses solid-organ transplant recipients, where rejection risk is a lifelong concern and Medicare coverage is the dominant payer. The platform economics depend on turning each window into a recurring revenue stream. Reimbursement expansion is the lever that unlocks scale across all three categories. In 2026, Natera specifically highlighted expanded Medicare coverage for Prospera as a material inflection point—organ-transplant patients are predominantly Medicare-eligible, and regulatory approval of new assays expands the addressable population. Panorama benefits from established commercial and managed Medicaid coverage and strong consumer demand for prenatal risk information. Signatera grew 57% in test volume (Q2 2026) because increased adoption among cancer centers, driven by published clinical evidence and guideline shifts, converted molecular monitoring from a specialty assay into a standard-of-care tool. The company's guidance raises reflect both volume growth and ASP expansion—higher reimbursement rates for oncology tests shift the revenue mix upward even as consumer-facing prenatal tests remain volume-driven but lower-margin.",
+  "The platform's competitive durability comes from clinical evidence accumulation and branded adoption, not from being first. Natera has invested heavily in prospective trials and real-world data to establish that Signatera identifies recurrence before radiologic imaging, that Panorama with recent enhancements reduces false-positives in Down syndrome screening, and that Prospera predicts rejection risk in kidney and heart transplant patients. This evidence-building creates switching costs: once a cancer center or transplant program standardizes on Prospera or Signatera, clinicians embed the test into their protocols, and payers build coverage policy around the data. The cell-free DNA substrate is not proprietary, but the clinical playbook and reimbursement relationships are durable. Labcorp and Quest, as broad infrastructure players, capture a different part of the value chain. Labcorp's Q2 2026 6% revenue growth with 15.8% adjusted operating margins reflects steady sample throughput across routine and specialty diagnostics, plus biopharma trial-support leverage. Quest's Q2 2026 10% organic growth and focus on Advanced Diagnostics (including Alzheimer's and cardiometabolic testing) shows that broader diagnostic networks are moving toward higher-value assays but at slower pace than specialist companies. The competitive insight is clear: diagnostic specialists (Natera, Exact Sciences) are scaling faster than generalists (Labcorp, Quest) because they can command premium pricing and expand faster into new clinical windows when reimbursement aligns."
+ ],
+ "why_now": "Two forces converge in 2024-2026. First, liquid biopsy technology has matured enough that the same assay platform reliably detects fetal cell-free DNA, cancer DNA, and donor DNA (in organ transplant recipients), making multi-category expansion capital-efficient. Clinical evidence for Signatera accumulated over five years of post-treatment use; Medicare and commercial payers now view molecular recurrence detection as standard-of-care for many tumor types, driving the 57% Q2 2026 test-volume growth. Second, regulatory approvals cascaded in H1 2026: Natera's Q2 2026 highlights include 'several regulatory approvals for Signatera' and 'expanded Medicare coverage for Prospera,' meaning the company is no longer fighting for reimbursement inclusion but executing against established coverage policies. Panorama benefits from 20+ years of NIPT adoption and now includes enhancements (fetal fraction improvements, mosaicism detection) that keep it competitive. The timing also reflects supply-side maturity: Natera went from high-growth startup to profitable, reinvesting company; Labcorp and Quest are embedding higher-value assays into routine networks. The capital required to scale these tests is no longer a constraint; the constraint is clinical adoption, evidence credibility, and payer policy. Natera's guidance raises focus on ASP and mix, not volume—the company has reached scale in all three franchises simultaneously, and the question is now how much margin it can extract per test.",
+ "who_pays": "Three payer constituencies fund this ecosystem. Commercial insurers and managed Medicaid cover Panorama as an expectant-parent choice, typically as a covered benefit if ordered by a geneticist or OB-GYN; out-of-pocket cost is often absorbed or subsidized by practices seeking high adoption. Medicare covers Signatera and now Prospera for eligible patients; transplant recipients are nearly all Medicare-eligible over age 65, and cancer patients receiving molecular surveillance are often on Medicare. Employers and self-insured health plans pay for Panorama as a preventive benefit because the test reduces the probability of delivering an affected infant or enables earlier decisions. The direct-to-consumer route (Panorama directly marketed to pregnant women) involves a mix of insurance claims and out-of-pocket demand. Labcorp and Quest operate at scale across all these payers via centralized contracting; Natera's higher ASP implies it captures more margin from each test but requires deeper clinical relationships to maintain adoption.",
+ "who_profits": "Natera captures the highest margin per test across all three franchises—Signatera and Prospera command premium ASPs in the $1500–$3000 range depending on payer mix; Panorama sits in the $500–$1200 range. The company's full-year 2025 revenue of $2.31 billion on 51.6% oncology test growth and 35.9% total revenue growth demonstrates that higher-value mix drives disproportionate profit expansion. Q2 2026 guidance to $2.85–$2.91B full-year revenue reflects confidence that the three test categories can scale simultaneously. Labcorp and Quest capture volume and workflow adjacency: by embedding higher-value assays into their central-lab networks, they retain specimen logistics, billing relationships, and data connectivity. Labcorp's 15.8% adjusted operating margin on Q2 2026 revenue of $3.73 billion reflects the efficiency of running large-scale labs. Quest's raised guidance to higher end reflects margin expansion from mix. The payers profit indirectly via improved risk stratification and earlier intervention, which reduce costly downstream events, though they are increasingly price-sensitive to premium ASPs.",
+ "tension": "Three dynamics constrain expansion. First, Panorama prenatal screening is approaching saturation in affluent, insured populations; growth now depends on expansion into Medicaid populations where reimbursement is lower and adoption is slower. Second, Signatera and Prospera adoption depends entirely on clinical credibility and guideline inclusion—a single negative trial or shift in practice patterns could erase the premium ASP. Third, competition from lower-cost alternatives is rising: Quest and Labcorp are developing in-house oncology and prenatal assays; reference labs in China and India offer NIPT for a fraction of Natera's price. Finally, there is a latent societal tension: aggressive prenatal screening raises ethical questions about selective abortion based on Down syndrome risk; expanded transplant surveillance could increase medical burden on already-vulnerable recipients if it leads to over-testing and unnecessary interventions. Insurance coverage is not inevitable—payers may eventually view Panorama as a consumer choice rather than a covered benefit, or may restrict Signatera to specific cancer types and patient risk groups.",
+ "surprising_part": "The economic convergence of prenatal and post-transplant monitoring reveals that healthcare's value-creation frontier is not in treating disease but in continuous molecular surveillance across the lifespan. Prenatal testing is often positioned as a consumer choice (and it is), but Prospera organ-health monitoring is pure clinical necessity with no consumer marketing. That both test categories have become central to Natera's guidance and growth story shows that the same cell-free DNA platform can monetize across polar-opposite clinical contexts: anxiety reduction and parental choice in one case; lifelong organ-recipient management in the other. The surprise is not the technology but the speed of reimbursement expansion. Medicare coverage for Prospera materialized in 2026 because transplant networks and nephrology societies built the evidence case; it was not a consumer-driven demand like prenatal screening. This suggests that molecular surveillance could expand into other chronic-disease windows (early kidney disease, cardiac rejection, autoimmune flares) once the evidence and payer relationships align—the infrastructure is already built. The second surprise: Natera's 57.2% oncology test growth is driving revenue expansion faster than prenatal or transplant segments, meaning the highest-volume, most-profitable category is oncology surveillance, not consumer-facing prenatal choice or transplant monitoring. This inverts the intuitive hierarchy of what matters most economically.",
+ "one_sentence": "Natera's parallel expansion of Panorama (prenatal screening) and Prospera (organ-transplant monitoring) demonstrates that liquid-biopsy diagnostics achieve their full economic potential when applied across multiple risk windows and patient populations, with oncology surveillance driving 57% volume growth and funding the expansion.",
+ "societal_stake": "Molecular surveillance changes the social contract around risk and intervention. Pregnant women and their partners now have routine access to fetal chromosomal information, forcing earlier and harder decisions about pregnancy continuation. Transplant recipients can expect continuous monitoring for organ rejection, potentially extending survival—or creating permanent medical anxiety. The question is whether universal access to these tests will exacerbate health inequities (affluent patients get earlier screening and more aggressive monitoring) or enable earlier intervention across populations. There is also a question about consent and burden: does expanding molecular surveillance for transplant recipients improve outcomes, or does it increase unnecessary interventions and clinic visits? For society, the pattern matters because it signals that healthcare is moving from episodic treatment toward continuous surveillance. If this trend extends to other chronic conditions (early kidney disease, cardiac remodeling, autoimmune flares), the health system's entire operational model may shift toward real-time risk monitoring and preventive intervention. The costs of that shift—both financial and psychological—are still being calculated. The risk is that molecular surveillance becomes a tool of stratification: those who can afford it get earlier detection and better outcomes, while those without access fall further behind.",
+ "evidence": [
+  {
+   "company": "Natera",
+   "fact": "Q2 2026 revenue was $752.8 million, up 37.7% YoY; total test volume reached 1.04 million, up 22.4%; oncology tests grew 57.2%"
+  },
+  {
+   "company": "Natera",
+   "fact": "Full-year 2025 revenue reached $2.31 billion, up 35.9%; oncology tests grew 51.6%; FY2026 guidance raised to $2.85–$2.91 billion"
+  },
+  {
+   "company": "Natera",
+   "fact": "Q2 2026 highlights included 'expanded Medicare coverage for Prospera' and 'several regulatory approvals for Signatera' and 'major enhancement to Panorama NIPT'"
+  },
+  {
+   "company": "Natera",
+   "fact": "Business built around four branded franchises: Signatera (oncology), Panorama (prenatal), Horizon (carrier screening), and Prospera (organ health)"
+  },
+  {
+   "company": "Labcorp",
+   "fact": "Q2 2026 revenue grew 6% to $3.73 billion; adjusted operating margin reached 15.8% showing leverage from diagnostic scale"
+  },
+  {
+   "company": "Quest Diagnostics",
+   "fact": "Q2 2026 revenue was $3.04 billion, up 10.2%; organic revenue growth was 10.0%; Advanced Diagnostics showing double-digit growth in Alzheimer's and cardiometabolic testing"
+  },
+  {
+   "company": "Quest Diagnostics",
+   "fact": "questhealth.com consumer channel expanding; Advanced Diagnostics strategy positions Quest to compete with specialist companies in higher-value assay categories"
+  }
+ ]
 }

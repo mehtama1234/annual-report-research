@@ -1,88 +1,67 @@
 {
-  "slug": "accountability-gap-tension",
-  "trend_slug": "ai-cultural-disintermediation",
-  "name": "When the Algorithm Is Wrong and Nobody Is Responsible",
-  "deck": "AI replaces human judgment at scale without replacing human accountability — creating a structural vacuum where errors propagate systemically rather than individually.",
-  "core_bet": "AI disintermediation creates a new form of systemic risk: when algorithmic judgment displaces human experts, liability, recourse, and accountability all become ambiguous. Upstart's AI models deny loans to thousands of borrowers daily with no human review and no clear professional standard. Exact Sciences' mail-in tests are ordered directly by consumers with minimal physician oversight, meaning test errors land without professional interpretation. When Airbnb's algorithm moderates disputes or determines host trustworthiness, there's no appeals process to a licensed professional. The companies that capture the intermediary position also absorb accountability risk they have no framework to manage. The structural danger is not just that AI makes mistakes. It's that errors propagate at scale, and the companies making those decisions sit in a regulatory blind spot.",
-  "numbers": [
-    {
-      "stat": "90%",
-      "label": "Upstart's fully automated loans as percentage of originations"
-    },
-    {
-      "stat": "$11.0B",
-      "fact": "Upstart fiscal 2025 loan originations across 1.5M+ loans"
-    },
-    {
-      "stat": "19.4%",
-      "label": "Upstart Q4 2025 conversion rate, up from 15.1% in 2024"
-    },
-    {
-      "stat": "$3.25B",
-      "label": "Exact Sciences fiscal 2025 revenue from diagnostic tests ordered directly to consumers"
-    },
-    {
-      "stat": "45%",
-      "label": "Airbnb Q2 2026 issues resolved by AI assistant without human agent"
-    },
-    {
-      "stat": "$396.9M",
-      "label": "Forrester 2025 revenue declining from $432.5M as clients pressure research value"
-    },
-    {
-      "stat": "$110.7M",
-      "label": "Forrester total goodwill impairment charges in 2025"
-    },
-    {
-      "stat": "70%",
-      "label": "Affirm Q1 2026 approved U.S. loan applications presented with AI-selected 0% APR offer"
-    }
-  ],
-  "mechanism": [
-    "Upstart represents the clearest case of algorithmic intermediation at scale. The company originated $11B in loans across 1.5M+ borrowers in fiscal 2025, with over 90% of loans fully automated — meaning no human loan officer reviewed the application, no professional underwriter assessed risk, and no appeals mechanism exists. The model denies credit to thousands of borrowers daily. When a borrower is rejected, they don't call a human who can explain why or hear their story. They receive a decision from an algorithm, and Upstart's legal structure places the liability question in a gray zone: the company claims it's a software platform, not a lender, while simultaneously controlling credit decisions that determine whether people can borrow at all.",
-    "Exact Sciences' mail-in diagnostic model creates a parallel accountability gap on the health side. The company's fiscal 2025 revenue of $3.25B comes largely from tests like Cologuard ordered directly by consumers with minimal physician involvement. When a Cologuard result comes back negative and the consumer misses an early cancer diagnosis, the legal liability is ambiguous. Is the company responsible for the accuracy of the test? Is the consumer responsible for interpreting their own results? Is the ordering physician (who may have barely reviewed the order) responsible? The accountability chain breaks because the test was designed to bypass professional intermediaries, not to replace them with clearer liability. The test succeeds commercially precisely because it circumvents the friction of traditional physician gatekeeping, but that commercial advantage becomes a legal liability vacuum when errors occur.",
-    "Airbnb's case shows how algorithmic disintermediation affects even softer dispute resolution. In Q2 2026, 45% of support issues beginning with the AI assistant were resolved without human involvement. For housing disputes, payment disagreements, or host-guest conflicts, this means the algorithm makes judgment calls on contested situations where human professionals would need to apply discretion, interpret context, and explain their reasoning. When the AI decides against a guest or host, there's no professional to appeal to, no licensing board to complain to, and no clear standard the algorithm is supposedly following. The company benefits from faster, cheaper resolution. The user absorbs accountability risk that would normally attach to a licensed professional.",
-    "Forrester's predicament is subtly more complex. The company is losing contract value (down 6% to $292.4M in 2025) partly because AI-generated research is degrading the perceived uniqueness of analyst judgment. Forrester invests heavily in Forrester AI, trying to position itself as a guide to AI adoption while its own core product (analyst interpretation and research synthesis) is being commoditized by the very technology it's trying to sell. The company recorded $110.7M in goodwill impairment in 2025 because the traditional research-intermediary model no longer commands the premium it once did. Forrester is simultaneously a victim of AI disintermediation and trying to build its survival strategy around it — a recursive problem with no clean resolution."
-  ],
-  "why_now": "Three converging factors created this accountability vacuum simultaneously. First: AI models reached sufficient accuracy at consumer-scale decisions (lending, health screening, dispute resolution, recommendations) that companies could deploy them without human reviewers in the loop. Upstart's model improved enough to achieve 19.4% Q4 2025 conversion rates; Exact Sciences' diagnostic accuracy became good enough for direct-to-consumer orders. Second: software-as-platform legal structures (Upstart claims to be software, Airbnb claims to be neutral platforms) allowed companies to disclaim liability in ways that traditional financial intermediaries and healthcare providers cannot. Third: regulation hasn't caught up. There is no licensing requirement for AI-powered lending models, no board certification for diagnostic AI, and no consumer protection standard for algorithmic dispute resolution. Companies filled that vacuum by moving fast before regulators could respond.",
-  "who_pays": "Individual consumers and borrowers pay through denied credit with no recourse, misdiagnosed health conditions, and disputes resolved against them by inscrutable algorithms. The cost is invisible because it's concentrated on people who are already outside the system or in vulnerable positions. A borrower rejected by Upstart doesn't go to a rival platform — they fall into higher-cost lending. A consumer who receives a false-negative from Exact Sciences's mail-in test doesn't know they've been harmed until years later. A host or guest who loses an Airbnb dispute to the algorithm has no appeals process. The distributed harm across millions of transactions makes individual losses hard to litigate but systemic risk real.",
-  "who_profits": "Companies that successfully deploy algorithmic intermediation capture the benefit of lower operational cost, faster throughput, and simplified liability structures. Upstart profits from originating loans it doesn't hold (monetizing through fees, not credit risk). Exact Sciences profits from tests ordered directly (cutting out physician middleman margin). Airbnb profits from AI-powered support resolution (eliminating expensive support staff). Forrester is notable as a company on the losing side: it invested in research intermediation when that intermediary role is being disintermediated, so it's now trying to monetize the very technology replacing it.",
-  "tension": "The externalized cost is systemic. Individual companies reduce their accountability by deploying algorithms, but society absorbs the collective risk of decisions made without human judgment, professional standards, or legal recourse. The second tension is recursive: the companies best positioned to profit from AI disintermediation are also the most vulnerable to being disrupted by it. Forrester tries to sell expertise about AI while AI makes traditional expertise look less valuable. The third tension is regulatory arbitrage — companies move fast into these models before regulation responds, then argue that regulation would be too costly and would slow innovation. Once billions of transactions are running on these systems, reversing them becomes politically difficult even if accountability failures emerge.",
-  "surprising_part": "The most underappreciated fact is that this isn't a bug — it's a feature. Companies deliberately chose algorithmic intermediation over human review because the accountability structure is weaker, not stronger. A human loan officer could be sued for discrimination; an algorithm can't be sued the same way. A physician is liable for misdiagnosis; a test-ordering platform isn't. This isn't accidental friction. It's the core value proposition for companies deploying these models.",
-  "one_sentence": "When AI replaces human judgment at scale, companies capture the efficiency gains while distributing the accountability risk across millions of users who have no way to appeal or understand why they were denied.",
-  "societal_stake": "As algorithmic intermediation scales, individuals lose access to human judgment at the moments when they need it most: when credit is denied, when health results matter, when disputes matter. The aggregate effect is that entire categories of decisions move outside the professional standards and accountability frameworks that protected people (imperfectly) for decades. This is especially dangerous for less-sophisticated consumers, low-income borrowers, and people in vulnerable health positions who would normally have relied on expert intermediation to navigate complex decisions.",
-  "evidence": [
-    {
-      "company": "Upstart Holdings, Inc.",
-      "fact": "Fiscal 2025 originated $11.0B across 1,497,149 loans with over 90% fully automated; no human loan officer reviewed these applications"
-    },
-    {
-      "company": "Upstart Holdings, Inc.",
-      "fact": "Q4 2025 conversion rate reached 19.4%, up from 15.1% in 2024, demonstrating algorithmic approval confidence at scale"
-    },
-    {
-      "company": "Exact Sciences Corporation",
-      "fact": "Fiscal 2025 revenue reached $3.25B with screening revenue of $695M in Q4, largely from direct-to-consumer mail-in tests ordered with minimal physician oversight"
-    },
-    {
-      "company": "Airbnb, Inc.",
-      "fact": "Q2 2026 nearly 45% of issues beginning with AI assistant were resolved without human agent; customer-support cost per booking declined 16% year over year"
-    },
-    {
-      "company": "Forrester Research Inc.",
-      "fact": "2025 contract value fell 6% to $292.4M and company recorded $110.7M goodwill impairment as clients questioned value of analyst judgment when AI is available"
-    },
-    {
-      "company": "Affirm Holdings, Inc.",
-      "fact": "Q1 2026 over 70% of approved U.S. loan applications presented with AI-selected financing offers; 39% of quarter transactions were 0% APR through AI-driven product selection"
-    },
-    {
-      "company": "Forrester Research Inc.",
-      "fact": "2025 revenue fell to $396.9M from $432.5M as enterprise clients squeezed budgets and demanded tighter ROI from research services"
-    },
-    {
-      "company": "Upstart Holdings, Inc.",
-      "fact": "Q2 2026 originations reached $4.2B, demonstrating the model's scale and the absence of human review across millions of lending decisions"
-    }
-  ]
+ "slug": "accountability-gap-tension",
+ "trend_slug": "ai-cultural-disintermediation",
+ "name": "When the Algorithm Is Wrong and Nobody Is Responsible",
+ "deck": "AI replaces human judgment at scale without replacing human accountability — creating a structural vacuum where errors propagate systemically without professional standards or appeals mechanisms.",
+ "core_bet": "AI disintermediation creates a new form of systemic risk: when algorithmic judgment displaces human experts, liability, recourse, and accountability all become ambiguous. Upstart's AI models deny loans to thousands of borrowers daily with no human review and no clear professional standard. Exact Sciences' mail-in tests are ordered directly by consumers with minimal physician oversight, meaning test errors land without professional interpretation. When Airbnb's algorithm moderates disputes or determines host trustworthiness, there's no appeals process to a licensed professional. The companies that capture the intermediary position absorb accountability risk they have no framework to manage. The structural danger is not that AI makes mistakes individually. It's that errors propagate at scale across millions of transactions, and the companies making those decisions sit in a regulatory blind spot.",
+ "numbers": [
+  {
+   "stat": "90%",
+   "label": "Upstart's fully automated loans as percentage of originations in fiscal 2025"
+  },
+  {
+   "stat": "$11.0B",
+   "label": "Upstart fiscal 2025 loan originations across 1,497,149 loans"
+  },
+  {
+   "stat": "19.4%",
+   "label": "Upstart Q4 2025 conversion rate, up from 15.1% in 2024"
+  },
+  {
+   "stat": "$3.25B",
+   "label": "Exact Sciences fiscal 2025 revenue with screening revenue of $695M in Q4 2025"
+  },
+  {
+   "stat": "45%",
+   "label": "Airbnb Q2 2026 issues resolved by AI assistant without human agent"
+  },
+  {
+   "stat": "70%",
+   "label": "Affirm Q1 2026 approved U.S. loan applications presented with AI-selected financing offers"
+  }
+ ],
+ "mechanism": [
+  "Upstart represents the clearest case of algorithmic intermediation at scale. The company originated $11.0B in loans across 1,497,149 borrowers in fiscal 2025, with over 90% of loans fully automated — meaning no human loan officer reviewed the application, no professional underwriter assessed risk, and no appeals mechanism exists. The model denies credit to thousands of borrowers daily. When a borrower is rejected, they don't call a human who can explain why or hear their story. They receive a decision from an algorithm. Upstart's legal structure places the liability question in a gray zone: the company claims it's a software platform, not a lender, while simultaneously controlling credit decisions that determine whether people can borrow at all. This creates accountability ambiguity — rejected borrowers have no professional to appeal to, no standards body to complain to, and no clear legal pathway to challenge the decision.",
+  "Exact Sciences' mail-in diagnostic model creates a parallel accountability gap on the health side. The company's fiscal 2025 revenue of $3.25B comes largely from tests like Cologuard ordered directly by consumers with minimal physician involvement. When a Cologuard result comes back negative and the consumer misses an early cancer diagnosis, the legal liability is ambiguous. Is the company responsible for test accuracy? Is the consumer responsible for interpreting their own results? Is the ordering physician (who may have barely reviewed the order) responsible? The accountability chain breaks because the test was designed to bypass professional intermediaries, not to replace them with clearer liability. The test succeeds commercially precisely because it circumvents the friction of traditional physician gatekeeping, but that commercial advantage creates a liability vacuum when errors occur.",
+  "Airbnb's case shows how algorithmic disintermediation affects dispute resolution. In Q2 2026, 45% of support issues beginning with the AI assistant were resolved without human involvement. For housing disputes, payment disagreements, or host-guest conflicts, this means the algorithm makes judgment calls on contested situations where human professionals would need to apply discretion, interpret context, and explain their reasoning. When the AI decides against a guest or host, there's no professional to appeal to, no licensing board to complain to, and no clear standard the algorithm is supposedly following. The company benefits from faster resolution. The user absorbs accountability risk that would normally attach to a licensed professional."
+ ],
+ "why_now": "Three converging factors created this accountability vacuum simultaneously between 2023 and 2025. First: AI models reached sufficient accuracy at consumer-scale decisions that companies could deploy them without human reviewers in the loop. Upstart's conversion rate improved to 19.4% in Q4 2025 (up from 15.1% in 2024), demonstrating algorithmic confidence at scale. Exact Sciences' diagnostic accuracy became good enough for direct-to-consumer orders. Second: software-as-platform legal structures enabled companies to disclaim liability in ways that traditional financial intermediaries and healthcare providers cannot. Third: regulation hasn't caught up. There is no licensing requirement for AI-powered lending models, no board certification for diagnostic AI, and no consumer protection standard for algorithmic dispute resolution. Companies filled that vacuum by moving fast before regulators could respond.",
+ "who_pays": "Individual consumers and borrowers pay through denied credit with no recourse, misdiagnosed health conditions, and disputes resolved against them by inscrutable algorithms. The cost is invisible because it's concentrated on people already outside the system or in vulnerable positions. A borrower rejected by Upstart doesn't go to a rival platform — they fall into higher-cost lending. A consumer who receives a false-negative from Exact Sciences's mail-in test doesn't know they've been harmed until years later. A host or guest who loses an Airbnb dispute to the algorithm has no appeals process. The distributed harm across millions of transactions makes individual losses hard to litigate but systemic risk real.",
+ "who_profits": "Companies that successfully deploy algorithmic intermediation capture the benefit of lower operational cost, faster throughput, and simplified liability structures. Upstart profits from originating loans it doesn't hold (monetizing through fees, not credit risk). Exact Sciences profits from tests ordered directly (cutting out physician middleman margin). Airbnb profits from AI-powered support resolution (eliminating expensive support staff).",
+ "tension": "The externalized cost is systemic. Individual companies reduce their accountability by deploying algorithms, but society absorbs the collective risk of decisions made without human judgment, professional standards, or legal recourse. The second tension is recursive: the companies best positioned to profit from AI disintermediation are also the most vulnerable to being disrupted by it. The third tension is regulatory arbitrage — companies move fast into these models before regulation responds, then argue that regulation would be too costly and would slow innovation. Once billions of transactions are running on these systems, reversing them becomes politically difficult even if accountability failures emerge.",
+ "surprising_part": "The most underappreciated fact is that this isn't a bug — it's a feature. Companies deliberately chose algorithmic intermediation over human review because the accountability structure is weaker, not stronger. A human loan officer could be sued for discrimination; an algorithm can't be sued the same way. A physician is liable for misdiagnosis; a test-ordering platform isn't. This isn't accidental friction. It's the core value proposition for companies deploying these models.",
+ "one_sentence": "When AI replaces human judgment at scale, companies capture the efficiency gains while distributing the accountability risk across millions of users who have no way to appeal or understand why they were denied.",
+ "societal_stake": "As algorithmic intermediation scales, individuals lose access to human judgment at the moments when they need it most: when credit is denied, when health results matter, when disputes matter. The aggregate effect is that entire categories of decisions move outside the professional standards and accountability frameworks that protected people (imperfectly) for decades. This is especially dangerous for less-sophisticated consumers, low-income borrowers, and people in vulnerable health positions who would normally have relied on expert intermediation.",
+ "evidence": [
+  {
+   "company": "Upstart Holdings, Inc.",
+   "fact": "Fiscal 2025 originated $11.0B across 1,497,149 loans with over 90% fully automated; no human loan officer reviewed these applications"
+  },
+  {
+   "company": "Upstart Holdings, Inc.",
+   "fact": "Q4 2025 conversion rate reached 19.4%, up from 15.1% in 2024, demonstrating algorithmic approval confidence at scale"
+  },
+  {
+   "company": "Exact Sciences Corporation",
+   "fact": "Fiscal 2025 revenue reached $3.25B with screening revenue of $695M in Q4 2025, largely from direct-to-consumer mail-in tests ordered with minimal physician oversight"
+  },
+  {
+   "company": "Airbnb, Inc.",
+   "fact": "Q2 2026 nearly 45% of issues beginning with AI assistant were resolved without human agent; customer-support cost per booking declined 16% year over year"
+  },
+  {
+   "company": "Affirm Holdings, Inc.",
+   "fact": "Q1 2026 over 70% of approved U.S. loan applications presented with AI-selected financing offers; 39% of quarter transactions were 0% APR through AI-driven product selection"
+  }
+ ]
 }

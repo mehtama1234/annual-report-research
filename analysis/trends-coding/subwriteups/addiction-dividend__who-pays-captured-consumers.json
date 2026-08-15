@@ -1,87 +1,83 @@
 {
-  "slug": "who-pays-captured-consumers",
-  "trend_slug": "addiction-dividend",
-  "name": "The Cost of the Loop: Who Actually Pays for the Addiction Dividend",
-  "deck": "Low-income consumers bear the disproportionate cost of the habits that generate returns for addiction-dividend companies.",
-  "core_bet": "The addiction dividend is not a victimless profit structure. Companies that have successfully habituated consumers to cigarettes, gaming, sports betting, and other repeat-spend products externalize their costs onto the consumers themselves—who spend a disproportionate share of income on inelastic habits—and onto public health systems that absorb the downstream damage. The profits flow upward while the burden flows downward.",
-  "numbers": [
-    {
-      "stat": "$40 billion",
-      "label": "Philip Morris International net revenues for 2025, with $17 billion coming from smoke-free products"
-    },
-    {
-      "stat": "$7.54",
-      "label": "Philip Morris adjusted diluted EPS in 2025, up from $4.52 in 2024"
-    },
-    {
-      "stat": "$53.6 billion",
-      "label": "DraftKings Sportsbook handle in 2025, with a 7.1% net revenue margin"
-    },
-    {
-      "stat": "$6.055 billion",
-      "label": "DraftKings full-year 2025 revenue, with $620 million in adjusted EBITDA"
-    },
-    {
-      "stat": "43 million",
-      "label": "Legal-age consumers using Philip Morris smoke-free products as of December 2025"
-    },
-    {
-      "stat": "$8.026 billion",
-      "label": "Electronic Arts net bookings for FY2026, with 71% of revenue from live services"
-    },
-    {
-      "stat": "$5.931 billion",
-      "label": "Snap Inc. full-year 2025 revenue, still net negative on GAAP net income"
-    },
-    {
-      "stat": "971 million",
-      "label": "Snap monthly active users in Q2 2026, creating scale dependent on advertising"
-    }
-  ],
-  "mechanism": [
-    "The addiction dividend works by converting habit into recurring revenue. Philip Morris generated $40 billion in net revenues in 2025 by continuing to sell cigarettes while pioneering a migration toward smoke-free products like IQOS and nicotine pouches. Across 43 million consumers, the company has built a self-renewing cash engine where the consumer—not the product innovation—bears the true cost. A pack of cigarettes or a daily nicotine pouch is not a discretionary purchase for dependent users. The price elasticity is near zero. This means that when Philip Morris raises prices or when consumers exhaust their disposable income, they cut spending on food, healthcare, or housing before they cut nicotine spending. For low-income households, the addiction dividend translates directly into poverty-deepening repeat spend.",
-    "DraftKings demonstrates the same pattern through sports betting. With $53.6 billion in Sportsbook handle in 2025 and a 7.1% net revenue margin, the company captured $3.75 billion in theoretical gross winnings before paying out bonuses, free plays, and other promotional incentives. The company's earnings presentation frames this as growth and engagement—and from the user side, it is participation and entertainment. But from the financial side, it is the extraction of disposable income from millions of daily users who experience the product as a form of second-screen entertainment tied to sports they care about. The most engaged users, who return most frequently and contribute the most revenue, are also the most at-risk users. DraftKings acknowledges this in its litigation risk disclosures around responsible gaming and addiction claims. What it does not disclose is what fraction of revenue comes from users exhibiting signs of compulsive play.",
-    "Electronic Arts' live-services model concentrates the same dynamic into seasonal sports games and ongoing competitive loops. With 71% of FY2026 revenue coming from live services—primarily EA SPORTS FC's Ultimate Team and Apex Legends cosmetics—the company monetizes repeat seasons, progression systems, and identity investment inside games where consumers build teams and compete over months. The consumer experience is engagement, achievement, and community. The company experience is that this user base exhibits high retention, high lifetime value, and high willingness to pay. But the underlying truth is that much of this value capture depends on consumers spending proportionally more of their income on in-game progression than on other consumption. For gaming-addicted users, especially teenagers and young adults, this becomes a competition for income with other needs. Gaming disorder is recognized by the WHO. EA's earnings do not reflect the treatment costs that fall on healthcare systems or the lost productivity that falls on families and employers."
-  ],
-  "why_now": "The addiction dividend has reached critical scale in 2025-2026 because regulated nicotine products (smoke-free alternatives), sports betting legalization across U.S. states, and mobile gaming monetization have all matured simultaneously. Philip Morris smoke-free products now represent 42% of company revenue after just five years of aggressive global rollout. DraftKings expanded from 26 to 27+ states in 2025-2026, with prediction markets launching as a new monetization frontier. Electronic Arts reached a record $8 billion in net bookings with live services as the dominant engine. These are no longer emerging business models—they are now central to the earnings power of major multinational companies. At scale, the addiction dividend can no longer be defended as the sum of individual choices. It is now an industrial system designed to maximize the extraction of repeat spending from populations most vulnerable to habit.",
-  "who_pays": "Low-income consumers pay the largest price as a share of household income. A pack of cigarettes costs $8–$12 and is purchased daily by dependent users; for a household earning $25,000 annually, this is a non-negotiable 15%+ budget item. Mobile gaming and sports betting users who gamble $20–$100 daily are withdrawing discretionary funds from households that also face healthcare, childcare, and housing cost burdens. The users are often young adults (18–35) who have not yet built wealth, or older adults on fixed incomes (Social Security, pensions). Public health systems pay the second price. Smoking-related disease (lung cancer, COPD, heart disease) costs U.S. healthcare $225+ billion annually. Gambling disorder treatment and emergency intervention cost an estimated $5 billion annually, mostly borne by public insurance. Families pay a third price through lost wages, mental health crises, and relationship breakdown tied to addiction. None of these costs appear on Philip Morris, DraftKings, or Electronic Arts' income statements.",
-  "who_profits": "The profits flow upward with perfect efficiency. Philip Morris distributed $7.54 in adjusted diluted EPS to shareholders in 2025—a 67% increase from 2024. DraftKings generated $620 million in adjusted EBITDA in 2025 and is building toward an internal target of ~$1 billion in 2026, while repurchasing shares. Electronic Arts generated $2.553 billion in operating cash flow in FY2026, with management explicitly directing this toward new product frontiers like acquisition and new game development. Snap, despite still being unprofitable on a GAAP basis, generated $656 million in operating cash flow in 2025 by monetizing the attention of 971 million users through advertising that sells products (often including other addiction-dividend companies). The shareholder base captures the value through dividends, buybacks, and capital appreciation. Institutional investors and wealth managers own the majority of shares. Workers in these companies capture salaries. But the consumer bearing the highest cost of the habit captures none of the benefit.",
-  "tension": "The core tension is that addiction-dividend profits depend on externalized harm that regulation and public pressure may eventually force internalized. Litigation around responsible gaming, addiction disclosure, and marketing practices is already mounting for both DraftKings and Philip Morris. If healthcare systems begin to bill addictive-product companies for treatment costs (as some European countries have attempted with tobacco), the entire margin structure of the addiction dividend collapses. If youth protection regulations tighten around mobile gaming or if advertising bans extend to sports betting, revenue growth stops. If users develop methadone-equivalent alternatives (vaping for nicotine, skill-based games for engagement without gambling), the switching friction dissolves. The business model is durable only as long as the external costs remain external. The moment regulation, litigation, or technology force the company to absorb the cost, the addiction dividend reverses into the addiction loss.",
-  "surprising_part": "The surprising part is that addiction-dividend companies are simultaneously willing to acknowledge addiction as a legal and operational reality while optimizing their business models to maximize engagement with exactly those users most vulnerable to addiction. Philip Morris spent $40 billion annually building distribution for nicotine products and explicitly frames the business as a nicotine migration engine. DraftKings launched Predictions—a new real-money speculation product—immediately after achieving profitability, rather than using that profitability to reduce customer acquisition spend. Electronic Arts continues to aggressively push cosmetic monetization and battle-pass sales inside games played by teenagers. These are not companies denying addiction exists. They are companies that have decided the legal and reputational cost of addiction is cheaper than the revenue cost of product redesign. The litigation reserves exist. The responsible-gaming disclosures exist. But the monetization intensity only increases.",
-  "one_sentence": "The addiction dividend is a transfer of wealth from the consumers least able to afford it to the shareholders most able to capture it, with the full cost of addiction externalized onto public health systems and families.",
-  "societal_stake": "The social cost of the addiction dividend is inequality on a structural scale. When companies design their core business model around maximizing repeat spending from consumers least equipped to refuse, the entire earnings power of those companies is built on extracting wealth from lower-income households. This is different from ordinary business profit. It is the industrial monetization of human vulnerability. A person who is addicted to nicotine or compulsively gambling is not exercising choice in the economic sense—they are exhibiting compulsion. When billions in shareholder value are generated by optimizing for compulsion, the result is not a market that rewards efficiency or innovation. It is a market that rewards the ability to capture people in cycles of repeat spending they cannot escape. This creates a durable mechanism for wealth transfer away from those who can least afford it, and it does so with the explicit design and approval of major corporations and their investors.",
-  "evidence": [
-    {
-      "company": "Philip Morris International",
-      "fact": "Full-year 2025 adjusted diluted EPS reached $7.54, a 67% increase from $4.52 in 2024, while smoke-free products became 41.5% of revenue"
-    },
-    {
-      "company": "Philip Morris International",
-      "fact": "43 million legal-age consumers were using PMI smoke-free products as of December 2025, with smoke-free product shipment volumes up 12.8% for the year"
-    },
-    {
-      "company": "DraftKings Inc.",
-      "fact": "$53.6 billion Sportsbook handle in 2025 generated a 7.1% net revenue margin, producing $3.75 billion in theoretical gross winnings"
-    },
-    {
-      "company": "DraftKings Inc.",
-      "fact": "2025 10-K explicitly discloses litigation around promotions, addiction claims, and marketing practices as legal risk factors"
-    },
-    {
-      "company": "Electronic Arts Inc.",
-      "fact": "Live services revenue reached $5.383 billion in FY2026, representing 71% of total revenue, with Ultimate Team and battle-pass cosmetics as core drivers"
-    },
-    {
-      "company": "Electronic Arts Inc.",
-      "fact": "EA SPORTS FC net bookings rose high single digits in FY2026 excluding deluxe-content timing, proving recurring seasonal monetization stickiness"
-    },
-    {
-      "company": "Snap Inc.",
-      "fact": "Q2 2026 reached 971 million monthly active users while remaining dependent on advertising revenue from products including addiction-dividend companies"
-    },
-    {
-      "company": "DraftKings Inc.",
-      "fact": "Q2 2026 showed revenue weakness explicitly tied to 'customer-friendly sports outcomes and higher promotional reinvestment,' proving the model depends on extracting value from customers"
-    }
-  ]
+ "slug": "who-pays-captured-consumers",
+ "trend_slug": "addiction-dividend",
+ "name": "The Cost of the Loop: Who Actually Pays for the Addiction Dividend",
+ "deck": "Low-income consumers bear the disproportionate cost of the habits that generate returns for addiction-dividend companies—spending a higher share of income on inelastic, compulsive behaviors while public health systems absorb the downstream damage.",
+ "core_bet": "The addiction dividend is not a victimless profit structure. Companies that successfully habituate consumers—Philip Morris (nicotine products), DraftKings (sports betting), Electronic Arts (live services)—extract wealth from the consumers least able to refuse, externalize all costs of addiction onto public health systems and families, and concentrate the returns into shareholder value. A dependent consumer spends 15%+ of household income on cigarettes, daily sports betting, or gaming progression before cutting spending on food or housing. This is not a choice in the economic sense—it is compulsion monetized.",
+ "numbers": [
+  {
+   "stat": "$40.0 billion",
+   "label": "Philip Morris International net revenues for 2025, with smoke-free products 41.5% of mix"
+  },
+  {
+   "stat": "$7.54",
+   "label": "Philip Morris adjusted diluted EPS in 2025, up 67% from $4.52 in 2024"
+  },
+  {
+   "stat": "43 million",
+   "label": "Legal-age consumers using Philip Morris smoke-free products as of December 2025"
+  },
+  {
+   "stat": "$53.6 billion",
+   "label": "DraftKings Sportsbook handle in 2025 with 7.1% net revenue margin"
+  },
+  {
+   "stat": "$6.055 billion",
+   "label": "DraftKings full-year 2025 revenue with $620 million in adjusted EBITDA"
+  },
+  {
+   "stat": "$8.026 billion",
+   "label": "Electronic Arts net bookings for FY2026 with 71% from live services revenue"
+  },
+  {
+   "stat": "971 million",
+   "label": "Snap monthly active users in Q2 2026, monetizing attention through addictive-product advertising"
+  }
+ ],
+ "mechanism": [
+  "The addiction dividend works by converting habit into recurring revenue streams captured entirely by companies and shareholders. Philip Morris generated $40 billion in revenue in 2025 by selling nicotine products to 43 million dependent consumers. For dependent users, nicotine spending is non-discretionary—a pack costing $8-12 daily is purchased before food or rent. A household earning $25,000 annually spends 15%+ of income on cigarettes alone. Price elasticity is near zero: when incomes are squeezed, dependent consumers cut other essentials first. PMI's EPS grew 67% year-over-year precisely because the captured consumer base cannot switch away, allowing price increases that deepen poverty for those already dependent.",
+  "DraftKings demonstrates the same extraction mechanism through sports betting. With $53.6 billion in Sportsbook handle and 7.1% net revenue margin in 2025, the company extracted approximately $3.75 billion in theoretical gross winnings from millions of daily users. The company's litigation disclosures explicitly acknowledge addiction claims and responsible-gaming litigation as operational risks. Yet the earnings presentations frame this as growth and engagement. What they do not disclose is what fraction of revenue comes from users exhibiting compulsive-play behavior. Industry research suggests the most engaged users—who return daily and drive the highest revenue—are also the highest-risk users. DraftKings profits from the overlap between engagement and addiction.",
+  "Electronic Arts' live-services model (71% of FY2026 revenue at $8.026 billion) concentrates the same dynamic into seasonal games and progression systems. The company monetizes repeat seasons and identity investment inside Ultimate Team and Apex Legends where consumers spend disproportionately high shares of income on cosmetics and progression. For gaming-addicted teenagers and young adults, this becomes a competition for income with other needs. The WHO recognizes gaming disorder. EA's earnings reflect none of the treatment costs borne by healthcare systems or the lost productivity borne by families and employers."
+ ],
+ "why_now": "The addiction dividend reached critical industrial scale in 2025-2026. Philip Morris smoke-free products represent 41.5% of company revenue—this transition occurred over five years with aggressive global rollout. DraftKings expanded to 27+ states in 2025-2026 while launching prediction markets as new monetization frontiers. Electronic Arts reached record $8.026 billion net bookings with live services as the dominant earnings driver. These are no longer emerging business models; they are central to multinational earnings. Simultaneously, regulatory pressure is building: DraftKings disclosed $620M in adjusted EBITDA in 2025 but faces litigation over addiction claims; PMI faces global regulatory scrutiny on harm-reduction claims for IQOS and ZYN. The inflection is that at scale, the addiction dividend model can no longer hide behind individual-choice framing. It is now an industrial system designed to maximize extraction from populations most vulnerable to habit.",
+ "who_pays": "Low-income consumers pay the largest price as a percentage of household income. A $10 daily cigarette spend is 15%+ of a $25,000 annual salary. Daily sports bettors (placing $20-100 wagers) are withdrawing from households also carrying healthcare, childcare, and housing cost burdens. The user base is concentrated in 18-35 age cohorts and older adults on fixed incomes—populations with minimal accumulated wealth. Public health systems pay the second price. Smoking-related disease costs U.S. healthcare $225+ billion annually (lung cancer, COPD, heart disease). Gambling disorder treatment costs an estimated $5 billion annually, mostly through public insurance. Families pay a third price through lost wages, mental-health crises, and relationship breakdown. None of these costs appear on Philip Morris, DraftKings, or Electronic Arts balance sheets.",
+ "who_profits": "Shareholders capture the value with perfect efficiency. PMI distributed $7.54 in adjusted diluted EPS in 2025—67% above 2024. DraftKings generated $620 million in adjusted EBITDA in 2025 and is building toward $1 billion in 2026 while executing share buybacks. Electronic Arts generated $2.553 billion in operating cash flow in FY2026 directed toward new acquisitions and game development. Snap, despite remaining unprofitable on GAAP basis, generated $656 million in operating cash flow in 2025 by monetizing 971 million users through advertising—a significant portion from addiction-dividend companies promoting their products. Institutional investors own the majority of shares and capture value through dividends and capital appreciation. Workers in these companies capture salaries. The consumer bearing the highest cost of the habit captures nothing.",
+ "tension": "Addiction-dividend profits depend on externalizing harm that regulation and litigation may force internalized. Litigation around responsible gaming, addiction disclosure, and marketing practices is already mounting for DraftKings and Philip Morris. If healthcare systems begin billing addictive-product companies for treatment costs (as attempted in Europe), margin structures collapse. If youth-protection regulations tighten on gaming or if advertising bans extend to sports betting, revenue growth stops. If users develop alternatives (vaping for nicotine, skill-based games without gambling), switching friction dissolves. The business model is durable only while external costs remain external.",
+ "surprising_part": "The most non-obvious part is that addiction-dividend companies simultaneously acknowledge addiction as legal reality while optimizing business models to maximize engagement with exactly those users most vulnerable to addiction. Philip Morris spent $40 billion annually building distribution for nicotine products and explicitly frames the business as a nicotine migration engine. DraftKings launched Predictions—new real-money speculation—immediately after profitability, rather than using that profit to reduce customer-acquisition spend. Electronic Arts aggressively pushes cosmetic monetization and battle-pass sales in games played by teenagers. These companies are not denying addiction exists. They have decided the legal and reputational cost of addiction is cheaper than the revenue cost of product redesign. The litigation reserves exist. The responsible-gaming disclosures exist. But monetization intensity only increases.",
+ "one_sentence": "The addiction dividend is a transfer of wealth from the consumers least able to afford it to the shareholders most able to capture it, with the full cost of addiction externalized onto public health systems and families.",
+ "societal_stake": "The social cost of the addiction dividend is inequality embedded in corporate structure. When companies design core business models around maximizing repeat spending from consumers least equipped to refuse, the entire earnings power is built on extracting wealth from lower-income households. This is not ordinary business profit. It is industrial monetization of human vulnerability. A person addicted to nicotine or compulsively gambling is not exercising choice—they are exhibiting compulsion. When billions in shareholder value are generated by optimizing for compulsion, the result is not a market rewarding efficiency or innovation. It is a market rewarding the ability to capture people in cycles of repeat spending they cannot escape. This creates a durable mechanism for wealth transfer away from those who can least afford it, with the explicit design and approval of major corporations and their investors.",
+ "evidence": [
+  {
+   "company": "Philip Morris International",
+   "fact": "2025 adjusted diluted EPS of $7.54 represents 67% increase from $4.52 in 2024 while smoke-free products reached 41.5% of revenue and 43 million users"
+  },
+  {
+   "company": "Philip Morris International",
+   "fact": "Smoke-free product shipment volumes increased 12.8% in 2025, demonstrating accelerating capture of 43M legal-age consumers into higher-margin nicotine formats"
+  },
+  {
+   "company": "DraftKings Inc.",
+   "fact": "$53.6 billion Sportsbook handle in 2025 with 7.1% net revenue margin generating $3.75 billion in theoretical gross winnings from engaged users"
+  },
+  {
+   "company": "DraftKings Inc.",
+   "fact": "2025 10-K explicitly discloses litigation risk factors around promotions, addiction claims, and marketing practices as material legal risks"
+  },
+  {
+   "company": "Electronic Arts Inc.",
+   "fact": "Live services revenue of $5.383 billion in FY2026 representing 71% of total revenue, primarily from Ultimate Team and battle-pass cosmetics targeting high-engagement users"
+  },
+  {
+   "company": "Electronic Arts Inc.",
+   "fact": "Net bookings reached $8.026 billion in FY2026 with management directing operating cash flow of $2.553 billion toward acquisitions and product expansion"
+  },
+  {
+   "company": "Snap Inc.",
+   "fact": "971 million monthly active users in Q2 2026 monetized through advertising revenue that includes promotion of addiction-dividend products"
+  },
+  {
+   "company": "DraftKings Inc.",
+   "fact": "Q2 2026 revenue weakness explicitly attributed to 'customer-friendly sports outcomes and higher promotional reinvestment' proving model extracts value from customers through disadvantageous wagering"
+  }
+ ]
 }

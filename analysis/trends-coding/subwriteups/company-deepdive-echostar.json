@@ -1,0 +1,104 @@
+{
+ "slug": "company-deepdive-echostar",
+ "trend_slug": "cash-harvest",
+ "name": "EchoStar: The Harvest That Ate Itself",
+ "deck": "EchoStar's collapse exposes the harvest model's hard boundary: when price increases accelerate customer loss faster than the base shrinks gradually, and capex optionality fails its test, the balance sheet implodes and restructuring consumes the franchise.",
+ "core_bet": "EchoStar is the clearest proof that the harvest has a hard limit. Pay-TV subscribers fell 607,000 in just six months (6.998M to 6.391M, FY2025 to Q2 2026) as price increases hit an elasticity cliff—customers did not migrate to EchoStar's own 5G service, they left the ecosystem entirely for streaming and wireless-only alternatives. Simultaneously, the company's $7.321B in current debt maturities faced a liquidity cliff: $1.883B in cash against quarterly cash burn averaging roughly $1B. By November 2025, EchoStar had moved all customer traffic off its own 5G network onto AT&T, abandoning the facilities-based strategy that justified years of capex burn. By Q2 2026, the company deconsolidated substantially all of the Pay-TV segment entirely, moving it off-balance-sheet through bankruptcy restructuring. The subscriber churn forced write-downs of $(17.723)B against FY2025 revenue of $15.005B. Spectrum and orbital slots retain salvage value; the franchise does not.",
+ "numbers": [
+  {
+   "stat": "6.998M → 6.391M",
+   "label": "Pay-TV subscribers FY2025 to Q2 2026 (607K decline in 6 months; accelerating pace)"
+  },
+  {
+   "stat": "5.022M → 4.684M / 1.976M → 1.707M",
+   "label": "DISH TV and SLING TV subscriber breakdown FY2025 to Q2 2026 (both declining)"
+  },
+  {
+   "stat": "$7.321B",
+   "label": "EchoStar FY2025 current debt maturities due through December 2026"
+  },
+  {
+   "stat": "$1.883B → $440M",
+   "label": "Cash and equivalents FY2025 to Q2 2026 (liquidity cliff despite higher equity from deconsolidation)"
+  },
+  {
+   "stat": "$(17.723)B",
+   "label": "EchoStar FY2025 operating loss (driven entirely by write-downs on network infrastructure)"
+  },
+  {
+   "stat": "$(14.497)B",
+   "label": "EchoStar FY2025 net loss on $15.005B revenue (negative 97% net margin)"
+  },
+  {
+   "stat": "2026-11-15",
+   "label": "Date customer traffic migrated off EchoStar's 5G network to AT&T; facilities-based strategy abandoned"
+  },
+  {
+   "stat": "2026-Q2",
+   "label": "Pay-TV segment deconsolidated through bankruptcy; entities now lease satellite capacity only"
+  }
+ ],
+ "mechanism": [
+  "EchoStar's harvest model was designed to extract recurring cash from legacy satellite pay-TV (DISH TV and SLING TV at 6.998M subscribers, FY2025 year-end) while simultaneously burning capex to build a facilities-based 5G network that would replace eroding video economics. This is harvest at its purest: sustained price increases on a captive base fund optionality—in this case, a new wireless network that could eventually support the company's long-term survival. The strategy worked so long as subscriber base decline was gradual and the 5G build remained credible.",
+  "The mechanism broke in two places at once. First, subscriber churn accelerated past management's elasticity model in late 2025-2026. Pay-TV subscribers fell 607,000 in just six months (6.998M to 6.391M), driven by the company's relentless price increases that customers now explicitly rejected. This was not gradual attrition; this was a wave departure. The kicker: customers were not leaving EchoStar to adopt EchoStar's own 5G wireless service. They were leaving the entire ecosystem for streaming, wireless-only carriers (AT&T, T-Mobile), and other broadband alternatives. The internal migration that was supposed to hedge video decline never materialized. The 5G capex had been justified on the assumption that it would recapture the video customer base; instead, it was chasing customers who had already defected.",
+  "Second, the 5G network itself failed its core strategic test. By November 15, 2025—before the end of FY2025—EchoStar had moved all customer traffic off its newly built 5G network onto AT&T's infrastructure, abandoning the facilities-based ambition entirely. The company shifted to a hybrid MNO (Mobile Network Operator) model using AT&T as the underlying carrier, essentially renting bandwidth at wholesale rates. The physical network, built over years at enormous capital cost, could not compete with AT&T's installed base, established roaming agreements, and operational scale. EchoStar retained spectrum and orbital assets, but lost operational control of the customer interface.",
+  "The balance-sheet arithmetic then crystallized into a debt trap. FY2025 ended with $7.321B in current debt maturities ($2.0B July 2026, $1.377B August 2026, $2.750B December 2026) against only $1.883B in liquid cash and equivalents. Cash quarterly burn averaged roughly $1B as the company paid down maturities while sustaining operating losses. Operating losses totaled $(17.723)B in FY2025 (driven by write-downs on network infrastructure and satellite assets deemed permanently impaired), while the company still generated $15.005B in revenue. This is harvest model arithmetic collapsing in real time: you cannot extract cash from a shrinking base fast enough to service debt taken on for infrastructure that failed its mission. By Q2 2026, EchoStar deconsolidated substantially all of the Pay-TV segment through bankruptcy proceedings, moving the business off-balance-sheet. The deconsolidated entities continued to lease satellite capacity from EchoStar but were no longer consolidated into the parent company's financials—a legal restructuring that cleaned up the equity balance sheet while the underlying customer franchise remained unprofitable and shrinking."
+ ],
+ "why_now": "EchoStar hit the harvest model's price-elasticity cliff in late 2025. For years, companies can maintain cash flow on a shrinking subscriber base by raising prices annually—the math works so long as the percentage of price increase exceeds the percentage of volume decline. But there is an inflection point where price elasticity breaks entirely. Customers stop responding to 'take-it-or-leave-it' pricing; they leave in waves. EchoStar reached that point in Q4 2025 and Q1 2026, losing subscribers at an accelerating pace. The year-over-year churn spike forced management to acknowledge that the pay-TV base had entered terminal decline, not gradual shrinkage. Simultaneously, the 5G capex hedge that was supposed to offset video decline collapsed when EchoStar admitted it could not compete with AT&T and moved all traffic off its own network. The moment when capex-driven optionality fails its real-world test and price-driven extraction hits an elasticity cliff, the harvest model has nowhere left to hide. There is no positive cash flow to display, no strategic optionality to harvest, only debt maturity walls and the mandatory restructuring that follows.",
+ "who_pays": "EchoStar's remaining customers—the DISH TV and SLING TV subscribers who paid price increases for years and now face service disruption, forced migration to third-party carriers, and loss of integrated pay-TV and wireless bundles. EchoStar's workforce, particularly the engineers and operations teams deployed to build the 5G network that was ultimately abandoned. Suppliers and contractors who relied on EchoStar as a customer and now face payment risk in bankruptcy proceedings. Rural and enterprise customers who relied on EchoStar's satellite and broadband connectivity through DISH and Hughes assets. The broader ecosystem of smaller pay-TV providers and satellite-dependent connectivity players that saw EchoStar as a competitive counterweight and technology source. Creditors holding unsecured EchoStar debt who face recovery haircuts through restructuring.",
+ "who_profits": "Financial creditors and secured debt holders who maintain priority claims through bankruptcy proceedings. Private equity and larger telecom players (AT&T most directly via the traffic migration deal and future spectrum/asset monetization) who can acquire EchoStar's spectrum licenses, orbital slots, satellite fleet, Hughes government-and-enterprise assets, and customer contracts at distressed valuations. Spectrum trading partners (including SpaceX relationships mentioned in the packet) who can monetize satellite coordination and orbital rights separately from the consumer franchise. No one profits from the consumer franchise itself—it is financially worthless because it generates negative returns and continues to shrink. Profits accrue to those who strip assets from the failed operating company and redeploy them.",
+ "tension": "The harvest model's structural paradox is fully exposed here: extracting cash from a shrinking base requires raising prices annually to offset volume decline. But price increases accelerate the departure of marginal customers, creating a death spiral. EchoStar tried to hedge this with a 5G build that would recapture the video customer base within its own ecosystem. Instead, 5G capex failed—the company could not compete with AT&T and had to move all traffic to AT&T anyway. EchoStar then faced the worst case: a debt wall ($7.321B in current maturities) with a shrinking cash base, a failed capex hedge, and no optionality left to harvest. The real cost is borne by customers who lose service, employees who lose jobs, suppliers who lose a customer, and creditors who lose principal. The balance sheet loses paper value through write-downs and deconsolidation. But the real asset loss—the capex spent on network infrastructure, spectrum, and satellites—has already been consumed and cannot be recovered.",
+ "surprising_part": "The most striking aspect is the Q2 2026 contradiction: even as the underlying Pay-TV franchise was being legally dismantled through deconsolidation, EchoStar's reported equity value jumped to $14.155B (from $5.631B in Q1 2026) and the company reported net income of $8.462B, driven entirely by accounting gains from the restructuring and deconsolidation. Meanwhile, cash fell to $440M, current debt obligations remained at $1.446B, and the Pay-TV customer base continued to shrink to 6.391M subscribers. This is the paradox of bankruptcy-driven balance-sheet restructuring: the equity line can improve dramatically while the underlying franchise value is being systematically eliminated. The company generated $15.005B in revenue in FY2025 while carrying $(14.497)B in net losses—a negative 97% net margin. Typically, insolvency occurs due to lack of revenue. EchoStar's insolvency stems from structural unprofitability despite scale: the company is simply too leveraged and too capital-intensive to generate positive returns on the assets it owns. The leverage becomes a trap—debt was issued assuming revenue growth or margin expansion that never materialized. Now EchoStar is caught between price-sensitive customers leaving and fixed debt obligations that cannot be escaped.",
+ "one_sentence": "EchoStar went from harvesting legacy pay-TV cash to fund a wireless future—to discovering neither cash harvest nor wireless future could sustain the debt, forcing restructuring that stripped the consumer franchise while preserving asset salvage value.",
+ "societal_stake": "This is a story about infrastructure stranded value, customer harm, and the human cost when extraction strategies fail at scale. EchoStar's satellite and spectrum assets remain strategically important to national connectivity. But that value cannot be realized through the consumer franchise. Millions of pay-TV customers are being displaced, rural communities are losing satellite connectivity options, and the workforce deployed to build the 5G network has been disbanded. The decision to exit the facilities-based wireless model means consolidation of network ownership toward larger incumbents (AT&T, T-Mobile). The satellite infrastructure that once offered competitive connectivity is being picked apart by financial buyers and incumbents. This shows how harvest-driven strategy, when it fails, leaves not just companies but entire infrastructure layers, communities, and workforces damaged. The infrastructure survives; the people and regional alternatives do not.",
+ "evidence": [
+  {
+   "company": "EchoStar Corporation",
+   "fact": "FY2025 Pay-TV subscribers: DISH TV 5.022M, SLING TV 1.976M, total 6.998M at year-end"
+  },
+  {
+   "company": "EchoStar Corporation",
+   "fact": "Q2 2026 Pay-TV subscribers: DISH TV 4.684M, SLING TV 1.707M, total 6.391M (607K decline in 6 months, accelerating from gradual decline)"
+  },
+  {
+   "company": "EchoStar Corporation",
+   "fact": "FY2025 current debt maturities: $7.321B total, comprised of $2.0B July 2026, $1.377B August 2026, $2.750B December 2026; cash and equivalents only $1.883B at year-end"
+  },
+  {
+   "company": "EchoStar Corporation",
+   "fact": "FY2025 cash and marketable investment securities combined: $2.984B; but subsequent quarterly cash burn of roughly $1B per quarter reduced cash to $1.344B by Q1 2026 and $440M by Q2 2026"
+  },
+  {
+   "company": "EchoStar Corporation",
+   "fact": "FY2025 annual report stated substantial doubt about the company and its subsidiaries' ability to continue as a going concern; company did not have necessary cash on hand, projected future cash flows, or committed financing to fund obligations over the next twelve months"
+  },
+  {
+   "company": "EchoStar Corporation",
+   "fact": "FY2025 financial results: revenue $15.005B, operating loss $(17.723)B, net loss $(14.497)B; operating loss driven entirely by non-cash write-downs and impairments on infrastructure investments and satellite assets"
+  },
+  {
+   "company": "EchoStar Corporation",
+   "fact": "2025-11-15: Customer traffic was migrated off company's own 5G network to AT&T; facilities-based wireless buildout was abandoned; company shifted to hybrid MNO model renting AT&T capacity"
+  },
+  {
+   "company": "EchoStar Corporation",
+   "fact": "Q2 2026 (ending 2026-06-30): Substantially all of the Pay-TV segment was deconsolidated and no longer included in consolidated financial statements; deconsolidated entities continue to lease satellite capacity from EchoStar but are outside consolidated financials, reflecting bankruptcy restructuring proceedings"
+  },
+  {
+   "company": "EchoStar Corporation",
+   "fact": "Q2 2026 balance-sheet shift: Stockholders' equity jumped to $14.155B (from $5.631B in Q1 2026) and company reported net income of $8.462B, driven primarily by accounting gains and deconsolidation adjustments, not operational improvement"
+  },
+  {
+   "company": "EchoStar Corporation",
+   "fact": "Q2 2026 cash position: $440M cash and equivalents against $1.446B current debt and finance lease obligations; tighter than Q1 2026 ($1.344B) due to maturity payments and restructuring-related uses"
+  },
+  {
+   "company": "Charter Communications, Inc.",
+   "fact": "By contrast, Charter ended FY2025 with $94.6B principal debt but also $54.774B revenue and $5.004B free cash flow; managed pay-TV decline through broadband and mobile diversification"
+  },
+  {
+   "company": "Charter Communications, Inc.",
+   "fact": "Q2 2026: Charter had 29.4M Internet customers (down 172K), 12.5M mobile lines (up 406K), 31.5M total customer relationships; demonstrates sustainable churn management through business mix diversification"
+  }
+ ]
+}

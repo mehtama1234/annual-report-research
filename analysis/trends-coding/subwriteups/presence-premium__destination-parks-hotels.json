@@ -1,87 +1,87 @@
 {
-  "slug": "destination-parks-hotels",
-  "trend_slug": "presence-premium",
-  "name": "Destination as Product: Theme Parks, Luxury Hotels, and the Geography of Presence",
-  "deck": "Theme parks and luxury destinations command pricing power because they own repeat-visit loyalty loops that compound over decades—not concert seasons.",
-  "core_bet": "Physical destinations—theme parks, luxury hotels, resort travel—represent the most capital-intensive and pricing-power-rich layer of the presence premium because they own repeat-visit loyalty that extends beyond single events into years of family tradition and aspirational travel. Disney Experiences hit record Q3 2026 revenue of $10.0 billion with 30% segment operating margins. Host Hotels' Total RevPAR reached $417.58 in Q2 2026, up 5.9% year-over-year, driven by affluent travelers and special events. Hilton and Marriott are growing pipelines at 6%+ annually. What makes destination operators different from concert promoters is that they monetize emotional and family investment that repeats across generations, not just once per season.",
-  "numbers": [
-    {
-      "stat": "$10.0 billion",
-      "label": "Disney Experiences Q3 2026 revenue at record levels"
-    },
-    {
-      "stat": "$3.3 billion",
-      "label": "Disney Experiences Q3 2026 segment operating income"
-    },
-    {
-      "stat": "$3.02 billion",
-      "label": "Disney Experiences Q1 2026 segment operating income"
-    },
-    {
-      "stat": "$417.58",
-      "label": "Host Hotels Total RevPAR in Q2 2026, up 5.9% year-over-year"
-    },
-    {
-      "stat": "5.9%",
-      "label": "Host Hotels RevPAR growth in Q2 2026 driven by affluent leisure and FIFA World Cup travel"
-    },
-    {
-      "stat": "$1.813 billion+",
-      "label": "Marriott room base as of Q2 2026, up from $1.779 billion at year-end 2025"
-    },
-    {
-      "stat": "6.1%",
-      "label": "Hilton net unit growth in Q2 2026, with pipeline at record 541,300 rooms"
-    },
-    {
-      "stat": "3.9%",
-      "label": "Hilton system-wide comparable RevPAR increase in Q2 2026 on currency-neutral basis"
-    }
-  ],
-  "mechanism": [
-    "Destination operators achieve pricing power through emotional and temporal lock-in that single-event operators cannot replicate. Disney Experiences reaches $10 billion in quarterly revenue not because Disney invented the theme park, but because Disney has transformed parks into multi-generational family ritual. A child visits Disneyland at age 5, returns at age 12, returns on a honeymoon at 25, brings their own children at 30. That is not event demand—it is a 25-year loyalty loop. Host Hotels' Total RevPAR of $417.58 in Q2 2026 reflects this: the customer is not renting a room for one night. They are making a multi-day destination trip (average length of stay typically 2-3 nights), often staying at the same property tier or chain repeatedly because the brand relationship is established and trust is high. The destination itself becomes the product. Marriott operates 10,000+ properties not to compete on availability, but because scale in the destination network creates switching costs—if you have Marriott Gold status and visit 5 cities a year, leaving Marriott means losing recognition, upgrade certainty, and point accumulation across all five cities. That integrated network effect is not available to a single concert venue.",
-    "The second lock-in mechanism is calendar and scarcity. Major theme parks operate year-round but experience peak periods tied to school holidays, summer breaks, and holiday seasons. This creates predictable demand concentration that allows price discrimination and surge pricing. Host Hotels' Q2 2026 results explicitly called out 'FIFA World Cup-related travel tailwinds'—a temporary event, but embedded within the hotel infrastructure so that the property owner captures value from the event attendee even if the attendee would not otherwise stay at that price. Affluent leisure travelers comprise the core guest base. These consumers view destination hotel stays as non-discretionary status consumption (family reunion in resort setting, golf destination, luxury vacation). Price elasticity is low. Hilton's Q2 2026 system-wide RevPAR growth of 3.9% currency-neutral came while the Middle East conflict disrupted international travel, which means U.S. domestic leisure and premium-brand demand stayed strong enough to offset geopolitical headwinds. This is the opposite of the typical recession signal. Luxury destinations are capturing value because they own the geography and the brand loyalty that makes switching prohibitively expensive.",
-    "The third mechanism is scale in network effects and loyalty monetization. Marriott Bonvoy loyalty members booked approximately 75% of U.S. hotel room nights in 2025 and 68% of global room nights—that is an installed loyalty base so large that the co-branded credit card becomes a funding layer separate from room revenue. Marriott received new multi-year co-brand agreements with JPMorgan Chase and American Express in Q2 2026. These are massive deals because credit-card issuers are betting that Marriott customers will keep spending, and Marriott gets upfront funding for the loyalty program plus ongoing fee share. Hilton operates with the same model. These network economics compress available supply (room nights) into a loyalty-concentrated set of customers, which allows operators to both increase prices and increase stay frequency through status and upgrade psychology. A Hilton Diamond member receives automatic upgrades and late checkout, which creates incentive to book Hilton over a standalone property even if the Hilton nightly rate is higher."
-  ],
-  "why_now": "Destination pricing power has accelerated in 2025-2026 because affluent leisure demand has remained unexpectedly durable despite broader macro softness and geopolitical disruption. Disney Experiences hit record $10 billion quarterly revenue in Q3 2026 after delivering $10.0 billion in Q1 2026—showing back-to-back record quarters that suggest the experience premium is stratifying rather than softening. Host Hotels' RevPAR growth of 5.9% in Q2 2026 occurred while international travel was disrupted by Middle East conflict, which means U.S. luxury destination demand was strong enough to overcome the headwind. Hilton and Marriott both grew pipelines while raising guidance, indicating that developers believe the destination hotel economics will remain strong enough to justify new construction. The inflection point is that streaming has hit a profitability ceiling and content has atomized—consumers are not getting incremental value from the 15th streaming service, but a destination hotel stay or theme park visit remains a scarce, synchronized, shared experience that cannot be duplicated digitally.",
-  "who_pays": "Three constituencies pay the presence premium. First, affluent leisure travelers pay through higher nightly rates, resort fees, and ancillary spending at destination properties. Second, families commit multi-year spending patterns through repeat destination visits (Disney parks, resort hotels) that become predictable budget items. Third, event-adjacent consumers (FIFA World Cup attendees, wedding guests) pay surge pricing when destinations are booked around special events. Fourth, business travel and meetings segments subsidize the model during off-peak periods, but their spending has shifted toward lower-cost mid-market hotels, meaning luxury operators increasingly depend on affluent leisure rather than expense-account business travel.",
-  "who_profits": "Destination operators capture disproportionate value. Disney Experiences delivered $3.3 billion in operating income on $10.0 billion in Q3 2026 revenue, a 33% operating margin at the segment level. Host Hotels' Adjusted EBITDAre reached $525 million in Q2 2026 from revenue of $1.64 billion, roughly 32% EBITDA margin. These margin profiles are achieved because destination operators own scarce, reproducible experiences with minimal marginal cost once the capital is deployed. Marriott and Hilton capture value through brand loyalty, co-branded credit cards, and franchise fees without owning most of the real estate. The value capture is so concentrated that capital markets reward these operators through multiple expansion even during periods of slowing consumer spending.",
-  "tension": "The core tension is that destination demand is now stratified between affluent consumers (who remain willing to pay for premium experiences) and middle-market consumers (who are cutting travel frequency and trading down to budget and mid-market brands). If affluent travel demand reverses—through recession, wealth erosion, or consumer preference shift—the premium operators face rapid margin compression because they have invested capital depth in premium properties and service levels that cannot be quickly repriced downward. Disney Experiences' 33% operating margins depend on high park attendance at premium pricing. If attendance drops 15%, operating income drops much more than 15% due to fixed cost structure. Host Hotels' RevPAR growth depends on continued affluent availability to spend $400+ per night. If affluent wealth shrinks or consumer preference shifts, RevPAR drops and the capital-heavy lodge owner faces operational stress. The tension breaks when the destination premium tightens or when geopolitical risk makes international travel sufficiently risky that affluent consumers consolidate around fewer destinations.",
-  "surprising_part": "The surprising part is that destination operators are raising prices and expanding capacity simultaneously—and getting away with it because affluent demand is inelastic. Disney is not responding to lower demand by discounting; it is raising prices and still attracting record attendance. Host Hotels is expanding RevPAR during a period of Middle East conflict disruption. Hilton and Marriott are growing pipelines at 6%+ when mid-market hotel construction is slowing. This suggests that luxury destination demand has decoupled from broader travel trends and become a wealth-driven phenomenon. Affluent consumers are not traveling less—they are spending more per trip and skipping mid-market alternatives entirely. That reordering of spend suggests that the presence premium is not temporary discretionary spending. It is becoming a status-equivalent expense category for affluent households.",
-  "one_sentence": "Destination operators convert emotional and family loyalty into decade-spanning pricing power that no single event or experience can replicate.",
-  "societal_stake": "The destination premium matters because it is creating a two-tier travel economy where affluent consumers increasingly concentrate spending at premium properties while middle-market and budget options fragment. This means that destination experiences (theme parks, luxury hotels, resort vacations) become increasingly exclusive to higher-income households, which narrows who participates in shared cultural experiences and magnifies wealth-based inequality in consumption. It also means that once-accessible family traditions (annual theme park visits, hotel vacations) become economically out of reach for working-class families, shifting the social composition of who experiences major destinations. The implication is that destinations, which were historically partial equalizers of experience access, are becoming luxury goods markets where pricing power derives from scarcity and emotional lock-in rather than from operational efficiency.",
-  "evidence": [
-    {
-      "company": "Walt Disney Co.",
-      "fact": "Experiences segment hit record Q3 2026 revenue of $10.0 billion with segment operating income of $3.3 billion (33% margin)"
-    },
-    {
-      "company": "Walt Disney Co.",
-      "fact": "Q1 2026 Experiences delivered record quarterly revenue of $10.0 billion and segment operating income of $3.3 billion"
-    },
-    {
-      "company": "Host Hotels & Resorts Inc.",
-      "fact": "Q2 2026 Total RevPAR reached $417.58, up 5.9% year-over-year with comparable hotel RevPAR up 7.0%, driven by affluent leisure and FIFA World Cup travel"
-    },
-    {
-      "company": "Host Hotels & Resorts Inc.",
-      "fact": "Adjusted EBITDAre of $525 million in Q2 2026 on revenue of $1.64 billion reflects 32%+ EBITDA margin at capital-heavy operator"
-    },
-    {
-      "company": "Marriott International Inc.",
-      "fact": "Q2 2026 worldwide RevPAR increased 3.4% with system size reaching 10,082 properties and 1.813 billion+ rooms"
-    },
-    {
-      "company": "Marriott International Inc.",
-      "fact": "Approximately 75% of U.S. hotel room nights and 68% of global room nights in 2025 were booked by Marriott Bonvoy loyalty members"
-    },
-    {
-      "company": "Hilton Worldwide Holdings Inc.",
-      "fact": "Q2 2026 system-wide comparable RevPAR increased 3.9% on currency-neutral basis with pipeline reaching record 541,300 rooms and net unit growth of 6.1%"
-    },
-    {
-      "company": "Hilton Worldwide Holdings Inc.",
-      "fact": "Full-year 2025 net unit growth was 6.7% and system-wide comparable RevPAR increased 0.4%, showing resilience despite modest growth period"
-    }
-  ]
+ "slug": "destination-parks-hotels",
+ "trend_slug": "presence-premium",
+ "name": "Destination as Product: Theme Parks, Luxury Hotels, and the Geography of Presence",
+ "deck": "Theme parks and luxury destinations command pricing power because they own repeat-visit loyalty loops that compound over decades—not concert seasons—converting family tradition into a 25-year revenue stream.",
+ "core_bet": "Physical destinations represent the capital-intensive, pricing-power-rich layer of the presence premium because they own repeat-visit loyalty extending beyond single events into years of family tradition. Disney Experiences hit record Q3 2026 revenue of $10.0 billion with 30% segment operating margins. Host Hotels' Total RevPAR reached $417.58 in Q2 2026, up 5.9% year-over-year, driven by affluent leisure travelers. Hilton and Marriott grow pipelines at 6%+ annually. What makes destination operators different from concert promoters is that they monetize emotional and family investment that repeats across generations, not just once per season. A child visits Disneyland at age 5, returns at 12, on honeymoon at 25, brings own children at 30—that is a 25-year loyalty loop.",
+ "numbers": [
+  {
+   "stat": "$10.0 billion",
+   "label": "Disney Experiences Q3 2026 revenue at record levels"
+  },
+  {
+   "stat": "$3.3 billion",
+   "label": "Disney Experiences Q3 2026 segment operating income (33% margin)"
+  },
+  {
+   "stat": "$417.58",
+   "label": "Host Hotels Total RevPAR in Q2 2026, up 5.9% year-over-year"
+  },
+  {
+   "stat": "5.9%",
+   "label": "Host Hotels Total RevPAR growth in Q2 2026 despite Middle East conflict disrupting international travel"
+  },
+  {
+   "stat": "$1.813 billion",
+   "label": "Marriott room base as of Q2 2026, up from $1.779 billion at year-end 2025"
+  },
+  {
+   "stat": "6.1%",
+   "label": "Hilton net unit growth in Q2 2026 with pipeline at record 541,300 rooms"
+  },
+  {
+   "stat": "75%",
+   "label": "Marriott Bonvoy loyalty members accounting for U.S. hotel room nights booked in 2025"
+  },
+  {
+   "stat": "68%",
+   "label": "Marriott Bonvoy loyalty members accounting for global room nights booked in 2025"
+  }
+ ],
+ "mechanism": [
+  "Destination operators achieve pricing power through emotional and temporal lock-in that single-event operators cannot replicate. Disney Experiences reaches $10 billion in quarterly revenue because Disney transformed parks into multi-generational family ritual. A child visits Disneyland at age 5, returns at 12, returns on honeymoon at 25, brings own children at 30. That is not event demand—it is a 25-year loyalty loop. Host Hotels' Total RevPAR of $417.58 in Q2 2026 reflects this: the customer is not renting a room for one night. They are making a multi-day destination trip, often staying at the same property tier repeatedly because the brand relationship is established and trust is high. The destination itself becomes the product. Marriott operates 10,000+ properties not to compete on availability but because scale in destination network creates switching costs. If you have Marriott Gold status and visit 5 cities annually, leaving Marriott means losing recognition, upgrade certainty, and point accumulation across all five cities. That integrated network effect is not available to single concert venue.",
+  "The second lock-in mechanism is calendar and scarcity. Major theme parks operate year-round but experience peak periods tied to school holidays, summer breaks, and holiday seasons. This creates predictable demand concentration allowing price discrimination and surge pricing. Host Hotels' Q2 2026 results called out 'FIFA World Cup-related travel tailwinds'—a temporary event embedded within hotel infrastructure so that property owners capture value from event attendees even if they would not otherwise stay at that price. Affluent leisure travelers comprise core guest base viewing destination hotel stays as non-discretionary status consumption. Price elasticity is low. Hilton's Q2 2026 system-wide RevPAR growth of 3.9% currency-neutral occurred while Middle East conflict disrupted international travel, meaning U.S. domestic leisure and premium-brand demand stayed strong enough to offset geopolitical headwinds. Luxury destinations are capturing value because they own the geography and brand loyalty making switching prohibitively expensive.",
+  "The third mechanism is scale in network effects and loyalty monetization. Marriott Bonvoy loyalty members booked 75% of U.S. hotel room nights in 2025 and 68% of global room nights—an installed loyalty base so large that co-branded credit cards become a funding layer separate from room revenue. Marriott received new multi-year co-brand agreements with JPMorgan Chase and American Express in Q2 2026. These are massive deals because credit-card issuers are betting that Marriott customers will keep spending. Marriott gets upfront funding for loyalty program plus ongoing fee share. Hilton operates with same model. These network economics compress available supply into loyalty-concentrated customers, allowing operators to both increase prices and increase stay frequency through status and upgrade psychology. A Hilton Diamond member receives automatic upgrades and late checkout, creating incentive to book Hilton over standalone property even if Hilton nightly rate is higher."
+ ],
+ "why_now": "Destination pricing power accelerated in 2025-2026 because affluent leisure demand remained durable despite macro softness and geopolitical disruption. Disney Experiences hit record $10.0 billion quarterly revenue in Q3 2026 after delivering $10.0 billion in Q1 2026—back-to-back record quarters suggesting the experience premium is stratifying rather than softening. Host Hotels' RevPAR growth of 5.9% in Q2 2026 occurred while international travel was disrupted by Middle East conflict. U.S. luxury destination demand was strong enough to overcome the headwind. Hilton and Marriott both grew pipelines while raising guidance, indicating that developers believe destination hotel economics will remain strong. The inflection point is that streaming hit profitability ceiling and content atomized. Consumers are not getting incremental value from the 15th streaming service, but a destination hotel stay or theme park visit remains scarce, synchronized, shared experience that cannot be duplicated digitally. That gap between digital supply and physical scarcity is widening.",
+ "who_pays": "Three constituencies pay the presence premium. First, affluent leisure travelers pay through higher nightly rates, resort fees, and ancillary spending at destination properties. Second, families commit multi-year spending patterns through repeat destination visits (Disney parks, resort hotels) that become predictable budget items. Third, event-adjacent consumers (FIFA World Cup attendees, wedding guests) pay surge pricing when destinations are booked around special events. Fourth, business travel segments subsidized the model during off-peak periods, but spending shifted toward lower-cost mid-market hotels. Luxury operators increasingly depend on affluent leisure rather than expense-account business travel.",
+ "who_profits": "Destination operators capture disproportionate value. Disney Experiences delivered $3.3 billion in operating income on $10.0 billion in Q3 2026 revenue, a 33% operating margin at segment level. Host Hotels' Adjusted EBITDAre reached $525 million in Q2 2026 from revenue of $1.64 billion, roughly 32% EBITDA margin. These margins exist because destination operators own scarce, reproducible experiences with minimal marginal cost once capital is deployed. Marriott and Hilton capture value through brand loyalty, co-branded credit cards, and franchise fees without owning most real estate. Marriott Bonvoy co-brand agreements with JPMorgan Chase and American Express in Q2 2026 are substantial value-capture mechanisms. Capital markets reward these operators through multiple expansion even during periods of slowing consumer spending.",
+ "tension": "The core tension is that destination demand is now stratified between affluent consumers (willing to pay for premium experiences) and middle-market consumers (cutting travel frequency and trading down). If affluent travel demand reverses through recession, wealth erosion, or preference shift, premium operators face rapid margin compression. Disney Experiences' 33% operating margins depend on high park attendance at premium pricing. If attendance drops 15%, operating income drops far more than 15% due to fixed cost structure. Host Hotels' RevPAR growth depends on continued affluent spending at $400+ per night. If affluent wealth shrinks or preference shifts, RevPAR drops and capital-heavy lodge owner faces stress. The tension breaks when destination premium tightens or when geopolitical risk makes international travel sufficiently risky that affluent consumers consolidate around fewer destinations.",
+ "surprising_part": "The surprising part is that destination operators are raising prices and expanding capacity simultaneously—and getting away with it because affluent demand is inelastic. Disney is not responding to lower demand by discounting; it is raising prices and still attracting record attendance. Host Hotels is expanding RevPAR during Middle East conflict. Hilton and Marriott grow pipelines at 6%+ when mid-market construction slows. This suggests that luxury destination demand decoupled from broader travel trends and become wealth-driven phenomenon. Affluent consumers are not traveling less—they are spending more per trip and skipping mid-market alternatives. That reordering suggests the presence premium is not temporary discretionary spending. It is becoming a status-equivalent expense category for affluent households.",
+ "one_sentence": "Destination operators convert emotional and family loyalty into decade-spanning pricing power that no single event can replicate.",
+ "societal_stake": "The destination premium matters because it creates a two-tier travel economy where affluent consumers increasingly concentrate spending at premium properties while middle-market options fragment. Destination experiences become increasingly exclusive to higher-income households, narrowing who participates in shared cultural experiences and magnifying wealth-based inequality. It means once-accessible family traditions (annual theme park visits, hotel vacations) become economically out of reach for working-class families, shifting who experiences major destinations. Destinations, historically partial equalizers of experience access, are becoming luxury goods markets where pricing power derives from scarcity and emotional lock-in rather than operational efficiency.",
+ "evidence": [
+  {
+   "company": "Walt Disney Co.",
+   "fact": "Experiences segment hit record Q3 2026 revenue of $10.0 billion with segment operating income of $3.3 billion (33% margin)"
+  },
+  {
+   "company": "Walt Disney Co.",
+   "fact": "Q1 2026 Experiences delivered record quarterly revenue of $10.0 billion demonstrating consecutive record quarters"
+  },
+  {
+   "company": "Host Hotels & Resorts Inc.",
+   "fact": "Q2 2026 Total RevPAR reached $417.58, up 5.9% year-over-year driven by affluent leisure and FIFA World Cup travel"
+  },
+  {
+   "company": "Host Hotels & Resorts Inc.",
+   "fact": "Adjusted EBITDAre of $525 million in Q2 2026 on revenue of $1.64 billion reflects 32%+ EBITDA margin at capital-heavy operator"
+  },
+  {
+   "company": "Marriott International Inc.",
+   "fact": "Q2 2026 worldwide RevPAR increased 3.4% with system size reaching 10,082 properties and 1.813 billion+ rooms"
+  },
+  {
+   "company": "Marriott International Inc.",
+   "fact": "Approximately 75% of U.S. hotel room nights and 68% of global room nights in 2025 were booked by Marriott Bonvoy loyalty members"
+  },
+  {
+   "company": "Hilton Worldwide Holdings Inc.",
+   "fact": "Q2 2026 system-wide comparable RevPAR increased 3.9% on currency-neutral basis with pipeline reaching record 541,300 rooms and net unit growth of 6.1%"
+  },
+  {
+   "company": "Hilton Worldwide Holdings Inc.",
+   "fact": "Full-year 2025 net unit growth was 6.7%, showing resilience and continued developer confidence in luxury destination economics"
+  }
+ ]
 }

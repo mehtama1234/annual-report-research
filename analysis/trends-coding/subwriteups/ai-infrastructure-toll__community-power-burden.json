@@ -1,79 +1,79 @@
 {
-  "slug": "community-power-burden",
-  "trend_slug": "ai-infrastructure-toll",
-  "name": "Communities on the Hook: Who Really Pays for AI's Power Appetite",
-  "deck": "Residential and commercial electricity customers in AI-hosting regions are financing hyperscaler data centers through regulated utility rate bases they never approved.",
-  "core_bet": "The power infrastructure required by AI data centers is not market-priced and certainly not free. It is financed through regulated utility rate bases, meaning every residential and commercial electricity customer in AI-hosting regions becomes a subsidy engine for hyperscale buildout. Alliant Energy's filings show 3.4GW of contracted data-center demand being built into future rate increases. The financial burden lands on communities and ordinary ratepayers while the value capture flows to Big Tech.",
-  "numbers": [
-    {
-      "stat": "3.4 GW",
-      "label": "Alliant Energy's contracted data-center demand, equivalent to a 50% increase in peak-load demand by 2030"
-    },
-    {
-      "stat": "60%",
-      "label": "Expected load growth by 2031 at Alliant Energy, above 2025 levels—driven primarily by large-customer data-center contracts"
-    },
-    {
-      "stat": "$13.4 billion",
-      "label": "Alliant Energy's capital plan for 2026-2029 to support large-load growth, financed through rate base expansion"
-    },
-    {
-      "stat": "$1.4 billion",
-      "label": "Digital Realty's Q2 2026 backlog at company share, up from $1.0B in Q1 2026, showing accelerating capacity commitments"
-    },
-    {
-      "stat": "1.3 billion tons",
-      "label": "Knife River's aggregate reserves, with about 35% of 2025 volume used internally to support downstream products like ready-mix concrete for infrastructure"
-    },
-    {
-      "stat": "$1.0 billion",
-      "label": "Knife River's end-2025 backlog, with 89% tied to publicly funded projects that support AI infrastructure buildout"
-    },
-    {
-      "stat": "$3.4 billion",
-      "label": "Commercial Metals Company total debt plus finance-lease obligations as of May 2026, driven partly by $2.5B+ capital deployed into precast concrete growth platform"
-    }
-  ],
-  "mechanism": [
-    "The AI infrastructure toll operates through a mechanism that hides the subsidy inside regulated utility pricing. When Alliant Energy or any regional utility signs a large data-center contract for 370MW or 1GW of power, that capacity does not appear on a separate bill. Instead, it gets rolled into the utility's rate base—the total assets used to calculate allowed rates. The utility files a capital plan, regulators approve it, and the cost gets spread across all residential and commercial customers. Alliant's most recent capital plan for 2026-2029 totals $13.4B specifically to support large-load growth. That money comes from customer rates, not from the companies generating the demand.",
-    "Digital Realty's filings make the physical intensity visible. Q2 2026 showed total bookings of $307M annualized GAAP rent at 100% share, plus an additional $410M in hyperscale leases signed in July alone. That $717M in new annualized rent in a single month represents data centers that will require dedicated power infrastructure. Every MW of capacity that Digital Realty commits to requires utilities like Alliant to upgrade substations, add generation, and build transmission. All of that gets capitalized into the rate base, spreading the cost across the utility's customer base. The hyperscalers pay for their leases. The communities pay for the grid.",
-    "The construction materials supply chain reveals the scale of the physical buildout. Knife River's 2025 backlog ended at $1.0B, with 89% tied to publicly funded projects. But AI data centers also drive demand for concrete, rebar, and aggregates through private construction channels. Commercial Metals has deployed more than $2.5B into acquisitions and expansion of its precast concrete platform—precisely the materials needed to build the power infrastructure and substations that support hyperscale data centers. Knife River's Q2 2026 backlog increased to $1.2B from $1.0B a year earlier, with management explicitly citing data centers, semiconductors, and energy buildouts as backlog support. That backlog conversion depends on construction timing, but the financing is already locked into capital plans and rate bases across the utility sector."
-  ],
-  "why_now": "The inflection has arrived because data-center density is moving from generic colocation to hyperscale, AI-specific capacity buildup. Before 2023, data centers were a known but bounded part of the utility load mix. By 2025, utilities like Alliant and Duke were signing 1GW+ commitments that would reshape their systems. Regulators in Iowa, Wisconsin, and other regions are approving these capital plans because the political logic says growth is good and energy demand is a proxy for economic development. But the actual cost—the rate-base expansion and the customer bills—is now hitting residential and commercial ratepayers. The political consensus around AI hides the distributional friction.",
-  "who_pays": "The residential customer in Iowa or Wisconsin pays. The small business owner pays. The nursing home that uses energy to heat water and cool patients pays. When Alliant Energy builds $13.4B of capital to support 3.4GW of data-center load, that investment gets added to the rate base. Regulators allow a return on that investment. The utility collects the return through higher rates from all customers. A 2-3% annual rate increase that used to reflect general inflation now reflects dedicated infrastructure for hyperscale companies that the individual customer will never use. The subsidy is invisible but real.",
-  "who_profits": "Google, Meta, Amazon, and other hyperscalers capture the value. They contract for power at a negotiated rate that is typically lower than what a new residential customer would pay. They get priority access to that capacity. They build out their AI businesses on top of infrastructure that their customers' electricity bills subsidize. Regional utilities like Alliant also profit—they get to invest capital at a guaranteed regulated return, which is more stable than competing in the spot market. The contractors and materials suppliers (Knife River, Commercial Metals) profit through backlog and demand. Everyone in the supply chain captures value except the residential ratepayer.",
-  "tension": "The tension emerges when rate-base expansion hits affordability friction. If every residential customer's bill rises 3-5% annually to support data-center infrastructure they do not use, political pressure will mount. Some states are already seeing pushback against utility capital plans driven by hyperscaler demand. The second tension is transmission bottlenecks: utilities can add capacity, but they cannot always get new transmission corridors approved or built fast enough. If data-center demand outpaces grid buildout, scarcity will drive even higher rates for everyone. The third tension is stranded assets: if AI demand eventually plateaus or if hyperscalers shift location, utilities will have overinvested in specific corridors and will spread that loss across their customer base for decades.",
-  "surprising_part": "The most non-obvious finding is that the AI infrastructure toll is more regressive than people think. Tech journalists celebrate the $13.4B Alliant capital plan as growth and opportunity. But that capital comes from a rate base that serves both wealthy suburban customers and low-income urban customers in equal measure. The subsidy is most damaging to the least flexible ratepayers—those who cannot move, cannot negotiate, and cannot find cheaper power. Meanwhile, the hyperscalers can optimize their location across jurisdictions, playing states and utilities against each other to get the best power deals. The subsidy is unidirectional: communities to tech companies.",
-  "one_sentence": "Ordinary electricity customers are financing AI data center buildout through regulated utility rate increases, while hyperscalers capture the value and can move if rates get too high.",
-  "societal_stake": "This matters to anyone who pays an electricity bill. You are already subsidizing the grid infrastructure that powers the data centers running ChatGPT and other AI services. Your rates are rising to pay for capital that the utility needs to serve hyperscale demand. If you live in a region with active data-center buildout (Iowa, Wisconsin, Texas, Virginia), your rates will rise faster than the national average. And unlike a market transaction where you choose whether to buy something, you cannot opt out of electricity. The subsidy is compulsory. The value capture is captured by distant tech companies.",
-  "evidence": [
-    {
-      "company": "Alliant Energy Corporation",
-      "fact": "3.4 GW of contracted data-center demand representing 50% increase in peak-load demand by 2030, with $13.4B capital plan for 2026-2029 to support large-load growth financed through rate-base expansion"
-    },
-    {
-      "company": "Alliant Energy Corporation",
-      "fact": "Management stated 2025 was pivotal because 'agreements signed in 2025 will significantly accelerate future energy demand' and expected load growth by 2031 remained 60% above 2025 levels"
-    },
-    {
-      "company": "Digital Realty Trust Inc.",
-      "fact": "Q2 2026 bookings were $307M annualized GAAP rent plus $410M in hyperscale leases signed in July, with backlog of $1.4B at company share—all representing power infrastructure needs"
-    },
-    {
-      "company": "Digital Realty Trust Inc.",
-      "fact": "Renewal lease rate increases accelerated from 6.1% cash in Q4 2025 to 25.4% in Q2 2026, showing hyperscaler willingness to pay premium rates for scarce data-center capacity"
-    },
-    {
-      "company": "Commercial Metals Company",
-      "fact": "Deployed more than $2.5B into precast concrete platform acquisitions (CP&P and Foley) to support construction demand including data centers, with Construction Solutions Group EBITDA up 127% in Q2 2026"
-    },
-    {
-      "company": "Knife River Corporation",
-      "fact": "Year-end 2025 backlog of $1.0B with 89% tied to publicly funded projects, with management explicitly citing data centers, semiconductors, and energy buildouts as backlog support in Q2 2026"
-    },
-    {
-      "company": "Knife River Corporation",
-      "fact": "Backlog increased to $1.2B by Q2 2026, with contracting services revenue rising 20% and management spending $244.5M on growth initiatives including acquisitions and aggregate expansions"
-    }
-  ]
+ "slug": "community-power-burden",
+ "trend_slug": "ai-infrastructure-toll",
+ "name": "Communities on the Hook: Ordinary Ratepayers Finance AI Buildout Through Regulated Utilities",
+ "deck": "When Alliant Energy signed 3.4 GW of data-center contracts, the cost got rolled into the utility's rate base—meaning residential and commercial customers across Iowa and Wisconsin are now subsidizing hyperscaler infrastructure through rate increases they never approved. A $13.4B capital plan for 2026-2029 financed through customer rates, not by the companies generating the demand.",
+ "core_bet": "The power infrastructure required by AI data centers is not market-priced. It is financed through regulated utility rate bases, meaning ordinary electricity customers in AI-hosting regions become the subsidy engine for hyperscale buildout. Alliant Energy's contracted 3.4 GW of data-center demand represents a 50% increase in peak-load demand by 2030—all capitalized into the utility's rate base and spread across all residential and commercial customers. The financial burden lands on communities while the value capture flows to hyperscalers. Digital Realty's Q2 2026 showed $410M in hyperscale leases signed in July alone, each megawatt requiring utility infrastructure upgrades paid for by existing customers.",
+ "numbers": [
+  {
+   "stat": "3.4 GW",
+   "label": "Alliant Energy's contracted data-center demand, equivalent to 50% increase in peak-load demand by 2030"
+  },
+  {
+   "stat": "$13.4 billion",
+   "label": "Alliant Energy's capital plan for 2026-2029 to support large-load growth, financed through customer rate base expansion"
+  },
+  {
+   "stat": "60%",
+   "label": "Alliant Energy's expected load growth by 2031 above 2025 levels, driven primarily by large-customer data-center contracts"
+  },
+  {
+   "stat": "$717 million",
+   "label": "Digital Realty's annualized new rent signed in single month (July 2026): $307M Q2 GAAP plus $410M hyperscale leases"
+  },
+  {
+   "stat": "127%",
+   "label": "Commercial Metals Construction Solutions Group EBITDA growth in Q2 2026, driven by precast concrete demand for data-center and power infrastructure"
+  },
+  {
+   "stat": "$1.2 billion",
+   "label": "Knife River backlog in Q2 2026, up from $1.0B a year earlier, with management explicitly citing data centers and energy buildouts as growth drivers"
+  },
+  {
+   "stat": "89%",
+   "label": "Knife River year-end 2025 backlog tied to publicly funded projects that support AI infrastructure buildout"
+  }
+ ],
+ "mechanism": [
+  "The AI infrastructure toll hides the subsidy inside regulated utility pricing structures. When Alliant Energy or any regional utility signs a 1 GW data-center contract, the capacity does not appear on a separate bill. Instead, it gets rolled into the utility's rate base—the total assets used to calculate allowed rates. The utility files a capital plan for regulatory approval, and costs get spread across all customers. Alliant's most recent capital plan for 2026-2029 totals $13.4B specifically to support large-load growth. That money comes from customer rates, not from the companies generating the demand. Residential customers in rural Iowa and Milwaukee suburbs pay higher bills to fund infrastructure serving distant hyperscalers who get priority access to that capacity at negotiated rates typically lower than what a new residential customer would pay for comparable power. The subsidy is structural and invisible.",
+  "Digital Realty's filings make the physical intensity and pace of buildout visible. Q2 2026 showed $307M annualized GAAP rent at 100% share plus $410M in hyperscale leases signed in July alone—$717M of new annualized rent in a single month. Each megawatt of capacity Digital Realty commits requires utilities like Alliant to upgrade substations, add generation, build transmission. All of that capitalizes into the rate base, spreading cost across the entire customer base. The pace is accelerating: renewal lease rate increases jumped from 6.1% cash in Q4 2025 to 25.4% in Q2 2026, showing hyperscalers' willingness to pay premium rates for scarce capacity. That premium signals urgency and reinforces the capital-plan push to build more generation and transmission. Communities paying through rate increases are financing infrastructure that makes the hyperscaler buildout possible.",
+  "The construction materials supply chain exposes the scale of upstream infrastructure buildout supporting data centers. Knife River's 2025 backlog ended at $1.0B with 89% tied to publicly funded projects, but AI data centers also drive demand through private construction. Commercial Metals deployed more than $2.5B into acquisitions of precast concrete platforms (CP&P and Foley) precisely to supply materials for power infrastructure and substations serving hyperscale buildout. Knife River's Q2 2026 backlog increased to $1.2B from $1.0B a year earlier, with management explicitly naming data centers, semiconductors, and energy buildouts as support. That backlog conversion depends on construction timing, but the financing is locked into capital plans and rate bases across the utility sector. Communities are not just paying for electricity; they are funding the entire physical layer of AI infrastructure through structured utility rate increases that disguise the transfer as normal cost-of-service recovery."
+ ],
+ "why_now": "The inflection arrived in 2025-2026 because data-center density shifted from generic colocation to hyperscale, AI-specific capacity buildup. Before 2023, data centers were a known but bounded part of utility load. By 2025, utilities like Alliant and Duke were signing 1 GW+ commitments that would reshape their systems. Alliant's management stated 2025 was pivotal: agreements signed that year would significantly accelerate future energy demand. Expected load growth of 60% by 2031 is structural. Regulators in Iowa, Wisconsin, and other regions approved these capital plans because the political logic says growth equals good and energy demand signals economic development. But the actual cost—rate-base expansion hitting residential and commercial ratepayers—is now visible. Alliant's $13.4B capital plan is a named inflection point: this is not cyclical demand; this is a structural reallocation of utility assets toward hyperscaler capacity.",
+ "who_pays": "The residential customer in Iowa or Wisconsin pays through higher bills. The nursing home using energy to heat water and cool patients pays. Small business owners pay. When Alliant Energy's $13.4B capital gets added to the rate base, regulators allow a return on that investment, and utilities collect returns through rate increases across all customer classes. A 2-3% annual rate increase that used to reflect inflation now reflects dedicated infrastructure for hyperscalers that individual customers will never use. The subsidy is compulsory and invisible: you cannot opt out of electricity, cannot negotiate rates, and cannot avoid funding infrastructure built specifically for companies optimizing elsewhere.",
+ "who_profits": "Google, Meta, Amazon, and hyperscalers capture the value by contracting for power at negotiated rates—typically lower than what new residential customers pay, with priority access guaranteed by regulatory approval. Regional utilities profit by investing capital at a guaranteed regulated return, which is more stable than competing in spot markets. Contractors and materials suppliers (Comfort Systems, Sterling Infrastructure, Knife River, Commercial Metals) profit through accelerating backlog. Comfort Systems' Q2 2026 backlog reached $14.06B versus $8.12B a year ago. Sterling Infrastructure's E-Infrastructure revenue grew 123% FY2025. Everyone in the supply chain captures value except residential ratepayers, who bear infrastructure cost while hyperscalers capture monopoly value.",
+ "tension": "The tension emerges when rate-base expansion hits affordability friction. If every residential customer's bill rises 3-5% annually to support data-center infrastructure, political pressure will mount. Some states are seeing pushback against utility capital plans driven by hyperscaler demand. The second tension is transmission bottlenecks: utilities can add capacity, but cannot always get transmission corridors approved or built fast enough. If data-center demand outpaces grid buildout, scarcity drives even higher rates for everyone. The third tension is stranded assets: if AI demand eventually plateaus or hyperscalers shift location, utilities will have overinvested in specific corridors and spread losses across the customer base for decades. That risk is borne by ordinary ratepayers, not by hyperscalers, who can move if rates get too high.",
+ "surprising_part": "The most non-obvious finding is that the AI infrastructure toll is more regressive than infrastructure stories typically are. Tech journalism celebrates the $13.4B Alliant capital plan as growth and opportunity. But that capital comes from a rate base serving both wealthy suburban customers and low-income urban customers equally. The subsidy damages low-income ratepayers most because they cannot move, cannot negotiate, and cannot find cheaper power. Meanwhile, hyperscalers optimize location across jurisdictions, playing states and utilities against each other to secure the best power deals. The asymmetry is total: communities bear all infrastructure cost while hyperscalers bear zero regulatory burden and maximum location flexibility. This is the inverse of traditional infrastructure subsidies, where communities benefited from railroad or highway buildout. Here, communities pay for infrastructure that generates zero local benefit.",
+ "one_sentence": "Ordinary electricity customers in Iowa, Wisconsin, and data-center corridor states are now subsidizing AI infrastructure buildout through regulated utility rate increases, while hyperscalers capture the value and can relocate if rates rise too high.",
+ "societal_stake": "This matters to anyone who pays an electricity bill, especially in regions attracting data-center buildout. You are already subsidizing the grid infrastructure powering AI services through your rates. In Iowa and Wisconsin, residential rates will rise faster than the national average to support Alliant's $13.4B capital plan. Unlike market transactions where you choose whether to buy something, you cannot opt out of electricity. The subsidy is compulsory. The value capture flows to distant tech companies. This is a permanent transfer of wealth from utility customers to hyperscalers, mediated through utility rate-base expansion and approved by regulators framing AI buildout as growth. The civic cost is that infrastructure investment decisions affecting community life are being made by corporate capital allocation, not by democratic processes.",
+ "evidence": [
+  {
+   "company": "Alliant Energy Corporation",
+   "fact": "3.4 GW of contracted data-center demand representing 50% increase in peak-load demand by 2030, with $13.4B capital plan for 2026-2029 to support large-load growth financed through rate-base expansion"
+  },
+  {
+   "company": "Alliant Energy Corporation",
+   "fact": "Management stated 2025 was pivotal because agreements signed that year will significantly accelerate future energy demand; expected load growth of 60% by 2031 above 2025 levels remains committed"
+  },
+  {
+   "company": "Digital Realty Trust Inc.",
+   "fact": "Q2 2026 bookings $307M annualized GAAP rent plus $410M in hyperscale leases signed in July, with backlog of $1.4B at company share representing committed power infrastructure needs"
+  },
+  {
+   "company": "Digital Realty Trust Inc.",
+   "fact": "Renewal lease rate increases accelerated from 6.1% cash in Q4 2025 to 25.4% in Q2 2026, showing hyperscaler willingness to pay premium rates for scarce capacity and reinforcing utility capital-expansion urgency"
+  },
+  {
+   "company": "Commercial Metals Company",
+   "fact": "Deployed more than $2.5B into precast concrete platform acquisitions to support construction demand including data centers; Construction Solutions Group EBITDA up 127% in Q2 2026"
+  },
+  {
+   "company": "Knife River Corporation",
+   "fact": "Year-end 2025 backlog $1.0B with 89% tied to publicly funded projects; backlog increased to $1.2B by Q2 2026 with contracting services revenue up 20% and data centers cited as explicit backlog support"
+  },
+  {
+   "company": "Comfort Systems USA Inc.",
+   "fact": "Q2 2026 backlog $14.06B versus $8.12B a year ago; Q1 2026 organic revenue growth 51%; management cites execution depth, not demand, as bottleneck, with data-center HVAC work as primary backlog driver"
+  }
+ ]
 }

@@ -1,91 +1,91 @@
 {
-  "slug": "agentic-commerce-layer",
-  "trend_slug": "ai-cultural-disintermediation",
-  "name": "The Algorithm as Buyer: AI Agents Taking Over Commerce Discovery",
-  "deck": "The barrier between search and purchase is collapsing as AI agents become the primary interface between consumers and products—bypassing storefronts entirely.",
-  "core_bet": "Instead of people browsing product pages or marketplaces, AI agents will soon discover, compare, and execute purchases on behalf of users. This shifts the economic game from attracting eyeballs to ownership of merchant relationships, payment infrastructure, and agent-routing logic. Companies that embed themselves into the agent workflow before the shift completes will own the new layer; everyone else becomes a commodity supplier.",
-  "numbers": [
-    {
-      "stat": "Nearly 45% of customer issues resolved by AI assistant without human agent",
-      "label": "Airbnb Q2 2026, capturing emerging agent capability baseline"
-    },
-    {
-      "stat": "$378.4 billion GMV with 65.6% Shopify Payments penetration ($248.1B)",
-      "label": "Shopify fiscal 2025, showing merchant infrastructure readiness for agent commerce"
-    },
-    {
-      "stat": "86.5 million active buyers, 5.6 million active sellers at year-end 2025",
-      "label": "Etsy, demonstrating scale of peer-to-peer marketplace ecosystem agents must navigate"
-    },
-    {
-      "stat": "16% decline in customer-support cost per booking year-over-year",
-      "label": "Airbnb Q2 2026, showing early AI efficiency gains flowing through P&L"
-    },
-    {
-      "stat": "$72.2 billion revenue, $10.8 billion net income, $1.67 trillion billed business",
-      "label": "American Express 2025, full-year closed-loop network positioned for agent embedding"
-    },
-    {
-      "stat": "12.5 million new proprietary cards acquired in 2025, >70% on fee-paying products",
-      "label": "American Express, capturing premium-customer shift parallel to merchant AI adoption"
-    },
-    {
-      "stat": "AI-agent commerce integrations with Google, Microsoft, Stripe, and ChatGPT-linked checkout",
-      "label": "Etsy Q4 2025, proving live agent shopping flows now exist in production"
-    },
-    {
-      "stat": "31% revenue growth in Q4 2025, described as 'laying the rails for a new era of AI commerce'",
-      "label": "Shopify, management explicitly framing merchant infrastructure for agent-mediated buying"
-    }
-  ],
-  "mechanism": [
-    "For two decades, the consumer internet has been built around discovery-to-purchase funnels: search engines, app stores, marketplace listings, product pages, shopping carts, checkout. That entire funnel assumed a human making conscious decisions at each step. AI agents collapse this funnel because they can perform every step—discovery, comparison, negotiation, payment, logistics—without human involvement.",
-    "The old model rewarded companies that owned the gateway: Google Search, Amazon, Instagram, TikTok. Traffic acquisition cost, engagement metrics, and conversion rate were the game. The new model will reward companies that own the agent layer: merchant routing, payment orchestration, trust signals, and preferred-vendor logic. This is why Shopify invested in Catalog and Sidekick (merchant-facing AI), why Etsy built agent-checkout integrations with Google, Microsoft, and Stripe, and why American Express is talking about embedding itself into agentic-commerce workflows.",
-    "The immediate pressure is on merchants. Shopify's $378.4B in GMV and 65.6% Shopify Payments penetration means merchants are already accustomed to letting Shopify see transaction data and user behavior. But if an AI agent from Google or Microsoft or ChatGPT becomes the discovery and purchase interface, merchants now depend on being picked by the agent. That shifts bargaining power sharply. Merchants will need tools (Shopify's Catalog, Etsy's seller rankings, AmEx's merchant-data partnerships) to make themselves visible and preferrable to agents. The payment layer becomes even more critical because agents will choose payment providers based on friction, trust, and data integration.",
-    "For payment and financial-services companies, the payoff is existential. American Express explicitly stated that management discusses AI-powered agents discovering products, making decisions, and completing payments, and AmEx is trying to be embedded in that future flow. If agents choose how to pay, closed-loop networks like AmEx (which own both card-holder and merchant data) have a structural advantage over open-network payment processors. Airbnb's 45% resolution rate for AI-assisted issues suggests the interface will be conversational and real-time—meaning payment needs to flow seamlessly inside the agent interaction, not after the user has left the conversation."
-  ],
-  "why_now": [
-    "The technical threshold has been crossed. Large language models can now execute multi-step workflows reliably enough to handle purchase decisions, payment authorization, and delivery coordination without constant human correction. Etsy's live agent-commerce integrations (Google Shopping, ChatGPT checkout) prove the infrastructure exists. Airbnb's AI assistant resolving 45% of issues without human escalation shows the pattern is already operating at scale.",
-    "Consumer behavior has shifted enough that people are comfortable delegating purchase decisions to AI. The pandemic accelerated digital adoption. GenZ and younger millennials (AmEx's 65% of new accounts) are native to recommendation algorithms and expect AI to help navigate choice overload. At the same time, discovery fatigue is real: scrolling infinite marketplaces is exhausting. An AI agent that understands your preferences, budget, and constraints and just finds you what you want is not an interesting future feature—it is a relief."
-  ],
-  "who_pays": "Merchants and smaller platforms pay first, through higher platform fees and reduced leverage with agents. If you sell on Etsy and your products aren't surfaced by the Google or ChatGPT agent, you disappear. Shopify merchants will need to invest in Catalog and data quality to get picked by agents. Traditional e-commerce players without agent integration—particularly mid-market brands without the infrastructure to integrate with multiple agent platforms—face margin pressure and visibility collapse. Payment providers without agent integration lose transaction routing logic to those that have it.",
-  "who_profits": "The companies that control agent routing, merchant data orchestration, and payment embedding will capture disproportionate value. Shopify's Catalog and Sidekick aren't just features; they are bids for merchant defensibility when agents take over discovery. American Express's closed-loop network becomes more valuable because agents will prefer payment paths that don't require friction (leaving the conversation, entering card data, confirming an address). Etsy benefits because its peer-to-peer model and seller-trust data become inputs into agent matching—human-made goods and seller reputation are exactly what agents need to differentiate in a commodified product set. Microsoft, Google, and OpenAI profit as the agent infrastructure layers, but the real economic rents accrue to whoever sits between the agent and the merchant.",
-  "tension": "The winning scenario for consumers (frictionless agent-driven discovery and purchase) is the losing scenario for independent merchants and smaller platforms. If Shopify merchants only get discovered through Google or ChatGPT agents, Shopify loses control of the funnel. Etsy sellers face the same risk. Payment networks fragment: agents will route to the payment provider that integrates cleanest into their workflow, creating winner-take-most dynamics in payments, not the open-network competition we have today. Regulatory scrutiny will also increase because agent-driven commerce creates new points of control and potential bias. If Microsoft's agent prioritizes Microsoft or partner sellers, that is a new form of search manipulation.",
-  "surprising_part": "The most underestimated dynamic is that merchant data quality and platform infrastructure become more valuable than raw traffic volume. Shopify's GMV and Shopify Payments penetration matter not because the company owns the storefront, but because the company now owns the data layer that agents need to make routing decisions. Etsy's strength isn't its design or cultural positioning—it is its seller-trust data and the fact that agents need authentic, human-made goods to compete with commodity Amazon listings. American Express doesn't benefit from more card-member spend; it benefits from being embedded in the agent's decision logic at the moment of payment. This is a quiet inversion: the platform with the richest merchant or customer data, not the platform with the flashiest interface, will own the agent layer.",
-  "one_sentence": "When AI agents replace human shopping, the businesses that sold products to people will become back-office suppliers to platforms that sell visibility and payment rails to merchants.",
-  "societal_stake": "This affects how much choice and diversity survive in commerce. If agents prioritize merchants that integrate with Shopify's Catalog or Stripe's payments infrastructure, then only merchants with resources and technical sophistication get discovered. Small sellers, artisans, and niche producers disappear from agent visibility. Etsy's 5.6M sellers and Airbnb's 5M hosts—most of whom are small operators—face margin collapse if they cannot compete in an agent-routed world. At the same time, if agents route correctly, consumers get faster access to exactly what they want without wasteful browsing and decision fatigue. The tension between accessibility (keeping small sellers viable) and efficiency (agents finding the best match) will define whether agent-driven commerce concentrates wealth or democratizes it.",
-  "evidence": [
-    {
-      "company": "American Express",
-      "fact": "Management discusses AI-powered agents discovering products, making decisions, and completing payments, with AmEx trying to be embedded in that future flow (2025 annual narrative)"
-    },
-    {
-      "company": "Shopify",
-      "fact": "Invested in Catalog, Sidekick, Universal Commerce Protocol; management said AI was changing how buyers discover and purchase; Q4 2025 described year as 'laying the rails for a new era of AI commerce'"
-    },
-    {
-      "company": "Etsy",
-      "fact": "Integrations with Google, Microsoft, Stripe, and ChatGPT for AI-agent commerce with linked checkout experiences (Q4 2025); marketplace has 86.5M active buyers and 5.6M active sellers"
-    },
-    {
-      "company": "Airbnb",
-      "fact": "Nearly 45% of customer-service issues initiated with AI assistant resolved without human agent; customer-support cost per booking declined 16% year-over-year (Q2 2026)"
-    },
-    {
-      "company": "American Express",
-      "fact": "Acquired 12.5M new proprietary cards in 2025, with >70% on fee-paying products; 65% of new global consumer accounts are Millennial and Gen Z cohorts (2025 annual)"
-    },
-    {
-      "company": "Shopify",
-      "fact": "$378.4B GMV with 65.6% Shopify Payments penetration ($248.1B); merchant-solutions revenue $8.804B, representing deep attachment and merchant dependency (fiscal 2025)"
-    },
-    {
-      "company": "Etsy",
-      "fact": "Platform implemented AI-powered matching and discovery improvements to fight churn; management describes AI-assisted shopping integrations as strategic priority (Q4 2025 through Q2 2026)"
-    },
-    {
-      "company": "Airbnb",
-      "fact": "AI-native support model showing emerging pattern: 45% of cases handled without human, 16% cost reduction per booking, proving efficiency gains in agent-mediated workflows (Q2 2026)"
-    }
-  ]
+ "slug": "agentic-commerce-layer",
+ "trend_slug": "ai-cultural-disintermediation",
+ "name": "The Algorithm as Buyer: AI Agents Taking Over Commerce Discovery",
+ "deck": "AI agents are replacing human shopping behavior. Companies that own merchant data, payment routing, and agent interfaces will extract most of the value; everyone else becomes a supplier.",
+ "core_bet": "The entire e-commerce funnel—discovery, comparison, negotiation, payment, logistics—is being collapsed by AI agents operating on behalf of buyers. The winners will not be those with the flashiest storefronts or largest traffic volumes, but those sitting inside the agent's decision loop: companies that route traffic to merchants, orchestrate payments, and control the trust signals agents rely on. Shopify Payments, AmEx's closed-loop network, and Etsy's seller-reputation data all suddenly become strategic moats. Companies caught downstream of this shift—merchant who cannot integrate with agent platforms, mid-market brands without data infrastructure, open-network payment processors—will face margin collapse and visibility extinction.",
+ "numbers": [
+  {
+   "stat": "45% of customer-service issues initiated with Airbnb's AI assistant resolved without human escalation",
+   "label": "Airbnb Q2 2026, proving agent-first support is operating at scale—not a pilot"
+  },
+  {
+   "stat": "16% year-over-year decline in customer-support cost per Airbnb booking",
+   "label": "Airbnb Q2 2026, showing tangible P&L flow-through from agentic automation"
+  },
+  {
+   "stat": "$378.4B GMV with 68% Shopify Payments penetration ($256.7B) as of Q2 2026",
+   "label": "Shopify Q2 2026, capturing merchant infrastructure depth at moment of agent emergence"
+  },
+  {
+   "stat": "86.5M active buyers and 5.6M active sellers on Etsy at year-end 2025",
+   "label": "Etsy FY2025, scale of peer-to-peer ecosystem agents must route through and calibrate to trust"
+  },
+  {
+   "stat": "$72.2B revenue and $1.67T billed business for American Express in 2025",
+   "label": "American Express FY2025, closed-loop network scale positioned for agent-payment embedding"
+  },
+  {
+   "stat": "12.5M new proprietary AmEx cards acquired in 2025, 70%+ on fee-paying products",
+   "label": "American Express FY2025, capturing affluent-cohort shift parallel to merchant AI adoption"
+  },
+  {
+   "stat": "Q4 2025 documented live AI-agent commerce integrations at Etsy with Google, Microsoft, Stripe, and ChatGPT-linked checkout",
+   "label": "Etsy Q4 2025, proving agentic shopping flows exist in production today"
+  },
+  {
+   "stat": "Shopify Q4 2025: 31% revenue growth, management framed year as laying rails for new era of AI commerce",
+   "label": "Shopify Q4 2025, management signaling explicit infrastructure bet on agent-mediated buying"
+  }
+ ],
+ "mechanism": [
+  "For two decades, e-commerce was built on the assumption that humans make deliberate choices: find product, read description, compare alternatives, add to cart, checkout. Search engines, app stores, and marketplace listings optimized for human eyeballs. That era is ending. By Q2 2026, Airbnb had 45% of support issues started by an AI assistant resolving without human touch. Etsy reported live agent-checkout integrations with Google, Microsoft, and OpenAI. These are not beta pilots—they are production commerce flows.",
+  "The shift upends which layer captures value. The old winners—Google Search, Amazon, Instagram—owned the gateway to discovery. Conversion rates and traffic acquisition cost were the game. In agent-mediated commerce, the payoff moves to whoever sits between the agent and the merchant: payment routing, merchant ranking, trust calibration, and preferred-vendor logic. Shopify's $378.4B GMV and 68% Shopify Payments penetration means merchants already depend on Shopify to see transaction data and buyer behavior. If an AI from Google or Microsoft becomes discovery, merchants now depend on being ranked favorably by that agent—a power inversion. Shopify invested in Catalog and Sidekick not to attract humans to storefronts, but to make merchants legible and preferred to agents. That is the actual business.",
+  "Payment networks face the same reordering. American Express, with $1.67T in billed business and a closed-loop network connecting cardholders to merchants, has structural advantage over open-network processors. If an agent decides how to pay, it will choose the payment path with zero friction, fastest settlement, and richest data. AmEx's Q1 2026 narrative explicitly noted management discussions of agents discovering, deciding, and completing payments—and AmEx trying to be embedded in that flow. That is not speculative. It is an operational priority.",
+  "Etsy's position illustrates the data-leverage dynamic. The platform has 5.6M sellers and 86.5M buyers. Its value to agents is not the user interface; it is the seller-trust data. Agents need to know which sellers are reliable, which goods are authentic, which storefronts have low fraud. Etsy built that data over 20 years. An agent trained on Etsy's reputation signal will route preferentially to Etsy merchants—but only if Etsy can expose that data cleanly to agents. That leverage is what drives Etsy's partnerships with Google, Microsoft, and ChatGPT for agentic checkout."
+ ],
+ "why_now": [
+  "The technical capability reached inflection point between Q4 2025 and Q2 2026. LLMs now execute multi-step workflows reliably enough to negotiate product specs, compare prices, authorize payment, and coordinate fulfillment without human intervention. More concretely: Etsy's documented integrations with Google and ChatGPT checkout prove the plumbing exists. Airbnb's 45% AI-assisted issue resolution and 16% cost decline per booking show that agents operating on real commerce transactions produces measurable efficiency. This is not ten years away. It is happening on production systems right now.",
+  "Consumer behavior shifted enough to make delegation acceptable. Scrolling infinite marketplaces to find what you want is exhausting. GenZ and younger millennials—who now represent 65% of new American Express accounts—expect recommendation algorithms to filter choice. The pandemic accelerated digital adoption and normalized algorithmic personalization. A consumer is no longer surprised if an AI agent says 'I found this for you.' The friction is gone. The willingness to let an agent shop on your behalf is no longer a sci-fi edge case. It is the relief scenario."
+ ],
+ "who_pays": "Merchants feel the pressure first. If you sell on Etsy and the Google or ChatGPT agent does not surface your products, you disappear—you have zero agency in that decision. Shopify merchants will need to invest in Catalog data quality, structured product feeds, and seller-ranking optimization to get picked by agents. Smaller brands and mid-market sellers without technical sophistication or without integration with Shopify, Etsy, or agent-friendly payment processors will face sudden visibility collapse. Traditional e-commerce players without agent-integration infrastructure are left in a corner. Open-network payment processors (that do not offer closed-loop data or frictionless agent integration) will watch transaction routing flow to AmEx and Stripe, which do. The cost of merchant invisibility becomes existential.",
+ "who_profits": "Shopify captures merchant data-quality dependence through Catalog and Sidekick. AmEx captures payment routing through closed-loop network advantage and agent-native payment flows. Etsy captures seller-matching through reputation data and platform-AI partnerships. Microsoft, Google, and OpenAI profit as agent infrastructure, but the real economic rents—sustainable competitive advantage and pricing power—accrue to whoever sits between agent and merchant. That is why Shopify's merchant-solutions revenue grew to $2.78B in Q2 2026 and why AmEx's new card acquisitions tilted so heavily toward fee-paying products. These companies are not selling to consumers anymore. They are selling merchant visibility and payment rails to agent platforms.",
+ "tension": "The societal tension is brutal. Frictionless agent-driven commerce is great for consumers (faster, smarter matches). It is catastrophic for most merchants. If only merchants integrating with Shopify's Catalog or Stripe's agent-friendly APIs get discovered, then only merchants with resources and technical teams survive. The 5.6M Etsy sellers and millions of small Amazon and Shopify sellers face simultaneous margin compression and visibility erasure. Payment networks fragment into winner-take-most: agents will standardize on AmEx or Stripe or a single fintech processor, not multi-rail. Regulatory scrutiny will follow because agent-driven routing creates new concentration points and new forms of algorithmic bias. If Microsoft's agent systematically ranks Microsoft-affiliated merchants higher, that is commerce manipulation in a new form.",
+ "surprising_part": "The underestimated insight is that merchant data quality and infrastructure become more valuable than raw traffic. Shopify's advantage is not that the company owns storefronts anymore—it is that the company owns the structured product data, transaction history, and buyer behavior that agents need to make routing decisions. Etsy's strength is not design or cultural cool. It is the seller-trust data and the fact that agents need authentic goods to compete with commodity listings. AmEx does not benefit from more card-member spend. It benefits from being the payment layer embedded in the agent's decision logic at checkout. The company with the richest merchant-side or customer-side structured data, not the company with the flashiest interface or largest traffic volume, will own the agent layer. That is a quiet but complete inversion of the last 20 years of digital commerce.",
+ "one_sentence": "Merchants are becoming suppliers to platforms that route algorithmic buyers to them—and only platforms with deep merchant data infrastructure will keep their suppliers visible.",
+ "societal_stake": "This is about whether small-seller economics survive. If agents can only route to merchants integrated with a few major platforms, small producers, artisans, and niche sellers disappear from discovery—margin compression forces them out. Five million Etsy sellers and millions of Shopify-only sellers face extinction. At the same time, if agents route correctly, consumers get instant access to exactly what they need without browsing waste. The tension between accessibility (keeping small sellers viable) and efficiency (agents finding the best match instantly) determines whether agentic commerce concentrates wealth or keeps it distributed. Early evidence suggests that only merchants and platforms with the resources to build agent-compatible infrastructure will survive. That narrows the funnel.",
+ "evidence": [
+  {
+   "company": "Airbnb",
+   "fact": "45% of customer-service issues initiated with AI assistant resolved without human escalation; customer-support cost per booking declined 16% year-over-year (Q2 2026)"
+  },
+  {
+   "company": "Shopify",
+   "fact": "Invested in Catalog, Sidekick, and Universal Commerce Protocol; Q4 2025 described the year as laying the rails for a new era of AI commerce; Q2 2026 GMV $115.6B with 68% Shopify Payments penetration ($78.1B)"
+  },
+  {
+   "company": "Etsy",
+   "fact": "Documented live AI-agent commerce integrations with Google, Microsoft, Stripe, and ChatGPT for linked checkout flows (Q4 2025); 86.5M active buyers and 5.6M active sellers at year-end 2025"
+  },
+  {
+   "company": "American Express",
+   "fact": "2025 annual narrative explicitly describes AI-powered agents discovering products, making decisions, and completing payments, with AmEx positioning to be embedded in that workflow; acquired 12.5M new proprietary cards in 2025 with 70%+ on fee-paying products"
+  },
+  {
+   "company": "Shopify",
+   "fact": "$378.4B fiscal 2025 GMV and 65.6% Shopify Payments penetration ($248.1B); merchant-solutions revenue $8.804B, capturing merchant dependence on Shopify infrastructure; Q2 2026 showed accelerating penetration to 68%"
+  },
+  {
+   "company": "American Express",
+   "fact": "FY2025 revenue $72.2B, net income $10.8B, billed business $1.67T; 65% of new global consumer accounts are Millennial and Gen Z (FY2025), capturing demographic shift parallel to agent adoption"
+  },
+  {
+   "company": "Etsy",
+   "fact": "Q4 2025 explicitly called out AI-assisted shopping integrations as strategic priority and documented checkout flows with major agent platforms"
+  },
+  {
+   "company": "Airbnb",
+   "fact": "Q2 2026 showed emerging agent-mediated commerce pattern: 45% AI resolution, 16% cost reduction per booking, suggesting measurable efficiency gains flowing through P&L"
+  }
+ ]
 }

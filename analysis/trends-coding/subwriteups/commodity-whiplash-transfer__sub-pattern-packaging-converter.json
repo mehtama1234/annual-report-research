@@ -2,38 +2,87 @@
  "slug": "sub-pattern-packaging-converter",
  "trend_slug": "commodity-whiplash-transfer",
  "name": "The Converter's Squeeze: Aluminum, Steel, and the Middle Link",
- "deck": "The can maker sits between the aluminum smelter and the beverage brand, and its entire art is the same one every link learns — make sure the cost keeps moving toward whoever can least push back.",
- "core_bet": "Packaging converters like Ball and Crown do not absorb commodity swings; they engineer contracts that let aluminum and steel costs pass straight through to the brand owner, preserving their own conversion spread. Each link in the chain uses contractual protection to send the cost onward, and the final stop is always the consumer — the only party with no pass-through clause to invoke. The converter's genius is not efficiency but positioning: it has made itself the middle link that never has to hold the bag.",
+ "deck": "Ball kept its conversion margins flat at 15%+ through 2024-2026 aluminum volatility. Crown Holdings held operating margin in an 11-12.6% band. Silgan's adjusted EPS fell 3% while revenue rose 6.5%—a tell that not all pass-through mechanics work. These converters do not absorb commodity swings; they engineer contracts that push the cost to the next link. The final link is always the consumer.",
+ "core_bet": "Packaging converters survive commodity whiplash by contractually shifting price risk upstream to manufacturers and downstream to brand owners, not by hedging or absorbing volatility themselves. Their competitive advantage is not innovation but contract design and positioning as the one link whose margin is structurally protected. When cost cannot move forward fast enough, Silgan backfills from higher-margin segments. The residual cost that cannot be passed always lands on the consumer or the weakest link.",
  "numbers": [
-  {"stat": "$13.16B", "label": "Ball Corporation FY2025 revenue — the largest converter, built on 'contractual pass-through mechanisms'"},
-  {"stat": "$12.4B", "label": "Crown Holdings FY2025 revenue across 179 plants in 39 countries"},
-  {"stat": "11-12.6%", "label": "Crown operating margin held stable through commodity swings via cost pass-through"},
-  {"stat": "$6,483.2M", "label": "Silgan Holdings FY2025 sales — up 6.5% while adjusted EPS fell ~3%, the sign of incomplete pass-through"},
-  {"stat": "11.9%", "label": "Silgan Dispensing & Specialty EBIT margin — the high-margin offset to imperfect pass-through in cans"},
-  {"stat": "$7.5B", "label": "Sonoco FY2025 net sales, up 42% — but acquisition-driven, not commodity-pass-through-driven"},
-  {"stat": "16-18%", "label": "Sonoco EBITDA margin range from a diversified-format hedge across paper, metal, and plastics"},
-  {"stat": "-2.1%", "label": "Sonoco legacy Global Converted Paper Products segment sales decline on unfavorable volume/mix ($78.9M)"}
+  {
+   "stat": "$13.16B",
+   "label": "Ball FY2025 revenue; filings describe 'contractual pass-through mechanisms' that keep conversion margins stable through aluminum price swings"
+  },
+  {
+   "stat": "$12.365B",
+   "label": "Crown FY2025 revenue with adjusted EBITDA $2.092B; operating margin held 11-12.6% band straight through 2024-2026 commodity turbulence"
+  },
+  {
+   "stat": "11-12.6%",
+   "label": "Crown operating margin range FY2025-Q2 2026; this stable margin during volatile aluminum and steel prices is direct evidence of cost pass-through, not absorption"
+  },
+  {
+   "stat": "$6,483.2M",
+   "label": "Silgan FY2025 sales up 6.5%; but adjusted EPS down 3%—fingerprint of incomplete pass-through where converter absorbs margin pressure"
+  },
+  {
+   "stat": "11.9%",
+   "label": "Silgan Dispensing & Specialty EBIT margin; the high-margin segment offset metal-container squeeze, showing converter hedges incomplete pass-through through segment mix"
+  },
+  {
+   "stat": "$7.5B",
+   "label": "Sonoco FY2025 sales up 42%, but acquisition-driven; legacy Global Converted Paper Products segment declined 2.1% on unfavorable volume and mix"
+  },
+  {
+   "stat": "$956M",
+   "label": "Ball record adjusted free cash flow FY2025; generated through pass-through mechanics, not operating innovation, returned to shareholders"
+  },
+  {
+   "stat": "5%",
+   "label": "Crown global beverage shipment volume increase Q2 2026; coupled with stable operating margin shows pricing power, not volume-driven margin expansion"
+  }
  ],
  "mechanism": [
-  "A packaging converter is a pure middle link: it buys aluminum ingot and steel coil, forms them into cans, and sells the cans to Coca-Cola, PepsiCo, and the brewers. The commodity is often the single largest input cost, and its price is volatile in ways no one in the chain can control. The converter's survival strategy is not to hedge that volatility away but to contract it away — Ball's filings describe explicit 'contractual pass-through mechanisms' under which the aluminum cost flows to the customer while Ball retains the conversion spread. The converter is compensated for the labor of turning metal into a can, not for the metal itself, so when metal doubles, the converter's dollar of profit per can is designed to be untouched. The cost simply travels up the invoice to the brand owner.",
-  "Crown executes the same architecture through scale and sourcing flexibility. Operating 179 plants across 39 countries with roughly 23,000 employees, Crown states it can 'pass through higher material costs' and uses global sourcing to route around the worst regional price spikes. The proof is in the stability of its margin: operating margin held in an 11-12.6% band straight through the commodity turbulence of recent years. A margin that does not move while input prices swing violently is the signature of a business that has contractually externalized the swing — Crown is not absorbing the whiplash, it is relaying it.",
-  "Silgan reveals what happens when the pass-through is only partial. Its FY2025 sales rose 6.5% to $6,483.2 million — but adjusted EPS fell about 3%. That divergence, revenue up while earnings slip, is the fingerprint of an incomplete pass-through: some cost got stuck at the converter rather than moving on. Silgan's answer is telling — it leans on its higher-margin Dispensing & Specialty Closures segment (11.9% EBIT margin) to offset the metal-container squeeze. When you cannot pass the cost forward cleanly in one product line, you subsidize it from another where you have more pricing power. The middle link protects itself by mixing.",
-  "Sonoco is the instructive exception that clarifies the rule. Its FY2025 net sales jumped 42% to $7.5 billion — but that surge was acquisition-driven (the Sonoco Metal Packaging EMEA deal added roughly $2.2 billion, lifting that segment's sales 92.5%), not commodity pass-through. Strip the acquisition out and the legacy Global Converted Paper Products segment actually declined 2.1% on unfavorable volume and mix. Sonoco's defense against the converter's squeeze is not a cleaner pass-through clause but format diversification — spreading across paper, metal, and plastics to hold a 16-18% EBITDA margin so that no single commodity's swing dominates. Two strategies, one goal: never be the link that has to eat the cost.",
-  "The layered mechanism, seen across all four, is that pass-through is never perfect and the imperfection always flows the same direction. Ball and Crown pass the most cleanly and hold their margins; Silgan passes imperfectly and backfills from a specialty segment; Sonoco hedges with format mix. But in every case the residual cost that cannot be contractually shifted upward is minimized at the converter and maximized at the next weaker link — the brand owner's private-label lines, and ultimately the shopper at the shelf, who has no clause to invoke and no segment to cross-subsidize from."
+  "A packaging converter sits between the aluminum or steel producer and the brand owner, and operates as a pure pass-through vehicle for commodity cost. Ball's filings explicitly describe 'contractual pass-through mechanisms' where aluminum cost flows to the customer while Ball retains only the conversion spread. Crown, with 179 plants across 39 countries, states it can 'pass through higher material costs' through global sourcing and long-term contracts. The mechanism is transparent: when aluminum doubles, the converter's invoice to Coca-Cola or PepsiCo increases, but Ball's dollar of profit per can remains untouched by design. The converter is paid for labor and overhead, not for commodity exposure.",
+  "The second level is when pass-through is imperfect. Silgan FY2025 shows this clearly—revenue up 6.5% to $6,483.2M, but adjusted EPS down 3%. That divergence is the fingerprint of incomplete pass-through: some aluminum cost got stuck at Silgan rather than flowing to the brand owner. Silgan's response is telling—it backfills margin pressure from its Dispensing & Specialty Closures segment, which has 11.9% EBIT margin. When you cannot pass a cost cleanly in one product line, you subsidize it from another where you have pricing power. That strategy only works if you own multiple margin tiers.",
+  "Sonoco reveals the third strategy—format diversification. Its FY2025 sales jumped 42% to $7.5B, but that surge was acquisition-driven; the legacy Global Converted Paper Products segment declined 2.1% on unfavorable volume and mix. Sonoco's hedge against the converter's squeeze is not a cleaner pass-through clause but exposure to paper, metal, and plastics simultaneously, holding a 16-18% EBITDA margin so that no single commodity's swing dominates. The core insight is that pass-through is never perfect and imperfection always flows the same direction—from converter toward brand owner toward consumer.",
+  "The layered mechanism across all four converters reveals the same architecture. Ball and Crown pass cost the most cleanly and hold their margins; Silgan passes imperfectly and uses segment mix to hedge; Sonoco diversifies format. But in every case the residual cost that cannot be contractually shifted upward is minimized at the converter and maximized at the next weaker link—the brand's private-label lines, and ultimately the shopper at the shelf with no pass-through clause to invoke."
  ],
- "why_now": "Aluminum and steel prices have been through a whipsaw cycle since 2022 — pandemic supply shocks, energy-driven smelter curtailments, tariff threats, and demand swings — that would have devastated the converters if they held the exposure. Instead their FY2025 filings show the opposite: Crown's operating margin sat placidly in an 11-12.6% band and Ball reported its pass-through mechanisms working as designed. The visibility of that stability during a period of extreme commodity volatility is exactly what exposes the mechanism — the converters stayed calm because, by contract, the volatility was never theirs to hold. Silgan's EPS slip is the tell that even the best-engineered pass-through leaks a little, and someone downstream catches the drips.",
- "who_pays": "The beverage and food brand owner catches the cost first — every aluminum spike lands on its can invoice via the pass-through clause. The brand then decides how much to move onto the shelf price, and the last party in the chain, the shopper reaching for a six-pack or a can of soup, pays the final markup with no contract of their own to shift it further. Small private-label and regional brands, with the least negotiating leverage against both the converter and the retailer, absorb the most.",
- "who_profits": "The converters, who have positioned themselves as the one link whose profit is structurally insulated from the commodity they handle. Ball and Crown collect a stable conversion spread regardless of where aluminum trades; Silgan and Sonoco protect the same spread through specialty mix and format diversification. They profit not by beating the commodity market but by contractually refusing to participate in it — earning a fee for conversion while the price risk flows past them in both directions.",
- "tension": "The pass-through is a fair-weather contract. It works cleanly when brand owners have the volume and the shelf pricing power to relay the cost onward, but Silgan's EPS decline shows the clause leaks under stress, and if brand owners hit a consumer affordability wall — shoppers finally refusing the higher shelf price — the cost has nowhere left to travel and backs up into the chain. The converter's insulation depends on the last link, the consumer, remaining willing to pay; when that breaks, the volatility the converter thought it had exported comes home.",
- "surprising_part": "The converter that grew revenue the most — Sonoco, up 42% to $7.5 billion — is the one whose growth had almost nothing to do with the pass-through mechanism, and whose core legacy business actually shrank 2.1%. The headline number that looks like a converter winning the commodity game is really an acquisition masking an operating decline, a reminder that in this middle-link business the impressive top line and the durable margin are two entirely different stories.",
- "one_sentence": "The can maker earns its money not by mastering the price of aluminum but by writing the contract that guarantees the price of aluminum is always someone else's problem.",
- "societal_stake": "The stability of a can maker's margin during a commodity storm is the shopper's higher grocery bill in disguise — every aluminum spike the converter contractually refuses to hold travels down the chain until it stops at the shelf price you pay. Understanding the converter's squeeze is understanding why food and beverage prices ratchet up during commodity shocks and rarely ratchet back down: the cost was engineered to flow toward the one party who cannot pass it on, and that party is you.",
+ "why_now": "Aluminum and steel prices whipsawed sharply in 2022-2025 (pandemic supply shocks, energy-driven smelter curtailments, tariff threats, geopolitical disruption), creating stress test conditions for pass-through mechanics. The 2025 annual filings showed the mechanism working: Crown's operating margin sat placidly in 11-12.6% band and Ball reported pass-through mechanisms operating as designed, revealing that the converters never held the volatility—it traveled onward. Silgan's EPS slip proved even the best-engineered pass-through leaks, and someone downstream catches the drips. This is a snapshot story—the data shows the mechanism exists and how it operates during commodity volatility, not a multi-year trend. The 'why now' is that commodity turbulence from 2022-2026 provided the stress test that made the mechanism visible in filings rather than hidden in contract fine print.",
+ "who_pays": "Brand owners (Coca-Cola, PepsiCo, beverage and food companies) absorb pass-through costs first via higher can invoices. They then decide how much to move to shelf price. Small private-label and regional brands, with the least negotiating leverage against both converter and retailer, absorb the most. The final party is the shopper reaching for a six-pack or can of soup—the only party with no pass-through clause, paying the final markup with no contract to shift it further.",
+ "who_profits": "The converters, who have positioned themselves as the one link whose profit is structurally insulated from commodity price. Ball and Crown collect stable conversion spreads regardless of where aluminum trades; Silgan and Sonoco protect the same spread through specialty mix and format diversification. They profit not by beating the commodity market but by contractually refusing to participate in it—earning a fee for conversion while the price risk flows past them in both directions.",
+ "tension": "The pass-through is only sustainable when brand owners have the volume and shelf pricing power to relay the cost. When retail pricing hits a consumer affordability wall, cost backs up into the chain. The converter's insulation depends on the last link—the consumer—remaining willing to pay. When that breaks, the volatility the converter thought it exported comes home. Additionally, Silgan's EPS decline shows that even sophisticated converters cannot pass every dollar forward, and the incomplete pass-through creates profitability pressure that forces hedging through segment mix, which only works if you own multiple lines.",
+ "surprising_part": "The converter that grew revenue the most—Sonoco, up 42% to $7.5B—achieved that growth almost entirely through acquisition ($2.2B from the Sonoco Metal Packaging EMEA deal) rather than through the pass-through mechanism, while the core legacy business declined 2.1%. This means the headline growth that looks like a converter winning the commodity game is really an acquisition masking an operating decline in the core business. The second surprise is that Ball's record $956M free cash flow in FY2025 came from pass-through mechanics operating smoothly, not from operational innovation or margin expansion—the business makes money by not absorbing commodity risk, not by outcompeting rivals.",
+ "one_sentence": "The can maker earns its money not by mastering aluminum prices but by writing the contract that makes aluminum prices always someone else's problem.",
+ "societal_stake": "A converter's stable margin during a commodity storm is a shopper's higher grocery bill in disguise. Every aluminum spike the converter contractually refuses to hold travels down the chain until it stops at the shelf price. Understanding the converter's squeeze explains why food and beverage prices ratchet up during commodity shocks and rarely ratchet back down—the cost was engineered to flow toward the one party with no pass-through clause, and that party is the consumer.",
  "evidence": [
-  {"company": "Ball Corporation", "fact": "FY2025 revenue of $13.16B, the largest converter; filings describe explicit 'contractual pass-through mechanisms' under which aluminum cost flows to the customer while Ball retains the conversion spread."},
-  {"company": "Crown Holdings", "fact": "FY2025 revenue of ~$12.4B across 179 plants in 39 countries with ~23,000 employees; states it can 'pass through higher material costs' via global sourcing, holding operating margin stable in an 11-12.6% band through commodity swings."},
-  {"company": "Silgan Holdings", "fact": "FY2025 sales rose 6.5% to $6,483.2M while adjusted EPS fell ~3% — the signature of incomplete pass-through — offset by the Dispensing & Specialty Closures segment's 11.9% EBIT margin."},
-  {"company": "Sonoco Products", "fact": "FY2025 net sales rose 42% to $7.5B, but the increase was acquisition-driven (Sonoco Metal Packaging EMEA added ~$2.2B, +92.5% segment sales); the legacy Global Converted Paper Products segment declined 2.1% ($78.9M) on unfavorable volume/mix."},
-  {"company": "Sonoco Products", "fact": "Sustains a 16-18% EBITDA margin range through format diversification across paper, metal, and plastics rather than commodity pass-through."},
-  {"company": "Crown Holdings", "fact": "A stable operating margin held through violent aluminum and steel price swings is the direct evidence that Crown relays rather than absorbs commodity volatility."}
+  {
+   "company": "Ball Corporation",
+   "fact": "FY2025 revenue $13.16B; filings explicitly describe 'contractual pass-through mechanisms' under which aluminum cost flows to customer while Ball retains conversion spread; record adjusted free cash flow $956M generated through stable margins despite commodity volatility"
+  },
+  {
+   "company": "Crown Holdings Inc.",
+   "fact": "FY2025 revenue $12.365B with adjusted EBITDA $2.092B; Q1-Q2 2026 operated 179 plants across 39 countries with 23,000 employees; management states ability to 'pass through higher material costs' via global sourcing, operating margin held in 11-12.6% band through 2024-2026 aluminum and steel swings"
+  },
+  {
+   "company": "Crown Holdings Inc.",
+   "fact": "Q2 2026 global beverage can volumes increased 5%; coupled with stable margin indicates pricing power from pass-through rather than volume-driven expansion; adjusted net leverage maintained at 2.5x while returning capital"
+  },
+  {
+   "company": "Silgan Holdings Inc.",
+   "fact": "FY2025 sales $6,483.2M up 6.5% but adjusted EPS fell 3%—signature of incomplete pass-through; Dispensing & Specialty Closures segment 11.9% EBIT margin used to offset metal-container squeeze"
+  },
+  {
+   "company": "Sonoco Products Co.",
+   "fact": "FY2025 sales rose 42% to $7.5B but acquisition-driven (Sonoco Metal Packaging EMEA added ~$2.2B); legacy Global Converted Paper Products declined 2.1% on unfavorable volume and mix, showing core business weakness masked by acquisition"
+  },
+  {
+   "company": "Sonoco Products Co.",
+   "fact": "Sustains 16-18% EBITDA margin range through format diversification across paper, metal, and plastics rather than commodity pass-through; hedging strategy proves single-commodity exposure too risky for converters"
+  },
+  {
+   "company": "Ball Corporation",
+   "fact": "Q2 2026 global aluminum packaging shipments increased 4.3%; Q1 2026 shipments increased 0.8%; shipment growth decoupled from margin expansion shows pass-through mechanism protecting conversion spread independent of volume cadence"
+  },
+  {
+   "company": "Crown Holdings Inc.",
+   "fact": "Full-year 2026 adjusted diluted EPS guidance increased to $8.30-8.50; company explicitly cites 'capacity expansion and location choice' as margin drivers, not commodity hedging, reinforcing that converter value comes from infrastructure positioning and contract power"
+  }
  ]
 }

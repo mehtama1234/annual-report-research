@@ -1,83 +1,87 @@
 {
-  "slug": "glp1-home-delivery",
-  "trend_slug": "gray-wave-dividend",
-  "name": "Ozempic Comes Home: GLP-1 as New Senior Infrastructure",
-  "deck": "GLP-1 drugs are generating new demand for prefillable syringes, cold-chain logistics, specialty pharmacy, and home-delivery infrastructure that is cascading through device makers and distributors already serving senior care.",
-  "core_bet": "GLP-1 medications are not just creating pharmaceutical revenue—they are creating new infrastructure requirements for home-based medical delivery that layer onto existing senior-care networks. Becton Dickinson is investing $110 million in prefillable-syringe capacity for GLP-1 delivery. Cencora reported higher GLP-1 sales lowering gross-profit margins while strengthening institutional dependence. West Pharmaceutical saw injectable-demand surge drive net sales up 21% year-over-year. BrightSpring's home-health platform is capturing GLP-1 prescription volume within coordinated senior care. Together, these companies are building a new infrastructure toll around GLP-1 delivery that senior patients, payers, and care operators will depend on for the next decade.",
-  "numbers": [
-    {
-      "stat": "$110 million",
-      "label": "Becton Dickinson investment in Nebraska to expand prefillable-syringe capacity for biologics and GLP-1 drug delivery in Q1 FY2026"
-    },
-    {
-      "stat": "13.8%",
-      "label": "West Pharmaceutical Q2 2026 net sales growth, driven by continued high-value product demand and delivery/packaging stack expansion"
-    },
-    {
-      "stat": "21.0%",
-      "label": "West Pharmaceutical Q1 2026 net sales growth, reflecting demand extending into more complex, higher-value injectable components"
-    },
-    {
-      "stat": "$3.07 billion",
-      "label": "West Pharmaceutical full-year 2025 net sales, with strong HVP Components demand and product mix quality"
-    },
-    {
-      "stat": "43 million",
-      "label": "BrightSpring prescriptions fulfilled in 2025, serving more than 465,000 patients daily across 50 states"
-    },
-    {
-      "stat": "$314.20",
-      "label": "BrightSpring revenue per script in Q2 2026, up from lower levels as GLP-1 and specialty medications drive higher-value prescription mix"
-    },
-    {
-      "stat": "$321 billion",
-      "label": "Cencora consolidated revenue for fiscal 2025, with U.S. Healthcare Solutions operating income up 22% and higher GLP-1 sales noted as mix pressure"
-    }
-  ],
-  "mechanism": [
-    "GLP-1 drugs are generating infrastructure demand across the entire home-delivery ecosystem. The mechanism starts with the device itself. GLP-1 medications—Ozempic, Mounjaro, Saxenda—come in injectable form that requires prefillable syringes, auto-injector components, and delivery systems that must be manufactured to pharmaceutical-grade standards. Becton Dickinson's $110 million Nebraska prefillable-syringe investment was explicitly framed as support for 'GLP-1 drug delivery' and 'biologic-drug delivery.' This is not a modest factory expansion. It is capital deployment specifically triggered by the forecast that GLP-1 prescription volume will require scaled syringe manufacturing capacity that does not yet exist domestically. As millions of seniors adopt GLP-1 therapies for weight management and diabetes, the syringes, cartridges, and delivery hardware must be supplied reliably. West Pharmaceutical's net sales growth of 21% in Q1 2026 and 13.8% in Q2 2026 came from this exact mechanism—demand for prefillable components, high-value product attachments, and delivery systems that enable GLP-1 administration.",
-    "The second layer is logistics and specialty distribution. Cencora, which handled $321 billion in consolidated revenue in fiscal 2025, reported a notable dynamic in Q2 FY2026: 'higher GLP-1 sales lowered gross-profit margin percentage even as revenue and gross profit grew.' This is a critical middle-layer signal. GLP-1 drugs are high-throughput, high-volume drugs that move through the distribution system at scale, but they compress the distributor's percentage margin because of volume pricing and manufacturer competition. Yet Cencora still profits absolutely because the volume and frequency of GLP-1 distribution increases total throughput. More importantly, GLP-1 delivery requires specialty logistics—cold-chain management, controlled handling, and direct-to-patient or direct-to-provider shipment in many cases. This moves GLP-1 prescription flow away from retail-pharmacy-counter bulk distribution and into specialty infrastructure that distributors like Cencora must build and maintain as a platform service.",
-    "The third layer is home-based pharmacy and clinical integration. BrightSpring Health Services, which served more than 465,000 patients daily across 50 states and fulfilled 43 million prescriptions in 2025, is capturing GLP-1 volume within its integrated home and community healthcare platform. In Q2 2026, BrightSpring reported 'revenue per script rose to $314.20' and 'gross profit per script rose to $27.50.' Those elevated metrics reflect mix shift toward GLP-1 and other specialty medications that carry higher acquisition costs and higher clinical complexity. BrightSpring's home-health average daily census grew 54% year-over-year in Q2 2026, with growth explicitly tied to provider-services and medication-management scaling. GLP-1 therapy requires patient monitoring, dose adjustment, potential combination with other senior-care services, and integration with home-health visits. BrightSpring's model coordinates pharmacy, infusion, clinical visits, and supportive care—exactly the infrastructure that turns an injectable drug into a managed care program. As millions of seniors adopt GLP-1, the home-health platform that can deliver the drug, monitor adherence, and adjust therapy becomes as critical as the drug manufacturer itself."
-  ],
-  "why_now": "GLP-1 infrastructure demand has become acute in 2025-2026 because the prescribing base has exploded from early-adopter endocrinologists and weight-loss clinics into primary care, senior centers, and Medicare Advantage plans. Medicare Part D beneficiaries are now being prescribed GLP-1s for weight management at scale. Becton Dickinson's $110 million prefillable-syringe investment was explicitly tied to supply-chain risk and the need to build domestic capacity for a drug category that will be administered to tens of millions of seniors over the next decade. West Pharmaceutical's 21% revenue growth in Q1 2026 reflects the same inflection. Cencora's commentary on GLP-1 margin compression signals that the volume inflection has already happened. The shift from office-based injection to home-based self-injection and home-delivery pharmacy was inevitable once prescribing volume crossed a threshold, and that threshold has been crossed. The infrastructure now has to catch up.",
-  "who_pays": "Three constituencies pay for GLP-1 infrastructure expansion. First, Medicare and Medicaid pay directly through higher reimbursement rates for specialty pharmacy services, prefilled-syringe components, and home-health visits tied to GLP-1 management. Second, commercial insurers and employers pay through higher plan costs for specialty medication acquisition and home-delivery infrastructure as plan costs for obesity and diabetes management spike. Third, patients and seniors themselves pay through out-of-pocket cost-sharing on specialty medications and through the foregone investment that could have gone into other health services if budget is constrained. The infrastructure costs—cold-chain logistics, specialty pharmacy licensing, home-health coordination—are not free. They are bundled into the total cost of care and absorbed through the healthcare system's payment mechanisms.",
-  "who_profits": "The winners are scaled companies that already operate in the senior-care, specialty-logistics, or pharmaceutical-device spaces and can add GLP-1-specific infrastructure without building entirely new platforms. Becton Dickinson profits by filling its new prefillable-syringe capacity with GLP-1 orders and commanding premium pricing on high-complexity pharmaceutical delivery components. West Pharmaceutical is already benefiting, with consistent 13-21% revenue growth in 2026 quarters driven by injectable-component demand from GLP-1 and biologic therapies. Cencora profits through absolute volume growth even as percentage margins compress, because GLP-1 distribution requires specialty logistics platform services that command fees beyond simple wholesale margin. BrightSpring profits by offering integrated home-based care that bundled medication management, monitoring, and clinical coordination around GLP-1 therapy—a service that higher-acuity, lower-income seniors will increasingly depend on as GLP-1 becomes standard care. The infrastructure companies capture value by sitting in the middle of a drug category with inelastic demand, mandatory compliance requirements, and customer switching costs tied to prescription refills and home-delivery relationships.",
-  "tension": "The core tension is that GLP-1 infrastructure costs are sunk capital investments that assume high, sustained prescription volume—but volume could reverse if efficacy data weakens, if manufacturers launch cheaper alternatives, or if payers impose utilization restrictions to manage costs. Becton Dickinson's $110 million syringe factory assumes a decade of high-volume GLP-1 demand. If GLP-1 prescriptions flatten or decline, that capital is stranded. West Pharmaceutical's 20%+ revenue growth assumes injectable-therapy demand stays strong. If payers shift reimbursement toward oral GLP-1 alternatives or if development of rival drug categories accelerates, component demand evaporates. Cencora's specialty logistics platform is being built specifically to handle GLP-1 cold-chain and direct-to-patient shipping. If half of GLP-1 prescriptions get filled through retail pharmacies or direct-to-consumer models instead, the specialty infrastructure becomes overbuilt. BrightSpring's home-health mix assumes GLP-1 therapy remains home-injectable. The tension breaks when volume assumptions reverse or when alternative delivery channels bypass the existing infrastructure ecosystem.",
-  "surprising_part": "The surprising part is that GLP-1 infrastructure is being built by the same healthcare middle-layer companies that were already positioned in device manufacturing, distribution, and home health—not by new entrants or by GLP-1 manufacturers themselves. Becton Dickinson did not start from scratch to build prefillable-syringe capacity for GLP-1; it expanded existing pharmaceutical-device manufacturing using BD's existing relationships, capital access, and healthcare-system embedded position. West Pharmaceutical was already the dominant supplier of injectable-drug components for biologics and specialty therapies; GLP-1 demand just accelerated a category that was already part of its portfolio. Cencora was already the largest pharmaceutical distributor; it simply had to add specialty-logistics and direct-to-patient routing services layered onto its existing infrastructure. BrightSpring was already providing home health and specialty pharmacy; it added GLP-1 monitoring and injection administration to existing patient relationships. The infrastructure buildout is not a new industry. It is an acceleration and layering of existing healthcare middle-layer capabilities onto a new high-volume drug category. That means the winners have already been selected by their existing market position, and new entrants cannot easily displace them.",
-  "one_sentence": "GLP-1 drugs are turning medical device manufacturers, pharmaceutical distributors, and home-health operators into infrastructure providers whose prefillable syringes, cold-chain logistics, and home-based care coordination have become as essential to senior therapy as the drug itself.",
-  "societal_stake": "GLP-1 infrastructure matters because it determines whether seniors can actually access GLP-1 therapy consistently and safely, not just whether they can get a prescription. If the prefillable-syringe supply cannot scale, seniors face shortages and higher costs. If specialty-logistics infrastructure breaks down, drug stability and cold-chain compliance fail. If home-health integration stays weak, seniors on GLP-1 therapy with complex comorbidities do not get monitored for adherence, side effects, or dose adjustment. The infrastructure is what turns an injectable drug into a usable therapy in a home setting. For seniors on fixed incomes, the reliability and cost-effectiveness of that infrastructure often determines whether they stick with therapy or stop. The tension is that private companies building this infrastructure are optimizing for profit, not for universal access or affordability. If the infrastructure remains concentrated among high-income seniors in well-served markets, the benefit of GLP-1 therapies becomes another vector for healthcare inequality.",
-  "evidence": [
-    {
-      "company": "Becton Dickinson and Company",
-      "fact": "Q1 FY2026 materials highlighted a $110 million investment in Nebraska to expand prefillable-syringe capacity for biologics and GLP-1 drug delivery"
-    },
-    {
-      "company": "Becton Dickinson and Company",
-      "fact": "Q3 FY2026 management highlighted a 'semaglutide-related collaboration in Brazil' among strategic relationships, showing explicit GLP-1 product engagement"
-    },
-    {
-      "company": "West Pharmaceutical Services Inc.",
-      "fact": "Q1 2026 net sales reached $844.9 million, up 21.0% with management framing demand as extending beyond volume into more complex, higher-value injectable components"
-    },
-    {
-      "company": "West Pharmaceutical Services Inc.",
-      "fact": "Q2 2026 net sales were $872.3 million, up 13.8%, with management highlighting continued high-value product demand and strong execution across delivery and packaging stack"
-    },
-    {
-      "company": "Cencora Inc.",
-      "fact": "Q2 FY2026 management noted that 'higher GLP-1 sales lowered gross-profit margin percentage even as revenue and gross profit grew,' signaling GLP-1 volume inflection"
-    },
-    {
-      "company": "Cencora Inc.",
-      "fact": "Fiscal 2025 U.S. Healthcare Solutions operating income grew 22%, with company citing broad-based specialty utilization strength including GLP-1 as a category driver"
-    },
-    {
-      "company": "BrightSpring Health Services Inc.",
-      "fact": "Q2 2026 home health average daily census reached 46,448, up 54% year-over-year, with revenue per script at $314.20 reflecting higher-value specialty medication mix"
-    },
-    {
-      "company": "BrightSpring Health Services Inc.",
-      "fact": "Fiscal 2025 BrightSpring fulfilled 43 million prescriptions serving more than 465,000 patients daily across all 50 states in integrated home and community healthcare"
-    }
-  ]
+ "slug": "glp1-home-delivery",
+ "trend_slug": "gray-wave-dividend",
+ "name": "GLP-1 at Home: Syringe Makers, Specialty Pharma, and Home Health Capturing the Senior Care Buildout",
+ "deck": "GLP-1 medications are not just pharmaceutical revenue—they are creating new infrastructure requirements cascading through device manufacturers, specialty pharmacies, and home-health operators already embedded in senior-care networks. Becton Dickinson invested $110 million in prefillable syringes for GLP-1 delivery. West Pharmaceutical saw injectable net sales grow 21% in Q1 2026. BrightSpring's home-health census grew 54% year-over-year in Q2 2026. Together, these companies are building infrastructure toll around GLP-1 delivery that seniors will depend on for the next decade.",
+ "core_bet": "GLP-1 medications are generating infrastructure demand across the entire home-delivery ecosystem that will be captured by scaled companies already positioned in device manufacturing, distribution, and home health. Becton Dickinson's $110 million Nebraska investment for prefillable-syringe capacity was explicitly framed as support for GLP-1 and biologic-drug delivery—capital deployment triggered by forecast that GLP-1 prescription volume requires scaled syringe manufacturing capacity that does not yet exist domestically. West Pharmaceutical's 21% net sales growth in Q1 2026 and 13.8% in Q2 2026 came from demand for prefillable components and high-value delivery systems enabling GLP-1 administration. BrightSpring served 465,000 patients daily and fulfilled 43 million prescriptions in 2025, capturing GLP-1 volume within integrated home and community healthcare. The infrastructure companies capture value by sitting in the middle of a drug category with inelastic demand, mandatory compliance requirements, and customer switching costs tied to prescription refills and home-delivery relationships.",
+ "numbers": [
+  {
+   "stat": "$110 million",
+   "label": "Becton Dickinson investment in Nebraska to expand prefillable-syringe capacity for GLP-1 drug delivery (Q1 FY2026)"
+  },
+  {
+   "stat": "21.0%",
+   "label": "West Pharmaceutical Q1 2026 net sales growth ($844.9M), reflecting demand for complex, higher-value injectable components"
+  },
+  {
+   "stat": "13.8%",
+   "label": "West Pharmaceutical Q2 2026 net sales growth ($872.3M), showing continued high-value product demand and delivery/packaging stack expansion"
+  },
+  {
+   "stat": "$3.07 billion",
+   "label": "West Pharmaceutical full-year 2025 net sales with strong high-value product components demand"
+  },
+  {
+   "stat": "54%",
+   "label": "BrightSpring home-health average daily census year-over-year growth in Q2 2026 to 46,448 patients"
+  },
+  {
+   "stat": "43 million",
+   "label": "BrightSpring prescriptions fulfilled in 2025 serving 465,000 patients daily across 50 states"
+  },
+  {
+   "stat": "$314.20",
+   "label": "BrightSpring revenue per script in Q2 2026, up from lower prior levels as GLP-1 and specialty medications drive higher-value prescription mix"
+  },
+  {
+   "stat": "22%",
+   "label": "Cencora U.S. Healthcare Solutions operating income growth FY2025, with management citing specialty utilization strength including GLP-1"
+  }
+ ],
+ "mechanism": [
+  "GLP-1 infrastructure demand operates across the entire home-delivery ecosystem starting with the prefillable device itself. GLP-1 medications—Ozempic, Mounjaro, Saxenda—come in injectable form requiring prefillable syringes, auto-injector components, and delivery systems manufactured to pharmaceutical-grade standards. Becton Dickinson's $110 million Nebraska prefillable-syringe investment was explicitly framed as support for GLP-1 and biologic-drug delivery, representing capital deployment triggered by forecast that millions of seniors adopting GLP-1 will require scaled syringe manufacturing capacity not yet available domestically. This is not modest factory expansion; it is strategic capital deployment to eliminate supply-chain risk for a decade-long prescription trend. West Pharmaceutical's 21% Q1 2026 and 13.8% Q2 2026 net sales growth came from this exact mechanism—demand for prefillable components, high-value product attachments, and delivery systems enabling GLP-1 administration. As millions of seniors adopt GLP-1 therapies, the syringes, cartridges, and delivery hardware must supply reliably.",
+  "The second layer is specialty logistics and direct-to-patient distribution creating new infrastructure within existing supply chains. Cencora's Q2 FY2026 management commentary was revealing: higher GLP-1 sales lowered gross-profit margin percentage even as revenue and gross profit grew. This signals a critical middle-layer dynamic. GLP-1 drugs move through the distribution system at scale with high volume and frequency, but compress margin percentage through volume pricing and manufacturer competition. Yet Cencora still profits absolutely because volume increases total throughput. More importantly, GLP-1 delivery requires specialty logistics infrastructure—cold-chain management, controlled handling, direct-to-patient or direct-to-provider shipment. This moves GLP-1 flow away from retail-pharmacy-counter bulk distribution into specialty infrastructure platforms like Cencora's that must be built and maintained as service offerings. Cencora's U.S. Healthcare Solutions operating income grew 22% in FY2025 partly because specialty distribution (including GLP-1) creates margin through platform services beyond simple wholesale.",
+  "The third layer is home-based pharmacy and clinical integration turning injectable drugs into managed care programs. BrightSpring Health Services served 465,000 patients daily across 50 states and fulfilled 43 million prescriptions in 2025. In Q2 2026, home-health average daily census reached 46,448, up 54% year-over-year. Revenue per script rose to $314.20 and gross profit per script to $27.50, metrics reflecting mix shift toward GLP-1 and specialty medications carrying higher acquisition costs and clinical complexity. BrightSpring's model coordinates pharmacy, infusion, clinical visits, and supportive care—exactly the infrastructure that turns an injectable drug into a managed care program. GLP-1 therapy requires patient monitoring, dose adjustment, coordination with other senior services, and integration with home-health visits. As millions of seniors adopt GLP-1, the home-health platform that can deliver the drug, monitor adherence, and adjust therapy becomes as critical as the drug manufacturer itself. BrightSpring's profitability proves coordinated care delivers value that justifies premium pricing and margin expansion."
+ ],
+ "why_now": "GLP-1 infrastructure demand became acute in 2025-2026 because prescribing expanded from early-adopter endocrinologists into primary care, senior centers, and Medicare Advantage plans at scale. Medicare Part D beneficiaries are now prescribed GLP-1s for weight management in volume. Becton Dickinson's $110 million prefillable-syringe investment was explicitly tied to supply-chain risk and the need for domestic manufacturing capacity to serve tens of millions of seniors over the next decade. West Pharmaceutical's 21% Q1 2026 revenue growth reflects the same inflection. Cencora's commentary on GLP-1 margin compression signals the volume threshold has been crossed. The infrastructure buildout now has to catch up. The specific inflection: when Medicare and Medicaid began reimbursing GLP-1 for weight management (not just diabetes), prescribing volume crossed from niche endocrinology into primary care—creating the demand compression that forced Becton Dickinson and West Pharmaceutical to announce capacity expansions.",
+ "who_pays": "Three constituencies pay for GLP-1 infrastructure expansion. First, Medicare and Medicaid directly fund it through higher reimbursement rates for specialty pharmacy services, prefillable-syringe components, and home-health visits tied to GLP-1 management. Second, commercial insurers and employers pay through higher plan costs for specialty medication acquisition and home-delivery infrastructure as obesity and diabetes management expenses spike. Third, seniors and patients themselves pay through out-of-pocket cost-sharing on specialty medications and through foregone investment that could have funded other health services. The infrastructure costs—cold-chain logistics, specialty pharmacy licensing, home-health coordination—are not free; they are bundled into total cost of care and absorbed through the healthcare system's payment mechanisms.",
+ "who_profits": "The winners are scaled companies already operating in senior-care, specialty-logistics, or pharmaceutical-device spaces who can layer GLP-1-specific infrastructure without building new platforms. Becton Dickinson profits by filling new prefillable-syringe capacity with GLP-1 orders and commanding premium pricing on pharmaceutical delivery components. West Pharmaceutical benefits directly: consistent 13-21% revenue growth in 2026 quarters driven by injectable-component demand from GLP-1 and biologic therapies. Cencora profits through absolute volume growth even as percentage margins compress, because GLP-1 distribution requires specialty logistics platforms that command fees beyond simple wholesale margin. BrightSpring profits by offering integrated home-based care bundling medication management, monitoring, and clinical coordination around GLP-1 therapy—a service that higher-acuity, lower-income seniors will increasingly depend on as GLP-1 becomes standard care. The infrastructure companies capture value through sitting in the middle of a drug category with inelastic demand, mandatory compliance, and customer switching costs tied to prescription refills and home relationships.",
+ "tension": "The core tension is that GLP-1 infrastructure costs are sunk capital investments assuming high, sustained prescription volume—but volume could reverse if efficacy data weakens, if manufacturers launch cheaper alternatives, or if payers impose utilization restrictions. Becton Dickinson's $110 million syringe factory assumes a decade of high-volume GLP-1 demand. If prescriptions flatten or decline, that capital is stranded. West Pharmaceutical's 20%+ revenue growth assumes injectable-therapy demand stays strong; if payers shift reimbursement toward oral GLP-1 alternatives or if rival drug categories emerge, component demand evaporates. Cencora's specialty logistics platform is being built specifically for GLP-1 cold-chain and direct-to-patient shipping. If half of GLP-1 prescriptions get filled through retail pharmacies or direct-to-consumer models instead, specialty infrastructure becomes overbuilt. BrightSpring's home-health mix assumes GLP-1 therapy remains home-injectable. The tension breaks when volume assumptions reverse or when alternative delivery channels bypass the existing infrastructure ecosystem.",
+ "surprising_part": "The surprising part is that GLP-1 infrastructure is being built not by new entrants or GLP-1 manufacturers, but by the same healthcare middle-layer companies already positioned in device manufacturing, distribution, and home health. Becton Dickinson did not start from scratch to build prefillable-syringe capacity; it expanded existing pharmaceutical-device manufacturing using existing relationships and capital access. West Pharmaceutical was already the dominant supplier of injectable-drug components for biologics; GLP-1 demand just accelerated a category already in its portfolio. Cencora was already the largest pharmaceutical distributor; it simply layered specialty-logistics services onto existing infrastructure. BrightSpring was already providing home health and specialty pharmacy; it added GLP-1 monitoring to existing patient relationships. The infrastructure buildout is not a new industry. It is acceleration and layering of existing capabilities onto a high-volume drug category. This means winners have already been selected by existing market position, and new entrants cannot easily displace them.",
+ "one_sentence": "GLP-1 drugs are turning medical device manufacturers, pharmaceutical distributors, and home-health operators into infrastructure providers whose prefillable syringes, cold-chain logistics, and home-based care coordination have become essential to senior therapy as the drug itself.",
+ "societal_stake": "GLP-1 infrastructure determines whether seniors can access therapy consistently and safely, not just get prescriptions. If prefillable-syringe supply cannot scale, seniors face shortages and higher costs. If specialty-logistics breaks down, drug stability fails. If home-health integration stays weak, seniors with complex comorbidities do not get monitored for adherence, side effects, or dose adjustment. For seniors on fixed incomes, infrastructure reliability and cost-effectiveness often determine whether they stick with therapy or stop. The infrastructure remains concentrated among high-income seniors in well-served markets, turning GLP-1 therapy access into another vector for healthcare inequality. Private companies building this infrastructure are optimizing for profit, not universal access or affordability.",
+ "evidence": [
+  {
+   "company": "Becton Dickinson and Company",
+   "fact": "Q1 FY2026 announcement of $110 million investment in Nebraska to expand prefillable-syringe capacity for biologics and GLP-1 drug delivery"
+  },
+  {
+   "company": "Becton Dickinson and Company",
+   "fact": "Q3 FY2026 materials highlighted semaglutide-related collaboration in Brazil among strategic relationships, showing explicit GLP-1 product engagement"
+  },
+  {
+   "company": "West Pharmaceutical Services Inc.",
+   "fact": "Q1 2026 net sales $844.9M up 21.0% with demand framed as extending beyond volume into complex, higher-value injectable components"
+  },
+  {
+   "company": "West Pharmaceutical Services Inc.",
+   "fact": "Q2 2026 net sales $872.3M up 13.8% with continued high-value product demand and strong delivery and packaging stack execution"
+  },
+  {
+   "company": "Cencora Inc.",
+   "fact": "Q2 FY2026 management noted higher GLP-1 sales lowered gross-profit margin percentage even as revenue and gross profit grew, signaling GLP-1 volume inflection"
+  },
+  {
+   "company": "Cencora Inc.",
+   "fact": "Fiscal 2025 U.S. Healthcare Solutions operating income grew 22%, with company citing specialty utilization strength including GLP-1"
+  },
+  {
+   "company": "BrightSpring Health Services Inc.",
+   "fact": "Q2 2026 home health average daily census 46,448 up 54% year-over-year with revenue per script $314.20 reflecting higher-value specialty medication mix"
+  },
+  {
+   "company": "BrightSpring Health Services Inc.",
+   "fact": "Fiscal 2025 fulfilled 43 million prescriptions serving 465,000+ patients daily in integrated home and community healthcare across 50 states"
+  }
+ ]
 }

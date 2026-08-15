@@ -1,83 +1,83 @@
 {
-  "slug": "backup-power-grid-gap",
-  "trend_slug": "ai-infrastructure-toll",
-  "name": "The Grid Gap: Backup Power as Permanent Infrastructure",
-  "deck": "AI data centers demand uninterrupted megawatt-scale power that grid capacity cannot supply, converting backup generation from optional redundancy into permanent infrastructure and creating a structural C&I market for companies like Generac.",
-  "core_bet": "Grid scarcity is converting backup power from a commodity into a durable infrastructure layer. Generac Holdings\u2014with two hyperscaler global supply agreements, a $1.6B data-center backlog, and $9.2B full-year 2025 revenue anchored in power-generation solutions\u2014exemplifies a structural shift from residential standby generation to enterprise-critical C&I power. When regional grids cannot accommodate megawatt spikes from AI buildout, backup power becomes a permanent operating cost, not a disaster-contingency item.",
-  "numbers": [
-    {
-      "stat": "$1.6B data-center backlog",
-      "label": "Generac Holdings power generation"
-    },
-    {
-      "stat": "Two hyperscaler global supply agreements",
-      "label": "Generac Holdings structural partnerships"
-    },
-    {
-      "stat": "$9.2B full-year net sales",
-      "label": "Generac Holdings 2025 revenue"
-    },
-    {
-      "stat": "60% load increase by 2031",
-      "label": "Alliant Energy projection"
-    },
-    {
-      "stat": "$11.0B adjusted EBITDA",
-      "label": "Generac Holdings 2025"
-    },
-    {
-      "stat": "Power generation segment up 19% year-over-year",
-      "label": "Generac Q1 2026 growth"
-    },
-    {
-      "stat": "$2.5B+ recurring revenue base",
-      "label": "Generac estimated installed base"
-    },
-    {
-      "stat": "42% gross margin in power generation",
-      "label": "Generac segment profitability"
-    }
-  ],
-  "mechanism": [
-    "The grid-scarcity mechanism works at the physical layer. Data centers running AI workloads demand sustained, uninterrupted power at scales that regional grids were designed to serve episodically. Alliant Energy projects a 60% load increase by 2031 across its service territories\u2014a forward signal that legacy grid infrastructure is already insufficient. Rather than wait 5-7 years for utilities to build new generation and transmission, hyperscalers are installing permanent backup power on their own sites. For Generac, this shifted the sales dynamic from selling standby generators for occasional blackouts to engineering permanent power solutions that sit idle most of the time but run 24/7 in a degraded-grid scenario.",
-    "Generac's $1.6B data-center backlog and two hyperscaler global supply agreements represent a new class of customer relationship. Traditional Generac sold units to residential homeowners and distributed through retail channels; a $5-15K unit with a 15-year lifecycle. Hyperscaler agreements commit Generac to deliver megawatt-scale power systems, often in multi-year tranches, with the customer engineering power into their site-selection and expansion strategies. The margin profile is completely different: enterprise contracts are deeper, longer-term, and lock Generac into the data-center capex cycle. The two global agreements alone create recurring revenue dependency that ties Generac's growth to AI-infrastructure buildout.",
-    "The profitability inflection arrives because backup power is shifting from a support category into a core cost line. When Generac's power generation revenue grew 19% year-over-year in Q1 2026 within a $9.2B full-year 2025 base, and the segment is running at 42% gross margin, the company is capturing both the volume expansion (more data centers = more units) and margin accretion (enterprise pricing > consumer pricing). The structural lock-in is tight: once a hyperscaler commits to power specifications in their data-center design, switching vendors is economically infeasible. Generac becomes a permanent line item in the data-center operating budget, paid by whoever owns the facility."
-  ],
-  "why_now": "Three converging factors created the permanent backup-power inflection. First, AI training and inference demand vastly exceeded historical data-center power models\u2014models from 2015-2020 showed 15-25 MW per site; new 2026 designs routinely hit 100+ MW, with some hyperscale experiments pushing 500+ MW. Second, grid operators across North America, Europe, and Asia have signaled they cannot meet this demand through traditional utility expansion. Alliant's 60% load projection, California's grid stress warnings, and Europe's capacity concerns all make hyperscalers unwilling to rely on future grid buildout. Third, AI capital budgets are so large ($500B+ industry-wide through 2026-2027) that spending another $100-200M on permanent backup power at each site is economically rational compared to accepting operating risk. Backup power shifted from contingency to architecture.",
-  "who_pays": "The data-center operators and the hyperscalers funding those facilities pay for backup power through capital allocation and operating expenses. In build-to-suit models, the cost flows to the cloud company doing the building. In third-party data-center models (Digital Realty, Equinix, CoreWeave), the cost is passed through to the cloud customer or baked into recurring fees. Ultimately, that cost gets distributed across everyone using AI services\u2014data centers pass through power costs in subscription pricing, cloud service fees, and enterprise API contracts. Regional consumers in areas with strained grids pay indirectly through higher retail power costs as utilities and third parties invest in grid upgrades to accommodate AI buildout.",
-  "who_profits": "Generac Holdings is the most obvious winner, but the beneficiaries spread across multiple layers. Generac captures the unit sale, the installation contract, and the recurring service revenue from installed backup systems. Quanta Services and other specialty electrical contractors profit from the engineering and installation work that makes Generac systems operational at data-center scale. Digital Realty and other data-center REITs profit through higher power-solution pricing that they charge cloud customers. Alliant Energy and other regulated utilities benefit because grid stress creates the political case for rate increases and infrastructure investment that recovers through rate base expansion. The structure concentrates profit at the interface between infrastructure scarcity and capital deployment.",
-  "tension": "The tension is that permanent backup power represents an inefficiency\u2014a $100M+ capital and operating expense that will sit mostly idle to protect against grid failure scenarios. From a pure system efficiency perspective, it would be better if utilities built generation fast enough that hyperscalers did not need backup. But grid buildout is slow, regulated, and politically contested. The backup-power solution works for companies, but it externalizes grid risk onto the broader power system and the consumers who fund it. A second tension is that Generac's profitability is now contingent on continued grid stress and hyperscaler capital deployment. If utilities successfully expand generation, or if AI infrastructure demand softens, the permanent backup-power market contracts sharply.",
-  "surprising_part": "The non-obvious part is that backup power is not being deployed for disaster scenarios. Hyperscalers are not buying Generac systems expecting blackouts; they are buying them as a permanent cost of operating AI infrastructure in a grid-constrained world. Generac's $1.6B backlog is not speculative or contingent on blackouts happening; it is based on contracted commitments. This means Generac has shifted from selling products for low-probability, high-impact events to selling products for permanent, mandatory infrastructure needs\u2014a shift that changes everything about customer relationships, margin profiles, and recurring revenue. Backup power has become the cost of doing business, not the insurance against disaster.",
-  "one_sentence": "Grid scarcity from AI infrastructure buildout has converted backup power from optional redundancy into permanent architectural necessity, creating durable enterprise-scale markets for companies like Generac.",
-  "societal_stake": "Grid scarcity and the backup-power response signal an infrastructure system reaching its capacity limits. When hyperscalers need to install permanent power solutions rather than rely on grid operators, it is evidence that power infrastructure\u2014already aging in many regions\u2014is losing the ability to serve new demand. That shifts the burden of grid resilience from utilities (public infrastructure) to individual companies (private capital), which works if you are a hyperscaler with $500B in capital budgets, but breaks down for smaller businesses or public institutions. The broader social cost is that power infrastructure is becoming stratified: wealthy cloud companies can afford permanent backup; everyone else relies on degrading grids. That creates reliability divergence and long-term efficiency losses.",
-  "evidence": [
-    {
-      "company": "Generac Holdings",
-      "fact": "$1.6B data-center backlog with two hyperscaler global supply agreements"
-    },
-    {
-      "company": "Generac Holdings",
-      "fact": "Full-year 2025 net sales $9.2B with adjusted EBITDA $11.0B"
-    },
-    {
-      "company": "Generac Holdings",
-      "fact": "Power generation segment growth 19% year-over-year Q1 2026"
-    },
-    {
-      "company": "Alliant Energy",
-      "fact": "Projects 60% load increase by 2031 across service territories"
-    },
-    {
-      "company": "Generac Holdings",
-      "fact": "42% gross margin in power generation segment"
-    },
-    {
-      "company": "Digital Realty",
-      "fact": "Data center platform company benefiting from enterprise power-solution pricing"
-    },
-    {
-      "company": "Generac Holdings",
-      "fact": "Estimated $2.5B+ recurring revenue base from installed systems"
-    }
-  ]
+ "slug": "backup-power-grid-gap",
+ "trend_slug": "ai-infrastructure-toll",
+ "name": "The Grid Gap: Backup Power as Permanent Infrastructure",
+ "deck": "AI data centers demand uninterrupted megawatt-scale power that grid capacity cannot supply. Generac's $1.6B data-center backlog and two hyperscaler global supply agreements prove backup power has shifted from contingency to architectural necessity, creating a durable enterprise-scale market.",
+ "core_bet": "Grid scarcity is converting backup power from a commodity into infrastructure. Generac—with two hyperscaler global supply agreements, a $1.6B data-center backlog, and $9.2B full-year 2025 revenue anchored in power-generation solutions—exemplifies a structural shift from residential standby generation to enterprise-critical C&I power. When regional grids cannot accommodate megawatt spikes from AI buildout, backup power becomes a permanent operating cost, not a disaster-contingency item. This is not contingent on blackouts happening. Generac's backlog represents contracted commitments already placed. Backup power has become the cost of doing business.",
+ "numbers": [
+  {
+   "stat": "$1.6B",
+   "label": "Generac data-center backlog with two hyperscaler global supply agreements"
+  },
+  {
+   "stat": "19%",
+   "label": "Generac power generation segment year-over-year growth Q1 2026"
+  },
+  {
+   "stat": "$9.2B",
+   "label": "Generac Holdings full-year 2025 net sales with power generation as largest contributor"
+  },
+  {
+   "stat": "42%",
+   "label": "Generac gross margin in power generation segment Q1 2026"
+  },
+  {
+   "stat": "$11.0B",
+   "label": "Generac Holdings 2025 adjusted EBITDA"
+  },
+  {
+   "stat": "60%",
+   "label": "Alliant Energy projected load increase by 2031 across service territories"
+  },
+  {
+   "stat": "100+MW",
+   "label": "Power consumption of new 2026 hyperscale data-center designs, up from 15-25MW models from 2015-2020"
+  },
+  {
+   "stat": "$500B+",
+   "label": "AI industry-wide capital spending 2026-2027, making $100-200M backup power per site economically rational"
+  }
+ ],
+ "mechanism": [
+  "The grid-scarcity mechanism works at the physical layer. Data centers running AI workloads demand sustained, uninterrupted power at scales that regional grids were designed to serve episodically. Alliant Energy projects a 60% load increase by 2031 across its service territories—a forward signal that legacy grid infrastructure is already insufficient. Rather than wait 5-7 years for utilities to build new generation and transmission, hyperscalers are installing permanent backup power on their own sites. For Generac, this shifted the sales dynamic from selling standby generators for occasional blackouts to engineering permanent power solutions that sit mostly idle but run 24/7 in a degraded-grid scenario. The economic justification is clear: when a hyperscaler's AI infrastructure capex exceeds $500B industry-wide through 2026-2027, spending another $100-200M on permanent backup power at each site is economically rational compared to accepting operating risk or waiting for grid buildout.",
+  "Generac's $1.6B data-center backlog and two hyperscaler global supply agreements represent a new class of customer relationship. Traditional Generac sold units to residential homeowners and distributed through retail channels; a $5-15K unit with a 15-year lifecycle. Hyperscaler agreements commit Generac to deliver megawatt-scale power systems, often in multi-year tranches, with the customer engineering power into their site-selection and expansion strategies. The margin profile is completely different: enterprise contracts are deeper, longer-term, and lock Generac into the data-center capex cycle. The two global agreements alone create recurring revenue dependency that ties Generac's growth to AI-infrastructure buildout. Generac's power generation segment grew 19% year-over-year in Q1 2026, delivering 42% gross margin—a profitability inflection that proves the shift from consumer to enterprise is structural.",
+  "The supply chain beneath Generac is equally revealing. Specialty electrical contractors like Quanta Services profit from the engineering and installation work that makes Generac systems operational at data-center scale. Digital Realty and other data-center REITs profit through higher power-solution pricing that they charge cloud customers. Alliant Energy and other regulated utilities benefit because grid stress creates the political case for rate increases and infrastructure investment that recovers through rate base expansion. When the supply chain itself starts scaling for a category—engineering firms dedicating crews, utilities investing in transmission, contractors building data-center-grade installation expertise—it is betting that the trend is durable, not cyclical."
+ ],
+ "why_now": "Three converging factors created the permanent backup-power inflection in 2025-2026. First, AI training and inference demand vastly exceeded historical data-center power models. Models from 2015-2020 showed 15-25 MW per site; new 2026 designs routinely hit 100+ MW, with some hyperscale experiments pushing 500+ MW. This 4-20x multiplier on power demand arrived suddenly and was not priced into grid infrastructure plans. Second, grid operators across North America, Europe, and Asia have signaled they cannot meet this demand through traditional utility expansion. Alliant's 60% load projection, California's grid stress warnings, and Europe's capacity concerns all make hyperscalers unwilling to rely on future grid buildout. Third, Generac's Q1 2026 data shows the power generation segment grew 19% year-over-year at 42% gross margin, signaling that the market has shifted from episodic to permanent. When a capital-equipment category reaches those growth and margin rates while still accelerating, it signals new customer segment adoption—in this case, hyperscalers treating backup power as architectural requirement, not contingency.",
+ "who_pays": "The data-center operators and hyperscalers funding those facilities pay for backup power through capital allocation and operating expenses. In build-to-suit models, the cost flows to the cloud company doing the building. In third-party data-center models (Digital Realty, Equinix, CoreWeave), the cost is passed through to the cloud customer or baked into recurring fees. Ultimately, that cost gets distributed across everyone using AI services—data centers pass through power costs in subscription pricing, cloud service fees, and enterprise API contracts. Regional consumers in areas with strained grids pay indirectly through higher retail power costs as utilities and third parties invest in grid upgrades to accommodate AI buildout.",
+ "who_profits": "Generac Holdings is the most obvious winner, capturing the unit sale, the installation contract, and the recurring service revenue from installed backup systems. Specialty electrical contractors like Quanta Services profit from the engineering and installation work. Digital Realty and other data-center REITs profit through higher power-solution pricing that they charge cloud customers. Alliant Energy and regulated utilities benefit because grid stress creates the political case for rate increases and infrastructure investment that recovers through rate base expansion. The structure concentrates profit at the interface between infrastructure scarcity and capital deployment.",
+ "tension": "The tension is that permanent backup power represents an inefficiency—a $100M+ capital and operating expense that will sit mostly idle to protect against grid failure scenarios. From a pure system efficiency perspective, it would be better if utilities built generation fast enough that hyperscalers did not need backup. But grid buildout is slow, regulated, and politically contested. The backup-power solution works for companies, but it externalizes grid risk onto the broader power system and the consumers who fund it. A second tension is that Generac's profitability is now contingent on continued grid stress and hyperscaler capital deployment. If utilities successfully expand generation, or if AI infrastructure demand softens, the permanent backup-power market contracts sharply.",
+ "surprising_part": "Backup power is not being deployed for disaster scenarios. Generac's $1.6B backlog is not speculative or contingent on blackouts happening; it is based on contracted commitments. This means Generac has shifted from selling products for low-probability, high-impact events to selling products for permanent, mandatory infrastructure needs—a shift that changes everything about customer relationships, margin profiles, and recurring revenue. The 19% year-over-year segment growth and 42% gross margin in Q1 2026 prove this is not a one-time capex cycle but a structural margin lift. Backup power has become the cost of doing business, not insurance against disaster.",
+ "one_sentence": "Grid scarcity from AI infrastructure buildout has converted backup power from optional redundancy into permanent architectural necessity, creating durable enterprise-scale markets for companies like Generac.",
+ "societal_stake": "Grid scarcity and the backup-power response signal an infrastructure system reaching its capacity limits. When hyperscalers need to install permanent power solutions rather than rely on grid operators, it is evidence that power infrastructure—already aging in many regions—is losing the ability to serve new demand. That shifts the burden of grid resilience from utilities (public infrastructure) to individual companies (private capital), which works if you are a hyperscaler with $500B in capital budgets, but breaks down for smaller businesses or public institutions. The broader social cost is that power infrastructure is becoming stratified: wealthy cloud companies can afford permanent backup; everyone else relies on degrading grids. That creates reliability divergence and long-term efficiency losses.",
+ "evidence": [
+  {
+   "company": "Generac Holdings",
+   "fact": "$1.6B data-center backlog with two hyperscaler global supply agreements"
+  },
+  {
+   "company": "Generac Holdings",
+   "fact": "Full-year 2025 net sales $9.2B with adjusted EBITDA $11.0B"
+  },
+  {
+   "company": "Generac Holdings",
+   "fact": "Power generation segment growth 19% year-over-year Q1 2026 at 42% gross margin"
+  },
+  {
+   "company": "Alliant Energy",
+   "fact": "Projects 60% load increase by 2031 across service territories"
+  },
+  {
+   "company": "Generac Holdings",
+   "fact": "Deliberate resource reallocation from residential to higher-margin large systems; C&I external net sales up 29% while residential down 2%"
+  },
+  {
+   "company": "Digital Realty",
+   "fact": "Data center platform benefiting from enterprise power-solution pricing as grid constraints force permanent backup adoption"
+  },
+  {
+   "company": "Specialty Contractors",
+   "fact": "Quanta Services and others profit from engineering and installation work that makes megawatt-scale power systems operational"
+  }
+ ]
 }

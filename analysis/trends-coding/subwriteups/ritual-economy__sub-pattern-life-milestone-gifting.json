@@ -1,88 +1,87 @@
 {
-  "slug": "sub-pattern-life-milestone-gifting",
-  "trend_slug": "ritual-economy",
-  "name": "The Engagement Premium: How Milestones Survive Affordability Pressure Through Ritual Monetization",
-  "deck": "Milestone and gifting spending (engagements, weddings, anniversaries, holidays) survives consumer affordability pressure because it carries social and emotional weight that transcends discretionary budget constraints. Signet's bridal up 6%, fashion up 8%, Build-A-Bear's Heart Ceremony, and Etsy's gifting focus show ritual demand is price-inelastic and occasion-driven, not consumption-driven.",
-  "core_bet": "Signet, Build-A-Bear, and Etsy all monetize ritual moments—weddings, anniversaries, birthdays, graduations, commemorations—where consumer spending is driven by social obligation and emotional significance rather than by utilitarian need or broad discretionary budget. These moments are non-deferrable: weddings happen on specific dates, engagement announcements require decisions, milestone anniversaries demand recognition. That makes them structurally price-inelastic. Signet Q1 FY27 merchandise AUR was up 5% with bridal and fashion both growing, showing consumers absorbed higher prices for occasion-driven purchases even while broader discretionary spending compressed.",
-  "numbers": [
-    {
-      "stat": "6%",
-      "label": "Signet bridal sales growth, full-year FY26"
-    },
-    {
-      "stat": "8%",
-      "label": "Signet fashion jewelry growth, full-year FY26"
-    },
-    {
-      "stat": "5%",
-      "label": "Signet merchandise AUR increase, Q1 FY27"
-    },
-    {
-      "stat": "7%",
-      "label": "Signet bridal AUR increase, Q1 FY27"
-    },
-    {
-      "stat": "8%",
-      "label": "Signet fashion jewelry AUR increase, Q1 FY27"
-    },
-    {
-      "stat": "$529.8 million",
-      "label": "Build-A-Bear total revenues, FY2025 (record level)"
-    },
-    {
-      "stat": "$67.2 million",
-      "label": "Build-A-Bear pre-tax income, FY2025 (essentially flat vs $67.1M in 2024 despite $11M tariff cost)"
-    },
-    {
-      "stat": "662 global locations",
-      "label": "Build-A-Bear at FY2025 year-end (375 corporate, 178 partner-operated, 109 franchise)"
-    }
-  ],
-  "mechanism": [
-    "Ritual demand operates through obligation and emotional significance, not through normal discretionary budget logic. When a consumer decides to marry, they do not skip the engagement ring or wedding ceremony because budget is tight. Instead, they adjust the price point within the category or delay other discretionary spending. Signet observed this in FY26 full-year results: same-store sales grew 1.3%, merchandise AUR grew, and both bridal and fashion jewelry expanded. Signet CEO called out Valentine's Day and Mother's Day as strong performance drivers, showing that even during affordability pressure, consumers still celebrated occasions.",
-    "Build-A-Bear monetizes the ritual of gifting and commemoration directly. The Heart Ceremony is not a product; it is a moment of personalization and emotional attachment. Consumers visit the store to participate in creating a customized friend, perform a symbolic heart-placement ritual, and leave with a keepsake. That is social and emotional infrastructure, not toy retail. FY2025 revenues were record at $529.8 million, and pre-tax income stayed essentially flat at $67.2 million despite an $11 million tariff hit. The company absorbed commodity cost increases without surrendering the margin because ritual demand is inelastic—people still buy for birthdays, graduations, and family milestones even when budgets tighten.",
-    "Etsy's 86.5 million active buyers explicitly use the platform for gifting, holidays, and personal milestones. Management framed cross-category purchase occasions (weddings, personal milestones, holidays) as a key focus area. That is different from Etsy being 'a marketplace that happens to include gifts.' Gifting is part of the business model and pricing architecture. Etsy take rates are relatively stable (24.5% in Q4 2025) because the business model relies on suppliers being able to charge prices that reflect the emotional and personalization value of occasion goods, not just their material cost.",
-    "The pricing mechanics work because ritual spending involves third-party signaling and social legitimacy. Wedding rings must be visible and credible symbols. Milestone gifts must be memorable and distinctive. Personalized items must carry authenticity. Those requirements create pricing umbrella: a commodity ring cannot substitute for an engagement ring because the ritual significance would be compromised. That is where Signet's AUR growth survives affordability pressure. Consumers reduce general discretionary spending but protect milestone spending because the social cost of appearing to economize on occasions is higher than the financial cost of paying full price."
-  ],
-  "why_now": "Affordability pressure has compressed discretionary spending broadly, but milestone and ritual spending has proven sticky. That bifurcation is now visible in company guidance and messaging. Signet guided to full-year adjusted EPS growth despite macro caution because bridal and fashion (occasion-driven) are outperforming. Build-A-Bear grew revenues and maintained profit despite tariff costs because the emotional and ritual value of the experience justifies pricing. Etsy's early growth in gifting-related categories shows platform alignment with occasion-driven demand. The inflection is that consumer research now explicitly separates ritual/occasion from discretionary, and companies are pricing accordingly.",
-  "who_pays": "Individual consumers pay more per occasion because ritual demand is price-inelastic. A wedding ring, anniversary gift, or milestone keepsake carries emotional weight that prevents price-shopping or category substitution. Consumers absorb the premium because the social cost of economizing is higher than the financial cost. Younger consumers may defer milestones (weddings, home purchase commemoration) but do not reduce the price once the event happens.",
-  "who_profits": "Owners of ritual and milestone experiences capture the value: Signet through bridal and anniversary jewelry, Build-A-Bear through personalized gifting and commemoration, Etsy through marketplace access to niche and personalized goods. These businesses can raise prices, protect margins, and grow revenue in occasion-driven segments even when general discretionary spending contracts because the demand is structural and emotional, not cyclical and budgetary.",
-  "tension": "The core tension is that milestone deferral could accelerate if affordability pressure becomes severe enough. If housing affordability worsens, younger consumers may delay engagements and weddings. If income inequality widens, lower-income consumers may reduce occasion spending. The resilience of ritual spending depends on it remaining culturally central and financially accessible to broad income cohorts. If occasion spending becomes restricted to high-income consumers, the TAM shrinks. For now, occasion spending is bifurcating sharply from general discretionary, but that bifurcation could reverse if economic stress persists.",
-  "surprising_part": "The most counter-intuitive signal is that bridal jewelry (Signet bridal +6%, AUR +6-7%) is outperforming fashion jewelry in absolute growth rate even as younger consumers express caution about weddings and marriage-related spending. The data suggests that when milestones do happen, spending is robust. So the bifurcation is not that milestone spending is weak; it is that the frequency of life events is normalizing after pandemic elevation, but the price per event is rising. That is a subtle but important distinction: the market is not shrinking, it is consolidating into fewer, higher-price transactions.",
-  "one_sentence": "Ritual and milestone spending survives affordability pressure because social obligation and emotional significance make it price-inelastic; consumers reduce discretionary spending but protect occasions because the social cost of economizing is higher than the financial cost of paying full price.",
-  "societal_stake": "This pattern reveals how modern consumer culture treats life milestones differently from routine consumption. Engagements, weddings, anniversaries, and commemorative gifting carry social meaning beyond the physical object. For wealthy consumers, that meaning supports premium pricing and exclusive experiences. For lower-income consumers, it creates pressure to spend beyond discretionary means to signal social participation and family status. The consequence is that milestone spending becomes a source of financial stress for consumers with lower incomes, even as it remains resilient for affluent consumers. That bifurcation means celebrations and ritual moments are becoming increasingly stratified by income, which has cultural and social consequences for inclusivity and shared experience.",
-  "evidence": [
-    {
-      "company": "Signet Jewelers",
-      "fact": "Full-year FY26: bridal sales up 6%, fashion jewelry up 8%, same-store sales grew 1.3%"
-    },
-    {
-      "company": "Signet Jewelers",
-      "fact": "Q1 FY27: merchandise AUR up 5%, bridal AUR up 6%, fashion AUR up 8%, with positive Valentine's and Mother's Day performance"
-    },
-    {
-      "company": "Signet Jewelers",
-      "fact": "Q3 FY26: same-store sales up 3.0%, bridal AUR up 6%, fashion AUR up 8%, with management explicitly linking results to Grow Brand Love and stabilized diamond pricing"
-    },
-    {
-      "company": "Build-A-Bear Workshop",
-      "fact": "FY2025 total revenues reached record $529.8 million, up from prior year baseline"
-    },
-    {
-      "company": "Build-A-Bear Workshop",
-      "fact": "FY2025 pre-tax income was $67.2 million vs $67.1 million in 2024, essentially flat despite approximately $11 million of tariff and related cost impact"
-    },
-    {
-      "company": "Build-A-Bear Workshop",
-      "fact": "Company monetizes Heart Ceremony and personalized gifting as core value proposition, not just toy product sales"
-    },
-    {
-      "company": "Etsy, Inc.",
-      "fact": "10-K explicitly calls out cross-category purchase occasions such as gifting, holidays, and personal milestones as key focus area"
-    },
-    {
-      "company": "Etsy, Inc.",
-      "fact": "Q4 2025: take rate stable at 24.5%, suggesting pricing power sustained across occasion-driven goods"
-    }
-  ]
+ "slug": "sub-pattern-life-milestone-gifting",
+ "trend_slug": "ritual-economy",
+ "name": "The Engagement Premium: How Milestones Survive Affordability Pressure Through Ritual Monetization",
+ "deck": "Milestone and gifting spending (engagements, weddings, anniversaries, holidays) survives consumer affordability pressure because it carries social and emotional weight that transcends discretionary budget constraints. Signet bridal up 6%, fashion up 8%, and Build-A-Bear's Heart Ceremony monetize occasions where consumers spend based on obligation, not utility.",
+ "core_bet": "Signet, Build-A-Bear, and Etsy all monetize ritual moments—weddings, anniversaries, birthdays, graduations, commemorations—where consumer spending is driven by social obligation and emotional significance rather than by utilitarian need or discretionary budget. These moments are non-deferrable: weddings happen on specific dates, engagement announcements require decisions, milestone anniversaries demand recognition. That makes them structurally price-inelastic. Signet Q1 FY27 merchandise AUR was up 5% with bridal and fashion both growing, proving consumers absorbed higher prices for occasion-driven purchases even while broader discretionary spending compressed. When milestones happen, spending is robust.",
+ "numbers": [
+  {
+   "stat": "6%",
+   "label": "Signet bridal sales growth, full-year FY26"
+  },
+  {
+   "stat": "8%",
+   "label": "Signet fashion jewelry growth, full-year FY26"
+  },
+  {
+   "stat": "5%",
+   "label": "Signet merchandise AUR increase, Q1 FY27"
+  },
+  {
+   "stat": "6%",
+   "label": "Signet bridal AUR increase, Q1 FY27"
+  },
+  {
+   "stat": "8%",
+   "label": "Signet fashion jewelry AUR increase, Q1 FY27"
+  },
+  {
+   "stat": "$529.8M",
+   "label": "Build-A-Bear total revenues, FY2025 (record level)"
+  },
+  {
+   "stat": "$67.2M",
+   "label": "Build-A-Bear pre-tax income, FY2025 (essentially flat vs $67.1M in 2024 despite $11M tariff cost)"
+  },
+  {
+   "stat": "24.5%",
+   "label": "Etsy Q4 2025 take rate, stable despite occasion-driven goods pricing volatility"
+  }
+ ],
+ "mechanism": [
+  "Ritual demand operates through obligation and emotional significance, not through normal discretionary budget logic. When a consumer decides to marry, they do not skip the engagement ring or wedding ceremony because budget is tight. Instead, they adjust the price point within the category or delay other discretionary spending. Signet observed this in FY26 full-year results: same-store sales grew 1.3%, merchandise AUR grew, and both bridal and fashion jewelry expanded. Signet management called out Valentine's Day and Mother's Day as strong performance drivers, showing that even during affordability pressure, consumers still celebrated occasions. By Q1 FY27, merchandise AUR had increased 5%, bridal AUR 6%, and fashion AUR 8%—the bifurcation is that occasion-driven spending is rising in price per event while frequency may be normalizing after pandemic elevation.",
+  "Build-A-Bear monetizes the ritual of gifting and commemoration directly. The Heart Ceremony is not a product; it is a moment of personalization and emotional attachment. Consumers visit the store to participate in creating a customized friend, perform a symbolic heart-placement ritual, and leave with a keepsake. That is social and emotional infrastructure, not toy retail. FY2025 revenues were record at $529.8M, and pre-tax income stayed essentially flat at $67.2M despite an $11M tariff hit. The company absorbed commodity cost increases without surrendering margin because ritual demand is inelastic—people still buy for birthdays, graduations, and family milestones even when budgets tighten. The experience is what is monetized; the bear is the artifact of the ritual.",
+  "Etsy's 86.5M active buyers explicitly use the platform for gifting, holidays, and personal milestones. Management framed cross-category purchase occasions (weddings, personal milestones, holidays) as a key focus area. That is different from Etsy being a marketplace that happens to include gifts. Gifting is part of the business model and pricing architecture. Etsy take rates remained stable at 24.5% in Q4 2025 because the business model relies on suppliers being able to charge prices that reflect the emotional and personalization value of occasion goods, not just their material cost. The pricing mechanics work because ritual spending involves third-party signaling and social legitimacy. Wedding rings must be visible and credible symbols. Milestone gifts must be memorable and distinctive. Personalized items must carry authenticity. Those requirements create pricing umbrella: a commodity ring cannot substitute for an engagement ring because the ritual significance would be compromised."
+ ],
+ "why_now": "The inflection is visible in company guidance and messaging arriving in early 2026. Signet guided to full-year adjusted EPS growth despite macro caution because bridal and fashion (occasion-driven) are outperforming. Build-A-Bear grew revenues to record $529.8M and maintained profit despite tariff costs because the emotional and ritual value of the experience justifies pricing. Etsy's early growth in gifting-related categories and stable take rates at 24.5% show platform alignment with occasion-driven demand. The bifurcation is now explicit: consumer research shows ritual and occasion spending is sorting away from discretionary. Signet Q1 FY27 bridal AUR +6%, fashion AUR +8%, and merchandise AUR +5% all represent pricing power on occasion goods even as broader discretionary spending contracts. The market is not shrinking; it is consolidating into fewer, higher-price transactions. When occasion-driven categories show both price growth (AUR up 5-8%) and volume growth (same-store sales), it signals structural separation from discretionary.",
+ "who_pays": "Individual consumers pay more per occasion because ritual demand is price-inelastic. A wedding ring, anniversary gift, or milestone keepsake carries emotional weight that prevents price-shopping or category substitution. Consumers absorb the premium because the social cost of economizing is higher than the financial cost. A guest does not notice that an engagement ring cost $2,000 instead of $3,000; but they notice if a wedding ring appears cheap. Younger consumers may defer milestones (weddings, home purchase commemoration) but do not reduce the price once the event happens. The pricing works because the purchase is social signaling, not consumption.",
+ "who_profits": "Owners of ritual and milestone experiences capture the value: Signet through bridal and anniversary jewelry (FY26: bridal up 6%, fashion up 8%), Build-A-Bear through personalized gifting and commemoration ($529.8M FY2025 revenue, $67.2M pre-tax income maintained despite tariffs), Etsy through marketplace access to niche and personalized goods (stable 24.5% take rate Q4 2025). These businesses can raise prices, protect margins, and grow revenue in occasion-driven segments even when general discretionary spending contracts because the demand is structural and emotional, not cyclical and budgetary.",
+ "tension": "The core tension is that milestone deferral could accelerate if affordability pressure becomes severe enough. If housing affordability worsens, younger consumers may delay engagements and weddings. If income inequality widens, lower-income consumers may reduce occasion spending. The resilience of ritual spending depends on it remaining culturally central and financially accessible to broad income cohorts. If occasion spending becomes restricted to high-income consumers, the TAM shrinks. For now, occasion spending is bifurcating sharply from general discretionary: Signet's bridal and fashion up 6-8% while broader discretionary spending compressed. But that bifurcation could reverse if economic stress persists.",
+ "surprising_part": "Bridal jewelry (Signet bridal +6%, AUR +6%) is outperforming fashion jewelry in absolute growth rate even as younger consumers express caution about weddings and marriage-related spending. The data suggests that when milestones do happen, spending is robust. So the bifurcation is not that milestone spending is weak; it is that the frequency of life events is normalizing after pandemic elevation, but the price per event is rising. That is a subtle but important distinction: the market is not shrinking, it is consolidating into fewer, higher-price transactions. Signet Q1 FY27 merchandise AUR +5%, bridal AUR +6%, fashion AUR +8% all arrived simultaneously, proving that occasion-driven consumers are price-insensitive when the occasion happens.",
+ "one_sentence": "Ritual and milestone spending survives affordability pressure because social obligation and emotional significance make it price-inelastic; consumers reduce discretionary spending but protect occasions because the social cost of economizing is higher than the financial cost of paying full price.",
+ "societal_stake": "This pattern reveals how modern consumer culture treats life milestones differently from routine consumption. Engagements, weddings, anniversaries, and commemorative gifting carry social meaning beyond the physical object. For wealthy consumers, that meaning supports premium pricing and exclusive experiences. For lower-income consumers, it creates pressure to spend beyond discretionary means to signal social participation and family status. The consequence is that milestone spending becomes a source of financial stress for consumers with lower incomes, even as it remains resilient for affluent consumers. That bifurcation means celebrations and ritual moments are becoming increasingly stratified by income, which has cultural and social consequences for inclusivity and shared experience.",
+ "evidence": [
+  {
+   "company": "Signet Jewelers",
+   "fact": "Full-year FY26: bridal sales up 6%, fashion jewelry up 8%, same-store sales grew 1.3%"
+  },
+  {
+   "company": "Signet Jewelers",
+   "fact": "Q1 FY27: merchandise AUR up 5%, bridal AUR up 6%, fashion AUR up 8%, with positive Valentine's and Mother's Day performance"
+  },
+  {
+   "company": "Signet Jewelers",
+   "fact": "Q3 FY26: same-store sales up 3.0%, bridal AUR up 6%, fashion AUR up 8%, with management explicitly linking results to stabilized diamond pricing"
+  },
+  {
+   "company": "Build-A-Bear Workshop",
+   "fact": "FY2025 total revenues reached record $529.8M, up from prior year baseline"
+  },
+  {
+   "company": "Build-A-Bear Workshop",
+   "fact": "FY2025 pre-tax income was $67.2M vs $67.1M in 2024, essentially flat despite approximately $11M of tariff and related cost impact"
+  },
+  {
+   "company": "Build-A-Bear Workshop",
+   "fact": "Company monetizes Heart Ceremony and personalized gifting as core value proposition, with 662 global locations at FY2025 year-end"
+  },
+  {
+   "company": "Etsy, Inc.",
+   "fact": "10-K explicitly calls out cross-category purchase occasions such as gifting, holidays, and personal milestones as key focus area"
+  },
+  {
+   "company": "Etsy, Inc.",
+   "fact": "Q4 2025: take rate stable at 24.5%, suggesting pricing power sustained across occasion-driven goods"
+  }
+ ]
 }

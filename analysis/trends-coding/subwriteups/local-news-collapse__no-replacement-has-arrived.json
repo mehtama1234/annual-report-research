@@ -1,88 +1,88 @@
 {
-  "slug": "no-replacement-has-arrived",
-  "trend_slug": "local-news-collapse",
-  "name": "The Replacement That Has Not Arrived",
-  "deck": "Every attempted substitute for the local advertising model has failed to close the gap at scale: digital subscriptions work only for premium national brands, out-of-home advertising captures attention without funding original reporting, and podcast revenue is concentrated in entertainment not civic accountability.",
-  "core_bet": "The structural gap between what local journalism costs and what any current business model can fund is widening, not narrowing. Digital audio, podcasting, out-of-home displays, and open-web advertising platforms are all growing profitably—but none of them are funding investigative reporting about city councils, schools, courts, or local businesses. The gap is not being filled; it is being bypassed.",
-  "numbers": [
-    {
-      "stat": "$147M",
-      "label": "iHeartMedia podcast revenue Q1 2026, up 27% year-over-year"
-    },
-    {
-      "stat": "$327M",
-      "label": "iHeartMedia Digital Audio Group revenue Q1 2026, up 18% year-over-year"
-    },
-    {
-      "stat": "$1.912B",
-      "label": "Taboola full-year 2025 revenue reaching 600M+ daily active users across publishers and OEMs"
-    },
-    {
-      "stat": "$1.300B",
-      "label": "Outbrain/Teads full-year 2025 revenue connecting 10,000+ publishers and 20,000+ advertisers"
-    },
-    {
-      "stat": "8.7%",
-      "label": "Clear Channel Outdoor Holdings revenue growth Q2 2026 to $438M despite being taken private"
-    },
-    {
-      "stat": "67%",
-      "label": "Outbrain/Teads CTV revenue growth year-over-year in Q2 2026, reaching 13% of total revenue"
-    },
-    {
-      "stat": "860+",
-      "label": "iHeartMedia broadcast radio stations across ~160 markets still operating despite digital transition"
-    },
-    {
-      "stat": "$713.5M",
-      "label": "Taboola ex-TAC Gross Profit 2025 after deducting traffic acquisition costs"
-    }
-  ],
-  "mechanism": [
-    "The advertising-supported local news model of the 20th century rested on a simple monopoly: if you wanted to reach your town, you bought ads in the local newspaper or on local radio. That monopoly extracted enough surplus to fund reporters, editors, and the cost of original reporting about local government, courts, and business. The cost structure was real—investigative journalism is expensive—but the revenue floor was almost guaranteed. When digital media fragmented audience attention, that floor collapsed.",
-    "What has replaced it is not a new journalism model but a redistribution of the same advertising attention into faster-moving, measurable, and more algorithmic surfaces. Taboola and Outbrain/Teads have grown into $1.9B and $1.3B revenue businesses by sitting between advertisers and the remnants of publisher inventory, including local news sites. But the revenue model is fundamentally different: these platforms take a middle cut (traffic acquisition costs) and pass the rest back to publishers as a commodity price. A local news site that once charged $500 for a print ad now makes cents-per-click through a recommendation widget. The scale is there, but the margin per story is not.",
-    "iHeartMedia's podcast segment—$147M in Q1 2026, up 27% year-over-year—shows where audio attention is consolidating: entertainment, personality, music, and national shows. The company's 860+ broadcast stations still exist, but the growth story is measurable digital audio and podcasts, not local news radio. Clear Channel Outdoor's $1.6B annual revenue in out-of-home advertising is a thriving business, but billboards and transit displays do not employ investigative reporters. They are attention capture divorced from information production. The platform and ad-tech companies are profitable precisely because they optimize for traffic flow and attribution, not for the expensive work of original reporting that has no immediate performance metric.",
-    "This is the paradox at the heart of the collapse: advertising spending on digital has grown significantly, but it has been redirected toward formats that do not require newsrooms. A news site that generates traffic through SEO-optimized stories and recommendation networks can earn partial credit for that traffic value. But the economic floor under original reporting—the part that requires weeks of investigation, legal risk, and expertise—has no direct revenue counterweight. The gap between the cost of local journalism and the revenue any single model generates is not shrinking. It is being exposed as permanent. Digital substitutes are succeeding as traffic engines and attention brokers while failing as funding mechanisms for civic accountability."
-  ],
-  "why_now": "The gap has always existed in principle, but three structural changes have made it catastrophic. First, the ad-tech and platform layer has matured into industrial scale. Taboola's $1.9B revenue and Outbrain's participation in $1.3B of platform revenue would not have been possible a decade ago. These businesses proved that attention could be monetized without funding original content. Second, local advertising budgets—which once had to concentrate locally because of geography—can now be served programmatically at national scale, making local publishers price-takers rather than price-setters. Third, the measurement and attribution arms race (Taboola's 28.8% adjusted EBITDA margin, Outbrain's focus on full-funnel outcomes) has rewired advertiser expectations around what counts as valuable attention. A local news report about a zoning board is invisible to these measurement systems. An entertainment podcast with precise listener attribution is not. The window has closed because the economic evidence is now undeniable. In 2010, it was still possible to argue that digital models would eventually replace print revenue. By 2026, the direction is clear: the open web, podcasting, out-of-home, and video platforms are all growing profitably without requiring journalists. The companies pursuing these models have no economic incentive to fund expensive local reporting. They profit from attention fragmentation, not from solving it.",
-  "who_pays": "Advertisers pay into a fragmented system they do not fully understand or control. Small businesses that need local reach (plumbers, dentists, real estate agents) now bid against national campaigns for the same digital inventory, paying more for less targeted exposure. National consumer brands pay Clear Channel, iHeartMedia, Taboola, and Outbrain because these platforms can still measure and deliver attention at scale, but that scale is achieved by aggregating many small inventory sources, not by funding editorial quality. The cost is passed through as lower publisher payouts. Consumers pay through loss of information. They see more ads across more surfaces—billboards, podcasts, recommendation widgets, connected TV—but those surfaces do not fund the local reporting they actually need to understand their own communities.",
-  "who_profits": "Platform and ad-tech companies profit systematically. Taboola earned $215.5M in adjusted EBITDA on $1.9B revenue (11.2% margin). Outbrain earned $93.4M in adjusted EBITDA on $1.3B revenue (7.2% margin). iHeartMedia's Digital Audio Group earned $86.8M in adjusted EBITDA on $327M revenue (26.6% margin). Clear Channel Outdoor earned $143.4M in adjusted EBITDA on $438M quarterly revenue. These are not thin-margin businesses. They profit from being the routing layer between fragmented advertising demand and fragmented publisher supply. They scale by distributing the cost of attention capture across thousands of publishers rather than by funding any single newsroom. Entertainment podcasts and national shows profit. National brands with attribution budgets profit. But the local journalism layer is structurally bypassed—it is a cost center in most cases, not a profit center. The take-private transaction of Clear Channel Outdoor by Mubadala at $2.43 per share signals confidence that attention capture and physical ad infrastructure remain valuable even outside public markets. The deal assumes sustained advertiser demand for reach and repetition. Local news is not mentioned because it is not part of that thesis.",
-  "tension": "The fundamental tension is that all four substitutes are succeeding at what they were designed to do—monetize attention and attract advertising—while failing at what they never intended to do: fund information about local governance, accountability, and community dynamics. Taboola's $1.9B platform works because advertisers do not care where their ads appear, only that they reach the right person at the right moment. Outbrain's CTV growth (67% year-over-year in Q2 2026) works because connected TV viewers represent measurable, targetable attention. iHeartMedia's podcast growth works because personality and entertainment are highly monetizable. Clear Channel's physical displays work because billboards cannot be skipped or ad-blocked. None of these models creates an economic reason to fund a reporter to spend three months investigating municipal corruption. The externalized cost is invisible until it manifests as actual government malfeasance, fraud, or neglect that goes uncovered precisely because there is no mechanism to pay for reporting on it. That cost has historically been absorbed by the local advertising surplus. Today, that surplus is being extracted by platforms that have no obligation to replace it with anything else.",
-  "surprising_part": "The most non-obvious fact is that advertising spending has not collapsed—it has merely moved. Taboola reaching 600M daily active users, iHeartMedia's podcast segment growing 27% year-over-year, Outbrain's CTV revenue up 67%, and Clear Channel growing revenue 6-12% in most quarters are all signs of a robust and growing advertising market. The collapse is not about insufficient demand for ads. It is about the disconnect between what is being monetized (entertainment, personality, measurable performance, physical attention) and what is being starved (local civic reporting). The platforms are not replacing journalism with other journalism. They are replacing journalism with attention optimization. The advertising market has plenty of money. It has simply been redirected to formats that do not fund newsrooms. Another surprise: the attempted substitutes are themselves rarely profitable at the publisher level. Taboola and Outbrain survive as platform operators by capturing the middle, not by improving the economics for the local publishers using their services. A local news site using Taboola's recommendation network generates revenue per story measured in cents, not dollars. The companies that are thriving are the ad-tech operators, not the news sites.",
-  "one_sentence": "A $7B+ ecosystem of profitable platforms for attention monetization has proven that advertising can thrive without funding journalism—widening rather than closing the gap between the cost of accountability and the revenue available to pay for it.",
-  "societal_stake": "Every community is becoming functionally blind to its own institutions. City councils make decisions about zoning, permits, and contracts with no one watching. Schools award contracts without scrutiny. Police departments and courts operate without independent oversight. Businesses engage in fraud or environmental harm with reduced likelihood of exposure. The economic value of these information gaps—the ability to cut corners, hide decisions, avoid scrutiny—flows to the entities being unmonitored. The cost is borne by citizens who now lack the information to make informed decisions about who to trust, who to vote for, where to send their children to school, where to move. Local democracy was never perfect, but it had a feedback mechanism: newspapers. That mechanism is gone. The advertising market is thriving without it, which means there is no profit motive to rebuild it. Any replacement will have to come from outside the advertising system entirely—from subscription revenue, philanthropy, or public funding. None of those models are scaling fast enough to offset the $20B+ of local news advertising that migrated to digital platforms in the past fifteen years. The gap is not temporary. It is now the stable equilibrium.",
-  "evidence": [
-    {
-      "company": "iHeartMedia, Inc.",
-      "fact": "Podcast revenue reached $147M in Q1 2026, up 27% year-over-year, and represents the company's clearest growth lever, but is concentrated in entertainment and personality rather than civic content"
-    },
-    {
-      "company": "iHeartMedia, Inc.",
-      "fact": "Despite operating 860+ broadcast radio stations across ~160 markets, the Multiplatform Group revenue declined on a year-over-year basis in Q3 2025, showing legacy local radio weakness"
-    },
-    {
-      "company": "Clear Channel Outdoor Holdings Inc.",
-      "fact": "Company achieved $1.604B in full-year 2025 revenue and was taken private by Mubadala Capital at $2.43 per share, validating physical attention as a business model while having no capability to fund content"
-    },
-    {
-      "company": "Clear Channel Outdoor Holdings Inc.",
-      "fact": "Expected 2026 cash interest expense of $401M on balance sheet represents leverage tied to attention capture, not content production"
-    },
-    {
-      "company": "Taboola.com Ltd.",
-      "fact": "Taboola reached $1.912B in full-year 2025 revenue with $713.5M in ex-TAC Gross Profit by sitting between 10,000+ publishers and advertisers, taking a middle cut without creating new reporting"
-    },
-    {
-      "company": "Taboola.com Ltd.",
-      "fact": "Company reaches 600M+ daily active users across publishers and OEMs specifically by redirecting advertising demand away from owned media toward distributed surfaces, fragmenting the publisher base"
-    },
-    {
-      "company": "Outbrain Inc. / Teads Holding Co.",
-      "fact": "Outbrain/Teads achieved $1.300B in full-year 2025 revenue connecting 10,000+ publishers and 20,000+ advertisers, but explicitly frames its value proposition around measurement and workflow, not editorial quality"
-    },
-    {
-      "company": "Outbrain Inc. / Teads Holding Co.",
-      "fact": "CTV revenue grew 67% year-over-year in Q2 2026 and reached 13% of total revenue, showing profitable growth in measurable video attention that competes with but does not fund traditional TV news"
-    }
-  ]
+ "slug": "no-replacement-has-arrived",
+ "trend_slug": "local-news-collapse",
+ "name": "The Replacement That Has Not Arrived",
+ "deck": "Taboola reached $1.912B in 2025 revenue and $711.5M in ex-TAC gross profit. Outbrain/Teads reached $1.300B with CTV revenue up 67% year-over-year. iHeartMedia's podcast segment grew 27% year-over-year to $147M. Clear Channel Outdoor went private at $2.43/share for $1.604B annual revenue. Every one of these is profitable and growing. None of them funds local journalism about city councils, courts, schools, or municipal corruption.",
+ "core_bet": "The structural gap between what local journalism costs and what any current business model can fund has not narrowed—it has widened. Digital audio, podcasting, out-of-home displays, and content-recommendation platforms are all growing profitably without funding investigative reporting about local governance. The gap is not being filled; it is being bypassed by the companies that absorbed the advertising dollars that once funded newsrooms.",
+ "numbers": [
+  {
+   "stat": "$1.912B",
+   "label": "Taboola 2025 revenue with 600M+ daily active users; reaches but does not fund local publishers"
+  },
+  {
+   "stat": "$711.5M",
+   "label": "Taboola ex-TAC gross profit 2025; 28.8% adjusted EBITDA margin shows profitability from routing ads, not funding journalism"
+  },
+  {
+   "stat": "$1.300B",
+   "label": "Outbrain/Teads 2025 revenue connecting 10,000+ publishers and 20,000+ advertisers; no journalism created"
+  },
+  {
+   "stat": "67% YoY",
+   "label": "Outbrain/Teads CTV revenue growth Q2 2026, reaching 13% of total revenue; measurable video attention competes with but does not fund TV news"
+  },
+  {
+   "stat": "$147M",
+   "label": "iHeartMedia podcast revenue Q1 2026, up 27% YoY; concentrated in entertainment, not civic accountability"
+  },
+  {
+   "stat": "$327M",
+   "label": "iHeartMedia Digital Audio Group Q1 2026 revenue, up 18% YoY; growth in podcasting not in local radio news"
+  },
+  {
+   "stat": "$1.604B",
+   "label": "Clear Channel Outdoor 2025 revenue; taken private by Mubadala at $2.43/share; billboards do not employ investigative reporters"
+  },
+  {
+   "stat": "860+",
+   "label": "iHeartMedia broadcast radio stations across ~160 markets; still operating but legacy local-news model weakening as multiplatform group revenue declined YoY"
+  }
+ ],
+ "mechanism": [
+  "The 20th-century local news model rested on a monopoly: if you wanted to reach your town, you bought ads in the local newspaper or on local radio. That monopoly extracted enough surplus to fund reporters, editors, and investigative work about local government, courts, and business. When digital media fragmented audience attention, that floor collapsed. The advertising market did not disappear—it migrated to platforms optimized for measurable, algorithmic attention routing.",
+  "Taboola and Outbrain/Teads became $1.9B and $1.3B revenue businesses by sitting between advertisers and fragmented publisher inventory, including local news sites. The business model is fundamentally extractive: these platforms take a middle cut (traffic acquisition costs averaging 50%+ of gross revenue) and pass the rest to publishers as commodity price. A local news site that once charged $500 for a print ad now makes cents-per-click through a recommendation widget. The scale is there (600M daily active users at Taboola), but the margin per story is not. Publishers using these platforms cannot fund newsrooms.",
+  "iHeartMedia's podcast growth ($147M Q1 2026, up 27% YoY) shows where audio attention consolidates: entertainment, personality, national shows, not local news radio. The company operates 860+ broadcast stations, but the growth lever is measurable digital audio and podcasts. Clear Channel Outdoor's $1.604B in out-of-home advertising revenue is thriving, but billboards and transit displays do not employ reporters. They are attention capture divorced from information production. These companies are profitable precisely because they optimize for traffic flow and attribution, not for expensive original reporting.",
+  "The paradox is that advertising spending on digital has grown, but it has been redirected away from formats that require newsrooms. A news site that generates traffic through SEO-optimized stories and recommendation networks can earn partial credit for that traffic. But the economic floor under original reporting—weeks of investigation, legal risk, expertise—has no direct revenue counterweight. The gap between the cost of local journalism and what any model generates is not shrinking; it is permanent."
+ ],
+ "why_now": "Three structural changes converged to make the gap catastrophic. First: the ad-tech layer matured from 2015-2025. Taboola and Outbrain went from tens of millions to $1.9B and $1.3B revenue, proving that attention could be monetized at scale without funding original content. Second: local advertising budgets, which once had to concentrate locally because of geography, can now be served programmatically at national scale. Regional publishers became price-takers. Third: measurement platforms (Taboola's 28.8% adjusted EBITDA margin, Outbrain's focus on full-funnel outcomes) rewired advertiser expectations. A local news report about a zoning board is invisible to these measurement systems. An entertainment podcast with precise listener attribution is not. By 2025-2026, the direction was clear: open-web, podcasting, out-of-home, and video platforms were all growing profitably without funding journalists. The companies pursuing these models had no economic incentive to rebuild what they displaced.",
+ "who_pays": "Advertisers pay into a fragmented system optimized for clicks, not for journalism. Small businesses (plumbers, dentists, real estate agents) that need local reach now bid against national campaigns for the same digital inventory, paying more for less targeted exposure. Consumers pay through loss of information—they see more ads across more surfaces but those surfaces do not fund reporting about their own communities. Communities pay through loss of oversight.",
+ "who_profits": "Platform and ad-tech companies systematically. Taboola earned $215.5M in adjusted EBITDA on $1.912B revenue (11.2% margin). Outbrain earned substantial EBITDA on $1.300B revenue. iHeartMedia's Digital Audio Group earned $86.8M adjusted EBITDA on $327M revenue (26.6% margin). Clear Channel Outdoor went private at a valuation that assumes sustained advertiser demand. These firms profit from being the routing layer between fragmented advertising demand and fragmented publisher supply, scaling by distributing costs across thousands of publishers rather than funding newsrooms. Entertainment podcasts and national shows profit. National brands with attribution budgets profit. The local journalism layer is bypassed.",
+ "tension": "All four substitutes are succeeding at what they were designed to do—monetize attention and attract advertising—while failing at what they never intended: fund information about local governance and accountability. Taboola's $1.9B platform works because advertisers do not care where their ads appear, only that they reach the right person. Outbrain's CTV growth (67% YoY) works because connected TV viewers represent measurable attention. iHeartMedia's podcast growth works because personality and entertainment are monetizable. Clear Channel's physical displays work because billboards cannot be skipped. None of these models creates an economic reason to fund a reporter investigating municipal corruption. That cost is invisible until malfeasance goes uncovered because there is no mechanism to pay for reporting on it.",
+ "surprising_part": "The most non-obvious fact is that advertising has not collapsed—it has merely migrated. Taboola reaches 600M+ daily active users, iHeartMedia's podcasts grow 27% YoY, Outbrain's CTV revenue grew 67%, and Clear Channel grew revenue in most quarters. The advertising market has plenty of money. It has been redirected to formats that do not fund newsrooms. The second surprise is that attempted substitutes are themselves rarely profitable at the publisher level. A local news site using Taboola's recommendation network generates revenue measured in cents per story, not dollars. The companies thriving are the platform operators taking the middle cut, not the publishers. The third surprise is the linguistic evasion: Taboola and Outbrain are not 'content distribution' platforms that absorbed local newspaper advertising—they are described as 'recommendation engines' and 'contextual monetization solutions,' which makes the displacement invisible in policy conversations.",
+ "one_sentence": "A $4B+ ecosystem of profitable platforms for attention monetization has proven that advertising can thrive without funding journalism, widening rather than closing the gap between the cost of accountability and the revenue available to pay for it.",
+ "societal_stake": "Every community is becoming functionally blind to its own institutions. City councils make decisions about zoning and contracts with no one watching. Schools award contracts without scrutiny. Police and courts operate without independent oversight. The economic value of these information gaps—the ability to cut corners, hide decisions, avoid accountability—flows to those being unmonitored. The cost is borne by citizens who lack information to make informed decisions about governance, schools, and where to live. Local democracy required a feedback mechanism: newspapers. That mechanism is gone. The platforms that absorbed the advertising revenue have no profit motive to replace it.",
+ "evidence": [
+  {
+   "company": "Taboola.com Ltd.",
+   "fact": "2025 revenue $1.912B reaching 600M+ daily active users across publishers and OEMs; adjusted EBITDA 28.8% margin ($215.5M) shows profitability from routing ads without funding journalism"
+  },
+  {
+   "company": "Taboola.com Ltd.",
+   "fact": "Ex-TAC gross profit $713.5M in 2025; company sits between advertisers and fragmented publisher inventory by taking 50%+ of revenue as traffic acquisition costs"
+  },
+  {
+   "company": "Outbrain Inc. / Teads Holding Co.",
+   "fact": "2025 revenue $1.300B connecting 10,000+ publishers and 20,000+ advertisers; CTV revenue grew 67% YoY in Q2 2026 reaching 13% of total revenue"
+  },
+  {
+   "company": "Outbrain Inc. / Teads Holding Co.",
+   "fact": "Explicitly frames value proposition around measurement and workflow optimization, not editorial quality; platform design extracts middle margin from publisher inventory"
+  },
+  {
+   "company": "iHeartMedia Inc.",
+   "fact": "Podcast revenue $147M Q1 2026 up 27% YoY; Digital Audio Group revenue $327M up 18% YoY; growth concentrated in entertainment and personality, not civic content"
+  },
+  {
+   "company": "iHeartMedia Inc.",
+   "fact": "Despite operating 860+ broadcast radio stations across ~160 markets, multiplatform group revenue declined YoY in recent quarters, showing legacy local-radio weakness"
+  },
+  {
+   "company": "Clear Channel Outdoor Holdings Inc.",
+   "fact": "2025 revenue $1.604B; taken private by Mubadala at $2.43 per share; validates physical attention capture as business model while having zero capability to fund journalism"
+  },
+  {
+   "company": "Clear Channel Outdoor Holdings Inc.",
+   "fact": "Expected 2026 cash interest expense $401M on balance sheet; leverage tied to attention capture, not content production, proving out-of-home advertising is sustainable without news infrastructure"
+  }
+ ]
 }

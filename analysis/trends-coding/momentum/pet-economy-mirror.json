@@ -1,0 +1,57 @@
+{
+ "slug": "pet-economy-mirror",
+ "verdict": "accelerating",
+ "headline": "Pet spending holds pricing power and margin even as consumers trade down elsewhere.",
+ "deltas": [
+  {
+   "company": "Chewy Inc.",
+   "metric": "gross margin and customer growth",
+   "from": "Q1 2026 prior year: baseline",
+   "to": "Q1 2026 gross margin 30.1%, +50 basis points YoY; nearly 200,000 net customer additions",
+   "change": "+50 bps margin expansion YoY, +7.7% net sales",
+   "reads": "Pet parents sustained autoship and pharmacy spending despite more dynamic consumer backdrop; volume and margin both rising"
+  },
+  {
+   "company": "Silgan Holdings Inc.",
+   "metric": "metal container demand for pet food",
+   "from": "baseline 2025",
+   "to": "Q4 2025: 7% growth in metal containers for pet-food markets",
+   "change": "+7% pet-food container volume",
+   "reads": "Pet-food packaging outpacing broader rigid-container growth, signaling outsized category demand"
+  },
+  {
+   "company": "Colgate-Palmolive Co.",
+   "metric": "Hill's Pet Nutrition resilience relative to personal care",
+   "from": "baseline",
+   "to": "Q2 2026: management explicit statement that Hill's spending more resilient to affordability pressure than personal care",
+   "change": "category-relative pricing power confirmed in filings",
+   "reads": "Pet nutrition holds pricing floor when consumers cut back on hygiene trade-ups; dependency protection visible"
+  },
+  {
+   "company": "Signet Jewelers Limited",
+   "metric": "emotional occasion spending (proxy for discretionary ritual categories)",
+   "from": "Q4 FY26: same-store sales up 1.3% FY26",
+   "to": "Q1 FY27: same-store sales up 1.8%, AUR up 5%, positive Valentine's and Mother's Day",
+   "change": "+50 bps SSS momentum, +5% AUR",
+   "reads": "Emotionally coded gifting and milestone spending remains durable; similar consumer-identity mechanism as pet parenthood"
+  },
+  {
+   "company": "Build-A-Bear Workshop Inc.",
+   "metric": "emotional participation and commemoration (adjacent to pet parenthood identity)",
+   "from": "FY2025 pre-tax income $67.2M",
+   "to": "Q1 2026 pre-tax income $23.9M before tariff benefits, commercial/franchise up 34.1%",
+   "change": "core DTC softened but emotional-commerce channel diversification deepened",
+   "reads": "Ceremony-based spending still commands loyalty and capital allocation even when traffic softens; identity attachment holds"
+  },
+  {
+   "company": "Chewy Inc.",
+   "metric": "active customer base and Autoship penetration",
+   "from": "Q4 2025: 21.3M active customers, 84% Autoship mix",
+   "to": "Q1 2026: nearly 200,000 net new customers added; autoship architecture implicit in margin expansion",
+   "change": "+200k quarterly customers on autoship-first model",
+   "reads": "Pet parents treating pet care as non-discretionary recurring expense; repeat behavior and account stickiness deepening"
+  }
+ ],
+ "momentum_note": "The pet economy is accelerating as a resilience category. Chewy expanded both margin and customer base in a quarter management called dynamic, while Silgan saw outsize pet-food container growth and Colgate explicitly flagged Hill's Pet Nutrition as more resilient to affordability pressure than personal care. The mechanism is identity protection: pet parents treat pet spending as non-negotiable before cutting discretionary personal care or gifting. This resembles how emotionally coded spending in weddings (Signet) and participation ceremonies (Build-A-Bear) holds up even when broader consumer signals weaken. The pricing floor is behavioral, not market-driven.",
+ "confidence": "high"
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "outage-anxiety-economy",
+ "verdict": "accelerating",
+ "headline": "Backup power and resilience infrastructure expanding fastest; consequence inflation pricing visible.",
+ "deltas": [
+  {
+   "company": "Comfort Systems USA",
+   "metric": "backlog growth",
+   "from": "$8.12 billion",
+   "to": "$14.06 billion",
+   "change": "+73% YoY (Q2 2026 vs Q2 2025)",
+   "reads": "extraordinary demand for execution capacity on mission-critical electrical and mechanical systems signals fear of outage consequence has translated to immediate capex"
+  },
+  {
+   "company": "EMCOR Group",
+   "metric": "remaining performance obligations",
+   "from": "$11.91 billion",
+   "to": "$17.14 billion",
+   "change": "+44% YoY (Q2 2026 vs Q2 2025)",
+   "reads": "data-center construction contracts drove largest share; shows facility hardening and redundancy work is now mission-critical capex not optional"
+  },
+  {
+   "company": "Generac Holdings",
+   "metric": "C&I external net sales",
+   "from": "$432 million (implied Q2 2025)",
+   "to": "$556 million",
+   "change": "+29% YoY; data-center backlog grew to $1.6B",
+   "reads": "commercial and industrial shift accelerating; hyperscale supply agreements signal that large-megawatt backup is now infrastructure, not premium feature"
+  },
+  {
+   "company": "Cummins",
+   "metric": "Power Systems revenue",
+   "from": "$1.9 billion (Q4 2025)",
+   "to": "$2.3 billion (Q2 2026)",
+   "change": "+19% YoY driven by data-center power generation",
+   "reads": "large industrial and data-center backup power no longer cyclical; becomes permanent load on capacity and pricing"
+  },
+  {
+   "company": "Digital Realty Trust",
+   "metric": "renewal lease rate increases",
+   "from": "6.1% cash (Q4 2025)",
+   "to": "25.4% (Q2 2026)",
+   "change": "quadrupled; total backlog $1.4B annualized at 100% share",
+   "reads": "pricing power on existing tenants shows bifurcation: hyperscales willing to pay premium for certainty; consequence inflation materializing in real estate rents"
+  },
+  {
+   "company": "Eaton Corporation",
+   "metric": "organic growth",
+   "from": "8% (full-year 2025)",
+   "to": "14% (Q2 2026)",
+   "change": "+6 points; data centers remain key driver; segment margins 23.1%",
+   "reads": "electrical infrastructure and power distribution demand broadening beyond data centers into broader electrification and grid stress"
+  },
+  {
+   "company": "Kinder Morgan",
+   "metric": "backlog and contract mix",
+   "from": "$10.0B backlog (2025 year-end)",
+   "to": "90% tied to natural gas projects; 60% power-generation support",
+   "change": "explicit pivot to LNG feedgas (8 Bcf/d rising to 12 Bcf/d by 2028) and backup generation infrastructure",
+   "reads": "pipeline capacity constraints becoming visible as consequence inflation forces buyers to lock in transport reliability through long-term contracts"
+  }
+ ],
+ "momentum_note": "The Outage Anxiety Economy is accelerating across all 8 companies. The signal is not just volume growth but structure change: consequence inflation is visible in pricing (Digital Realty lease rates 4x higher), contract visibility (Generac, Cummins, Kinder Morgan all signing hyperscale and data-center deals), and capex intensity (EMCOR and Comfort Systems backlogs surging 44% and 73%). The winners are not commodity suppliers but those controlling capacity — backup generation, resilience construction, power distribution, and grid-edge infrastructure. Bifurcation is real: hyperscalers and mission-critical operators pay premium prices to eliminate outage consequence; others absorb managed outages. This is no longer an outage-frequency story; it is a consequence-pricing story.",
+ "confidence": "high"
+}

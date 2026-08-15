@@ -34,6 +34,23 @@ CSS+="""
 .acard .at{font:600 10px/1 -apple-system,system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;color:var(--gold)}
 .acard h4{font-size:1.12rem;line-height:1.2;margin:.35em 0 .3em}
 .acard p{color:var(--muted);font-size:.92rem;margin:0}
+.momentum{margin:1.6em 0}
+.verdict{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 16px;margin:.4em 0 1em}
+.verdict .vsym{font-size:1.1rem;font-weight:700}
+.verdict .vlab{font:700 13px/1 -apple-system,system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em}
+.verdict .vhead{color:var(--muted);font-size:.95rem;flex:1;min-width:220px}
+.verdict.acc{border-left:4px solid #2e7d32}.verdict.acc .vsym,.verdict.acc .vlab{color:#2e7d32}
+.verdict.dec{border-left:4px solid #b23c3c}.verdict.dec .vsym,.verdict.dec .vlab{color:#b23c3c}
+.verdict.std{border-left:4px solid var(--gold)}.verdict.std .vsym,.verdict.std .vlab{color:var(--gold)}
+.verdict.mix{border-left:4px solid var(--muted)}.verdict.mix .vsym,.verdict.mix .vlab{color:var(--muted)}
+.mtblwrap{overflow-x:auto;margin:.4em 0 .8em}
+.mtbl{border-collapse:collapse;width:100%;font-size:.9rem}
+.mtbl th{text-align:left;font:700 11px/1.3 -apple-system,system-ui,sans-serif;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);border-bottom:1px solid var(--line);padding:6px 10px}
+.mtbl td{border-bottom:1px solid var(--line);padding:8px 10px;vertical-align:top}
+.mtbl .dc{font-weight:700;white-space:nowrap}.mtbl .dm{color:var(--muted)}
+.mtbl .dv{white-space:nowrap}.mtbl .arw{color:var(--accent)}
+.mtbl .dch{font-weight:700;color:var(--ink);white-space:nowrap}.mtbl .dr{color:var(--muted)}
+.mnote{font-size:.97rem}
 """
 open(os.path.join(OUT,"trends.css"),"w").write(CSS)
 
@@ -45,6 +62,28 @@ try:
     CROSS=json.load(open(os.path.join(A,"crosslinks.json")))
 except Exception:
     CROSS={"trend_companies":{},"company_trends":{},"trend_names":{}}
+
+MOM={}
+for _mf in glob.glob(os.path.join(A,"momentum","*.json")):
+    try: MOM[os.path.basename(_mf)[:-5]]=json.load(open(_mf))
+    except Exception: pass
+VERD={"accelerating":("▲","Accelerating","acc"),"steady":("▬","Holding steady","std"),
+      "decelerating":("▼","Decelerating","dec"),"mixed":("◆","Mixed / diverging","mix")}
+def momentum_html(slug):
+    m=MOM.get(slug)
+    if not isinstance(m,dict) or not m.get("deltas"): return ""
+    sym,lab,cls=VERD.get(m.get("verdict","mixed"),VERD["mixed"])
+    rows="".join(
+        f'<tr><td class=dc>{e(d.get("company"))}</td><td class=dm>{e(d.get("metric"))}</td>'
+        f'<td class=dv>{e(d.get("from"))} <span class=arw>→</span> {e(d.get("to"))}</td>'
+        f'<td class=dch>{e(d.get("change"))}</td><td class=dr>{e(d.get("reads"))}</td></tr>'
+        for d in m["deltas"] if isinstance(d,dict))
+    return (f'<section class=momentum><h2>Direction of travel</h2>'
+            f'<div class="verdict {cls}"><span class=vsym>{sym}</span><span class=vlab>{e(lab)}</span>'
+            f'<span class=vhead>{e(m.get("headline"))}</span></div>'
+            f'<div class=mtblwrap><table class=mtbl><thead><tr><th>Company</th><th>What moved</th>'
+            f'<th>Then → now</th><th>Change</th><th>What it signals</th></tr></thead><tbody>{rows}</tbody></table></div>'
+            f'<p class=mnote>{e(m.get("momentum_note"))}</p></section>')
 
 def _mark(item):
     if isinstance(item,dict) and "verified" in item:
@@ -109,6 +148,10 @@ for t in trends:
     # hub page = overview essay + angle nav
     crumb=f'<p class=crumb><a href="/site/trends/index.html">← all trends</a></p>'
     body=render_essay(ov, crumb)
+    # momentum / direction-of-travel (hubs only), placed right after the numbers section
+    mh=momentum_html(slug)
+    if mh:
+        body=body.replace("<h2>The mechanism</h2>", mh+"<h2>The mechanism</h2>",1)
     # cross-link: companies cited in this trend -> company cards
     colinks=CROSS.get("trend_companies",{}).get(slug,[])
     if colinks:

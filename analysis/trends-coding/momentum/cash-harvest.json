@@ -1,0 +1,57 @@
+{
+ "slug": "cash-harvest",
+ "verdict": "accelerating",
+ "headline": "Shareholder returns outpace reinvestment as pricing and buybacks intensify.",
+ "deltas": [
+  {
+   "company": "American Express",
+   "metric": "net card fee revenue growth streak",
+   "from": "29 consecutive quarters",
+   "to": "30th consecutive quarter of double-digit growth",
+   "change": "30-quarter unbroken streak",
+   "reads": "Disciplined fee monetization on captive premium cardholders, pricing power on habituated customers."
+  },
+  {
+   "company": "ExxonMobil",
+   "metric": "shareholder distributions vs capex",
+   "from": "prior year returns (baseline)",
+   "to": "$37.2B returned in 2025 on $29.0B capex",
+   "change": "128% payout ratio (returns exceed reinvestment)",
+   "reads": "Oil major returning more cash than it deploys, classic extraction pattern under commodity tailwind."
+  },
+  {
+   "company": "CF Industries",
+   "metric": "share buybacks and average selling price",
+   "from": "2024 baseline",
+   "to": "16.6M shares repurchased ($1.34B) in 2025; higher average selling prices 2025 vs 2024",
+   "change": "~10% share count reduction plus price increases",
+   "reads": "Nitrogen pricing power channeled into shareholder return, not capacity expansion."
+  },
+  {
+   "company": "ConocoPhillips",
+   "metric": "capital return program",
+   "from": "prior guidance",
+   "to": "$9.0B distributed (2025): $5.0B buybacks + $4.0B dividends; Q2 2026 doubled share repurchases",
+   "change": "45% of cash flow returned to shareholders by design",
+   "reads": "Upstream cash machine explicitly structured for returns over reinvestment."
+  },
+  {
+   "company": "BrightSpring",
+   "metric": "revenue per script and gross profit per script",
+   "from": "prior year (2025 baseline)",
+   "to": "Q2 2026: $314.20 per script; gross profit per script $27.50",
+   "change": "unit economics improving despite flat volume",
+   "reads": "Healthcare volume stable but per-unit margin expansion signals price discipline on pharmacy customers."
+  },
+  {
+   "company": "Charter",
+   "metric": "internet subscriber trend and connectivity revenue stability",
+   "from": "prior quarters",
+   "to": "Q2 2026: -172k internet customers but connectivity revenue $6.871B remains stable",
+   "change": "declining volume, stable pricing and revenue",
+   "reads": "Bundle pricing defended despite core broadband attrition; mobile attachment rising."
+  }
+ ],
+ "momentum_note": "The Cash Harvest is accelerating across energy, materials, and financial services. ExxonMobil, ConocoPhillips, and CF Industries all returned more cash to shareholders than they deployed in capex during 2025-2026, with explicit public commitments to 40-50% cash-flow return targets. American Express hit its 30th straight quarter of double-digit card-fee growth, monetizing premium and captive customers. BrightSpring shows per-unit pricing momentum in pharmacy despite flat volume, a clear margin-harvesting signal. Even Charter, facing internet subscriber declines, has held connectivity revenue flat through pricing while using mobile as a growth offsetter. The only misfire is EchoStar, which is in financial distress and thus outside the pattern. The trend strengthens when commodity cycles and franchise lock-in align (energy, pharma margins, credit card fees), and leadership is openly framing capital return as a primary allocation posture rather than a residual one.",
+ "confidence": "high"
+}

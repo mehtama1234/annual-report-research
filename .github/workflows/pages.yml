@@ -1,0 +1,74 @@
+name: Deploy trends site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Stage site (rewrite root-absolute links to the Pages base path)
+        env:
+          BASE: ${{ steps.pages.outputs.base_path }}
+        run: |
+          python3 - <<'PY'
+          import os, glob, pathlib
+          base = os.environ.get("BASE", "").rstrip("/")   # e.g. /annual-report-research
+          out = pathlib.Path("_site")
+          (out).mkdir(exist_ok=True)
+          # copy the built trends site
+          import shutil
+          shutil.copytree("site", out / "site", dirs_exist_ok=True)
+          # rewrite root-absolute /site/ references to include the project base path
+          for f in glob.glob(str(out / "site" / "**" / "*.html"), recursive=True):
+              s = open(f, encoding="utf-8").read()
+              s = s.replace('="/site/', f'="{base}/site/')
+              open(f, "w", encoding="utf-8").write(s)
+          for f in glob.glob(str(out / "site" / "**" / "*.css"), recursive=True):
+              s = open(f, encoding="utf-8").read()
+              s = s.replace('url(/site/', f'url({base}/site/')
+              open(f, "w", encoding="utf-8").write(s)
+          # root landing page redirects into the trends site
+          target = f"{base}/site/trends/index.html"
+          (out / "index.html").write_text(
+              '<!doctype html><meta charset=utf-8>'
+              f'<meta http-equiv=refresh content="0; url={target}">'
+              f'<link rel=canonical href="{target}">'
+              f'<title>Annual-report trends</title>'
+              f'<p>Redirecting to <a href="{target}">the trends site</a>…</p>',
+              encoding="utf-8")
+          print("staged _site with base:", base or "(root)")
+          PY
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

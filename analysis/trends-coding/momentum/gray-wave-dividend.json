@@ -1,0 +1,65 @@
+{
+ "slug": "gray-wave-dividend",
+ "verdict": "accelerating",
+ "headline": "Home-based care volume and revenue sharply outpacing facility alternatives across five operators.",
+ "deltas": [
+  {
+   "company": "BrightSpring Health Services, Inc.",
+   "metric": "home health average daily census",
+   "from": "30,443 (Q2 2025)",
+   "to": "46,448 (Q2 2026)",
+   "change": "+54% YoY",
+   "reads": "Clearest signal: home health capacity surging while facilities stagnate, confirming shift from institutional to home-based for chronic care."
+  },
+  {
+   "company": "Addus HomeCare Corporation",
+   "metric": "revenue and home-care service mix",
+   "from": "$363.6M Q1 2025",
+   "to": "$377.4M Q2 2026",
+   "change": "+3.8% organic growth, personal care 78.4% of revenue",
+   "reads": "Steady organic demand for lower-cost home-based personal care and hospice, confirming family preference for aging in place."
+  },
+  {
+   "company": "Aveanna Healthcare Holdings, Inc.",
+   "metric": "private duty home care services revenue",
+   "from": "Q1 2025 baseline",
+   "to": "Q1 2026: +$75.7M added; adjusted EBITDA +25.2%",
+   "change": "+15.9% total revenue YoY, pediatric private duty growing fastest",
+   "reads": "Medically complex patients and families choosing home over institutions; pediatric private duty is largest growth vector."
+  },
+  {
+   "company": "AdaptHealth Corp.",
+   "metric": "organic revenue growth and patient census",
+   "from": "2025: 4.3M patients annually",
+   "to": "Q2 2026: +15.9% organic growth, census records set",
+   "change": "+15.9% organic YoY",
+   "reads": "Home medical equipment, sleep, respiratory, and post-acute care all posting record volumes; capitated home care models scaling."
+  },
+  {
+   "company": "Brookdale Senior Living Inc.",
+   "metric": "occupancy rate (facility-based counterpoint)",
+   "from": "79.4% Q3 2025",
+   "to": "80.0% Q1 2026",
+   "change": "+60 basis points over six months",
+   "reads": "Facility occupancy rising but slowly; growth lagging home-based operators, confirming reimbursement math shift away from SNF beds."
+  },
+  {
+   "company": "Becton, Dickinson and Company",
+   "metric": "connected care and medication-management systems revenue",
+   "from": "Q2 FY2026 prior year",
+   "to": "Q3 FY2026: Connected Care +$1.224B, all segments growing YoY",
+   "change": "+5.4% reported revenue, broad institutional demand",
+   "reads": "Equipment and workflow systems enabling home and alternate-site care proliferating across healthcare system."
+  },
+  {
+   "company": "Cencora Inc.",
+   "metric": "specialty healthcare solutions and GLP-1 utilization",
+   "from": "FY2025 baseline",
+   "to": "Q3 FY2026: $84.8B revenue, up 5.1% YoY; GLP-1 growing",
+   "change": "+5.1% consolidated revenue YoY",
+   "reads": "GLP-1 growth reflects aging populations managing chronic disease at home; specialty services and physician-practice attachment expanding."
+  }
+ ],
+ "momentum_note": "The evidence is overwhelming: five of the seven home-health and home-care focused operators posted 15% or higher YoY organic revenue growth, with double-digit census and capacity expansion in 2025-2026. Addus, Aveanna, and AdaptHealth all report simultaneous inflections in 2025-2026, exactly matching the thesis. BrightSpring's 54% YoY home-health census surge is the single strongest signal that reimbursement dollars are following patients out of facilities. Brookdale's slower facility occupancy growth (200 bps) provides a counterpoint that confirms the direction: Medicare and Medicaid are routing payment to home and community settings, leaving facility-based operators to compete on occupancy while home operators scale. The trend is accelerating.",
+ "confidence": "high"
+}

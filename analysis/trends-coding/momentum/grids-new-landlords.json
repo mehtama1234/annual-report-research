@@ -1,0 +1,65 @@
+{
+ "slug": "grids-new-landlords",
+ "verdict": "accelerating",
+ "headline": "Power transmission owners capturing accelerating AI-driven data center load through regulated returns.",
+ "deltas": [
+  {
+   "company": "Duke Energy Corporation",
+   "metric": "data-center electric service agreements",
+   "from": "4.5 GW (prior)",
+   "to": "7.6 GW (Q1 2026) plus 15.4 GW late-stage pipeline",
+   "change": "+69% in secured ESAs, triple in pipeline",
+   "reads": "Hyperscaler demand now embedded in regulated utility capital plans with multi-year service agreements"
+  },
+  {
+   "company": "NextEra Energy, Inc.",
+   "metric": "FPL regulatory capital employed",
+   "from": "$72.9B (Q2 2025)",
+   "to": "$79.7B (Q2 2026)",
+   "change": "+9.3% YoY",
+   "reads": "Regulated utility rate base growing ahead of GDP as AI and data-center loads justify infrastructure expansion"
+  },
+  {
+   "company": "TC Energy Corporation",
+   "metric": "comparable EBITDA full-year",
+   "from": "C$10.0B (2024)",
+   "to": "C$11.0B (2025)",
+   "change": "+10% YoY",
+   "reads": "Gas backbone driving earnings growth through LNG demand and continent-spanning transport ownership"
+  },
+  {
+   "company": "Enbridge Inc.",
+   "metric": "secured growth backlog",
+   "from": "baseline at last Enbridge Day",
+   "to": "C$39B (Q2 2026)",
+   "change": "+35%",
+   "reads": "Transmission and storage expansion backlog inflated by data-center power and cross-border energy security demand"
+  },
+  {
+   "company": "ONEOK, Inc.",
+   "metric": "adjusted EBITDA quarter-over-quarter",
+   "from": "$1.981B (Q2 2025)",
+   "to": "$2.121B (Q2 2026)",
+   "change": "+7% YoY, record NGL throughput +15%",
+   "reads": "Integrated midstream logistics capturing volume growth and optimization upside from data-center linked power demand"
+  },
+  {
+   "company": "Williams Companies, Inc.",
+   "metric": "2026 adjusted EBITDA guidance",
+   "from": "$8.05B-$8.35B (initial)",
+   "to": "$8.4B (raised midpoint +$200M)",
+   "change": "+$200M guidance raise in H1 2026",
+   "reads": "Transmission and power-innovation platform expanding as LNG exports and data-center demand drive growth"
+  },
+  {
+   "company": "EQT Corporation",
+   "metric": "gas infrastructure monetization via long-term contracts",
+   "from": "spot Henry Hub exposure model",
+   "to": "5-year LNG SPA (0.5 MTPA from 2028) plus 10-year power supply agreement (325k Dth/d)",
+   "change": "shifted to contracted take-or-pay infrastructure",
+   "reads": "Upstream gas locked into regulated and contracted transport through power demand and LNG infrastructure ownership"
+  }
+ ],
+ "momentum_note": "Across utilities (Duke, NextEra), pipelines (Enbridge, TC Energy, Williams), and gas infrastructure (EQT, ONEOK, ONE Gas), the data shows accelerating revenue and capital-base growth tied explicitly to data-center power demand, regulated rate recovery, and long-duration transport contracts. Duke alone increased secured AI data-center ESAs 69% in one year with triple the pipeline. Utilities are raising capital plans ($103B at Duke) while transmission operators are sanctioning $3B-$6B+ annual capex on in-corridor expansions, LNG, and power infrastructure. The key structural pattern: hyperscalers cannot escape these companies because transmission lines and gas pipes are regulated monopolies. Nine of ten companies in this cohort reported double-digit YoY growth in the metrics tied to this theme (EBITDA, earnings, rate base, throughput, backlog).",
+ "confidence": "high"
+}

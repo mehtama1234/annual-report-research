@@ -1,0 +1,65 @@
+{
+ "slug": "ritual-economy",
+ "verdict": "accelerating",
+ "headline": "Ritual-anchored purchasing accelerates across pet care, beverages, coffee, jewelry, and loyalty systems.",
+ "deltas": [
+  {
+   "company": "Chewy Inc.",
+   "metric": "Autoship adoption and active customer growth",
+   "from": "84% of net sales via Autoship (Q3 2025)",
+   "to": "200K net customer additions in Q1 2026; 21.3M active customers year-end 2025",
+   "change": "+7.7% Q1 2026 net sales YoY",
+   "reads": "Pet parents deepening repeat subscription behavior; Autoship anchors recurring ritual purchase frequency"
+  },
+  {
+   "company": "McDonald's Corporation",
+   "metric": "Loyalty member sales and engagement scale",
+   "from": "~$37B TTM loyalty member sales; ~210M active loyalty users (year-end 2025)",
+   "to": "$40B TTM loyalty member sales; ~220M active loyalty users (Q2 2026)",
+   "change": "+20% YoY loyalty member sales; +7.6% comparable sales (Q4 2025)",
+   "reads": "Digital loyalty ecosystem driving repeat fast-food ritual frequency; loyalty member sales now material to growth"
+  },
+  {
+   "company": "Dutch Bros Inc.",
+   "metric": "Same-shop transaction growth and frequency",
+   "from": "5.4% systemwide same-shop transaction growth (Q4 2025)",
+   "to": "1.7% systemwide same-shop transaction growth (Q2 2026); 5.8% same-shop sales growth",
+   "change": "+5.8% same-shop sales, 13 consecutive quarters of growth",
+   "reads": "Drive-thru beverage ritual sustains transaction frequency; Dutch Rewards loyalty reinforces repeat visits"
+  },
+  {
+   "company": "Etsy Inc.",
+   "metric": "Habitual and repeat buyer cohort behavior",
+   "from": "Flat active buyer cohorts (2023-2025)",
+   "to": "Habitual and repeat buyer cohorts showing sequential gains for first time since 2023 (Q1-Q2 2026)",
+   "change": "+7.5% Etsy marketplace GMS YoY (Q2 2026); +350K active buyers sequentially",
+   "reads": "Creator-marketplace ritual identity spending thickening; repeat-buyer deepening signals stabilization in discretionary occasion spending"
+  },
+  {
+   "company": "Signet Jewelers Limited",
+   "metric": "Occasion and milestone ritual spending resilience",
+   "from": "3.0% same-store sales growth (Q3 FY26); AUR up 7%",
+   "to": "1.8% same-store sales growth (Q1 FY27); AUR up 5%",
+   "change": "Q1 FY27 shows engagement, wedding, and Valentine/Mother's Day ritual hold",
+   "reads": "Milestone gifting and engagement rituals remain price-inelastic; consumer still funds occasion-anchored purchases"
+  },
+  {
+   "company": "Colgate-Palmolive Co.",
+   "metric": "Daily-use hygiene ritual revenue persistence",
+   "from": "1.4% organic sales growth (FY 2025)",
+   "to": "+2.4% organic sales (Q2 2026); +2.9% organic sales (Q1 2026)",
+   "change": "+69-107 bps organic growth acceleration QoQ 2026",
+   "reads": "Oral care daily ritual accelerating; category leadership holds even in mixed consumer conditions"
+  },
+  {
+   "company": "Build-A-Bear Workshop Inc.",
+   "metric": "Commercial and franchise ritual participation channels",
+   "from": "$10.4M commercial/franchise revenue (Q3 2025), +4.9% YoY",
+   "to": "$11.8M commercial/franchise revenue (Q1 2026), +34.1% YoY",
+   "change": "+34.1% YoY Q1 2026",
+   "reads": "Personalization and gifting ritual expanding beyond direct retail; wholesale and partner-operated channels accelerating"
+  }
+ ],
+ "momentum_note": "The ritual economy is accelerating across consumer-staple, occasion-driven, and membership-anchored businesses. Pet care autoship adoption deepens repeat frequency; loyalty member sales at McDonald's (20% YoY growth) now material to growth narrative; drive-thru beverage transactions sustain multi-quarter growth; occasion spending in jewelry shows resilience; and daily-use hygiene rituals accelerate. The shared signal is that pre-decided, identity-anchored, or occasion-anchored purchases are holding up better than discretionary categories and are increasingly monetized through loyalty, subscription, and repeat-purchase interfaces rather than through one-time retail traffic alone.",
+ "confidence": "high"
+}

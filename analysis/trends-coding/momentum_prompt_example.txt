@@ -1,0 +1,30 @@
+You are extracting DIRECTION OF TRAVEL (momentum over time) for one trend, grounded strictly in company filings.
+
+TREND: The Gray Wave Dividend
+CORE THESIS: The reimbursement math has moved. A skilled nursing facility bed costs Medicare $300–$400 per day. Home health costs $150–$250. Medicare and Medicaid are now writing contracts to keep patients at home, and the capital that built the pharmacy, aide, and equipment networks to serve those patients is collecting revenue no discretionary slowdown can touch. The first cohort of boomers is crossing age 80 — not a prediction but a demographic fact confirmed in filings from five independent companies reporting simultaneous inflection in 2025 and 2026.
+
+For EACH company below, open its packet file and find the most recent year-over-year (YoY) or quarter-over-quarter change that speaks to THIS trend (revenue, margin, membership, volume, price — whatever the trend is about). Use REAL numbers from the packet. If a packet has no relevant prior-period comparison, skip that company (do not invent).
+
+COMPANIES (name: packet path):
+- AdaptHealth Corp.: extracted/healthcare/medical-appliances-equipment/adapthealth-corp/company-packet.md
+- Addus HomeCare Corporation: extracted/healthcare/specialized-health-services/addus-homecare-corporation/company-packet.md
+- Aveanna Healthcare Holdings, Inc.: extracted/healthcare/specialized-health-services/aveanna-healthcare-holdings-inc/company-packet.md
+- Baxter International Inc.: extracted/healthcare/medical-instruments-supplies/baxter-international-inc/company-packet.md
+- Becton, Dickinson and Company: extracted/healthcare/medical-instruments-supplies/becton-dickinson-and-company/company-packet.md
+- BrightSpring Health Services, Inc.: extracted/healthcare/specialized-health-services/brightspring-health-services-inc/company-packet.md
+- Brookdale Senior Living Inc.: extracted/healthcare/long-term-care-facilities/brookdale-senior-living-inc/company-packet.md
+- Cencora Inc.: extracted/healthcare/drug-stores/cencora-inc/company-packet.md
+
+Read the packets with your file tools. Then output ONE json object to /tmp/claude-1000/-home-manishmehta-ui-projects/5ee730e8-454c-4538-8425-33692541a289/scratchpad/artrends/momentum/gray-wave-dividend.json with EXACTLY these fields:
+{
+  "slug": "gray-wave-dividend",
+  "verdict": one of "accelerating" | "steady" | "decelerating" | "mixed",
+  "headline": "one plain sentence: which way this trend is moving and how fast (<=22 words)",
+  "deltas": [
+    {"company":"...", "metric":"what changed e.g. membership revenue", "from":"prior value", "to":"latest value", "change":"e.g. +25% YoY or doubled", "reads":"one clause: what this signals for the trend"}
+  ],
+  "momentum_note": "2-3 sentences synthesizing the direction of travel across these companies — is the trend strengthening, plateauing, or fading, and what the numbers show. Ground every claim in the deltas above.",
+  "confidence": one of "high" | "medium" | "low"
+}
+
+RULES: Real numbers only, from the packets. deltas = 3 to 7 entries (the strongest signals). All string fields are PLAIN STRINGS, never arrays. If most packets lack comparisons, set confidence low and say so honestly in momentum_note. Output ONLY the JSON via your Write tool — no prose reply. Reply just "DONE" when written.

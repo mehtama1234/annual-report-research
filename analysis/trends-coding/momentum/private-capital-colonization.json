@@ -1,0 +1,57 @@
+{
+ "slug": "private-capital-colonization",
+ "verdict": "accelerating",
+ "headline": "Alternative platforms rapidly absorbing institutional capital as regulated banks contract.",
+ "deltas": [
+  {
+   "company": "Blackstone Inc.",
+   "metric": "Total AUM",
+   "from": "$1.27T (2025 year-end)",
+   "to": "$1.346T (Q2 2026)",
+   "change": "+$76B or +6% in 6 months",
+   "reads": "Record AUM crossing $1.3T, driven by fee-earning and perpetual capital expansion in private credit, infrastructure, and insurance products."
+  },
+  {
+   "company": "Apollo Global Management",
+   "metric": "Fee-generating AUM",
+   "from": "$836B (Q1 2026)",
+   "to": "$858B (Q2 2026)",
+   "change": "+$22B or +2.6% QoQ",
+   "reads": "Spread and fee-earning stack compounding through origination, retirement services, and insurance-backed platforms despite weaker exit environment."
+  },
+  {
+   "company": "Ares Management",
+   "metric": "Available capital (dry powder)",
+   "from": "$158.1B (Q1 2026)",
+   "to": "$170.0B (Q2 2026)",
+   "change": "+$11.9B or +7.5% QoQ",
+   "reads": "Record fundraising and available capital, enabling large private-credit and alternative deployment independent of bank credit availability."
+  },
+  {
+   "company": "Brookfield Corporation",
+   "metric": "Insurance assets under management",
+   "from": "baseline prior quarter",
+   "to": "$180B (Q1 2026)",
+   "change": "Raised $67B since prior quarter, including $44B insurance capital",
+   "reads": "Insurance balance-sheet capital flowing into alternative platforms at scale, fulfilling regulatory-arbitrage pattern from bank constraints."
+  },
+  {
+   "company": "Franklin Resources",
+   "metric": "Alternatives AUM",
+   "from": "n/a prior year comparable",
+   "to": "$294.2B record (Q3 2026)",
+   "change": "Record alternatives AUM milestone",
+   "reads": "Even legacy active managers accelerating alternatives to escape fee pressure in traditional asset management, proving private-capital migration breadth."
+  },
+  {
+   "company": "Ares Management",
+   "metric": "Management-fee related earnings",
+   "from": "$464.4M (Q1 2026)",
+   "to": "$491.1M (Q2 2026)",
+   "change": "+$26.7M or +5.8% QoQ",
+   "reads": "Fee-paying AUM growth ($399.6B to $409.9B) and scale driving management-fee leverage, core to colonization thesis of higher fees replacing bank spreads."
+  }
+ ],
+ "momentum_note": "Private capital colonization is accelerating across the data. Blackstone, Apollo, Ares, and Brookfield all show record or near-record capital scale, with alternative managers now absorbing tens of billions per quarter from institutions and insurance pools. Fee-generating AUM growth, perpetual capital expansion, and record available capital are outpacing realizations, proving that platforms are successfully converting former bank credit functions into higher-fee private capital channels. Franklin's alternatives surge to $294B confirms the trend extends across manager types. The regulatory arbitrage is structural: insurance balance-sheet capital and institutional outsourcing are flowing toward firms with fewer capital constraints and fatter fee structures.",
+ "confidence": "high"
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "ai-cultural-disintermediation",
+ "verdict": "accelerating",
+ "headline": "AI-powered platforms capturing consumer relationships and economic moats as intermediaries.",
+ "deltas": [
+  {
+   "company": "Affirm Holdings Inc.",
+   "metric": "Affirm Card GMV and cardholder adoption",
+   "from": "Q3 2025: 0% growth baseline (new product)",
+   "to": "Q3 2026: GMV grew 146% to $2.1B; active cardholders more than doubled to 4.4M",
+   "change": "+146% GMV YoY; cardholders >2x",
+   "reads": "AI-driven underwriting and merchant conversion logic embedding direct payment relationship between consumer and platform, bypassing card network intermediaries."
+  },
+  {
+   "company": "Airbnb Inc.",
+   "metric": "AI customer-support resolution rate and cost efficiency",
+   "from": "Q2 2025: baseline pre-AI-assistant deployment",
+   "to": "Q2 2026: AI assistant resolved 45% of issues without human agent; support cost per booking declined 16% YoY",
+   "change": "45% AI resolution rate; -16% cost/booking",
+   "reads": "AI-native customer support removing human agent as relationship touchpoint and cost center, compressing service margin."
+  },
+  {
+   "company": "American Express Company",
+   "metric": "AI-enabled agentic commerce and premium card adoption",
+   "from": "2025: legacy card-member experience model",
+   "to": "Q2 2026: management explicitly highlighted agentic-commerce tooling; Millennial/Gen Z became largest share of U.S. consumer spending; net card fee revenue posted 30th straight quarter of double-digit growth",
+   "change": "+30 consecutive quarters double-digit card fee growth",
+   "reads": "AI agents discovering products and completing payments without human advisor intermediation, capturing payment authority and data that professionals formerly controlled."
+  },
+  {
+   "company": "Etsy Inc.",
+   "metric": "Platform take-rate and merchant disintermediation",
+   "from": "Q2 2025: take rate 24.0% (estimated from annual 24.2%)",
+   "to": "Q2 2026: take rate 25.9%; take-rate expansion led by Etsy Ads and on-site monetization",
+   "change": "+190 bps take rate YoY",
+   "reads": "Platform monetization expanding beyond merchant fees into ads and algorithmic promotion layer, capturing economic value sellers once controlled directly."
+  },
+  {
+   "company": "Exact Sciences Corporation",
+   "metric": "AI-driven diagnostic decision-making and test adoption",
+   "from": "2024: established Cologuard franchise with physician referral model",
+   "to": "2025: launched three new tests (Cancerguard, Oncodetect, blood-based CRC); full-year revenue $3.25B; screened more people than ever",
+   "change": "+3 new AI-optimized tests in 2025; revenue growth continuing",
+   "reads": "AI diagnostic systems making triage and screening decisions formerly reserved for physician judgment, disintermediating clinical authority through direct-to-consumer testing access."
+  },
+  {
+   "company": "Forrester Research Inc.",
+   "metric": "Knowledge intermediary contract value under AI pressure",
+   "from": "Q2 2025: revenue $111.7M; contract value baseline",
+   "to": "Q2 2026: revenue $100.2M (-10.1% YoY); contract value $283.2M (down 3% YoY); management highlighted Forrester AI adoption",
+   "change": "-10.1% revenue YoY; -3% contract value",
+   "reads": "Legacy research intermediary losing pricing power and contract value as AI provides alternative judgment layer; company pivoting to embed AI workflows to defend intermediation moat."
+  },
+  {
+   "company": "Gartner Inc.",
+   "metric": "Institutional intermediary contract value resilience",
+   "from": "Q2 2025: contract value baseline",
+   "to": "Q2 2026: contract value $5.3B, up 1.7% YoY (FX-neutral); Insights client retention 85%; management said contract-value growth accelerated",
+   "change": "+1.7% contract value YoY; 85% retention",
+   "reads": "Institutional research intermediary holding pricing moat despite AI competition because workflow integration and executive prioritization remain sticky even as information abundance rises."
+  }
+ ],
+ "momentum_note": "The trend is accelerating across two distinct mechanisms: (1) Consumer-facing platforms (Affirm, Airbnb, AmEx, Etsy, Exact) are using AI to directly capture economic relationships, pricing power, and decision-making authority that intermediaries—financial advisors, travel agents, copywriters, diagnostic specialists—formerly held. Card attachment, support resolution, take-rate expansion, and test adoption all show platforms compressing the intermediary layer. (2) Knowledge and labor intermediaries (Forrester, Gartner, Korn Ferry) face mixed pressure: Forrester lost pricing power as AI provides alternative judgment; Gartner and Korn Ferry hold moats through workflow integration and remaining-fee growth, suggesting that institutional intermediaries can survive by embedding themselves into client systems rather than selling periodic reports or placements alone. The structural shift is that AI improves with each decision, compounding the moat faster than human intermediaries can close the gap.",
+ "confidence": "high"
+}

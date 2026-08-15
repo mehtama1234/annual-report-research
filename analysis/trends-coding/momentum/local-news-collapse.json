@@ -1,0 +1,57 @@
+{
+ "slug": "local-news-collapse",
+ "verdict": "accelerating",
+ "headline": "Classified and SME budgets permanently migrated to platforms; local newsroom unit economics broken.",
+ "deltas": [
+  {
+   "company": "Meta Platforms, Inc.",
+   "metric": "advertising revenue and volume",
+   "from": "Q1 2026: ad impressions baseline, avg price per ad baseline",
+   "to": "Q2 2026: $60.801B quarterly revenue, +14% impressions YoY, +12% average price per ad",
+   "change": "+14% impressions, +12% price per ad (double-digit growth sustained)",
+   "reads": "Meta continues to absorb the ad budgets (especially SME and local-business spend) that historically funded local newsrooms; no slowdown visible in platform consolidation of advertiser budgets."
+  },
+  {
+   "company": "Nexstar Media Group, Inc.",
+   "metric": "advertising revenue (non-political)",
+   "from": "Q4 2024 (implied): political advertising + baseline local ads",
+   "to": "Q4 2025: $549M total ad revenue, with political dropping $233M YoY to only $21M; Q2 2026 $862M but politically inflated again",
+   "change": "Q4 2025 YoY: -42% political ad cliff; structural non-political ad weakness visible beneath political cycles",
+   "reads": "Largest local broadcaster shows fundamental weakness in non-political advertising; when political windfall disappears, underlying local-business ad demand remains depressed, confirming permanent migration."
+  },
+  {
+   "company": "Outbrain Inc. / Teads Holding Co.",
+   "metric": "revenue from open-internet and SME/mid-market advertiser spend",
+   "from": "Q2 2025: total platform revenue",
+   "to": "Q2 2026: $284.6M revenue, down 17% YoY",
+   "change": "-17% YoY",
+   "reads": "Ad-tech middleman serving smaller advertisers and publishers shows sharp contraction; SME digital-ad budgets under pressure as businesses migrate direct-to-platform (Google, Meta) or abandon small-local-business advertising entirely."
+  },
+  {
+   "company": "PubMatic, Inc.",
+   "metric": "full-year revenue (reported basis including legacy drag)",
+   "from": "FY2024: $291.3M",
+   "to": "FY2025: $282.9M",
+   "change": "-3% YoY despite positioning as AI-forward",
+   "reads": "Open-internet programmatic platform shows revenue decline on reported basis; while management attributes drag to legacy DSP wind-down, the underlying signal is flattish growth in an infrastructure layer that depends on publisher demand and advertiser budgets fragmenting healthily."
+  },
+  {
+   "company": "Alphabet Inc.",
+   "metric": "Search + YouTube ad revenue concentration",
+   "from": "2025 annual: YouTube exceeded $60B of annual revenue in ads and subscriptions combined; Search dominant in core",
+   "to": "Q2 2026: Google consolidated revenue $119.8B (largest search+ads business globally)",
+   "change": "Sustained 80%+ of U.S. digital ad spend captured; no saturation signal",
+   "reads": "Google's dominance in search and YouTube means local-business classifieds (used to fund local papers) flow to Google Properties Maps/Local Services Ads, not to local newsrooms or traditional publishers."
+  },
+  {
+   "company": "EchoStar Corporation",
+   "metric": "Pay-TV subscriber base (proxy for cord-cutting and legacy-media household decline)",
+   "from": "FY2025: 6.998M Pay-TV subscribers",
+   "to": "Q2 2026: 6.391M Pay-TV subscribers (deconsolidated, but still showing 607K decline in 6 months)",
+   "change": "-8.7% in 6 months (or -607K absolute)",
+   "reads": "Household video base collapsing; as TV households erode, advertising insert-spend opportunities for linear broadcast inventory (including local news) decline with them, even before budget migration to digital."
+  }
+ ],
+ "momentum_note": "The local-news collapse trend is accelerating. Meta and Google are capturing double-digit growth in advertiser budgets (impressions +14%, pricing +12%) that once funded local newsrooms through classifieds and SME spend. Nexstar's Q4 2025 advertising cliff and Q2 2026 political rebound mask structural weakness in non-political local advertising. Teads and PubMatic (the open-internet infrastructure layer) show contraction (-17% and -3% respectively), confirming that smaller advertisers either moved directly to platforms or reduced local advertising spend. Pay-TV subscriber decline (-8.7% annualized) further erodes the insert-ad and linear-broadcast base that underpinned local-news economics. No company in these filings shows a working unit-economics fix for local journalism when classified and SME budgets have permanently migrated to platforms.",
+ "confidence": "high"
+}

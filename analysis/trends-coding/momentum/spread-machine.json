@@ -1,0 +1,65 @@
+{
+ "slug": "spread-machine",
+ "verdict": "accelerating",
+ "headline": "Distribution consolidators extend pricing power and margins through access control.",
+ "deltas": [
+  {
+   "company": "Arrow Electronics Inc.",
+   "metric": "consolidated sales",
+   "from": "$7.58B (Q2 2025)",
+   "to": "$9.99B (Q2 2026)",
+   "change": "+32% YoY",
+   "reads": "Components and technology distribution accelerates sharply, showing channel control through the broadest demand recovery cycle."
+  },
+  {
+   "company": "Cardinal Health, Inc.",
+   "metric": "non-GAAP diluted EPS",
+   "from": "$2.35 (Q3 FY2025)",
+   "to": "$3.17 (Q3 FY2026)",
+   "change": "+35% YoY",
+   "reads": "Pharmaceutical and specialty solutions moat deepens, with segment profit up 18% despite tariff headwinds."
+  },
+  {
+   "company": "Cencora Inc.",
+   "metric": "consolidated revenue",
+   "from": "$80.8B (Q3 FY2025)",
+   "to": "$84.8B (Q3 FY2026)",
+   "change": "+5.1% YoY",
+   "reads": "Healthcare distribution maintains recurring institutional demand, with specialty and services attachment lifting underlying dependence."
+  },
+  {
+   "company": "Casella Waste Systems Inc.",
+   "metric": "solid waste pricing",
+   "from": "+4.9% (FY2025)",
+   "to": "+5.5% (Q2 2026)",
+   "change": "+60 bps acceleration",
+   "reads": "Regional landfill and collection density translates directly to sustained pricing power without erosion."
+  },
+  {
+   "company": "Applied Industrial Technologies, Inc.",
+   "metric": "organic sales growth",
+   "from": "+3.0% (FY2026 Q1)",
+   "to": "+6.0% (FY2026 Q3)",
+   "change": "+300 bps acceleration",
+   "reads": "Technical distribution tightens lock-in as Engineered Solutions attachment and MRO dependence compound."
+  },
+  {
+   "company": "C.H. Robinson Worldwide Inc.",
+   "metric": "freight market outgrowth",
+   "from": "positive vs index",
+   "to": "13 consecutive quarters of Cass outgrowth",
+   "change": "market share consistently captured",
+   "reads": "Broker as access layer extracts margin through pricing discipline independent of underlying freight demand."
+  },
+  {
+   "company": "DNOW Inc.",
+   "metric": "U.S. midstream revenue run rate",
+   "from": "below $1B annualized",
+   "to": "first quarter above $1B annualized",
+   "change": "crossed threshold",
+   "reads": "Energy and PVF distribution reaches sufficient scale and density that customer switching costs cement durability."
+  }
+ ],
+ "momentum_note": "The spread machine is visibly accelerating. Across these seven distributors, the pattern is consistent: pricing power is expanding even as growth moderates, access dependence is deepening through service attachment and technical capability, and the underlying commodity or throughput is increasingly secondary to the intermediary's control. Arrow's 32% growth shows recovery breadth; Cardinal and Cencora show pharmaceutical and healthcare system lock-in independent of headline volume; Casella, CHRW, and DNOW show that regional/sectoral density and pricing discipline matter more than commodity price movement; Applied shows technical services compounding the moat. This is not a cyclical recovery story. These are structurally entrenched intermediaries extending their spreads.",
+ "confidence": "high"
+}

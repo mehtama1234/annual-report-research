@@ -1,0 +1,57 @@
+{
+ "slug": "workers-invisible-tax",
+ "verdict": "accelerating",
+ "headline": "Capital deployment to reduce labor dependence is capturing margin faster than wages rise.",
+ "deltas": [
+  {
+   "company": "Diamondback Energy, Inc.",
+   "metric": "production efficiency + capital return",
+   "from": "Q2 2025 production ~972 MBOE/d; Q4 2025 debt $14.7B",
+   "to": "Q2 2026 production 1,018 MBOE/d (first time >1.0M); Q2 2026 debt $12.8B (-$1.3B QoQ); free cash flow $2.3B",
+   "change": "Production +4.7% YoY with 80% frac-fleet electrification; debt -12.9% YoY",
+   "reads": "Automation of drilling execution (electrified crews, DUC efficiency, completion logistics) is reducing operational labor burden while free cash accelerates debt reduction and discretionary capital returns."
+  },
+  {
+   "company": "BrightView Holdings, Inc.",
+   "metric": "seasonal labor substitution via H-2B visa program",
+   "from": "2,000 H-2B seasonal workers in 2024; maintenance revenue base",
+   "to": "1,500 H-2B seasonal workers in 2025; Q3 FY2026 maintenance revenue +1.8% YoY; full fiscal 2025 net income $56.0M",
+   "change": "-25% reduction in visa workers; revenue still grows",
+   "reads": "Shift to visa-based seasonal labor replaces domestic workers; company maintains profitability and service margins despite smaller H-2B footprint, signaling wage suppression via immigration channel rather than wage growth."
+  },
+  {
+   "company": "ConocoPhillips",
+   "metric": "shareholder distribution from upstream cash generation",
+   "from": "2024 shareholder distributions (prior year baseline)",
+   "to": "Full-year 2025: $9.0B total distributions ($5.0B buybacks + $4.0B dividends); Q2 2026 EPS $3.23 adjusted",
+   "change": "$9.0B returned in 2025; continued 45% CFO return target for 2026",
+   "reads": "Upstream cash machine deployed to buybacks after labor constraints tightened production; capital returns dominate over wage-driven cost increases."
+  },
+  {
+   "company": "Comfort Systems USA, Inc.",
+   "metric": "backlog growth constrained by labor availability",
+   "from": "End-2025 backlog $11.94B; prior-year 2024 backlog $5.99B",
+   "to": "Q2 2026 backlog $14.06B from Q1 2026 $12.45B; revenue $3.27B Q2 2026; net income $441.6M Q2 2026",
+   "change": "Backlog +135% YoY; same-store backlog +$2.6B in 6 months",
+   "reads": "Demand and profitability are growing, but management explicitly cites labor availability as the binding constraint preventing higher revenue conversion—wages have not risen enough to close the gap."
+  },
+  {
+   "company": "Applied Industrial Technologies, Inc.",
+   "metric": "technical outsourcing and engineered solutions growth amid labor scarcity",
+   "from": "Fiscal Q2 2026: organic growth +2.2%; Engineered Solutions +0.5%",
+   "to": "Fiscal Q3 2026: organic growth +6.0%; Engineered Solutions +9.3%; all segments strengthening",
+   "change": "Organic growth +3.8 pp QoQ; Engineered Solutions turnaround from flat to +9.3%",
+   "reads": "Labor scarcity is shifting value from stocked MRO toward outsourced technical expertise and engineered solutions—customers avoid internal hiring by contracting technical depth."
+  },
+  {
+   "company": "Diamondback Energy, Inc.",
+   "metric": "debt reduction and capital discipline despite robust cash flow",
+   "from": "Q1 2026 net debt $13.9B; cash capex $933M",
+   "to": "Q2 2026 net debt $12.3B (-$1.6B QoQ); cash capex $996M; management removed formulaic free-cash-flow payout to enable cycle-aware capital allocation",
+   "change": "Net debt -11.5% in 6 months; cash returned to discretionary allocation model",
+   "reads": "Instead of raising wages to address labor scarcity, management is channeling efficiency gains and cash toward shareholders via debt reduction and buybacks."
+  }
+ ],
+ "momentum_note": "The trend is accelerating. Diamondback and ConocoPhillips show capital-intensive upstream businesses deploying automation and cash returns instead of wage growth. BrightView explicitly replaced domestic seasonal workers with cheaper H-2B visa holders while maintaining profitability. Comfort Systems demonstrates the clearest labor-availability bottleneck—backlog nearly tripled but revenue growth is constrained by skilled-labor availability rather than demand softness. Applied Industrial shows customers outsourcing technical functions rather than hiring internally. Across all six signals, margins are captured and returned to shareholders; workers face wage suppression (via visa substitution, outsourcing, or automation) rather than rising compensation.",
+ "confidence": "high"
+}

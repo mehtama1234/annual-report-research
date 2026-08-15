@@ -1,0 +1,57 @@
+{
+ "slug": "screening-revolution",
+ "verdict": "accelerating",
+ "headline": "Screening adoption and volume scaling across all vectors as tests become default behavior.",
+ "deltas": [
+  {
+   "company": "Exact Sciences",
+   "metric": "screening revenue",
+   "from": "$666M (Q3 2025)",
+   "to": "$695M (Q4 2025)",
+   "change": "+4.4% QoQ",
+   "reads": "Cologuard and new multi-cancer tests maintain steady expansion as the flagship screening franchise scales."
+  },
+  {
+   "company": "Guardant Health",
+   "metric": "Shield screening tests volume",
+   "from": "44,000 (Q1 2026)",
+   "to": "66,000 (Q2 2026)",
+   "change": "+50% QoQ",
+   "reads": "Blood-based colorectal cancer screening adoption accelerating rapidly, validating the friction-reduction thesis."
+  },
+  {
+   "company": "Guardant Health",
+   "metric": "screening revenue",
+   "from": "$41.6M (Q1 2026)",
+   "to": "$52.9M (Q2 2026)",
+   "change": "+27.2% QoQ",
+   "reads": "Screening revenue growing faster than test volume suggests improving reimbursement and ASP as coverage expands."
+  },
+  {
+   "company": "Natera",
+   "metric": "oncology test volume",
+   "from": "258,900 (Q1 2026)",
+   "to": "296,700 (Q2 2026)",
+   "change": "+54.4% YoY (Q2)",
+   "reads": "Oncology monitoring adoption doubling annually; Signatera and other cancer surveillance tests becoming routine."
+  },
+  {
+   "company": "Quest Diagnostics",
+   "metric": "consumer channel (questhealth.com) revenue",
+   "from": "base level (Q1 2026)",
+   "to": "material expansion noted (Q2 2026)",
+   "change": "double-digit organic growth in Advanced Diagnostics",
+   "reads": "Direct-to-consumer screening behavior normalizing; consumers buying diagnostic tests independently."
+  },
+  {
+   "company": "Abbott Laboratories",
+   "metric": "diagnostics segment revenue",
+   "from": "$2.180B (Q1 2026)",
+   "to": "$3.092B (Q2 2026)",
+   "change": "+12% YoY",
+   "reads": "Installed diagnostic systems and testing infrastructure compounding as installed base deepens."
+  }
+ ],
+ "momentum_note": "The screening revolution is unmistakably accelerating. Exact Sciences holds steady but now sits inside a larger ecosystem where Guardant's Shield blood-based screening is growing 50% quarter-over-quarter and Natera's oncology tests are doubling annually. Quest is pulling screening into consumer awareness through questhealth.com, while Abbott's diagnostics segment accelerates at 12% YoY. The trend is not linear volume growth—it is participation becoming behavioral default. When Guardant's test volume jumps 50% in one quarter and reimbursement rates expand simultaneously, that signals the adoption curve is compressing. This is the moment when screening stops being a deliberate medical act and becomes infrastructure.",
+ "confidence": "high"
+}

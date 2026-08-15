@@ -1,0 +1,49 @@
+{
+ "slug": "presence-premium",
+ "verdict": "accelerating",
+ "headline": "Scarcity of live moments commands durable pricing premiums across hospitality, events, and broadcasting.",
+ "deltas": [
+  {
+   "company": "Fox Corporation",
+   "metric": "advertising revenue",
+   "from": "$1.56B (Q3 FY2026)",
+   "to": "$4.21B (Q4 FY2026, net of World Cup broadcast uplift)",
+   "change": "+78% YoY (Q4 FY2025→Q4 FY2026)",
+   "reads": "Live sports rights (FIFA World Cup) create extreme monetization spikes, proving appointment-based content commands premium ad pricing"
+  },
+  {
+   "company": "Host Hotels & Resorts",
+   "metric": "comparable hotel RevPAR",
+   "from": "$234.80 (Q2 2025)",
+   "to": "$251.53 (Q2 2026)",
+   "change": "+7.0% YoY",
+   "reads": "Affluent travelers willing to pay sharply more per room for luxury hotel nights at named properties; physical venue scarcity drives pricing power"
+  },
+  {
+   "company": "Host Hotels & Resorts",
+   "metric": "comparable hotel Total RevPAR",
+   "from": "$394.09 (Q2 2025)",
+   "to": "$417.58 (Q2 2026)",
+   "change": "+5.9% YoY",
+   "reads": "Out-of-room spending also grew, showing willingness to pay premium on total experience when supply is fixed and demand is strong"
+  },
+  {
+   "company": "Marriott International",
+   "metric": "worldwide RevPAR",
+   "from": "Q2 2025",
+   "to": "+3.4% (Q2 2026)",
+   "change": "+3.4% YoY",
+   "reads": "Global branded stays commanding consistent pricing power even during geopolitical disruption; scarcity of branded supply still valued"
+  },
+  {
+   "company": "Hilton Worldwide Holdings",
+   "metric": "comparable RevPAR",
+   "from": "Q2 2025 baseline",
+   "to": "+3.9% (Q2 2026)",
+   "change": "+3.9% YoY currency-neutral",
+   "reads": "Asset-light lodging platform leveraging fixed global room supply and brand scarcity to drive pricing; pipeline growth while maintaining rate strength"
+  }
+ ],
+ "momentum_note": "The Presence Premium is accelerating. Fox shows live-event advertising premiums remain extreme and volatile. Host and Marriott both posted +5-7% RevPAR growth in H1 2026, proving affluent consumers are bidding up prices for physical stays at named properties even as new supply grows. Hilton's 3.9% RevPAR gain with 6.1% net unit growth shows the model holds: scarcity of branded capacity drives pricing discipline. The pattern is clear across hospitality: supply is controlled, demand is willing to pay, and pricing power is durable. Netflix and DraftKings show streaming and wagering are not benefiting from presence premiums—opposite dynamics. The Presence Premium is strongest where supply is hardest to expand (venues, room nights, broadcast rights) and demand is real-time and non-substitutable.",
+ "confidence": "high"
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "commodity-whiplash-transfer",
+ "verdict": "accelerating",
+ "headline": "Contract power asymmetry sharpens as producers lock in pricing advantage downstream.",
+ "deltas": [
+  {
+   "company": "Cleveland-Cliffs Inc.",
+   "metric": "adjusted EBITDA Q2 2026 vs Q1 2026",
+   "from": "$95 million",
+   "to": "$286 million",
+   "change": "+201% sequential",
+   "reads": "fixed-contract automaker benefits lag recovery; Cliffs absorbs lag while customers collect benefit when prices fall"
+  },
+  {
+   "company": "CF Industries Holdings, Inc.",
+   "metric": "net earnings Q2 2026 vs Q1 2026",
+   "from": "$615 million",
+   "to": "$727 million",
+   "change": "+18% YoY Q2",
+   "reads": "tight nitrogen supply and pass-through contracts protect upstream hedgers from price volatility while downstream buyers lack equivalent protection"
+  },
+  {
+   "company": "Commercial Metals Company",
+   "metric": "NA Steel Group EBITDA margin Q3 2026 vs Q3 2025",
+   "from": "11.5%",
+   "to": "14.2%",
+   "change": "+270 bps YoY",
+   "reads": "metal margins +$111/ton while scrap cost only +$19/ton shows managed pass-through; fixed-contract exposure creates lag for smaller buyers"
+  },
+  {
+   "company": "Crown Holdings, Inc.",
+   "metric": "global beverage can volumes Q2 2026 vs Q1 2026",
+   "from": "5% growth Q1",
+   "to": "5% growth Q2",
+   "change": "sustained despite commodity swings",
+   "reads": "aluminum pass-through mechanisms insulate Crown from input volatility; non-hedged packagers absorb margin pressure"
+  },
+  {
+   "company": "Glencore plc",
+   "metric": "marketing EBIT H1 2026 vs FY2025",
+   "from": "$2.9 billion annual",
+   "to": "$3.3 billion H1 (pace $6.6B annual)",
+   "change": "+142% YoY for marketing",
+   "reads": "trading disruptions in energy/freight become profit centers; disturbance that hurts non-hedged buyers becomes margin opportunity for integrated trader"
+  },
+  {
+   "company": "Freeport-McMoRan Inc.",
+   "metric": "unit net cash costs Q2 2026 vs Q1 2026",
+   "from": "$1.91/lb copper",
+   "to": "$1.97/lb copper",
+   "change": "stable cost with hedging embedded",
+   "reads": "large producers with scale and hedging infrastructure control costs while counterparties on fixed contracts absorb price surprises"
+  },
+  {
+   "company": "Ball Corporation",
+   "metric": "aluminum shipments Q2 2026 vs Q1 2026",
+   "from": "0.8% growth Q1",
+   "to": "4.3% growth Q2",
+   "change": "+3.5pp sequential acceleration",
+   "reads": "contractual pass-through mechanisms keep Ball margins stable across input volatility; customers on fixed terms unable to match"
+  }
+ ],
+ "momentum_note": "The trend is accelerating sharply. Producers with hedging infrastructure and pricing-power contracts (CF, Glencore, Ball, Crown) are systematizing the transfer of commodity volatility downstream to non-hedged counterparties. Cleveland-Cliffs and Commercial Metals show the lag effect: they absorbed fixed-price automotive contracts through weak periods and now lag recovery. Glencore's marketing arm turning +142% YoY shows how disruption becomes a designed profit engine for the integrated. The trend is not cyclical friction; it is contractually embedded asymmetry that sharpens when prices move.",
+ "confidence": "high"
+}

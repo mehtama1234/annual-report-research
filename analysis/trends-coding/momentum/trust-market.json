@@ -1,0 +1,65 @@
+{
+ "slug": "trust-market",
+ "verdict": "accelerating",
+ "headline": "Verified identity and credible information commanding premium pricing across every sector.",
+ "deltas": [
+  {
+   "company": "American Express Company",
+   "metric": "card member fee revenue",
+   "from": "30th straight quarter of double-digit growth through 2025",
+   "to": "U.S. consumer spend +11% YoY in 2Q26, premium card products 70% of new accounts",
+   "change": "sustained double-digit growth + accelerating premium adoption",
+   "reads": "high-income consumers paying fees for verified identity and trusted merchant ecosystem"
+  },
+  {
+   "company": "Comscore, Inc.",
+   "metric": "cross-platform solutions revenue",
+   "from": "+20% YoY in Q3 2025",
+   "to": "+30% in Q1 2026",
+   "change": "+10 percentage points in growth rate, outpacing overall revenue",
+   "reads": "advertisers and media buyers increasingly willing to pay for verified cross-platform measurement as fragmentation rises"
+  },
+  {
+   "company": "Natera, Inc.",
+   "metric": "oncology test volume",
+   "from": "+51.6% YoY for full year 2025",
+   "to": "+57.2% YoY in Q2 2026",
+   "change": "+5.6 percentage points; oncology now 285K+ tests per quarter",
+   "reads": "patients and clinicians paying for molecularly verified cancer monitoring and recurrence surveillance"
+  },
+  {
+   "company": "Fox Corporation",
+   "metric": "advertising revenue from live events",
+   "from": "baseline prior-year (Super Bowl)",
+   "to": "+78% YoY in FY2026 Q4 driven by FIFA World Cup + NFL games",
+   "change": "+78% event-driven premium ad demand",
+   "reads": "advertisers paying premium for brand-safe, trusted live inventory that avoids synthetic/unsafe content"
+  },
+  {
+   "company": "Leidos Holdings, Inc.",
+   "metric": "government mission-critical contract concentration",
+   "from": "87% U.S. government revenue baseline",
+   "to": "$48.7B total backlog, Intelligence & Digital +$18.4B, Defense +$13.8B in Q2 2026",
+   "change": "sustained 87% concentration with backlog growth signals",
+   "reads": "government and defense agencies paying for verified, cleared, mission-critical execution infrastructure"
+  },
+  {
+   "company": "Labcorp Holdings Inc.",
+   "metric": "operating margin and test volume dependence",
+   "from": "more than 7% revenue growth full-year 2025",
+   "to": "~6% revenue growth Q2 2026 + 15.8% adjusted operating margin expansion",
+   "change": "margin conversion improving despite flat volume growth pace",
+   "reads": "healthcare customers paying premium for verified diagnostic infrastructure and central-lab automation"
+  },
+  {
+   "company": "Brady Corporation",
+   "metric": "organic sales growth acceleration",
+   "from": "+1.6% Q2 FY2026",
+   "to": "+8.2% Q3 FY2026, with Americas & Asia +10.1% and Europe & Australia +4.5%",
+   "change": "+6.6 percentage points in organic growth",
+   "reads": "workplaces and manufacturers paying more for traceability and safety-compliance verification systems"
+  }
+ ],
+ "momentum_note": "The Trust Market is accelerating across every sector represented. Verified identity (AmEx premium), verified measurement (Comscore cross-platform +30%), verified diagnostics (Natera oncology +57%), verified content safety (Fox live event +78%), verified government execution (Leidos 87% gov revenue + backlog), verified healthcare infrastructure (Labcorp margin expansion), and verified workplace compliance (Brady +8.2% organic) all show sustained or accelerating pricing power. This is not a subscription story or a volume play. It is a structural shift: when content and information became nearly free and increasingly synthetic after 2022, the scarce input flipped from production to credibility. Every packet in this set shows customers paying premium prices for assurance—whether that is high-income cardholder status, ad-verified audiences, molecularly confirmed diagnosis, brand-safe inventory, cleared government systems, or workplace safety traceability.",
+ "confidence": "high"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "addiction-dividend",
+ "verdict": "accelerating",
+ "headline": "Automation, habit loops, and behavioral lock-in are proving economically durable across subscription, gaming, and fast-repeat categories.",
+ "deltas": [
+  {
+   "company": "Amazon.com Inc.",
+   "metric": "subscription services revenue",
+   "from": "$13.1B Q4 2025",
+   "to": "$13.7B Q2 2026",
+   "change": "+4.6% over six months",
+   "reads": "Prime and convenience habits bundling advertising and seller monetization into a single loyalty flywheel, with same-day delivery now a normalized expectation that locks out competitors."
+  },
+  {
+   "company": "Chewy Inc.",
+   "metric": "active customers and autoship penetration",
+   "from": "Autoship 84% mix Q3 2025",
+   "to": "21.3M active customers at year-end; Q1 2026 revenue +7.7% with margin expansion",
+   "change": "+7.7% YoY revenue with 50bps margin gain",
+   "reads": "Recurring pet-care subscriptions and autoship have inverted the unit economics: profitability rises as the customer base grows and reorders invisibly, defeating price sensitivity and churn."
+  },
+  {
+   "company": "Dutch Bros Inc.",
+   "metric": "same-shop transaction growth consistency",
+   "from": "5.4% transaction growth Q4 2025",
+   "to": "13 consecutive quarters positive SSS, 8 consecutive quarters transaction growth through Q2 2026",
+   "change": "+1.7% Q2 2026 transactions despite +5.8% sales growth",
+   "reads": "Stimulation-ritual and app-linked rewards have created a frequency engine where the average customer visits more often even as prices rise, a signature addiction-dividend signal."
+  },
+  {
+   "company": "Electronic Arts Inc.",
+   "metric": "live services revenue mix and recurring spending",
+   "from": "FY2026 digital live services 71% of revenue",
+   "to": "FY2027 Q1 extra-content sales accelerating; Apex Legends strongest quarter in FY2026 Q4; full-year net bookings up double digits",
+   "change": "Live services now structurally 71% of revenue; extra-content outpacing new launches",
+   "reads": "Sports franchises and live-service monetization have flipped from one-time boxed-game sales to persistent digital wallets, where habit-based engagement directly drives incremental spending."
+  },
+  {
+   "company": "DraftKings Inc.",
+   "metric": "engagement vs. revenue signal divergence",
+   "from": "Q1 2026 MUPs 4.2M, ARPMUP $131",
+   "to": "Q2 2026 volume up 15%, MUPs up 9%, but reported revenue down 5%",
+   "change": "Engagement strong (+15% volume) but revenue down 5% due to hold volatility and promotional reinvestment",
+   "reads": "Sports-betting habit loops are deeply embedded (volume and retention strong) but the real-money economics are volatile enough that behavioral lock-in does not guarantee reported revenue growth in any quarter."
+  },
+  {
+   "company": "Colgate-Palmolive Co.",
+   "metric": "daily-use oral-care organic growth",
+   "from": "Q1 2026 organic +2.9%",
+   "to": "Q2 2026 organic +2.4%",
+   "change": "-50bps sequential deceleration",
+   "reads": "Daily-use hygiene habits are durable but not accelerating; routine consumption is defensive, not a source of addiction-dividend margin expansion."
+  }
+ ],
+ "momentum_note": "The addiction dividend is clearly accelerating among software-mediated, app-linked, and frequency-based platforms: Chewy's autoship, Dutch Bros' rewards loop, EA's live-services wallet, Amazon's Prime bundling, and DraftKings' sports-attention habit loop all show that once behavior becomes invisible and automatic, price sensitivity collapses and lifetime value expands. The pattern holds even when reported quarterly revenue is volatile (DraftKings) or company-level sales are declining (Amazon's subscription overlay is steadily monetizing an embedded habit). Traditional daily-use goods (Colgate) show the defensive power of routine but lack the margin acceleration or competitive moat that digital lock-in provides. Retailers without embedded automation (Kohl's, Bath & Body Works) struggle even with loyalty programs because the habit is still optional rather than baked into the interface or delivery system.",
+ "confidence": "high"
+}

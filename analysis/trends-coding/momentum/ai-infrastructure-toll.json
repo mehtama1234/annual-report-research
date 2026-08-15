@@ -1,0 +1,65 @@
+{
+ "slug": "ai-infrastructure-toll",
+ "verdict": "accelerating",
+ "headline": "Physical infrastructure toll accelerating as hyperscaler capex overwhelms execution capacity.",
+ "deltas": [
+  {
+   "company": "Dycom Industries",
+   "metric": "contract backlog",
+   "from": "$8.122B (fiscal Q1 2026)",
+   "to": "$11.906B (fiscal Q1 2027)",
+   "change": "+46.5% YoY",
+   "reads": "Fiber and data-center infrastructure demand compressing specialty contractor capacity nationwide."
+  },
+  {
+   "company": "Comfort Systems USA",
+   "metric": "total backlog",
+   "from": "$8.12B (Q2 2025)",
+   "to": "$14.06B (Q2 2026)",
+   "change": "+73% YoY",
+   "reads": "HVAC and mechanical execution work piling up faster than skilled-trades labor can convert it."
+  },
+  {
+   "company": "EMCOR Group",
+   "metric": "remaining performance obligations",
+   "from": "$11.91B (Q2 2025)",
+   "to": "$17.14B (Q2 2026)",
+   "change": "+44% YoY",
+   "reads": "Data-center electrical and mechanical construction driving largest RPO growth."
+  },
+  {
+   "company": "Commercial Metals",
+   "metric": "core EBITDA and steel margins",
+   "from": "$198.0M core EBITDA, $111 margin/ton improvement (Q3 2025)",
+   "to": "$353.6M core EBITDA, +$111/ton YoY margin (Q3 2026)",
+   "change": "+78.6% EBITDA YoY; +$111/ton pricing power YoY",
+   "reads": "Steel input scarcity lifting margins as data-center and infrastructure projects compete for constrained supply."
+  },
+  {
+   "company": "Generac Holdings",
+   "metric": "C&I product backlog and sales mix",
+   "from": "$430M C&I sales (Q2 2025)",
+   "to": "$556M C&I sales (Q2 2026); $1.6B data-center backlog",
+   "change": "+29% YoY C&I sales; $1.6B DC backlog (new)",
+   "reads": "Backup-power capacity becoming a hyperscaler constraint; global supply agreements locking in scarce generator output."
+  },
+  {
+   "company": "MYR Group",
+   "metric": "total backlog, Commercial & Industrial segment",
+   "from": "$2.64B total backlog (Q2 2025)",
+   "to": "$3.16B total backlog (Q2 2026); C&I $1.89B",
+   "change": "+19.6% YoY total; C&I segment growing",
+   "reads": "Electrical construction capacity tightening as data centers and large-load facilities compete for field labor."
+  },
+  {
+   "company": "Digital Realty",
+   "metric": "data-center lease backlog and renewal rent growth",
+   "from": "$817M backlog, 6.1% renewal rent growth (Q4 2025)",
+   "to": "$1.4B backlog, 25.4% renewal rent growth (Q2 2026)",
+   "change": "+71% backlog since year-end; +19.3pp renewal rent acceleration",
+   "reads": "Hyperscale demand for powered real estate spiking faster than REIT capacity expansion."
+  }
+ ],
+ "momentum_note": "All seven companies show acceleration in backlog, margin, or pricing power tied directly to AI infrastructure buildout. Dycom, Comfort Systems, and EMCOR reveal growing labor and execution-capacity constraints in specialty trades. Steel, generation equipment, and data-center real estate all show pricing power or supply tightness. The pattern is consistent: hyperscaler capex is driving demand across the full stack—fiber, electrical, mechanical, power, materials, and facilities—faster than suppliers can expand execution capacity or input availability. This is not cyclical rebound; it is structural toll extraction by scarce physical inputs.",
+ "confidence": "high"
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "membership-or-nothing",
+ "verdict": "accelerating",
+ "headline": "Membership economics widening across platforms, toll enabling multiplier monetization.",
+ "deltas": [
+  {
+   "company": "Amazon.com Inc.",
+   "metric": "subscription services vs third-party seller services leverage",
+   "from": "Q1 2026: $13.4B subscription; $41.6B 3P seller",
+   "to": "Q2 2026: $13.7B subscription; $46.8B 3P seller",
+   "change": "+2.2% subscription, +12.5% 3P seller services",
+   "reads": "membership toll gates customers into ecosystem where adjacent monetization surfaces (seller fees, ads, fast delivery) scale far faster than subscription revenue itself"
+  },
+  {
+   "company": "DoorDash Inc.",
+   "metric": "membership population and marketplace monetization",
+   "from": "35M+ membership members; Q4 2025 Marketplace GOV $29.7B",
+   "to": "35M+ membership members; Q2 2026 Marketplace GOV $33.1B",
+   "change": "+36% Marketplace GOV YoY",
+   "reads": "membership sustains high-frequency consumer habit while marketplace monetization (merchant fees, advertising) compounds on top of the same captive customer base"
+  },
+  {
+   "company": "Netflix Inc.",
+   "metric": "subscription base to advertising layer expansion",
+   "from": "2025 full year: ad revenue $1.5B+; 325M+ paid members",
+   "to": "2026 full year on track: ad revenue $3B; 325M+ members across quarters",
+   "change": "ad revenue $3B vs subscription pricing power stable; ~2x ad revenue growth",
+   "reads": "membership foundation enables growing advertising monetization without losing core subscriber retention or pricing leverage"
+  },
+  {
+   "company": "American Express Company",
+   "metric": "card member fee revenue concentration",
+   "from": "2025: net card fee revenue 30th straight quarter of double-digit growth",
+   "to": "2Q26: U.S. consumer spend +11%; 70%+ of new accounts on fee-paying products",
+   "change": "+11% consumer spend YoY; fee-paying product mix hardening",
+   "reads": "membership tolls convert consumers into higher-tier fee-paying card holders, unlocking merchant network, travel ecosystem, and purchase-behavior monetization"
+  },
+  {
+   "company": "Chewy Inc.",
+   "metric": "autoship penetration and customer profitability",
+   "from": "Q3 2025: 84% of net sales from Autoship; 21M active customers",
+   "to": "Q1 2026: gross margin +50bp to 30.1%; 21.3M active customers; record quarterly profitability",
+   "change": "+50bp margin expansion; steady member growth with improved unit economics",
+   "reads": "membership (autoship) converts one-time pet product purchase into recurring revenue stream and health/wellness service attachment, enabling margin expansion"
+  },
+  {
+   "company": "Marriott International Inc.",
+   "metric": "loyalty member booking concentration to co-brand fee economics",
+   "from": "2025: 75% of U.S. room nights booked by Bonvoy members",
+   "to": "Q1 2026: co-branded card fees +$60M; worldwide RevPAR +4.2%",
+   "change": "+$60M card-fee contribution YoY; loyalty member concentration stable and high",
+   "reads": "membership toll gates travel behavior into branded system where payment products and loyalty-funded distribution reinforce owner signings and occupancy growth"
+  },
+  {
+   "company": "Planet Fitness Inc.",
+   "metric": "membership pricing power and member base",
+   "from": "2025: 20.8M members after 50% price increase to new Classic Card; +1.1M net member growth",
+   "to": "Q2 2026: 21.5M+ members (Q1); same-club sales growth moderate but retained after pricing test",
+   "change": "tolerated 50% price increase and retained growth; full-year revenue +12.1%",
+   "reads": "membership fee structure shows pricing power despite affordability positioning; member base stickiness indicates toll is internalized as essential recurring habit"
+  }
+ ],
+ "momentum_note": "Membership economics are accelerating across consumer platforms, but not through higher membership fees alone. The trend shows a shift from membership as a standalone revenue line to membership as a toll that gates customers into tiered monetization ecosystems. Amazon layers seller fees and advertising on top of Prime; Netflix is doubling advertising revenue while keeping subscription base flat; DoorDash and Chewy are growing marketplace/recurring revenue 2-3x faster than membership growth; Marriott and AmEx are monetizing the same member through co-branded payments and premium tiers. The deltas show membership becoming structural infrastructure rather than a pricing mechanism—it enables higher-frequency customer behavior, supplier concentration, and adjacent revenue capture. Even Planet Fitness's pricing power and Bath & Body Works's loyalty-member stagnation reinforce the core thesis: the membership toll itself matters less than what platforms stack on top of it.",
+ "confidence": "high"
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "affordability-ceiling",
+ "verdict": "accelerating",
+ "headline": "Bifurcation intensifying: premium brands and deep-discount platforms both winning simultaneously while middle-tier collapses.",
+ "deltas": [
+  {
+   "company": "Deckers Outdoor Corp.",
+   "metric": "full-year revenue",
+   "from": "$4.99B (FY 2025)",
+   "to": "$5.47B (FY 2026)",
+   "change": "+10% YoY",
+   "reads": "Premium identity brands (HOKA, UGG) with full-price selling capturing affluent consumers fleeing middle-tier"
+  },
+  {
+   "company": "Burlington Stores, Inc.",
+   "metric": "comparable store sales",
+   "from": "+1% (Q3 2025)",
+   "to": "+6% (Q1 2026)",
+   "change": "accelerating 5 points across three quarters",
+   "reads": "Off-price discovery model winning decisively as value-constrained consumers consolidate around lowest-cost platforms with branded bargains"
+  },
+  {
+   "company": "Dollar General Corporation",
+   "metric": "same-store sales + traffic",
+   "from": "+2.5% comps, +0% traffic (Q3 2025)",
+   "to": "+2.0% comps, +1.4% traffic (Q1 2026)",
+   "change": "traffic turned positive while comps held",
+   "reads": "Consumables-heavy convenience platform winning on accessibility and low absolute price points; traffic recovery signals value consolidation"
+  },
+  {
+   "company": "ACCO Brands Corporation",
+   "metric": "full-year net sales",
+   "from": "$1.665B (2024)",
+   "to": "$1.525B (2025)",
+   "change": "-8.5% YoY",
+   "reads": "Middle-tier office equipment player losing share; lacks identity premium for price justification and lacks logistics scale to compete on cost"
+  },
+  {
+   "company": "Macy's Inc.",
+   "metric": "segment comp growth",
+   "from": "Macy's nameplate +1.6%, Bloomingdale's +8.8% (Q3 2025)",
+   "to": "Macy's nameplate +1.6%, Bloomingdale's +10.2% (Q1 2026)",
+   "change": "Bloomingdale's accelerating 1.4 points while core Macy's stalled",
+   "reads": "Weak middle-tier Macy's comp contrasts sharply with luxury escape (Bloomingdale's +10%) showing clean split between identity premium and middle"
+  },
+  {
+   "company": "Bath & Body Works, Inc.",
+   "metric": "store sales year-over-year",
+   "from": "$1.110B (Q1 2025)",
+   "to": "$1.062B (Q1 2026)",
+   "change": "-4.3% YoY",
+   "reads": "Specialty retail middle tier losing customers; lacks both premium identity to justify full price and scale to compete on cost"
+  },
+  {
+   "company": "Dollar Tree, Inc.",
+   "metric": "average ticket vs traffic",
+   "from": "comps +4.2%, traffic -0.3% (Q3 2025)",
+   "to": "comps +3.5%, traffic -1.0% (Q1 2026)",
+   "change": "positive comps despite weakening traffic; reliant on pricing architecture",
+   "reads": "Lowest-cost platform consolidating value shoppers through multi-price mix; traffic decline signals middle-tier consumers captured upward or downward, not staying mid-market"
+  }
+ ],
+ "momentum_note": "The affordability ceiling is accelerating sharply. Deckers and luxury retail (Bloomingdale's +10% Q1 2026) capture affluent discretionary consolidation with full-price power, while Dollar General, Dollar Tree, and Burlington collectively show value-constrained consumers consolidating into low-cost platforms with strong traffic and comp acceleration. The middle tier (ACCO -8.5%, Macy's core +1.6%, Bath & Body Works -4.3%) is being hollowed out. This is not cyclical—it is structural sorting across categories simultaneously, visible in the same quarter across office equipment, specialty retail, footwear, and department stores.",
+ "confidence": "high"
+}

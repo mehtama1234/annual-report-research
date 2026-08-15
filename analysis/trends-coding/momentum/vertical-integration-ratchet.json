@@ -1,0 +1,65 @@
+{
+ "slug": "vertical-integration-ratchet",
+ "verdict": "mixed",
+ "headline": "Structural integration works when it captures spreads; fails when fixed costs trap margin.",
+ "deltas": [
+  {
+   "company": "Commercial Metals Company",
+   "metric": "Core EBITDA YoY growth and metal margin per ton",
+   "from": "Q3 2025 core EBITDA base",
+   "to": "Q3 2026 core EBITDA $353.6M, up 78.6% YoY; metal margin +$111/ton YoY",
+   "change": "+78.6% EBITDA; +$111/ton margin (prices +$130, scrap +$19)",
+   "reads": "Recycled-scrap-intensive system creates structural cost floor; margin capture works when upstream commodity inputs rise slower than selling prices."
+  },
+  {
+   "company": "Clean Harbors Inc.",
+   "metric": "Revenue and adjusted EBITDA with guidance raise",
+   "from": "FY2026 initial guidance $1.20–$1.26B adjusted EBITDA",
+   "to": "Q2 2026 raised guidance by $110M to $1.38B adjusted EBITDA; Q2 revenue +12% to $1.74B, adjusted EBITDA +22%",
+   "change": "+22% Q2 EBITDA; +$110M full-year guidance raise",
+   "reads": "Specialized hazardous + re-refining integration capturing spread via disposal demand and PFAS/remediation work; fixed-cost system absorbing volume uplift cleanly."
+  },
+  {
+   "company": "Casella Waste Systems Inc.",
+   "metric": "Solid waste pricing momentum and acquisition velocity",
+   "from": "FY2025 pricing up 4.9%",
+   "to": "Q2 2026 pricing up 5.5%, Q1 2026 up 5.1%; 5 acquisitions closed in 2026 YTD with ~$165M annualized revenue",
+   "change": "+5.5% pricing Q2 2026; 5 acquisitions in first half 2026",
+   "reads": "Regional density + landfill control enabling price increases despite integration friction; acquisition cadence sustaining margin expansion."
+  },
+  {
+   "company": "Cleveland-Cliffs Inc.",
+   "metric": "Full-year 2025 net loss despite revenue and EBITDA magnitude",
+   "from": "Industry baseline for integrated steel",
+   "to": "FY2025 net loss $1.4B GAAP on $18.6B revenue; adjusted EBITDA only $37M; contract lag + automotive weakness",
+   "change": "$1.4B loss; $37M EBITDA on scale revenue",
+   "reads": "Failure mode clear: large high-fixed-cost integrated system cannot absorb fixed-price contract lag and weak automotive demand; integration adds complexity without downside protection."
+  },
+  {
+   "company": "Cenovus Energy Inc.",
+   "metric": "Upstream production strength vs downstream market capture volatility",
+   "from": "Q1 2026 strong across both legs",
+   "to": "Q2 2026 record upstream 786.4 mboe/d but U.S. refining market capture only 67% vs 114% in Q1",
+   "change": "Upstream record; downstream capture swung 47 points quarter-to-quarter",
+   "reads": "Integration provides mix balance but not earnings insulation; upstream strength does not guarantee downstream value capture when refining margins and utilization weaken."
+  },
+  {
+   "company": "Cencora Inc.",
+   "metric": "Specialty growth channel dependence and GLP-1 margin pressure",
+   "from": "Q1 FY2026 adjusted gross profit strength",
+   "to": "Q2 FY2026 higher gross profit but margin % pressure from GLP-1 sales mix; revenue up 3.8% YoY despite category strength",
+   "change": "+3.8% revenue Q2; margin % decline from product mix",
+   "reads": "Channel power durable but high-throughput categories undermine reported margin rates; integration provides throughput but not pricing insulation."
+  },
+  {
+   "company": "Cardinal Health, Inc.",
+   "metric": "Pharma segment profit vs GMPD tariff impact",
+   "from": "Q3 FY2026 pharma segment trending",
+   "to": "Q3 FY2026 pharma profit +18% to $784M; GMPD profit fell -36% to $25M due to adverse tariff net impact",
+   "change": "Pharma +18%; GMPD −36% tariff drag",
+   "reads": "Service integration working in pharma; medical-products leg exposed to tariff pass-through friction, showing integration does not fully hedge external commodity and regulatory shocks."
+  }
+ ],
+ "momentum_note": "The vertical integration ratchet is accelerating where companies control cost floors (Commercial Metals' recycled scrap, Clean Harbors' specialized hazardous system, Casella's regional density) but decelerating where integration merely adds fixed costs without structural insulation (Cleveland-Cliffs' contract lag, Cenovus' refining volatility, Cencora's margin compression from high-throughput mixes). The strongest signals come from businesses where integration captures explicit spreads—scrap-to-finished-margin at CMC, disposal-to-remediation at CLH, pricing power at CWST. The clearest failure is Cleveland-Cliffs, where $18.6B in revenue and a $1.4B loss prove that capital access and scale alone cannot overcome fixed-price contracts and weak end-demand. DNOW and Cencora show the mid-spectrum: durable channels but no margin insulation from commodity or mix pressure. The trend is stratifying: integration strengthens for specialists (Clean Harbors, Commercial Metals), plateaus for generalists under commodity pressure (Cenovus, Cencora), and fails for high-fixed-cost systems caught in contract lag (Cleveland-Cliffs).",
+ "confidence": "high"
+}

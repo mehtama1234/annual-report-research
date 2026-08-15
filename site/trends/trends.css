@@ -259,3 +259,18 @@ footer{color:var(--muted);font:400 13px/1.5 -apple-system,system-ui,sans-serif;m
 .mtbl .dv{white-space:nowrap}.mtbl .arw{color:var(--accent)}
 .mtbl .dch{font-weight:700;color:var(--ink);white-space:nowrap}.mtbl .dr{color:var(--muted)}
 .mnote{font-size:.97rem}
+
+.cico .cn a{color:var(--ink);text-decoration:none}
+.cico .cn a:hover{color:var(--accent)}
+.watch{border-top:1px solid var(--line);margin-top:10px;padding-top:8px;color:var(--muted);font:400 13px/1.45 -apple-system,system-ui,sans-serif}
+.watch b{color:var(--gold);letter-spacing:.04em;text-transform:uppercase;font-size:11px}
+.readmore{margin-top:8px;font:600 12px/1 -apple-system,system-ui,sans-serif}
+.readmore a{text-decoration:none;color:var(--accent)}
+.evgroup{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:0 0 12px}
+.evgroup h3{font:700 1rem/1.25 -apple-system,system-ui,sans-serif;margin:0 0 8px}
+.evgroup h3 a{text-decoration:none;color:var(--ink)}
+.evgroup h3 a:hover{color:var(--accent)}
+.evgroup .ev{margin-bottom:0}
+.quiet{color:var(--muted);font:400 14px/1.5 -apple-system,system-ui,sans-serif}
+
+.tlx{font:600 11px/1 -apple-system,system-ui,sans-serif;color:var(--muted);margin-right:8px}

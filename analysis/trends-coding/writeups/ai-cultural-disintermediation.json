@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "45%",
-   "label": "Airbnb customer issues resolved by AI assistant without human agent (Q2 2026)"
+   "label": "Airbnb customer issues resolved by AI assistant without human agent (Q2 2026)",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "16%",
-   "label": "Airbnb customer-support cost per booking decline year-over-year (Q2 2026)"
+   "label": "Airbnb customer-support cost per booking decline year-over-year (Q2 2026)",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$36.7B",
-   "label": "Affirm fiscal 2025 gross merchandise volume, with AdaptAI and BoostAI replacing human underwriters for individual offer selection"
+   "label": "Affirm fiscal 2025 gross merchandise volume, with AdaptAI and BoostAI replacing human underwriters for individual offer selection",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "27%",
-   "label": "Affirm Q3 2026 adjusted operating income margin on $1.039B revenue — the AI underwriting layer is now the core competency, not the financial product"
+   "label": "Affirm Q3 2026 adjusted operating income margin on $1.039B revenue — the AI underwriting layer is now the core competency, not the financial product",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "230%",
-   "label": "Stagwell Marketing Cloud year-over-year net revenue growth in fiscal 2025, positioned as agentic replacement for traditional agency workflow"
+   "label": "Stagwell Marketing Cloud year-over-year net revenue growth in fiscal 2025, positioned as agentic replacement for traditional agency workflow",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$3.25B",
-   "label": "Exact Sciences fiscal 2025 revenue, with Cologuard screening more people than ever without a gastroenterologist in the pathway"
+   "label": "Exact Sciences fiscal 2025 revenue, with Cologuard screening more people than ever without a gastroenterologist in the pathway",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "68%",
-   "label": "Shopify Payments Q2 2026 GMV penetration ($78.1B of $115.6B), with Catalog and Sidekick positioning for AI-agent discovery replacing human browse"
+   "label": "Shopify Payments Q2 2026 GMV penetration ($78.1B of $115.6B), with Catalog and Sidekick positioning for AI-agent discovery replacing human browse",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$72.2B",
-   "label": "American Express 2025 revenue, with the annual report explicitly framing AI agents discovering products, making decisions, and completing payments as the next transaction layer"
+   "label": "American Express 2025 revenue, with the annual report explicitly framing AI agents discovering products, making decisions, and completing payments as the next transaction layer",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -52,27 +68,51 @@
  "evidence": [
   {
    "company": "Airbnb, Inc.",
-   "fact": "Q2 2026: nearly 45% of customer issues beginning with AI assistant resolved without human agent; customer-support cost per booking declined approximately 16% year-over-year. Full-year fiscal 2025 revenue $12.2B on 533M nights and seats booked."
+   "fact": "Q2 2026: nearly 45% of customer issues beginning with AI assistant resolved without human agent; customer-support cost per booking declined approximately 16% year-over-year. Full-year fiscal 2025 revenue $12.2B on 533M nights and seats booked.",
+   "verified": true
   },
   {
    "company": "Affirm Holdings Inc.",
-   "fact": "Q3 2026 revenue $1.039B, net income $100M, adjusted operating income 27% of revenue — the tenth consecutive quarter of above-30% GMV growth. AdaptAI and BoostAI optimize financing-offer selection and merchant program design across 26.8M active consumers and 515K active merchants. Fiscal 2025 GMV $36.7B."
+   "fact": "Q3 2026 revenue $1.039B, net income $100M, adjusted operating income 27% of revenue — the tenth consecutive quarter of above-30% GMV growth. AdaptAI and BoostAI optimize financing-offer selection and merchant program design across 26.8M active consumers and 515K active merchants. Fiscal 2025 GMV $36.7B.",
+   "verified": true
   },
   {
    "company": "Exact Sciences Corporation",
-   "fact": "Cologuard mail-in stool DNA test routes colorectal cancer screening without requiring a gastroenterologist. FY2025 revenue $3.25B (Q4 2025 screening revenue $695M); management said Exact screened more people than ever in 2025. Abbott merger closed March 23, 2026."
+   "fact": "Cologuard mail-in stool DNA test routes colorectal cancer screening without requiring a gastroenterologist. FY2025 revenue $3.25B (Q4 2025 screening revenue $695M); management said Exact screened more people than ever in 2025. Abbott merger closed March 23, 2026.",
+   "verified": true
   },
   {
    "company": "Stagwell Inc.",
-   "fact": "The Marketing Cloud delivered 230% year-over-year net revenue growth in fiscal 2025. Q2 2026 record quarterly net new business of $171M; digital-transformation net revenue $107M with 18% organic growth. Management framing: agentic applications for marketing positioned as replacement for traditional agency workflow."
+   "fact": "The Marketing Cloud delivered 230% year-over-year net revenue growth in fiscal 2025. Q2 2026 record quarterly net new business of $171M; digital-transformation net revenue $107M with 18% organic growth. Management framing: agentic applications for marketing positioned as replacement for traditional agency workflow.",
+   "verified": true
   },
   {
    "company": "American Express Company",
-   "fact": "FY2025 revenue $72.2B, net income $10.8B, billed business $1.67T. Annual narrative explicitly discusses AI-powered agents discovering products, making decisions, and completing payments, with AmEx positioning to be embedded in transaction flows that consumers will not directly initiate. Q2 2026 revenue $19.6B."
+   "fact": "FY2025 revenue $72.2B, net income $10.8B, billed business $1.67T. Annual narrative explicitly discusses AI-powered agents discovering products, making decisions, and completing payments, with AmEx positioning to be embedded in transaction flows that consumers will not directly initiate. Q2 2026 revenue $19.6B.",
+   "verified": true
   },
   {
    "company": "Shopify Inc.",
-   "fact": "Q2 2026 GMV $115.6B with Shopify Payments penetration at 68% ($78.1B). Positioning Catalog and Sidekick for AI-agent discovery and merchant automation. FY2025 GMV $378.4B; management described 2025 as laying rails for a new era of AI commerce."
+   "fact": "Q2 2026 GMV $115.6B with Shopify Payments penetration at 68% ($78.1B). Positioning Catalog and Sidekick for AI-agent discovery and merchant automation. FY2025 GMV $378.4B; management described 2025 as laying rails for a new era of AI commerce.",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "A major company in these sectors either (a) explicitly investing in human intermediaries rather than replacing them, (b) finding that AI systems at scale reproduce judgment poorly and requiring human oversight that reduces efficiency gains to negligible levels, or (c) facing regulatory blocking of AI intermediaries in favor of human discretion, forcing a reversal of deployment",
+  "contradicting_companies": [
+   {
+    "company": "American Express Company",
+    "fact": "Despite AI positioning, AmEx's real growth driver remains its Membership Model built on premium consumer relationships, merchant partnerships, and high-income cohorts who explicitly value personal service and concierge benefits — human intermediation remains a core value proposition and premium-tier differentiator, not a displacement target"
+   },
+   {
+    "company": "Exact Sciences Corporation",
+    "fact": "Cologuard is not replacing specialists but creating a new patient pathway alongside existing colonoscopy options; the data shows screening expansion, not specialist displacement — gastroenterologists still manage follow-up and treatment for all positive results, meaning Exact is a front-door diagnostic, not true intermediary replacement"
+   },
+   {
+    "company": "Shopify Inc.",
+    "fact": "Shopify's AI investments (Catalog, Sidekick, Universal Commerce Protocol) are positioned as merchant enablement, not merchant replacement — the company explicitly depends on human entrepreneurship, brand-building, and marketing creativity as inputs to its platform, and has not shown ability to disintermediate the merchant-customer relationship itself"
+   }
+  ],
+  "honest_caveat": "The trend is strongest where AI can fully automate a decision pathway (credit underwriting, customer-support triage, basic marketing workflows) and weaker where human judgment remains gatekeeping (final medical decisions, brand strategy, high-touch financial advice). The packets show AI handling high-volume, repeatable judgment but do not prove complete replacement of intermediaries in situations requiring discretion, negotiation, or contextual exception-handling. Additionally, the trend conflates efficiency gains with cultural displacement — a company can reduce intermediaries from economics without eliminating them entirely or making them 'optional,' and the evidence shows most companies are layering AI onto existing professional structures rather than fully removing them. The trend is real but may be overstated in scope and speed of total displacement."
+ }
 }

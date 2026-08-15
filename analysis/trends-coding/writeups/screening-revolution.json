@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "$3.25 billion",
-   "label": "Exact Sciences 2025 full-year revenue; screening segment alone contributed $2.7 billion"
+   "label": "Exact Sciences 2025 full-year revenue; screening segment alone contributed $2.7 billion",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$878 million",
-   "label": "Exact Sciences Q4 2025 revenue, the final reported quarter before the Abbott merger closed March 23, 2026"
+   "label": "Exact Sciences Q4 2025 revenue, the final reported quarter before the Abbott merger closed March 23, 2026",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "296,700 oncology tests, up 57.2%",
-   "label": "Natera Q2 2026 oncology test volume year-over-year; cancer incidence did not move"
+   "label": "Natera Q2 2026 oncology test volume year-over-year; cancer incidence did not move",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$752.8 million, up 37.7%",
-   "label": "Natera Q2 2026 revenue; full-year 2026 guidance raised to $2.85–$2.91 billion after the quarter"
+   "label": "Natera Q2 2026 revenue; full-year 2026 guidance raised to $2.85–$2.91 billion after the quarter",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$2.31 billion",
-   "label": "Natera full-year 2025 revenue, up 35.9% year-over-year; oncology tests grew 51.6% for the full year"
+   "label": "Natera full-year 2025 revenue, up 35.9% year-over-year; oncology tests grew 51.6% for the full year",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$3.73 billion, up 6%",
-   "label": "Labcorp Q2 2026 revenue; adjusted operating margin 15.8%; guidance raised again after the quarter"
+   "label": "Labcorp Q2 2026 revenue; adjusted operating margin 15.8%; guidance raised again after the quarter",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$872.3 million, up 13.8%",
-   "label": "West Pharmaceutical Q2 2026 net sales; Q1 2026 was $844.9 million, up 21.0%, driven by injectable biologic and GLP-1 delivery demand"
+   "label": "West Pharmaceutical Q2 2026 net sales; Q1 2026 was $844.9 million, up 21.0%, driven by injectable biologic and GLP-1 delivery demand",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$3.07 billion",
-   "label": "West Pharmaceutical full-year 2025 net sales; the base from which 2026 is running at a significantly higher rate"
+   "label": "West Pharmaceutical full-year 2025 net sales; the base from which 2026 is running at a significantly higher rate",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -53,27 +69,51 @@
  "evidence": [
   {
    "company": "Exact Sciences Corporation",
-   "fact": "2025 full-year revenue $3.25 billion; screening revenue $2.7 billion; Q4 2025 revenue $878 million; three new tests launched in 2025 (Cologuard Plus, Oncodetect, Cancerguard); Abbott merger closed March 23, 2026; final reported quarter was Q4 2025"
+   "fact": "2025 full-year revenue $3.25 billion; screening revenue $2.7 billion; Q4 2025 revenue $878 million; three new tests launched in 2025 (Cologuard Plus, Oncodetect, Cancerguard); Abbott merger closed March 23, 2026; final reported quarter was Q4 2025",
+   "verified": true
   },
   {
    "company": "Natera Inc.",
-   "fact": "Q2 2026 revenue $752.8 million, up 37.7%; Q2 2026 oncology tests 296,700, up 57.2%; Q2 2026 total tests 1.04 million, up 22.4%; full-year 2025 revenue $2.31 billion, up 35.9%; full-year 2025 oncology tests up 51.6%; full-year 2026 guidance raised to $2.85–$2.91 billion; Medicare coverage expanded for Prospera; Signatera gained regulatory approvals in 2025"
+   "fact": "Q2 2026 revenue $752.8 million, up 37.7%; Q2 2026 oncology tests 296,700, up 57.2%; Q2 2026 total tests 1.04 million, up 22.4%; full-year 2025 revenue $2.31 billion, up 35.9%; full-year 2025 oncology tests up 51.6%; full-year 2026 guidance raised to $2.85–$2.91 billion; Medicare coverage expanded for Prospera; Signatera gained regulatory approvals in 2025",
+   "verified": true
   },
   {
    "company": "Labcorp Holdings",
-   "fact": "Q2 2026 revenue approximately $3.73 billion, up 6%; adjusted operating margin 15.8%; Q1 2026 revenue $3.54 billion; full-year 2025 revenue grew more than 7%; guidance raised twice in 2026; dual-engine model embeds specialty screening into existing central-lab infrastructure"
+   "fact": "Q2 2026 revenue approximately $3.73 billion, up 6%; adjusted operating margin 15.8%; Q1 2026 revenue $3.54 billion; full-year 2025 revenue grew more than 7%; guidance raised twice in 2026; dual-engine model embeds specialty screening into existing central-lab infrastructure",
+   "verified": true
   },
   {
    "company": "West Pharmaceutical Services",
-   "fact": "Q2 2026 net sales $872.3 million, up 13.8%; Q1 2026 net sales $844.9 million, up 21.0%; full-year 2025 net sales approximately $3.07 billion; growth driven by injectable biologic and GLP-1 delivery demand; company makes prefillable-syringe and high-value containment components"
+   "fact": "Q2 2026 net sales $872.3 million, up 13.8%; Q1 2026 net sales $844.9 million, up 21.0%; full-year 2025 net sales approximately $3.07 billion; growth driven by injectable biologic and GLP-1 delivery demand; company makes prefillable-syringe and high-value containment components",
+   "verified": true
   },
   {
    "company": "Becton, Dickinson and Company",
-   "fact": "$110 million Nebraska investment in prefillable-syringe manufacturing capacity for biologics and GLP-1 drug delivery; drug-delivery infrastructure described as central growth engine in company reporting"
+   "fact": "$110 million Nebraska investment in prefillable-syringe manufacturing capacity for biologics and GLP-1 drug delivery; drug-delivery infrastructure described as central growth engine in company reporting",
+   "verified": true
   },
   {
    "company": "Regeneron Pharmaceuticals",
-   "fact": "Dupixent global sales approximately $6.0 billion annualized as of Q2 2026; specialty biologic requiring recurrent patient identification, reimbursement access, and commercial infrastructure; benefits from expanded patient classification driven by earlier detection and monitoring"
+   "fact": "Dupixent global sales approximately $6.0 billion annualized as of Q2 2026; specialty biologic requiring recurrent patient identification, reimbursement access, and commercial infrastructure; benefits from expanded patient classification driven by earlier detection and monitoring",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "If test volume growth is NOT translating to broader population-level outcome improvement, or if screening expansion is primarily reaching already-healthy insured populations rather than detecting disease earlier in high-risk unscreened populations, the trend claim collapses.",
+  "contradicting_companies": [
+   {
+    "company": "Exact Sciences Corporation",
+    "fact": "The company describes 'screening more people than ever,' but the merger into Abbott and the end of independent quarterly reporting (final Q4 2025) means future transparency on whether volume growth translates to actual outcomes will be diminished. The 2014 Cologuard detection accuracy baseline remains unchanged; only the behavioral channel changed."
+   },
+   {
+    "company": "Regeneron Pharmaceuticals",
+    "fact": "Despite Dupixent scaling to $6.0B annualized, the franchise is concentrated in specific indications (atopic dermatitis, asthma). It does not capture broad screening-driven treatment expansion; it captures specialist-dependent chronic-disease market. This suggests screening growth and treatment volume growth may not be as coupled as the trend claims."
+   },
+   {
+    "company": "Labcorp Holdings",
+    "fact": "While Labcorp shows 6% Q2 2026 growth and 15.8% margins, the company serves both routine and specialty diagnostics. The packets do not isolate how much growth comes from screening volume expansion vs. routine testing continuation, making the screening-driver attribution speculative rather than proven."
+   }
+  ],
+  "honest_caveat": "The trend captures real screening-adoption acceleration (Exact and Natera numbers are clear), but the causal chain from screening volume to treatment volume to patient outcomes is inferred from supply-chain indicators (West Pharma growth, prefillable-syringe investment) rather than demonstrated from disease-outcome data. The packets show commercial success and behavioral adoption but do not prove that the screening revolution is reducing cancer mortality rather than inflating detection rates through lead-time bias or overdiagnosis. The equity concern—that screening benefits accrue unequally—is stated as a concern in the Exact packet but is not measured or disputed in any company's financial results."
+ }
 }

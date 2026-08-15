@@ -1,0 +1,22 @@
+You are fact-checking AND stress-testing ONE trend hub page against the source filings. Repo root: /home/manishmehta/ui-projects/annual-report-research
+
+Current write-up JSON:
+__CUR_JSON__
+Trend object:
+__TREND_JSON__
+
+Do TWO things, grounded in the company packets under extracted/**/company-packet.md (grep each cited company and read it):
+
+1) VERIFY NUMBERS. For EACH item in "numbers" and EACH item in "evidence", check whether the figure/claim is actually supported by that company's packet. Produce a verified copy:
+   - numbers: [ {"stat","label","verified": true|false, "check": "<one clause: found in packet / not found / corrected from X"} ]  — if a number is wrong, CORRECT the stat and set verified true with a note; if you cannot find it in any packet, keep it but set verified false.
+   - evidence: [ {"company","fact","verified": true|false} ]
+   Be strict: only verified true if you actually saw it in a packet.
+
+2) THESIS-BREAKER. Write the strongest honest case AGAINST this trend, grounded in the corpus:
+   "thesis_breaker": {
+     "what_would_falsify": "<the observation that would prove this trend wrong>",
+     "contradicting_companies": [ {"company":"<a real company from the packets that does NOT fit the pattern>","fact":"<the specific counter-evidence>"} , ... 2-4 ],
+     "honest_caveat": "<the limitation of this trend — where it does NOT apply, or what the data cannot prove>"
+   }
+
+OUTPUT: write the FULL augmented write-up to __OUT_PATH__ — the ORIGINAL write-up JSON (all 15 keys, keep the prose unchanged) but with (a) "numbers" and "evidence" now carrying the "verified" flags as above, and (b) a new "thesis_breaker" key. Single valid JSON object; string fields plain strings; mechanism an array of strings. Do NOT run git. Reply only "DONE __SLUG__ verified=<n_true>/<n_total>".

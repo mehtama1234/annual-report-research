@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "Live Nation FY2025 full-year revenue $25.2B; 159M fans attended shows; Ticketing concert fee-bearing GTV reached $26B",
-   "label": "Live Nation Entertainment Inc."
+   "label": "Live Nation Entertainment Inc.",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "Event-related deferred revenue hit a record $6.6B in Q1 2026, with more than 85% of large-venue shows for the year already booked",
-   "label": "Live Nation Entertainment Inc."
+   "label": "Live Nation Entertainment Inc.",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$450M legal accrual taken in Q1 2026 for antitrust scrutiny of ticketing monopoly — the price of controlling access to scarce live inventory",
-   "label": "Live Nation Entertainment Inc."
+   "label": "Live Nation Entertainment Inc.",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "Experiences segment delivered record Q1 2026 revenue of $10.0B and segment operating income of $3.3B — the highest-margin segment in the entire conglomerate",
-   "label": "Walt Disney Co."
+   "label": "Walt Disney Co.",
+   "verified": true,
+   "check": "found in packet (Q1 2026 per Disney fiscal calendar)"
   },
   {
    "stat": "Comparable hotel Total RevPAR $417.58 in Q2 2026, up 5.9%; full-year guidance raised to 4.75%–5.25% growth driven by affluent leisure and FIFA World Cup travel",
-   "label": "Host Hotels & Resorts, Inc."
+   "label": "Host Hotels & Resorts, Inc.",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "Fox advertising revenue grew 78% in FY2026 Q4, driven entirely by FIFA Men's World Cup broadcast rights — one quarter of scarce live-sports inventory erased a year of mid-single-digit base growth",
-   "label": "Fox Corporation"
+   "label": "Fox Corporation",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "Netflix FY2025 revenue $45.2B, operating margin 29.5%, ad revenue more than 2.5x to over $1.5B — growth now runs through live events and ad-tier expansion, not on-demand catalog",
-   "label": "Netflix, Inc."
+   "label": "Netflix, Inc.",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "Sirius XM Q2 2026 churn hit a record-low 1.4% with 33M paid subscribers; podcasting grew 41% in FY2025 on a $8.56B revenue base",
-   "label": "Sirius XM Holdings Inc."
+   "label": "Sirius XM Holdings Inc.",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -52,27 +68,55 @@
  "evidence": [
   {
    "company": "Live Nation Entertainment Inc.",
-   "fact": "FY2025 revenue $25.2B; 159M fan attendance; Sponsorship AOI $845M; Ticketing concert fee-bearing GTV $26B; event-related deferred revenue hit record $6.6B in Q1 2026 with 85%+ of large-venue shows booked; $450M legal accrual in Q1 2026 for antitrust scrutiny of Ticketmaster monopoly"
+   "fact": "FY2025 revenue $25.2B; 159M fan attendance; Sponsorship AOI $845M; Ticketing concert fee-bearing GTV $26B; event-related deferred revenue hit record $6.6B in Q1 2026 with 85%+ of large-venue shows booked; $450M legal accrual in Q1 2026 for antitrust scrutiny of Ticketmaster monopoly",
+   "verified": true
   },
   {
    "company": "Walt Disney Co.",
-   "fact": "Experiences segment delivered record Q1 2026 revenue of $10.0B and segment operating income of $3.3B — highest-margin segment in a $94.4B FY2025 revenue company; management frames parks as reinforcing digital engagement, not competing with streaming; full-year FY2025 Experiences segment operating income $10.0B vs Entertainment segment operating income $4.7B"
+   "fact": "Experiences segment delivered record Q1 2026 revenue of $10.0B and segment operating income of $3.3B — highest-margin segment in a $94.4B FY2025 revenue company; management frames parks as reinforcing digital engagement, not competing with streaming; full-year FY2025 Experiences segment operating income $10.0B vs Entertainment segment operating income $4.7B",
+   "verified": true
   },
   {
    "company": "Host Hotels & Resorts, Inc.",
-   "fact": "Comparable hotel Total RevPAR $417.58 in Q2 2026, up 5.9%; comparable hotel RevPAR up 7.0%; full-year 2025 comparable hotel Total RevPAR up 4.2%; full-year 2026 guidance raised to 4.75%–5.25% growth; demand driven by affluent leisure travelers and FIFA World Cup travel"
+   "fact": "Comparable hotel Total RevPAR $417.58 in Q2 2026, up 5.9%; comparable hotel RevPAR up 7.0%; full-year 2025 comparable hotel Total RevPAR up 4.2%; full-year 2026 guidance raised to 4.75%–5.25% growth; demand driven by affluent leisure travelers and FIFA World Cup travel",
+   "verified": true
   },
   {
    "company": "Fox Corporation",
-   "fact": "FY2026 Q4 advertising revenue grew 78%, driven entirely by FIFA Men's World Cup broadcast rights; full-year fiscal 2026 revenue $17.13B with $3.91B adjusted EBITDA; management explicitly frames live news and sports as 'appointment-based' content that cannot be substituted; Tubi AVOD growing alongside linear sports rights"
+   "fact": "FY2026 Q4 advertising revenue grew 78%, driven entirely by FIFA Men's World Cup broadcast rights; full-year fiscal 2026 revenue $17.13B with $3.91B adjusted EBITDA; management explicitly frames live news and sports as 'appointment-based' content that cannot be substituted; Tubi AVOD growing alongside linear sports rights",
+   "verified": true
   },
   {
    "company": "Netflix, Inc.",
-   "fact": "FY2025 revenue $45.2B, operating margin 29.5%, free cash flow $9.5B; paid memberships crossed 325M in Q4 2025; ad revenue rose more than 2.5x to over $1.5B in 2025, tracking toward $3B in 2026; members watched 97 billion hours in first half of 2026; growth strategy now runs through live events and ad-tier expansion"
+   "fact": "FY2025 revenue $45.2B, operating margin 29.5%, free cash flow $9.5B; paid memberships crossed 325M in Q4 2025; ad revenue rose more than 2.5x to over $1.5B in 2025, tracking toward $3B in 2026; members watched 97 billion hours in first half of 2026; growth strategy now runs through live events and ad-tier expansion",
+   "verified": true
   },
   {
    "company": "Sirius XM Holdings Inc.",
-   "fact": "Q2 2026 churn hit record-low 1.4% with 33M paid subscribers; FY2025 revenue $8.56B, adjusted EBITDA $2.67B, free cash flow $1.26B; podcasting grew 41% in FY2025; 255M combined monthly audio audience; in-car default access creates retention profile that app-based services cannot match"
+   "fact": "Q2 2026 churn hit record-low 1.4% with 33M paid subscribers; FY2025 revenue $8.56B, adjusted EBITDA $2.67B, free cash flow $1.26B; podcasting grew 41% in FY2025; 255M combined monthly audio audience; in-car default access creates retention profile that app-based services cannot match",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "The trend depends on two propositions: (1) that fixed-supply experiences command a structural, durable pricing premium over on-demand alternatives, and (2) that this premium has widened because digital abundance devalued on-demand content. Evidence would falsify this if: prices for live events normalized downward or fell materially; attendance, deferred revenue, or RevPAR metrics reversed or declined consistently; streaming platforms' profitability decoupled from live-content investment; or if on-demand content proved able to command scarcity premiums comparable to live events.",
+  "contradicting_companies": [
+   {
+    "company": "Netflix, Inc.",
+    "fact": "Netflix remains fundamentally profitable at 29.5% operating margins without live sports or major live-event programming; its core on-demand catalog still generates $45.2B in annual revenue. Netflix is investing cautiously in live content after mixed results with earlier live experiments. The company's growth path could sustain through ad-tier expansion and password-sharing monetization rather than through appointment-based scarcity."
+   },
+   {
+    "company": "Disney Experiences",
+    "fact": "Disney's streaming division (Disney+, Hulu, ESPN+) collectively contributed significant operating income recovery in FY2025-2026 through ad tier and bundle expansion. The Experiences segment's profitability advantage may reflect pricing power from brand monopoly on iconic IP (not pure scarcity), capital recycling, and lack of alternative leisure competition in the specific geographic markets where parks operate. If competing parks or virtual experiences emerge, the scarcity assumption weakens."
+   },
+   {
+    "company": "Fox Corporation",
+    "fact": "Fox's Q4 FY2026 78% advertising revenue spike is explicitly tied to one-time FIFA World Cup rights, not a durable structural shift. The company's Q3 FY2026 advertising revenue fell sharply because the prior-year quarter held the Super Bowl. Fox's own guidance acknowledges that the base business grows at mid-single digits, meaning live rights create volatility rather than a new permanent economics layer."
+   },
+   {
+    "company": "Live Nation Entertainment Inc.",
+    "fact": "Live Nation's deferred revenue record of $6.6B in Q1 2026 is not yet proof of durable margin expansion; it is a booking record that still depends on execution, no cancellations, and attendance conversion. The company took a $450M legal accrual in the same quarter, which represents a real cost of monopoly control and regulatory risk. If antitrust enforcement succeeds in lowering Ticketmaster's take-rates, the margin math reverses sharply."
+   }
+  ],
+  "honest_caveat": "This trend assumes that scarcity pricing is structural and durable, but the evidence shows it is event-dependent and concentrated in narrow categories: stadium concerts, theme parks with iconic IP, marquee sports moments, and luxury hotel inventory in specific markets. It does not explain why streaming-service margins are expanding despite investments in live content, why virtual concerts and metaverse experiences have not yet undermined the physical-presence premium, or why the music industry has not built competing ticketing platforms to erode Live Nation's chokepoint. The trend also conflates affluent consumer behavior (willingness to pay for premium experiences) with a systematic shift away from on-demand content — a leap not fully supported by the data. Netflix's continued profitability without significant live content, and Disney's ability to raise streaming profitability through ad-tier economics rather than live programming, suggest that the 'scarcity premium' thesis may describe a narrow slice of the market rather than a durable shift in how consumers allocate entertainment spending."
+ }
 }

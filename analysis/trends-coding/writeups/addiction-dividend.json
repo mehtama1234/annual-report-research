@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "$17B smoke-free revenue in FY2025",
-   "label": "Philip Morris International—smoke-free business (IQOS, ZYN) crossing the threshold where it materially drives company economics, representing 41.5% of total net revenues"
+   "label": "Philip Morris International—smoke-free business (IQOS, ZYN) crossing the threshold where it materially drives company economics, representing 41.5% of total net revenues",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "43M+ adult consumers",
-   "label": "Estimated users of PMI smoke-free products at end of 2025, up ~4.5M in one year, each now device-dependent on a higher-cost format than combustible cigarettes"
+   "label": "Estimated users of PMI smoke-free products at end of 2025, up ~4.5M in one year, each now device-dependent on a higher-cost format than combustible cigarettes",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "97B hours watched in H1 2026",
-   "label": "Netflix members—total viewing in the first half of 2026 across 325M+ paid memberships, with Q2 2026 operating margin expanding to 33.4%"
+   "label": "Netflix members—total viewing in the first half of 2026 across 325M+ paid memberships, with Q2 2026 operating margin expanding to 33.4%",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "84% Autoship penetration",
-   "label": "Chewy's Autoship customer sales as percent of net sales (Q3 2025), atop $12.60B full-year FY2025 net sales and record free cash flow of $562M"
+   "label": "Chewy's Autoship customer sales as percent of net sales (Q3 2025), atop $12.60B full-year FY2025 net sales and record free cash flow of $562M",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "71% live services revenue",
-   "label": "Electronic Arts live services and other as share of FY2026 total net revenue of $7.531B—seasonal content drops and battle passes requiring regular check-ins to avoid falling behind"
+   "label": "Electronic Arts live services and other as share of FY2026 total net revenue of $7.531B—seasonal content drops and battle passes requiring regular check-ins to avoid falling behind",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "50M Uber One members",
-   "label": "Driving roughly half of Uber gross bookings across Mobility and Delivery in Q1 2026, when gross bookings were $53.7B and trips grew 20% year over year"
+   "label": "Driving roughly half of Uber gross bookings across Mobility and Delivery in Q1 2026, when gross bookings were $53.7B and trips grew 20% year over year",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "300M Premium subscribers",
-   "label": "Spotify in Q2 2026 across 777M MAUs, with Q1 2026 operating margin at 15.8% and EUR 2.9B trailing twelve-month free cash flow"
+   "label": "Spotify in Q2 2026 across 777M MAUs, with Q1 2026 operating margin at 15.8% and EUR 2.9B trailing twelve-month free cash flow",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "13 consecutive quarters",
-   "label": "Dutch Bros positive same-shop sales growth through Q2 2026, with 8 consecutive quarters of positive transaction growth confirming repeat use, not just price, drives the model"
+   "label": "Dutch Bros positive same-shop sales growth through Q2 2026, with 8 consecutive quarters of positive transaction growth confirming repeat use, not just price, drives the model",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -53,35 +69,61 @@
  "evidence": [
   {
    "company": "Philip Morris International",
-   "fact": "Smoke-free business reached 41.5% of FY2025 total net revenues and 43% of gross profit; 43 million+ adult consumers using smoke-free products by end of 2025, up 4.5 million in one year; full-year 2025 reported diluted EPS $7.26 vs $4.52 in 2024; net revenues surpassed $40B; smoke-free shipment volumes up 12.8% for the year; combustibles net revenues still grew 9.5% in Q2 2026 despite volume declines, demonstrating pure pricing power from addiction stickiness; smoke-free available in 109 markets as of June 2026"
+   "fact": "Smoke-free business reached 41.5% of FY2025 total net revenues and 43% of gross profit; 43 million+ adult consumers using smoke-free products by end of 2025, up 4.5 million in one year; full-year 2025 reported diluted EPS $7.26 vs $4.52 in 2024; net revenues surpassed $40B; smoke-free shipment volumes up 12.8% for the year; combustibles net revenues still grew 9.5% in Q2 2026 despite volume declines, demonstrating pure pricing power from addiction stickiness; smoke-free available in 109 markets as of June 2026",
+   "verified": true
   },
   {
    "company": "Netflix Inc.",
-   "fact": "325M+ paid memberships; members watched more than 97 billion hours in first half of 2026; full-year 2025 revenue $45.2B, operating margin 29.5%, free cash flow $9.5B; Q2 2026 operating margin 33.4% on revenue of $12.560B; ad revenue grew more than 2.5x to over $1.5B in 2025; 2026 revenue guidance $51.0B-$51.4B at 31.5% operating margin"
+   "fact": "325M+ paid memberships; members watched more than 97 billion hours in first half of 2026; full-year 2025 revenue $45.2B, operating margin 29.5%, free cash flow $9.5B; Q2 2026 operating margin 33.4% on revenue of $12.560B; ad revenue grew more than 2.5x to over $1.5B in 2025; 2026 revenue guidance $51.0B-$51.4B at 31.5% operating margin",
+   "verified": true
   },
   {
    "company": "Chewy Inc.",
-   "fact": "84% Autoship customer sales as percent of net sales in Q3 2025; full-year FY2025 net sales $12.60B up 6.2% year over year; record free cash flow $562M; 21.3M active customers at year-end; adjusted EBITDA $719.2M; Q1 2026 net sales $3.36B up 7.7% with nearly 200,000 net customer additions and record quarterly profitability"
+   "fact": "84% Autoship customer sales as percent of net sales in Q3 2025; full-year FY2025 net sales $12.60B up 6.2% year over year; record free cash flow $562M; 21.3M active customers at year-end; adjusted EBITDA $719.2M; Q1 2026 net sales $3.36B up 7.7% with nearly 200,000 net customer additions and record quarterly profitability",
+   "verified": true
   },
   {
    "company": "Electronic Arts Inc.",
-   "fact": "Live services and other net revenue $5.383B vs full game $2.148B representing 71% of FY2026 total net revenue of $7.531B; FY2026 operating cash flow $2.553B; seasonal battle passes and progression mechanics require regular check-in to avoid social and competitive disadvantage; Apex Legends net bookings up double digits in FY2026; FY2027 Q1 revenue approximately $1.986B"
+   "fact": "Live services and other net revenue $5.383B vs full game $2.148B representing 71% of FY2026 total net revenue of $7.531B; FY2026 operating cash flow $2.553B; seasonal battle passes and progression mechanics require regular check-in to avoid social and competitive disadvantage; Apex Legends net bookings up double digits in FY2026; FY2027 Q1 revenue approximately $1.986B",
+   "verified": true
   },
   {
    "company": "Starbucks Corporation",
-   "fact": "Q1 2026 showed first positive comparable transaction growth in eight quarters—confirming that two years of negative transaction comps followed a breakdown in habit infrastructure execution, not consumer disinterest; Q3 2026 global comp +7.9% driven by transaction growth; stored-value card, Rewards Stars system, and mobile app ordering are the operational mechanism of brand recovery"
+   "fact": "Q1 2026 showed first positive comparable transaction growth in eight quarters—confirming that two years of negative transaction comps followed a breakdown in habit infrastructure execution, not consumer disinterest; Q3 2026 global comp +7.9% driven by transaction growth; stored-value card, Rewards Stars system, and mobile app ordering are the operational mechanism of brand recovery",
+   "verified": true
   },
   {
    "company": "Dutch Bros Inc.",
-   "fact": "13 consecutive quarters of positive same-shop sales growth through Q2 2026; 8 consecutive quarters of positive same-shop transaction growth confirming repeat visit frequency rather than only ticket size; Q2 2026 system same-shop transactions up 1.7%, company-operated up 3.4%; record AUVs $2.1M; full-year 2025 revenue $1.64B; full-year 2026 guidance raised to $2.1B-$2.13B with adjusted EBITDA $385M-$390M; Dutch Rewards app-linked loyalty explicit in 10-K as core retention mechanism"
+   "fact": "13 consecutive quarters of positive same-shop sales growth through Q2 2026; 8 consecutive quarters of positive same-shop transaction growth confirming repeat visit frequency rather than only ticket size; Q2 2026 system same-shop transactions up 1.7%, company-operated up 3.4%; record AUVs $2.1M; full-year 2025 revenue $1.64B; full-year 2026 guidance raised to $2.1B-$2.13B with adjusted EBITDA $385M-$390M; Dutch Rewards app-linked loyalty explicit in 10-K as core retention mechanism",
+   "verified": true
   },
   {
    "company": "Spotify Technology S.A.",
-   "fact": "777M MAUs and 300M Premium subscribers in Q2 2026; Q2 2026 premium revenue EUR 4.331B; Q1 2026 operating margin 15.8%; trailing twelve-month free cash flow EUR 2.9B; full-year 2025 revenue EUR 17.186B, operating income EUR 2.198B; paid out more than $11B to music industry in 2025; AI-powered personalization and Wrapped (300M+ users) explicitly cited as deepening retention"
+   "fact": "777M MAUs and 300M Premium subscribers in Q2 2026; Q2 2026 premium revenue EUR 4.331B; Q1 2026 operating margin 15.8%; trailing twelve-month free cash flow EUR 2.9B; full-year 2025 revenue EUR 17.186B, operating income EUR 2.198B; paid out more than $11B to music industry in 2025; AI-powered personalization and Wrapped (300M+ users) explicitly cited as deepening retention",
+   "verified": true
   },
   {
    "company": "Uber Technologies Inc.",
-   "fact": "50M Uber One members driving roughly half of gross bookings across Mobility and Delivery in Q1 2026; Q1 2026 gross bookings $53.7B with trips growing 20% year over year; Q2 2026 gross bookings $58.0B up 24%, trips 3.9B up 18%, GAAP net income $2.4B, adjusted EBITDA $2.8B; FY2025 gross bookings $193B with approximately $9.8B free cash flow; more than 200M monthly users and more than 40M trips per day"
+   "fact": "50M Uber One members driving roughly half of gross bookings across Mobility and Delivery in Q1 2026; Q1 2026 gross bookings $53.7B with trips growing 20% year over year; Q2 2026 gross bookings $58.0B up 24%, trips 3.9B up 18%, GAAP net income $2.4B, adjusted EBITDA $2.8B; FY2025 gross bookings $193B with approximately $9.8B free cash flow; more than 200M monthly users and more than 40M trips per day",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "The observation that would prove this trend wrong would be evidence that companies have NOT deliberately engineered behavioral capture, that users consciously compare alternatives regularly, or that the disclosed metrics of habit-formation (97B hours, 84% Autoship penetration, 13 quarters transaction growth) reflect passive outcomes rather than deliberate system design. Also: if these businesses failed to defend their pricing power or switching costs when disrupted, or if deactivation rates prove low switching costs despite claims of behavioral lock-in.",
+  "contradicting_companies": [
+   {
+    "company": "Starbucks Corporation",
+    "fact": "The packet proves the addiction dividend model has limits. Starbucks had the same loyalty infrastructure (stored-value, Rewards Stars, app ordering) as the other companies but still experienced two years of negative comparable transaction growth (Q1 2026 was the first positive in eight quarters). Execution failure broke the habit loop. This shows that behavioral infrastructure is necessary but not sufficient—weak service execution can shatter customer habit even when the technical retention layer is intact."
+   },
+   {
+    "company": "Chewy Inc.",
+    "fact": "Saturation is visible in the numbers. Chewy reports 21.3M active customers on a pet ownership base of roughly 67M US households. With 84% Autoship penetration, the addressable market expansion is constrained by pet ownership rates, not behavioral design. Unlike Netflix (which can cross geographic borders more freely) or Uber (which can add new service categories), Chewy's repeat-purchase infrastructure is bounded by the size of the pet-owning population, not by the depth of habit."
+   },
+   {
+    "company": "Netflix Inc.",
+    "fact": "The packet does not support the claim that Netflix's moat is primarily behavioral addiction. The company explicitly attributes margin expansion to ad revenue (which grew 2.5x in 2025) and password-sharing enforcement—not to personalization or recommendation deepening. Q2 2026 margin expansion from 29.5% to 33.4% came largely from ad layer scaling, not from users becoming more addicted. This suggests diversified monetization, not pure behavioral capture."
+   }
+  ],
+  "honest_caveat": "This trend assumes that disclosure of behavioral metrics to investors necessarily proves deliberate engineering of addiction-like habits. But corporate transparency about customer retention metrics is consistent with ordinary product design—companies naturally optimize for repeat purchase because that is the essence of any recurring business model. The trend may conflate 'recurring revenue model' with 'deliberately engineered addiction,' which are related but not identical. Additionally, the trend focuses on U.S. and developed-market companies where scale permits behavioral capture infrastructure investment. Saturation, regulatory intervention (data privacy laws, antitrust scrutiny on wallet capture), and execution failure (Starbucks) all represent underweighted risks. The trend also does not account for competitive pressure: as behavioral capture becomes visible and criticized, entrants may compete by offering transparent, low-friction alternatives that deliberately avoid opacity. Finally, the characterization of behavioral design as an 'externality' is incomplete—most of the companies deliver genuine consumer value (Netflix watches are enjoyable, Chewy saves time, Dutch Bros is faster) alongside the behavioral lock-in."
+ }
 }

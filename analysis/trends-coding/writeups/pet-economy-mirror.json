@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "$3.36B",
-   "label": "Chewy Q1 2026 net sales, up 7.7% year over year with gross margin expanding 50 basis points to 30.1% — volume and margin moving together in an affordability-stressed quarter"
+   "label": "Chewy Q1 2026 net sales, up 7.7% year over year with gross margin expanding 50 basis points to 30.1% — volume and margin moving together in an affordability-stressed quarter",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "84%",
-   "label": "Chewy Q3 2025 Autoship customer sales penetration — the share of revenue locked into recurring delivery subscriptions, making the revenue base look more like a utility than a retailer"
+   "label": "Chewy Q3 2025 Autoship customer sales penetration — the share of revenue locked into recurring delivery subscriptions, making the revenue base look more like a utility than a retailer",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "~200,000",
-   "label": "Chewy net customer additions in Q1 2026, reaching 21.3M active customers at fiscal year-end 2025, despite management flagging a 'more dynamic consumer backdrop'"
+   "label": "Chewy net customer additions in Q1 2026, reaching 21.3M active customers at fiscal year-end 2025, despite management flagging a 'more dynamic consumer backdrop'",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$12.60B",
-   "label": "Chewy full-year fiscal 2025 net sales, up 6.2% year over year, generating record free cash flow of $562M — a business that achieved scale and profitability simultaneously"
+   "label": "Chewy full-year fiscal 2025 net sales, up 6.2% year over year, generating record free cash flow of $562M — a business that achieved scale and profitability simultaneously",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$595",
-   "label": "Chewy net sales per active customer in Q3 2025, a figure that rises as pharmacy attachments and Autoship convert episodic buyers into managed-care relationships"
+   "label": "Chewy net sales per active customer in Q3 2025, a figure that rises as pharmacy attachments and Autoship convert episodic buyers into managed-care relationships",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$314.20",
-   "label": "BrightSpring revenue per prescription in Q2 2026, with gross profit per script of $27.50, on approximately 43 million prescriptions fulfilled in 2025 — the economics of complex-patient pharmacy now mapping onto veterinary trajectories"
+   "label": "BrightSpring revenue per prescription in Q2 2026, with gross profit per script of $27.50, on approximately 43 million prescriptions fulfilled in 2025 — the economics of complex-patient pharmacy now mapping onto veterinary trajectories",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$6.81B",
-   "label": "Signet Jewelers full-year FY2026 sales with same-store sales growth of 1.3% and free cash flow of $525M — milestone and occasion spending holding in the same affordability environment where pet spending held, because both are identity-category purchases"
+   "label": "Signet Jewelers full-year FY2026 sales with same-store sales growth of 1.3% and free cash flow of $525M — milestone and occasion spending holding in the same affordability environment where pet spending held, because both are identity-category purchases",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$20.38B",
-   "label": "Colgate-Palmolive 2025 net sales, with Hill's Pet Nutrition explicitly described as growing faster than oral care and framed as 'more resilient to affordability pressure' than personal care segments"
+   "label": "Colgate-Palmolive 2025 net sales, with Hill's Pet Nutrition explicitly described as growing faster than oral care and framed as 'more resilient to affordability pressure' than personal care segments",
+   "verified": false,
+   "check": "net sales verified as $20.382B; Hill's described as 'major growth and category-quality asset' but explicit affordability-pressure comparison not located in packet text"
   }
  ],
  "mechanism": [
@@ -53,19 +69,41 @@
  "evidence": [
   {
    "company": "Chewy, Inc.",
-   "fact": "Q1 2026 net sales $3.36B up 7.7% with gross margin expanding 50 basis points to 30.1% and record quarterly profitability; ~200,000 net customer additions despite 'more dynamic consumer backdrop'; 21.3M active customers at fiscal year-end 2025; ~84% Autoship penetration in Q3 2025; net sales per active customer ~$595 in Q3 2025; full-year fiscal 2025 net sales $12.60B with record free cash flow of $562M"
+   "fact": "Q1 2026 net sales $3.36B up 7.7% with gross margin expanding 50 basis points to 30.1% and record quarterly profitability; ~200,000 net customer additions despite 'more dynamic consumer backdrop'; 21.3M active customers at fiscal year-end 2025; ~84% Autoship penetration in Q3 2025; net sales per active customer ~$595 in Q3 2025; full-year fiscal 2025 net sales $12.60B with record free cash flow of $562M",
+   "verified": true
   },
   {
    "company": "Colgate-Palmolive Co.",
-   "fact": "Full-year 2025 net sales $20.382B; Hill's Pet Nutrition described as 'major growth and quality asset' and growing faster than oral care and personal care segments; management explicitly framed pet spending as 'more resilient to affordability pressure' than personal care categories; gross profit margin 61.5% in Q2 2026"
+   "fact": "Full-year 2025 net sales $20.382B; Hill's Pet Nutrition described as 'major growth and quality asset' and growing faster than oral care and personal care segments; management explicitly framed pet spending as 'more resilient to affordability pressure' than personal care categories; gross profit margin 61.5% in Q2 2026",
+   "verified": false
   },
   {
    "company": "BrightSpring Health Services, Inc.",
-   "fact": "Approximately 43 million prescriptions fulfilled in 2025; Q2 2026 revenue per prescription $314.20, gross profit per prescription $27.50; home health average daily census 46,448 in Q2 2026, up 54% year over year; full-year 2026 revenue guidance raised to $15,100M–$15,425M; leverage down to 2.15x, below 2.5x long-term target"
+   "fact": "Approximately 43 million prescriptions fulfilled in 2025; Q2 2026 revenue per prescription $314.20, gross profit per prescription $27.50; home health average daily census 46,448 in Q2 2026, up 54% year over year; full-year 2026 revenue guidance raised to $15,100M–$15,425M; leverage down to 2.15x, below 2.5x long-term target",
+   "verified": true
   },
   {
    "company": "Signet Jewelers Limited",
-   "fact": "Full-year FY2026 sales $6.81B with same-store sales growth 1.3% and free cash flow $525M; Q1 FY27 same-store sales growth 1.8% with merchandise AUR up ~5%; Q3 FY26 AUR up 6% in Bridal and 8% in Fashion — milestone and occasion spending holding pricing power in the same consumer-soft environment as pet spending, confirming the identity-category pattern is not pet-specific"
+   "fact": "Full-year FY2026 sales $6.81B with same-store sales growth 1.3% and free cash flow $525M; Q1 FY27 same-store sales growth 1.8% with merchandise AUR up ~5%; Q3 FY26 AUR up 6% in Bridal and 8% in Fashion — milestone and occasion spending holding pricing power in the same consumer-soft environment as pet spending, confirming the identity-category pattern is not pet-specific",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "Evidence that pet spending contracts sharply during economic stress despite the 'identity category' framing, or that competitor pet retailers/services show margin compression rather than expansion even as Chewy expands, or that Colgate's Hill's Pet Nutrition does NOT actually outperform personal care under affordability pressure when the full filings are examined in detail.",
+  "contradicting_companies": [
+   {
+    "company": "Colgate-Palmolive Co.",
+    "fact": "Colgate's own packet language frames the pet category as experiencing 'private-label pressure' and recurring issues with 'lower private-label pet volume,' suggesting that pet spending IS price-sensitive and vulnerable to trading down to lower-cost alternatives — which contradicts the claim that pet spending is immune to affordability pressure"
+   },
+   {
+    "company": "Signet Jewelers Limited",
+    "fact": "Signet's packet explicitly flags 'shifts away from engagements and weddings' and 'trends toward experiential purchases such as travel' as competitive threats, meaning milestone-gifting demand is NOT uniformly protected from affordability pressure — it competes away to other spending categories, especially experiences"
+   },
+   {
+    "company": "BrightSpring Health Services, Inc.",
+    "fact": "BrightSpring's strength is in human healthcare infrastructure and medically complex patients (not pets); its adjacency to veterinary pharmacy is speculative extrapolation from the packet, not demonstrated evidence. The packet does NOT show BrightSpring actually entering veterinary pharmacy or proving that consumer resistance to premium pet pricing is identical to human healthcare resistance"
+   }
+  ],
+  "honest_caveat": "The trend's core claim rests on the interpretive move that identity-category spending is structurally protected from affordability pressure — but the evidence shows only that Chewy and Signet held volume and margins in 2025-2026, a period of moderate consumer stress, not severe recession. Private-label pressure in pet goods and experience-competition for occasion spending both suggest the resilience may be limited or temporary. Additionally, Colgate's explicit 'affordability pressure' quote cannot be verified from the packet text provided, making the central mechanism claim speculative rather than empirically grounded. The trend correctly identifies that pet spending patterns differ from discretionary retail, but may overstate the degree to which that difference is immune to economic stress or structural to the category rather than circumstantial to 2025-2026 macro conditions."
+ }
 }

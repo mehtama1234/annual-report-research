@@ -1,0 +1,134 @@
+{
+ "slug": "outage-anxiety-economy",
+ "name": "The Outage Anxiety Economy",
+ "deck": "The grid hasn't gotten dramatically worse — but the cost of losing power for an hour has tripled, and the companies that sell backup electricity have figured out how to charge for the fear gap between those two facts.",
+ "core_bet": "The bet is that consequence inflation — not outage frequency — is the structural driver. When a blackout in 2026 disables a home office, stops an EV from charging, silences a CPAP machine, and bricks a smart lock, the household that can afford backup pays; the one that can't absorbs the outage. At industrial scale, the fear is existential: a data center without backup is an architectural failure, not an inconvenience. Whoever controls large-megawatt backup generation, residential storage networks, and the mechanical guts of the facilities that house AI compute gets to price reliability as a scarce commodity — and the bifurcation between who buys certainty and who absorbs managed outages is already showing up in corporate earnings.",
+ "numbers": [
+  {
+   "stat": "$1.6B",
+   "label": "Generac's data-center backup backlog (Q2 2026), after signing a second hyperscaler global supply agreement on 2026-06-24 — up from near zero two years earlier",
+   "verified": true,
+   "check": "found in packet"
+  },
+  {
+   "stat": "+29% vs -2%",
+   "label": "Generac Q2 2026: C&I external net sales rose 29% to $556M while residential fell 2% to $617M — the market bifurcation in one line",
+   "verified": true,
+   "check": "found in packet"
+  },
+  {
+   "stat": "$71M",
+   "label": "Generac's pretax tariff refund in Q2 2026 that materially boosted gross margin and lifted full-year EBITDA guidance — a one-time distortion hiding the underlying cost structure",
+   "verified": true,
+   "check": "found in packet"
+  },
+  {
+   "stat": "74%",
+   "label": "Sunrun's record storage attachment rate in Q2 2026, up from 71% in Q4 2025 — batteries crossing from optional add-on to default purchase",
+   "verified": true,
+   "check": "found in packet"
+  },
+  {
+   "stat": "4.647 GWh",
+   "label": "Sunrun's networked storage capacity at end of Q2 2026, across roughly 1.206M customer accounts — a distributed power plant of dispatchable household batteries",
+   "verified": true,
+   "check": "found in packet"
+  },
+  {
+   "stat": "3.4 GW",
+   "label": "Alliant Energy's contracted data-center demand as of Q1 2026 (including a new 370 MW Iowa ESA), projected to drive a 60% peak-load increase by 2031 vs 2025 levels",
+   "verified": true,
+   "check": "found in packet"
+  },
+  {
+   "stat": "$17.14B",
+   "label": "EMCOR's record remaining performance obligations at end of Q2 2026, up from $11.91B a year earlier — data-center construction the single biggest contributor to RPO growth",
+   "verified": true,
+   "check": "found in packet"
+  },
+  {
+   "stat": "$14.06B",
+   "label": "Comfort Systems USA's record backlog at end of Q2 2026, up from $5.99B at end of 2024 — same-store backlog grew more than $1B in three consecutive quarters",
+   "verified": true,
+   "check": "found in packet"
+  }
+ ],
+ "mechanism": [
+  "The trigger isn't that the grid fails more often on average — it's that each failure now costs more. A blackout in 2010 meant a spoiled fridge and a quiet evening. A blackout in 2026 means a home office goes dark during a client call, an EV sits uncharged, a CPAP machine stops mid-sleep, and smart locks revert to dumb metal. The consequence curve got steeper even where the outage curve stayed flat. That gap between actual grid reliability and the felt cost of failure is the market Generac, Sunrun, EMCOR, and Comfort Systems are pricing into.",
+  "At household scale, Generac management explicitly reframed the standby generator as 'an insurance purchase, not a premium feature' — which is not just a sales pitch but an accurate description of who buys and why. The same logic scaled into data centers is even cleaner: a hyperscale operator running AI inference cannot tolerate an architectural failure, so backup generation moves from optional redundancy into a design specification. Generac now holds a $1.6B data-center backlog and two global hyperscaler supply agreements signed in 2025-2026, while its residential business slipped 2% in Q2 2026. One company, two different buyers, the same product — priced on their respective fear floors.",
+  "The same grid stress feeds both ends of the pipe and creates a self-reinforcing cycle. Sunrun's storage attachment rate climbed from 71% in Q4 2025 to 74% in Q2 2026 as households treat batteries less like solar accessories and more like outage insurance. Alliant Energy, a regional Midwest utility serving roughly 1 million customers, contracted 3.4 GW of data-center demand by Q1 2026 and now projects a 60% peak-load increase by 2031 — numbers that would have seemed implausible for a utility its size three years ago. That load growth creates grid stress, which creates more consumer anxiety, which sells more batteries.",
+  "The money mechanic is unbundling. Power reliability was once bundled into the utility bill as an implicit promise — you paid your rate and the lights stayed on. That promise is now being unbundled and sold as a separate premium: a generator, a battery subscription, a hyperscaler backup contract, a data-center mechanical system. EMCOR's remaining performance obligations hit $17.14B in Q2 2026, up 44% from $11.91B a year earlier, with data-center construction as the single biggest driver. Comfort Systems' backlog doubled from $5.99B at end of 2024 to $14.06B by Q2 2026. The reliability that used to be a utility's promise is now a contractor's backlog and a generator maker's supply agreement — and the margin accrues to the vendor, not the grid."
+ ],
+ "why_now": "Three pressures converged at a specific moment. The first was AI load growth arriving faster than grid upgrades: between 2023 and Q1 2026, Alliant alone contracted 3.4 GW of data-center demand and now projects a 60% peak-load jump by 2031. That kind of grid stress from a single customer category, in a single regional utility's territory, hadn't happened before. The second was extreme weather normalizing the outage as a recurring event — not an anomaly. Winter Storm Fern, wildfire-driven utility shutoffs, and hurricane comparisons became the drum beat that kept residential generator sales elevated even in soft quarters. The third was the household consequence shift: by 2024-2025, the average U.S. home contained an EV charger, medical devices, a home office setup, and a smart-home stack — all of which fail together in an outage. The inflection point that made it legible in earnings data was Generac's Q2 2026 split: a second hyperscaler supply agreement and a $1.6B data-center backlog reported in the same release as a 2% residential sales decline. When industrial backup demand is accelerating while consumer backup demand cools, reliability has been formally split into two markets — one priced on enterprise necessity, one on household fear — and both are growing.",
+ "who_pays": "Residential buyers pay thousands upfront for a standby generator or a solar-plus-storage system they hope to never fully use — that is what insurance pricing looks like. The household that cannot absorb that upfront cost stays fully grid-dependent and eats the outage that the affluent neighbor rode out on batteries. At the industrial level, hyperscalers pay on contract — but they extract pricing discipline from vendors, which is why Generac's $71M tariff refund matters: it flatters margin against buyers who know exactly what resilience should cost. Meanwhile ordinary utility customers absorb the system-wide cost of a stressed, intermittent grid — through rate cases, infrastructure surcharges, and the slow capital recovery of a $13.4B Alliant buildout — without capturing any of the reliability premium that flows to the backup-generation vendors.",
+ "who_profits": "Backup-generation OEMs (Generac) and residential storage operators (Sunrun) capture the household premium and the hyperscaler contract. Utilities with data-center siting advantages (Alliant, NextEra) lock in decades of regulated returns on the buildout — Alliant's $13.4B capital plan for 2026-2029 is essentially a reliability-premium bond dressed as regulated-utility capex. And the contractors who pour the concrete and run the mechanical and electrical systems — EMCOR ($17.14B backlog), Comfort Systems ($14.06B) — book record work because the data-center build is really a reliability build in copper, coolant, and switchgear.",
+ "tension": "The distributed-resilience model has a structural margin illusion baked in. Generac's $71M pretax tariff refund in Q2 2026 artificially inflated gross margin and lifted full-year EBITDA guidance — when that tariff relief expires, the real cost structure gets tested against hyperscaler buyers who apply procurement discipline, not retail-fear pricing. Comfort Systems' same-store backlog nearly tripled in two years, which is extraordinary, but it also raises the question of whether skilled-trades labor can actually execute at that burn rate without quality or safety decay. And the whole distributed-resilience model concentrates its benefits precisely where the money is: affluent homeowners get solar-backed outage immunity while low-income neighborhoods, lacking the upfront capital for batteries or generators, remain fully grid-exposed to the same storms.",
+ "surprising_part": "The most counterintuitive fact is that outage frequency has not materially increased on a national average basis — this market is running on consequence inflation, not on the grid getting worse. The backup-power industry is essentially selling insurance against a risk whose incidence hasn't changed much, but whose payout has grown because modern households are more failure-sensitive. The second surprise is scale asymmetry: the company selling you a home generator is making its real growth money not on your $20,000 standby unit but on hyperscaler contracts that dwarf the residential business. Generac's C&I external sales grew 29% to $556M in Q2 2026 while residential fell 2% to $617M — the residential business is now the smaller-growth half, and its cultural role is to keep the brand visible while the industrial side builds the actual moat.",
+ "one_sentence": "A market built on fear of failure rather than actual failure frequency is the most durable kind — because even a reliable grid can't compete with anxiety, and the companies that learned to sell backup electricity as insurance are now repricing it as infrastructure.",
+ "societal_stake": "A society where power reliability is purchased rather than provided equally is a society sorting itself by resilience. The split is already visible in Generac's own earnings: hyperscalers and affluent homeowners buy backup power as a cost of doing business, while small businesses and low-income households facing identical grid stress cannot write that check. When the next major weather event hits, the map of who still has power will overlap uncomfortably with the map of household income. That is not a hypothetical — Sunrun's 74% storage attachment rate is concentrated in markets where customers can afford the financing. The communities with the fewest resources to absorb an outage are the ones with the least access to the products that prevent one.",
+ "evidence": [
+  {
+   "company": "Generac Holdings",
+   "fact": "Q2 2026: data-center backlog ~$1.6B; second hyperscaler global supply agreement signed 2026-06-24; C&I external net sales rose 29% to $556M; residential external net sales fell 2% to $617M; ~$71M pretax tariff refund boosted gross margin and full-year EBITDA guidance; Q2 2026 adjusted EBITDA $291M or 24.8% of net sales; residential standby explicitly reframed as 'an insurance purchase, not a premium feature'",
+   "verified": true
+  },
+  {
+   "company": "Sunrun Inc.",
+   "fact": "Q2 2026: storage attachment rate hit record 74% (up from 71% in Q4 2025, 73% in Q1 2026); networked storage capacity 4.647 GWh; ~1.206M customers; total revenue ~$870M; management describes platform as 'distributed power plant' protecting families from 'an increasingly unreliable grid'; full-year 2026 Aggregate Subscriber Value guidance reduced to $4.6B-$4.9B citing channel timing, not demand weakness",
+   "verified": true
+  },
+  {
+   "company": "Alliant Energy Corporation",
+   "fact": "Q1 2026: total contracted data-center demand reached 3.4 GW after new 370 MW Iowa ESA; projected 60% peak-load increase by 2031 vs 2025 levels; $13.4B capital plan 2026-2029; serves ~1.01M electric customers across Iowa and Wisconsin; Q2 2026 management reaffirmed load-growth trajectory as on schedule",
+   "verified": true
+  },
+  {
+   "company": "EMCOR Group",
+   "fact": "Q2 2026: revenue record $5.15B; remaining performance obligations record $17.14B (up from $11.91B a year earlier, $13.25B at FY2025); data-center construction contracts single biggest RPO contributor; full-year 2025 revenue $16.99B, net income $1.27B; 2026 diluted EPS guidance raised to $32.00-$33.25",
+   "verified": true
+  },
+  {
+   "company": "Comfort Systems USA",
+   "fact": "Q2 2026: revenue $3.27B, net income $441.6M; backlog $14.06B (up from $5.99B at end of 2024, $11.94B at end of 2025); Q1 2026 organic revenue growth 51%; same-store backlog grew more than $1B in three consecutive quarters; data-center mechanical and HVAC work primary driver; FY2025 revenue $9.10B, net income $1.02B",
+   "verified": true
+  },
+  {
+   "company": "Digital Realty",
+   "fact": "Q2 2026 renewal lease-rate increases accelerated to 25.4% cash (up from 6.1% in Q4 2025), signaling that power-capacity scarcity has become the primary competitive moat in colocation",
+   "verified": true
+  },
+  {
+   "company": "NextEra Energy",
+   "fact": "Renewable and storage backlog ~29.8 GW at end of 2025; added a record 4 GW in Q1 2026; FPL regulatory capital employed growing from $72.9B toward $79.7B, locking in regulated returns on transmission and reliability infrastructure",
+   "verified": true
+  },
+  {
+   "company": "Atmos Energy",
+   "fact": "$26B of projected capital expenditures through fiscal 2030, with over 85% focused on safety and reliability — a natural-gas utility whose growth thesis is almost entirely built on the reliability-premium repricing dynamic",
+   "verified": false,
+   "check": "Atmos numbers verified, but thesis-breaker: growth is capital deployment and safety spend, NOT consequence inflation or backup power fear. Different value proposition entirely—gas-utility rate-base compounding, not power-reliability premium."
+  }
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "Evidence that the backup-power premium is faltering despite unchanged grid reliability, OR that companies aggressively pursuing reliability-premium strategies are being forced to cut guidance and reduce backlog expectations, OR that the market is reaching saturation where household and enterprise resilience investments stop expanding.",
+  "contradicting_companies": [
+   {
+    "company": "Sunrun Inc.",
+    "fact": "Q2 2026: despite record 74% storage attachment and 4.647 GWh capacity, management slashed full-year 2026 Aggregate Subscriber Value guidance from $4.8B-$5.2B down to $4.6B-$4.9B, citing channel timing and demand softness. This contradicts the thesis that residential backup purchasing is inevitable and unstoppable; it shows the market has execution and capital constraints."
+   },
+   {
+    "company": "Atmos Energy Corporation",
+    "fact": "Atmos is a pure regulated gas utility with $26B capex through 2030, yet 85%+ of that capex is focused on safety and reliability infrastructure modernization—not on consequence-inflation pricing or backup-power market capture. Its growth story is rate-base compounding and regulatory recovery, not fear-based premium pricing. This shows that 'reliability infrastructure' investment doesn't require the anxiety-and-bifurcation narrative to justify capital deployment."
+   },
+   {
+    "company": "Alliant Energy Corporation",
+    "fact": "Q2 2026: Alliant explicitly frames its 3.4 GW contracted demand and 60% projected peak-load increase as a story of 'disciplined, managed growth' rather than explosive bifurcation. The company emphasizes customer-specific rates, Iowa base-rate stability, and affordability protection. This contradicts the thesis that power scarcity forces a hard split between those who can pay and those who absorb outages; it suggests that regulation and rate design can distribute reliability investment more evenly than the trend's narrative of unequal access implies."
+   },
+   {
+    "company": "Comfort Systems USA",
+    "fact": "Q2 2026 backlog rose to $14.06B, but the packet emphasis is on labor scarcity and execution bottleneck, not demand certainty. The company warns that taking on commitments that exceed labor resources is a risk. This suggests the limit on the reliability-premium thesis is not market saturation but real-world execution constraint—a labor and logistics ceiling, not an inevitable expansion driven by fear and wealth bifurcation."
+   }
+  ],
+  "honest_caveat": "This trend is strongest for large-cap hyperscalers and affluent residential markets concentrated in high-outage-risk geography. It does NOT apply uniformly to small businesses, regulated utilities like Atmos or Alliant that must balance growth with affordability, or markets where labor and supply-chain constraints (not demand) are the limiting factor. The trend also relies on the assumption that consequence inflation will keep driving investment even as grid reliability and battery technology improve; if grid modernization catches up to AI load growth, or if battery costs drop enough to reach price-insensitive mass adoption, the anxiety premium could compress. Additionally, Sunrun's guidance cut and deferred adoption rates in some channels suggest residential resilience spending is income-constrained and channel-dependent, not a structural inevitability—making the affluent-vs-poor bifurcation real but not as universal as the trend implies."
+ }
+}

@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "C$12.8B",
-   "label": "Suncor's 2025 adjusted funds from operations across integrated oil sands, upgrading, refining, and Petro-Canada retail—enabling C$5.8B in shareholder returns"
+   "label": "Suncor's 2025 adjusted funds from operations across integrated oil sands, upgrading, refining, and Petro-Canada retail—enabling C$5.8B in shareholder returns",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "99% / 108%",
-   "label": "Suncor's upgrader utilization in Q4 2025 and refinery utilization in the same quarter, both record levels, showing the integration working simultaneously at every stage"
+   "label": "Suncor's upgrader utilization in Q4 2025 and refinery utilization in the same quarter, both record levels, showing the integration working simultaneously at every stage",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "14.2%",
-   "label": "Commercial Metals' North America Steel Group adjusted EBITDA margin in Q3 2026, running ~98% recycled material, versus Cleveland-Cliffs' $37M full-year 2025 adjusted EBITDA on $18.6B revenue"
+   "label": "Commercial Metals' North America Steel Group adjusted EBITDA margin in Q3 2026, running ~98% recycled material, versus Cleveland-Cliffs' $37M full-year 2025 adjusted EBITDA on $18.6B revenue",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$2.5B",
-   "label": "Capital Commercial Metals deployed into precast concrete acquisitions through Q1 2026, renaming the segment from 'Emerging Businesses' to 'Construction Solutions Group'"
+   "label": "Capital Commercial Metals deployed into precast concrete acquisitions through Q1 2026, renaming the segment from 'Emerging Businesses' to 'Construction Solutions Group'",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$1.4B GAAP net loss",
-   "label": "Cleveland-Cliffs' full-year 2025 result despite 25,000 employees and $18.6B revenue, caused by fixed-price automotive contracts that lagged spot pricing and an expiring slab contract management called value-destructive"
+   "label": "Cleveland-Cliffs' full-year 2025 result despite 25,000 employees and $18.6B revenue, caused by fixed-price automotive contracts that lagged spot pricing and an expiring slab contract management called value-destructive",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$17.14B",
-   "label": "EMCOR's remaining performance obligations in Q2 2026, up from $11.91B a year earlier, with data-center and infrastructure awards driving the fastest RPO growth"
+   "label": "EMCOR's remaining performance obligations in Q2 2026, up from $11.91B a year earlier, with data-center and infrastructure awards driving the fastest RPO growth",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$31.3B / 31.0%",
-   "label": "Ferguson's calendar-2025 net sales and gross margin, achieved through 1,746 branches and eight acquisitions with annualized revenue above $300M—five more acquisitions completed in Q2 2026 alone"
+   "label": "Ferguson's calendar-2025 net sales and gross margin, achieved through 1,746 branches and eight acquisitions with annualized revenue above $300M—five more acquisitions completed in Q2 2026 alone",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "-$95M operating cash flow in Q1 2026, then +$133M in Q2",
-   "label": "DNOW's cash swing after absorbing MRC Global's ERP transition, the sharpest single-quarter proof in this batch that post-merger integration can temporarily break the most basic financial function in a distribution business"
+   "label": "DNOW's cash swing after absorbing MRC Global's ERP transition, the sharpest single-quarter proof in this batch that post-merger integration can temporarily break the most basic financial function in a distribution business",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -53,35 +69,65 @@
  "evidence": [
   {
    "company": "Suncor Energy",
-   "fact": "Record 2025 full-year performance: adjusted funds from operations C$12.8B, free funds flow C$6.9B, upstream production 860,000 bbls/d, upgrader utilization 99%, refining throughput 480,000 bbls/d, refined-product sales 623,000 bbls/d; C$5.8B returned to shareholders; Q2 2026 showed integration insulating results when upstream production dipped to 760.9 mbbls/d from planned maintenance while downstream set records at 470.6 mbbls/d throughput and 654.8 mbbls/d product sales"
+   "fact": "Record 2025 full-year performance: adjusted funds from operations C$12.8B, free funds flow C$6.9B, upstream production 860,000 bbls/d, upgrader utilization 99%, refining throughput 480,000 bbls/d, refined-product sales 623,000 bbls/d; C$5.8B returned to shareholders; Q2 2026 showed integration insulating results when upstream production dipped to 760.9 mbbls/d from planned maintenance while downstream set records at 470.6 mbbls/d throughput and 654.8 mbbls/d product sales",
+   "verified": true
   },
   {
    "company": "Commercial Metals Company",
-   "fact": "Q3 2026 North America Steel Group adjusted EBITDA margin 14.2% versus 11.5% a year earlier, running ~98% recycled-material EAF; metal margins improved $111 per ton year over year as selling prices rose $130 per ton while scrap rose only $19 per ton; Construction Solutions Group (precast acquisitions) contributed $52.9M EBITDA in Q3 2026; more than $2.5B deployed into precast concrete platform through Q1 2026"
+   "fact": "Q3 2026 North America Steel Group adjusted EBITDA margin 14.2% versus 11.5% a year earlier, running ~98% recycled-material EAF; metal margins improved $111 per ton year over year as selling prices rose $130 per ton while scrap rose only $19 per ton; Construction Solutions Group (precast acquisitions) contributed $52.9M EBITDA in Q3 2026; more than $2.5B deployed into precast concrete platform through Q1 2026",
+   "verified": true
   },
   {
    "company": "Cleveland-Cliffs",
-   "fact": "2025 revenues $18.6B with GAAP net loss $1.4B, adjusted EBITDA only $37M, and adjusted net loss $2.48 per diluted share; ~35-40% of flat-rolled shipments sold under fixed-price annual contracts that lagged spot pricing; Q1 2026 extreme cold weather cut approximately $80M of EBITDA; Q2 2026 still showed adjusted EBITDA of only $286M despite sequential recovery from weather disruption"
+   "fact": "2025 revenues $18.6B with GAAP net loss $1.4B, adjusted EBITDA only $37M, and adjusted net loss $2.48 per diluted share; ~35-40% of flat-rolled shipments sold under fixed-price annual contracts that lagged spot pricing; Q1 2026 extreme cold weather cut approximately $80M of EBITDA; Q2 2026 still showed adjusted EBITDA of only $286M despite sequential recovery from weather disruption",
+   "verified": true
   },
   {
    "company": "EMCOR Group",
-   "fact": "Q2 2026 record revenue $5.15B, net income $403.7M; remaining performance obligations $17.14B in Q2 2026 versus $11.91B a year earlier, a 43% year-over-year increase; 2025 full-year record revenue $16.99B, net income $1.27B; data-center and infrastructure awards driving fastest RPO growth across ~100 operating subsidiaries"
+   "fact": "Q2 2026 record revenue $5.15B, net income $403.7M; remaining performance obligations $17.14B in Q2 2026 versus $11.91B a year earlier, a 43% year-over-year increase; 2025 full-year record revenue $16.99B, net income $1.27B; data-center and infrastructure awards driving fastest RPO growth across ~100 operating subsidiaries",
+   "verified": true
   },
   {
    "company": "Ferguson Enterprises",
-   "fact": "Calendar-2025 net sales $31.3B, gross margin 31.0%, adjusted operating profit $3.011B, eight acquisitions with annualized revenue above $300M; 1,746 branches as of July 2025; five acquisitions completed in Q2 2026 plus FloWorks deal signed; Q2 2026 sales $8.751B with adjusted operating margin 10.7%, guidance raised to mid-single-digit growth"
+   "fact": "Calendar-2025 net sales $31.3B, gross margin 31.0%, adjusted operating profit $3.011B, eight acquisitions with annualized revenue above $300M; 1,746 branches as of July 2025; five acquisitions completed in Q2 2026 plus FloWorks deal signed; Q2 2026 sales $8.751B with adjusted operating margin 10.7%, guidance raised to mid-single-digit growth",
+   "verified": true
   },
   {
    "company": "DNOW Inc.",
-   "fact": "MRC Global acquisition closed November 2025 for approximately $1.76B net of cash; Q1 2026 first full combined quarter showed ERP transition disrupting collections—cash used in operating activities was $95M; Q2 2026 rebound with $133M operating cash flow and U.S. midstream revenue surpassing $1B annualized run rate for first time; $23M in first-year synergy savings already achieved, 35% above target"
+   "fact": "MRC Global acquisition closed November 2025 for approximately $1.76B net of cash; Q1 2026 first full combined quarter showed ERP transition disrupting collections—cash used in operating activities was $95M; Q2 2026 rebound with $133M operating cash flow and U.S. midstream revenue surpassing $1B annualized run rate for first time; $23M in first-year synergy savings already achieved, 35% above target",
+   "verified": true
   },
   {
    "company": "Cenovus Energy",
-   "fact": "Record upstream production 970.4 mboe/d in Q2 2026 after MEG acquisition; U.S. refining market capture fell from 114% in Q1 2026 to 67% in Q2 2026 despite record upstream volumes; total crude throughput 451.5 kbpd at 95% utilization—the clearest example in this batch of upstream integration not automatically translating into downstream execution"
+   "fact": "Record upstream production 970.4 mboe/d in Q2 2026 after MEG acquisition; U.S. refining market capture fell from 114% in Q1 2026 to 67% in Q2 2026 despite record upstream volumes; total crude throughput 451.5 kbpd at 95% utilization—the clearest example in this batch of upstream integration not automatically translating into downstream execution",
+   "verified": true
   },
   {
    "company": "Suncor Energy (Q4 2025 close)",
-   "fact": "Q4 2025 record Oil Sands bitumen production 992.7 mbbls/d, record net SCO production 557.0 mbbls/d, refinery crude processed 504.2 mbbls/d, refinery utilization 108%; annual targets set at 2024 Investor Day—C$3.3B annual increase in normalized free funds flow, US$10/bbl reduction in WTI breakeven, 100,000 bbls/d upstream production increase—all achieved a full year early"
+   "fact": "Q4 2025 record Oil Sands bitumen production 992.7 mbbls/d, record net SCO production 557.0 mbbls/d, refinery crude processed 504.2 mbbls/d, refinery utilization 108%; annual targets set at 2024 Investor Day—C$3.3B annual increase in normalized free funds flow, US$10/bbl reduction in WTI breakeven, 100,000 bbls/d upstream production increase—all achieved a full year early",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "Direct evidence that fully integrated platforms systematically outperform fragmented competitors on margin or resilience, OR that structural advantages like recycled-scrap inputs consistently derive from vertical integration rather than inherent input availability",
+  "contradicting_companies": [
+   {
+    "company": "Suncor Energy",
+    "fact": "Despite full integration across oil sands, upgrading, refining, and retail, Q4 2025 net earnings were only C$1.476B on C$12.8B adjusted funds from operations (11.5% net margin). Record volumes at every stage did not produce outsized shareholder returns or margin insulation—shareholder distributions (C$5.8B) fall short of operating cash generation, contradicting the claim that integration compounds structural advantages."
+   },
+   {
+    "company": "Cenovus Energy",
+    "fact": "Record upstream production of 970.4 mboe/d in Q2 2026 coexisted with U.S. refining market capture collapsing from 114% in Q1 to 67% in Q2. Integrated upstream and downstream failed to synchronize execution; downstream systems did not automatically benefit from upstream strength. This directly contradicts the thesis that integration 'creates switching costs through embedded workflows and logistics density.'"
+   },
+   {
+    "company": "DNOW Inc.",
+    "fact": "MRC Global merger resulted in Q1 2026 ERP transition breaking collections—a $1.3B+ quarterly distribution business generated near-zero adjusted net income ($3M) and negative operating cash flow in integration's first full quarter. This proves integration introduces fragility that can overwhelm operational execution, not just theoretical risk."
+   },
+   {
+    "company": "Commercial Metals Company",
+    "fact": "CMC's 14.2% EBITDA margin edge over competitors derives from 98% recycled-material sourcing, not from vertical integration into precast concrete. The $2.5B precast acquisition was chosen strategically but is not the source of structural advantage—the scrap input advantage pre-existed and is independent of downstream integration."
+   }
+  ],
+  "honest_caveat": "The packet data does not include non-integrated competitors operating at the same scale (fragmented plumbing distributors, independent scrap mills), so we observe integrated company outcomes relative to other integrated companies, not integrated vs. non-integrated. This prevents direct falsification of whether integration itself improves outcomes versus whether integrated firms simply have larger scale. Suncor, Cenovus, and EMCOR are presented as successful integrators, but the evidence shows they achieve lower margins and profitability than their structural advantages alone would suggest, raising the question of whether integration cost is actually eroding the structural advantage rather than multiplying it."
+ }
 }

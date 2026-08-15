@@ -1,0 +1,4436 @@
+{
+"trend_companies": {
+"gray-wave-dividend": [
+{
+"company": "AdaptHealth Corp.",
+"anchor": "adapthealth-corp"
+},
+{
+"company": "Addus HomeCare Corporation",
+"anchor": "addus-homecare-corporation"
+},
+{
+"company": "Aveanna Healthcare Holdings, Inc.",
+"anchor": "aveanna-healthcare-holdings-inc"
+},
+{
+"company": "Baxter International Inc.",
+"anchor": "baxter-international-inc"
+},
+{
+"company": "Becton, Dickinson and Company",
+"anchor": "becton-dickinson-and-company"
+},
+{
+"company": "BrightSpring Health Services, Inc.",
+"anchor": "brightspring-health-services-inc"
+},
+{
+"company": "Brookdale Senior Living Inc.",
+"anchor": "brookdale-senior-living-inc"
+},
+{
+"company": "Cencora Inc.",
+"anchor": "cencora-inc"
+},
+{
+"company": "Enhabit, Inc.",
+"anchor": "enhabit-inc"
+},
+{
+"company": "Natera, Inc.",
+"anchor": "natera-inc"
+},
+{
+"company": "Ventas Inc.",
+"anchor": "ventas-inc"
+},
+{
+"company": "Welltower Inc.",
+"anchor": "welltower-inc"
+},
+{
+"company": "West Pharmaceutical Services, Inc.",
+"anchor": "west-pharmaceutical-services-inc"
+}
+],
+"ai-infrastructure-toll": [
+{
+"company": "Comfort Systems USA, Inc.",
+"anchor": "comfort-systems-usa-inc"
+},
+{
+"company": "Commercial Metals Company",
+"anchor": "commercial-metals-company"
+},
+{
+"company": "Digital Realty Trust Inc.",
+"anchor": "digital-realty-trust-inc"
+},
+{
+"company": "Dycom Industries Inc.",
+"anchor": "dycom-industries-inc"
+},
+{
+"company": "EMCOR Group Inc.",
+"anchor": "emcor-group-inc"
+},
+{
+"company": "Generac Holdings Inc.",
+"anchor": "generac-holdings-inc"
+},
+{
+"company": "Knife River Corporation",
+"anchor": "knife-river-corporation"
+},
+{
+"company": "MYR Group Inc.",
+"anchor": "myr-group-inc"
+},
+{
+"company": "Martin Marietta Materials, Inc.",
+"anchor": "martin-marietta-materials-inc"
+},
+{
+"company": "Primoris Services Corporation",
+"anchor": "primoris-services-corporation"
+},
+{
+"company": "Quanta Services, Inc.",
+"anchor": "quanta-services-inc"
+},
+{
+"company": "Sterling Infrastructure, Inc.",
+"anchor": "sterling-infrastructure-inc"
+},
+{
+"company": "Vulcan Materials Company",
+"anchor": "vulcan-materials-company"
+}
+],
+"outage-anxiety-economy": [
+{
+"company": "Comfort Systems USA, Inc.",
+"anchor": "comfort-systems-usa-inc"
+},
+{
+"company": "Cummins Inc.",
+"anchor": "cummins-inc"
+},
+{
+"company": "Digital Realty Trust Inc.",
+"anchor": "digital-realty-trust-inc"
+},
+{
+"company": "EMCOR Group Inc.",
+"anchor": "emcor-group-inc"
+},
+{
+"company": "Eaton Corporation plc",
+"anchor": "eaton-corporation-plc"
+},
+{
+"company": "Generac Holdings Inc.",
+"anchor": "generac-holdings-inc"
+},
+{
+"company": "Kinder Morgan Inc.",
+"anchor": "kinder-morgan-inc"
+},
+{
+"company": "NextEra Energy, Inc.",
+"anchor": "nextera-energy-inc"
+},
+{
+"company": "Powell Industries, Inc.",
+"anchor": "powell-industries-inc"
+},
+{
+"company": "Sunrun Inc.",
+"anchor": "sunrun-inc"
+},
+{
+"company": "Trane Technologies plc",
+"anchor": "trane-technologies-plc"
+},
+{
+"company": "Williams Companies, Inc.",
+"anchor": "williams-companies-inc"
+}
+],
+"cash-harvest": [
+{
+"company": "American Express Company",
+"anchor": "american-express-company"
+},
+{
+"company": "BrightSpring Health Services, Inc.",
+"anchor": "brightspring-health-services-inc"
+},
+{
+"company": "CF Industries Holdings, Inc.",
+"anchor": "cf-industries-holdings-inc"
+},
+{
+"company": "Cencora Inc.",
+"anchor": "cencora-inc"
+},
+{
+"company": "Charter Communications, Inc.",
+"anchor": "charter-communications-inc"
+},
+{
+"company": "ConocoPhillips",
+"anchor": "conocophillips"
+},
+{
+"company": "EchoStar Corporation",
+"anchor": "echostar-corporation"
+},
+{
+"company": "Exxon Mobil Corporation",
+"anchor": "exxon-mobil-corporation"
+},
+{
+"company": "Marriott International, Inc.",
+"anchor": "marriott-international-inc"
+},
+{
+"company": "Nutrien Ltd.",
+"anchor": "nutrien-ltd"
+},
+{
+"company": "Philip Morris International",
+"anchor": "philip-morris-international"
+},
+{
+"company": "Planet Fitness, Inc.",
+"anchor": "planet-fitness-inc"
+},
+{
+"company": "Suncor Energy Inc.",
+"anchor": "suncor-energy-inc"
+},
+{
+"company": "Synchrony Financial",
+"anchor": "synchrony-financial"
+},
+{
+"company": "VeriSign Inc.",
+"anchor": "verisign-inc"
+}
+],
+"spread-machine": [
+{
+"company": "Applied Industrial Technologies, Inc.",
+"anchor": "applied-industrial-technologies-inc"
+},
+{
+"company": "Arrow Electronics Inc.",
+"anchor": "arrow-electronics-inc"
+},
+{
+"company": "C.H. Robinson Worldwide Inc.",
+"anchor": "c-h-robinson-worldwide-inc"
+},
+{
+"company": "Cardinal Health, Inc.",
+"anchor": "cardinal-health-inc"
+},
+{
+"company": "Casella Waste Systems Inc.",
+"anchor": "casella-waste-systems-inc"
+},
+{
+"company": "Cencora Inc.",
+"anchor": "cencora-inc"
+},
+{
+"company": "DNOW Inc.",
+"anchor": "dnow-inc"
+},
+{
+"company": "Enbridge Inc.",
+"anchor": "enbridge-inc"
+},
+{
+"company": "Energy Transfer LP",
+"anchor": "energy-transfer-lp"
+},
+{
+"company": "Fastenal Company",
+"anchor": "fastenal-company"
+},
+{
+"company": "Ferguson Enterprises Inc.",
+"anchor": "ferguson-enterprises-inc"
+},
+{
+"company": "McKesson Corporation",
+"anchor": "mckesson-corporation"
+},
+{
+"company": "Republic Services, Inc.",
+"anchor": "republic-services-inc"
+},
+{
+"company": "WESCO International Inc.",
+"anchor": "wesco-international-inc"
+},
+{
+"company": "Waste Management, Inc.",
+"anchor": "waste-management-inc"
+}
+],
+"vertical-integration-ratchet": [
+{
+"company": "Cardinal Health, Inc.",
+"anchor": "cardinal-health-inc"
+},
+{
+"company": "Casella Waste Systems Inc.",
+"anchor": "casella-waste-systems-inc"
+},
+{
+"company": "Cencora Inc.",
+"anchor": "cencora-inc"
+},
+{
+"company": "Cenovus Energy Inc.",
+"anchor": "cenovus-energy-inc"
+},
+{
+"company": "Clean Harbors Inc.",
+"anchor": "clean-harbors-inc"
+},
+{
+"company": "Cleveland-Cliffs Inc.",
+"anchor": "cleveland-cliffs-inc"
+},
+{
+"company": "Commercial Metals Company",
+"anchor": "commercial-metals-company"
+},
+{
+"company": "DNOW Inc.",
+"anchor": "dnow-inc"
+},
+{
+"company": "EMCOR Group Inc.",
+"anchor": "emcor-group-inc"
+},
+{
+"company": "Ferguson Enterprises Inc.",
+"anchor": "ferguson-enterprises-inc"
+},
+{
+"company": "Freeport-McMoRan Inc.",
+"anchor": "freeport-mcmoran-inc"
+},
+{
+"company": "Imperial Oil Limited",
+"anchor": "imperial-oil-limited"
+},
+{
+"company": "Knife River Corporation",
+"anchor": "knife-river-corporation"
+},
+{
+"company": "Nucor Corporation",
+"anchor": "nucor-corporation"
+},
+{
+"company": "Republic Services, Inc.",
+"anchor": "republic-services-inc"
+},
+{
+"company": "Suncor Energy Inc.",
+"anchor": "suncor-energy-inc"
+}
+],
+"trust-market": [
+{
+"company": "American Express Company",
+"anchor": "american-express-company"
+},
+{
+"company": "Brady Corporation",
+"anchor": "brady-corporation"
+},
+{
+"company": "Comscore, Inc.",
+"anchor": "comscore-inc"
+},
+{
+"company": "Fox Corporation",
+"anchor": "fox-corporation"
+},
+{
+"company": "Labcorp Holdings Inc.",
+"anchor": "labcorp-holdings-inc"
+},
+{
+"company": "Leidos Holdings Inc.",
+"anchor": "leidos-holdings-inc"
+},
+{
+"company": "Natera, Inc.",
+"anchor": "natera-inc"
+},
+{
+"company": "Nexstar Media Group, Inc.",
+"anchor": "nexstar-media-group-inc"
+},
+{
+"company": "The New York Times Company",
+"anchor": "the-new-york-times-company"
+},
+{
+"company": "The Trade Desk, Inc.",
+"anchor": "the-trade-desk-inc"
+}
+],
+"addiction-dividend": [
+{
+"company": "Amazon.com Inc.",
+"anchor": "amazon-com-inc"
+},
+{
+"company": "Bath & Body Works, Inc.",
+"anchor": "bath-body-works-inc"
+},
+{
+"company": "Chewy Inc.",
+"anchor": "chewy-inc"
+},
+{
+"company": "Colgate-Palmolive Co.",
+"anchor": "colgate-palmolive-co"
+},
+{
+"company": "DraftKings Inc.",
+"anchor": "draftkings-inc"
+},
+{
+"company": "Dutch Bros Inc.",
+"anchor": "dutch-bros-inc"
+},
+{
+"company": "Electronic Arts Inc.",
+"anchor": "electronic-arts-inc"
+},
+{
+"company": "Kohl's Corporation",
+"anchor": "kohl-s-corporation"
+},
+{
+"company": "McDonald's Corporation",
+"anchor": "mcdonald-s-corporation"
+},
+{
+"company": "Netflix, Inc.",
+"anchor": "netflix-inc"
+},
+{
+"company": "Philip Morris International",
+"anchor": "philip-morris-international"
+},
+{
+"company": "Planet Fitness, Inc.",
+"anchor": "planet-fitness-inc"
+},
+{
+"company": "Roblox Corporation",
+"anchor": "roblox-corporation"
+},
+{
+"company": "Roku Inc.",
+"anchor": "roku-inc"
+},
+{
+"company": "Sirius XM Holdings Inc.",
+"anchor": "sirius-xm-holdings-inc"
+},
+{
+"company": "Snap Inc.",
+"anchor": "snap-inc"
+},
+{
+"company": "Spotify Technology S.A.",
+"anchor": "spotify-technology-s-a"
+},
+{
+"company": "Starbucks Corporation",
+"anchor": "starbucks-corporation"
+}
+],
+"presence-premium": [
+{
+"company": "Comcast Corporation",
+"anchor": "comcast-corporation"
+},
+{
+"company": "DraftKings Inc.",
+"anchor": "draftkings-inc"
+},
+{
+"company": "EchoStar Corporation",
+"anchor": "echostar-corporation"
+},
+{
+"company": "Fox Corporation",
+"anchor": "fox-corporation"
+},
+{
+"company": "Hilton Worldwide Holdings Inc.",
+"anchor": "hilton-worldwide-holdings-inc"
+},
+{
+"company": "Host Hotels & Resorts, Inc.",
+"anchor": "host-hotels-resorts-inc"
+},
+{
+"company": "Marriott International, Inc.",
+"anchor": "marriott-international-inc"
+},
+{
+"company": "Netflix, Inc.",
+"anchor": "netflix-inc"
+},
+{
+"company": "Nexstar Media Group, Inc.",
+"anchor": "nexstar-media-group-inc"
+},
+{
+"company": "Sirius XM Holdings Inc.",
+"anchor": "sirius-xm-holdings-inc"
+},
+{
+"company": "Walt Disney Co.",
+"anchor": "walt-disney-co"
+}
+],
+"affordability-ceiling": [
+{
+"company": "ACCO Brands Corporation",
+"anchor": "acco-brands-corporation"
+},
+{
+"company": "Bath & Body Works, Inc.",
+"anchor": "bath-body-works-inc"
+},
+{
+"company": "Burlington Stores, Inc.",
+"anchor": "burlington-stores-inc"
+},
+{
+"company": "Deckers Outdoor Corp.",
+"anchor": "deckers-outdoor-corp"
+},
+{
+"company": "Dollar General Corporation",
+"anchor": "dollar-general-corporation"
+},
+{
+"company": "Dollar Tree, Inc.",
+"anchor": "dollar-tree-inc"
+},
+{
+"company": "Macy's Inc.",
+"anchor": "macy-s-inc"
+},
+{
+"company": "Mondelez International",
+"anchor": "mondelez-international"
+},
+{
+"company": "NIKE, Inc.",
+"anchor": "nike-inc"
+},
+{
+"company": "Ollie's Bargain Outlet Holdings, Inc.",
+"anchor": "ollie-s-bargain-outlet-holdings-inc"
+},
+{
+"company": "PepsiCo Inc.",
+"anchor": "pepsico-inc"
+},
+{
+"company": "Robert Half Inc.",
+"anchor": "robert-half-inc"
+},
+{
+"company": "Ross Stores, Inc.",
+"anchor": "ross-stores-inc"
+},
+{
+"company": "Tapestry, Inc.",
+"anchor": "tapestry-inc"
+},
+{
+"company": "The Home Depot, Inc.",
+"anchor": "the-home-depot-inc"
+},
+{
+"company": "The TJX Companies, Inc.",
+"anchor": "the-tjx-companies-inc"
+},
+{
+"company": "Ulta Beauty, Inc.",
+"anchor": "ulta-beauty-inc"
+},
+{
+"company": "YETI Holdings, Inc.",
+"anchor": "yeti-holdings-inc"
+}
+],
+"workers-invisible-tax": [
+{
+"company": "ABM Industries Inc.",
+"anchor": "abm-industries-inc"
+},
+{
+"company": "Applied Industrial Technologies, Inc.",
+"anchor": "applied-industrial-technologies-inc"
+},
+{
+"company": "Aveanna Healthcare Holdings, Inc.",
+"anchor": "aveanna-healthcare-holdings-inc"
+},
+{
+"company": "BrightSpring Health Services, Inc.",
+"anchor": "brightspring-health-services-inc"
+},
+{
+"company": "BrightView Holdings, Inc.",
+"anchor": "brightview-holdings-inc"
+},
+{
+"company": "Comfort Systems USA, Inc.",
+"anchor": "comfort-systems-usa-inc"
+},
+{
+"company": "ConocoPhillips",
+"anchor": "conocophillips"
+},
+{
+"company": "Diamondback Energy, Inc.",
+"anchor": "diamondback-energy-inc"
+},
+{
+"company": "Freeport-McMoRan Inc.",
+"anchor": "freeport-mcmoran-inc"
+},
+{
+"company": "Graphic Packaging Holding Company",
+"anchor": "graphic-packaging-holding-company"
+},
+{
+"company": "Halliburton Company",
+"anchor": "halliburton-company"
+},
+{
+"company": "MSC Industrial Direct",
+"anchor": "msc-industrial-direct"
+},
+{
+"company": "MasTec, Inc.",
+"anchor": "mastec-inc"
+},
+{
+"company": "Nutrien Ltd.",
+"anchor": "nutrien-ltd"
+},
+{
+"company": "Option Care Health, Inc.",
+"anchor": "option-care-health-inc"
+},
+{
+"company": "PepsiCo Inc.",
+"anchor": "pepsico-inc"
+},
+{
+"company": "The Mosaic Company",
+"anchor": "the-mosaic-company"
+},
+{
+"company": "Waste Management, Inc.",
+"anchor": "waste-management-inc"
+}
+],
+"screening-revolution": [
+{
+"company": "Abbott Laboratories",
+"anchor": "abbott-laboratories"
+},
+{
+"company": "Becton, Dickinson and Company",
+"anchor": "becton-dickinson-and-company"
+},
+{
+"company": "Exact Sciences Corporation",
+"anchor": "exact-sciences-corporation"
+},
+{
+"company": "Guardant Health Inc.",
+"anchor": "guardant-health-inc"
+},
+{
+"company": "Labcorp Holdings Inc.",
+"anchor": "labcorp-holdings-inc"
+},
+{
+"company": "Natera, Inc.",
+"anchor": "natera-inc"
+},
+{
+"company": "Quest Diagnostics",
+"anchor": "quest-diagnostics"
+},
+{
+"company": "Quest Diagnostics Incorporated",
+"anchor": "quest-diagnostics-incorporated"
+},
+{
+"company": "Regeneron Pharmaceuticals Inc.",
+"anchor": "regeneron-pharmaceuticals-inc"
+},
+{
+"company": "West Pharmaceutical Services, Inc.",
+"anchor": "west-pharmaceutical-services-inc"
+}
+],
+"local-news-collapse": [
+{
+"company": "Alphabet Inc.",
+"anchor": "alphabet-inc"
+},
+{
+"company": "Comcast Corporation",
+"anchor": "comcast-corporation"
+},
+{
+"company": "EchoStar Corporation",
+"anchor": "echostar-corporation"
+},
+{
+"company": "Fox Corporation",
+"anchor": "fox-corporation"
+},
+{
+"company": "Meta Platforms, Inc.",
+"anchor": "meta-platforms-inc"
+},
+{
+"company": "Nexstar Media Group, Inc.",
+"anchor": "nexstar-media-group-inc"
+},
+{
+"company": "Outbrain Inc. / Teads Holding Co.",
+"anchor": "outbrain-inc-teads-holding-co"
+},
+{
+"company": "PubMatic, Inc.",
+"anchor": "pubmatic-inc"
+},
+{
+"company": "Taboola.com Ltd.",
+"anchor": "taboola-com-ltd"
+},
+{
+"company": "The New York Times Company",
+"anchor": "the-new-york-times-company"
+},
+{
+"company": "The Trade Desk, Inc.",
+"anchor": "the-trade-desk-inc"
+},
+{
+"company": "iHeartMedia, Inc.",
+"anchor": "iheartmedia-inc"
+}
+],
+"ritual-economy": [
+{
+"company": "Build-A-Bear Workshop, Inc.",
+"anchor": "build-a-bear-workshop-inc"
+},
+{
+"company": "Chewy Inc.",
+"anchor": "chewy-inc"
+},
+{
+"company": "Colgate-Palmolive Co.",
+"anchor": "colgate-palmolive-co"
+},
+{
+"company": "Dutch Bros Inc.",
+"anchor": "dutch-bros-inc"
+},
+{
+"company": "Etsy, Inc.",
+"anchor": "etsy-inc"
+},
+{
+"company": "McDonald's Corporation",
+"anchor": "mcdonald-s-corporation"
+},
+{
+"company": "Signet Jewelers Limited",
+"anchor": "signet-jewelers-limited"
+},
+{
+"company": "Silgan Holdings Inc.",
+"anchor": "silgan-holdings-inc"
+},
+{
+"company": "Starbucks Corporation",
+"anchor": "starbucks-corporation"
+},
+{
+"company": "The Clorox Company",
+"anchor": "the-clorox-company"
+}
+],
+"ai-cultural-disintermediation": [
+{
+"company": "Affirm Holdings Inc.",
+"anchor": "affirm-holdings-inc"
+},
+{
+"company": "Airbnb Inc.",
+"anchor": "airbnb-inc"
+},
+{
+"company": "American Express Company",
+"anchor": "american-express-company"
+},
+{
+"company": "Etsy, Inc.",
+"anchor": "etsy-inc"
+},
+{
+"company": "Exact Sciences Corporation",
+"anchor": "exact-sciences-corporation"
+},
+{
+"company": "Forrester Research Inc.",
+"anchor": "forrester-research-inc"
+},
+{
+"company": "Gartner Inc.",
+"anchor": "gartner-inc"
+},
+{
+"company": "Korn Ferry",
+"anchor": "korn-ferry"
+},
+{
+"company": "Nexxen International Ltd.",
+"anchor": "nexxen-international-ltd"
+},
+{
+"company": "Omnicom Group Inc.",
+"anchor": "omnicom-group-inc"
+},
+{
+"company": "Shopify Inc.",
+"anchor": "shopify-inc"
+},
+{
+"company": "Stagwell Inc.",
+"anchor": "stagwell-inc"
+},
+{
+"company": "The Trade Desk, Inc.",
+"anchor": "the-trade-desk-inc"
+},
+{
+"company": "Upstart Holdings, Inc.",
+"anchor": "upstart-holdings-inc"
+}
+],
+"pet-economy-mirror": [
+{
+"company": "BrightSpring Health Services, Inc.",
+"anchor": "brightspring-health-services-inc"
+},
+{
+"company": "Build-A-Bear Workshop, Inc.",
+"anchor": "build-a-bear-workshop-inc"
+},
+{
+"company": "Chewy Inc.",
+"anchor": "chewy-inc"
+},
+{
+"company": "Colgate-Palmolive Co.",
+"anchor": "colgate-palmolive-co"
+},
+{
+"company": "Signet Jewelers Limited",
+"anchor": "signet-jewelers-limited"
+},
+{
+"company": "Silgan Holdings Inc.",
+"anchor": "silgan-holdings-inc"
+},
+{
+"company": "Starbucks Corporation",
+"anchor": "starbucks-corporation"
+}
+],
+"grids-new-landlords": [
+{
+"company": "Duke Energy Corporation",
+"anchor": "duke-energy-corporation"
+},
+{
+"company": "EQT Corporation",
+"anchor": "eqt-corporation"
+},
+{
+"company": "Enbridge Inc.",
+"anchor": "enbridge-inc"
+},
+{
+"company": "NextEra Energy, Inc.",
+"anchor": "nextera-energy-inc"
+},
+{
+"company": "ONE Gas, Inc.",
+"anchor": "one-gas-inc"
+},
+{
+"company": "ONEOK, Inc.",
+"anchor": "oneok-inc"
+},
+{
+"company": "TC Energy Corporation",
+"anchor": "tc-energy-corporation"
+},
+{
+"company": "Williams Companies, Inc.",
+"anchor": "williams-companies-inc"
+}
+],
+"membership-or-nothing": [
+{
+"company": "Amazon.com Inc.",
+"anchor": "amazon-com-inc"
+},
+{
+"company": "American Express Company",
+"anchor": "american-express-company"
+},
+{
+"company": "Bath & Body Works, Inc.",
+"anchor": "bath-body-works-inc"
+},
+{
+"company": "Chewy Inc.",
+"anchor": "chewy-inc"
+},
+{
+"company": "DoorDash Inc.",
+"anchor": "doordash-inc"
+},
+{
+"company": "Marriott International, Inc.",
+"anchor": "marriott-international-inc"
+},
+{
+"company": "Netflix, Inc.",
+"anchor": "netflix-inc"
+},
+{
+"company": "Planet Fitness, Inc.",
+"anchor": "planet-fitness-inc"
+},
+{
+"company": "Shopify Inc.",
+"anchor": "shopify-inc"
+},
+{
+"company": "Sirius XM Holdings Inc.",
+"anchor": "sirius-xm-holdings-inc"
+},
+{
+"company": "Starbucks Corporation",
+"anchor": "starbucks-corporation"
+},
+{
+"company": "Sunrun Inc.",
+"anchor": "sunrun-inc"
+},
+{
+"company": "The New York Times Company",
+"anchor": "the-new-york-times-company"
+}
+],
+"commodity-whiplash-transfer": [
+{
+"company": "Ball Corporation",
+"anchor": "ball-corporation"
+},
+{
+"company": "CF Industries Holdings, Inc.",
+"anchor": "cf-industries-holdings-inc"
+},
+{
+"company": "Cleveland-Cliffs Inc.",
+"anchor": "cleveland-cliffs-inc"
+},
+{
+"company": "Commercial Metals Company",
+"anchor": "commercial-metals-company"
+},
+{
+"company": "Crown Holdings, Inc.",
+"anchor": "crown-holdings-inc"
+},
+{
+"company": "Eastman Kodak Company",
+"anchor": "eastman-kodak-company"
+},
+{
+"company": "Freeport-McMoRan Inc.",
+"anchor": "freeport-mcmoran-inc"
+},
+{
+"company": "Glencore plc",
+"anchor": "glencore-plc"
+},
+{
+"company": "Mondelez International",
+"anchor": "mondelez-international"
+},
+{
+"company": "Nucor Corporation",
+"anchor": "nucor-corporation"
+},
+{
+"company": "Nutrien Ltd.",
+"anchor": "nutrien-ltd"
+},
+{
+"company": "PepsiCo Inc.",
+"anchor": "pepsico-inc"
+},
+{
+"company": "Reliance Steel & Aluminum Co.",
+"anchor": "reliance-steel-aluminum-co"
+},
+{
+"company": "Silgan Holdings Inc.",
+"anchor": "silgan-holdings-inc"
+},
+{
+"company": "Sonoco Products Co.",
+"anchor": "sonoco-products-co"
+},
+{
+"company": "Steel Dynamics, Inc.",
+"anchor": "steel-dynamics-inc"
+},
+{
+"company": "The Mosaic Company",
+"anchor": "the-mosaic-company"
+}
+],
+"private-capital-colonization": [
+{
+"company": "Affirm Holdings Inc.",
+"anchor": "affirm-holdings-inc"
+},
+{
+"company": "American Express Company",
+"anchor": "american-express-company"
+},
+{
+"company": "Apollo Global Management, Inc.",
+"anchor": "apollo-global-management-inc"
+},
+{
+"company": "Ares Management Corporation",
+"anchor": "ares-management-corporation"
+},
+{
+"company": "Berkshire Hathaway Inc.",
+"anchor": "berkshire-hathaway-inc"
+},
+{
+"company": "Blackstone Inc.",
+"anchor": "blackstone-inc"
+},
+{
+"company": "Brookfield Corporation",
+"anchor": "brookfield-corporation"
+},
+{
+"company": "Franklin Resources, Inc.",
+"anchor": "franklin-resources-inc"
+},
+{
+"company": "Invesco Ltd.",
+"anchor": "invesco-ltd"
+},
+{
+"company": "KKR & Co. Inc.",
+"anchor": "kkr-co-inc"
+},
+{
+"company": "Loews Corporation",
+"anchor": "loews-corporation"
+},
+{
+"company": "Marsh & McLennan Companies, Inc.",
+"anchor": "marsh-mclennan-companies-inc"
+},
+{
+"company": "MetLife, Inc.",
+"anchor": "metlife-inc"
+},
+{
+"company": "Prudential Financial, Inc.",
+"anchor": "prudential-financial-inc"
+},
+{
+"company": "The Carlyle Group Inc.",
+"anchor": "the-carlyle-group-inc"
+},
+{
+"company": "The PNC Financial Services Group, Inc.",
+"anchor": "the-pnc-financial-services-group-inc"
+}
+],
+"the-inflection-point.json": [
+{
+"company": "Generac Holdings Inc.",
+"anchor": "generac-holdings-inc"
+},
+{
+"company": "NextEra Energy, Inc.",
+"anchor": "nextera-energy-inc"
+},
+{
+"company": "Williams Companies, Inc.",
+"anchor": "williams-companies-inc"
+}
+],
+"waste-route-density.json": [
+{
+"company": "Casella Waste Systems Inc.",
+"anchor": "casella-waste-systems-inc"
+},
+{
+"company": "Republic Services, Inc.",
+"anchor": "republic-services-inc"
+},
+{
+"company": "Waste Management, Inc.",
+"anchor": "waste-management-inc"
+}
+],
+"national-scale-works-local-scale-doesnt.json": [
+{
+"company": "Nexstar Media Group, Inc.",
+"anchor": "nexstar-media-group-inc"
+},
+{
+"company": "The New York Times Company",
+"anchor": "the-new-york-times-company"
+}
+],
+"sub-pattern-industrial-contract-lag.json": [
+{
+"company": "Cleveland-Cliffs Inc.",
+"anchor": "cleveland-cliffs-inc"
+},
+{
+"company": "Commercial Metals Company",
+"anchor": "commercial-metals-company"
+},
+{
+"company": "Nucor Corporation",
+"anchor": "nucor-corporation"
+},
+{
+"company": "Steel Dynamics, Inc.",
+"anchor": "steel-dynamics-inc"
+}
+],
+"who-pays-burden-carriers.json": [
+{
+"company": "Affirm Holdings Inc.",
+"anchor": "affirm-holdings-inc"
+},
+{
+"company": "American Express Company",
+"anchor": "american-express-company"
+},
+{
+"company": "Loews Corporation",
+"anchor": "loews-corporation"
+},
+{
+"company": "The Carlyle Group Inc.",
+"anchor": "the-carlyle-group-inc"
+}
+],
+"ticketing-moat.json": [],
+"company-deepdive-echostar.json": [
+{
+"company": "Charter Communications, Inc.",
+"anchor": "charter-communications-inc"
+},
+{
+"company": "EchoStar Corporation",
+"anchor": "echostar-corporation"
+}
+],
+"service-labor-squeeze.json": [
+{
+"company": "Aveanna Healthcare Holdings, Inc.",
+"anchor": "aveanna-healthcare-holdings-inc"
+},
+{
+"company": "BrightView Holdings, Inc.",
+"anchor": "brightview-holdings-inc"
+},
+{
+"company": "Comfort Systems USA, Inc.",
+"anchor": "comfort-systems-usa-inc"
+}
+],
+"who-profits.json": [
+{
+"company": "Cummins Inc.",
+"anchor": "cummins-inc"
+},
+{
+"company": "EMCOR Group Inc.",
+"anchor": "emcor-group-inc"
+},
+{
+"company": "Generac Holdings Inc.",
+"anchor": "generac-holdings-inc"
+},
+{
+"company": "Sunrun Inc.",
+"anchor": "sunrun-inc"
+}
+],
+"company-deepdive-williams.json": [],
+"off-price-as-the-new-middle.json": [
+{
+"company": "Burlington Stores, Inc.",
+"anchor": "burlington-stores-inc"
+},
+{
+"company": "Ollie's Bargain Outlet Holdings, Inc.",
+"anchor": "ollie-s-bargain-outlet-holdings-inc"
+},
+{
+"company": "Ross Stores, Inc.",
+"anchor": "ross-stores-inc"
+},
+{
+"company": "The TJX Companies, Inc.",
+"anchor": "the-tjx-companies-inc"
+}
+],
+"the-overdiagnosis-tension.json": [
+{
+"company": "Exact Sciences Corporation",
+"anchor": "exact-sciences-corporation"
+},
+{
+"company": "Guardant Health Inc.",
+"anchor": "guardant-health-inc"
+},
+{
+"company": "Natera, Inc.",
+"anchor": "natera-inc"
+},
+{
+"company": "Quest Diagnostics Incorporated",
+"anchor": "quest-diagnostics-incorporated"
+}
+],
+"the-acquisition-wave.json": [
+{
+"company": "Cenovus Energy Inc.",
+"anchor": "cenovus-energy-inc"
+},
+{
+"company": "Commercial Metals Company",
+"anchor": "commercial-metals-company"
+},
+{
+"company": "DNOW Inc.",
+"anchor": "dnow-inc"
+},
+{
+"company": "Ferguson Enterprises Inc.",
+"anchor": "ferguson-enterprises-inc"
+}
+],
+"pharma-toll-road.json": [
+{
+"company": "Cardinal Health, Inc.",
+"anchor": "cardinal-health-inc"
+},
+{
+"company": "Cencora Inc.",
+"anchor": "cencora-inc"
+},
+{
+"company": "McKesson Corporation",
+"anchor": "mckesson-corporation"
+}
+],
+"tension-stranded-asset-demand-risk.json": [
+{
+"company": "Enbridge Inc.",
+"anchor": "enbridge-inc"
+}
+],
+"accountability-gap-tension.json": [
+{
+"company": "Affirm Holdings Inc.",
+"anchor": "affirm-holdings-inc"
+},
+{
+"company": "Airbnb Inc.",
+"anchor": "airbnb-inc"
+},
+{
+"company": "Exact Sciences Corporation",
+"anchor": "exact-sciences-corporation"
+},
+{
+"company": "Forrester Research Inc.",
+"anchor": "forrester-research-inc"
+},
+{
+"company": "Upstart Holdings, Inc.",
+"anchor": "upstart-holdings-inc"
+}
+],
+"pension-liability-assumption.json": [
+{
+"company": "Marsh & McLennan Companies, Inc.",
+"anchor": "marsh-mclennan-companies-inc"
+},
+{
+"company": "MetLife, Inc.",
+"anchor": "metlife-inc"
+},
+{
+"company": "Prudential Financial, Inc.",
+"anchor": "prudential-financial-inc"
+},
+{
+"company": "The Carlyle Group Inc.",
+"anchor": "the-carlyle-group-inc"
+}
+],
+"credit-without-underwriters.json": [
+{
+"company": "Affirm Holdings Inc.",
+"anchor": "affirm-holdings-inc"
+},
+{
+"company": "Upstart Holdings, Inc.",
+"anchor": "upstart-holdings-inc"
+}
+],
+"who-profits-compounding-economics.json": [
+{
+"company": "American Express Company",
+"anchor": "american-express-company"
+},
+{
+"company": "Chewy Inc.",
+"anchor": "chewy-inc"
+},
+{
+"company": "Sirius XM Holdings Inc.",
+"anchor": "sirius-xm-holdings-inc"
+}
+]
+},
+"company_trends": {
+"aveanna-healthcare-holdings-inc": [
+"gray-wave-dividend",
+"service-labor-squeeze.json",
+"workers-invisible-tax"
+],
+"brookdale-senior-living-inc": [
+"gray-wave-dividend"
+],
+"becton-dickinson-and-company": [
+"gray-wave-dividend",
+"screening-revolution"
+],
+"ventas-inc": [
+"gray-wave-dividend"
+],
+"brightspring-health-services-inc": [
+"cash-harvest",
+"gray-wave-dividend",
+"pet-economy-mirror",
+"workers-invisible-tax"
+],
+"baxter-international-inc": [
+"gray-wave-dividend"
+],
+"adapthealth-corp": [
+"gray-wave-dividend"
+],
+"welltower-inc": [
+"gray-wave-dividend"
+],
+"addus-homecare-corporation": [
+"gray-wave-dividend"
+],
+"west-pharmaceutical-services-inc": [
+"gray-wave-dividend",
+"screening-revolution"
+],
+"cencora-inc": [
+"cash-harvest",
+"gray-wave-dividend",
+"pharma-toll-road.json",
+"spread-machine",
+"vertical-integration-ratchet"
+],
+"enhabit-inc": [
+"gray-wave-dividend"
+],
+"natera-inc": [
+"gray-wave-dividend",
+"screening-revolution",
+"the-overdiagnosis-tension.json",
+"trust-market"
+],
+"comfort-systems-usa-inc": [
+"ai-infrastructure-toll",
+"outage-anxiety-economy",
+"service-labor-squeeze.json",
+"workers-invisible-tax"
+],
+"generac-holdings-inc": [
+"ai-infrastructure-toll",
+"outage-anxiety-economy",
+"the-inflection-point.json",
+"who-profits.json"
+],
+"primoris-services-corporation": [
+"ai-infrastructure-toll"
+],
+"dycom-industries-inc": [
+"ai-infrastructure-toll"
+],
+"commercial-metals-company": [
+"ai-infrastructure-toll",
+"commodity-whiplash-transfer",
+"sub-pattern-industrial-contract-lag.json",
+"the-acquisition-wave.json",
+"vertical-integration-ratchet"
+],
+"knife-river-corporation": [
+"ai-infrastructure-toll",
+"vertical-integration-ratchet"
+],
+"vulcan-materials-company": [
+"ai-infrastructure-toll"
+],
+"emcor-group-inc": [
+"ai-infrastructure-toll",
+"outage-anxiety-economy",
+"vertical-integration-ratchet",
+"who-profits.json"
+],
+"myr-group-inc": [
+"ai-infrastructure-toll"
+],
+"martin-marietta-materials-inc": [
+"ai-infrastructure-toll"
+],
+"quanta-services-inc": [
+"ai-infrastructure-toll"
+],
+"digital-realty-trust-inc": [
+"ai-infrastructure-toll",
+"outage-anxiety-economy"
+],
+"sterling-infrastructure-inc": [
+"ai-infrastructure-toll"
+],
+"trane-technologies-plc": [
+"outage-anxiety-economy"
+],
+"eaton-corporation-plc": [
+"outage-anxiety-economy"
+],
+"williams-companies-inc": [
+"grids-new-landlords",
+"outage-anxiety-economy",
+"the-inflection-point.json"
+],
+"sunrun-inc": [
+"membership-or-nothing",
+"outage-anxiety-economy",
+"who-profits.json"
+],
+"nextera-energy-inc": [
+"grids-new-landlords",
+"outage-anxiety-economy",
+"the-inflection-point.json"
+],
+"powell-industries-inc": [
+"outage-anxiety-economy"
+],
+"cummins-inc": [
+"outage-anxiety-economy",
+"who-profits.json"
+],
+"kinder-morgan-inc": [
+"outage-anxiety-economy"
+],
+"synchrony-financial": [
+"cash-harvest"
+],
+"marriott-international-inc": [
+"cash-harvest",
+"membership-or-nothing",
+"presence-premium"
+],
+"conocophillips": [
+"cash-harvest",
+"workers-invisible-tax"
+],
+"echostar-corporation": [
+"cash-harvest",
+"company-deepdive-echostar.json",
+"local-news-collapse",
+"presence-premium"
+],
+"exxon-mobil-corporation": [
+"cash-harvest"
+],
+"nutrien-ltd": [
+"cash-harvest",
+"commodity-whiplash-transfer",
+"workers-invisible-tax"
+],
+"verisign-inc": [
+"cash-harvest"
+],
+"planet-fitness-inc": [
+"addiction-dividend",
+"cash-harvest",
+"membership-or-nothing"
+],
+"american-express-company": [
+"ai-cultural-disintermediation",
+"cash-harvest",
+"membership-or-nothing",
+"private-capital-colonization",
+"trust-market",
+"who-pays-burden-carriers.json",
+"who-profits-compounding-economics.json"
+],
+"philip-morris-international": [
+"addiction-dividend",
+"cash-harvest"
+],
+"charter-communications-inc": [
+"cash-harvest",
+"company-deepdive-echostar.json"
+],
+"cf-industries-holdings-inc": [
+"cash-harvest",
+"commodity-whiplash-transfer"
+],
+"suncor-energy-inc": [
+"cash-harvest",
+"vertical-integration-ratchet"
+],
+"republic-services-inc": [
+"spread-machine",
+"vertical-integration-ratchet",
+"waste-route-density.json"
+],
+"waste-management-inc": [
+"spread-machine",
+"waste-route-density.json",
+"workers-invisible-tax"
+],
+"cardinal-health-inc": [
+"pharma-toll-road.json",
+"spread-machine",
+"vertical-integration-ratchet"
+],
+"ferguson-enterprises-inc": [
+"spread-machine",
+"the-acquisition-wave.json",
+"vertical-integration-ratchet"
+],
+"enbridge-inc": [
+"grids-new-landlords",
+"spread-machine",
+"tension-stranded-asset-demand-risk.json"
+],
+"mckesson-corporation": [
+"pharma-toll-road.json",
+"spread-machine"
+],
+"arrow-electronics-inc": [
+"spread-machine"
+],
+"c-h-robinson-worldwide-inc": [
+"spread-machine"
+],
+"energy-transfer-lp": [
+"spread-machine"
+],
+"dnow-inc": [
+"spread-machine",
+"the-acquisition-wave.json",
+"vertical-integration-ratchet"
+],
+"wesco-international-inc": [
+"spread-machine"
+],
+"applied-industrial-technologies-inc": [
+"spread-machine",
+"workers-invisible-tax"
+],
+"casella-waste-systems-inc": [
+"spread-machine",
+"vertical-integration-ratchet",
+"waste-route-density.json"
+],
+"fastenal-company": [
+"spread-machine"
+],
+"cenovus-energy-inc": [
+"the-acquisition-wave.json",
+"vertical-integration-ratchet"
+],
+"freeport-mcmoran-inc": [
+"commodity-whiplash-transfer",
+"vertical-integration-ratchet",
+"workers-invisible-tax"
+],
+"imperial-oil-limited": [
+"vertical-integration-ratchet"
+],
+"nucor-corporation": [
+"commodity-whiplash-transfer",
+"sub-pattern-industrial-contract-lag.json",
+"vertical-integration-ratchet"
+],
+"cleveland-cliffs-inc": [
+"commodity-whiplash-transfer",
+"sub-pattern-industrial-contract-lag.json",
+"vertical-integration-ratchet"
+],
+"clean-harbors-inc": [
+"vertical-integration-ratchet"
+],
+"fox-corporation": [
+"local-news-collapse",
+"presence-premium",
+"trust-market"
+],
+"comscore-inc": [
+"trust-market"
+],
+"labcorp-holdings-inc": [
+"screening-revolution",
+"trust-market"
+],
+"leidos-holdings-inc": [
+"trust-market"
+],
+"nexstar-media-group-inc": [
+"local-news-collapse",
+"national-scale-works-local-scale-doesnt.json",
+"presence-premium",
+"trust-market"
+],
+"the-new-york-times-company": [
+"local-news-collapse",
+"membership-or-nothing",
+"national-scale-works-local-scale-doesnt.json",
+"trust-market"
+],
+"the-trade-desk-inc": [
+"ai-cultural-disintermediation",
+"local-news-collapse",
+"trust-market"
+],
+"brady-corporation": [
+"trust-market"
+],
+"roblox-corporation": [
+"addiction-dividend"
+],
+"chewy-inc": [
+"addiction-dividend",
+"membership-or-nothing",
+"pet-economy-mirror",
+"ritual-economy",
+"who-profits-compounding-economics.json"
+],
+"netflix-inc": [
+"addiction-dividend",
+"membership-or-nothing",
+"presence-premium"
+],
+"kohl-s-corporation": [
+"addiction-dividend"
+],
+"amazon-com-inc": [
+"addiction-dividend",
+"membership-or-nothing"
+],
+"electronic-arts-inc": [
+"addiction-dividend"
+],
+"draftkings-inc": [
+"addiction-dividend",
+"presence-premium"
+],
+"snap-inc": [
+"addiction-dividend"
+],
+"roku-inc": [
+"addiction-dividend"
+],
+"starbucks-corporation": [
+"addiction-dividend",
+"membership-or-nothing",
+"pet-economy-mirror",
+"ritual-economy"
+],
+"sirius-xm-holdings-inc": [
+"addiction-dividend",
+"membership-or-nothing",
+"presence-premium",
+"who-profits-compounding-economics.json"
+],
+"bath-body-works-inc": [
+"addiction-dividend",
+"affordability-ceiling",
+"membership-or-nothing"
+],
+"spotify-technology-s-a": [
+"addiction-dividend"
+],
+"colgate-palmolive-co": [
+"addiction-dividend",
+"pet-economy-mirror",
+"ritual-economy"
+],
+"dutch-bros-inc": [
+"addiction-dividend",
+"ritual-economy"
+],
+"mcdonald-s-corporation": [
+"addiction-dividend",
+"ritual-economy"
+],
+"host-hotels-resorts-inc": [
+"presence-premium"
+],
+"comcast-corporation": [
+"local-news-collapse",
+"presence-premium"
+],
+"walt-disney-co": [
+"presence-premium"
+],
+"hilton-worldwide-holdings-inc": [
+"presence-premium"
+],
+"burlington-stores-inc": [
+"affordability-ceiling",
+"off-price-as-the-new-middle.json"
+],
+"pepsico-inc": [
+"affordability-ceiling",
+"commodity-whiplash-transfer",
+"workers-invisible-tax"
+],
+"deckers-outdoor-corp": [
+"affordability-ceiling"
+],
+"the-home-depot-inc": [
+"affordability-ceiling"
+],
+"mondelez-international": [
+"affordability-ceiling",
+"commodity-whiplash-transfer"
+],
+"the-tjx-companies-inc": [
+"affordability-ceiling",
+"off-price-as-the-new-middle.json"
+],
+"dollar-tree-inc": [
+"affordability-ceiling"
+],
+"yeti-holdings-inc": [
+"affordability-ceiling"
+],
+"tapestry-inc": [
+"affordability-ceiling"
+],
+"ross-stores-inc": [
+"affordability-ceiling",
+"off-price-as-the-new-middle.json"
+],
+"macy-s-inc": [
+"affordability-ceiling"
+],
+"acco-brands-corporation": [
+"affordability-ceiling"
+],
+"nike-inc": [
+"affordability-ceiling"
+],
+"dollar-general-corporation": [
+"affordability-ceiling"
+],
+"robert-half-inc": [
+"affordability-ceiling"
+],
+"ulta-beauty-inc": [
+"affordability-ceiling"
+],
+"ollie-s-bargain-outlet-holdings-inc": [
+"affordability-ceiling",
+"off-price-as-the-new-middle.json"
+],
+"option-care-health-inc": [
+"workers-invisible-tax"
+],
+"the-mosaic-company": [
+"commodity-whiplash-transfer",
+"workers-invisible-tax"
+],
+"diamondback-energy-inc": [
+"workers-invisible-tax"
+],
+"msc-industrial-direct": [
+"workers-invisible-tax"
+],
+"brightview-holdings-inc": [
+"service-labor-squeeze.json",
+"workers-invisible-tax"
+],
+"abm-industries-inc": [
+"workers-invisible-tax"
+],
+"halliburton-company": [
+"workers-invisible-tax"
+],
+"graphic-packaging-holding-company": [
+"workers-invisible-tax"
+],
+"mastec-inc": [
+"workers-invisible-tax"
+],
+"exact-sciences-corporation": [
+"accountability-gap-tension.json",
+"ai-cultural-disintermediation",
+"screening-revolution",
+"the-overdiagnosis-tension.json"
+],
+"regeneron-pharmaceuticals-inc": [
+"screening-revolution"
+],
+"abbott-laboratories": [
+"screening-revolution"
+],
+"guardant-health-inc": [
+"screening-revolution",
+"the-overdiagnosis-tension.json"
+],
+"quest-diagnostics-incorporated": [
+"screening-revolution",
+"the-overdiagnosis-tension.json"
+],
+"quest-diagnostics": [
+"screening-revolution"
+],
+"alphabet-inc": [
+"local-news-collapse"
+],
+"iheartmedia-inc": [
+"local-news-collapse"
+],
+"pubmatic-inc": [
+"local-news-collapse"
+],
+"meta-platforms-inc": [
+"local-news-collapse"
+],
+"outbrain-inc-teads-holding-co": [
+"local-news-collapse"
+],
+"taboola-com-ltd": [
+"local-news-collapse"
+],
+"silgan-holdings-inc": [
+"commodity-whiplash-transfer",
+"pet-economy-mirror",
+"ritual-economy"
+],
+"etsy-inc": [
+"ai-cultural-disintermediation",
+"ritual-economy"
+],
+"build-a-bear-workshop-inc": [
+"pet-economy-mirror",
+"ritual-economy"
+],
+"the-clorox-company": [
+"ritual-economy"
+],
+"signet-jewelers-limited": [
+"pet-economy-mirror",
+"ritual-economy"
+],
+"nexxen-international-ltd": [
+"ai-cultural-disintermediation"
+],
+"shopify-inc": [
+"ai-cultural-disintermediation",
+"membership-or-nothing"
+],
+"airbnb-inc": [
+"accountability-gap-tension.json",
+"ai-cultural-disintermediation"
+],
+"affirm-holdings-inc": [
+"accountability-gap-tension.json",
+"ai-cultural-disintermediation",
+"credit-without-underwriters.json",
+"private-capital-colonization",
+"who-pays-burden-carriers.json"
+],
+"upstart-holdings-inc": [
+"accountability-gap-tension.json",
+"ai-cultural-disintermediation",
+"credit-without-underwriters.json"
+],
+"forrester-research-inc": [
+"accountability-gap-tension.json",
+"ai-cultural-disintermediation"
+],
+"korn-ferry": [
+"ai-cultural-disintermediation"
+],
+"omnicom-group-inc": [
+"ai-cultural-disintermediation"
+],
+"stagwell-inc": [
+"ai-cultural-disintermediation"
+],
+"gartner-inc": [
+"ai-cultural-disintermediation"
+],
+"eqt-corporation": [
+"grids-new-landlords"
+],
+"oneok-inc": [
+"grids-new-landlords"
+],
+"duke-energy-corporation": [
+"grids-new-landlords"
+],
+"tc-energy-corporation": [
+"grids-new-landlords"
+],
+"one-gas-inc": [
+"grids-new-landlords"
+],
+"doordash-inc": [
+"membership-or-nothing"
+],
+"ball-corporation": [
+"commodity-whiplash-transfer"
+],
+"reliance-steel-aluminum-co": [
+"commodity-whiplash-transfer"
+],
+"steel-dynamics-inc": [
+"commodity-whiplash-transfer",
+"sub-pattern-industrial-contract-lag.json"
+],
+"glencore-plc": [
+"commodity-whiplash-transfer"
+],
+"sonoco-products-co": [
+"commodity-whiplash-transfer"
+],
+"crown-holdings-inc": [
+"commodity-whiplash-transfer"
+],
+"eastman-kodak-company": [
+"commodity-whiplash-transfer"
+],
+"the-carlyle-group-inc": [
+"pension-liability-assumption.json",
+"private-capital-colonization",
+"who-pays-burden-carriers.json"
+],
+"prudential-financial-inc": [
+"pension-liability-assumption.json",
+"private-capital-colonization"
+],
+"kkr-co-inc": [
+"private-capital-colonization"
+],
+"blackstone-inc": [
+"private-capital-colonization"
+],
+"brookfield-corporation": [
+"private-capital-colonization"
+],
+"franklin-resources-inc": [
+"private-capital-colonization"
+],
+"berkshire-hathaway-inc": [
+"private-capital-colonization"
+],
+"the-pnc-financial-services-group-inc": [
+"private-capital-colonization"
+],
+"metlife-inc": [
+"pension-liability-assumption.json",
+"private-capital-colonization"
+],
+"ares-management-corporation": [
+"private-capital-colonization"
+],
+"marsh-mclennan-companies-inc": [
+"pension-liability-assumption.json",
+"private-capital-colonization"
+],
+"invesco-ltd": [
+"private-capital-colonization"
+],
+"apollo-global-management-inc": [
+"private-capital-colonization"
+],
+"loews-corporation": [
+"private-capital-colonization",
+"who-pays-burden-carriers.json"
+]
+},
+"registry": {
+"macys": {
+"company": "Macy's Inc.",
+"sector": "Consumer Goods",
+"anchor": "macy-s-inc"
+},
+"aptargroup": {
+"company": "AptarGroup Inc.",
+"sector": "Consumer Goods",
+"anchor": "aptargroup-inc"
+},
+"brinks": {
+"company": "The Brink's Company",
+"sector": "Industrial Goods",
+"anchor": "the-brink-s-company"
+},
+"amazoncom": {
+"company": "Amazon.com Inc.",
+"sector": "Retail",
+"anchor": "amazon-com-inc"
+},
+"kohls": {
+"company": "Kohl's Corporation",
+"sector": "Services",
+"anchor": "kohl-s-corporation"
+},
+"mcdonalds": {
+"company": "McDonald's Corporation",
+"sector": "Services",
+"anchor": "mcdonald-s-corporation"
+},
+"starbucks": {
+"company": "Starbucks Corporation",
+"sector": "Services",
+"anchor": "starbucks-corporation"
+},
+"att": {
+"company": "AT&T Inc.",
+"sector": "Services",
+"anchor": "at-t-inc"
+},
+"roku": {
+"company": "Roku Inc.",
+"sector": "Services",
+"anchor": "roku-inc"
+},
+"affirm": {
+"company": "Affirm Holdings Inc.",
+"sector": "Technology",
+"anchor": "affirm-holdings-inc"
+},
+"canon": {
+"company": "Canon Inc.",
+"sector": "Technology",
+"anchor": "canon-inc"
+},
+"purestorage": {
+"company": "Pure Storage Inc.",
+"sector": "Technology",
+"anchor": "pure-storage-inc"
+},
+"echostar": {
+"company": "EchoStar Corporation",
+"sector": "Technology",
+"anchor": "echostar-corporation"
+},
+"arrowelectronics": {
+"company": "Arrow Electronics Inc.",
+"sector": "Technology",
+"anchor": "arrow-electronics-inc"
+},
+"accenture": {
+"company": "Accenture plc",
+"sector": "Technology",
+"anchor": "accenture-plc"
+},
+"leidos": {
+"company": "Leidos Holdings Inc.",
+"sector": "Technology",
+"anchor": "leidos-holdings-inc"
+},
+"shopify": {
+"company": "Shopify Inc.",
+"sector": "Technology",
+"anchor": "shopify-inc"
+},
+"verisign": {
+"company": "VeriSign Inc.",
+"sector": "Technology",
+"anchor": "verisign-inc"
+},
+"fortinet": {
+"company": "Fortinet Inc.",
+"sector": "Technology",
+"anchor": "fortinet-inc"
+},
+"gartner": {
+"company": "Gartner Inc.",
+"sector": "Technology",
+"anchor": "gartner-inc"
+},
+"intel": {
+"company": "Intel Corporation",
+"sector": "Technology",
+"anchor": "intel-corporation"
+},
+"teradyne": {
+"company": "Teradyne Inc.",
+"sector": "Technology",
+"anchor": "teradyne-inc"
+},
+"sunrun": {
+"company": "Sunrun Inc.",
+"sector": "Technology",
+"anchor": "sunrun-inc"
+},
+"essentialutilities": {
+"company": "Essential Utilities Inc.",
+"sector": "Utilities",
+"anchor": "essential-utilities-inc"
+},
+"cfindustries": {
+"company": "CF Industries Holdings, Inc.",
+"sector": "Basic Materials",
+"anchor": "cf-industries-holdings-inc"
+},
+"kniferiver": {
+"company": "Knife River Corporation",
+"sector": "Basic Materials",
+"anchor": "knife-river-corporation"
+},
+"conocophillips": {
+"company": "ConocoPhillips",
+"sector": "Basic Materials",
+"anchor": "conocophillips"
+},
+"comscore": {
+"company": "Comscore, Inc.",
+"sector": "Consumer Goods",
+"anchor": "comscore-inc"
+},
+"grandcanyoneducation": {
+"company": "Grand Canyon Education, Inc.",
+"sector": "Consumer Goods",
+"anchor": "grand-canyon-education-inc"
+},
+"sonocoproducts": {
+"company": "Sonoco Products Co.",
+"sector": "Consumer Goods",
+"anchor": "sonoco-products-co"
+},
+"deckersoutdoor": {
+"company": "Deckers Outdoor Corp.",
+"sector": "Consumer Goods",
+"anchor": "deckers-outdoor-corp"
+},
+"diamondbackenergy": {
+"company": "Diamondback Energy, Inc.",
+"sector": "Energy",
+"anchor": "diamondback-energy-inc"
+},
+"enbridge": {
+"company": "Enbridge Inc.",
+"sector": "Energy",
+"anchor": "enbridge-inc"
+},
+"phillips66": {
+"company": "Phillips 66",
+"sector": "Energy",
+"anchor": "phillips-66"
+},
+"loews": {
+"company": "Loews Corporation",
+"sector": "Financial",
+"anchor": "loews-corporation"
+},
+"mtbank": {
+"company": "M&T Bank Corporation",
+"sector": "Financial",
+"anchor": "m-t-bank-corporation"
+},
+"cardinalhealth": {
+"company": "Cardinal Health, Inc.",
+"sector": "Healthcare",
+"anchor": "cardinal-health-inc"
+},
+"baxter": {
+"company": "Baxter International Inc.",
+"sector": "Healthcare",
+"anchor": "baxter-international-inc"
+},
+"aveannahealthcare": {
+"company": "Aveanna Healthcare Holdings, Inc.",
+"sector": "Healthcare",
+"anchor": "aveanna-healthcare-holdings-inc"
+},
+"caterpillar": {
+"company": "Caterpillar Inc.",
+"sector": "Industrial Goods",
+"anchor": "caterpillar-inc"
+},
+"primoris": {
+"company": "Primoris Services Corporation",
+"sector": "Industrial Goods",
+"anchor": "primoris-services-corporation"
+},
+"kornferry": {
+"company": "Korn Ferry",
+"sector": "Industrial Goods",
+"anchor": "korn-ferry"
+},
+"cleanharbors": {
+"company": "Clean Harbors Inc.",
+"sector": "Industrial Goods",
+"anchor": "clean-harbors-inc"
+},
+"digitalrealtytrust": {
+"company": "Digital Realty Trust Inc.",
+"sector": "Real Estate",
+"anchor": "digital-realty-trust-inc"
+},
+"chrobinsonworldwide": {
+"company": "C.H. Robinson Worldwide Inc.",
+"sector": "Services",
+"anchor": "c-h-robinson-worldwide-inc"
+},
+"chartercommunications": {
+"company": "Charter Communications, Inc.",
+"sector": "Services",
+"anchor": "charter-communications-inc"
+},
+"homedepot": {
+"company": "The Home Depot, Inc.",
+"sector": "Services",
+"anchor": "the-home-depot-inc"
+},
+"gannettusatoday": {
+"company": "Gannett Co., Inc. / USA TODAY Co., Inc.",
+"sector": "Services",
+"anchor": "gannett-co-inc-usa-today-co-inc"
+},
+"ultabeauty": {
+"company": "Ulta Beauty, Inc.",
+"sector": "Services",
+"anchor": "ulta-beauty-inc"
+},
+"electronicarts": {
+"company": "Electronic Arts Inc.",
+"sector": "Technology",
+"anchor": "electronic-arts-inc"
+},
+"corningincorporated": {
+"company": "Corning Incorporated",
+"sector": "Technology",
+"anchor": "corning-incorporated"
+},
+"comcast": {
+"company": "Comcast Corporation",
+"sector": "Technology",
+"anchor": "comcast-corporation"
+},
+"dell": {
+"company": "Dell Technologies Inc.",
+"sector": "Technology",
+"anchor": "dell-technologies-inc"
+},
+"etsy": {
+"company": "Etsy, Inc.",
+"sector": "Technology",
+"anchor": "etsy-inc"
+},
+"paloaltonetworks": {
+"company": "Palo Alto Networks, Inc.",
+"sector": "Technology",
+"anchor": "palo-alto-networks-inc"
+},
+"firstsolar": {
+"company": "First Solar, Inc.",
+"sector": "Technology",
+"anchor": "first-solar-inc"
+},
+"nexteraenergy": {
+"company": "NextEra Energy, Inc.",
+"sector": "Utilities",
+"anchor": "nextera-energy-inc"
+},
+"firstquantumminerals": {
+"company": "First Quantum Minerals Ltd.",
+"sector": "Basic Materials",
+"anchor": "first-quantum-minerals-ltd"
+},
+"angloamerican": {
+"company": "Anglo American plc",
+"sector": "Basic Materials",
+"anchor": "anglo-american-plc"
+},
+"westlake": {
+"company": "Westlake Corporation",
+"sector": "Basic Materials",
+"anchor": "westlake-corporation"
+},
+"churchdwight": {
+"company": "Church & Dwight Co. Inc.",
+"sector": "Consumer Goods",
+"anchor": "church-dwight-co-inc"
+},
+"ball": {
+"company": "Ball Corporation",
+"sector": "Consumer Goods",
+"anchor": "ball-corporation"
+},
+"generalmills": {
+"company": "General Mills, Inc.",
+"sector": "Consumer Goods",
+"anchor": "general-mills-inc"
+},
+"mattel": {
+"company": "Mattel, Inc.",
+"sector": "Consumer Goods",
+"anchor": "mattel-inc"
+},
+"tourmalineoil": {
+"company": "Tourmaline Oil Corp.",
+"sector": "Energy",
+"anchor": "tourmaline-oil-corp"
+},
+"tcenergy": {
+"company": "TC Energy Corporation",
+"sector": "Energy",
+"anchor": "tc-energy-corporation"
+},
+"franklinresources": {
+"company": "Franklin Resources, Inc.",
+"sector": "Financial",
+"anchor": "franklin-resources-inc"
+},
+"metlife": {
+"company": "MetLife, Inc.",
+"sector": "Financial",
+"anchor": "metlife-inc"
+},
+"ionispharmaceuticals": {
+"company": "Ionis Pharmaceuticals, Inc.",
+"sector": "Healthcare",
+"anchor": "ionis-pharmaceuticals-inc"
+},
+"tenethealthcare": {
+"company": "Tenet Healthcare Corporation",
+"sector": "Healthcare",
+"anchor": "tenet-healthcare-corporation"
+},
+"warbyparker": {
+"company": "Warby Parker Inc.",
+"sector": "Healthcare",
+"anchor": "warby-parker-inc"
+},
+"coremain": {
+"company": "Core & Main, Inc.",
+"sector": "Industrial Goods",
+"anchor": "core-main-inc"
+},
+"buildersfirstsource": {
+"company": "Builders FirstSource, Inc.",
+"sector": "Industrial Goods",
+"anchor": "builders-firstsource-inc"
+},
+"wwgrainger": {
+"company": "W.W. Grainger, Inc.",
+"sector": "Industrial Goods",
+"anchor": "w-w-grainger-inc"
+},
+"allegion": {
+"company": "Allegion plc",
+"sector": "Industrial Goods",
+"anchor": "allegion-plc"
+},
+"ventas": {
+"company": "Ventas Inc.",
+"sector": "Real Estate",
+"anchor": "ventas-inc"
+},
+"sbacommunications": {
+"company": "SBA Communications Corporation",
+"sector": "Real Estate",
+"anchor": "sba-communications-corporation"
+},
+"iheartmedia": {
+"company": "iHeartMedia, Inc.",
+"sector": "Services",
+"anchor": "iheartmedia-inc"
+},
+"bestbuy": {
+"company": "Best Buy Co., Inc.",
+"sector": "Services",
+"anchor": "best-buy-co-inc"
+},
+"huronconsulting": {
+"company": "Huron Consulting Group Inc.",
+"sector": "Services",
+"anchor": "huron-consulting-group-inc"
+},
+"adobe": {
+"company": "Adobe Inc.",
+"sector": "Technology",
+"anchor": "adobe-inc"
+},
+"tradedesk": {
+"company": "The Trade Desk, Inc.",
+"sector": "Technology",
+"anchor": "the-trade-desk-inc"
+},
+"netapp": {
+"company": "NetApp, Inc.",
+"sector": "Technology",
+"anchor": "netapp-inc"
+},
+"amphenol": {
+"company": "Amphenol Corporation",
+"sector": "Technology",
+"anchor": "amphenol-corporation"
+},
+"metaplatforms": {
+"company": "Meta Platforms, Inc.",
+"sector": "Technology",
+"anchor": "meta-platforms-inc"
+},
+"zscaler": {
+"company": "Zscaler, Inc.",
+"sector": "Technology",
+"anchor": "zscaler-inc"
+},
+"kla": {
+"company": "KLA Corporation",
+"sector": "Technology",
+"anchor": "kla-corporation"
+},
+"fortis": {
+"company": "Fortis Inc.",
+"sector": "Utilities",
+"anchor": "fortis-inc"
+},
+"crh": {
+"company": "CRH plc",
+"sector": "Basic Materials",
+"anchor": "crh-plc"
+},
+"westfrasertimber": {
+"company": "West Fraser Timber Co. Ltd.",
+"sector": "Basic Materials",
+"anchor": "west-fraser-timber-co-ltd"
+},
+"cameco": {
+"company": "Cameco Corporation",
+"sector": "Basic Materials",
+"anchor": "cameco-corporation"
+},
+"adtalemglobaleducationcovista": {
+"company": "Adtalem Global Education (Covista Inc)",
+"sector": "Consumer Goods",
+"anchor": "adtalem-global-education-covista-inc"
+},
+"silgan": {
+"company": "Silgan Holdings Inc.",
+"sector": "Consumer Goods",
+"anchor": "silgan-holdings-inc"
+},
+"crocs": {
+"company": "Crocs Inc.",
+"sector": "Consumer Goods",
+"anchor": "crocs-inc"
+},
+"devonenergy": {
+"company": "Devon Energy Corporation",
+"sector": "Energy",
+"anchor": "devon-energy-corporation"
+},
+"cheniereenergy": {
+"company": "Cheniere Energy Inc.",
+"sector": "Energy",
+"anchor": "cheniere-energy-inc"
+},
+"pbfenergy": {
+"company": "PBF Energy Inc.",
+"sector": "Energy",
+"anchor": "pbf-energy-inc"
+},
+"berkshirehathaway": {
+"company": "Berkshire Hathaway Inc.",
+"sector": "Financial",
+"anchor": "berkshire-hathaway-inc"
+},
+"markel": {
+"company": "Markel Group Inc.",
+"sector": "Financial",
+"anchor": "markel-group-inc"
+},
+"tevapharmaceuticalindustries": {
+"company": "Teva Pharmaceutical Industries Ltd.",
+"sector": "Healthcare",
+"anchor": "teva-pharmaceutical-industries-ltd"
+},
+"abbottlaboratories": {
+"company": "Abbott Laboratories",
+"sector": "Healthcare",
+"anchor": "abbott-laboratories"
+},
+"addushomecare": {
+"company": "Addus HomeCare Corporation",
+"sector": "Healthcare",
+"anchor": "addus-homecare-corporation"
+},
+"valmontindustries": {
+"company": "Valmont Industries Inc.",
+"sector": "Industrial Goods",
+"anchor": "valmont-industries-inc"
+},
+"dycomindustries": {
+"company": "Dycom Industries Inc.",
+"sector": "Industrial Goods",
+"anchor": "dycom-industries-inc"
+},
+"icf": {
+"company": "ICF International Inc.",
+"sector": "Industrial Goods",
+"anchor": "icf-international-inc"
+},
+"casellawaste": {
+"company": "Casella Waste Systems Inc.",
+"sector": "Industrial Goods",
+"anchor": "casella-waste-systems-inc"
+},
+"annalycapitalmanagement": {
+"company": "Annaly Capital Management Inc.",
+"sector": "Financial",
+"anchor": "annaly-capital-management-inc"
+},
+"omnicom": {
+"company": "Omnicom Group Inc.",
+"sector": "Services",
+"anchor": "omnicom-group-inc"
+},
+"cintas": {
+"company": "Cintas Corporation",
+"sector": "Services",
+"anchor": "cintas-corporation"
+},
+"williamssonoma": {
+"company": "Williams-Sonoma Inc.",
+"sector": "Services",
+"anchor": "williams-sonoma-inc"
+},
+"scholastic": {
+"company": "Scholastic Corporation",
+"sector": "Services",
+"anchor": "scholastic-corporation"
+},
+"usfoodsholding": {
+"company": "US Foods Holding Corp.",
+"sector": "Services/Consumer Goods",
+"anchor": "us-foods-holding-corp"
+},
+"elasticnv": {
+"company": "Elastic N.V.",
+"sector": "Technology",
+"anchor": "elastic-n-v"
+},
+"corning": {
+"company": "Corning Inc.",
+"sector": "Technology",
+"anchor": "corning-inc"
+},
+"cogentcommunications": {
+"company": "Cogent Communications Holdings Inc.",
+"sector": "Technology",
+"anchor": "cogent-communications-holdings-inc"
+},
+"caci": {
+"company": "CACI International Inc.",
+"sector": "Technology",
+"anchor": "caci-international-inc"
+},
+"doordash": {
+"company": "DoorDash Inc.",
+"sector": "Technology",
+"anchor": "doordash-inc"
+},
+"commscopeholdingvistancenetworks": {
+"company": "CommScope Holding Company Inc. (Vistance Networks)",
+"sector": "Technology",
+"anchor": "commscope-holding-company-inc-vistance-networks"
+},
+"nvidia": {
+"company": "NVIDIA Corporation",
+"sector": "Technology",
+"anchor": "nvidia-corporation"
+},
+"exelon": {
+"company": "Exelon Corporation",
+"sector": "Utilities",
+"anchor": "exelon-corporation"
+},
+"ivanhoemines": {
+"company": "Ivanhoe Mines Ltd.",
+"sector": "Basic Materials",
+"anchor": "ivanhoe-mines-ltd"
+},
+"glencore": {
+"company": "Glencore plc",
+"sector": "Basic Materials",
+"anchor": "glencore-plc"
+},
+"commercialmetals": {
+"company": "Commercial Metals Company",
+"sector": "Basic Materials",
+"anchor": "commercial-metals-company"
+},
+"graphicpackagingholding": {
+"company": "Graphic Packaging Holding Company",
+"sector": "Consumer Goods",
+"anchor": "graphic-packaging-holding-company"
+},
+"dutchbros": {
+"company": "Dutch Bros Inc.",
+"sector": "Consumer Goods",
+"anchor": "dutch-bros-inc"
+},
+"apa": {
+"company": "APA Corporation",
+"sector": "Energy",
+"anchor": "apa-corporation"
+},
+"halliburton": {
+"company": "Halliburton Company",
+"sector": "Energy",
+"anchor": "halliburton-company"
+},
+"cenovusenergy": {
+"company": "Cenovus Energy Inc.",
+"sector": "Energy",
+"anchor": "cenovus-energy-inc"
+},
+"kkr": {
+"company": "KKR & Co. Inc.",
+"sector": "Financial",
+"anchor": "kkr-co-inc"
+},
+"bankofamerica": {
+"company": "Bank of America Corporation",
+"sector": "Financial",
+"anchor": "bank-of-america-corporation"
+},
+"exactsciences": {
+"company": "Exact Sciences Corporation",
+"sector": "Healthcare",
+"anchor": "exact-sciences-corporation"
+},
+"cencora": {
+"company": "Cencora Inc.",
+"sector": "Healthcare",
+"anchor": "cencora-inc"
+},
+"labcorp": {
+"company": "Labcorp Holdings Inc.",
+"sector": "Healthcare",
+"anchor": "labcorp-holdings-inc"
+},
+"abmindustries": {
+"company": "ABM Industries Inc.",
+"sector": "Industrial Goods",
+"anchor": "abm-industries-inc"
+},
+"emcor": {
+"company": "EMCOR Group Inc.",
+"sector": "Industrial Goods",
+"anchor": "emcor-group-inc"
+},
+"dnow": {
+"company": "DNOW Inc.",
+"sector": "Industrial Goods",
+"anchor": "dnow-inc"
+},
+"applehospitalityreit": {
+"company": "Apple Hospitality REIT Inc.",
+"sector": "Real Estate",
+"anchor": "apple-hospitality-reit-inc"
+},
+"fox": {
+"company": "Fox Corporation",
+"sector": "Services",
+"anchor": "fox-corporation"
+},
+"waltdisney": {
+"company": "Walt Disney Co.",
+"sector": "Services",
+"anchor": "walt-disney-co"
+},
+"nationalcinemedia": {
+"company": "National CineMedia Inc.",
+"sector": "Services",
+"anchor": "national-cinemedia-inc"
+},
+"chewy": {
+"company": "Chewy Inc.",
+"sector": "Services",
+"anchor": "chewy-inc"
+},
+"airbnb": {
+"company": "Airbnb Inc.",
+"sector": "Technology",
+"anchor": "airbnb-inc"
+},
+"unitysoftware": {
+"company": "Unity Software Inc.",
+"sector": "Technology",
+"anchor": "unity-software-inc"
+},
+"seagatetechnology": {
+"company": "Seagate Technology Holdings plc",
+"sector": "Technology",
+"anchor": "seagate-technology-holdings-plc"
+},
+"avnet": {
+"company": "Avnet Inc.",
+"sector": "Technology",
+"anchor": "avnet-inc"
+},
+"snap": {
+"company": "Snap Inc.",
+"sector": "Technology",
+"anchor": "snap-inc"
+},
+"verizoncommunications": {
+"company": "Verizon Communications Inc.",
+"sector": "Technology",
+"anchor": "verizon-communications-inc"
+},
+"fmc": {
+"company": "FMC Corporation",
+"sector": "Basic Materials",
+"anchor": "fmc-corporation"
+},
+"wheatonpreciousmetals": {
+"company": "Wheaton Precious Metals Corp.",
+"sector": "Basic Materials",
+"anchor": "wheaton-precious-metals-corp"
+},
+"ecolab": {
+"company": "Ecolab Inc.",
+"sector": "Basic Materials",
+"anchor": "ecolab-inc"
+},
+"cocacola": {
+"company": "The Coca-Cola Company",
+"sector": "Consumer Goods",
+"anchor": "the-coca-cola-company"
+},
+"ebay": {
+"company": "eBay Inc.",
+"sector": "Consumer Goods",
+"anchor": "ebay-inc"
+},
+"gopro": {
+"company": "GoPro, Inc.",
+"sector": "Consumer Goods",
+"anchor": "gopro-inc"
+},
+"spinmaster": {
+"company": "Spin Master Corp.",
+"sector": "Consumer Goods",
+"anchor": "spin-master-corp"
+},
+"permianresources": {
+"company": "Permian Resources Corporation",
+"sector": "Energy",
+"anchor": "permian-resources-corporation"
+},
+"plainsallamericanpipelinelp": {
+"company": "Plains All American Pipeline, L.P.",
+"sector": "Energy",
+"anchor": "plains-all-american-pipeline-l-p"
+},
+"blackstone": {
+"company": "Blackstone Inc.",
+"sector": "Financial",
+"anchor": "blackstone-inc"
+},
+"cme": {
+"company": "CME Group Inc.",
+"sector": "Financial",
+"anchor": "cme-group-inc"
+},
+"alnylampharmaceuticals": {
+"company": "Alnylam Pharmaceuticals, Inc.",
+"sector": "Healthcare",
+"anchor": "alnylam-pharmaceuticals-inc"
+},
+"avanosmedical": {
+"company": "Avanos Medical, Inc.",
+"sector": "Healthcare",
+"anchor": "avanos-medical-inc"
+},
+"stryker": {
+"company": "Stryker Corporation",
+"sector": "Healthcare",
+"anchor": "stryker-corporation"
+},
+"northropgrumman": {
+"company": "Northrop Grumman Corp.",
+"sector": "Industrial Goods",
+"anchor": "northrop-grumman-corp"
+},
+"mastec": {
+"company": "MasTec, Inc.",
+"sector": "Industrial Goods",
+"anchor": "mastec-inc"
+},
+"trane": {
+"company": "Trane Technologies plc",
+"sector": "Industrial Goods",
+"anchor": "trane-technologies-plc"
+},
+"lennar": {
+"company": "Lennar Corporation",
+"sector": "Industrial Goods",
+"anchor": "lennar-corporation"
+},
+"cbre": {
+"company": "CBRE Group Inc.",
+"sector": "Real Estate",
+"anchor": "cbre-group-inc"
+},
+"crowncastle": {
+"company": "Crown Castle Inc.",
+"sector": "Real Estate",
+"anchor": "crown-castle-inc"
+},
+"tjxcompanies": {
+"company": "The TJX Companies, Inc.",
+"sector": "Services",
+"anchor": "the-tjx-companies-inc"
+},
+"walmart": {
+"company": "Walmart Inc.",
+"sector": "Services",
+"anchor": "walmart-inc"
+},
+"deltaairlines": {
+"company": "Delta Air Lines, Inc.",
+"sector": "Services",
+"anchor": "delta-air-lines-inc"
+},
+"mgmresorts": {
+"company": "MGM Resorts International",
+"sector": "Services",
+"anchor": "mgm-resorts-international"
+},
+"expedia": {
+"company": "Expedia Group, Inc.",
+"sector": "Services",
+"anchor": "expedia-group-inc"
+},
+"snowflake": {
+"company": "Snowflake Inc.",
+"sector": "Technology",
+"anchor": "snowflake-inc"
+},
+"avista": {
+"company": "Avista Corp.",
+"sector": "Utilities",
+"anchor": "avista-corp"
+},
+"mosaic": {
+"company": "The Mosaic Company",
+"sector": "Basic Materials",
+"anchor": "the-mosaic-company"
+},
+"vulcanmaterials": {
+"company": "Vulcan Materials Company",
+"sector": "Basic Materials",
+"anchor": "vulcan-materials-company"
+},
+"kindermorgan": {
+"company": "Kinder Morgan Inc.",
+"sector": "Basic Materials",
+"anchor": "kinder-morgan-inc"
+},
+"abercrombiefitch": {
+"company": "Abercrombie & Fitch Co.",
+"sector": "Consumer Goods",
+"anchor": "abercrombie-fitch-co"
+},
+"bungeglobalsa": {
+"company": "Bunge Global SA",
+"sector": "Consumer Goods",
+"anchor": "bunge-global-sa"
+},
+"coty": {
+"company": "Coty Inc.",
+"sector": "Consumer Goods",
+"anchor": "coty-inc"
+},
+"buildabearworkshop": {
+"company": "Build-A-Bear Workshop, Inc.",
+"sector": "Consumer Goods",
+"anchor": "build-a-bear-workshop-inc"
+},
+"expandenergy": {
+"company": "Expand Energy Corporation",
+"sector": "Energy",
+"anchor": "expand-energy-corporation"
+},
+"enterpriseproductspartnerslp": {
+"company": "Enterprise Products Partners L.P.",
+"sector": "Energy",
+"anchor": "enterprise-products-partners-l-p"
+},
+"sunocolp": {
+"company": "Sunoco L.P.",
+"sector": "Energy",
+"anchor": "sunoco-l-p"
+},
+"synchronyfinancial": {
+"company": "Synchrony Financial",
+"sector": "Financial",
+"anchor": "synchrony-financial"
+},
+"usbancorp": {
+"company": "U.S. Bancorp",
+"sector": "Financial",
+"anchor": "u-s-bancorp"
+},
+"mckesson": {
+"company": "McKesson Corporation",
+"sector": "Services",
+"anchor": "mckesson-corporation"
+},
+"bostonscientific": {
+"company": "Boston Scientific Corporation",
+"sector": "Healthcare",
+"anchor": "boston-scientific-corporation"
+},
+"chemed": {
+"company": "Chemed Corporation",
+"sector": "Healthcare",
+"anchor": "chemed-corporation"
+},
+"watsco": {
+"company": "Watsco, Inc.",
+"sector": "Industrial Goods",
+"anchor": "watsco-inc"
+},
+"eaton": {
+"company": "Eaton Corporation plc",
+"sector": "Industrial Goods",
+"anchor": "eaton-corporation-plc"
+},
+"veralto": {
+"company": "Veralto Corporation",
+"sector": "Industrial Goods",
+"anchor": "veralto-corporation"
+},
+"wastemanagement": {
+"company": "Waste Management, Inc.",
+"sector": "Industrial Goods",
+"anchor": "waste-management-inc"
+},
+"realtyincome": {
+"company": "Realty Income Corp.",
+"sector": "Real Estate",
+"anchor": "realty-income-corp"
+},
+"unitedparcelservice": {
+"company": "United Parcel Service, Inc.",
+"sector": "Services",
+"anchor": "united-parcel-service-inc"
+},
+"choicehotels": {
+"company": "Choice Hotels International, Inc.",
+"sector": "Services",
+"anchor": "choice-hotels-international-inc"
+},
+"planetfitness": {
+"company": "Planet Fitness, Inc.",
+"sector": "Services",
+"anchor": "planet-fitness-inc"
+},
+"mistras": {
+"company": "Mistras Group, Inc.",
+"sector": "Services",
+"anchor": "mistras-group-inc"
+},
+"microsoft": {
+"company": "Microsoft Corporation",
+"sector": "Technology",
+"anchor": "microsoft-corporation"
+},
+"motorolasolutions": {
+"company": "Motorola Solutions, Inc.",
+"sector": "Technology",
+"anchor": "motorola-solutions-inc"
+},
+"libertybroadband": {
+"company": "Liberty Broadband Corporation",
+"sector": "Technology",
+"anchor": "liberty-broadband-corporation"
+},
+"outbrainteadsholding": {
+"company": "Outbrain Inc. / Teads Holding Co.",
+"sector": "Technology",
+"anchor": "outbrain-inc-teads-holding-co"
+},
+"taboolacom": {
+"company": "Taboola.com Ltd.",
+"sector": "Technology",
+"anchor": "taboola-com-ltd"
+},
+"forresterresearch": {
+"company": "Forrester Research Inc.",
+"sector": "Technology",
+"anchor": "forrester-research-inc"
+},
+"shenandoahtelecommunications": {
+"company": "Shenandoah Telecommunications Company",
+"sector": "Technology",
+"anchor": "shenandoah-telecommunications-company"
+},
+"onegas": {
+"company": "ONE Gas, Inc.",
+"sector": "Utilities",
+"anchor": "one-gas-inc"
+},
+"southerncopper": {
+"company": "Southern Copper Corporation",
+"sector": "Basic Materials",
+"anchor": "southern-copper-corporation"
+},
+"riotinto": {
+"company": "Rio Tinto plc",
+"sector": "Basic Materials",
+"anchor": "rio-tinto-plc"
+},
+"reliancesteelaluminum": {
+"company": "Reliance Steel & Aluminum Co.",
+"sector": "Basic Materials",
+"anchor": "reliance-steel-aluminum-co"
+},
+"burlingtonstores": {
+"company": "Burlington Stores, Inc.",
+"sector": "Consumer Goods",
+"anchor": "burlington-stores-inc"
+},
+"packagingofamerica": {
+"company": "Packaging Corporation of America",
+"sector": "Consumer Goods",
+"anchor": "packaging-corporation-of-america"
+},
+"lululemonathletica": {
+"company": "lululemon athletica inc.",
+"sector": "Consumer Goods",
+"anchor": "lululemon-athletica-inc"
+},
+"cnxresources": {
+"company": "CNX Resources",
+"sector": "Energy",
+"anchor": "cnx-resources"
+},
+"slblimited": {
+"company": "SLB Limited",
+"sector": "Energy",
+"anchor": "slb-limited"
+},
+"imperialoillimited": {
+"company": "Imperial Oil Limited",
+"sector": "Energy",
+"anchor": "imperial-oil-limited"
+},
+"troweprice": {
+"company": "T. Rowe Price Group, Inc.",
+"sector": "Financial",
+"anchor": "t-rowe-price-group-inc"
+},
+"jpmorganchase": {
+"company": "JPMorgan Chase & Co.",
+"sector": "Financial",
+"anchor": "jpmorgan-chase-co"
+},
+"johnsonjohnson": {
+"company": "Johnson & Johnson",
+"sector": "Healthcare",
+"anchor": "johnson-johnson"
+},
+"astranahealth": {
+"company": "Astrana Health, Inc.",
+"sector": "Healthcare",
+"anchor": "astrana-health-inc"
+},
+"questdiagnostics": {
+"company": "Quest Diagnostics",
+"sector": "Healthcare",
+"anchor": "quest-diagnostics"
+},
+"unitedrentals": {
+"company": "United Rentals, Inc.",
+"sector": "Industrial Goods",
+"anchor": "united-rentals-inc"
+},
+"myr": {
+"company": "MYR Group Inc.",
+"sector": "Industrial Goods",
+"anchor": "myr-group-inc"
+},
+"mscindustrialdirect": {
+"company": "MSC Industrial Direct",
+"sector": "Industrial Goods",
+"anchor": "msc-industrial-direct"
+},
+"resideo": {
+"company": "Resideo Technologies, Inc.",
+"sector": "Industrial Goods",
+"anchor": "resideo-technologies-inc"
+},
+"sunstonehotelinvestors": {
+"company": "Sunstone Hotel Investors, Inc.",
+"sector": "Real Estate",
+"anchor": "sunstone-hotel-investors-inc"
+},
+"criteo": {
+"company": "Criteo",
+"sector": "Services",
+"anchor": "criteo"
+},
+"xerox": {
+"company": "Xerox Holdings Corp",
+"sector": "Services",
+"anchor": "xerox-holdings-corp"
+},
+"rh": {
+"company": "RH",
+"sector": "Services",
+"anchor": "rh"
+},
+"rollins": {
+"company": "Rollins, Inc.",
+"sector": "Services",
+"anchor": "rollins-inc"
+},
+"sysco": {
+"company": "Sysco Corporation",
+"sector": "Services",
+"anchor": "sysco-corporation"
+},
+"crowdstrike": {
+"company": "CrowdStrike Holdings, Inc.",
+"sector": "Technology",
+"anchor": "crowdstrike-holdings-inc"
+},
+"ciena": {
+"company": "Ciena Corporation",
+"sector": "Technology",
+"anchor": "ciena-corporation"
+},
+"alticeusaoptimumcommunications": {
+"company": "Altice USA / Optimum Communications, Inc.",
+"sector": "Technology",
+"anchor": "altice-usa-optimum-communications-inc"
+},
+"waystarholding": {
+"company": "Waystar Holding Corp",
+"sector": "Technology",
+"anchor": "waystar-holding-corp"
+},
+"taketwointeractivesoftware": {
+"company": "Take-Two Interactive Software Inc.",
+"sector": "Technology",
+"anchor": "take-two-interactive-software-inc"
+},
+"marvelltechnology": {
+"company": "Marvell Technology, Inc.",
+"sector": "Technology",
+"anchor": "marvell-technology-inc"
+},
+"dukeenergy": {
+"company": "Duke Energy Corporation",
+"sector": "Utilities",
+"anchor": "duke-energy-corporation"
+},
+"lyondellbasellindustriesnv": {
+"company": "LyondellBasell Industries N.V.",
+"sector": "Basic Materials",
+"anchor": "lyondellbasell-industries-n-v"
+},
+"eogresources": {
+"company": "EOG Resources, Inc.",
+"sector": "Basic Materials",
+"anchor": "eog-resources-inc"
+},
+"sherwinwilliams": {
+"company": "The Sherwin-Williams Company",
+"sector": "Basic Materials",
+"anchor": "the-sherwin-williams-company"
+},
+"brownforman": {
+"company": "Brown-Forman",
+"sector": "Consumer Goods",
+"anchor": "brown-forman"
+},
+"campbells": {
+"company": "The Campbell's Company",
+"sector": "Consumer Goods",
+"anchor": "the-campbell-s-company"
+},
+"hasbro": {
+"company": "Hasbro, Inc.",
+"sector": "Consumer Goods",
+"anchor": "hasbro-inc"
+},
+"rangeresources": {
+"company": "Range Resources Corporation",
+"sector": "Energy",
+"anchor": "range-resources-corporation"
+},
+"targaresources": {
+"company": "Targa Resources Corp.",
+"sector": "Energy",
+"anchor": "targa-resources-corp"
+},
+"brookfield": {
+"company": "Brookfield Corporation",
+"sector": "Financial",
+"anchor": "brookfield-corporation"
+},
+"spglobal": {
+"company": "S&P Global Inc.",
+"sector": "Financial",
+"anchor": "s-p-global-inc"
+},
+"guardanthealth": {
+"company": "Guardant Health Inc.",
+"sector": "Healthcare",
+"anchor": "guardant-health-inc"
+},
+"hcahealthcare": {
+"company": "HCA Healthcare, Inc.",
+"sector": "Healthcare",
+"anchor": "hca-healthcare-inc"
+},
+"thermofisherscientific": {
+"company": "Thermo Fisher Scientific Inc.",
+"sector": "Healthcare",
+"anchor": "thermo-fisher-scientific-inc"
+},
+"frontier": {
+"company": "Frontier Group Holdings, Inc.",
+"sector": "Industrial Goods",
+"anchor": "frontier-group-holdings-inc"
+},
+"cummins": {
+"company": "Cummins Inc.",
+"sector": "Industrial Goods",
+"anchor": "cummins-inc"
+},
+"wesco": {
+"company": "WESCO International Inc.",
+"sector": "Industrial Goods",
+"anchor": "wesco-international-inc"
+},
+"adt": {
+"company": "ADT Inc.",
+"sector": "Industrial Goods",
+"anchor": "adt-inc"
+},
+"joneslanglasalle": {
+"company": "Jones Lang LaSalle Inc.",
+"sector": "Real Estate",
+"anchor": "jones-lang-lasalle-inc"
+},
+"equinix": {
+"company": "Equinix Inc.",
+"sector": "Real Estate",
+"anchor": "equinix-inc"
+},
+"urbanoutfitters": {
+"company": "Urban Outfitters, Inc.",
+"sector": "Services",
+"anchor": "urban-outfitters-inc"
+},
+"stride": {
+"company": "Stride, Inc.",
+"sector": "Services",
+"anchor": "stride-inc"
+},
+"unitedairlines": {
+"company": "United Airlines Holdings, Inc.",
+"sector": "Services",
+"anchor": "united-airlines-holdings-inc"
+},
+"dominospizza": {
+"company": "Domino's Pizza, Inc.",
+"sector": "Services",
+"anchor": "domino-s-pizza-inc"
+},
+"magnite": {
+"company": "Magnite, Inc.",
+"sector": "Technology",
+"anchor": "magnite-inc"
+},
+"apple": {
+"company": "Apple Inc.",
+"sector": "Technology",
+"anchor": "apple-inc"
+},
+"coursera": {
+"company": "Coursera, Inc.",
+"sector": "Technology",
+"anchor": "coursera-inc"
+},
+"godaddy": {
+"company": "GoDaddy Inc.",
+"sector": "Technology",
+"anchor": "godaddy-inc"
+},
+"roblox": {
+"company": "Roblox Corporation",
+"sector": "Technology",
+"anchor": "roblox-corporation"
+},
+"appliedmaterials": {
+"company": "Applied Materials, Inc.",
+"sector": "Technology",
+"anchor": "applied-materials-inc"
+},
+"constellationenergy": {
+"company": "Constellation Energy Corp",
+"sector": "Utilities",
+"anchor": "constellation-energy-corp"
+},
+"airproductschemicals": {
+"company": "Air Products and Chemicals, Inc.",
+"sector": "Basic Materials",
+"anchor": "air-products-and-chemicals-inc"
+},
+"kinrossgold": {
+"company": "Kinross Gold Corporation",
+"sector": "Basic Materials",
+"anchor": "kinross-gold-corporation"
+},
+"clearwaterpaper": {
+"company": "Clearwater Paper Corp.",
+"sector": "Basic Materials",
+"anchor": "clearwater-paper-corp"
+},
+"victoriassecret": {
+"company": "Victoria's Secret & Co.",
+"sector": "Consumer Goods",
+"anchor": "victoria-s-secret-co"
+},
+"carnival": {
+"company": "Carnival Corporation & plc",
+"sector": "Consumer Goods",
+"anchor": "carnival-corporation-plc"
+},
+"esteelaudercompanies": {
+"company": "The Estee Lauder Companies Inc.",
+"sector": "Consumer Goods",
+"anchor": "the-estee-lauder-companies-inc"
+},
+"murphyoil": {
+"company": "Murphy Oil Corporation",
+"sector": "Energy",
+"anchor": "murphy-oil-corporation"
+},
+"mplxlp": {
+"company": "MPLX LP",
+"sector": "Energy",
+"anchor": "mplx-lp"
+},
+"apolloglobalmanagement": {
+"company": "Apollo Global Management, Inc.",
+"sector": "Financial",
+"anchor": "apollo-global-management-inc"
+},
+"aon": {
+"company": "Aon plc",
+"sector": "Financial",
+"anchor": "aon-plc"
+},
+"truistfinancial": {
+"company": "Truist Financial Corp.",
+"sector": "Financial",
+"anchor": "truist-financial-corp"
+},
+"cigna": {
+"company": "The Cigna Group",
+"sector": "Healthcare",
+"anchor": "the-cigna-group"
+},
+"henryschein": {
+"company": "Henry Schein, Inc.",
+"sector": "Healthcare",
+"anchor": "henry-schein-inc"
+},
+"enhabit": {
+"company": "Enhabit, Inc.",
+"sector": "Healthcare",
+"anchor": "enhabit-inc"
+},
+"aecom": {
+"company": "AECOM",
+"sector": "Industrial Goods",
+"anchor": "aecom"
+},
+"nventelectric": {
+"company": "nVent Electric plc",
+"sector": "Industrial Goods",
+"anchor": "nvent-electric-plc"
+},
+"herc": {
+"company": "Herc Holdings Inc.",
+"sector": "Industrial Goods",
+"anchor": "herc-holdings-inc"
+},
+"pool": {
+"company": "Pool Corp.",
+"sector": "Industrial Goods",
+"anchor": "pool-corp"
+},
+"americantower": {
+"company": "American Tower Corporation",
+"sector": "Real Estate",
+"anchor": "american-tower-corporation"
+},
+"birkenstockholding": {
+"company": "Birkenstock Holding plc",
+"sector": "Services",
+"anchor": "birkenstock-holding-plc"
+},
+"dollargeneral": {
+"company": "Dollar General Corporation",
+"sector": "Services",
+"anchor": "dollar-general-corporation"
+},
+"hyatthotels": {
+"company": "Hyatt Hotels Corporation",
+"sector": "Services",
+"anchor": "hyatt-hotels-corporation"
+},
+"caesarsentertainment": {
+"company": "Caesars Entertainment, Inc.",
+"sector": "Services",
+"anchor": "caesars-entertainment-inc"
+},
+"pubmatic": {
+"company": "PubMatic, Inc.",
+"sector": "Technology",
+"anchor": "pubmatic-inc"
+},
+"seikoepson": {
+"company": "Seiko Epson Corporation",
+"sector": "Technology",
+"anchor": "seiko-epson-corporation"
+},
+"lumen": {
+"company": "Lumen Technologies, Inc.",
+"sector": "Technology",
+"anchor": "lumen-technologies-inc"
+},
+"akamai": {
+"company": "Akamai Technologies, Inc.",
+"sector": "Technology",
+"anchor": "akamai-technologies-inc"
+},
+"cloudflare": {
+"company": "Cloudflare, Inc.",
+"sector": "Technology",
+"anchor": "cloudflare-inc"
+},
+"keysight": {
+"company": "Keysight Technologies, Inc.",
+"sector": "Technology",
+"anchor": "keysight-technologies-inc"
+},
+"vistra": {
+"company": "Vistra Corp.",
+"sector": "Utilities",
+"anchor": "vistra-corp"
+},
+"dow": {
+"company": "Dow Inc.",
+"sector": "Basic Materials",
+"anchor": "dow-inc"
+},
+"newmont": {
+"company": "Newmont Corporation",
+"sector": "Basic Materials",
+"anchor": "newmont-corporation"
+},
+"panamericansilver": {
+"company": "Pan American Silver Corp.",
+"sector": "Basic Materials",
+"anchor": "pan-american-silver-corp"
+},
+"monsterbeverage": {
+"company": "Monster Beverage Corp",
+"sector": "Consumer Goods",
+"anchor": "monster-beverage-corp"
+},
+"clorox": {
+"company": "The Clorox Company",
+"sector": "Consumer Goods",
+"anchor": "the-clorox-company"
+},
+"proctergamble": {
+"company": "Procter & Gamble Co.",
+"sector": "Consumer Goods",
+"anchor": "procter-gamble-co"
+},
+"ovintiv": {
+"company": "Ovintiv Inc.",
+"sector": "Energy",
+"anchor": "ovintiv-inc"
+},
+"pembinapipeline": {
+"company": "Pembina Pipeline Corporation",
+"sector": "Energy",
+"anchor": "pembina-pipeline-corporation"
+},
+"blackrock": {
+"company": "BlackRock, Inc.",
+"sector": "Financial",
+"anchor": "blackrock-inc"
+},
+"marshmclennancompanies": {
+"company": "Marsh & McLennan Companies, Inc.",
+"sector": "Financial",
+"anchor": "marsh-mclennan-companies-inc"
+},
+"wafd": {
+"company": "WaFd, Inc.",
+"sector": "Financial",
+"anchor": "wafd-inc"
+},
+"adapthealth": {
+"company": "AdaptHealth Corp.",
+"sector": "Healthcare",
+"anchor": "adapthealth-corp"
+},
+"intuitivesurgical": {
+"company": "Intuitive Surgical, Inc.",
+"sector": "Healthcare",
+"anchor": "intuitive-surgical-inc"
+},
+"honeywell": {
+"company": "Honeywell International Inc.",
+"sector": "Industrial Goods",
+"anchor": "honeywell-international-inc"
+},
+"kbr": {
+"company": "KBR, Inc.",
+"sector": "Industrial Goods",
+"anchor": "kbr-inc"
+},
+"vertiv": {
+"company": "Vertiv Holdings Co",
+"sector": "Industrial Goods",
+"anchor": "vertiv-holdings-co"
+},
+"drhorton": {
+"company": "D.R. Horton, Inc.",
+"sector": "Industrial Goods",
+"anchor": "d-r-horton-inc"
+},
+"cecoenvironmental": {
+"company": "CECO Environmental Corp.",
+"sector": "Industrials",
+"anchor": "ceco-environmental-corp"
+},
+"rossstores": {
+"company": "Ross Stores, Inc.",
+"sector": "Services",
+"anchor": "ross-stores-inc"
+},
+"target": {
+"company": "Target Corp.",
+"sector": "Services",
+"anchor": "target-corp"
+},
+"lasvegassands": {
+"company": "Las Vegas Sands Corp.",
+"sector": "Services",
+"anchor": "las-vegas-sands-corp"
+},
+"booking": {
+"company": "Booking Holdings Inc.",
+"sector": "Services",
+"anchor": "booking-holdings-inc"
+},
+"samsara": {
+"company": "Samsara Inc.",
+"sector": "Technology",
+"anchor": "samsara-inc"
+},
+"zebra": {
+"company": "Zebra Technologies Corp.",
+"sector": "Technology",
+"anchor": "zebra-technologies-corp"
+},
+"hewlettpackardenterprise": {
+"company": "Hewlett Packard Enterprise Company",
+"sector": "Technology",
+"anchor": "hewlett-packard-enterprise-company"
+},
+"fastly": {
+"company": "Fastly, Inc.",
+"sector": "Technology",
+"anchor": "fastly-inc"
+},
+"lundinmining": {
+"company": "Lundin Mining Corporation",
+"sector": "Basic Materials",
+"anchor": "lundin-mining-corporation"
+},
+"hudbayminerals": {
+"company": "HudBay Minerals Inc.",
+"sector": "Basic Materials",
+"anchor": "hudbay-minerals-inc"
+},
+"nucor": {
+"company": "Nucor Corporation",
+"sector": "Basic Materials",
+"anchor": "nucor-corporation"
+},
+"nordstrom": {
+"company": "Nordstrom",
+"sector": "Consumer Goods",
+"anchor": "nordstrom"
+},
+"oiglass": {
+"company": "O-I Glass, Inc.",
+"sector": "Consumer Goods",
+"anchor": "o-i-glass-inc"
+},
+"yeti": {
+"company": "YETI Holdings, Inc.",
+"sector": "Consumer Goods",
+"anchor": "yeti-holdings-inc"
+},
+"canadiannaturalresourceslimited": {
+"company": "Canadian Natural Resources Limited",
+"sector": "Energy",
+"anchor": "canadian-natural-resources-limited"
+},
+"nov": {
+"company": "NOV Inc.",
+"sector": "Energy",
+"anchor": "nov-inc"
+},
+"hfsinclair": {
+"company": "HF Sinclair Corporation",
+"sector": "Energy",
+"anchor": "hf-sinclair-corporation"
+},
+"statestreet": {
+"company": "State Street Corp.",
+"sector": "Financial",
+"anchor": "state-street-corp"
+},
+"citigroup": {
+"company": "Citigroup Inc.",
+"sector": "Financial",
+"anchor": "citigroup-inc"
+},
+"medpace": {
+"company": "Medpace Holdings, Inc.",
+"sector": "Healthcare",
+"anchor": "medpace-holdings-inc"
+},
+"accendrahealth": {
+"company": "Accendra Health, Inc.",
+"sector": "Healthcare",
+"anchor": "accendra-health-inc"
+},
+"natera": {
+"company": "Natera, Inc.",
+"sector": "Healthcare",
+"anchor": "natera-inc"
+},
+"brightview": {
+"company": "BrightView Holdings, Inc.",
+"sector": "Industrial Goods",
+"anchor": "brightview-holdings-inc"
+},
+"graniteconstructionincorporated": {
+"company": "Granite Construction Incorporated",
+"sector": "Industrial Goods",
+"anchor": "granite-construction-incorporated"
+},
+"fastenal": {
+"company": "Fastenal Company",
+"sector": "Industrial Goods",
+"anchor": "fastenal-company"
+},
+"corecivic": {
+"company": "CoreCivic, Inc.",
+"sector": "Industrial Goods",
+"anchor": "corecivic-inc"
+},
+"hosthotelsresorts": {
+"company": "Host Hotels & Resorts, Inc.",
+"sector": "Real Estate",
+"anchor": "host-hotels-resorts-inc"
+},
+"bathbodyworks": {
+"company": "Bath & Body Works, Inc.",
+"sector": "Retail",
+"anchor": "bath-body-works-inc"
+},
+"nexstarmedia": {
+"company": "Nexstar Media Group, Inc.",
+"sector": "Services",
+"anchor": "nexstar-media-group-inc"
+},
+"netflix": {
+"company": "Netflix, Inc.",
+"sector": "Services",
+"anchor": "netflix-inc"
+},
+"applovin": {
+"company": "AppLovin Corp.",
+"sector": "Technology",
+"anchor": "applovin-corp"
+},
+"kenvue": {
+"company": "Kenvue",
+"sector": "Technology",
+"anchor": "kenvue"
+},
+"westerndigital": {
+"company": "Western Digital Corporation",
+"sector": "Technology",
+"anchor": "western-digital-corporation"
+},
+"playtikaholding": {
+"company": "Playtika Holding Corp.",
+"sector": "Technology",
+"anchor": "playtika-holding-corp"
+},
+"spotifytechnologysa": {
+"company": "Spotify Technology S.A.",
+"sector": "Technology",
+"anchor": "spotify-technology-s-a"
+},
+"broadcom": {
+"company": "Broadcom Inc.",
+"sector": "Technology",
+"anchor": "broadcom-inc"
+},
+"consolidatededison": {
+"company": "Consolidated Edison, Inc.",
+"sector": "Utilities",
+"anchor": "consolidated-edison-inc"
+},
+"cemexsabdecv": {
+"company": "Cemex S.A.B. de C.V.",
+"sector": "Basic Materials",
+"anchor": "cemex-s-a-b-de-c-v"
+},
+"valesa": {
+"company": "Vale S.A.",
+"sector": "Basic Materials",
+"anchor": "vale-s-a"
+},
+"steeldynamics": {
+"company": "Steel Dynamics, Inc.",
+"sector": "Basic Materials",
+"anchor": "steel-dynamics-inc"
+},
+"olliesbargainoutlet": {
+"company": "Ollie's Bargain Outlet Holdings, Inc.",
+"sector": "Consumer Goods",
+"anchor": "ollie-s-bargain-outlet-holdings-inc"
+},
+"tapestry": {
+"company": "Tapestry, Inc.",
+"sector": "Consumer Goods",
+"anchor": "tapestry-inc"
+},
+"coterraenergy": {
+"company": "Coterra Energy Inc.",
+"sector": "Energy",
+"anchor": "coterra-energy-inc"
+},
+"technipfmc": {
+"company": "TechnipFMC plc",
+"sector": "Energy",
+"anchor": "technipfmc-plc"
+},
+"marathonpetroleum": {
+"company": "Marathon Petroleum Corporation",
+"sector": "Energy",
+"anchor": "marathon-petroleum-corporation"
+},
+"carlyle": {
+"company": "The Carlyle Group Inc.",
+"sector": "Financial",
+"anchor": "the-carlyle-group-inc"
+},
+"chubblimited": {
+"company": "Chubb Limited",
+"sector": "Financial",
+"anchor": "chubb-limited"
+},
+"pfizer": {
+"company": "Pfizer Inc.",
+"sector": "Healthcare",
+"anchor": "pfizer-inc"
+},
+"icumedicalincorporated": {
+"company": "ICU Medical, Incorporated",
+"sector": "Healthcare",
+"anchor": "icu-medical-incorporated"
+},
+"questdiagnosticsincorporated": {
+"company": "Quest Diagnostics Incorporated",
+"sector": "Healthcare",
+"anchor": "quest-diagnostics-incorporated"
+},
+"fujifilm": {
+"company": "FUJIFILM Holdings Corporation",
+"sector": "Industrial Goods",
+"anchor": "fujifilm-holdings-corporation"
+},
+"quanta": {
+"company": "Quanta Services, Inc.",
+"sector": "Industrial Goods",
+"anchor": "quanta-services-inc"
+},
+"geo": {
+"company": "The GEO Group, Inc.",
+"sector": "Industrial Goods",
+"anchor": "the-geo-group-inc"
+},
+"prologis": {
+"company": "Prologis Inc.",
+"sector": "Real Estate",
+"anchor": "prologis-inc"
+},
+"nexxen": {
+"company": "Nexxen International Ltd.",
+"sector": "Services",
+"anchor": "nexxen-international-ltd"
+},
+"api": {
+"company": "APi Group Corporation",
+"sector": "Services",
+"anchor": "api-group-corporation"
+},
+"wayfair": {
+"company": "Wayfair Inc.",
+"sector": "Services",
+"anchor": "wayfair-inc"
+},
+"johnwileysons": {
+"company": "John Wiley & Sons Inc.",
+"sector": "Services",
+"anchor": "john-wiley-sons-inc"
+},
+"kroger": {
+"company": "The Kroger Company",
+"sector": "Services",
+"anchor": "the-kroger-company"
+},
+"doubleverify": {
+"company": "DoubleVerify Holdings, Inc.",
+"sector": "Technology",
+"anchor": "doubleverify-holdings-inc"
+},
+"alcoa": {
+"company": "Alcoa Corporation",
+"sector": "Basic Materials",
+"anchor": "alcoa-corporation"
+},
+"franconevada": {
+"company": "Franco-Nevada Corp.",
+"sector": "Basic Materials",
+"anchor": "franco-nevada-corp"
+},
+"teckresourceslimited": {
+"company": "Teck Resources Limited",
+"sector": "Basic Materials",
+"anchor": "teck-resources-limited"
+},
+"levistrauss": {
+"company": "Levi Strauss & Co.",
+"sector": "Consumer Goods",
+"anchor": "levi-strauss-co"
+},
+"kraftheinz": {
+"company": "The Kraft Heinz Company",
+"sector": "Consumer Goods",
+"anchor": "the-kraft-heinz-company"
+},
+"elfbeauty": {
+"company": "e.l.f. Beauty, Inc.",
+"sector": "Consumer Goods",
+"anchor": "e-l-f-beauty-inc"
+},
+"funko": {
+"company": "Funko, Inc.",
+"sector": "Consumer Goods",
+"anchor": "funko-inc"
+},
+"matadorresources": {
+"company": "Matador Resources Co.",
+"sector": "Energy",
+"anchor": "matador-resources-co"
+},
+"keyera": {
+"company": "Keyera Corp.",
+"sector": "Energy",
+"anchor": "keyera-corp"
+},
+"valeroenergy": {
+"company": "Valero Energy Corporation",
+"sector": "Energy",
+"anchor": "valero-energy-corporation"
+},
+"upstart": {
+"company": "Upstart Holdings, Inc.",
+"sector": "Financial",
+"anchor": "upstart-holdings-inc"
+},
+"regionsfinancial": {
+"company": "Regions Financial Corp.",
+"sector": "Financial",
+"anchor": "regions-financial-corp"
+},
+"brookdaleseniorliving": {
+"company": "Brookdale Senior Living Inc.",
+"sector": "Healthcare",
+"anchor": "brookdale-senior-living-inc"
+},
+"dexcom": {
+"company": "DexCom, Inc.",
+"sector": "Healthcare",
+"anchor": "dexcom-inc"
+},
+"davita": {
+"company": "DaVita Inc.",
+"sector": "Healthcare",
+"anchor": "davita-inc"
+},
+"hubbellincorporated": {
+"company": "Hubbell Incorporated",
+"sector": "Industrial Goods",
+"anchor": "hubbell-incorporated"
+},
+"unionpacific": {
+"company": "Union Pacific Corporation",
+"sector": "Industrial Goods",
+"anchor": "union-pacific-corporation"
+},
+"globalindustrial": {
+"company": "Global Industrial Company",
+"sector": "Industrial Goods",
+"anchor": "global-industrial-company"
+},
+"simonproperty": {
+"company": "Simon Property Group Inc.",
+"sector": "Real Estate",
+"anchor": "simon-property-group-inc"
+},
+"americaneagleoutfitters": {
+"company": "American Eagle Outfitters, Inc.",
+"sector": "Services",
+"anchor": "american-eagle-outfitters-inc"
+},
+"costcowholesale": {
+"company": "Costco Wholesale Corporation",
+"sector": "Services",
+"anchor": "costco-wholesale-corporation"
+},
+"hiltonworldwide": {
+"company": "Hilton Worldwide Holdings Inc.",
+"sector": "Services",
+"anchor": "hilton-worldwide-holdings-inc"
+},
+"southwestairlines": {
+"company": "Southwest Airlines Co.",
+"sector": "Services",
+"anchor": "southwest-airlines-co"
+},
+"oracle": {
+"company": "Oracle Corporation",
+"sector": "Technology",
+"anchor": "oracle-corporation"
+},
+"viasat": {
+"company": "Viasat, Inc.",
+"sector": "Technology",
+"anchor": "viasat-inc"
+},
+"libertyglobal": {
+"company": "Liberty Global Ltd.",
+"sector": "Technology",
+"anchor": "liberty-global-ltd"
+},
+"servicenow": {
+"company": "ServiceNow, Inc.",
+"sector": "Technology",
+"anchor": "servicenow-inc"
+},
+"nrgenergy": {
+"company": "NRG Energy, Inc.",
+"sector": "Utilities",
+"anchor": "nrg-energy-inc"
+},
+"celanese": {
+"company": "Celanese Corp.",
+"sector": "Basic Materials",
+"anchor": "celanese-corp"
+},
+"lundingold": {
+"company": "Lundin Gold Inc.",
+"sector": "Basic Materials",
+"anchor": "lundin-gold-inc"
+},
+"paper": {
+"company": "International Paper Co.",
+"sector": "Basic Materials",
+"anchor": "international-paper-co"
+},
+"whirlpool": {
+"company": "Whirlpool Corporation",
+"sector": "Consumer Goods",
+"anchor": "whirlpool-corporation"
+},
+"lowescompanies": {
+"company": "Lowe's Companies, Inc.",
+"sector": "Consumer Goods",
+"anchor": "lowe-s-companies-inc"
+},
+"kimberlyclark": {
+"company": "Kimberly-Clark Corp.",
+"sector": "Consumer Goods",
+"anchor": "kimberly-clark-corp"
+},
+"jakkspacific": {
+"company": "JAKKS Pacific, Inc.",
+"sector": "Consumer Goods",
+"anchor": "jakks-pacific-inc"
+},
+"occidentalpetroleum": {
+"company": "Occidental Petroleum Corp.",
+"sector": "Energy",
+"anchor": "occidental-petroleum-corp"
+},
+"oneok": {
+"company": "ONEOK, Inc.",
+"sector": "Energy",
+"anchor": "oneok-inc"
+},
+"aresmanagement": {
+"company": "Ares Management Corporation",
+"sector": "Financial",
+"anchor": "ares-management-corporation"
+},
+"arthurjgallagher": {
+"company": "Arthur J. Gallagher & Co.",
+"sector": "Financial",
+"anchor": "arthur-j-gallagher-co"
+},
+"agncinvestment": {
+"company": "AGNC Investment Corp.",
+"sector": "Financial",
+"anchor": "agnc-investment-corp"
+},
+"unitedhealthincorporated": {
+"company": "UnitedHealth Group Incorporated",
+"sector": "Healthcare",
+"anchor": "unitedhealth-group-incorporated"
+},
+"insulet": {
+"company": "Insulet Corporation",
+"sector": "Healthcare",
+"anchor": "insulet-corporation"
+},
+"optioncarehealth": {
+"company": "Option Care Health, Inc.",
+"sector": "Healthcare",
+"anchor": "option-care-health-inc"
+},
+"jacobssolutions": {
+"company": "Jacobs Solutions Inc.",
+"sector": "Industrial Goods",
+"anchor": "jacobs-solutions-inc"
+},
+"powellindustries": {
+"company": "Powell Industries, Inc.",
+"sector": "Industrial Goods",
+"anchor": "powell-industries-inc"
+},
+"muellerindustries": {
+"company": "Mueller Industries, Inc.",
+"sector": "Industrials",
+"anchor": "mueller-industries-inc"
+},
+"gap": {
+"company": "Gap Inc.",
+"sector": "Services",
+"anchor": "gap-inc"
+},
+"dollartree": {
+"company": "Dollar Tree, Inc.",
+"sector": "Services",
+"anchor": "dollar-tree-inc"
+},
+"marriott": {
+"company": "Marriott International, Inc.",
+"sector": "Services",
+"anchor": "marriott-international-inc"
+},
+"draftkings": {
+"company": "DraftKings Inc.",
+"sector": "Services",
+"anchor": "draftkings-inc"
+},
+"hp": {
+"company": "HP Inc.",
+"sector": "Technology",
+"anchor": "hp-inc"
+},
+"alphabet": {
+"company": "Alphabet Inc.",
+"sector": "Technology",
+"anchor": "alphabet-inc"
+},
+"digitalocean": {
+"company": "DigitalOcean Holdings, Inc.",
+"sector": "Technology",
+"anchor": "digitalocean-holdings-inc"
+},
+"teledyneincorporated": {
+"company": "Teledyne Technologies Incorporated",
+"sector": "Technology",
+"anchor": "teledyne-technologies-incorporated"
+},
+"americanwaterworks": {
+"company": "American Water Works Company, Inc.",
+"sector": "Utilities",
+"anchor": "american-water-works-company-inc"
+},
+"freeportmcmoran": {
+"company": "Freeport-McMoRan Inc.",
+"sector": "Basic Materials",
+"anchor": "freeport-mcmoran-inc"
+},
+"bhp": {
+"company": "BHP Group Plc",
+"sector": "Basic Materials",
+"anchor": "bhp-group-plc"
+},
+"clevelandcliffs": {
+"company": "Cleveland-Cliffs Inc.",
+"sector": "Basic Materials",
+"anchor": "cleveland-cliffs-inc"
+},
+"mondelez": {
+"company": "Mondelez International",
+"sector": "Consumer Goods",
+"anchor": "mondelez-international"
+},
+"crown": {
+"company": "Crown Holdings, Inc.",
+"sector": "Consumer Goods",
+"anchor": "crown-holdings-inc"
+},
+"pepsico": {
+"company": "PepsiCo Inc.",
+"sector": "Consumer Goods",
+"anchor": "pepsico-inc"
+},
+"anteroresources": {
+"company": "Antero Resources Corp.",
+"sector": "Energy",
+"anchor": "antero-resources-corp"
+},
+"bakerhughes": {
+"company": "Baker Hughes Company",
+"sector": "Energy",
+"anchor": "baker-hughes-company"
+},
+"williamscompanies": {
+"company": "Williams Companies, Inc.",
+"sector": "Energy",
+"anchor": "williams-companies-inc"
+},
+"invesco": {
+"company": "Invesco Ltd.",
+"sector": "Financial",
+"anchor": "invesco-ltd"
+},
+"prudentialfinancial": {
+"company": "Prudential Financial, Inc.",
+"sector": "Financial",
+"anchor": "prudential-financial-inc"
+},
+"regeneronpharmaceuticals": {
+"company": "Regeneron Pharmaceuticals Inc.",
+"sector": "Healthcare",
+"anchor": "regeneron-pharmaceuticals-inc"
+},
+"westpharmaceutical": {
+"company": "West Pharmaceutical Services, Inc.",
+"sector": "Healthcare",
+"anchor": "west-pharmaceutical-services-inc"
+},
+"accobrands": {
+"company": "ACCO Brands Corporation",
+"sector": "Industrial Goods",
+"anchor": "acco-brands-corporation"
+},
+"comfortusa": {
+"company": "Comfort Systems USA, Inc.",
+"sector": "Industrial Goods",
+"anchor": "comfort-systems-usa-inc"
+},
+"appliedindustrial": {
+"company": "Applied Industrial Technologies, Inc.",
+"sector": "Industrial Goods",
+"anchor": "applied-industrial-technologies-inc"
+},
+"brady": {
+"company": "Brady Corporation",
+"sector": "Industrial Goods",
+"anchor": "brady-corporation"
+},
+"welltower": {
+"company": "Welltower Inc.",
+"sector": "Real Estate",
+"anchor": "welltower-inc"
+},
+"nike": {
+"company": "NIKE, Inc.",
+"sector": "Retail",
+"anchor": "nike-inc"
+},
+"siriusxm": {
+"company": "Sirius XM Holdings Inc.",
+"sector": "Services",
+"anchor": "sirius-xm-holdings-inc"
+},
+"nutrien": {
+"company": "Nutrien Ltd.",
+"sector": "Basic Materials",
+"anchor": "nutrien-ltd"
+},
+"martinmariettamaterials": {
+"company": "Martin Marietta Materials, Inc.",
+"sector": "Basic Materials",
+"anchor": "martin-marietta-materials-inc"
+},
+"exxonmobil": {
+"company": "Exxon Mobil Corporation",
+"sector": "Basic Materials",
+"anchor": "exxon-mobil-corporation"
+},
+"stagwell": {
+"company": "Stagwell Inc.",
+"sector": "Consumer Goods",
+"anchor": "stagwell-inc"
+},
+"eastmankodak": {
+"company": "Eastman Kodak Company",
+"sector": "Consumer Goods",
+"anchor": "eastman-kodak-company"
+},
+"colgatepalmolive": {
+"company": "Colgate-Palmolive Co.",
+"sector": "Consumer Goods",
+"anchor": "colgate-palmolive-co"
+},
+"philipmorris": {
+"company": "Philip Morris International",
+"sector": "Consumer Goods",
+"anchor": "philip-morris-international"
+},
+"eqt": {
+"company": "EQT Corporation",
+"sector": "Energy",
+"anchor": "eqt-corporation"
+},
+"energytransferlp": {
+"company": "Energy Transfer LP",
+"sector": "Energy",
+"anchor": "energy-transfer-lp"
+},
+"suncorenergy": {
+"company": "Suncor Energy Inc.",
+"sector": "Energy",
+"anchor": "suncor-energy-inc"
+},
+"americanexpress": {
+"company": "American Express Company",
+"sector": "Financial",
+"anchor": "american-express-company"
+},
+"pncfinancial": {
+"company": "The PNC Financial Services Group, Inc.",
+"sector": "Financial",
+"anchor": "the-pnc-financial-services-group-inc"
+},
+"bectondickinson": {
+"company": "Becton, Dickinson and Company",
+"sector": "Healthcare",
+"anchor": "becton-dickinson-and-company"
+},
+"brightspringhealth": {
+"company": "BrightSpring Health Services, Inc.",
+"sector": "Healthcare",
+"anchor": "brightspring-health-services-inc"
+},
+"generac": {
+"company": "Generac Holdings Inc.",
+"sector": "Industrial Goods",
+"anchor": "generac-holdings-inc"
+},
+"sterlinginfrastructure": {
+"company": "Sterling Infrastructure, Inc.",
+"sector": "Industrial Goods",
+"anchor": "sterling-infrastructure-inc"
+},
+"fergusonenterprises": {
+"company": "Ferguson Enterprises Inc.",
+"sector": "Industrial Goods",
+"anchor": "ferguson-enterprises-inc"
+},
+"republic": {
+"company": "Republic Services, Inc.",
+"sector": "Industrial Goods",
+"anchor": "republic-services-inc"
+},
+"avalonbaycommunities": {
+"company": "AvalonBay Communities, Inc.",
+"sector": "Real Estate",
+"anchor": "avalonbay-communities-inc"
+},
+"suncountryairlines": {
+"company": "Sun Country Airlines Holdings, Inc.",
+"sector": "Services",
+"anchor": "sun-country-airlines-holdings-inc"
+},
+"signetjewelerslimited": {
+"company": "Signet Jewelers Limited",
+"sector": "Services",
+"anchor": "signet-jewelers-limited"
+},
+"newyorktimes": {
+"company": "The New York Times Company",
+"sector": "Services",
+"anchor": "the-new-york-times-company"
+},
+"roberthalf": {
+"company": "Robert Half Inc.",
+"sector": "Services",
+"anchor": "robert-half-inc"
+},
+"f5": {
+"company": "F5, Inc.",
+"sector": "Technology",
+"anchor": "f5-inc"
+},
+"maplebeardbainstacart": {
+"company": "Maplebear Inc. dba Instacart",
+"sector": "Technology",
+"anchor": "maplebear-inc-dba-instacart"
+}
+},
+"trend_names": {
+"gray-wave-dividend": "The Gray Wave Dividend",
+"ai-infrastructure-toll": "The AI Infrastructure Toll",
+"outage-anxiety-economy": "The Outage Anxiety Economy",
+"cash-harvest": "The Cash Harvest",
+"spread-machine": "The Spread Machine",
+"vertical-integration-ratchet": "The Vertical Integration Ratchet",
+"trust-market": "The Trust Market",
+"addiction-dividend": "The Addiction Dividend",
+"presence-premium": "The Presence Premium",
+"affordability-ceiling": "The Affordability Ceiling",
+"workers-invisible-tax": "The Workers' Invisible Tax",
+"screening-revolution": "The Screening Revolution",
+"local-news-collapse": "The Local News Collapse",
+"ritual-economy": "The Ritual Economy",
+"ai-cultural-disintermediation": "AI Cultural Disintermediation",
+"pet-economy-mirror": "The Pet Economy's Mirror",
+"grids-new-landlords": "The Grid's New Landlords",
+"membership-or-nothing": "Membership or Nothing",
+"commodity-whiplash-transfer": "The Commodity Whiplash Transfer",
+"private-capital-colonization": "The Private Capital Colonization"
+}
+}

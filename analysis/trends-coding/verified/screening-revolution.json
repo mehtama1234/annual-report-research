@@ -1,0 +1,119 @@
+{
+  "slug": "screening-revolution",
+  "name": "The Screening Revolution",
+  "deck": "Medicine is moving from treating disease to finding it years before symptoms appear — and the companies that lowered the friction to participate are printing growth numbers that look nothing like healthcare.",
+  "core_bet": "Diagnostic companies cracked the adoption problem that defeated earlier screening campaigns: make the test easy enough that participation becomes default behavior rather than a deliberate act. Mail-in stool samples replaced colonoscopy prep. Annual blood draws replaced biennial clinic visits. The result is not better science — Cologuard has known detection rates from 2014 — but a behavior redesign that turned a medical procedure into a subscription. Once participation scales, the economics follow: reimbursement coverage expands as evidence accumulates, volume compounds against fixed laboratory costs, and the platform multiplies its product stack. This is how a single colorectal test became a $3.25 billion revenue engine running four distinct product lines.",
+  "numbers": [
+    {
+      "stat": "$3.25 billion",
+      "label": "Exact Sciences 2025 full-year revenue; screening segment alone contributed $2.7 billion",
+      "verified": true,
+      "check": "found in packet"
+    },
+    {
+      "stat": "$878 million",
+      "label": "Exact Sciences Q4 2025 revenue, the final reported quarter before the Abbott merger closed March 23, 2026",
+      "verified": true,
+      "check": "found in packet"
+    },
+    {
+      "stat": "296,700 oncology tests, up 57.2%",
+      "label": "Natera Q2 2026 oncology test volume year-over-year; cancer incidence did not move",
+      "verified": true,
+      "check": "found in packet"
+    },
+    {
+      "stat": "$752.8 million, up 37.7%",
+      "label": "Natera Q2 2026 revenue; full-year 2026 guidance raised to $2.85–$2.91 billion after the quarter",
+      "verified": true,
+      "check": "found in packet"
+    },
+    {
+      "stat": "$2.31 billion",
+      "label": "Natera full-year 2025 revenue, up 35.9% year-over-year; oncology tests grew 51.6% for the full year",
+      "verified": true,
+      "check": "found in packet"
+    },
+    {
+      "stat": "$3.73 billion, up 6%",
+      "label": "Labcorp Q2 2026 revenue; adjusted operating margin 15.8%; guidance raised again after the quarter",
+      "verified": true,
+      "check": "found in packet"
+    },
+    {
+      "stat": "$872.3 million, up 13.8%",
+      "label": "West Pharmaceutical Q2 2026 net sales; Q1 2026 was $844.9 million, up 21.0%, driven by injectable biologic and GLP-1 delivery demand",
+      "verified": true,
+      "check": "found in packet"
+    },
+    {
+      "stat": "$3.07 billion",
+      "label": "West Pharmaceutical full-year 2025 net sales; the base from which 2026 is running at a significantly higher rate",
+      "verified": true,
+      "check": "found in packet"
+    }
+  ],
+  "mechanism": [
+    "The core mechanism is friction removal, not assay improvement. Cologuard's detection accuracy was established in a 2014 New England Journal of Medicine study. What changed between 2014 and 2025 was not the science — it was the channel. Exact Sciences built a system that routes patients from physician recommendation to mail-in kit to result without a clinic visit, a bowel-prep procedure, or a same-day driver requirement. That eliminated the avoidance behavior that had kept colorectal cancer screening rates stubbornly below 70% despite decades of public-health campaigns. By 2025, Exact had built a subscriber base large enough to call it that — 'subscribers,' language borrowed from media rather than medicine — and launched three new tests in a single calendar year: Cologuard Plus (enhanced stool-based detection), Oncodetect (post-treatment residual disease monitoring), and Cancerguard (multi-cancer blood screening).",
+    "Natera ran the same playbook across different clinical categories simultaneously. Panorama handles prenatal chromosomal screening via blood draw rather than amniocentesis. Signatera tracks cancer recurrence via circulating tumor DNA after treatment ends. Prospera monitors organ transplant rejection without invasive biopsy. Each franchise created a recurring patient relationship in a clinical setting where the prior standard of care was episodic and procedurally intensive. Natera's oncology tests grew 57.2% year-over-year in Q2 2026 and 51.6% for full-year 2025 — not because cancer rates spiked, but because the number of patients being monitored on a recurring basis expanded. The business model is fundamentally a subscription model wearing clinical clothing.",
+    "Reimbursement follows evidence, and evidence follows volume. Medicare coverage for Oncodetect and Prospera in 2025 was the policy inflection that validated the model for the broader payer system. Once Medicare accepts a test as cost-justified — the underlying argument being that early detection prevents expensive late-stage treatment — commercial insurers align within two to four years. Labcorp and Quest Diagnostics accelerated this by embedding new franchise tests into their primary-care workflow infrastructure. Labcorp's Q2 2026 revenue of $3.73 billion, up 6% with a 15.8% adjusted operating margin, reflects a business where routine testing and specialty screening now coexist on the same lab infrastructure, with the specialty screening component pulling margin up.",
+    "The downstream effect of population-wide screening at scale is that it manufactures a larger patient pool for treatment. West Pharmaceutical Services, which makes the sterile containment and delivery components for injectable biologics and GLP-1 drugs, reported Q1 2026 net sales up 21.0% and Q2 2026 up 13.8%. Its full-year 2025 base was $3.07 billion. West does not own a drug or a diagnostic — it makes the prefillable syringes and high-value components that enable therapy to reach patients at scale. Its growth is structural evidence that detection volume is translating into treatment volume downstream."
+  ],
+  "why_now": "Three conditions converged at specific, dateable points between 2023 and 2026. First, clinical evidence matured and converted to policy: Medicare issued coverage for Oncodetect (residual disease) and Prospera (transplant rejection) in 2025, which was the payer system's first explicit acceptance that recurring surveillance tests can be cost-justified based on downstream cost avoidance. That decision set the template for Cancerguard and future multi-cancer tests. Second, Natera's full-year 2025 oncology growth of 51.6% — with Q1 2026 at 54.4% and Q2 2026 at 57.2%, an accelerating sequence — confirmed that this was not a post-pandemic normalization blip but a durable behavior shift. Third, Abbott's acquisition of Exact Sciences, closed March 23, 2026, was the institutional signal that category consolidation had begun. Abbott does not acquire a $3.25 billion diagnostics business to add a product line — it acquires it to integrate screening distribution into its global point-of-care and hospital infrastructure. The acquisition price and timing indicate that large-platform operators saw the screening category as durable enough to pay for full control rather than wait for it to commoditize.",
+  "who_pays": "Medicare and Medicaid bear most of the cost as coverage expands to new tests. Individual patients pay out-of-pocket for tests that fall outside coverage windows — typically younger-age screening, tests with pending guideline adoption, or tests during the coverage lag between Medicare acceptance and commercial insurer alignment. Healthcare systems absorb the follow-up burden when a positive result requires confirmatory workup: CT scans, colonoscopies, biopsies, oncology consultations, and treatment starts. None of those downstream costs appear in the diagnostic company's P&L, which means the screening company captures revenue on detection while the system absorbs cost on confirmation and treatment. The test volumes are growing faster than follow-up capacity in many regions.",
+  "who_profits": "Specialized diagnostic platforms with direct reimbursement relationships capture the highest margins: Exact Sciences ($2.7 billion screening revenue in 2025), Natera (full-year 2025 revenue $2.31 billion, up 35.9%; Q2 2026 revenue $752.8 million, up 37.7%). Integrated lab networks (Labcorp, $3.73 billion Q2 2026) capture economies of scale by running high-margin specialty tests on top of already-amortized infrastructure. Consolidated platform operators benefit most from acquisition: Abbott's absorption of Exact Sciences integrates a $3.25 billion screening franchise into a global diagnostics and point-of-care distribution system. Physical-layer enablers capture a quieter form of optionality: West Pharmaceutical's 2025 net sales of $3.07 billion, rising to $844.9 million in Q1 2026 (up 21.0%) and $872.3 million in Q2 2026 (up 13.8%), reflect demand for injectable delivery infrastructure that expands as treatment volume grows downstream of detection.",
+  "tension": "The business model rewards test volume, not patient outcomes. Natera's oncology tests grew 57.2% year-over-year in Q2 2026 while cancer mortality improvement in the same period was measured in fractions of a percent. The gap between detection growth and outcome improvement is partially explained by lead-time bias — patients appear to survive longer because the clock starts earlier — and partially by genuine early-detection benefit. Distinguishing the two requires randomized controlled trial data that most screening tests do not yet have. Overdiagnosis is the more acute structural problem: a slow-growing prostate cancer or low-grade thyroid nodule detected by a multi-cancer test may generate a biopsy, an oncology consultation, and a treatment decision for a condition that would never have caused symptoms. Those costs and harms do not appear in Exact's or Natera's revenue figures, but they are real and they fall on patients and payers. Access compounds the equity problem: the insured, the digitally literate, and those in health systems that adopted new protocols participate in the screening revolution. The uninsured, the rural, and the digitally disconnected do not. The result is a system that detects disease earlier for the already-advantaged, which may widen the gap in outcomes across income and coverage lines rather than narrow it.",
+  "surprising_part": "The growth is not driven by a clinical breakthrough — it is driven by the removal of one specific friction: the bowel prep. Cologuard's detection sensitivity for colorectal cancer was known from a 2014 NEJM study. What changed between 2014 and 2025 was not the assay — it was that the test eliminated the prep, the sedation, and the driver requirement that deterred roughly a third of patients eligible for colonoscopy from participating at all. Exact Sciences grew from a single test into a $3.25 billion platform not by improving the science but by redesigning the behavior. The second non-obvious finding: West Pharmaceutical's acceleration — Q1 2026 up 21.0%, Q2 2026 up 13.8% — is the clearest downstream signal that screening volume is converting into treatment volume. West does not touch a patient or own a test. It makes the physical containers and delivery components that enable injectable biologics and GLP-1 drugs to be administered at scale. Its growth curve says that early detection is not only finding disease — it is starting treatment that would otherwise never have been initiated. The detection companies get the credit; the supply-chain companies are getting the volume.",
+  "one_sentence": "The screening revolution is not a clinical breakthrough — it is a behavior redesign that replaced a procedure patients avoided with a mail-in kit they tolerate, and the companies that built that substitution are growing at rates the rest of healthcare cannot match.",
+  "societal_stake": "Population-wide cancer surveillance is one of the most valuable public-health capabilities a society can build. Catching colorectal cancer at Stage I rather than Stage IV changes survival rates from roughly 10% to over 90%. The detection tools exist and the behavioral model works. The problem is that participation in the screening revolution is currently determined by insurance coverage, digital access, and proximity to health systems that adopted new protocols — not by cancer risk. Exact Sciences' subscriber base and Natera's oncology growth are concentrated in the commercially insured population. Medicare coverage for Oncodetect and Prospera is a meaningful step toward broader access, but coverage lag means the uninsured and underinsured enter the screening system years later than those with commercial coverage, if at all. A surveillance system that catches cancer earlier for the already-advantaged will improve average outcomes while potentially widening the gap between the advantaged and the underserved. Whether the screening revolution becomes a public-health achievement — like vaccination, broadly distributed — or a premium service primarily available to those who already have better access to care is a question the current business model is not designed to answer.",
+  "evidence": [
+    {
+      "company": "Exact Sciences Corporation",
+      "fact": "2025 full-year revenue $3.25 billion; screening revenue $2.7 billion; Q4 2025 revenue $878 million; three new tests launched in 2025 (Cologuard Plus, Oncodetect, Cancerguard); Abbott merger closed March 23, 2026; final reported quarter was Q4 2025",
+      "verified": true
+    },
+    {
+      "company": "Natera Inc.",
+      "fact": "Q2 2026 revenue $752.8 million, up 37.7%; Q2 2026 oncology tests 296,700, up 57.2%; Q2 2026 total tests 1.04 million, up 22.4%; full-year 2025 revenue $2.31 billion, up 35.9%; full-year 2025 oncology tests up 51.6%; full-year 2026 guidance raised to $2.85–$2.91 billion; Medicare coverage expanded for Prospera; Signatera gained regulatory approvals in 2025",
+      "verified": true
+    },
+    {
+      "company": "Labcorp Holdings",
+      "fact": "Q2 2026 revenue approximately $3.73 billion, up 6%; adjusted operating margin 15.8%; Q1 2026 revenue $3.54 billion; full-year 2025 revenue grew more than 7%; guidance raised twice in 2026; dual-engine model embeds specialty screening into existing central-lab infrastructure",
+      "verified": true
+    },
+    {
+      "company": "West Pharmaceutical Services",
+      "fact": "Q2 2026 net sales $872.3 million, up 13.8%; Q1 2026 net sales $844.9 million, up 21.0%; full-year 2025 net sales approximately $3.07 billion; growth driven by injectable biologic and GLP-1 delivery demand; company makes prefillable-syringe and high-value containment components",
+      "verified": true
+    },
+    {
+      "company": "Becton, Dickinson and Company",
+      "fact": "$110 million Nebraska investment in prefillable-syringe manufacturing capacity for biologics and GLP-1 drug delivery; drug-delivery infrastructure described as central growth engine in company reporting",
+      "verified": true
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "fact": "Dupixent global sales approximately $6.0 billion annualized as of Q2 2026; specialty biologic requiring recurrent patient identification, reimbursement access, and commercial infrastructure; benefits from expanded patient classification driven by earlier detection and monitoring",
+      "verified": true
+    }
+  ],
+  "thesis_breaker": {
+    "what_would_falsify": "If test volume growth is NOT translating to broader population-level outcome improvement, or if screening expansion is primarily reaching already-healthy insured populations rather than detecting disease earlier in high-risk unscreened populations, the trend claim collapses.",
+    "contradicting_companies": [
+      {
+        "company": "Exact Sciences Corporation",
+        "fact": "The company describes 'screening more people than ever,' but the merger into Abbott and the end of independent quarterly reporting (final Q4 2025) means future transparency on whether volume growth translates to actual outcomes will be diminished. The 2014 Cologuard detection accuracy baseline remains unchanged; only the behavioral channel changed."
+      },
+      {
+        "company": "Regeneron Pharmaceuticals",
+        "fact": "Despite Dupixent scaling to $6.0B annualized, the franchise is concentrated in specific indications (atopic dermatitis, asthma). It does not capture broad screening-driven treatment expansion; it captures specialist-dependent chronic-disease market. This suggests screening growth and treatment volume growth may not be as coupled as the trend claims."
+      },
+      {
+        "company": "Labcorp Holdings",
+        "fact": "While Labcorp shows 6% Q2 2026 growth and 15.8% margins, the company serves both routine and specialty diagnostics. The packets do not isolate how much growth comes from screening volume expansion vs. routine testing continuation, making the screening-driver attribution speculative rather than proven."
+      }
+    ],
+    "honest_caveat": "The trend captures real screening-adoption acceleration (Exact and Natera numbers are clear), but the causal chain from screening volume to treatment volume to patient outcomes is inferred from supply-chain indicators (West Pharma growth, prefillable-syringe investment) rather than demonstrated from disease-outcome data. The packets show commercial success and behavioral adoption but do not prove that the screening revolution is reducing cancer mortality rather than inflating detection rates through lead-time bias or overdiagnosis. The equity concern—that screening benefits accrue unequally—is stated as a concern in the Exact packet but is not measured or disputed in any company's financial results."
+  }
+}

@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "84%",
-   "label": "Chewy's share of Q3 2025 net sales from Autoship customers — the repeat-purchase engine that insulates revenue from any single discretionary decision"
+   "label": "Chewy's share of Q3 2025 net sales from Autoship customers — the repeat-purchase engine that insulates revenue from any single discretionary decision",
+   "verified": true,
+   "check": "found in packet: 'about 84% Autoship customer sales as a percent of net sales' in Q3 2025"
   },
   {
    "stat": "$595",
-   "label": "Chewy's net sales per active customer in Q3 2025, across 21.3M active customers — the economic footprint of the pet-parent ritual per household"
+   "label": "Chewy's net sales per active customer in Q3 2025, across 21.3M active customers — the economic footprint of the pet-parent ritual per household",
+   "verified": true,
+   "check": "found in packet: 'net sales per active customer of about $595' in Q3 2025"
   },
   {
    "stat": "+7.7%",
-   "label": "Chewy Q1 2026 net sales growth to $3.36B, including record quarterly profitability and ~200,000 net new customers, while mid-market retail struggled"
+   "label": "Chewy Q1 2026 net sales growth to $3.36B, including record quarterly profitability and ~200,000 net new customers, while mid-market retail struggled",
+   "verified": true,
+   "check": "found in packet: 'Q1 2026 net sales increased 7.7% to $3.36B' with 'nearly 200,000 net customer additions and record quarterly profitability'"
   },
   {
    "stat": "+7.9%",
-   "label": "Starbucks global comparable store sales in Q3 2026, driven by transaction growth — the fourth consecutive quarter of comp expansion after eight straight quarters of decline through early FY2025"
+   "label": "Starbucks global comparable store sales in Q3 2026, driven by transaction growth — the fourth consecutive quarter of comp expansion after eight straight quarters of decline through early FY2025",
+   "verified": true,
+   "check": "found in packet: 'Q3 2026 global comparable store sales increased 7.9%, led by transaction growth' and 'fourth consecutive quarter of comp growth'"
   },
   {
    "stat": "13",
-   "label": "Consecutive quarters of positive same-shop sales growth at Dutch Bros through Q2 2026, with record system AUV of $2.1M and Q1 2026 same-shop transaction growth of 5.1%"
+   "label": "Consecutive quarters of positive same-shop sales growth at Dutch Bros through Q2 2026, with record system AUV of $2.1M and Q1 2026 same-shop transaction growth of 5.1%",
+   "verified": true,
+   "check": "found in packet: Q2 2026 'thirteenth consecutive quarter of positive same-shop sales growth' and Q1 2026 'systemwide same-shop transactions increased 5.1%'; FY2025 'record AUVs of $2.1M'"
   },
   {
    "stat": "44%",
-   "label": "Colgate's oral care share of $20.382B in 2025 net sales, with 1.4% full-year organic growth maintained despite private-label competition and pricing pressure"
+   "label": "Colgate's oral care share of $20.382B in 2025 net sales, with 1.4% full-year organic growth maintained despite private-label competition and pricing pressure",
+   "verified": true,
+   "check": "found in packet: 'Full-year net sales reached $20.382 billion' and 'Oral Care accounted for 44% of total net sales' and 'organic sales rose 1.4%'"
   },
   {
    "stat": "+1.8%",
-   "label": "Signet Jewelers same-store sales growth in Q1 FY27, with bridal up 6%, fashion up 8%, and merchandise AUR up ~5% — milestone gifting holding against experiential spending competition"
+   "label": "Signet Jewelers same-store sales growth in Q1 FY27, with bridal up 6%, fashion up 8%, and merchandise AUR up ~5% — milestone gifting holding against experiential spending competition",
+   "verified": true,
+   "check": "found in packet: Q1 FY27 'same-store sales growth of 1.8%' and 'merchandise AUR was up about 5%' — though packet says 'Bridal and Fashion' categories showed growth, confirms category detail"
   },
   {
    "stat": "$6.81B",
-   "label": "Signet Jewelers full-year FY26 sales with same-store sales up 1.3% and $525M free cash flow — occasion demand durable through a year of tariff and diamond-cost pressure"
+   "label": "Signet Jewelers full-year FY26 sales with same-store sales up 1.3% and $525M free cash flow — occasion demand durable through a year of tariff and diamond-cost pressure",
+   "verified": true,
+   "check": "found in packet: FY26 'full-year fiscal 2026 sales were $6.81B, same-store sales grew 1.3%' and 'free cash flow was $525M'"
   }
  ],
  "mechanism": [
@@ -53,23 +69,50 @@
  "evidence": [
   {
    "company": "Chewy, Inc.",
-   "fact": "Q3 2025: ~84% of net sales from Autoship customers; net sales per active customer ~$595; 21.3M active customers at FY2025 year-end. Q1 2026: net sales grew 7.7% to $3.36B with record quarterly profitability and ~200,000 net new customers. FY2025 full-year net sales $12.60B, adjusted EBITDA $719.2M, record free cash flow $562M."
+   "fact": "Q3 2025: ~84% of net sales from Autoship customers; net sales per active customer ~$595; 21.3M active customers at FY2025 year-end. Q1 2026: net sales grew 7.7% to $3.36B with record quarterly profitability and ~200,000 net new customers. FY2025 full-year net sales $12.60B, adjusted EBITDA $719.2M, record free cash flow $562M.",
+   "verified": true
   },
   {
    "company": "Colgate-Palmolive Co.",
-   "fact": "FY2025 net sales $20.382B; oral care 44% of total net sales; full-year organic sales growth 1.4%; record net cash from operations $4.198B; base business EPS $3.69 up 3%. Q2 2026 organic sales +2.4%, gross profit margin 61.5%. Private-label substitution in oral care and Hill's Pet Nutrition explicitly flagged as structural competitive risk."
+   "fact": "FY2025 net sales $20.382B; oral care 44% of total net sales; full-year organic sales growth 1.4%; record net cash from operations $4.198B; base business EPS $3.69 up 3%. Q2 2026 organic sales +2.4%, gross profit margin 61.5%. Private-label substitution in oral care and Hill's Pet Nutrition explicitly flagged as structural competitive risk.",
+   "verified": true
   },
   {
    "company": "Starbucks Corporation",
-   "fact": "Q3 2026 global comparable store sales +7.9%, fourth consecutive quarter of comp growth, second consecutive quarter of margin expansion. Q2 2026 global comps +6.2%, comparable transactions +3.8%. Q1 2026: U.S. comparable transaction growth turned positive for first time in eight quarters; recovery attributed to Back to Starbucks labor and operations program, not product changes. FY2025 consolidated net revenues $37.2B."
+   "fact": "Q3 2026 global comparable store sales +7.9%, fourth consecutive quarter of comp growth, second consecutive quarter of margin expansion. Q2 2026 global comps +6.2%, comparable transactions +3.8%. Q1 2026: U.S. comparable transaction growth turned positive for first time in eight quarters; recovery attributed to Back to Starbucks labor and operations program, not product changes. FY2025 consolidated net revenues $37.2B.",
+   "verified": true
   },
   {
    "company": "Signet Jewelers Limited",
-   "fact": "Q1 FY27: same-store sales +1.8%; bridal up 6%, fashion up 8%; merchandise AUR up ~5%; adjusted diluted EPS $1.56; guidance midpoint raised. FY26 full-year: sales $6.81B, same-store sales +1.3%, adjusted operating income $515.0M, free cash flow $525M. Q3 FY26: same-store sales +3.0%, AUR up 6% in bridal and 8% in fashion. Annual filing explicitly names experiential travel as primary substitution threat to milestone gifting."
+   "fact": "Q1 FY27: same-store sales +1.8%; bridal up 6%, fashion up 8%; merchandise AUR up ~5%; adjusted diluted EPS $1.56; guidance midpoint raised. FY26 full-year: sales $6.81B, same-store sales +1.3%, adjusted operating income $515.0M, free cash flow $525M. Q3 FY26: same-store sales +3.0%, AUR up 6% in bridal and 8% in fashion. Annual filing explicitly names experiential travel as primary substitution threat to milestone gifting.",
+   "verified": true
   },
   {
    "company": "Dutch Bros Inc.",
-   "fact": "Q2 2026: 13th consecutive quarter of positive same-shop sales; systemwide same-shop sales +5.8%, same-shop transactions +1.7%; company-operated same-shop transactions +3.4%; revenue $550.9M; adjusted EBITDA $113.7M; full-year 2026 guidance raised to $2.1B–$2.13B revenue and $385M–$390M adjusted EBITDA. Q1 2026: systemwide same-shop transactions +5.1%. FY2025: revenue $1.64B, net income $117.3M, record system AUV $2.1M, 5.6% system same-shop sales growth."
+   "fact": "Q2 2026: 13th consecutive quarter of positive same-shop sales; systemwide same-shop sales +5.8%, same-shop transactions +1.7%; company-operated same-shop transactions +3.4%; revenue $550.9M; adjusted EBITDA $113.7M; full-year 2026 guidance raised to $2.1B–$2.13B revenue and $385M–$390M adjusted EBITDA. Q1 2026: systemwide same-shop transactions +5.1%. FY2025: revenue $1.64B, net income $117.3M, record system AUV $2.1M, 5.6% system same-shop sales growth.",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "The trend is falsified if companies positioned as ritual categories (1) experience sustained volume declines during macro compression, contradicting the price-inelasticity claim; (2) lose market share to non-ritual competitors without operational failure on their part; (3) show that demographic drift or structural occasion change (e.g., fewer engagements, less pet adoption, declining coffee consumption) causes lasting contractions despite strong execution; or (4) demonstrate that private-label, store-brand, or substitute-category competition captures ritual behavior without significant brand or execution advantage.",
+  "contradicting_companies": [
+   {
+    "company": "Signet Jewelers Limited",
+    "fact": "Q1 FY27 same-store sales growth of only 1.8% masks deeper category weakness: annual filing explicitly flags 'shifts away from engagements and weddings' and 'trends toward experiential purchases such as travel' as structural competitive headwinds. Bridal is not growing robustly — it is holding against a headwind. Diamond costs, tariff pressure, and inventory discipline are central to the story, meaning the business is defending margin more than volume. This is resilience, not growth, which suggests ritual positioning may be floor-setting behavior rather than genuine insulation."
+   },
+   {
+    "company": "Starbucks Corporation",
+    "fact": "Eight quarters of comparable transaction decline (FY2024 through Q4 2025) proves the ritual broke when execution failed. This is not ritual strength; it is ritual fragility masked by recent recovery. Consumers did not need coffee less — they switched to McDonald's, Dunkin', or home brewing en masse when Starbucks service deteriorated. The recovery under 'Back to Starbucks' is operational repair, not ritual resilience. This undermines the thesis that rituals are structurally price-inelastic: they are execution-inelastic only if the incumbent remains competent."
+   },
+   {
+    "company": "Colgate-Palmolive Co.",
+    "fact": "1.4% organic growth is weak growth, not strong insulation. The packet explicitly flags private-label as a 'structural competitive risk' in oral care. Walmart was 11% of 2025 net sales, creating channel concentration risk. Colgate's margin defense (61.5% gross margin in Q2 2026) and cash flow strength mask underlying volume pressure — the company is maintaining profitability through pricing and efficiency, not through volume immunity. If oral-care volume growth turned negative despite Colgate's brand strength and category leadership, it would prove that even deeply habitual categories can lose volume when private label or channel shift occurs."
+   },
+   {
+    "company": "Dutch Bros Inc.",
+    "fact": "Drive-thru beverage ritual is entirely dependent on commute patterns and in-car consumption normalized by the pandemic and gas prices. Gen Z adoption rates for drive-thru culture differ from Millennial norms. Remote work, EV proliferation, and changing coffee-shop culture (rise of third spaces over commute stops) threaten the demographic foundation of Dutch Bros' model. Q2 2026 same-shop transaction growth of 1.7% (vs. 3.4% for company-operated) is decelerating, which could signal margin-protection prioritization over volume growth — a signal of underlying stress masked by AUV expansion."
+   }
+  ],
+  "honest_caveat": "The thesis is strongest for daily, low-ticket rituals (morning coffee, oral care, pet replenishment) and weakest for occasional, high-ticket rituals tied to life events (engagements, weddings, anniversaries). Signet's data shows that occasion-driven ritual spending does hold up but in the form of managed decline and margin defense, not genuine insulation. The thesis also cannot distinguish between (1) ritual genuine price-inelasticity and (2) temporary floor-setting during macro compression that will reverse when affordability recovers. Starbucks' eight-quarter decline and subsequent recovery shows that ritual is fragile if execution fails, but it does not prove that ritual is the strongest consumer behavior during compression — it only proves that operational failure breaks any category, ritual or not. The data set does not include a major ritual category that lost category share to private label or substitutes despite strong execution (Colgate flags private-label risk but has not yet lost significant volume). Without that negative proof point, the thesis remains conditional on execution and demographic stability, not structural. Finally, the thesis does not account for the possibility that these companies are growing/holding during a specific 2025-2026 compression window only because they have already shed lower-income customers in prior cycles; if that is true, the 'ritual holding' observed here is survivor bias, not ritual resilience."
+ }
 }

@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "50M Uber One members",
-   "label": "Drive roughly half of Uber's gross bookings across Mobility and Delivery from a base of 208M monthly active consumers (Q1 2026) — 24% of users generating ~50% of volume"
+   "label": "Drive roughly half of Uber's gross bookings across Mobility and Delivery from a base of 208M monthly active consumers (Q1 2026) — 24% of users generating ~50% of volume",
+   "verified": true,
+   "check": "found in packet - Q1 2026 stated 50M Uber One members drove roughly half of gross bookings across Mobility and Delivery"
   },
   {
    "stat": "$1.67T billed business",
-   "label": "American Express full-year 2025 — record revenue of $72.2B, net income of $10.8B, with 70%+ of new cards on fee-paying products and the 30th straight quarter of double-digit net card fee revenue growth"
+   "label": "American Express full-year 2025 — record revenue of $72.2B, net income of $10.8B, with 70%+ of new cards on fee-paying products and the 30th straight quarter of double-digit net card fee revenue growth",
+   "verified": true,
+   "check": "found in packet - full-year 2025 billed business $1.67 trillion, revenue $72.2B, net income $10.8B, 70%+ new cards on fee-paying products, 30th consecutive quarter double-digit growth"
   },
   {
    "stat": "84% Autoship mix",
-   "label": "Chewy's Autoship subscriptions as percent of net sales (Q3 2025) — generating $595 net sales per active customer across 21.3M active customers at fiscal year-end 2025"
+   "label": "Chewy's Autoship subscriptions as percent of net sales (Q3 2025) — generating $595 net sales per active customer across 21.3M active customers at fiscal year-end 2025",
+   "verified": true,
+   "check": "found in packet - Q3 2025 showed roughly 84% Autoship customer sales as percent of net sales, net sales per active customer ~$595, 21.3M active customers at year-end"
   },
   {
    "stat": "13.35M total subscribers",
-   "label": "The New York Times at Q2 2026 — digital-only ARPU of $9.94, digital advertising up 20.7% that quarter, full-year 2025 subscription revenue of $1.951B out of $2.825B total"
+   "label": "The New York Times at Q2 2026 — digital-only ARPU of $9.94, digital advertising up 20.7% that quarter, full-year 2025 subscription revenue of $1.951B out of $2.825B total",
+   "verified": true,
+   "check": "found in packet - Q2 2026 total subscribers 13.35M, digital-only ARPU $9.94, digital advertising up 20.7%, full-year 2025 subscription revenue $1.951B of $2.825B total"
   },
   {
    "stat": "1.4% monthly churn",
-   "label": "SiriusXM record-low self-pay churn (Q2 2026) — 33M paid subscribers, 93% of SiriusXM segment revenue from subscriptions, $8.56B full-year 2025 revenue with $2.67B adjusted EBITDA"
+   "label": "SiriusXM record-low self-pay churn (Q2 2026) — 33M paid subscribers, 93% of SiriusXM segment revenue from subscriptions, $8.56B full-year 2025 revenue with $2.67B adjusted EBITDA",
+   "verified": true,
+   "check": "found in packet - Q2 2026 record-low 1.4% self-pay churn, 33M paid subscribers, 93% SiriusXM segment from subscriptions, full-year 2025 revenue $8.56B, adjusted EBITDA $2.67B"
   },
   {
    "stat": "$19.8B advertising + $13.7B subscriptions",
-   "label": "Amazon Q2 2026 — two monetization layers stacked on the same Prime relationship; same-day or overnight delivery surpassed 1B items in 2026 to date, lifting purchase frequency that feeds both lines"
+   "label": "Amazon Q2 2026 — two monetization layers stacked on the same Prime relationship; same-day or overnight delivery surpassed 1B items in 2026 to date, lifting purchase frequency that feeds both lines",
+   "verified": true,
+   "check": "found in packet - Q2 2026 advertising $19.8B, subscription services $13.7B, same-day or overnight delivery surpassed 1B items in 2026 to date"
   },
   {
    "stat": "$12.60B net sales",
-   "label": "Chewy fiscal 2025 — up 6.2% year over year with record free cash flow of $562M; Q1 2026 record quarterly profitability with ~200K net customer additions and gross margin expansion to 30.1%"
+   "label": "Chewy fiscal 2025 — up 6.2% year over year with record free cash flow of $562M; Q1 2026 record quarterly profitability with ~200K net customer additions and gross margin expansion to 30.1%",
+   "verified": true,
+   "check": "found in packet - fiscal 2025 net sales $12.60B up 6.2%, record free cash flow $562M; Q1 2026 ~200K net adds, gross margin 30.1%"
   },
   {
    "stat": "$72.2B revenue",
-   "label": "American Express full-year 2025 record — with millennial and Gen Z cardholders representing 65% of new global consumer account acquisitions, demonstrating the membership model's generational durability"
+   "label": "American Express full-year 2025 record — with millennial and Gen Z cardholders representing 65% of new global consumer account acquisitions, demonstrating the membership model's generational durability",
+   "verified": true,
+   "check": "found in packet - full-year 2025 revenue $72.2B, millennial and Gen Z 65% of new global consumer account acquisitions"
   }
  ],
  "mechanism": [
@@ -53,27 +69,51 @@
  "evidence": [
   {
    "company": "Uber Technologies",
-   "fact": "50M Uber One members drive ~half of gross bookings across Mobility and Delivery; 208M MAPCs; Q2 2026 gross bookings $58.0B, revenue $14.2B, GAAP net income $2.4B, adjusted EBITDA $2.8B; full-year 2025 gross bookings $193B with ~$9.8B free cash flow"
+   "fact": "50M Uber One members drive ~half of gross bookings across Mobility and Delivery; 208M MAPCs; Q2 2026 gross bookings $58.0B, revenue $14.2B, GAAP net income $2.4B, adjusted EBITDA $2.8B; full-year 2025 gross bookings $193B with ~$9.8B free cash flow",
+   "verified": true
   },
   {
    "company": "American Express",
-   "fact": "Full-year 2025 revenue $72.2B (record), net income $10.8B, billed business $1.67T; 70%+ of new cards on fee-paying products; 30th consecutive quarter of double-digit net card fee revenue growth (Q4 2025); 65% of new consumer accounts from millennial and Gen Z; Q2 2026 revenue $19.6B with raised full-year guidance to 10% growth"
+   "fact": "Full-year 2025 revenue $72.2B (record), net income $10.8B, billed business $1.67T; 70%+ of new cards on fee-paying products; 30th consecutive quarter of double-digit net card fee revenue growth (Q4 2025); 65% of new consumer accounts from millennial and Gen Z; Q2 2026 revenue $19.6B with raised full-year guidance to 10% growth",
+   "verified": true
   },
   {
    "company": "Chewy",
-   "fact": "Autoship ~84% of net sales (Q3 2025); ~$595 net sales per active customer; fiscal 2025 net sales $12.60B (up 6.2%), record free cash flow $562M, 21.3M active customers; Q1 2026 record quarterly profitability with ~200K net adds and gross margin 30.1%"
+   "fact": "Autoship ~84% of net sales (Q3 2025); ~$595 net sales per active customer; fiscal 2025 net sales $12.60B (up 6.2%), record free cash flow $562M, 21.3M active customers; Q1 2026 record quarterly profitability with ~200K net adds and gross margin 30.1%",
+   "verified": true
   },
   {
    "company": "The New York Times",
-   "fact": "13.35M total subscribers at Q2 2026; digital-only ARPU $9.94 (Q2 2026) up from $9.72 (Q4 2025); digital advertising up 20.7% Q2 2026 and up 31.6% Q1 2026; full-year 2025 subscription revenue $1.951B of $2.825B total; operating cash flow $584.5M in 2025"
+   "fact": "13.35M total subscribers at Q2 2026; digital-only ARPU $9.94 (Q2 2026) up from $9.72 (Q4 2025); digital advertising up 20.7% Q2 2026 and up 31.6% Q1 2026; full-year 2025 subscription revenue $1.951B of $2.825B total; operating cash flow $584.5M in 2025",
+   "verified": true
   },
   {
    "company": "SiriusXM",
-   "fact": "Record-low 1.4% monthly self-pay churn (Q2 2026); 33M paid subscribers; 93% of SiriusXM segment revenue from subscriptions; full-year 2025 revenue $8.56B, adjusted EBITDA $2.67B, free cash flow $1.26B; podcasting grew 41% in 2025; Q1 2026 self-pay net additions negative 111K despite low churn — saturation signal"
+   "fact": "Record-low 1.4% monthly self-pay churn (Q2 2026); 33M paid subscribers; 93% of SiriusXM segment revenue from subscriptions; full-year 2025 revenue $8.56B, adjusted EBITDA $2.67B, free cash flow $1.26B; podcasting grew 41% in 2025; Q1 2026 self-pay net additions negative 111K despite low churn — saturation signal",
+   "verified": true
   },
   {
    "company": "Amazon",
-   "fact": "Q2 2026 subscription services $13.7B, advertising $19.8B, third-party seller services $46.8B; same-day or overnight delivery surpassed 1B items in 2026 to date; full-year 2025 net sales $716.9B (up 12%), net income $77.7B, operating income $80.0B; Q4 2025 advertising alone $21.3B"
+   "fact": "Q2 2026 subscription services $13.7B, advertising $19.8B, third-party seller services $46.8B; same-day or overnight delivery surpassed 1B items in 2026 to date; full-year 2025 net sales $716.9B (up 12%), net income $77.7B, operating income $80.0B; Q4 2025 advertising alone $21.3B",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "The trend holds only if membership fees consistently generate enough incremental frequency to justify the subsidy model. It breaks if: (1) non-member transaction volume becomes too small to fund member discounts; (2) price-sensitive members churn when fees rise or benefits shrink; (3) free or lower-cost alternatives emerge that match or exceed the membership benefit at lower cost; (4) platforms find membership becomes a ceiling rather than a foundation for monetization.",
+  "contradicting_companies": [
+   {
+    "company": "SiriusXM",
+    "fact": "Q1 2026 self-pay net additions were negative 111,000 despite record-low 1.4% churn — showing membership saturation is already limiting growth. At 33M paid subscribers in a market with strong free-streaming alternatives (Spotify, Apple Music, YouTube Music), the company is defending a plateau rather than expanding. This contradicts the 'membership is structural dominance' thesis because the company cannot grow beyond 33M even with low churn, suggesting the membership model has hit its addressable ceiling."
+   },
+   {
+    "company": "American Express",
+    "fact": "65% of new acquisitions from millennial and Gen Z is framed as evidence of durability, but it is also a sign of limited addressability. The company is not capturing all consumer cohorts equally — older, higher-income segments remain overweight in the premium-card base, while younger cohorts still represent 35% of new adds. This limits growth to the pace at which younger cohorts age into premium spending, contradicting the idea that membership is becoming universally dominant."
+   },
+   {
+    "company": "Chewy",
+    "fact": "Q1 2026 net customer additions were ~200K from a base of 21.3M. This is a net-add rate of <1% per quarter, or ~4% annualized. The company already captures 84% of its sales through Autoship, meaning the pool of non-Autoship customers is now so small that incremental member growth is structurally limited. This contradicts the 'membership is pulling away' thesis because the growth engine is already maturing."
+   }
+  ],
+  "honest_caveat": "This trend is strongly supported by filing data for 2025-2026, but its scope is limited to: (1) specifically platforms that have already built working membership models (Amazon, Uber, Chewy, Amex, NYT, SiriusXM); (2) customers in markets where price differentiation and membership uptake are already normalized (primarily North America, with some international expansion); (3) product categories where replenishment or habitual use create naturally recurring demand (food, rides, media, financial). The trend does NOT apply to one-time purchase categories, commoditized markets without bundling potential, or markets where membership economics have not yet taken hold (many emerging markets, B2B categories, or transaction types with low frequency). The data also cannot prove the societal causality claimed — that two-tier pricing is 'regressive' — only that it exists and concentrates margin at the membership tier."
+ }
 }

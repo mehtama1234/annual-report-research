@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "$1.46 billion",
-   "label": "CF Industries 2025 net earnings, driven by higher average selling prices across all segments on tight global nitrogen supply — while farmers buying nitrogen fertilizer absorbed the cost"
+   "label": "CF Industries 2025 net earnings, driven by higher average selling prices across all segments on tight global nitrogen supply — while farmers buying nitrogen fertilizer absorbed the cost",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$727 million",
-   "label": "CF Industries Q2 2026 net earnings, with the company running at 98% of available ammonia capacity year-to-date even while Yazoo City remained partly offline — nitrogen pricing remained structurally firm"
+   "label": "CF Industries Q2 2026 net earnings, with the company running at 98% of available ammonia capacity year-to-date even while Yazoo City remained partly offline — nitrogen pricing remained structurally firm",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$3.3 billion",
-   "label": "Glencore Marketing Adjusted EBIT in H1 2026, up 142% year over year — management explicitly attributed the jump to materially disrupted energy, freight, and commodity markets including Middle East conflict benefits"
+   "label": "Glencore Marketing Adjusted EBIT in H1 2026, up 142% year over year — management explicitly attributed the jump to materially disrupted energy, freight, and commodity markets including Middle East conflict benefits",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$6.17 per pound vs. $1.97 per pound",
-   "label": "Freeport-McMoRan Q2 2026 realized copper price versus unit net cash cost — a $4.20 per pound spread that captures what integrated low-cost producers earn while downstream copper buyers pay near-record prices"
+   "label": "Freeport-McMoRan Q2 2026 realized copper price versus unit net cash cost — a $4.20 per pound spread that captures what integrated low-cost producers earn while downstream copper buyers pay near-record prices",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$1.4 billion",
-   "label": "Cleveland-Cliffs 2025 GAAP net loss on $18.6 billion in revenues, driven by lagging fixed annual contract pricing and weak automotive volumes — the company bore the whiplash its automotive customers avoided through those same fixed contracts"
+   "label": "Cleveland-Cliffs 2025 GAAP net loss on $18.6 billion in revenues, driven by lagging fixed annual contract pricing and weak automotive volumes — the company bore the whiplash its automotive customers avoided through those same fixed contracts",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "35–40%",
-   "label": "Share of Cleveland-Cliffs flat-rolled steel sales locked in fixed-price annual contracts — when material costs rose, Cliffs absorbed the margin hit; when prices fell, automakers held the fixed price and captured the benefit"
+   "label": "Share of Cleveland-Cliffs flat-rolled steel sales locked in fixed-price annual contracts — when material costs rose, Cliffs absorbed the margin hit; when prices fell, automakers held the fixed price and captured the benefit",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$2.092 billion",
-   "label": "Crown Holdings 2025 adjusted EBITDA, a best-ever result — achieved partly because aluminum and steel pass-through contract structures protect the converter's margin while beverage brands upstream absorb metal-cost volatility"
+   "label": "Crown Holdings 2025 adjusted EBITDA, a best-ever result — achieved partly because aluminum and steel pass-through contract structures protect the converter's margin while beverage brands upstream absorb metal-cost volatility",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$38.537 billion / 4.3% organic growth",
-   "label": "Mondelez 2025 full-year net revenues and organic revenue growth rate — the growth was price-led while volume/mix fell 3.7%, proof that commodity pass-through to consumers works until volume collapses under the weight of higher shelf prices"
+   "label": "Mondelez 2025 full-year net revenues and organic revenue growth rate — the growth was price-led while volume/mix fell 3.7%, proof that commodity pass-through to consumers works until volume collapses under the weight of higher shelf prices",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -54,35 +70,65 @@
  "evidence": [
   {
    "company": "CF Industries",
-   "fact": "2025 net earnings $1.46 billion on $2.89 billion adjusted EBITDA, driven by higher average selling prices across all segments; Q2 2026 net earnings reached $727 million with the business running at 98% of available ammonia capacity; Q1 2026 management emphasized tight global nitrogen supply and Iran-related disruption exposing nitrogen supply fragility; farmers absorb the cost side while CF captures the upside through supply tightness"
+   "fact": "2025 net earnings $1.46 billion on $2.89 billion adjusted EBITDA, driven by higher average selling prices across all segments; Q2 2026 net earnings reached $727 million with the business running at 98% of available ammonia capacity; Q1 2026 management emphasized tight global nitrogen supply and Iran-related disruption exposing nitrogen supply fragility; farmers absorb the cost side while CF captures the upside through supply tightness",
+   "verified": true
   },
   {
    "company": "Glencore",
-   "fact": "H1 2026 Marketing Adjusted EBIT rose to $3.3 billion, up 142% year over year; Group Adjusted EBITDA reached $10.1 billion, up 86%; management attributed marketing performance to materially disrupted energy, freight, and commodity markets including Middle East conflict benefits; cobalt production cut 46% in H1 2026 as Glencore shifted priority toward copper under DRC quota regime — active production management, not passive output"
+   "fact": "H1 2026 Marketing Adjusted EBIT rose to $3.3 billion, up 142% year over year; Group Adjusted EBITDA reached $10.1 billion, up 86%; management attributed marketing performance to materially disrupted energy, freight, and commodity markets including Middle East conflict benefits; cobalt production cut 46% in H1 2026 as Glencore shifted priority toward copper under DRC quota regime — active production management, not passive output",
+   "verified": true
   },
   {
    "company": "Freeport-McMoRan",
-   "fact": "Q2 2026 average realized copper price was $6.17 per pound while unit net cash cost was $1.97 per pound — a $4.20 per pound spread on 710 million pounds sold; Q2 2026 net income attributable to common stock was $984 million and operating cash flow was $2.0 billion; byproduct gold at $4,520 per ounce and molybdenum at $28.75 per pound provided additional cushion; 2025 full-year revenues were $25.9 billion with $5.6 billion operating cash flow"
+   "fact": "Q2 2026 average realized copper price was $6.17 per pound while unit net cash cost was $1.97 per pound — a $4.20 per pound spread on 710 million pounds sold; Q2 2026 net income attributable to common stock was $984 million and operating cash flow was $2.0 billion; byproduct gold at $4,520 per ounce and molybdenum at $28.75 per pound provided additional cushion; 2025 full-year revenues were $25.9 billion with $5.6 billion operating cash flow",
+   "verified": true
   },
   {
    "company": "Cleveland-Cliffs",
-   "fact": "2025 GAAP net loss of $1.4 billion on revenues of $18.6 billion and adjusted EBITDA of only $37 million; management explicitly cited lagging fixed annual contract pricing and persistently weak automotive production as the core problem; 35–40% of flat-rolled steel shipments sold under fixed-price annual contracts — when material costs rose, Cliffs absorbed the compression while automotive OEMs held fixed prices; Q2 2026 showed sequential recovery with adjusted EBITDA of $286 million but GAAP net loss still at $134 million"
+   "fact": "2025 GAAP net loss of $1.4 billion on revenues of $18.6 billion and adjusted EBITDA of only $37 million; management explicitly cited lagging fixed annual contract pricing and persistently weak automotive production as the core problem; 35–40% of flat-rolled steel shipments sold under fixed-price annual contracts — when material costs rose, Cliffs absorbed the compression while automotive OEMs held fixed prices; Q2 2026 showed sequential recovery with adjusted EBITDA of $286 million but GAAP net loss still at $134 million",
+   "verified": true
   },
   {
    "company": "Mondelez International",
-   "fact": "2025 full-year net revenues $38.537 billion; organic net revenue grew 4.3% but volume/mix fell 3.7%, meaning all growth came from price pass-through while consumers bought fewer units; management described 2025 as facing unprecedented cocoa cost headwinds that materially pressured profitability; adjusted EPS was $2.92 against free cash flow of $3.2 billion; company entered 2026 focused on restoring volume rather than additional price carry"
+   "fact": "2025 full-year net revenues $38.537 billion; organic net revenue grew 4.3% but volume/mix fell 3.7%, meaning all growth came from price pass-through while consumers bought fewer units; management described 2025 as facing unprecedented cocoa cost headwinds that materially pressured profitability; adjusted EPS was $2.92 against free cash flow of $3.2 billion; company entered 2026 focused on restoring volume rather than additional price carry",
+   "verified": true
   },
   {
    "company": "Crown Holdings",
-   "fact": "2025 full-year net sales $12.365 billion, adjusted EBITDA a best-ever $2.092 billion, adjusted net leverage 2.5x; Q1 2026 management cited global sourcing flexibility to navigate Middle East conflict headwinds; global beverage can volumes grew 5% in Q2 2026; aluminum and steel pass-through contract structures protect converter margin while cost moves fall on beverage brand customers"
+   "fact": "2025 full-year net sales $12.365 billion, adjusted EBITDA a best-ever $2.092 billion, adjusted net leverage 2.5x; Q1 2026 management cited global sourcing flexibility to navigate Middle East conflict headwinds; global beverage can volumes grew 5% in Q2 2026; aluminum and steel pass-through contract structures protect converter margin while cost moves fall on beverage brand customers",
+   "verified": true
   },
   {
    "company": "Eastman Kodak",
-   "fact": "Q1 2026 gross profit rose 24% year over year but management explicitly said higher silver and aluminum prices offset part of the operational gain; Q2 2026 gross profit rose 61% to $82 million and AM&C revenue rose 40%, but higher inventory tied partly to silver and aluminum commodities drew down cash from $337 million to $290 million; 2025 full-year gross profit was $232 million on $1.069 billion revenue — a company without hedging infrastructure absorbing commodity input swings directly into margin"
+   "fact": "Q1 2026 gross profit rose 24% year over year but management explicitly said higher silver and aluminum prices offset part of the operational gain; Q2 2026 gross profit rose 61% to $82 million and AM&C revenue rose 40%, but higher inventory tied partly to silver and aluminum commodities drew down cash from $337 million to $290 million; 2025 full-year gross profit was $232 million on $1.069 billion revenue — a company without hedging infrastructure absorbing commodity input swings directly into margin",
+   "verified": true
   },
   {
    "company": "CF Industries / PepsiCo",
-   "fact": "CF launched a low-carbon UAN collaboration with PepsiCo tied to Frito-Lay's U.S. potato supply chain — a direct commercial link between nitrogen pricing at the producer level and food production costs embedded in a major consumer snack supply chain, showing how the transfer mechanism runs from CF's pricing into the food system that reaches household consumers"
+   "fact": "CF launched a low-carbon UAN collaboration with PepsiCo tied to Frito-Lay's U.S. potato supply chain — a direct commercial link between nitrogen pricing at the producer level and food production costs embedded in a major consumer snack supply chain, showing how the transfer mechanism runs from CF's pricing into the food system that reaches household consumers",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "The trend claims that large producers systematically pass costs downstream and capture upside from supply tightness while smaller operators absorb losses. This would be falsified by evidence that: (1) large integrated producers also absorb commodity whiplash without offsetting pass-through mechanisms; (2) smaller operators successfully protect margins through pricing power or hedging; or (3) the transfer mechanism flows upstream instead of downstream during disruptions.",
+  "contradicting_companies": [
+   {
+    "company": "Freeport-McMoRan",
+    "fact": "Q4 2025 showed the company struggling under Grasberg disruption: net income attributable to common stock was only $406 million, adjusted net income was $688 million, and unit net cash costs rose to $2.22 per pound — an inversion of the trend's claim that low-cost integrated producers capture disruption upside. The company absorbed a major asset disruption (Grasberg mud rush in September 2025) and reported Q4 2025 operating cash flow of only $0.7 billion versus $5.6 billion for the full year, showing that even the largest integrated miners can absorb significant whiplash when their own assets fail, not just when downstream buyers bear the cost."
+   },
+   {
+    "company": "Glencore",
+    "fact": "FY2025 Group Adjusted EBITDA was $13.5 billion, down 6% year over year, while Industrial Adjusted EBITDA was $9.9 billion and Marketing Adjusted EBIT was only $2.9 billion — the annual results contradict the clean upside story. The 142% jump in H1 2026 marketing EBIT was a recovery from depressed 2025 levels, not a sustainable capture mechanism. This suggests Glencore's marketing profits are cyclical and reactive to disruption rather than structural, and the company itself absorbed margin compression in 2025 when the industrial segment struggled."
+   },
+   {
+    "company": "Crown Holdings",
+    "fact": "Q1 2026 management explicitly stated the company was 'navigating headwinds tied to the Middle East conflict' and experienced winter-storm disruption that dampened North America shipments — the company did not pass through all cost pressure immediately. While the narrative emphasizes pass-through contracts, the Q1 filings show Crown itself absorbing some margin lag before realization flows through. This contradicts the clean one-directional flow the trend describes; pass-through is delayed, partial, and subject to timing friction."
+   },
+   {
+    "company": "Eastman Kodak",
+    "fact": "While the trend uses Kodak as evidence of a small operator absorbing commodity pressure, the company's 2026 results show improvement and margin expansion despite higher silver and aluminum costs: gross profit margin rose from 19% in Q1 2025 to 22% in Q1 2026, then to 26% in Q2 2026. Kodak's operational EBITDA improved $13M year-over-year in Q2 and $15M in Q1. The company is NOT simply absorbing unhedged commodity costs downstream; it is managing pricing, mix, and operational efficiency to protect and expand margins even under commodity pressure. This contradicts the thesis that small operators without hedging always absorb the whiplash."
+   }
+  ],
+  "honest_caveat": "The trend is strongest where contract power is most asymmetric and where volumes remain large enough to matter (Cleveland-Cliffs automotive, Mondelez consumer snacks). It is weakest in explaining: (1) how much of the transfer is actually structural versus how much reflects temporary imbalances (Glencore's marketing earnings may be cyclical upside, not a durable model); (2) why all counterparties do not simply renegotiate contracts when the imbalance becomes obvious (suggesting some acceptance of the trade-off or belief that prices will revert); (3) whether smaller operators like Kodak and some converters can still protect margins through pricing discipline and operational efficiency, even without full hedging infrastructure; (4) how long the transfer actually persists before volume collapse or demand destruction reverses the chain upward. The data supports directional flow but does not prove the transfer is permanent, institutionalized, or resistant to renegotiation once imbalances become too large."
+ }
 }

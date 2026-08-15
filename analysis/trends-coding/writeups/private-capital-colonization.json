@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "$1.346T",
-   "label": "Blackstone total AUM (Q2 2026), with $523.6B in perpetual capital and $68.3B raised in one quarter"
+   "label": "Blackstone total AUM (Q2 2026), with $523.6B in perpetual capital and $68.3B raised in one quarter",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$796B",
-   "label": "KKR total AUM (Q2 2026), up from $744B at year-end 2025; $638B fee-paying"
+   "label": "KKR total AUM (Q2 2026), up from $744B at year-end 2025; $638B fee-paying",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$129B",
-   "label": "KKR capital raised in full-year 2025, a record; $95B deployed in same period"
+   "label": "KKR capital raised in full-year 2025, a record; $95B deployed in same period",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$1.49T",
-   "label": "Prudential PGIM assets under management (Q2 2026), managed alongside the insurance underwriting book"
+   "label": "Prudential PGIM assets under management (Q2 2026), managed alongside the insurance underwriting book",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$239.4B",
-   "label": "Blackstone full-year 2025 inflows — more than KKR's entire fee-paying AUM base raised in a single year"
+   "label": "Blackstone full-year 2025 inflows — more than KKR's entire fee-paying AUM base raised in a single year",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$45.1B",
-   "label": "Invesco record net long-term inflows in Q2 2026, led by ETFs, private markets, and China JV"
+   "label": "Invesco record net long-term inflows in Q2 2026, led by ETFs, private markets, and China JV",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$130.7B",
-   "label": "Invesco private markets AUM alongside $630.2B in ETFs and Index products"
+   "label": "Invesco private markets AUM alongside $630.2B in ETFs and Index products",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$11.6B",
-   "label": "Affirm Q3 2026 GMV, growing 48% YoY, with direct-to-consumer GMV up 48% and Affirm Card GMV up 146% — consumer installment credit at scale outside regulated banking"
+   "label": "Affirm Q3 2026 GMV, growing 48% YoY, with direct-to-consumer GMV up 48% and Affirm Card GMV up 146% — consumer installment credit at scale outside regulated banking",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -53,27 +69,51 @@
  "evidence": [
   {
    "company": "KKR & Co.",
-   "fact": "Full-year 2025: FRE $3.7B, AUM $744B, FPAUM $604B, capital raised $129B (record), capital deployed $95B; Q2 2026: AUM $796B, FPAUM $638B, quarterly FRE record; asset-based finance explicitly labeled 'major live growth vector'; insurance embedded through Global Atlantic; K-Series distributing private exposure to individual investors"
+   "fact": "Full-year 2025: FRE $3.7B, AUM $744B, FPAUM $604B, capital raised $129B (record), capital deployed $95B; Q2 2026: AUM $796B, FPAUM $638B, quarterly FRE record; asset-based finance explicitly labeled 'major live growth vector'; insurance embedded through Global Atlantic; K-Series distributing private exposure to individual investors",
+   "verified": true
   },
   {
    "company": "Blackstone Inc.",
-   "fact": "Full-year 2025: total revenues $14.45B, fee-related earnings $5.7B, distributable earnings $7.1B, AUM $1.2749T, perpetual capital AUM $523.6B, inflows $239.4B, deployment $138.2B; Q2 2026: AUM $1.346T, quarterly inflows $68.3B, quarterly FRE $1.78B; BREIT gate activation in late 2022 demonstrated the illiquidity risk already latent in the model"
+   "fact": "Full-year 2025: total revenues $14.45B, fee-related earnings $5.7B, distributable earnings $7.1B, AUM $1.2749T, perpetual capital AUM $523.6B, inflows $239.4B, deployment $138.2B; Q2 2026: AUM $1.346T, quarterly inflows $68.3B, quarterly FRE $1.78B; BREIT gate activation in late 2022 demonstrated the illiquidity risk already latent in the model",
+   "verified": true
   },
   {
    "company": "Prudential Financial",
-   "fact": "Year-end 2025 AUM $1.609T, PGIM AUM $1.49T at Q2 2026; fiscal 2025 after-tax adjusted operating income $5.161B; Q2 2026 PGIM adjusted operating income $294M; business model explicitly combines insurance underwriting with asset management at scale — float is deployed into private alternatives rather than held in liquid instruments"
+   "fact": "Year-end 2025 AUM $1.609T, PGIM AUM $1.49T at Q2 2026; fiscal 2025 after-tax adjusted operating income $5.161B; Q2 2026 PGIM adjusted operating income $294M; business model explicitly combines insurance underwriting with asset management at scale — float is deployed into private alternatives rather than held in liquid instruments",
+   "verified": true
   },
   {
    "company": "Invesco Ltd.",
-   "fact": "Q2 2026: $45.1B record net long-term inflows, operating revenues $1.826B, adjusted operating margin 37.5%; ETFs and Index AUM $630.2B, QQQ $407.2B, private markets $130.7B; QQQ converted from unit investment trust to open-end ETF on December 20, 2025 — a structural modernization of the largest single indexed equity pool outside the regulated banking system"
+   "fact": "Q2 2026: $45.1B record net long-term inflows, operating revenues $1.826B, adjusted operating margin 37.5%; ETFs and Index AUM $630.2B, QQQ $407.2B, private markets $130.7B; QQQ converted from unit investment trust to open-end ETF on December 20, 2025 — a structural modernization of the largest single indexed equity pool outside the regulated banking system",
+   "verified": true
   },
   {
    "company": "Affirm Holdings",
-   "fact": "Q3 2026 GMV $11.6B (up 48% YoY), direct-to-consumer GMV $3.7B (up 48%), Affirm Card GMV $2.1B (up 146%), active cardholders 4.4M (more than doubled); over 65% of approved U.S. loan applications presented with 0% APR offer funded by merchants; adjusted operating income 27.0% of revenue; tenth consecutive quarter of above-30% GMV growth; average annualized cost of funds at lowest level in three and a half years — consumer installment credit at scale outside FDIC-insured banking"
+   "fact": "Q3 2026 GMV $11.6B (up 48% YoY), direct-to-consumer GMV $3.7B (up 48%), Affirm Card GMV $2.1B (up 146%), active cardholders 4.4M (more than doubled); over 65% of approved U.S. loan applications presented with 0% APR offer funded by merchants; adjusted operating income 27.0% of revenue; tenth consecutive quarter of above-30% GMV growth; average annualized cost of funds at lowest level in three and a half years — consumer installment credit at scale outside FDIC-insured banking",
+   "verified": true
   },
   {
    "company": "Silicon Valley Bank / Signature / First Republic",
-   "fact": "All three failed or were seized within a 60-day window in March-May 2023, triggering accelerated Basel III endgame rulemaking and higher capital surcharges on bank holding companies — the specific regulatory tightening that redirected credit supply toward alternative managers and drove KKR, Blackstone, and Blackstone's competitors to record fundraising in 2024-2025"
+   "fact": "All three failed or were seized within a 60-day window in March-May 2023, triggering accelerated Basel III endgame rulemaking and higher capital surcharges on bank holding companies — the specific regulatory tightening that redirected credit supply toward alternative managers and drove KKR, Blackstone, and Blackstone's competitors to record fundraising in 2024-2025",
+   "verified": false
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "Evidence that regulatory constraints on banks have NOT tightened, or that private-market fee multiples are NOT superior to bank economics, or that capital flows have NOT shifted materially away from regulated banks since 2023.",
+  "contradicting_companies": [
+   {
+    "company": "Invesco Ltd.",
+    "fact": "Despite record Q2 2026 inflows of $45.1B, Invesco's operating revenue of $1.826B on $2.170T of AUM generates a net revenue per dollar of AUM that is 2-3x LOWER than a private-credit manager charging 2-and-20. This suggests that not all capital flowing to alternatives is accepting the higher-fee model; ETF and index products still attract substantial capital at far lower economics."
+   },
+   {
+    "company": "Prudential Financial",
+    "fact": "Despite PGIM's $1.49T AUM, Prudential's fiscal 2025 after-tax adjusted operating income was only $5.161B. This works out to ~32 basis points of operating profit on AUM — comparable to or LOWER than many traditional banks' return on assets. The private-capital thesis assumes superior fee capture, but Prudential's earnings show that combining insurance liabilities with asset management does not automatically drive higher fee economics than traditional financial intermediation."
+   },
+   {
+    "company": "Affirm Holdings",
+    "fact": "Affirm achieved Q3 2026 adjusted operating margin of only 27% of revenue on $1.039B of revenue. This translates to roughly 10-20 basis points of margin on assets financed. For all the media about merchant-funded 0% APR offers and innovative underwriting, Affirm's actual margin profile is not demonstrably superior to consumer-finance competitors or regulated lenders. The company is growing rapidly, but not proving that private-market consumer credit economics outstrip regulated alternatives."
+   }
+  ],
+  "honest_caveat": "This trend accurately describes the flow of INSTITUTIONAL capital (insurance float, pension obligations, sovereign wealth) into alternatives, and it correctly identifies the regulatory arbitrage in private credit and infrastructure. However, the trend does NOT prove that private alternatives are a systemic replacement for banking as a whole. Retail deposits continue flowing into banks despite regulatory uncertainty. Small-business lending, which makes up a large fraction of actual bank originations, is NOT being captured at scale by private-credit players. Public fixed-income markets still dominate absolute capital deployment. The thesis describes a real financial migration at the TOP of the system (institutions, platforms, ultra-large capital pools), but conflates scale and visibility with systemic replacement. A more precise claim would be: 'Alternative managers are capturing a disproportionate share of GROWTH in institutional capital deployment, converting this into higher fees, but legacy banking systems persist for retail and small-business credit, ensuring no single point-of-failure crisis across the entire financial system.'"
+ }
 }

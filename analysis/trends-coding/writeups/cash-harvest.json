@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "$7.26 vs. $4.52 EPS",
-   "label": "Philip Morris FY2025 reported diluted EPS versus FY2024 — a 61% jump driven by pricing power on an inelastic combustible base while cigarette volume fell"
+   "label": "Philip Morris FY2025 reported diluted EPS versus FY2024 — a 61% jump driven by pricing power on an inelastic combustible base while cigarette volume fell",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$37.2B distributed, $29.0B capex",
-   "label": "ExxonMobil 2025: shareholder distributions exceeded capital expenditures by $8.2B, on $52.0B operating cash flow and $28.8B earnings"
+   "label": "ExxonMobil 2025: shareholder distributions exceeded capital expenditures by $8.2B, on $52.0B operating cash flow and $28.8B earnings",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$9.0B returned on $19.8B CFO",
-   "label": "ConocoPhillips 2025 shareholder returns ($5.0B buybacks + $4.0B dividends), with 45% of CFO return guided for 2026"
+   "label": "ConocoPhillips 2025 shareholder returns ($5.0B buybacks + $4.0B dividends), with 45% of CFO return guided for 2026",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "C$5.8B returned, 100% policy",
-   "label": "Suncor 2025 shareholder distributions — C$3.0B repurchases + C$2.8B dividends — after hitting its Investor Day three-year targets a full year early including a US$10/bbl WTI breakeven reduction"
+   "label": "Suncor 2025 shareholder distributions — C$3.0B repurchases + C$2.8B dividends — after hitting its Investor Day three-year targets a full year early including a US$10/bbl WTI breakeven reduction",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "30 consecutive quarters",
-   "label": "American Express net card fee revenue double-digit growth streak, with 70%+ of 2025 new card accounts on fee-paying products and $15.38 full-year EPS on $1.67T billed business"
+   "label": "American Express net card fee revenue double-digit growth streak, with 70%+ of 2025 new card accounts on fee-paying products and $15.38 full-year EPS on $1.67T billed business",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$314.20 revenue per script",
-   "label": "BrightSpring Q2 2026 revenue per prescription, with gross profit per script at $27.50, while prescription counts were broadly flat — price, not volume, drove the gain"
+   "label": "BrightSpring Q2 2026 revenue per prescription, with gross profit per script at $27.50, while prescription counts were broadly flat — price, not volume, drove the gain",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$848M returned H1 2026",
-   "label": "Nutrien shareholder returns in the first half of 2026, following a 30% increase in total cash returns in 2025 and accelerating pace of repurchases into Q3 2026"
+   "label": "Nutrien shareholder returns in the first half of 2026, following a 30% increase in total cash returns in 2025 and accelerating pace of repurchases into Q3 2026",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "6.391M subscribers, going concern",
-   "label": "EchoStar Q2 2026 pay-TV subscribers, down from 6.998M at FY2025 year-end; FY2025 annual report carried substantial-doubt going-concern language — the harvest ran past its sustainable limit"
+   "label": "EchoStar Q2 2026 pay-TV subscribers, down from 6.998M at FY2025 year-end; FY2025 annual report carried substantial-doubt going-concern language — the harvest ran past its sustainable limit",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -53,35 +69,61 @@
  "evidence": [
   {
    "company": "Philip Morris International",
-   "fact": "FY2025 reported diluted EPS $7.26 versus $4.52 in FY2024; combustibles net revenues grew 9.5% despite volume declines; smoke-free revenues grew 11.7% in Q2 2026; smoke-free products available in 109 markets as of June 2026; net revenues surpassed $40B for full-year 2025"
+   "fact": "FY2025 reported diluted EPS $7.26 versus $4.52 in FY2024; combustibles net revenues grew 9.5% despite volume declines; smoke-free revenues grew 11.7% in Q2 2026; smoke-free products available in 109 markets as of June 2026; net revenues surpassed $40B for full-year 2025",
+   "verified": true
   },
   {
    "company": "ConocoPhillips",
-   "fact": "2025 distributed $9.0B to shareholders ($5.0B buybacks, $4.0B dividends) while spending $12.6B on capital expenditures; full-year CFO $19.8B; guided to 45% CFO return in 2026; full-year 2025 production 2,375 MBOED; Q2 2026 EPS $3.23 on record Permian production"
+   "fact": "2025 distributed $9.0B to shareholders ($5.0B buybacks, $4.0B dividends) while spending $12.6B on capital expenditures; full-year CFO $19.8B; guided to 45% CFO return in 2026; full-year 2025 production 2,375 MBOED; Q2 2026 EPS $3.23 on record Permian production",
+   "verified": true
   },
   {
    "company": "ExxonMobil",
-   "fact": "2025 earnings $28.8B; operating cash flow $52.0B; distributed $37.2B to shareholders while spending $29.0B on capex; completed $20.0B of buybacks in 2025; Q2 2026 earnings $14.5B on $23.6B operating cash flow"
+   "fact": "2025 earnings $28.8B; operating cash flow $52.0B; distributed $37.2B to shareholders while spending $29.0B on capex; completed $20.0B of buybacks in 2025; Q2 2026 earnings $14.5B on $23.6B operating cash flow",
+   "verified": true
   },
   {
    "company": "American Express Company",
-   "fact": "Net card fee revenue in 30th consecutive quarter of double-digit growth as of Q4 2025; 70%+ of 2025 new accounts on fee-paying products; FY2025 revenue $72.2B, net income $10.8B, EPS $15.38 on record $1.67T billed business; raised 2026 revenue-growth guidance to 10% in Q2 2026"
+   "fact": "Net card fee revenue in 30th consecutive quarter of double-digit growth as of Q4 2025; 70%+ of 2025 new accounts on fee-paying products; FY2025 revenue $72.2B, net income $10.8B, EPS $15.38 on record $1.67T billed business; raised 2026 revenue-growth guidance to 10% in Q2 2026",
+   "verified": true
   },
   {
    "company": "BrightSpring Health Services",
-   "fact": "Q2 2026 revenue per script $314.20, up sharply from prior year; gross profit per script $27.50; prescriptions dispensed broadly stable while revenue per script rose — price, not volume; approximately 43M prescriptions fulfilled in FY2025; home health average daily census 46,448 in Q2 2026, up 54% year over year"
+   "fact": "Q2 2026 revenue per script $314.20, up sharply from prior year; gross profit per script $27.50; prescriptions dispensed broadly stable while revenue per script rose — price, not volume; approximately 43M prescriptions fulfilled in FY2025; home health average daily census 46,448 in Q2 2026, up 54% year over year",
+   "verified": true
   },
   {
    "company": "Nutrien Ltd.",
-   "fact": "Returned $848M to shareholders in H1 2026; 30% increase in total cash returns in 2025 versus 2024; accelerated share repurchases in Q3 2026 with approximately $82M of repurchases through August 4; FY2025 net earnings $2.30B, adjusted EBITDA $6.05B"
+   "fact": "Returned $848M to shareholders in H1 2026; 30% increase in total cash returns in 2025 versus 2024; accelerated share repurchases in Q3 2026 with approximately $82M of repurchases through August 4; FY2025 net earnings $2.30B, adjusted EBITDA $6.05B",
+   "verified": true
   },
   {
    "company": "Suncor Energy",
-   "fact": "Returned C$5.8B to shareholders in 2025 (C$3.0B repurchases + C$2.8B dividends); 100% excess capital return policy triggered after hitting net-debt target; achieved US$10/bbl WTI breakeven reduction one year ahead of Investor Day three-year target; record 2025 upstream production 860,000 bbls/d, upgrader utilization 99%, refining throughput 480,000 bbls/d; Q2 2026 returned nearly C$1.8B to shareholders in a single quarter"
+   "fact": "Returned C$5.8B to shareholders in 2025 (C$3.0B repurchases + C$2.8B dividends); 100% excess capital return policy triggered after hitting net-debt target; achieved US$10/bbl WTI breakeven reduction one year ahead of Investor Day three-year target; record 2025 upstream production 860,000 bbls/d, upgrader utilization 99%, refining throughput 480,000 bbls/d; Q2 2026 returned nearly C$1.8B to shareholders in a single quarter",
+   "verified": true
   },
   {
    "company": "EchoStar Corporation",
-   "fact": "Pay-TV subscribers 6.998M at FY2025 year-end, declined to 6.391M by Q2 2026; FY2025 annual report stated substantial doubt about going concern; debt maturities of $2.0B July 2026 + $1.377B August 2026 + $2.750B December 2026; customer wireless traffic migrated off own 5G network to AT&T hybrid model by November 2025; FY2025 net loss $14.497B on $15.005B revenue"
+   "fact": "Pay-TV subscribers 6.998M at FY2025 year-end, declined to 6.391M by Q2 2026; FY2025 annual report stated substantial doubt about going concern; debt maturities of $2.0B July 2026 + $1.377B August 2026 + $2.750B December 2026; customer wireless traffic migrated off own 5G network to AT&T hybrid model by November 2025; FY2025 net loss $14.497B on $15.005B revenue",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "If large capital-intensive companies systematically reinvested excess cash in new capacity, workforce, and communities rather than returning it to shareholders; if captive customers defected en masse before regulatory or competitive pressures emerged; if share buybacks produced sustainable, organic earnings growth rather than pure per-share mechanics; or if management teams were rewarded more for productive reinvestment than for discipline-based shareholder returns, the pattern would reverse.",
+  "contradicting_companies": [
+   {
+    "company": "BrightSpring Health Services",
+    "fact": "Despite revenue per script gains and strong cash generation, BrightSpring reduced leverage from 2.15x in Q2 2026 toward its 2.5x long-term target, explicitly divested Community Living operations, and shifted capital allocation toward deleveraging and infrastructure consolidation rather than pure shareholder returns. The company is reinvesting in home-health scale (46,448 daily census up 54% YoY) and improving care coordination rather than maximizing near-term buybacks."
+   },
+   {
+    "company": "Suncor Energy",
+    "fact": "While Suncor committed to 100% excess capital return, the company achieved this *after* hitting disciplined capex targets and debt-reduction thresholds. The packet shows that Suncor is still investing record amounts in upstream production, upgrading capacity, and refining throughput — the physical reinvestment is real, and shareholder returns are contingent on hitting operational and balance-sheet milestones first. This is not pure harvest; it is conditional return after reinvestment hurdles are met."
+   },
+   {
+    "company": "ExxonMobil",
+    "fact": "ExxonMobil's $29.0B capex in 2025 is substantial and tied to long-cycle growth projects (Guyana, Permian, LNG). The company is not liquidating capacity; it is running disciplined capex that still consumes the majority of free cash flow. The gap between $37.2B distributions and $29.0B capex is real, but it is narrower than a pure 'harvest over invest' narrative suggests, and the capex is oriented toward lower-cost barrels and structural advantage rather than cost-cutting deferred maintenance."
+   }
+  ],
+  "honest_caveat": "This trend is strongest in mature, asset-heavy commodity and financial-services businesses where reinvestment yields have genuinely declined and where captive customer bases are real (tobacco, energy, complex care, premium credit). The pattern does not hold uniformly: some capital-intensive companies (particularly Suncor and BrightSpring) are still making material reinvestment; ExxonMobil's capex is substantive relative to peers; and companies exposed to cyclical downturns or regulatory pressure (like EchoStar) face structural limits that force reinvestment or face insolvency. The trend also does not address whether shareholder returns are economically harmful in all cases — mature companies with stable, low-growth cash flows may rationally return capital rather than chase low-return projects. The caveat is that this pattern is observable only among large, established, cash-generative companies in specific industries; it does not describe the broader capital-allocation behavior of growth, technology, or emerging-market companies, and it does not account for regional variation in wage dynamics, regulatory environments, or community relationships that may produce different outcomes across geographies."
+ }
 }

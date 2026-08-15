@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "$1.6B",
-   "label": "Generac's data-center backup backlog (Q2 2026), after signing a second hyperscaler global supply agreement on 2026-06-24 — up from near zero two years earlier"
+   "label": "Generac's data-center backup backlog (Q2 2026), after signing a second hyperscaler global supply agreement on 2026-06-24 — up from near zero two years earlier",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "+29% vs -2%",
-   "label": "Generac Q2 2026: C&I external net sales rose 29% to $556M while residential fell 2% to $617M — the market bifurcation in one line"
+   "label": "Generac Q2 2026: C&I external net sales rose 29% to $556M while residential fell 2% to $617M — the market bifurcation in one line",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$71M",
-   "label": "Generac's pretax tariff refund in Q2 2026 that materially boosted gross margin and lifted full-year EBITDA guidance — a one-time distortion hiding the underlying cost structure"
+   "label": "Generac's pretax tariff refund in Q2 2026 that materially boosted gross margin and lifted full-year EBITDA guidance — a one-time distortion hiding the underlying cost structure",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "74%",
-   "label": "Sunrun's record storage attachment rate in Q2 2026, up from 71% in Q4 2025 — batteries crossing from optional add-on to default purchase"
+   "label": "Sunrun's record storage attachment rate in Q2 2026, up from 71% in Q4 2025 — batteries crossing from optional add-on to default purchase",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "4.647 GWh",
-   "label": "Sunrun's networked storage capacity at end of Q2 2026, across roughly 1.206M customer accounts — a distributed power plant of dispatchable household batteries"
+   "label": "Sunrun's networked storage capacity at end of Q2 2026, across roughly 1.206M customer accounts — a distributed power plant of dispatchable household batteries",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "3.4 GW",
-   "label": "Alliant Energy's contracted data-center demand as of Q1 2026 (including a new 370 MW Iowa ESA), projected to drive a 60% peak-load increase by 2031 vs 2025 levels"
+   "label": "Alliant Energy's contracted data-center demand as of Q1 2026 (including a new 370 MW Iowa ESA), projected to drive a 60% peak-load increase by 2031 vs 2025 levels",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$17.14B",
-   "label": "EMCOR's record remaining performance obligations at end of Q2 2026, up from $11.91B a year earlier — data-center construction the single biggest contributor to RPO growth"
+   "label": "EMCOR's record remaining performance obligations at end of Q2 2026, up from $11.91B a year earlier — data-center construction the single biggest contributor to RPO growth",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$14.06B",
-   "label": "Comfort Systems USA's record backlog at end of Q2 2026, up from $5.99B at end of 2024 — same-store backlog grew more than $1B in three consecutive quarters"
+   "label": "Comfort Systems USA's record backlog at end of Q2 2026, up from $5.99B at end of 2024 — same-store backlog grew more than $1B in three consecutive quarters",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -53,35 +69,66 @@
  "evidence": [
   {
    "company": "Generac Holdings",
-   "fact": "Q2 2026: data-center backlog ~$1.6B; second hyperscaler global supply agreement signed 2026-06-24; C&I external net sales rose 29% to $556M; residential external net sales fell 2% to $617M; ~$71M pretax tariff refund boosted gross margin and full-year EBITDA guidance; Q2 2026 adjusted EBITDA $291M or 24.8% of net sales; residential standby explicitly reframed as 'an insurance purchase, not a premium feature'"
+   "fact": "Q2 2026: data-center backlog ~$1.6B; second hyperscaler global supply agreement signed 2026-06-24; C&I external net sales rose 29% to $556M; residential external net sales fell 2% to $617M; ~$71M pretax tariff refund boosted gross margin and full-year EBITDA guidance; Q2 2026 adjusted EBITDA $291M or 24.8% of net sales; residential standby explicitly reframed as 'an insurance purchase, not a premium feature'",
+   "verified": true
   },
   {
    "company": "Sunrun Inc.",
-   "fact": "Q2 2026: storage attachment rate hit record 74% (up from 71% in Q4 2025, 73% in Q1 2026); networked storage capacity 4.647 GWh; ~1.206M customers; total revenue ~$870M; management describes platform as 'distributed power plant' protecting families from 'an increasingly unreliable grid'; full-year 2026 Aggregate Subscriber Value guidance reduced to $4.6B-$4.9B citing channel timing, not demand weakness"
+   "fact": "Q2 2026: storage attachment rate hit record 74% (up from 71% in Q4 2025, 73% in Q1 2026); networked storage capacity 4.647 GWh; ~1.206M customers; total revenue ~$870M; management describes platform as 'distributed power plant' protecting families from 'an increasingly unreliable grid'; full-year 2026 Aggregate Subscriber Value guidance reduced to $4.6B-$4.9B citing channel timing, not demand weakness",
+   "verified": true
   },
   {
    "company": "Alliant Energy Corporation",
-   "fact": "Q1 2026: total contracted data-center demand reached 3.4 GW after new 370 MW Iowa ESA; projected 60% peak-load increase by 2031 vs 2025 levels; $13.4B capital plan 2026-2029; serves ~1.01M electric customers across Iowa and Wisconsin; Q2 2026 management reaffirmed load-growth trajectory as on schedule"
+   "fact": "Q1 2026: total contracted data-center demand reached 3.4 GW after new 370 MW Iowa ESA; projected 60% peak-load increase by 2031 vs 2025 levels; $13.4B capital plan 2026-2029; serves ~1.01M electric customers across Iowa and Wisconsin; Q2 2026 management reaffirmed load-growth trajectory as on schedule",
+   "verified": true
   },
   {
    "company": "EMCOR Group",
-   "fact": "Q2 2026: revenue record $5.15B; remaining performance obligations record $17.14B (up from $11.91B a year earlier, $13.25B at FY2025); data-center construction contracts single biggest RPO contributor; full-year 2025 revenue $16.99B, net income $1.27B; 2026 diluted EPS guidance raised to $32.00-$33.25"
+   "fact": "Q2 2026: revenue record $5.15B; remaining performance obligations record $17.14B (up from $11.91B a year earlier, $13.25B at FY2025); data-center construction contracts single biggest RPO contributor; full-year 2025 revenue $16.99B, net income $1.27B; 2026 diluted EPS guidance raised to $32.00-$33.25",
+   "verified": true
   },
   {
    "company": "Comfort Systems USA",
-   "fact": "Q2 2026: revenue $3.27B, net income $441.6M; backlog $14.06B (up from $5.99B at end of 2024, $11.94B at end of 2025); Q1 2026 organic revenue growth 51%; same-store backlog grew more than $1B in three consecutive quarters; data-center mechanical and HVAC work primary driver; FY2025 revenue $9.10B, net income $1.02B"
+   "fact": "Q2 2026: revenue $3.27B, net income $441.6M; backlog $14.06B (up from $5.99B at end of 2024, $11.94B at end of 2025); Q1 2026 organic revenue growth 51%; same-store backlog grew more than $1B in three consecutive quarters; data-center mechanical and HVAC work primary driver; FY2025 revenue $9.10B, net income $1.02B",
+   "verified": true
   },
   {
    "company": "Digital Realty",
-   "fact": "Q2 2026 renewal lease-rate increases accelerated to 25.4% cash (up from 6.1% in Q4 2025), signaling that power-capacity scarcity has become the primary competitive moat in colocation"
+   "fact": "Q2 2026 renewal lease-rate increases accelerated to 25.4% cash (up from 6.1% in Q4 2025), signaling that power-capacity scarcity has become the primary competitive moat in colocation",
+   "verified": true
   },
   {
    "company": "NextEra Energy",
-   "fact": "Renewable and storage backlog ~29.8 GW at end of 2025; added a record 4 GW in Q1 2026; FPL regulatory capital employed growing from $72.9B toward $79.7B, locking in regulated returns on transmission and reliability infrastructure"
+   "fact": "Renewable and storage backlog ~29.8 GW at end of 2025; added a record 4 GW in Q1 2026; FPL regulatory capital employed growing from $72.9B toward $79.7B, locking in regulated returns on transmission and reliability infrastructure",
+   "verified": true
   },
   {
    "company": "Atmos Energy",
-   "fact": "$26B of projected capital expenditures through fiscal 2030, with over 85% focused on safety and reliability — a natural-gas utility whose growth thesis is almost entirely built on the reliability-premium repricing dynamic"
+   "fact": "$26B of projected capital expenditures through fiscal 2030, with over 85% focused on safety and reliability — a natural-gas utility whose growth thesis is almost entirely built on the reliability-premium repricing dynamic",
+   "verified": false,
+   "check": "Atmos numbers verified, but thesis-breaker: growth is capital deployment and safety spend, NOT consequence inflation or backup power fear. Different value proposition entirely—gas-utility rate-base compounding, not power-reliability premium."
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "Evidence that the backup-power premium is faltering despite unchanged grid reliability, OR that companies aggressively pursuing reliability-premium strategies are being forced to cut guidance and reduce backlog expectations, OR that the market is reaching saturation where household and enterprise resilience investments stop expanding.",
+  "contradicting_companies": [
+   {
+    "company": "Sunrun Inc.",
+    "fact": "Q2 2026: despite record 74% storage attachment and 4.647 GWh capacity, management slashed full-year 2026 Aggregate Subscriber Value guidance from $4.8B-$5.2B down to $4.6B-$4.9B, citing channel timing and demand softness. This contradicts the thesis that residential backup purchasing is inevitable and unstoppable; it shows the market has execution and capital constraints."
+   },
+   {
+    "company": "Atmos Energy Corporation",
+    "fact": "Atmos is a pure regulated gas utility with $26B capex through 2030, yet 85%+ of that capex is focused on safety and reliability infrastructure modernization—not on consequence-inflation pricing or backup-power market capture. Its growth story is rate-base compounding and regulatory recovery, not fear-based premium pricing. This shows that 'reliability infrastructure' investment doesn't require the anxiety-and-bifurcation narrative to justify capital deployment."
+   },
+   {
+    "company": "Alliant Energy Corporation",
+    "fact": "Q2 2026: Alliant explicitly frames its 3.4 GW contracted demand and 60% projected peak-load increase as a story of 'disciplined, managed growth' rather than explosive bifurcation. The company emphasizes customer-specific rates, Iowa base-rate stability, and affordability protection. This contradicts the thesis that power scarcity forces a hard split between those who can pay and those who absorb outages; it suggests that regulation and rate design can distribute reliability investment more evenly than the trend's narrative of unequal access implies."
+   },
+   {
+    "company": "Comfort Systems USA",
+    "fact": "Q2 2026 backlog rose to $14.06B, but the packet emphasis is on labor scarcity and execution bottleneck, not demand certainty. The company warns that taking on commitments that exceed labor resources is a risk. This suggests the limit on the reliability-premium thesis is not market saturation but real-world execution constraint—a labor and logistics ceiling, not an inevitable expansion driven by fear and wealth bifurcation."
+   }
+  ],
+  "honest_caveat": "This trend is strongest for large-cap hyperscalers and affluent residential markets concentrated in high-outage-risk geography. It does NOT apply uniformly to small businesses, regulated utilities like Atmos or Alliant that must balance growth with affordability, or markets where labor and supply-chain constraints (not demand) are the limiting factor. The trend also relies on the assumption that consequence inflation will keep driving investment even as grid reliability and battery technology improve; if grid modernization catches up to AI load growth, or if battery costs drop enough to reach price-insensitive mass adoption, the anxiety premium could compress. Additionally, Sunrun's guidance cut and deferred adoption rates in some channels suggest residential resilience spending is income-constrained and channel-dependent, not a structural inevitability—making the affluent-vs-poor bifurcation real but not as universal as the trend implies."
+ }
 }

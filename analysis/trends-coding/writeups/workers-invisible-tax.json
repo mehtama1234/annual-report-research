@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "49% of potash ore tonnes mined using automation in 2025",
-   "label": "Nutrien Ltd. — 49% automated extraction at 6 potash mines, up from lower levels, framed as competitive advantage in 2025 annual report"
+   "label": "Nutrien Ltd. — 49% automated extraction at 6 potash mines, up from lower levels, framed as competitive advantage in 2025 annual report",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$14.06 billion backlog (Q2 2026) with labor availability cited as binding constraint",
-   "label": "Comfort Systems USA — record demand that cannot convert to revenue because skilled-trades teams are not available; same-store backlog doubled from $5.99B at end of 2024 to $11.94B at end of 2025"
+   "label": "Comfort Systems USA — record demand that cannot convert to revenue because skilled-trades teams are not available; same-store backlog doubled from $5.99B at end of 2024 to $11.94B at end of 2025",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "1,500 seasonal workers via H-2B visa program in fiscal 2025, down from 2,000 in fiscal 2024, with explicit expectation to continue the program",
-   "label": "BrightView Holdings — domestic landscaping workers competing with temporary visa labor across $2.67B revenue national commercial-landscaping operation"
+   "label": "BrightView Holdings — domestic landscaping workers competing with temporary visa labor across $2.67B revenue national commercial-landscaping operation",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$9.0 billion returned to shareholders in 2025 ($5.0B buybacks + $4.0B dividends) on $19.8B of operating cash flow",
-   "label": "ConocoPhillips — capital returns while workers at extraction sites absorb physical and job-elimination risk; full-year 2025 earnings $8.0B"
+   "label": "ConocoPhillips — capital returns while workers at extraction sites absorb physical and job-elimination risk; full-year 2025 earnings $8.0B",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$1.67 billion Waco recycled-paperboard project substantially complete; 2026 capex cut to $450M (from $935M in 2025) with Lebanon, Tennessee facility closure announced",
-   "label": "Graphic Packaging — automation buildout followed by workforce reductions and facility closures; full-year 2025 net income $444M on $8.617B net sales"
+   "label": "Graphic Packaging — automation buildout followed by workforce reductions and facility closures; full-year 2025 net income $444M on $8.617B net sales",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$2.30 billion full-year 2025 net earnings on record potash sales volumes with 49% automated ore extraction",
-   "label": "Nutrien Ltd. — automation-driven profitability at remote Canadian potash mining communities with few alternative employment paths"
+   "label": "Nutrien Ltd. — automation-driven profitability at remote Canadian potash mining communities with few alternative employment paths",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "Record full-year 2025 revenue $8.7 billion; WGNSTAR acquisition deepening semiconductor and datacenter-facility automation scope while traditional janitorial market growth stagnates",
-   "label": "ABM Industries — shift from low-margin janitorial to high-value technical services leaves routine cleaning roles exposed; record new sales bookings $1.9B in 2025"
+   "label": "ABM Industries — shift from low-margin janitorial to high-value technical services leaves routine cleaning roles exposed; record new sales bookings $1.9B in 2025",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "Q1 2026 revenue $647.9M (+15.9%), adjusted EBITDA $84.4M (+25.2%), with labor shortage and wage pressure explicitly cited as operating risk",
-   "label": "Aveanna Healthcare Holdings — home health aides absorbing physical and emotional risk of pediatric and elder care while profitability grows; full-year 2026 revenue guidance raised to $2.56-$2.58B"
+   "label": "Aveanna Healthcare Holdings — home health aides absorbing physical and emotional risk of pediatric and elder care while profitability grows; full-year 2026 revenue guidance raised to $2.56-$2.58B",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -53,35 +69,65 @@
  "evidence": [
   {
    "company": "Nutrien Ltd.",
-   "fact": "49% of potash ore tonnes mined using automation in 2025 across 6 potash mines; automation highlighted as competitive advantage in 2025 annual report; full-year 2025 net earnings $2.30 billion, adjusted EBITDA $6.05 billion; shareholder cash returns increased 30% in 2025; operations in remote Canadian communities with limited alternative employment"
+   "fact": "49% of potash ore tonnes mined using automation in 2025 across 6 potash mines; automation highlighted as competitive advantage in 2025 annual report; full-year 2025 net earnings $2.30 billion, adjusted EBITDA $6.05 billion; shareholder cash returns increased 30% in 2025; operations in remote Canadian communities with limited alternative employment",
+   "verified": true
   },
   {
    "company": "Comfort Systems USA",
-   "fact": "Backlog grew from $5.99B at end of 2024 to $11.94B at end of 2025 to $14.06B in Q2 2026; management explicitly ties growth constraint to labor availability, not customer demand; full-year 2025 revenue $9.10B, net income $1.02B; Q2 2026 revenue $3.27B, net income $441.6M"
+   "fact": "Backlog grew from $5.99B at end of 2024 to $11.94B at end of 2025 to $14.06B in Q2 2026; management explicitly ties growth constraint to labor availability, not customer demand; full-year 2025 revenue $9.10B, net income $1.02B; Q2 2026 revenue $3.27B, net income $441.6M",
+   "verified": true
   },
   {
    "company": "BrightView Holdings",
-   "fact": "Approximately 1,500 seasonal workers employed through H-2B visa program in fiscal 2025 (reduced from 2,000 in fiscal 2024); 10-K explicitly discloses expectation to continue H-2B usage; fiscal 2025 total net service revenues $2.67B ($1.89B maintenance, $789.1M development); net income $56.0M; approximately 18,600 employees including seasonal workers as of 2025-09-30"
+   "fact": "Approximately 1,500 seasonal workers employed through H-2B visa program in fiscal 2025 (reduced from 2,000 in fiscal 2024); 10-K explicitly discloses expectation to continue H-2B usage; fiscal 2025 total net service revenues $2.67 billion ($1.89 billion maintenance, $789.1 million development); net income $56.0 million; approximately 18,600 employees including seasonal workers as of 2025-09-30",
+   "verified": true
   },
   {
    "company": "ConocoPhillips",
-   "fact": "$9.0 billion distributed to shareholders in 2025 ($5.0B buybacks, $4.0B dividends) on $19.8B of operating cash flow; full-year 2025 earnings $8.0B; full-year production 2,375 MBOED; workers at extraction sites absorb physical risk while capital captures 45% of CFO in returns"
+   "fact": "$9.0 billion distributed to shareholders in 2025 ($5.0B buybacks, $4.0B dividends) on $19.8B of operating cash flow; full-year 2025 earnings $8.0B; full-year production 2,375 MBOED; workers and communities at the operational footprint absorb risk while capital captures 45% of CFO in returns",
+   "verified": true
   },
   {
    "company": "Graphic Packaging Holding Company",
-   "fact": "$1.67B Waco recycled-paperboard project substantially complete by Q4 2025; 2026 capex cut to $450M from $935M in 2025; Lebanon, Tennessee facility closure announced Q2 2026; Winsford, UK closure under evaluation; organization streamlining and workforce reductions implemented Q1 2026; full-year 2025 net sales $8.617B, net income $444M, total debt $5.592B"
+   "fact": "$1.67B Waco recycled-paperboard project substantially complete by Q4 2025; 2026 capex cut to $450M from $935M in 2025; Lebanon, Tennessee facility closure announced Q2 2026; Winsford, UK closure under evaluation; organization streamlining and workforce reductions implemented Q1 2026; full-year 2025 net sales $8.617B, net income $444M, total debt $5.592B",
+   "verified": true
   },
   {
    "company": "Aveanna Healthcare Holdings",
-   "fact": "Labor shortage and wage pressure in home health aides explicitly cited as operating risk; Q1 2026 revenue $647.9M (+15.9%), adjusted EBITDA $84.4M (+25.2%); full-year 2026 revenue guidance raised to $2.56-$2.58B; workers provide pediatric and elder private duty care absorbing physical and emotional risk in isolated home settings"
+   "fact": "Labor shortage and wage pressure in home health aides explicitly cited as operating risk; Q1 2026 revenue $647.9M (+15.9%), adjusted EBITDA $84.4M (+25.2%); full-year 2026 revenue guidance raised to $2.56-$2.58B; workers provide pediatric and elder private duty care absorbing physical and emotional risk in isolated home settings",
+   "verified": true
   },
   {
    "company": "ABM Industries",
-   "fact": "WGNSTAR acquisition deepening semiconductor and technical-facilities scope; ATS segment driven by battery energy storage and datacenter-related services; traditional janitorial market growth stagnating while technical work drives record results; full-year 2025 revenue $8.7B (record), new sales bookings $1.9B (record); FY2026 Q2 revenue $2.3B (+8.4%), adjusted EBITDA $131.7M"
+   "fact": "WGNSTAR acquisition deepening semiconductor and technical-facilities scope; ATS segment driven by battery energy storage and datacenter-related services; traditional janitorial market growth stagnating while technical work drives record results; full-year 2025 revenue $8.7B (record), new sales bookings $1.9B (record); FY2026 Q2 revenue $2.3B (+8.4%), adjusted EBITDA $131.7M",
+   "verified": true
   },
   {
    "company": "Applied Industrial Technologies",
-   "fact": "Customer labor constraints create value for distributor technical support; automation and robotics demand increasing service depth requirements; annual letter explicit that labor scarcity is the primary value driver for technical distribution services"
+   "fact": "Customer labor constraints create value for distributor technical support; automation and robotics demand increasing service depth requirements; annual letter explicit that labor scarcity is the primary value driver for technical distribution services",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "Evidence that profitable companies facing labor scarcity are choosing permanent wage increases over automation/consolidation, such as companies raising skilled-trades or home health wages substantially and successfully recruiting without visa programs or facility consolidation, or that labor supply actually increased to meet demand without wage premium.",
+  "contradicting_companies": [
+   {
+    "company": "Comfort Systems USA",
+    "fact": "Despite $14.06B record backlog (Q2 2026) cited as proof of labor constraint, management explicitly emphasizes 'growing teams' and 'organic revenue growth of 51%' with 'robust ongoing demand' rather than automation. Backlog growth itself proves the company is NOT automating to solve the constraint — it is hiring to convert demand into revenue. If the thesis were fully true, management would have deployed significant automation to eliminate the labor bottleneck; instead, they are scaling labor and maintaining pricing power."
+   },
+   {
+    "company": "Aveanna Healthcare Holdings",
+    "fact": "Explicitly cited as having 'wage pressure from labor shortage' as operating risk, yet the response is NOT automation reduction. Instead, Aveanna is growing aggressively through acquisition (Family First Homecare), raising guidance, and maintaining high margins while absorbing wage pressure. The company is choosing to compete for labor through scale and continuity rather than through labor reduction."
+   },
+   {
+    "company": "Applied Industrial Technologies",
+    "fact": "Entire business model inverts the thesis. Management explicitly states 'customer labor constraints matter' as VALUE DRIVER, not as spur to automation. The company is GROWING demand for technical labor and expertise precisely because customers cannot staff internal capabilities. Engineered Solutions is approaching 40% of sales (up from 18% ten years ago) by making their labor deeper, not shallower."
+   },
+   {
+    "company": "ABM Industries",
+    "fact": "Expanding into WGNSTAR and technical facilities precisely BECAUSE those markets need MORE labor, not less. While the thesis predicts automation displacement, ABM's growth strategy is to deepen technical-services labor and shift toward higher-skill, higher-margin work. The company is not consolidating labor out; it is consolidating labor IN."
+   }
+  ],
+  "honest_caveat": "The trend captures a real and important pattern in extraction (Nutrien), packaging (Graphic Packaging), and certain consolidation plays (ConocoPhillips capital returns), but it does NOT capture the full labor-scarcity response across the corpus. In construction (Comfort Systems), home healthcare (Aveanna), industrial distribution (Applied Industrial), and facilities operations (ABM), the primary response to labor scarcity has been to compete for labor, raise technical service premiums, or acquire capacity — not to automate labor away. The trend's error is treating automation and wage response as the only two options when the data shows a third: market segmentation where high-wage, high-skill players grow by deepening expertise while low-cost, low-skill players either consolidate or face margin pressure. Nutrien's 49% automation works precisely because mining is geographically isolated and low-skill-variance; Comfort Systems' backlog grows because construction labor is geographically distributed and skill-specific, making automation harder. The thesis works better for commoditized labor in capital-intensive extractive industries and worse for distributed, skill-specific, or relationship-based labor. The political danger is not overstated, but the mechanism is more segmented than the trend suggests."
+ }
 }

@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "54% YoY census growth",
-   "label": "BrightSpring home health average daily census, Q2 2026 (46,448 patients)"
+   "label": "BrightSpring home health average daily census, Q2 2026 (46,448 patients)",
+   "verified": true,
+   "check": "found in packet — Q2 2026 home health average daily census reached 46,448, up 54% year over year"
   },
   {
    "stat": "465,000 patients daily",
-   "label": "BrightSpring total across all 50 states, 2025 annual"
+   "label": "BrightSpring total across all 50 states, 2025 annual",
+   "verified": true,
+   "check": "found in packet — annual record shows 465,000+ patients served daily across all 50 states"
   },
   {
    "stat": "20.5% same-store NOI growth",
-   "label": "Welltower seniors housing operating portfolio, Q2 2026"
+   "label": "Welltower seniors housing operating portfolio, Q2 2026",
+   "verified": true,
+   "check": "found in packet — Q2 2026 seniors housing operating portfolio same-store NOI growth was 20.5%"
   },
   {
    "stat": "22.1% same-store NOI growth",
-   "label": "Welltower seniors housing operating portfolio, Q1 2026 — two consecutive quarters confirm trend"
+   "label": "Welltower seniors housing operating portfolio, Q1 2026 — two consecutive quarters confirm trend",
+   "verified": true,
+   "check": "found in packet — Q1 2026 seniors housing operating NOI growth was 22.1%"
   },
   {
    "stat": "15.9% organic revenue growth",
-   "label": "AdaptHealth Q2 2026, despite a $144.2M goodwill write-down masking it in GAAP"
+   "label": "AdaptHealth Q2 2026, despite a $144.2M goodwill write-down masking it in GAAP",
+   "verified": true,
+   "check": "found in packet — Q2 2026 organic revenue growth reached 15.9% with $144.2M pre-tax goodwill write-down"
   },
   {
    "stat": "$75.7M added private duty revenue in a single quarter",
-   "label": "Aveanna Healthcare Q1 2026 vs. Q1 2025; adjusted EBITDA up 25.2% YoY"
+   "label": "Aveanna Healthcare Q1 2026 vs. Q1 2025; adjusted EBITDA up 25.2% YoY",
+   "verified": true,
+   "check": "found in packet — Q1 2026 revenue increase was driven by roughly $75.7 million of added private duty services revenue; adjusted EBITDA $84.4M, up 25.2% YoY"
   },
   {
    "stat": "$27.50 gross profit per prescription",
-   "label": "BrightSpring pharmacy, Q2 2026 — up from prior-year levels as script mix shifts to specialty"
+   "label": "BrightSpring pharmacy, Q2 2026 — up from prior-year levels as script mix shifts to specialty",
+   "verified": true,
+   "check": "found in packet — Q2 2026 gross profit per script rose to $27.50"
   },
   {
    "stat": "$11B net investment activity",
-   "label": "Welltower full-year 2025, deploying capital at scale into senior housing"
+   "label": "Welltower full-year 2025, deploying capital at scale into senior housing",
+   "verified": true,
+   "check": "found in packet — approximately $11B of full-year net investment activity"
   }
  ],
  "mechanism": [
@@ -53,31 +69,52 @@
  "evidence": [
   {
    "company": "BrightSpring Health Services",
-   "fact": "Home health average daily census reached 46,448 in Q2 2026, up 54% year over year; company serves 465,000+ patients daily across all 50 states and fulfilled approximately 43 million prescriptions in 2025; gross profit per prescription rose to $27.50 in Q2 2026; full-year 2026 revenue guidance increased to $15.1–15.4 billion; leverage fell to 2.15x as of June 30, 2026, below the company's stated 2.5x long-term target; Community Living divestiture to Sevita closed March 30, 2026, sharpening the continuing company around pharmacy and provider infrastructure"
+   "fact": "Home health average daily census reached 46,448 in Q2 2026, up 54% year over year; company serves 465,000+ patients daily across all 50 states and fulfilled approximately 43 million prescriptions in 2025; gross profit per prescription rose to $27.50 in Q2 2026; full-year 2026 revenue guidance increased to $15.1–15.4 billion; leverage fell to 2.15x as of June 30, 2026, below the company's stated 2.5x long-term target; Community Living divestiture to Sevita closed March 30, 2026, sharpening the continuing company around pharmacy and provider infrastructure",
+   "verified": true
   },
   {
    "company": "Welltower Inc.",
-   "fact": "Seniors housing operating same-store NOI grew 20.5% in Q2 2026 and 22.1% in Q1 2026; occupancy growth approximately 400 basis points; total portfolio same-store NOI growth was 15.5% in Q2 2026 and 16.4% in Q1 2026; full-year 2025 net investment activity was approximately $11 billion; normalized FFO was $1.60 per diluted share in Q2 2026; FFO per share growth approximately 22% for full year 2025"
+   "fact": "Seniors housing operating same-store NOI grew 20.5% in Q2 2026 and 22.1% in Q1 2026; occupancy growth approximately 400 basis points; total portfolio same-store NOI growth was 15.5% in Q2 2026 and 16.4% in Q1 2026; full-year 2025 net investment activity was approximately $11 billion; normalized FFO was $1.60 per diluted share in Q2 2026; FFO per share growth approximately 22% for full year 2025",
+   "verified": true
   },
   {
    "company": "AdaptHealth Corp.",
-   "fact": "Services approximately 4.3 million patients annually across all 50 states through approximately 640 locations; completes approximately 38,500 equipment and supply deliveries per day; organic revenue growth 15.9% in Q2 2026 and 9.1% in Q1 2026; Q2 2026 adjusted EBITDA $132.0 million; $144.2 million pre-tax goodwill impairment in Q2 2026 drove GAAP net loss of $145.3 million — unrelated to underlying operating demand; 2026 net revenue guidance $3.275–3.400 billion"
+   "fact": "Services approximately 4.3 million patients annually across all 50 states through approximately 640 locations; completes approximately 38,500 equipment and supply deliveries per day; organic revenue growth 15.9% in Q2 2026 and 9.1% in Q1 2026; Q2 2026 adjusted EBITDA $132.0 million; $144.2 million pre-tax goodwill impairment in Q2 2026 drove GAAP net loss of $145.3 million — unrelated to underlying operating demand; 2026 net revenue guidance $3.275–3.400 billion",
+   "verified": true
   },
   {
    "company": "Aveanna Healthcare",
-   "fact": "Q1 2026 revenue $647.9 million, up 15.9%; private duty services revenue increased $75.7 million versus Q1 2025; adjusted EBITDA $84.4 million, up 25.2% year over year; Q4 2025 adjusted EBITDA up 54.0% year over year; full-year 2026 revenue guidance $2.56–2.58 billion; adjusted EBITDA guidance $328–332 million; wage inflation from labor shortage in specialized occupations explicitly cited as cost risk"
+   "fact": "Q1 2026 revenue $647.9 million, up 15.9%; private duty services revenue increased $75.7 million versus Q1 2025; adjusted EBITDA $84.4 million, up 25.2% year over year; Q4 2025 adjusted EBITDA up 54.0% year over year; full-year 2026 revenue guidance $2.56–2.58 billion; adjusted EBITDA guidance $328–332 million; wage inflation from labor shortage in specialized occupations explicitly cited as cost risk",
+   "verified": true
   },
   {
    "company": "Cencora Inc.",
-   "fact": "Consolidated revenue FY2025 was $321.3 billion; U.S. Healthcare Solutions operating income grew 22% in FY2025; specialty distribution and value-based care incentives creating recurring patient relationships across physician, pharmacy, and home channels"
+   "fact": "Consolidated revenue FY2025 was $321.3 billion; U.S. Healthcare Solutions operating income grew 22% in FY2025; specialty distribution and value-based care incentives creating recurring patient relationships across physician, pharmacy, and home channels",
+   "verified": true
   },
   {
    "company": "Baxter International",
-   "fact": "Renal and critical-care markets described as resilient and growing from aging population; sales from continuing operations $2.96 billion in Q2 2026, up 5% on both reported and organic basis; free cash flow $181 million in Q2 2026; patient-support systems and front-line care demand driving segment strength"
+   "fact": "Renal and critical-care markets described as resilient and growing from aging population; sales from continuing operations $2.96 billion in Q2 2026, up 5% on both reported and organic basis; free cash flow $181 million in Q2 2026; patient-support systems and front-line care demand driving segment strength",
+   "verified": true
   },
   {
    "company": "Becton Dickinson",
-   "fact": "$110 million investment in Nebraska to expand prefillable-syringe capacity for biologics and GLP-1 drug delivery (Q1 FY2026); Medical segment revenue $10.074 billion in FY2025, up from $9.502 billion, with growth led by medication-delivery solutions and biologic drug-delivery systems; home-injectable therapy demand expanding faster than hospital-based infusion demand"
+   "fact": "$110 million investment in Nebraska to expand prefillable-syringe capacity for biologics and GLP-1 drug delivery (Q1 FY2026); Medical segment revenue $10.074 billion in FY2025, up from $9.502 billion, with growth led by medication-delivery solutions and biologic drug-delivery systems; home-injectable therapy demand expanding faster than hospital-based infusion demand",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "If home health census growth decelerated sharply despite aging demographics, or if operator margins compressed from wage inflation faster than pricing could offset, or if Medicare reimbursement cuts were implemented despite the policy narrative, the thesis would break. Alternatively, if the occupancy gains in senior housing were driven by conversion of existing patients rather than net new admissions, or if the labor supply responded elastically to wage pressure without cost spikes.",
+  "contradicting_companies": [
+   {
+    "company": "Baxter International",
+    "fact": "Despite demographic tailwinds and aging-population framing, Baxter's Q1 2026 organic revenue actually declined 1% in Medical Products & Therapies, with overall organic growth weak at -1%, suggesting not all healthcare infrastructure companies are capturing the aging wave uniformly. Full-year 2025 reported net loss of $900M and ongoing portfolio disruption (Novum IQ LVP hold, planned portfolio exits) show that institutional healthcare demand can be constrained by execution problems even with underlying aging demographics intact."
+   },
+   {
+    "company": "AdaptHealth Corp.",
+    "fact": "Despite 15.9% organic growth in Q2 2026, AdaptHealth's free cash flow remained deeply stressed, turned negative $48.4M YTD 2026 vs positive $73.3M YTD 2025, and the company was forced to reset 2026 guidance downward due to capitated contract margin compression and manufacturer price increases. This shows that even in a structurally favorable market, execution complexity and supply-chain pricing can hollow out the cash generation thesis temporarily."
+   }
+  ],
+  "honest_caveat": "The trend is built entirely on a 2-3 quarter snapshot across five companies, all of which were selected because they showed inflection. The packets do not include negative controls — other aging-exposed healthcare names that did NOT see simultaneous inflection in 2025-2026, which means the thesis cannot definitively rule out that the 2025-2026 cycle was partly correlated to temporary margin conditions or payer-mix shifts rather than purely demographic. Welltower's occupancy gains and BrightSpring's census spike are real, but the causal story that ties them uniquely to boomer aging (rather than to post-COVID recovery of elective services, staffing normalization, or pent-up demand release) remains circumstantial. The labor-cost risk is cited but not quantified — there is no analysis of what wage-rate threshold would actually break the home-care economic advantage. The packets are also silent on whether the strong 2026 guidance from these operators incorporates meaningful home-health aide wage increases already; if the guidance already assumes 8-10% wage growth, the thesis's tension section oversells the risk."
+ }
 }

@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "Bloomingdale's comp sales +10.2% vs. Macy's nameplate +1.6% in Q1 2026",
-   "label": "Macy's Q1 2026: luxury and mass diverge inside the same parent company in the same quarter"
+   "label": "Macy's Q1 2026: luxury and mass diverge inside the same parent company in the same quarter",
+   "verified": true,
+   "check": "found in packet: Q1 2026 Bloomingdale's comparable sales +10.2%, Macy's nameplate +1.6%"
   },
   {
    "stat": "$188M Macy's Media Network revenue in 2025, up from a standing start",
-   "label": "Macy's 2025: forced to build an attention-monetization layer because merchandise margin alone can no longer sustain the store network"
+   "label": "Macy's 2025: forced to build an attention-monetization layer because merchandise margin alone can no longer sustain the store network",
+   "verified": true,
+   "check": "found in packet: full-year 2025 Macy's Media Network revenue net reached $188M"
   },
   {
    "stat": "NIKE Direct down 7% reported, down 9% currency-neutral in Q4 2026; wholesale up 4%",
-   "label": "NIKE Q4 2026: discretionary consumers who once bought direct are retreating; wholesale channel, which reaches value environments, is the one growing"
+   "label": "NIKE Q4 2026: discretionary consumers who once bought direct are retreating; wholesale channel, which reaches value environments, is the one growing",
+   "verified": true,
+   "check": "found in packet: Q4 2026 NIKE Direct revenues $4.1B, down 7% reported and down 9% currency-neutral; wholesale revenues $6.6B, up 4% reported"
   },
   {
    "stat": "HOKA net sales +23.6% to drive record Deckers FY 2025 revenue of $4.99B",
-   "label": "Deckers FY 2025: premium performance running absorbs the discretionary dollars that mid-market athletic brands are losing"
+   "label": "Deckers FY 2025: premium performance running absorbs the discretionary dollars that mid-market athletic brands are losing",
+   "verified": true,
+   "check": "found in packet: FY 2025 revenue $4.99B up 16%, HOKA revenue increased 23.6%"
   },
   {
    "stat": "YETI Q1 2026: wholesale up 19% to $183.6M; DTC flat at $196.8M; adjusted net income compressed by tariff costs despite strong demand",
-   "label": "YETI Q1 2026: even identity brands show margin fragility when input costs rise — demand is not the constraint, cost pass-through is"
+   "label": "YETI Q1 2026: even identity brands show margin fragility when input costs rise — demand is not the constraint, cost pass-through is",
+   "verified": true,
+   "check": "found in packet: Q1 2026 wholesale channel sales increased 19% to $183.6M, DTC flat at $196.8M, adjusted net income was $19.8M compressed by incremental tariff costs"
   },
   {
    "stat": "PepsiCo 2025 full-year net revenue $93.9B; management explicit that North America consumers want value; international organic revenue grew 7% in Q2 2026 while U.S. food and beverage categories moderated",
-   "label": "PepsiCo 2026: North American affordability pressure is visible even in staples, not just discretionary"
+   "label": "PepsiCo 2026: North American affordability pressure is visible even in staples, not just discretionary",
+   "verified": true,
+   "check": "found in packet: full-year 2025 net revenue $93.9B; Q2 2026 international organic revenue growth 7%, U.S. food and beverage categories moderated as consumer budgets tightened"
   },
   {
    "stat": "Bath & Body Works full-year 2025 net sales down 0.2%, operating income down 11%; Q1 2026 net sales down 3%",
-   "label": "Bath & Body Works 2025-2026: 40M loyalty members insufficient as a moat when the discretionary spend powering specialty fragrance compresses"
+   "label": "Bath & Body Works 2025-2026: 40M loyalty members insufficient as a moat when the discretionary spend powering specialty fragrance compresses",
+   "verified": true,
+   "check": "found in packet: full-year 2025 net sales down 0.2%, operating income down 11%; Q1 2026 net sales $1.378B, down 3%"
   },
   {
    "stat": "Macy's full-year 2025 comparable sales +1.5%; Bloomingdale's Q4 2025 comp +9.9%; Bluemercury Q1 2026 comp +6.4%",
-   "label": "Macy's portfolio 2025-2026: the gap between premium sub-brands and the nameplate has been widening for at least three consecutive quarters"
+   "label": "Macy's portfolio 2025-2026: the gap between premium sub-brands and the nameplate has been widening for at least three consecutive quarters",
+   "verified": true,
+   "check": "found in packet: full-year 2025 comparable sales +1.5%; Q4 2025 Bloomingdale's comparable sales +9.9%; Q1 2026 Bluemercury comparable sales +6.4%"
   }
  ],
  "mechanism": [
@@ -53,35 +69,61 @@
  "evidence": [
   {
    "company": "Macy's, Inc.",
-   "fact": "Q1 2026: Bloomingdale's comparable sales +10.2%, Bluemercury +6.4%, Macy's nameplate +1.6%; net sales $4.7B, up 1.8%. Full-year 2025: net sales $21.8B, comparable sales +1.5%, Macy's Media Network revenue $188M, credit card revenue net $669M. The media and financial-adjacent revenue layers exist because merchandise margin on the nameplate alone is insufficient to sustain the store network."
+   "fact": "Q1 2026: Bloomingdale's comparable sales +10.2%, Bluemercury +6.4%, Macy's nameplate +1.6%; net sales $4.7B, up 1.8%. Full-year 2025: net sales $21.8B, comparable sales +1.5%, Macy's Media Network revenue $188M, credit card revenue net $669M. The media and financial-adjacent revenue layers exist because merchandise margin on the nameplate alone is insufficient to sustain the store network.",
+   "verified": true
   },
   {
    "company": "NIKE, Inc.",
-   "fact": "Q4 2026: revenues $11.0B, down 1% reported and down 4% currency-neutral; NIKE Direct revenues $4.1B, down 7% reported and down 9% currency-neutral; wholesale revenues $6.6B, up 4% reported. Full-year 2026: revenues $46.4B, NIKE Direct $17.7B, wholesale $27.5B, gross margin 42.9%. Direct has contracted while wholesale reaccelerates for at least three consecutive quarters."
+   "fact": "Q4 2026: revenues $11.0B, down 1% reported and down 4% currency-neutral; NIKE Direct revenues $4.1B, down 7% reported and down 9% currency-neutral; wholesale revenues $6.6B, up 4% reported. Full-year 2026: revenues $46.4B, NIKE Direct $17.7B, wholesale $27.5B, gross margin 42.9%. Direct has contracted while wholesale reaccelerates for at least three consecutive quarters.",
+   "verified": true
   },
   {
    "company": "Deckers Outdoor Corp.",
-   "fact": "FY 2025: total revenue $4.99B, up 16%; HOKA revenue up 23.6%; UGG revenue up 13.1%; diluted EPS up 30% to record $6.33. FY 2026: total revenue $5.47B, up 10%; HOKA revenue $2.587B, up 15.9%; free cash flow exceeded $1B. Q1 2027: HOKA net sales $703.5M, up 7.7%; total net sales $1.020B. Premium performance footwear is capturing the discretionary spending that mid-market athletic brands are losing."
+   "fact": "FY 2025: total revenue $4.99B, up 16%; HOKA revenue up 23.6%; UGG revenue up 13.1%; diluted EPS up 30% to record $6.33. FY 2026: total revenue $5.47B, up 10%; HOKA revenue $2.587B, up 15.9%; free cash flow exceeded $1B. Q1 2027: HOKA net sales $703.5M, up 7.7%; total net sales $1.020B. Premium performance footwear is capturing the discretionary spending that mid-market athletic brands are losing.",
+   "verified": true
   },
   {
    "company": "YETI Holdings, Inc.",
-   "fact": "Full-year 2025: net sales $1.8685B; DTC $1.128B (60% of sales); wholesale $740.7M; international up 16% to $394.4M. Q1 2026: total sales $380.4M; wholesale up 19% to $183.6M; DTC flat at $196.8M; adjusted net income $19.8M, compressed by incremental tariff costs despite strong consumer demand. Even a premium identity brand with 60% DTC penetration faces margin fragility when input costs rise."
+   "fact": "Full-year 2025: net sales $1.8685B; DTC $1.128B (60% of sales); wholesale $740.7M; international up 16% to $394.4M. Q1 2026: total sales $380.4M; wholesale up 19% to $183.6M; DTC flat at $196.8M; adjusted net income $19.8M, compressed by incremental tariff costs despite strong consumer demand. Even a premium identity brand with 60% DTC penetration faces margin fragility when input costs rise.",
+   "verified": true
   },
   {
    "company": "PepsiCo Inc.",
-   "fact": "Full-year 2025: net revenue $93.9B, core operating profit $14.9B, free cash flow $8.2B; 54th consecutive annual dividend increase. Q2 2026: net revenue $24.2B; international organic revenue +7%; management said U.S. food and beverage categories moderated as consumer budgets tightened. Q1 2026: net revenue $19.4B. Management repeatedly named affordability and value as the operating challenge in North America across multiple quarters."
+   "fact": "Full-year 2025: net revenue $93.9B, core operating profit $14.9B, free cash flow $8.2B; 54th consecutive annual dividend increase. Q2 2026: net revenue $24.2B; international organic revenue +7%; management said U.S. food and beverage categories moderated as consumer budgets tightened. Q1 2026: net revenue $19.4B. Management repeatedly named affordability and value as the operating challenge in North America across multiple quarters.",
+   "verified": true
   },
   {
    "company": "Bath & Body Works, Inc.",
-   "fact": "Full-year 2025: net sales down 0.2% to approximately prior-year level, operating income down 11%; 40M active loyalty members. Q1 2026: net sales down 3%. Specialty fragrance and home-care discretionary spend is compressing despite a large and active loyalty base, showing that membership programs are not sufficient insulation when the underlying discretionary income contracts."
+   "fact": "Full-year 2025: net sales down 0.2% to approximately prior-year level, operating income down 11%; 40M active loyalty members. Q1 2026: net sales down 3%. Specialty fragrance and home-care discretionary spend is compressing despite a large and active loyalty base, showing that membership programs are not sufficient insulation when the underlying discretionary income contracts.",
+   "verified": true
   },
   {
    "company": "Home Depot, Inc.",
-   "fact": "Q1 2026 comparable sales +0.6%; professional contractor business outperforming DIY; management cited greater consumer uncertainty and housing affordability pressure as the reason homeowner discretionary maintenance is being deferred. Pro and DIY are bifurcating within home improvement the same way Bloomingdale's and the nameplate are bifurcating within Macy's."
+   "fact": "Q1 2026 comparable sales +0.6%; professional contractor business outperforming DIY; management cited greater consumer uncertainty and housing affordability pressure as the reason homeowner discretionary maintenance is being deferred. Pro and DIY are bifurcating within home improvement the same way Bloomingdale's and the nameplate are bifurcating within Macy's.",
+   "verified": true
   },
   {
    "company": "ACCO Brands Corporation",
-   "fact": "2025 net sales $1.525B, down 8.5%; comparable company-wide sales declined 2.3% in Q2 2026. Core office categories facing secular decline as hybrid work normalization permanently reduced office intensity; pivoting to gaming, learning, and tech peripherals. A mid-market B2B-and-consumer operator caught between shrinking core demand and a premium/value bifurcation it cannot easily straddle."
+   "fact": "2025 net sales $1.525B, down 8.5%; comparable company-wide sales declined 2.3% in Q2 2026. Core office categories facing secular decline as hybrid work normalization permanently reduced office intensity; pivoting to gaming, learning, and tech peripherals. A mid-market B2B-and-consumer operator caught between shrinking core demand and a premium/value bifurcation it cannot easily straddle.",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "The trend would be falsified if mid-market operators demonstrated sustained comparable-store sales growth in the 2%+ range, if value-seeking consumers were not actually consolidating around lowest-cost platforms, or if premium identity brands experienced margin compression without maintaining pricing power — i.e., if the data showed mean-reversion back to the middle tier rather than acceleration of the bifurcation.",
+  "contradicting_companies": [
+   {
+    "company": "Lululemon (not in archive)",
+    "fact": "While the archive lacks a Lululemon packet, the market observation is that mid-premium athletic brands have sustained high growth through premium positioning without bifurcating into value channels. If Lululemon is still growing 15%+ with retail prices $100+, it challenges the premise that premium identity brands are saturating the mass market."
+   },
+   {
+    "company": "Target",
+    "fact": "While the archive lacks a Target packet, Target's operating model sits directly between premium and value, and if Target sustained healthy growth without margin compression through the 2025-2026 window, it would contradict the premise that the middle tier is unviable."
+   },
+   {
+    "company": "Ulta Beauty (not in archive)",
+    "fact": "Specialty beauty retail at mid-premium prices (higher than drugstore, lower than pure luxury) would challenge the thesis if it maintained growth and positive comps in 2025-2026, because it would prove the middle tier has viability through curation and experience."
+   }
+  ],
+  "honest_caveat": "This trend describes department-store retail, athletic footwear, outdoor gear, specialty fragrance, and packaged food — but it does NOT fully explain grocery, pharmacies, dollar stores, or QSR food. Affordability pressure is real, but the archive does not include the staple-survival networks (Costco, Sam's Club, discount grocery) or the lowest-cost convenience layer (Dollar General, dollar stores, convenience chains), so the thesis overstates the completeness of the bifurcation by omitting the enormous value-tier infrastructure that is actually capturing trade-down volume. The trend also assumes tariffs and inflation persist at 2025-2026 levels; if tariff pressure reverses or if real-income growth returns to lower- and middle-income households, the bifurcation could compress back toward the middle. Finally, the thesis is primarily a 2025-2026 phenomenon across the sampled companies — it reflects one year of data, not a multi-year structural shift, and mean-reversion remains possible if consumer demand strengthens or cost pressures ease."
+ }
 }

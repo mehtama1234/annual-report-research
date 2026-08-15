@@ -1,0 +1,122 @@
+{
+ "slug": "grids-new-landlords",
+ "name": "The Grid's New Landlords",
+ "deck": "Gas pipelines and regulated transmission operators are extracting structural economic rents from the AI buildout — tolling electrons and molecules that hyperscalers cannot route around — while bearing none of the technology risk that defines every other layer of the AI stack.",
+ "core_bet": "Hyperscalers solved the generation problem by signing power purchase agreements with wind and solar developers. They cannot solve the transport problem. In most U.S. jurisdictions, private parties cannot own transmission lines or interstate gas pipelines — the regulated utility or midstream operator owns the only available corridors. That ownership position converts AI power demand into a 40-year annuity: the utility builds a dedicated line, files for a regulated return on that capital with a state commission, and the data center pays. The midstream operator owns the gathering and transmission infrastructure that delivers gas to the combined-cycle plants backing those power contracts, and signs a 10- to 15-year take-or-pay agreement for the molecules. Neither the hyperscaler nor the renewable developer can avoid these companies. What makes the position durable is that the pipes and wires were built for 20th-century industrial loads, so incremental expansion costs a fraction of greenfield construction on a per-unit basis.",
+ "numbers": [
+  {
+   "stat": "$8.4B",
+   "label": "Williams Companies 2026 adjusted EBITDA guidance midpoint after a $200M raise in Q2 2026, driven by power-innovation projects and LNG corridor demand",
+   "verified": true,
+   "check": "found in packet: Q2 2026 raised midpoint by $200M to $8.4B"
+  },
+  {
+   "stat": "$19.0B",
+   "label": "Energy Transfer 2026 adjusted EBITDA guidance midpoint after two guidance raises in 2026, up from $15.984B in full-year 2025",
+   "verified": true,
+   "check": "found in packet: raised to $18.8B-$19.1B in Q2 2026, up from $15.984B FY 2025"
+  },
+  {
+   "stat": "140,000 miles",
+   "label": "Pipeline and associated infrastructure operated by Energy Transfer across 44 states, covering natural gas, crude, NGL, refined products, and fractionation",
+   "verified": true,
+   "check": "found in packet: 140,000 miles of pipeline across 44 states"
+  },
+  {
+   "stat": "3.4 GW",
+   "label": "Contracted data-center demand signed by Alliant Energy as of Q1 2026 including a new 370 MW Iowa ESA, driving a projected 60% peak-load increase by 2031",
+   "verified": true,
+   "check": "found in packet: Q1 2026 reached 3.4 GW after new 370 MW; 60% load increase by 2031"
+  },
+  {
+   "stat": "$79.7B",
+   "label": "NextEra Energy's FPL regulatory capital employed at Q2 2026, up from $72.9B a year earlier, growing at roughly 9% annually on data-center and large-load transmission investment",
+   "verified": true,
+   "check": "found in packet: Q2 2026 FPL regulatory capital employed $79.7B vs $72.9B year earlier (9.3% growth)"
+  },
+  {
+   "stat": "$42B",
+   "label": "Atmos Energy projected rate base by fiscal 2030, doubling from $21.4B at fiscal 2025 year-end through $26B of safety and modernization capex",
+   "verified": true,
+   "check": "found in packet: rate base projected to double from $21.4B FY2025 to $42B by FY2030 through $26B capex"
+  },
+  {
+   "stat": "325,000 Dth/d",
+   "label": "EQT Corporation 10-year premium power supply agreement with CPV Shay Energy Center signed Q2 2026, linking Appalachian gas directly to data-center-adjacent power demand",
+   "verified": true,
+   "check": "found in packet: Q2 2026 10-year agreement with CPV Shay for 325,000 Dth/d"
+  },
+  {
+   "stat": "25%",
+   "label": "Year-over-year increase in NGL exports by Energy Transfer in Q2 2026, alongside 13% higher NGL transportation volumes and a fully subscribed 240,000 bpd Nederland ethane export expansion",
+   "verified": true,
+   "check": "found in packet: Q2 2026 NGL exports rose 25% with 13% transportation volume growth"
+  }
+ ],
+ "mechanism": [
+  "The economic structure is a toll road with no alternative route. Data centers require power 24 hours a day at reliability standards that solar and wind portfolios cannot meet without battery storage at a cost that makes the economics of the data center unworkable. Natural gas plants — combined-cycle turbines that ramp in minutes — fill the reliability gap. Midstream operators like Williams and Energy Transfer own the gathering and transmission infrastructure that delivers gas from production basins to those plants. When a hyperscaler signs a 15-year power contract backed by a gas plant, the contract chain reaches the midstream operator who owns the pipes. Williams calls this the 'LNG-plus-power backbone'; its Transco pipeline, Socrates and Power Express projects, and Blackstone power-innovation joint venture are each designed to monetize this position. The operator bears no demand-creation risk and no technology risk. It collects a tariff on throughput.",
+  "Transmission utilities occupy the same structural position at a different layer. A data center in Iowa drawing 500 MW needs dedicated transmission and distribution infrastructure that only the local regulated utility can build and own. Alliant Energy contracted 3.4 GW of data-center demand as of Q1 2026. Each gigawatt requires new transmission construction; Alliant files for a regulated return on that capital at the Iowa or Wisconsin commission, and the construction cost flows into rate base. That rate base grows at roughly 6% to 8% per year on Alliant's plan through 2029, which is directly funded by load growth from customers like QTS, Google, and Meta siting near Des Moines. The key asymmetry: the utility cannot refuse the load, but the data center also cannot refuse to pay.",
+  "At the gas-distribution layer, Atmos Energy shows a slower but equally structural version of the same dynamic. Atmos is the largest fully regulated natural-gas-only distributor in the country, serving 3.4 million customers across eight states. It does not have a data-center concentration story the way Alliant does. Instead, it has a modernization compounding story: $26B of projected capital through fiscal 2030 recovers through regulated rates on a rate base that doubles from $21.4B to $42B. Communities growing around data-center corridors need upgraded gas service for the on-site backup generation, heating, and industrial support that accompany hyperscaler campuses. Atmos collects those returns without needing to name a single hyperscaler customer."
+ ],
+ "why_now": "The inflection is dateable. In 2023 and early 2024, AI power demand was a forecast item in utility rate cases — a number planners discussed but regulators treated as speculative. By late 2025 and into 2026, it had become signed contracts. Alliant Energy ended 2025 with roughly 3 GW of contracted data-center demand and framed it as a 50% load increase by 2030; by Q1 2026 that had grown to 3.4 GW and a 60% projected increase by 2031. Williams Companies entered 2026 guiding to $8.05B–$8.35B of adjusted EBITDA; it exited Q2 2026 having raised that midpoint by $200M and explicitly cited power-innovation projects and data-center-linked demand as a driver. Energy Transfer entered 2026 guiding to $17.45B–$17.85B of adjusted EBITDA and exited Q2 2026 guiding to $18.8B–$19.1B — two raises in two quarters driven in part by NGL export expansion (NGL exports +25% year over year in Q2 2026) and long-term take-or-pay agreements extending into the 2030s. The shift from forecast to committed capital happened between mid-2025 and mid-2026, and it is now embedded in multiyear capital plans from which these companies cannot easily retreat.",
+ "who_pays": "Electricity customers in regulated Midwestern and Sun Belt markets where data-center load growth drives higher rate-base investment that utilities recover from all customers, not only from the data-center operators. Alliant explicitly argues its Iowa base electric rates stay below national averages, but the trajectory is higher capital per customer over time. Communities near new transmission routes, pipeline expansions, and gas-export facilities absorb siting disruption, construction impacts, and operating noise. Low-income households in service territories with heavy data-center concentration face the fastest rate-trajectory risk because the capex is socialized across the customer base regardless of income. Regions without data-center corridors see their relative share of national utility capital investment decline, creating a compounding geographic divergence in energy-system quality.",
+ "who_profits": "Infrastructure operators with existing geographic footprints near emerging AI campus corridors — Williams Companies, Energy Transfer, Atmos Energy, Alliant Energy, NextEra Energy — whose incremental expansion cost against already-depreciated networks is a fraction of greenfield construction. Williams' Blackstone power-innovation joint venture, Socrates, and Power Express projects generate new revenue streams that layer on top of existing Transco tariffs. Energy Transfer's acquisition of J-W Power through USA Compression adds compression and generation capacity as a higher-margin service on top of commodity gas transport. NextEra's FPL regulatory capital base grew 9.3% year over year to $79.7B in Q2 2026, compounding at above-GDP rates without bearing AI technology risk. These companies hold the only legal option available to hyperscalers needing physical energy delivery.",
+ "tension": "The capex programs being committed now assume data-center demand will materialize on the timeline that utility resource plans project. Alliant's $13.4B capital plan through 2029 is sized for 3.4 GW of contracted demand and a 60% peak-load increase by 2031. Williams' $7B-plus of power-innovation capital is sized for gas demand that assumes AI compute keeps scaling and natural gas remains the dispatchable reliability layer. If AI buildout slows, if on-site nuclear or fuel-cell generation becomes cost-competitive before the capex is recovered, or if battery storage costs fall faster than expected, utilities and midstream operators cannot simply exit the investment. The regulatory compact that allows them to earn 6% to 8% returns also prevents them from writing off stranded assets without passing the cost to remaining customers. A 500 MW dedicated transmission line built for a hyperscaler that relocates or shuts down becomes a multi-decade rate-payer liability. State regulatory commissions must approve each capital recovery filing, and public pressure on rate increases or siting opposition can delay or block projects. The regulatory protection and the regulatory constraint are the same mechanism.",
+ "surprising_part": "The surprising part is not that infrastructure operators benefit from AI — it is that AI growth has given them pricing power they did not have before. For decades, regulated utilities argued for capital investment by pointing to reliability, safety modernization, or mandated renewable integration. Regulators and consumer advocates pushed back. The data-center demand wave has changed that negotiation: a utility that can show 3.4 GW of signed customer contracts asking for 500 MW each has a straightforward case for transmission investment that regulators find hard to deny. Hyperscalers need the sites more than they need to fight the rate case. Williams can propose a power-innovation joint venture with Blackstone that turns gas-network access into a behind-the-meter data-center product, and data centers will negotiate rather than walk away, because there is no alternative gas network to walk to. The AI buildout has, inadvertently, resolved the long-standing regulatory friction that held utility capital programs at modest growth rates. The irony is that the most disrupted technology cycle in a generation is the best thing to happen to 20th-century pipe-and-wire operators in decades.",
+ "one_sentence": "The owners of wires and gas pipes have become the silent co-investors in every data center being built — collecting regulated returns and long-term tariffs from hyperscalers who have no alternative route to electrons or molecules.",
+ "societal_stake": "The energy infrastructure being expanded to serve AI is being funded through utility rate bases and long-term customer contracts rather than through direct technology capital markets. That means the capital allocation decisions of Williams, Energy Transfer, Atmos, Alliant, and NextEra — not the decisions of hyperscalers — determine where AI infrastructure physically locates and how quickly it can be built. A utility that cannot get regulatory approval for a transmission expansion in six months is a binding constraint on AI deployment in that geography. Regions without existing gas or transmission corridors near data-center corridors fall further behind as capital concentrates where the pipes and wires already run. Rate-payers in corridor regions fund the buildout and absorb the stranded-asset risk if demand assumptions prove wrong. The broader consequence is that AI's geographic footprint is being shaped by 20th-century infrastructure maps, and the companies that own those maps are collecting economic rents from a technology cycle whose gains will accrue elsewhere.",
+ "evidence": [
+  {
+   "company": "Williams Companies",
+   "fact": "Q2 2026 raised adjusted EBITDA guidance midpoint to $8.4B, a $200M increase, citing power-innovation projects and data-center-linked demand; Blackstone power-innovation joint venture at $7B-plus of capital in execution; Socrates, Power Express, and Leidy Access projects explicitly target data-center and industrial power; management describes business as morphing into 'LNG-plus-power backbone'; full-year 2025 adjusted EBITDA was a record $7.750B; Q2 2026 adjusted EBITDA was $1.921B with AFFO dividend coverage of 2.26x",
+   "verified": true
+  },
+  {
+   "company": "Energy Transfer",
+   "fact": "Operates 140,000 miles of pipeline across 44 states; Q2 2026 adjusted EBITDA was $5.07B versus $3.87B a year earlier; raised full-year 2026 adjusted EBITDA guidance to $18.8B-$19.1B after two separate raises in 2026; NGL exports rose 25% and NGL transportation volumes rose 13% year over year in Q2 2026; signed long-term take-or-pay agreements for about 300,000 bpd extending into the 2030s; acquired J-W Power through USA Compression, adding generation as new revenue layer; growth capital guidance raised to $5.6B-$5.9B for 2026",
+   "verified": true
+  },
+  {
+   "company": "Alliant Energy",
+   "fact": "Total contracted data-center demand reached 3.4 GW as of Q1 2026 including a new 370 MW Iowa ESA; projects a 60% peak-load increase by 2031 from 2025 levels from AI and industrial siting; $13.4B capital plan 2026-2029; reaffirmed 2026 EPS guidance of $3.36-$3.46 with results tracking upper half of range as of Q2 2026; serves QTS, Google, and Meta among large-load customers; Iowa base electric rates held below national average through the buildout",
+   "verified": true
+  },
+  {
+   "company": "NextEra Energy",
+   "fact": "FPL regulatory capital employed grew to $79.7B in Q2 2026 from $72.9B a year earlier, a 9.3% increase; Q1 2026 added a record 4 GW of renewables and storage origination including 1.3 GW battery storage; Q2 2026 added 3.6 GW to backlog; full-year 2025 adjusted EPS was $3.71, up more than 8% from 2024; targets 8%-plus adjusted EPS compound annual growth through 2032; explicitly ties hub strategy to hyperscaler and large-load demand",
+   "verified": true
+  },
+  {
+   "company": "Atmos Energy",
+   "fact": "Largest fully regulated natural-gas-only distributor in the U.S., serving 3.4 million customers across eight states; projects $26B of capital expenditures through fiscal 2030; rate base projected to double from $21.4B at fiscal 2025 year-end to $42B by fiscal 2030; fiscal Q3 2026 year-to-date capex reached $3.1B with over 85% on safety and reliability; raised fiscal 2026 EPS guidance to $8.40-$8.50; 6%-8% targeted EPS and dividend growth through fiscal 2030",
+   "verified": true
+  },
+  {
+   "company": "EQT Corporation",
+   "fact": "Q2 2026 signed a 5-year LNG offtake SPA for 0.5 MTPA beginning 2028 and a 10-year premium power supply agreement with CPV Shay Energy Center for 325,000 Dth/d, explicitly linking Appalachian gas to LNG and data-center-adjacent power demand; raised full-year 2026 production guidance by 90 Bcfe to 2,375-2,450 Bcfe; Q1 2026 free cash flow attributable to EQT hit a record $1.832B; proved reserves approximately 28 Tcfe at year-end 2025",
+   "verified": true
+  }
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "Evidence that hyperscalers are successfully routing around regulated infrastructure via on-site generation (nuclear, hydrogen, advanced geothermal) deployed before committed capex is recovered, or that battery storage and distributed generation are becoming cost-competitive enough to make standalone microgrids economically viable for large loads. Also: regulatory commissions denying rate-base recovery for infrastructure built specifically for data centers, treating it as merchant service rather than regulated utility function. Or: AI demand not materializing on the projected timeline, leaving committed transmission and gas infrastructure underutilized for 5+ years.",
+  "contradicting_companies": [
+   {
+    "company": "NextEra Energy Resources",
+    "fact": "NextEra's Q1 2026 added a record 4 GW of renewables and storage origination (including 1.3 GW battery storage), and Q2 2026 added 3.6 GW to backlog; this suggests battery storage scaling faster than the trend assumes. If battery costs fall faster and hyperscalers can make economic sense of all-renewable-plus-storage networks without natural gas baseload, the gas-infrastructure rent compresses."
+   },
+   {
+    "company": "Williams Companies and Atmos Energy",
+    "fact": "The trend assumes 'no alternative route' for natural gas and transmission, but both filings show significant capex still going to safety, reliability, and modernization (Atmos: 85%+ capex on safety; Williams: multiple project types), not purely to AI-driven expansion. This muddies the narrative that all infrastructure capex is extracting AI rent — much is regulatory-mandated or maintenance-driven, making utilities constrained rather than freely positioning themselves as toll collectors."
+   },
+   {
+    "company": "Alliant Energy",
+    "fact": "Alliant explicitly emphasizes that Iowa base electric rates are being 'held below national average through the buildout,' which implies rate-base growth is NOT automatically flowing to customer bills. If regulators hold rates flat while capital grows, the 'socialized cost' thesis weakens. Alliant cannot extract unlimited rent if the regulator constrains the tariff."
+   },
+   {
+    "company": "Energy Transfer",
+    "fact": "Energy Transfer suspended Lake Charles LNG in December 2025 to 'redirect capital toward natural-gas infrastructure with better risk-return profiles,' proving that even dominant midstream operators face project-viability constraints. This suggests not all energy infrastructure automatically monetizes, and demand risk is real."
+   }
+  ],
+  "honest_caveat": "The trend correctly identifies a structural economic position, but it overstates the *completeness* of the rent capture. First: regulation is both protector and constraint — utilities cannot refuse to serve, but regulators can cap returns and deny cost recovery. Second: this trend applies primarily to regulated utilities and integrated midstream; it does not apply to pure-play Permian producers or independent LNG exporters, who face actual commodity and offtake demand risk. Third: the sustainability of the 'toll' depends entirely on data-center load materialization within the committed timeframe (2026–2031). Fourth: battery storage and distributed generation are advancing faster than the trend assumes, which could break the 'no alternative route' assumption within a decade. Fifth: the 'socialized cost' to rate-payers is real, but its magnitude depends on regulatory willingness to allow utilities to recover capex — and political pressure around data-center siting and energy-burden equity could limit that recovery. The trend identifies a real 2026 winner, but does not account for the regulatory and technology variables that could constrain or reverse it by 2031."
+ }
+}

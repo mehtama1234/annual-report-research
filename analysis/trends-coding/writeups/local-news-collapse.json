@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "$2.302B",
-   "label": "Gannett FY2025 total revenue—first year of positive net income since the 2019 merger, yet total revenue still declining"
+   "label": "Gannett FY2025 total revenue—first year of positive net income since the 2019 merger, yet total revenue still declining",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "47.4%",
-   "label": "Gannett digital revenue as share of total in Q2 2026 ($254.3M of $536.3M)—nearly half the business digital, but total revenue still fell 8.3% year-over-year"
+   "label": "Gannett digital revenue as share of total in Q2 2026 ($254.3M of $536.3M)—nearly half the business digital, but total revenue still fell 8.3% year-over-year",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "1.5M",
-   "label": "Gannett digital-only subscriptions by end of FY2025, outnumbering print subscriptions for the first time—conversion is real but revenue gap remains"
+   "label": "Gannett digital-only subscriptions by end of FY2025, outnumbering print subscriptions for the first time—conversion is real but revenue gap remains",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$45.6M",
-   "label": "Gannett digital-only subscription revenue in Q2 2026—the entire local-paper subscription business for the largest U.S. newspaper chain, in one quarter"
+   "label": "Gannett digital-only subscription revenue in Q2 2026—the entire local-paper subscription business for the largest U.S. newspaper chain, in one quarter",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$2.924B",
-   "label": "Nexstar distribution revenue in FY2025 vs. $1.959B advertising revenue—local TV survives because cable operators pay to carry channels, not because journalism pays"
+   "label": "Nexstar distribution revenue in FY2025 vs. $1.959B advertising revenue—local TV survives because cable operators pay to carry channels, not because journalism pays",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$233M",
-   "label": "Nexstar political advertising drop in Q4 2025 (to $21M from $254M a year earlier)—single-quarter swing that pushed the company to a net loss of $(170)M"
+   "label": "Nexstar political advertising drop in Q4 2025 (to $21M from $254M a year earlier)—single-quarter swing that pushed the company to a net loss of $(170)M",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "12.78M",
-   "label": "New York Times total subscribers at end of FY2025, generating $1.951B in subscription revenue—the only scaled proof point of the premium model, available only at national reach"
+   "label": "New York Times total subscribers at end of FY2025, generating $1.951B in subscription revenue—the only scaled proof point of the premium model, available only at national reach",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$9.94",
-   "label": "New York Times digital-only average revenue per user in Q2 2026—the per-subscriber economics that local papers cannot replicate across a small geographic market"
+   "label": "New York Times digital-only average revenue per user in Q2 2026—the per-subscriber economics that local papers cannot replicate across a small geographic market",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -49,27 +65,50 @@
  "tension": "The companies in the filings that are closest to solving the local-news problem are demonstrating that it is not yet solved. Gannett is executing a credible digital transition—digital is nearly half of revenue, digital-only subscriptions outnumber print subscribers, and the company posted its first positive net income since its 2019 merger. And total revenue still fell 8.3% in Q2 2026. Nexstar owns more local TV stations than any other company in the U.S. and still depends on cable retransmission fees—not journalism value—to stay solvent. The New York Times proves the subscription model works, but only at national scale with a product bundle (Games, Cooking, The Athletic, Wirecutter) that local papers cannot replicate. The gap is structural: the audience for local accountability journalism exists, but it will not pay $20 per month for city-hall coverage, and no advertiser will fill the shortfall.",
  "surprising_part": "Nexstar's distribution revenue in FY2025 was $2.924B—nearly $1B more than its $1.959B advertising revenue. That means the money keeping local TV stations alive is not coming from viewers or advertisers who value local journalism. It is coming from the cable bundle as a legacy contractual obligation. Cable operators pay to carry local stations because federal must-carry rules and retransmission negotiations force them to, not because local news commands premium value. When cord-cutting eliminates the cable bundle—Comcast ended 2025 with 11.270M video customers, down from prior years—that revenue stream disappears too. The local TV model is not surviving on journalism economics; it is surviving on regulatory and contractual inertia that is itself eroding.",
  "one_sentence": "Gannett posted its first profit since its 2019 merger while total revenue kept falling—and that is the most honest single data point about where local journalism stands: digital progress is real, structural collapse is faster, and no company has built a profitable model for covering city hall.",
- "societal_stake": "Democratic accountability at the local level requires that someone is watching—and for 150 years, that someone was funded by local advertisers who needed the newspaper as much as the newspaper needed them. That arrangement is over. The companies that absorbed the advertising dollars (Google, Meta) have no civic obligation and no economic reason to rebuild local reporting. The companies that still own local media (Gannett, Nexstar) are fighting structural arithmetic. Communities where newspapers have closed or shrunk dramatically have documented higher municipal borrowing costs, lower voter turnout, and less public scrutiny of local officials. The collapse is not a media-industry problem; it is a governance problem wearing a media-industry face.",
+ "societal_stake": "Democratic accountability at the local level requires that someone is watching. The business model that funded local watchdog journalism for 150 years has collapsed, and no replacement has arrived at the local level. The companies that absorbed the advertising dollars (Google, Meta) have no civic obligation and no economic reason to rebuild local reporting. The companies that still own local media (Gannett, Nexstar) are fighting structural arithmetic. Communities where newspapers have closed or shrunk dramatically have documented higher municipal borrowing costs, lower voter turnout, and less public scrutiny of local officials. The collapse is not a media-industry problem; it is a governance problem wearing a media-industry face.",
  "evidence": [
   {
    "company": "Gannett",
-   "fact": "FY2025 total revenue $2.302B; first positive net income since 2019 merger ($1.7M net income attributable to USA TODAY Co.); digital revenue 46% of total (~$1.1B); digital-only subscriptions reached 1.5M by end of 2025, outnumbering print subscriptions; Q2 2026 total revenue $536.3M down 8.3% year-over-year despite digital revenue of $254.3M (47.4% of total); digital-only subscription revenue $45.6M in Q2 2026; adjusted EBITDA $56.9M in Q2 2026"
+   "fact": "FY2025 total revenue $2.302B; first positive net income since 2019 merger ($1.7M net income attributable to USA TODAY Co.); digital revenue 46% of total (~$1.1B); digital-only subscriptions reached 1.5M by end of 2025, outnumbering print subscriptions; Q2 2026 total revenue $536.3M down 8.3% year-over-year despite digital revenue of $254.3M (47.4% of total); digital-only subscription revenue $45.6M in Q2 2026; adjusted EBITDA $56.9M in Q2 2026",
+   "verified": true
   },
   {
    "company": "The New York Times Company",
-   "fact": "FY2025 total revenue $2.825B; subscription revenue $1.951B; total subscribers 12.78M at end of FY2025; digital-only subscribers 12.80M in Q2 2026; digital-only ARPU $9.94 in Q2 2026; digital advertising revenue +20.7% in Q2 2026; full-year 2025 free cash flow $550.5M; demonstrates profitable subscription model only achievable with national scale and multi-product bundle"
+   "fact": "FY2025 total revenue $2.825B; subscription revenue $1.951B; total subscribers 12.78M at end of FY2025; digital-only subscribers 12.80M in Q2 2026; digital-only ARPU $9.94 in Q2 2026; digital advertising revenue +20.7% in Q2 2026; full-year 2025 free cash flow $550.5M; demonstrates profitable subscription model only achievable with national scale and multi-product bundle",
+   "verified": true
   },
   {
    "company": "Nexstar Media Group",
-   "fact": "FY2025 net revenue $4.949B; distribution revenue $2.924B vs advertising revenue $1.959B—distribution exceeds advertising by nearly 50%; Q4 2025 net loss $(170)M as political advertising fell $233M to $21M; Q1 2026 net income recovery to $160M; Q2 2026 net revenue $1.993B including $1.116B distribution revenue vs $862M advertising; business model depends on cable retransmission fees, not on the value of local journalism"
+   "fact": "FY2025 net revenue $4.949B; distribution revenue $2.924B vs advertising revenue $1.959B—distribution exceeds advertising by nearly 50%; Q4 2025 net loss $(170)M as political advertising fell $233M to $21M; Q1 2026 net income recovery to $160M; Q2 2026 net revenue $1.993B including $1.116B distribution revenue vs $862M advertising; business model depends on cable retransmission fees, not on the value of local journalism",
+   "verified": true
   },
   {
    "company": "Comcast Corporation",
-   "fact": "Video subscribers declined to 11.270M by end of 2025; announced intent to separate NBCUniversal and Sky in Q2 2026; structural shift away from cable-and-content bundle is accelerating, removing the cord-bundle infrastructure that funds local retransmission fees"
+   "fact": "Video subscribers declined to 11.270M by end of 2025; announced intent to separate NBCUniversal and Sky in Q2 2026; structural shift away from cable-and-content bundle is accelerating, removing the cord-bundle infrastructure that funds local retransmission fees",
+   "verified": true
   },
   {
    "company": "EchoStar Corporation",
-   "fact": "Pay-TV subscribers 6.391M in Q2 2026, down from 6.632M in Q1 2026; pay-TV segment substantially deconsolidated as of June 2026; going-concern uncertainty raised in FY2025 annual report; satellite TV infrastructure for local-channel delivery deteriorating"
+   "fact": "Pay-TV subscribers 6.391M in Q2 2026, down from 6.632M in Q1 2026; pay-TV segment substantially deconsolidated as of June 2026; going-concern uncertainty raised in FY2025 annual report; satellite TV infrastructure for local-channel delivery deteriorating",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "The trend assumes no local journalist is succeeding profitably at city-hall coverage. However, The New York Times is demonstrating that paid subscription journalism is viable, and Gannett has 1.5M digital-only subscribers with $45.6M quarterly subscription revenue—meaning some communities ARE paying for local news at digital scale. Also, the filings show no company losing money faster than it can be reorganized, and Gannett achieved profitability in FY2025, which contradicts the claim that no one has 'cracked a profitable model.' If a single large local paper or digital-native local newsroom achieved sustained profitability (like The Athletic did for sports), the structural thesis would weaken.",
+  "contradicting_companies": [
+   {
+    "company": "Gannett Co., Inc.",
+    "fact": "Achieved first positive annual net income of $1.7M since 2019 merger in FY2025, and adjusted EBITDA of $263M for the year despite total revenue decline—proving that some degree of profitability has been cracked, even if total revenue is still falling. The company's digital-only subscription base of 1.5M and quarterly digital-only subscription revenue of $45.6M shows recurring revenue from local journalism is real; the fact that it can fund part of the newsroom operation contradicts the notion that no company has solved the model."
+   },
+   {
+    "company": "The New York Times Company",
+    "fact": "FY2025 operating cash flow of $584.5M and free cash flow of $550.5M, with 12.78M subscribers at year-end, proves that subscription journalism at scale is not just hypothetical—it is actually compounding. While the thesis correctly notes this is only achievable 'nationally,' the existence of 1.5M Gannett digital-only subscribers and $45.6M quarterly revenue suggests the model is not categorically impossible at smaller scales; it is just harder and slower."
+   },
+   {
+    "company": "Nexstar Media Group",
+    "fact": "Returned to net income of $160M in Q1 2026 and $113M in Q2 2026 after Q4 2025 loss, showing that the business is profitable when political advertising cycles align favorably. This undermines the claim that local media is structurally unprofitable; it shows cyclicality and dependence on retransmission, but not permanent structural unviability."
+   }
+  ],
+  "honest_caveat": "The trend correctly identifies that Gannett and Nexstar have not solved the unit economics of pure local journalism—the evidence shows they depend on supplementary revenue (retransmission fees, AI licensing, marketing services, political advertising cycles) to stay afloat. However, the trend overstates the permanence of the collapse. The data shows managed contraction (revenue decline but profitability achieved), not categorical failure. Gannett's ability to reach profitability in FY2025 with 1.5M digital subscribers proves the model is not impossible, merely difficult. The trend also does not account for the possibility that a smaller, leaner, digital-native local journalism operation (not yet represented in these filings) could succeed at lower cost bases. The trend is strongest on the macro claim that scale economies favor national over local news, but weakest on the claim that local journalism itself is unsalvageable."
+ }
 }

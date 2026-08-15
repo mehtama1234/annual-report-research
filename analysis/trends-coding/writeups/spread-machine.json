@@ -6,35 +6,51 @@
  "numbers": [
   {
    "stat": "$321.3B",
-   "label": "Cencora FY2025 consolidated revenue; GLP-1 volume growth pressured gross margin percentage even while lifting this number"
+   "label": "Cencora FY2025 consolidated revenue; GLP-1 volume growth pressured gross margin percentage even while lifting this number",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$5.07B",
-   "label": "Energy Transfer Q2 2026 adjusted EBITDA, up from $3.87B in Q2 2025, on 140,000 miles of fee-based pipeline infrastructure"
+   "label": "Energy Transfer Q2 2026 adjusted EBITDA, up from $3.87B in Q2 2025, on 140,000 miles of fee-based pipeline infrastructure",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$18.8B–$19.1B",
-   "label": "Energy Transfer raised full-year 2026 adjusted EBITDA guidance after record NGL transportation volumes rose 13% in Q2 2026"
+   "label": "Energy Transfer raised full-year 2026 adjusted EBITDA guidance after record NGL transportation volumes rose 13% in Q2 2026",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "31.0%",
-   "label": "Ferguson gross margin held through two consecutive quarters (Q1 and Q2 2026) across 1,746 branches serving fragmented contractor markets"
+   "label": "Ferguson gross margin held through two consecutive quarters (Q1 and Q2 2026) across 1,746 branches serving fragmented contractor markets",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$7.366B",
-   "label": "Arrow Electronics Q2 2026 global components sales, up 39% year over year; Americas components alone rose 44%"
+   "label": "Arrow Electronics Q2 2026 global components sales, up 39% year over year; Americas components alone rose 44%",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$28.0B receivables + $5.94B inventories",
-   "label": "Arrow Electronics working-capital position at July 2026, showing the financing scale required to intermediate the semiconductor supply chain"
+   "label": "Arrow Electronics working-capital position at July 2026, showing the financing scale required to intermediate the semiconductor supply chain",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$5.31B",
-   "label": "Republic Services FY2025 adjusted EBITDA; Q1 2026 showed 50 basis points of margin expansion while pricing stayed above cost inflation"
+   "label": "Republic Services FY2025 adjusted EBITDA; Q1 2026 showed 50 basis points of margin expansion while pricing stayed above cost inflation",
+   "verified": true,
+   "check": "found in packet"
   },
   {
    "stat": "$1B+ annualized",
-   "label": "DNOW midstream revenue run rate as of Q2 2026 — the first time the combined DNOW/MRC Global platform crossed that threshold after closing the merger November 2025"
+   "label": "DNOW midstream revenue run rate as of Q2 2026 — the first time the combined DNOW/MRC Global platform crossed that threshold after closing the merger November 2025",
+   "verified": true,
+   "check": "found in packet"
   }
  ],
  "mechanism": [
@@ -53,31 +69,60 @@
  "evidence": [
   {
    "company": "Cencora",
-   "fact": "$321.3B FY2025 consolidated revenue; GLP-1 volume growth explicitly pressured gross margin percentage while lifting revenue — management's own framing of the toll-road paradox; U.S. Healthcare Solutions operating income grew 22% in FY2025; Q3 FY2026 revenue reached $84.8B with U.S. Healthcare Solutions up 4.9%"
+   "fact": "$321.3B FY2025 consolidated revenue; GLP-1 volume growth explicitly pressured gross margin percentage while lifting revenue — management's own framing of the toll-road paradox; U.S. Healthcare Solutions operating income grew 22% in FY2025; Q3 FY2026 revenue reached $84.8B with U.S. Healthcare Solutions up 4.9%",
+   "verified": true
   },
   {
    "company": "Republic Services",
-   "fact": "13M customers, 17,000 trucks, 1,000+ permitted locations in North America creating a local route-density franchise; FY2025 adjusted EBITDA $5.31B; Q1 2026 showed 50 basis points of adjusted EBITDA margin expansion while pricing stayed above cost inflation; Q2 2026 adjusted EBITDA $1.423B; full-year 2026 guidance raised August 6, 2026 to revenue $17.2B–$17.3B and adjusted EBITDA $5.525B–$5.550B"
+   "fact": "13M customers, 17,000 trucks, 1,000+ permitted locations in North America creating a local route-density franchise; FY2025 adjusted EBITDA $5.31B; Q1 2026 showed 50 basis points of adjusted EBITDA margin expansion while pricing stayed above cost inflation; Q2 2026 adjusted EBITDA $1.423B; full-year 2026 guidance raised August 6, 2026 to revenue $17.2B–$17.3B and adjusted EBITDA $5.525B–$5.550B",
+   "verified": true
   },
   {
    "company": "Ferguson Enterprises",
-   "fact": "1,746 branches as of July 2025, ~6,200 fleet vehicles, ~37,000 suppliers; gross margin 31.0% held in both Q1 and Q2 2026; Q2 2026 sales $8.751B up 4.6%, five acquisitions completed including signed FloWorks deal; non-residential revenue up 8% in Q2 2026; calendar 2025 sales $31.3B with eight acquisitions at annualized revenue above $300M"
+   "fact": "1,746 branches as of July 2025, ~6,200 fleet vehicles, ~37,000 suppliers; gross margin 31.0% held in both Q1 and Q2 2026; Q2 2026 sales $8.751B up 4.6%, five acquisitions completed including signed FloWorks deal; non-residential revenue up 8% in Q2 2026; calendar 2025 sales $31.3B with eight acquisitions at annualized revenue above $300M",
+   "verified": true
   },
   {
    "company": "Energy Transfer",
-   "fact": "140,000 miles of pipeline and associated infrastructure across 44 states; Q2 2026 adjusted EBITDA $5.07B up from $3.87B in Q2 2025; full-year 2026 guidance raised to $18.8B–$19.1B; NGL transportation volumes up 13%, NGL exports up 25% in Q2 2026; long-term agreements for ~300,000 bpd on y-grade assets extending into 2030s; majority of margin fee-based with limited commodity sensitivity; FY2025 adjusted EBITDA $15.984B"
+   "fact": "140,000 miles of pipeline and associated infrastructure across 44 states; Q2 2026 adjusted EBITDA $5.07B up from $3.87B in Q2 2025; full-year 2026 guidance raised to $18.8B–$19.1B; NGL transportation volumes up 13%, NGL exports up 25% in Q2 2026; long-term agreements for ~300,000 bpd on y-grade assets extending into 2030s; majority of margin fee-based with limited commodity sensitivity; FY2025 adjusted EBITDA $15.984B",
+   "verified": true
   },
   {
    "company": "Arrow Electronics",
-   "fact": "Q2 2026 global components sales $7.366B up 39% year over year; Americas components up 44%, EMEA up 36%, Asia-Pacific up 38%; Q2 2026 consolidated sales $9.992B up 32%; working capital at July 2026: $28.0B receivables + $5.94B inventories; 140+ sales facilities and 39 distribution centers globally; FY2025 consolidated sales $30.853B up 10.5%"
+   "fact": "Q2 2026 global components sales $7.366B up 39% year over year; Americas components up 44%, EMEA up 36%, Asia-Pacific up 38%; Q2 2026 consolidated sales $9.992B up 32%; working capital at July 2026: $28.0B receivables + $5.94B inventories; 140+ sales facilities and 39 distribution centers globally; FY2025 consolidated sales $30.853B up 10.5%",
+   "verified": true
   },
   {
    "company": "DNOW Inc.",
-   "fact": "MRC Global acquisition closed November 6, 2025 for ~$1,763M net of cash acquired, creating ~300-location combined platform; Q2 2026 U.S. midstream revenue surpassed $1B annualized run rate for first time; Q2 2026 revenue $1,307M; merger synergy savings already at $23M in first year, 35% above target; serves gas utilities, midstream, upstream, downstream, data centers, and LNG terminals"
+   "fact": "MRC Global acquisition closed November 6, 2025 for ~$1,763M net of cash acquired, creating ~300-location combined platform; Q2 2026 U.S. midstream revenue surpassed $1B annualized run rate for first time; Q2 2026 revenue $1,307M; merger synergy savings already at $23M in first year, 35% above target; serves gas utilities, midstream, upstream, downstream, data centers, and LNG terminals",
+   "verified": true
   },
   {
    "company": "Applied Industrial Technologies",
-   "fact": "Engineered Solutions approaching 40% of sales versus 18% ten years prior; technical distribution adding application-engineering depth in markets where customer labor constraints make distributor expertise valuable; channel-control model moving up the value chain without building competing infrastructure"
+   "fact": "Engineered Solutions approaching 40% of sales versus 18% ten years prior; technical distribution adding application-engineering depth in markets where customer labor constraints make distributor expertise valuable; channel-control model moving up the value chain without building competing infrastructure",
+   "verified": true
   }
- ]
+ ],
+ "thesis_breaker": {
+  "what_would_falsify": "Evidence that intermediaries with significant technical service depth, vertical integration toward end-customers, or subscription-like recurring relationships can sustain high margins and growth even when structural chokepoints erode or when disintermediation occurs; or that integration challenges, organic growth slowdowns, and margin pressure in merger-heavy platforms indicate that scale and consolidation alone do not create durable spreads.",
+  "contradicting_companies": [
+   {
+    "company": "Arrow Electronics",
+    "fact": "Despite control of semiconductor distribution, Arrow's operating margin compressed 10 basis points in 2025 to 2.7%, and Q2 2026 ECS segment operating income fell 12% year-over-year even though sales rose 14% — showing that even in constrained channels, margin deteriorates without continuous technical and service depth; the company depends on working-capital financing and supply-chain coordination (not just chokepoint control) to monetize, as evidenced by $28B receivables and supplier protections covering 56-59% of inventory."
+   },
+   {
+    "company": "Applied Industrial Technologies",
+    "fact": "Despite Engineered Solutions approaching 40% of sales (a high-margin, technical service-heavy business), organic sales growth decelerated from +3.0% in fiscal Q1 2026 to +2.2% in fiscal Q2 2026 to +6.0% in fiscal Q3 2026 — showing volatile demand outside pure chokepoint models; the company also explicitly tied demand weakness to customer caution around capital and MRO spending tied to macro uncertainty rather than to structural access control, contradicting the thesis that spreads are independent of business-cycle conditions."
+   },
+   {
+    "company": "DNOW Inc.",
+    "fact": "The combined DNOW/MRC Global platform showed immediate margin pressure post-merger despite consolidation and cost-synergy targets being ahead of plan: Q1 2026 net loss of $44M and adjusted EBITDA of only $39M on $1,183M revenue (3.3% margin), only recovering to Q2 2026 with $21M adjusted net income and $60M adjusted EBITDA (4.6% margin); this demonstrates that consolidation alone does not create instant or automatic spread durability, and that operational integration, ERP disruption, and working-capital friction can erode margins for extended periods even when structural demand exists."
+   },
+   {
+    "company": "Ferguson Enterprises",
+    "fact": "Despite controlling 1,746 branches with high operational density, residential revenue declined 1% in Q1 2026 and 2% in Q4 2025 even while Ferguson maintained pricing and achieved 31% gross margin — showing that chokepoint control cannot prevent customer volume loss when end-markets soften; the thesis assumes spreads rise because customers have no alternatives, but Ferguson's non-residential strength paired with residential weakness shows that the intermediary still faces volume variance tied to end-customer demand elasticity, not just access control."
+   }
+  ],
+  "honest_caveat": "The spread-machine thesis applies most clearly to intermediaries with structural, regulatory, or physical chokepoints (landfill permits, pipeline corridors, pharmaceutical distribution network scale) where end-customers truly lack practical alternatives. It applies less clearly to intermediaries that depend on technical service depth, customer relationships, or fast-moving end-market demand where disintermediation or margin compression is possible (Arrow's margin compression, Applied's organic growth variability, DNOW's integration friction). The thesis also cannot explain quarter-to-quarter volatility, end-market cyclicality, or the difference between spread growth in buoyant demand periods (Energy Transfer NGL exports up 25%, Arrow components up 39%) versus stalled periods (Applied's organic growth deceleration, Ferguson's residential decline). Finally, the thesis assumes pricing discipline persists indefinitely, but regulatory disruption (drug affordability legislation targeting Cencora), disintermediation (manufacturers building direct channels), or macro-driven customer caution (Applied's MRO hesitation, Ferguson's residential softness) can interrupt spreads faster than the argument acknowledges."
+ }
 }

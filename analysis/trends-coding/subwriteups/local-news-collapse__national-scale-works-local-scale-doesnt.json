@@ -1,40 +1,69 @@
 {
  "slug": "national-scale-works-local-scale-doesnt",
  "trend_slug": "local-news-collapse",
- "name": "National Scale Works. Local Scale Doesn't.",
- "deck": "The New York Times proves people will pay for journalism — and in the same breath proves nothing about whether a city can fund coverage of its own school board.",
- "core_bet": "The subscriber-supported journalism model is not broken; it is simply arithmetic that only closes at global scale. The New York Times turns $2.825 billion in revenue and 12.78 million subscribers into $550 million of free cash flow because it amortizes a fixed newsroom across every English reader on earth. A paper covering one mid-sized city's zoning board has the same cost structure and one one-thousandth of the addressable audience — so the exact model that mints money at the Times cannot, by construction, fund local accountability journalism.",
+ "name": "Reader Pay Only Works at Global Scale",
+ "deck": "The New York Times proves people will pay for journalism when one newsroom's cost is spread across a worldwide audience. A school-board beat can never reach that scale, which is why local reader-pay does not work.",
+ "core_bet": "A newsroom is a fixed cost. Reader subscriptions only cover it once that cost is amortized across a large enough paying audience, and the only English-language audience large enough is global. The New York Times has it; a local paper structurally cannot. Gannett runs the identical subscription playbook across fragmented local markets and converts far less of its revenue into cash. Nexstar is the one local model that reliably prints cash, and it does so on distribution fees, not reader subscriptions, which proves the point by inversion.",
  "numbers": [
-  {"stat": "$2.825B", "label": "New York Times total FY2025 revenue"},
-  {"stat": "12.78M", "label": "New York Times total subscribers, ~95.5% digital-only"},
-  {"stat": "$550.5M", "label": "New York Times FY2025 free cash flow — a 19.5% FCF margin"},
-  {"stat": "$1.951B", "label": "New York Times subscription revenue alone — nearly all of Gannett's entire $2.302B business"},
-  {"stat": "1.5M", "label": "Gannett digital-only subscriptions across its entire local network"},
-  {"stat": "$64.2M", "label": "Gannett FY2025 free cash flow — a 2.8% FCF margin, roughly one-seventh of the NYT rate"},
-  {"stat": "$988.3M", "label": "Gannett total debt principal, a structural weight the NYT does not carry"},
-  {"stat": "$4.949B", "label": "Nexstar FY2025 net revenue — but built on $2.924B of distribution/retransmission fees, not subscriptions"}
+  {
+   "stat": "$1.951B",
+   "label": "New York Times 2025 subscription revenue, spread across a worldwide English audience"
+  },
+  {
+   "stat": "12.78M",
+   "label": "New York Times total subscribers at year-end 2025, the scale a local beat cannot reach"
+  },
+  {
+   "stat": "$550.5M",
+   "label": "New York Times 2025 free cash flow on $2.825B revenue"
+  },
+  {
+   "stat": "$64.2M",
+   "label": "Gannett 2025 free cash flow on $2.302B revenue, a fraction of NYT's cash efficiency"
+  },
+  {
+   "stat": "$1.7M",
+   "label": "Gannett 2025 net income, its first positive annual net income since the 2019 merger"
+  },
+  {
+   "stat": "$988.3M",
+   "label": "Gannett total debt principal at Q1 2026, a load NYT does not carry"
+  },
+  {
+   "stat": "$2.924B",
+   "label": "Nexstar 2025 distribution revenue, the fees, not reader subscriptions, that fund local TV"
+  },
+  {
+   "stat": "$233M",
+   "label": "Nexstar Q4 2025 political-ad drop to $21M, showing local cash rides on carriage and ads, not readers"
+  }
  ],
  "mechanism": [
-  "Journalism is a fixed-cost business wearing variable-cost clothing. The reporting, editing, legal review, and production of a story cost the same whether one person reads it or ten million do. The New York Times has engineered its entire strategy around that single truth: build one high-value bundle — News, The Athletic, Cooking, Games, Wirecutter, Audio — and sell it to the largest possible audience. At 12.78 million subscribers and a digital ARPU that climbed from $9.72 to $9.94 over recent quarters, the fixed cost of the newsroom is spread so thin per reader that the marginal subscriber is almost pure margin. That is how a news company posts a 19.5% free-cash-flow margin.",
-  "Now hold the cost structure constant and shrink the audience. A paper covering a single city's council meetings, court docket, and school budget carries the same fixed reporting cost per beat — a reporter still has to sit through the three-hour zoning hearing — but its addressable market is capped at the literate, paying adults within that metro. There is no global English audience for the Springfield sewer bond. The denominator collapses while the numerator holds, and the arithmetic that produces $550 million at the Times produces a loss at the local level.",
-  "Gannett is the natural experiment. It runs the same subscription playbook — 1.5 million digital-only subscriptions, 186 million average monthly unique visitors, digital now 46% of a $2.302 billion revenue base — and it worked hard enough to post its first positive annual net income since the 2019 merger. Yet its free cash flow was $64.2 million, a 2.8% margin, against a $988.3 million debt load. The same model, applied to fragmented local markets, generates one-seventh of the Times's cash efficiency. The scarcity the Times monetizes — trusted information at global reach — simply does not exist for a company selling 200 local mastheads one small market at a time.",
-  "Nexstar shows the only local model that actually prints cash, and it proves the point by inversion. Nexstar earns $4.949 billion in revenue and a 31.5% adjusted-EBITDA margin — but its $2.924 billion of distribution revenue is retransmission fees extracted from cable and streaming carriers, not readers paying for journalism. The civic-information layer is a byproduct that lets Nexstar 'monetize heavily when elections drive demand,' with a $233 million political-advertising swing between quarters. Local broadcast survives on carriage economics and election cycles, not on a community's willingness to pay for its own accountability coverage."
+  "The New York Times pays for one global newsroom and spreads that fixed cost across a worldwide English-speaking audience. In 2025 it turned 12.78 million total subscribers and $1.951 billion of subscription revenue into $2.825 billion of total revenue and $550.5 million of free cash flow. Management frames the strategy as owning daily habits and the direct billing relationship across news, The Athletic, Cooking, Games, Wirecutter, and Audio.",
+  "A local school-board beat serves a market of tens of thousands, not tens of millions, so the same fixed newsroom cost has almost no audience to amortize against. Reader-pay math that closes for a global publisher never closes locally, no matter how good the journalism.",
+  "Gannett runs the identical subscription-and-digital playbook across fragmented local markets. In 2025 it reached about 1.5 million digital-only subscriptions and 186 million average unique visitors, but converted $2.302 billion of revenue into only $64.2 million of free cash flow and $1.7 million of net income, its first positive annual net income since the 2019 merger. Against NYT's $550.5 million of free cash flow, the same playbook at local scale yields a fraction of the cash, and Gannett carries $988.3 million of debt principal (Q1 2026) that NYT does not.",
+  "Nexstar is the only local model that reliably prints cash, and it does so by inverting the reader-pay premise. Its 2025 cash engine is $2.924 billion of distribution revenue, retransmission and carriage fees paid by cable and streaming distributors, not subscriptions paid by local readers. That distribution leg produced $1.561 billion of adjusted EBITDA in 2025 and stayed almost flat year over year even as advertising fell.",
+  "Nexstar's advertising leg shows how fragile the non-distribution local dollar is: Q4 2025 political advertising dropped $233 million to just $21 million once the election year ended, pushing the quarter to a net loss. Local cash rides on carriage contracts and political cycles, not on households paying for the local newsroom."
  ],
- "why_now": "The New York Times has spent five years being cited as proof that the subscription model 'saved journalism.' In FY2025 it made that case irrefutable at the national tier: $2.825 billion in revenue, 12.78 million subscribers, digital ad revenue growing 20-31% quarter over quarter, and a bundle explicitly designed to build 'valuable daily habits and lifelong direct relationships worth paying for.' But 2025 is also the year the local counter-evidence became undeniable — Gannett squeezed out its first net-positive year since 2019 and still generated only $64.2 million of free cash flow against nearly a billion in debt. The two facts arrived at the same time, and together they retire the idea that the Times is a template anyone local can copy.",
- "who_pays": "Residents of the roughly one in five American counties that are now news deserts or nearly so. They pay in the currency of what goes uncovered: the zoning variance granted with no reporter in the room, the school budget passed without scrutiny, the county contract steered to a commissioner's cousin. The Times subscription proves people will pay for journalism they can get — it says nothing about the journalism no one is left to produce.",
- "who_profits": "The New York Times, which converts the collapse of everyone else's model into a wider moat — 'information trust is becoming a monetizable scarcity,' and scarcity accrues to the survivor. Nexstar profits at the local level by monetizing carriage and political ad cycles rather than journalism itself. Both capture the value of trust; neither business model transfers to a paper whose only possible audience is a single city that will never scale.",
- "tension": "The success story is the trap. Every time the Times posts another record — 12.78 million subscribers, $550 million in cash — it reinforces a policy assumption that the market has solved journalism, which removes urgency from the subsidy, foundation, or public-funding mechanisms that local accountability reporting actually requires. National profitability is being read as an all-clear for a local sector that is structurally incapable of reaching it.",
- "surprising_part": "The healthiest local-news balance sheet in the group — Nexstar's $1.561 billion in adjusted EBITDA — belongs to a company whose journalism is almost incidental to how it makes money. Its cash comes from $2.924 billion in retransmission fees paid by carriers, not from anyone paying for the news. The one local model that works financially works because it does not depend on selling journalism at all.",
- "one_sentence": "The New York Times didn't prove the subscription model saves journalism — it proved the model only closes at planetary scale, which is precisely the scale a school-board beat can never reach.",
- "societal_stake": "If you live anywhere that is not a global media capital, the lesson of the Times's success is that the market will not fund the coverage of your local government — because the math that works for a worldwide audience mechanically fails for a single town. The accountability that keeps your local officials honest is not a business that scales down, and pretending it is leaves your community blind.",
+ "why_now": "The 2025 annual chain lines up all three models in the same window. The New York Times closed 2025 with $1.951 billion of subscription revenue, 12.78 million subscribers, and $550.5 million of free cash flow. Gannett, running the same subscription playbook locally, reached its first positive annual net income since the 2019 merger at just $1.7 million and $64.2 million of free cash flow on nearly the same $2.302 billion revenue base. Nexstar's local model printed $1.561 billion of adjusted EBITDA, but on $2.924 billion of distribution fees, not reader subscriptions, and its Q4 2025 political-ad line fell $233 million to $21 million the moment the election cycle ended. Three newspaper-and-broadcast businesses, one profitable global reader-pay model, one barely-breakeven local reader-pay model, and one cash-rich local model that does not depend on readers at all.",
+ "who_pays": "Global readers fund the NYT newsroom directly through 12.78 million subscriptions. Local Gannett readers are asked to fund newsrooms the same way but cannot generate comparable cash, so the shortfall is covered by debt and by legacy print that keeps shrinking. Nexstar's local newsrooms are effectively funded by cable and streaming distributors through carriage fees, with readers paying nothing directly.",
+ "who_profits": "The New York Times captures the full economics of global reader-pay, converting subscriptions into $550.5 million of free cash flow. Nexstar profits from local relevance without relying on reader-pay, monetizing carriage rights and political-ad cycles into $1.561 billion of adjusted EBITDA. Gannett, stuck running reader-pay at local scale, captures the least, $64.2 million of free cash flow against a $988.3 million debt load.",
+ "tension": "Everyone agrees communities need local journalism, and audiences still show up: Gannett draws 186 million unique visitors. But the one business model that pays for journalism, direct reader subscriptions, only closes at global scale, and the one local model that prints cash pays for a lot of things other than the local school-board beat.",
+ "surprising_part": "The only local-news business that reliably makes money makes it by not selling journalism to readers at all. Nexstar's cash comes from $2.924 billion in distribution fees paid by cable and streaming carriers, so its local newsrooms are subsidized by carriage contracts, and a single political-ad swing of $233 million in one quarter moves the business more than any subscriber decision ever could.",
+ "one_sentence": "People pay for journalism only when one newsroom's cost is spread across a global audience, which is why the Times prints $550 million of free cash flow, Gannett running the same playbook locally scrapes $64 million, and the one local model that reliably makes money, Nexstar, does it on distribution fees rather than readers.",
+ "societal_stake": "If reader-pay journalism only works at global scale, the local school-board and city-hall coverage that democracy depends on has no self-sustaining business model, since the audience that would fund it is too small to amortize a newsroom and the only profitable local model funds itself on carriage fees and election-year ad cycles instead of local reporting.",
  "evidence": [
-  {"company": "The New York Times Company", "fact": "FY2025 revenue of $2.825B, subscription revenue of $1.951B, 12.78M total subscribers (~12.21M digital-only), and $550.5M of free cash flow — a 19.5% FCF margin."},
-  {"company": "The New York Times Company", "fact": "Digital-only ARPU rose from $9.72 (Q4 2025) to $9.94 (Q2 2026); strategy explicitly builds 'valuable daily habits and lifelong direct relationships worth paying for' via a multi-product bundle."},
-  {"company": "The New York Times Company", "fact": "Framed 'information trust' as 'a monetizable scarcity' — the moat widens precisely as competitors fail."},
-  {"company": "Gannett Co., Inc.", "fact": "FY2025 revenue of $2.302B with only 1.5M digital-only subscriptions and $64.2M free cash flow — a 2.8% margin, roughly one-seventh of the NYT's cash efficiency."},
-  {"company": "Gannett Co., Inc.", "fact": "Posted its first positive annual net income since the 2019 merger ($1.7M) while carrying $988.3M in total debt principal."},
-  {"company": "Gannett Co., Inc.", "fact": "Digital reached 46% of revenue with 186M average monthly unique visitors, yet the local-market model still produced razor-thin cash generation."},
-  {"company": "Nexstar Media Group, Inc.", "fact": "FY2025 net revenue of $4.949B and $1.561B adjusted EBITDA (31.5% margin), but built on $2.924B of distribution/retransmission fees rather than reader subscriptions."},
-  {"company": "Nexstar Media Group, Inc.", "fact": "Political advertising swung by $233M between Q4 2025 and Q1 2026, underscoring that local-TV cash depends on election cycles and carriage fees, not paid journalism."}
+  {
+   "company": "The New York Times Company",
+   "fact": "2025 subscription revenue was about $1.951 billion within $2.825 billion total revenue, with about 12.78 million total subscribers at year-end and about $550.5 million of free cash flow; digital-only ARPU rose to $9.94 by Q2 2026, showing reader-pay economics that close at global scale."
+  },
+  {
+   "company": "Gannett Co., Inc.",
+   "fact": "2025 revenue was $2.302 billion with only $64.2 million of free cash flow and $1.7 million of net income, its first positive annual net income since the 2019 merger, despite about 1.5 million digital-only subscriptions and 186 million average unique visitors, against $988.3 million of total debt principal at Q1 2026."
+  },
+  {
+   "company": "Nexstar Media Group, Inc.",
+   "fact": "2025 net revenue was $4.949 billion with $2.924 billion of distribution revenue and $1.561 billion of adjusted EBITDA; the cash comes from carriage fees, not reader subscriptions, and Q4 2025 political advertising fell $233 million to just $21 million once the election year ended, pushing the quarter to a net loss."
+  }
  ]
 }

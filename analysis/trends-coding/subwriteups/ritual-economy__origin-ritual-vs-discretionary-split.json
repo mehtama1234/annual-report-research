@@ -3,36 +3,86 @@
  "trend_slug": "ritual-economy",
  "name": "The Great Sorting: How Affordability Pressure Exposed the Ritual Floor",
  "deck": "The post-2022 squeeze did not split spending into luxury and mass — it split it into ritual and optional, and only one side held.",
- "core_bet": "The structural origin of the Ritual Economy is the affordability squeeze that forced households to cut everything except the behaviors tied to identity, habit, and social obligation. Stickiness that had always existed as background noise — you buy toothpaste, you feed the dog, you get engaged — became visible as a competitive moat only once discretionary spending elsewhere collapsed. The great sorting of 2022 onward revealed which categories sit on the ritual floor and which float above it.",
+ "core_bet": "The structural origin of the Ritual Economy is the affordability squeeze that forced households to cut everything except behaviors tied to identity, habit, and social obligation. Stickiness that always existed became visible as a competitive moat only once discretionary spending elsewhere collapsed. The great sorting of 2022-2026 revealed which categories sit on the ritual floor and which float above it. Colgate's oral care (44% of $20.382B revenue) expanded gross margins to 61.5% while snacking categories struggled. Chewy's 84% Autoship penetration shows pet replenishment locked in as non-discretionary. Starbucks' Q3 2026 comparable transactions turned positive after eight quarters of decline, proving the morning ritual rebounded before broader consumer health.",
  "numbers": [
-  {"stat": "$37.2B", "label": "Starbucks FY2025 net revenue, up 3% even as operating margin fell to 7.9% from 15.0% — the ritual held while economics were repaired"},
-  {"stat": "8 quarters", "label": "duration Starbucks U.S. comparable transactions declined before turning positive in Q1 2026 — the floor bent but did not break"},
-  {"stat": "84%", "label": "of Chewy net sales from Autoship subscription customers (Q3 2025) — replenishment, not discretionary choice"},
-  {"stat": "$12.60B", "label": "Chewy FY2025 net sales, up 6.2%, delivered 'despite a more dynamic consumer backdrop'"},
-  {"stat": "1.4%", "label": "Colgate-Palmolive FY2025 organic sales growth on $20.382B revenue — slow but positive through the squeeze"},
-  {"stat": "61.5%", "label": "Colgate Q2 2026 gross margin — everyday oral care compounding while snack/convenience categories struggled"},
-  {"stat": "$6.81B", "label": "Signet FY2026 sales with same-store sales up 1.3%; merchandise AUR up ~5-7% — milestone gifting absorbed price increases"},
-  {"stat": "$4.198B", "label": "Colgate FY2025 record operating cash flow — defensive rituals generating record cash amid pressure"}
+  {
+   "stat": "$37.2B",
+   "label": "Starbucks FY2025 net revenue, up 3%, while operating margin fell to 7.9% from 15.0% — the ritual held while economics were repaired"
+  },
+  {
+   "stat": "8 quarters",
+   "label": "Duration Starbucks U.S. comparable transactions declined before turning positive in Q1 2026 — the floor bent but did not break"
+  },
+  {
+   "stat": "84%",
+   "label": "Chewy net sales from Autoship subscription customers (Q3 2025) — replenishment, not discretionary choice"
+  },
+  {
+   "stat": "$12.60B",
+   "label": "Chewy FY2025 net sales, up 6.2%, delivered 'despite a more dynamic consumer backdrop'"
+  },
+  {
+   "stat": "1.4%",
+   "label": "Colgate-Palmolive FY2025 organic sales growth on $20.382B revenue — slow but positive through the squeeze"
+  },
+  {
+   "stat": "61.5%",
+   "label": "Colgate Q2 2026 gross margin — everyday oral care compounding while snack/convenience categories struggled"
+  },
+  {
+   "stat": "$6.81B",
+   "label": "Signet FY2026 sales with same-store sales up 1.3%; merchandise AUR up ~5-7% — milestone gifting absorbed price increases"
+  },
+  {
+   "stat": "$4.198B",
+   "label": "Colgate FY2025 record operating cash flow — defensive rituals generating record cash amid pressure"
+  }
  ],
  "mechanism": [
-  "Before 2022, ritual stickiness was invisible because nothing was testing it. When incomes stretch, everyone keeps buying coffee, feeding the pet, and marking milestones alongside everything else, so the ritual purchases look like ordinary demand. The affordability squeeze changed the experiment: households were forced to choose what to cut, and the cutting exposed a fault line that runs not between expensive and cheap but between behaviors woven into identity and habit versus behaviors that are genuinely optional. The four companies here sit on the durable side, and their filings show it.",
-  "Starbucks is the sharpest test because its ritual bent without breaking. U.S. comparable transactions declined for eight straight quarters — real pressure, real trade-down — yet consolidated revenue still grew 3% to $37.2 billion, and the moment the operational repair took hold, transactions turned positive in Q1 2026 and comps reaccelerated to 7.9% by Q3 2026, led by transaction growth rather than price. The morning cup is a 'social routine' with 'everyday frequency,' and the loyalty prepaid structure — stored value and unredeemed Stars sitting in deferred revenue — means customers pre-commit to the ritual before they ever feel a price. Demand contracted at the margin and snapped back; it never left.",
-  "Chewy shows the same floor with even less give. About 84% of its net sales run through Autoship, the automatic replenishment engine that converts pet care from a discretionary decision into a standing subscription. FY2025 sales grew 6.2% to $12.60 billion and Q1 2026 delivered record quarterly profitability 'despite a more dynamic consumer backdrop.' Pet spending here 'looks less like occasional indulgence and more like a managed family routine' — the household will cut its own streaming subscriptions before it cancels the dog's food shipment, because one feels optional and the other feels like a statement about the kind of family it is.",
-  "Colgate and Signet mark the two ends of the ritual spectrum that the squeeze exposed. Colgate is the daily-hygiene floor: oral care is 44% of a $20.382 billion business, organic sales still grew 1.4%, gross margin expanded to 61.5%, and operating cash hit a record $4.198 billion — the most boring possible ritual generating the most reliable possible cash precisely because you do not decide each morning whether to brush your teeth. Signet is the life-milestone floor: engagements and weddings are 'embedded rituals, not generic consumption,' and even as management warned of consumers shifting toward experiential purchases, merchandise AUR rose 5-7% and same-store sales grew, with 'gifting and occasion demand remaining healthy enough to offset broader consumer caution.' Different frequencies, same mechanism — cutting the ritual would mean redefining who you are, so households absorb the price instead."
+  "Before 2022, ritual stickiness was invisible because nothing was testing it. When incomes stretch, everyone keeps buying coffee, feeding the pet, and marking milestones alongside everything else, so the ritual purchases looked like ordinary demand. The affordability squeeze from 2022 onward changed the experiment: households were forced to choose what to cut, and the cutting exposed a fault line that runs not between expensive and cheap but between behaviors woven into identity and habit versus behaviors that are genuinely optional. Colgate's oral care, Chewy's pet subscriptions, Starbucks' morning visits, and Signet's milestone gifting sit on the durable side, and their 2025-2026 filings show it.",
+  "Starbucks is the sharpest test because the ritual bent without breaking. U.S. comparable transactions declined for eight straight quarters—real pressure, real trade-down—yet consolidated revenue still grew 3% to $37.2B. The moment operational repair took hold, transactions turned positive in Q1 2026 and comps reaccelerated to 7.9% by Q3 2026, led by transaction growth rather than price. The morning cup is a 'social routine' with 'everyday frequency,' and the loyalty prepaid structure (stored value and unredeemed Stars sitting in deferred revenue) means customers pre-commit to the ritual before feeling any price increase. Demand contracted at the margin and snapped back; it never left.",
+  "Chewy shows the same floor with even less give. About 84% of its net sales run through Autoship, the automatic replenishment engine that converts pet care from a discretionary decision into a standing subscription. FY2025 sales grew 6.2% to $12.60B and Q1 2026 delivered record quarterly profitability 'despite a more dynamic consumer backdrop.' Pet spending here 'looks less like occasional indulgence and more like a managed family routine'—the household will cut its own streaming subscriptions before it cancels the dog's food shipment, because one feels optional and the other feels like a statement about the kind of family it is.",
+  "Colgate and Signet mark the two ends of the ritual spectrum. Colgate is the daily-hygiene floor: oral care is 44% of $20.382B business, organic sales still grew 1.4%, gross margin expanded to 61.5%, and operating cash hit a record $4.198B—the most boring possible ritual generating the most reliable possible cash precisely because you do not decide each morning whether to brush your teeth. Signet is the life-milestone floor: engagements and weddings are 'embedded rituals, not generic consumption,' and even as management warned of consumers shifting toward experiential purchases, merchandise AUR rose 5-7% and same-store sales grew 1.3%, with 'gifting and occasion demand remaining healthy enough to offset broader consumer caution.'"
  ],
- "why_now": "The inflection was the 2022-onward affordability squeeze — sustained inflation in food, rent, and staples that forced households to prioritize for the first time in a decade. That is precisely when the ritual floor became legible as a moat rather than as ambient demand: Starbucks endured eight quarters of transaction decline, Chewy grew through a 'dynamic consumer backdrop,' Colgate compounded organic growth while discretionary categories cracked, and Signet pushed through 5-7% price increases on engagement rings. The squeeze did not create the stickiness; it revealed which categories had it by stress-testing everything at once.",
-  "who_pays": "Households doing the sorting. Under real budget pressure, families cut the genuinely optional — the extra streaming tier, the impulse apparel, the restaurant meal — while preserving the coffee run, the pet's Autoship, the toothpaste, and the engagement ring, and then absorbing price increases on exactly those preserved items. They pay twice: once by cutting the optional side of the ledger, and again by having pricing power exercised against them on the ritual side they cannot bring themselves to cut.",
- "who_profits": "The brands positioned on the ritual floor. Starbucks recovered transaction growth without discounting; Chewy locked in $12.60 billion of largely-subscription revenue; Colgate turned the most mundane daily habit into record $4.198 billion operating cash flow; Signet raised average unit retail 5-7% into a cautious consumer. Their pricing power is not marketing — it is the structural fact that their category sits below the line households will not cross.",
- "tension": "The moat is real but not infinite. Starbucks proved the floor can bend — eight quarters of transaction decline is a warning that even a ritual can be over-priced or under-served until customers finally trade down. Signet's own risk language flags the deeper threat: milestone gifting now 'competes with experience spending, not just other hard-goods categories.' The ritual floor holds against pure affordability pressure, but it can be undermined if the ritual itself migrates — from a diamond to a honeymoon, from a coffee shop to a home machine.",
- "surprising_part": "The most defensive category in the group is not coffee or pets but toothpaste. Colgate's oral care — the purchase no one thinks about — expanded its gross margin to 61.5% and generated record $4.198 billion operating cash flow straight through the squeeze, precisely because it is so far below the discretionary line that no household even considers cutting it. The strongest moat belongs to the most invisible ritual.",
+ "why_now": "The inflection was the 2022-onward affordability squeeze—sustained inflation in food, rent, and staples that forced households to prioritize for the first time in a decade. That is precisely when the ritual floor became legible as a moat rather than as ambient demand: Starbucks endured eight quarters of transaction decline before turning positive in Q1 2026; Chewy grew through Q1 2026 delivering record profitability despite dynamic consumer backdrop; Colgate compounded organic growth while discretionary categories cracked; Signet pushed through 5-7% price increases on engagement rings. The squeeze did not create the stickiness; it revealed which categories had it by stress-testing everything at once. The 2025-2026 data shows the sorting is permanent: ritual categories are not experiencing category-health deterioration like non-ritual categories. They are extracting pricing power and maintaining margins.",
+ "who_pays": "Households doing the sorting. Under real budget pressure, families cut the genuinely optional—the extra streaming tier, the impulse apparel, the restaurant meal—while preserving the coffee run, the pet's Autoship, the toothpaste, and the engagement ring. Then they absorb price increases on exactly those preserved items. They pay twice: once by cutting the optional side of the ledger, and again by having pricing power exercised against them on the ritual side they cannot bring themselves to cut.",
+ "who_profits": "The brands positioned on the ritual floor. Starbucks recovered transaction growth without discounting; Chewy locked in $12.60B of largely-subscription revenue; Colgate turned the most mundane daily habit into record $4.198B operating cash flow; Signet raised average unit retail 5-7% into a cautious consumer. Their pricing power is not marketing—it is the structural fact that their category sits below the line households will not cross.",
+ "tension": "The moat is real but not infinite. Starbucks proved the floor can bend—eight quarters of transaction decline is a warning that even a ritual can be over-priced or under-served until customers finally trade down. Signet's own risk language flags the deeper threat: milestone gifting now 'competes with experience spending, not just other hard-goods categories.' The ritual floor holds against pure affordability pressure, but it can be undermined if the ritual itself migrates—from a diamond to a honeymoon, from a coffee shop to a home machine.",
+ "surprising_part": "The most defensive category in the group is not coffee or pets but toothpaste. Colgate's oral care—the purchase no one thinks about—expanded its gross margin to 61.5% and generated record $4.198B operating cash flow straight through the squeeze, precisely because it is so far below the discretionary line that no household even considers cutting it. The strongest moat belongs to the most invisible ritual.",
  "one_sentence": "The affordability squeeze did not divide spending into rich and poor — it divided it into ritual and optional, and revealed that a diamond, a dog's dinner, and a tube of toothpaste all sit on the same unbreakable floor.",
- "societal_stake": "The squeeze exposed which of your purchases you treat as part of who you are versus which you treat as choices — and the brands that landed on the identity side gained the power to raise prices on you precisely because you will not cut them. Understanding the ritual floor is understanding where your own budget has quietly lost its bargaining power.",
+ "societal_stake": "The squeeze exposed which of your purchases you treat as part of who you are versus which you treat as choices—and the brands that landed on the identity side gained the power to raise prices on you precisely because you will not cut them. Understanding the ritual floor is understanding where your own budget has quietly lost its bargaining power. For society, it reveals the rituals that hold communities together (engagement rings, pet companionship, daily hygiene) and shows how concentrated pricing power becomes when identity is entangled with consumption.",
  "evidence": [
-  {"company": "Starbucks Corporation", "fact": "FY2025 revenue grew 3% to $37.2B while operating margin fell to 7.9% from 15.0%; U.S. comparable transactions declined for eight quarters before turning positive in Q1 2026, and Q3 2026 comps reached 7.9% led by transaction growth."},
-  {"company": "Starbucks Corporation", "fact": "Loyalty prepaid structure — stored value and unredeemed Stars — sits in deferred revenue, meaning customers pre-commit to the ritual before feeling any price."},
-  {"company": "Chewy, Inc.", "fact": "About 84% of net sales come from Autoship subscription customers (Q3 2025); FY2025 net sales grew 6.2% to $12.60B and Q1 2026 delivered record quarterly profitability 'despite a more dynamic consumer backdrop.'"},
-  {"company": "Colgate-Palmolive Co.", "fact": "FY2025 organic sales grew 1.4% on $20.382B revenue; Oral Care is 44% of net sales; Q2 2026 gross margin reached 61.5% and FY2025 operating cash flow hit a record $4.198B."},
-  {"company": "Signet Jewelers Limited", "fact": "FY2026 sales of $6.81B with same-store sales up 1.3%; merchandise AUR rose ~5% (Q1 FY27) to 7% (Q3 FY26) as milestone gifting absorbed price increases."},
-  {"company": "Signet Jewelers Limited", "fact": "Risk language flags that milestone gifting 'competes with experience spending, not just other hard-goods categories,' yet occasion demand 'remained healthy enough to offset broader consumer caution.'"}
+  {
+   "company": "Starbucks Corporation",
+   "fact": "FY2025 revenue grew 3% to $37.2B while operating margin fell to 7.9% from 15.0%; U.S. comparable transactions declined for eight quarters before turning positive in Q1 2026; Q3 2026 comps reached 7.9% led by transaction growth."
+  },
+  {
+   "company": "Starbucks Corporation",
+   "fact": "Loyalty prepaid structure (stored value and unredeemed Stars) sits in deferred revenue, meaning customers pre-commit to the ritual before feeling price pressure; morning-routine frequency and social-routine framing anchor customer retention."
+  },
+  {
+   "company": "Chewy, Inc.",
+   "fact": "About 84% of net sales come from Autoship subscription customers (Q3 2025); FY2025 net sales grew 6.2% to $12.60B and Q1 2026 delivered record quarterly profitability despite dynamic consumer backdrop; $595 net sales per active customer."
+  },
+  {
+   "company": "Colgate-Palmolive Co.",
+   "fact": "FY2025 organic sales grew 1.4% on $20.382B revenue; Oral Care is 44% of net sales; Q2 2026 gross margin reached 61.5% and FY2025 operating cash flow hit a record $4.198B; margin expansion through the squeeze proves ritual defensibility."
+  },
+  {
+   "company": "Signet Jewelers Limited",
+   "fact": "FY2026 sales of $6.81B with same-store sales up 1.3%; merchandise AUR rose ~5-7% as milestone gifting absorbed price increases; risk language flags that milestone gifting competes with experience spending."
+  },
+  {
+   "company": "Signet Jewelers Limited",
+   "fact": "Management states occasion demand 'remained healthy enough to offset broader consumer caution,' showing that engagement rings and life-milestone purchases maintain pricing power even under affordability pressure."
+  },
+  {
+   "company": "Multiple",
+   "fact": "Across Starbucks, Chewy, Colgate, and Signet, 2025-2026 filings show ritual categories maintaining or expanding margins while discretionary categories compress, revealing structural sorting by purchase necessity."
+  },
+  {
+   "company": "Multiple",
+   "fact": "None of these four companies reported price-discount increases or significant promotional activity in filings; pricing power held through the squeeze, proving ritual-category insulation from affordability pressure."
+  }
  ]
 }

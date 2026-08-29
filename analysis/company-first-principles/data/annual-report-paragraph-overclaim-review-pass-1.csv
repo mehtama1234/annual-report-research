@@ -1,0 +1,25 @@
+review_id,draft_area,claim_type,decision,required_action,overclaim_risk,internal_reader_review,external_publication,next_action,status
+ARPOR-001,Title and subtitle,synthesis frame,keep,No citation required unless adding factual examples to subtitle.,Low,ready,ready as synthesis,Keep title/subtitle paired.,ready
+ARPOR-002,Opening annual-report contrast,synthesis frame,keep,No citation required.,Low,ready,ready as synthesis,Keep opening concise.,ready
+ARPOR-003,Bottleneck definition,explanatory frame,keep,No citation required.,Low,ready,ready,Keep plain-English definition.,ready
+ARPOR-004,Examples of bottlenecks,synthesis examples,keep with source-note discipline,Cite company examples if converted into named metric claims.,Medium,ready,needs citations if metricized,Keep examples qualitative unless cited.,ready
+ARPOR-005,Central finding,thesis claim,keep with boundary,Keep final boundary and avoid stock-picking phrasing.,Medium,ready,ready with boundary,Do not add recommendation language.,ready
+ARPOR-006,Burden-transfer examples,explanatory frame,keep,No citation required unless naming companies or metrics.,Low,ready,ready as explanation,Keep as burden-transfer frame.,ready
+ARPOR-007,Whole-map exhibit,structure claim,keep,Cite chapter source packets for public release.,Low,ready,needs chapter citations,Attach chapter citations later.,ready
+ARPOR-008,Power scarcity,theme claim plus evidence,cite,"Attach utility, generator, contractor, tariff, docket, and load-growth citations.",High,ready,needs citations,Attach power source packet.,ready
+ARPOR-009,Capital platforms,theme claim plus platform evidence,cite,"Attach platform annual reports, AUM disclosures, statutory schedules, and vehicle evidence.",High,ready,needs citations and AUM boundary,Attach capital-platform source packet.,ready
+ARPOR-010,Money-flow ladder,method exhibit,keep,No citation required as method; cite examples when using actual metrics.,Low,ready,ready as method,Keep as method table.,ready
+ARPOR-011,Industrial uptime,theme claim plus company evidence,cite,"Attach annual-report citations for fleet, branches, vending, backlog, revenue, OCF, and margin claims.",Medium,ready,needs citations,Attach industrial source packet.,ready
+ARPOR-012,Healthcare access,theme claim plus company evidence,cite and preserve quality boundary,"Attach filings for patient, admission, census, pharmacy/service, reimbursement, labor, and receivable claims.",High,ready,needs citations and trust boundary,Attach healthcare source packet.,ready
+ARPOR-013,Built-environment upkeep,theme claim plus company evidence,cite,"Attach annual-report citations for retail, Pro, materials, coatings, lumber, distribution, and waterworks claims.",Medium,ready,needs citations,Attach built-environment source packet.,ready
+ARPOR-014,Digital control,theme claim plus company evidence,cite,"Attach filings for ARR, RPO, traffic, security, customer, bookings, platform, and cash-flow claims.",High,ready,needs citations and durability boundary,Attach digital source packet.,ready
+ARPOR-015,Value retail,theme claim plus company evidence,cite,"Attach filings for traffic, comps, ticket, membership, inventory, margin, ads, and format claims.",Medium,ready,needs citations,Attach retail source packet.,ready
+ARPOR-016,What each chapter proves exhibit,proof-boundary table,keep and cite by chapter,Tie each row to chapter source packet and public citations.,Low,ready,needs chapter citations,Keep boundary table.,ready
+ARPOR-017,Proof Box 1,method claim,keep and cite examples,Cite cash-flow and working-capital statements where company examples are added.,Medium,ready,needs example citations,Attach cash conversion examples later.,ready
+ARPOR-018,Proof Box 2,method claim,keep and cite examples,"Cite acquisition notes, backlog tables, margin, and cash-flow disclosures for examples.",Medium,ready,needs example citations,Attach acquisition/backlog examples later.,ready
+ARPOR-019,Proof Box 3,method claim,keep and cite examples,"Cite debt schedules, use-of-proceeds, fees, maturities, liquidity, and cash-flow effects.",Medium,ready,needs example citations,Attach refinancing examples later.,ready
+ARPOR-020,What not to overclaim table,guardrail,keep,No citation required; this is editorial control.,Low,ready,ready,Keep table unchanged.,ready
+ARPOR-021,Final takeaway,synthesis conclusion,keep with boundary,Keep wording as synthesis and retain named-cash caveat.,Medium,ready,ready with boundary,Do not convert into investment conclusion.,ready
+ARPOR-022,Source notes,audit apparatus,keep and expand for public release,Add external filing/docket citations if publishing publicly.,Low,ready,needs external expansion,Build external source list later.,ready
+ARPOR-023,Safe publication claim,final claim,keep,Use as public abstract if citations are attached.,Low,ready,ready with citations,Use as abstract candidate.,ready
+ARPOR-024,Final boundary,mandatory guardrail,keep unchanged,Do not remove before publication.,High,ready,must remain,Keep final boundary unchanged.,ready

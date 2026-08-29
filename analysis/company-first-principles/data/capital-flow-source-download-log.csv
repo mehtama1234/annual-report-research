@@ -1,0 +1,2 @@
+source_id,company,period,document_type,source_url,local_path,bytes,sha256,fetched_at_utc,status,error
+nextera-meta-2025-clean-energy-contract-release,"NextEra Energy, Inc.",2025 contract release,IR release HTML,https://www.investor.nexteraenergy.com/news-and-events/news-releases/2025/12-08-2025-123107665,raw/primary-sources/capital-flow/power-grid-pilot/nextera/customer-contracts/nextera-meta-2025-clean-energy-contract-release.html,39724,757dbf09ee0c9a9970ae2b7e4e503ce4141c6e19cd23b6dde104c6817239a0b1,2026-08-25T22:50:20.650003+00:00,fetched,

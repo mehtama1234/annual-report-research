@@ -2,3 +2,6 @@
 tmp/
 scratch/
 *.log
+__pycache__/
+*.pyc
+raw/primary-sources/capital-flow/apollo/athene/statutory/2025/athene-annuity-and-life-company-2025-statutory-statement.pdf

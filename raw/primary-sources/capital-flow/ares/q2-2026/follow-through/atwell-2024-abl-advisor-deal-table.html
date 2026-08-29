@@ -1,0 +1,1054 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00"><title>
+	Asset Based and Commercial Lending Deal Tables | ABL Advisor
+</title><meta id="ctl08" name="description" content="Deal tables, asset based lending deal charts for the asset based commercial lending industry. Featuring quarterly Thomson Reuters LPC loan volume reports detailing domestic ABL transaction activity." /><link id="MenuStyleSheet" rel="stylesheet" type="text/css" href="../../contents/SuperFish.css" /><meta id="ctl09" name="robots" content="ALL,INDEX,FOLLOW,NOODP" /><meta id="ctl10" name="rating" content="General" /><meta id="ctl11" name="distribution" content="Global" /><meta id="ctl12" name="Search Engines" content="ALL" /><link id="ctl03" rel="shortcut icon" type="image/x-icon" href="../../favicon.ico" /><style type="text/css">@font-face {font-family:'Oswald';font-style:normal;font-weight:400;src:url(/cf-fonts/s/oswald/5.2.8/cyrillic/400/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Oswald';font-style:normal;font-weight:400;src:url(/cf-fonts/s/oswald/5.2.8/latin/400/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Oswald';font-style:normal;font-weight:400;src:url(/cf-fonts/s/oswald/5.2.8/cyrillic-ext/400/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Oswald';font-style:normal;font-weight:400;src:url(/cf-fonts/s/oswald/5.2.8/vietnamese/400/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Oswald';font-style:normal;font-weight:400;src:url(/cf-fonts/s/oswald/5.2.8/latin-ext/400/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}</style><script type="67391b4e22b3d16633f542e8-text/javascript" src="https://www.abladvisor.com/JS/jquery-1.6.2.min.js"></script><script type="67391b4e22b3d16633f542e8-text/javascript" src="https://www.abladvisor.com/admin/Scripts/jquery-ui-1.7.1.custom.min.js"></script><script type="67391b4e22b3d16633f542e8-text/javascript" src="https://www.abladvisor.com/JS/superfish.js"></script><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VQWXVVJCZH" type="67391b4e22b3d16633f542e8-text/javascript"></script>
+<script type="67391b4e22b3d16633f542e8-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VQWXVVJCZH');
+</script>
+    <script type="67391b4e22b3d16633f542e8-text/javascript">
+
+        function TrackEvent(category, event, company) {
+            //_gaq.push(['_trackEvent', category, event, company]);
+            gaEvent(category, event, company);
+        }
+
+        function gaEvent(cat, action, company) {
+            //_gaq.push(['_trackEvent', cat, action, company]);
+        }
+
+        function open_compweb(url, company) {
+            gaEvent("Company Website", "Viewed From Profile Page", company);
+            window.open(url);
+        }
+
+        function open_compweb2(url, company) {
+            gaEvent("Company Website", "Clicked From Detail Page", company);
+            window.open(url);
+        }
+
+        function open_compweb_hp(url, company) {
+            gaEvent("Company Website", "Viewed From Home Page", company);
+            window.open(url);
+        }
+
+        function open_comp_profile_hp(url, company) {
+            gaEvent("Featured Company Profile", "Clicked From Home Page", company);
+            window.location = url;
+        }
+
+        function open_comp_profile(url, company) {
+            gaEvent("Company Website", "Clicked From Detail Page", company);
+            window.open(url);
+        }
+
+        var empty_search_text = 'search the site';
+
+        $(document).ready(function () {
+
+            CheckSearchTextBox();
+
+            $("#divImgSocial img").hover(
+                function () {
+                    var img = $(this);
+                    var rel = img.attr('rel');
+
+                    var path = RootURL + 'Images/' + rel + '-on.png';
+                    img.attr('src', path);
+
+                }, function () {
+                    var img = $(this);
+                    var rel = img.attr('rel');
+                    var path = RootURL + 'Images/' + rel + '-off.png';
+                    img.attr('src', path);
+
+                }
+            );
+
+            //            $("#divSocialIcon2 img").hover(
+            //                            function () {
+            //                                var img = $(this);
+            //                                var rel = img.attr('rel');
+
+            //                                var path = RootURL + 'Images/' + rel + '-off.png';
+            //                                img.attr('src', path);
+
+            //                            }, function () {
+            //                                var img = $(this);
+            //                                var rel = img.attr('rel');
+            //                                var path = RootURL + 'Images/' + rel + '-on.png';
+            //                                img.attr('src', path);
+
+            //                            }
+            //            );
+
+
+            $("#txtSearch").keypress(function (e) {
+                var code = (e.keyCode ? e.keyCode : e.which);
+                if (code == 13) { //Enter keycode
+                    searchResults();
+
+                }
+
+            });
+
+
+            $("#lnkSearch").click(function () {
+
+                searchResults();
+                return false;
+            });
+
+            $("#txtSearch").blur(function () {
+                CheckSearchTextBox();
+            });
+
+            $("#txtSearch").focus(function () {
+
+                var textBox = $("#txtSearch");
+                var text = textBox.val();
+
+                if (text == empty_search_text) {
+                    textBox.val('');
+                }
+
+                textBox.css('color', 'black');
+            });
+
+
+        });
+
+        function searchResults() {
+            //Do something
+            var text = $("#txtSearch").val();
+
+            if (text == empty_search_text || text == '') {
+                return;
+            }
+
+            var newUrl = RootURL + "SearchMain.aspx?text=" + text;
+            //alert(newUrl);
+            window.location = newUrl;
+
+        }
+
+        function CheckSearchTextBox() {
+            var textBox = $("#txtSearch");
+            var text = textBox.val();
+            var txtLength = text.length;
+
+            if (txtLength <= 0 || text == empty_search_text) {
+                textBox.css('color', '#aeaeae');
+                textBox.val(empty_search_text);
+            }
+
+        }
+
+        function change_visibility(ctrl, show) {
+
+            document.getElementById(ctrl).style.display = show ? '' : 'none';
+        }
+
+        function show_control(ddl_ctrl, txtBox) {
+            ddl = document.getElementById(ddl_ctrl);
+            if (ddl.options.length == ddl.selectedIndex + 1)
+                change_visibility(txtBox, true);
+            else
+                change_visibility(txtBox, false);
+        }
+
+        function show_control2(obj, txtBox) {
+            change_visibility(txtBox, obj.checked);
+
+        }
+
+        function HideFlashBoxes() {
+            //document.getElementById('spBoxBanner').style.visibility = 'hidden';
+            //document.getElementById('flashContent').style.visibility = 'hidden';
+
+            HideElement('spBoxBanner');
+            HideElement('flashContent');
+        }
+
+        function HideElement(ele) {
+            document.getElementById(ele).style.visibility = 'hidden';
+        }
+
+        function ShowFlashBoxes() {
+            document.getElementById('spBoxBanner').style.visibility = 'visible';
+            document.getElementById('flashContent').style.visibility = 'visible';
+        }
+
+        function printit(id) {
+
+            url = RootURL + 'print.aspx?postID=' + id
+            l = screen.height / 2 - 200
+            t = 30
+            args = "left=" + l + ",top=" + t + ",height=600,width=560,status=no,toolbar=yes,menubar=no,location=no, scrollbars=yes"
+
+            window.open(url, 'prn', args)
+
+        }
+
+        var currentPage = 1;
+        function goNext(pageID) {
+
+            if (currentPage == multiPageCount)
+                return;
+
+            currentPage++;
+            switchPage(currentPage, pageID);
+        }
+
+        function goBack(pageID) {
+            if (currentPage == 1)
+                return;
+
+            currentPage--;
+            switchPage(currentPage, pageID);
+        }
+
+        /*
+        function switchPage(id) {
+
+                    
+        $('[name="page_divs"]').each(
+
+        function (index) {
+        this.style.display = 'none';
+        //alert(index + ': ' + $(this).name);
+        }
+
+        );
+         
+        document.getElementById('dvMainBody').style.display = 'none';
+
+        // remove classes
+        $('.custom-pager .selected').removeClass('selected');
+        $('.round-table .data-box').removeClass('selected-box');
+
+        if (id == 1) {
+        document.getElementById('dvMainBody').style.display = 'block';
+        $('#lnkCustomPaging' + id).addClass('selected');
+        }
+        else {
+
+        document.getElementById('pg' + (id)).style.display = 'block';
+
+        // add classes
+        $('#lnkCustomPaging' + id).addClass('selected');
+        $('#divRoundTable' + id).addClass('selected-box');
+
+        }
+        currentPage = id;
+        window.scroll(0, 300);
+          
+        }
+        */
+
+    </script>
+
+
+
+
+    <script type="67391b4e22b3d16633f542e8-text/javascript">
+
+        function S4() {
+            return (((1 + Math.random()) * 0x10000) | 0).toString(16).substring(1);
+        }
+
+        function GetGuid() {
+            // then to call it, plus stitch in '4' in the third group
+            var guid = (S4() + S4() + "-" + S4() + "-4" + S4().substr(0, 3) + "-" + S4() + "-" + S4() + S4() + S4()).toLowerCase();
+            return guid;
+        }
+        var page_rno = GetGuid();//Math.floor(Math.random() * 11);
+    </script>
+    
+    <script type="67391b4e22b3d16633f542e8-text/javascript">
+
+        var timer;
+        function SortDealBy(n, title) {
+            $('#ContentPlaceHolder1_hdSortId').val(n);
+
+            $('#ContentPlaceHolder1_ltSelectedText').text(title);
+            HideSorting();
+
+            $('#ContentPlaceHolder1_btnSorting').click();
+
+        }
+
+        $(document).ready(function () {
+
+            $("#divSorting").hide();
+
+            $("#divSorting").mouseover(function () {
+                clearTimer();
+
+            });
+
+            $("#divSorting a").mouseover(function () {
+                //$("#divSorting").show();
+                clearTimer();
+            });
+
+            $("#divSorting").mouseout(function () {
+
+                HideSortTable();
+                // $("#divSorting").hide();
+            });
+
+            SetBreadCrume();
+
+            //change activity indicator style to inline...
+            document.getElementById('ContentPlaceHolder1_uprogress1').style.display = 'inline';
+
+
+
+            setTimeout("LoadAllData()", 2000);
+        });
+
+        function LoadAllData() {
+            SortDealBy(0, 'DATE');
+
+        }
+
+
+        function ShowSortClick() {
+            ShowSorting();
+
+            clearTimer();
+
+            HideSortTable();
+
+        }
+
+        function HideSortTable() {
+            timer = setTimeout("HideSorting()", 3000);
+        }
+
+        function clearTimer() {
+
+            if (timer) {
+                clearTimeout(timer);
+            }
+
+        }
+
+        function ShowSorting() {
+            $("#divSorting").show(200);
+        }
+        function HideSorting() {
+            $("#divSorting").hide();
+        }
+
+
+        function SetBreadCrume() {
+            var bc = document.getElementById('SiteMapPath1').innerHTML;
+            bc = bc.replace("Deal List", 'ABL Deals 2024 - 1st Quarter ');
+            document.getElementById('SiteMapPath1').innerHTML = bc;
+        }
+
+    </script>
+<link id="ctl05" href="../../App_Themes/Theme1/jquery-ui-1.css" type="text/css" rel="stylesheet" /><link id="ctl06" href="../../App_Themes/Theme1/pager.css" type="text/css" rel="stylesheet" /><link id="ctl07" href="../../App_Themes/Theme1/StyleSheet.css" type="text/css" rel="stylesheet" /></head>
+<body>
+
+
+    <form method="post" action="./1?y=2024&amp;q=1" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQzMDI4OTgxNQ8WCB4EWWVhcgLoDx4HUXVhcnRlcgIBHg5CcmVhZENydW1UaXRsZQUdQUJMIERlYWxzIDIwMjQgLSAxc3QgUXVhcnRlciAeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCZg9kFgQCAQ9kFgwCAg8WAh4EaHJlZgUYfi9jb250ZW50cy9TdXBlckZpc2guY3NzZAIIDxYCHwQFLmh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Pc3dhbGRkAgkPFgIeBFRleHQFYDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHBzOi8vd3d3LmFibGFkdmlzb3IuY29tL0pTL2pxdWVyeS0xLjYuMi5taW4uanMiPjwvc2NyaXB0PmQCCg8WAh8FBXU8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwczovL3d3dy5hYmxhZHZpc29yLmNvbS9hZG1pbi9TY3JpcHRzL2pxdWVyeS11aS0xLjcuMS5jdXN0b20ubWluLmpzIj48L3NjcmlwdD5kAgsPFgIfBQVZPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly93d3cuYWJsYWR2aXNvci5jb20vSlMvc3VwZXJmaXNoLmpzIj48L3NjcmlwdD5kAgwPFgIfBQWnAjwhLS0gR29vZ2xlIHRhZyAoZ3RhZy5qcykgLS0+DQo8c2NyaXB0IGFzeW5jIHNyYz0iaHR0cHM6Ly93d3cuZ29vZ2xldGFnbWFuYWdlci5jb20vZ3RhZy9qcz9pZD1HLVZRV1hWVkpDWkgiPjwvc2NyaXB0Pg0KPHNjcmlwdD4NCiAgd2luZG93LmRhdGFMYXllciA9IHdpbmRvdy5kYXRhTGF5ZXIgfHwgW107DQogIGZ1bmN0aW9uIGd0YWcoKXtkYXRhTGF5ZXIucHVzaChhcmd1bWVudHMpO30NCiAgZ3RhZygnanMnLCBuZXcgRGF0ZSgpKTsNCg0KICBndGFnKCdjb25maWcnLCAnRy1WUVdYVlZKQ1pIJyk7DQo8L3NjcmlwdD5kAgMPZBYGAggPZBYIZg8WAh8FBTYxc3QgUXVhcnRlciBBQkwgQWR2aXNvciBEZWFsIFRhYmxlIC0gVXBkYXRlZCAzLzI5LzIwMjRkAgIPDxYCHwUFBERBVEVkZAIDD2QWAmYPZBYCAgEPPCsAEQMADxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AgpkARAWABYAFgAMFCsAABYCZg9kFhYCAQ8PZBYIHgdvbkNsaWNrBZABd2luZG93LmxvY2F0aW9uPSdodHRwczovL3d3dy5hYmxhZHZpc29yLmNvbS9kZWFsLXRhYmxlcy9kZWFsLzczMDUvaGVyY3VsZXMtY2FwaXRhbC1veGZvcmQtZmluYW5jZS1wcm92aWRlLTQwMG1tLWRlYnQtZmFjaWxpdHktdG8tdmVyb25hLXBoYXJtYSc7HgVzdHlsZQUPY3Vyc29yOnBvaW50ZXI7Hgtvbm1vdXNlb3ZlcgUmdGhpcy5zdHlsZS50ZXh0RGVjb3JhdGlvbj0ndW5kZXJsaW5lJzseCm9ubW91c2VvdXQFIXRoaXMuc3R5bGUudGV4dERlY29yYXRpb249J25vbmUnOxYMZg8PFggfBQUIMS8yLzIwMjQeCENzc0NsYXNzBQlkZWFsVGFibGUeCUJhY2tDb2xvcgnz+f7/HgRfIVNCAgpkZAIBDw8WBh8MBQlkZWFsVGFibGUfDQn59fT/Hw4CCmQWAmYPFQFJPGI+SGVyY3VsZXMgQ2FwaXRhbCwgSW5jLjwvYj4gW0xlbmRlcl08YnIvPjxiPk94Zm9yZCBGaW5hbmNlPC9iPiBbTGVuZGVyXWQCAg8PFgYfDAUJZGVhbFRhYmxlHw0J8/n+/x8OAgoWAh8JBQx3aWR0aDo3MHB4OzsWAmYPFQIFNDAwLjACTU1kAgMPDxYIHwUFDVZlcm9uYSBQaGFybWEfDAUJZGVhbFRhYmxlHw0J+fX0/x8OAgoWAh8JBQ13aWR0aDoxODBweDs7ZAIEDw8WBh8MBQlkZWFsVGFibGUfDQnz+f7/Hw4CCmQWAmYPFQEPUGhhcm1hY2V1dGljYWxzZAIFDw8WCB8FBQ1EZWJ0IEZhY2lsaXR5HwwFCWRlYWxUYWJsZR8NCfn19P8fDgIKZGQCAg8PZBYIHwgFjgF3aW5kb3cubG9jYXRpb249J2h0dHBzOi8vd3d3LmFibGFkdmlzb3IuY29tL2RlYWwtdGFibGVzL2RlYWwvNzMwMC9rZXliYW5rLW90aGVycy11cHNpemUtZ3JlYXQtcm9jay1jYXBpdGFscy1sZXZlcmFnZS1mYWNpbGl0eS10by1vdmVyLTUwMG1tbSc7HwkFD2N1cnNvcjpwb2ludGVyOx8KBSZ0aGlzLnN0eWxlLnRleHREZWNvcmF0aW9uPSd1bmRlcmxpbmUnOx8LBSF0aGlzLnN0eWxlLnRleHREZWNvcmF0aW9uPSdub25lJzsWDGYPDxYIHwUFCDEvMy8yMDI0HwwFCWRlYWxUYWJsZR8NCejy/P8fDgIKZGQCAQ8PFgYfDAUJZGVhbFRhYmxlHw0J8Ozn/x8OAgpkFgJmDxUBUzxiPktleUJhbms8L2I+IFtMZW5kZXJdPGJyLz48Yj5FdmVyQmFuazwvYj4gW0xlbmRlcl08YnIvPjxiPkF4aW9tIEJhbms8L2I+IFtMZW5kZXJdZAICDw8WBh8MBQlkZWFsVGFibGUfDQno8vz/Hw4CChYCHwkFDHdpZHRoOjcwcHg7OxYCZg8VAgU1MDAuMAJNTWQCAw8PFggfBQUSR3JlYXQgUm9jayBDYXBpdGFsHwwFCWRlYWxUYWJsZR8NCfDs5/8fDgIKFgIfCQUNd2lkdGg6MTgwcHg7O2QCBA8PFgYfDAUJZGVhbFRhYmxlHw0J6PL8/x8OAgpkFgJmDxUBDkxlbmRlciBGaW5hbmNlZAIFDw8WCB8FBRFMZXZlcmFnZSBGYWNpbGl0eR8MBQlkZWFsVGFibGUfDQnw7Of/Hw4CCmRkAgMPD2QWCB8IBZEBd2luZG93LmxvY2F0aW9uPSdodHRwczovL3d3dy5hYmxhZHZpc29yLmNvbS9kZWFsLXRhYmxlcy9kZWFsLzczMDEvbGFuZHMtZW5kLWVudGVycy1uZXctMjYwbW0tdGVybS1sb2FuLXdpdGgtYmx1ZS10b3JjaC1jYXBpdGFsLXNjdWxwdG9yLWNhcGl0YWwnOx8JBQ9jdXJzb3I6cG9pbnRlcjsfCgUmdGhpcy5zdHlsZS50ZXh0RGVjb3JhdGlvbj0ndW5kZXJsaW5lJzsfCwUhdGhpcy5zdHlsZS50ZXh0RGVjb3JhdGlvbj0nbm9uZSc7FgxmDw8WCB8FBQgxLzMvMjAyNB8MBQlkZWFsVGFibGUfDQnz+f7/Hw4CCmRkAgEPDxYGHwwFCWRlYWxUYWJsZR8NCfn19P8fDgIKZBYCZg8VAa0BPGI+Qmx1ZSBUb3JjaCBDYXBpdGFsPC9iPiBbTGVuZGVyXTxici8+PGI+SlBNb3JnYW4gQ2hhc2UgQmFuazwvYj4gW0xlbmRlcl08YnIvPjxiPlNjdWxwdG9yIENhcGl0YWwgTWFuYWdlbWVudDwvYj4gW0xlbmRlcl08YnIvPjxiPkFyYm91ciBMYW5lIENhcGl0YWwgTWFuYWdlbWVudDwvYj4gW0xlbmRlcl1kAgIPDxYGHwwFCWRlYWxUYWJsZR8NCfP5/v8fDgIKFgIfCQUMd2lkdGg6NzBweDs7FgJmDxUCBTI2MC4wAk1NZAIDDw8WCB8FBQ5MYW5kcyYjMzk7IEVuZB8MBQlkZWFsVGFibGUfDQn59fT/Hw4CChYCHwkFDXdpZHRoOjE4MHB4OztkAgQPDxYGHwwFCWRlYWxUYWJsZR8NCfP5/v8fDgIKZBYCZg8VAQdBcHBhcmVsZAIFDw8WCB8FBQlUZXJtIExvYW4fDAUJZGVhbFRhYmxlHw0J+fX0/x8OAgpkZAIEDw9kFggfCAWUAXdpbmRvdy5sb2NhdGlvbj0naHR0cHM6Ly93d3cuYWJsYWR2aXNvci5jb20vZGVhbC10YWJsZXMvZGVhbC83MzAyL21pZGNhcC1idXNpbmVzcy1jcmVkaXQtY29tcGxldGVzLTEybW0tYXNzZXQtYmFzZWQtY3JlZGl0LWZhY2lsaXR5LWZvci11bmRlcmdyb3VuJzsfCQUPY3Vyc29yOnBvaW50ZXI7HwoFJnRoaXMuc3R5bGUudGV4dERlY29yYXRpb249J3VuZGVybGluZSc7HwsFIXRoaXMuc3R5bGUudGV4dERlY29yYXRpb249J25vbmUnOxYMZg8PFggfBQUIMS8zLzIwMjQfDAUJZGVhbFRhYmxlHw0J6PL8/x8OAgpkZAIBDw8WBh8MBQlkZWFsVGFibGUfDQnw7Of/Hw4CCmQWAmYPFQEqPGI+TWlkQ2FwIEJ1c2luZXNzIENyZWRpdCBMTEM8L2I+IFtMZW5kZXJdZAICDw8WBh8MBQlkZWFsVGFibGUfDQno8vz/Hw4CChYCHwkFDHdpZHRoOjcwcHg7OxYCZg8VAgQxMi4wAk1NZAIDDw8WCB8FBQtVbmRpc2Nsb3NlZB8MBQlkZWFsVGFibGUfDQnw7Of/Hw4CChYCHwkFDXdpZHRoOjE4MHB4OztkAgQPDxYGHwwFCWRlYWxUYWJsZR8NCejy/P8fDgIKZBYCZg8VAQlVdGlsaXRpZXNkAgUPDxYIHwUFG0Fzc2V0LUJhc2VkIENyZWRpdCBGYWNpbGl0eR8MBQlkZWFsVGFibGUfDQnw7Of/Hw4CCmRkAgUPD2QWCB8IBZMBd2luZG93LmxvY2F0aW9uPSdodHRwczovL3d3dy5hYmxhZHZpc29yLmNvbS9kZWFsLXRhYmxlcy9kZWFsLzczMDMvZ29sZG1hbi1zYWNocy1jcHBpYi1jcmVkaXQtaW52ZXN0bWVudHMtcHJvdmlkZS0xMDBtbS1sb2FuLWZhY2lsaXR5LXRvLWFsdHVzLXBvdyc7HwkFD2N1cnNvcjpwb2ludGVyOx8KBSZ0aGlzLnN0eWxlLnRleHREZWNvcmF0aW9uPSd1bmRlcmxpbmUnOx8LBSF0aGlzLnN0eWxlLnRleHREZWNvcmF0aW9uPSdub25lJzsWDGYPDxYIHwUFCDEvMy8yMDI0HwwFCWRlYWxUYWJsZR8NCfP5/v8fDgIKZGQCAQ8PFgYfDAUJZGVhbFRhYmxlHw0J+fX0/x8OAgpkFgJmDxUBTzxiPkdvbGRtYW4gU2FjaHM8L2I+IFtMZW5kZXJdPGJyLz48Yj5DUFBJQiBDcmVkaXQgSW52ZXN0bWVudHMgSW5jLjwvYj4gW0xlbmRlcl1kAgIPDxYGHwwFCWRlYWxUYWJsZR8NCfP5/v8fDgIKFgIfCQUMd2lkdGg6NzBweDs7FgJmDxUCBTEwMC4wAk1NZAIDDw8WCB8FBQtBbHR1cyBQb3dlch8MBQlkZWFsVGFibGUfDQn59fT/Hw4CChYCHwkFDXdpZHRoOjE4MHB4OztkAgQPDxYGHwwFCWRlYWxUYWJsZR8NCfP5/v8fDgIKZBYCZg8VAQZFbmVyZ3lkAgUPDxYIHwUFF1NlY3VyZWQgQ3JlZGl0IEZhY2lsaXR5HwwFCWRlYWxUYWJsZR8NCfn19P8fDgIKZGQCBg8PZBYIHwgFkwF3aW5kb3cubG9jYXRpb249J2h0dHBzOi8vd3d3LmFibGFkdmlzb3IuY29tL2RlYWwtdGFibGVzL2RlYWwvNzMwNC9zd2staG9sZGluZ3MtcHJvdmlkZXMtdXAtdG8tMjBtbS1jcmVkaXQtZmFjaWxpdHktdG8tam91cm5leS1tZWRpY2FsLWNvcnBvcmF0aW9uJzsfCQUPY3Vyc29yOnBvaW50ZXI7HwoFJnRoaXMuc3R5bGUudGV4dERlY29yYXRpb249J3VuZGVybGluZSc7HwsFIXRoaXMuc3R5bGUudGV4dERlY29yYXRpb249J25vbmUnOxYMZg8PFggfBQUIMS8zLzIwMjQfDAUJZGVhbFRhYmxlHw0J6PL8/x8OAgpkZAIBDw8WBh8MBQlkZWFsVGFibGUfDQnw7Of/Hw4CCmQWAmYPFQEcPGI+U1dLIEhvbGRpbmdzPC9iPiBbTGVuZGVyXWQCAg8PFgYfDAUJZGVhbFRhYmxlHw0J6PL8/x8OAgoWAh8JBQx3aWR0aDo3MHB4OzsWAmYPFQIEMjAuMAJNTWQCAw8PFggfBQUbSm91cm5leSBNZWRpY2FsIENvcnBvcmF0aW9uHwwFCWRlYWxUYWJsZR8NCfDs5/8fDgIKFgIfCQUNd2lkdGg6MTgwcHg7O2QCBA8PFgYfDAUJZGVhbFRhYmxlHw0J6PL8/x8OAgpkFgJmDxUBD1BoYXJtYWNldXRpY2Fsc2QCBQ8PFggfBQUJVGVybSBMb2FuHwwFCWRlYWxUYWJsZR8NCfDs5/8fDgIKZGQCBw8PZBYIHwgFjQF3aW5kb3cubG9jYXRpb249J2h0dHBzOi8vd3d3LmFibGFkdmlzb3IuY29tL2RlYWwtdGFibGVzL2RlYWwvNzI5OC9maXJzdC1jaXRpemVucy1wcm92aWRlcy0xNm1tLXRvLXJheW1vdXItZmxhbmlnYW4tZm9yLXB1cmNoYXNlLW9mLXNob3dyb29tJzsfCQUPY3Vyc29yOnBvaW50ZXI7HwoFJnRoaXMuc3R5bGUudGV4dERlY29yYXRpb249J3VuZGVybGluZSc7HwsFIXRoaXMuc3R5bGUudGV4dERlY29yYXRpb249J25vbmUnOxYMZg8PFggfBQUIMS80LzIwMjQfDAUJZGVhbFRhYmxlHw0J8/n+/x8OAgpkZAIBDw8WBh8MBQlkZWFsVGFibGUfDQn59fT/Hw4CCmQWAmYPFQE0PGI+Rmlyc3QgQ2l0aXplbnMgTWlkZGxlIE1hcmtldCBCYW5raW5nPC9iPiBbTGVuZGVyXWQCAg8PFgYfDAUJZGVhbFRhYmxlHw0J8/n+/x8OAgoWAh8JBQx3aWR0aDo3MHB4OzsWAmYPFQIEMTYuMAJNTWQCAw8PFggfBQUWUmF5bW91ciAmYW1wOyBGbGFuaWdhbh8MBQlkZWFsVGFibGUfDQn59fT/Hw4CChYCHwkFDXdpZHRoOjE4MHB4OztkAgQPDxYGHwwFCWRlYWxUYWJsZR8NCfP5/v8fDgIKZBYCZg8VAQlGdXJuaXR1cmVkAgUPDxYIHwUFD0NyZWRpdCBGYWNpbGl0eR8MBQlkZWFsVGFibGUfDQn59fT/Hw4CCmRkAggPD2QWCB8IBZQBd2luZG93LmxvY2F0aW9uPSdodHRwczovL3d3dy5hYmxhZHZpc29yLmNvbS9kZWFsLXRhYmxlcy9kZWFsLzcyOTkvbzItc3BvbnNvci1maW5hbmNlLXByb3ZpZGVzLTEybW0taW4tY3JlZGl0LWZhY2lsaXRpZXMtdG8tc291bmRjb3JlLWNhcGl0YWwtcGFydG4nOx8JBQ9jdXJzb3I6cG9pbnRlcjsfCgUmdGhpcy5zdHlsZS50ZXh0RGVjb3JhdGlvbj0ndW5kZXJsaW5lJzsfCwUhdGhpcy5zdHlsZS50ZXh0RGVjb3JhdGlvbj0nbm9uZSc7FgxmDw8WCB8FBQgxLzQvMjAyNB8MBQlkZWFsVGFibGUfDQno8vz/Hw4CCmRkAgEPDxYGHwwFCWRlYWxUYWJsZR8NCfDs5/8fDgIKZBYCZg8VASI8Yj5PMiBTcG9uc29yIEZpbmFuY2U8L2I+IFtMZW5kZXJdZAICDw8WBh8MBQlkZWFsVGFibGUfDQno8vz/Hw4CChYCHwkFDHdpZHRoOjcwcHg7OxYCZg8VAgQxMi4wAk1NZAIDDw8WCB8FBRpTb3VuZGNvcmUgQ2FwaXRhbCBQYXJ0bmVycx8MBQlkZWFsVGFibGUfDQnw7Of/Hw4CChYCHwkFDXdpZHRoOjE4MHB4OztkAgQPDxYGHwwFCWRlYWxUYWJsZR8NCejy/P8fDgIKZBYCZg8VARRTcGVjaWFsdHkgSW5kdXN0cmllc2QCBQ8PFggfBQUgU2VuaW9yIFNlY3VyZWQgQ3JlZGl0IEZhY2lsaXRpZXMfDAUJZGVhbFRhYmxlHw0J8Ozn/x8OAgpkZAIJDw9kFggfCAWHAXdpbmRvdy5sb2NhdGlvbj0naHR0cHM6Ly93d3cuYWJsYWR2aXNvci5jb20vZGVhbC10YWJsZXMvZGVhbC83MzA2L211ZmctYmFuay1wcm92aWRlcy01MG1tLXJldm9sdmVyLWFuZC0xMi01bW0tdGVybS1sb2FuLXRvLW5leHRkZWNhZGUnOx8JBQ9jdXJzb3I6cG9pbnRlcjsfCgUmdGhpcy5zdHlsZS50ZXh0RGVjb3JhdGlvbj0ndW5kZXJsaW5lJzsfCwUhdGhpcy5zdHlsZS50ZXh0RGVjb3JhdGlvbj0nbm9uZSc7FgxmDw8WCB8FBQgxLzUvMjAyNB8MBQlkZWFsVGFibGUfDQnz+f7/Hw4CCmRkAgEPDxYGHwwFCWRlYWxUYWJsZR8NCfn19P8fDgIKZBYCZg8VASo8Yj5NVUZHPC9iPiBbTGVuZGVyLCBBZG1pbmlzdHJhdGl2ZSBBZ2VudF1kAgIPDxYGHwwFCWRlYWxUYWJsZR8NCfP5/v8fDgIKFgIfCQUMd2lkdGg6NzBweDs7FgJmDxUCBDYyLjUCTU1kAgMPDxYIHwUFFk5leHREZWNhZGUgQ29ycG9yYXRpb24fDAUJZGVhbFRhYmxlHw0J+fX0/x8OAgoWAh8JBQ13aWR0aDoxODBweDs7ZAIEDw8WBh8MBQlkZWFsVGFibGUfDQnz+f7/Hw4CCmQWAmYPFQEGRW5lcmd5ZAIFDw8WCB8FBSQkNTBNTSBSZXZvbHZlciBhbmQgJDEyLjVNTSBUZXJtIExvYW4fDAUJZGVhbFRhYmxlHw0J+fX0/x8OAgpkZAIKDw9kFggfCAWRAXdpbmRvdy5sb2NhdGlvbj0naHR0cHM6Ly93d3cuYWJsYWR2aXNvci5jb20vZGVhbC10YWJsZXMvZGVhbC83MzA3L2luZy1uYXRpeGlzLWNpYi1zbWJjLWhzYmMtYXJyYW5nZS0zNzVtbS1jb3Jwb3JhdGUtY3JlZGl0LWZhY2lsaXR5LWZvci1icmlnaHRuJzsfCQUPY3Vyc29yOnBvaW50ZXI7HwoFJnRoaXMuc3R5bGUudGV4dERlY29yYXRpb249J3VuZGVybGluZSc7HwsFIXRoaXMuc3R5bGUudGV4dERlY29yYXRpb249J25vbmUnOxYMZg8PFggfBQUIMS81LzIwMjQfDAUJZGVhbFRhYmxlHw0J6PL8/x8OAgpkZAIBDw8WBh8MBQlkZWFsVGFibGUfDQnw7Of/Hw4CCmQWAmYPFQHoATxiPklORyBDYXBpdGFsPC9iPiBbQ29vcmRpbmF0aW5nIExlYWQgQXJyYW5nZXJdPGJyLz48Yj5OYXRpeGlzIENvcnBvcmF0ZSAmIEludmVzdG1lbnQgQmFua2luZzwvYj4gW0Nvb3JkaW5hdGluZyBMZWFkIEFycmFuZ2VyXTxici8+PGI+U01CQzwvYj4gW0Nvb3JkaW5hdGluZyBMZWFkIEFycmFuZ2VyXTxici8+PGI+SFNCQyA8L2I+IFtKb2ludCBMZWFkIEFycmFuZ2VyLCBBZG1pbmlzdHJhdGl2ZSBBZ2VudF1kAgIPDxYGHwwFCWRlYWxUYWJsZR8NCejy/P8fDgIKFgIfCQUMd2lkdGg6NzBweDs7FgJmDxUCBTM3NS4wAk1NZAIDDw8WCB8FBQtCcmlnaHROaWdodB8MBQlkZWFsVGFibGUfDQnw7Of/Hw4CChYCHwkFDXdpZHRoOjE4MHB4OztkAgQPDxYGHwwFCWRlYWxUYWJsZR8NCejy/P8fDgIKZBYCZg8VAQZFbmVyZ3lkAgUPDxYIHwUFGUNvcnBvcmF0ZSBDcmVkaXQgRmFjaWxpdHkfDAUJZGVhbFRhYmxlHw0J8Ozn/x8OAgpkZAILDw8WAh4HVmlzaWJsZWhkZAIEDw8WAh4PU2hvd0dyYXBoQ29sdW1uZ2QWAgIBD2QWBAIBDxYCHwUFBDIwMjZkAgMPPCsACQEADxYEHghEYXRhS2V5cxYAHwcCAWQWAmYPZBYCAgEPPCsACQEADxYEHxEWAB8HAgNkFgZmD2QWAmYPFQMEMjAyNgEzFTNyZCBRdWFydGVyIChDdXJyZW50KWQCAQ9kFgJmDxUDBDIwMjYBMgsybmQgUXVhcnRlcmQCAg9kFgJmDxUDBDIwMjYBMQsxc3QgUXVhcnRlcmQCCQ8WAh8PaBYIAgEPZBYEZg8WAh8HAgIWBGYPZBYCZg8VBWBodHRwczovL3d3dy5hYmxhZHZpc29yLmNvbS9pbmR1c3RyeS1kYXRhL3NvdXJjZS83ODcvdS1zLWNlbnN1cy1idXJlYXUtdS1zLWRlcGFydG1lbnQtb2YtY29tbWVyY2UyVS5TLiBDZW5zdXMgQnVyZWF1IOKAkyBVLlMuIERlcGFydG1lbnQgb2YgQ29tbWVyY2VUaHR0cHM6Ly93d3cuYWJsYWR2aXNvci5jb20vaW5kdXN0cnktZGF0YS84MDIvbWFyY2gtMjAyMi1jb25zdHJ1Y3Rpb24tc3BlbmRpbmctcmVwb3J0J01hcmNoIDIwMjIgQ29uc3RydWN0aW9uIFNwZW5kaW5nIFJlcG9ydCdNYXJjaCAyMDIyIENvbnN0cnVjdGlvbiBTcGVuZGluZyBSZXBvcnRkAgEPZBYCZg8VBWBodHRwczovL3d3dy5hYmxhZHZpc29yLmNvbS9pbmR1c3RyeS1kYXRhL3NvdXJjZS83ODcvdS1zLWNlbnN1cy1idXJlYXUtdS1zLWRlcGFydG1lbnQtb2YtY29tbWVyY2UyVS5TLiBDZW5zdXMgQnVyZWF1IOKAkyBVLlMuIERlcGFydG1lbnQgb2YgQ29tbWVyY2V1aHR0cHM6Ly93d3cuYWJsYWR2aXNvci5jb20vaW5kdXN0cnktZGF0YS84MDEvZnVsbC1yZXBvcnQtb24tbWFudWZhY3R1cmVycy1zaGlwbWVudHMtaW52ZW50b3JpZXMtYW5kLW9yZGVycy1tYXJjaC0yMDIyS0Z1bGwgUmVwb3J0IG9uIE1hbnVmYWN0dXJlcnMgU2hpcG1lbnRzLCBJbnZlbnRvcmllcyBhbmQgT3JkZXJzIC0gTWFyY2ggMjAyMkxGdWxsIFJlcG9ydCBvbiBNYW51ZmFjdHVyZXJzJyBTaGlwbWVudHMsIEludmVudG9yaWVzIGFuZCBPcmRlcnMgLSBNYXJjaCAyMDIyZAIBD2QWAmYPFgIfD2hkAgIPDxYCHw9oZBYCZg8WAh8HAgIWBGYPZBYCZg8VBYEBaHR0cHM6Ly93d3cuYWJsYWR2aXNvci5jb20vZGVhbC10YWJsZXMvZGVhbC85NjU1L2hpbGNvLWdsb2JhbC1jYXBpdGFsLXNvbHV0aW9ucy1wcm92aWRlcy02MG1tLWFibC1mYWNpbGl0eS1zdXBwb3J0aW5nLWFjcXVpc2l0aW9uZUhpbGNvIEdsb2JhbCBDYXBpdGFsIFNvbHV0aW9ucyBQcm92aWRlcyAkNjBNTSBBQkwgRmFjaWxpdHkgU3VwcG9ydGluZyBBY3F1aXNpdGlvbiBvZiBIdWxjaGVyIFNlcnZpY2VzBjYwLjAwMAdNaWxsaW9uBFJhaWxkAgEPZBYCZg8VBYABaHR0cHM6Ly93d3cuYWJsYWR2aXNvci5jb20vZGVhbC10YWJsZXMvZGVhbC85NjU2L2Jhbmstc3luZGljYXRlLXByb3ZpZGVzLTc1MG1tLWNvcnBvcmF0ZS1jcmVkaXQtZmFjaWxpdHktdG8tc3dpZnQtY3VycmVudC1lbmVyZ3lQQmFuayBTeW5kaWNhdGUgUHJvdmlkZXMgJDc1ME1NIENvcnBvcmF0ZSBDcmVkaXQgRmFjaWxpdHkgdG8gU3dpZnQgQ3VycmVudCBFbmVyZ3kHNzUwLjAwMAdNaWxsaW9uBkVuZXJneWQCAw9kFgJmDxYCHwcCAhYEZg9kFgJmDxUEYGh0dHBzOi8vd3d3LmFibGFkdmlzb3IuY29tL2FydGljbGVzLzQzNDk4L3doeS1oZWFsdGh5LWNvbXBhbmllcy1hcmUtY2hvb3NpbmctYXNzZXQtYmFzZWQtbGVuZGluZzZXaHkgSGVhbHRoeSBDb21wYW5pZXMgQXJlIENob29zaW5nIEFzc2V0LUJhc2VkIExlbmRpbmdFQXMgaGVhbHRoeSwgYXNzZXQtcmljaCBtaWRkbGUtbWFya2V0IGNvbXBhbmllcyBpbmNyZWFzaW5nbHkgY2hvb3NlLi4uDE1pa2UgU2VtYW5jb2QCAQ9kFgJmDxUEeGh0dHBzOi8vd3d3LmFibGFkdmlzb3IuY29tL2FydGljbGVzLzQzNDU2L2NvbW1lcmNpYWwtZmluYW5jZS1tYS1vdXRsb29rLWVxdWlwbWVudC1maW5hbmNlLWFibC1hbmQtZmFjdG9yaW5nLWNvbnNvbGlkYXRpb2NDb21tZXJjaWFsIEZpbmFuY2UgTSZBIE91dGxvb2s6IEVxdWlwbWVudCBGaW5hbmNlLCBBQkwgYW5kIEZhY3RvcmluZyBDb25zb2xpZGF0aW9uIHRvIEdhaW4gTW9tZW50dW1AVGltIFN0dXRlIGFuZCBDaHJpcyBIZW1sZXIgb2YgSG92ZGUgR3JvdXAgZGlzY3VzcyBob3cgYW5kIHdoeS4uLhFNaWNoYWVsIEEuIFRvZ2xpYWQCBQ9kFgRmDw8WBB4ISW1hZ2VVcmwFYGh0dHBzOi8vd3d3LmFibGFkdmlzb3IuY29tL0ltYWdlcy9JbmR1c3RyeURpcmVjdG9yeS9sb2dvLXNtLXN0cmF0dG9uLWVxdWl0aWVzLTI4MHg2NS0yMDIyLTExLmdpZh4LTmF2aWdhdGVVcmwFigFqYXZhc2NyaXB0Om9wZW5fY29tcF9wcm9maWxlKCdodHRwczovL3d3dy5hYmxhZHZpc29yLmNvbS9pbmR1c3RyeS1kaXJlY3Rvcnkvc2VydmljZS1wcm92aWRlcnMvMzc4L3N0cmF0dG9uLWVxdWl0aWVzJywgIlN0cmF0dG9uIEVxdWl0aWVzIilkZAIBD2QWBAIBDw8WAh8TBYoBamF2YXNjcmlwdDpvcGVuX2NvbXBfcHJvZmlsZSgnaHR0cHM6Ly93d3cuYWJsYWR2aXNvci5jb20vaW5kdXN0cnktZGlyZWN0b3J5L3NlcnZpY2UtcHJvdmlkZXJzLzM3OC9zdHJhdHRvbi1lcXVpdGllcycsICJTdHJhdHRvbiBFcXVpdGllcyIpZGQCAw8PFgIfEwVSamF2YXNjcmlwdDpvcGVuX2NvbXB3ZWIyKCdodHRwczovL3d3dy5zdHJhdHRvbmVxdWl0aWVzLmNvbS8nLCAiU3RyYXR0b24gRXF1aXRpZXMiKWRkAgoPFgIfCQVGZmxvYXQ6bGVmdDttYXJnaW4tbGVmdDo4cHg7aGVpZ2h0OjE1MHB4O3dpZHRoOjk3NXB4O21hcmdpbi10b3A6LTEwOXB4O2QYAQUhY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRndkRlYWxzDzwrAAwBCAIBZDa+rNfMGI3xmuoOgiZkkJCk0AJsyzrVTv8RnikoV+Fo" />
+
+
+<script src="/ScriptResource.axd?d=DuU3dus-Aa-SD_YdKpQm70tPXRIM62RXj26cVuMnnETifYhNiTPLxllIPwGdFEGK43amqlYM4yQPb7s4Qn2Rplo6tlGhdS8yYl89-GZj70rBSY_--kfcM6TyinLr8EOPYnSHODX-ktwwgcfJcx2JQy2VZtLhQ0QqJcYAB8l2rAg1&amp;t=fffffffff7f39b88" type="67391b4e22b3d16633f542e8-text/javascript"></script>
+<script src="../../ws/backoffice.asmx/js" type="67391b4e22b3d16633f542e8-text/javascript"></script><script type="67391b4e22b3d16633f542e8-text/javascript">
+		var ClientIDs = {
+			txtSearch: 'txtSearch',
+			btnSearchMain: 'btnSearchMain',
+			hdSortId: 'ContentPlaceHolder1_hdSortId',
+			btnSorting: 'ContentPlaceHolder1_btnSorting'
+		}
+	</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D644D2C1" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWVS8X5/peNW3TE1oXH7MMT4+3WpZQNb82rzs2KnT3rh7HcuUnHRu+WOD4TChCZT1b5kooF4E1dGkoka1tdHGFdnVK8iIsiY3qUX+40Tige8/D91QZ1bbkbz2EvvtG48VD1gZXKlnuqSRxGuKLgobID" />
+        <script type="67391b4e22b3d16633f542e8-text/javascript">
+            var RootURL = "https://www.abladvisor.com/"
+        </script>
+        
+        <div id="mainArea">
+            
+
+            <div id="bannerArea">
+                <!-- ABLA 728x90 [async] -->
+                <script type="67391b4e22b3d16633f542e8-text/javascript">if (!window.AdButler) { (function () { var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = 'https://servedbyadbutler.com/app.js'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); }()); }</script>
+                <script type="67391b4e22b3d16633f542e8-text/javascript">
+                    var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+                    var abkw = window.abkw || '';
+                    var plc347568 = window.plc347568 || 0;
+                    document.write('<' + 'div id="placement_347568_' + plc347568 + '"></' + 'div>');
+                    AdButler.ads.push({ handler: function (opt) { AdButler.register(175287, 347568, [728, 90], 'placement_347568_' + opt.place, opt); }, opt: { place: plc347568++, keywords: abkw, domain: 'servedbyadbutler.com', click: 'CLICK_MACRO_PLACEHOLDER' } });
+                </script>
+            </div>
+
+            
+            <div id="headerTitle">
+                <table style="width: 100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td style="width: auto;">&nbsp;
+                        </td>
+                        <td style="width: 985px;">
+                            <table style="width: 100%" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td class="header-bar">
+                                        <span style="cursor: pointer;" onclick="if (!window.__cfRLUnblockHandlers) return false; window.location='https://www.abladvisor.com/register'" data-cf-modified-67391b4e22b3d16633f542e8-="">
+                                            <span style="color: #707070; font-weight: bold; text-transform: uppercase; font-size: 13px; cursor: pointer;">FREE MEMBERSHIP </span>Includes <span style="color: #707070; vertical-align: top;">»</span>
+                                            ABL Advisor
+                                        eNews + iData Blasts <span style="color: #707070;">|</span> <a href="https://www.abladvisor.com/register">JOIN NOW</a> </span>
+                                    </td>
+                                    <td style="width: 25px;">
+                                        <img src="../../Images/login_gray_sep.png" id="imgGraySep" width="25" height="23" alt="ABLAdvisor Gray" />
+                                    </td>
+                                    <td class="loginLink" style="background-color: #828282; white-space: nowrap; padding-top: 2px;">
+                                        
+                                        <a href="https://www.abladvisor.com/login.aspx">LOGIN</a>
+                                        
+                                    </td>
+                                    <td style="width: 25px; background-color: #828282;">
+                                        <img src="../../Images/login_blue_sep.png" id="imgBlueSep" width="25" height="23" alt="ABLAdvisor Blue" />
+                                    </td>
+                                    <td class="blueLink" style="width: 190px;">
+                                        <div>
+                                            <a href="https://www.abladvisor.com/About-ABL-Advisor.aspx">About</a> <a href="#">|</a>
+                                            <a href="https://www.abladvisor.com/faq.aspx">FAQ</a> <a href="https://www.abladvisor.com/contactus.aspx">|</a> <a href="https://www.abladvisor.com/contactus.aspx">Contact</a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td style="width: auto; background-color: #134779;">&nbsp;
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div style="width: 990px; margin-left: auto; margin-right: auto; background-color: red;">
+                <div id="header">
+                    <div id="headerDetail">
+                        <div style="float: left; height: 104px;">
+                            <a href="https://www.abladvisor.com/">
+                                <img src="https://www.abladvisor.com/Images/abla-logo.gif" width="431px" height="82px"
+                                    alt="Logo for ABL Advisor - Website Serving Asset Based Lending and Commercial Finance Professionals"
+                                    title="Logo for ABL Advisor - Website Serving Asset Based Lending and Commercial Finance Professionals" /></a>
+                            <div style="color: #716d7d; font-family: oswald; font-size: 16px; letter-spacing: 2px; text-transform: uppercase; font-weight: normal; padding-left: 20px;">
+                                Serving Asset-Based Lending Decision Makers
+                            </div>
+                        </div>
+                        <div style="float: right; width: 236px; margin-right: 15px;">
+                            <div style="height: 90px; width: 240px; border: solid 1px #b4b2ba;">
+                                <a href="https://www.abladvisor.com/register?source=logo">
+                                    <img src="https://www.abladvisor.com//images/join-now.gif" border="0" width="240px"
+                                        height="90" title="Join ABL Advisor banner - Asset Based Lending and Commercial Finance Community"
+                                        alt="Join ABL Advisor banner - Asset Based Lending and Commercial Finance Community" /></a>
+                            </div>
+                            <div style="clear: both;">
+                            </div>
+                        </div>
+                        <div style="clear: both">
+                        </div>
+                    </div>
+                </div>
+                <div id="menu">
+                    <div class="menuAreaTable">
+                        <div>
+                            <table width="100%">
+                                <tr>
+                                    <td>
+                                        <div id="menuArea">
+                                            <div id="endDivider">
+                                                
+
+<ul id="menu1" class="sf-menu">
+    <li><a href="https://www.abladvisor.com/featured-articles">Articles</a></li>
+    <li><a href="https://www.abladvisor.com/industry-news-latest">News</a> </li>
+    <li><a href="https://www.abladvisor.com/featured-blogs">Blogs</a></li>
+    <li><a href="https://www.abladvisor.com/press-releases">Press Releases</a></li>
+    <li><a href="https://www.abladvisor.com/videos.aspx">Videos</a></li>
+
+
+    
+   
+</ul>
+
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td style="width: 185px">
+                                        <div id="pnlSearch">
+	
+                                            <div class="topSearch">
+                                                <div class="button">
+                                                    <a id="lnkSearch" href="#" style="outline: none;">
+                                                        
+                                                        <img src="https://www.abladvisor.com/Images/searchButton.png" width="20px" height="17px"
+                                                            alt="Keyword Search Button for ABL Advisor" title="Keyword Search Button for ABL Advisor" />
+                                                    </a>
+                                                </div>
+                                                <div class="textArea">
+                                                    <input name="ctl00$txtSearch" type="text" id="txtSearch" class="textBox" />
+                                                </div>
+                                                <div style="clear: both;">
+                                                </div>
+                                            </div>
+                                            <div style="display: none;">
+                                                <input type="submit" name="ctl00$btnSearchMain" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; return false;" id="btnSearchMain" data-cf-modified-67391b4e22b3d16633f542e8-="" />
+                                            </div>
+                                        
+</div>
+                                    </td>
+                                    <td style="width: 150px;">
+                                        <div class="socialIcons" align="right">
+                                            <a href="http://twitter.com/abladvisor" target="_blank">
+                                                <img src="https://www.abladvisor.com/Images/social-twitter.png" width="23px" height="23px"
+                                                    alt="Twitter Logo for ABL Advisor - Asset Based Lending and Commercial Finance Resources"
+                                                    title="Twitter Logo for ABL Advisor - Asset Based Lending and Commercial Finance Resources" /></a>
+                                            <a href="http://www.linkedin.com/company/abl-advisor" target="_blank">
+                                                <img src="https://www.abladvisor.com/Images/social-linkedin.png" width="23px" height="23px"
+                                                    alt="LinkedIn Logo for ABL Advisor - Asset Based Lending and Commercial Finance Resources"
+                                                    title="LinkedIn Logo for ABL Advisor - Asset Based Lending and Commercial Finance Resources" /></a>
+                                            <a href="http://www.facebook.com/pages/ABL-Advisor/431797766869646" target="_blank">
+                                                <img src="https://www.abladvisor.com/Images/social-facebook.png" width="23px" height="23px"
+                                                    alt="Facebook Logo for ABL Advisor - Asset Based Lending and Commercial Finance Resources"
+                                                    title="Facebook Logo for ABL Advisor - Asset Based Lending and Commercial Finance Resources" /></a>
+                                            <a href="https://plus.google.com/u/0/114778399139997986787" target="_blank">
+                                                <img src="https://www.abladvisor.com/Images/social-google.png" width="23px" height="23px"
+                                                    alt="Google+ Logo for ABL Advisor - Asset Based Lending and Commercial Finance Resources"
+                                                    title="Google+ Logo for ABL Advisor - Asset Based Lending and Commercial Finance Resources" /></a>
+                                            <a href="https://www.abladvisor.com/rss">
+                                                <img src="https://www.abladvisor.com/Images/social-rss.png" width="23px" height="23px"
+                                                    alt="RSS Feed Logo for ABL Advisor - Asset Based Lending and Commercial Finance Resources"
+                                                    title="RSS Feed Logo for ABL Advisor - Asset Based Lending and Commercial Finance Resources" /></a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div class="middle-sub-menu">
+                            <table width="100%" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td>
+                                        
+
+    <ul class="sub-menu2">
+        <li><a href="https://www.abladvisor.com/">Home</a></li>
+        <li><a href="https://www.abladvisor.com/industry-data">Sector/Economic Data</a></li>
+        <li><a href="https://www.abladvisor.com/deal-tables">Deal Tables</a> </li>
+        <li><a href="https://www.abladvisor.com/industry-directory">Directory</a></li>
+        <li><a href="https://www.abladvisor.com/events-calendar">Events Calendar</a></li>
+        <li><a href="https://www.abladvisor.com/advertise/advertising-platform.aspx">Advertise</a></li>
+        <li class="red"><a  href="https://www.abladvisor.com/register">Subscribe</a></li>
+    </ul>
+
+                                    </td>
+                                    <td style="width: 225px;">
+                                        <div style="padding: 2px;">
+                                            <!-- apn banner -->
+                                            <span id="flashContent">
+                                                <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="207" height="29"
+                                                    id="graybar_advisor_logo" align="middle">
+                                                    <param name="movie" value="https://www.abladvisor.com/Images/graybar_advisor_logo.swf?clickTAG=https://www.abladvisor.com/apn.aspx" />
+                                                    <param name="quality" value="high" />
+                                                    <param name="bgcolor" value="#ffffff" />
+                                                    <param name="play" value="true" />
+                                                    <param name="loop" value="true" />
+                                                    <param name="wmode" value="window" />
+                                                    <param name="scale" value="showall" />
+                                                    <param name="menu" value="true" />
+                                                    <param name="devicefont" value="false" />
+                                                    <param name="salign" value="" />
+                                                    <param name="allowScriptAccess" value="sameDomain" />
+                                                    <!--[if !IE]>-->
+                                                    <object type="application/x-shockwave-flash" data="https://www.abladvisor.com/Images/graybar_advisor_logo.swf?clickTAG=https://www.abladvisor.com/apn.aspx"
+                                                        width="207" height="29">
+                                                        <param name="movie" value="https://www.abladvisor.com/Images/graybar_advisor_logo.swf" />
+                                                        <param name="quality" value="high" />
+                                                        <param name="bgcolor" value="#ffffff" />
+                                                        <param name="play" value="true" />
+                                                        <param name="loop" value="true" />
+                                                        <param name="wmode" value="window" />
+                                                        <param name="scale" value="showall" />
+                                                        <param name="menu" value="true" />
+                                                        <param name="devicefont" value="false" />
+                                                        <param name="salign" value="" />
+                                                        <param name="allowScriptAccess" value="sameDomain" />
+                                                        <!--<![endif]-->
+                                                        <a href="https://www.abladvisor.com/APN.aspx">
+                                                            <img src="https://www.abladvisor.com/Images/graybar_advisor_logo.gif"
+                                                                width="207px"
+                                                                height="29px"
+                                                                alt="ABL Advisor's APN -- Exclusive Advisor Professional Network"
+                                                                title="ABL Advisor's APN -- Exclusive Advisor Professional Network" /></a>
+                                                        <!--[if !IE]>-->
+                                                    </object>
+                                                    <!--<![endif]-->
+                                                </object>
+                                            </span>
+                                            <!-- end of apn banner -->
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div id="contentAreaMain">
+                    <div id="contentArea">
+                        <table width="100%" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td id="content">
+                                    
+                                    <div>
+                                        <span class="breadcrumb">
+                                            <span id="SiteMapPath1"><a href="#SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=VXL6YOKCGIdcrkDBL99-urKaP1t4b1z1zHpJ7m8t4wxBzF-7UeUt--2FFT9-FHp8ca-AvV0lDqjsIYrn9wk35chmJmBAROw-eNlL5yIGrYM1&amp;t=639202452261329438" width="0" height="0" border="0" /></a><span id="SiteMapPath1"><a id="SiteMapPath1_ctl00_0" href="/">Home</a></span><span id="SiteMapPath1"> / </span><span id="SiteMapPath1"><a id="SiteMapPath1_ctl00_1" title="Deal Table" href="/deal-tables">Deal Tables</a></span><span id="SiteMapPath1"> / </span><span id="SiteMapPath1">Deal List</span><a id="SiteMapPath1_SkipLink"></a></span>
+                                        </span>
+                                    </div>
+                                    
+
+    <table border="0" cellpadding="4" cellspacing="0">
+        <tr>
+            <td>
+                <h2>The ABL Advisor Deal Tables</h2>
+               
+                <div class="heading-row">
+                    ABL Advisor Deal Tables
+                </div>
+
+                <h4 style="text-transform: uppercase; margin-bottom: 0px;">Sortable Data</h4>
+                <p>
+                    Deal tables are updated daily, fully sortable and feature highly-detailed transaction summary pages.
+                </p>
+
+            </td>
+
+            <td>
+
+                <!-- ABLA 300x250 [async] -->
+                <script type="67391b4e22b3d16633f542e8-text/javascript">if (!window.AdButler) { (function () { var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = 'https://servedbyadbutler.com/app.js'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n); }()); }</script>
+                <script type="67391b4e22b3d16633f542e8-text/javascript">
+                    var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+                    var abkw = window.abkw || '';
+                    var plc347542 = window.plc347542 || 0;
+                    document.write('<' + 'div id="placement_347542_' + plc347542 + '"></' + 'div>');
+                    AdButler.ads.push({ handler: function (opt) { AdButler.register(175287, 347542, [300, 250], 'placement_347542_' + opt.place, opt); }, opt: { place: plc347542++, keywords: abkw, domain: 'servedbyadbutler.com', click: 'CLICK_MACRO_PLACEHOLDER' } });
+                </script>
+
+
+            </td>
+
+
+
+
+        </tr>
+    </table>
+
+
+
+
+    <div style="text-align: right; padding-bottom: 4px;">
+    </div>
+
+    <p style="padding: 6px; background-color: #F2F2F2; color: #9B1F07; font-weight: bold;">
+        Click Individual Deals for Full Transaction Details.
+    </p>
+    <div style="border-bottom: gray dotted 1px; padding-top: 2px; padding-bottom: 2px; text-transform: uppercase;">
+        <b>
+            1st Quarter ABL Advisor Deal Table - Updated 3/29/2024
+        </b>
+    </div>
+    <div>
+        <div align="right" style="margin-bottom: 4px; margin-top: 6px;" onclick="if (!window.__cfRLUnblockHandlers) return false; ShowSortClick()" data-cf-modified-67391b4e22b3d16633f542e8-="">
+            <div id="ContentPlaceHolder1_uprogress1" style="display:block;">
+	
+                    <img src="../../images/loading02.gif" id="loadingImage" />
+                
+</div>
+
+            <b>Sort By:</b>
+            <div class="dealSortCombo">
+                <div class="selectionBar">
+                    <div style="float: right;">
+                        <a href="javascript:ShowSortClick();">
+                            <img src="https://www.abladvisor.com/Images/dropdown-handle.png" style="border: none;" /></a>
+                    </div>
+                    <div align="left" style="padding-left: 6px;">
+                        <span id="ContentPlaceHolder1_ltSelectedText">DATE</span>
+                    </div>
+                </div>
+                <div class="popupDiv" id="divSorting">
+                    <a href="javascript:SortDealBy(0,'DATE');">DATE</a> <a href="javascript:SortDealBy(1,'LENDER');">LENDER</a>
+                    <a href="javascript:SortDealBy(2,'ROLES');">ROLES</a> <a href="javascript:SortDealBy(3,'AMOUNT');">AMOUNT</a>
+                    <a href="javascript:SortDealBy(4,'BORROWER(S)');">BORROWER(S)</a> <a href="javascript:SortDealBy(5,'INDUSTRY');">INDUSTRY</a>
+                </div>
+            </div>
+        </div>
+
+        <div id="ContentPlaceHolder1_pnlData">
+	
+                <div>
+		<table id="ContentPlaceHolder1_gvDeals_ctl00" cellspacing="0" cellpadding="5" id="ContentPlaceHolder1_gvDeals" width="100%">
+			<tr id="ContentPlaceHolder1_gvDeals" align="left" bgcolor="#706C7B">
+				<th id="ContentPlaceHolder1_gvDeals_ctl00" scope="col"><font color="White">DATE</font></th><th id="ContentPlaceHolder1_gvDeals_ctl01" scope="col"><font color="White">LENDER/PARTICIPANT [ROLE]</font></th><th id="ContentPlaceHolder1_gvDeals_ctl02" scope="col"><font color="White">AMOUNT</font></th><th id="ContentPlaceHolder1_gvDeals_ctl03" scope="col"><font color="White">Borrower</font></th><th id="ContentPlaceHolder1_gvDeals_ctl04" scope="col"><font color="White">Industry</font></th><th id="ContentPlaceHolder1_gvDeals_ctl05" scope="col"><font color="White">Structure</font></th>
+			</tr><tr id="ContentPlaceHolder1_gvDeals" onClick="if (!window.__cfRLUnblockHandlers) return false; window.location=&#39;https://www.abladvisor.com/deal-tables/deal/7305/hercules-capital-oxford-finance-provide-400mm-debt-facility-to-verona-pharma&#39;;" onmouseover="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;underline&#39;;" onmouseout="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;none&#39;;" style="cursor:pointer;" data-cf-modified-67391b4e22b3d16633f542e8-="">
+				<td id="ContentPlaceHolder1_gvDeals_ctl00_0" class="dealTable" bgcolor="#FEF9F3"><font size="1">1/2/2024</font></td><td id="ContentPlaceHolder1_gvDeals_ctl01_0" class="dealTable" bgcolor="#F4F5F9"><font size="1">
+                                <b>Hercules Capital, Inc.</b> [Lender]<br/><b>Oxford Finance</b> [Lender]
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl03_0" class="dealTable" bgcolor="#FEF9F3" style="width:70px;;"><font size="1">
+                                $400.0 MM
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl05_0" class="dealTable" bgcolor="#F4F5F9" style="width:180px;;"><font size="1">Verona Pharma</font></td><td id="ContentPlaceHolder1_gvDeals_ctl06_0" class="dealTable" bgcolor="#FEF9F3"><font size="1">
+                                Pharmaceuticals
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl08_0" class="dealTable" bgcolor="#F4F5F9"><font size="1">Debt Facility</font></td>
+			</tr><tr id="ContentPlaceHolder1_gvDeals" onClick="if (!window.__cfRLUnblockHandlers) return false; window.location=&#39;https://www.abladvisor.com/deal-tables/deal/7300/keybank-others-upsize-great-rock-capitals-leverage-facility-to-over-500mmm&#39;;" onmouseover="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;underline&#39;;" onmouseout="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;none&#39;;" style="cursor:pointer;" data-cf-modified-67391b4e22b3d16633f542e8-="">
+				<td id="ContentPlaceHolder1_gvDeals_ctl00_1" class="dealTable" bgcolor="#FCF2E8"><font size="1">1/3/2024</font></td><td id="ContentPlaceHolder1_gvDeals_ctl01_1" class="dealTable" bgcolor="#E7ECF0"><font size="1">
+                                <b>KeyBank</b> [Lender]<br/><b>EverBank</b> [Lender]<br/><b>Axiom Bank</b> [Lender]
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl03_1" class="dealTable" bgcolor="#FCF2E8" style="width:70px;;"><font size="1">
+                                $500.0 MM
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl05_1" class="dealTable" bgcolor="#E7ECF0" style="width:180px;;"><font size="1">Great Rock Capital</font></td><td id="ContentPlaceHolder1_gvDeals_ctl06_1" class="dealTable" bgcolor="#FCF2E8"><font size="1">
+                                Lender Finance
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl08_1" class="dealTable" bgcolor="#E7ECF0"><font size="1">Leverage Facility</font></td>
+			</tr><tr id="ContentPlaceHolder1_gvDeals" onClick="if (!window.__cfRLUnblockHandlers) return false; window.location=&#39;https://www.abladvisor.com/deal-tables/deal/7301/lands-end-enters-new-260mm-term-loan-with-blue-torch-capital-sculptor-capital&#39;;" onmouseover="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;underline&#39;;" onmouseout="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;none&#39;;" style="cursor:pointer;" data-cf-modified-67391b4e22b3d16633f542e8-="">
+				<td id="ContentPlaceHolder1_gvDeals_ctl00_2" class="dealTable" bgcolor="#FEF9F3"><font size="1">1/3/2024</font></td><td id="ContentPlaceHolder1_gvDeals_ctl01_2" class="dealTable" bgcolor="#F4F5F9"><font size="1">
+                                <b>Blue Torch Capital</b> [Lender]<br/><b>JPMorgan Chase Bank</b> [Lender]<br/><b>Sculptor Capital Management</b> [Lender]<br/><b>Arbour Lane Capital Management</b> [Lender]
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl03_2" class="dealTable" bgcolor="#FEF9F3" style="width:70px;;"><font size="1">
+                                $260.0 MM
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl05_2" class="dealTable" bgcolor="#F4F5F9" style="width:180px;;"><font size="1">Lands&#39; End</font></td><td id="ContentPlaceHolder1_gvDeals_ctl06_2" class="dealTable" bgcolor="#FEF9F3"><font size="1">
+                                Apparel
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl08_2" class="dealTable" bgcolor="#F4F5F9"><font size="1">Term Loan</font></td>
+			</tr><tr id="ContentPlaceHolder1_gvDeals" onClick="if (!window.__cfRLUnblockHandlers) return false; window.location=&#39;https://www.abladvisor.com/deal-tables/deal/7302/midcap-business-credit-completes-12mm-asset-based-credit-facility-for-undergroun&#39;;" onmouseover="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;underline&#39;;" onmouseout="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;none&#39;;" style="cursor:pointer;" data-cf-modified-67391b4e22b3d16633f542e8-="">
+				<td id="ContentPlaceHolder1_gvDeals_ctl00_3" class="dealTable" bgcolor="#FCF2E8"><font size="1">1/3/2024</font></td><td id="ContentPlaceHolder1_gvDeals_ctl01_3" class="dealTable" bgcolor="#E7ECF0"><font size="1">
+                                <b>MidCap Business Credit LLC</b> [Lender]
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl03_3" class="dealTable" bgcolor="#FCF2E8" style="width:70px;;"><font size="1">
+                                $12.0 MM
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl05_3" class="dealTable" bgcolor="#E7ECF0" style="width:180px;;"><font size="1">Undisclosed</font></td><td id="ContentPlaceHolder1_gvDeals_ctl06_3" class="dealTable" bgcolor="#FCF2E8"><font size="1">
+                                Utilities
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl08_3" class="dealTable" bgcolor="#E7ECF0"><font size="1">Asset-Based Credit Facility</font></td>
+			</tr><tr id="ContentPlaceHolder1_gvDeals" onClick="if (!window.__cfRLUnblockHandlers) return false; window.location=&#39;https://www.abladvisor.com/deal-tables/deal/7303/goldman-sachs-cppib-credit-investments-provide-100mm-loan-facility-to-altus-pow&#39;;" onmouseover="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;underline&#39;;" onmouseout="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;none&#39;;" style="cursor:pointer;" data-cf-modified-67391b4e22b3d16633f542e8-="">
+				<td id="ContentPlaceHolder1_gvDeals_ctl00_4" class="dealTable" bgcolor="#FEF9F3"><font size="1">1/3/2024</font></td><td id="ContentPlaceHolder1_gvDeals_ctl01_4" class="dealTable" bgcolor="#F4F5F9"><font size="1">
+                                <b>Goldman Sachs</b> [Lender]<br/><b>CPPIB Credit Investments Inc.</b> [Lender]
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl03_4" class="dealTable" bgcolor="#FEF9F3" style="width:70px;;"><font size="1">
+                                $100.0 MM
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl05_4" class="dealTable" bgcolor="#F4F5F9" style="width:180px;;"><font size="1">Altus Power</font></td><td id="ContentPlaceHolder1_gvDeals_ctl06_4" class="dealTable" bgcolor="#FEF9F3"><font size="1">
+                                Energy
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl08_4" class="dealTable" bgcolor="#F4F5F9"><font size="1">Secured Credit Facility</font></td>
+			</tr><tr id="ContentPlaceHolder1_gvDeals" onClick="if (!window.__cfRLUnblockHandlers) return false; window.location=&#39;https://www.abladvisor.com/deal-tables/deal/7304/swk-holdings-provides-up-to-20mm-credit-facility-to-journey-medical-corporation&#39;;" onmouseover="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;underline&#39;;" onmouseout="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;none&#39;;" style="cursor:pointer;" data-cf-modified-67391b4e22b3d16633f542e8-="">
+				<td id="ContentPlaceHolder1_gvDeals_ctl00_5" class="dealTable" bgcolor="#FCF2E8"><font size="1">1/3/2024</font></td><td id="ContentPlaceHolder1_gvDeals_ctl01_5" class="dealTable" bgcolor="#E7ECF0"><font size="1">
+                                <b>SWK Holdings</b> [Lender]
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl03_5" class="dealTable" bgcolor="#FCF2E8" style="width:70px;;"><font size="1">
+                                $20.0 MM
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl05_5" class="dealTable" bgcolor="#E7ECF0" style="width:180px;;"><font size="1">Journey Medical Corporation</font></td><td id="ContentPlaceHolder1_gvDeals_ctl06_5" class="dealTable" bgcolor="#FCF2E8"><font size="1">
+                                Pharmaceuticals
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl08_5" class="dealTable" bgcolor="#E7ECF0"><font size="1">Term Loan</font></td>
+			</tr><tr id="ContentPlaceHolder1_gvDeals" onClick="if (!window.__cfRLUnblockHandlers) return false; window.location=&#39;https://www.abladvisor.com/deal-tables/deal/7298/first-citizens-provides-16mm-to-raymour-flanigan-for-purchase-of-showroom&#39;;" onmouseover="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;underline&#39;;" onmouseout="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;none&#39;;" style="cursor:pointer;" data-cf-modified-67391b4e22b3d16633f542e8-="">
+				<td id="ContentPlaceHolder1_gvDeals_ctl00_6" class="dealTable" bgcolor="#FEF9F3"><font size="1">1/4/2024</font></td><td id="ContentPlaceHolder1_gvDeals_ctl01_6" class="dealTable" bgcolor="#F4F5F9"><font size="1">
+                                <b>First Citizens Middle Market Banking</b> [Lender]
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl03_6" class="dealTable" bgcolor="#FEF9F3" style="width:70px;;"><font size="1">
+                                $16.0 MM
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl05_6" class="dealTable" bgcolor="#F4F5F9" style="width:180px;;"><font size="1">Raymour &amp; Flanigan</font></td><td id="ContentPlaceHolder1_gvDeals_ctl06_6" class="dealTable" bgcolor="#FEF9F3"><font size="1">
+                                Furniture
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl08_6" class="dealTable" bgcolor="#F4F5F9"><font size="1">Credit Facility</font></td>
+			</tr><tr id="ContentPlaceHolder1_gvDeals" onClick="if (!window.__cfRLUnblockHandlers) return false; window.location=&#39;https://www.abladvisor.com/deal-tables/deal/7299/o2-sponsor-finance-provides-12mm-in-credit-facilities-to-soundcore-capital-partn&#39;;" onmouseover="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;underline&#39;;" onmouseout="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;none&#39;;" style="cursor:pointer;" data-cf-modified-67391b4e22b3d16633f542e8-="">
+				<td id="ContentPlaceHolder1_gvDeals_ctl00_7" class="dealTable" bgcolor="#FCF2E8"><font size="1">1/4/2024</font></td><td id="ContentPlaceHolder1_gvDeals_ctl01_7" class="dealTable" bgcolor="#E7ECF0"><font size="1">
+                                <b>O2 Sponsor Finance</b> [Lender]
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl03_7" class="dealTable" bgcolor="#FCF2E8" style="width:70px;;"><font size="1">
+                                $12.0 MM
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl05_7" class="dealTable" bgcolor="#E7ECF0" style="width:180px;;"><font size="1">Soundcore Capital Partners</font></td><td id="ContentPlaceHolder1_gvDeals_ctl06_7" class="dealTable" bgcolor="#FCF2E8"><font size="1">
+                                Specialty Industries
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl08_7" class="dealTable" bgcolor="#E7ECF0"><font size="1">Senior Secured Credit Facilities</font></td>
+			</tr><tr id="ContentPlaceHolder1_gvDeals" onClick="if (!window.__cfRLUnblockHandlers) return false; window.location=&#39;https://www.abladvisor.com/deal-tables/deal/7306/mufg-bank-provides-50mm-revolver-and-12-5mm-term-loan-to-nextdecade&#39;;" onmouseover="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;underline&#39;;" onmouseout="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;none&#39;;" style="cursor:pointer;" data-cf-modified-67391b4e22b3d16633f542e8-="">
+				<td id="ContentPlaceHolder1_gvDeals_ctl00_8" class="dealTable" bgcolor="#FEF9F3"><font size="1">1/5/2024</font></td><td id="ContentPlaceHolder1_gvDeals_ctl01_8" class="dealTable" bgcolor="#F4F5F9"><font size="1">
+                                <b>MUFG</b> [Lender, Administrative Agent]
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl03_8" class="dealTable" bgcolor="#FEF9F3" style="width:70px;;"><font size="1">
+                                $62.5 MM
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl05_8" class="dealTable" bgcolor="#F4F5F9" style="width:180px;;"><font size="1">NextDecade Corporation</font></td><td id="ContentPlaceHolder1_gvDeals_ctl06_8" class="dealTable" bgcolor="#FEF9F3"><font size="1">
+                                Energy
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl08_8" class="dealTable" bgcolor="#F4F5F9"><font size="1">$50MM Revolver and $12.5MM Term Loan</font></td>
+			</tr><tr id="ContentPlaceHolder1_gvDeals" onClick="if (!window.__cfRLUnblockHandlers) return false; window.location=&#39;https://www.abladvisor.com/deal-tables/deal/7307/ing-natixis-cib-smbc-hsbc-arrange-375mm-corporate-credit-facility-for-brightn&#39;;" onmouseover="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;underline&#39;;" onmouseout="if (!window.__cfRLUnblockHandlers) return false; this.style.textDecoration=&#39;none&#39;;" style="cursor:pointer;" data-cf-modified-67391b4e22b3d16633f542e8-="">
+				<td id="ContentPlaceHolder1_gvDeals_ctl00_9" class="dealTable" bgcolor="#FCF2E8"><font size="1">1/5/2024</font></td><td id="ContentPlaceHolder1_gvDeals_ctl01_9" class="dealTable" bgcolor="#E7ECF0"><font size="1">
+                                <b>ING Capital</b> [Coordinating Lead Arranger]<br/><b>Natixis Corporate & Investment Banking</b> [Coordinating Lead Arranger]<br/><b>SMBC</b> [Coordinating Lead Arranger]<br/><b>HSBC </b> [Joint Lead Arranger, Administrative Agent]
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl03_9" class="dealTable" bgcolor="#FCF2E8" style="width:70px;;"><font size="1">
+                                $375.0 MM
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl05_9" class="dealTable" bgcolor="#E7ECF0" style="width:180px;;"><font size="1">BrightNight</font></td><td id="ContentPlaceHolder1_gvDeals_ctl06_9" class="dealTable" bgcolor="#FCF2E8"><font size="1">
+                                Energy
+                            </font></td><td id="ContentPlaceHolder1_gvDeals_ctl08_9" class="dealTable" bgcolor="#E7ECF0"><font size="1">Corporate Credit Facility</font></td>
+			</tr>
+		</table>
+	</div>
+                <input type="hidden" name="ctl00$ContentPlaceHolder1$hdSortId" id="ContentPlaceHolder1_hdSortId" value="0" />
+                <div style="display: none;">
+                    <input type="submit" name="ctl00$ContentPlaceHolder1$btnSorting" value="Sorting" id="ContentPlaceHolder1_btnSorting" />
+                </div>
+            
+</div>
+    </div>
+    <br />
+    <br />
+    <p>
+        
+
+<table style="width: 100%">
+    <tr>
+        <td width="33%" style="width: 33%">
+            <div id="ContentPlaceHolder1_ucCurrentDeal1_divDealsContainer">
+                <div style="height: 35px;">
+                    <div>
+                        <b>ABL Advisor</b>
+                    </div>
+                    <div>
+                        <b>Deal Tables
+                        2026</b>
+                    </div>
+                </div>
+                <div>
+                    <table id="ContentPlaceHolder1_ucCurrentDeal1_dlDeals" cellspacing="0" cellpadding="0">
+	<tr>
+		<td>
+                            <table id="ContentPlaceHolder1_ucCurrentDeal1_dlDeals_dlDealQuarter_0" cellspacing="0">
+			<tr>
+				<td>
+                                    <div>
+                                        <a href='https://www.abladvisor.com/deal-tables/2026/3' class="dealButtonBlue"
+                                            style="width: 150px;">
+                                            3rd Quarter (Current)
+                                        </a>
+                                    </div>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <div>
+                                        <a href='https://www.abladvisor.com/deal-tables/2026/2' class="dealButtonBlue"
+                                            style="width: 150px;">
+                                            2nd Quarter
+                                        </a>
+                                    </div>
+                                </td>
+			</tr><tr>
+				<td>
+                                    <div>
+                                        <a href='https://www.abladvisor.com/deal-tables/2026/1' class="dealButtonBlue"
+                                            style="width: 150px;">
+                                            1st Quarter
+                                        </a>
+                                    </div>
+                                </td>
+			</tr>
+		</table>
+                        </td>
+	</tr>
+</table>
+                </div>
+            </div>
+        </td>
+        <td width="33%" style="width: 33%"></td>
+        <td id="ContentPlaceHolder1_ucCurrentDeal1_tdLeagueGraph" width="33%" style="width: 33%"></td>
+
+    </tr>
+</table>
+
+    </p>
+
+
+                                   
+                                    <!-- DUMMY DIV FOR Industry Directory -->
+                                    <div style="height: 150px; background-color: white;">
+                                    </div>
+                                </td>
+                                
+                            </tr>
+                        </table>
+                        <div id="divIndustryDataStrip" style="float:left;margin-left:8px;height:150px;width:975px;margin-top:-109px;">
+                            
+
+<div id="bottomAdvertisment">
+<div class="industryResources">
+    <div class="header">Industry Resources</div>
+    <table width="100%" border="0" align="center" cellpadding="4" cellspacing="0" >
+        <tr>
+             <td width="145" align="center">
+                <a href="https://www.sfnet.com" target="_blank">
+                    <img src="https://www.abladvisor.com/Images/logo-secured-finance-network.png" 
+                    width="150px" height="60px"
+                    title="Logo of Secured Finance Network" alt="Logo of Secured Finance Network" /></a>
+            </td>
+
+           
+
+            <!-- TMA -->
+            <td width="170" align="center">
+                <a href="http://www.turnaround.org/" target="_blank">
+                    <img src="https://www.abladvisor.com/Images/logo-tma-footer.png" 
+                    width="150px" height="60px"
+                   title="Logo of Turnaround Management Association" 
+                   alt="Logo of Turnaround Management Association" /></a>
+            </td>
+
+            <td width="120" align="center">
+                <a href="http://www.factoring.org/" target="_blank">
+                    <img src="https://www.abladvisor.com/Images/logo-ifa-footer.png" 
+                    width="150px" height="60px"                   
+                    title="Logo of International Factoring Association" alt="Logo of International Factoring Association" /></a>
+            </td>
+            
+            <td width="145" align="center">
+                <a href="http://www.equipmentfa.com/" target="_blank">
+                <img src="https://www.abladvisor.com/images/logo-efa-footer.png" 
+                width="150px" height="53px"                                       
+                title="Logo of Equipment Finance Advisor" alt="Logo of Equipment Finance Advisor" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td width="145" align="center">
+                <a href="https://www.sfnet.com/" target="_blank">Secured Finance Network</a>
+            </td>
+            
+
+            <!-- TMA -->
+            <td width="170" align="center">
+                <a href="http://www.turnaround.org/" target="_blank">Turnaround Management<br />Association </a>
+            </td>
+            
+            <td width="120" align="center">
+                <a href="http://www.factoring.org/" target="_blank">International Factoring Association</a>
+            </td>
+
+            <td width="145" align="center">
+                <a href="http://www.equipmentfa.com/" target="_blank">Equipment Finance Advisor</a>
+            </td>
+
+        </tr>
+    </table>
+</div>
+</div>
+                        </div>
+                        
+                        <!-- add some space -->
+                        <br />
+                        <br />
+                        <br />
+                        <!-- #### -->
+                        
+                    </div>
+                    <div id="footer-spacer">
+                    </div>
+                    <div id="footer-container">
+                        <div id="footer">
+                            <div>
+                                <div class="footerArea">
+                                    <div class="title">
+                                        Site Map
+                                    </div>
+                                    <span><a href="https://www.abladvisor.com/">Home</a></span> <span><a href="https://www.abladvisor.com/industry-news-latest">News</a></span> <span><a href="https://www.abladvisor.com/featured-articles">Articles</a></span>
+                                    <span><a href="https://www.abladvisor.com/blog-topics">Blogs</a></span> <span><a href="https://www.abladvisor.com/industry-directory">Industry Directory</a></span> <span><a href="https://www.abladvisor.com/industry-data.aspx">Industry Data</a></span> <span><a href="https://www.abladvisor.com/events-calendar">Events
+                                            Calendar</a></span> <span><a href="https://www.abladvisor.com/deal-tables">Deal Tables</a></span>
+                                </div>
+                                <div class="footerArea">
+                                    <div class="title">
+                                        ABL Advisor
+                                    </div>
+                                    <span><a href="https://www.abladvisor.com/about-abl-advisor.aspx">About The Advisor</a></span>
+                                    <span><a href="https://www.abladvisor.com/faq">FAQ</a></span> <span><a href="https://www.abladvisor.com/contact-us">Contact</a></span> <span><a href="https://www.abladvisor.com/author-directory">Author
+                                        Directory</a></span> <span><a href="https://www.abladvisor.com/extended-sitemap">Extended Site
+                                            Map</a></span> <span><a href="https://www.abladvisor.com/PrivacyPolicy.aspx">Privacy Policy</a></span>
+                                    <span><a href="https://www.abladvisor.com/terms-of-service">Terms of Service</a></span>
+                                    <span><a href="https://www.abladvisor.com/Glossary.aspx">Glossary of Terms</a></span>
+                                </div>
+                                <div class="footerArea">
+                                    <div class="title">
+                                        Advisor Members
+                                    </div>
+                                    <span><a href="https://www.abladvisor.com/Register">Manage Profile</a></span> <span><a
+                                        href="https://www.abladvisor.com/apn.aspx">Advisor Professional Network</a></span>
+                                    <span><a href="https://www.abladvisor.com/Register">Subscribe FREE</a></span>
+                                </div>
+                                <div class="footerArea">
+                                    <div class="title">
+                                        Industry Directory
+                                    </div>
+                                    <span><a href="https://www.abladvisor.com/industry-directory">Industry Directory</a></span>
+                                    <span><a href="https://www.abladvisor.com/advertise/advertising-request-form.aspx">Get
+                                    Your Company Listed</a></span> <span><a href="https://www.abladvisor.com/contact-us">Submit
+                                        Company News</a></span>
+                                </div>
+                                <div class="footerArea">
+                                    <div class="title">
+                                        Advertise
+                                    </div>
+                                    <span><a href="https://www.abladvisor.com/advertise/advertising-platforms">Media Planner</a></span> 
+                                    
+                                </div>
+                                <div style="clear: both">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="footer-container-2">
+                        <div class="bottomLogo" style="height: 70px;">
+                            <table cellpadding="4" cellspacing="0" border="0">
+                                <tr>
+                                    <td>
+                                        <div class="logo">
+                                            <img src="https://www.abladvisor.com/Images/bottom_advisor_logo.gif"
+                                                width="204px" height="54px"
+                                                title="Black and White Logo for ABL Advisor - Website Serving Asset Based Lending and Commercial Finance Professionals"
+                                                alt="Black and White Logo for ABL Advisor - Website Serving Asset Based Lending and Commercial Finance Professionals" />
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="text">
+                                            Copyright © 2012-2026
+                                        Equipment Finance Advisor, Inc. All rights reserved. The material on this site may
+                                        not be reproduced, distributed, transmitted, cached or otherwise used without written
+                                        consent from ABL Advisor, Incorporated.
+                                        <br />
+                                            ABL Advisor: 975 Mill Road, Suite G, Bryn Mawr, PA 19010 | tel 484.380.3215 | fax
+                                        484.636.2508
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div id="divSocialIcon2" style="padding-top: 10px;">
+                                            <a href="http://www.linkedin.com/company/abl-advisor" target="_blank">
+                                                <img id="img6" src="https://www.abladvisor.com/Images/soc-b-linked.png" rel="ico-linkedin"
+                                                    width="23px" height="23px"
+                                                    alt="LinkedIn Logo for ABL Advisor - Asset Based Lending and Commercial Finance Community"
+                                                    title="LinkedIn Logo for ABL Advisor - Asset Based Lending and Commercial Finance Community" /></a>
+                                            <a href="http://twitter.com/abladvisor" target="_blank">
+                                                <img id="img7" src="https://www.abladvisor.com/Images/soc-b-twitter.png" rel="ico-twitter"
+                                                    width="23px" height="23px"
+                                                    alt="Twitter Logo for ABL Advisor - Asset Based Lending and Commercial Finance Community"
+                                                    title="Twitter Logo for ABL Advisor - Asset Based Lending and Commercial Finance Community" /></a>
+                                            <a href="http://www.facebook.com/pages/ABL-Advisor/431797766869646" target="_blank">
+                                                <img id="img8" src="https://www.abladvisor.com/Images/soc-b-facebook.png" rel="ico-facebook"
+                                                    width="23px" height="23px"
+                                                    alt="Facebook Logo for ABL Advisor - Asset Based Lending and Commercial Finance Community"
+                                                    title="Facebook Logo for ABL Advisor - Asset Based Lending and Commercial Finance Community" />
+                                            </a><a href="https://www.abladvisor.com/rss">
+                                                <img id="img9" src="https://www.abladvisor.com/Images/soc-b-rss.png" rel="ico-rss"
+                                                    width="23px" height="23px"
+                                                    alt="RSS Feed Logo for ABL Advisor - Asset Based Lending and Commercial Finance Community"
+                                                    title="RSS Feed Logo for ABL Advisor - Asset Based Lending and Commercial Finance Community" /></a>
+                                            <a href="https://plus.google.com/u/0/114778399139997986787" target="_blank" rel="publisher">
+                                                <img id="img10" src="https://www.abladvisor.com/Images/soc-b-google.png" rel="ico-google-plus"
+                                                    width="23px" height="23px"
+                                                    alt="Google+ Logo for ABL Advisor - Asset Based Lending and Commercial Finance Community"
+                                                    title="Google+ Logo for ABL Advisor - Asset Based Lending and Commercial Finance Community" /></a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="67391b4e22b3d16633f542e8-|49" defer></script></body>
+</html>

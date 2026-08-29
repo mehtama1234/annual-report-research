@@ -1,0 +1,5 @@
+metric,value_b_usd_or_count,units,vs_busloans_pct,vs_totll_pct,vs_totbkcr_pct,vs_creacbm_pct,interpretation,status
+three-BDC aggregate portfolio fair value,57.704,B USD,1.99,0.41,0.29,1.85,"ARCC, OBDC, and BXSL combined portfolio fair value compared with bank-credit stocks.",aggregate-local-source
+three-BDC aggregate Q2 new commitments,3.211,B USD,0.11,0.02,0.02,0.10,Quarterly new commitments across the three-BDC panel compared with bank-credit stocks.,aggregate-local-source
+three-BDC known funded investments,3.146,B USD,0.11,0.02,0.02,0.10,Known funded investments from ARCC and OBDC; BXSL funded amount was not extracted from the exhibit.,aggregate-local-source
+three-BDC portfolio company count,1161,count,,,,,Aggregate portfolio-company breadth across the three-BDC panel; not a dollar denominator comparison.,aggregate-local-source

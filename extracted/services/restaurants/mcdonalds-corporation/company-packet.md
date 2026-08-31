@@ -57,17 +57,25 @@ Date baseline: 2026-08-09
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/restaurants/mcdonalds-corporation/annualreports-verification.md)
-- [official-ir-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/restaurants/mcdonalds-corporation/official-ir-verification.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/restaurants/mcdonalds-corporation/2025-annual-report.pdf)
-- [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/restaurants/mcdonalds-corporation/2025-10k.html)
-- [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/restaurants/mcdonalds-corporation/2025-q4-8k.html)
-- [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/restaurants/mcdonalds-corporation/2026-q1-8k.html)
-- [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/restaurants/mcdonalds-corporation/2026-q2-8k.html)
-- [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/restaurants/mcdonalds-corporation/2026-q1-10q.html)
-- [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/restaurants/mcdonalds-corporation/2026-q2-10q.html)
-- [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/restaurants/mcdonalds-corporation/2025-q4-earnings-release.pdf)
-- [2026-q1-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/restaurants/mcdonalds-corporation/2026-q1-earnings-release.pdf)
+- [source-ledger.md](/home/mehtama1/git-repo/annual-report-research/extracted/services/restaurants/mcdonalds-corporation/source-ledger.md)
+- [company-analysis.md](/home/mehtama1/git-repo/annual-report-research/analysis/company-first-principles/services/restaurants/mcdonalds-corporation/company-analysis.md)
+- [company-analysis.json](/home/mehtama1/git-repo/annual-report-research/analysis/company-first-principles/services/restaurants/mcdonalds-corporation/company-analysis.json)
+- [2025-annual-report.pdf](/home/mehtama1/git-repo/annual-report-research/raw/company-ir/services/restaurants/mcdonalds-corporation/2025-annual-report.pdf)
+- [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2025-10k.html)
+- [2025-q4-8k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2025-q4-8k.html)
+- [2025-q4-exhibit991.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2025-q4-exhibit991.html)
+- [2026-q1-8k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2026-q1-8k.html)
+- [2026-q1-exhibit991.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2026-q1-exhibit991.html)
+- [2026-q2-8k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2026-q2-8k.html)
+- [2026-q2-exhibit991.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2026-q2-exhibit991.html)
+- [2026-q1-10q.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2026-q1-10q.html)
+- [2026-q2-10q.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/2026-q2-10q.html)
+- [companyfacts-cik0000063908.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/services/restaurants/mcdonalds-corporation/companyfacts-cik0000063908.json)
+- [2026-grinch-socks-sherwood.html](/home/mehtama1/git-repo/annual-report-research/raw/company-ir/services/restaurants/mcdonalds-corporation/2026-grinch-socks-sherwood.html)
+- External source: https://corporate.mcdonalds.com/corpmcd/our-stories/article/digitizing-the-arches.html
+- External source: https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcd-google-cloud-announce-partnership.html
+- External source: https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcdonalds-launching-mcvalue-platform-inus-restaurants-in2025.html
+- External source: https://www.nrn.com/quick-service/mcdonald-s-franchisees-divided-on-5-meal-deal
 
 ## Working interpretation
 

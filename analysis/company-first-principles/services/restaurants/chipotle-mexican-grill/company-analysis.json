@@ -1,0 +1,111 @@
+{
+  "company": "Chipotle Mexican Grill, Inc.",
+  "ticker": "CMG",
+  "primary_question": "Can Chipotle grow its restaurant base and customer relationship while keeping store economics strong?",
+  "core_answer": "Chipotle owns almost all its restaurants and combines a simple visible-food promise with digital ordering, Chipotlanes, and new-store growth. The main risk is that the cost of serving each customer is rising while existing-store traffic is only beginning to recover.",
+  "source_register": [
+    "raw/company-ir/services/restaurants/chipotle-mexican-grill/2025-annual-report.pdf",
+    "raw/sec/services/restaurants/chipotle-mexican-grill/2026-q1-10q.pdf",
+    "raw/sec/services/restaurants/chipotle-mexican-grill/2026-q2-10q.pdf",
+    "raw/company-ir/services/restaurants/chipotle-mexican-grill/2025-q4-results.html",
+    "raw/company-ir/services/restaurants/chipotle-mexican-grill/2026-q1-results.html",
+    "raw/company-ir/services/restaurants/chipotle-mexican-grill/2026-q2-results.html",
+    "raw/sec/services/restaurants/chipotle-mexican-grill/companyfacts-cik0001058090.json"
+  ],
+  "external_sources": [
+    "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000009/cmg-20251231.htm",
+    "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000028/cmg-20260331.htm",
+    "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000066/cmg-20260630.htm",
+    "https://ir.chipotle.com/",
+    "https://ir.chipotle.com/annual-reports",
+    "https://ir.chipotle.com/sec-filings?year=2026"
+  ],
+  "source_discovery_audit": [
+    {"lane":"filings_and_financials","status":"complete","what_it_found":"FY2025 annual report, Q1 2026, Q2 2026, Q4 2025 results, and SEC company facts."},
+    {"lane":"corporate_product_and_value_pages","status":"partial","what_it_found":"Annual report describes the menu, Food with Integrity, guest access, and accessibility goals; standalone offer pages need a later pass."},
+    {"lane":"corporate_technology_pages","status":"complete","what_it_found":"Digital sales, Chipotlanes, restaurant technology, and technology investment are described in filings and investor materials."},
+    {"lane":"earnings_call_and_management_color","status":"partial","what_it_found":"Q1 and Q2 releases capture Recipe for Growth, hospitality, menu innovation, Rewards, and group occasions; call transcripts remain a follow-up."},
+    {"lane":"trade_press_and_operator_checks","status":"pending","what_it_found":"No outside operator source was added in this first pass; labor and customer checks are required next."},
+    {"lane":"weird_signal_scan","status":"pending","what_it_found":"No campaign, product-drop, or unusual customer behavior source was added in this first pass."},
+    {"lane":"peer_and_disconfirmation_scan","status":"complete","what_it_found":"McDonald's and existing affordability, ritual, workflow, and burden-carrier pages provide the first comparison frame."}
+  ],
+  "mechanisms": [
+    {"name":"visible food promise","what_happened":"Customers choose ingredients and see food prepared in front of them.","first_principles_read":"Visibility can reduce uncertainty and support a higher price.","what_to_verify_next":"Repeat visits, complaints, food-safety trust, and price tolerance."},
+    {"name":"simple menu","what_happened":"The business sells a narrow group of customizable meals.","first_principles_read":"A narrower menu may make training and quality control easier.","what_to_verify_next":"Order time, error rate, waste, and labor minutes per order."},
+    {"name":"Chipotlane","what_happened":"Most new Q2 stores included a dedicated digital pickup lane.","first_principles_read":"Easier pickup can widen the useful reach of one store.","what_to_verify_next":"Sales, margin, and payback versus similar stores without a lane."},
+    {"name":"company-owned stores","what_happened":"Chipotle owns and operates almost all restaurants.","first_principles_read":"The parent keeps the store upside and carries the operating downside.","what_to_verify_next":"Store margin, labor pressure, rent, and new-store returns."},
+    {"name":"digital ordering","what_happened":"Digital sales were 38.3% of Q2 food and beverage revenue.","first_principles_read":"Digital ordering removes some customer effort but can add kitchen and delivery work.","what_to_verify_next":"Total visits, order size, labor minutes, errors, and delivery cost."},
+    {"name":"new-store growth","what_happened":"Chipotle opened 100 company-owned restaurants in Q2.","first_principles_read":"New stores can grow profit if each store earns back its build cost.","what_to_verify_next":"Construction cost, ramp time, mature sales, and cash return by store cohort."}
+  ],
+  "financial_base": {
+    "fy2025_revenue_usd": 11925600000,
+    "fy2025_net_income_usd": 1535761000,
+    "fy2025_operating_cash_flow_usd": 2113926000,
+    "fy2025_capex_usd": 666336000
+  },
+  "operating_evidence": [
+    {"claim":"FY2025 comparable sales fell 1.7%, with transactions down 2.9% and average check up 1.2%.","sources":["raw/company-ir/services/restaurants/chipotle-mexican-grill/2025-annual-report.pdf","raw/company-ir/services/restaurants/chipotle-mexican-grill/2025-q4-results.html"]},
+    {"claim":"Q2 2026 comparable sales rose 2.2%, with transactions up 1.0% and average check up 1.2%.","sources":["raw/sec/services/restaurants/chipotle-mexican-grill/2026-q2-10q.pdf","raw/company-ir/services/restaurants/chipotle-mexican-grill/2026-q2-results.html"]},
+    {"claim":"Q2 2026 restaurant-level margin fell to 25.2% from 27.4%, while food and labor costs rose as percentages of revenue.","sources":["raw/sec/services/restaurants/chipotle-mexican-grill/2026-q2-10q.pdf","raw/company-ir/services/restaurants/chipotle-mexican-grill/2026-q2-results.html"]},
+    {"claim":"Digital sales were 38.3% of Q2 food and beverage revenue, and 80 of 100 new Q2 stores included Chipotlanes.","sources":["raw/company-ir/services/restaurants/chipotle-mexican-grill/2026-q2-results.html"]},
+    {"claim":"FY2025 operating cash flow was $2.114B against $666.3M of capital spending and $2.426B of share repurchases.","sources":["raw/company-ir/services/restaurants/chipotle-mexican-grill/2025-annual-report.pdf","raw/sec/services/restaurants/chipotle-mexican-grill/companyfacts-cik0001058090.json"]}
+  ],
+  "axial_codes": [
+    {"code":"visible_food_trust","definition":"Trust created by visible ingredients and preparation.","evidence_trigger":"Menu, food-safety, quality, and customer behavior evidence.","cross_company_use":"Compare with McDonald's standardization and Starbucks experience."},
+    {"code":"simple_menu_operating_control","definition":"A narrow menu may reduce training and execution difficulty.","evidence_trigger":"Order speed, errors, waste, and labor data.","cross_company_use":"Use across restaurant chains with different menu complexity."},
+    {"code":"transaction_recovery_vs_price_carry","definition":"Separate more visits from higher spending per visit.","evidence_trigger":"Comparable transactions and average check move differently.","cross_company_use":"Compare traffic and pricing across McDonald's, Starbucks, and Cava."},
+    {"code":"company_owned_burden","definition":"The parent carries store costs and keeps store profit.","evidence_trigger":"Store margin, wage, food, rent, and capital changes.","cross_company_use":"Contrast with McDonald's franchise model."},
+    {"code":"chipotlane_access_returns","definition":"Dedicated pickup access may improve store reach and returns.","evidence_trigger":"New-store sales, margin, and payback by format.","cross_company_use":"Compare physical and digital access systems."},
+    {"code":"digital_work_shift","definition":"Online ordering changes where the work happens.","evidence_trigger":"Digital share, labor, errors, delivery fees, and wait times.","cross_company_use":"Use for every restaurant with app or delivery demand."},
+    {"code":"growth_dilutes_execution","definition":"Rapid store growth may weaken staffing, training, and consistency.","evidence_trigger":"Manager retention, complaints, service time, and older-store results.","cross_company_use":"Test expansion stories across consumer businesses."},
+    {"code":"food_quality_affordability_ceiling","definition":"A quality promise has a price limit.","evidence_trigger":"Transactions after price increases and under budget pressure.","cross_company_use":"Compare premium food claims with value formats."}
+  ],
+  "investment_read":"Chipotle has a credible growth engine, but the investment depends on new stores earning strong returns while existing-store traffic and margins recover. The company-owned model makes both the upside and the burden visible in Chipotle's own results.",
+  "deep_questions":[
+    {"question":"Are new Chipotle stores adding demand or moving customers from older stores?","why_it_matters":"A larger store count is valuable only if it adds sales instead of dividing the same local demand.","evidence_needed_next":"Sales by store age, nearby store openings, trade-area overlap, and mature-store returns.","working_answer":"We do not know yet. The opening pace is strong, but local cannibalization is not visible in headline revenue.","what_would_weaken_it":"Older stores near new openings lose traffic while total company sales rise mainly from the new units."},
+    {"question":"Do Chipotlanes create better returns or just faster pickup?","why_it_matters":"A lane is worth building only if the extra access produces more profit after construction and labor cost.","evidence_needed_next":"Comparable new-store sales, margin, payback, and order mix with and without Chipotlanes.","working_answer":"They likely help access, but the return claim still needs store-level proof.","what_would_weaken_it":"Chipotlane stores have similar sales and margins after their extra build cost."},
+    {"question":"Did the return to positive transactions repair the customer relationship?","why_it_matters":"One or two positive quarters may be a pause, while a lasting return would support the growth plan.","evidence_needed_next":"Transactions through several quarters, repeat visits, price changes, and customer cohorts.","working_answer":"Q1 and Q2 show early recovery, but not yet a durable habit.","what_would_weaken_it":"Transactions turn negative again when price increases or promotions change."},
+    {"question":"Does digital ordering help the whole store?","why_it_matters":"Digital sales can grow while kitchen work, mistakes, delivery fees, and labor costs also grow.","evidence_needed_next":"Order time, labor minutes, accuracy, pickup wait, delivery mix, and profit by order type.","working_answer":"Digital ordering removes customer friction, but the store may carry more work.","what_would_weaken_it":"Digital share grows while service quality and restaurant margin fall."},
+    {"question":"Will customers keep paying for the food-quality promise?","why_it_matters":"Chipotle's brand depends on customers seeing enough value in fresh ingredients to return at a higher price.","evidence_needed_next":"Transactions by price tier, customer income, menu mix, food-safety trust, and repeat visits after price changes.","working_answer":"The promise still attracts customers, but Q2 margin and traffic data show a price limit must be tested.","what_would_weaken_it":"Customers trade down, reduce visit frequency, or return only after discounts."},
+    {"question":"Is management expanding faster than it can train and staff stores?","why_it_matters":"The store is the product. Weak training can damage speed, accuracy, food quality, and trust.","evidence_needed_next":"Manager vacancies, retention, training time, service measures, complaints, and older-store performance.","working_answer":"The risk is real because the company plans hundreds of openings while labor cost is rising.","what_would_weaken_it":"Service and retention improve while the store base grows rapidly."}
+  ],
+  "deeper_insights":[
+    "Chipotle's advantage is a controlled store system that turns food preparation into part of the customer experience.",
+    "The company-owned model makes growth more demanding than McDonald's franchise model because Chipotle carries the labor and food pressure itself.",
+    "Positive transactions are more meaningful than revenue growth, but two positive quarters do not yet prove a lasting return.",
+    "Digital ordering is a change in where work happens, not proof that the work became easier.",
+    "Chipotlanes may be a physical growth tool as much as a digital tool because they widen the useful access to a store.",
+    "Food quality supports pricing only while customers still believe the meal is worth the price.",
+    "New-store growth can hide weak older-store behavior, so store cohorts matter more than total restaurant count.",
+    "The clearest McDonald's contrast is that Chipotle owns the operating burden and keeps the operating result."
+  ],
+  "disconfirming_tests":[
+    "Transactions turn negative again while average checks rise.",
+    "Chipotlane stores do not earn better sales, margin, or payback after their extra construction cost.",
+    "Older stores near new openings lose traffic and profit.",
+    "Digital sales rise while labor minutes, errors, delivery cost, or customer wait rise faster.",
+    "Restaurant-level margin stays below prior levels even after transactions recover.",
+    "Manager turnover or service failures rise as the store base expands."
+  ],
+  "reflection": {
+    "next_questions":[
+      "Do Chipotlanes create new visits or mainly change the pickup method?",
+      "How much local demand can one market support before new stores take sales from old stores?",
+      "Can the company keep food quality and service consistent at 7,000 U.S. and Canadian stores?",
+      "Does Rewards create more visits, or only move existing orders into the app?",
+      "What happens to customer behavior when value pressure rises again?"
+    ],
+    "new_codes_to_test":[
+      "convenience_creates_frequency",
+      "new_store_cannibalizes_old_store",
+      "quality_promise_price_limit",
+      "manager_capacity_bottleneck"
+    ],
+    "new_sources_to_add":[
+      "Chipotle earnings-call transcripts",
+      "restaurant labor and manager-retention evidence",
+      "customer wait-time and order-accuracy checks",
+      "outside restaurant operator and franchise-industry comparisons"
+    ]
+  }
+}

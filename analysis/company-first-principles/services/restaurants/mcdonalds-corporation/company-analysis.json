@@ -1,0 +1,312 @@
+{
+  "schema_version": 1,
+  "company": "McDonald's Corporation",
+  "ticker": "MCD",
+  "sector": "Services",
+  "industry": "Restaurants",
+  "date_baseline": "2026-08-30",
+  "primary_question": "Why does McDonald's still make so much cash when U.S. visits are weak, and what do loyalty, the $5 Meal Deal, restaurant property, store technology, and the Grinch socks tell us?",
+  "core_answer": "McDonald's controls busy restaurant sites, collects rent and fees from many franchisees, uses the app to bring people back, and uses famous campaigns to make people show up.",
+  "source_register": [
+    "extracted/services/restaurants/mcdonalds-corporation/company-packet.md",
+    "raw/sec/services/restaurants/mcdonalds-corporation/2025-10k.html",
+    "raw/company-ir/services/restaurants/mcdonalds-corporation/2025-annual-report.pdf",
+    "raw/sec/services/restaurants/mcdonalds-corporation/2025-q4-8k.html",
+    "raw/sec/services/restaurants/mcdonalds-corporation/2025-q4-exhibit991.html",
+    "raw/sec/services/restaurants/mcdonalds-corporation/2026-q1-10q.html",
+    "raw/sec/services/restaurants/mcdonalds-corporation/2026-q1-8k.html",
+    "raw/sec/services/restaurants/mcdonalds-corporation/2026-q1-exhibit991.html",
+    "raw/sec/services/restaurants/mcdonalds-corporation/2026-q2-10q.html",
+    "raw/sec/services/restaurants/mcdonalds-corporation/2026-q2-8k.html",
+    "raw/sec/services/restaurants/mcdonalds-corporation/2026-q2-exhibit991.html",
+    "raw/sec/services/restaurants/mcdonalds-corporation/companyfacts-cik0000063908.json",
+    "raw/company-ir/services/restaurants/mcdonalds-corporation/2026-grinch-socks-sherwood.html"
+  ],
+  "external_sources": [
+    "https://corporate.mcdonalds.com/corpmcd/our-stories/article/digitizing-the-arches.html",
+    "https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcd-google-cloud-announce-partnership.html",
+    "https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcdonalds-launching-mcvalue-platform-inus-restaurants-in2025.html",
+    "https://www.nrn.com/quick-service/mcdonald-s-franchisees-divided-on-5-meal-deal",
+    "https://sherwood.news/markets/a-festive-meal-based-on-mean-green-hairy-creature-fueled-mcdonalds-biggest/"
+  ],
+  "source_discovery_audit": [
+    {
+      "lane": "filings_and_financials",
+      "status": "covered",
+      "what_it_found": "FY2025 cash base, Q1/Q2 2026 filings, loyalty size, systemwide sales, U.S. guest-count weakness, and franchised-revenue wording."
+    },
+    {
+      "lane": "corporate_product_and_value_pages",
+      "status": "covered_by_external_url",
+      "what_it_found": "McValue, $5 Meal Deal, Buy One Add One for $1, app offers, and local franchisee deals."
+    },
+    {
+      "lane": "corporate_technology_pages",
+      "status": "covered_by_external_url",
+      "what_it_found": "Ready on Arrival, the more-than-50% wait-time claim, Google Cloud edge computing, and computing power inside restaurants."
+    },
+    {
+      "lane": "earnings_call_and_management_color",
+      "status": "partly_covered",
+      "what_it_found": "Some Q4 management comments were captured through business press, including the Grinch meal and socks. Standalone transcripts are still missing."
+    },
+    {
+      "lane": "trade_press_and_operator_checks",
+      "status": "covered_by_external_url",
+      "what_it_found": "NRN operator checks on $5 Meal Deal volume, sales above expected levels in some restaurants, transaction share, and coupon-stacking concerns."
+    },
+    {
+      "lane": "weird_signal_scan",
+      "status": "covered",
+      "what_it_found": "Grinch socks as a sign that a meal can become a short-term collectible event."
+    },
+    {
+      "lane": "peer_and_disconfirmation_scan",
+      "status": "queued",
+      "what_it_found": "Needs Starbucks, Domino's, Yum, Restaurant Brands, and Chipotle comparison before cross-company claims are treated as proven."
+    }
+  ],
+  "mechanisms": [
+    {
+      "name": "loyalty_causes_visits",
+      "what_happened": "McDonald's says U.S. MyMcDonald's Rewards members more than double visits in the first year after joining.",
+      "first_principles_read": "The app matters if it makes people come back more often. The hard question is whether the app caused that, or frequent customers joined first.",
+      "what_to_verify_next": "Visits before and after joining, matched non-members, app order frequency, average order by membership age, and non-app traffic."
+    },
+    {
+      "name": "five_dollar_price_trust",
+      "what_happened": "McValue includes the $5 Meal Deal, Buy One Add One for $1, app offers, new-user offers, and local franchisee deals. NRN reported some stores sold more than 200 $5 Meal Deal units per day, double the expected level, with the offer in 20%-25% of transactions.",
+      "first_principles_read": "The $5 Meal Deal tells customers that fast food can still be worth the price. The risk is that customers stack deals and buy little else.",
+      "what_to_verify_next": "Profit after stacked coupons, extra items bought with the $5 meal, repeat visits after the deal, and who funded the discount."
+    },
+    {
+      "name": "sales_up_visits_down",
+      "what_happened": "Q2 2026 U.S. comparable sales rose 0.8%, but McDonald's said positive check growth was partly offset by negative comparable guest counts.",
+      "first_principles_read": "Sales were up, but visits were weak. Price and mix helped cover the traffic problem.",
+      "what_to_verify_next": "Traffic versus check size in later quarters, low-income customer behavior, and peer quick-service traffic."
+    },
+    {
+      "name": "property_fee_model",
+      "what_happened": "SEC releases say systemwide sales are not company revenue, but are used to calculate franchised revenue; company revenue includes company-run restaurant sales and fees from franchised restaurants.",
+      "first_principles_read": "McDonald's parent company makes money from food, but also from rent and fees tied to restaurant sites and brand use.",
+      "what_to_verify_next": "Rent versus royalty split, franchised margin, and franchisee cash returns after remodel and technology costs."
+    },
+    {
+      "name": "nearby_customer_prep",
+      "what_happened": "McDonald's says Ready on Arrival uses phone location and can reduce wait times by more than 50%. McDonald's and Google Cloud say edge computing brings storage and high-powered computing into individual restaurants.",
+      "first_principles_read": "If the restaurant knows a customer is close, it can start the order sooner, cut waiting, reduce mistakes, and plan labor better.",
+      "what_to_verify_next": "Wait-time reduction, order accuracy, labor per order, equipment downtime, and drive-thru speed."
+    },
+    {
+      "name": "meal_as_event",
+      "what_happened": "Sherwood reported the Grinch campaign produced McDonald's biggest sales day on record and about 50 million sock pairs sold globally.",
+      "first_principles_read": "McDonald's can make a meal feel like a short-term event or collectible, not only lunch.",
+      "what_to_verify_next": "Extra transactions, new versus returning customers, post-event repeat visits, and profit from the campaign."
+    }
+  ],
+  "financial_base": {
+    "fy2025_revenue_usd": 26885000000,
+    "fy2025_net_income_usd": 8563000000,
+    "fy2025_diluted_eps_usd": 11.95,
+    "fy2025_operating_cash_flow_usd": 10551000000,
+    "fy2025_capex_usd": 3365000000,
+    "fy2025_free_cash_flow_before_dividends_and_buybacks_usd": 7186000000,
+    "fy2025_dividends_usd": 5115000000,
+    "fy2025_buybacks_usd": 2056000000
+  },
+  "operating_evidence": [
+    {
+      "period": "FY2025",
+      "claim": "Global comparable sales increased 3.1%, consolidated revenue increased 4% to $26.9B, net income increased 4% to $8.563B, and diluted EPS increased 5% to $11.95.",
+      "sources": [
+        "extracted/services/restaurants/mcdonalds-corporation/company-packet.md",
+        "raw/sec/services/restaurants/mcdonalds-corporation/2025-10k.html"
+      ]
+    },
+    {
+      "period": "Q4 2025",
+      "claim": "Global comparable sales increased 5.7%; loyalty sales were nearly $37B with nearly 210M 90-day active loyalty users.",
+      "sources": [
+        "raw/sec/services/restaurants/mcdonalds-corporation/2025-q4-exhibit991.html"
+      ]
+    },
+    {
+      "period": "Q1 2026",
+      "claim": "Global comparable sales increased 3.8%, systemwide sales were over $34B, and trailing-twelve-month loyalty-member sales were over $38B.",
+      "sources": [
+        "raw/sec/services/restaurants/mcdonalds-corporation/2026-q1-exhibit991.html"
+      ]
+    },
+    {
+      "period": "Q2 2026",
+      "claim": "Global comparable sales increased 1.3%, U.S. comps increased 0.8%, systemwide sales were about $37B, and trailing-twelve-month loyalty-member sales were about $40B with nearly 220M 90-day active loyalty users.",
+      "sources": [
+        "raw/sec/services/restaurants/mcdonalds-corporation/2026-q2-exhibit991.html",
+        "raw/sec/services/restaurants/mcdonalds-corporation/2026-q2-10q.html"
+      ]
+    }
+  ],
+  "axial_codes": [
+    {
+      "code": "loyalty_causes_visits",
+      "definition": "Test whether loyalty causes more visits or just counts people who already visit often.",
+      "evidence_trigger": "More-than-double visit claim.",
+      "cross_company_use": "Starbucks, Domino's, Chipotle, Walmart, Costco."
+    },
+    {
+      "code": "five_dollar_price_trust",
+      "definition": "A cheap visible offer tries to repair the customer's sense that prices are fair.",
+      "evidence_trigger": "$5 Meal Deal and McValue.",
+      "cross_company_use": "Fast food, grocery, discount retail."
+    },
+    {
+      "code": "stacked_coupons_hurt_profit",
+      "definition": "Deals can bring visits but hurt profit if customers stack discounts and buy little else.",
+      "evidence_trigger": "$5 Meal Deal plus app offers.",
+      "cross_company_use": "Restaurants, delivery apps, grocery apps."
+    },
+    {
+      "code": "property_fee_model",
+      "definition": "Parent profit comes from rent and fees tied to restaurant sites and brand use.",
+      "evidence_trigger": "Franchised revenue language.",
+      "cross_company_use": "Yum, Restaurant Brands, Hilton, Marriott."
+    },
+    {
+      "code": "nearby_customer_prep",
+      "definition": "The restaurant starts work because it knows a customer is close.",
+      "evidence_trigger": "Ready on Arrival and phone location.",
+      "cross_company_use": "Starbucks pickup, Chipotle digital make-lines, delivery apps."
+    },
+    {
+      "code": "meal_as_event",
+      "definition": "A meal is used as a short-term event or collectible.",
+      "evidence_trigger": "Grinch socks.",
+      "cross_company_use": "Starbucks cups, movie tie-ins, limited-edition retail."
+    },
+    {
+      "code": "sales_up_visits_down",
+      "definition": "Sales rise while customer visits fall.",
+      "evidence_trigger": "Q2 2026 U.S. sales and guest-count disclosure.",
+      "cross_company_use": "Restaurants, retail, consumer staples."
+    }
+  ],
+  "investment_read": {
+    "quality": "McDonald's made strong cash in FY2025: operating cash flow was about 123% of net income and free cash flow before dividends and buybacks was about $7.186B.",
+    "main_strength": "People get hungry often, the brand is familiar, the locations are convenient, and the app can bring people back.",
+    "main_risk": "U.S. visits were weak in Q2 2026. Discounting or store spending could push more pressure onto franchisees.",
+    "deeper_read": "McDonald's is best understood as a business built on repeated food decisions, busy sites, rent and fees, and app data. The app matters if it helps McDonald's give the right offer to the right person and helps stores prepare orders sooner.",
+    "hidden_risk": "Parent-company cash flow can look healthy while pressure builds at the restaurant and franchisee level. The next pass must trace customer dollars into franchisee cash flow.",
+    "diligence_questions": [
+      "How much cash does McDonald's make after the spending needed to keep restaurants modern?",
+      "Are sales rising because more people come, or because each visit costs more?",
+      "Did loyalty create more visits, or just move existing visits into the app?",
+      "Are franchisees making enough money after rent, wages, food, discounts, remodels, and tech?",
+      "Were buybacks done at a good price?"
+    ]
+  },
+  "deep_questions": [
+    {
+      "question": "Did loyalty actually make people come more often?",
+      "why_it_matters": "McDonald's says U.S. rewards members more than double visits in the first year after joining. That does not prove cause by itself.",
+      "working_answer": "The app is powerful only if the same people visited more after joining, and similar non-members did not show the same rise.",
+      "evidence_needed_next": "Visits per member in the 12 months before joining and 12 months after joining; similar non-member comparison; repeat visits after the first-year offer rush; order size after rewards are used.",
+      "what_would_weaken_it": "Most new members were already frequent customers; app sales rose while total U.S. visits stayed weak; members visited more only when large discounts were offered."
+    },
+    {
+      "question": "Did the $5 Meal Deal repair trust, or did it only buy cheap visits?",
+      "why_it_matters": "The deal matters because many customers had started to feel fast food was too expensive.",
+      "working_answer": "It worked if it reminded customers that McDonald's is worth visiting. It failed if it trained customers to wait for discounts.",
+      "evidence_needed_next": "Customers who bought the $5 meal came back later for normal-price items; average order size rose through add-ons; U.S. guest counts improved after McValue without a large profit drop.",
+      "what_would_weaken_it": "Customers bought only the $5 meal; app coupons were stacked on top; franchisees saw more orders but worse profit per order."
+    },
+    {
+      "question": "Who pays when McDonald's promises value?",
+      "why_it_matters": "Value sounds customer-friendly, but somebody pays for it.",
+      "working_answer": "The cost can land on the franchisee, McDonald's, suppliers, workers, or customers through higher prices elsewhere. Parent cash can look strong while franchisees carry more of the burden.",
+      "evidence_needed_next": "Franchisee profit after discounts and wage increases; remodel and technology debt; store closures; franchisee openings and renewals.",
+      "what_would_weaken_it": "Franchisee profit falls while parent cash stays high; operators push back on required spending; stores need more discounts to keep traffic from falling."
+    },
+    {
+      "question": "Are U.S. sales rising for the right reason?",
+      "why_it_matters": "Q2 2026 U.S. sales rose 0.8%, but McDonald's said guest counts were down.",
+      "working_answer": "Sales can rise because prices are higher or people buy different items. More visits would be stronger proof than higher dollars per visit.",
+      "evidence_needed_next": "Guest counts turn positive; sales rise without relying mainly on price; low-income customers return; peers with similar customers do worse.",
+      "what_would_weaken_it": "Traffic stays negative; sales depend on higher checks; value deals grow but normal-price visits do not."
+    },
+    {
+      "question": "Does Ready on Arrival actually improve the restaurant?",
+      "why_it_matters": "Ready on Arrival is useful only if it changes the work inside the store.",
+      "working_answer": "If the restaurant knows the customer is close, it can start the order at the right time. That should mean less waiting, fresher food, fewer wrong orders, and better use of workers.",
+      "evidence_needed_next": "Wait time in normal busy restaurants; order accuracy; equipment downtime; labor minutes per order; pickup and drive-thru line speed.",
+      "what_would_weaken_it": "Wait-time claims do not show up in broad store data; the system adds cost and training burden without better service; franchisees pay before seeing store benefits."
+    },
+    {
+      "question": "Did the Grinch socks create real demand or just a one-day spike?",
+      "why_it_matters": "Sherwood reported McDonald's biggest sales day ever and about 50 million sock pairs sold globally. A restaurant chain briefly became a sock seller.",
+      "working_answer": "The event mattered if it brought new or lapsed customers back and some of them returned after the socks were gone.",
+      "evidence_needed_next": "New or lapsed customers during the campaign; repeat visits after the campaign; profit after product, labor, and marketing costs; link between social attention and store visits.",
+      "what_would_weaken_it": "Sales spiked for one day and faded; the campaign mostly attracted existing heavy users; the socks created buzz but little profit."
+    },
+    {
+      "question": "Are buybacks helping owners?",
+      "why_it_matters": "McDonald's returned a lot of cash through dividends and buybacks. That is good only if the stock was bought at a sensible price.",
+      "working_answer": "A buyback helps when each remaining share owns more future cash at a fair cost. It hurts when the company overpays or starves needed store investment.",
+      "evidence_needed_next": "Buyback price; owner earnings per share; store investment needs; debt used to fund shareholder returns.",
+      "what_would_weaken_it": "Repurchases happened at a high price while U.S. visits were weak; store investment needs rose after cash was returned; debt rose mainly to fund shareholder returns."
+    }
+  ],
+  "deeper_insights": [
+    "McDonald's wins because it gives people a known answer when they are hungry and busy.",
+    "Loyalty matters only if it makes people come more often.",
+    "The $5 Meal Deal is a test of whether customers still believe McDonald's is worth the price.",
+    "High parent-company profit comes partly from rent and fees, not just selling food.",
+    "Store technology matters because seconds, mistakes, and broken equipment cost real money at McDonald's size.",
+    "The Grinch socks showed that McDonald's can make a meal feel like a collectible event.",
+    "The biggest warning sign is positive U.S. sales with negative U.S. guest counts.",
+    "The stock question is not whether McDonald's is good. It is how much future visit growth and pricing power is already in the stock price."
+  ],
+  "disconfirming_tests": [
+    "Loyalty members do not keep visiting more often after the first year.",
+    "Loyalty sales mainly replace non-app sales.",
+    "$5 Meal Deal customers do not return for normal-price orders.",
+    "Franchisee profit weakens after rent, labor, discounts, remodels, and technology costs.",
+    "Ready on Arrival does not cut wait time or mistakes.",
+    "Grinch-style campaigns create one-day spikes but no repeat visits.",
+    "U.S. traffic stays negative while sales depend on price increases."
+  ],
+  "reflection": {
+    "status": "Plain-language McDonald's pass complete, with explicit next-source needs.",
+    "next_questions": [
+      "What happened to U.S. traffic after McValue and the $5 Meal Deal?",
+      "How many new loyalty members kept visiting after the first year?",
+      "What was the average order after a $5 Meal Deal redemption?",
+      "How much did franchisees pay for discounts, remodels, and technology?",
+      "Did Ready on Arrival improve wait time in normal busy stores, not only pilot stores?",
+      "Did Grinch meal buyers come back after the campaign?"
+    ],
+    "new_codes_to_test": [
+      "loyalty_causes_visits",
+      "franchisee_discount_cost",
+      "app_sales_not_new_sales",
+      "low_income_price_limit",
+      "parent_profit_vs_store_profit",
+      "property_fee_model",
+      "ready_on_arrival_store_work",
+      "five_dollar_price_trust",
+      "meal_as_event",
+      "stacked_coupons_hurt_profit"
+    ],
+    "curiosity_driven_next_company_moves": [
+      "Starbucks: does loyalty raise visits, or mostly reward existing regulars?",
+      "Domino's: does digital ordering change repeat orders better than McDonald's?",
+      "Yum Brands: how does a mostly franchised system look without McDonald's property strength?",
+      "Restaurant Brands: does a multi-brand franchisor have weaker customer data?",
+      "Chipotle: what happens when a restaurant chain is less franchised and more premium-priced?"
+    ],
+    "coverage_gaps": [
+      "Google Drive folder access is not yet available locally because the shared link requires sign-in.",
+      "Standalone earnings-call transcripts are not yet in the local source set.",
+      "Franchisee-level restaurant economics are inferred from the business model and should be sourced directly in a later pass."
+    ]
+  }
+}

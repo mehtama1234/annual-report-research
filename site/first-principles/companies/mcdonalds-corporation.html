@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>McDonald's Corporation First-Principles Analysis</title>
+  <style>
+    :root {
+      --bg: #f6f4ef;
+      --ink: #1f1f1d;
+      --muted: #62615d;
+      --panel: #ffffff;
+      --line: #d8d2c4;
+      --red: #b71c2b;
+      --gold: #f2b600;
+      --green: #2f6f55;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    main { max-width: 1160px; margin: 0 auto; padding: 32px 24px 64px; }
+    header { border-bottom: 3px solid var(--gold); padding-bottom: 22px; margin-bottom: 28px; }
+    .kicker { color: var(--red); font-weight: 700; text-transform: uppercase; font-size: 12px; letter-spacing: .08em; }
+    h1 { font-size: clamp(34px, 5vw, 64px); line-height: 1; margin: 10px 0 12px; letter-spacing: 0; }
+    .deck { font-size: 20px; line-height: 1.45; color: #333; max-width: 900px; margin: 0; }
+    section { margin: 28px 0; }
+    h2 { font-size: 24px; margin: 0 0 12px; }
+    h3 { font-size: 18px; margin: 18px 0 8px; }
+    p, li { line-height: 1.58; }
+    .grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+    .metric, .note, .code {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 14px;
+    }
+    .metric b { display: block; font-size: 24px; color: var(--red); margin-bottom: 4px; }
+    .metric span, .label { color: var(--muted); font-size: 13px; }
+    .two { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr); gap: 18px; }
+    table { width: 100%; border-collapse: collapse; background: var(--panel); border: 1px solid var(--line); }
+    th, td { text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); padding: 10px 12px; line-height: 1.45; }
+    th { background: #eee8d9; font-size: 13px; }
+    code { background: #eee8d9; border: 1px solid #ddd2ba; border-radius: 4px; padding: 1px 4px; }
+    .codes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+    .code strong { display: block; margin-bottom: 8px; color: var(--green); }
+    .questions { display: grid; gap: 14px; }
+    .question {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 16px;
+    }
+    .question h3 { margin-top: 0; }
+    .sources { columns: 2; }
+    a { color: var(--red); }
+    @media (max-width: 850px) {
+      main { padding: 24px 16px 48px; }
+      .grid, .two, .codes { grid-template-columns: 1fr; }
+      .sources { columns: 1; }
+    }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="kicker">Services / Restaurants / MCD</div>
+    <h1>McDonald's Corporation</h1>
+    <p class="deck">A plain read on why McDonald's still makes so much cash: busy locations, rent and fees, the app, the $5 meal, store technology, and the Grinch socks campaign.</p>
+  </header>
+
+  <section class="grid">
+    <div class="metric"><b>$26.885B</b><span>FY2025 revenue</span></div>
+    <div class="metric"><b>$8.563B</b><span>FY2025 net income</span></div>
+    <div class="metric"><b>$10.551B</b><span>FY2025 operating cash flow</span></div>
+    <div class="metric"><b>~220M</b><span>Q2 2026 90-day active loyalty users</span></div>
+  </section>
+
+  <section class="two">
+    <div>
+      <h2>Core Answer</h2>
+      <p><b>Plain answer:</b> McDonald's still makes a lot of cash because it gets paid in several ways from many busy restaurants.</p>
+      <p><b>Why:</b> Customers buy the food. Franchisees run many stores. McDonald's also collects rent and fees. The app and promotions try to bring customers back.</p>
+      <p><b>Main doubt:</b> The parent company can look strong while customers visit less and franchisees earn less.</p>
+      <p><b>What we need to check:</b> Visits, prices, store profit, and parent-company cash.</p>
+    </div>
+    <div class="note">
+      <div class="label">Investment read</div>
+      <p>McDonald's made strong cash in FY2025. Operating cash flow was about 123% of net income; free cash flow before dividends and buybacks was roughly $7.186B. The risk is paying too much for slow growth or missing stress at franchisee restaurants.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>What To Study</h2>
+    <table>
+      <tr><th>Topic</th><th>What happened</th><th>Plain read</th></tr>
+      <tr><td>Loyalty visits</td><td>McDonald's says U.S. MyMcDonald's Rewards members more than double visits in the first year after joining.</td><td>The app matters if it makes people come back more often. We still need to know whether the app caused that, or frequent customers joined first.</td></tr>
+      <tr><td>Loyalty size</td><td>Across 70 markets, loyalty-member trailing-twelve-month systemwide sales reached about $40B and 90-day active users reached nearly 220M.</td><td>This is too big to treat as a side program. The open question is how much is new spending.</td></tr>
+      <tr><td>McValue and $5 Meal Deal</td><td>McValue includes the $5 Meal Deal, Buy One Add One for $1, app offers, new-user offers, and local franchisee deals. NRN reported some stores sold more than 200 $5 Meal Deal units per day, double the expected level, with the offer in 20%-25% of transactions.</td><td>The $5 bundle is McDonald's answer to customers who think fast food got too expensive. The risk is customers stack coupons and buy little else.</td></tr>
+      <tr><td>Property and fees</td><td>SEC releases say systemwide sales are used to calculate franchised revenue. Company revenue includes company-run restaurant sales and fees from franchised restaurants.</td><td>McDonald's parent company makes money from food, but also from rent and fees tied to restaurant sites.</td></tr>
+      <tr><td>Ready on Arrival</td><td>McDonald's says Ready on Arrival uses phone location and can cut wait times by more than 50%; Google Cloud edge computing brings more computing power into restaurants.</td><td>The tech matters if food is ready sooner, orders are right, and workers waste less time.</td></tr>
+      <tr><td>Grinch socks</td><td>Sherwood reported the Grinch campaign produced McDonald's biggest sales day on record and about 50M sock pairs sold globally.</td><td>This shows McDonald's can make a meal feel like a short-term event people collect and talk about.</td></tr>
+    </table>
+  </section>
+
+  <section>
+    <h2>Deeper Why Chain</h2>
+    <table>
+      <tr><th>Why question</th><th>Working answer</th></tr>
+      <tr><td>Why do people return if the food is easy to copy?</td><td>The decision is familiar. People know the menu, taste, speed, and price range before they arrive.</td></tr>
+      <tr><td>Why does a small price gap matter?</td><td>McDonald's competes inside a household budget. The rival can be another restaurant, eating at home, skipping the meal, a gas station, or grocery prepared food.</td></tr>
+      <tr><td>Why does loyalty matter beyond coupons?</td><td>McDonald's can see who came, what they bought, what offer they used, and whether they returned.</td></tr>
+      <tr><td>Why might the loyalty headline mislead us?</td><td>App sales can rise when old customers move into the app. The hard proof is more visits, not just more app orders.</td></tr>
+      <tr><td>Why do socks matter?</td><td>About 50 million sock pairs sold through a meal deal show that McDonald's can create demand beyond normal food hunger.</td></tr>
+    </table>
+  </section>
+
+  <section class="two">
+    <div>
+      <h2>Where Pressure Goes</h2>
+      <p>When customers resist prices, the cost can move to customers, franchisees, suppliers, workers, or McDonald's itself. The parent company looks strongest when customers or franchisees carry the pressure without visits breaking.</p>
+      <p>The hard question is whether current cash flow proves the business is healthy, or only shows that the pressure has not yet reached the parent company's statements. Because McDonald's collects rent and fees, parent profit can look excellent while restaurant operators carry more strain.</p>
+    </div>
+    <div class="note">
+      <div class="label">Main tension</div>
+      <p>McDonald's wants to be cheap enough for pressured customers and profitable enough for franchisees to keep investing. The app helps because McDonald's can give one person a deal without lowering every price for everyone. Store technology helps only if it starts orders sooner, cuts waiting, and reduces mistakes.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Evidence Map</h2>
+    <table>
+      <tr><th>Evidence</th><th>Read</th></tr>
+      <tr><td>FY2025 Form 10-K</td><td>Revenue $26.885B, net income $8.563B, diluted EPS $11.95, operating cash flow $10.551B, capex $3.365B, dividends $5.115B, buybacks $2.056B.</td></tr>
+      <tr><td>Q4 2025 investor release</td><td>FY comparable sales +3.1%; Q4 comparable sales +5.7%; loyalty sales nearly $37B with nearly 210M 90-day active users.</td></tr>
+      <tr><td>Q1 2026 investor release</td><td>Global comparable sales +3.8%; systemwide sales over $34B; trailing-twelve-month loyalty-member sales over $38B.</td></tr>
+      <tr><td>Q2 2026 investor release</td><td>Global comparable sales +1.3%; U.S. comps +0.8%; systemwide sales about $37B; loyalty-member trailing-twelve-month sales about $40B.</td></tr>
+      <tr><td>McDonald's corporate technology updates</td><td>U.S. loyalty joiners more than double visits; Ready on Arrival can reduce wait times by more than 50%; Google Cloud edge computing pushes compute into restaurants.</td></tr>
+      <tr><td>Sherwood Grinch campaign coverage</td><td>Reported biggest sales day on record and roughly 50M sock pairs sold globally.</td></tr>
+    </table>
+  </section>
+
+  <section>
+    <h2>Axial Codes</h2>
+    <div class="codes">
+      <div class="code"><strong><code>loyalty_causes_visits</code></strong>Test whether loyalty causes more visits or just counts people who already visit often.</div>
+      <div class="code"><strong><code>five_dollar_price_trust</code></strong>Test whether a cheap visible meal makes customers believe the price is fair again.</div>
+      <div class="code"><strong><code>stacked_coupons_hurt_profit</code></strong>Test whether deals bring visits but hurt profit because customers stack discounts and buy little else.</div>
+      <div class="code"><strong><code>property_fee_model</code></strong>Test how much parent profit comes from rent and fees tied to restaurant sites and brand use.</div>
+      <div class="code"><strong><code>nearby_customer_prep</code></strong>Test whether the restaurant runs better when it knows a mobile-order customer is close.</div>
+      <div class="code"><strong><code>meal_as_event</code></strong>Test whether a meal can become a short-term event or collectible.</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Deep Questions</h2>
+    <div class="questions">
+      <article class="question">
+        <h3>1. Did loyalty actually make people come more often?</h3>
+        <p><b>Plain answer:</b> We do not know yet. McDonald's says members visit more, but that does not prove the app caused it.</p>
+        <p><b>Why:</b> Frequent customers may have been more likely to join. We must compare their visits before and after joining.</p>
+        <p><b>Proof needed:</b> visits before and after joining, a similar non-member group, repeat visits after the first-year offer rush, and order size after rewards are used.</p>
+        <p><b>What would weaken it:</b> app sales rose while total visits stayed weak, or members visited more only when large discounts were offered.</p>
+      </article>
+      <article class="question">
+        <h3>2. Did the $5 Meal Deal repair trust, or only buy cheap visits?</h3>
+        <p><b>Plain answer:</b> It may have repaired trust, but it may also have bought low-profit visits.</p>
+        <p><b>Why:</b> The deal tells customers that McDonald's can still be affordable. The follow-up visit tells us whether the message worked.</p>
+        <p><b>Proof needed:</b> customers who bought the $5 meal later came back for normal-price items, added extra items, and helped guest counts without a large profit drop.</p>
+        <p><b>What would weaken it:</b> customers bought only the $5 meal, stacked coupons, and left franchisees with more orders but worse profit per order.</p>
+      </article>
+      <article class="question">
+        <h3>3. Who pays when McDonald's promises value?</h3>
+        <p><b>Plain answer:</b> We do not know yet who carries the discount cost.</p>
+        <p><b>Why:</b> Parent-company cash can stay strong while franchisees absorb lower profit, higher wages, remodel costs, or technology costs.</p>
+        <p><b>Proof needed:</b> franchisee profit after discounts and wage increases, remodel debt, store closures, and whether franchisees keep opening and renewing restaurants.</p>
+        <p><b>What would weaken it:</b> franchisee profit falls while parent cash stays high, or operators push back on required spending.</p>
+      </article>
+      <article class="question">
+        <h3>4. Are U.S. sales rising for the right reason?</h3>
+        <p><b>Plain answer:</b> Not clearly. Q2 sales rose 0.8%, but fewer guests visited.</p>
+        <p><b>Why:</b> Higher prices or larger orders can raise sales even when demand is weaker.</p>
+        <p><b>Proof needed:</b> guest counts turn positive, sales rise without leaning mainly on price, low-income customers return, and peers do worse with similar customers.</p>
+        <p><b>What would weaken it:</b> traffic stays negative and normal-price visits do not improve.</p>
+      </article>
+      <article class="question">
+        <h3>5. Does Ready on Arrival actually improve the restaurant?</h3>
+        <p><b>Plain answer:</b> It should reduce waiting, but the store data must show that it does.</p>
+        <p><b>Why:</b> Knowing when a customer is close lets workers start the order at the right time.</p>
+        <p><b>Proof needed:</b> shorter wait times in normal busy stores, better order accuracy, less equipment downtime, lower labor per order, and faster pickup or drive-thru lines.</p>
+        <p><b>What would weaken it:</b> the system adds cost and training burden without better store results.</p>
+      </article>
+      <article class="question">
+        <h3>6. Did the Grinch socks create real demand or just a one-day spike?</h3>
+        <p><b>Plain answer:</b> The campaign created a large event, but we do not know whether it created lasting demand.</p>
+        <p><b>Why:</b> A one-day sales record can come from existing customers visiting once earlier than planned.</p>
+        <p><b>Proof needed:</b> new or lapsed customers came in, came back after the campaign, and the meal plus socks added profit after product, labor, and marketing costs.</p>
+        <p><b>What would weaken it:</b> sales spiked for one day, mostly from existing heavy users, and then faded.</p>
+      </article>
+      <article class="question">
+        <h3>7. Are buybacks helping owners?</h3>
+        <p><b>Plain answer:</b> Buybacks help only when McDonald's buys its shares below their value.</p>
+        <p><b>Why:</b> A mature company can destroy value by buying expensive shares while stores still need investment.</p>
+        <p><b>Proof needed:</b> shares were bought at a strong owner-earnings yield, per-share cash earnings rose for real reasons, and buybacks did not crowd out needed store investment.</p>
+        <p><b>What would weaken it:</b> repurchases happened at a high price while U.S. visits were weak, or debt rose mainly to fund shareholder returns.</p>
+      </article>
+    </div>
+  </section>
+
+  <section>
+    <h2>Deeper Insights</h2>
+    <ol>
+      <li>McDonald's wins because it gives people a known answer when they are hungry and busy.</li>
+      <li>Loyalty matters only if it makes people come more often.</li>
+      <li>The $5 Meal Deal tests whether customers still believe McDonald's is worth the price.</li>
+      <li>High parent-company profit comes partly from rent and fees, not just selling food.</li>
+      <li>Store technology matters because seconds, mistakes, and broken equipment cost real money at McDonald's size.</li>
+      <li>The Grinch socks event matters because it shows McDonald's can make the meal a collectible access point, not just a food purchase.</li>
+      <li>The biggest warning sign is positive U.S. sales with negative U.S. guest counts.</li>
+      <li>The stock question is not whether McDonald's is good. It is how much future visit growth and pricing power is already in the stock price.</li>
+    </ol>
+  </section>
+
+  <section class="two">
+    <div>
+      <h2>What Would Change The Read</h2>
+      <ul>
+        <li>Loyalty users grow but total traffic does not improve.</li>
+        <li>Loyalty sales mainly replace non-app sales.</li>
+        <li>Franchisee returns weaken enough to slow remodels, technology adoption, or new restaurant development.</li>
+        <li>$5 Meal Deal customers do not return for normal-price orders.</li>
+        <li>Buybacks continue at prices that do not make sense against owner earnings.</li>
+      </ul>
+    </div>
+    <div>
+      <h2>Reflection Queue</h2>
+      <ul>
+        <li>Separate more visits from old visits moved into the app.</li>
+        <li>Find direct franchisee profit evidence.</li>
+        <li>Compare traffic versus ticket disclosure across restaurant peers.</li>
+        <li>Test whether app ordering raises the order size or mainly gives discounts to pressured customers.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Local Sources</h2>
+    <ul class="sources">
+      <li><a href="../../../analysis/company-first-principles/services/restaurants/mcdonalds-corporation/company-analysis.md">Markdown analysis</a></li>
+      <li><a href="../../../analysis/company-first-principles/services/restaurants/mcdonalds-corporation/company-analysis-round-2.md">Round 2 analysis</a></li>
+      <li><a href="../../../analysis/company-first-principles/company-analysis-repeatable-process.md">Repeatable company analysis process</a></li>
+      <li><a href="../../../analysis/company-first-principles/services/restaurants/mcdonalds-corporation/company-analysis.json">Structured analysis JSON</a></li>
+      <li><code>raw/sec/services/restaurants/mcdonalds-corporation/2025-10k.html</code></li>
+      <li><code>raw/sec/services/restaurants/mcdonalds-corporation/2025-q4-exhibit991.html</code></li>
+      <li><code>raw/sec/services/restaurants/mcdonalds-corporation/2026-q1-exhibit991.html</code></li>
+      <li><code>raw/sec/services/restaurants/mcdonalds-corporation/2026-q2-exhibit991.html</code></li>
+      <li><code>raw/sec/services/restaurants/mcdonalds-corporation/companyfacts-cik0000063908.json</code></li>
+      <li><code>raw/company-ir/services/restaurants/mcdonalds-corporation/2026-grinch-socks-sherwood.html</code></li>
+      <li>McDonald's corporate pages: Digitizing the Arches, Google Cloud partnership, McValue launch</li>
+      <li>National Restaurant News: McDonald's franchisees divided on $5 Meal Deal</li>
+    </ul>
+  </section>
+</main>
+</body>
+</html>

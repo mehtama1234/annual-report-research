@@ -1,0 +1,263 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Netflix is a high-value archive addition because it gives the repo a scaled recurring-access cultural operator where monetization comes from subscription habit, recommendation quality, advertising, and global entertainment relevance rather than physical retail or enterprise workflow.",
+      "The evidence chain also matters operationally. On `2026-08-09`, direct shell access to both Netflix's main IR HTML pages and AnnualReports.com was unreliable, but the official static-file chain and SEC filings still supported a complete `2025` annual and trailing-quarter packet.",
+      "The `2025` annual package shows a very large and profitable consumer-attention business. Full-year revenue was about `$45.2B`, operating margin was `29.5%`, ad revenue rose more than `2.5x` to over `$1.5B`, the service crossed `325M` paid memberships in Q4, and full-year free cash flow was about `$9.5B`.",
+      "Netflix is especially useful for this archive because it is not only media exposure. It is a recurring consumer utility for entertainment and a clear case where culture, habit, interface quality, and monetization layers reinforce one another."
+    ],
+    "damodaran_questions": [
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/music-video-stores/netflix-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Netflix broadens Services beyond logistics, field services, travel, and staffing into a direct recurring entertainment-and-attention operator.",
+    "packet_path": "extracted/services/music-video-stores/netflix-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` revenue was `$12.560B`, operating income was `$4.193B`, operating margin was `33.4%`, net income was `$3.401B`, and diluted EPS was `$0.80`.",
+      "Operating detail: free cash flow was `$1.525B`, EMEA revenue moved above `$4.0B`, LATAM and APAC each moved above `$1.5B`, and the company said members watched more than `97 billion` hours in the first half of `2026`.",
+      "Management message: management emphasized durable double-digit growth, strong regional breadth, and a narrower `2026` revenue guide of `$51.0B-$51.4B` while maintaining operating-margin guidance of `31.5%`.",
+      "Structural themes: Q2 is useful because it shows Netflix compounding without a single-region dependency and continuing to grow the ads layer alongside the core subscription engine.",
+      "Results: Q1 `2026` revenue was `$12.250B`, operating income was `$3.957B`, operating margin was `32.3%`, net income was `$5.283B`, and diluted EPS was `$1.23`.",
+      "Operating detail: free cash flow was `$5.094B`, ad revenue remained on track to reach `$3B` in `2026`, and management said the service was still approaching a global audience of one billion people."
+    ],
+    "signal_takeaways": [
+      "Sector: Netflix broadens Services beyond logistics, field services, travel, and staffing into a direct recurring entertainment-and-attention operator.",
+      "Consumer: Netflix is one of the clearest archive cases where consumer habit and subscription continuity become a durable monetization base.",
+      "Cultural: the cultural signal is strong because Netflix sits at the center of global entertainment discovery, fandom, releases, live programming experiments, and shared viewing behavior.",
+      "Advertising and monetization depth: Netflix matters because it shows a subscription business adding an increasingly meaningful ad layer rather than relying only on price increases or volume.",
+      "Competitive frame: Netflix is useful for comparing how consumer attention is contested across streaming, social media, gaming, live experiences, and other leisure formats.",
+      "Platform extension: the quarter letters suggest continued expansion into live, games, and adjacent entertainment formats, which makes Netflix relevant to broader questions about what a paid cultural platform becomes after streaming scale is already achieved."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Netflix, Inc.",
+  "company_slug": "netflix-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/netflix-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Music & Video Stores",
+  "local_artifacts": [
+    "extracted/services/music-video-stores/netflix-inc/company-packet.md",
+    "extracted/services/music-video-stores/netflix-inc/company-profile.md",
+    "extracted/services/music-video-stores/netflix-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/netflix-inc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "NFLX"
+}

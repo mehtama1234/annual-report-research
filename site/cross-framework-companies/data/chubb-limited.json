@@ -1,0 +1,263 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The `2025` annual and year-end earnings materials show net income of `$10.31 billion`, core operating income of `$9.95 billion`, core operating EPS of `$24.79`, and consolidated net premiums written of `$54.8 billion`.",
+      "Chubb ended `2025` with a record P&C combined ratio of `85.7%`, which is one of the clearest markers in the workspace that disciplined underwriting still matters more than simple top-line premium growth.",
+      "Management frames the business through three earnings sources: P&C underwriting income, investment income, and life income. That tri-engine framing is central to understanding the company.",
+      "The annual and call materials stress diversification by geography, product, customer segment, and distribution channel rather than dependence on any one market line.",
+      "Life insurance is not peripheral in this file set. Chubb reported record life segment income of `$1.24 billion`, up `13.1%`, while adjusted net investment income reached `$6.95 billion`, up `9.0%`."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/financial/property-casualty-insurance/chubb-limited/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Chubb shows that Financial is also an underwriting, catastrophe, reserve, and investment-float story, not only a banking or card-payments story.",
+    "packet_path": "extracted/financial/property-casualty-insurance/chubb-limited/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: net income of `$2.85 billion`, core operating income of `$2.84 billion`, EPS of `$7.30`, and core operating EPS of `$7.26`.",
+      "Underwriting tone: P&C underwriting income was `$1.94 billion` with a combined ratio of `83.8%` and a current accident year combined ratio excluding catastrophe losses of `82.2%`.",
+      "Premium and mix: net premiums written were `$14.7 billion`, up `3.6%`; P&C premiums were up `3.0%`, or `6.3%` excluding large-account and E&S property; life premiums were up `7.5%`.",
+      "Investment and balance sheet: adjusted net investment income reached a record `$1.88 billion`, up `11.4%`; book value per share was `$195.45` and tangible book value per share was `$131.93`.",
+      "Management message: some property and financial lines are softening, but diversification and underwriting discipline are still supporting strong returns.",
+      "Results: total company net premiums grew `10.7%` to more than `$14 billion`, P&C underwriting income was `$1.8 billion`, and the combined ratio was `84.0%`."
+    ],
+    "signal_takeaways": [
+      "Sector: Chubb shows that Financial is also an underwriting, catastrophe, reserve, and investment-float story, not only a banking or card-payments story.",
+      "Capital: earnings depend on both operating execution and the quality and yield of a very large invested-asset base.",
+      "Risk culture: discipline matters. Chubb is a useful counterweight to growth-first interpretations because management repeatedly prioritizes underwriting quality over raw volume.",
+      "Macro: catastrophe activity, competitive cycles, and rates all matter directly to reported results.",
+      "Technology: AI appears in the archive as an operating aid and selective commercial tool, but not as the primary narrative driver; underwriting and investment discipline still dominate the story."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Chubb Limited",
+  "company_slug": "chubb-limited",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/chubb-limited.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Property & Casualty Insurance",
+  "local_artifacts": [
+    "extracted/financial/property-casualty-insurance/chubb-limited/company-packet.md",
+    "extracted/financial/property-casualty-insurance/chubb-limited/company-profile.md",
+    "extracted/financial/property-casualty-insurance/chubb-limited/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/chubb-limited.html",
+  "sector": "Financial",
+  "template_role": "",
+  "ticker": "CB"
+}

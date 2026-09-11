@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "United is the right next airline packet because the travel lane already had Delta as the strongest loyalty-currency case, but it still needed a second major carrier to test whether the current travel-and-status conclusions were really industry-level or just Delta-specific.",
+      "The `2025` annual materials show a business with scale and quality that is not mainly disclosed through one giant partner-remuneration number. Full-year `2025` total operating revenue was `$59.1B`, pre-tax earnings were `$4.3B`, adjusted pre-tax earnings were `$4.6B`, adjusted pre-tax margin was `7.8%`, adjusted diluted EPS was `$10.62`, and free cash flow was `$2.7B`.",
+      "The operating message is different from Delta's. United consistently frames the business around winning \"brand-loyal customers\" through product, network, reliability, and technology rather than around one explicit loyalty-economics engine. The Q4 materials highlighted record quarterly revenue, record annual passenger volume, the airline's lowest seat cancellation rate in company history, and rapidly expanding Starlink Wi-Fi deployment.",
+      "That makes United analytically useful. Delta is the cleaner example of a loyalty currency acting like a business inside the business. United is the cleaner example of a premium-network airline trying to earn loyalty through operational performance, widebody and international breadth, product segmentation, digital utility, and customer-experience upgrades.",
+      "United also sharpens the archive's aggregator-gap lesson. As of `2026-08-09`, AnnualReports still showed only `2024` as the latest annual package, while United's own IR stack already exposed the `2025` annual report and the current `2026` quarter chain."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/major-airlines/united-airlines-holdings-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Travel and status lane: United strengthens the archive because it gives the airline comparison set a second major network carrier where the customer relationship matters, but the mechanism is less \"partner-funded points currency\" and more \"product, network, and reliability compounder.\"",
+    "packet_path": "extracted/services/major-airlines/united-airlines-holdings-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` total operating revenue was `$17.7B`, net income was `$805M`, diluted EPS was `$2.46`, adjusted diluted EPS was `$1.99`, pre-tax earnings were `$1.0B`, and adjusted pre-tax earnings were `$843M`.",
+      "Growth and mix: TRASM was up `12.1%`, passenger revenue was up `16.4%`, premium revenue was up `16%`, loyalty revenue was up `11%`, revenue from Basic Economy was up `11%`, cargo revenue was up `23%`, and contracted business revenue was up `27%`.",
+      "Strategic message: management raised full-year `2026` adjusted diluted EPS guidance to `$9.00` to `$11.00` despite nearly `$6B` of added expected fuel cost versus the year's starting assumption.",
+      "Product and operational signal: Starlink had reached `450` installed aircraft with nearly `1,000` expected by year-end; customer satisfaction on Starlink flights was more than twice as high as other Wi-Fi-equipped aircraft; and Newark delivered its best-ever second-quarter on-time departure results.",
+      "Structural themes: this quarter reinforces United as a premium and product-led airline relationship system where customer preference is being built through service reliability, network breadth, mobile and connectivity tools, and cabin segmentation rather than through one narrowly disclosed financial loyalty engine.",
+      "Results: Q1 `2026` total operating revenue was `$14.6B`, net income was `$699M`, diluted EPS was `$2.14`, adjusted diluted EPS was `$1.19`, pre-tax earnings were `$870M`, and adjusted pre-tax earnings were about `$500M`."
+    ],
+    "signal_takeaways": [
+      "Travel and status lane: United strengthens the archive because it gives the airline comparison set a second major network carrier where the customer relationship matters, but the mechanism is less \"partner-funded points currency\" and more \"product, network, and reliability compounder.\"",
+      "Loyalty and customer-control logic: United still uses the \"brand-loyal customer\" framing throughout the earnings materials, and the quarter trail shows loyalty revenue growing in both Q1 and Q2 `2026`. The difference is that the disclosures tie that loyalty more tightly to product and service execution than Delta does.",
+      "Digital interface: United is one of the better travel packets for seeing the customer relationship expressed through app utility, touchless airport tools, Wi-Fi, digital check-in, bag and security-line visibility, and self-service problem resolution.",
+      "Premium and segmentation: the company repeatedly frames growth around premium cabins, better economy segmentation, improved interiors, international-network breadth, and higher-value customer cohorts rather than only around raw capacity.",
+      "Operational culture: Newark recovery, record or near-record NPS readings, best-on-time-departure streaks, and historically low seat-cancel rates matter because they show how travel preference can be won through reliability as much as through status perks.",
+      "Capital and balance sheet: United is also a useful counterpoint to lighter-weight travel platforms because the filings keep balance-sheet management, aircraft deliveries, and capacity moderation tightly linked to the customer and earnings story."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "United Airlines Holdings, Inc.",
+  "company_slug": "united-airlines-holdings-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/united-airlines-holdings-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Major Airlines",
+  "local_artifacts": [
+    "extracted/services/major-airlines/united-airlines-holdings-inc/company-packet.md",
+    "extracted/services/major-airlines/united-airlines-holdings-inc/company-profile.md",
+    "extracted/services/major-airlines/united-airlines-holdings-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/united-airlines-holdings-inc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "UAL"
+}

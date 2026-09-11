@@ -1,0 +1,266 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Kenvue is the right next packet because it adds the consumer-health and everyday-care layer that sits between household staples, personal care, oral care, and wellness-oriented routine use.",
+      "AnnualReports makes the packet analytically useful before the financials even start. As of `2026-08-10`, the site still only exposed a `2024 Annual Report and Form 10K` package and classified Kenvue as `Technology / Biotechnology`, even though the business is plainly a global consumer-health platform.",
+      "The official investor-relations overview gives the scale of the business clearly enough to make the operating reality obvious: `2025` net sales were `$15.1bn` across `3` segments, about `50%` of net sales were outside North America, the company operated in more than `165` countries, and it served about `1.2 billion` people globally.",
+      "The FY`2025` and Q4 `2025` results chain shows a company that ended a weak year on a better quarter. Full-year net sales decreased `2.1%`, organic sales declined `2.2%`, diluted EPS was `$0.76`, adjusted diluted EPS was `$1.08`, net cash flows from operating activities were `$2.2bn`, and free cash flow was `$1.7bn`. But Q4 itself returned to net sales growth of `3.2%` and organic growth of `1.2%`.",
+      "The management frame at year-end was not simple category momentum. It was execution improvement plus a transaction backdrop. Kenvue said the quarter reflected disciplined execution and easier comparisons while it worked toward completing its value-creating combination with Kimberly-Clark.",
+      "This makes Kenvue valuable to the broader archive because it shows that trusted daily-use health and care categories can still be resilient, but the earnings story is being shaped by seasonality, retailer inventory behavior, category incidence rates, innovation execution, and corporate transformation rather than by effortless staples-like compounding."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/technology/biotechnology/kenvue/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Taxonomy mismatch as evidence: Kenvue is one of the repo's best examples of source taxonomy diverging from operating reality. AnnualReports calls it `Technology / Biotechnology`, while the actual business is a global consumer-health and routine-care platform.",
+    "packet_path": "extracted/technology/biotechnology/kenvue/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` net sales increased `3.0%`, organic sales increased `1.6%`, diluted EPS rose to `$0.24`, and adjusted diluted EPS rose to `$0.31`.",
+      "Cash flow and balance sheet: first-half `2026` net cash flows from operating activities were `$1.2bn`, free cash flow was `$1.0bn`, cash and cash equivalents were `$1.1bn`, and total debt was `$8.5bn`.",
+      "Management message: management said Kenvue delivered a third consecutive quarter of net and organic sales growth, with broad-based gains across every segment and region, while continuing to drive operational efficiencies and strategic investment.",
+      "Guidance: due to the pending Kimberly-Clark transaction, Kenvue again said it would not provide forward-looking guidance.",
+      "Structural read: Q2 is the cleanest proof that Kenvue belongs in the cross-sector consumer-interface work. This is not a software story even if source taxonomy says `Technology`. It is a trust-and-routine-use business where allergy, pain, wound care, oral care, baby care, and skin-health demand still depend on brand strength, retail execution, and eCommerce momentum.",
+      "Results: Q1 `2026` net sales increased `4.5%`, organic sales increased `0.7%`, diluted EPS increased to `$0.25`, and adjusted diluted EPS increased to `$0.32`."
+    ],
+    "signal_takeaways": [
+      "Taxonomy mismatch as evidence: Kenvue is one of the repo's best examples of source taxonomy diverging from operating reality. AnnualReports calls it `Technology / Biotechnology`, while the actual business is a global consumer-health and routine-care platform.",
+      "Trusted routine use: this is a daily-life care system built on efficacy, trust, healthcare-professional endorsement, and habit rather than on indulgence or status.",
+      "Seasonal and category sensitivity: Self Care can swing with low seasonal incidence rates, which makes Kenvue a better routine-use comparison for Kimberly-Clark, Colgate, and P&G than another generic packaged-goods name.",
+      "Wellness and eCommerce bridge: strong eCommerce momentum, demand acceleration in skin health and beauty, and repeated brand activations make Kenvue a bridge between staples-like trust and more active consumer-acquisition work.",
+      "Transformation and merger overhang: the `2026` story is partly operational and partly transactional. The pending Kimberly-Clark combination suppresses formal guidance and compresses management's forward framing.",
+      "Comparison value: P&G is broader and more productivity-led, Kimberly-Clark is narrower and more hygiene-led, Colgate is tighter and more efficacy-led, and Kenvue adds a more explicit self-care, wound-care, oral-care, and health-brands routine."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Kenvue",
+  "company_slug": "kenvue",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/kenvue.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Biotechnology",
+  "local_artifacts": [
+    "extracted/technology/biotechnology/kenvue/company-packet.md",
+    "extracted/technology/biotechnology/kenvue/company-profile.md",
+    "extracted/technology/biotechnology/kenvue/source-ledger.md",
+    "extracted/themes/colgate-vs-kenvue-vs-chewy-boundary-comparison-2026-08-10.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/kenvue.html",
+  "sector": "Technology",
+  "template_role": "",
+  "ticker": "KVUE"
+}

@@ -1,0 +1,267 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Monster adds the functional-energy and identity-driven beverage model that the consumer-goods archive still lacked after PepsiCo, staples, beauty, and packaging.",
+      "Fiscal `2025` net sales were `$8.29B`, up `10.7%` from `2024`, while operating income rose to `$2.42B` and net income to `$1.91B`.",
+      "The `2025` annual filing makes the business model unusually clear: growth depends on brand intensity, product innovation, international expansion, and the scale of the Coca-Cola distribution relationship as much as on ordinary shelf placement.",
+      "The same filing also shows that this is not one simple beverage business. Strategic Brands grew on Predator, Burn, and NOS, while Alcohol Brands remained weaker and loss-making."
+    ],
+    "damodaran_questions": [
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Monster adds the functional-energy, performance, and lifestyle-branding layer to Consumer Goods.",
+    "packet_path": "extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: net sales of `$2.54B`, operating income of `$740.4M`, and net income of `$584.5M`.",
+      "Operating signal: the company was still compounding through global category growth, product mix, and marketing-backed household penetration.",
+      "Strategic read: Monster remains one of the clearest consumer-goods examples of a routine-use category where stimulation, identity, and innovation work together as demand engines.",
+      "Results: net sales of `$2.35B`, operating income of `$730.0M`, and net income of `$569.5M`.",
+      "Operating signal: gross margin fell to `55.0%` from `56.5%` a year earlier as geography, can costs, and freight pressure offset pricing.",
+      "Structural read: this quarter reinforces that the model is strong, but it is still sensitive to mix, raw-material inputs, and the cost of sustaining marketing intensity."
+    ],
+    "signal_takeaways": [
+      "Sector: Monster adds the functional-energy, performance, and lifestyle-branding layer to Consumer Goods.",
+      "Demand: demand here depends on repeat-use energy habits, category culture, innovation cadence, international rollout, and brand intensity rather than on broad household necessity alone.",
+      "Competition: the moat is not just a beverage formula. It comes from a tightly branded consumer identity, distribution depth, innovation speed, and retail presence supported by The Coca-Cola Company relationship.",
+      "Culture and business model: Monster reflects a consumer model where stimulation, performance, youth or lifestyle identity, and habitual use create a stronger emotional and behavioral loop than an ordinary soft-drink shelf position.",
+      "Watch item: the model is strong, but it still depends on sustaining category momentum, navigating ingredient and regulatory scrutiny, and keeping weaker adjacent categories from diluting returns."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Monster Beverage Corp",
+  "company_slug": "monster-beverage-corp",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/monster-beverage-corp.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Beverages - Soft Drinks",
+  "local_artifacts": [
+    "extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-packet.md",
+    "extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/company-profile.md",
+    "extracted/consumer-goods/beverages-soft-drinks/monster-beverage-corp/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-scarce-assets-and-hard-money-portfolio-role",
+      "source": "https://www.lynalden.com/april-2024-newsletter/",
+      "title": "Scarce assets and hard-money portfolio role",
+      "when_to_use": "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/monster-beverage-corp.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "MNST"
+}

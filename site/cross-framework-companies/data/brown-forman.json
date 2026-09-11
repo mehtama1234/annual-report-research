@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Brown-Forman adds a distinct premium spirits and alcohol-occasion lane that the current consumer-goods set did not yet have. It is materially different from pantry staples, cleaning products, soda, or energy drinks because demand here is more exposed to ritual, identity, gifting, nightlife, travel retail, and broader discretionary confidence.",
+      "The archived `2025` annual report from AnnualReports is usable and gives the clearest yearly read. Brown-Forman finished fiscal `2025` with reported net sales down `5%` to about `$4.0B`, reported operating income down `22%` to about `$1.1B`, and diluted EPS down `14%` to `$1.84`, while still describing organic net sales growth of `1%` and organic operating income growth of `3%`.",
+      "Management's `2025` message was not a normal staples story. The annual report explicitly described persistent macro headwinds, inflationary pressure, divisive political conditions, and declining overall spirits consumption across most of the developed world.",
+      "Even with that pressure, the company framed itself as a brand-led premium spirits system still trying to defend long-term franchise strength through restructuring, route-to-market work, and selective commercial investment. Specific moves included a global workforce restructuring, a U.S. distributor and route-to-market request-for-proposal process, a new Jack Daniel's campaign aimed at returning Tennessee Whiskey to growth, and an owned-distribution launch in Italy.",
+      "Brown-Forman therefore matters to the larger project because it shows a consumer-goods business where the core question is not simple staple resilience. The key question is how premium brand desire, social ritual, and discretionary identity spending hold up when category consumption softens."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/beverages-wineries-distillers/brown-forman/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Brown-Forman adds the premium spirits and alcohol-occasion layer to Consumer Goods, which is a more confidence-sensitive and culture-sensitive lane than routine staples or routine refreshment beverages.",
+    "packet_path": "extracted/consumer-goods/beverages-wineries-distillers/brown-forman/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q4 FY`2026` net sales rose `2%` to `$912M`, operating income fell `53%` to `$96M`, and diluted EPS fell `62%` to `$0.12`.",
+      "Full-year context: fiscal `2026` net sales fell `1%` to `$3.9B`, operating income fell `10%` to about `$1.0B`, diluted EPS fell `17%` to `$1.53`, cash flow from operations increased to about `$1.0B`, and free cash flow rose to `$893M`.",
+      "Capital allocation signal: Brown-Forman said it returned `$827M` to shareholders in fiscal `2026`.",
+      "Structural read: the small sales improvement in Q4 did not translate into earnings strength. That is a useful warning that premium alcohol systems can hold revenue better than profit when category softness, mix, and operating pressure are still working against them.",
+      "Results: Q3 FY`2026` net sales increased `2%` to `$1.1B`, operating income increased `21%` to `$340M`, and diluted EPS increased `1%` to `$0.58`.",
+      "Year-to-date context: nine-month net sales were down `2%` to `$3.0B`, with operating income roughly flat at `$905M` and diluted EPS down `8%` to `$1.41`."
+    ],
+    "signal_takeaways": [
+      "Sector: Brown-Forman adds the premium spirits and alcohol-occasion layer to Consumer Goods, which is a more confidence-sensitive and culture-sensitive lane than routine staples or routine refreshment beverages.",
+      "Consumer: this packet points to a consumer system shaped by ritual, social use, gifting, identity signaling, and premium brand loyalty, but still vulnerable when discretionary pressure and softer category demand reduce purchase frequency.",
+      "Cultural: Brown-Forman is one of the stronger consumer-goods examples where cultural meaning matters directly. Jack Daniel's, tequila, whiskey, and other spirits are not just products; they sit inside occasion, identity, and social-performance behavior.",
+      "Channel: route-to-market and distribution structure matter more here than in most staples packets. The annual report explicitly points to U.S. route-to-market work and owned distribution in Italy as strategic levers.",
+      "Geography: the business is global, but the annual language makes clear that developed-market spirits softness matters. This makes Brown-Forman a useful contrast with globally diversified soda or snack systems that were still posting cleaner growth.",
+      "Capital allocation: despite softer growth, the company remains cash generative enough to emphasize shareholder returns, which keeps it inside the mature-cash-engine side of Consumer Goods even while the demand profile is more discretionary."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Brown-Forman",
+  "company_slug": "brown-forman",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/brown-forman.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Beverages - Wineries & Distillers",
+  "local_artifacts": [
+    "extracted/consumer-goods/beverages-wineries-distillers/brown-forman/company-packet.md",
+    "extracted/consumer-goods/beverages-wineries-distillers/brown-forman/company-profile.md",
+    "extracted/consumer-goods/beverages-wineries-distillers/brown-forman/source-ledger.md",
+    "extracted/themes/starbucks-vs-monster-vs-brown-forman-boundary-comparison-2026-08-10.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/brown-forman.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "BF"
+}

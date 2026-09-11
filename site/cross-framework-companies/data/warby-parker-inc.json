@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Warby Parker is one of the cleaner blind-spot cases in the archive because the source problem is not absence but weak framing. As of `2026-08-10`, `AnnualReports.com` still placed the company under `Healthcare / Medical Instruments & Supplies` and still surfaced the `2024 Annual Report and Form 10K`, even though the official `2025` annual report and `2025` Form `10-K` were already available.",
+      "The `2025` annual evidence chain shows a company that is more useful than a plain medical-instruments label. The `10-K` describes Warby Parker as a lifestyle brand operating at the intersection of design, technology, healthcare, and social enterprise, with an integrated omnichannel platform across digital commerce and `323` retail stores at year-end.",
+      "The full-year `2025` annual stack closed at meaningful scale: revenue reached `$871.9M`, net income turned positive at `$1.6M`, adjusted EBITDA reached `$95.2M`, active customers reached `2.689M`, and stores reached `323`.",
+      "The same annual materials show how the system widens beyond frames alone. The company sells glasses, sunglasses, contacts, eye exams, vision tests, lens enhancements, and tech-enabled experiences such as `Virtual Try-On` and `Virtual Vision Test`, while the `10-K` also says contact lenses represented `11.1%` of `2025` revenue and eye exams plus vision care represented `6.4%`.",
+      "The annual filing also makes the owned-demand logic explicit. Warby Parker is a direct-to-consumer model with in-house design, unified pricing, omnichannel retail, and growing insurance participation. The `10-K` says insurance is used in about `60%` of U.S. vision-care purchases while insurance-backed orders were only `8.3%` of `2025` revenue, which management frames as a large underpenetrated growth opportunity."
+    ],
+    "damodaran_questions": [
+      "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/healthcare/medical-instruments-supplies/warby-parker-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "AnnualReports mismatch as signal: Warby Parker materially strengthens the blind-spot lane because the source taxonomy gives it a technically valid page but the wrong analytical frame. `Healthcare / Medical Instruments & Supplies` misses the real comparison set.",
+    "packet_path": "extracted/healthcare/medical-instruments-supplies/warby-parker-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` revenue increased `9.8%` to `$235.5M`, active customers increased `4.1%` to `2.71M`, average revenue per customer increased `6.6%` to `$336`, adjusted EBITDA was `$32.9M`, and net income was `$4.6M`.",
+      "Cash and footprint: operating cash flow was `$29.6M`, free cash flow was `$6.8M`, cash and cash equivalents ended at `$292.7M`, and the company opened `15` net new stores to reach `352`.",
+      "Gross-profit and tariff signal: gross profit was `$136.5M` or `57.9%` of revenue, up from `53.0%` a year earlier, helped by an `$11.8M` tariff-refund benefit tied to inventory sold through `2026-06-30`.",
+      "Strategic posture: the Q2 release says the tariff-refund benefit was partially used to offset investment as the company prepared for the launch of `Intelligent Eyewear`, and management said full-year guidance did not include any revenue contribution or halo benefit from that launch.",
+      "Structural themes: this quarter makes the blind spot even clearer. The most useful question is not whether Warby Parker is a medical-instruments company. The useful question is how owned demand, physical fit, care-service expansion, and wearable-technology extension reinforce one another inside a direct-brand system.",
+      "Results: `Q1 2026` revenue increased `8.3%` to `$242.4M`, active customers increased `4.8%` to `2.69M`, average revenue per customer increased `6.9%` to `$331`, adjusted EBITDA increased to `$29.6M`, and net income was `$3.2M`."
+    ],
+    "signal_takeaways": [
+      "AnnualReports mismatch as signal: Warby Parker materially strengthens the blind-spot lane because the source taxonomy gives it a technically valid page but the wrong analytical frame. `Healthcare / Medical Instruments & Supplies` misses the real comparison set.",
+      "Owned-demand identity system: this is one of the archive's better examples of a company selling a fit-and-style self-story while still owning a medically and service-linked relationship. The frame is eyewear, but the demand system is identity plus function.",
+      "DTC and channel-control proof: the `10-K` describes a direct-to-consumer model with in-house design and integrated omnichannel distribution. That makes Warby Parker a cleaner owned-demand comparison for `Nike`, `Levi Strauss`, `Crocs`, `YETI`, and `Birkenstock` than another plain apparel or footwear brand.",
+      "Healthcare-adjacent but consumer-shaped: eye exams, vision tests, contact lenses, insurance-network expansion, and telehealth-style tools make this more than a fashion brand, but the relationship still behaves much more like consumer brand control than like a conventional medtech or provider model.",
+      "Intelligent-eyewear extension: `Q1` and especially `Q2 2026` add a new technology layer through intelligent eyewear and the `Google Gemini` partnership language, making Warby Parker an especially strong taxonomy-breaker at the boundary of consumer brand, service system, wearable tech, and healthcare adjacency.",
+      "Comparative positioning: Warby Parker is most useful next to `Ulta`, `e.l.f. Beauty`, `Planet Fitness`, `Nike`, `Levi Strauss`, and `Birkenstock`, not next to ordinary diagnostic or device suppliers."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Warby Parker Inc.",
+  "company_slug": "warby-parker-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "account-for-institutions-trust-and-fit"
+    },
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/warby-parker-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Medical Instruments & Supplies",
+  "local_artifacts": [
+    "extracted/healthcare/medical-instruments-supplies/warby-parker-inc/company-packet.md",
+    "extracted/healthcare/medical-instruments-supplies/warby-parker-inc/company-profile.md",
+    "extracted/healthcare/medical-instruments-supplies/warby-parker-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/warby-parker-inc.html",
+  "sector": "Healthcare",
+  "template_role": "",
+  "ticker": "WRBY"
+}

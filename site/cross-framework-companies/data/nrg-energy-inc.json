@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "NRG is the right ninth utility because it adds the clearest customer-backed large-load and retail-plus-wholesale platform in the current set. It is more overtly competitive-market and customer-commercialization driven than the regulated utilities, and more focused on the retail-plus-supply stack than either Vistra or Constellation.",
+      "Official company materials describe NRG as a leading provider of electricity, natural gas, and smart-home solutions to roughly `8 million` customers across North America, supported by a diversified supply strategy and approximately `25 GW` of generation.",
+      "AnnualReports currently still lagged at `2024` for NRG as of `2026-08-09`, which matters because the current annual evidence chain has to rely on NRG's investor site and SEC rather than the aggregator.",
+      "The annual and quarterly materials frame NRG around affordability, reliability, customer-first commercialization, acquisition-led scale, and the idea that new large-load power demand should come with customer-backed generation investment rather than bluntly shifting system cost onto everyone else.",
+      "NRG's strategic point is that the power bottleneck can be monetized through customer structure and contract design, not only through regulated rate base, merchant pricing, or scarce nuclear output. The company is trying to turn its retail and generation platform into an execution model for hyperscaler-era demand growth."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/utilities/other-utilities/nrg-energy-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: NRG gives the utilities set the clearest customer-backed large-load and competitive-market commercialization case. It shows a different monetization path from rate-base growth, merchant hedging, or nuclear contracting.",
+    "packet_path": "extracted/utilities/other-utilities/nrg-energy-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` GAAP net income was `$506 million`, GAAP basic EPS was `$2.32`, adjusted net income was `$315 million`, adjusted EPS was `$1.49`, adjusted EBITDA was `$1,217 million`, and FCFbG was `$1,025 million`.",
+      "Guidance: management reaffirmed `2026` guidance.",
+      "Management message: the Q2 release emphasized solid quarterly execution and explicitly positioned Bring Your Own Power as the model for how large-load growth should work, with the customer supporting the investment while reliability and affordability are protected for the broader system.",
+      "Structural themes: management highlighted principal commercial alignment with a leading global cloud and AI hyperscaler for a `1.2 GW` Texas combined-cycle gas project, commercial operation of the `415 MW` T.H. Wharton facility, and continued progress on the remaining Texas Energy Fund projects.",
+      "Operating identity: this is one of the clearest archive examples of a company trying to convert data-center and hyperscaler growth into customer-specific generation buildout rather than relying on either pure merchant scarcity or regulated cost recovery.",
+      "Results: Q1 `2026` results were supported by the enlarged platform after the LS Power acquisition, with management reaffirming `2026` guidance."
+    ],
+    "signal_takeaways": [
+      "Sector: NRG gives the utilities set the clearest customer-backed large-load and competitive-market commercialization case. It shows a different monetization path from rate-base growth, merchant hedging, or nuclear contracting.",
+      "Industrial: the industrial read is gas generation, capacity pricing, demand response, and campus-style large-load power infrastructure rather than only substations, regulated transmission, or merchant portfolio optimization.",
+      "Consumer: NRG is materially more consumer-facing than most of the utilities set because it directly serves millions of retail electricity and natural-gas customers and also owns a smart-home platform. That gives it a more direct affordability and household-spending sensitivity.",
+      "Cultural: the framing is commercial and execution-heavy rather than civic. The message is that reliability should be preserved, but growth should be paid for by the growth customer.",
+      "Regulatory: the company is not mainly a rate-case utility, but public approval still matters through Texas Energy Fund structures, market rules, and the regulatory path around large-load and generation additions.",
+      "Technology: NRG is one of the clearest utilities-side examples of AI and hyperscaler power demand translating into a new customer contract model. The BYOP framing is a meaningful strategic signal in its own right."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "NRG Energy, Inc.",
+  "company_slug": "nrg-energy-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/nrg-energy-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Other Utilities",
+  "local_artifacts": [
+    "analysis/company-first-principles/utilities/other-utilities/nrg-energy-inc/company-analysis.md",
+    "extracted/utilities/other-utilities/nrg-energy-inc/company-packet.md",
+    "extracted/utilities/other-utilities/nrg-energy-inc/company-profile.md",
+    "extracted/utilities/other-utilities/nrg-energy-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-scarce-assets-and-hard-money-portfolio-role",
+      "source": "https://www.lynalden.com/april-2024-newsletter/",
+      "title": "Scarce assets and hard-money portfolio role",
+      "when_to_use": "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/nrg-energy-inc.html",
+  "sector": "Utilities",
+  "template_role": "",
+  "ticker": "NRG"
+}

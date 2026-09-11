@@ -1,0 +1,266 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "West Fraser adds the wood-products layer that the current Basic Materials starter set still lacked. This is useful because wood is one of the clearest places where housing, remodeling, industrial demand, and physical-building economics show up directly in earnings.",
+      "The annual materials frame West Fraser as a leading lumber and engineered-wood producer with a broad product set: lumber, OSB, LVL, MDF, plywood, particleboard, pulp, paper, wood chips, and residuals. That makes it broader than a pure sawmill or OSB name.",
+      "The geographic mix matters. In `2025`, `54%` of lumber capacity was in the U.S. South, `28%` in Alberta, and `18%` in British Columbia. The company is explicitly trying to lower tariff and cost risk by shifting the portfolio toward the U.S. South and higher-quality mills.",
+      "The `2025` base year was weak. Sales were `$5.462 billion`, earnings were `$(937) million`, and adjusted EBITDA was only `$56 million`, representing `1%` of sales. This is a clear downcycle read rather than a harvest year.",
+      "Even with weak earnings, West Fraser kept reinvesting. It spent `$411 million` on capital expenditures in `2025`, paid `$101 million` in dividends, repurchased `$124 million` of stock, and ended the year with more than `$1.2 billion` of available liquidity.",
+      "The strategic read is not only \u201clumber was weak.\u201d West Fraser spent `2025` high-grading the portfolio: starting up the modernized Henderson, Texas mill, finishing the Allendale, South Carolina OSB ramp-up, and closing or curtailing uneconomic facilities. The company is trying to come out of the cycle with a better cost base and more resilient footprint."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/basic-materials/lumber-wood-production/west-fraser-timber-co-ltd/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: West Fraser is strong evidence that Basic Materials includes housing inputs, wood products, and renewable building materials, not only metals, chemicals, energy, and fertilizers.",
+    "packet_path": "extracted/basic-materials/lumber-wood-production/west-fraser-timber-co-ltd/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` sales were `$1.434 billion`, earnings were `$(61) million`, diluted EPS was `$(0.78)`, and adjusted EBITDA was `$59 million`.",
+      "Segment read: adjusted EBITDA was `$41 million` in Lumber, `$13 million` in North America Engineered Wood Products, `$13 million` in Europe Engineered Wood Products, and `$(8) million` in Other Operating Segments because of maintenance at the Cariboo pulp facility.",
+      "Cash and capital: West Fraser generated `$192 million` of cash from operations in the quarter, repaid `$148 million` of operating loans, had `$74 million` of cash and short-term investments at July 3, `2026`, and had `$55 million` outstanding on its `$1 billion` credit facility.",
+      "Management message: the company emphasized improved market conditions, Henderson output more than doubling versus `Q1 2026`, improved U.S. lumber productivity, the completed High Level OSB wind-down, and stronger Europe results.",
+      "Structural themes: `Q2 2026` is the first clearly positive quarter in the current packet. It shows how much West Fraser\u2019s results depend on mill mix, duty adjustments, and housing-linked demand rather than on one clean commodity curve.",
+      "Results: `Q1 2026` sales were `$1.334 billion`, earnings were `$(188) million`, diluted EPS was `$(2.40)`, and adjusted EBITDA was `$(66) million`."
+    ],
+    "signal_takeaways": [
+      "Sector: West Fraser is strong evidence that Basic Materials includes housing inputs, wood products, and renewable building materials, not only metals, chemicals, energy, and fertilizers.",
+      "Consumer: this is not discretionary consumer demand in the retail sense, but it is tightly tied to household formation, mortgage rates, housing affordability, repair and remodeling, and the age of the housing stock.",
+      "Cultural: West Fraser adds a practical housing and shelter lens to the archive. The company is a reminder that affordability and physical-building costs are central social and political issues, not just industry variables.",
+      "Regulatory: tariffs, duties, trade restrictions, and forestry-related policy are core earnings inputs here. The company explicitly discussed Section 232 tariffs and July `2026` Section 338 tariff announcements.",
+      "Labor: mill productivity, transportation availability, and restart and ramp-up execution matter directly. The quarterlies also show how outages, fires, and mill shutdowns can reshape results quickly.",
+      "Technology: West Fraser is not a digital winner, but it does sit inside modern prefabrication, mass-timber adoption, manufacturing productivity, and industrial construction methods."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "West Fraser Timber Co. Ltd.",
+  "company_slug": "west-fraser-timber-co-ltd",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/west-fraser-timber-co-ltd.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Lumber, Wood Production",
+  "local_artifacts": [
+    "analysis/company-first-principles/basic-materials/lumber-wood-production/west-fraser-timber-co-ltd/company-analysis.md",
+    "extracted/basic-materials/lumber-wood-production/west-fraser-timber-co-ltd/company-packet.md",
+    "extracted/basic-materials/lumber-wood-production/west-fraser-timber-co-ltd/company-profile.md",
+    "extracted/basic-materials/lumber-wood-production/west-fraser-timber-co-ltd/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/west-fraser-timber-co-ltd.html",
+  "sector": "Basic Materials",
+  "template_role": "",
+  "ticker": "WFG"
+}

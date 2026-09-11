@@ -1,0 +1,263 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "APi gives the Services sector a fourth company and adds a business-services and infrastructure-maintenance operator rather than another transport or consumer-facing service model.",
+      "The `2025` annual package showed net revenues of `$7.911 billion`, reported net income of `$302 million`, adjusted net income of `$627 million`, adjusted diluted EPS of `$1.48`, adjusted EBITDA margin of `13.2%`, and adjusted free cash flow of `$836 million`.",
+      "The annual filing matters because it makes the service model explicit: APi is built around safety, inspection, monitoring, and specialty infrastructure work, not around shipment volumes or household routine service alone.",
+      "APi also matters for theme work because it adds a service business with a large recurring base, statutorily mandated activity, acquisition-led expansion, and strong backlog visibility."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/business-services/api-group-corporation/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: APi broadens Services into business services tied to safety, inspection, monitoring, and infrastructure-support activity.",
+    "packet_path": "extracted/services/business-services/api-group-corporation/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 2026 net revenues were `$2.3 billion`, diluted EPS was `$0.20`, adjusted diluted EPS was `$0.44`, adjusted EBITDA was `$311 million`, and reported net income was `$99 million`.",
+      "Guidance: on `July 30, 2026`, APi raised full-year `2026` guidance to net revenues of `$8.875 billion` to `$9.025 billion`, adjusted EBITDA of `$1.205 billion` to `$1.245 billion`, and adjusted free-cash-flow conversion of `115%`.",
+      "Management message: management said inspection, service, and monitoring revenues remained strong, project activity stayed robust across both segments, and backlog had exceeded `$5 billion`.",
+      "Structural themes: this quarter is the clearest proof that APi is not just a one-time-project story. The combination of recurring inspection and monitoring work plus record backlog makes it a high-visibility service name.",
+      "Results: Q1 2026 net revenues were `$2.0 billion`, diluted EPS was `$0.12`, adjusted diluted EPS was `$0.32`, adjusted EBITDA was `$235 million`, and reported net income was `$57 million`.",
+      "Guidance: on `April 30, 2026`, APi raised full-year `2026` guidance to net revenues of `$8.475 billion` to `$8.675 billion` and adjusted EBITDA of `$1.150 billion` to `$1.210 billion`."
+    ],
+    "signal_takeaways": [
+      "Sector: APi broadens Services into business services tied to safety, inspection, monitoring, and infrastructure-support activity.",
+      "Consumer: consumer demand matters only indirectly here. The stronger lens is compliance intensity, facility maintenance, data-center and healthcare buildout, and critical-infrastructure spending.",
+      "Cultural: the cultural layer is operating rigor, decentralized leadership, target discipline, and acquisition integration.",
+      "Technology: the technology layer sits in monitoring, electronic security, service workflows, inspection cadence, and lifecycle service relationships rather than in consumer software.",
+      "Labor: labor is central because the business depends on specialized technical field teams, branch execution, and integration of acquired service organizations.",
+      "Capital allocation: APi combines strong cash generation with aggressive M&A deployment, which makes balance-sheet discipline and deal integration core service-model questions."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "APi Group Corporation",
+  "company_slug": "api-group-corporation",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/api-group-corporation.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Business Services",
+  "local_artifacts": [
+    "extracted/services/business-services/api-group-corporation/company-packet.md",
+    "extracted/services/business-services/api-group-corporation/company-profile.md",
+    "extracted/services/business-services/api-group-corporation/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/api-group-corporation.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "APG"
+}

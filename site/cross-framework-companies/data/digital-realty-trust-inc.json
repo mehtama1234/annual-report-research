@@ -1,0 +1,262 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Q4 2025 revenue / FFO per share / Core FFO per share: `$1.6B` / `$1.89` / `$1.86`",
+      "Q1 2026 revenue / FFO per share / Core FFO per share: `$1.6B` / `$1.99` / `$2.04`",
+      "Q2 2026 revenue / FFO per share / Core FFO per share excluding net promote: `$1.9B` / `$2.73` / `$2.13`",
+      "Q4 2025 total bookings were `$400M` annualized GAAP rent at 100% share, with `$817M` backlog at Digital Realty\u2019s share",
+      "Q1 2026 total bookings were `$707M` annualized GAAP rent at 100% share, with `$1.0B` backlog at Digital Realty\u2019s share",
+      "Q2 2026 total bookings were `$307M` annualized GAAP rent at 100% share, plus July hyperscale leases worth `$410M` annualized GAAP rent at 100% share, with `$1.4B` backlog at Digital Realty\u2019s share"
+    ],
+    "damodaran_questions": [
+      "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Taxonomy lag matters: aggregator sector and industry labels can badly understate what the business now is",
+    "packet_path": "extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Q4 2025 revenue / FFO per share / Core FFO per share: `$1.6B` / `$1.89` / `$1.86`",
+      "Q1 2026 revenue / FFO per share / Core FFO per share: `$1.6B` / `$1.99` / `$2.04`",
+      "Q2 2026 revenue / FFO per share / Core FFO per share excluding net promote: `$1.9B` / `$2.73` / `$2.13`",
+      "Q4 2025 total bookings were `$400M` annualized GAAP rent at 100% share, with `$817M` backlog at Digital Realty\u2019s share",
+      "Q1 2026 total bookings were `$707M` annualized GAAP rent at 100% share, with `$1.0B` backlog at Digital Realty\u2019s share",
+      "Q2 2026 total bookings were `$307M` annualized GAAP rent at 100% share, plus July hyperscale leases worth `$410M` annualized GAAP rent at 100% share, with `$1.4B` backlog at Digital Realty\u2019s share"
+    ],
+    "signal_takeaways": [
+      "Taxonomy lag matters: aggregator sector and industry labels can badly understate what the business now is",
+      "AI demand is physical: data-center capacity, powered land, hyperscale leasing, and interconnection are now core real-estate growth drivers",
+      "Private capital is part of the operating model: Digital Realty is not only leasing space, it is using capital structure and joint-venture design as a growth engine"
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Digital Realty Trust Inc.",
+  "company_slug": "digital-realty-trust-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "account-for-institutions-trust-and-fit"
+    },
+    {
+      "description": "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::dividends-and-buybacks",
+          "title": "Dividends and buybacks"
+        }
+      ],
+      "use_case": "handle-life-cycle-or-special-situation"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/digital-realty-trust-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "REIT - Office Real Estate",
+  "local_artifacts": [
+    "extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-packet.md",
+    "extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/company-profile.md",
+    "extracted/real-estate/reit-office-real-estate/digital-realty-trust-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/digital-realty-trust-inc.html",
+  "sector": "Real Estate",
+  "template_role": "",
+  "ticker": "DLR"
+}

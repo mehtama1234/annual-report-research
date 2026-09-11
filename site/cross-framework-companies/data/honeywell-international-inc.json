@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Honeywell gives the industrial set a different read from Caterpillar. Caterpillar is about heavy equipment, power generation, and physical infrastructure throughput. Honeywell is about installed-base automation, software-enabled controls, portfolio simplification, and the shift from automation to autonomy.",
+      "The 2025 annual report is dominated by two ideas: acceleration and separation. Management frames AI, cloud, and industrial digitization as catalysts for automation demand, while also arguing that the company is more valuable as a set of sharper businesses than as the prior conglomerate structure.",
+      "Full-year 2025 sales were `$37.442 billion`, organic sales growth was `7%`, adjusted EPS was `$9.78`, and backlog reached roughly `$37.5 billion`. That is a healthy operating base, but the more important read is that management used the year to reshape the portfolio and reporting architecture ahead of the 2026 separation.",
+      "Honeywell is especially useful for theme work because it sits at the intersection of industrial equipment, process controls, buildings, software-intelligence layers, and industrial AI rhetoric. It is one of the clearest cases where \"AI demand\" translates into non-software industrial spend.",
+      "The annual and quarterly materials also show that the AnnualReports industry label becomes stale quickly here. By August 8, 2026 the filings and investor materials are no longer describing Honeywell primarily as an aerospace-defense industrial. They are describing Honeywell Technologies as a pure-play automation company after the Aerospace spin-off."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/aerospace-defense-products-services/honeywell-international-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Honeywell suggests industrial earnings are being shaped by automation intensity, installed-base monetization, process-tech demand, and separation-driven portfolio simplification as much as by classic factory-cycle recovery.",
+    "packet_path": "extracted/industrial-goods/aerospace-defense-products-services/honeywell-international-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 2026 was the transition quarter. Consolidated Honeywell reported sales of `$9.719 billion` and adjusted EPS of `$4.52`, but that figure included the legacy Aerospace segment and a one-time Quantinuum deconsolidation gain. The post-spin Honeywell Technologies business reported sales of `$5.187 billion`, segment margin of `19.0%`, and adjusted EPS of `$1.95`.",
+      "Guidance: on July 23, 2026 Honeywell Technologies updated full-year guidance to `$19.8 billion` to `$20.0 billion` in sales, `3%` to `4%` organic growth, and `$8.05` to `$8.35` in adjusted EPS.",
+      "Management message: management said the separation of Honeywell Aerospace created a new pure-play automation company and emphasized strong orders, installed-base leverage, and confidence in the long-term investor-day targets.",
+      "Structural themes: the important read is simplification. Building automation, process automation, industrial automation, and software-intelligence are now the core identity. Data centers, hospitality, utilities, LNG, and fire-safety demand are the highest-signal end markets.",
+      "Results: Q1 2026 sales were `$9.143 billion`, adjusted EPS was `$2.45`, segment margin was `23.3%`, and backlog rose to `$38.3 billion`.",
+      "Guidance: management reaffirmed the original full-year 2026 framework of `$38.8 billion` to `$39.8 billion` in sales and `$10.35` to `$10.65` in adjusted EPS, while lowering operating cash flow expectations."
+    ],
+    "signal_takeaways": [
+      "Sector: Honeywell suggests industrial earnings are being shaped by automation intensity, installed-base monetization, process-tech demand, and separation-driven portfolio simplification as much as by classic factory-cycle recovery.",
+      "Consumer: consumer demand is indirect here. The more useful demand signals are data centers, hospitality, aviation, utilities, LNG, and building-safety spend.",
+      "Cultural: Honeywell is a good example of industrial management teams using AI language in a commercially grounded way. The pitch is not consumer AI hype; it is control systems, installed assets, and autonomy-enabling software.",
+      "Regulatory: transaction timing, approvals, spin-off mechanics, and energy-policy-sensitive end markets matter more than classic industrial regulation in the current evidence set.",
+      "Labor: labor is less central than productivity and engineering intensity, though supply-chain and service execution still shape output.",
+      "Technology: Honeywell Forge, the installed base, and the \"automation to autonomy\" framing make technology a first-order industrial earnings variable here."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Honeywell International Inc.",
+  "company_slug": "honeywell-international-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/honeywell-international-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Aerospace/Defense Products & Services",
+  "local_artifacts": [
+    "extracted/industrial-goods/aerospace-defense-products-services/honeywell-international-inc/company-packet.md",
+    "extracted/industrial-goods/aerospace-defense-products-services/honeywell-international-inc/company-profile.md",
+    "extracted/industrial-goods/aerospace-defense-products-services/honeywell-international-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/honeywell-international-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "HON"
+}

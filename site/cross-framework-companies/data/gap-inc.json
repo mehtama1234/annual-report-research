@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Gap is a high-value archive addition because it gives the consumer-and-retail work a weaker, more mall-sensitive, multi-brand apparel portfolio rather than another premium brand or pure off-price winner.",
+      "AnnualReports.com was only partially useful here. On Monday, August 10, 2026, it still showed `2024 Annual Report and Form 10K`, even though Gap's current filing chain already ran through fiscal `2025` and the correct quarter trail through `Q1 2026`.",
+      "The annual and year-end materials show a business that is improving, but unevenly. Fiscal `2025` net sales reached `$15.4B`, comparable sales increased `3%`, operating income was `$1.1B`, operating margin was `7.3%`, and operating cash flow reached `$1.3B`, but the portfolio is clearly not moving as one unit.",
+      "The important strategic point is that Gap is trying to operate as a \"house of iconic brands\" with four distinct consumer relationships: Old Navy as the mass-family value engine, Gap as the strongest reinvigoration story, Banana Republic as a partial premium-repair case, and Athleta as the still-problematic brand.",
+      "That makes Gap especially useful in the archive because it sits between Macy's weak-middle portfolio repair, Ross's stronger value traffic, Levi's cleaner heritage-brand control story, and lululemon's higher-quality premium wellness identity."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/apparel-stores/gap-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Gap strengthens `Services` with a consumer-facing apparel case that is clearly retail in behavior even though AnnualReports taxonomy places it here rather than under `Consumer Goods` or `Retail`.",
+    "packet_path": "extracted/services/apparel-stores/gap-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q1 `2026` net sales were `$3.5B`, up `1%`; comparable sales were up `2%`; gross margin was `40.5%`; reported operating income was `$445M`; reported operating margin was `12.7%`; adjusted operating margin was `5.2%`; and diluted EPS was `$0.90` reported and `$0.38` adjusted.",
+      "Operating posture: store sales increased `3%`, online sales decreased `2%` and were `38%` of total net sales, inventory was flat at about `$2.1B`, and the company returned `$464M` of cash to shareholders. Gap brand comps were `+10%`, Old Navy `+1%`, Banana Republic `+2%`, and Athleta `-11%`.",
+      "Structural themes: this quarter matters because it shows both progress and distortion. Reported profitability was lifted by non-recurring legal-settlement effects, while the cleaner operating read still shows a company whose strongest brand is accelerating but whose portfolio remains uneven.",
+      "Results: Q4 `2025` net sales were `$4.2B`, up `2%`; comparable sales were up `3%`; gross margin was `38.1%`; operating income was `$229M`; operating margin was `5.4%`; and diluted EPS was `$0.45`.",
+      "Operating posture: store sales were flat, online sales increased `5%` and represented `42%` of total net sales, and the company ended fiscal `2025` with nearly `3,500` store locations in about `35` countries, including `2,474` company-operated stores. Brand comps were Old Navy `+3%`, Gap `+7%`, Banana Republic `+4%`, and Athleta `-10%`.",
+      "Structural themes: this is the anchor quarter for the packet because it closes the year with eight consecutive quarters of positive comparable sales, but it also makes the internal brand split impossible to miss. Gap and Old Navy are doing the real work, Banana Republic is improving, and Athleta remains the drag."
+    ],
+    "signal_takeaways": [
+      "Sector: Gap strengthens `Services` with a consumer-facing apparel case that is clearly retail in behavior even though AnnualReports taxonomy places it here rather than under `Consumer Goods` or `Retail`.",
+      "Consumer: this is a useful read on a value-conscious but still style-responsive consumer who will reward better product, sharper marketing, and clearer price:value positioning, but not evenly across brands.",
+      "Cultural: Gap matters because the brands do not carry equal cultural force. Gap brand itself looks reinvigorated, Old Navy still reads as broad family value, Banana Republic is trying to regain relevance through elevation, and Athleta shows how quickly a once-promising identity can weaken.",
+      "Channel and interface: Gap is not mainly a digital-moat story. Online remains important at `38%` to `42%` of sales across the recent quarter trail, but the key interface issue is portfolio management across stores, brands, marketing, and merchandising rather than a cleaner first-party relationship system like Levi or NIKE.",
+      "Business model: the key signal is that portfolio unevenness can coexist with improving total-company results for a while, but it creates fragility. Stronger brands can mask weaker ones, yet the long-term read depends on whether the company can keep reinvigorating Gap and Old Navy while stopping further erosion at Athleta.",
+      "Competitive positioning: Gap is most useful next to `Levi Strauss & Co.`, `lululemon athletica inc.`, `Macy's, Inc.`, `Ross Stores, Inc.`, and `Kohl's Corporation`. It is a cleaner multi-brand apparel repair case than Macy's, but structurally weaker than Levi or lululemon and less advantaged than Ross on traffic and value positioning."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Gap Inc.",
+  "company_slug": "gap-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/gap-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Apparel Stores",
+  "local_artifacts": [
+    "extracted/services/apparel-stores/gap-inc/company-packet.md",
+    "extracted/services/apparel-stores/gap-inc/company-profile.md",
+    "extracted/services/apparel-stores/gap-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/gap-inc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "GAP"
+}

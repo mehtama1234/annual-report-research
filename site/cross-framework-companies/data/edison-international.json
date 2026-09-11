@@ -1,0 +1,270 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Edison is the right next utility because it fills the clearest remaining stress case in the archive: a major regulated utility whose story is inseparable from wildfire liability, catastrophe financing, resilience spending, and California regulatory structure.",
+      "AnnualReports classifies Edison as `Utilities / Electric Utilities`, but still lags at `2024`, which itself is informative because it means the archive has to rely on official IR for the current annual package.",
+      "The `2025` annual report frames Edison as a wires-focused utility investing in reliability, resiliency, and climate adaptation to enable the clean-energy transition.",
+      "The annual materials are explicit that this is a high-capex, high-risk, but still regulated-growth utility. Edison reported `2025` rate base of `$48.206B`, capital expenditures of `$6.729B`, and core EPS of `$6.55`, while also carrying large wildfire-related claims and expense lines tied to legacy events and the newer Eaton Fire.",
+      "Edison adds a different kind of utility politics to the set. The central issue is not only affordability or data-center demand. It is whether California can sustain the capital formation, liability protections, and recovery tools required for an electric utility to harden the grid in a climate-stressed service territory."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/utilities/electric-utilities/edison-international/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Edison gives the utility set a California stress-test case rather than just another regulated-growth case.",
+    "packet_path": "extracted/utilities/electric-utilities/edison-international/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` GAAP EPS were `$1.39` and core EPS were `$1.54`.",
+      "Guidance and operating posture: management reaffirmed `2026` core EPS guidance of `$5.90` to `$6.20` and kept emphasizing wildfire-mitigation execution, affordability, and resilience.",
+      "Interpretation: this is not a clean \u201cAI load growth\u201d utility. It is a utility whose investability rests on disciplined execution under wildfire pressure, regulatory support, and the credibility of the state\u2019s catastrophe-cost architecture.",
+      "Results: Q1 `2026` GAAP EPS were `$1.38` and core EPS were `$1.42`.",
+      "Capital and strategy: the Q1 investor deck reaffirmed `5%` to `7%` core EPS CAGR from `2025` to `2030` and laid out a `2026`-`2030` capex plan of about `$38B` to `$41B`.",
+      "Interpretation: Q1 makes the Edison model clear. Growth still exists, but it is earned through resilience and grid-hardening spend, not through a low-risk, plain-vanilla regulated playbook."
+    ],
+    "signal_takeaways": [
+      "Sector: Edison gives the utility set a California stress-test case rather than just another regulated-growth case.",
+      "Industrial: the industrial read is grid hardening, transmission and distribution resilience, and catastrophe-system financing rather than incremental large-load conversion.",
+      "Consumer: the consumer angle is politically charged because resilience and wildfire-mitigation spending have to coexist with affordability in a high-cost state.",
+      "Cultural: Edison carries the most explicit climate-risk and public-safety tone in the current utility set. This is a utility that has to justify its role not just economically, but socially and politically after recurring wildfire trauma.",
+      "Regulatory: this is one of the archive\u2019s cleanest examples of regulation as both shield and vulnerability. The investment case depends on cost recovery, prudency treatment, Wildfire Fund mechanics, and securitization support.",
+      "Climate adaptation: Edison turns climate adaptation from a side theme into the core operating model itself."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Edison International",
+  "company_slug": "edison-international",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/edison-international.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Electric Utilities",
+  "local_artifacts": [
+    "extracted/utilities/electric-utilities/edison-international/company-packet.md",
+    "extracted/utilities/electric-utilities/edison-international/company-profile.md",
+    "extracted/utilities/electric-utilities/edison-international/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/edison-international.html",
+  "sector": "Utilities",
+  "template_role": "",
+  "ticker": "EIX"
+}

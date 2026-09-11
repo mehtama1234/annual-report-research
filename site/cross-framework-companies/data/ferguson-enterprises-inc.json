@@ -1,0 +1,270 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The annual filing chain shows a large, asset-light but operationally dense channel business. The fiscal-`2025` `10-K` said Ferguson served a `$340B` North American construction market, worked with about `37,000` suppliers, operated `1,746` branches as of `2025-07-31`, and employed about `35,000` associates. The transition-period `10-KT` updated that to `1,729` branches, about `6,200` fleet vehicles, and the same approximate associate count as of `2025-12-31`.",
+      "The basic business model matters because it explains why this name belongs in an infrastructure batch. Ferguson says residential and non-residential each account for roughly half of net sales, while roughly two-thirds of net sales tie to repair, maintenance and improvement rather than new construction. That means a large share of demand is recurring and failure-driven rather than purely cyclical new-build demand.",
+      "The transition-period and calendar-`2025` chain also shows how much this company depends on market fragmentation. Ferguson explicitly frames itself as bridging a fragmented supplier base and an even more fragmented customer base. That is the core moat: local inventory, product breadth, service, and workflow simplification in markets where many contractors still operate close to home and need rapid fulfillment.",
+      "The most important annual signal is mix quality. The `2026-02-24` calendar-`2025` results release reported sales of `$31.3B`, gross margin of `31.0%`, adjusted operating margin of `9.6%`, operating cash flow of `$2.2B`, eight acquisitions with annualized revenue above `$300M`, and net debt to adjusted EBITDA of `1.1x`. Management emphasized double-digit non-residential growth and continued market-share gains despite a weak residential backdrop.",
+      "The category mix inside the `10-KT` is also useful for comparison work. As of the transition-period disclosure, Waterworks was `24%` of U.S. sales, Ferguson Home was `21%`, Commercial/Mechanical `15%`, Residential Trade Plumbing `15%`, HVAC `11%`, Industrial `7%`, Facilities Supply `4%`, and Fire & Fabrication `3%`. That is a wide contractor-economy cross section rather than a single-product vertical."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Ferguson is not a consumer brand in the ordinary sense, but it still sits under consumer behavior. When housing affordability is poor, households delay discretionary remodeling and some replacement work. That softness shows up in Ferguson\u2019s residential RMI commentary before it shows up in more obvious retail channels.",
+    "packet_path": "extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Ferguson reported results on Monday, August 10, 2026. Sales increased `4.6%` to `$8.751B`, reported operating profit increased to `$893M`, adjusted operating profit reached `$932M`, operating margin improved to `10.2%`, adjusted operating margin was `10.7%`, and diluted EPS increased `6.9%` to `$3.43`.",
+      "The most important change was not just the headline growth rate. Management said residential growth returned even though the residential market backdrop remained challenging, while non-residential revenue increased `8%` and large capital project activity stayed healthy. That is a strong signal that Ferguson was still taking share rather than just floating on macro demand.",
+      "Guidance also improved. On August 10, 2026 management moved `2026` net-sales guidance from low-to-mid-single-digit growth to mid-single-digit growth and raised the low end of adjusted operating-margin guidance from `9.4%` to `9.5%`, while keeping the top end at `9.8%`. Capital-expenditure guidance also increased to `$375M-$425M`.",
+      "The operating message is that pricing is normalizing but not collapsing. Price inflation was in the low single digits and gross margin slipped `20` basis points because the prior-year quarter had been temporarily elevated by supplier-price timing. Even with that, operating leverage stayed positive because service density and cost discipline held.",
+      "The strategic layer sharpened again with M&A. Ferguson completed five acquisitions in the quarter and signed the deal for FloWorks, a distributor of highly technical valves and flow-control solutions. That pushes the company further into industrial-flow and higher-complexity channels rather than only ordinary plumbing and HVAC distribution.",
+      "On `2026-05-05`, Ferguson reported sales of `$7.472B`, gross margin of `31.0%`, reported operating profit of `$612M`, adjusted operating profit of `$647M`, operating margin of `8.2%`, adjusted operating margin of `8.7%`, and diluted EPS of `$2.13`."
+    ],
+    "signal_takeaways": [
+      "Ferguson is not a consumer brand in the ordinary sense, but it still sits under consumer behavior. When housing affordability is poor, households delay discretionary remodeling and some replacement work. That softness shows up in Ferguson\u2019s residential RMI commentary before it shows up in more obvious retail channels.",
+      "The company also sits inside a broader cultural move toward resilience and reliability. Water systems, HVAC systems, and commercial mechanical systems are not aspirational purchases. They are failure-response and uptime purchases. That makes Ferguson a good read on how cost-of-living pressure and infrastructure neglect shift spending from optional upgrades toward essential fixes.",
+      "There is also a labor-and-complexity pattern here. Specialized contractors increasingly need product availability, technical support, and simplified procurement because jobs are more fragmented and labor remains constrained. Ferguson\u2019s value proposition is built around reducing job friction rather than merely shipping boxes.",
+      "Residential weakness remains a real drag. Across the quarter chain, Ferguson repeatedly ties softness to weak new residential activity, weak permits, and soft RMI. The `Q2 2026` improvement did not remove that pressure; it only showed that Ferguson could outperform it.",
+      "Supplier pricing still matters, but the quality of margin matters more. Gross margin around `31%` was supported by disciplined execution, while some quarter-to-quarter movement came from the timing and extent of supplier price increases. That means simple margin comparisons can overstate or understate underlying operating strength.",
+      "Large capital projects and non-residential bidding are now central to the growth story. Waterworks and commercial/mechanical exposure repeatedly drove the stronger side of the business, which makes Ferguson more tied to infrastructure modernization and industrial project flow than a surface read of \"plumbing distributor\" would suggest."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Ferguson Enterprises Inc.",
+  "company_slug": "ferguson-enterprises-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/ferguson-enterprises-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE and LSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Plumbing / HVAC Distribution",
+  "local_artifacts": [
+    "analysis/company-first-principles/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-analysis.md",
+    "extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-packet.md",
+    "extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/company-profile.md",
+    "extracted/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/ferguson-enterprises-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "FERG"
+}

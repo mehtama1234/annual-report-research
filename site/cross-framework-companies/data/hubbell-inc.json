@@ -1,0 +1,271 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Hubbell is a strong next addition because it sharpens the utility-components and grid-hardening layer of the electrical buildout. The company explicitly describes itself as a provider of utility and electrical solutions that help customers operate critical infrastructure reliably and efficiently.",
+      "The annual business framing is especially useful for the archive. Hubbell organizes its portfolio around `In Front of the Meter`, `The Edge`, and `Behind the Meter`, which creates a clean map from utility transmission and distribution to communications and controls to building and industrial power consumption.",
+      "The `10-K` says the Utility Solutions segment provides critical components that allow the grid to transmit and distribute energy and make the grid smarter and more flexible. It specifically calls out T&D components, protection and control devices, smart meters, and communications systems.",
+      "The annual report also makes the strategic demand setup explicit. Management tied `2025` and the outlook into load growth, grid resiliency, transmission and substation demand, and an expanding modern grid, while also showing data-center exposure inside the portfolio map.",
+      "Hubbell is analytically useful because it is not only broad electrical exposure. It sits right at the component and control layer of the grid and the edge of the utility system, which gives the archive a stronger bridge between regulated utilities, industrial electrical equipment, and AI- and load-driven infrastructure demand.",
+      "The annual-report evidence chain is now complete at the artifact level because the official `2025` annual report PDF is saved locally."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/industrial-electrical-equipment/hubbell-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Hubbell adds a more utility-facing and grid-component-heavy layer to the industrial electrical set.",
+    "packet_path": "extracted/industrial-goods/industrial-electrical-equipment/hubbell-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` diluted EPS was `$4.52`, adjusted diluted EPS was `$5.52`, net sales grew `15%`, operating margin was `20.4%`, and adjusted operating margin was `23.9%`.",
+      "Demand and operating indicators: Utility Solutions net sales rose to `$1,026 million`, Electrical Solutions net sales rose to `$686 million`, and management raised adjusted EPS guidance to `$20.25` to `$20.55`.",
+      "Management message: management said megatrends in grid modernization, load growth, and data-center investment drove `10%` organic growth in the quarter with visible demand strength across utility and electrical markets.",
+      "Structural themes: Hubbell is converting the same power and AI-adjacent buildout seen elsewhere into grid components, controls, and behind-the-meter electrical infrastructure demand.",
+      "Results: Q1 `2026` diluted EPS was `$3.41`, adjusted diluted EPS was `$3.93`, net sales grew `11%`, operating margin was `17.4%`, and adjusted operating margin was `19.8%`.",
+      "Demand and operating indicators: Utility Solutions net sales rose to `$949 million`, Electrical Solutions net sales rose to `$568 million`, and the company raised full-year guidance."
+    ],
+    "signal_takeaways": [
+      "Sector: Hubbell adds a more utility-facing and grid-component-heavy layer to the industrial electrical set.",
+      "Utilities: this is one of the better bridge names between industrial equipment and regulated utility capex because it sits directly in transmission, substation, distribution, meters, controls, and communications.",
+      "Technology: Hubbell is another first-order physical-technology story because data-center growth and load growth are flowing into power hardware, control devices, and infrastructure on both sides of the meter.",
+      "Real Estate and industrial demand: behind-the-meter exposure also ties Hubbell into commercial, industrial, and owner-operator power needs rather than only into regulated utility systems.",
+      "Capital and execution: acquisitions like DMC Power and continued capacity investment matter because this is a scale-and-positioning story inside a structurally stronger electrical environment.",
+      "Cultural read: Hubbell gives the archive a company whose management language connects electrification, resiliency, load growth, and data centers directly to the physical grid and control layer."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Hubbell Incorporated",
+  "company_slug": "hubbell-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/hubbell-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Industrial Electrical Equipment",
+  "local_artifacts": [
+    "extracted/industrial-goods/industrial-electrical-equipment/hubbell-inc/company-packet.md",
+    "extracted/industrial-goods/industrial-electrical-equipment/hubbell-inc/company-profile.md",
+    "extracted/industrial-goods/industrial-electrical-equipment/hubbell-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/hubbell-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "HUBB"
+}

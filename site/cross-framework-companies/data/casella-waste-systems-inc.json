@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Casella is a useful `AnnualReports` blind-spot extension because the source taxonomy places it in `Industrial Goods / Waste Management`, while the more useful system read is regional route-density, landfill-control, recycling, and resource-solutions concentration across the northeastern and mid-Atlantic waste network.",
+      "`AnnualReports` taxonomy was verified on `2026-08-10` through the saved direct company page, which shows `Casella Waste Systems Inc.` under `Waste Management / Industrial Goods` and exposes the current `2025 Annual Report` and `2025 Form 10-K`.",
+      "The official Casella IR site exposed a working `2025 Annual Report` PDF and a clean quarterly-results chain for `Q4 2025`, `Q1 2026`, and `Q2 2026`, so the annual-plus-quarter source set is cleaner than several other blind-spot names.",
+      "Full-year `2025` revenue was about `$1.837 billion`, net income was about `$7.9 million`, diluted EPS was `$0.12`, adjusted net income was `$80.6 million`, adjusted diluted EPS was `$1.27`, and adjusted EBITDA was `$422.8 million`.",
+      "The annual report describes Casella as a regional solid waste, recycling, and resource management services company operating in `New Hampshire`, `New York`, `Massachusetts`, `Connecticut`, `Maine`, `Pennsylvania`, `Delaware`, `New Jersey`, `Maryland`, and `West Virginia`, with headquarters in `Rutland, Vermont`.",
+      "The operating-footprint table in the annual report sharpens why Casella matters in this lane. As of `2026-01-31`, the company reported `86` solid-waste collection facilities, `72` transfer stations, `32` recycling and processing facilities, `8` Subtitle D landfills, `2` landfill gas-to-energy facilities, and `1` construction-and-demolition landfill."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/waste-management/casella-waste-systems-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: `Waste Management` is directionally right but still too broad. Casella is most useful as a regional-density waste and recycling infrastructure company rather than as a generic environmental-services name.",
+    "packet_path": "extracted/industrial-goods/waste-management/casella-waste-systems-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` revenue was `$543.7 million`, net income was `$3.8 million`, adjusted net income was `$25.3 million`, and adjusted EBITDA was `$123.2 million`.",
+      "Operating read: solid waste pricing for the quarter was up `5.5%`, driven by `5.8%` collection price growth and `4.7%` disposal price growth.",
+      "Structural themes: management highlighted strong landfill volumes, National Accounts growth in `Resource Solutions`, and continued progress in the Mid-Atlantic region through systems integration and route-optimization work.",
+      "Acquisition signal: by `Q2 2026`, Casella had closed `five` acquisitions in `2026` with approximately `$165 million` of aggregate annualized revenue.",
+      "Results: `Q1 2026` revenue was `$457.3 million`, net loss was `$(5.5) million`, adjusted net income was `$12.8 million`, and adjusted EBITDA was `$97.1 million`.",
+      "Operating read: solid waste pricing was up `5.1%`, driven by `5.3%` collection price growth and `4.7%` disposal price growth."
+    ],
+    "signal_takeaways": [
+      "Sector: `Waste Management` is directionally right but still too broad. Casella is most useful as a regional-density waste and recycling infrastructure company rather than as a generic environmental-services name.",
+      "Consumer: the consumer link is indirect but constant. Household, municipal, commercial, and industrial activity all feed the collection, transfer, disposal, landfill, organics, and recycling systems that Casella controls.",
+      "Cultural: the cultural layer is not brand pull. It is hidden reliance on dependable pickup, disposal access, recycling flows, and low-friction local service density.",
+      "Societal: Casella sits close to the physical afterlife of consumption, where route density, landfill capacity, local regulation, and recycling economics shape what everyday consumption costs and what post-use cleanup looks like.",
+      "Industrial: the key operating variables are collection and disposal pricing, landfill volumes, route density, acquisition integration, fuel recovery, labor and automation execution, `Resource Solutions` mix, recycling commodity pressure, and environmental compliance costs including PFAS-linked risk.",
+      "Business model: Casella is useful because it shows that the waste branch also has layers. A company can own national route-density scale, national scale-peer density, hazardous-service intensity, or concentrated regional density with a more visible resource-solutions branch. Those are not the same operating position."
+    ],
+    "strategy_framework_checks": [
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Casella Waste Systems, Inc.",
+  "company_slug": "casella-waste-systems-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::dividends-and-buybacks",
+          "title": "Dividends and buybacks"
+        }
+      ],
+      "use_case": "handle-life-cycle-or-special-situation"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when upside or downside depends on contingent choices rather than a single base-case cash-flow path.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::dividends-and-buybacks",
+          "title": "Dividends and buybacks"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::incremental-cash-flows",
+          "title": "Incremental cash flows"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::objective-function",
+          "title": "Objective function"
+        }
+      ],
+      "use_case": "value-optionality"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/casella-waste-systems-inc.json",
+  "deep_exemplar": false,
+  "exchange": "Nasdaq",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Waste Management",
+  "local_artifacts": [
+    "extracted/industrial-goods/waste-management/casella-waste-systems-inc/company-packet.md",
+    "extracted/industrial-goods/waste-management/casella-waste-systems-inc/company-profile.md",
+    "extracted/industrial-goods/waste-management/casella-waste-systems-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-scarce-assets-and-hard-money-portfolio-role",
+      "source": "https://www.lynalden.com/april-2024-newsletter/",
+      "title": "Scarce assets and hard-money portfolio role",
+      "when_to_use": "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/casella-waste-systems-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "CWST"
+}

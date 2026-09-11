@@ -1,0 +1,275 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "United Rentals\u2019 2025 annual report centers on being the customer\u2019s \u201cpartner of choice\u201d across general rental and specialty products and services, supported by technology, safety, and operational excellence.",
+      "Fiscal `2025` produced record total revenue of `$16.1 billion`, GAAP diluted EPS of `$38.61`, adjusted EPS of `$42.06`, net income of `$2.5 billion`, adjusted EBITDA of `$7.3 billion`, operating cash flow of `$5.2 billion`, and free cash flow of `$2.2 billion`.",
+      "The annual letter says large projects drove most of the company\u2019s growth in `2025`, with strong demand in non-residential construction and infrastructure plus industrial strength in power.",
+      "Specialty remains a major structural story. Management says specialty again posted double-digit growth and that the company opened `60` new specialty branches in `2025`.",
+      "The annual report also reinforces the long-term secular case:",
+      "shift toward renting"
+    ],
+    "damodaran_questions": [
+      "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/industrial-goods/rental-leasing-services/united-rentals-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Industrial: this is a read on construction, infrastructure, manufacturing, energy, and project activity, but filtered through rental penetration rather than direct equipment orders.",
+    "packet_path": "extracted/industrial-goods/business-services/united-rentals-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 2026 total revenue was `$4.410 billion`, rental revenue was `$3.849 billion`, net income was `$753 million`, adjusted EBITDA was `$2.056 billion`, and adjusted EPS was `$12.76`.",
+      "Operating signal: fleet productivity increased `3.4%`, year-to-date operating cash flow reached `$3.305 billion`, and year-to-date gross rental capex reached `$2.931 billion`.",
+      "Management message: customers remained optimistic, particularly around large projects, and the company raised full-year 2026 guidance.",
+      "Structural meaning: this is the rental-access model working at full strength. Utilization, pricing, fleet scale, and capital discipline are all contributing at once.",
+      "Results: Q1 2026 rental revenue increased `8.7%` to `$3.419 billion`, net income reached `$531 million`, and adjusted EBITDA increased `5.3%` to `$1.759 billion`.",
+      "Operating signal: general rentals rental revenue increased `6.2%`, specialty rentals rental revenue increased `13.8%`, and operating cash flow increased `6.2%` to `$1.514 billion`."
+    ],
+    "signal_takeaways": [
+      "Industrial: this is a read on construction, infrastructure, manufacturing, energy, and project activity, but filtered through rental penetration rather than direct equipment orders.",
+      "Societal: companies increasingly prefer flexibility over ownership when capital is expensive, project timing is uncertain, and specialized fleets are hard to manage internally.",
+      "Cultural: B2B customers want operational simplicity. One-stop-shop service, digital coordination, and specialty breadth become part of the value proposition.",
+      "Labor: the annual letter notes a tight labor market and strong retention. More broadly, renting substitutes for internal maintenance, logistics, and fleet-management labor at the customer level.",
+      "Technology: \u201cmarket-leading technology platforms\u201d and digital customer experience matter because asset visibility, dispatch, and response time improve the economics of access.",
+      "Capital allocation: the company combines aggressive fleet investment, used-equipment recycling, repurchases, dividends, and leverage discipline. That makes rental access look more like infrastructure capital allocation than a basic distributor model."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "United Rentals, Inc.",
+  "company_slug": "united-rentals-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "account-for-institutions-trust-and-fit"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/united-rentals-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Rental & Leasing Services",
+  "local_artifacts": [
+    "analysis/company-first-principles/industrial-goods/rental-leasing-services/united-rentals-inc/company-analysis.md",
+    "extracted/industrial-goods/business-services/united-rentals-inc/company-packet.md",
+    "extracted/industrial-goods/business-services/united-rentals-inc/company-profile.md",
+    "extracted/industrial-goods/business-services/united-rentals-inc/source-ledger.md",
+    "extracted/industrial-goods/rental-leasing-services/united-rentals-inc/company-packet.md",
+    "extracted/industrial-goods/rental-leasing-services/united-rentals-inc/company-profile.md",
+    "extracted/industrial-goods/rental-leasing-services/united-rentals-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-scarce-assets-and-hard-money-portfolio-role",
+      "source": "https://www.lynalden.com/april-2024-newsletter/",
+      "title": "Scarce assets and hard-money portfolio role",
+      "when_to_use": "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/united-rentals-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "URI"
+}

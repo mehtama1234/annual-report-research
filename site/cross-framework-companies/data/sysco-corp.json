@@ -1,0 +1,266 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Sysco is the support-layer company that keeps this lane from collapsing into pure consumer storytelling. It supplies the restaurant, hospitality, and away-from-home food system that sits underneath participation and occasion demand.",
+      "The `2025` annual materials show a business that is less about generic wholesale and more about logistics density, local restaurant penetration, sourcing discipline, and inflation management.",
+      "Sysco's annual risk and strategy language are useful because they bring operating reality into the lane: low margins, labor pressure, supply-chain optimization, customer mix, inflation or deflation risk, and the importance of local independent-restaurant case growth.",
+      "That makes Sysco a strong contrast case. Hilton, RH, and Signet read more directly as experience, identity, or occasion monetizers. Sysco reads as the behind-the-scenes infrastructure that benefits when restaurants, hospitality, and event-linked demand stay active.",
+      "AnnualReports.com lagged here as of `2026-08-10`, still showing `2024` as the most recent package, so the authoritative annual-plus-quarter chain had to come from official IR and the SEC."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/food-wholesale/sysco-corp/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Consumer trend: Sysco is an indirect but powerful read on restaurants, travel, gatherings, and social eating because it sits upstream of those experiences.",
+    "packet_path": "extracted/services/food-wholesale/sysco-corp/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: the `Q4 FY26` earnings release PDF plus the matching SEC `8-K` wrapper and press-release exhibit are now saved locally, giving the packet a current-quarter operating read with the full release-and-filing chain preserved.",
+      "Structural read: this quarter matters because it shows whether away-from-home demand, hospitality throughput, and restaurant activity remained healthy into summer `2026`. It is the freshest operating check for the physical participation economy in this batch.",
+      "Management message: Sysco's current-quarter materials continue to frame performance around sales growth, case growth, gross-profit control, and execution against local-customer and sourcing initiatives rather than around headline consumer sentiment alone.",
+      "Results: the `Q3 FY26` release reported sales growth of `4.7%`, U.S. Foodservice volume growth of `2.3%`, U.S. local volume growth of `3.3%`, gross profit growth of `6.5%` to about `$3.8B`, operating income of `$619M`, adjusted operating income of `$768M`, and adjusted EPS of `$0.94`.",
+      "Management message: Sysco emphasized accelerating local case growth, expanded gross margins, strategic sourcing efficiencies, and confidence that U.S. local growth would remain above `2.5%` in `Q4`.",
+      "Structural read: `Q3 FY26` is the strongest quarter in this packet for proving that the experiential consumption layer needs real operating infrastructure underneath it. Restaurants and hospitality can feel strong, but the supplier still has to manage pricing, sourcing, and labor to convert that into earnings."
+    ],
+    "signal_takeaways": [
+      "Consumer trend: Sysco is an indirect but powerful read on restaurants, travel, gatherings, and social eating because it sits upstream of those experiences.",
+      "Cultural shift: if Hilton and Signet show people still paying for travel and ritual, Sysco shows whether enough of that activity is flowing through dining and hospitality channels to matter operationally.",
+      "Industrial pressure: product-cost inflation, labor, routing density, and local-customer case growth are central.",
+      "Participation and experience: Sysco monetizes participation one layer removed from the end consumer. It wins when people go out, travel, celebrate, or dine away from home often enough to keep restaurant and hospitality demand constructive.",
+      "Bigger-picture pattern: the lane is stronger with Sysco because it proves that experiential demand is not just a marketing story. It requires freight, sourcing, margin discipline, and customer-density economics."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Sysco Corporation",
+  "company_slug": "sysco-corp",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/sysco-corp.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Food Wholesale",
+  "local_artifacts": [
+    "extracted/services/food-wholesale/sysco-corp/company-packet.md",
+    "extracted/services/food-wholesale/sysco-corp/company-profile.md",
+    "extracted/services/food-wholesale/sysco-corp/source-ledger.md",
+    "extracted/services/retail-grocery-stores/sysco-corp/company-packet.md",
+    "extracted/services/retail-grocery-stores/sysco-corp/company-profile.md",
+    "extracted/services/retail-grocery-stores/sysco-corp/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/sysco-corp.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "SYY"
+}

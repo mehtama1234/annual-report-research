@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Estee Lauder gives the consumer-goods sample a second beauty datapoint, but a very different one from Coty. This is a prestige-beauty portfolio with large global brands, stronger premium positioning, and a clearer operating-reset plan.",
+      "The 2025 10-K says the company sells skin care, makeup, fragrance, and hair care products in approximately `150` countries and territories. Online sales are concentrated in mainland China, the United States, and the United Kingdom, which makes channel and regional mix central to the story.",
+      "Management frames the business through `Beauty Reimagined` and the `PRGP`. The stated objective is not simply cost cutting. It is to restore growth, rebuild operating leverage, and get back to a solid double-digit adjusted operating margin over the next few years.",
+      "This matters because it refines the sector read. Beauty is not just a weak consumer-goods pocket. Estee Lauder shows that prestige beauty can recover when brand strength, fragrance momentum, China stabilization, and restructuring execution align.",
+      "Even so, this remains more volatile than staples. Tariffs, travel-retail conditions, regional swings, and litigation or geopolitical disruptions all matter more here than they do for Kimberly-Clark or Colgate."
+    ],
+    "damodaran_questions": [
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Estee Lauder widens the consumer-goods sample beyond staples and proves the beauty pocket is internally split, not uniformly weak.",
+    "packet_path": "extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: FY2026 Q3 net sales were `$3.712 billion`, up `5%`; organic net sales rose `2%`; gross margin was `76.4%`; adjusted operating income was `$557 million`; adjusted operating margin was `15.0%`; and adjusted diluted EPS was `$0.91`.",
+      "Guidance: on May 1, 2026, management raised full-year FY2026 outlook on organic net sales and adjusted profitability and gave a preliminary FY2027 view of `3%` to `5%` net sales growth with adjusted operating margin of `12.5%` to `13.0%`.",
+      "Management message: management said Beauty Reimagined execution remained on track, highlighted double-digit fragrance growth, and said growth in three of four geographic regions was led by mainland China.",
+      "Structural themes: this is the cleanest evidence so far that prestige beauty is recovering faster than weaker beauty portfolios. Estee Lauder is still exposed to volatility, but it currently reads as an execution-led turnaround rather than a category collapse.",
+      "Results: FY2026 Q2 net sales were `$4.229 billion`, up `6%`; organic net sales rose `4%`; gross margin was `76.5%`; adjusted operating income was `$608 million`; adjusted operating margin was `14.4%`; and adjusted diluted EPS was `$0.89`.",
+      "Guidance: management raised fiscal 2026 outlook, tightening the net-sales range and raising adjusted EPS and adjusted operating-margin expectations."
+    ],
+    "signal_takeaways": [
+      "Sector: Estee Lauder widens the consumer-goods sample beyond staples and proves the beauty pocket is internally split, not uniformly weak.",
+      "Consumer: premium beauty demand is behaving selectively. Fragrance is strongest, skin care is improving, and success depends heavily on innovation, channel execution, and share capture rather than broad household necessity.",
+      "Cultural: trend sensitivity remains high. Fragrance, prestige positioning, social and digital channels, and mainland-China beauty sentiment matter much more here than they do in the staples names.",
+      "Regulatory and geopolitical: tariffs, Middle East conflict effects, and litigation costs all show up directly in the earnings story.",
+      "Labor: labor matters mostly through the `PRGP`, outsourcing, operating-model redesign, and workforce reduction rather than through frontline labor constraints.",
+      "Technology: technology shows up through digital commerce, omnichannel infrastructure, AI-enabled personalization, and operating-model redesign rather than through the product itself."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "The Estee Lauder Companies Inc.",
+  "company_slug": "estee-lauder-companies-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/estee-lauder-companies-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Personal Products",
+  "local_artifacts": [
+    "extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-packet.md",
+    "extracted/consumer-goods/personal-products/estee-lauder-companies-inc/company-profile.md",
+    "extracted/consumer-goods/personal-products/estee-lauder-companies-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/estee-lauder-companies-inc.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "EL"
+}

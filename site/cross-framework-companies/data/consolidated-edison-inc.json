@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Con Edison is the right sixth utility because it adds the dense urban regulated utility control case. It broadens the sample away from companies whose stories are increasingly dominated by hyperscaler load, generation buildout, or development-platform rhetoric.",
+      "AnnualReports currently classifies Con Edison as `Utilities / Electric Utilities`, which fits the basic regulated electric framing, but the current company is better understood as a broader regulated urban energy-infrastructure system spanning electric, gas, steam, and transmission exposure.",
+      "Official company materials describe Consolidated Edison, Inc. as a holding company whose main regulated businesses are Consolidated Edison Company of New York, Orange and Rockland Utilities, and Con Edison Transmission. The footprint is concentrated in New York City, Westchester, southeastern New York, and northern New Jersey.",
+      "The annual and quarterly framing is less about blockbuster AI-power announcements and more about reliability, affordability, resilience, electrification, substations, and disciplined capital planning. That matters because it shows the utility build cycle can still be visible in a company whose messaging stays closer to public-service infrastructure than to growth-platform marketing.",
+      "Con Edison\u2019s strategic point is that a regulated utility serving one of the country\u2019s most economically important urban regions can still deliver durable earnings growth through approved investment, system hardening, and electrification-led network expansion without depending on the loudest large-load narrative."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/utilities/electric-utilities/consolidated-edison-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Con Edison is the cleaner weaker-growth and less-hyped control case the utilities set needed. It shows the current utility story does not require an explicit hyperscaler or merchant-power angle to remain relevant.",
+    "packet_path": "extracted/utilities/electric-utilities/consolidated-edison-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` net income for common stock was `$308 million` or `$0.83` per share, and adjusted earnings were also `$308 million` or `$0.83` per share.",
+      "Guidance: management reaffirmed full-year `2026` adjusted EPS guidance of `$6.00` to `$6.20`.",
+      "Management message: the Q2 release emphasized nation-leading electric reliability, targeted infrastructure investment, affordability, and support for New York\u2019s clean-energy transition.",
+      "Structural themes: management said year-to-date results were in line with expectations, pointed to electrification of buildings and transportation, and said it expects `28` new substations in service by `2035` alongside tens of billions of dollars of other capital investment.",
+      "Operating themes: the quarter still reads like a regulated utility compounding story built on resilience and network expansion, not on step-change merchant or hyperscaler upside.",
+      "Results: Q1 `2026` net income for common stock was `$924 million` or `$2.55` per share, while adjusted earnings were `$790 million` or `$2.18` per share versus `$792 million` or `$2.26` per share a year earlier."
+    ],
+    "signal_takeaways": [
+      "Sector: Con Edison is the cleaner weaker-growth and less-hyped control case the utilities set needed. It shows the current utility story does not require an explicit hyperscaler or merchant-power angle to remain relevant.",
+      "Industrial: the industrial read is urban grid modernization, substations, resilience, and electrification infrastructure rather than greenfield generation or broad industrial-campus development.",
+      "Consumer: Con Edison pushes affordability much harder than most peers. The company repeatedly frames investment through customer reliability, discounts for income-eligible customers, outage avoidance, and keeping the transition manageable in a politically sensitive service territory.",
+      "Cultural: this is one of the clearest reminders in the archive that some infrastructure stories are still fundamentally civic stories. New York service reliability, heat resilience, and the social legitimacy of utility investment are central to the narrative.",
+      "Regulatory: Con Edison is highly regulation-shaped. Three-year rate plans, approved investment programs, and authorized return support are part of the core earnings architecture rather than side issues.",
+      "Technology: the technology angle is indirect. Electrification, cleaner-energy adoption, substations, and system hardening matter more than AI demand rhetoric. That contrast helps separate general grid-build economics from the market\u2019s current AI-power enthusiasm."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Consolidated Edison, Inc.",
+  "company_slug": "consolidated-edison-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/consolidated-edison-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Electric Utilities",
+  "local_artifacts": [
+    "extracted/utilities/electric-utilities/consolidated-edison-inc/company-packet.md",
+    "extracted/utilities/electric-utilities/consolidated-edison-inc/company-profile.md",
+    "extracted/utilities/electric-utilities/consolidated-edison-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/consolidated-edison-inc.html",
+  "sector": "Utilities",
+  "template_role": "",
+  "ticker": "ED"
+}

@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Church & Dwight's `2025` annual and year-end materials show a narrower everyday-use household and personal-care platform than Procter & Gamble, but one that is increasingly shaped by brand incubation, acquisitions, and eCommerce scale rather than by a static legacy-brand portfolio alone.",
+      "Full-year `2025` net sales reached `$6.2032 billion`, reported growth was `1.6%`, organic sales growth was `0.7%`, adjusted EPS reached `$3.53`, and cash from operations was `$1.215 billion`.",
+      "The annual read matters because management explicitly framed the company as balancing value and premium products while pruning weaker or slower assets. During `2025`, Church & Dwight exited the VMS, FLAWLESS, SPINBRUSH, and WATERPIK showerhead businesses and repositioned the portfolio toward faster-growing brands and categories.",
+      "This is one of the cleaner acquisition-led routine-use stories in Consumer Goods. THERABREATH, HERO, TOUCHLAND, and later MISS MOUTH'S show a model where everyday demand is reinforced by newer brands with stronger growth or digital momentum.",
+      "Compared with Kimberly-Clark and Colgate, Church & Dwight reads as more acquisition-active and eCommerce-forward. Compared with P&G, it is much narrower and more selective, but that narrower shape makes it a useful test of whether routine-use resilience can still hold without massive category breadth."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/cleaning-products/church-dwight-co-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Church & Dwight strengthens the case that household and personal-care resilience does not require P&G-like breadth. A narrower portfolio can still work if routine demand, digital growth, and disciplined portfolio management align.",
+    "packet_path": "extracted/consumer-goods/cleaning-products/church-dwight-co-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` net sales increased `1.6%` to `$1.530 billion`, organic sales growth accelerated to `5.8%`, adjusted gross margin was `45.4%`, reported EPS was `$0.85`, adjusted EPS was `$0.89`, and first-half cash from operations reached `$461.6 million`.",
+      "Guidance: on July 31, 2026, Church & Dwight raised its `2026` outlook to net sales of flat to `+1%`, organic sales growth of `4%` to `5%`, adjusted gross margin expansion of `100` to `120` basis points, adjusted EPS growth of `6%` to `8%`, and cash from operations of about `$1.175 billion`.",
+      "Management message: management called this the second straight quarter of industry-leading organic sales growth and highlighted broad-based gains across all three divisions.",
+      "Structural themes: eCommerce grew `22.7%` in Q2 and global online sales reached `25.5%` of total consumer sales, which makes Church & Dwight one of the cleaner examples of a staples-like routine-use company still gaining digital share.",
+      "Results: Q1 `2026` net sales increased `0.2%`, organic sales growth was `5.0%`, adjusted gross margin was `46.4%`, reported EPS was `$0.91`, adjusted EPS was `$0.95`, and cash from operations was `$174.8 million`.",
+      "Guidance: Church & Dwight maintained a `2026` outlook at that time calling for reported net sales of `-1.5%` to `-0.5%`, organic sales growth of `3%` to `4%`, adjusted gross margin expansion of `100` basis points, and cash from operations of about `$1.15 billion`."
+    ],
+    "signal_takeaways": [
+      "Sector: Church & Dwight strengthens the case that household and personal-care resilience does not require P&G-like breadth. A narrower portfolio can still work if routine demand, digital growth, and disciplined portfolio management align.",
+      "Consumer: this is a useful read on how consumers still buy trusted everyday-use products across household cleaning, oral care, over-the-counter wellness, and specialty personal care, while newer premium or digitally recruited brands can still scale.",
+      "Cultural: the signal is less about aspirational branding and more about trusted efficacy, repeat use, wellness adjacency, and online brand discovery.",
+      "Regulatory: tariffs and inflation are visible enough to matter in the margin discussion, but the more important read is still brand mix and portfolio pruning.",
+      "Labor: labor is not the central message. Productivity, digital commerce, and brand mix are more visible than workforce themes.",
+      "Technology: technology mainly appears through eCommerce penetration, digital marketing, and acquisition-led innovation rather than as a standalone product thesis."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Church & Dwight Co. Inc.",
+  "company_slug": "church-dwight-co-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/church-dwight-co-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Cleaning Products",
+  "local_artifacts": [
+    "extracted/consumer-goods/cleaning-products/church-dwight-co-inc/company-packet.md",
+    "extracted/consumer-goods/cleaning-products/church-dwight-co-inc/company-profile.md",
+    "extracted/consumer-goods/cleaning-products/church-dwight-co-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/church-dwight-co-inc.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "CHD"
+}

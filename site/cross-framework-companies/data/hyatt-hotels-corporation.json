@@ -1,0 +1,270 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Hyatt\u2019s `2025` annual report shows a global hospitality platform built around management, franchising, ownership, and distribution rather than only traditional hotel ownership.",
+      "Fiscal `2025` revenue reached `$7.101 billion`, net loss attributable to Hyatt Hotels Corporation was `$(52) million`, and Adjusted EBITDA was `$1.159 billion`.",
+      "At year-end `2025`, Hyatt\u2019s portfolio included `1,528` hotels and all-inclusive resorts with `372,763` rooms.",
+      "The annual report describes a business moving toward a more \u201cinsights-led and brand-focused\u201d structure. That matters because it signals a platform mindset: deepen the brand relationship, expand the network, and monetize owners and guests more efficiently.",
+      "The annual materials also show the breadth of the interface:",
+      "owner and developer relationships"
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/lodging/hyatt-hotels-corporation/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Consumer: premium and experience-driven travel demand remains durable, especially in luxury, upper upscale, and group segments.",
+    "packet_path": "extracted/services/lodging/hyatt-hotels-corporation/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 2026 comparable system-wide hotels RevPAR increased `5.9%`, diluted EPS was `$1.14`, net income attributable to Hyatt was `$110 million`, gross fees were `$324 million`, and Adjusted EBITDA was `$297 million`.",
+      "Network signal: pipeline rooms reached approximately `154,000`, up `10.0%` year over year.",
+      "Management message: Hyatt said the resilience of its core fee business offset temporary regional headwinds and allowed it to maintain full-year outlook.",
+      "Structural meaning: this is the fee-led hospitality model working. Travel demand, owner-network economics, and brand distribution can stay healthy even when some regions weaken.",
+      "Results: Q1 2026 comparable system-wide hotels RevPAR increased `5.4%`, net income attributable to Hyatt was `$38 million`, gross fees were `$333 million`, and Adjusted EBITDA was `$266 million`.",
+      "Network signal: pipeline rooms reached a record `151,000`, up `9.4%` year over year."
+    ],
+    "signal_takeaways": [
+      "Consumer: premium and experience-driven travel demand remains durable, especially in luxury, upper upscale, and group segments.",
+      "Cultural: hospitality still functions as a status, leisure, and event platform. Hyatt\u2019s results show that branded travel experiences remain economically valuable.",
+      "Institutional: group and business transient demand mean Hyatt also reflects conference, corporate, and organizational travel patterns.",
+      "Service layer: guest-facing hospitality is only the visible surface. Underneath it are owner relationships, development contracts, brand standards, loyalty systems, and fee monetization.",
+      "Technology: Hyatt\u2019s use-of-technology language supports a broader trend where service companies try to deepen response speed, brand personalization, and platform coordination.",
+      "Capital / asset strategy: Hyatt\u2019s Playa transactions and other asset sales show a continued move toward asset-light economics and longer-duration fee streams."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Hyatt Hotels Corporation",
+  "company_slug": "hyatt-hotels-corporation",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/hyatt-hotels-corporation.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Lodging",
+  "local_artifacts": [
+    "extracted/services/lodging/hyatt-hotels-corporation/company-packet.md",
+    "extracted/services/lodging/hyatt-hotels-corporation/company-profile.md",
+    "extracted/services/lodging/hyatt-hotels-corporation/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/hyatt-hotels-corporation.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "H"
+}

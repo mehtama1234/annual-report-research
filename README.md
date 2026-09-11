@@ -204,3 +204,46 @@ For the note-boundary and insight-system audit layer:
   - `bash scripts/audit-browser-review-links.sh`
 - run only the full insight-system verifier with:
   - `bash scripts/verify-insight-system.sh`
+
+## Cross-Framework Company Pages
+
+Build per-company pages that route the annual-report roster through local
+annual-report evidence, the Damodaran method library, Lyn Alden-style
+macro/liquidity methods, and other investor/strategy frameworks:
+
+```bash
+python3 scripts/build-cross-framework-company-pages.py
+python3 scripts/verify-cross-framework-company-pages.py
+```
+
+Generated artifacts:
+
+- `analysis/deep-company-pages/*.md`
+- `analysis/cross-framework-company-method-registry.json`
+- `analysis/cross-framework-company-method-report.md`
+- `site/cross-framework-companies/index.html`
+- `site/cross-framework-companies/companies/*.html`
+- `site/cross-framework-companies/data/*.json`
+
+The first finished end-to-end exemplar pair is:
+
+- [McDonald's Corporation](/site/cross-framework-companies/companies/mcdonalds-corporation.html)
+- [Chipotle Mexican Grill](/site/cross-framework-companies/companies/chipotle-mexican-grill.html)
+
+Those two pages define the template to scale: company conclusion, investor
+conclusion, plain-English memo, framework findings, Damodaran/Lyn routing,
+annual and quarterly evidence, business-model mechanisms, what would prove the
+conclusion wrong, next filing watchlist, source register, and a peer comparison
+bridge.
+
+For the finished exemplars, the real prose source is the markdown memo under
+`analysis/deep-company-pages/`. Edit those memos first, then rebuild the HTML.
+
+The generated pages use three status tiers:
+
+- `detailed-first-principles` - a rich `company-analysis.json` exists and is
+  folded into the page.
+- `packet-backed` - a local `company-packet.md` exists and supplies annual,
+  quarterly, and signal takeaways.
+- `roster-workbench` - only the roster row is available, so the page is an
+  explicit workbench for the next evidence pass.

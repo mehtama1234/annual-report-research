@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Dow gives the Basic Materials archive the chemicals and materials-science layer that the current starter set lacked. This is important because it moves the sector read beyond extraction and farm inputs into conversion chemistry, plastics, coatings, silicones, and downstream industrial applications.",
+      "The `2025` annual filing shows real global scale: `91` manufacturing sites in `29` countries, approximately `34,600` employees, and sales of approximately `$40 billion` in `2025`.",
+      "Dow operates through `6` global businesses organized into `3` operating segments: Packaging & Specialty Plastics, Industrial Intermediates & Infrastructure, and Performance Materials & Coatings. That makes this a diversified processing and application company rather than a single-product chemical producer.",
+      "The base year was weak. Full-year `2025` net sales were `$40.0 billion`, but GAAP net loss was `$2.4 billion` and operating EBIT was only about `$0.4 billion`. This is a large company with depressed earnings power heading into `2026`.",
+      "The annual filing and quarterlies show the key strategic pivot clearly: `Transform to Outperform`. Management approved the program in late January `2026` to simplify the operating model, reduce cost structure, and accelerate growth, targeting at least `$2 billion` of near-term operating EBITDA improvement on top of the previously announced `$1 billion` structural cost program.",
+      "The cleaner strategic read is that Dow is trying to turn a difficult chemicals cycle into a restructuring window. The company is shrinking weaker parts of the footprint, leaning on feedstock flexibility and asset integration, and trying to preserve its stronger downstream franchises through the downturn."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/basic-materials/chemicals-major-diversified/dow-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Dow is strong evidence that Basic Materials is not just extraction, energy, and metals. It also includes conversion chemistry and application-layer materials that sit inside packaging, coatings, silicones, plastics, and construction inputs.",
+    "packet_path": "extracted/basic-materials/chemicals-major-diversified/dow-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` net sales were `$12.1 billion`, GAAP net income was `$802 million`, operating EBIT was `$1.648 billion`, operating EBITDA was `$2.312 billion`, and operating EPS was `$1.44`.",
+      "Segment read: Packaging & Specialty Plastics generated `$6.385 billion` of net sales and `$1.278 billion` of operating EBIT; Industrial Intermediates & Infrastructure generated `$3.166 billion` of sales and `$246 million` of operating EBIT; Performance Materials & Coatings generated `$2.361 billion` of sales and `$133 million` of operating EBIT.",
+      "Cash and capital return: cash provided by operating activities from continuing operations was `$1.324 billion`, and returns to shareholders totaled `$253 million` of dividends.",
+      "Management message: management emphasized higher polyethylene prices, strong execution, and in-year benefits from self-help actions rising above `$1.3 billion`.",
+      "Structural themes: `Q2 2026` is the clearest evidence that Dow\u2019s earnings power is highly sensitive to the chemicals margin backdrop, especially polyethylene. It also shows why the company matters for the wider archive: chemicals price recovery, plastics demand, industrial solutions, and data-center-related applications can all move through the same asset network.",
+      "Results: `Q1 2026` net sales were `$9.8 billion`, GAAP loss was `$445 million`, operating EBIT was `$154 million`, operating EBITDA was `$873 million`, and operating EPS was `($0.14)`."
+    ],
+    "signal_takeaways": [
+      "Sector: Dow is strong evidence that Basic Materials is not just extraction, energy, and metals. It also includes conversion chemistry and application-layer materials that sit inside packaging, coatings, silicones, plastics, and construction inputs.",
+      "Consumer: Dow is far upstream from the consumer, but the end-market map matters. Packaging, home and personal care, mobility, construction, and electronics all show up in the quarterlies, making Dow a useful bridge between raw materials and consumer-facing demand.",
+      "Cultural: one useful cultural signal is that materials science still matters even in a software-heavy market narrative. The real economy still depends on plastics, coatings, silicones, performance monomers, and industrial chemical systems.",
+      "Regulatory: trade flows, environmental standards, carbon intensity, plant closures, and geopolitics affecting feedstocks and regional supply are central to results here. This is another place where policy and geopolitics are direct earnings variables.",
+      "Labor: this is a labor-and-asset network story as much as a commodity story. Dow\u2019s announced workforce reduction of approximately `4,500` roles is a material part of the current operating reset.",
+      "Technology: Dow\u2019s technology signal is process, materials, and application driven rather than digital-native. The quarterlies also show direct exposure to electronics demand and data-center-related industrial applications."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Dow Inc.",
+  "company_slug": "dow-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/dow-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Chemicals - Major Diversified",
+  "local_artifacts": [
+    "extracted/basic-materials/chemicals-major-diversified/dow-inc/company-packet.md",
+    "extracted/basic-materials/chemicals-major-diversified/dow-inc/company-profile.md",
+    "extracted/basic-materials/chemicals-major-diversified/dow-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/dow-inc.html",
+  "sector": "Basic Materials",
+  "template_role": "",
+  "ticker": "DOW"
+}

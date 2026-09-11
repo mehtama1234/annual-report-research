@@ -1,0 +1,266 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Etsy is a critical addition because it gives the lane a digital marketplace that still monetizes gifting, taste, ritual, and identity rather than commodity e-commerce.",
+      "The `2025` annual report states that the Etsy marketplace had `86.5M` active buyers and `5.6M` active sellers at year-end, with `74%` of GMS from U.S. buyers and `26%` from buyers outside the U.S.",
+      "The annual report also makes the cultural logic explicit. Etsy says it is a marketplace for unique and creative goods, built around unique items, search and discovery, authentic human connections, and a trusted brand. That is precisely the kind of societal and consumer pattern work the user asked to surface.",
+      "The `10-K` specifically calls out cross-category purchase occasions such as gifting, holidays, and personal milestones including weddings as a key focus area. That makes Etsy a direct consumer-behavior comparator against Signet, RH, and hospitality names even though the model is digital.",
+      "The pressure map is modern and important: cross-border shipping, tariffs, de minimis policy risk, AI-amplified fraud, seller trust, and the ability to keep matching buyers and sellers efficiently."
+    ],
+    "damodaran_questions": [
+      "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/retail-catalog-mail-order-houses/etsy-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Consumer trend: Etsy is a clean filed read on consumers still paying for personalized goods, gifts, wedding-adjacent purchases, home-expression categories, and objects that carry social meaning rather than pure utility.",
+    "packet_path": "extracted/services/retail-catalog-mail-order-houses/etsy-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: the `Q2 2026` shareholder-letter chain remained local-source-complete through the SEC, and the company framed the quarter around growth potential, loyalty, AI-related initiatives, and restructuring-linked execution rather than a simple gross volume update.",
+      "Structural themes: this period matters because Etsy is increasingly trying to improve discovery, trust, and relevance at the same time it modernizes the platform for AI-assisted shopping and seller operations. That keeps the packet aligned with the user's request for bigger-picture patterns rather than just historical numbers.",
+      "Operating read: the current quarter looks less like a static marketplace report and more like a platform-transition period centered on loyalty, AI use cases, and tighter execution.",
+      "Results: `Q1 2026` is likewise captured through a shareholder-letter structure, with management emphasizing momentum in customer-centric priorities and the expected future impact of strategic investments.",
+      "Structural themes: this quarter reinforces that Etsy's management is trying to shift the marketplace from stabilization into renewed relevance by improving discovery, trust, and repeat engagement rather than by chasing low-quality volume.",
+      "Operating read: it is a useful bridge between the cleaner numerical `Q4 2025` release and the more forward-looking `Q2 2026` letter."
+    ],
+    "signal_takeaways": [
+      "Consumer trend: Etsy is a clean filed read on consumers still paying for personalized goods, gifts, wedding-adjacent purchases, home-expression categories, and objects that carry social meaning rather than pure utility.",
+      "Cultural and societal shift: the platform sits directly inside the archive's themes of authenticity, creative labor, individuality, and digitally mediated participation. Etsy monetizes the desire to buy from people, not only from brands or warehouses.",
+      "Industrial and operating pressure: marketplace trust, fraud prevention, shipping reliability, tariff exposure, international trade rules, and AI-enabled discovery all show up as real operating constraints.",
+      "Bigger-picture pattern: Etsy demonstrates that consumer demand for differentiated and meaning-rich goods remains durable, but the winning platform has to solve matching, trust, and relevance better every year.",
+      "Technology and interface signal: the AI shopping partnerships and agentic checkout language make Etsy one of the clearer examples of how commerce interfaces may shift from destination sites toward intent-capture inside AI assistants and search layers."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Etsy, Inc.",
+  "company_slug": "etsy-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "account-for-institutions-trust-and-fit"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/etsy-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Internet Service Providers",
+  "local_artifacts": [
+    "extracted/services/retail-catalog-mail-order-houses/etsy-inc/company-packet.md",
+    "extracted/services/retail-catalog-mail-order-houses/etsy-inc/company-profile.md",
+    "extracted/services/retail-catalog-mail-order-houses/etsy-inc/source-ledger.md",
+    "extracted/technology/internet-service-providers/etsy-inc/company-packet.md",
+    "extracted/technology/internet-service-providers/etsy-inc/company-profile.md",
+    "extracted/technology/internet-service-providers/etsy-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/etsy-inc.html",
+  "sector": "Technology",
+  "template_role": "",
+  "ticker": "ETSY"
+}

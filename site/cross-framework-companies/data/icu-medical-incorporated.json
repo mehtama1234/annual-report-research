@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The `2025` annual chain describes ICU Medical as a developer, manufacturer, and seller of products used in infusion systems, infusion consumables, and high-value critical care across hospital, alternate-site, and home-care settings.",
+      "The operating model is more channel-oriented than a plain medtech label suggests. The annual filing says the company sells globally through its own direct sales force and through independent distributors.",
+      "The revenue-recognition section makes the commercial counterparties explicit. ICU Medical says the vast majority of sales across `Consumables`, `Infusion Systems`, and `Vital Care` are stand-alone product sales to hospitals and distributors, with revenue typically recognized at shipment.",
+      "Full-year `2025` revenue reached `$2.2313 billion`, down from `$2.3820 billion` in `2024`, while adjusted diluted EPS reached `$7.75`. Product mix for the year was `Consumables` at `$1.1092 billion`, `Infusion Systems` at `$684.2 million`, and `Vital Care` at `$437.9 million`.",
+      "The annual liquidity narrative is important for CLI 8 because this is a working-capital and resilience story as much as a product story. The filing says cash and cash equivalents plus short-term investment securities were `$308.0 million` at `2025-12-31`, down slightly from `$308.6 million` a year earlier, after debt paydown and the IV Solutions transaction.",
+      "Operating pressure is visible in inventory and sourcing. The annual filing says inventory increased partly to build safety-stock levels and partly because tariffs were capitalized into inventory, while raw-material sourcing remains exposed to single-source and limited-source suppliers."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/healthcare/medical-equipment-wholesale/icu-medical-incorporated/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "ICU Medical is not consumer-facing in the usual sense, but it sits close to several large societal shifts: more care moving outside hospitals, more chronic-care coordination, more pressure to keep clinical workflows reliable, and more dependence on recurring non-drug healthcare infrastructure.",
+    "packet_path": "extracted/healthcare/medical-equipment-wholesale/icu-medical-incorporated/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` revenue reached `$551.7 million`, up from `$548.9 million` a year earlier. GAAP gross margin reached `43%`, GAAP net income reached `$19.1 million`, adjusted diluted EPS reached `$2.37`, and adjusted EBITDA reached `$110.0 million`.",
+      "Mix: `Consumables` revenue reached `$289.3 million`, `Infusion Systems` reached `$189.0 million`, and `Vital Care` reached `$73.4 million`.",
+      "Management message: management said results were ahead of expectations for `Infusion Systems` and updated full-year guidance.",
+      "Structural themes: Q2 makes the ICU story cleaner for CLI 8 because it shows systems placements and recurring consumables working together, while tariffs even show up directly in the quarter\u2019s non-GAAP adjustment bridge through tariff refunds.",
+      "Results: Q1 `2026` revenue reached `$530.2 million` versus `$604.7 million` a year earlier, but organic revenue excluding the IV Solutions divestiture and foreign exchange was up `1%`. GAAP gross margin reached `39%`, GAAP net income reached `$30.1 million`, adjusted diluted EPS reached `$1.97`, and adjusted EBITDA reached `$98.7 million`.",
+      "Mix: `Consumables` revenue reached `$278.3 million`, `Infusion Systems` reached `$179.6 million`, and `Vital Care` reached `$72.3 million`."
+    ],
+    "signal_takeaways": [
+      "ICU Medical is not consumer-facing in the usual sense, but it sits close to several large societal shifts: more care moving outside hospitals, more chronic-care coordination, more pressure to keep clinical workflows reliable, and more dependence on recurring non-drug healthcare infrastructure.",
+      "The cultural pattern here is quiet institutional dependence. Patients rarely think about infusion pumps, IV sets, connectors, or compounding systems, but modern care settings depend on them continuously across hospitals, ambulatory settings, and home-linked care.",
+      "The company also reflects the decentralization of care. The annual filing and quarter releases repeatedly connect the product set to hospital, alternate-site, and home-care settings rather than a single acute-care location.",
+      "Supply resilience matters. ICU Medical depends on many third-party components and raw materials, including some single-source inputs, so disruption risk is a real operating issue.",
+      "Working-capital discipline matters. The `2025` filing explicitly ties liquidity to working-capital needs, planned investment, quality-system spending, debt repayment, and acquisition integration.",
+      "Inventory management matters because this is a clinical-uptime business. ICU Medical said inventory rose in part to build safety stock, which is exactly the kind of resilience tradeoff that defines the middle layer."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "ICU Medical, Incorporated",
+  "company_slug": "icu-medical-incorporated",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/icu-medical-incorporated.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Medical Instruments & Supplies",
+  "local_artifacts": [
+    "extracted/healthcare/medical-equipment-wholesale/icu-medical-incorporated/company-packet.md",
+    "extracted/healthcare/medical-equipment-wholesale/icu-medical-incorporated/company-profile.md",
+    "extracted/healthcare/medical-equipment-wholesale/icu-medical-incorporated/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/icu-medical-incorporated.html",
+  "sector": "Healthcare",
+  "template_role": "",
+  "ticker": "ICUI"
+}

@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Graphic Packaging's 2025 annual report shows a consumer-packaging infrastructure company under pressure after a major capital cycle: net sales were `$8.617B`, net income was `$444M`, total debt was `$5.592B`, and the Waco recycled-paperboard project consumed most of the strategic attention.",
+      "The annual materials pitch the company as a global leader in sustainable consumer packaging made from renewable or recycled materials, supplying cartons, trays, carriers, cups, bowls, and paperboard formats into food, beverage, foodservice, household, beauty, and health-care channels.",
+      "The strategic framing is not growth-at-any-cost. Management says the next phase is about lower capital spending, lower inventories, substantial free cash flow, debt reduction, disciplined organic growth, and portfolio and footprint optimization.",
+      "This makes GPK a useful bridge company: it sits inside Consumer Goods on AnnualReports taxonomy, but economically it behaves like packaging middleware between branded demand and basic-materials inputs.",
+      "The annual filing also shows a diversified customer base by packaged-goods standards: no single customer represented `10%` or more of 2025 net sales, which matters because the company still tracks broad end-market demand across food, beverage, foodservice, household, beauty, and health care."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: GPK broadens Consumer Goods beyond brand owners and into packaging architecture, where earnings are driven by customer affordability, substrate economics, and the physical delivery layer behind consumer demand.",
+    "packet_path": "extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 2026 net sales were `$2.188B`, net income was `$24M`, adjusted net income was `$41M`, and adjusted EBITDA was `$247M`.",
+      "Guidance: management kept sales at the high end of the `$8.4B` to `$8.6B` range, but moved EBITDA to the low end of the prior range, lowered adjusted EPS to `$0.65` to `$0.90`, and cut adjusted cash-flow guidance to `$600M` to `$700M`.",
+      "Management message: management said execution was solid despite elevated inflation, but the operating model still needed structural cost action and tighter capital spending.",
+      "Structural themes: innovation sales growth added `$40M`; cost actions are expected to generate about `$85M` of in-year savings; the company completed the Croatia divestiture, announced the Lebanon, Tennessee closure, and began evaluating a potential Winsford, U.K. closure.",
+      "Results: Q1 2026 net sales were `$2.156B`, the company posted a net loss of `($43M)`, and adjusted EBITDA fell to `$232M`.",
+      "Guidance: management reaffirmed 2026 guidance in Q1 and still targeted adjusted cash flow of `$700M` to `$800M`."
+    ],
+    "signal_takeaways": [
+      "Sector: GPK broadens Consumer Goods beyond brand owners and into packaging architecture, where earnings are driven by customer affordability, substrate economics, and the physical delivery layer behind consumer demand.",
+      "Consumer: this is an upstream read on the pressured consumer. Management repeatedly links weaker packaging price-volume mix to affordability stress and competitive intensity in the end markets its customers serve.",
+      "Cultural: sustainability and renewable or recycled packaging remain core identity claims, but the cultural story is less about aspiration and more about the practical infrastructure of everyday consumption and foodservice.",
+      "Regulatory: plant closures, divestitures, and recycled-content positioning matter, and the company remains exposed to environmental standards, trade flows, and operating-footprint regulation.",
+      "Labor: labor is secondary to restructuring. The more important labor signal is organization streamlining and workforce reduction as part of cost takeout.",
+      "Technology: technology appears mostly as process and packaging innovation rather than software-led differentiation; the more relevant system is capital equipment, plant efficiency, and packaging-format innovation."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Graphic Packaging Holding Company",
+  "company_slug": "graphic-packaging-holding-company",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/graphic-packaging-holding-company.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Packaging & Containers",
+  "local_artifacts": [
+    "extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-packet.md",
+    "extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/company-profile.md",
+    "extracted/consumer-goods/packaging-containers/graphic-packaging-holding-company/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/graphic-packaging-holding-company.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "GPK"
+}

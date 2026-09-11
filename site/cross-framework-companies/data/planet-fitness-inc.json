@@ -1,0 +1,269 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Planet Fitness is one of the cleaner blind-spot fits in the current archive because the AnnualReports page effectively misclassifies the operating system. On `2026-08-10`, the saved company page still showed `Consumer Goods` and `--None--`, even though the actual business is a recurring-fee, membership-conditioned, low-friction wellness service system.",
+      "AnnualReports also lagged on current-year coverage. The saved page still pointed to `2024 Annual Report and Form 10K`, so the usable current annual anchor had to come from the fiscal `2025` SEC filing chain and official-site verification rather than from the aggregator page itself.",
+      "The fiscal `2025` filing and Q4 release show a scaled but unusual access business. Full-year revenue increased `12.1%` to about `$1.3B`, net income attributable to Planet Fitness, Inc. reached `$219.1M`, adjusted EBITDA reached `$551.6M`, and system-wide same club sales increased `6.7%`.",
+      "The `10-K` makes the model legible in a way the taxonomy does not. Planet Fitness ended `2025` with about `20.8M` members and `2,896` clubs, of which `2,604` were franchisee-owned and `292` were corporate-owned. The quarter releases simplify that same point by stating that about `90%` of clubs are owned and operated by independent business owners.",
+      "The relationship layer is also clearer than the source labels imply. The company is not just selling fitness access. It is selling affordable, recurring self-maintenance inside a branded `Judgement Free Zone`, with the standard Classic Card for new members starting at `$15` per month and the PF Black Card for new members at `$24.99` per month."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/recreation/planet-fitness-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Planet Fitness should strengthen Services, but the more useful analytical frame is not just recreation. It is fee-based access, routine-use behavior, and low-friction wellness participation.",
+    "packet_path": "extracted/services/recreation/planet-fitness-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` total revenue increased `7.1%` to `$365.2M`, net income attributable to Planet Fitness, Inc. was `$67.1M`, adjusted net income was `$68.4M`, and adjusted EBITDA was `$152.8M`.",
+      "Membership and network posture: system-wide same club sales increased `1.7%`, system-wide sales increased `$66.6M` to `$1.4B`, `23` new clubs opened in the quarter, and total clubs reached `2,930` as of `2026-06-30`.",
+      "Capital and outlook posture: the company repurchased about `4.0M` shares for `$200.0M`, ended the quarter with `$544.4M` of cash and marketable securities, and reiterated a `2026` outlook of about `1%` same-club-sales growth, about `7%` revenue growth, about `6%` adjusted EBITDA growth, `150` to `160` new equipment placements, and `180` to `190` system-wide new club openings.",
+      "Structural themes: this quarter matters because it shows the company operating as a membership-repair and retention story, not only as a unit-growth story. Management explicitly said it was working to reignite sustainable member growth, refreshing marketing, and testing pricing, member experience, and retention.",
+      "Results: `Q1 2026` total revenue increased `21.9%` to `$337.2M`, net income attributable to Planet Fitness, Inc. was `$51.6M`, adjusted net income was `$59.4M`, and adjusted EBITDA was `$139.9M`.",
+      "Membership and network posture: system-wide same club sales increased `3.5%`, system-wide sales increased `$88.0M` to `$1.4B`, total membership reached about `21.5M`, and total clubs reached `2,909` as of `2026-03-31`."
+    ],
+    "signal_takeaways": [
+      "Sector: Planet Fitness should strengthen Services, but the more useful analytical frame is not just recreation. It is fee-based access, routine-use behavior, and low-friction wellness participation.",
+      "Consumer: the demand system is built on affordable self-maintenance, low-intimidation access, recurring habit, and a branded environment that lowers social friction for mainstream exercise participation.",
+      "Cultural: this is one of the cleaner proofs in the archive that body-confidence and wellness demand do not always look premium, elite, or overtly athletic. They can also scale through friendliness, affordability, and non-intimidation.",
+      "Societal: the packet reflects a broader normalization of paying a modest recurring fee to preserve mobility, appearance, energy, and self-respect without joining a high-commitment or prestige-coded fitness culture.",
+      "Operating model: the important move is not just membership count. It is the combination of franchise-heavy expansion, recurring dues, annual fees, equipment placements, national advertising contributions, and retention-sensitive pricing architecture.",
+      "Competitive positioning: Planet Fitness is most useful next to `Costco`, `Target`, `Starbucks`, `lululemon`, `Birkenstock`, `Crocs`, and `Victoria's Secret`, not just next to conventional leisure or recreation names."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Planet Fitness, Inc.",
+  "company_slug": "planet-fitness-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/planet-fitness-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Recreation",
+  "local_artifacts": [
+    "extracted/services/recreation/planet-fitness-inc/company-packet.md",
+    "extracted/services/recreation/planet-fitness-inc/company-profile.md",
+    "extracted/services/recreation/planet-fitness-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/planet-fitness-inc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "PLNT"
+}

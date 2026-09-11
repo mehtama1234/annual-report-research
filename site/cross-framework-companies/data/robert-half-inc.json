@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Robert Half is the right next Services name because it closes the archive's direct labor-market intermediary gap. The current Services set already had freight, parcel, field services, safety and compliance work, workplace-route services, live entertainment, and lodging. Robert Half adds the business of matching and supplying specialized labor itself.",
+      "AnnualReports still lagged here as of `2026-08-09`, showing only the `2024 Annual Report and Form 10K`, while Robert Half IR already exposed the `2025` annual report. That makes Robert Half another useful example of why the archive cannot depend on the aggregator alone.",
+      "The `2025` `10-K` frames Robert Half around three operating blocks: contract talent solutions, permanent placement talent solutions, and Protiviti. Contract talent solutions cover finance and accounting, technology, marketing and creative, legal, and administrative and customer support professionals. Permanent placement covers full-time hiring across the same white-collar functions. Protiviti adds a global consulting layer across compliance, finance, technology, operations, data, digital, legal, HR, governance, risk, and internal audit.",
+      "This structure matters for the broader theme work because it lets the archive separate contingent labor demand, permanent hiring demand, and enterprise consulting demand inside one reporting stack rather than inferring labor-market conditions indirectly from another operator's headcount comments.",
+      "The annual filing also shows that net cash provided by operating activities for `2025` was `$320M`, while dividends declared per share reached `$2.36`. Even in a weaker hiring year, Robert Half remained cash generative and continued shareholder distributions."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/staffing-employment-services/robert-half-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Robert Half broadens Services into labor intermediation, contingent staffing, permanent placement, and project-based white-collar consulting rather than only freight, field services, route services, or experience spending.",
+    "packet_path": "extracted/services/staffing-employment-services/robert-half-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` net income was `$26M`, diluted EPS was `$0.26`, and revenues were `$1.336B`. For the first six months of `2026`, net income was `$40M` on revenues of `$2.637B`.",
+      "Demand and growth: management said Q2 revenues were down `2%` reported and `3%` adjusted year over year, but talent solutions delivered a third consecutive quarter of sequential revenue growth on an adjusted basis and permanent placement operations posted adjusted year-over-year revenue growth of `2.5%`.",
+      "Management message: Robert Half said hiring demand continued to improve and market conditions were becoming increasingly supportive of the business.",
+      "Structural themes: Q2 is the cleanest sign yet that white-collar hiring demand may be bottoming and beginning to turn, especially because permanent placement improved before broad revenue returned to clean year-over-year growth.",
+      "Results: Q1 `2026` net income was `$14M`, diluted EPS was `$0.14`, and revenues were `$1.300B`.",
+      "Demand and growth: management said Q1 revenues were down `4%` reported and `6%` adjusted year over year, but talent solutions delivered a second consecutive quarter of positive sequential growth on a same-day constant-currency basis."
+    ],
+    "signal_takeaways": [
+      "Sector: Robert Half broadens Services into labor intermediation, contingent staffing, permanent placement, and project-based white-collar consulting rather than only freight, field services, route services, or experience spending.",
+      "Labor market: this is the cleanest direct read yet on white-collar hiring conditions, especially the spread between contract demand, permanent placement, and enterprise consulting.",
+      "Fractional worker: Robert Half is a better anchor for the `fractional-worker` theme because contract engagement professionals and specialized temporary staffing are part of the core product, not a supporting input.",
+      "Consumer and cultural layer: the signal here is weaker on household consumption and stronger on employer behavior, business confidence, project staffing, and the willingness to hire specialized professionals.",
+      "Technology: management repeatedly pairs `high-tech` and `high-touch` capabilities, which makes Robert Half useful as a workflow and talent-matching infrastructure case rather than a pure software case.",
+      "Countercyclicality: Protiviti creates a partial offset to staffing cyclicality through governance, risk, compliance, and internal-audit demand, which helps explain how enterprise work can stay more resilient than pure hiring."
+    ],
+    "strategy_framework_checks": [
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Robert Half Inc.",
+  "company_slug": "robert-half-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/robert-half-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Staffing & Outsourcing Services",
+  "local_artifacts": [
+    "extracted/services/staffing-employment-services/robert-half-inc/company-packet.md",
+    "extracted/services/staffing-employment-services/robert-half-inc/company-profile.md",
+    "extracted/services/staffing-employment-services/robert-half-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/robert-half-inc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "RHI"
+}

@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "BlackRock is the most important missing public-markets asset manager in the archive. It turns the asset-management sample from a useful set of sub-models into a more complete platform stack that includes active pressure, hybrid recovery, indexed scale, and dominant global distribution plus technology.",
+      "Fiscal `2025` ended with AUM of `$14.0T`, record net inflows of `$698B`, total revenue of `$24.216B`, revenue used for operating margin measurement of `$21.756B`, adjusted operating margin of `44.1%`, and adjusted diluted EPS of `$48.09`.",
+      "The mix matters. Technology services and subscription revenue reached `$1.981B`, which makes BlackRock materially more than a fee-on-AUM story.",
+      "The private-markets and data buildout also matters. HPS added `$165B` of client AUM and `$118B` of fee-paying AUM in `July 2025`, while Preqin added a private-markets data and workflow layer in `March 2025`.",
+      "The annual materials make the current earnings logic unusually clear: BlackRock is monetizing market beta, ETF scale, private markets, outsourcing, technology, and data inside one operating platform."
+    ],
+    "damodaran_questions": [
+      "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/financial/asset-management/blackrock-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: BlackRock is the clearest local example of asset management converging with data, technology, model delivery, private markets, and whole-portfolio infrastructure.",
+    "packet_path": "extracted/financial/asset-management/blackrock-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: revenue used for operating margin measurement of `$6.352B`, adjusted operating margin of `45.9%`, adjusted net income attributable to BlackRock of `$2.291B`, and adjusted diluted EPS of `$13.91`.",
+      "Flow and AUM signal: AUM reached `$15.3T`, and BlackRock reported record first-half net inflows of `$321B`, including `$192B` in the second quarter.",
+      "Strategic read: this is the cleanest local evidence that the best public asset managers now look like broad financial platforms, not only investment products.",
+      "Results: revenue used for operating margin measurement of `$5.993B`, adjusted operating margin of `44.5%`, adjusted net income attributable to BlackRock of `$2.068B`, and adjusted diluted EPS of `$12.53`.",
+      "Flow and AUM signal: BlackRock reported `$130B` of quarterly total net inflows and ended the quarter with AUM of `$13.895T`.",
+      "Structural read: the flow engine was broad, with ETFs, private markets, and technology all contributing to a stronger quarter than a plain ETF read would imply."
+    ],
+    "signal_takeaways": [
+      "Sector: BlackRock is the clearest local example of asset management converging with data, technology, model delivery, private markets, and whole-portfolio infrastructure.",
+      "Investor behavior: client migration is not only about cheap beta. The BlackRock evidence shows demand spanning ETFs, systematic active, private credit, outsourcing, and workflow tools.",
+      "Competition: this is the strongest local evidence for a platform-scale winner separating from both narrower active managers and narrower indexed managers.",
+      "Culture and business model: the business reflects a world where clients increasingly buy implementation, analytics, and portfolio plumbing together with asset exposure.",
+      "Watch item: this strength still depends partly on high market levels and successful integration of HPS and Preqin, so not all of the current margin profile should be read as cycle-proof."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when downside is controlled by debt maturities, funding access, covenant pressure, or asset quality.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "BlackRock, Inc.",
+  "company_slug": "blackrock-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::dividends-and-buybacks",
+          "title": "Dividends and buybacks"
+        }
+      ],
+      "use_case": "handle-life-cycle-or-special-situation"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/blackrock-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Asset Management",
+  "local_artifacts": [
+    "analysis/company-first-principles/financial/asset-management/blackrock-inc/company-analysis.md",
+    "extracted/financial/asset-management/blackrock-inc/company-packet.md",
+    "extracted/financial/asset-management/blackrock-inc/company-profile.md",
+    "extracted/financial/asset-management/blackrock-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "credit-underwriting-and-refinancing-risk",
+      "title": "Credit underwriting and refinancing risk",
+      "when_to_use": "Use when downside is controlled by debt maturities, funding access, covenant pressure, or asset quality."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/blackrock-inc.html",
+  "sector": "Financial",
+  "template_role": "",
+  "ticker": "BLK"
+}

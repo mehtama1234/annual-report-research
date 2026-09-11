@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "AnnualReports was current to the `2025` package on Monday, `2026-08-10`, and classified Abbott as `Healthcare / Medical Instruments & Supplies`, so the taxonomy anchor is clean for this packet.",
+      "The saved annual materials show a broad healthcare platform rather than a narrow franchise. Abbott reported `2025` sales of `$44.328B` and adjusted diluted `EPS` of `$4.72`.",
+      "The annual filing makes the portfolio structure explicit: `Medical Devices` sales were `$19.290B`, `Diagnostics` sales were `$9.888B`, `Nutritional` sales were `$8.820B`, and `Established Pharmaceuticals` sales were `$6.330B`.",
+      "That segment mix is exactly why Abbott belongs in CLI 8. It ties together installed diagnostics, recurring test and monitoring demand, chronic-care devices, institutional nutrition, and physician- and hospital-facing product usage inside one recurring healthcare relationship.",
+      "The annual package also gives the broader societal and cultural frame the user asked for. Abbott is exposed to long-running chronic-disease management, cardiovascular intervention, diabetes monitoring, nutrition continuity, and emerging-market healthcare access rather than to one isolated therapy cycle."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Abbott is not a consumer platform in the ordinary sense, but it is exposed to large societal shifts: aging populations, chronic-disease management, the spread of diabetes monitoring, demand for reliable diagnostics, and the continued need for nutritional support across institutions and households.",
+    "packet_path": "extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: sales were `$12.593B`, adjusted diluted `EPS` was `$1.31`, and reported sales growth was `13.0%`, including `10.6%` organic growth.",
+      "Segment read: Diagnostics sales were about `$3.092B`, and management highlighted more than `12%` sales growth in `Medical Devices` and more than `14%` sales growth in `Core Laboratory`.",
+      "Strategic read: the quarter shows a platform where installed-base diagnostics, devices, and category breadth matter as much as any one product line. Exact Sciences also widened the diagnostics story after the March `2026` close.",
+      "Middle-layer read: the key point is not only that Abbott grew. It is that hospitals, labs, physicians, and chronic-care pathways keep routing demand through the same recurring testing and device ecosystem.",
+      "Results: sales were `$11.164B` and adjusted diluted `EPS` was `$1.09`.",
+      "Segment read: `Medical Devices` sales were `$5.539B`, `Diagnostics` sales were `$2.180B`, `Nutritional` sales were `$1.964B`, and `Established Pharmaceuticals` sales were `$1.481B`."
+    ],
+    "signal_takeaways": [
+      "Abbott is not a consumer platform in the ordinary sense, but it is exposed to large societal shifts: aging populations, chronic-disease management, the spread of diabetes monitoring, demand for reliable diagnostics, and the continued need for nutritional support across institutions and households.",
+      "The cultural shift that matters most here is that healthcare demand increasingly lives in repeated monitoring, testing, and device-supported continuity rather than only in one-time acute interventions.",
+      "The quarter chain also points to healthcare-system complexity rising rather than falling. Customers increasingly rely on large diversified operators that can supply multiple care settings, categories, and geographies at once.",
+      "This is a healthcare middle-layer operator with broad institutional and product exposure. It depends on hospital budgets, diagnostic throughput, chronic-care demand, reimbursement support, innovation cadence, and category execution rather than on direct consumer discretionary spending.",
+      "Segment breadth is a strength, but it also means Abbott faces several pressures at once: device competition, reimbursement complexity, testing demand normalization, acquisition integration, and product-category mix shifts.",
+      "The diagnostics acceleration needs to be interpreted carefully because Exact Sciences changed the quarter shape in `2026`. That does not weaken the packet, but it does mean the current growth rate is not purely organic history."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Abbott Laboratories",
+  "company_slug": "abbott-laboratories",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/abbott-laboratories.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Medical Instruments & Supplies",
+  "local_artifacts": [
+    "extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md",
+    "extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-profile.md",
+    "extracted/healthcare/medical-instruments-supplies/abbott-laboratories/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/abbott-laboratories.html",
+  "sector": "Healthcare",
+  "template_role": "",
+  "ticker": "ABT"
+}

@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Kohl's is a high-value archive addition because it gives the retail-and-services work a weaker middle-position department-store operator instead of another unusually strong ecosystem or brand franchise.",
+      "The annual evidence chain is current even though AnnualReports is not. As of `2026-08-09`, AnnualReports still showed only the `2024 Annual Report and Form 10K`, while Kohl's official IR and SEC stack already supported the fiscal `2025` annual package for the year ended `2026-01-31`.",
+      "The annual package shows a business that is still shrinking at the top line. Fiscal `2025` net sales decreased `4.0%` to `$14.8B`, comparable sales decreased `3.1%`, diluted EPS was `$2.38`, and adjusted diluted EPS was `$1.62`.",
+      "The strategically important point is not growth. It is reset and stabilization. Kohl's describes itself as a leading omnichannel retailer operating `1,153` stores, and the annual filing shows a heavy effort to rebuild the proposition through value, omnichannel improvements, inventory cleanup, expense control, and the Sephora partnership.",
+      "That makes Kohl's useful for the archive. It is a realistic case where loyalty, beauty adjacency, credit-related economics, and omnichannel work matter precisely because the core department-store model is under pressure."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/department-stores/kohls-corporation/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Kohl's gives the archive a pressured department-store case where value positioning, omnichannel execution, and beauty adjacency are all being used to slow decline rather than to amplify obvious strength.",
+    "packet_path": "extracted/services/department-stores/kohls-corporation/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q1 `2026` net sales decreased `1.7%` to `$3.0B`; comparable sales decreased `1.1%`; and diluted loss per share was `($0.13)`.",
+      "Operating posture: gross margin increased `4` basis points; SG&A decreased `1.6%`; inventory declined `8%`; and borrowings under the revolving credit facility were `$0`, down `$545M` year over year.",
+      "Structural themes: this quarter matters because management framed it as the best comparable-sales performance in over four years, but the business still did not return to sales growth. That is the right Kohl's read: operational stabilization first, real growth still unproven.",
+      "Results: Q4 `2025` net sales decreased `3.9%` to `$5.0B`; comparable sales decreased `2.8%`; and diluted EPS was `$1.07`.",
+      "Operating posture: gross margin increased `25` basis points; SG&A decreased `4.9%`; operating income increased to `$212M`; inventory fell `7%`; and full-year operating cash flow increased to `$1.4B`.",
+      "Structural themes: this is the key quarter for the packet because it closes the year with the full reset logic visible. Full-year sales were still down, but management argued the company ended `2025` stronger than it started through discipline, earnings improvement, and balance-sheet repair."
+    ],
+    "signal_takeaways": [
+      "Sector: Kohl's gives the archive a pressured department-store case where value positioning, omnichannel execution, and beauty adjacency are all being used to slow decline rather than to amplify obvious strength.",
+      "Consumer: this is a direct read on the more fragile part of discretionary middle-income retail demand, where traffic is weaker, promotion matters more, and stabilization itself counts as progress.",
+      "Cultural: Kohl's matters because it shows what happens when a retailer still has national scale and loyalty infrastructure but less identity power, less pricing power, and less platform leverage than the winners.",
+      "Loyalty and technology: Kohl's is a good counterexample to simple loyalty narratives. The company has large-scale customer reach, rewards programs, credit-card economics, and omnichannel tools, but those assets do not automatically produce strong sales momentum.",
+      "Business model: the key business-model signal is that Kohl's is trying to widen the proposition through Sephora, better value architecture, omnichannel convenience, and cleaner execution, but the economics are still dominated by a pressured legacy department-store base.",
+      "Competitive positioning: Kohl's is especially useful because it is neither collapsing nor clearly winning. It is a middle case where better discipline can improve earnings and cash flow even while the core format remains structurally challenged."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Kohl's Corporation",
+  "company_slug": "kohls-corporation",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/kohls-corporation.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Department Stores",
+  "local_artifacts": [
+    "extracted/services/department-stores/kohls-corporation/company-packet.md",
+    "extracted/services/department-stores/kohls-corporation/company-profile.md",
+    "extracted/services/department-stores/kohls-corporation/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/kohls-corporation.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "KSS"
+}

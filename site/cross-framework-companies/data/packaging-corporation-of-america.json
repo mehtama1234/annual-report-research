@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Packaging Corporation of America is the cleanest current extension for the behind-the-shelf consumer infrastructure lane because it adds a second corrugated-and-containerboard throughput peer beside `International Paper`, but it does so from a more concentrated North American corrugated system rather than a broader restructuring-heavy global portfolio.",
+      "The taxonomy itself is part of the blind spot. AnnualReports classifies PCA as `Consumer Goods / Packaging & Containers`, but the actual operating logic is closer to corrugated mill capacity, box-throughput density, sheet-feeder and plant scale, pricing, and shipping demand than to visible consumer-brand packaging.",
+      "The direct AnnualReports company-page capture was unstable in this shell environment, but the saved AnnualReports featured-company page confirms the site's own classification and links PCA to `/Company/packaging-corporation-of-america`.",
+      "Official IR exposed a `2025 Annual Report` PDF and `2025 Form 10-K` PDF on the `Financial Reporting` page, and the SEC chain cleanly supports `2025` annual plus `Q4 2025`, `Q1 2026`, and `Q2 2026`.",
+      "Full-year `2025` net sales were `$9.0 billion`, reported net income was `$774 million`, diluted EPS was `$8.58`, and diluted EPS excluding special items was `$9.84`.",
+      "PCA describes itself as the third largest producer of containerboard products and a leading producer of uncoated freesheet paper in North America. As of year-end `2025`, it operated `10` mills and `91` corrugated products plants and related facilities."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/packaging-containers/packaging-corporation-of-america/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: PCA sharpens the mismatch between AnnualReports taxonomy and actual role. It is filed under `Consumer Goods / Packaging & Containers`, but its economics are closer to hidden corrugated and containerboard throughput infrastructure.",
+    "packet_path": "extracted/consumer-goods/packaging-containers/packaging-corporation-of-america/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` net sales were `$2.5 billion`, reported net income was `$192 million`, diluted EPS was `$2.15`, and diluted EPS excluding special items was `$2.35`.",
+      "Segment picture: `Packaging` segment operating income was `$313.2 million` and `Paper` segment operating income was `$34.3 million`.",
+      "Operating picture: total corrugated shipments were up `24.3%` versus `Q2 2025`, while legacy corrugated shipments were up `4.1%`. Containerboard production was `1,415,000` tons and inventory was down `25,000` tons versus `Q1 2026`.",
+      "Management message: management said legacy corrugated operations reached an all-time quarterly shipment record, demand stayed strong, price increases began to land, and Greif assets were outperforming the acquisition baseline.",
+      "Structural themes: Q2 is the clearest current proof that PCA belongs in the blind-spot lane as a corrugated-throughput peer rather than a consumer-packaging label. The quarter is about mills running full, export reduction to support corrugated demand, price realization, and operational throughput.",
+      "Results: `Q1 2026` net sales were `$2.4 billion`, reported net income was `$171 million`, diluted EPS was `$1.91`, and diluted EPS excluding special items was `$2.40`."
+    ],
+    "signal_takeaways": [
+      "Sector: PCA sharpens the mismatch between AnnualReports taxonomy and actual role. It is filed under `Consumer Goods / Packaging & Containers`, but its economics are closer to hidden corrugated and containerboard throughput infrastructure.",
+      "Consumer: direct consumer demand only appears indirectly through broad shipping, e-commerce, food and beverage packaging, produce, processed foods, industrial goods transport, and shelf replenishment that all require corrugated volume.",
+      "Cultural: the relevant cultural layer is not identity or format expression. It is the normalization of packaging-intensive commerce, distribution, and fulfillment systems that consumers rarely notice unless the physical box network fails.",
+      "Industrial: the real operating questions are mill uptime, corrugated mix, containerboard price realization, recycled fiber and freight costs, outage timing, Greif integration, export allocation, and inventory discipline.",
+      "Geography: PCA is especially useful because it is a much cleaner North American peer than `International Paper`, which carries more EMEA and broader portfolio restructuring complexity.",
+      "Capital allocation: Greif acquisition integration, mill restructuring, containerboard capacity utilization, and dividend or repurchase support matter more than generic discretionary capex framing."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Packaging Corporation of America",
+  "company_slug": "packaging-corporation-of-america",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/packaging-corporation-of-america.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Packaging & Containers",
+  "local_artifacts": [
+    "extracted/consumer-goods/packaging-containers/packaging-corporation-of-america/company-packet.md",
+    "extracted/consumer-goods/packaging-containers/packaging-corporation-of-america/company-profile.md",
+    "extracted/consumer-goods/packaging-containers/packaging-corporation-of-america/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/packaging-corporation-of-america.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "PKG"
+}

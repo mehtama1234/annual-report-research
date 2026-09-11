@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "e.l.f. Beauty is the strongest next blind-spot beauty case because it adds a brand-owner and community-shaped beauty interface rather than another staples platform or another beauty retailer. `Ulta` already gives the archive the discovery-and-loyalty retailer. e.l.f. Beauty adds the operator behind the brands, the pricing architecture, the retailer-plus-eCommerce mix, and the creator- and culture-facing growth engine.",
+      "The source mismatch is already useful on its own. As of `2026-08-10`, AnnualReports.com still only showed a `2024 Annual Report and Form 10K`, while the local official IR and SEC chain already supported the current `2025` annual package and the in-scope `FY2027 Q1`, `FY2026 Q4`, and `FY2026 Q3` set.",
+      "Full-year FY`2026` net sales increased `25%` to `$1,636.5 million`, and adjusted EBITDA was `$335.2 million`, or `20%` of net sales. Management also framed fiscal `2026` as the `7th consecutive year` of net sales and market share growth.",
+      "The annual and full-year quarter chain make the platform widening explicit. Management said all five brands grew in fiscal `2026`, with `rhode` and `Naturium` particularly strong. That matters because the company is no longer just one low-price cosmetics label. It is becoming a broader beauty platform spanning value-access cosmetics, skincare, newer acquired brands, and creator-linked demand.",
+      "This is analytically different from both the staples lane and the weaker beauty lane. `P&G`, `Kimberly-Clark`, and `Colgate` are routine-use trust systems. `Coty` is a more stressed and uneven beauty portfolio. e.l.f. Beauty instead reads as an accessible beauty growth platform where disruptive marketing, retailer and eCommerce execution, social and creator energy, and cultural relevance drive the numbers."
+    ],
+    "damodaran_questions": [
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/personal-products/elf-beauty-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Consumer: e.l.f. Beauty is one of the archive's clearest examples that consumers are still spending aggressively in beauty when the mix is accessible, trend-aware, and culturally active rather than simply premium.",
+    "packet_path": "extracted/consumer-goods/personal-products/elf-beauty-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: FY`2027 Q1` net sales increased `36%` to `$479.4 million`; gross margin rose to `83%`; GAAP diluted EPS was `$1.12`; adjusted diluted EPS was `$1.75`; and adjusted EBITDA was `$168.2 million`, or `35%` of net sales.",
+      "Balance sheet: as of `2026-06-30`, cash and cash equivalents were `$344.2 million` and total debt was `$834.2 million`.",
+      "Management message: management said the quarter marked the `30th consecutive quarter` of net sales growth and raised fiscal `2027` net sales guidance to `18%` to `20%` growth from `12%` to `14%` previously.",
+      "Structural themes: this is the clearest current proof that e.l.f. Beauty is more than a shelf brand. The quarter was driven by strong retailer and eCommerce performance in the U.S. and internationally, while the filing also disclosed outperformance from `rhode` through the contingent-consideration revaluation.",
+      "Results: FY`2026 Q4` net sales increased `35%` to `$449.3 million`; adjusted diluted EPS was `$0.32`; and adjusted EBITDA was `$58.8 million`, or `13%` of net sales.",
+      "Full-year anchor: the same release closed fiscal `2026` with net sales up `25%` to `$1,636.5 million`, adjusted diluted EPS of `$3.13`, and adjusted EBITDA of `$335.2 million`."
+    ],
+    "signal_takeaways": [
+      "Consumer: e.l.f. Beauty is one of the archive's clearest examples that consumers are still spending aggressively in beauty when the mix is accessible, trend-aware, and culturally active rather than simply premium.",
+      "Cultural: the company sits inside beauty not just as a product vendor but as a system for self-presentation, community, disruptive marketing, and social transmission. The `rhode` and `Naturium` expansion makes that wider than the legacy e.l.f. Cosmetics label alone.",
+      "Channel structure: management repeatedly ties growth to both retailer and eCommerce channels. That makes e.l.f. Beauty a better blind-spot comparison for `Ulta` than another generic personal-products issuer, because both sides of the beauty relationship are now visible in the archive.",
+      "International: recent quarters explicitly cite U.S. and international growth together, which makes the platform more than a domestic value-cosmetics story.",
+      "Business model: this is a direct challenge to the idea that personal products should be read as a single defensive bucket. e.l.f. Beauty is more trend-sensitive, creator-sensitive, and execution-sensitive than routine-use staples, but it is also structurally stronger and more coherent than the weaker beauty repair stories.",
+      "Capital and risk: the quarter chain shows strong growth but also a materially higher debt load and explicit contingent-consideration effects tied to the `rhode` acquisition. This is not a low-motion staples model."
+    ],
+    "strategy_framework_checks": [
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "e.l.f. Beauty, Inc.",
+  "company_slug": "elf-beauty-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/elf-beauty-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Personal Products",
+  "local_artifacts": [
+    "extracted/consumer-goods/personal-products/elf-beauty-inc/company-packet.md",
+    "extracted/consumer-goods/personal-products/elf-beauty-inc/company-profile.md",
+    "extracted/consumer-goods/personal-products/elf-beauty-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/elf-beauty-inc.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "ELF"
+}

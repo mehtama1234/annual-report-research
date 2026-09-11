@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The `2025` annual package is explicit about the business model. US Foods supplies approximately `250,000` customer locations nationwide, including independent restaurants, chains, healthcare, hospitality, government, and education.",
+      "Scale and physical reach are core to the story. The annual report describes over `70` distribution facilities, a fleet of over `6,500` trucks, and more than `90` cash-and-carry locations.",
+      "This is not just a logistics spread business. Management frames the relationship around local sales support, chefs, category management, business solutions, private-label growth, and the `MOXe` digital platform that helps customers manage ordering and inventory.",
+      "Fiscal `2025` results were strong enough to make the packet worth carrying. Net sales rose `4.1%` to `$39.4B`, gross profit rose `5.1%` to `$6.9B`, net income rose `36.8%` to `$676M`, adjusted EBITDA rose `11.0%` to `$1.93B`, and adjusted diluted EPS rose `26.3%` to `$3.98`.",
+      "The annual report also shows why this is a real middle-layer frontier. US Foods believes it can grow through better customer retention, higher private-label penetration, stronger case mix, improved profitability, and deeper local execution rather than only through broad food inflation.",
+      "Cash flow matters because this is a working-capital and route business. Fiscal `2025` cash flows from operating activities reached `$1.369B`, with free cash flow of `$965M`."
+    ],
+    "damodaran_questions": [
+      "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/retail-grocery-stores/us-foods-holding-corp/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "US Foods is not consumer-facing in the usual sense, but it is still one of the best ways to read consumer caution indirectly. Restaurant traffic, value sensitivity, menu pressure, and hospitality demand all show up first in case mix and route economics.",
+    "packet_path": "extracted/services/retail-grocery-stores/us-foods-holding-corp/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: net sales increased `4.5%` to `$10.5B`, gross profit increased `8.0%` to `$1.9B`, net income increased `22.8%` to `$275M`, adjusted EBITDA increased `10.2%` to a record `$604M`, and adjusted diluted EPS increased `21.0%` to `$1.44`.",
+      "Volume and channel signal: total case volume increased `1.9%`, while independent restaurant case volume increased `5.1%`, healthcare volume increased `3.5%`, and hospitality volume increased `4.4%`.",
+      "Structural read: this quarter is the cleanest proof that US Foods belongs in CLI 8. The company is monetizing broad institutional demand through food flow, sourcing, route efficiency, and customer mix rather than through end-consumer brand pull.",
+      "Working-capital read: inventories were tightly controlled at `$1.703B` versus `$1.711B` at fiscal year-end `2025`, even as sales and gross profit grew.",
+      "Results: net sales increased `2.8%` to `$9.6B`, gross profit increased `2.4%` to `$1.7B`, net income increased `0.9%` to `$116M`, adjusted EBITDA increased `6.2%` to `$413M`, and adjusted diluted EPS increased `14.7%` to `$0.78`.",
+      "Volume and channel signal: total case volume increased `1.4%`, while independent restaurant case volume increased `4.6%`, healthcare volume increased `3.7%`, and hospitality volume increased `5.0%`."
+    ],
+    "signal_takeaways": [
+      "US Foods is not consumer-facing in the usual sense, but it is still one of the best ways to read consumer caution indirectly. Restaurant traffic, value sensitivity, menu pressure, and hospitality demand all show up first in case mix and route economics.",
+      "The cultural pattern here is that food away from home remains socially durable, but downstream operators increasingly need distributors to act as procurement, menu, and operating partners rather than simple box movers.",
+      "The societal pattern is institutional dependence. Hospitals, schools, hotels, and restaurants do not want to own broad inventory positions themselves. They rely on foodservice distributors to absorb complexity, timing, and assortment risk.",
+      "This is a route-density and working-capital business. Procurement discipline, food inflation, private-label mix, LIFO effects, inventory control, and local case density all matter at once.",
+      "The quarter chain also shows the balance between growth and exposure. Independent restaurant growth is strong, but chain volumes remain weaker, and the business still depends on an operating environment where restaurant and hospitality customers survive and order consistently.",
+      "US Foods is also clearly trying to widen its moat through digital workflow. `MOXe` and broader customer-support tooling are not side details; they are part of the embeddedness strategy."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "US Foods Holding Corp.",
+  "company_slug": "us-foods-holding-corp",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::dividends-and-buybacks",
+          "title": "Dividends and buybacks"
+        }
+      ],
+      "use_case": "handle-life-cycle-or-special-situation"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/us-foods-holding-corp.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Food Wholesale",
+  "local_artifacts": [
+    "extracted/services/retail-grocery-stores/us-foods-holding-corp/company-packet.md",
+    "extracted/services/retail-grocery-stores/us-foods-holding-corp/company-profile.md",
+    "extracted/services/retail-grocery-stores/us-foods-holding-corp/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/us-foods-holding-corp.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "USFD"
+}

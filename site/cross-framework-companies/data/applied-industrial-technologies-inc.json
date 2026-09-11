@@ -1,0 +1,266 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The `2025` annual report makes clear that Applied is no longer best read as a legacy bearings distributor. Management frames the company as a value-added distributor and technical-solutions provider spanning industrial motion, fluid power, flow control, automation technologies, calibration, and related MRO supply.",
+      "Fiscal `2025` was a record year despite a weak industrial backdrop. The annual report says sales reached `$4.6B`, up `1.9%`, while organic daily sales declined `2.3%`, EPS reached `$10.12`, EBITDA margin was `12.3%`, operating cash flow was `$492M`, and free cash flow was `$465M`.",
+      "The strategic point is mix. Management says Engineered Solutions is approaching `40%` of total sales versus `18%` ten years ago, which means more of the business now depends on technical applications, service depth, automation capability, and faster-growing end markets instead of only stocked replacement parts.",
+      "The annual letter also provides a good pressure read. Customers managed MRO and capital spending conservatively through fiscal `2025` because of election uncertainty, rate sensitivity, and trade-policy noise, with the weakest demand in off-highway mobile OEMs and heavy industry.",
+      "Even in that muted setting, management highlighted encouraging demand tied to datacenters, semiconductor manufacturing, process infrastructure, advanced robotics, and calibration services. That is exactly why this company belongs in the archive: it shows how AI and industrial modernization translate into fluid conveyance, control systems, and technical channel demand, not just chips and software.",
+      "Capital allocation stayed active. Management highlighted record free cash generation, more than `$560M` deployed across capex, M&A, buybacks, dividends, and debt reduction, and the Hydradyne acquisition as a major move to deepen fluid-power scale and technical reach."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Applied is not consumer-facing, but it reflects a major behavior shift inside industrial America: customers increasingly want fewer suppliers, more technical support, and faster outsourced problem-solving rather than managing a fragmented maintenance and repair base themselves.",
+    "packet_path": "extracted/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Net sales were `$1.251B`, up `7.3%` year over year. Organic sales rose `6.0%`, with Service Center organic growth of `4.2%` and Engineered Solutions organic growth of `9.3%`.",
+      "Net income was `$99.8M`, diluted EPS was `$2.65`, operating income was `$137.9M`, EBITDA was `$153.9M`, operating cash flow was `$100.1M`, and free cash flow was `$95.4M`.",
+      "This quarter matters because growth broadened rather than narrowed. Management explicitly described strengthening organic sales growth across both segments, with Engineered Solutions benefiting from positive order trends, improving demand across both legacy and emerging verticals, and the company\u2019s application and engineering depth.",
+      "The outlook also improved. Guidance moved to EPS of `$10.64-$10.75`, total sales growth of `7.2%-7.7%`, organic growth of `3.8%-4.2%`, and EBITDA margin of `12.3%-12.4%`.",
+      "The quarter also reinforces the capital-allocation signal: the board replaced the prior buyback plan with a new authorization for up to `3.0M` shares while maintaining the dividend at `$0.51`.",
+      "Net sales were `$1.163B`, up `8.4%`. Organic sales grew `2.2%`, with Service Center up `2.9%` and Engineered Solutions up `0.5%`."
+    ],
+    "signal_takeaways": [
+      "Applied is not consumer-facing, but it reflects a major behavior shift inside industrial America: customers increasingly want fewer suppliers, more technical support, and faster outsourced problem-solving rather than managing a fragmented maintenance and repair base themselves.",
+      "The annual letter is explicit that customer labor constraints matter. That is a social and operational trend, not a small footnote. If factories and industrial operators do not have enough skilled internal labor to maintain and upgrade production assets, value moves toward the distributor that can bundle product, service, engineering, and repair depth.",
+      "There is also a reshoring and infrastructure-modernization angle. Management ties opportunity to aged U.S. manufacturing infrastructure, growing technical service requirements, and expanding investment into production capacity, which means the business sits inside a broader national effort to rebuild physical capability rather than just sell replacement parts.",
+      "Applied is still exposed to industrial hesitation. The annual report and first-half commentary repeatedly cite customer caution around MRO and capital spending, especially in off-highway mobile, machinery, and other heavy-industry verticals.",
+      "Trade and tariff uncertainty remain active constraints. Management referenced those issues in both the annual outlook and quarter guidance language, which matters because the company sits in the middle of procurement, pricing, supplier relationships, and customer operating budgets.",
+      "Mix is a source of strength but also interpretive complexity. Service Center demand can benefit from break-fix urgency and deferred maintenance, while Engineered Solutions is more exposed to order timing, project starts, automation investment, and specific growth verticals."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Applied Industrial Technologies, Inc.",
+  "company_slug": "applied-industrial-technologies-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/applied-industrial-technologies-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Industrial Equipment Wholesale",
+  "local_artifacts": [
+    "analysis/company-first-principles/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/company-analysis.md",
+    "extracted/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/company-packet.md",
+    "extracted/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/company-profile.md",
+    "extracted/industrial-goods/industrial-equipment-wholesale/applied-industrial-technologies-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/applied-industrial-technologies-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "AIT"
+}

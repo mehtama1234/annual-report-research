@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "D.R. Horton is a high-value archive addition because it adds the direct homebuilder layer to the built-environment work instead of stopping at lumber, building materials, coatings, or home-improvement retail.",
+      "AnnualReports.com already exposed the `2025` annual package as of `2026-08-09`, and the annual filing made the current corporate structure and operating footprint explicit: D.R. Horton said it was the largest homebuilding company in the United States by homes closed, operating in `126` markets across `36` states.",
+      "The annual package also shows the economic scale clearly. For fiscal `2025`, the company reported revenue of `$34.3 billion`, income before taxes of `$4.7 billion`, net income attributable to D.R. Horton of `$3.6 billion`, diluted EPS of `$11.57`, and cash provided by operations of `$3.4 billion`.",
+      "The operating model is broader than plain home sales. D.R. Horton closed `84,863` homes in fiscal `2025` at an average closing price of `$370,400`, but it also ran rental operations, controlled a majority-owned residential lot developer through `Forestar`, and captured mortgage and title activity through financial services.",
+      "This is not just a cyclical housing packet. The annual filing keeps emphasizing geographic scale, land and lot control, decentralized local operators, integrated financing, and disciplined capital allocation, which makes the company useful as a read on how large builders try to defend returns when affordability is tight."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/residential-construction/d-r-horton-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: D.R. Horton enters through `Industrial Goods` because it is the direct residential-construction operator in the chain, not only a consumer-facing or real-estate asset owner.",
+    "packet_path": "extracted/industrial-goods/residential-construction/d-r-horton-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q3 `2026` net income attributable to D.R. Horton was `$904.9 million`, or diluted EPS of `$3.20`; consolidated pre-tax income was `$1.2 billion`; consolidated revenue was `$9.2 billion`; pre-tax profit margin was `13.3%`; homebuilding revenue was `$8.7 billion`; homes closed increased `4%` to `23,983`; and net sales orders totaled `23,084` homes with order value of `$8.4 billion`.",
+      "Operating posture: management said the company delivered results at the high end of its closing guidance range while remaining focused on capital efficiency, returns, and affordability-sensitive execution.",
+      "Structural themes: this quarter matters because it shows the homebuilder layer under pressure but not broken. Affordability constraints and cautious consumer sentiment were still central, cancellation rates rose to `20%`, and the company updated fiscal `2026` guidance down to consolidated revenue of `$32.5 billion` to `$33.0 billion` and homebuilding closings of `83,800` to `84,300`, but it still kept emphasizing first-time-buyer access, incentives, lot control, and disciplined returns.",
+      "Results: Q2 `2026` net income attributable to D.R. Horton was `$647.9 million`, or diluted EPS of `$2.24`; consolidated pre-tax income was `$867.4 million`; consolidated revenue was `$7.6 billion`; pre-tax profit margin was `11.5%`; homebuilding revenue was `$7.1 billion`; homes closed increased `1%` to `19,486`; and net sales orders increased `11%` to `24,992` homes with order value of `$9.2 billion`.",
+      "Operating posture: management described the quarter as solid and above the high end of its guidance range while also saying affordability constraints and cautious consumer sentiment continued to impact new-home demand.",
+      "Structural themes: this quarter is useful because it shows the builder response more clearly than a generic macro label does. D.R. Horton was keeping incentives elevated, reducing unsold completed homes by `35%` from the prior year, leaning on experienced local operators, and still returning roughly `$1.0 billion` to shareholders through dividends and repurchases."
+    ],
+    "signal_takeaways": [
+      "Sector: D.R. Horton enters through `Industrial Goods` because it is the direct residential-construction operator in the chain, not only a consumer-facing or real-estate asset owner.",
+      "Consumer: this is one of the clearest consumer-adjacent industrial packets in the archive because homeownership affordability, mortgage rates, and first-time-buyer demand directly shape earnings.",
+      "Cultural: the packet reads on the social mechanics of shelter. Homeownership is being defended through incentives, entry-level price points, integrated financing, and operational efficiency rather than through broad-based pricing power.",
+      "Labor and industrial overlap: D.R. Horton matters because it makes the labor and supply side visible at the actual homebuilder level. The company repeatedly frames execution through local operators, subcontractor availability, lot strategy, construction-cycle discipline, and geographic scale.",
+      "Business model: the key business-model signal is that D.R. Horton is more system-like than a simple home seller. The platform includes homebuilding, rental, mortgage, title, and the Forestar lot-development connection.",
+      "Cross-company positioning: D.R. Horton is especially useful next to Builders FirstSource, West Fraser, Sherwin-Williams, Home Depot, Lowe's, and AvalonBay because it turns the housing chain into a continuous sequence from lots and lumber through builder workflow, coatings, maintenance, and downstream housing demand."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "D.R. Horton, Inc.",
+  "company_slug": "d-r-horton-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/d-r-horton-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE and NYSE Texas",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Residential Construction",
+  "local_artifacts": [
+    "extracted/industrial-goods/residential-construction/d-r-horton-inc/company-packet.md",
+    "extracted/industrial-goods/residential-construction/d-r-horton-inc/company-profile.md",
+    "extracted/industrial-goods/residential-construction/d-r-horton-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/d-r-horton-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "DHI"
+}

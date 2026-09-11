@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Mondelez is the right next consumer-goods packet because it adds the indulgence and affordable-treat snacking layer that sits between PepsiCo's broader convenience portfolio and the more routine beverage systems represented by Coca-Cola and Monster.",
+      "AnnualReports is current here. As of `2026-08-10`, the site exposed a `2025 Annual Report and Form 10K` package for Mondelez, and the official annual-reports page also exposed a current `2025 ANNUAL REPORT (ON FORM 10-K)` link.",
+      "The FY`2025` evidence chain shows a large global snacking platform under real cost pressure rather than a frictionless staples compounder. Full-year net revenues reached `$38.537B`, organic net revenues grew `4.3%`, volume/mix fell `3.7%`, adjusted EPS was `$2.92`, free cash flow was `$3.2B`, and capital returned to shareholders reached `$4.9B`.",
+      "The key annual tension is clear in management's own framing: Mondelez says it delivered solid top-line results and strong cash flow in `2025`, but unprecedented cocoa cost headwinds materially pressured profitability.",
+      "The annual and year-end materials also make the operating response explicit. Management entered `2026` focused on improved volumes, brand investments, structural cost savings, disciplined capital allocation, and stabilizing cocoa costs rather than depending on pure price carry.",
+      "Mondelez matters to the broader archive because it is a clean case where global snack demand is still resilient, but earnings quality depends heavily on commodity exposure, brand strength, route-to-market execution, and whether consumers keep absorbing price while still buying affordable treats."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/confectioners/mondelez-international/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Affordable indulgence and habit: Mondelez is one of the clearest examples in the repo of a consumer system built on habitual snacking and affordable treats rather than on strict necessity or premium-status spending.",
+    "packet_path": "extracted/consumer-goods/confectioners/mondelez-international/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` net revenues were `$9.355B`, organic net revenues grew `2.2%`, volume/mix rose `0.7%`, diluted EPS rose to `$1.20`, and adjusted EPS was `$0.73`.",
+      "Cash flow and capital return: year-to-date cash provided by operating activities was `$1.3B`, free cash flow was `$0.7B`, first-half capital returned to shareholders was `$1.5B`, and the quarterly dividend was raised `4%`.",
+      "Management message: management said the quarter showed robust top-line expansion, volume growth, share improvement, and improved profitability, with continued strength in Emerging Markets, strong growth in North America, and early positive share trends in Europe.",
+      "Guidance: Mondelez raised the top end of the organic view by saying it now expects at least `2%` organic net revenue growth for `2026`, while maintaining adjusted EPS growth of flat to `5%` on a constant-currency basis and free cash flow of about `$3B`.",
+      "Structural read: Q2 is the clearest recent signal that Mondelez is not only managing price. The company is trying to restore a healthier mix of pricing, volume, and share while still carrying elevated raw-material and geopolitical uncertainty.",
+      "Results: Q1 `2026` net revenues were `$10.080B`, organic net revenues grew `3.0%`, volume/mix fell `0.5%`, diluted EPS rose to `$0.44`, and adjusted EPS was `$0.67`."
+    ],
+    "signal_takeaways": [
+      "Affordable indulgence and habit: Mondelez is one of the clearest examples in the repo of a consumer system built on habitual snacking and affordable treats rather than on strict necessity or premium-status spending.",
+      "Commodity sensitivity: cocoa and other raw-material costs are not background noise here. They are central to the earnings story and make Mondelez a good counterpoint to more routine or necessity-led consumer names.",
+      "Brand investment under pressure: Oreo, Cadbury, Milka, Ritz, LU, Clif Bar, and Tate's give Mondelez real pricing and shelf strength, but the quarter chain shows management still needing reinvestment and structural savings to defend profitability.",
+      "Emerging markets and geographic breadth: management repeatedly leans on Emerging Markets strength while watching developed-market improvement, which makes geography a major stabilizer in the story.",
+      "Comparison value: PepsiCo is broader and more convenience-portfolio driven, Coca-Cola is a cleaner routine beverage and cultural-distribution system, Monster is a more intense functional-energy habit system, and Mondelez is the strongest direct indulgence-snacking and affordable-treat case.",
+      "Capital allocation: Mondelez remains a mature cash-return name, but the current operating frame is not simple shareholder harvesting. It is cash return plus brand investment plus cost savings under commodity stress."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Mondelez International",
+  "company_slug": "mondelez-international",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/mondelez-international.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Confectioners",
+  "local_artifacts": [
+    "extracted/consumer-goods/confectioners/mondelez-international/company-packet.md",
+    "extracted/consumer-goods/confectioners/mondelez-international/company-profile.md",
+    "extracted/consumer-goods/confectioners/mondelez-international/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/mondelez-international.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "MDLZ"
+}

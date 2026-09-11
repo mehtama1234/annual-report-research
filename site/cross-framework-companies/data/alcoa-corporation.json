@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Alcoa adds the aluminum layer that the current Basic Materials starter set was still missing. This matters because aluminum sits between mining and fabrication: it links bauxite and alumina to smelting, casting, power, transport, packaging, construction, and industrial applications.",
+      "AnnualReports now has a saved local company-page artifact for this branch, and unlike several other names in the batch it already showed Alcoa's `2025 Annual Report` and `2025 Form 10-K` as of `Monday, August 10, 2026`. The authoritative annual chain still remains the official annual report PDF and SEC filing set.",
+      "The `2025` annual filing shows a vertically integrated upstream metals platform with direct and indirect ownership of `25` operating locations across `8` countries on `5` continents and approximately `14,900` employees in `16` countries as of year-end.",
+      "Alcoa is simpler than several other sector names. It reports through two businesses, `Alumina` and `Aluminum`, which makes it a clean operating read on price, volume, energy, and restart execution rather than a highly diversified materials story.",
+      "The annual base year was strong. Full-year `2025` revenue was `$12.8 billion`, net income attributable to Alcoa was `$1.2 billion`, adjusted EBITDA excluding special items was `$2.0 billion`, and cash from operations was `$1.2 billion`.",
+      "The strategic read is not only \u201caluminum prices were good.\u201d Alcoa also used `2025` to reshape the portfolio and balance sheet by selling its `25.1%` Ma'aden stake, reducing debt to `$2.4 billion`, announcing the permanent closure of the Kwinana refinery, and pushing the San Ciprian restart through a joint-venture structure."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/basic-materials/aluminum/alcoa-corporation/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Alcoa is strong evidence that Basic Materials should be read as a chain of physical conversion systems, not only extraction businesses. Aluminum sits between mining and manufacturing and gives the sector a clearer metals-processing layer than copper or steel alone.",
+    "packet_path": "extracted/basic-materials/aluminum/alcoa-corporation/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` revenue reached a quarterly record of `$4.0 billion`, net income attributable to Alcoa was `$407 million`, adjusted net income attributable to Alcoa was `$562 million`, adjusted EBITDA excluding special items was `$901 million`, and free cash flow was `$422 million`.",
+      "Operating read: alumina production declined `6%` sequentially to `2.2 million` metric tons because of Pinjarra instability and gas-supply disruption associated with Cyclone Narelle, while aluminum production rose `5%` to `636,000` metric tons due to the completed San Ciprian restart and other capacity restarts.",
+      "Pricing and shipments: alumina third-party shipments were flat sequentially at `1.6 million` metric tons, while aluminum shipments increased `18%` sequentially. The quarter also benefited from higher average aluminum prices and stronger value-add sales.",
+      "Strategic moves: management highlighted the AliGroup transaction, final investment approval for a gallium production plant in Australia, and a `$65 million` investment at the Mosjoen smelter in Norway.",
+      "Structural themes: `Q2 2026` shows Alcoa at the intersection of favorable aluminum pricing, restart execution, tariff pass-through, and geopolitical energy costs. It is one of the cleaner examples in the archive of how upstream metals earnings can surge even while operating conditions remain fragile.",
+      "Results: `Q1 2026` sales were `$3.193 billion`, net income attributable to Alcoa was `$425 million`, diluted EPS was `$1.60`, and total segment adjusted EBITDA was `$654 million`."
+    ],
+    "signal_takeaways": [
+      "Sector: Alcoa is strong evidence that Basic Materials should be read as a chain of physical conversion systems, not only extraction businesses. Aluminum sits between mining and manufacturing and gives the sector a clearer metals-processing layer than copper or steel alone.",
+      "Consumer: the business is upstream, but the demand map matters. Packaging, transportation, construction, wire, and industrial applications sit downstream from the quarterlies, making Alcoa a useful bridge between industrial demand and end-use consumption.",
+      "Cultural: this is another reminder that the physical economy still depends on difficult, power-intensive, unionized, capital-heavy industrial systems. Aluminum is not a side story to the modern economy.",
+      "Regulatory: tariffs, energy policy, environmental remediation, mine and refinery approvals, and geopolitical supply disruption are all direct earnings variables here.",
+      "Labor: collective bargaining and plant-level labor agreements remain material. `Q2 2026` specifically highlighted completed new collective bargaining agreements in Australia, the U.S., and Canada.",
+      "Technology: Alcoa is not a software beneficiary, but it matters to electrification, transport, industrial products, packaging, and potentially strategic materials such as gallium. The digital economy still rides on mined and processed inputs."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Alcoa Corporation",
+  "company_slug": "alcoa-corporation",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/alcoa-corporation.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Aluminum",
+  "local_artifacts": [
+    "extracted/basic-materials/aluminum/alcoa-corporation/company-packet.md",
+    "extracted/basic-materials/aluminum/alcoa-corporation/company-profile.md",
+    "extracted/basic-materials/aluminum/alcoa-corporation/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-scarce-assets-and-hard-money-portfolio-role",
+      "source": "https://www.lynalden.com/april-2024-newsletter/",
+      "title": "Scarce assets and hard-money portfolio role",
+      "when_to_use": "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/alcoa-corporation.html",
+  "sector": "Basic Materials",
+  "template_role": "",
+  "ticker": "AA"
+}

@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "AnnualReports confirms that Herc belongs in `Industrial Goods / Rental & Leasing Services`, but the site still lagged at `2024` on `2026-08-10`, so the packet is anchored to SEC materials for the required `2025` annual-plus-quarter chain.",
+      "The business model is straightforward and important to the frontier: the intermediary owns and optimizes a large fleet so customers can rent equipment when needed instead of tying up capital in owned machines.",
+      "AnnualReports describes Herc as one of the leading equipment-rental suppliers with approximately `270` company-operated locations across North America, spanning commercial and residential construction, industrial and manufacturing, civil infrastructure, energy, emergency response, facilities, entertainment, and agriculture.",
+      "Fiscal `2025` was a scale year shaped by the H&E acquisition. Record equipment rental revenue rose `18%` to `$3.770B`, total revenues rose `23%` to `$4.376B`, adjusted EBITDA rose `15%` to `$1.818B`, and free cash flow reached `$299M`.",
+      "The year also shows the pressure side of the model. Net income was only `$1M`, and adjusted net income fell to `$239M`, because acquisition transaction costs, integration expense, lower acquired-fleet utilization, and a heavier interest burden all weighed on the reported outcome.",
+      "Management\u2019s annual and year-end framing is exactly why this belongs in CLI 8. Herc is monetizing branch network scale, fleet mix, technology migration, route and territory optimization, and cost synergies rather than manufacturing the underlying equipment."
+    ],
+    "damodaran_questions": [
+      "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "Use when management must decide whether an investment, project, or policy increases business value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/rental-leasing-services/herc-holdings-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Herc is not consumer-facing, but it is still a direct read on a broad societal shift away from ownership when asset costs are high and project timing is uncertain.",
+    "packet_path": "extracted/industrial-goods/rental-leasing-services/herc-holdings-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: equipment rental revenue increased `23%` to `$1.072B`, total revenues increased `20%` to `$1.204B`, net income reached `$19M`, adjusted net income reached `$48M`, and adjusted EBITDA increased `19%` to `$487M`.",
+      "Utilization and mix signal: dollar utilization improved to `39.3%` from `38.3%`, which management tied to higher fleet efficiency and a favorable shift toward higher-return fleet on rent.",
+      "Structural read: Herc said growth was led by national accounts, robust mega-project activity, and a higher mix of specialty rentals. That makes the packet useful as a read on industrial and infrastructure demand concentration rather than simple local construction noise.",
+      "Pressure read: the quarter also captured a direct cost headwind from fuel inflation, which is important because this lane is exposed not just to demand but to transport and field-service economics.",
+      "Cash-flow read: first-half `2026` free cash flow reached `$202M` versus `$103M` in the prior year, showing that the fleet model can still generate cash while carrying higher scale.",
+      "Results: equipment rental revenue increased `33%` to `$981M`, total revenues increased `32%` to `$1.139B`, adjusted EBITDA increased `33%` to `$448M`, and free cash flow nearly doubled to `$94M`."
+    ],
+    "signal_takeaways": [
+      "Herc is not consumer-facing, but it is still a direct read on a broad societal shift away from ownership when asset costs are high and project timing is uncertain.",
+      "The cultural pattern here is operational flexibility. Contractors, industrial operators, and infrastructure projects increasingly want access, uptime, and speed rather than the burden of owning every machine.",
+      "The societal pattern is concentration of expertise and capital. The intermediary becomes more valuable when fleet complexity, safety requirements, technology systems, and project scale exceed what many customers want to carry internally.",
+      "This is a capital-intensity and utilization business. Branch density, fleet mix, dollar utilization, resale discipline, depreciation, and funding costs all sit at the center of the model.",
+      "The quarter chain also shows the tension between growth and integration. The H&E acquisition expanded scale, specialty capacity, and market density, but it also created temporary utilization drag, duplicate costs, and higher leverage.",
+      "Fuel and transportation matter more than in a simpler distributor packet because physical fleet movement is part of the service."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Herc Holdings Inc.",
+  "company_slug": "herc-holdings-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "account-for-institutions-trust-and-fit"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/herc-holdings-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Rental & Leasing Services",
+  "local_artifacts": [
+    "extracted/industrial-goods/rental-leasing-services/herc-holdings-inc/company-packet.md",
+    "extracted/industrial-goods/rental-leasing-services/herc-holdings-inc/company-profile.md",
+    "extracted/industrial-goods/rental-leasing-services/herc-holdings-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/herc-holdings-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "HRI"
+}

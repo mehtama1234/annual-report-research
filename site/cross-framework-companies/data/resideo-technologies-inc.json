@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "AnnualReports still lagged at `2024` on Monday, `2026-08-10`, but the company page still classifies Resideo as `Industrial Goods / Security & Protection Services` and explicitly highlights the `ADI` distribution business, so the taxonomy anchor is still useful even though the latest archive package is missing.",
+      "The combined-company `2025` annual filing shows why Resideo belongs in CLI 8. The company was still operating through `ADI Global Distribution` and `Products & Solutions`, which means the packet directly captures distribution infrastructure, contractor-channel relationships, smart-building security hardware, and building-controls manufacturing inside one annual chain.",
+      "Full-year `2025` net loss was `$527M`, compared with net income of `$116M` in `2024`, but that headline was driven by the accelerated termination of the Honeywell indemnification agreement rather than by a collapse in the operating model.",
+      "The more useful annual operating read is that full-year `2025` adjusted `EBITDA` was a record `$833M`, up `20%` year-over-year, while company-level net revenue reached roughly `$7.5B`.",
+      "The bigger structural point is what the subsequent spin made explicit: `ADI` was not a side business. It was a large distribution network that served more than `100,000` low-voltage contractors through more than `200` physical locations with access to more than `350,000` products, and by mid-`2026` Resideo was actively carving it into a separate public company."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/security-protection-services/resideo-technologies-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Resideo is partly tied to consumer housing and home-safety demand, but the more important read is societal and institutional: homes, installers, integrators, security dealers, and building operators increasingly rely on connected controls, sensing, fire and safety hardware, and specialized distribution rather than simple one-off device purchases.",
+    "packet_path": "extracted/industrial-goods/security-protection-services/resideo-technologies-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: net revenue was `$1,912M`, net income was `$38M`, `GAAP` diluted `EPS` was `$0.17`, and adjusted `EPS` was `$0.65`.",
+      "Growth signal: revenue increased `8%` versus the first quarter of `2025`, and adjusted `EBITDA` rose `28%` to `$215M`.",
+      "Segment read: `ADI Global Distribution` revenue was `$1,206M`, up `8%`, while `Products & Solutions` revenue was `$706M`, up `9%`.",
+      "Strategic read: this is one of the cleanest quarter reads in the frontier because it still shows the combined channel before the spin. The distribution business remained larger than the products business by revenue, but the product side carried much higher margin, which is exactly the kind of split that makes channel control and manufacturer economics analytically separable.",
+      "Results: net revenue was `$1,895M`, up `2%`; net income was `$136M`; diluted `EPS` was `$0.73`; and adjusted `EPS` was `$0.50`.",
+      "Margin read: total company gross margin was `29.6%`, up `110` basis points year-over-year, while adjusted `EBITDA` was `$226M`, up `21%`."
+    ],
+    "signal_takeaways": [
+      "Resideo is partly tied to consumer housing and home-safety demand, but the more important read is societal and institutional: homes, installers, integrators, security dealers, and building operators increasingly rely on connected controls, sensing, fire and safety hardware, and specialized distribution rather than simple one-off device purchases.",
+      "The strongest cultural shift in this packet is that home and small-building automation are no longer only direct-to-consumer categories. They run through contractor channels, specialty distribution, security dealers, and hybrid hardware-plus-software ecosystems.",
+      "The `ADI` side of the packet also captures a broader societal trend toward more instrumented, monitored, and professionally installed environments. That includes security, fire, audio-visual, low-voltage, and adjacent building systems.",
+      "This is a middle-layer operator with real exposure to housing cadence, installer demand, foreign exchange, working-capital discipline, and the balance between branch-led and digital distribution.",
+      "Segment economics diverge sharply. `ADI` is the larger revenue engine but with lower margin structure, while `Products & Solutions` has much higher gross and adjusted `EBITDA` margins. That tension is exactly why the eventual separation matters.",
+      "The Honeywell indemnification termination is also not background noise. It reshaped the financial optics of `2025`, reduced future obligations, and made the spin and simplification story easier to underwrite."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Resideo Technologies, Inc.",
+  "company_slug": "resideo-technologies-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/resideo-technologies-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Security & Protection Services",
+  "local_artifacts": [
+    "extracted/industrial-goods/security-protection-services/resideo-technologies-inc/company-packet.md",
+    "extracted/industrial-goods/security-protection-services/resideo-technologies-inc/company-profile.md",
+    "extracted/industrial-goods/security-protection-services/resideo-technologies-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/resideo-technologies-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "REZI"
+}

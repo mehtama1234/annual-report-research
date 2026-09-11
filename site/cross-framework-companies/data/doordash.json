@@ -1,0 +1,267 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "DoorDash is a strong blind-spot fit because `Technology / Internet Service Providers` is a weak description of the operating reality. The annual and trailing-quarter materials show a local-commerce marketplace and delivery-coordination system built on recurring convenience behavior, merchant aggregation, membership, advertising, and physical fulfillment density rather than a classic connectivity or access-provider model.",
+      "The source mismatch is useful on its own. As of `2026-08-10`, AnnualReports.com still only showed a `2024 Annual Report and Form 10K`, while the local official IR verification and SEC chain already supported the `2025` annual anchor and the in-scope `Q2 2026`, `Q1 2026`, and `Q4 2025` set.",
+      "Full-year `2025` revenue reached `$13.717B`, full-year net income reached `$935M`, operating income reached `$723M`, and cash and cash equivalents at year-end reached `$4.378B`.",
+      "The Q4 `2025` results and shareholder-letter chain make the operating system especially clear: quarterly revenue reached `$3.955B`, orders reached `903M`, Marketplace GOV reached `$29.7B`, DoorDash exited the year with over `56M` monthly active users and over `35M` DashPass, Wolt+, and Deliveroo Plus members, and the company said it generated nearly `$75B` in sales for local merchants across over `40` countries in `2025`.",
+      "Management's language is also the analytical clue. The official overview page described DoorDash as one of the world's leading local-commerce platforms, and the shareholder letter said the company was building infrastructure for local commerce plus new systems inside its Commerce Platform for merchants. That is economically and culturally different from the `Internet Service Providers` label.",
+      "DoorDash therefore belongs in the same blind-spot lane as other coordination and interface businesses like `Airbnb`, `eBay`, and `Amazon`, but with a more physically embedded delivery layer sitting between digital demand and local merchant fulfillment."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/technology/internet-service-providers/doordash/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: DoorDash strengthens Technology, but the better read is as a local-commerce marketplace and convenience infrastructure platform that source taxonomy flattens into `Internet Service Providers`.",
+    "packet_path": "extracted/technology/internet-service-providers/doordash/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` revenue was `$4.454B`, up `36%` year over year, and Marketplace GOV was `$33.1B`, also up `36%`.",
+      "Activity: orders increased `27%` year over year to `970M`.",
+      "Profitability: GAAP net income attributable to common stockholders was `$200M`, while adjusted EBITDA increased `40%` to `$914M`.",
+      "Operating posture: the quarter release said U.S. restaurant Marketplace GOV growth accelerated slightly, supported by strong U.S. DashPass membership, while grocery and retail also delivered strong growth with better unit economics. The quarter also highlighted improved cohort order rates at Wolt and accelerating Deliveroo Marketplace GOV growth excluding the acquisition effect.",
+      "Structural themes: this quarter is useful because it shows DoorDash less as a single-category food-delivery app and more as a scaled convenience and logistics platform widening across restaurants, grocery, retail, international markets, and membership behavior.",
+      "Results: `Q1 2026` revenue was `$4.036B`, up `33%` year over year, and Marketplace GOV was `$31.6B`, up `37%`."
+    ],
+    "signal_takeaways": [
+      "Sector: DoorDash strengthens Technology, but the better read is as a local-commerce marketplace and convenience infrastructure platform that source taxonomy flattens into `Internet Service Providers`.",
+      "Consumer: the demand is not just app usage. It is recurring convenience behavior, fill-in trips, meal ordering, grocery and retail add-on behavior, and subscription-shaped local fulfillment habit.",
+      "Cultural: DoorDash is filing-backed proof that low-friction local-commerce ordering has become normalized consumer behavior at scale, not just a temporary delivery spike.",
+      "Societal: the company reflects the wider embedding of app-mediated local commerce into everyday life, plus the growing dependence of many merchants on third-party demand aggregation, logistics infrastructure, and platform visibility.",
+      "Business model: the important move is not only collecting a transaction fee. It is combining memberships, marketplace density, logistics, merchant tooling, advertising, and international brand integration inside one operating system.",
+      "Competitive positioning: DoorDash is most useful next to `Amazon`, `Uber`, `Instacart`, `Airbnb`, and `eBay`, not next to legacy internet-access or generic software issuers."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "DoorDash, Inc.",
+  "company_slug": "doordash",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/doordash.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Internet Service Providers",
+  "local_artifacts": [
+    "extracted/technology/internet-service-providers/doordash/company-packet.md",
+    "extracted/technology/internet-service-providers/doordash/company-profile.md",
+    "extracted/technology/internet-service-providers/doordash/source-ledger.md",
+    "extracted/themes/ch-robinson-vs-ups-vs-doordash-boundary-comparison-2026-08-10.md",
+    "extracted/themes/instacart-vs-doordash-vs-uber-boundary-comparison-2026-08-10.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/doordash.html",
+  "sector": "Technology",
+  "template_role": "",
+  "ticker": "DASH"
+}

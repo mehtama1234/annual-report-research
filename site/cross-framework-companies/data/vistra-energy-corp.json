@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Vistra is the right seventh utility because it fills the business-model gap the current set still had. It adds an integrated retail-plus-merchant-power platform with competitive generation, hedging, and commodity exposure rather than another primarily regulated transmission-and-distribution utility.",
+      "Official company materials describe Vistra as a leading integrated retail electricity and power generation company based in Irving, Texas, with a fleet spanning natural gas, nuclear, coal, solar, and battery energy storage. The investor-site framing emphasizes reliability, affordability, sustainability, and a customer-centric retail business.",
+      "AnnualReports currently classifies Vistra only at the sector level under `Utilities` and leaves the industry as `--None--`. That taxonomy gap is actually informative: Vistra does not fit neatly into the same regulated-utility buckets as AEP, Duke, Exelon, or Con Edison.",
+      "The annual and quarterly materials consistently frame Vistra as a company positioned for higher power demand through a dispatchable generation fleet, active hedging, selective acquisitions, retail scale, and long-dated power purchase agreements rather than through a traditional rate-base compounding story.",
+      "Vistra's strategic point is that the current power buildout is not only a regulated-grid story. Merchant and competitive power platforms can also become direct beneficiaries when reliability, data-center demand, and long-term corporate PPAs increase the value of dispatchable generation and nuclear capacity."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/utilities/other-utilities/vistra-energy-corp/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Vistra gives the utilities set the merchant and competitive-generation layer it was missing. The archive can now compare regulated wires and rate-base economics directly against a power-market and hedging-driven model.",
+    "packet_path": "extracted/utilities/other-utilities/vistra-energy-corp/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` GAAP net income was `$305 million`, including an unrealized hedge loss expected to settle in future years of `$472 million`, and Ongoing Operations Adjusted EBITDA was `$1,767 million`.",
+      "Guidance: management reaffirmed full-year `2026` Ongoing Operations Adjusted EBITDA guidance of `$6.8 billion` to `$7.6 billion` and Ongoing Operations Adjusted FCFbG guidance of `$3.925 billion` to `$4.725 billion`.",
+      "Management message: the Q2 release emphasized strong execution, more than `30%` year-over-year EBITDA growth, continued progress on the pending Cogentrix acquisition, and Vistra's role as a preferred power provider through the Helix Digital Infrastructure venture with KKR KIA and NVIDIA.",
+      "Structural themes: management also highlighted `97%` or greater commercial availability across the fleet during recent extreme heat in Texas and PJM, which underlines the central strategic claim that dispatchable generation is becoming more valuable as demand rises and reliability tightens.",
+      "Filing note: SEC recent filings showed the Q2 `2026` `8-K` filed on `2026-08-07`, but no corresponding Q2 `2026` `10-Q` was visible in the recent submissions feed as of `2026-08-09`.",
+      "Results: Q1 `2026` GAAP net income was `$1,029 million`, including an unrealized hedge gain expected to settle in future years of `$723 million`, and Ongoing Operations Adjusted EBITDA was `$1,494 million` versus `$1,240 million` a year earlier."
+    ],
+    "signal_takeaways": [
+      "Sector: Vistra gives the utilities set the merchant and competitive-generation layer it was missing. The archive can now compare regulated wires and rate-base economics directly against a power-market and hedging-driven model.",
+      "Industrial: the industrial read is dispatchable-power scarcity, gas and nuclear asset value, and acquisition-driven generation expansion rather than only regulated transmission and distribution buildout.",
+      "Consumer: Vistra still matters on the consumer side because it is also a major retail electricity provider. That gives it a direct view into weather sensitivity, customer pricing, and affordability that sits alongside the generation story.",
+      "Cultural: the narrative is less civic and more market-facing than Con Edison or Exelon. Reliability still matters, but the emphasis is on commercial execution, fleet availability, and using a broad generation fleet to meet rising demand profitably.",
+      "Regulatory: the company is not free from regulation, but regulation is not the main earnings architecture. FERC approval for Cogentrix, nuclear-site PPAs, and market rules matter more than a classic multi-state rate-case cadence.",
+      "Technology: Vistra is one of the clearest places where the utility archive intersects directly with AI and digital infrastructure. Nuclear PPAs with AWS and Meta and the Helix Digital Infrastructure announcement with NVIDIA show the power-system side of the compute buildout from the merchant-power angle."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Vistra Corp.",
+  "company_slug": "vistra-energy-corp",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/vistra-energy-corp.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Other Utilities",
+  "local_artifacts": [
+    "analysis/company-first-principles/utilities/other-utilities/vistra-energy-corp/company-analysis.md",
+    "extracted/utilities/other-utilities/vistra-energy-corp/company-packet.md",
+    "extracted/utilities/other-utilities/vistra-energy-corp/company-profile.md",
+    "extracted/utilities/other-utilities/vistra-energy-corp/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/vistra-energy-corp.html",
+  "sector": "Utilities",
+  "template_role": "",
+  "ticker": "VST"
+}

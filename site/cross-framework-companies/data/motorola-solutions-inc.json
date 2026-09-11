@@ -1,0 +1,267 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Motorola Solutions is an important CLI 5 extension because it adds a mission-critical communications-control layer that sits between burdened telecom access utilities and cleaner software-control vendors. It does not mainly monetize household connectivity. It monetizes the systems public-safety agencies, defense users, and enterprise security operators cannot afford to have fail.",
+      "The `2025` annual showed a business built around an integrated safety-and-security ecosystem rather than a single device category. Motorola described itself as a global leader in mission-critical safety and security technologies for public safety, government including defense, and enterprise customers, with an ecosystem spanning Mission Critical Networks, Video Security and Access Control, and Command Center.",
+      "The annual also makes the segment mix explicit. In `2025`, Software and Services generated `$4.4B`, or `38%` of consolidated net sales, while Products and Systems Integration generated `$7.3B`, or `62%`. That mix matters because Motorola is not just selling equipment into one procurement cycle. It is steadily increasing the weight of higher-value software, support, managed services, and workflow layers around long-lived installed systems.",
+      "The full-year financial read was unusually strong. Full-year `2025` sales reached `$11.682B`, up `8%`, GAAP EPS reached `$12.75`, non-GAAP EPS reached `$15.38`, operating cash flow reached `$2.8B`, and year-end backlog reached a record `$15.7B`.",
+      "The larger lane lesson is that some communications businesses look much cleaner when they own mission-critical workflow, installed-base service, and trusted public-safety relationships rather than just the commodity access layer. Motorola is effectively a control-and-upgrade toll on safety infrastructure."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/technology/communication-equipment/motorola-solutions-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Motorola belongs in CLI 5 as a mission-critical communications and safety-control platform, not as a plain hardware vendor.",
+    "packet_path": "extracted/technology/communication-equipment/motorola-solutions-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` sales were `$3.133B`, up `13%`; GAAP EPS was `$3.33`; non-GAAP EPS was `$4.41`; operating cash flow was `$469M`; and ending backlog was a record `$15.6B`, up `11%`.",
+      "Mix read: Products and Systems Integration sales were up `15%` and Software and Services sales were up `10%`, showing that Motorola still has meaningful hardware and system-integration exposure, but the company monetizes that hardware inside broader recurring support and software relationships rather than as standalone box sales.",
+      "Management message: the company again raised full-year revenue and earnings guidance, described Q2 as exceptional across the board, and tied second-half momentum to record Q2 orders and backlog.",
+      "Structural themes: Motorola is one of the clearest examples in CLI 5 of a company turning communications infrastructure into a higher-quality control layer by bundling devices, networks, software, services, and workflow control around safety-critical use cases.",
+      "Results: Q1 `2026` sales were `$2.714B`, up `7%`; GAAP EPS was `$2.18`; non-GAAP EPS was `$3.37`; and record ending backlog was `$15.7B`, up `11%`.",
+      "Management message: Motorola raised full-year revenue and earnings outlook in Q1 as well, citing record orders and backlog and broad-based demand."
+    ],
+    "signal_takeaways": [
+      "Sector: Motorola belongs in CLI 5 as a mission-critical communications and safety-control platform, not as a plain hardware vendor.",
+      "Consumer: indirect rather than household-billing based. The real demand driver is social intolerance for communication failure in public safety, schools, hospitals, utilities, defense, and enterprise security.",
+      "Cultural: this packet adds evidence that safety, surveillance, coordination, and emergency-response readiness are becoming more normalized infrastructure expectations rather than exceptional procurements.",
+      "Institutional: the company benefits when public agencies and enterprises standardize around fewer trusted platforms for dispatch, video, radio, and command workflows.",
+      "Technology: Motorola sits at the intersection of communications hardware, installed networks, software workflow, video analytics, managed services, and security integration.",
+      "Labor: the value proposition is partly labor substitution and operating coordination. These systems help agencies and enterprise operators do more with constrained staffing, fragmented information, and high response expectations."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Motorola Solutions, Inc.",
+  "company_slug": "motorola-solutions-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/motorola-solutions-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Diversified Communication Services",
+  "local_artifacts": [
+    "extracted/technology/communication-equipment/motorola-solutions-inc/company-packet.md",
+    "extracted/technology/communication-equipment/motorola-solutions-inc/company-profile.md",
+    "extracted/technology/communication-equipment/motorola-solutions-inc/source-ledger.md",
+    "extracted/technology/diversified-communication-services/motorola-solutions-inc/company-packet.md",
+    "extracted/technology/diversified-communication-services/motorola-solutions-inc/company-profile.md",
+    "extracted/technology/diversified-communication-services/motorola-solutions-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/motorola-solutions-inc.html",
+  "sector": "Technology",
+  "template_role": "",
+  "ticker": "MSI"
+}

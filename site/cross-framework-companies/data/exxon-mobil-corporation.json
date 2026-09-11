@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "ExxonMobil gives the new Basic Materials set a high-quality integrated energy-system read rather than a pure crude-price read. The annual materials show that the company\u2019s earnings model depends on how upstream production, refining, chemicals, specialty products, logistics, and capital allocation fit together.",
+      "The full-year `2025` package shows a still-enormous cash engine: earnings of `$28.8 billion`, operating cash flow of `$52.0 billion`, free cash flow of `$26.1 billion`, and shareholder distributions of `$37.2 billion`.",
+      "The company\u2019s operating profile is broad enough to matter for several higher-level themes at once: commodity exposure, LNG and gas infrastructure, refining utilization, diesel output, chemical feedstock advantage, structural cost discipline, and the geopolitical value of flexible energy supply.",
+      "ExxonMobil is also useful because it puts hard numbers behind \u201ccapital discipline plus scale.\u201d In `2025` it completed `$20.0 billion` of buybacks, maintained a strong balance sheet, and still spent `$29.0 billion` of cash capital expenditures.",
+      "The annual filing also shows that the segment mix matters. `2025` earnings were led by Upstream at `$21.4 billion`, then Energy Products at `$7.4 billion`, while Chemical Products were much weaker at `$0.8 billion`. That reinforces that this is an integrated but still internally differentiated earnings system.",
+      "The annual-report evidence chain is now complete at the artifact level because the official `2025` annual report PDF is saved locally."
+    ],
+    "damodaran_questions": [
+      "Use when the question is whether an investor has a durable source of edge and a style they can actually live with.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: ExxonMobil suggests that Basic Materials should not be read as one commodity bucket. Energy, refining, petrochemicals, and specialty products each respond differently to the same macro backdrop.",
+    "packet_path": "extracted/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` earnings were `$14.5 billion`, adjusted earnings were `$14.7 billion`, operating cash flow was `$23.6 billion`, and free cash flow was `$17.2 billion`.",
+      "Guidance: the release kept the company\u2019s long-cycle tone intact, with year-to-date cash capex around `$13.0 billion` and continued emphasis on growing advantaged assets and high-value products.",
+      "Management message: management framed the quarter as a test of execution under disruption, emphasizing the strength of the integrated portfolio, ability to move products where needed, and continued commitment to grow advantaged production.",
+      "Structural themes: `Q2 2026` is the clearest proof in the packet that integrated scale matters in volatile energy markets. Upstream earnings improved, Energy Products strengthened, Chemical Products benefited from North American feed advantage, and Specialty Products improved on higher basestock margins. Record Permian production and strong U.S. Gulf Coast utilization mattered directly.",
+      "Results: `Q1 2026` earnings were `$4.2 billion`, or `$4.9 billion` excluding identified items, and `$8.8 billion` excluding both identified items and unfavorable estimated timing effects. Operating cash flow was `$8.7 billion`, or `$13.8 billion` excluding margin postings.",
+      "Guidance: management maintained its broader multi-year growth and capital-return posture and kept full-year cash capex within the planned `$27-$29 billion` range."
+    ],
+    "signal_takeaways": [
+      "Sector: ExxonMobil suggests that Basic Materials should not be read as one commodity bucket. Energy, refining, petrochemicals, and specialty products each respond differently to the same macro backdrop.",
+      "Consumer: direct consumer demand is not the main read. The more important variables are fuel demand, diesel output, LNG export capacity, and industrial-system energy need.",
+      "Cultural: the broader signal is that society still depends on reliable hydrocarbon and refined-product systems even while transition language grows louder. Energy security remains economically real.",
+      "Regulatory: geopolitics, sanctions, Middle East disruption, environmental policy, and tax or emissions rules remain first-order variables in the business model.",
+      "Labor: labor is not the headline variable in the current evidence set, but safe operations, project execution, and maintenance reliability remain labor- and capability-dependent.",
+      "Technology: ExxonMobil is not a software beneficiary, but it is a core infrastructure beneficiary and supplier. LNG, Permian growth, diesel production, and integrated product movement all matter for the physical economy that supports broader industrial and digital systems."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Exxon Mobil Corporation",
+  "company_slug": "exxon-mobil-corporation",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the question is whether an investor has a durable source of edge and a style they can actually live with.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::hurdle-rates",
+          "title": "Hurdle rates"
+        }
+      ],
+      "use_case": "choose-investing-philosophy"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/exxon-mobil-corporation.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Major Integrated Oil & Gas",
+  "local_artifacts": [
+    "extracted/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/company-packet.md",
+    "extracted/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/company-profile.md",
+    "extracted/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/exxon-mobil-corporation.html",
+  "sector": "Basic Materials",
+  "template_role": "",
+  "ticker": "XOM"
+}

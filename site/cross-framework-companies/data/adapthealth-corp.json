@@ -1,0 +1,268 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "AnnualReports was current to the `2025` package on Monday, `2026-08-10`, and classified AdaptHealth as `Healthcare / Medical Appliances & Equipment`, so the taxonomy anchor is clean for this packet.",
+      "The `2025` annual filing says the company serviced approximately `4.3 million` patients annually in all `50` states through approximately `640` locations in `48` states as of Wednesday, `2025-12-31`.",
+      "The annual and year-end materials show a business built around four reportable segments during `2025`: Sleep Health, Respiratory Health, Diabetes Health, and Wellness at Home.",
+      "The operating logic is exactly right for CLI 8. Sleep Health covers `CPAP` and `BiLevel` supply and resupply. Respiratory Health covers oxygen and home mechanical ventilation. Wellness at Home covers post-acute equipment, supplies, and support in the home. Diabetes Health still existed during `2025`, but later became the business the company chose to sell.",
+      "Full-year `2025` net revenue was `$3.2449B`, down `0.5%`, while organic revenue still increased `1.7%`. Full-year net loss attributable to AdaptHealth was `$70.8M` versus net income of `$90.4M` in `2024`, largely because the year included a non-cash goodwill impairment charge of `$128.0M`.",
+      "Full-year `2025` adjusted EBITDA was `$616.7M`, down `10.5%`, but cash flow from operations improved to `$601.8M` from `$541.8M`, and debt reduction reached `$250M` for the year."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/healthcare/medical-appliances-equipment/adapthealth-corp/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "AdaptHealth is not retail-consumer demand in the ordinary sense, but it is heavily shaped by a broader societal shift toward more care delivered outside the hospital and more chronic-condition management handled in the home.",
+    "packet_path": "extracted/healthcare/medical-appliances-equipment/adapthealth-corp/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: net revenue increased `12.7%` to `$740.3M`, and organic revenue growth reached `15.9%`, with growth across all continuing reportable segments.",
+      "Profitability read: net loss attributable to AdaptHealth was `$145.3M` compared to net income of `$4.2M`, largely due to a `$144.2M` pre-tax goodwill write-down.",
+      "Cash-flow read: adjusted EBITDA fell `3.2%` to `$132.0M`, while year-to-date cash flow from operations declined to `$239.0M` from `$257.5M`, and year-to-date free cash flow turned negative `$48.4M` versus positive `$73.3M`.",
+      "Strategic read: after quarter-end the company agreed to sell Diabetes Health for `$235.0M` in cash, signed a joint venture combining its eCommerce asset with a sleep retailer plus home sleep testing capability, and expanded its digital layer to more than `512,000` registered `myAPP` users, up `56%` from year-end `2025`.",
+      "Operating-pressure read: management said the West Coast capitated partnership reached full scale, but the complexity of the rollout and an unexpected manufacturer price increase pressured margins and forced a reset of full-year `2026` guidance.",
+      "Forward read: revised continuing-operations guidance moved to net revenue of `$2.85B` to `$2.89B`, adjusted EBITDA of `$490M` to `$520M`, and free cash flow of `$80M` to `$120M`."
+    ],
+    "signal_takeaways": [
+      "AdaptHealth is not retail-consumer demand in the ordinary sense, but it is heavily shaped by a broader societal shift toward more care delivered outside the hospital and more chronic-condition management handled in the home.",
+      "The company shows how aging populations, chronic disease prevalence, sleep-apnea diagnosis, respiratory illness burden, and pressure on inpatient capacity all create recurring demand for a middle layer that keeps patients supplied after discharge or between clinical encounters.",
+      "It also captures a cultural shift toward self-service and digital care coordination. `myAPP` growth, online resupply, and home-sleep-testing adjacency show that even a regulated home-medical operator is becoming more digitally mediated and behavior-driven.",
+      "This is a healthcare replenishment and routing business, not a simple product seller. The key operating levers are referral-source access, payer reimbursement, field-service execution, equipment utilization, recurring consumable resupply, and patient retention.",
+      "Capitated contracts can drive large growth bursts, but they also create onboarding complexity, staffing strain, and temporary margin compression when volume ramps faster than process maturity.",
+      "Manufacturer pricing still matters. `Q2 2026` showed that an unexpected supplier price increase can hit margins even in a recurring healthcare-access model."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "AdaptHealth Corp.",
+  "company_slug": "adapthealth-corp",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/adapthealth-corp.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Medical Appliances & Equipment",
+  "local_artifacts": [
+    "extracted/healthcare/medical-appliances-equipment/adapthealth-corp/company-packet.md",
+    "extracted/healthcare/medical-appliances-equipment/adapthealth-corp/company-profile.md",
+    "extracted/healthcare/medical-appliances-equipment/adapthealth-corp/source-ledger.md",
+    "extracted/healthcare/medical-distribution/adapthealth-corp/company-packet.md",
+    "extracted/healthcare/medical-distribution/adapthealth-corp/company-profile.md",
+    "extracted/healthcare/medical-distribution/adapthealth-corp/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/adapthealth-corp.html",
+  "sector": "Healthcare",
+  "template_role": "",
+  "ticker": "AHCO"
+}

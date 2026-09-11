@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Crocs is one of the archive's cleaner mass-premium casualization cases. The annual filing does not read like a niche fashion label. It reads like a scaled comfort-and-identity footwear system with two brands, a large global wholesale footprint, and a growing direct relationship layer.",
+      "AnnualReports.com still lagged here. On Monday, August 10, 2026, the live page still showed only a `2024 Annual Report and Form 10K`, so the current annual package had to come from the official IR and SEC chain.",
+      "Full-year `2025` revenue was about `$4.04B`. The annual filing also showed that Crocs sold into more than `85` countries and that only `47.9%` of `2025` revenue came through wholesale, which implies the business is now majority direct-to-consumer by revenue.",
+      "The strategic split matters. The core `Crocs Brand` still carries the comfort-led and globally scalable part of the story, while `HEYDUDE` remains the weaker and more repair-heavy brand. That makes Crocs useful as a case where a strong cultural product system and a weaker adjacent brand can coexist inside the same public-company earnings profile.",
+      "The big read is that comfort has become mass culture, not only specialty utility. Crocs sits at the intersection of casualization, low-friction self-expression, comfort-first purchasing, and global brand ubiquity."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Crocs strengthens `Consumer Goods` with a comfort-led footwear system that sits between premium wellness apparel, casual lifestyle footwear, and broader direct-brand-control retail.",
+    "packet_path": "extracted/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` revenue was `$1.179B`, up `2.6%`; gross margin was `59.4%`; adjusted operating margin was `25.1%`; and adjusted diluted EPS was `$4.55`.",
+      "Operating posture: management said full-year `2026` guidance was raised again after a stronger first half. The `Crocs Brand` surpassed `$1.0B` of quarterly revenue for the first time, while DTC revenue grew `12.0%`.",
+      "Structural themes: this is the quarter that shows Crocs as a real consumer-system operator rather than a one-product novelty. Direct demand, innovation response, international growth, and capital return all showed up together.",
+      "Results: `Q1 2026` revenue was `$921M`, down `1.7%`; gross margin was `56.8%`; operating margin was `21.8%`; and adjusted diluted EPS was `$2.99`.",
+      "Operating posture: management framed the quarter around broad consumer relevance across both brands, healthy DTC growth, strong response to product newness, and disciplined execution. `Crocs Brand` revenue still grew `0.8%` to `$767M`.",
+      "Structural themes: the important point is that even in a softer top-line quarter, the direct relationship, innovation cadence, and brand relevance story remained intact. The weakness was not a collapse in consumer connection."
+    ],
+    "signal_takeaways": [
+      "Sector: Crocs strengthens `Consumer Goods` with a comfort-led footwear system that sits between premium wellness apparel, casual lifestyle footwear, and broader direct-brand-control retail.",
+      "Consumer: this is a read on a buyer who values comfort, ease, familiarity, low-friction styling, and casual self-expression rather than only performance or formal status display.",
+      "Cultural: Crocs is a strong signal that mainstream casualization is durable. Comfort has become socially acceptable and commercially scalable across age groups, channels, and regions.",
+      "Societal: the business reflects a broader normalization of comfort-first consumption, where products once coded as informal, playful, or utilitarian can become standard wardrobe choices.",
+      "Operating model: Crocs combines global wholesale distribution with a now-majority DTC revenue mix, giving the company stronger first-party demand visibility than a simple wholesale footwear vendor.",
+      "Competitive positioning: Crocs is most useful next to `Deckers Outdoor Corp.`, `lululemon athletica inc.`, `Birkenstock Holding plc`, `Levi Strauss & Co.`, and `Abercrombie & Fitch Co.`. It is less performance-coded than Deckers, less wellness-community-coded than lululemon, more mass-scaled and casualized than Birkenstock, and more comfort-object-centered than the apparel-led names."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Crocs, Inc.",
+  "company_slug": "crocs-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/crocs-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Textile - Apparel Footwear & Accessories",
+  "local_artifacts": [
+    "extracted/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/company-packet.md",
+    "extracted/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/company-profile.md",
+    "extracted/consumer-goods/textile-apparel-footwear-accessories/crocs-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/crocs-inc.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "CROX"
+}

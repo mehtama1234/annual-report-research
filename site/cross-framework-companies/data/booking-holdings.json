@@ -1,0 +1,270 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Booking is the right next Services name because it fills the missing travel-booking and distribution-platform layer. Delta gives the archive an airline loyalty-currency business, Hilton and Marriott give it branded lodging networks, and Caesars gives it a rewards-and-wallet entertainment loop. Booking adds the digital marketplace that sits upstream of much of that travel demand.",
+      "AnnualReports is only partially useful here. As of `2026-08-09`, it listed the current `2025 Annual Report and Form 10K`, but it left sector and industry as `--None--`. That makes Booking a clean example of why the archive needs a fallback taxonomy and cannot rely on the aggregator as the sole organizing authority.",
+      "The `2025` annual materials frame Booking as a scaled online travel reservation and payments platform rather than a conventional travel operator. Full-year `2025` revenue reached `$26,917M`, segment Adjusted EBITDA less Capex reached `$9,852M`, and the company remained overwhelmingly international with `$24,338M` of revenue outside the U.S. against `$2,579M` in the U.S.",
+      "The annual filing also shows the business mix shift that matters for the broader project. Merchant revenue reached `$17,755M` in `2025` versus `$14,142M` in `2024`, while agency revenue declined to `$7,968M` from `$8,524M`, which reflects the ongoing move from agency to merchant bookings at Booking.com.",
+      "Booking's travel-stack breadth is analytically useful. In `2025`, flight gross bookings increased `29%`, rental car gross bookings increased `9%`, and management kept pushing the Connected Trip and payments logic that sits on top of the core accommodation engine.",
+      "The official IR framing makes the strategic surface unusually explicit: make it easier for everyone to experience the world, put AI at the center of the Connected Trip vision, keep increasing direct mix, widen payments and fintech capabilities, and use loyalty, apps, and localization to deepen traveler behavior."
+    ],
+    "damodaran_questions": [
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/transportation-services/booking-holdings/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Booking broadens Services into travel distribution, online reservation flows, payments-linked travel commerce, and marketplace-like demand aggregation.",
+    "packet_path": "extracted/services/transportation-services/booking-holdings/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` total revenue was `$7,352M` and segment Adjusted EBITDA less Capex was `$2,631M`.",
+      "Demand and growth: total gross bookings were `$50,957M`, room nights were `325M`, merchant gross bookings were `$36,996M`, and the mix of gross bookings generated on a merchant basis rose to `73%` from `69%` a year earlier.",
+      "Operating and product signals: Booking.com's platform had approximately `4.7M` properties as of `2026-06-30`; the mix of Booking.com room nights coming from alternative accommodations was approximately `37%`; and the official IR overview tied the quarter to high-`50%` mobile app mix, mid-`60%` B2C direct mix, high-`50%` Genius mix, and Connected Trip transaction mix in the low double digits.",
+      "Management message: the quarter still showed resilient growth, but the filing also made clear that the Middle East conflict raised fuel costs, pressured long-haul international demand, and weighed on some travel corridors.",
+      "Structural themes: this quarter reinforces Booking as the consumer-travel interface layer. The important signals are merchant mix, direct behavior, app usage, loyalty participation, payments attachment, cross-vertical travel transactions, and supply density rather than only classic operator metrics.",
+      "Results: Q1 `2026` total revenue was `$5,532M` and segment Adjusted EBITDA less Capex was `$1,262M`."
+    ],
+    "signal_takeaways": [
+      "Sector: Booking broadens Services into travel distribution, online reservation flows, payments-linked travel commerce, and marketplace-like demand aggregation.",
+      "Consumer: this is one of the strongest direct reads on how people plan, compare, and book travel rather than simply how often they fly or stay.",
+      "Cultural: Booking adds a major travel-intent and trip-planning interface where convenience, trust, loyalty, and price transparency shape behavior across borders.",
+      "Technology: this packet is a clean bridge between consumer internet and travel. AI, app engagement, Connected Trip, direct acquisition, search dependence, and marketplace density all matter.",
+      "Payments and wallet logic: Booking is not a stored-value wallet in the Caesars sense, but the merchant shift and payments facilitation make the economics much closer to a transaction orchestration platform than to a pure referral marketplace.",
+      "Capital light versus capital heavy: Booking is analytically useful because it owns demand capture, traveler intent, and transaction flow without owning the hotel room, airline seat, or rental car fleet."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Booking Holdings Inc.",
+  "company_slug": "booking-holdings",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/booking-holdings.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Transportation Services",
+  "local_artifacts": [
+    "extracted/services/transportation-services/booking-holdings/company-packet.md",
+    "extracted/services/transportation-services/booking-holdings/company-profile.md",
+    "extracted/services/transportation-services/booking-holdings/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/booking-holdings.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "BKNG"
+}

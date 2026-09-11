@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "AnnualReports was current to the `2025` package on Monday, `2026-08-10`, and classified Avanos as `Healthcare / Medical Appliances & Equipment`, so the taxonomy anchor is clean for this packet.",
+      "The AnnualReports description explicitly says the company markets its products directly to hospitals and other healthcare providers and through third-party wholesale distributors. That direct-plus-distributor mix is an unusually good fit for this frontier.",
+      "The `2025` annual materials show two core reportable segments: Specialty Nutrition Systems and Pain Management and Recovery.",
+      "Specialty Nutrition Systems is the stronger CLI 8 fit. It is built around life-sustaining enteral feeding and neonatal solutions where recurring provider ordering, product standardization, and hospital workflow embedment matter more than consumer branding.",
+      "Pain Management and Recovery gives the packet a second middle-layer angle: procedure-adjacent products, installed-base support, and recurring hospital and outpatient demand with visible sensitivity to utilization, product mix, and category discipline.",
+      "Full-year `2025` net sales increased `1.9%` to `$701.2M`. The year-end release said the company exceeded its full-year revenue target and hit the top end of adjusted earnings-per-share guidance."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/healthcare/medical-appliances-equipment/avanos-medical-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Avanos is not a consumer-facing platform in the ordinary sense, but it is still shaped by broader societal demand for more clinically effective nutrition support, more neonatal care sophistication, more opioid-sparing pain management, and more standardized provider workflows.",
+    "packet_path": "extracted/healthcare/medical-appliances-equipment/avanos-medical-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: net sales increased `8.8%` to `$182.2M`.",
+      "Segment read: Specialty Nutrition Systems net sales were `$124.0M`, up `$22.9M`, while Pain Management and Recovery net sales were `$56.3M` and relatively flat year over year.",
+      "Profitability read: net income was `$5.1M`, adjusted net income was `$10.6M`, diluted EPS was `$0.11`, adjusted diluted EPS was `$0.22`, and adjusted EBITDA was `$21.8M`.",
+      "Cash-flow read: cash used in operations was `$12.3M`, and free cash flow was negative `$16.6M`, versus positive free cash flow in the prior-year quarter.",
+      "Strategic read: the quarter came with a major ownership event. On Monday, `2026-04-14`, Avanos announced a definitive agreement to be acquired by affiliates of American Industrial Partners in an all-cash transaction at a stated enterprise value of `$1.272B`.",
+      "As-of-date read: the SEC recent-filings trail includes later `2026` `8-K`s, but as of Monday, `2026-08-10`, there is still no reported `Q2 2026` earnings `8-K` or `10-Q`, so `Q1 2026` remains the latest reported quarter for this packet."
+    ],
+    "signal_takeaways": [
+      "Avanos is not a consumer-facing platform in the ordinary sense, but it is still shaped by broader societal demand for more clinically effective nutrition support, more neonatal care sophistication, more opioid-sparing pain management, and more standardized provider workflows.",
+      "The recurring-demand pattern is institutional and cultural at the same time. Hospitals and care teams want products that fit established protocols, lower friction in care delivery, and reduce avoidable complications, which makes category trust and channel reliability central.",
+      "The strongest societal shift in this packet is not personalization or app behavior. It is the growing weight of life-sustaining and specialty clinical-use categories where providers increasingly need dependable product flow, not just low unit prices.",
+      "This is a healthcare middle-layer operator with a mixed route to market. It depends on direct provider access and wholesale-distributor routing rather than on a single pure-play distribution model.",
+      "Segment mix matters. Specialty Nutrition Systems is the cleaner recurring institutional-demand engine, while Pain Management and Recovery carries more category volatility and procedure sensitivity.",
+      "Cost pressure still matters. `Q4 2025` showed the need for expanded transformation savings, and `Q1 2026` showed that stronger growth does not automatically translate into better free cash flow."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Avanos Medical, Inc.",
+  "company_slug": "avanos-medical-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/avanos-medical-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Medical Appliances & Equipment",
+  "local_artifacts": [
+    "extracted/healthcare/medical-appliances-equipment/avanos-medical-inc/company-packet.md",
+    "extracted/healthcare/medical-appliances-equipment/avanos-medical-inc/company-profile.md",
+    "extracted/healthcare/medical-appliances-equipment/avanos-medical-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/avanos-medical-inc.html",
+  "sector": "Healthcare",
+  "template_role": "",
+  "ticker": "AVNS"
+}

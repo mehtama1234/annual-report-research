@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Freeport gives the Basic Materials archive a clean copper-and-mining-infrastructure read. The annual materials show a company built around long-life copper assets, with gold and molybdenum as meaningful byproduct contributors to earnings quality and cost support.",
+      "AnnualReports now has a saved local company-page artifact for this branch, and it confirms the `Basic Materials` / `Copper` taxonomy while still lagging at the `2024 Annual Report and Form 10-K` as of `2026-08-10`. The authoritative `2025` chain remains the official annual report and SEC filing set.",
+      "The full-year `2025` package shows a business that remained strongly cash generative even through disruption: revenues of `$25.9 billion`, net income attributable to common stock of `$2.2 billion`, operating cash flow of `$5.6 billion`, and capital expenditures of `$4.5 billion`.",
+      "The biggest structural issue in the packet is Grasberg. The September `2025` mud-rush incident hurt `Q4 2025`, but the `2026` quarterlies show management treating the phased restart and ramp-up of Grasberg Block Cave as the central bridge back to stronger production and cash flow.",
+      "Freeport is especially useful for cross-sector work because it links directly into electrification, grid buildout, industrial investment, AI-adjacent power infrastructure, and broader hard-asset supply chain questions. Copper is the core product, but the bigger story is physical-system dependence.",
+      "Management is also clearly leaning into an organic growth narrative rather than just waiting for price. The packet repeatedly points to leach and technology initiatives in Arizona, brownfield growth options, and the potential major El Abra expansion in Chile."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/basic-materials/copper/freeport-mcmoran-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Freeport is a strong reminder that Basic Materials is not a generic inflation trade. The core drivers are ore quality, mine reliability, project execution, byproduct mix, realized-price leverage, and geopolitical operating rights.",
+    "packet_path": "extracted/basic-materials/copper/freeport-mcmoran-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` net income attributable to common stock was `$984 million`, adjusted net income was `$1.1 billion`, operating cash flow was `$2.0 billion`, and capital expenditures were `$1.1 billion`.",
+      "Operations: consolidated production totaled `786` million pounds of copper, `192` thousand ounces of gold, and `23` million pounds of molybdenum. Consolidated sales totaled `710` million pounds of copper, `123` thousand ounces of gold, and `25` million pounds of molybdenum.",
+      "Pricing and costs: average realized prices were `$6.17` per pound for copper, `$4,520` per ounce for gold, and `$28.75` per pound for molybdenum. Unit net cash costs were `$1.97` per pound of copper.",
+      "Management message: the message was strong margins, strong cash flow, operational execution, and a still-positive market outlook, with Grasberg ramping on schedule and the copper growth pipeline intact.",
+      "Structural themes: `Q2 2026` shows what Freeport looks like when the copper market is supportive and Grasberg is healing. The business becomes a direct lever on copper scarcity, industrial electrification, and large-project mining execution.",
+      "Results: `Q1 2026` net income attributable to common stock was `$881 million`, while adjusted net income was `$830 million` because reported earnings included net credits tied mainly to an insurance settlement. Operating cash flow was `$1.5 billion` and capital expenditures were `$1.0 billion`."
+    ],
+    "signal_takeaways": [
+      "Sector: Freeport is a strong reminder that Basic Materials is not a generic inflation trade. The core drivers are ore quality, mine reliability, project execution, byproduct mix, realized-price leverage, and geopolitical operating rights.",
+      "Consumer: direct consumer demand is not the main read. The better lens is copper demand from power systems, transmission, electrification, industrial equipment, autos, and construction.",
+      "Cultural: the broader signal is that the modern economy still depends on hard-mined materials at scale. Copper remains a quiet but unavoidable foundation input for the physical buildout behind digital and energy-transition narratives.",
+      "Regulatory: Indonesia operating rights, permitting, environmental approvals, and mine safety are first-order variables. The El Abra and Arizona growth themes depend heavily on regulatory and social-license execution.",
+      "Labor: this is a labor- and operations-heavy business even when labor is not the headline. Ramp-ups, underground mine recovery, maintenance, and project execution all depend on operational discipline and specialized capability.",
+      "Technology: Freeport is not a software beneficiary, but it is exposed to technology through mining methods, leach innovation, data analytics, and the simple fact that copper demand is tied to power and digital infrastructure buildout."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Freeport-McMoRan Inc.",
+  "company_slug": "freeport-mcmoran-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/freeport-mcmoran-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Copper",
+  "local_artifacts": [
+    "extracted/basic-materials/copper/freeport-mcmoran-inc/company-packet.md",
+    "extracted/basic-materials/copper/freeport-mcmoran-inc/company-profile.md",
+    "extracted/basic-materials/copper/freeport-mcmoran-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/freeport-mcmoran-inc.html",
+  "sector": "Basic Materials",
+  "template_role": "",
+  "ticker": "FCX"
+}

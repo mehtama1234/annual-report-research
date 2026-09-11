@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Comfort Systems is the right next Industrial Goods name because it closes a gap the archive still had: direct skilled-trades and labor-capacity exposure inside commercial, industrial, and institutional building work.",
+      "AnnualReports classifies the company as `Industrial Goods / General Contractors`, which is a better fit than the temporary holding path this packet started under. The business reads as an operator of HVAC, electrical, modular, and building-services execution capacity rather than as a machinery OEM.",
+      "The annual evidence chain is now complete with an official annual-report artifact on disk through the SEC `ARS` filing, rather than only the `10-K` and quarter materials.",
+      "The `2025` annual filing chain shows an unusually strong year. Full-year revenue reached `$9.10 billion`, net income reached `$1.02 billion`, diluted EPS reached `$28.88`, and operating cash flow reached `$1.19 billion`.",
+      "Year-end backlog was the key operating signal. Backlog reached `$11.94 billion` at `2025-12-31`, up from `$5.99 billion` a year earlier, and same-store backlog reached `$11.58 billion`.",
+      "Comfort Systems matters for the labor work because management keeps tying results to execution quality, team depth, and the ability to convert demand into completed work, while the risk disclosures explicitly warn about taking on commitments that exceed labor resources."
+    ],
+    "damodaran_questions": [
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Comfort Systems widens Industrial Goods beyond equipment, power hardware, HVAC manufacturing, defense, rail, waste, and outsourced facilities support into direct field execution and skilled-trades capacity.",
+    "packet_path": "extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` revenue was `$3.27 billion`, net income was `$441.6 million`, diluted EPS was `$12.53`, and operating cash flow was `$1.14 billion`.",
+      "Demand and backlog: backlog rose to `$14.06 billion` from `$12.45 billion` in Q1 `2026` and `$8.12 billion` a year earlier; same-store backlog rose to `$13.70 billion`.",
+      "Management message: management said record results came from unmatched execution, strong ongoing demand, and continued backlog growth despite high burn rates.",
+      "Structural themes: this is the clearest quarter showing why Comfort Systems is a labor-squeeze operator. Demand is not the bottleneck; converting that demand depends on workforce quality, project execution, and the company's ability to keep scaling skilled labor without losing discipline.",
+      "Results: Q1 `2026` revenue was `$2.87 billion`, net income was `$370.4 million`, diluted EPS was `$10.51`, and operating cash inflow was `$388.8 million`.",
+      "Demand and backlog: backlog rose to `$12.45 billion` from `$11.94 billion` at year-end `2025`, while same-store backlog reached `$12.21 billion`."
+    ],
+    "signal_takeaways": [
+      "Sector: Comfort Systems widens Industrial Goods beyond equipment, power hardware, HVAC manufacturing, defense, rail, waste, and outsourced facilities support into direct field execution and skilled-trades capacity.",
+      "Labor: this is one of the archive's clearest cases where labor is not just a cost line. It is the operating bottleneck, because backlog and demand only matter if the company can keep enough skilled teams staffed and productive.",
+      "Infrastructure and construction: Comfort Systems sits in the real buildout layer of commercial buildings, institutional projects, industrial facilities, and electrical and mechanical systems.",
+      "Services versus projects: the source stack also shows the company spans construction, building services, modular and offsite work, maintenance, retrofit, and building automation. That makes it more durable than a pure one-time project contractor.",
+      "Capital-light but labor-heavy: unlike a manufacturer, Comfort Systems scales through people, local execution, acquisitions, and project management discipline rather than through a giant factory footprint.",
+      "Industrial and cultural context: the packet is useful not only for industrial demand analysis but for understanding how scarce technical labor and execution reputation have become strategic assets in a still-building physical economy."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Comfort Systems USA, Inc.",
+  "company_slug": "comfort-systems-usa-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/comfort-systems-usa-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "General Contractors",
+  "local_artifacts": [
+    "extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-packet.md",
+    "extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/company-profile.md",
+    "extracted/industrial-goods/general-contractors/comfort-systems-usa-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/comfort-systems-usa-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "FIX"
+}

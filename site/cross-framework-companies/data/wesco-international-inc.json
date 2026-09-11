@@ -1,0 +1,268 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The `2025` annual report and `10-K` frame WESCO as a leading provider of business-to-business distribution, logistics services, and supply chain solutions rather than as a narrow box mover.",
+      "Scale matters here because the model depends on density, availability, and workflow integration. The `10-K` says WESCO employed about `21,000` people, worked with more than `35,000` suppliers, served nearly `130,000` customers, and operated more than `700` sites in about `50` countries.",
+      "The business mix is broad but coherent. WESCO organizes itself around `Electrical & Electronic Solutions`, `Communications & Security Solutions`, and `Utility & Broadband Solutions`, which together place it at the center of commercial construction, data-center fit-out, networking, utility projects, and broader industrial maintenance and upgrade cycles.",
+      "`2025` was a record year. The `Q4 2025` / full-year results say net sales reached `$23.5B`, up `8%`, with organic sales up `9%` and data-center sales of `$4.3B`, up about `50%`.",
+      "The annual and full-year materials make the thematic shift clear: WESCO is benefiting from AI-driven data centers, increased power generation, and supply-chain reshoring, while trying to turn that demand into more durable cross-sell, margin expansion, and working-capital efficiency through digitalization."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when management must decide whether an investment, project, or policy increases business value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/industrial-goods/industrial-equipment-components/wesco-international-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "WESCO is not consumer-facing in the usual sense, but it reflects a major social and industrial shift: more of the economy runs through procurement platforms that customers rely on for availability, technical complexity, logistics, and speed rather than trying to self-manage fragmented supplier bases.",
+    "packet_path": "extracted/industrial-goods/electronics-wholesale/wesco-international-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Net sales were `$6.665B`, up `13.0%` year over year and `9.6%` sequentially. Organic sales grew `12.6%`.",
+      "Operating margin was `5.7%`, adjusted EBITDA margin was `7.3%`, diluted EPS was `$4.23`, adjusted diluted EPS was `$4.57`, operating cash flow was `$54M`, and free cash flow was `$32M`.",
+      "Data-center sales reached `$1.5B`, up about `45%`, and management said WESCO had now posted four consecutive quarters of double-digit sales growth fueled by data centers.",
+      "The most important qualitative change is backlog behavior. Management said backlog was up about `60%` to a record level, driven by multi-year customer commitments and secular infrastructure demand.",
+      "The quarter also shows how WESCO is moving up the value stack. Management highlighted a significant multi-year grid-services award from a hyperscale data-center customer and described that as an important step in extending data-center exposure into power solutions, not just white-space and gray-space product categories.",
+      "Net sales were `$6.080B`, up `13.8%`, with organic sales up `12.3%`."
+    ],
+    "signal_takeaways": [
+      "WESCO is not consumer-facing in the usual sense, but it reflects a major social and industrial shift: more of the economy runs through procurement platforms that customers rely on for availability, technical complexity, logistics, and speed rather than trying to self-manage fragmented supplier bases.",
+      "This is one of the clearest physical-economy expressions of AI hype turning into real-world purchase orders. Data-center growth is not just a software or chip story; it also requires wire, cable, connectors, networking gear, power equipment, cooling-adjacent systems, and site-level supply-chain coordination.",
+      "The company also sits inside a wider civic and institutional build cycle. Utilities, telecom providers, commercial buildings, security systems, and industrial operators all increasingly need upgrade work that depends on distributors with large catalogs, local presence, and reliable service.",
+      "WESCO is still a margin-sensitive distribution business. Growth can be strong, but earnings depend on mix, gross margin discipline, SG&A leverage, working-capital turns, and the timing of customer project releases.",
+      "Segment mix matters. `CSS` and `EES` were the strongest performers into late `2025`, while `UBS` showed how exposure to slower public-power customers can drag margin and earnings even when the broader company is growing.",
+      "Working capital is a recurring pressure point. The `Q4 2025` release explicitly said higher receivables and inventory tied to strong sales affected quarter cash generation, and the quarter-to-quarter cash pattern in `2026` stayed lumpy even with better first-half growth."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "WESCO International Inc.",
+  "company_slug": "wesco-international-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/wesco-international-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Industrial Equipment Wholesale",
+  "local_artifacts": [
+    "analysis/company-first-principles/industrial-goods/industrial-equipment-components/wesco-international-inc/company-analysis.md",
+    "extracted/industrial-goods/electronics-wholesale/wesco-international-inc/company-packet.md",
+    "extracted/industrial-goods/electronics-wholesale/wesco-international-inc/company-profile.md",
+    "extracted/industrial-goods/electronics-wholesale/wesco-international-inc/source-ledger.md",
+    "extracted/industrial-goods/industrial-equipment-components/wesco-international-inc/company-packet.md",
+    "extracted/industrial-goods/industrial-equipment-components/wesco-international-inc/company-profile.md",
+    "extracted/industrial-goods/industrial-equipment-components/wesco-international-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/wesco-international-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "WCC"
+}

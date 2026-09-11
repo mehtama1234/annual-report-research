@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Kraft Heinz adds the archive's clearest large-scale center-store grocery and condiment platform under active repair. This is not a simple defensive staples story. The `2025` annual and year-end package show a very large but pressured pantry-and-meal system trying to rebuild profitable growth through heavier brand and commercial investment.",
+      "Full-year `2025` net sales were `$24.942 billion`, Organic Net Sales decreased `3.4%`, Adjusted Operating Income was `$4.745 billion`, Adjusted EPS was `$2.60`, and Free Cash Flow was `$3.7 billion`.",
+      "The annual and year-end read show the core structural split clearly: iconic brands and large category positions still matter, but North America is the weak point, share had been slipping, and management decided it needed a much larger reinvestment push rather than a passive pricing-led defense.",
+      "The most important strategic move in the package is the explicit pause in separation work plus the announcement of an initial `~$600 million` investment across marketing, sales, R&D, product superiority, and selective pricing to restore growth.",
+      "Compared with Campbell's, Kraft Heinz is broader, more mainstream, and more exposed to legacy center-store grocery repair rather than a narrower pantry-and-meals thesis. Compared with PepsiCo, it is much less diversified and less buffered by beverages and convenience-system breadth. Compared with Mondelez, it is less about indulgence and more about staple meal, condiment, and grocery-shelf relevance."
+    ],
+    "damodaran_questions": [
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/food-major-diversified/the-kraft-heinz-company/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Kraft Heinz strengthens the case that food staples remain important, but large packaged-food systems are no longer automatically safe. Legacy scale helps, but only if management restores relevance, value architecture, and share momentum.",
+    "packet_path": "extracted/consumer-goods/food-major-diversified/the-kraft-heinz-company/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: in Q2 `2026`, Organic Net Sales were down `1.3%`, Constant Currency Adjusted Operating Income declined `18.4%`, Adjusted EPS was `$0.56`, and Free Cash Flow was up `10%` versus the prior year.",
+      "Guidance: on August 5, 2026, Kraft Heinz raised its Organic Net Sales outlook and increased planned `2026` incremental spend by `$100 million`, to approximately `$700 million`, while narrowing the Constant Currency Adjusted Operating Income guidance range.",
+      "Management message: management said momentum from Q1 continued into Q2, that value and affordability still matter, and that investments are beginning to improve share trends, especially in Taste Elevation, Hydration, and parts of the international business.",
+      "Structural themes: this quarter is the clearest evidence that the business is still in repair mode, but not in free fall. The company is trading margin for recovery, leaning harder into brand spend, and trying to stabilize a legacy grocery system through better execution rather than only through price.",
+      "Results: Q1 `2026` net sales increased `0.8%` to `$6.047 billion`, Organic Net Sales decreased `0.4%`, Adjusted Operating Income decreased `11.8%` to `$1.058 billion`, Adjusted EPS was `$0.58`, and Free Cash Flow was `$0.8 billion`.",
+      "Guidance: on May 6, 2026, Kraft Heinz maintained its full-year `2026` outlook."
+    ],
+    "signal_takeaways": [
+      "Sector: Kraft Heinz strengthens the case that food staples remain important, but large packaged-food systems are no longer automatically safe. Legacy scale helps, but only if management restores relevance, value architecture, and share momentum.",
+      "Consumer: shoppers are still buying condiments, cheese, sauces, meals, and lunch staples, but they remain price-aware and selective. Value, opening price points, and pack accessibility matter more than simple brand familiarity.",
+      "Cultural: this is a mainstream grocery-shelf and family-meal platform rather than an identity or aspiration platform. The most useful cultural read is not trend adoption but whether legacy household brands can still stay central in everyday cooking and eating routines.",
+      "Regulatory: direct regulatory language is less central than in some sectors, but tariff, inflation, and commodity pressure still matter materially and shape pricing and margin outcomes.",
+      "Labor: the business is trying to improve execution partly through organizational simplification, commercial hiring, and stronger accountability rather than through a labor-shortage story alone.",
+      "Technology: technology shows up mainly through execution, eCommerce growth, packaging and product development, and media-efficiency measurement rather than as a core external-facing thesis."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "The Kraft Heinz Company",
+  "company_slug": "the-kraft-heinz-company",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/the-kraft-heinz-company.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Food - Major Diversified",
+  "local_artifacts": [
+    "extracted/consumer-goods/food-major-diversified/the-kraft-heinz-company/company-packet.md",
+    "extracted/consumer-goods/food-major-diversified/the-kraft-heinz-company/company-profile.md",
+    "extracted/consumer-goods/food-major-diversified/the-kraft-heinz-company/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/the-kraft-heinz-company.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "KHC"
+}

@@ -1,0 +1,271 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "NextEra describes itself as the largest electric power and energy infrastructure company in North America. Its investor materials say Florida Power & Light serves approximately `12 million` people across Florida, while NextEra Energy Resources remains one of the largest energy infrastructure development businesses in the U.S.",
+      "The `2025` annual framing is different from AEP's. NextEra is not only selling regulated-utility resilience; it is selling an integrated capital-compounding model built on FPL rate-base growth plus Energy Resources development backlog.",
+      "Full-year `2025` adjusted earnings per share were `$3.71`, up more than `8%` from `2024`, and management said this exceeded the top end of the range it had communicated in December `2025`.",
+      "The company reiterated an `8%+` adjusted EPS compound annual growth rate through `2032` and targeted the same from `2032` through `2035`, which is a much more explicitly long-duration growth posture than the average utility pitch.",
+      "This makes NextEra a useful archive contrast: AEP is the cleaner regulated-grid and affordability story, while NextEra is a hybrid regulated-utility plus development-platform story built around renewables, storage, gas, transmission, and large-load infrastructure."
+    ],
+    "damodaran_questions": [
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/utilities/electric-utilities/nextera-energy-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: NextEra broadens Utilities from pure regulated load-and-grid economics into a hybrid model where regulated earnings, renewable/storage backlog, and large-load development all matter.",
+    "packet_path": "extracted/utilities/electric-utilities/nextera-energy-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` GAAP EPS was `$1.50` and adjusted EPS was `$1.15`, up from adjusted EPS of `$1.05` in Q2 `2025`.",
+      "Utility layer: FPL Q2 `2026` EPS was `$0.67` versus `$0.62` a year earlier, with regulatory capital employed growing from `$72.9B` to `$79.7B`, or about `9.3%`.",
+      "Development layer: NextEra Energy Resources adjusted EPS was `$0.62` versus `$0.53` in Q2 `2025`, and the business added `3.6 GW` of new renewables and storage origination to backlog during the quarter.",
+      "Strategic themes: management said power demand was accelerating, emphasized that the company is positioned to serve hyperscalers and large-load customers with a full suite of solutions, and advanced merger-approval filings for the proposed Dominion combination.",
+      "Results: Q1 `2026` GAAP EPS was `$1.04` and adjusted EPS was `$1.09`, compared with adjusted EPS of `$0.98` in Q1 `2025`.",
+      "Utility layer: FPL Q1 `2026` EPS was `$0.70` versus `$0.64` a year earlier, with regulatory capital employed increasing from `$71.4B` to `$77.7B`, or about `8.8%`."
+    ],
+    "signal_takeaways": [
+      "Sector: NextEra broadens Utilities from pure regulated load-and-grid economics into a hybrid model where regulated earnings, renewable/storage backlog, and large-load development all matter.",
+      "Industrial: the company is one of the clearest archive examples of how industrial and hyperscaler demand translate into generation, storage, transmission, and gas-development opportunity rather than only into utility-rate-base growth.",
+      "Consumer: the consumer angle is mostly through FPL affordability and customer growth in Florida. Management continues to stress that bills are well below the national average even while investment keeps rising.",
+      "Cultural: this is one of the clearest \u201cAmerica needs more electrons\u201d narratives in the archive. The cultural frame is not utility defensiveness; it is infrastructure ambition and build capacity.",
+      "Regulatory: FPL\u2019s rate structure and capital recovery remain core, but regulation is only one part of the story. The strategic surface also includes transmission approvals, large-load tariffs, and the proposed Dominion merger.",
+      "Technology: NextEra is a second-order AI and data-center infrastructure read. The company explicitly ties its hub strategy and large-load opportunity to hyperscaler and power-demand growth."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "NextEra Energy, Inc.",
+  "company_slug": "nextera-energy-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/nextera-energy-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Electric Utilities",
+  "local_artifacts": [
+    "analysis/company-first-principles/utilities/electric-utilities/nextera-energy-inc/company-analysis.md",
+    "extracted/utilities/electric-utilities/nextera-energy-inc/company-packet.md",
+    "extracted/utilities/electric-utilities/nextera-energy-inc/company-profile.md",
+    "extracted/utilities/electric-utilities/nextera-energy-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    },
+    {
+      "id": "lyn-scarce-assets-and-hard-money-portfolio-role",
+      "source": "https://www.lynalden.com/april-2024-newsletter/",
+      "title": "Scarce assets and hard-money portfolio role",
+      "when_to_use": "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/nextera-energy-inc.html",
+  "sector": "Utilities",
+  "template_role": "",
+  "ticker": "NEE"
+}

@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "MGM is the right next gaming and destination packet because it gives the archive a second large resort-and-casino operator beside Caesars, which makes the gaming and loyalty work less dependent on one wallet-forward example.",
+      "The classification stack is cleaner here than in some travel names, but the archive signal is still useful: AnnualReports places MGM in `Services / Resorts & Casinos`, while the SEC describes the business under `Hotels & Motels`. That combination helps because MGM is not just a casino operator or just a hotel operator. It is a destination-platform business spanning lodging, gaming, entertainment, meetings, regional repeat play, Macau, and digital gaming.",
+      "The `2025` annual materials show a business with record revenue but uneven segment quality. Full-year `2025` consolidated net revenues reached `$17.5B`, consolidated Adjusted EBITDA reached `$2.4B`, and Adjusted EPS reached `$3.31`.",
+      "The segment mix matters more than the headline. For full-year `2025`, Las Vegas Strip Resorts revenue was `$8.4B` and down `4%`, Regional Operations revenue was `$3.8B` and up `1%`, MGM China revenue was `$4.5B` and up `11%`, and MGM Digital revenue was `$654M` and up `19%`.",
+      "That mix makes MGM analytically stronger than a generic casino label suggests. Las Vegas was softer, but regional gaming held up, Macau stayed strong, and digital activity kept expanding. The packet is useful because it shows a diversified destination-and-gaming portfolio rather than one narrow wagering engine.",
+      "MGM also sharpens the archive's aggregator-gap lesson. As of `2026-08-09`, AnnualReports still showed only `2024` as the most recent annual package, while MGM's own IR stack already exposed the `2025` annual report and the current `2026` quarter chain."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Travel and destination lane: MGM strengthens the archive because it gives the travel-and-experience work another operator that monetizes destination demand through lodging, meetings, gaming, luxury positioning, and repeat property visits.",
+    "packet_path": "extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` consolidated revenue was `$4.5B`, net income attributable to MGM Resorts was `$292M`, diluted EPS was `$1.11`, Adjusted EPS was `$0.59`, and consolidated Adjusted EBITDA was `$610M`.",
+      "Growth and mix: management framed the quarter around record consolidated revenue, a second consecutive quarter of Las Vegas Strip year-over-year revenue growth, and all-time best Regional Operations same-store quarterly revenue.",
+      "Segment signals: Las Vegas Strip revenue was `$2.2B` and up `3%`; Regional Operations same-store revenue was `$904M` and up `3%`; MGM China revenue was roughly `$1.1B` and flat; MGM Digital revenue was `$196M` and up `20%`.",
+      "Strategic message: management said MGM Osaka remained on track for a `2030` opening and tied future growth to returns on digital businesses as well as to luxury-investment opportunities in Las Vegas.",
+      "Structural themes: this quarter reinforces MGM as a destination-platform portfolio with several monetization surfaces at once: Strip resorts, regional gaming, Macau, and digital extensions.",
+      "Results: Q1 `2026` consolidated net revenues were `$4.5B`, net income attributable to MGM Resorts was `$125M`, diluted EPS was `$0.48`, Adjusted EPS was `$0.49`, and consolidated Adjusted EBITDA was `$580M`."
+    ],
+    "signal_takeaways": [
+      "Travel and destination lane: MGM strengthens the archive because it gives the travel-and-experience work another operator that monetizes destination demand through lodging, meetings, gaming, luxury positioning, and repeat property visits.",
+      "Wallet and loyalty logic: MGM is less explicit than Caesars about one universal wallet, but it still shows a meaningful relationship system through MGM Rewards, BetMGM linkage, repeat resort visitation, and digital-gaming adjacency.",
+      "Digital extension: the most useful distinction is that `MGM Digital` and `BetMGM` are not the same thing. MGM Digital captures LeoVegas and other consolidated subsidiaries, while BetMGM sits in the unconsolidated-affiliates line. That makes MGM a stronger comparison case for how digital exposure can exist in more than one accounting and operating form.",
+      "Geographic diversification: MGM is a better cross-market comparison than Caesars for understanding how Las Vegas, regional U.S. gaming, and Macau can offset one another inside one company.",
+      "Cultural: MGM is a status and experience business as much as a gaming business. Luxury stays, convention demand, destination entertainment, premium-mass play in Macau, and digital wagering all sit inside one branded consumption system.",
+      "Capital intensity: MGM is a stronger capital-heavy counterweight to Booking, Marriott, and Hilton than Caesars is, because the story more visibly includes integrated resorts, international development, and large-scale physical destination assets."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "MGM Resorts International",
+  "company_slug": "mgm-resorts-international",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/mgm-resorts-international.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Resorts & Casinos",
+  "local_artifacts": [
+    "extracted/services/resorts-casinos/mgm-resorts-international/company-packet.md",
+    "extracted/services/resorts-casinos/mgm-resorts-international/company-profile.md",
+    "extracted/services/resorts-casinos/mgm-resorts-international/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/mgm-resorts-international.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "MGM"
+}

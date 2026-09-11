@@ -1,0 +1,270 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Reliance adds a missing layer to the current Basic Materials starter set: downstream metals processing, service-center logistics, and quick-turn distribution. That matters because the sector is not only about mining, smelting, or steelmaking. It also includes the infrastructure that moves, cuts, processes, and supplies metal into end markets.",
+      "AnnualReports now has a saved local company-page artifact for this branch, and it confirms the `Basic Materials` / `Steel & Iron` taxonomy while still lagging at the `2024 Annual Report and Form 10-K` as of `2026-08-10`. The authoritative `2025` chain remains the official annual report, the IR quarter releases, and the SEC filing set.",
+      "The annual materials describe the largest metals service center company in North America, operating through about `310` locations in `41` U.S. states and `10` countries outside the U.S. The scale is operationally important because Reliance wins not just on commodity exposure, but on availability, mill relationships, processing capacity, and speed.",
+      "The `2025` operating model is unusually clear. Average order size was only `$3,120`, about `49%` of orders included value-added processing, and about `40%` of orders were delivered within `24` hours. This is not a pure \u201cship tons of steel\u201d story. It is a fragmented, high-service industrial supply-chain model.",
+      "The annual base year was solid. `2025` net sales were `$14.3 billion`, up `3.3%`, while tons sold reached a record `6.4 million`, up `6.2%`. Reliance also said it held about `17%` of the U.S. metals service-center market in `2025`, up from about `15%` in `2024`.",
+      "Capital allocation and reinvestment matter here too. Reliance returned nearly `$850 million` to stockholders in `2025`, including `$594.1 million` of repurchases, while still spending `$328.9 million` on capital expenditures. This is another Basic Materials name returning cash while still investing behind operating capability."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when management must decide whether an investment, project, or policy increases business value.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/basic-materials/steel-iron/reliance-steel-aluminum-co/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Reliance is strong evidence that Basic Materials includes downstream industrial distribution and processing infrastructure, not only upstream extraction and production.",
+    "packet_path": "extracted/basic-materials/steel-iron/reliance-steel-aluminum-co/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` net sales were `$4.63 billion`, pretax income was `$429.8 million`, diluted EPS was `$6.29`, and non-GAAP diluted EPS was `$6.27`.",
+      "Volume and pricing: tons sold rose `7.0%` sequentially and `10.8%` year over year, while average selling price per ton sold increased `7.8%` sequentially. Management said Reliance outperformed the industry-wide shipment increase reported by MSCI by more than `5` percentage points.",
+      "Margin and cash: gross profit margin was `28.1%`, while non-GAAP FIFO gross profit margin improved to `30.5%` from `30.1%` in `Q1 2026`. Cash flow from operations was `$162.2 million`, cash was `$235.4 million`, and total debt was `$1.7 billion`.",
+      "Management message: the company emphasized constructive conditions, extended mill lead times, strong pricing, record quarterly tons sold, and stronger activity across infrastructure, semiconductor, manufacturing, and aerospace.",
+      "Structural themes: `Q2 2026` is the clearest proof point that Reliance is not just a passive volume reseller. Pricing discipline, share gains, and project execution mattered, especially with the DHS border wall contract contributing about `$0.41` of EPS.",
+      "Results: `Q1 2026` net sales were `$4.0 billion`, pretax income was `$349.5 million`, diluted EPS was `$5.10`, and non-GAAP diluted EPS was `$5.16`."
+    ],
+    "signal_takeaways": [
+      "Sector: Reliance is strong evidence that Basic Materials includes downstream industrial distribution and processing infrastructure, not only upstream extraction and production.",
+      "Consumer: direct consumer exposure is limited. The better lens is nonresidential construction, infrastructure, industrial machinery, aerospace, defense, and semiconductor-capex demand flowing through metal consumption and quick-turn supply.",
+      "Cultural: this is another reminder that the physical economy depends on dense operating networks, not just on factories or mines. Reliance\u2019s model is about availability, logistics, cut-to-size processing, and rapid fulfillment.",
+      "Regulatory: tariffs and trade policy matter directly here because they shape price formation, mill lead times, material availability, and project economics. Government contracts also matter, as shown by the border wall contribution.",
+      "Labor: this is an execution-heavy operating system spread across hundreds of locations. Processing throughput, local service quality, and the ability to support both small daily orders and large projects matter even when labor is not the headline.",
+      "Technology: Reliance is not a direct software or semiconductor name, but it is tied to data-center and semiconductor buildout through metals demand. The quarterlies repeatedly connect semiconductor improvement to rising data-center activity."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Reliance, Inc.",
+  "company_slug": "reliance-steel-aluminum-co",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/reliance-steel-aluminum-co.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Steel & Iron",
+  "local_artifacts": [
+    "extracted/basic-materials/steel-iron/reliance-steel-aluminum-co/company-packet.md",
+    "extracted/basic-materials/steel-iron/reliance-steel-aluminum-co/company-profile.md",
+    "extracted/basic-materials/steel-iron/reliance-steel-aluminum-co/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/reliance-steel-aluminum-co.html",
+  "sector": "Basic Materials",
+  "template_role": "",
+  "ticker": "RS"
+}

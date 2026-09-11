@@ -1,0 +1,277 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Constellation is the right eighth utility because it adds the cleanest nuclear-and-carbon-free generation platform in the current set. It deepens the archive's read on the power bottleneck from a different angle than Vistra: less about hedge books and merchant volatility, more about scarce clean baseload, long-dated PPAs, and a larger integrated generation platform.",
+      "AnnualReports currently classifies Constellation as `Utilities / Diversified Utilities`, which is directionally right but undersells how much the current story is centered on competitive generation, commercial contracting, and the strategic value of the largest nuclear fleet in the country.",
+      "Official company materials describe Constellation as the largest private-sector power producer in the world and the nation's largest producer of clean and reliable energy. The company says its `55 GW` fleet spans nuclear, natural gas, oil, geothermal, hydro, wind, and solar and can power the equivalent of `27 million` homes.",
+      "The annual and quarterly materials consistently frame Constellation around clean reliability, the data economy, electrification, long-duration corporate PPAs, and life extension or restart of existing nuclear assets. That makes the company one of the clearest direct utility-side reads on how AI and data-center demand are reshaping power value.",
+      "Constellation's strategic point is that the reliable-power shortage is not only a grid or merchant-pricing issue. Ownership of hard-to-replicate clean baseload generation and a broad commercial platform may be one of the most valuable positions in the entire power system."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/utilities/diversified-utilities/constellation-energy-corporation/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Constellation gives the utilities set the cleanest direct nuclear-and-data-economy bridge. It shows how ownership of reliable clean generation is being repriced as a strategic scarce asset.",
+    "packet_path": "extracted/utilities/diversified-utilities/constellation-energy-corporation/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` GAAP net income was `$1.42` per share and adjusted operating earnings were `$2.55` per share.",
+      "Guidance: management raised full-year `2026` adjusted operating earnings guidance to `$11.50` to `$12.50` per share from the prior `$11.00` to `$12.00` range.",
+      "Management message: the Q2 release emphasized the earnings power of the expanded platform, strong operational and commercial performance, and disciplined capital allocation after the Calpine acquisition.",
+      "Structural themes: management highlighted progress at the Crane Clean Energy Center, an additional `920 MW` of long-term clean-power PPAs with investment-grade customers, agreement to divest the `606 MW` Brazos Valley Energy Center to satisfy Calpine-related regulatory commitments, and license-renewal filings for two New York nuclear units.",
+      "Operating identity: Constellation reads like a strategic clean-power landlord with a commercial engine attached. The central economic asset is reliable generation that can be extended, restarted, contracted, and paired with customer-specific infrastructure.",
+      "Results: Q1 `2026` GAAP net income was `$4.49` per share and adjusted operating earnings were `$2.74` per share, versus adjusted operating earnings of `$2.14` per share in Q1 `2025`."
+    ],
+    "signal_takeaways": [
+      "Sector: Constellation gives the utilities set the cleanest direct nuclear-and-data-economy bridge. It shows how ownership of reliable clean generation is being repriced as a strategic scarce asset.",
+      "Industrial: the industrial read is not just wires and substations. It is power-campus design, colocation, plant restarts, license extensions, gas peakers, and the ability to make existing generation sites more valuable through customer-specific infrastructure.",
+      "Consumer: Constellation still has consumer and commercial retail relevance, but the current investment narrative is dominated by the value of the fleet and the commercial platform rather than by mass-market retail alone.",
+      "Cultural: the narrative is national and strategic rather than civic and local. The company frames itself as part of U.S. competitiveness, the AI age, and the country's clean and reliable energy base.",
+      "Regulatory: the regulatory layer matters through NRC approvals, DOE support, FERC waivers, and merger remedies. This is not a conventional rate-case utility, but it is still heavily shaped by public approvals and policy.",
+      "Technology: Constellation is one of the strongest utility-side expressions of the AI and data-center buildout. Microsoft, Meta, Walmart, and CyrusOne show up not as abstract demand signals but as concrete contracting counterparts."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Constellation Energy Corp",
+  "company_slug": "constellation-energy-corporation",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/constellation-energy-corporation.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Diversified Utilities",
+  "local_artifacts": [
+    "analysis/company-first-principles/utilities/diversified-utilities/constellation-energy-corporation/company-analysis.md",
+    "extracted/utilities/diversified-utilities/constellation-energy-corporation/company-packet.md",
+    "extracted/utilities/diversified-utilities/constellation-energy-corporation/company-profile.md",
+    "extracted/utilities/diversified-utilities/constellation-energy-corporation/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-scarce-assets-and-hard-money-portfolio-role",
+      "source": "https://www.lynalden.com/april-2024-newsletter/",
+      "title": "Scarce assets and hard-money portfolio role",
+      "when_to_use": "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/constellation-energy-corporation.html",
+  "sector": "Utilities",
+  "template_role": "",
+  "ticker": "CEG"
+}

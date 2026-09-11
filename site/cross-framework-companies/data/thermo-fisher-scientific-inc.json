@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "AnnualReports was current to the `2025` package on Monday, `2026-08-10`, and classified Thermo Fisher as `Healthcare / Medical Instruments & Supplies`, so the taxonomy anchor is clean for this packet.",
+      "Fiscal `2025` ended with revenue of `$44.56B`, GAAP diluted `EPS` of `$17.74`, adjusted `EPS` of `$22.87`, and free cash flow of `$6.34B`.",
+      "The annual report gives the operating structure clearly: `Life Sciences Solutions`, `Analytical Instruments`, `Specialty Diagnostics`, and `Laboratory Products and Biopharma Services`.",
+      "The portfolio mix shown in the annual materials is what makes this packet valuable for CLI 8. `Analytical Instruments` were about `52%` of revenue, `Life Sciences Solutions` were `22%`, `Laboratory Products and Biopharma Services` were `16%`, and `Specialty Diagnostics` were `10%`.",
+      "That segment structure is the real middle-layer proof. Thermo Fisher monetizes research tools, diagnostics, lab workflow, production support, and recurring consumables rather than end-demand branding or molecule ownership alone.",
+      "The annual narrative also broadens the strategic frame through the Solventum filtration-and-separation acquisition, the Sanofi sterile fill-finish site acquisition in New Jersey, the pending Clario expansion, and explicit `AI` deployment work across operations and products."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Thermo Fisher is not consumer-facing in the ordinary sense, but it is still exposed to broad societal shifts: more biopharma complexity, more diagnostic intensity, more outsourced scientific workflow, and more pressure to speed research and production cycles.",
+    "packet_path": "extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: revenue was `$11.99B`, GAAP diluted `EPS` was `$4.68`, adjusted `EPS` was `$6.03`, and adjusted operating margin was `22.8%`.",
+      "Growth signal: revenue growth was `10%`, including `5%` organic growth.",
+      "Strategic read: this is a serving-science platform where acquisition support, end-market breadth, and recurring workflow relevance matter as much as any one product cycle.",
+      "Middle-layer read: the quarter shows how much of Thermo Fisher's demand is rooted in research intensity, diagnostics throughput, scientific workflow, and biopharma production support rather than in hospital occupancy or direct consumer behavior.",
+      "Results: revenue was `$11.01B`, GAAP diluted `EPS` was `$4.43`, adjusted `EPS` was `$5.44`, and adjusted operating margin was `21.8%`.",
+      "Growth signal: revenue growth was `6%`, including `1%` organic growth."
+    ],
+    "signal_takeaways": [
+      "Thermo Fisher is not consumer-facing in the ordinary sense, but it is still exposed to broad societal shifts: more biopharma complexity, more diagnostic intensity, more outsourced scientific workflow, and more pressure to speed research and production cycles.",
+      "The cultural shift that matters most here is that scientific and healthcare infrastructure increasingly rely on scaled workflow providers rather than only on one-off instrument purchases or in-house fragmented procurement.",
+      "The packet also captures a larger industrial pattern: biology, diagnostics, and production support are becoming more operationally complex, which favors vendors that can bundle instruments, consumables, software-adjacent workflow, and services.",
+      "This is a healthcare-classified middle-layer operator with broad exposure to research, diagnostics, biopharma, and laboratory workflow rather than to direct retail or household demand.",
+      "Segment breadth is a strength, but it also means Thermo Fisher faces several pressures at once: research spending intensity, biopharma production demand, acquisition integration, product mix, and margin sensitivity across scientific end markets.",
+      "The annual and quarter chain also makes clear that acquisition support matters to the current growth story. That does not weaken the packet, but it does mean the cleanest interpretation requires separating organic demand from deal support."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Thermo Fisher Scientific Inc.",
+  "company_slug": "thermo-fisher-scientific-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/thermo-fisher-scientific-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Medical Instruments & Supplies",
+  "local_artifacts": [
+    "extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-packet.md",
+    "extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/company-profile.md",
+    "extracted/healthcare/medical-instruments-supplies/thermo-fisher-scientific-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/thermo-fisher-scientific-inc.html",
+  "sector": "Healthcare",
+  "template_role": "",
+  "ticker": "TMO"
+}

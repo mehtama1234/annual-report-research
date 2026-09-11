@@ -1,0 +1,276 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Primoris is the right next contractor addition because it keeps the industrial lane anchored in field execution, but adds a different mix: utilities, gas operations, communications, renewables, natural-gas generation, and heavy civil work.",
+      "The official `2025` annual report shows a very strong base year. Revenue reached `$7.575 billion`, net income reached `$274.9 million`, diluted EPS reached `$5.02`, adjusted EBITDA reached `$531.1 million`, and year-end backlog reached `$11.9 billion`.",
+      "The annual letter makes Primoris a direct read on the same power-demand and AI-linked buildout seen elsewhere in the archive. Management explicitly tied demand to replacing aging infrastructure, hardening the grid, expanding power delivery, building natural-gas generation, scaling solar and battery storage, and communications builds tied to data-center development.",
+      "The annual package also shows a real labor and execution story. Primoris said it increased its labor force by more than `2,800` people in `2025`, highlighted tighter markets for certified journeyman linemen, and emphasized the advantage of self-performing the vast majority of its work.",
+      "Primoris is not a generic heavy-construction company. The annual materials divide the business between `Utilities` and `Energy`, with Utilities spanning power delivery, gas operations, and communications, and Energy spanning renewables, industrial construction, heavy civil, maintenance, and pipeline services."
+    ],
+    "damodaran_questions": [
+      "Use when management must decide whether an investment, project, or policy increases business value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/heavy-construction/primoris-services-corporation/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Primoris adds a broader utility-and-energy construction operator to Industrial Goods rather than another equipment or pure services name.",
+    "packet_path": "extracted/industrial-goods/heavy-construction/primoris-services-corporation/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026`, for the quarter ended `2026-06-30`, delivered revenue of `$1.688 billion`, net loss of `$24.2 million`, diluted loss per share of `$0.45`, adjusted net loss of `$14.6 million`, and adjusted EBITDA of `$11.4 million`.",
+      "Demand and backlog: total backlog reached a record `$13.9 billion`, including `$8.2 billion` of master service agreement backlog, and management highlighted roughly `$1.4 billion` of natural-gas power-generation awards during the quarter.",
+      "Management message: the company said challenged renewables projects were still hurting earnings, but also said it had delivered record bookings and the highest total backlog in company history.",
+      "Structural themes: Primoris is now a useful counterexample inside the industrial set. Demand and bookings stayed strong, but project redesign, sequencing, labor productivity, sub-surface conditions, and weather were enough to flip the quarter into an operating loss.",
+      "Results: Q1 `2026`, for the quarter ended `2026-03-31`, delivered revenue of `$1.560 billion`, net income of `$17.4 million`, diluted EPS of `$0.32`, adjusted net income of `$32.2 million`, and adjusted EBITDA of `$60.5 million`.",
+      "Demand and backlog: Utilities improved year over year, but Energy margins weakened sharply, and management updated full-year `2026` guidance to reflect solar-project revenue and margin pressure plus the PayneCrest acquisition."
+    ],
+    "signal_takeaways": [
+      "Sector: Primoris adds a broader utility-and-energy construction operator to Industrial Goods rather than another equipment or pure services name.",
+      "AI and digital infrastructure: the annual letter and transcript tie communications builds, substations, and power infrastructure directly to data-center development and rising power demand.",
+      "Natural gas and all-of-the-above power: Primoris is one of the cleaner archive reads on how gas generation is re-entering the industrial story alongside solar and battery storage, not as a substitute for them.",
+      "Renewables execution risk: the `2026` quarterlies make Primoris one of the archive's clearest examples of strong demand coexisting with weak margins because of contract structure, redesigns, sequencing, weather, and labor-productivity issues.",
+      "Labor and self-perform capacity: the company explicitly frames labor availability, project managers, and self-perform depth as operating advantages.",
+      "M&A as capability fill-in: PayneCrest adds another example of contractors buying into adjacent electrical and advanced-facility work to capture more of the project stack around digital and industrial infrastructure."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Primoris Services Corporation",
+  "company_slug": "primoris-services-corporation",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/primoris-services-corporation.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Heavy Construction",
+  "local_artifacts": [
+    "extracted/industrial-goods/heavy-construction/primoris-services-corporation/company-packet.md",
+    "extracted/industrial-goods/heavy-construction/primoris-services-corporation/company-profile.md",
+    "extracted/industrial-goods/heavy-construction/primoris-services-corporation/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-scarce-assets-and-hard-money-portfolio-role",
+      "source": "https://www.lynalden.com/april-2024-newsletter/",
+      "title": "Scarce assets and hard-money portfolio role",
+      "when_to_use": "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/primoris-services-corporation.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "PRIM"
+}

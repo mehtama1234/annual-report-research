@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Disney is the right next Services name because it expands the archive from retail and pure subscription operators into a consumer-cultural system built on franchise IP, streaming, sports, parks, and merchandise demand.",
+      "The annual-report sourcing gap is itself useful. As of `2026-08-09`, AnnualReports.com still showed Disney's `2024 Annual Report and Form 10K`, while Disney's own investor-relations stack already exposed the `2025` annual report and `Q3 2026` quarterly materials. That makes Disney a clear example of why the archive cannot rely on the aggregator alone.",
+      "The `2025` annual and year-end materials show a large multi-engine company rather than a narrow media asset. Full-year `2025` revenue was `$94.4B`, income before taxes was `$12.0B`, total segment operating income was `$17.6B`, diluted EPS was `$6.85`, and adjusted EPS was `$5.93`.",
+      "The segment mix matters. At year-end `2025`, Entertainment full-year segment operating income rose to `$4.7B`, Sports stayed a major advertising and distribution engine, and Experiences delivered record full-year segment operating income of `$10.0B`.",
+      "Disney is especially useful to the archive because the same fan relationship shows up across digital subscriptions, theatrical releases, sports viewing, park attendance, and consumer-product demand. That makes it stronger as a consumer-system case than as a simple streaming or legacy-media case."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/entertainment-diversified/walt-disney-co/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Disney broadens Services beyond logistics, restaurants, and live events into IP-driven entertainment infrastructure with recurring digital, advertising, and destination economics.",
+    "packet_path": "extracted/services/entertainment-diversified/walt-disney-co/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q3 `2026` revenue was `$25.2B`, income before taxes was `$3.6B`, and total segment operating income was `$5.6B`.",
+      "Operating detail: Entertainment revenue reached `$11.3B`, Sports revenue reached `$4.5B`, and Experiences revenue reached `$10.0B`. Entertainment segment operating income increased to about `$1.68B`, while Experiences segment operating income increased to about `$3.02B`.",
+      "Management message: management framed the quarter around deep fan connections, strong experiences demand, ESPN viewership gains, and continued confidence in the full-year setup. The company also raised its fiscal `2026` share repurchase target to at least `$9B`.",
+      "Structural themes: this quarter reinforces Disney as a system that monetizes consumer attention across both digital and physical channels. The useful read is not only quarter growth, but the way IP, streaming, sports audiences, parks demand, and capital returns all move together.",
+      "Results: Q2 `2026` revenue was `$25.2B`, income before taxes was `$3.4B`, and total segment operating income was `$4.6B`.",
+      "Segment detail: Entertainment revenue was `$11.7B`, Sports revenue was `$4.6B`, and Experiences revenue was `$9.5B`, all up year over year."
+    ],
+    "signal_takeaways": [
+      "Sector: Disney broadens Services beyond logistics, restaurants, and live events into IP-driven entertainment infrastructure with recurring digital, advertising, and destination economics.",
+      "Consumer: Disney is one of the archive's strongest examples of consumers repeatedly paying to stay inside an ecosystem rather than making isolated one-off purchases.",
+      "Cultural: the cultural signal is unusually strong. Disney monetizes attachment to franchises, characters, stories, sports brands, and family rituals across multiple channels.",
+      "Loyalty and membership: Disney is directly relevant to the archive's loyalty work because management is explicitly trying to evolve Disney+ into a broader membership ecosystem rather than leaving it as a standalone streaming product.",
+      "Physical plus digital: Disney is a high-value case for how digital engagement and physical presence can reinforce one another. Parks, streaming, sports, and theatrical releases all feed the same relationship system.",
+      "Advertising and audience reach: Disney is also useful because subscription economics are only part of the picture. Advertising demand and audience scale, especially around ESPN and broader streaming inventory, remain central."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Walt Disney Co.",
+  "company_slug": "walt-disney-co",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/walt-disney-co.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Entertainment - Diversified",
+  "local_artifacts": [
+    "extracted/services/entertainment-diversified/walt-disney-co/company-packet.md",
+    "extracted/services/entertainment-diversified/walt-disney-co/company-profile.md",
+    "extracted/services/entertainment-diversified/walt-disney-co/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/walt-disney-co.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "DIS"
+}

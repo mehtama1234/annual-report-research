@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "eBay is a useful archive addition because it adds a scaled non-travel marketplace model that sits between retail, community, advertising, and seller tooling rather than behaving like a normal store operator.",
+      "AnnualReports still lagged at `2024` on `2026-08-10`, while the official investor stack already exposed the `2025` annual package and the Q4 `2025` through Q2 `2026` results chain.",
+      "The `2025` full-year package was stronger than the older shorthand around a mature marketplace would suggest. Revenue reached `$11.1B`, up `8%`; GMV reached `$79.6B`, up `7%`; GAAP net income from continuing operations reached `$2.0B`; non-GAAP net income reached `$2.6B`; and operating margins were `20.5%` GAAP and `27.8%` non-GAAP.",
+      "The more important point is strategic, not only financial. Management described `2025` as a milestone year, tied the momentum to strategic priorities, and kept leaning into recommerce, collectibles, fashion, enthusiast demand, and advertising rather than trying to sound like a broad everything store.",
+      "That makes eBay analytically useful for the archive. It is a commerce relationship business, but the relationship is organized around discovery, trust, resale, seller supply, and category enthusiasm rather than around paid membership or owned-fulfillment density."
+    ],
+    "damodaran_questions": [
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/internet-service-providers/ebay/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: eBay gives the archive a marketplace operator that AnnualReports places in `Consumer Goods`, even though the economic reality cuts across retail, advertising, and platform behavior.",
+    "packet_path": "extracted/consumer-goods/internet-service-providers/ebay/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` revenue was `$3.1B`, up `15%`; GMV was `$22.4B`, up `15%`; GAAP net income from continuing operations was `$552M`; and non-GAAP net income from continuing operations was `$727M`.",
+      "Operating posture: GAAP and non-GAAP operating margins were `21.6%` and `28.5%`; total advertising revenue was `$596M`; first-party advertising revenue was `$570M`, up `25%`; and the Depop acquisition closed on `2026-07-30`.",
+      "Structural themes: this quarter matters because it shows eBay widening the marketplace into stronger circular-fashion and enthusiast behavior while keeping advertising growth strong enough to matter economically.",
+      "Results: Q1 `2026` revenue was `$3.1B`, up `19%`; GMV was `$22.2B`, up `18%`; GAAP net income from continuing operations was `$512M`; and non-GAAP net income from continuing operations was `$760M`.",
+      "Operating posture: GAAP and non-GAAP operating margins were `19.8%` and `29.4%`; total advertising revenue was `$581M`; first-party advertising revenue was `$555M`, up `33%`; and free cash flow from continuing operations was `$898M`.",
+      "Structural themes: this is the cleanest quarter for the packet because management explicitly tied the momentum to `Focus Categories`, `C2C`, and `recommerce`, while also announcing the pending Depop acquisition to deepen younger fashion resale demand."
+    ],
+    "signal_takeaways": [
+      "Sector: eBay gives the archive a marketplace operator that AnnualReports places in `Consumer Goods`, even though the economic reality cuts across retail, advertising, and platform behavior.",
+      "Consumer: this is a direct read on resale, collector behavior, value-seeking discovery, and how community supply can create recurring demand without owned inventory.",
+      "Cultural: eBay matters because the company is leaning into pre-loved fashion, collectibles, live shopping, automotive enthusiasts, and other taste-and-identity surfaces rather than only utilitarian e-commerce.",
+      "Loyalty and technology: eBay is a useful counterexample to membership-heavy systems. The lock-in here is weaker and more interest-led, but it is still monetizable through seller density, ad products, trust features, and category specialization.",
+      "Business model: the model compounds when enthusiast demand pulls in supply, supply improves discovery and trust, and those interactions create better ad inventory and higher-value seller services.",
+      "Competitive positioning: eBay is especially useful because it separates marketplace intermediation from owned-retail ecosystem models like Amazon and from travel marketplaces like Booking or Expedia."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "eBay Inc.",
+  "company_slug": "ebay",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/ebay.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Internet Service Providers",
+  "local_artifacts": [
+    "extracted/consumer-goods/internet-service-providers/ebay/company-packet.md",
+    "extracted/consumer-goods/internet-service-providers/ebay/company-profile.md",
+    "extracted/consumer-goods/internet-service-providers/ebay/source-ledger.md",
+    "extracted/themes/etsy-vs-ebay-vs-airbnb-boundary-comparison-2026-08-10.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/ebay.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "EBAY"
+}

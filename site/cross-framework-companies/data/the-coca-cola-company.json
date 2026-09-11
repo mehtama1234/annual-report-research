@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Coca-Cola is the right next consumer-goods packet because it adds the large-scale routine beverage and global brand-system layer that sits between PepsiCo's broader portfolio model and Monster's identity-heavy functional-energy model.",
+      "AnnualReports is current here. As of `2026-08-10`, the site exposed a `2025 Annual Report and Form 10K` package for Coca-Cola, and the local archive now includes both the AnnualReports-hosted annual report and the full official IR and SEC chain.",
+      "The official `2025` results and filing materials show a huge but still actively managed routine-consumption system. Full-year `2025` net revenues were `$47.9B`, full-year organic revenue growth was `5%`, full-year comparable EPS was `$3.00`, and full-year free cash flow was `$5.3B`, or `$11.4B` excluding the fairlife contingent-consideration payment.",
+      "The annual and Q4 chain also make the operating model clearer than a simple \u201cglobal soda company\u201d label suggests. Coca-Cola is balancing brand scale, bottler execution, pricing, pack architecture, zero-sugar recruitment, and cultural marketing while still depending on local affordability and mix decisions market by market.",
+      "The `Q4 2025` materials also show why the model should not be read as frictionless. Reported quarter operating income fell `32%` and quarter operating margin fell to `15.6%`, partly because of a `$960M` non-cash BODYARMOR trademark impairment.",
+      "At the same time, the annual materials show the resilience of the system. Full-year unit case volume was even, not collapsing, while Coca-Cola Zero Sugar grew `14%` for the year and comparable currency neutral operating income grew `13%`."
+    ],
+    "damodaran_questions": [
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Trusted routine beverage system: Coca-Cola is one of the cleanest routine-use consumer interfaces in the repo because demand is built on repeat beverage occasions, daily habit, and category trust rather than on one-time discretionary conversion.",
+    "packet_path": "extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` net revenues grew `7%` to `$13.4B`, organic revenues grew `6%`, EPS grew `16%` to `$1.03`, comparable EPS grew `11%` to `$0.97`, year-to-date cash flow from operations was `$7.5B`, and year-to-date free cash flow was `$6.9B`.",
+      "Volume and mix: global unit case volume grew `5%`, concentrate sales grew `4%`, and price/mix grew `2%`.",
+      "Guidance and operating signal: the company raised full-year `2026` guidance, moving organic revenue growth to approximately `5%`, comparable currency neutral EPS growth to `7%` to `8%`, and comparable EPS growth to `9%` to `10%` versus `8%` to `9%` before.",
+      "Cultural and data signal: the FIFA World Cup 2026 campaign ran across more than `180` markets, more than `20M` retail outlets, more than `60B` impressions, and more than `9B` views, while connected packaging engaged more than `80M` consumers and collected more than `25M` first-party data records.",
+      "Structural read: Q2 is the clearest recent proof that Coca-Cola is not only selling beverages. It is operating a global routine-use brand system that can convert major cultural moments into consumer recruitment, retail execution, and first-party data capture at enormous scale.",
+      "Results: Q1 `2026` net revenues grew `12%` to `$12.5B`, organic revenues grew `10%`, operating income grew `19%`, EPS grew `18%` to `$0.91`, comparable EPS grew `18%` to `$0.86`, cash flow from operations was `$2.0B`, and free cash flow was `$1.8B`."
+    ],
+    "signal_takeaways": [
+      "Trusted routine beverage system: Coca-Cola is one of the cleanest routine-use consumer interfaces in the repo because demand is built on repeat beverage occasions, daily habit, and category trust rather than on one-time discretionary conversion.",
+      "Global brand-plus-bottler architecture: the moat is not only consumer affection for Coca-Cola brands. It is the combined system of trademarks, bottling partners, route-to-market execution, and customer presence across more than `200` countries and territories.",
+      "Revenue growth management as interface design: the quarter chain repeatedly points to brand, price, pack, and channel architecture. This makes Coca-Cola a strong example of how consumer-interface control can happen through package sizing, away-from-home access, affordability options, and premiumization rather than through an app or loyalty wallet alone.",
+      "Zero-sugar and functional extension: Coca-Cola Zero Sugar growth and the push into sports, hydration, and functional variants show a portfolio trying to defend routine demand while recruiting newer and more health-aware use cases.",
+      "Cultural activation plus first-party data: the FIFA campaign matters because it shows how a legacy mass brand can use global cultural moments and connected packaging to gather first-party data and reinforce consumer relationships at scale.",
+      "Comparison value: PepsiCo is broader across snacks and beverages, Monster is more identity and stimulation heavy, and Coca-Cola is the cleaner global routine beverage and cultural-distribution engine."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "The Coca-Cola Company",
+  "company_slug": "the-coca-cola-company",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/the-coca-cola-company.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Beverages - Soft Drinks",
+  "local_artifacts": [
+    "extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-packet.md",
+    "extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/company-profile.md",
+    "extracted/consumer-goods/beverages-soft-drinks/the-coca-cola-company/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/the-coca-cola-company.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "KO"
+}

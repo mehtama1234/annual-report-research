@@ -1,0 +1,270 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Nutrien gives the Basic Materials archive the agricultural-input and food-system layer that the other starter names do not cover. This is not just a fertilizer price trade. It is an integrated agriculture platform that combines upstream production with a large retail and agronomy network.",
+      "The annual materials show real scale. Nutrien frames itself as the `#1` global ag retailer, the `#1` global potash producer, and the `#2` North American nitrogen producer. It operates more than `1,800` retail locations, more than `4,200` crop consultants, more than `600,000` customer accounts, `6` potash mines, `12` nitrogen facilities, and `6` phosphate facilities.",
+      "The higher-quality part of the story is the mix of assets and relationships, not just tonnage. Nutrien repeatedly emphasizes proprietary products, agronomy, financing, logistics, and farmer relationships as the mechanisms that make the retail business more resilient and higher quality.",
+      "Potash remains the most important structural upstream asset. The annual and quarterly materials point to strong potash affordability, tight global fundamentals, record sales volumes, and continuing mine automation. Nutrien also disclosed that `49%` of potash ore tonnes were mined using automation in `2025`.",
+      "`2025` was a strong base year. Full-year net earnings were `$2.30 billion` and adjusted EBITDA was `$6.05 billion`, helped by higher fertilizer selling prices, record upstream fertilizer sales volumes, and higher retail earnings.",
+      "Portfolio simplification matters. Management keeps presenting the company as a business being narrowed toward stronger, lower-risk, structural free-cash-flow generation. Strategic alternatives for the phosphate business, the Trinidad nitrogen facility, and the Brazilian retail business are part of that effort."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/basic-materials/agricultural-chemicals/nutrien/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Nutrien is strong evidence that Basic Materials includes agricultural systems and food-production infrastructure, not just mined and energy commodities.",
+    "packet_path": "extracted/basic-materials/agricultural-chemicals/nutrien/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` net earnings were `$1.22 billion`, diluted EPS was `$2.53`, adjusted EBITDA was `$2.43 billion`, and adjusted net earnings per share was `$2.61`.",
+      "Segment read: in the first half of `2026`, Retail adjusted EBITDA was `$1.24 billion`, Potash adjusted EBITDA was `$1.24 billion`, and Nitrogen adjusted EBITDA was `$1.12 billion`.",
+      "Cash and capital return: Nutrien returned `$848 million` to shareholders in the first half of `2026`, increased the pace of repurchases in the third quarter, and reported approximately `$82 million` of third-quarter repurchases through August 4, 2026.",
+      "Management message: management emphasized record first-half potash sales volumes, stronger proprietary products margins, better nitrogen reliability and cost position, raised potash sales volume guidance, and lower capital expenditure guidance.",
+      "Structural themes: `Q2 2026` is the clearest evidence that Nutrien can produce very strong earnings when potash volumes, nitrogen margins, and retail execution line up at the same time.",
+      "Results: `Q1 2026` net earnings were `$139 million`, diluted EPS was `$0.27`, adjusted EBITDA was `$1.11 billion`, and adjusted net earnings per share was `$0.51`."
+    ],
+    "signal_takeaways": [
+      "Sector: Nutrien is strong evidence that Basic Materials includes agricultural systems and food-production infrastructure, not just mined and energy commodities.",
+      "Consumer: direct end-consumer demand is far downstream, but the chain runs through food, feed, biofuels, acreage decisions, and grower economics. That makes the company a useful read on real-economy demand that is not consumer-discretionary in the normal sense.",
+      "Cultural: the bigger cultural signal is that basic production systems still matter. Fertilizer, agronomy, and distribution networks remain central to food security and agricultural productivity.",
+      "Regulatory: trade flows, geopolitics, natural-gas costs, environmental standards, and cross-border agricultural policy all matter here. This is one of the clearest places where geopolitics and physical supply chains enter earnings directly.",
+      "Labor: field execution, agronomy support, mining reliability, plant turnarounds, and logistics all matter. This is not a capital-light software story.",
+      "Technology: Nutrien\u2019s technology signal is operational rather than digital-native. Mine automation, proprietary products, digital retail capabilities, and logistics optimization all show up as competitive advantages."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Nutrien Ltd.",
+  "company_slug": "nutrien",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/nutrien.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE AND TSX",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Agricultural Chemicals",
+  "local_artifacts": [
+    "extracted/basic-materials/agricultural-chemicals/nutrien/company-packet.md",
+    "extracted/basic-materials/agricultural-chemicals/nutrien/company-profile.md",
+    "extracted/basic-materials/agricultural-chemicals/nutrien/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-scarce-assets-and-hard-money-portfolio-role",
+      "source": "https://www.lynalden.com/april-2024-newsletter/",
+      "title": "Scarce assets and hard-money portfolio role",
+      "when_to_use": "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/nutrien.html",
+  "sector": "Basic Materials",
+  "template_role": "",
+  "ticker": "NTR"
+}

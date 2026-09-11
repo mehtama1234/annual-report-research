@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "AnnualReports confirms that Mistras belongs in `Services / Technical Services`, but the site still lagged at `2024` on Monday, `2026-08-10`, so the packet is anchored to official IR timing evidence and SEC materials for the required `2025` annual-plus-quarter chain.",
+      "The `2025` annual filing says the company delivers asset protection solutions that combine inspection services, products, data management, analytics, and engineering expertise, ranging from routine inspections to enterprise-wide asset integrity management programs.",
+      "The annual report says many services are provided on a recurring \"run and maintain\" basis at customer facilities, and that non-destructive testing is attractive because it allows customers to inspect mission-critical assets without shutting down the asset or entire facility.",
+      "Full-year `2025` revenue was `$724.0M`, gross profit was `$204.5M`, gross margin was `28.2%`, income from operations was `$40.6M`, and net income attributable to Mistras was `$16.8M`.",
+      "Revenue fell slightly by `0.8%` year over year, but margin quality improved materially. Gross margin expanded from `26.3%` to `28.2%`, and income from operations still increased to `5.6%` of revenue.",
+      "The annual filing is unusually useful for CLI 8 because it shows the company operating across oil and gas, aerospace and defense, industrial, power generation and transmission, infrastructure, petrochemical, and other process industries, which makes it a true cross-industry operating-support intermediary."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/technical-services/mistras-group-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Mistras is not consumer-facing, but it reflects a major societal pattern: as industrial systems age and regulation tightens, customers are willing to outsource more inspection, integrity management, and certification work instead of staffing every niche capability internally.",
+    "packet_path": "extracted/services/technical-services/mistras-group-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: revenue increased `4.6%` to `$169.0M`, gross profit increased to `$44.7M`, gross margin improved `120` basis points to `26.5%`, income from operations improved to `$4.7M`, and `GAAP` net income reached `$2.4M`.",
+      "End-market read: management said the quarter was driven by strong `35.5%` growth in Aerospace & Defense, which shows why Mistras is not just a refinery-turnaround or oilfield proxy.",
+      "Operating read: adjusted EBITDA reached `$14.3M`, up `18.7%`, while adjusted EBITDA margin improved `110` basis points to `8.5%`.",
+      "Cash-flow read: net cash provided by operating activities was only `$0.7M`, and free cash flow was negative `$4.5M`, with management pointing to unfavorable working-capital dynamics and higher capital expenditures.",
+      "Forward read: management reaffirmed full-year `2026` guidance of revenue between `$730.0M` and `$750.0M` and adjusted EBITDA between `$91.0M` and `$93.0M`.",
+      "Results: revenue increased `5.1%` to `$181.5M`, gross profit reached `$51.5M`, gross margin expanded `190` basis points to `28.4%`, net income reached `$3.9M`, and adjusted EBITDA reached a record `$24.8M`."
+    ],
+    "signal_takeaways": [
+      "Mistras is not consumer-facing, but it reflects a major societal pattern: as industrial systems age and regulation tightens, customers are willing to outsource more inspection, integrity management, and certification work instead of staffing every niche capability internally.",
+      "The stronger cultural shift is toward proof, traceability, and uptime. Customers increasingly need documented condition data, predictive analytics, and audit-ready integrity workflows, not just one-off manual inspections.",
+      "There is also a national-capacity angle. Aerospace and defense, energy, utilities, civil infrastructure, and industrial facilities all need specialized inspection and monitoring talent, and that skill base is hard to build internally on short notice.",
+      "This is an uptime-and-compliance middle layer. Customers are buying the ability to inspect and maintain critical assets without shutting them down, which makes service quality and technical credibility central to the revenue model.",
+      "The business is still exposed to customer capital-spending cycles, energy and industrial activity levels, and end-market pauses in turnaround or project schedules.",
+      "Labor quality is a structural constraint. The annual filing highlights the need to attract and retain certified technicians, engineers, and scientists, which makes talent density a real operating moat as well as a risk."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Mistras Group, Inc.",
+  "company_slug": "mistras-group-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/mistras-group-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Technical Services",
+  "local_artifacts": [
+    "extracted/services/technical-services/mistras-group-inc/company-packet.md",
+    "extracted/services/technical-services/mistras-group-inc/company-profile.md",
+    "extracted/services/technical-services/mistras-group-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/mistras-group-inc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "MG"
+}

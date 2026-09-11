@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Marriott is the right next Services name because it turns the travel-status lane into something broader than one airline plus one hotel operator. Delta gives the archive a loyalty-currency system, Hilton gives it an asset-light lodging compounder, and Marriott adds the largest branded stay network in the set.",
+      "AnnualReports still lagged here as of `2026-08-10`, showing only the `2024 Annual Report and Form 10K`, while Marriott IR already exposed the `2025` annual report. That makes Marriott another direct example of why the archive cannot rely on the aggregator alone.",
+      "The `2025` annual materials frame Marriott as a scale distribution and fee engine built on franchising, management, licensing, and Marriott Bonvoy. The system ended `2025` with `9,805` properties and `1,779,936` rooms across `145` countries and territories, while the development pipeline reached approximately `4,100` properties and nearly `610,000` rooms.",
+      "Marriott Bonvoy is central to the business strategy, not a side feature. In `2025`, about `75%` of U.S. hotel room nights and `68%` of global hotel room nights were booked by loyalty members, and co-branded credit cards in `11` countries remained a significant funding source for the loyalty program.",
+      "The full-year `2025` earnings release said diluted EPS was `$9.51`, net income was `$2,601M`, adjusted net income was `$2,742M`, adjusted EBITDA was `$5,383M`, and worldwide RevPAR increased `2.0%` for the full year.",
+      "Marriott also matters because it combines repeat travel behavior with owner demand. Gross room additions were nearly `100,000` in `2025`, net rooms grew more than `4.3%`, and the company returned more than `$4.0B` to shareholders in the year."
+    ],
+    "damodaran_questions": [
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/lodging/marriott-international-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Marriott deepens Services into global lodging, meetings, travel, and repeat-stay behavior rather than only transport, retail, or business services.",
+    "packet_path": "extracted/services/lodging/marriott-international-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` diluted EPS was `$2.90`, net income was `$766M`, and adjusted EBITDA was `$1.592B`.",
+      "Demand and growth: worldwide RevPAR increased `3.4%`, U.S. and Canada RevPAR increased `5.0%`, system size reached `10,082` properties and `1,813,698` rooms, and the pipeline reached approximately `629,000` rooms.",
+      "Management message: Marriott framed the quarter around broad U.S. demand strength, continued room growth, and new multi-year U.S. co-branded credit card agreements with `JPMorgan Chase` and `American Express`.",
+      "Structural themes: this quarter reinforces Marriott as a brand-system, distribution, and loyalty platform. The key signals are RevPAR, room additions, co-brand economics, pipeline depth, and the ability to keep signing owners even while the Middle East conflict pressured international results.",
+      "Results: Q1 `2026` diluted EPS was `$2.43`, net income was `$648M`, and adjusted EBITDA was `$1.398B`.",
+      "Demand and growth: worldwide RevPAR increased `4.2%`, system size reached `9,926` properties and `1,795,808` rooms, nearly `15,900` net rooms were added, and the pipeline reached nearly `618,000` rooms."
+    ],
+    "signal_takeaways": [
+      "Sector: Marriott deepens Services into global lodging, meetings, travel, and repeat-stay behavior rather than only transport, retail, or business services.",
+      "Consumer: this is a direct read on status-oriented and branded travel demand, with a stronger explicit loyalty concentration than many other travel names disclose.",
+      "Cultural: Marriott adds a broad branded-hospitality and experience layer where trust, familiarity, program status, and destination behavior all matter.",
+      "Payments and wallet logic: Marriott is not as pure a wallet case as Delta or Caesars, but the co-branded card economics and loyalty-program funding make the relationship much closer to a payments-linked consumer system than a simple hotel brand set.",
+      "Capital light versus capital heavy: Marriott is analytically useful because it shows how a global hotel platform can scale through fees, owner signings, and loyalty without owning most of the real estate.",
+      "International: Marriott is one of the best global travel-demand reads in the repo, but Q2 `2026` also shows how geopolitical disruption can break the international picture even while U.S. demand stays strong."
+    ],
+    "strategy_framework_checks": [
+      "Use when downside is controlled by debt maturities, funding access, covenant pressure, or asset quality.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Marriott International, Inc.",
+  "company_slug": "marriott-international-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/marriott-international-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Lodging",
+  "local_artifacts": [
+    "extracted/services/lodging/marriott-international-inc/company-packet.md",
+    "extracted/services/lodging/marriott-international-inc/company-profile.md",
+    "extracted/services/lodging/marriott-international-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "credit-underwriting-and-refinancing-risk",
+      "title": "Credit underwriting and refinancing risk",
+      "when_to_use": "Use when downside is controlled by debt maturities, funding access, covenant pressure, or asset quality."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/marriott-international-inc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "MAR"
+}

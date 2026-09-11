@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "International Paper is the cleanest current extension for the behind-the-shelf consumer infrastructure lane because it widens the paper-and-packaging substrate map beyond `Clearwater Paper`'s SBS and folding-carton exposure into corrugated, containerboard, and shipping-throughput infrastructure.",
+      "AnnualReports still lagged here as of Monday, August 10, 2026: the saved company page shows `Basic Materials / Paper & Paper Products` and still surfaced `2024 Annual Report and Form 10K` as the most recent package.",
+      "The authoritative annual evidence therefore comes from the official investor-relations page and SEC chain. International Paper's IR page exposed a `2025 Annual Report`, and the SEC `10-K` shows a company now framed around `Packaging Solutions North America` and `Packaging Solutions EMEA` after the Global Cellulose Fibers sale.",
+      "Full-year `2025` net sales were `$23.63 billion`, loss from continuing operations was `$2.84 billion`, adjusted EBITDA from continuing operations was `$2.98 billion`, cash provided by operating activities was `$1.70 billion`, and free cash flow was `$(0.16) billion`.",
+      "The weak GAAP headline was dominated by reset charges rather than simple demand collapse. Management disclosed a `$2.47 billion` pre-tax non-cash goodwill impairment in the EMEA business, roughly `$0.96 billion` of accelerated depreciation tied to asset-rationalization decisions, and roughly `$0.63 billion` of restructuring charges.",
+      "The useful read is not \"paper\" in a narrow commodity sense. International Paper is a corrugated-packaging and box-throughput system tied to box demand, packaging scale, mill reliability, shipping volume, and network performance across North America and EMEA."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/basic-materials/paper-paper-products/international-paper-co/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: International Paper broadens `Basic Materials / Paper & Paper Products` beyond SBS paperboard into corrugated, containerboard, and large-scale shipping and box-demand infrastructure.",
+    "packet_path": "extracted/basic-materials/paper-paper-products/international-paper-co/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` net sales were `$6.00 billion`, loss from continuing operations was `$12 million`, adjusted EBITDA from continuing operations was `$587 million`, cash provided by operating activities was `$526 million`, and free cash flow was `$(7) million`.",
+      "Segment picture: `Packaging Solutions North America` generated `$3.688 billion` of net sales and `$204 million` of operating profit, while `Packaging Solutions EMEA` generated `$2.287 billion` of net sales and an operating loss of `$(80) million`.",
+      "Management message: management said execution improved across the company, highlighted stronger North American mill performance and completed the Riverdale machine conversion, and said the company continued to grow box volumes while expecting to outperform the market.",
+      "Structural themes: Q2 is the clearest current proof that International Paper belongs in the blind-spot lane as a corrugated and packaging-throughput infrastructure case rather than as another generic paper producer. The quarter also shows the tension between improving North American execution and still-soft EMEA packaging conditions.",
+      "Results: `Q1 2026` net sales were `$5.97 billion`, earnings from continuing operations were `$76 million`, adjusted EBITDA from continuing operations was `$677 million`, cash provided by operating activities was `$611 million`, and free cash flow was `$94 million`.",
+      "Segment picture: `Packaging Solutions North America` generated `$3.626 billion` of net sales and `$248 million` of operating profit, while `Packaging Solutions EMEA` generated `$2.323 billion` of net sales and an operating loss of `$(51) million`."
+    ],
+    "signal_takeaways": [
+      "Sector: International Paper broadens `Basic Materials / Paper & Paper Products` beyond SBS paperboard into corrugated, containerboard, and large-scale shipping and box-demand infrastructure.",
+      "Consumer: direct consumer demand appears here indirectly through e-commerce shipments, food and household-product transport, retail replenishment, and the physical box demand that sits behind shelf availability and delivery throughput.",
+      "Cultural: the relevant cultural layer is not brand identity but the normalization of packaging-intensive commerce, home delivery, and high-volume goods movement that depends on corrugated systems consumers almost never see.",
+      "Industrial: the real operating questions are mill reliability, box-volume growth, price-cost balance, maintenance and conversion spending, integration and separation execution, and the tension between North American throughput and softer EMEA demand.",
+      "Sustainability: packaging efficiency, asset rationalization, recycled-fiber cost pressure, and plant closures matter because corrugated scale now sits inside broader supply-chain and waste-efficiency questions rather than only fiber pricing.",
+      "Capital allocation: International Paper is using capital around portfolio simplification, debt reduction, asset-network reshaping, mill conversion, and planned separation rather than only ordinary maintenance capex."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "International Paper Company",
+  "company_slug": "international-paper-co",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/international-paper-co.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Paper & Paper Products",
+  "local_artifacts": [
+    "extracted/basic-materials/paper-paper-products/international-paper-co/company-packet.md",
+    "extracted/basic-materials/paper-paper-products/international-paper-co/company-profile.md",
+    "extracted/basic-materials/paper-paper-products/international-paper-co/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/international-paper-co.html",
+  "sector": "Basic Materials",
+  "template_role": "",
+  "ticker": "IP"
+}

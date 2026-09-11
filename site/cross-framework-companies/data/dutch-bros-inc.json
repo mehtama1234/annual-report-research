@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Dutch Bros is a strong blind-spot fit because `Consumer Goods / Restaurants` is too weak a label for the operating reality. The annual and trailing-quarter materials show a ritual-frequency, stimulation-led, drive-thru beverage system built on speed, repeat use, app-linked rewards, and same-shop transaction growth rather than a generic dine-out story.",
+      "AnnualReports.com still lagged here. On `2026-08-10`, the saved company page still showed `2024 Annual Report and Form 10K`, so the usable current annual anchor had to come from the fiscal `2025` SEC filing chain and official-site verification.",
+      "Full-year `2025` revenue was `$1.64B`, net income was `$117.3M`, and adjusted EBITDA was `$302.6M`.",
+      "The full-year `2025` release also said the company opened `154` new shops, delivered `5.6%` system same-shop sales growth and `3.2%` system same-shop transaction growth, and reached record AUVs of `$2.1M`.",
+      "The `10-K` makes the relationship layer explicit through `Dutch Rewards`, which it describes as an app-based digital loyalty program, and through order-ahead functionality designed to improve throughput and convenience.",
+      "The annual-plus-quarter chain therefore reads less like a generic restaurant portfolio and more like a beverage-frequency engine where drive-thru convenience, stimulation, routine reward, and social energy reinforce one another."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/restaurants/dutch-bros-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Dutch Bros technically strengthens Consumer Goods, but the better read is as a ritual-frequency and stimulation-led beverage interface that source taxonomy flattens into generic restaurants.",
+    "packet_path": "extracted/consumer-goods/restaurants/dutch-bros-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` revenue was `$550.9M`, net income was `$51.6M`, and adjusted EBITDA was `$113.7M`.",
+      "Same-shop and transaction posture: systemwide same-shop sales increased `5.8%` and systemwide same-shop transactions increased `1.7%`, while company-operated same-shop sales increased `8.3%` and company-operated same-shop transactions increased `3.4%`.",
+      "Operating posture: management described the quarter as the thirteenth consecutive quarter of positive same-shop sales growth and the eighth consecutive quarter of same-shop transaction growth, then raised full-year guidance to about `$2.1B` to `$2.13B` of revenue, `5%` to `6%` same-shop sales growth, and `$385M` to `$390M` of adjusted EBITDA.",
+      "Structural themes: the quarter matters because it shows that the model is not just price or unit growth. Transactions are still rising, which is what a real routine-use beverage system should look like.",
+      "Expansion nuance: the `8-K` also disclosed an agreement to acquire up to `65` Salad and Go site assets, which suggests the real-estate layer is becoming part of the growth engine.",
+      "Results: `Q1 2026` revenue was `$464.4M`, net income was `$23.7M`, and adjusted EBITDA was `$79.4M`."
+    ],
+    "signal_takeaways": [
+      "Sector: Dutch Bros technically strengthens Consumer Goods, but the better read is as a ritual-frequency and stimulation-led beverage interface that source taxonomy flattens into generic restaurants.",
+      "Consumer: the demand system is built on caffeine and energy demand, small-ticket repeat use, drive-thru speed, routine reward, and social familiarity.",
+      "Cultural: this is one of the archive\u2019s clearer proofs that beverage behavior can function like a repeated identity and ritual system even without alcohol, formal membership fees, or a giant legacy global brand.",
+      "Societal: the packet reflects a broader normalization of app-mediated convenience, drive-thru routine, and stimulation-heavy daily consumption as part of mainstream consumer life.",
+      "Operating model: the important move is not a one-time visit. It is a layered frequency engine where shop openings, rewards participation, order-ahead convenience, and same-shop transaction growth all feed the same repeat-use relationship.",
+      "Competitive positioning: Dutch Bros is most useful next to `Starbucks`, `Monster Beverage`, `Brown-Forman`, `Coca-Cola`, and `McDonald's`, not next to generic casual-dining or full-service restaurant issuers."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Dutch Bros Inc.",
+  "company_slug": "dutch-bros-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/dutch-bros-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Restaurants",
+  "local_artifacts": [
+    "extracted/consumer-goods/restaurants/dutch-bros-inc/company-packet.md",
+    "extracted/consumer-goods/restaurants/dutch-bros-inc/company-profile.md",
+    "extracted/consumer-goods/restaurants/dutch-bros-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/dutch-bros-inc.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "BROS"
+}

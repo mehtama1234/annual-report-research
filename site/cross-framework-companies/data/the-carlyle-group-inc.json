@@ -1,0 +1,262 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Carlyle widens the alternative-manager set again, but with a more classic fee-plus-carry-plus-fundraising profile than Apollo, KKR, or Ares. The recurring stack here is fee-related earnings, fundraising, carry monetization, and a broad segment mix across Global Private Equity, Global Credit, and Carlyle AlpInvest.",
+      "Full-year `2025` closed with DE of about `$1.7B`, FRE of about `$1.2B`, realized net performance revenues of about `$357M`, total AUM of about `$477B`, fee-earning AUM of about `$337B`, available capital of about `$88B`, inflows of about `$53.7B`, and deployment of about `$54.5B`.",
+      "The strategic frame from management is a diversified alternatives platform with three business segments, not a pure buyout house. That matters because Carlyle AlpInvest and Global Credit are now large enough to shape fundraising quality, fee mix, and earnings resilience.",
+      "The more specific read-through is that Carlyle sits between the more realization-heavy stereotype of private equity and the steadier fee engines of the larger diversified alternatives managers."
+    ],
+    "damodaran_questions": [
+      "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/financial/asset-management/the-carlyle-group-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Carlyle sharpens the point that Financial alternatives already contain multiple internal business models, not one.",
+    "packet_path": "extracted/financial/asset-management/the-carlyle-group-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: GAAP net income attributable to common stockholders of about `$137.1M`, diluted EPS of about `$0.37`, DE of about `$472M`, FRE of about `$358M`, and realized net performance revenues of about `$115M`.",
+      "Scale detail: total AUM reached about `$485B`, fee-earning AUM about `$334B`, perpetual capital fee-earning AUM about `$113B`, available capital about `$97B`, inflows about `$16.8B`, and deployment about `$14.3B`.",
+      "Operating read: management described `2Q26` as one of Carlyle's strongest quarters in recent years, with record FRE and the highest distributable earnings in nearly four years.",
+      "What to watch: whether realization activity and fundraising momentum can stay strong enough to keep the carry-plus-fee model from slipping back into a more volatile pattern.",
+      "Results: GAAP net loss attributable to common stockholders of about `$132.2M`, diluted EPS of about `-$0.37`, DE of about `$327M`, FRE of about `$300M`, and realized net performance revenues of about `$21M`.",
+      "Scale detail: total AUM of about `$475B`, fee-earning AUM about `$333B`, available capital about `$96B`, inflows about `$13.0B`, and deployment about `$10.0B`."
+    ],
+    "signal_takeaways": [
+      "Sector: Carlyle sharpens the point that Financial alternatives already contain multiple internal business models, not one.",
+      "Earnings mix: Carlyle is useful because it sits closer to a classic alternatives fee-and-carry model than Apollo, KKR, or Ares do.",
+      "Segment mix: Global Credit and AlpInvest matter strategically because they diversify fundraising and fee sources away from a pure private-equity cycle.",
+      "Competitive read: Carlyle helps separate a diversified but still realization-sensitive alternatives platform from Blackstone's perpetual-capital-heavy scale, Apollo's spread engine, KKR's insurance-and-monetization breadth, and Ares's fee-paying-AUM and dry-powder emphasis."
+    ],
+    "strategy_framework_checks": [
+      "Use when downside is controlled by debt maturities, funding access, covenant pressure, or asset quality.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "The Carlyle Group Inc.",
+  "company_slug": "the-carlyle-group-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::dividends-and-buybacks",
+          "title": "Dividends and buybacks"
+        }
+      ],
+      "use_case": "handle-life-cycle-or-special-situation"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/the-carlyle-group-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Asset Management",
+  "local_artifacts": [
+    "analysis/company-first-principles/financial/asset-management/the-carlyle-group-inc/company-analysis.md",
+    "extracted/financial/asset-management/the-carlyle-group-inc/company-packet.md",
+    "extracted/financial/asset-management/the-carlyle-group-inc/company-profile.md",
+    "extracted/financial/asset-management/the-carlyle-group-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "credit-underwriting-and-refinancing-risk",
+      "title": "Credit underwriting and refinancing risk",
+      "when_to_use": "Use when downside is controlled by debt maturities, funding access, covenant pressure, or asset quality."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/the-carlyle-group-inc.html",
+  "sector": "Financial",
+  "template_role": "",
+  "ticker": "CG"
+}

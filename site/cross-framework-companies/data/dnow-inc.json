@@ -1,0 +1,276 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The `2025` annual baseline is the Form `10-K`, not a separate annual report. DNOW\u2019s own investor FAQ says the company does not publish one, which matters because it keeps the evidence chain clean and avoids pretending a missing IR PDF exists.",
+      "The merged business is materially larger and broader. In the annual filing and first-half `2026` materials, DNOW says it operates under the `DNOW` and `MRC Global` brands and serves customers through approximately `300` locations in the U.S., Canada, and select international markets.",
+      "The end-market frame widened meaningfully after the merger. Management now describes the portfolio across upstream, gas utilities, downstream and industrial, and midstream, with explicit references to water handling, petrochemical and chemical processing, mining, water and wastewater treatment, data centers, LNG terminals, and RNG facilities.",
+      "The product story is also broader than plain pipe and fittings. The filing calls out PVF, gas products, pumps, fabricated equipment, oilfield supply, valve automation and modification, measurement, instrumentation, and other specialty products, plus the `DigitalNOW` and `MRCGO` e-commerce platforms.",
+      "Full-year `2025` revenue was `$2,820M`, gross profit was `$478M`, adjusted gross profit was `$651M`, net loss attributable to DNOW was `$89M`, adjusted net income attributable to DNOW was `$104M`, adjusted EBITDA was `$209M`, and cash provided by operating activities was `$155M`.",
+      "The merger with `MRC Global` is the central annual event. DNOW closed the acquisition on `2025-11-06` for about `$1,763M` net of cash acquired, recorded provisional goodwill of `$383M`, and said first-year synergy savings were already expected at `$23M`, `35%` above target, while preserving the `$70M` three-year synergy commitment."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/industrial-supply/dnow-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "DNOW is not consumer-facing, but it sits in the social substrate of industrial continuity. Utilities, upstream fields, chemical plants, LNG terminals, water systems, and data-center builds all depend on the quiet availability of valves, fittings, pumps, controls, and instrumentation. This is recurring infrastructure demand disguised as distribution.",
+    "packet_path": "extracted/industrial-goods/industrial-supply/dnow-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Revenue was `$1,307M`.",
+      "Gross profit was `$243M`, or `18.6%` of revenue, and adjusted gross profit was `$272M`, or `20.8%`.",
+      "Net loss attributable to DNOW was `$21M`, while adjusted net income attributable to DNOW was `$21M`, or `$0.12` per diluted share.",
+      "Adjusted EBITDA was `$60M`, or `4.6%` of revenue.",
+      "Cash flow from operating activities was `$133M`, cash was `$114M`, total long-term debt was `$474M`, and net debt leverage improved to `1.7x`.",
+      "This is the first quarter where the merger story starts to look operationally credible rather than just strategic. Management described strong collections, inventory streamlining, better U.S. segment growth, and materially higher EBITDA, with second-quarter U.S. midstream revenue surpassing a `$1B` annualized run rate for the first time."
+    ],
+    "signal_takeaways": [
+      "DNOW is not consumer-facing, but it sits in the social substrate of industrial continuity. Utilities, upstream fields, chemical plants, LNG terminals, water systems, and data-center builds all depend on the quiet availability of valves, fittings, pumps, controls, and instrumentation. This is recurring infrastructure demand disguised as distribution.",
+      "The merger also reflects a broader cultural shift inside industrial procurement: customers increasingly prefer fewer, larger, technically capable vendors that can handle sourcing, stocking, logistics, and product expertise across multiple sites and categories.",
+      "There is a labor and skill shortage theme here too. The more complex the installed base becomes, and the harder it is for customers to staff technical purchasing and maintenance internally, the more value shifts to distributors that combine local inventory with engineering support, automation capability, and digital ordering infrastructure.",
+      "Integration is the main pressure. The `MRC Global` merger expands reach and category depth, but it also adds ERP, working-capital, service-level, and cultural-integration risk.",
+      "Working capital matters more here than in lighter models. Receivables quality, inventory positioning, and cash conversion all directly affect whether revenue growth turns into balance-sheet strength or merely more operational sprawl.",
+      "End-market diversification helps, but the company is still exposed to project timing and energy-cycle variability. Upstream, midstream, gas utility, industrial, and process markets are more balanced together than apart, but they are not immune to capex pauses or commodity-linked caution."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "DNOW Inc.",
+  "company_slug": "dnow-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/dnow-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Industrial Supply",
+  "local_artifacts": [
+    "extracted/industrial-goods/industrial-supply/dnow-inc/company-packet.md",
+    "extracted/industrial-goods/industrial-supply/dnow-inc/company-profile.md",
+    "extracted/industrial-goods/industrial-supply/dnow-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-scarce-assets-and-hard-money-portfolio-role",
+      "source": "https://www.lynalden.com/april-2024-newsletter/",
+      "title": "Scarce assets and hard-money portfolio role",
+      "when_to_use": "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/dnow-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "DNOW"
+}

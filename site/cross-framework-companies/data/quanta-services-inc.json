@@ -1,0 +1,271 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Quanta is the right next Industrial Goods addition because it fills the field-execution and utility-construction layer that sits between power-equipment providers and the actual physical buildout of electric infrastructure.",
+      "AnnualReports classifies the company as `Industrial Goods / General Contractors`, but the business is much broader than a plain commercial contractor. The company frames itself as a specialized infrastructure-solutions operator serving utility, power generation, load center, communications, pipeline, and energy markets.",
+      "The annual evidence base shows a company whose operating model spans design, installation, repair, and maintenance of energy and communications infrastructure, with visible exposure to transmission, distribution, substations, renewable generation, emergency restoration, and other critical-path infrastructure work.",
+      "Full-year `2025` results were strong. Revenue reached `$28.48 billion`, GAAP diluted EPS reached `$6.80`, adjusted diluted EPS reached `$10.75`, net income attributable to common stock reached `$1.03 billion`, and adjusted EBITDA reached `$2.88 billion`.",
+      "Year-end backlog is the key operating signal. Remaining performance obligations ended `2025` at `$23.76 billion`, total backlog ended `2025` at `$43.98 billion`, and management specifically highlighted all-time highs in Electric Infrastructure Solutions segment RPO and total backlog.",
+      "Quanta matters for the broader archive because it shows where electrification, grid modernization, data-center load growth, and infrastructure policy actually become work in the field rather than just order flow at an equipment OEM."
+    ],
+    "damodaran_questions": [
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/general-contractors/quanta-services-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Quanta widens Industrial Goods beyond electrical components, power hardware, thermal systems, and outsourced facilities into the actual utility-construction and infrastructure-deployment layer.",
+    "packet_path": "extracted/industrial-goods/general-contractors/quanta-services-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` revenue was `$9.6 billion`, GAAP diluted EPS was `$2.96`, adjusted diluted EPS was `$4.24`, net income attributable to common stock was `$451.4 million`, and adjusted EBITDA was `$1.1 billion`.",
+      "Demand and backlog: RPO rose to `$33.6 billion` and total backlog rose to `$53.4 billion`, both record quarter-end levels.",
+      "Management message: management said the quarter showed compounding strength in the operating model, strong double-digit growth, robust cash flow, and improving visibility into the back half of `2026`.",
+      "Structural themes: Quanta is increasingly a direct buildout operator for electric-grid, power-generation, mission-critical, and load-center infrastructure. The latest quarter also shows the company extending deeper into electrical, fabrication, and front-end infrastructure services through acquisitions and domestic supply-chain positioning.",
+      "Results: Q1 `2026` revenue was `$7.9 billion`, GAAP diluted EPS was `$1.45`, adjusted diluted EPS was `$2.68`, net income attributable to common stock was `$220.6 million`, and adjusted EBITDA was `$686.4 million`.",
+      "Demand and backlog: RPO rose to `$26.2 billion` and total backlog rose to `$48.5 billion`."
+    ],
+    "signal_takeaways": [
+      "Sector: Quanta widens Industrial Goods beyond electrical components, power hardware, thermal systems, and outsourced facilities into the actual utility-construction and infrastructure-deployment layer.",
+      "Utilities: this is one of the archive's strongest bridge names between utility capex, transmission and substation work, load-center growth, and field execution at scale.",
+      "Technology: Quanta is another first-order physical-technology story because management directly links rising electricity demand from data centers, electrification, and grid modernization to the need for more infrastructure work and supply-chain solutions.",
+      "Industrial and energy context: the company also spans power generation, communications, pipeline, industrial, and energy infrastructure, so it broadens the power thesis without confining it to regulated utilities alone.",
+      "Labor and execution: Quanta's repeated emphasis on self-perform capabilities and craft-skilled workforce makes it a high-value operator for understanding how labor, project execution, and infrastructure complexity interact.",
+      "Capital and consolidation: acquisitions are part of the thesis here. Quanta is using M&A to assemble more electrical, mechanical, fabrication, right-of-way, and engineering capability around the same infrastructure wave."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Quanta Services, Inc.",
+  "company_slug": "quanta-services-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/quanta-services-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "General Contractors",
+  "local_artifacts": [
+    "extracted/industrial-goods/general-contractors/quanta-services-inc/company-packet.md",
+    "extracted/industrial-goods/general-contractors/quanta-services-inc/company-profile.md",
+    "extracted/industrial-goods/general-contractors/quanta-services-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/quanta-services-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "PWR"
+}

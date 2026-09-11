@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Iridium is not just a satellite phone company. The `2025` annual report and annual-report letter describe the company as the only commercial provider of voice, data, and positioning, navigation, and timing satellite services offering true global coverage. Its `66`-satellite, low-earth-orbit, cross-linked L-band network is positioned as a specialized reliability layer for places where terrestrial wireless and wireline networks are limited or absent.",
+      "The business model is built around high recurring service revenue on top of largely fixed-cost space infrastructure. The annual letter explicitly highlights a large, highly profitable recurring service revenue base and significant operating leverage. Full-year `2025` service revenue reached `$634.0 million`, up within a broader full-year revenue total of `$871.7 million`.",
+      "The portfolio is broadening into multiple growth vectors. The annual materials center future growth on satellite IoT, standards-based `Iridium NTN Direct`, assured `PNT`, aviation safety, and national-security work rather than on legacy mobile satellite voice alone.",
+      "The economic mix matters. Commercial service revenue reached `$525.9 million` in `2025`, government service revenue reached `$108.0 million`, engineering and support revenue reached `$156.6 million`, and OEBITDA reached `$495.3 million`, or about `57%` of revenue.",
+      "Subscriber growth remains the cleanest demand read. Total billable subscribers reached `2.537 million` at year-end `2025`, up from `2.460 million` a year earlier, driven largely by commercial IoT.",
+      "The annual materials also show why the business is strategically distinct. Iridium\u2019s cross-linked architecture reduces the need for local ground infrastructure, which gives it reach across oceans, polar regions, airways, and politically or physically disrupted areas. Many end users view the service as mission-critical infrastructure rather than optional connectivity."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/technology/communication-equipment/iridium-communications-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Iridium is not a consumer-brand story in the usual sense, but it sits directly under a major social shift: more economic and political activity now assumes connectivity everywhere, including at sea, in the air, in remote industrial corridors, in conflict-adjacent zones, and in disaster conditions where ordinary networks fail.",
+    "packet_path": "extracted/technology/communication-equipment/iridium-communications-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` total revenue rose `4%` to `$225.2 million`, service revenue rose `4%` to `$161.3 million`, net income fell to `$9.7 million`, or `$0.09` per diluted share, and OEBITDA was `$119.1 million`.",
+      "Mix: Commercial service revenue rose to `$133.7 million`, government service revenue rose to `$27.6 million`, subscriber equipment revenue rose to `$20.8 million`, and engineering and support revenue rose to `$43.1 million`.",
+      "Subscriber and demand read: total billable subscribers reached `2.627 million`, up `6%` year over year and up from `2.555 million` at the end of Q1, led by commercial IoT growth.",
+      "Management message: the company said the pending Rocket Lab acquisition is expected to close in mid-`2027`, stopped holding normal quarterly calls because of the transaction, and still described the network and service portfolio as the gold standard for mission-critical applications.",
+      "Structural themes: Q2 is the clearest example of Iridium\u2019s hybrid state. The core model still looks like a recurring satellite-service annuity, but the company is also repositioning itself around direct-to-device, assured timing, national-security expansion, and aviation data services. The quarter also adds two important caveats: transaction costs depressed net income, and the normal management-guidance cadence is no longer clean because of the deal.",
+      "Results: Q1 `2026` total revenue rose `2%` to `$219.1 million`, service revenue rose `2%` to `$158.0 million`, net income was `$21.6 million`, or `$0.20` per diluted share, and OEBITDA was `$116.3 million`."
+    ],
+    "signal_takeaways": [
+      "Iridium is not a consumer-brand story in the usual sense, but it sits directly under a major social shift: more economic and political activity now assumes connectivity everywhere, including at sea, in the air, in remote industrial corridors, in conflict-adjacent zones, and in disaster conditions where ordinary networks fail.",
+      "The broader cultural pattern is that resilience is no longer only about backup power or cloud redundancy. It also means backup location, backup timing, and backup communications when terrestrial infrastructure is unavailable, jammed, spoofed, overloaded, or simply uneconomic to build.",
+      "There is a sovereignty and security dimension here as well. `PNT` demand reflects anxiety around `GPS` and `GNSS` disruption, while government and national-security contracts reflect a wider societal recognition that communications and timing systems are strategic infrastructure.",
+      "The network is powerful, but it is capital-intensive and fixed-cost heavy. That gives Iridium meaningful operating leverage when service revenue grows, but it also means the company needs continued subscriber and service expansion to maintain attractive returns.",
+      "Government dependence remains both a strength and a concentration risk. The U.S. government is still the largest single customer, and engineering and support growth depends heavily on national-security and related government programs.",
+      "New-service expansion raises execution demands. `NTN Direct`, `PNT`, aviation offerings, and the new tri-mode IoT module all require ecosystem adoption, partner execution, and smooth commercialization rather than just technical feasibility."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Iridium Communications Inc.",
+  "company_slug": "iridium-communications-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/iridium-communications-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Communication Equipment",
+  "local_artifacts": [
+    "extracted/technology/communication-equipment/iridium-communications-inc/company-packet.md",
+    "extracted/technology/communication-equipment/iridium-communications-inc/company-profile.md",
+    "extracted/technology/communication-equipment/iridium-communications-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/iridium-communications-inc.html",
+  "sector": "Technology",
+  "template_role": "",
+  "ticker": "IRDM"
+}

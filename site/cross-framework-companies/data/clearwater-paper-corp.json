@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Clearwater extends the Basic Materials archive into paperboard and packaging. That matters because it connects the sector more directly to food service, household packaged goods, folding-carton demand, and the material substrate of everyday consumer products.",
+      "The current Clearwater story is much more focused than the historic company description suggests. After the tissue divestiture, the `2025` annual filing and `2026` quarterlies read as a paperboard packaging company centered on SBS production, converter relationships, and packaging-market economics.",
+      "The `2025` base year was operationally better than the GAAP headline. Net sales from continuing operations were `$1.6 billion`, adjusted EBITDA from continuing operations was `$107 million`, and net loss from continuing operations was `$53 million`, with the loss driven mainly by a `$48 million` non-cash goodwill impairment.",
+      "The strongest annual message is cost and execution. Management highlighted more than `$50 million` of fixed-cost reductions in `2025`, including `$16 million` of SG&A savings, plus all three major maintenance outages completed on target at about `$50 million` of direct cost.",
+      "Clearwater also used the year to finish the strategic reset: integrating Augusta, separating the tissue business, improving the operating footprint, and pushing SG&A down from `8.4%` to `6.5%` of sales.",
+      "The market backdrop was still weak. Full-year volumes rose to `1,236,114` tons, but average net selling price fell to `$1,167` per ton from `$1,210`, which is the core reason the annual read is \u201cbetter operator in a still-bad market,\u201d not \u201ccycle fully recovered.\u201d"
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/basic-materials/paper-paper-products/clearwater-paper-corp/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Clearwater proves that Basic Materials reaches into fiber, paperboard, and packaging, not only metals, chemicals, energy, lumber, and fertilizers.",
+    "packet_path": "extracted/basic-materials/paper-paper-products/clearwater-paper-corp/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` net sales were `$375 million`, net loss from continuing operations was `$21 million`, diluted EPS was `$(1.33)`, and adjusted EBITDA from continuing operations was `($8) million`.",
+      "Operating drivers: the quarter was hurt by lower market pricing and the timing of the planned Lewiston, Idaho outage, which was completed on time and on target at a total direct cost of `$22 million`.",
+      "Volume and pricing: sales volumes rose to `328,722` tons, up `8%` year over year, but paperboard average net selling price fell `9%` to `$1,077` per ton.",
+      "Cash and balance sheet: liquidity was `$445 million`, net leverage was `3.5x`, and net debt fell by `$59 million` in the quarter through lower working capital, a tax refund, and insurance recovery.",
+      "Management message: Clearwater said it was seeing early signs of improvement in SBS conditions through volume growth, lower imports, and higher operating rates, but pricing was still below acceptable-return levels.",
+      "Structural themes: `Q2 2026` is the clearest evidence that pricing and maintenance timing still dominate near-term earnings even when volumes are improving and management is cutting costs."
+    ],
+    "signal_takeaways": [
+      "Sector: Clearwater proves that Basic Materials reaches into fiber, paperboard, and packaging, not only metals, chemicals, energy, lumber, and fertilizers.",
+      "Consumer: this is one of the most direct consumer-adjacent names in the current sector pilot because the end markets include food service, folding cartons, and everyday packaged goods.",
+      "Cultural: Clearwater adds a useful \u201ceveryday materials\u201d layer. A lot of modern consumption depends on commodity-like inputs that are invisible to consumers until packaging costs, supply reliability, or sustainability claims become a problem.",
+      "Sustainability: the company repeatedly frames paperboard as a sustainable packaging substrate, and the `2026` product launches show how fiber-based packaging is being positioned against other packaging materials.",
+      "Labor and operations: weather, outages, maintenance execution, facility restructuring, and cost actions all show up directly in quarterly earnings quality. This is a useful reminder that paperboard is an operating-discipline business, not just a pricing business.",
+      "Industrial policy and trade: Clearwater is not as tariff-explicit as steel or lumber, but imports, domestic capacity additions, and industry operating rates are core to its earnings math."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Clearwater Paper Corp",
+  "company_slug": "clearwater-paper-corp",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/clearwater-paper-corp.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Paper & Paper Products",
+  "local_artifacts": [
+    "extracted/basic-materials/paper-paper-products/clearwater-paper-corp/company-packet.md",
+    "extracted/basic-materials/paper-paper-products/clearwater-paper-corp/company-profile.md",
+    "extracted/basic-materials/paper-paper-products/clearwater-paper-corp/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/clearwater-paper-corp.html",
+  "sector": "Basic Materials",
+  "template_role": "",
+  "ticker": "CLW"
+}

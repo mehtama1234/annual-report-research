@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The `2025` annual chain makes clear that Arrow is not a thin reseller. The company describes itself as a technology-centric go-to-market and supply-chain-services company that aggregates electronic components, infrastructure software, and IT hardware for customers on behalf of suppliers.",
+      "Arrow\u2019s scale is central to the packet. The `10-K` says the company maintained over `140` sales facilities and `39` distribution and value-added centers, serving more than `85` countries. That is exactly the kind of middle-layer infrastructure the archive needs.",
+      "The segment mix matters. In `2025`, approximately `70%` of sales came from global components and approximately `30%` came from global `ECS`. That split makes Arrow a strong proof that the middle layer can monetize both physical component flow and higher-service enterprise-technology routing.",
+      "Full-year `2025` consolidated sales were `$30.853B`, up `10.5%` year over year. Global components sales were `$21.501B`, up `7.6%`, and global `ECS` sales were `$9.352B`, up `17.8%`.",
+      "Profitability improved in `GAAP` terms but still showed margin pressure from mix and operating conditions. Operating income was `$822M`, up `7.0%`, but operating margin slipped `10` basis points to `2.7%`, while non-`GAAP` operating income fell `5.3%` to `$948M`.",
+      "The annual liquidity and working-capital read is especially useful for CLI 8. At `2025-12-31`, working capital was `$7.437B`, cash and cash equivalents were `$306M`, and working capital as a percentage of sales fell to `21.3%` from `23.0%` because higher sales improved turns."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/technology/electronics-wholesale/arrow-electronics-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Arrow is far from end-consumer branding, but it sits under several of the most important current social and industrial shifts: electrification, connected devices, industrial automation, cloud infrastructure, transportation electronics, and enterprise digitization.",
+    "packet_path": "extracted/technology/electronics-wholesale/arrow-electronics-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Second-quarter `2026` consolidated sales were `$9.992B`, up `32%` year over year, while net income attributable to shareholders rose `45%` to `$273M` and diluted `EPS` rose `47%` to `$5.26`.",
+      "The core signal is that the strongest acceleration remained in components. Global components sales were `$7.366B`, up `39%`, while global `ECS` sales were `$2.627B`, up `14%`.",
+      "Regional detail matters because it shows broad technology demand rather than one narrow pocket. Americas components sales rose `44%`, EMEA components rose `36%` or `32%` in constant currency, and Asia-Pacific components rose `38%`.",
+      "`ECS` still grew, but the margin story was weaker. Global `ECS` operating income and non-`GAAP` operating income both fell `12%` year over year even though sales and billings rose `14%`.",
+      "Cash generation stayed strong but normalized from the prior quarter. Arrow generated `$318M` of operating cash flow and repurchased `$43M` of shares.",
+      "The `10-Q` also shows the working-capital intensity directly. At `2026-07-04`, receivables were about `$28.0B`, inventories were about `$5.94B`, and cash was about `$245M`."
+    ],
+    "signal_takeaways": [
+      "Arrow is far from end-consumer branding, but it sits under several of the most important current social and industrial shifts: electrification, connected devices, industrial automation, cloud infrastructure, transportation electronics, and enterprise digitization.",
+      "The company also captures a cultural shift inside B2B technology markets. Customers increasingly need not just parts, but a distributor that can shorten time to market, bundle technologies, reduce sourcing friction, and provide engineering and supply-chain support.",
+      "This packet also helps explain why modern technology supply chains feel fragile and strategic at the same time. Many downstream companies do not want to own every procurement and logistics problem directly, so they rely more heavily on a scaled intermediary like Arrow.",
+      "Working capital is central to Arrow\u2019s economics. The quarter chain shows very large swings in receivables, inventories, and operating cash flow, which means execution quality is tied closely to timing, credit, and inventory discipline.",
+      "Segment mix also matters. Global components is the larger and faster-growing engine in the current period, while `ECS` is a more service-heavy and enterprise-relationship-driven platform with weaker latest-quarter operating-income flow-through.",
+      "Foreign exchange still affects the optics meaningfully. The quarter releases repeatedly quantify positive or negative sales and `EPS` effects from currency changes."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Arrow Electronics, Inc.",
+  "company_slug": "arrow-electronics-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/arrow-electronics-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Electronics Wholesale",
+  "local_artifacts": [
+    "extracted/technology/electronics-wholesale/arrow-electronics-inc/company-packet.md",
+    "extracted/technology/electronics-wholesale/arrow-electronics-inc/company-profile.md",
+    "extracted/technology/electronics-wholesale/arrow-electronics-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/arrow-electronics-inc.html",
+  "sector": "Technology",
+  "template_role": "",
+  "ticker": "ARW"
+}

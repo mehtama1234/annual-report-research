@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "AnnualReports confirms that Global Industrial belongs in `Industrial Goods / Wholesale, Other`, but the site still lagged at `2024` on `2026-08-10`, so the packet is anchored to SEC materials for the required `2025` annual-plus-quarter chain.",
+      "The `2025` annual filing says the company is a value-added distributor of industrial equipment and supplies in North America that goes to market through a system of branded e-commerce websites and relationship marketers.",
+      "The annual filing says the company sells more than one million industrial and `MRO` products, including Global Industrial Exclusive Brands, and combines third-party assortment with white-label and private-brand products under trademarks such as `Global`, `Nexel`, `Paramount`, `Interion`, and `Absocold`.",
+      "Full-year `2025` net sales were `$1.379B`, gross profit was `$490.2M`, gross margin was `35.5%`, operating income from continuing operations was `$97.6M`, and net income from continuing operations was `$72.0M`.",
+      "The year was operationally strong enough to matter analytically. Average daily sales increased `3.2%`, operating income increased `21.2%`, and diluted earnings per share from continuing operations increased `17.8%` to `$1.85`.",
+      "The annual report is especially useful for CLI 8 because it shows the distributor doing more than passing boxes through a warehouse. Private-brand design, e-commerce workflow, relationship-marketer coverage, and value-added equipment categories all widen the customer relationship."
+    ],
+    "damodaran_questions": [
+      "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/wholesale-other/global-industrial-company/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "This is a business-facing platform, but it still reflects broader societal behavior. When industrial buyers, institutions, schools, offices, facilities teams, and commercial operators want broad assortment with low procurement friction, they increasingly prefer digital ordering, account-level support, and faster replenishment rather than fragmented direct supplier relationships.",
+    "packet_path": "extracted/industrial-goods/wholesale-other/global-industrial-company/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: net sales increased `7.7%` to `$386.6M`, gross profit increased to `$155.4M`, operating income from continuing operations increased to `$49.3M`, and net income from continuing operations increased to `$37.1M`.",
+      "Normalization read: the quarter included approximately `$26.2M` of refunds of `IEEPA` tariffs previously paid, including `$21.1M` tied to cost of sales, a `$4.0M` reduction to inventory not yet sold, and `$1.1M` of interest income.",
+      "Clean operating read: excluding tariff refunds, gross margin would have been `34.7%`, operating income from continuing operations would have been `$28.2M`, and net income from continuing operations would have been `$20.7M`, which is still a healthy quarter but much less dramatic than the reported `GAAP` figures.",
+      "Demand read: management said the company delivered another quarter of broad-based growth, with gains in both price and volume, and highlighted deeper customer relationships, higher e-procurement adoption, stronger vertical specialization, and tighter coordination across sales, marketing, merchandising, and digital teams.",
+      "Working-capital read: as of `2026-06-30`, cash and cash equivalents were `$86.7M`, accounts receivable were `$186.8M`, inventories were `$163.6M`, and net cash provided by operating activities for the first six months reached `$47.8M`.",
+      "Results: net sales increased `9.2%` to `$350.4M`, gross profit increased to `$121.9M`, operating income from continuing operations increased `13.2%` to `$20.6M`, and net income from continuing operations increased to `$15.3M`."
+    ],
+    "signal_takeaways": [
+      "This is a business-facing platform, but it still reflects broader societal behavior. When industrial buyers, institutions, schools, offices, facilities teams, and commercial operators want broad assortment with low procurement friction, they increasingly prefer digital ordering, account-level support, and faster replenishment rather than fragmented direct supplier relationships.",
+      "The stronger cultural shift here is the normalization of hybrid procurement. Customers do not want to choose between catalog, website, sales relationship, and e-procurement integration; they want all of them available inside one reliable channel.",
+      "There is also a quiet private-brand pattern in the model. The company is not only reselling third-party products; it is using owned brands and design control to capture more economics inside categories where customers care more about fit-for-purpose availability than branded consumer identity.",
+      "This is a procurement-sensitive distributor. Tariff exposure, import-cost volatility, and supplier allocation can move reported margins materially, especially when inventory purchased under one cost regime is sold under another.",
+      "Inventory discipline still matters even without the same seasonal profile seen at Pool. Inventories moved from `$174.6M` at year-end `2025` to `$177.4M` at Q1 `2026` and then down to `$163.6M` at Q2 `2026`, while receivables rose with growth, showing the normal balance-sheet load of supporting a wider distribution channel.",
+      "Supplier breadth is an advantage, but it comes with sourcing complexity. The annual report explicitly points to China- and Asia-linked supply-chain exposure, tariff risk, and the possibility of margin pressure as lower-cost inventory sells through."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Global Industrial Company",
+  "company_slug": "global-industrial-company",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the company type changes the valuation template, information quality, or relevant constraints.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::dividends-and-buybacks",
+          "title": "Dividends and buybacks"
+        }
+      ],
+      "use_case": "handle-life-cycle-or-special-situation"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/global-industrial-company.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Wholesale, Other",
+  "local_artifacts": [
+    "extracted/industrial-goods/wholesale-other/global-industrial-company/company-packet.md",
+    "extracted/industrial-goods/wholesale-other/global-industrial-company/company-profile.md",
+    "extracted/industrial-goods/wholesale-other/global-industrial-company/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/global-industrial-company.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "GIC"
+}

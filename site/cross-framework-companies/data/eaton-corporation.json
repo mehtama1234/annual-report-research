@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Eaton gives the industrial set a direct read on electrification infrastructure, power quality, power distribution, data-center buildout, and aerospace demand. It broadens the industrial archive away from heavy machinery and post-spin automation into electrical infrastructure itself.",
+      "The 2025 annual report is explicit that Eaton sees itself on the right side of several structural growth drivers: electrification, digitalization, reindustrialization, and the expansion of data centers and AI.",
+      "Full-year 2025 sales were a record `$27.448 billion`, organic growth was `8%`, segment margins were a record `24.5%`, and adjusted EPS was a record `$12.07`. The company is entering 2026 from a position of real operating strength rather than simple rebound.",
+      "Eaton is especially useful for theme work because it ties AI to grid, transformer, power-distribution, cooling, and backup-power requirements. This is a direct physical-infrastructure expression of the AI buildout.",
+      "The annual materials also show an aggressive capital-deployment posture: about `$13 billion` of announced acquisitions in 2025 and roughly `$1.5 billion` of North American capacity investment to support sustained demand."
+    ],
+    "damodaran_questions": [
+      "Use when the question is whether an investor has a durable source of edge and a style they can actually live with.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/industrial-electrical-equipment/eaton-corporation/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Eaton shows that industrial earnings can be led by electrical infrastructure, data-center power demand, and utility-facing capacity rather than by classic machinery volume alone.",
+    "packet_path": "extracted/industrial-goods/industrial-electrical-equipment/eaton-corporation/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 2026 sales were a record `$8.531 billion`, adjusted EPS was a record `$3.15`, organic growth was `14%`, and segment margins were `23.1%`.",
+      "Guidance: on July 31, 2026 Eaton raised full-year 2026 organic-growth guidance to `11-13%` and adjusted EPS guidance to `$13.40-$13.60`.",
+      "Management message: management said data centers remain a key driver, but growth is broader than that, with strength across electrical end markets and aerospace. Sequential margin improvement in Electrical Americas was a major point of emphasis.",
+      "Structural themes: Eaton now reads as a high-conviction power-infrastructure platform rather than just an industrial electrical supplier. The planned Reverse Morris Trust separation of Mobility sharpens that identity further.",
+      "Results: Q1 2026 sales were a record `$7.451 billion`, adjusted EPS was `$2.81`, organic growth was `10%`, and segment margins were `22.7%`.",
+      "Guidance: on May 5, 2026 Eaton raised full-year 2026 organic-growth guidance to `9-11%` and adjusted EPS guidance to `$13.05-$13.50`."
+    ],
+    "signal_takeaways": [
+      "Sector: Eaton shows that industrial earnings can be led by electrical infrastructure, data-center power demand, and utility-facing capacity rather than by classic machinery volume alone.",
+      "Consumer: consumer demand is not the useful lens here. The relevant demand drivers are hyperscalers, utilities, industrial capex, commercial buildings, and aerospace.",
+      "Cultural: the important cultural layer is the shift in industrial rhetoric around AI. Eaton translates AI into high-voltage infrastructure, thermal management, and resilient power systems rather than into software aspiration alone.",
+      "Regulatory: grid modernization, trade policy, acquisition approval, and industrial-policy incentives all matter indirectly through capacity, infrastructure spending, and end-market timing.",
+      "Labor: labor is secondary to capacity, supply chain, and execution in this evidence set, though factory expansion and buildout obviously require labor availability.",
+      "Technology: this is a first-order technology story inside industrials. Electrical architecture, thermal systems, advanced power conversion, and AI-enabled operations all matter directly."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Eaton Corporation plc",
+  "company_slug": "eaton-corporation",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the question is whether an investor has a durable source of edge and a style they can actually live with.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::hurdle-rates",
+          "title": "Hurdle rates"
+        }
+      ],
+      "use_case": "choose-investing-philosophy"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/eaton-corporation.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Industrial Electrical Equipment",
+  "local_artifacts": [
+    "extracted/industrial-goods/industrial-electrical-equipment/eaton-corporation/company-packet.md",
+    "extracted/industrial-goods/industrial-electrical-equipment/eaton-corporation/company-profile.md",
+    "extracted/industrial-goods/industrial-electrical-equipment/eaton-corporation/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/eaton-corporation.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "ETN"
+}

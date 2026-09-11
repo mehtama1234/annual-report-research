@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Dollar Tree is a high-value archive addition because it gives the consumer-and-services work a large discount-variety chain that is neither a membership ecosystem like Costco nor a full omnichannel-media machine like Walmart.",
+      "The `2025` annual evidence chain is current and clean, but only through official sources. AnnualReports still showed `2024` as the most recent package on `2026-08-09`, while Dollar Tree's official IR pages already exposed the `2025 Annual Report` and the fiscal `2025` `10-K`.",
+      "The annual package is really a post-separation reset. Dollar Tree completed the sale of Family Dollar on `2025-07-05`, and the annual materials say all continuing-operations discussion now reflects the Dollar Tree banner plus corporate, support, and other.",
+      "Fiscal `2025` continuing-operations net sales increased `10.4%` to `$19.4B`, diluted EPS from continuing operations increased to `$5.94`, and operating income increased to `$1.7B`. At year-end, the company operated about `9,000` U.S. stores and about `275` Canadian stores.",
+      "The strategically important point is that Dollar Tree's story is not mainly a digital-relationship story. It is a value-architecture and store-format story: the `1.25` opening price point remains the anchor, but management is deliberately expanding multi-price assortment, refreshing stores, modernizing the supply chain, and trying to widen relevance without losing value credibility."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/services/discount-variety-stores/dollar-tree-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Dollar Tree gives the archive a national discount-variety operator where the core strategy is value-engineering, multi-price assortment, and banner simplification rather than ecosystem monetization.",
+    "packet_path": "extracted/services/discount-variety-stores/dollar-tree-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q1 `2026` net sales increased `7.2%` to `$5.0B`; comparable store net sales increased `3.5%`; operating income increased `23%` to `$473.3M`; and diluted EPS from continuing operations was `$1.76`.",
+      "Operating posture: gross margin improved by `120` basis points, adjusted operating income margin expanded by `110` basis points, and the company raised its full-year adjusted EPS outlook to `$6.70` to `$7.10`.",
+      "Structural themes: this quarter matters because it shows the cleaner standalone Dollar Tree model starting to work. Growth was driven by a `4.5%` increase in average ticket, helped by targeted price changes and higher multi-price penetration, while traffic was still down `1.0%`.",
+      "Results: Q4 `2025` net sales increased `9.0%` to `$5.45B`; comparable store net sales increased `5.0%`; gross margin increased `150` basis points to `39.1%`; and diluted EPS from continuing operations was `$2.56`.",
+      "Operating posture: full-year net sales from continuing operations increased `10.4%` to `$19.4B`; comparable store net sales increased `5.3%`; and the company introduced fiscal `2026` guidance for `3%` to `4%` comparable store net sales growth and adjusted EPS from continuing operations of `$6.50` to `$6.90`.",
+      "Structural themes: this is the key quarter for the packet because it closes the year with the clearest message that the business is being rebuilt around the Dollar Tree banner rather than around a dual-banner compromise. Management said it ended the year with about `5,300` Dollar Tree 3.0 multi-price stores."
+    ],
+    "signal_takeaways": [
+      "Sector: Dollar Tree gives the archive a national discount-variety operator where the core strategy is value-engineering, multi-price assortment, and banner simplification rather than ecosystem monetization.",
+      "Consumer: this is a direct read on lower-ticket discretionary and consumable demand, trade-down behavior, and how far a value chain can stretch pricing before it starts to erode traffic.",
+      "Cultural: Dollar Tree matters because it shows that the value end of the market is not one thing. Some consumers want warehouse membership and bulk savings, some want off-price branded discovery, and some want a fast low-ticket treasure-hunt trip with visible price discipline.",
+      "Loyalty and technology: Dollar Tree is useful partly because it is a weaker owned-interface story than Walmart, Costco, or Kroger. Technology still matters through supply chain modernization, store refresh, delivery access, and price-mix management, but the moat is not primarily a digital habit loop.",
+      "Business model: the key signal is that Dollar Tree is trying to widen gross profit and average ticket through multi-price architecture while preserving a value reputation rooted in convenience and low absolute price points.",
+      "Competitive positioning: Dollar Tree is especially useful because it sits between stronger traffic winners and weaker middle-market retailers. It is performing better than the structurally pressured middle, but it does not show the same effortless traffic strength as Ross or the same second-layer monetization power as Walmart."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Dollar Tree, Inc.",
+  "company_slug": "dollar-tree-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/dollar-tree-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Discount, Variety Stores",
+  "local_artifacts": [
+    "analysis/company-first-principles/services/discount-variety-stores/dollar-tree-inc/company-analysis.md",
+    "extracted/services/discount-variety-stores/dollar-tree-inc/company-packet.md",
+    "extracted/services/discount-variety-stores/dollar-tree-inc/company-profile.md",
+    "extracted/services/discount-variety-stores/dollar-tree-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/dollar-tree-inc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "DLTR"
+}

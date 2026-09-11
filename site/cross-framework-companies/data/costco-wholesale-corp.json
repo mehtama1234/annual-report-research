@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Costco is a high-priority archive addition because it gives the research base a scaled consumer operator where loyalty is embedded in a paid membership model rather than in classic airline-style points or app-only rewards.",
+      "AnnualReports was still behind as of `2026-08-09`, showing only the `2024 Annual Report and Form 10K`, while Costco's official investor-relations stack already exposed the fiscal `2025` annual report and the fiscal `2026` quarter trail.",
+      "The fiscal `2025` package was very strong. Net sales increased `8.1%` to `$269.9B`, total revenue reached `$275.235B`, membership fees increased to `$5.323B`, net income reached `$8.099B`, and diluted EPS reached `$18.21`.",
+      "The structural point is more important than the headline growth rate. Costco is not only a low-price retailer; it is a membership-funded warehouse system with unusually strong traffic, repeat behavior, and trust in the value proposition.",
+      "The packet also matters because it keeps the thesis grounded. Costco's economic engine is not abstract \"brand love.\" It is a disciplined loop among perceived price advantage, warehouse volume, membership fee growth, and increasingly strong digitally-enabled shopping behavior."
+    ],
+    "damodaran_questions": [
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/services/discount-variety-stores/costco-wholesale-corp/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Costco is one of the strongest archive examples that a paid-membership retail model can create consumer lock-in without looking like a traditional subscription software business.",
+    "packet_path": "extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q3 `2026` net sales increased `11.6%` to `$69.15B`; total company comparable sales were `9.8%` or `6.6%` adjusted; digitally-enabled comparable sales were `21.5%`.",
+      "Operating posture: net income was `$2.19B`, or `$4.93` per diluted share; first-36-weeks net sales reached `$203.37B`; quarter-end cash and cash equivalents were `$18.946B`.",
+      "Structural themes: this quarter matters because it shows Costco's value-and-membership model can still accelerate even at very large scale, with digital growth staying strong while warehouse economics remain intact.",
+      "Results: Q2 `2026` net sales increased `9.1%` to `$68.24B`; first-24-weeks net sales increased `8.7%` to `$134.22B`; total company comparable sales were `7.4%` or `6.7%` adjusted; digitally-enabled comparable sales were `22.6%`.",
+      "Operating posture: net income was `$2.035B`, or `$4.58` per diluted share; first-24-weeks net income was `$4.04B`, or `$9.08` per diluted share.",
+      "Structural themes: this quarter is useful because it shows Costco's traffic and membership engine still translating into broad-based sales growth across geographies, not only in the U.S."
+    ],
+    "signal_takeaways": [
+      "Sector: Costco is one of the strongest archive examples that a paid-membership retail model can create consumer lock-in without looking like a traditional subscription software business.",
+      "Consumer: this is a direct read on value-seeking behavior, pantry-loading, and the willingness of households to pay upfront for trusted low-price access.",
+      "Cultural: Costco matters because it is a rare brand where frugality, scale, and status can coexist. The warehouse trip is both practical and, for many consumers, identity-reinforcing.",
+      "Loyalty and technology: Costco shows a loyalty system that does not depend on endless promotional gamification. The core habit is economic trust, while digital functionality increases convenience and frequency.",
+      "Business model: the model compounds because membership fees add a high-quality revenue stream on top of already large merchandise volume, while digital growth makes the ecosystem more convenient without replacing the warehouse base.",
+      "Competitive positioning: Costco is especially useful for the archive because it demonstrates that \"owning the membership relationship\" can be as defensible as owning an app surface, provided the value proposition is credible enough."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Costco Wholesale Corporation",
+  "company_slug": "costco-wholesale-corp",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/costco-wholesale-corp.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Discount, Variety Stores",
+  "local_artifacts": [
+    "analysis/company-first-principles/services/discount-variety-stores/costco-wholesale-corp/company-analysis.md",
+    "extracted/services/discount-variety-stores/costco-wholesale-corp/company-packet.md",
+    "extracted/services/discount-variety-stores/costco-wholesale-corp/company-profile.md",
+    "extracted/services/discount-variety-stores/costco-wholesale-corp/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/costco-wholesale-corp.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "COST"
+}

@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Dycom is the right next industrial addition because it extends the contractor and field-execution lane away from power systems and building trades into the telecom and digital-infrastructure construction layer.",
+      "AnnualReports classifies the company as `Industrial Goods / Heavy Construction`, but the annual materials show a more specific operating model: a scaled specialty contractor for telecommunications infrastructure, utility-adjacent field work, underground facility locating, and now building-systems work tied directly to critical facilities.",
+      "The official annual package describes a business built around fiber, wireless, and utility-support deployment rather than generic heavy construction. Dycom says it operates through `40` operating companies across all `50` states and provides planning, engineering and design, aerial and underground construction, wireless construction, maintenance, fulfillment, underground locating, and electric and gas utility work.",
+      "The fiscal `2025` annual package was strong. Contract revenues reached `$4.702 billion`, net income reached `$233.4 million`, diluted EPS reached `$7.92`, and fiscal year-end backlog reached `$7.760 billion`.",
+      "The annual report sharpens a major archive theme: AI and digital demand are increasingly physical. Dycom's annual letter explicitly frames long-haul fiber and AI infrastructure as multi-year demand drivers and says customers need high-capacity, ultra-low-latency, private, secure, redundant fiber to connect data centers nationwide.",
+      "Customer concentration is still central to the risk and moat discussion. Fiscal `2025` revenue came about `20.1%` from `AT&T`, `12.1%` from `Lumen`, `8.5%` from `Comcast`, `7.3%` from `Charter`, and another `7.4%` from one additional customer."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Dycom gives Industrial Goods a telecom-and-digital-infrastructure field-execution operator instead of another equipment or OEM name.",
+    "packet_path": "extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: fiscal Q1 `2027`, for the quarter ended `May 2, 2026`, delivered record contract revenues of `$1.965 billion`, net income of `$91.3 million`, adjusted net income of `$134.3 million`, adjusted diluted EPS of `$4.42`, and adjusted EBITDA of `$262.5 million`.",
+      "Demand and backlog: total backlog reached a record `$11.906 billion`, up `46.5%` year over year and up roughly `25%` sequentially, with management calling out a `2.2x` book-to-bill ratio.",
+      "Management message: Dycom raised full-year fiscal `2027` outlook and said fiber infrastructure and data-center-build demand were more robust than ever. Management also said customers were extending contract durations to secure Dycom's skilled workforce.",
+      "Structural themes: National Technology Integrators was announced as an acquisition to extend Dycom into inside-plant structured cabling within data centers, plus audio-visual and security systems, linking rack-level work to long-haul and metro fiber deployment.",
+      "Results: fiscal Q4 `2026`, for the quarter and year ended `January 31, 2026`, delivered quarterly contract revenues of `$1.458 billion`, quarterly adjusted EBITDA of `$162.4 million`, annual contract revenues of `$5.546 billion`, annual adjusted EBITDA of `$737.7 million`, annual free cash flow of `$435.3 million`, and year-end backlog of `$9.542 billion`.",
+      "Demand and backlog: management described continued strong demand from fiber-to-the-home programs, wireless work, long-haul and middle-mile fiber, and growing `inside the fence` opportunities."
+    ],
+    "signal_takeaways": [
+      "Sector: Dycom gives Industrial Goods a telecom-and-digital-infrastructure field-execution operator instead of another equipment or OEM name.",
+      "Fiber and communications infrastructure: Dycom directly covers planning, engineering, aerial and underground construction, wireless construction, fulfillment, locating, and maintenance for communications networks.",
+      "AI and data centers: the annual letter, Q4 `2026`, and Q1 `2027` materials all push the same conclusion that AI demand is becoming a fiber and facilities story, not just a chip-and-cloud story.",
+      "Outside plant to inside plant: Power Solutions and National Technology Integrators show a shift from backbone and access-network construction toward a broader end-to-end digital-infrastructure execution stack that includes building systems and cabling inside critical facilities.",
+      "Labor and capacity: Dycom is another direct read on the labor-squeeze theme. Management says customers are extending contract durations to lock in skilled workforce capacity, which means field labor is becoming part of the moat.",
+      "Policy and subsidy timing: BEAD is a real variable here. Dycom repeatedly points to state-level approval and subgrantee progress as a future demand unlock."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Dycom Industries Inc.",
+  "company_slug": "dycom-industries-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/dycom-industries-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Heavy Construction",
+  "local_artifacts": [
+    "extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-packet.md",
+    "extracted/industrial-goods/heavy-construction/dycom-industries-inc/company-profile.md",
+    "extracted/industrial-goods/heavy-construction/dycom-industries-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/dycom-industries-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "DY"
+}

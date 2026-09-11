@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "AEP is one of the largest regulated electric systems in the country. The company says it serves `5.6 million` customers in `11` states across about `200,000` square miles, with roughly `$114B` of assets, about `17,000` employees, approximately `40,000` line miles of transmission, more than `252,000` miles of distribution lines, and about `31,000` megawatts of owned and contracted generating capacity.",
+      "The `2025` annual and year-end materials show a utility platform whose investment case is shifting from generic defensive yield toward infrastructure scarcity. The core narrative is power demand, grid expansion, generation adequacy, affordability management, and rate-base conversion.",
+      "Full-year `2025` GAAP earnings were `$3.58B` or `$6.70` per share and operating earnings were `$3.19B` or `$5.97` per share, up from `$2.97B` and `$2.98B` respectively in `2024`.",
+      "Management framed the company as exceptionally well positioned for \u201cunprecedented customer demand\u201d in fast-growth parts of its footprint, with the balance sheet and operating scale to execute large transmission, distribution, and generation projects.",
+      "AEP is useful in this archive because it connects several existing themes: data-center and hyperscaler demand, transmission and power bottlenecks, regulatory affordability politics, industrial expansion, and the physical preconditions for AI-linked real-estate and industrial buildout."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/utilities/electric-utilities/american-electric-power-company-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: AEP gives the archive a missing utilities anchor and makes clear that grid owners are becoming first-order beneficiaries and gatekeepers of AI, data-center, and industrial load growth.",
+    "packet_path": "extracted/utilities/electric-utilities/american-electric-power-company-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` GAAP earnings were `$713M` or `$1.31` per share and operating earnings were `$742M` or `$1.36` per share, down from operating earnings of `$766M` or `$1.43` per share in Q2 `2025`.",
+      "Guidance: AEP raised full-year `2026` operating EPS guidance to `$6.25` to `$6.55` from `$6.15` to `$6.45` and kept its `7%` to `9%` long-term operating earnings growth framing.",
+      "Management message: management said first-half performance and expected second-half results justified a guidance raise even though reported year-over-year earnings were affected by the prior transmission minority-interest sale and timing of tax items.",
+      "Structural themes: expected new load additions increased to `69 GW` by `2030`; AEP said it had secured about `13 GW` of gas-fired turbine capacity with another `10 GW` under evaluation; the company highlighted up to `$16B` of expected customer cost offsets and about `$1.4B` of projected customer savings from DOE loans and grants.",
+      "Results: Q1 `2026` GAAP earnings were `$874M` or `$1.61` per share and operating earnings were `$891M` or `$1.64` per share, up from `$800M` and `$823M` respectively in Q1 `2025`.",
+      "Guidance: management reaffirmed `2026` operating EPS guidance of `$6.15` to `$6.45` and said the expected operating earnings CAGR through `2030` was above `9%`."
+    ],
+    "signal_takeaways": [
+      "Sector: AEP gives the archive a missing utilities anchor and makes clear that grid owners are becoming first-order beneficiaries and gatekeepers of AI, data-center, and industrial load growth.",
+      "Industrial: this is infrastructure demand in regulated form. Growth depends on substation work, generation procurement, transmission approvals, interconnection timing, and state-by-state cost recovery rather than on simple manufacturing volume.",
+      "Consumer: the consumer angle is indirect but important. Management repeatedly argues that new large-load customers can spread fixed costs and support affordability for residential users, which turns customer-mix change into a political and rate-design issue.",
+      "Cultural: the cultural signal is that electricity is moving from background utility service to visible national bottleneck. Power reliability, affordability, and who gets access first are becoming part of the public growth narrative.",
+      "Regulatory: this is one of the archive's clearest examples of regulation as earnings architecture. DOE loans, securitizations, state legislation, rate cases, and generation approvals are all directly tied to growth conversion.",
+      "Technology: AEP is not a software company, but it is a clean second-order AI infrastructure read because the load pipeline is being driven in part by hyperscalers, data centers, and industrial customers with power-intensive needs."
+    ],
+    "strategy_framework_checks": [
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "American Electric Power Company, Inc.",
+  "company_slug": "american-electric-power-company-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/american-electric-power-company-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Electric Utilities",
+  "local_artifacts": [
+    "analysis/company-first-principles/utilities/electric-utilities/american-electric-power-company-inc/company-analysis.md",
+    "extracted/utilities/electric-utilities/american-electric-power-company-inc/company-packet.md",
+    "extracted/utilities/electric-utilities/american-electric-power-company-inc/company-profile.md",
+    "extracted/utilities/electric-utilities/american-electric-power-company-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/american-electric-power-company-inc.html",
+  "sector": "Utilities",
+  "template_role": "",
+  "ticker": "AEP"
+}

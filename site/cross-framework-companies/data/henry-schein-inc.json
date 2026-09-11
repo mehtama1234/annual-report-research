@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The `2025` annual package makes the operating model explicit. Henry Schein describes itself as a healthcare solutions company powered by products, technology, value-added services, supply-chain capabilities, and trusted advisor relationships serving office-based practitioners and alternate-care sites.",
+      "Scale matters because this is a real distribution platform, not a niche specialist. Official company materials show more than `1 million` customers, more than `300,000` products, `55` distribution and manufacturing centers, about `150,000` cartons shipped daily, and a historical `99%` order-fulfillment rate.",
+      "The annual results were solid. Total net sales reached `$13.2 billion`, up `4.0%` from `2024`. GAAP diluted EPS was `$3.27`, non-GAAP diluted EPS was `$4.97`, and adjusted EBITDA reached `$1.101 billion`.",
+      "The business mix is what makes the name valuable for CLI 8. Henry Schein is not only shipping commodity medical consumables. It also layers dental equipment, specialty products, practice technology, home solutions, consulting, and corporate-brand offerings onto the same practitioner relationship.",
+      "The annual narrative shows an operator trying to widen economics beyond pure low-margin distribution. Management\u2019s `2025-2027 BOLD+1` plan emphasizes higher-growth specialty products, technology, corporate-brand penetration, digital workflow, AI-enabled tools, and cost-to-serve improvement.",
+      "Even so, the annual package preserves the core channel-control story. The company still depends on being the trusted procurement and workflow partner for practitioners who need reliable replenishment, equipment access, and supply continuity rather than occasional product novelty."
+    ],
+    "damodaran_questions": [
+      "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/healthcare/medical-instruments-supplies/henry-schein-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Henry Schein is not consumer-facing in the usual sense, but it sits close to several major social shifts: more care moving outside hospitals, more pressure on practitioner efficiency, more home and alternate-site treatment, and more demand for office-based providers to act like operationally mature businesses.",
+    "packet_path": "extracted/healthcare/medical-instruments-supplies/henry-schein-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` total net sales were `$3.5 billion`, up `6.7%`. GAAP diluted EPS was `$0.82`, non-GAAP diluted EPS was `$1.27`, and adjusted EBITDA was `$288 million`.",
+      "Mix: Global Distribution and Value-Added Services sales rose `6.6%`, while Global Medical Distribution sales rose `4.0%`, Global Specialty Products rose `8.7%`, and Global Technology rose `8.2%`.",
+      "Management message: management said internal local-currency sales growth accelerated, value-creation initiatives were helping margins, and the company raised full-year guidance.",
+      "Structural themes: this quarter makes Henry Schein look like a broad healthcare middle-layer operator rather than a simple distributor. Product flow, alternate-care demand, specialty attachment, and technology all contributed, while management kept pushing cost and workflow efficiency.",
+      "Results: Q1 `2026` total net sales were `$3.4 billion`, up `6.3%`. GAAP diluted EPS was `$0.92`, non-GAAP diluted EPS was `$1.32`, and adjusted EBITDA was `$289 million`.",
+      "Mix: Global Distribution and Value-Added Services sales rose `6.1%`, including `1.7%` growth in Global Medical Distribution, `9.0%` growth in Global Dental Distribution merchandise, and `10.6%` growth in Global Value-Added Services."
+    ],
+    "signal_takeaways": [
+      "Henry Schein is not consumer-facing in the usual sense, but it sits close to several major social shifts: more care moving outside hospitals, more pressure on practitioner efficiency, more home and alternate-site treatment, and more demand for office-based providers to act like operationally mature businesses.",
+      "The cultural shift here is that healthcare practices increasingly need a distribution partner that is also a workflow and technology partner. Supplies, equipment, software, financing support, ordering convenience, and specialty product access increasingly live inside one vendor relationship.",
+      "There is also a decentralization pattern. More healthcare activity is happening in dental practices, physician offices, alternate-care sites, and home-adjacent channels rather than only in large acute-care settings. Henry Schein monetizes that fragmented but recurring demand base.",
+      "Practitioner demand is recurring, but not frictionless. The company still depends on office traffic, elective procedure cadence, reimbursement conditions, and provider willingness to spend on equipment and technology.",
+      "Margin quality depends on more than volume. Product mix, corporate-brand penetration, supplier relationships, value-added services, and cost-to-serve discipline all matter.",
+      "Technology and specialty growth help the story, but they also raise execution pressure. The company is clearly trying to become more than a traditional distributor, which means integration, product adoption, and operating simplification remain live risks."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Henry Schein, Inc.",
+  "company_slug": "henry-schein-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "account-for-institutions-trust-and-fit"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/henry-schein-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Medical Instruments & Supplies",
+  "local_artifacts": [
+    "extracted/healthcare/medical-instruments-supplies/henry-schein-inc/company-packet.md",
+    "extracted/healthcare/medical-instruments-supplies/henry-schein-inc/company-profile.md",
+    "extracted/healthcare/medical-instruments-supplies/henry-schein-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/henry-schein-inc.html",
+  "sector": "Healthcare",
+  "template_role": "",
+  "ticker": "HSIC"
+}

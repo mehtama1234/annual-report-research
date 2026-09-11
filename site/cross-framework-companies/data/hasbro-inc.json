@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Hasbro is one of the strongest proofs in the repo that cultural and societal trend work is not extra interpretation layered on top of filings. It is the filing story. The `2025` annual report and the trailing-quarter chain repeatedly describe a company monetizing play, fandom, collectibility, licensing, and cross-format participation rather than just shipping toys into retail channels.",
+      "The `2025` annual materials make the strategic repositioning explicit. Hasbro describes itself as a leading game, IP, and toy company whose mission is to create joy and community through the magic of play. The same filing links physical and digital games, video games, toys, licensed consumer products, location-based entertainment, film, and TV under a `franchise-first` approach.",
+      "Full-year `2025` shows where the engine really sits. Revenue increased `14%`, adjusted operating profit rose to `$1.14B`, adjusted operating margin reached `24.2%`, and adjusted EBITDA reached `$1.36B`. But the internal pattern matters more than the aggregate: Wizards of the Coast and Digital Gaming grew `45%`, while Consumer Products declined `4%` and Entertainment declined `4%`.",
+      "That split is the archive payoff. Hasbro is not simply a consumer-products demand read. It is an example of IP control and repeat fandom monetization outperforming the more traditional physical-product layer inside the same company."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/toys-games-hobbies/hasbro-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Consumer trend: Hasbro is a filed read on consumers continuing to spend on fandom, collecting, universes, and repeat play rather than only on one-time toy purchases. Magic is the clearest signal, but Monopoly Go!, Dungeons & Dragons, Transformers, Peppa Pig, and partner-brand extensions all reinforce the pattern.",
+    "packet_path": "extracted/consumer-goods/toys-games-hobbies/hasbro-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: revenue increased `16%`, operating profit was `$253M`, adjusted operating profit was `$282M`, reported EPS was `$1.12`, and adjusted EPS was `$1.28`.",
+      "Demand and growth: Wizards and Digital Gaming revenue increased `27%`, Consumer Products revenue increased `5%`, and Entertainment revenue declined `20%`. Magic surpassed `$500M` of quarterly revenue for the first time, while Monopoly Go! contributed `$44M`.",
+      "Management message: management framed the quarter around record Magic performance, broad-based business strength, and enough confidence to raise full-year guidance to revenue growth of `5%-7%` in constant currency and adjusted EBITDA of `$1.45B` to `$1.50B`.",
+      "Structural themes: this quarter is a strong read on franchise flywheels. The winning pattern is not merely a hot toy launch. It is recurring monetization across tabletop, digital licensing, and branded content. The industrial-friction side is also visible: the quarter absorbed a cyber incident, incremental tariff expense, and a digital-games impairment while still producing raised guidance.",
+      "Results: revenue increased `13%`, operating profit was `$270M`, adjusted operating profit was `$287M`, reported EPS was `$1.39`, and adjusted EPS was `$1.47`.",
+      "Demand and growth: Wizards and Digital Gaming revenue increased `26%`, led by Magic growth of `36%`; Consumer Products revenue was flat; Entertainment revenue declined `24%`; and Monopoly Go! contributed `$41M`."
+    ],
+    "signal_takeaways": [
+      "Consumer trend: Hasbro is a filed read on consumers continuing to spend on fandom, collecting, universes, and repeat play rather than only on one-time toy purchases. Magic is the clearest signal, but Monopoly Go!, Dungeons & Dragons, Transformers, Peppa Pig, and partner-brand extensions all reinforce the pattern.",
+      "Cultural and societal shift: the packet shows how play has widened into a cross-age, cross-format participation category. Hasbro is not only selling children's toys. It is monetizing adult hobbyists, collectors, fan communities, tabletop identity, licensing audiences, and screen-linked release cycles.",
+      "Industrial and operating pressure: tariffs, cyber disruption, digital-portfolio impairments, retail timing shifts, and entertainment deal timing all remain real frictions. This is important because it shows that even powerful IP systems still sit inside supply-chain, technology, and capital-structure constraints.",
+      "Bigger-picture pattern: across the `2025` annual window and the next two quarters, Hasbro repeatedly shows that the cleanest economics sit in controlled worlds, repeat gameplay loops, and licensing-rich franchises. The physical-product business still matters, but it is not the main explanation for the profit engine.",
+      "Cross-company pattern: compared with Disney, Hasbro is a smaller and less diversified franchise system, but the logic is related: fandom is monetized across multiple surfaces, and the owner of the world captures disproportionate value. Compared with Etsy, Hasbro is less about open-ended identity discovery and more about controlled IP universes. Compared with traditional toy narratives, it is much more of a recurring cultural-participation system."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Hasbro, Inc.",
+  "company_slug": "hasbro-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/hasbro-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Toys & Games",
+  "local_artifacts": [
+    "extracted/consumer-goods/toys-games-hobbies/hasbro-inc/company-packet.md",
+    "extracted/consumer-goods/toys-games-hobbies/hasbro-inc/company-profile.md",
+    "extracted/consumer-goods/toys-games-hobbies/hasbro-inc/source-ledger.md",
+    "extracted/consumer-goods/toys-games/hasbro-inc/company-packet.md",
+    "extracted/consumer-goods/toys-games/hasbro-inc/company-profile.md",
+    "extracted/consumer-goods/toys-games/hasbro-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/hasbro-inc.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "HAS"
+}

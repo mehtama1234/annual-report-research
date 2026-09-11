@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Mattel is an important addition because it shows a large toy platform trying to become something broader than a toy manufacturer without yet escaping the frictions of the physical-products model. The `2025` annual filing describes Mattel as a leading global toy and family entertainment company, then lays out a portfolio of owned and licensed brands that spans dolls, vehicles, preschool, action figures, games, and digital extensions.",
+      "The `2025` annual and year-end materials make the strategic turn explicit. Management said `2026` would begin a new `brand-centric strategy` to grow an `IP-driven play and family entertainment business`, with growth expected from toy innovation, major IP partnerships, theatrical releases, and expansion of digital games. That is a stronger archive signal than a generic product-refresh story. It is a statement that play is being managed as a cross-format cultural system.",
+      "Full-year `2025` results show why the company is in transition rather than at the end state. Net sales were `$5,348M`, down `1%`, while adjusted operating income was `$620M` and adjusted EPS was `$1.41`. Category demand was uneven: Vehicles grew `11%` and Action Figures/Building Sets/Games/Other grew `14%`, while Dolls fell `7%` and Infant/Toddler/Preschool fell `17%`.",
+      "That internal mix is the packet's real analytical value. Mattel's strongest demand pockets are tied to collector culture, challenge-oriented play, theatrical tie-ins, and broader game participation, while some older child-and-family categories are softer. The company is responding by investing into digital games, entertainment, direct-to-consumer, first-party data, AI, and infrastructure."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/toys-games-hobbies/mattel-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Consumer trend: Mattel supports the view that spending on play is moving toward categories with collector energy, repeat engagement, and world-building potential. Hot Wheels, theatrical tie-ins, and games showed more momentum than weaker household and preschool categories.",
+    "packet_path": "extracted/consumer-goods/toys-games-hobbies/mattel-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: net sales were `$1,125M`, up `10%` reported and `9%` in constant currency; adjusted operating income was `$39M`; and adjusted EPS was `$0.01`.",
+      "Demand and growth: Vehicles gross billings rose `14%` reported, Action Figures/Building Sets/Games/Other rose `35%`, Dolls declined `5%`, and Infant/Toddler/Preschool declined `11%`. Management tied growth to Hot Wheels, digital games following the Mattel163 acquisition, and action figures tied to theatrical releases.",
+      "Management message: management stressed continued execution of a multi-year strategy to grow an `IP-driven play and family entertainment business`, cited the global release of the `Masters of the Universe` movie, noted the launch of a first self-published mobile game, and said demand strength continued into `Q3 2026`.",
+      "Structural themes: this quarter is useful because it shows physical toys, movies, and digital games being used together as a demand-amplification system. It also shows the cost of that model: tariffs, inflation, higher royalties, unfavorable foreign exchange, and heavier advertising all kept profitability constrained even with strong top-line growth.",
+      "Results: net sales were `$862M`, up `4%` reported and `1%` in constant currency; adjusted operating loss was `$70M`; and adjusted loss per share was `$0.20`.",
+      "Demand and growth: Vehicles gross billings rose `17%`, Action Figures/Building Sets/Games/Other rose `21%`, Dolls fell `8%`, and Infant/Toddler/Preschool fell `16%`. Games growth included the partial-quarter Mattel163 contribution."
+    ],
+    "signal_takeaways": [
+      "Consumer trend: Mattel supports the view that spending on play is moving toward categories with collector energy, repeat engagement, and world-building potential. Hot Wheels, theatrical tie-ins, and games showed more momentum than weaker household and preschool categories.",
+      "Cultural and societal shift: this packet points to play becoming more cross-age and identity-bearing. Mattel is not only chasing children in traditional toy aisles. It is explicitly leaning into adult fans, collectors, nostalgia, franchise communities, and family entertainment formats that travel across screens, devices, and shelves.",
+      "Industrial and operating pressure: tariffs, inflation, royalties, foreign exchange, advertising intensity, and the capital needs of digital and entertainment expansion are not side notes. They are major determinants of how much of the cultural demand can actually convert into earnings.",
+      "Bigger-picture pattern: Mattel repeatedly shows that physical product now works best when attached to broader brand systems. Movies, mobile games, and partner IP are being used to reopen demand loops rather than simply to support one-off product launches.",
+      "Cross-company pattern: compared with Hasbro, Mattel is earlier in the migration from toy maker to broader franchise allocator. Hasbro currently shows a cleaner high-margin fandom engine through Magic and digital licensing. Mattel shows a more mixed but still important model in which physical toys, entertainment, and digital games are being assembled into a broader participation system without yet eliminating the operational drag of a global physical-products platform."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Mattel, Inc.",
+  "company_slug": "mattel-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/mattel-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Toys & Games",
+  "local_artifacts": [
+    "extracted/consumer-goods/toys-games-hobbies/mattel-inc/company-packet.md",
+    "extracted/consumer-goods/toys-games-hobbies/mattel-inc/company-profile.md",
+    "extracted/consumer-goods/toys-games-hobbies/mattel-inc/source-ledger.md",
+    "extracted/consumer-goods/toys-games/mattel-inc/company-packet.md",
+    "extracted/consumer-goods/toys-games/mattel-inc/company-profile.md",
+    "extracted/consumer-goods/toys-games/mattel-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/mattel-inc.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "MAT"
+}

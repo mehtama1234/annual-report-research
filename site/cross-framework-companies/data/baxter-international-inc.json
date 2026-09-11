@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The `2025` annual package still frames Baxter around three segments: `Medical Products & Therapies`, `Healthcare Systems & Technologies`, and `Pharmaceuticals`. That segmentation is analytically useful for CLI 8 because it makes visible a broad hospital-dependence stack rather than a narrow one-product story.",
+      "The annual report describes a diversified medtech and care-delivery infrastructure company whose products are used in hospitals, physician offices, nursing homes, rehabilitation centers, ambulatory surgery centers, pharmacies, dialysis centers, and patient homes.",
+      "The business mix matters. Baxter is not only selling a therapy product or a one-time capital device. It is linking IV solutions, infusion systems, advanced surgery, connected care, patient-support systems, front-line clinical equipment, injectables, anesthesia, and drug compounding into one recurring provider relationship.",
+      "Fiscal `2025` was still a reset year rather than a clean victory lap. Net income from continuing operations totaled `($900M)`, or `($1.75)` per diluted share, and management described more than `$2B` of special-item drag.",
+      "Even so, the `2025` annual package supports the core CLI 8 case because it shows a provider-facing operator whose economics depend on recurring institutional demand, installed workflow, product availability, and operational execution rather than on headline molecule discovery or consumer brand appeal alone.",
+      "The balance-sheet and capital-allocation angle also matters. Following the Kidney Care sale, Baxter emphasized debt repayment, working-capital adjustments, and a broader performance-improvement push, which makes the packet useful for understanding how healthcare middle layers repair themselves when execution slips."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/healthcare/medical-instruments-supplies/baxter-international-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Baxter is not consumer-facing in a retail sense, but it sits close to major social shifts: aging populations, hospital labor strain, care decentralization, patient-safety pressure, and the need for providers to run clinical environments with tighter operational discipline.",
+    "packet_path": "extracted/healthcare/medical-instruments-supplies/baxter-international-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: worldwide sales totaled approximately `$2.96B`, up `5%` on both a reported and organic basis. GAAP net income was `$135M`, or `$0.26` per diluted share, and adjusted diluted EPS was `$0.56`.",
+      "Operating signal: free cash flow reached `$181M` in the quarter and `$257M` in the first half of `2026`, but results still reflected higher-cost inventory produced at the end of `2025`.",
+      "Segment read: beginning in Q2 `2026`, Baxter updated segment reporting. `Medical Products & Therapies` sales reached approximately `$2.1B`, up `7%` reported and `5%` organic, while `Healthcare Systems & Technologies` sales reached approximately `$801M`, up `4%`.",
+      "Structural read: the quarter shows why Baxter belongs in CLI 8. Strength was driven by drug compounding, IV solutions, patient support systems, and front-line care demand, while the installed and consumable layers continued to matter more than any single product SKU.",
+      "Results: sales from continuing operations totaled approximately `$2.7B`, up `3%` reported but down `1%` organic. GAAP diluted EPS from continuing operations was `($0.03)`, while adjusted diluted EPS was `$0.36`.",
+      "Segment read: `Medical Products & Therapies` sales were approximately `$1.3B`, up `2%` reported but down `2%` organic. `Healthcare Systems & Technologies` sales were approximately `$705M`, flat reported and down `2%` organic. `Pharmaceuticals` sales were approximately `$621M`, up `7%` reported and `1%` organic."
+    ],
+    "signal_takeaways": [
+      "Baxter is not consumer-facing in a retail sense, but it sits close to major social shifts: aging populations, hospital labor strain, care decentralization, patient-safety pressure, and the need for providers to run clinical environments with tighter operational discipline.",
+      "The social pattern here is dependence on invisible infrastructure. Most end demand in healthcare only works because hospitals, ambulatory sites, and care systems can reliably source IV therapies, connected equipment, patient-support hardware, and compounding capacity without interruption.",
+      "There is also a system-fragility lesson. The Novum IQ LVP hold and the higher-cost inventory drag show how quickly execution issues inside the middle layer can ripple through provider operations and margins even when end clinical demand remains real.",
+      "Baxter is under simultaneous pressure from product-quality execution, segment reorganization, pricing discipline, inventory normalization, and portfolio pruning.",
+      "The packet shows a business trying to stabilize after a period of strategic and operating disruption rather than a business coasting on category momentum.",
+      "Its moat is meaningful but not effortless. Hospitals and care systems depend on the products, yet Baxter still has to prove reliability, restore margin quality, and avoid letting equipment or supply issues weaken trust in the channel."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Baxter International Inc.",
+  "company_slug": "baxter-international-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/baxter-international-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Medical Instruments & Supplies",
+  "local_artifacts": [
+    "extracted/healthcare/medical-instruments-supplies/baxter-international-inc/company-packet.md",
+    "extracted/healthcare/medical-instruments-supplies/baxter-international-inc/company-profile.md",
+    "extracted/healthcare/medical-instruments-supplies/baxter-international-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/baxter-international-inc.html",
+  "sector": "Healthcare",
+  "template_role": "",
+  "ticker": "BAX"
+}

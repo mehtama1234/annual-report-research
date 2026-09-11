@@ -1,0 +1,266 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Ollie's is a strong blind-spot addition because `Consumer Goods / Discount, Variety Stores` is too blunt a label for what the company actually adds to the archive. The more useful read is a lower-ticket closeout and treasure-hunt value system built on flexible buying, excess-inventory sourcing, recognizable brands, and recurring bargain-discovery behavior.",
+      "AnnualReports was not current enough to anchor the annual package. As of Monday, August 10, 2026, the live AnnualReports page still showed `2024 Annual Report and Form 10K`, while Ollie's official IR and SEC chain already supported the fiscal `2025` annual package for the year ended `2026-01-31`.",
+      "The annual package was strong. Fiscal `2025` net sales reached `$2.649B`, comparable store sales increased `3.7%`, adjusted EBITDA increased to `$366.0M`, and net cash provided by operating activities reached `$296.5M`.",
+      "The full-year operating shape also mattered. Ollie's opened a record `86` stores in fiscal `2025`, ended the year with `645` stores in `34` states, and grew `Ollie's Army` by `12.1%` to about `17.0M` members.",
+      "The strategic language is the real blind-spot signal. Management repeatedly frames the model around closeout merchandise and excess inventory, a treasure-hunt shopping environment, and prices up to `70%` below traditional retailers. That is not just \u201cdiscount retail.\u201d It is a specific consumer behavior system where low-ticket discovery and deal excitement combine.",
+      "This makes Ollie's especially useful for the blind-spot lane. It shows that value behavior is not one thing. TJX, Ross, and Burlington organize more apparel-and-home-fashion off-price discovery. Ollie's organizes more everyday household, consumables, stationery, hardware, and opportunistic-brands discovery through a closeout engine and a broader \u201cgood stuff cheap\u201d frame."
+    ],
+    "damodaran_questions": [
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/consumer-goods/discount-variety-stores/ollies-bargain-outlet-holdings-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "AnnualReports mismatch as signal: Ollie's materially strengthens the blind-spot lane because the source taxonomy has a page for it but still does not name the actual system. `Discount, Variety Stores` is too generic for a closeout and treasure-hunt behavior case.",
+    "packet_path": "extracted/consumer-goods/discount-variety-stores/ollies-bargain-outlet-holdings-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q1 FY2026` net sales were `$658.9M`, up `14.2%`; comparable store sales increased `1.7%`; gross profit was `$276.0M`; gross margin increased `80` basis points to `41.9%`; and adjusted EBITDA increased to `$87.9M` from `$72.2M`.",
+      "Operating posture: net income increased `21.7%`, management raised fiscal `2026` EPS outlook, and the company ended the quarter with `672` stores in `35` states.",
+      "Loyalty and balance-sheet signals: `Ollie's Army` loyalty members increased `12.6%` to `17.5M`. Total cash and investments increased `26.7%` to `$525.6M`, including `$197.7M` of cash and cash equivalents, while the `10-Q` said the company had `$89.6M` available under its revolving credit facility and `$249.6M` of cash and cash equivalents plus short-term investments on hand.",
+      "Structural themes: this quarter matters because it shows the closeout and bargain-discovery system still compounding even with a pressured consumer backdrop. Management said results reflected solid top-line growth, robust margins, and disciplined expense control, which fits a thesis of durable value-hunt demand rather than a one-time clearance cycle.",
+      "Results: `Q4 FY2025` net sales were `$779.3M`, up `16.8%`; comparable store sales increased `3.6%`; gross profit was `$310.9M`; gross margin was `39.9%`; and adjusted EBITDA increased to `$127.1M` from `$109.4M`.",
+      "Full-year anchor: the same release closed fiscal `2025` with net sales of `$2.649B`, comparable store sales up `3.7%`, adjusted EBITDA of `$366.0M`, and net cash from operating activities of `$296.5M`."
+    ],
+    "signal_takeaways": [
+      "AnnualReports mismatch as signal: Ollie's materially strengthens the blind-spot lane because the source taxonomy has a page for it but still does not name the actual system. `Discount, Variety Stores` is too generic for a closeout and treasure-hunt behavior case.",
+      "Value-hunt split inside discount retail: Ollie's helps separate several adjacent but different consumer systems. `TJX`, `Ross`, and `Burlington` are stronger branded-off-price and apparel-home discovery cases. `Dollar General` and `Dollar Tree` are more convenience and low-absolute-ticket fill-in-trip cases. Ollie's sits between them as a closeout-driven bargain-discovery system with more \u201cfinds\u201d and less routine replenishment than the dollar chains.",
+      "Loyalty without a thick ecosystem: `Ollie's Army` matters, but this is not a paid-membership or wallet economics story. The relationship is thinner and more merchandising-led, which makes it a useful comparison against thicker systems like Costco, Starbucks, or Target.",
+      "Physical discovery still matters: the filings and releases repeatedly stress the in-store treasure-hunt environment and opportunistic merchandise flow. That is strong evidence that physical discovery retail still has a durable role when the price gap and assortment surprise are credible.",
+      "Tariffs and dislocation as two-sided forces: Ollie's is exposed to tariffs and sourcing costs, but it may also benefit when disruption creates excess inventory and closeout buying opportunity. That makes it more analytically interesting than a generic discount chain.",
+      "Comparative positioning: Ollie's is most useful next to `TJX`, `Ross`, `Burlington`, `Dollar General`, `Dollar Tree`, and `Walmart`, not as just another ordinary discount-store row."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Ollie's Bargain Outlet Holdings, Inc.",
+  "company_slug": "ollies-bargain-outlet-holdings-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/ollies-bargain-outlet-holdings-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Discount, Variety Stores",
+  "local_artifacts": [
+    "analysis/company-first-principles/consumer-goods/discount-variety-stores/ollies-bargain-outlet-holdings-inc/company-analysis.md",
+    "extracted/consumer-goods/discount-variety-stores/ollies-bargain-outlet-holdings-inc/company-packet.md",
+    "extracted/consumer-goods/discount-variety-stores/ollies-bargain-outlet-holdings-inc/company-profile.md",
+    "extracted/consumer-goods/discount-variety-stores/ollies-bargain-outlet-holdings-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/ollies-bargain-outlet-holdings-inc.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "OLLI"
+}

@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Sonoco is the cleanest current extension for the behind-the-shelf consumer infrastructure lane because it broadens packaging control beyond `Graphic Packaging`'s carton-and-carrier conversion layer and beyond `Clearwater Paper`'s SBS substrate layer.",
+      "AnnualReports still lagged here as of Monday, August 10, 2026: the saved company page shows `Consumer Goods / Packaging & Containers` and still surfaced `2024` and `2023` annual-report links rather than a current `2025` annual package.",
+      "The authoritative annual evidence therefore comes from the SEC chain. Sonoco's `2025` `10-K` shows a global packaging platform with approximately `265` locations in `37` countries serving branded end markets across consumer packaging and industrial paper packaging.",
+      "Full-year `2025` GAAP net income attributable to Sonoco reached `$1.003 billion`, GAAP operating profit reached `$1.018 billion`, and the year included major portfolio actions and acquisition effects, especially the Eviosys acquisition and the ThermoSafe divestiture.",
+      "The useful read is not \"paper\" in a narrow materials sense. Sonoco combines metal packaging, rigid paper containers, flexible and specialty formats, paper cans, protective and industrial packaging exposure, and broad packaging-control relationships across food, beverage, household, and industrial end markets."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/packaging-containers/sonoco-products-co/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Sonoco broadens `Consumer Goods / Packaging & Containers` beyond carton conversion by adding a more diversified packaging-format and container-control platform.",
+    "packet_path": "extracted/consumer-goods/packaging-containers/sonoco-products-co/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` net sales were `$1.9 billion`, GAAP net income attributable to Sonoco was `$105 million`, diluted EPS was `$1.05`, adjusted net income was `$151 million`, adjusted diluted EPS was `$1.51`, adjusted operating profit was `$242 million`, and adjusted EBITDA was `$324 million`.",
+      "Guidance: on `July 22, 2026`, Sonoco reaffirmed full-year `2026` guidance for sales, adjusted EBITDA, adjusted EPS, and operating cash flow, keeping the framework introduced after Q1.",
+      "Management message: management said `Industrial Paper Packaging` exceeded expectations, highlighted `6%` growth in North America uncoated recycled paperboard trade ton volume and `9%` EMEA/APAC paper-can volume growth, and emphasized record second-quarter operating cash flow.",
+      "Structural themes: Q2 is the clearest proof that Sonoco belongs in the blind-spot lane as a broader packaging-format and container-control platform rather than as another basic paper or carton operator.",
+      "Results: Q1 `2026` net sales were `$1.7 billion`, GAAP net income attributable to Sonoco was `$67.6 million`, GAAP operating profit was `$127.1 million`, diluted EPS was `$0.68`, adjusted net income was `$119.4 million`, adjusted diluted EPS was `$1.20`, adjusted operating profit was `$200.8 million`, and adjusted EBITDA was `$276.5 million`.",
+      "Guidance: on `April 21, 2026`, Sonoco kept full-year adjusted EBITDA guidance at `$1.25 billion` to `$1.35 billion`, operating cash-flow guidance at `$700 million` to `$800 million`, and shifted adjusted EPS expectations toward the low end of the prior `$5.80` to `$6.20` range."
+    ],
+    "signal_takeaways": [
+      "Sector: Sonoco broadens `Consumer Goods / Packaging & Containers` beyond carton conversion by adding a more diversified packaging-format and container-control platform.",
+      "Consumer: direct consumer demand is visible only indirectly through the packaged-goods and household brands that rely on Sonoco's packaging formats, substrate conversion, and industrial packaging support.",
+      "Cultural: the relevant cultural layer is convenience packaging, shelf presentation, sustainable-format substitution, and the quiet physical standardization behind everyday branded consumption rather than overt brand identity.",
+      "Industrial: the real operating questions are packaging-volume mix, price-cost balance, mill and paperboard utilization, packaging-format breadth, and acquisition-integration execution.",
+      "Technology: the useful technology layer is packaging engineering, material substitution, protective-format design, and process coordination across a multi-format packaging network rather than consumer software.",
+      "Capital allocation: the company is using capital around packaging-platform reshaping, portfolio simplification, cash generation, and leverage discipline following major acquisition and divestiture activity."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Sonoco Products Co.",
+  "company_slug": "sonoco-products-co",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/sonoco-products-co.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Packaging & Containers",
+  "local_artifacts": [
+    "extracted/consumer-goods/packaging-containers/sonoco-products-co/company-packet.md",
+    "extracted/consumer-goods/packaging-containers/sonoco-products-co/company-profile.md",
+    "extracted/consumer-goods/packaging-containers/sonoco-products-co/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/sonoco-products-co.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "SON"
+}

@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Campbell's fiscal `2025` annual materials add the clearest pantry, soup, broth, sauce, and at-home-cooking necessity layer that the current Consumer Goods set was missing. This is less about broad beverage or snack frequency and more about the recurring household decision to cook or stock the pantry at home.",
+      "Fiscal `2025` net sales were `$10.253 billion`, adjusted EBIT was `$1.487 billion`, adjusted EPS was `$2.97`, and operating cash flow was `$1.131 billion`.",
+      "The annual package matters for strategy reasons, not only size. Shareholders approved the change from `Campbell Soup Company` to `The Campbell's Company`, which formally acknowledges that the business is now broader than soup alone and is organized around `Meals & Beverages` plus `Snacks`.",
+      "The annual read also shows the current stress line clearly. Organic net sales declined `1%`, but the company still leaned into a stronger portfolio story built around Rao's, Campbell's, Swanson, Prego, Pace, Goldfish, Pepperidge Farm, and other leadership brands.",
+      "Compared with PepsiCo, Campbell's is much narrower and much more tied to pantry, meal preparation, and home-consumption habits. Compared with Mondelez, it is much less about indulgence and much more about affordability, convenience, and staple food routines. Compared with Church & Dwight, it gives the archive the food-and-cooking equivalent of a routine-use trust platform."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Campbell's strengthens the case that necessity-led food demand is real, but the quality of that demand depends heavily on whether the company is tied to pantry replenishment and at-home cooking rather than to more discretionary snack behavior alone.",
+    "packet_path": "extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q3 FY`2026` net sales decreased `4%` to `$2.366 billion` on a reported and organic basis, adjusted EBIT decreased `24%` to `$274 million`, reported EPS increased to `$0.41`, adjusted EPS was `$0.50`, and fiscal year-to-date cash flow from operations reached `$839 million`.",
+      "Guidance: on June 8, 2026, Campbell's reaffirmed full-year fiscal `2026` guidance at organic net sales of `-2%` to `-1%`, adjusted EBIT down `20%` to `17%`, and adjusted EPS of `$2.15` to `$2.25`.",
+      "Management message: management said results remained under pressure but highlighted durable at-home cooking trends in Meals & Beverages, especially around Campbell's, Rao's, and Swanson, while also noting early progress in Snacks.",
+      "Structural themes: this quarter is the clearest evidence that necessity-led food demand is still present, but margin pressure from inflation, tariffs, and weaker snacks volume can still overwhelm that demand at the earnings line.",
+      "Results: Q2 FY`2026` net sales decreased `5%` to `$2.564 billion`, organic net sales decreased `3%`, adjusted EBIT decreased `24%` to `$282 million`, reported EPS was `$0.48`, adjusted EPS was `$0.51`, and fiscal year-to-date cash flow from operations was `$740 million`.",
+      "Guidance: on March 11, 2026, Campbell's lowered full-year fiscal `2026` guidance to organic net sales of `-2%` to `-1%`, adjusted EBIT down `20%` to `17%`, and adjusted EPS of `$2.15` to `$2.25`."
+    ],
+    "signal_takeaways": [
+      "Sector: Campbell's strengthens the case that necessity-led food demand is real, but the quality of that demand depends heavily on whether the company is tied to pantry replenishment and at-home cooking rather than to more discretionary snack behavior alone.",
+      "Consumer: households remain intentional and value-conscious, but they still buy trusted pantry brands that help with affordable meal preparation at home.",
+      "Cultural: this is one of the clearest at-home cooking and pantry-restocking signals in the archive. Rao's also adds a premiumized but still routine meal-prep angle rather than an indulgence-only story.",
+      "Regulatory: tariffs and inflation are explicit operating headwinds in the quarter chain and materially affect gross profit and adjusted EBIT.",
+      "Labor: labor is not the main story, but supply-chain execution, storm disruptions, and cost savings matter materially.",
+      "Technology: technology shows up mainly through execution systems, supply-chain productivity, and portfolio integration rather than as a consumer-facing thesis."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "The Campbell's Company",
+  "company_slug": "campbell-soup-company",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/campbell-soup-company.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Processed & Packaged Goods",
+  "local_artifacts": [
+    "extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/company-packet.md",
+    "extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/company-profile.md",
+    "extracted/consumer-goods/processed-packaged-goods/campbell-soup-company/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-scarce-assets-and-hard-money-portfolio-role",
+      "source": "https://www.lynalden.com/april-2024-newsletter/",
+      "title": "Scarce assets and hard-money portfolio role",
+      "when_to_use": "Use when the company behaves like a scarce-asset, commodity-producer, or inflation-resilience exposure rather than a normal operating compounder."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/campbell-soup-company.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "CPB"
+}

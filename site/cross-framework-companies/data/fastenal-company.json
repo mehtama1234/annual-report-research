@@ -1,0 +1,266 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The `2025` annual filing makes clear that Fastenal is much broader than the name suggests. Management describes a global network selling industrial and construction supplies across more than nine major product lines rather than only fasteners.",
+      "The business is still physical and local, but the control point is increasingly digital. The annual filing says Digital Footprint represented `61.4%` of sales in `2025`, covering FMI and non-FMI eBusiness activity. That is a major clue about what the company has become: a distributor whose moat increasingly depends on workflow integration, vending, replenishment, and procurement software embedded into customer operations.",
+      "Network scale still matters. Fastenal ended `2025` with `1,595` branch locations in `25` countries, `19` distribution centers globally, and `24,489` employees. But management also changed how it talks about network density, shifting disclosure toward `Sites` instead of only public branches and customer-dedicated onsites. That matters because the company is increasingly monetizing presence inside the customer rather than just reach around the customer.",
+      "`2025` was a share-gain year more than a macro year. The annual commentary says market contribution was minimal, tariff-related pricing added `170` to `200` basis points, and the main driver of daily sales growth of `9.1%` was share gains tied to improved contract signings with large key-account customers.",
+      "The full-year financial baseline was strong. Net sales were `$8,200.5M`, gross profit was `$3,691.2M`, gross margin was `45.0%`, SG&A was `24.8%` of sales, operating income was `$1,655.7M`, operating margin was `20.2%`, and net income was `$1,258.4M`.",
+      "Product mix is also widening. The annual materials and subsequent quarter releases emphasize safety, cutting tools, and broader non-fastener lines. That matters because it pushes Fastenal deeper into routine plant spend, jobsite consumables, and recurring indirect procurement rather than a narrow catalog niche."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/industrial-goods/industrial-supply/fastenal-company/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Fastenal is not consumer-facing, but it reflects a broad change in how organizations buy basic physical inputs. Customers increasingly want inventory control, fewer suppliers, automated replenishment, and procurement systems that remove manual friction. This is a societal shift toward operational outsourcing and embedded workflow dependence.",
+    "packet_path": "extracted/industrial-goods/industrial-supply/fastenal-company/company-packet.md",
+    "quarterly_takeaways": [
+      "Net sales were `$2,386.9M`, up `14.7%`, and daily sales were `$37.3M`, also up `14.7%`.",
+      "Operating income was `$501.8M`, operating margin was `21.0%`, and operating cash flow was `$266M`, equal to `69%` of net income.",
+      "Gross margin was `44.6%`, down from `45.3%`, while SG&A improved to `23.5%` of sales from `24.4%`, showing that expense leverage offset gross-margin pressure.",
+      "Management explicitly said the results reflected growth with larger customers supported by onsite, digital, and supply-chain solutions. It also said progress continued through increased sales effectiveness, key-account wins, expansion of digital technologies, and deeper penetration through new customer-site growth.",
+      "The operating-pressure read is important. Management described daily sales growth as driven by share gains with larger customers, pricing actions, and broad-based demand across core end markets, while still flagging unfavorable price / cost as the main gross-margin headwind.",
+      "Daily sales increased `12.4%`, operating margin was `20.3%`, operating cash flow was `$378M`, and the company returned `$296M` to shareholders."
+    ],
+    "signal_takeaways": [
+      "Fastenal is not consumer-facing, but it reflects a broad change in how organizations buy basic physical inputs. Customers increasingly want inventory control, fewer suppliers, automated replenishment, and procurement systems that remove manual friction. This is a societal shift toward operational outsourcing and embedded workflow dependence.",
+      "The onsite and FMI model also maps to labor scarcity. If plants, warehouses, utilities, and contractors are short of skilled people who can manage storerooms, purchasing, and replenishment internally, value shifts toward the distributor that can put people, inventory, and software inside the customer\u2019s operation.",
+      "There is a cultural shift here too: procurement is becoming part of uptime management rather than a back-office function. Fastenal monetizes that by moving from \u201cwe sell parts\u201d toward \u201cwe run a piece of your supply chain.\u201d",
+      "Industrial production remained sluggish into late `2025` and only slightly improved in early `2026`, so Fastenal is still operating in a muted macro environment.",
+      "Pricing helped growth, but tariff-related pricing is a double-edged support. It boosts reported sales while also creating price / cost friction and customer sensitivity.",
+      "The shift toward larger customers creates stronger contract visibility and deeper workflow dependence, but it also pressures gross margin because large-account pricing is more competitive."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Fastenal Company",
+  "company_slug": "fastenal-company",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/fastenal-company.json",
+  "deep_exemplar": false,
+  "exchange": "Nasdaq",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Industrial Supply",
+  "local_artifacts": [
+    "analysis/company-first-principles/industrial-goods/industrial-supply/fastenal-company/company-analysis.md",
+    "extracted/industrial-goods/industrial-supply/fastenal-company/company-packet.md",
+    "extracted/industrial-goods/industrial-supply/fastenal-company/company-profile.md",
+    "extracted/industrial-goods/industrial-supply/fastenal-company/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/fastenal-company.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "FAST"
+}

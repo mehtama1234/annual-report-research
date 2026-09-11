@@ -1,0 +1,269 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Ulta is a high-value archive addition because it gives Services a beauty-specialty and discovery-led retail system rather than another value chain, restaurant routine, or travel relationship model.",
+      "The official evidence chain is current and clean. On Monday, August 10, 2026, AnnualReports.com still lagged at the `2024` package, while Ulta's official investor pages already exposed the full `2025` annual-report set and the correct latest-three-quarter chain of `Q1 2026`, `Q4 2025`, and `Q3 2025`.",
+      "The `2025` annual results were strong. Full-year net sales increased `9.7%` to `$12.4B`, comparable sales increased `5.4%`, and diluted EPS reached `$25.64`.",
+      "The strategically important point is that Ulta is not only selling beauty products. The `10-K` shows a wider beauty interface built from stores, salons, e-commerce, the app, loyalty-member data, a growing media layer, a curated marketplace, and an international expansion path through Space NK, Mexico, and the Middle East.",
+      "The filings make the platform widening unusually explicit. As of fiscal `2025` year-end, `UB Marketplace` offered more than `200` brands and `5,000` SKUs through Ulta's digital channels, while `UB Media` was framed as a monetization layer built from the company's understanding of loyalty-member behavior and brand-partner advertising demand."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Ulta strengthens `Services` with a specialty-retail operator whose relationship with the customer is built around discovery, personal care, salon usage, and repeat beauty experimentation rather than pure value, food frequency, or travel loyalty.",
+    "packet_path": "extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q1 `2026` net sales increased `11.1%` to `$3.2B`, comparable sales increased `5.3%`, operating income increased `11.6%` to `$448.3M`, and diluted EPS increased `15.5%` to `$7.74`.",
+      "Operating posture: inventories increased `12.5%` to `$2.4B`, driven by new brand launches, strategic category investments, the Space NK acquisition, and `70` net new Ulta Beauty stores since `2025-05-03`.",
+      "Structural themes: this quarter matters because it shows the widened model still working. Growth is not only coming from more stores. It is also coming from category breadth, better ticket and transaction trends, and the ability to keep layering discovery and brand expansion on top of a large physical base.",
+      "Results: Q4 `2025` net sales increased `11.8%` to `$3.9B`, full-year net sales increased `9.7%` to `$12.4B`, fourth-quarter comparable sales increased `5.8%`, full-year comparable sales increased `5.4%`, and diluted EPS was `$8.01` for the quarter and `$25.64` for the year.",
+      "Operating posture: fiscal `2025` inventory increased `10.8%` to `$2.2B`, with management tying the increase to new brand launches, Space NK, and `60` net new Ulta Beauty stores.",
+      "Structural themes: this is the anchor quarter for the packet because it closes the year with the clearest proof that Ulta is widening from a store-and-product retailer into a broader beauty-discovery platform with international exposure, marketplace assortment, and a media layer."
+    ],
+    "signal_takeaways": [
+      "Sector: Ulta strengthens `Services` with a specialty-retail operator whose relationship with the customer is built around discovery, personal care, salon usage, and repeat beauty experimentation rather than pure value, food frequency, or travel loyalty.",
+      "Consumer: this packet is a direct read on beauty and wellness demand where self-expression, category discovery, routine replenishment, and premium trade-up all coexist.",
+      "Cultural: Ulta matters because the beauty system is explicitly trend-aware and identity-adjacent. The `10-K` says UB Marketplace spans discovery, luxe, grooming, pro, wellness, and beauty-tech categories, which makes the company one of the archive's better examples of taste formation and trend translation becoming part of retail economics.",
+      "Relationship and technology: Ulta is also a strong interface case because the company links loyalty data, app and e-commerce usage, UB Media, and marketplace assortment to a large store-and-salon base rather than treating digital only as a checkout channel.",
+      "International and platform widening: the Space NK acquisition and the Mexico and Middle East partnerships show that the company is testing whether the beauty-discovery model can travel beyond the U.S. core.",
+      "Competitive positioning: Ulta is especially useful next to `Bath & Body Works`, `Kohl's`, and `lululemon`. Bath & Body Works is a weaker specialty-brand repair case, Kohl's uses Sephora as an adjacency inside a pressured department-store format, and lululemon is a premium wellness-identity brand. Ulta is the cleaner broad-beauty destination with more explicit discovery, assortment, and media-platform logic."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Ulta Beauty, Inc.",
+  "company_slug": "ulta-beauty-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/ulta-beauty-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Specialty Retail, Other",
+  "local_artifacts": [
+    "extracted/services/specialty-retail-other/ulta-beauty-inc/company-packet.md",
+    "extracted/services/specialty-retail-other/ulta-beauty-inc/company-profile.md",
+    "extracted/services/specialty-retail-other/ulta-beauty-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/ulta-beauty-inc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "ULTA"
+}

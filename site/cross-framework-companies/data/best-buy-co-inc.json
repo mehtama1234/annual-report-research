@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Best Buy is a useful archive addition because it gives the retail work a scaled consumer-electronics operator that sits between Walmart-style mass retail and Amazon-style ecosystem scale.",
+      "The annual evidence chain is current. AnnualReports listed the latest package as the `2026 Annual Report and Form 10K` on `2026-08-09`, while Best Buy's official IR and SEC stack cleanly exposed the annual package for the year ended `2026-01-31`, which this archive maps to target year `2025`.",
+      "The annual package shows a business that is stabilizing rather than breaking out. FY26 enterprise revenue was `$41.691B`, full-year enterprise comparable sales increased `0.5%`, diluted EPS was `$5.04`, and adjusted diluted EPS was `$6.43`.",
+      "The strategically important point is that Best Buy is no longer describing itself only as a store fleet selling devices. The annual letter and quarter materials repeatedly emphasize Marketplace, Best Buy Ads, services, omnichannel improvements, delivery speed, repair, trade-in, and recycling as attached operating layers.",
+      "That makes the company useful for the archive. The question is not whether electronics retail is glamorous. It is whether a mature consumer-electronics chain can become more defensible by owning service, fulfillment, traffic, and seller / advertiser monetization around the same customer base."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/electronics-stores/best-buy-co-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Best Buy gives the archive a retail-adjacent operator where performance still depends on discretionary device demand, but the company is trying to add attached economics through services, ads, and marketplace activity.",
+    "packet_path": "extracted/services/electronics-stores/best-buy-co-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q1 FY27 enterprise revenue was `$8,936M`; enterprise comparable sales increased `2.0%`; domestic comparable sales increased `1.8%`; diluted EPS was `$1.31`; and adjusted diluted EPS was `$1.28`.",
+      "Operating posture: management said results were better than expected, with positive comps across the majority of major product categories and strong performance in Best Buy Ads and Marketplace initiatives.",
+      "Structural themes: this quarter matters because it shows a cleaner rebound than the holiday quarter. Gaming, computing, mobile phones, and services were the main comparable-sales drivers, while appliances remained weaker. The company also kept spending behind Marketplace and Ads while holding adjusted operating margin at `4.1%`.",
+      "Results: Q4 FY26 enterprise revenue was `$13,814M`; enterprise comparable sales declined `0.8%`; diluted EPS was `$2.56`; adjusted diluted EPS was `$2.61`; and full-year FY26 revenue reached `$41,691M`.",
+      "Operating posture: management described holiday demand as slightly softer for the industry, but said market share was at least flat. Full-year comparable sales still turned positive at `0.5%`, and full-year adjusted diluted EPS reached `$6.43`.",
+      "Structural themes: this is the key quarter for the packet because it closes the year with mixed category demand but clearer evidence that Best Buy wants to monetize the relationship more broadly. Management said the company launched and scaled its U.S. digital Marketplace, almost doubled the number of ad partners versus the prior year, and kept investing in those incremental profit streams."
+    ],
+    "signal_takeaways": [
+      "Sector: Best Buy gives the archive a retail-adjacent operator where performance still depends on discretionary device demand, but the company is trying to add attached economics through services, ads, and marketplace activity.",
+      "Consumer: this is a direct read on upgrade cycles in computing, gaming, mobile phones, appliances, and home theater, which makes it useful for judging how uneven discretionary demand really is underneath broad consumer headlines.",
+      "Cultural: Best Buy matters because consumer electronics are one of the clearest upgrade-and-replacement categories where product novelty, launch timing, and household budget pressure show up quickly in earnings.",
+      "Loyalty and technology: Best Buy is a good example of a retailer trying to deepen the customer relationship without an Amazon-scale ecosystem. Marketplace, Best Buy Ads, app and digital improvements, Geek Squad services, repair, trade-in, and recycling are all attempts to make the relationship stickier and more monetizable.",
+      "Business model: the key business-model signal is that Best Buy is trying to turn a lower-growth core retail footprint into a broader omnichannel service and monetization platform, but the business is still exposed to category volatility and weak adjacency bets such as Best Buy Health.",
+      "Competitive positioning: Best Buy is especially useful because it is not a pure winner story. It offers a realistic middle case where management is trying to build new profit streams while still fighting the basic economics of consumer-electronics retail."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Best Buy Co., Inc.",
+  "company_slug": "best-buy-co-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/best-buy-co-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Electronics Stores",
+  "local_artifacts": [
+    "extracted/services/electronics-stores/best-buy-co-inc/company-packet.md",
+    "extracted/services/electronics-stores/best-buy-co-inc/company-profile.md",
+    "extracted/services/electronics-stores/best-buy-co-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/best-buy-co-inc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "BBY"
+}

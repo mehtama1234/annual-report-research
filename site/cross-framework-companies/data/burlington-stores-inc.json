@@ -1,0 +1,270 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Burlington is a useful archive addition because it gives the consumer-facing work a second strong off-price operator without relying on the same AnnualReports taxonomy lane as Ross.",
+      "AnnualReports already exposed the `2025` annual-report year on `2026-08-09`, but Burlington's official IR pages were unstable in this shell environment, so the local packet relies on the SEC-hosted annual-report PDF, the `10-K`, and verified official result URLs for the quarter layer.",
+      "The `2025` annual filing frames Burlington as a scaled store-based off-price system rather than a digital interface system. The company says more than `99%` of net sales come from stores and reports `1,212` stores, `52.8 million` gross square feet, `33.9 million` selling square feet, and six distribution centers as of `2026-01-31`.",
+      "The annual filing also shows an operator preparing to keep expanding. Burlington amended its ABL line on `2025-07-25`, increasing commitments from `$900 million` to `$1,000 million`, and ended fiscal `2025` with `$934.5 million` of remaining borrowing capacity.",
+      "The broader read is that Burlington gives the archive a cleaner pure value-and-bargain case. There is no loyalty-membership or ad-platform widening story here. The business still depends mainly on store traffic, merchandise turn, branded bargains, and off-price shopping behavior."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from analysis/company-first-principles/consumer-goods/discount-variety-stores/burlington-stores-inc/company-analysis.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Burlington widens `Consumer Goods` beyond staples, beauty, beverages, packaging, and home improvement into off-price retail behavior that still sits inside the consumer-goods taxonomy.",
+    "packet_path": "extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q1 `2026` total sales increased `14%`; comparable store sales increased `6%`; net income was `$115 million`; and diluted EPS was `$1.80`.",
+      "Operating posture: the `10-Q` says Burlington had `1,242` stores as of `2026-05-02`, after opening `40` new stores including six relocations and closing four stores during the quarter.",
+      "Structural themes: this quarter matters because it shows an off-price retailer still driving both comp growth and unit growth at the same time, which strengthens the trade-down and branded-bargain thesis in the current consumer environment.",
+      "Results: Q4 `2025` total sales grew `11%`; comparable store sales increased `4%`; net income was `$310 million`; diluted EPS was `$4.84`; and FY25 net income was `$610 million`.",
+      "Operating posture: official result-page coverage also said FY25 total sales grew `9%` and comparable store sales increased `2%`, which implies the year ended with momentum rather than fading.",
+      "Structural themes: this is the key quarter for the packet because it closes the fiscal year with clean evidence that the off-price model was strengthening into year-end rather than only benefiting from a single promotional burst."
+    ],
+    "signal_takeaways": [
+      "Sector: Burlington widens `Consumer Goods` beyond staples, beauty, beverages, packaging, and home improvement into off-price retail behavior that still sits inside the consumer-goods taxonomy.",
+      "Consumer: this is a direct read on bargain-hunt and value-seeking behavior in the U.S. consumer. Stronger recent comps suggest shoppers were still responding to branded off-price discovery even in a pressured environment.",
+      "Cultural: Burlington matters because off-price is partly functional and partly experiential. The value proposition is not just low prices; it is the repeated discovery loop around recognizable brands at sharp discounts.",
+      "Channel and format: Burlington is overwhelmingly physical-store-driven. That makes it useful as a counterpoint to digital membership, media, or marketplace-heavy consumer models elsewhere in the archive.",
+      "Business model: the key signal is that a store-dense, inventory-turn, opportunistic-buying model can still drive real growth when consumers remain price-sensitive and open to trade-down.",
+      "Competitive positioning: Burlington is most useful next to Ross. Together they improve the archive's read on off-price as its own consumer-interface lane instead of treating it as a weaker version of department stores or a generic discount bucket."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Burlington Stores, Inc.",
+  "company_slug": "burlington-stores-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/burlington-stores-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Discount, Variety Stores",
+  "local_artifacts": [
+    "analysis/company-first-principles/consumer-goods/discount-variety-stores/burlington-stores-inc/company-analysis.md",
+    "extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-packet.md",
+    "extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/company-profile.md",
+    "extracted/consumer-goods/discount-variety-stores/burlington-stores-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/burlington-stores-inc.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "BURL"
+}

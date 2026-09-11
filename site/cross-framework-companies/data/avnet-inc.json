@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "The `2025` annual chain makes clear that Avnet is not just a pass-through reseller. The company distributes semiconductors, `IP&E`, and embedded products while also providing design support, point-of-use replenishment, labeling, testing, assembly, programming, supply-chain management, and materials-management services.",
+      "The company operates through two distinct segments: `Electronic Components` and `Farnell`. That matters for CLI 8 because it shows both the higher-volume supply-chain intermediary and the more service-attached engineering-and-catalog side of the same channel system.",
+      "Full-year `2025` sales were `$22.2008B`, down `6.6%` year over year. `Electronic Components` generated `$20.7550B`, or about `93.5%` of total sales, while `Farnell` generated `$1.4458B`, or about `6.5%`.",
+      "Fiscal `2025` margin performance was weaker, which makes the rebound story more useful. Gross margin fell to `10.7%` from `11.6%`, operating income margin fell to `2.3%` from `3.6%`, adjusted operating income margin fell to `2.8%` from `3.8%`, and diluted `EPS` fell to `$2.75` from `$5.43`.",
+      "Even in a softer year, the annual filing shows why scaled intermediaries matter. Avnet\u2019s franchised distribution agreements provide inventory return privileges and some protection against obsolescence and price erosion, which is a direct example of how channel operators defend working-capital risk.",
+      "The annual packet also broadens the end-market interpretation. Avnet\u2019s component business sits under industrial, automotive, defense and aerospace, data-center and communications infrastructure, and a wider electronics manufacturing ecosystem rather than only one narrow consumer-tech category."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/technology/electronics-wholesale/avnet-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Avnet is far from consumer branding, but it sits underneath several of the most important current social and industrial shifts: AI and data-center build-out, industrial automation, automotive electronics growth, electrification, defense-system demand, and the wider digitization of physical infrastructure.",
+    "packet_path": "extracted/technology/electronics-wholesale/avnet-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "`Q4 FY2026` sales reached a record `$8.2954B`, up `47.7%` year over year and `16.5%` sequentially, which is unusually strong proof that a channel intermediary can show accelerating recovery before many downstream producers fully translate it into their own results.",
+      "Diluted `EPS` was `$1.49` versus `$0.07` in the prior-year quarter, while adjusted diluted `EPS` rose `182%` year over year to `$2.28`.",
+      "Operating income margin rose to `2.8%`, up `147` basis points year over year, and adjusted operating income margin rose to `3.8%`, up `129` basis points.",
+      "`Electronic Components` operating margin reached `4.1%` on record segment sales of roughly `$7.8B`, while `Farnell` operating margin reached `9.0%` on record sales of roughly `$500M`.",
+      "Working-capital discipline stayed central even during the surge. Inventory days fell by `6` days sequentially to `71`, with `Electronic Components` inventory days under `65` and `Farnell` inventory days under `200`.",
+      "The same release also gave the fiscal `2026` full-year summary: sales of `$27.6B`, up `25%`; diluted `EPS` of `$4.01`; adjusted diluted `EPS` of `$5.67`; and full-year inventory days of `81`, down `18` days year over year."
+    ],
+    "signal_takeaways": [
+      "Avnet is far from consumer branding, but it sits underneath several of the most important current social and industrial shifts: AI and data-center build-out, industrial automation, automotive electronics growth, electrification, defense-system demand, and the wider digitization of physical infrastructure.",
+      "The packet also reflects a broader cultural shift inside business procurement. Customers increasingly do not want to solve sourcing, engineering support, availability risk, and logistics complexity supplier by supplier, so more value accrues to scaled intermediaries that reduce coordination burden.",
+      "Avnet helps explain why the technology economy is still deeply physical. Even when the end story is software, cloud, automation, or smart systems, someone still has to finance inventory, aggregate suppliers, manage allocation, and move components through the channel.",
+      "Working capital is a first-order economic variable here, not a footnote. Inventory days, receivables, cash conversion, and return on working capital recur throughout the packet because the business is partly selling timing, availability, and financing capacity.",
+      "The company is exposed to the electronics cycle, which means margins can compress sharply in weaker demand periods and then expand quickly when volume recovers.",
+      "Segment mix matters. `Electronic Components` is the larger engine and carries the main scale logic, while `Farnell` adds a more service-attached and higher-margin catalog and engineering-oriented layer."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Avnet, Inc.",
+  "company_slug": "avnet-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/avnet-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Electronics Wholesale",
+  "local_artifacts": [
+    "extracted/technology/electronics-wholesale/avnet-inc/company-packet.md",
+    "extracted/technology/electronics-wholesale/avnet-inc/company-profile.md",
+    "extracted/technology/electronics-wholesale/avnet-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/avnet-inc.html",
+  "sector": "Technology",
+  "template_role": "",
+  "ticker": "AVT"
+}

@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "EMCOR is the right next Industrial Goods addition because it extends the same contractor and field-execution lane beyond utility and pure-play electrical work into a larger electrical-plus-mechanical-plus-facilities platform.",
+      "AnnualReports classifies the company as `Industrial Goods / General Contractors`, but the annual materials show a more precise operating model: one of the largest specialty contractors in the United States, spanning electrical and mechanical construction and facilities services, building services, and industrial services.",
+      "The annual evidence base shows a business with direct exposure to the physical systems layer of the economy. EMCOR serves commercial, technology, manufacturing, industrial, healthcare, utility, and institutional customers through roughly `100` operating subsidiaries and a mix of construction, retrofit, maintenance, controls, and industrial turnaround work.",
+      "Full-year `2025` results were strong. Revenue reached a record `$16.99 billion`, net income reached `$1.27 billion`, diluted EPS reached `$28.19`, operating income reached `$1.71 billion`, and year-end remaining performance obligations reached a record `$13.25 billion`.",
+      "The annual filing is unusually explicit about what is driving demand. EMCOR says the electrical and mechanical construction services industry has grown due to increased system complexity from digital processing, cloud computing, data storage, AI, data centers, reshoring, high-tech manufacturing, and energy-transition and expansion activity across the United States.",
+      "EMCOR matters for the broader archive because it shows how the power, cooling, controls, building systems, data-center fit-out, and maintenance layers are converging inside one large execution platform rather than showing up only as product demand at OEMs."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/general-contractors/emcor-group-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: EMCOR widens Industrial Goods beyond utilities, pure electrical contractors, and HVAC manufacturers into a full specialty-construction and facilities-services platform.",
+    "packet_path": "extracted/industrial-goods/general-contractors/emcor-group-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` revenue was a record `$5.15 billion`, net income was `$403.7 million`, diluted EPS was `$9.06`, and operating income was `$547.3 million`.",
+      "Demand and backlog: remaining performance obligations rose to a record `$17.14 billion`, up from `$13.25 billion` at year-end `2025` and `$11.91 billion` a year earlier.",
+      "Management message: management raised `2026` diluted EPS guidance again, to `$32.00` to `$33.25`, and said performance benefited from revenue growth, higher consolidated gross margin, and better overhead leverage.",
+      "Structural themes: the latest quarter shows that EMCOR is participating directly in the same build cycle visible elsewhere in the archive, especially through `network and communications`, healthcare, water and wastewater, and institutional demand. This is not just maintenance revenue; it is active physical deployment.",
+      "Results: Q1 `2026` revenue was a record `$4.63 billion`, net income was `$305.5 million`, diluted EPS was `$6.84`, and operating income was `$403.8 million`.",
+      "Demand and backlog: remaining performance obligations reached a record `$15.62 billion`, up from `$13.25 billion` at year-end `2025` and `$11.75 billion` a year earlier."
+    ],
+    "signal_takeaways": [
+      "Sector: EMCOR widens Industrial Goods beyond utilities, pure electrical contractors, and HVAC manufacturers into a full specialty-construction and facilities-services platform.",
+      "Technology and data centers: the annual filing directly links industry growth to cloud, AI, data storage, and data-center buildout, while the quarterly filings show network and communications as the strongest current RPO driver.",
+      "Buildings and operating environments: EMCOR adds direct exposure to electrical distribution, mechanical systems, HVAC retrofits, building automation, voice and data, environmental controls, and maintenance work across complex facilities.",
+      "Industrial and civic infrastructure: the company also spans healthcare, water and wastewater, institutional, transportation, utility, manufacturing, warehousing, and entertainment projects, which makes it a broad real-economy demand sensor.",
+      "Labor and execution: EMCOR is useful because it shows how scale does not remove contractor risks. Scarcity of skilled labor, productivity, project mix, and whether the company is acting as a prime or construction manager still shape profitability.",
+      "Consolidation and platform depth: acquisitions remain part of the operating model, from Miller Electric in `2025` to additional mechanical, HVAC, electrical, and building-controls tuck-ins in `2026`."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "EMCOR Group, Inc.",
+  "company_slug": "emcor-group-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/emcor-group-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "General Contractors",
+  "local_artifacts": [
+    "extracted/industrial-goods/general-contractors/emcor-group-inc/company-packet.md",
+    "extracted/industrial-goods/general-contractors/emcor-group-inc/company-profile.md",
+    "extracted/industrial-goods/general-contractors/emcor-group-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/emcor-group-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "EME"
+}

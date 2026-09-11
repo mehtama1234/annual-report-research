@@ -1,0 +1,268 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Take-Two is a strong blind-spot fit because `Technology / Application Software` is a weak description of the operating reality. The annual and trailing-quarter materials show a franchise-driven interactive-entertainment system built on sequel cadence, live services, recurrent consumer spending, mobile scale, and release-calendar anticipation rather than on software-seat or generic app-license economics.",
+      "The source mismatch is useful on its own. As of `2026-08-10`, AnnualReports.com still only showed a `2024 Annual Report and Form 10K`, while the local official IR and SEC chain already supported the current annual anchor and the in-scope `FY2027 Q1`, `FY2026 Q4`, and `FY2026 Q3` set.",
+      "Because Take-Two's fiscal year ends on March `31`, the right annual anchor for this August `2026` review window is the fiscal `2026` annual package even though the archive's wider scope year remains `2025`.",
+      "Full-year FY`2026` net bookings reached `$6.721B`, above guidance and about `$750M` above the initial May `2025` outlook. Full-year FY`2026` GAAP net revenue reached `$6.656B`, and recurrent consumer spending grew `17%`.",
+      "The May `2026` investor presentation makes the platform structure clearer than the label does: FY`2026` net bookings were `49%` mobile, `40%` console, and `11%` PC and other, while the company framed the market around `3.6B` global players, nearly `149B` annual mobile downloads, and major owned-IP systems led by `Grand Theft Auto`, `NBA 2K`, `Red Dead Redemption`, and `Zynga` titles.",
+      "This is analytically different from both plain software and toy-only comparisons. `Hasbro` and `Mattel` show physical-IP and brand-extension systems. `Roblox` shows creator-built digital worlds. Take-Two adds the scaled premium-publisher and live-services layer where fandom, recurrent spending, content cadence, and launch anticipation all compound."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/technology/application-software/take-two-interactive-software-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Take-Two strengthens Technology, but the better read is as a franchise-IP and recurrent-participation system that source taxonomy flattens into `Application Software`.",
+    "packet_path": "extracted/technology/application-software/take-two-interactive-software-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: FY`2027 Q1` net bookings were `$1.39B`, slightly above guidance, while GAAP net revenue was `$1.53B`.",
+      "Mix and monetization: recurrent consumer spending accounted for `84%` of both net bookings and GAAP net revenue.",
+      "Profitability: GAAP net loss was `$34.1M`, including a `$43.4M` impairment charge tied to an unannounced third-party title that the company chose not to continue developing.",
+      "Management message: management reiterated fiscal `2027` net bookings guidance of `$8.0B` to `$8.2B` and tied the year directly to the scheduled `2026-11-19` launch of `Grand Theft Auto VI`.",
+      "Structural themes: this quarter is useful because even with year-over-year net-bookings pressure, the business still reads as a recurrent-participation system rather than a one-shot hit business. The dependence on live services, sports franchises, mobile titles, and major launch timing is explicit.",
+      "Results: FY`2026 Q4` net bookings were `$1.58B`, above guidance, and GAAP net revenue was `$1.68B`."
+    ],
+    "signal_takeaways": [
+      "Sector: Take-Two strengthens Technology, but the better read is as a franchise-IP and recurrent-participation system that source taxonomy flattens into `Application Software`.",
+      "Consumer: the demand is not just software usage. It is repeat participation in sports franchises, open-world entertainment, live services, mobile games, and culturally loaded release events.",
+      "Cultural: the company is filing-backed proof that franchise identity and game-world attachment remain major spending systems, especially when supported by sequel cadence, multiplayer persistence, and large release moments.",
+      "Societal: Take-Two reflects the normalization of gaming as one of the largest mass-entertainment categories across console, PC, and mobile, with engagement tied to global fandom, digital add-on spending, and long-duration title lifecycles.",
+      "Business model: the important move is not selling a disc or one-time download. It is combining premium launches with recurrent consumer spending, live operations, mobile scale, licensing, and franchise anticipation.",
+      "Competitive positioning: Take-Two is most useful next to `Hasbro`, `Mattel`, `Roblox`, `Electronic Arts`, `Netflix`, and `Disney`, not next to generic enterprise-software issuers."
+    ],
+    "strategy_framework_checks": [
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Take-Two Interactive Software, Inc.",
+  "company_slug": "take-two-interactive-software-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/take-two-interactive-software-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Application Software",
+  "local_artifacts": [
+    "extracted/technology/application-software/take-two-interactive-software-inc/company-packet.md",
+    "extracted/technology/application-software/take-two-interactive-software-inc/company-profile.md",
+    "extracted/technology/application-software/take-two-interactive-software-inc/source-ledger.md",
+    "extracted/technology/multimedia-graphics-software/take-two-interactive-software-inc/company-packet.md",
+    "extracted/technology/multimedia-graphics-software/take-two-interactive-software-inc/company-profile.md",
+    "extracted/technology/multimedia-graphics-software/take-two-interactive-software-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/take-two-interactive-software-inc.html",
+  "sector": "Technology",
+  "template_role": "",
+  "ticker": "TTWO"
+}

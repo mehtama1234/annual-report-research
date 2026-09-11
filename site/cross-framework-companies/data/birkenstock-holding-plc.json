@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Birkenstock is one of the clearest archive additions for the foot-health, premium-utility, and practical-wellness lane. The annual materials do not read like generic fashion retail. They read like a brand turning comfort, biomechanical function, and identity into a high-margin global system.",
+      "AnnualReports.com still lagged here. On Monday, August 10, 2026, the live page still showed only a `2024 Annual Report`, so the current annual package had to come from Birkenstock's official IR and SEC chain.",
+      "Fiscal `2025` revenue reached about `EUR 2.1B`, up `16%` reported and `18%` in constant currency, supported by `12%` unit growth and `5%` constant-currency average selling price growth.",
+      "The closed-toe story matters. Management said closed-toe shoes outpaced sandals and increased to `38%` of total business, up about `500` basis points, which makes this more than a seasonal sandal brand.",
+      "The strategic read is that Birkenstock sits at the intersection of wellness, comfort, minimalism, durability, and premium casualization. It is one of the archive's clearest proofs that body-awareness and practical utility can become a broad lifestyle purchase rather than a niche orthopedic one."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/apparel-stores/birkenstock-holding-plc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Birkenstock strengthens `Services` with another retail-like consumer operator that AnnualReports currently places under `Services / Apparel Stores`.",
+    "packet_path": "extracted/services/apparel-stores/birkenstock-holding-plc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 FY2026` revenue was `EUR 618M`, up `8%` reported and `14%` in constant currency; gross profit margin was `53.9%`; adjusted EBITDA was `EUR 198M`; and diluted EPS was `EUR 0.45`.",
+      "Operating posture: Birkenstock explicitly framed the quarter around resilience despite war, tariffs, and inflation. The Middle East conflict reduced `EMEA` revenue by about `EUR 6M`, while `APAC` grew `22%` reported and `30%` in constant currency.",
+      "Structural themes: this quarter matters because it shows consumers still paying for comfort-and-health-coded premium footwear even when the company is working through external shocks and gross-margin pressure.",
+      "Results: `Q1 FY2026` revenue was `EUR 402M`, up `11.1%` reported and `17.8%` in constant currency; gross profit margin was `55.7%`; adjusted EBITDA was `EUR 106M`; and diluted EPS was `EUR 0.27`.",
+      "Operating posture: management highlighted strong holiday demand for clogs, shearling executions, and other closed-toe shoes and boots. `B2B` revenue grew `18%` reported and `24%` in constant currency.",
+      "Structural themes: this is the quarter that makes the wellness-and-utility read harder to dismiss. The growth was not only sandals. It came from colder-weather and more everyday-use silhouettes, which broadens the consumer behavior behind the brand."
+    ],
+    "signal_takeaways": [
+      "Sector: Birkenstock strengthens `Services` with another retail-like consumer operator that AnnualReports currently places under `Services / Apparel Stores`.",
+      "Consumer: this is a read on a consumer willing to pay for utility, body alignment, comfort, and durability rather than only fashion novelty or visible status.",
+      "Cultural: Birkenstock is a strong signal that health-coded products can become identity products. The brand sits inside a wider shift toward practical wellness, minimalist design, and premium casualization.",
+      "Societal: proper foot health and physical comfort are no longer niche medical-adjacent concerns. They are mainstream branded consumption themes.",
+      "Operating model: Birkenstock combines wholesale scale, direct-to-consumer reach, pricing power, and product extension beyond sandals into clogs, shoes, boots, sleep systems, and natural cosmetics.",
+      "Competitive positioning: Birkenstock is most useful next to `Deckers Outdoor Corp.`, `lululemon athletica inc.`, `Tapestry, Inc.`, `Levi Strauss & Co.`, and `Urban Outfitters, Inc.`. It is less performance-coded than Deckers, less community-and-apparel-coded than lululemon, less visible-status-coded than Tapestry, and more utility-and-body-function-driven than the mall-sensitive apparel packets."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Birkenstock Holding plc",
+  "company_slug": "birkenstock-holding-plc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/birkenstock-holding-plc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Apparel Stores",
+  "local_artifacts": [
+    "extracted/services/apparel-stores/birkenstock-holding-plc/company-packet.md",
+    "extracted/services/apparel-stores/birkenstock-holding-plc/company-profile.md",
+    "extracted/services/apparel-stores/birkenstock-holding-plc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/birkenstock-holding-plc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "BIRK"
+}

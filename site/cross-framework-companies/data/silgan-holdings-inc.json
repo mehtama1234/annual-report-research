@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Silgan is a clean `AnnualReports` blind-spot extension because the source taxonomy places it in `Consumer Goods / Packaging & Containers`, while the useful system read is narrower and more operational: rigid-container, closure, dispensing, and metal-can control for essential consumer-goods throughput.",
+      "`AnnualReports` taxonomy was verified on `2026-08-10` through the saved `Companies?a=S` listing page, which shows `Silgan Holdings` under `Packaging & Containers / Consumer Goods`. The direct company page was also collectible and exposed the current `2025 Annual Report` and `2025 Form 10-K`.",
+      "The official Silgan IR site exposed a working annual-report PDF path, but the attempted quarter-release PDF links resolved to HTML shell pages. The clean quarter evidence therefore comes from the SEC filing chain, including the saved `Q4 2025` Exhibit `99.1` press release and the `Q1 2026` and `Q2 2026` `10-Q` filings.",
+      "Full-year `2025` net sales were `$6.5 billion`, net income was `$288.4 million`, diluted EPS was `$2.70`, and adjusted net income per diluted share was `$3.72`.",
+      "The company described itself as a leading supplier of sustainable rigid packaging solutions for essential consumer goods products. Management emphasized the strength of a diverse portfolio of consumer-staple products, the completed integration of the `Weener` acquisition, and continued outperformance in high-value dispensing and pet-food products.",
+      "The annual report said Silgan employed over `17,000` people and operated `121` manufacturing plants in North America, Europe, Asia, and South America."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/packaging-containers/silgan-holdings-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: `Packaging & Containers` is directionally right but still too broad. Silgan is most useful as a rigid-packaging and closure-control system rather than as a generic packaging name.",
+    "packet_path": "extracted/consumer-goods/packaging-containers/silgan-holdings-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q2 2026` net sales were `$1.643 billion`, income before interest and income taxes was `$151.0 million`, net income was `$75.8 million`, and diluted EPS was `$0.72`.",
+      "Segment picture: `Dispensing and Specialty Closures` net sales were `$713.9 million`, `Metal Containers` net sales were `$763.9 million`, and `Custom Containers` net sales were `$165.5 million`.",
+      "Structural themes: by `Q2 2026`, the packaging stack still leaned heavily on consumer-staple throughput rather than discretionary category volatility. The key operating questions were mix inside dispensing, pet-food and food-can demand, custom-container end-market mix, raw-material pass-through, and the balance between closures growth and broader rigid-container stability.",
+      "Results: `Q1 2026` net sales were `$1.561 billion`, income before interest and income taxes was `$126.6 million`, net income was `$63.0 million`, and diluted EPS was `$0.60`.",
+      "Segment picture: `Dispensing and Specialty Closures` net sales were `$685.3 million`, `Metal Containers` net sales were `$724.9 million`, and `Custom Containers` net sales were `$151.1 million`.",
+      "Structural themes: Q1 showed the same three-part structure already visible in the annual report. The business did not read like one generic packaging vendor; it read like a company balancing high-value dispensing growth, resilient metal-container demand, and a smaller but meaningful custom-container mix."
+    ],
+    "signal_takeaways": [
+      "Sector: `Packaging & Containers` is directionally right but still too broad. Silgan is most useful as a rigid-packaging and closure-control system rather than as a generic packaging name.",
+      "Consumer: the consumer link is indirect but constant. Consumers may not know Silgan, but staple-food cans, dispensing closures, pet-food containers, fragrance and beauty pumps, and custom rigid containers sit directly in daily-use packaged-product systems.",
+      "Cultural: the relevant cultural layer is not brand symbolism but invisible trust in everyday packaged products. The container has to work, preserve product integrity, dispense correctly, survive distribution, and fit staple-use behavior without friction.",
+      "Societal: Silgan sits close to the resilience side of household consumption because its exposure is tilted toward essential consumer-goods categories rather than highly discretionary, novelty-driven product systems.",
+      "Industrial: the important operating variables are raw-material pass-through, metal and resin cost timing, acquisition integration, volume or mix in pet food and dispensing products, manufacturing efficiency, free-cash-flow discipline, and the concentration of segment economics in closures and cans.",
+      "Business model: Silgan is also useful because it shows that packaging control has internal layers. A company can own the broad format map, the user-interface mechanism, the corrugated throughput layer, or the rigid-container and closure stack. Those are not the same position."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Silgan Holdings Inc.",
+  "company_slug": "silgan-holdings-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/silgan-holdings-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Packaging & Containers",
+  "local_artifacts": [
+    "extracted/consumer-goods/packaging-containers/silgan-holdings-inc/company-packet.md",
+    "extracted/consumer-goods/packaging-containers/silgan-holdings-inc/company-profile.md",
+    "extracted/consumer-goods/packaging-containers/silgan-holdings-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/silgan-holdings-inc.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "SLGN"
+}

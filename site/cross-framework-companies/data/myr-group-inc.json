@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "MYR is the right next Industrial Goods addition because it strengthens the same physical-infrastructure thesis as Quanta while offering a smaller, cleaner, more pure-play read on specialty electrical construction.",
+      "AnnualReports classifies the company as `Industrial Goods / General Contractors`, but the annual materials show a much more specific operating model: a holding company of specialty electrical construction service providers serving electric utility infrastructure and commercial and industrial construction markets in the United States and Canada.",
+      "The annual evidence base shows two distinct but connected operating lanes. `Transmission and Distribution` covers high-voltage transmission lines, substations, overhead and underground distribution systems, clean energy projects, EV charging infrastructure, and emergency restoration. `Commercial and Industrial` covers wiring, systems installation, maintenance, and repair across data centers, airports, hospitals, hotels, stadiums, manufacturing plants, processing facilities, water and waste-water treatment facilities, mining, and other industrial sites.",
+      "Full-year `2025` results were strong. Revenue reached a record `$3.66 billion`, diluted EPS reached `$7.53`, net income reached a record `$118.4 million`, EBITDA reached a record `$232.7 million`, and year-end backlog reached a record `$2.82 billion`.",
+      "Remaining performance obligations add another useful signal. The `2025` 10-K shows RPO of `$2.52 billion` at `2025-12-31`, with roughly `85%` expected to be recognized within twelve months.",
+      "MYR matters for the broader archive because it shows where electrification, grid work, data-center-related electrical demand, and infrastructure investment turn into day-to-day field execution by a more concentrated electrical contractor rather than by a larger diversified infrastructure platform."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/general-contractors/myr-group-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: MYR widens Industrial Goods beyond electrical components and power equipment into the direct specialty-electrical construction layer.",
+    "packet_path": "extracted/industrial-goods/general-contractors/myr-group-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` revenue was a record `$1.08 billion`, diluted EPS was `$3.17`, net income was a record `$49.9 million`, and EBITDA was a record `$85.0 million`.",
+      "Demand and backlog: backlog rose to a record `$3.16 billion`, up `19.6%` from the comparable prior-year quarter, with `Transmission and Distribution` backlog at `$1.27 billion` and `Commercial and Industrial` backlog at `$1.89 billion`.",
+      "Management message: management said continued strength in core markets, ongoing investment in electrical infrastructure, and sustained customer demand supported the quarter, while recent acquisitions were positioned to deepen capabilities and geographic reach.",
+      "Structural themes: the latest quarter shows that the electrical construction layer is benefiting both from utility-side buildout and from the commercial-and-industrial side of the same cycle, especially where large-load facilities and complex infrastructure need power, wiring, controls, and field execution.",
+      "Results: Q1 `2026` revenue was `$1.00 billion`, diluted EPS was `$2.99`, net income was a record `$46.8 million`, and EBITDA was a record `$81.5 million`.",
+      "Demand and backlog: backlog reached a record `$2.84 billion`, up `7.7%` from the comparable prior-year quarter, with `Transmission and Distribution` backlog at `$980.7 million` and `Commercial and Industrial` backlog at `$1.86 billion`."
+    ],
+    "signal_takeaways": [
+      "Sector: MYR widens Industrial Goods beyond electrical components and power equipment into the direct specialty-electrical construction layer.",
+      "Utilities: this is a clean operator for understanding how transmission, distribution, substations, emergency restoration, and utility-side construction demand are converting into backlog and margin.",
+      "Technology and load growth: MYR makes the power-and-data-center thesis more concrete because the `Commercial and Industrial` segment explicitly serves data centers and other large-load facilities.",
+      "Industrial and civic infrastructure: the company also spans airports, hospitals, manufacturing plants, processing facilities, water and waste-water treatment, mining, roadway lighting, signalization, and EV charging, so it broadens the infrastructure read beyond the pure utility lane.",
+      "Labor and execution: MYR is a useful complement to Quanta because its disclosures make the labor-intensive and project-selective nature of electrical contracting more visible, including the caveat that reported backlog can understate forward opportunity on longer-duration service agreements.",
+      "Capital and consolidation: the Q2 `2026` materials show targeted M&A through `Valley Electric` and `Comet Electric`, which suggests the lane is still consolidating around execution capability and local market reach."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "MYR Group Inc.",
+  "company_slug": "myr-group-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/myr-group-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "General Contractors",
+  "local_artifacts": [
+    "extracted/industrial-goods/general-contractors/myr-group-inc/company-packet.md",
+    "extracted/industrial-goods/general-contractors/myr-group-inc/company-profile.md",
+    "extracted/industrial-goods/general-contractors/myr-group-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/myr-group-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "MYRG"
+}

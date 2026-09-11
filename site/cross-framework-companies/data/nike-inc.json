@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Nike is a high-priority archive addition because the local strategy packet has been using it as a shorthand for customer ownership, direct channels, and brand-controlled engagement without a real source packet underneath it.",
+      "The official investor-relations stack and SEC filing chain are current for fiscal `2026`, while AnnualReports remains useful mainly for category discovery rather than for primary current-source capture.",
+      "The fiscal `2026` annual package is strategically interesting because it shows both the attraction and the strain of direct consumer ownership at scale. Full-year revenues were `$46.4B`, NIKE Brand revenues were `$45.2B`, wholesale revenues were `$27.5B`, NIKE Direct revenues were `$17.7B`, and gross margin increased to `42.9%`.",
+      "The core lesson is not that direct channels automatically win. It is that Nike treats the consumer relationship as a strategic asset, but the filings also show that direct traffic, digital demand, and marketplace balance remain hard operating problems.",
+      "That makes Nike more useful than a cleaner story would. The packet shows a real global brand trying to improve profitability, protect brand control, and rebuild growth while deciding how much of the customer journey to own directly."
+    ],
+    "damodaran_questions": [
+      "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/retail/apparel-shoe-accessory-stores/nike-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Nike gives the archive a scaled consumer brand where the customer relationship is fought through channel mix, marketplace control, and digital engagement rather than through explicit paid membership fees alone.",
+    "packet_path": "extracted/retail/apparel-shoe-accessory-stores/nike-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q4 `2026` revenues were `$11.0B`, down `1%` reported and down `4%` currency-neutral; wholesale revenues were `$6.6B`, up `4%` reported; NIKE Direct revenues were `$4.1B`, down `7%` reported and down `9%` currency-neutral.",
+      "Operating posture: gross margin was `49.2%`, but that included an approximately `900` basis-point tariff-recovery benefit; net income was `$1.1B`; diluted EPS was `$0.72`, including a `$0.52` tariff-recovery benefit.",
+      "Structural themes: this quarter matters because it shows Nike improving headline profitability while still facing top-line friction and weaker direct-channel demand. It is a useful reminder that direct ownership does not remove the need for channel balance and product-market execution.",
+      "Results: Q3 `2026` revenues were `$11.3B`, flat reported and down `3%` currency-neutral; wholesale revenues were `$6.5B`, up `5%` reported; NIKE Direct revenues were `$4.5B`, down `4%` reported and down `7%` currency-neutral.",
+      "Operating posture: gross margin decreased `130` basis points to `40.2%`; net income was `$0.5B`; diluted EPS was `$0.35`.",
+      "Structural themes: this quarter is useful because it shows wholesale holding up better than direct digital demand, with Nike still working through portfolio cleanup and marketplace repositioning."
+    ],
+    "signal_takeaways": [
+      "Sector: Nike gives the archive a scaled consumer brand where the customer relationship is fought through channel mix, marketplace control, and digital engagement rather than through explicit paid membership fees alone.",
+      "Consumer: this is a useful read on discretionary demand, brand strength, and how a global athletic brand manages traffic, product mix, and regional growth under pressure.",
+      "Cultural: Nike matters because the brand carries identity and aspiration, but the filings show that cultural power still has to be translated into the harder economics of traffic, conversion, and repeat purchase.",
+      "Loyalty and technology: Nike is one of the cleaner cases that first-party consumer surfaces matter, but the packet also shows the limits. Direct channels are strategically important, yet they still need healthy product flow and demand to outperform wholesale.",
+      "Business model: the key business-model signal is balance, not purity. Nike keeps a very large direct business, but the quarter trail shows wholesale reaccelerating while NIKE Direct contracts, which makes the company a better study in channel tradeoffs than in simplistic DTC triumphalism.",
+      "Competitive positioning: Nike is especially useful because it demonstrates that owning the relationship directly is valuable, but not free. The brand has to preserve reach, margin, and brand presentation at the same time."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "NIKE, Inc.",
+  "company_slug": "nike-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when legitimacy, governance, market structure, culture, or investor/company fit changes the analysis.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "account-for-institutions-trust-and-fit"
+    },
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/nike-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Apparel, Shoe & Accessory Stores",
+  "local_artifacts": [
+    "extracted/retail/apparel-shoe-accessory-stores/nike-inc/company-packet.md",
+    "extracted/retail/apparel-shoe-accessory-stores/nike-inc/company-profile.md",
+    "extracted/retail/apparel-shoe-accessory-stores/nike-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/nike-inc.html",
+  "sector": "Retail",
+  "template_role": "",
+  "ticker": "NKE"
+}

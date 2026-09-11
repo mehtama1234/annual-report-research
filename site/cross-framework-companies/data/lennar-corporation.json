@@ -1,0 +1,263 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Lennar is a high-value archive addition because it deepens the direct homebuilder layer rather than stopping with upstream materials, building-products distribution, paint, home-improvement retail, or multifamily ownership.",
+      "AnnualReports.com still lagged at `2024` as of `2026-08-09`, but Lennar's official investor-relations site already exposed the `2025` annual report and the full in-scope quarter chain.",
+      "The annual report shows the scale clearly. Lennar said homebuilding generated about `$32 billion`, or roughly `94%` of consolidated revenue, in fiscal `2025`; total deliveries including unconsolidated entities were `82,583` homes; and average sales price was about `$391,000`.",
+      "The platform is broader than pure home sales. Lennar pairs national homebuilding scale with mortgage, title, and closing services, multifamily development, funds and joint ventures, and technology investments.",
+      "The important operating signal is strategic, not only cyclical: the company repeatedly frames its response around affordability execution, dynamic pricing, standard plans, technology-enabled throughput, land-light capital structure, and integrated financial capture."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/residential-construction/lennar-corporation/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Lennar belongs in `Industrial Goods` because it is the direct residential-construction operator in the shelter chain rather than only a consumer-facing retailer or a property owner.",
+    "packet_path": "extracted/industrial-goods/residential-construction/lennar-corporation/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q2 `2026` net earnings attributable to Lennar were `$305 million`, or diluted EPS of `$1.24`; total revenues were `$7.9 billion`; new orders declined `4%` year over year to `21,749` homes; deliveries increased `2%` to `20,519` homes; backlog was `16,818` homes with value of `$6.6 billion`; and homebuilding operating earnings were `$489 million`.",
+      "Operating posture: management described a market still defined by elevated mortgage rates, affordability pressure, and cautious consumer sentiment while continuing to emphasize a volume-first, affordability-sensitive operating model.",
+      "Structural themes: this quarter matters because Lennar is not waiting for macro repair. It is using approximately `12.9%` incentives, lower costs, faster cycle times, and an asset-light posture with less than `5%` of land on balance sheet to defend closings and turn inventory more quickly.",
+      "Results: Q1 `2026` net earnings attributable to Lennar were `$229 million`, or diluted EPS of `$0.93`; total revenues were `$6.6 billion`; new orders increased `1%` year over year to `18,515` homes; deliveries decreased `5%` to `16,863` homes; backlog was `15,588` homes with value of `$6.0 billion`; and homebuilding operating earnings were `$373 million`.",
+      "Operating posture: management said the quarter was shaped by high mortgage rates, constrained affordability, cautious consumer sentiment, and geopolitical uncertainty, while maintaining a production-first strategy.",
+      "Structural themes: this quarter is the cleanest read on the internal Lennar logic entering `2026`. The company said average sales price was `$374,000`, incentives were about `14%`, gross margin was `15.2%`, SG&A was `9.8%`, cycle time improved to `122` days, and inventory turn rose to `2.5x`, all tied directly to a land-light and volume-prioritized model."
+    ],
+    "signal_takeaways": [
+      "Sector: Lennar belongs in `Industrial Goods` because it is the direct residential-construction operator in the shelter chain rather than only a consumer-facing retailer or a property owner.",
+      "Consumer: this is one of the clearest consumer-adjacent industrial packets because earnings are directly shaped by mortgage rates, affordability, incentives, and buyer sentiment.",
+      "Cultural: the packet is a strong read on how homeownership is being engineered under pressure. Lennar keeps describing shelter access through incentives, lower prices, standardized product, financing capture, and operating efficiency rather than through broad demand strength.",
+      "Capital structure: the distinctive Lennar signal is the land-light or asset-light model, where land exposure, inventory turns, and balance-sheet intensity are being actively redesigned as part of the affordability response.",
+      "Cross-company positioning: Lennar is especially useful next to D.R. Horton, Builders FirstSource, West Fraser, Sherwin-Williams, Lowe's, Home Depot, and AvalonBay because it strengthens the direct builder comparison and shows how the shelter chain behaves at the actual construction-and-closing layer."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Lennar Corporation",
+  "company_slug": "lennar-corporation",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/lennar-corporation.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Residential Construction",
+  "local_artifacts": [
+    "extracted/industrial-goods/residential-construction/lennar-corporation/company-packet.md",
+    "extracted/industrial-goods/residential-construction/lennar-corporation/company-profile.md",
+    "extracted/industrial-goods/residential-construction/lennar-corporation/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/lennar-corporation.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "LEN"
+}

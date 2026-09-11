@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "T. Rowe Price is the clearest asset-management read added to the workspace so far: end-of-period AUM, average AUM, net flows, effective fee rate, product mix, and distribution channel all matter directly to earnings.",
+      "The annual-report source chain is asymmetric: official T. Rowe Price IR already exposes the `2025` annual report, but AnnualReports still lagged at `2024` on `2026-08-09`, and the official PDF binary still could not be pulled to disk from this machine.",
+      "The `2025` annual report shows record ending AUM of `$1.78 trillion` and average AUM of `$1.677 trillion`, but those headline asset levels coexisted with `-$56.9 billion` of net outflows.",
+      "Total revenue reached `$7.31 billion`, investment advisory revenue reached `$6.60 billion`, GAAP diluted EPS was `$9.24`, and adjusted EPS was `$9.72`.",
+      "The most important structural pressure in the annual materials is fee compression. Effective fee rate dropped to `39.4` basis points from `41.0` basis points because clients kept shifting toward lower-priced vehicles and strategies.",
+      "Management\u2019s growth answer is not only market appreciation. It is product and channel repositioning: fixed income, multi-asset, ETFs, alternatives, retirement, separately managed accounts, and partnerships such as the Goldman Sachs alliance."
+    ],
+    "damodaran_questions": [
+      "Use when the question is whether an investor has a durable source of edge and a style they can actually live with.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/financial/asset-management/t-rowe-price-group-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: T. Rowe Price adds a different financial model centered on AUM economics, flows, fee rates, performance persistence, retirement distribution, and product migration.",
+    "packet_path": "extracted/financial/asset-management/t-rowe-price-group-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: net revenues of about `$1.9 billion`; adjusted diluted EPS of `$2.57`.",
+      "Cost and mix detail: administrative, distribution, servicing, and other fees were `$144.2 million`; adjusted operating expenses were `$1.203 billion`.",
+      "Operating tension: earnings improved, but the quarter still reflected the same basic sector tension as the annual report, namely fee-rate pressure and ongoing net outflows alongside higher market-driven AUM.",
+      "What to watch: how much of recent earnings strength depends on markets staying high versus better flow quality or richer product mix.",
+      "Results: AUM of `$1.71 trillion`, net flows of `-$13.7 billion`, GAAP net revenues of `$1.857 billion`, GAAP diluted EPS of `$2.23`, and adjusted diluted EPS of `$2.52`.",
+      "Fee and flow signal: effective fee rate with performance fees was `38.6` basis points, down from `39.2` basis points in `4Q25`, reinforcing that product mix remains a live earnings headwind."
+    ],
+    "signal_takeaways": [
+      "Sector: T. Rowe Price adds a different financial model centered on AUM economics, flows, fee rates, performance persistence, retirement distribution, and product migration.",
+      "Consumer and institutional behavior: this evidence set is a clean read on where savings and retirement dollars are moving, especially away from higher-fee legacy mutual-fund structures.",
+      "Culture and business model: the asset manager\u2019s problem is not raw demand absence. It is how investors want to hold exposures and how much they are willing to pay for active management.",
+      "Technology: technology matters here mostly as modernization, operating leverage, and distribution enablement rather than as the main topline narrative.",
+      "Competition: public/private product design, ETFs, alternatives, model portfolios, and wealth distribution are all active competitive battlegrounds."
+    ],
+    "strategy_framework_checks": [
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "T. Rowe Price Group, Inc.",
+  "company_slug": "t-rowe-price-group-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the question is whether an investor has a durable source of edge and a style they can actually live with.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::hurdle-rates",
+          "title": "Hurdle rates"
+        }
+      ],
+      "use_case": "choose-investing-philosophy"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/t-rowe-price-group-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NASDAQ",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Asset Management",
+  "local_artifacts": [
+    "extracted/financial/asset-management/t-rowe-price-group-inc/company-packet.md",
+    "extracted/financial/asset-management/t-rowe-price-group-inc/company-profile.md",
+    "extracted/financial/asset-management/t-rowe-price-group-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/t-rowe-price-group-inc.html",
+  "sector": "Financial",
+  "template_role": "",
+  "ticker": "TROW"
+}

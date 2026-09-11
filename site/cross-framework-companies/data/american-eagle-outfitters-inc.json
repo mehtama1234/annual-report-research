@@ -1,0 +1,263 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "American Eagle Outfitters is a high-value archive addition because it gives the apparel track a teen-and-young-adult branded retailer that is not a clean winner. The useful story is the internal split between a stronger Aerie growth engine and a weaker or mixed core American Eagle banner.",
+      "AnnualReports.com was current here. On Monday, August 10, 2026, it showed `2025 Annual Report and Form 10K`, matching the live filing chain.",
+      "The annual and year-end materials show a company that returned to topline growth in fiscal `2025`, but not with balanced brand strength. Fiscal `2025` net revenue reached about `$5.5B`, up `3%`, and comparable sales increased `3%`, with Aerie comparable sales up `9%` while American Eagle was flat.",
+      "The strategic point is that this is increasingly an Aerie-led portfolio rather than a single cohesive youth-apparel story. That makes the packet especially useful next to `Gap Inc.`, `Levi Strauss & Co.`, `lululemon athletica inc.`, `Ross Stores, Inc.`, and `Kohl's Corporation`."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/services/apparel-stores/american-eagle-outfitters-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: American Eagle strengthens `Services` with another retail-like apparel case that AnnualReports places under `Services / Apparel Stores` rather than under `Consumer Goods`.",
+    "packet_path": "extracted/services/apparel-stores/american-eagle-outfitters-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q1 `2026` total net revenue was about `$1.2B`, up `10%`; total comparable sales were up `8%`; gross profit was `$456M`; gross margin was `38.2%`; operating income was about `$28M`; and diluted EPS was `$0.14`.",
+      "Operating posture: Aerie comparable sales increased `25%`, American Eagle comparable sales decreased `2%`, digital revenue increased `15%`, and store revenue increased `8%`.",
+      "Structural themes: this quarter matters because it makes the brand split impossible to miss. Aerie is carrying the growth and cultural relevance side of the portfolio, while the core American Eagle brand remains weaker. The quarter also lapped a weak prior-year period that included a major spring and summer inventory write-down.",
+      "Results: Q4 `2025` total revenue increased `10%` to a record `$1.8B`, total comparable sales increased `8%`, gross profit was `$651M`, gross margin was `37.0%`, GAAP operating profit was `$96M`, and GAAP diluted EPS was `$0.50`.",
+      "Operating posture: Aerie comparable sales increased `23%`, American Eagle comparable sales increased `2%`, and the company returned `$341M` to shareholders in fiscal `2025` through buybacks and dividends.",
+      "Structural themes: this is the anchor quarter for the packet because it closes the year with strong holiday momentum and shows the full shape of the portfolio: Aerie is the real growth engine, while American Eagle improved but still looked much less dynamic."
+    ],
+    "signal_takeaways": [
+      "Sector: American Eagle strengthens `Services` with another retail-like apparel case that AnnualReports places under `Services / Apparel Stores` rather than under `Consumer Goods`.",
+      "Consumer: this is a useful read on a consumer who is still spending on trend-right, identity-linked, and comfort-led apparel, but not evenly across brand positions or mall-based banners.",
+      "Cultural: Aerie matters because it appears to hold more current cultural relevance around intimacy, comfort, and lifestyle positioning, while the main American Eagle brand reads as more exposed to a weaker teen-apparel middle.",
+      "Channel and interface: American Eagle Outfitters is not mainly a pure digital-moat story. The core issue is brand relationship quality and product relevance across stores and digital, with the portfolio increasingly dependent on one sub-brand doing more of the cultural and commercial work.",
+      "Business model: the important signal is that a multi-brand apparel portfolio can grow again while still becoming more internally unbalanced. That can support results in the short run, but it raises the question of whether one sub-brand is becoming too responsible for the company-level story.",
+      "Competitive positioning: American Eagle is most useful next to `Gap Inc.`, `Levi Strauss & Co.`, `lululemon athletica inc.`, `Ross Stores, Inc.`, and `Kohl's Corporation`. It is cleaner than Gap in the sense that the split is more binary, but structurally weaker than Levi or lululemon and less traffic-advantaged than Ross."
+    ],
+    "strategy_framework_checks": [
+      "Use when industry returns depend on whether capital is entering or leaving the sector.",
+      "Use when the central question is what operating future is already embedded in the current market narrative.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "American Eagle Outfitters, Inc.",
+  "company_slug": "american-eagle-outfitters-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/american-eagle-outfitters-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Apparel Stores",
+  "local_artifacts": [
+    "extracted/services/apparel-stores/american-eagle-outfitters-inc/company-packet.md",
+    "extracted/services/apparel-stores/american-eagle-outfitters-inc/company-profile.md",
+    "extracted/services/apparel-stores/american-eagle-outfitters-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/american-eagle-outfitters-inc.html",
+  "sector": "Services",
+  "template_role": "",
+  "ticker": "AEO"
+}

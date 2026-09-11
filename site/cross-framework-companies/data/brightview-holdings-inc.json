@@ -1,0 +1,264 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "BrightView is the right next Industrial Goods name because it closes the archive's remaining direct `the-immigration-squeeze` gap. The company is not merely labor-intensive. Its `2025` `10-K` explicitly says it has historically used, and expects to continue using, the U.S. `H-2B` temporary non-immigrant visa program to satisfy part of its seasonal labor needs in certain markets.",
+      "The annual filing gives hard labor numbers. As of `2025-09-30`, BrightView had about `18,600` employees including seasonal workers, and it employed approximately `1,500` seasonal workers through the program in `2025` versus `2,000` in `2024`.",
+      "BrightView also broadens the industrial archive into recurring outdoor-site operations. For fiscal `2025`, total net service revenues were `$2.67 billion`, with `$1.89 billion` from Maintenance Services and `$789.1 million` from Development Services.",
+      "Fiscal `2025` profitability was real but not huge. Net income was `$56.0 million`. Maintenance Services generated segment adjusted EBITDA of `$245.5 million` and Development Services generated `$106.8 million`.",
+      "The operating model matters as much as the numbers. BrightView is a national commercial-landscaping operator serving campuses, office properties, hotels, airports, municipalities, hospitals, schools, restaurants, retail, and golf courses. That makes it a recurring physical-services and property-upkeep business, not just a construction or lawn-care niche."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/industrial-goods/business-services/brightview-holdings-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: BrightView broadens Industrial Goods beyond machinery, electrification hardware, defense, rail, waste, outsourced facilities infrastructure, and skilled-trades contracting into recurring property and landscape operations.",
+    "packet_path": "extracted/industrial-goods/business-services/brightview-holdings-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q3 FY2026 net service revenues increased to `$717.6 million`, and net income was `$6.1 million`.",
+      "Demand and operating indicators: maintenance-services revenue increased `1.8%`, commercial landscaping services increased `2.3%`, and development-services revenue was roughly flat year over year.",
+      "Management message: the live IR release title and search snippet framed the quarter as `second consecutive quarter of land maintenance revenue growth`.",
+      "Structural themes: Q3 FY2026 shows the current BrightView shape clearly. The stable engine is recurring land maintenance, while margin quality is still exposed to fuel, self-insurance, and labor-heavy field execution.",
+      "Results: Q2 FY2026 net service revenues increased to `$702.9 million`, and net income was `$1.7 million`.",
+      "Demand and operating indicators: maintenance-services revenue increased `12.5%`, driven by stronger snow removal and modest commercial-landscaping growth, while development-services revenue decreased `13.0%`."
+    ],
+    "signal_takeaways": [
+      "Sector: BrightView broadens Industrial Goods beyond machinery, electrification hardware, defense, rail, waste, outsourced facilities infrastructure, and skilled-trades contracting into recurring property and landscape operations.",
+      "Immigration and labor: this is the archive's cleanest direct `the-immigration-squeeze` operator because the filings explicitly connect part of the seasonal labor base to the `H-2B` visa program.",
+      "Services versus projects: BrightView is analytically useful because it spans both recurring maintenance and project-oriented development. That lets the archive separate durable site-upkeep revenue from more cyclical construction-adjacent work.",
+      "Commercial real-world demand: the company sits inside the ordinary physical upkeep of campuses, hospitals, hotels, municipal properties, retail, and office sites. That makes it a read on the hidden labor and operating systems required to keep commercial property functional and presentable.",
+      "Margin structure: BrightView also shows that labor availability is not the only issue. Fuel, self-insurance, snowfall, ancillary services, development timing, and sales-force investment all shape earnings quality.",
+      "Cultural and institutional context: landscaping can look discretionary from a distance, but the company's own description of maintenance revenue emphasizes recurring and often non-discretionary site services. That makes BrightView a useful bridge between industrial operations, outsourced property infrastructure, and daily-life commercial maintenance."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "BrightView Holdings, Inc.",
+  "company_slug": "brightview-holdings-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/brightview-holdings-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Business Services",
+  "local_artifacts": [
+    "extracted/industrial-goods/business-services/brightview-holdings-inc/company-packet.md",
+    "extracted/industrial-goods/business-services/brightview-holdings-inc/company-profile.md",
+    "extracted/industrial-goods/business-services/brightview-holdings-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-liquidity-before-solvency",
+      "source": "https://www.lynalden.com/newsletter-archives/",
+      "title": "Liquidity before solvency",
+      "when_to_use": "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/brightview-holdings-inc.html",
+  "sector": "Industrial Goods",
+  "template_role": "",
+  "ticker": "BV"
+}

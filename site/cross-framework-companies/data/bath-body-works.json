@@ -1,0 +1,269 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "Bath & Body Works is a useful archive addition because it gives Retail a weaker and more repair-oriented specialty retail case instead of another winner with obvious structural advantages.",
+      "The local packet is filing-backed through the official annual report PDF, the `10-K`, and the full `Q3 2025` through `Q1 2026` SEC chain. Official IR pages were verified and current, even though direct scripted capture of the quarter release HTML timed out in this environment.",
+      "The `2025` annual filing shows a brand with real scale but clear pressure. Full-year net sales were `$7.291B`, down `0.2%`; operating income was `$1.126B`, down `11%`; reported net income was `$649M`; and reported diluted EPS was `$3.11`.",
+      "The more important structural point is that management is explicitly repositioning the business through the `Consumer First Formula`, a multi-year transformation launched in `Q3 2025` around disruptive product, brand reignition, broader marketplace reach, and operating speed.",
+      "Bath & Body Works also matters because it still has meaningful direct-relationship assets: `1,927` company-operated stores in the U.S. and Canada, `573` international stores, `34` international e-commerce sites, an Amazon presence, and `40 million` active loyalty members."
+    ],
+    "damodaran_questions": [
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/retail/specialty-retail-other/bath-body-works/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: Bath & Body Works gives Retail a real middle-position specialty chain rather than another ecosystem or brand-superpower case.",
+    "packet_path": "extracted/retail/specialty-retail-other/bath-body-works/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: Q1 `2026` net sales were `$1.378B`, down `3%`; operating income was `$231M`; net income was `$183M`; reported EPS was `$0.90`; and adjusted EPS was `$0.32`.",
+      "Operating posture: the `10-Q` shows stores-and-direct pressure in the core North American business, with stores at `$1.062B` versus `$1.110B` a year earlier and direct at `$246M` versus `$250M`, partly offset by international and other growth to `$70M`.",
+      "Structural themes: this quarter matters because it is not a clean recovery. Reported earnings improved, but much of that came from an `$88M` pre-tax interchange-fee settlement benefit while sales were still down and adjusted earnings remained modest.",
+      "Results: Q4 `2025` net sales were `$2.724B`, down `2%`; EPS was `$1.99`; operating income was `$599M`; and net income was `$403M`.",
+      "Operating posture: the quarter closed a softer year rather than reversing it. Management framed the period around innovation, brand elevation, and progress against the Consumer First Formula rather than obvious demand acceleration.",
+      "Structural themes: this is the key quarter for the packet because it closes the `2025` year with a full retail-holiday read. Bath & Body Works still has large seasonal power, but it was not enough to stop the broader slowdown."
+    ],
+    "signal_takeaways": [
+      "Sector: Bath & Body Works gives Retail a real middle-position specialty chain rather than another ecosystem or brand-superpower case.",
+      "Consumer: this is a direct read on discretionary, giftable, fragrance-led spending where product novelty, average order size, and repeat purchase behavior matter more than pure essentials demand.",
+      "Cultural: the business is trying to reclaim cultural relevance, not just run promotions harder. That makes it useful for understanding when an established specialty retailer has to rebuild emotional and generational relevance.",
+      "Relationship and loyalty: the `40 million` active-member loyalty base matters, but the filings show that a big membership file alone does not guarantee growth if product, brand, and marketplace execution weaken.",
+      "Channel structure: Bath & Body Works is also a good omnichannel and marketplace case. It still depends heavily on physical stores, but direct, international, and wholesale-style expansion all matter to the future model.",
+      "Competitive positioning: this is the archive\u2019s cleaner weaker-brand-led retail counterweight to Nike. Nike has unusual global brand power; Bath & Body Works shows what specialty brand retail looks like when it still has real scale and loyalty but needs reinvention."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base.",
+      "Use when industry returns depend on whether capital is entering or leaving the sector."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "Bath & Body Works, Inc.",
+  "company_slug": "bath-body-works",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    },
+    {
+      "description": "Use when management must decide whether an investment, project, or policy increases business value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        }
+      ],
+      "use_case": "set-corporate-finance-decision-rule"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/bath-body-works.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Specialty Retail, Other",
+  "local_artifacts": [
+    "extracted/retail/specialty-retail-other/bath-body-works/company-packet.md",
+    "extracted/retail/specialty-retail-other/bath-body-works/company-profile.md",
+    "extracted/retail/specialty-retail-other/bath-body-works/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-reshoring-and-capital-intensity",
+      "source": "https://www.lynalden.com/reshoring/",
+      "title": "Reshoring and capital intensity",
+      "when_to_use": "Use when local production, redundant supply chains, higher cost of capital, or physical capacity expansion drive economics."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "quality-moat-reinvestment-runway",
+      "title": "Quality, moat, and reinvestment runway",
+      "when_to_use": "Use when durability depends on customer habit, brand trust, switching costs, scale, or an installed base."
+    },
+    {
+      "id": "capital-cycle-analysis",
+      "title": "Capital-cycle analysis",
+      "when_to_use": "Use when industry returns depend on whether capital is entering or leaving the sector."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/bath-body-works.html",
+  "sector": "Retail",
+  "template_role": "",
+  "ticker": "BBWI"
+}

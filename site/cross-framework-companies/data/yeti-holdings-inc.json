@@ -1,0 +1,265 @@
+{
+  "analysis_stack": {
+    "annual_report_takeaways": [
+      "YETI is a strong blind-spot fit because `Consumer Goods / --None--` is almost an admission that the source taxonomy does not know what to do with the company. The annual and trailing-quarter materials show a premium outdoor-utility, gear-attachment, and DTC-control system built around brand-led functional products rather than a plain sporting-goods shelf label.",
+      "AnnualReports.com still lagged here. On `2026-08-10`, the saved company page still showed `2024 Annual Report and Form 10K`, so the usable current annual anchor had to come from the official `2025` annual-report PDF, the fiscal `2025` SEC filing chain, and official-site verification.",
+      "Full-year `2025` sales were `$1.8685B`, net income was `$165.4M`, and operating income was `$213.6M`.",
+      "The full-year `2025` release also said `DTC` channel sales increased `4%` to `$1.1278B`, wholesale channel sales decreased slightly to `$740.7M`, and international sales increased `16%` to `$394.4M`.",
+      "The `10-K` makes the relationship layer explicit. It says the company sells through its websites, `YETI Authorized` on the Amazon Marketplace, retail stores, and a corporate sales program, while `DTC` already represented `60%` of `2025` net sales.",
+      "The annual-plus-quarter chain therefore reads less like an ordinary hardgoods manufacturer and more like a premium utility brand where outdoor identity, gifting, direct relationship ownership, and product-led cultural attachment all reinforce the economics."
+    ],
+    "damodaran_questions": [
+      "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns."
+    ],
+    "lyn_macro_liquidity_checks": [
+      "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth.",
+      "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples.",
+      "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    ],
+    "next_evidence_work": [
+      "Start from extracted/consumer-goods/sporting-goods/yeti-holdings-inc/company-packet.md and reconcile it to the company roster row.",
+      "Read the latest annual report and last three quarterly materials before making a valuation claim.",
+      "Extract the exact metric, period, and source path for each business-model or margin claim.",
+      "Write the disconfirming test that would weaken the current thesis in the next filing window."
+    ],
+    "operating_model_read": "Sector: YETI technically strengthens Consumer Goods, but the better read is as a premium outdoor-utility and channel-control interface that source taxonomy flattens into `--None--`.",
+    "packet_path": "extracted/consumer-goods/sporting-goods/yeti-holdings-inc/company-packet.md",
+    "quarterly_takeaways": [
+      "Results: `Q1 2026` sales were `$380.4M`, net income was `$9.9M`, and adjusted net income was `$19.8M`.",
+      "Channel and category posture: wholesale channel sales increased `19%` to `$183.6M`, `DTC` channel sales were flat at `$196.8M`, Coolers & Equipment sales increased `11%` to `$156.1M`, and Drinkware sales increased `5%` to `$216.9M`.",
+      "Geographic and guidance posture: US sales increased `8%` to `$293.1M`, international sales increased `9%` to `$87.3M`, the lower end of full-year `2026` sales growth guidance was raised to `7%` to `8%`, adjusted operating income margin guidance was raised to about `14.6%`, and EPS guidance was raised to `$2.83` to `$2.89`.",
+      "Structural themes: this quarter matters because it shows a real hybrid control model. Consumer demand across websites, Amazon Marketplace, and YETI retail remained strong, but the mix still shifted visibly between `DTC`, wholesale, and corporate sales.",
+      "Margin nuance: profitability was pressured by incremental tariffs even as the topline stayed strong, which is exactly the kind of operating tension a premium physical-goods brand has to manage.",
+      "Results: `Q4 2025` sales were `$583.7M`, net income was `$58.2M`, and adjusted net income was `$71.8M`."
+    ],
+    "signal_takeaways": [
+      "Sector: YETI technically strengthens Consumer Goods, but the better read is as a premium outdoor-utility and channel-control interface that source taxonomy flattens into `--None--`.",
+      "Consumer: the demand system is built on product reliability, premium utility, outdoor and lifestyle attachment, gifting, and strong willingness to pay for products that signal durability and design quality.",
+      "Cultural: this is one of the archive's clearer proofs that a physical hardgoods brand can become an identity system even without being fashion-first, app-first, or membership-first.",
+      "Societal: the packet reflects a broader willingness to attach identity and aspiration to practical equipment, not just apparel, beauty, or digital participation.",
+      "Operating model: the important move is not just that `DTC` is larger than wholesale. It is that YETI controls multiple direct surfaces at once, including its own sites, retail stores, Amazon Marketplace presence, and corporate-sales layer.",
+      "Competitive positioning: YETI is most useful next to `Crocs`, `Levi Strauss`, `Deckers`, `Nike`, `Birkenstock`, and `Amazon`, not only next to plain sporting-goods or equipment issuers."
+    ],
+    "strategy_framework_checks": [
+      "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden.",
+      "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
+      "Use when the central question is what operating future is already embedded in the current market narrative."
+    ],
+    "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
+  },
+  "analysis_status": "packet-backed",
+  "company_name": "YETI Holdings, Inc.",
+  "company_slug": "yeti-holdings-inc",
+  "coverage_status": "in-progress",
+  "damodaran_routes": [
+    {
+      "description": "Use when control changes, deal premiums, synergy claims, or governance choices affect value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::debt-equity-tradeoff",
+          "title": "Debt-equity tradeoff"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::side-costs-and-side-benefits",
+          "title": "Side costs and side benefits"
+        },
+        {
+          "course": "investment-philosophies-2026",
+          "id": "investment-philosophies-2026::active-vs-passive-and-the-control-fantasy",
+          "title": "Active vs Passive and the Control Fantasy"
+        }
+      ],
+      "use_case": "evaluate-control-synergy-and-acquisitions"
+    },
+    {
+      "description": "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        }
+      ],
+      "use_case": "separate-value-price-and-story"
+    },
+    {
+      "description": "Use when a company story must be translated into cash flows, discount rates, growth, and terminal value.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "build-or-audit-dcf"
+    },
+    {
+      "description": "Use when growth claims need to be reconciled with reinvestment needs, margins, and economic returns.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::corporate-governance",
+          "title": "Corporate governance"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-equity",
+          "title": "Cost of equity"
+        }
+      ],
+      "use_case": "test-growth-reinvestment-and-margins"
+    },
+    {
+      "description": "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
+      "sample_methods": [
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::apv-and-peer-group-financing",
+          "title": "APV and peer group financing approaches"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::bottom-up-betas",
+          "title": "Bottom-up betas"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cash-return-policy",
+          "title": "Cash return policy"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-capital-optimization",
+          "title": "Cost of capital optimization"
+        },
+        {
+          "course": "corporate-finance-spring-2025",
+          "id": "corporate-finance-spring-2025::cost-of-debt",
+          "title": "Cost of debt"
+        }
+      ],
+      "use_case": "estimate-risk-and-hurdle-rate"
+    }
+  ],
+  "data": "site/cross-framework-companies/data/yeti-holdings-inc.json",
+  "deep_exemplar": false,
+  "exchange": "NYSE",
+  "has_detailed_first_principles_packet": false,
+  "industry": "Sporting Goods",
+  "local_artifacts": [
+    "extracted/consumer-goods/sporting-goods/yeti-holdings-inc/company-packet.md",
+    "extracted/consumer-goods/sporting-goods/yeti-holdings-inc/company-profile.md",
+    "extracted/consumer-goods/sporting-goods/yeti-holdings-inc/source-ledger.md"
+  ],
+  "lyn_alden_routes": [
+    {
+      "id": "lyn-energy-and-commodity-underinvestment",
+      "source": "https://www.lynalden.com/august-2022-newsletter/",
+      "title": "Energy and commodity underinvestment",
+      "when_to_use": "Use when physical supply, energy availability, commodity cycles, or years of underinvestment shape margins and growth."
+    },
+    {
+      "id": "lyn-fiscal-dominance-and-deficit-liquidity",
+      "source": "https://www.lynalden.com/fiscal-and-monetary-policy/",
+      "title": "Fiscal dominance and deficit liquidity",
+      "when_to_use": "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
+    },
+    {
+      "id": "lyn-long-duration-fiat-claim-risk",
+      "source": "https://www.lynalden.com/june-2026-newsletter/",
+      "title": "Long-duration fiat claim risk",
+      "when_to_use": "Use when the business owns or issues long-duration nominal claims that are sensitive to inflation, repression, or rate volatility."
+    }
+  ],
+  "other_framework_routes": [
+    {
+      "id": "buffett-owner-earnings",
+      "title": "Owner earnings and cash conversion",
+      "when_to_use": "Use when reported earnings and cash available to owners may diverge because of maintenance capex, working capital, or reinvestment burden."
+    },
+    {
+      "id": "porter-industry-structure",
+      "title": "Industry structure and bargaining power",
+      "when_to_use": "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity."
+    },
+    {
+      "id": "mauboussin-expectations-investing",
+      "title": "Expectations investing",
+      "when_to_use": "Use when the central question is what operating future is already embedded in the current market narrative."
+    }
+  ],
+  "page": "site/cross-framework-companies/companies/yeti-holdings-inc.html",
+  "sector": "Consumer Goods",
+  "template_role": "",
+  "ticker": "YETI"
+}

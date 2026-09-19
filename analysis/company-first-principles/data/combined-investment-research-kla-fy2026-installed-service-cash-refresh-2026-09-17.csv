@@ -1,0 +1,23 @@
+period,metric,value,unit,interpretation,source
+FY2026,operating cash flow,4143.079,USD millions,reported OCF,2026 10-K
+FY2026,capital expenditures,375.945,USD millions,visible reinvestment,2026 10-K
+FY2026,reported free cash flow,3767.134,USD millions,OCF less capex,2026 10-K
+FY2026,dividends and equivalents,1057.832,USD millions,capital return,2026 10-K
+FY2026,common-stock repurchases,2289.769,USD millions,capital return,2026 10-K
+FY2026,residual after listed capital returns,419.533,USD millions,stress screen not owner cash,calculated
+FY2026,service revenue share,23,percent,installed-base recurring signal,2026 10-K
+FY2026,international revenue share,87,percent,geographic exposure,2026 10-K
+June 30 2026,accounts receivable,2889.208,USD millions,collection exposure,2026 10-K
+June 30 2026,contract assets,131.673,USD millions,unconditional-right timing exposure,2026 10-K
+FY2026,receivables sold under factoring,515.480,USD millions,liquidity and collection control,2026 10-K
+June 30 2026,deferred system revenue,932.901,USD millions,customer-funded performance obligation,2026 10-K
+June 30 2026,deferred service revenue,604.127,USD millions,customer-funded performance obligation,2026 10-K
+FY2026,largest-customer revenue concentration,19,percent,customer concentration,2026 10-K
+June 30 2026,purchase commitments,5970,USD millions,supplier/liquidity claim,2026 10-K
+FY2026,research and development expense,1532.118,USD millions,economic reinvestment,2026 10-K
+June 30 2026,long-term debt,5887.415,USD millions,senior claim,2026 10-K
+June 30 2026,cash cash equivalents and marketable securities,4902.408,USD millions,liquidity,2026 10-K
+FY2026,stock-based compensation expense,310.171,USD millions,owner claim and dilution input,2026 10-K
+2030 management scenario,revenue target midpoint,26000,USD millions ±2500,Damodaran expectation input; not reported cash,2026 Investor Day
+2030 management scenario,Services revenue CAGR,13-15,percent,management expectation; not installed-base proof,2026 Investor Day
+2030 management scenario,capital return target,more than 90,percent of FCF,management capital-allocation target; not distributable owner cash,2026 Investor Day

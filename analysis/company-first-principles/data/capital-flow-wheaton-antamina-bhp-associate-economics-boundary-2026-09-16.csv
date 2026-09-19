@@ -1,0 +1,7 @@
+evidence_id,entity,period,metric,basis,amount_usd_m,source_artifact,interpretation,remaining_gap
+BAE-001,Compania Minera Antamina S.A.,FY2026,revenue,Antamina 100%,$7473,raw/primary-sources/capital-flow/bhp/fy2026/bhp-fy2026-20f.htm,Entity-level operator revenue,Not silver-stream revenue or cash receipt
+BAE-002,Compania Minera Antamina S.A.,FY2026,profit,Antamina 100%,$3029,raw/primary-sources/capital-flow/bhp/fy2026/bhp-fy2026-20f.htm,Entity-level operator profit,No silver attribution or stream-level cost allocation
+BAE-003,Compania Minera Antamina S.A.,FY2026,share_of_profit,BHP 33.75% equity-accounted share,$1022,raw/primary-sources/capital-flow/bhp/fy2026/bhp-fy2026-20f.htm,BHP equity-accounted earnings observation,Not BHP metal-credit cash or Wheaton return
+BAE-004,Compania Minera Antamina S.A.,FY2026,net_assets,Antamina 100%,$5531,raw/primary-sources/capital-flow/bhp/fy2026/bhp-fy2026-20f.htm,Operator balance-sheet denominator,No silver-reserve or stream-asset allocation
+BAE-005,Compania Minera Antamina S.A.,FY2026,group_share_net_assets,BHP 33.75% group share,$1867,raw/primary-sources/capital-flow/bhp/fy2026/bhp-fy2026-20f.htm,BHP equity-accounted balance-sheet denominator,Not Wheaton asset carrying value or owner cash
+BAE-006,BHP equity-accounted investments,FY2026,dividends_received,Aggregate equity-accounted investments,$895,raw/primary-sources/capital-flow/bhp/fy2026/bhp-fy2026-20f.htm,Aggregate dividend observation only,Antamina-only dividend recipient and cash date are not identified

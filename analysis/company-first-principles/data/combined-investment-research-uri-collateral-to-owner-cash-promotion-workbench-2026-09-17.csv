@@ -1,0 +1,16 @@
+gate,period,observed_value,status,proves,does_not_prove,next_upgrade
+operating_cash_flow,H1 2026,3305 USD million,observed,reported consolidated operating cash,common-owner cash after all claims,segment/lifecycle allocation
+rental_equipment_purchases,H1 2026,2720 USD million,observed,gross fleet investment,replacement versus growth or maintenance,asset-class purchase schedule
+rental_equipment_sale_proceeds,H1 2026,680 USD million,observed,used-equipment resale recovery,recurring revenue or lifecycle return,age/utilization/realized-margin bridge
+non_rental_reinvestment,H1 2026,165 USD million,observed,non-rental equipment and intangible reinvestment,complete reinvestment burden,project and useful-life schedule
+acquisition_claims,H1 2026,400 USD million acquisitions plus 18 USD million contingent consideration,observed,separate acquisition uses,organic fleet owner cash,source-and-use allocation
+financing_claims,H1 2026,342 USD million interest paid,partial,financing burden inside OCF,facility-specific debt service or payback,principal/interest schedule
+tax_claims,H1 2026,158 USD million income taxes paid,observed,period tax burden inside OCF,asset/lifecycle tax allocation,tax schedule
+cash_screen_ocf_less_rental_capex,H1 2026,585 USD million,diagnostic,mechanical fleet cash screen,normalized owner cash,replacement/growth and senior-claim bridge
+cash_screen_with_resale,H1 2026,1265 USD million,diagnostic,mechanical screen including resale proceeds,recurring cash or lifecycle return,fleet age/utilization/resale bridge
+facility_availability,Q2 2026,"2802 USD million ABL plus 85 USD million AR capacity",facility-availability-visible,reported facility capacity,eligible collateral or free cash,populated borrowing-base certificate
+total_liquidity,Q2 2026,2999 USD million,observed,aggregate liquidity context,unrestricted cash or collateral availability,cash/facility reconciliation and legal availability
+abl_debt,Q2 2026,1666 USD million,observed,facility balance,debt funding of specific purchases or lifecycle return,draw/use schedule
+collateral_components,Q2 2026,"eligible NBV, NOLV, reserves, L/C and U.S./Canadian components not disclosed",missing,identifies certificate gap,legal Combined Availability,certificate or lender collateral report
+lifecycle_return,H1 2026,not calculable,missing,missing return inputs are explicit,IRR/NPV/ROIC,utilization/maintenance/replacement/resale/debt/tax model
+common_owner_residual,H1 2026,not calculable,missing,senior claims and dilution gap explicit,common-owner cash,full residual waterfall

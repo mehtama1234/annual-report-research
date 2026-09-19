@@ -1,0 +1,5 @@
+leg_id,leg,period_or_date,amount_usd,source_or_entity,evidence_status,safe_use,not_proven,source_url
+WABUSB-001,Wheaton Antamina PMPA payment,Q2 2026,4300000000,Wheaton,reported,named acquisition use,executed seller-account wire and exact funds-flow allocation,https://www.sec.gov/Archives/edgar/data/1323404/000127956926000133/ex991.htm
+WABUSB-002,BHP consideration receipt,2026-04-02,4300000000,BHP,reported,named seller receipt amount and date,independent bank confirmation net proceeds taxes fees and wire matching,https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/bhp-20260630.htm
+WABUSB-003,Financing context,Q2 2026,,Wheaton,reported,company-level debt funding context,exact PMPA draw dollars and lender waterfall,https://www.sec.gov/Archives/edgar/data/1323404/000127956926000133/ex991.htm
+WABUSB-004,Operating settlement object,post-close 2026,,BHP and Wheaton,reported,metal-credit settlement mechanism, BHP-PMPA ounces invoice assays realized price and cash collection,https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/bhp-20260630.htm

@@ -29,7 +29,7 @@ Date baseline: 2026-08-10
 - Results: net earnings attributable to Berkshire shareholders were `$25.667B` and operating earnings were `$12.983B`.
 - Capital detail: Berkshire said it repurchased about `$4.5B` of treasury shares in the second quarter and about `$4.8B` in the first six months of `2026`.
 - Strategic read: `2Q26` shows Berkshire at its most distinctive when the market backdrop is noisy. The company does not need a single operating theme because its comparative advantage is capital allocation across unlike businesses with a giant liquidity base.
-- Source note: the saved local quarter artifact is Berkshire's official [2026-q2-quarterly-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/conglomerates/conglomerates/berkshire-hathaway-inc/2026-q2-quarterly-report.pdf); the SEC HTML path for the latest quarter was not cleanly retrievable in this pass.
+- Source note: the saved local quarter artifact is Berkshire's official [2026-q2-quarterly-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/conglomerates/conglomerates/berkshire-hathaway-inc/2026-q2-quarterly-report.pdf), and the SEC HTML filing is now directly available at [2026-q2-10q.html](https://www.sec.gov/Archives/edgar/data/1067983/000119312526341032/brka-20260630.htm).
 
 ### Quarter minus 1: 1Q26
 
@@ -57,6 +57,7 @@ Date baseline: 2026-08-10
 - [2025-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/conglomerates/conglomerates/berkshire-hathaway-inc/2025-q4-earnings-release.pdf)
 - [2026-q1-quarterly-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/conglomerates/conglomerates/berkshire-hathaway-inc/2026-q1-quarterly-report.pdf)
 - [2026-q2-quarterly-report.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/conglomerates/conglomerates/berkshire-hathaway-inc/2026-q2-quarterly-report.pdf)
+- [2026-q2-10q.html](https://www.sec.gov/Archives/edgar/data/1067983/000119312526341032/brka-20260630.htm)
 - [reports-page.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/conglomerates/conglomerates/berkshire-hathaway-inc/reports-page.html)
 
 ## Working interpretation

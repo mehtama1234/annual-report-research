@@ -40,3 +40,10 @@ Date baseline: 2026-08-10
   - `Q1 2026`: results page, earnings-release PDF, earnings-presentation PDF, `10-Q`, and `8-K`
   - `Q4 2025`: results page, earnings-release PDF, earnings-presentation PDF, `10-K`, and `8-K`
 - Cheniere is filed by AnnualReports under a more upstream-sounding taxonomy label, but the packet belongs in this branch's pipeline and infrastructure lane because the economic engine is liquefaction, export, and gas-transport bottleneck control rather than reserve ownership.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/energy/oil-gas-pipelines/cheniere-energy-inc/2025-10k.html) | `a5e26803fa013acebec03f07c77e9801b2ab718c050a5e1df9822f6f392a15df` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/energy/oil-gas-pipelines/cheniere-energy-inc/companyfacts.json) | `684f04fe4f6954f73f43187b2ffc28ce84963e21731c2acd83d59c86282f0fb3` |

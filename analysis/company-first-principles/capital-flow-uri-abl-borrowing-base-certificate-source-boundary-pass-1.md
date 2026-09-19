@@ -75,6 +75,41 @@ The difference is:
 
 `URI's filed ABL agreement does not expose the live Borrowing Base Certificate values, but it proves that a May 31 2025 certificate was delivered to the Agent and Lenders as a closing condition and that closing Combined Availability had to be at least 1.000B USD. The missing certificate should bridge eligible inventory, eligible rental-equipment NBV, eligible rental-equipment NOLV, reserves, revolver outstandings, facility caps, Combined Borrowing Base, Combined Availability, and Suppressed Availability.`
 
+## September 18, 2026 SEC-route recheck
+
+The filed [Fifth Amended and Restated Credit Agreement](https://www.sec.gov/Archives/edgar/data/1047166/000110465925067406/tm2520569d1_ex10-1.htm)
+was rechecked for an attached or populated certificate. It confirms that
+Exhibit A is the form of Borrowing Base Certificate; the agreement defines the
+certificate as a component-by-component calculation of the U.S. and Canadian
+borrowing bases; and it requires quarter-end certificates beginning June 30,
+2025, with additional monthly certificates under the specified availability
+trigger. The agreement also states that the Agent and Lenders received a May
+31, 2025 certificate as a closing condition.
+
+No live Exhibit A values, lender collateral report, or Q2 2026 certificate was
+found in the filed SEC exhibit. This sharpens the acquisition boundary:
+
+`legal certificate regime and closing-delivery fact visible; populated
+certificate remains agent/lender-controlled and URI borrowing-base promotion
+still unproven.`
+
+The local SEC HTML inspection makes the omission more precise. `FORM OF
+BORROWING BASE CERTIFICATE` appears in the agreement's exhibits-and-schedules
+table of contents, but it does not reappear in the body as an attached exhibit;
+the filing proceeds from the agreement and schedules to the signature pages.
+The document therefore proves that Exhibit A is named and incorporated into the
+credit-agreement architecture, not that the exhibit's field layout or any live
+values were filed. This is a searched-negative about the checked SEC exhibit,
+not a claim that the Agent or Lenders do not possess the form or certificates.
+
+The related July 11, 2025 Form 8-K exhibit index narrows the public submission
+perimeter further: it lists only Exhibit 10.1 (the credit agreement), Exhibit
+10.2 (the U.S. security agreement), and Exhibit 10.3 (the Canadian security
+agreement). Neither security-agreement companion contains a Borrowing Base
+Certificate or a populated collateral-availability schedule. Thus there is no
+separate certificate attachment hiding among the related exhibits in this
+submission.
+
 ## Claims Not To Make Yet
 
 Do not say:

@@ -1,0 +1,4 @@
+company,period,net_sales_musd,operating_cash_flow_musd,property_spending_musd,cash_after_property_musd,support_candidate_musd,cash_after_support_musd,ocf_less_50pct_property_musd,inventory_cash_signal_musd,accounts_payable_cash_signal_musd,supplier_finance_obligation_musd,sbc_sensitivity_musd,debt_principal_repayment_musd,stacked_residual_musd,status,missing_upgrade
+TJX,H1 FY2027,29503,3345,1159,2186,750,1436,2765.5,603,470,,85,0,1351,source-bounded-residual,maintenance growth inventory leases taxes seasonality and service allocation
+Target,H1 2026,51982,4519,2404,2115,1364,751,3317,,612,3200,154,1070,-473,source-bounded-residual,maintenance growth inventory supplier-finance leases taxes seasonality and service allocation
+Walmart,H1 FY2027,361784,19710,14181,5529,4548,981,12619,2660,1648,6400,,2303,-1322,source-bounded-residual,maintenance growth inventory supplier-finance leases taxes SBC seasonality and service allocation

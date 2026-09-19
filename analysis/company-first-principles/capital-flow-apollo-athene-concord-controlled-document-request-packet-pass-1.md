@@ -52,7 +52,11 @@ That is enough to justify a decisive document request package. It is not enough 
 
 The row can move beyond proxy only if the documents prove the following:
 
-1. the Series 2025-3 / `20633K-AN-8` tranche terms and CUSIP economics
+1. the Series 2025-3 / `20633K-AN-8` tranche terms and CUSIP economics. The
+   Athene statutory row now supplies a partial answer: `TUNES 2025-3A A`,
+   `6.311%`, `07/20/2075`, and `$225M` par. A controlled offering or indenture
+   is still required for legal class terms, investor allocation, and payment
+   mechanics.
 2. the legal waterfall from royalty collections to noteholders
 3. trustee distributions by series/tranche
 4. Series 2022-1 redemption/payoff cash movement
@@ -60,6 +64,13 @@ The row can move beyond proxy only if the documents prove the following:
 6. Athene trade/allocation/custodian cash movement
 7. Athene liability-cost or credited-rate support
 8. realized spread or return after cost of funds
+
+### Promotion-test status after the exact-CUSIP refresh
+
+The instrument-identity portion of test 1 is now `public-statutory-confirmed`;
+the legal-allocation and settlement portions remain `controlled-document-needed`.
+The remaining seven tests are unchanged. This is an evidence upgrade, not a
+promotion to borrower receipt, legal-entity cash, or asset-level return.
 
 ## Hold Tests
 

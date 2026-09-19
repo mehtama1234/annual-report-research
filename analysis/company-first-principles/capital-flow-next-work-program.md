@@ -87,7 +87,7 @@ Sunvair is the fifth application:
 |---|---|
 | Operating borrower | Ares classifies Sunvair as an aerospace MRO services borrower. |
 | SEC holder rows | ARCC, ASIF, and CADCX disclose Sunvair-related first-lien, revolver, and delayed-draw rows. |
-| Latest visible 2026 holder exposure | `106.3744M USD` of non-duplicate fair value across ARCC Q2 2026, ASIF Q1 2026, and CADCX Q1 2026 rows. |
+| Latest visible 2026 holder exposure | `106.7154M USD` of non-duplicate fair value across ARCC Q2 2026, ASIF Q1 2026, and refreshed CADCX Q2 2026 rows. |
 | Missing proof | No document yet proves total facility size, use of proceeds, full lender group, bank replacement, or whether Q2 2026 was an add-on/amendment. |
 
 MAI Capital is the sixth application:
@@ -140,7 +140,7 @@ Precinmac is now the second application of that method:
 |---|---|
 | Operating borrower | Precinmac serves aerospace, defense, space, semiconductor, and power markets. |
 | SEC holder rows | SDLP and OBDC disclose Precinmac-related first-lien debt rows. |
-| Disclosed holder exposure | `274.884M USD` funded fair value plus `8.372M USD` unfunded commitments in captured rows. |
+| Disclosed holder exposure | Prior FY2024 crosswalk rows show `274.884M USD` fair value plus `8.372M USD` commitments; the current Q2 2026 OBDC schedule separately shows four Paris US Holdco / Precinmac rows totaling `223.821M USD` fair value and `324.270M USD` reported par. These are not additive. |
 | Missing proof | No current document proves a 2026 incremental facility, refinancing, full lender group, or bank replacement. |
 
 Valcourt is now the third application:
@@ -194,7 +194,7 @@ The operating table is:
 
 `analysis/company-first-principles/data/capital-flow-ares-borrower-holder-expansion-pass-1.csv`
 
-It emits `83` normalized rows across AeriTek, Atwell, Frontline Road Safety, MAI Capital, Precinmac, Relation Insurance, Sunvair, Valcourt, and Jiffy Lube / Premium Velocity Auto. The pass preserves holder vehicle, holder-source taxonomy, capital-channel group, borrower name, sector lane, filing period, instrument, funded fair value, unfunded commitment, transaction context, row-to-transaction confidence, facility-size status, bank-replacement status, safe claim, and do-not-claim boundary.
+It emits `95` normalized rows across AeriTek, Atwell, Frontline Road Safety, MAI Capital, Precinmac, Relation Insurance, Sunvair, Valcourt, and Jiffy Lube / Premium Velocity Auto. The pass preserves holder vehicle, holder-source taxonomy, capital-channel group, borrower name, sector lane, filing period, instrument, funded fair value, unfunded commitment, transaction context, row-to-transaction confidence, facility-size status, bank-replacement status, safe claim, and do-not-claim boundary. The refreshed Frontline same-period public breadth view is `$622.824M` of reported fair value plus `$130.796M` of reported commitments, while the controlled lower bound remains `$198.675M`.
 
 The same-period control table is:
 
@@ -219,7 +219,7 @@ The best next move is now:
 
 Use the normalized expansion table to prioritize:
 
-1. Search facility-size and bank-replacement documents for Frontline, Relation, Precinmac, and Valcourt first.
+1. Acquire facility-size and bank-replacement documents for Frontline, Relation, Precinmac, and Valcourt first; broad holder searching is now secondary unless a new filing period appears.
 2. Pull vehicle-level annual reports, prospectuses, and funding notes for public BDC and non-traded/private-credit vehicles.
 3. Refresh Jiffy/PVA holder searches as Q3 2026 BDC and private-credit schedules appear.
 4. Keep bank-replacement language below promotion until a borrower-specific payoff, termination, amendment, or lender-replacement document is captured.

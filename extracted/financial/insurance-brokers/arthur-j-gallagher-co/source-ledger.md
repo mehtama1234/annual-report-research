@@ -35,3 +35,18 @@ Use evidence tags:
 
 - No local Gallagher IR HTML or PDF capture was preserved for the `4Q25`, `1Q26`, or `2Q26` release pages in this workspace.
 - No local prepared remarks or full earnings-call transcript capture was collected for `4Q25`, `1Q26`, or `2Q26`.
+
+## Current-workspace artifact verification
+
+| Artifact | SHA-256 | Use |
+|---|---|---|
+| [Gallagher 2025 Form 10-K](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/insurance-brokers/arthur-j-gallagher-co/2025-10k.html) | `a2fe0864e63cfa5ede50936c866d153ae03f0a5063aeeb661b994aaf427b00ef` | Filed operating, acquisition, goodwill, debt, and cash-flow evidence |
+| [Gallagher companyfacts](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/insurance-brokers/arthur-j-gallagher-co/companyfacts.json) | `4d63033074d3b50107567dc7e5375d7c9d94db490a3ff0d4463503e703dbcf99` | Machine-readable denominator checks |
+| [Gallagher company packet](/home/mehtama1/git-repo/annual-report-research/extracted/financial/insurance-brokers/arthur-j-gallagher-co/company-packet.md) | local packet | Organic-growth and business-model context |
+
+The local filing gives the controlling cash bridge: 2025 operating cash flow
+of $1.930B, capital expenditures of $145M, and cash paid for acquisitions net
+of cash and restricted cash acquired of $15.766B. The $15.766B acquisition
+number is not represented consistently in the FY2025 standard companyfacts
+tags, so the memo treats the filing table as authoritative and the validator
+checks the standard tags that are actually reported.

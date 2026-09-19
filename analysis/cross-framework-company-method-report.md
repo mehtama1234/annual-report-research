@@ -1,6 +1,6 @@
 # Cross-Framework Company Method Report
 
-Updated on: 2026-09-01
+Updated on: 2026-09-15
 
 ## Summary
 
@@ -9,8 +9,8 @@ Updated on: 2026-09-01
 - Company data files: 238
 - Deep exemplar pages: 2
 - Detailed first-principles pages: 2
-- Packet-backed pages: 234
-- Roster-workbench pages: 2
+- Packet-backed pages: 236
+- Roster-workbench pages: 0
 - Damodaran use cases: 12
 - Lyn Alden methods: 6
 - Other framework methods: 6
@@ -42,6 +42,7 @@ Updated on: 2026-09-01
 - `henry-schein-inc`: Henry Schein, Inc. (HSIC)
 - `intuitive-surgical-inc`: Intuitive Surgical, Inc. (ISRG)
 - `accendra-health-inc`: Accendra Health, Inc. (ACH)
+- `astrana-health-inc`: Astrana Health, Inc. (ASTH)
 - `adt-inc`: ADT Inc. (ADT)
 - `the-geo-group`: The GEO Group, Inc. (GEO)
 - `motorola-solutions-inc`: Motorola Solutions, Inc. (MSI)
@@ -53,13 +54,11 @@ Updated on: 2026-09-01
 - `cf-industries-holdings-inc`: CF Industries Holdings, Inc. (CF)
 - `the-sherwin-williams-company`: The Sherwin-Williams Company (SHW)
 - `builders-firstsource-inc`: Builders FirstSource, Inc. (BLDR)
-- `core-main-inc`: Core & Main, Inc. (CNM)
-- ...and 214 more
+- ...and 216 more
 
 ### `roster-workbench`
 
-- `astrana-health-inc`: Astrana Health, Inc. (ASTH)
-- `the-tjx-companies-inc`: The TJX Companies, Inc. (TJX)
+- none
 
 ## Sector Coverage
 

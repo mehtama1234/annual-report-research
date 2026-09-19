@@ -1,0 +1,4 @@
+diagnostic_id,metric,parser_value,control_value,difference,status,boundary
+CFAASBACP2-RECON-001,coordinate-parser-row-count,184,not-applicable,,source-population-visible,Includes CUSIP-bearing and blank-CUSIP Part 2 rows identified by first-column geometry.
+CFAASBACP2-RECON-002,actual_cost_at_time_of_acquisition,6030604899,6030604898,1,control-near-tie,Page-5829 Part 2 subtotal comparison; additions are not treated as year-end assets or owner cash.
+CFAASBACP2-RECON-003,additional_investment_made_after_acquisition,3822866876,3822866876,0,control-near-tie,Page-5829 Part 2 subtotal comparison; additions are not treated as year-end assets or owner cash.

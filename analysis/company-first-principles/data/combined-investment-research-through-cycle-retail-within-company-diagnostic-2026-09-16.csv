@@ -1,0 +1,16 @@
+transition_id,company,prior_period,current_period,real_wage_delta_pct,cash_after_property_delta_musd,direction,result_class,source_artifact
+Q10-RETAIL-WITHIN-001,TJX,FY2021,FY2022,0.7,-1982,opposite,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-002,TJX,FY2022,FY2023,2.5,615,same,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-003,TJX,FY2023,FY2024,0,1708,no-change,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-004,TJX,FY2024,FY2025,0.2,-137,opposite,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-005,TJX,FY2025,FY2026,0.1,719,same,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-006,Target,FY2020,FY2021,-6.1,-2795,same,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-007,Target,FY2021,FY2022,0.7,-6591,opposite,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-008,Target,FY2022,FY2023,0,5325,no-change,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-009,Target,FY2023,FY2024,2.5,661,same,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-010,Target,FY2024,FY2025,0.2,-1641,opposite,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-011,Walmart,FY2021,FY2022,0.7,-14735,opposite,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-012,Walmart,FY2022,FY2023,2.5,909,same,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-013,Walmart,FY2023,FY2024,0,3136,no-change,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-014,Walmart,FY2024,FY2025,0.2,-2460,opposite,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md
+Q10-RETAIL-WITHIN-015,Walmart,FY2025,FY2026,0.1,2263,same,descriptive-mechanism-screen,analysis/company-first-principles/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.md

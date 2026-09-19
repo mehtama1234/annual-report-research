@@ -1,0 +1,17 @@
+row_id,page,source_line,category,collected_during_year,earned_during_year,category_role,current_status,boundary
+P18NII-001,18,1,U.S. Government bonds,268848222,369998994,investment-income-category,source-visible,Category income is not allocated to a CUSIP or borrower receipt
+P18NII-002,18,1.1,Bonds exempt from U.S. tax,,,investment-income-category,source-visible-blank,Blank source cells are preserved and not imputed
+P18NII-003,18,1.2,Other bonds unaffiliated,5948433327,5926174946,investment-income-category,source-visible,Category income is not allocated to a CUSIP or borrower receipt
+P18NII-004,18,1.3,Bonds of affiliates,1910570987,1983603713,investment-income-category,source-visible,Affiliate category is not a parent/common-owner receipt
+P18NII-005,18,2.1,Preferred stocks unaffiliated,101106453,97665347,investment-income-category,source-visible,Category income is not a CUSIP-level cash receipt
+P18NII-006,18,2.11,Preferred stocks of affiliates,8872500,8874066,investment-income-category,source-visible,Affiliate category is not a parent/common-owner receipt
+P18NII-007,18,2.2,Common stocks unaffiliated,82337888,82337888,investment-income-category,source-visible,Category income is not a CUSIP-level cash receipt
+P18NII-008,18,2.21,Common stocks of affiliates,,,investment-income-category,source-visible-blank,Blank source cells are preserved and not imputed
+P18NII-009,18,3,Mortgage loans,4557162846,4736361962,investment-income-category,source-visible,Does not identify borrowers or loan-level repayment
+P18NII-010,18,4,Real estate,37403747,37403747,investment-income-category,source-visible,Does not identify property-level cash flow
+P18NII-011,18,5,Contract loans,5454781,5546260,investment-income-category,source-visible,Does not identify contract counterparties or collections
+P18NII-012,18,6,Cash cash equivalents and short-term investments,424856293,422726432,investment-income-category,source-visible,Does not allocate liquid-asset income to a funding source
+P18NII-013,18,7,Derivative instruments,428994223,458864750,investment-income-category,source-visible,Does not identify contract-level settlement or collateral cash
+P18NII-014,18,8,Other invested assets,-185080219,-132204517,investment-income-category,source-visible-negative,Does not by itself equal Schedule BA loss or cash shortfall
+P18NII-015,18,9,Aggregate write-ins for investment income,12222634,13455016,investment-income-category,source-visible,Write-in detail is summarized separately and is not assigned to a holding
+P18NII-016,18,10,Total gross investment income,13601183683,14010808604,total-control,source-visible-control,Total control for category normalization

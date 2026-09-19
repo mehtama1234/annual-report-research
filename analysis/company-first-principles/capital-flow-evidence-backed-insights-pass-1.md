@@ -30,7 +30,7 @@ The strongest insight is not simply that more private capital exists. The strong
 | ID | Insight | Evidence Backing | Why It Matters | Boundary |
 |---|---|---|---|---|
 | CFEI-001 | The thesis is a capital-routing system, not a single-theme story. | The synthesis, publication register, answer queue, and 519-company template separate source, wrapper, destination, use, output, risk, and claim boundary. | This prevents collapsing the work into vague labels such as private credit, AI infrastructure, bank replacement, or capex. | The full chain is not proven for every company or sector. |
-| CFEI-002 | Private credit reaches named real-economy borrowers, not only abstract asset-manager AUM. | The Ares borrower expansion normalizes `83` holder/source-taxonomized rows across nine borrower cases and adds a `9` row same-period control. | Borrower-level schedules and crosswalks move the evidence from platform-scale to destination proof. | Holder fair value is not total borrower debt or total facility size. |
+| CFEI-002 | Private credit reaches named real-economy borrowers, not only abstract asset-manager AUM. | The Ares borrower expansion normalizes `89` holder/source-taxonomized rows across nine borrower cases and adds a `9` row same-period control. | Borrower-level schedules and crosswalks move the evidence from platform-scale to destination proof. | Holder fair value is not total borrower debt or total facility size. |
 | CFEI-003 | The visible private-credit borrower use case is mixed, not pure growth capex. | The use-of-proceeds pass separates acquisition finance, bank-credit repayment or termination, sponsor buyout competition, continued M&A/consolidation, continued-growth facilities, incremental commitments, and transaction-only leads. | This is the most important correction to an easy but weak thesis. Much of the visible capital may fund ownership transfer, roll-ups, refinancing, or liquidity rather than new productive capacity. | Exact use still needs credit agreements, merger proxies, funds-flow records, rating reports, or capex schedules. |
 | CFEI-004 | Bank replacement is real in selected cases, but broad bank displacement is not proven. | The bank-role pass classifies Auctane/Stamps.com as confirmed bank-facility takeout, Medallia as repayment evidence with incomplete final lender map, Guidehouse as a strong secondary lead, and Atwell as replacement-not-proven after a dedicated resolution bridge. | This gives a sharper claim: private credit can replace banks in specific borrower situations, but banks may remain elsewhere in the stack. | Do not claim banks disappeared from corporate lending or from every borrower relationship. |
 | CFEI-005 | Vehicle-stack and insurance-stack proof upgrade holder/source rows, but they still stop short of ultimate-source allocation. | The vehicle capital-stack pass ties ARCC, FSK, OBDC, GSBD, and GSPCC borrower rows to disclosed assets, debt, equity/net assets, leverage, and asset-coverage context. The insurance asset-quality bridge adds Apollo/Athene, KKR/Global Atlantic, Brookfield, and Blackstone channel/asset-quality proxy evidence. | This is stronger than a holder row or AUM row alone because it shows the balance-sheet or client-capital wrapper behind visible credit exposure. | It does not identify which shareholder, policyholder, noteholder, bank facility, CLO/SPV, SMA, or subscription dollar funded a specific borrower loan. |
@@ -194,7 +194,7 @@ The implication is that the research should not ask one generic question like `w
 
 ### 2. Private Credit Is Destination-Proven, But Not Fully Use-Proven
 
-The private-credit borrower evidence is real. The Ares borrower expansion has `83` normalized holder/source-taxonomized rows across nine borrower cases, plus a `9` row same-period borrower control. It covers borrowers in roadway safety, aerospace MRO, wealth-management consolidation, insurance brokerage, refrigeration/foodservice equipment, precision manufacturing, building maintenance, engineering services, and automotive services.
+The private-credit borrower evidence is real. The Ares borrower expansion has `89` normalized holder/source-taxonomized rows across nine borrower cases, plus a `9` row same-period borrower control. It covers borrowers in roadway safety, aerospace MRO, wealth-management consolidation, insurance brokerage, refrigeration/foodservice equipment, precision manufacturing, building maintenance, engineering services, and automotive services.
 
 That is enough to say private credit reaches named real-economy borrowers.
 
@@ -381,7 +381,7 @@ Use these server pages when walking someone through the findings:
 | Wheaton Antamina net cash-return proxy | `/cluster/capital-flow-wheaton-antamina-net-cash-return-pass-1.md` | Antamina now has a bounded pre-tax, pre-interest net cash-return proxy after depletion plus company-level tax and finance-cost context; Antamina-specific tax, interest, debt service, lender allocation, IRR, and NPV remain open. |
 | Wheaton Antamina cash-return proof stack | `/cluster/capital-flow-wheaton-antamina-cash-return-proof-stack-pass-1.md` | The top graph-upgrade task now separates Antamina proof gates into source-proven, company-level context, derived proxy, and remaining full-return blockers. |
 | Wheaton Antamina full return source test | `/cluster/capital-flow-wheaton-antamina-full-return-source-test-pass-1.md` | The first cash-return source work-order row is executed: Wheaton remains the strongest named cash-return proxy, but full PMPA return still holds on delivered-ounce, tax, interest, debt-service, lender, reserve-life, IRR, and NPV gaps. |
-| Wheaton Antamina production receipt bridge | `/cluster/capital-flow-wheaton-antamina-production-receipt-bridge-pass-1.md` | Wheaton Antamina improves from delivery-timing context to post-close production evidence: Q2 `2026` Antamina produced `2.3M` attributable silver ounces, but delivered-ounce receipt proof remains a hold. |
+| Wheaton Antamina production receipt bridge | `/cluster/capital-flow-wheaton-antamina-production-receipt-bridge-pass-1.md` | Wheaton Antamina improves from delivery-timing context to post-close production evidence: Q2 `2026` Antamina produced `2.319M` combined attributable silver ounces and sold `2.063M`, but delivered-ounce receipt proof remains a hold. |
 | Wheaton Antamina cumulative received/sold cashflow | `/cluster/capital-flow-wheaton-antamina-cumulative-received-sold-cashflow-pass-1.md` | Antamina improves to combined-stream cumulative received/sold and cash-flow evidence: the Q2 `2026` MD&A table shows `5.200000B USD` upfront paid, `1.171862B USD` cash flow generated to date, `56.718M` silver ounces received and sold, and `1.412M` Q2 PBND, while BHP PMPA-only receipt proof remains a hold. |
 | BHP Antamina streaming proceeds/use boundary | `/cluster/capital-flow-bhp-antamina-streaming-proceeds-use-boundary-pass-1.md` | The Antamina money path now extends to recipient-side receipt: BHP's FY `2026` Annual Report records `4.300B USD` received from Wheaton, `4.300B USD` of proceeds from streaming arrangement liability, `41M USD` of settlements, and IFRS 9 liability treatment, while named use of proceeds remains a hold. |
 | Antamina proof package acquisition | `/cluster/capital-flow-antamina-proof-package-acquisition-pass-1.md` | The first live named-cash acquisition pass confirms payer cash out, BHP recipient receipt, delivery terms, metal-credit settlement mechanics, first delivery occurrence, combined stream cash-back proxy, and Wheaton financing channel, but keeps Antamina below full proof because BHP use allocation, PMPA-only settlement ledger, lender waterfall, and return model are missing. |
@@ -415,7 +415,7 @@ Use these server pages when walking someone through the findings:
 | Matador debt-service quality | `/cluster/capital-flow-matador-debt-service-quality-pass-1.md` | Matador now has proxy-grade debt-service quality evidence: `3.25B USD` borrowing base, `2.75B USD` elected commitments, about `1.7572B USD` simple unused elected commitment after LCs, covenant thresholds and compliance, `112.344M USD` first-half interest expense, and bounded 2028-to-2034 note refinancing math. |
 | Debt/refinancing source/use/cash allocation | `/cluster/capital-flow-debt-refinancing-source-use-cash-allocation-pass-1.md` | The five debt/refinancing rows are upgraded into allocation bridges that separate source of funds, use of funds, asset or transaction, visible cash context, missing proof, and safe claim. |
 | Claims safe for writing | `/cluster/capital-flow-publication-ready-claim-register-pass-1.md` | Approved external sentences and forbidden shortcuts. |
-| Private-credit borrower proof | `/cluster/capital-flow-ares-borrower-holder-expansion-pass-1.md` | `83` normalized holder/source-taxonomized borrower rows and same-period borrower controls. |
+| Private-credit borrower proof | `/cluster/capital-flow-ares-borrower-holder-expansion-pass-1.md` | `89` normalized holder/source-taxonomized borrower rows and same-period borrower controls. |
 | Ares borrower facility/use/cash proof stack | `/cluster/capital-flow-ares-borrower-facility-use-cash-proof-stack-pass-1.md` | `14` rows executing graph queue row `CFE2EGUQ-003`; Frontline is the strongest Ares borrower stack but still lacks facility size, use-of-proceeds, borrower-cash, and bank-role proof. |
 | Use of proceeds | `/cluster/capital-flow-use-of-proceeds-classification-pass-1.md` | Why private-credit use is mixed rather than pure growth capex. |
 | Bank role | `/cluster/capital-flow-bank-role-after-private-credit-pass-1.md` | Which bank-replacement claims are proven, partial, or unproven. |
@@ -501,3 +501,38 @@ It asks:
 `Where does routed capital stop being a balance-sheet event and start becoming durable operating return?`
 
 That is the next frontier because the first sprint established destination, wrapper, and selected operating-output evidence. The next pass should decide which lanes turn capital into durable cash economics and which lanes merely absorb financing.
+
+## Latest integrated insight: retail annual cash-paid lease and tax control
+
+Q-04/Q-05 now have an annual cash-paid burden control across TJX, Target, and
+Walmart. The annual filings disclose operating-lease cash paid of `$2.214B`
+for TJX FY2026, `$529M` for Target FY2025, and `$2.315B` for Walmart FY2026,
+plus income taxes paid of `$1.471B`, `$1.091B`, and `$5.364B` respectively.
+This improves the burden map from liability/provision visibility to cash-paid
+observations. The amounts are already inside operating cash flow and are not
+subtracted again; the annual/H1 mismatch, maintenance-capital, supplier-
+finance, attached-service, seasonality, dilution, and normalized owner-cash
+gaps remain open.
+
+## Latest integrated insight: Apollo Debt Solutions payment observability
+
+Q-08 now has a contractual payment-mechanics and public-observability boundary
+for Apollo Debt Solutions. The SEC indenture identifies CUSIP `03770DAC7`, the
+6.700% note's January 29 and July 29 semiannual payment dates, July 29, 2031
+maturity, `$600M` initial principal, and U.S. Bank Trust as trustee. Third-party
+statutory statements make the exact CUSIP observable outside the Athene parser
+row. This separates a contractual payment route from executed Athene cash;
+the third-party holders are not Athene, and no public trustee remittance,
+Athene settlement, borrower repayment, liability-adjusted return, or Apollo
+common-owner cash is proven.
+
+## Latest integrated insight: matched-period interim lease-and-tax search
+
+Q-04/Q-05 now have a bounded searched-negative result for the current interim
+perimeter. The latest TJX, Target, and Walmart Q2/H1 filings show operating cash
+and related lease-liability, tax-provision, or accrued-tax context, but the
+checked HTML does not provide a dedicated cash-paid operating-lease or cash-tax
+line. This is a disclosure boundary, not evidence that the payments did not
+occur. It prevents the annual cash-paid observations from being carried into H1
+as matched-period owner cash; the next upgrade is a supplemental or subsequent
+filing with matched-period cash-flow detail.

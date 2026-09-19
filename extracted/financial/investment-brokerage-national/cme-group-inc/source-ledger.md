@@ -29,3 +29,14 @@ Date baseline: 2026-08-08
 - A direct saved AnnualReports.com HTML artifact if shell access to `annualreports.com` becomes reliable later.
 - Local copies of the official `1Q26` and `2Q26` earnings release PDFs and related commentary or introduction files if a later fetch pass succeeds.
 - Local transcript artifacts for the in-scope earnings calls.
+
+## Current repository primary artifacts
+
+The following FY2025 SEC artifacts are preserved in the current workspace for
+machine-readable verification:
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/investment-brokerage-national/cme-group-inc/2025-10k.html) | `14c97feff07f9393b6d6e0711daae61d27a58461525a0c8382d893ed4387ff0d` |
+| SEC submissions index | [sec-submissions.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/investment-brokerage-national/cme-group-inc/sec-submissions.json) | preserved |
+| SEC companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/investment-brokerage-national/cme-group-inc/companyfacts.json) | `64d6f8cba91894f76ce3358809465658b4d2da1345d565274fbe82e3be45208d` |

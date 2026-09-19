@@ -12,6 +12,22 @@ The structured companion table is:
 
 `analysis/company-first-principles/data/annual-report-all-sector-theme-expansion-pass-1.csv`
 
+The first focused follow-up is the [services and cultural consumption deep dive](annual-report-services-cultural-consumption-deep-dive-pass-1.md), with a structured [company comparison](data/annual-report-services-cultural-consumption-deep-dive-pass-1.csv).
+
+The next focused follow-up is the [consumer goods and household identity deep dive](annual-report-consumer-goods-household-identity-deep-dive-pass-1.md), with a structured [company comparison](data/annual-report-consumer-goods-household-identity-deep-dive-pass-1.csv).
+
+The next focused follow-up is the [basic materials and input scarcity deep dive](annual-report-basic-materials-input-scarcity-deep-dive-pass-1.md), with a structured [company comparison](data/annual-report-basic-materials-input-scarcity-deep-dive-pass-1.csv).
+
+The next focused follow-up is the [real-estate and scarce locations deep dive](annual-report-real-estate-scarce-locations-deep-dive-pass-1.md), with a structured [company comparison](data/annual-report-real-estate-scarce-locations-deep-dive-pass-1.csv).
+
+The next focused follow-up is the [broad technology control-points deep dive](annual-report-broad-technology-control-points-deep-dive-pass-1.md), with a structured [company comparison](data/annual-report-broad-technology-control-points-deep-dive-pass-1.csv).
+
+The next focused follow-up is the [healthcare care-infrastructure deep dive](annual-report-healthcare-care-infrastructure-deep-dive-pass-1.md), with a structured [company comparison](data/annual-report-healthcare-care-infrastructure-deep-dive-pass-1.csv).
+
+The next focused follow-up is the [energy affordability and supply-route deep dive](annual-report-energy-affordability-supply-route-deep-dive-pass-1.md), with a structured [company comparison](data/annual-report-energy-affordability-supply-route-deep-dive-pass-1.csv).
+
+The next focused follow-up is the [ordinary-finance promises and credit deep dive](annual-report-ordinary-finance-promises-and-credit-deep-dive-pass-1.md), with a structured [company comparison](data/annual-report-ordinary-finance-promises-and-credit-deep-dive-pass-1.csv).
+
 The rule for this pass:
 
 `Start with the physical, social, or financial thing that is happening. Then explain who pays, who operates, who bears the risk, and what proof is still missing.`

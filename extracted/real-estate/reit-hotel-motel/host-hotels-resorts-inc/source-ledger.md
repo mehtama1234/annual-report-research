@@ -47,3 +47,10 @@ Date baseline: 2026-08-10
 
 - No standalone earnings-call transcript artifacts are saved locally for `Q4 2025`, `Q1 2026`, or `Q2 2026`.
 - The current local source set is sufficient for annual-plus-quarter packet work even without transcript coverage because the official IR releases and SEC filing chain are complete.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/real-estate/reit-hotel-motel/host-hotels-resorts-inc/2025-10k.html) | `4d3aeb775f2d7c3f9bb74bb518b21ea0caefc018a43e8901947888a158e1a4bd` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/real-estate/reit-hotel-motel/host-hotels-resorts-inc/companyfacts.json) | preserved |

@@ -1,0 +1,6 @@
+ticker,company,price_usd,market_cap_musd,observation_date,source_route,interpretation
+TJX,TJX Companies,124.600,139178.200,2026-09-16,"finance-quote-capture; https://www.nasdaq.com/market-activity/stocks/tjx",Latest available quote and market capitalization at capture; historical market observation only
+TGT,Target,154.400,70499.040,2026-09-16,"finance-quote-capture; https://www.nasdaq.com/market-activity/stocks/tgt",Latest available quote and market capitalization at capture; historical market observation only
+WMT,Walmart,108.090,862342.020,2026-09-16,"finance-quote-capture; https://www.nasdaq.com/market-activity/stocks/wmt",Latest available quote and market capitalization at capture; historical market observation only
+APO,Apollo Global Management,127.000,77498.166,2026-09-16,"finance-quote-capture; https://www.nasdaq.com/market-activity/stocks/apo",Latest available quote and market capitalization at capture; historical market observation only
+WPM,Wheaton Precious Metals,150.020,68006.478,2026-09-16,"finance-quote-capture; https://www.nasdaq.com/market-activity/stocks/wpm",Latest available quote and market capitalization at capture; historical market observation only

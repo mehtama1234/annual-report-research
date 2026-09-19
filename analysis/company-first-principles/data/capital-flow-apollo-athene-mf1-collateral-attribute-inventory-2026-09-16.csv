@@ -1,0 +1,11 @@
+attribute_id,attribute_group,attribute_name,source_basis,proof_status,next_use
+MF1-ATTR-001,Property identity,Property Address / City / State / ZIP / County,Appraisal Report or Engineering Report,source-field-confirmed,Request values for each of 74 properties and map to collateral interest
+MF1-ATTR-002,Property identity,Year Built / Year Renovated / Property Type / Specific Property Type,Appraisal Report,source-field-confirmed,Classify collateral and replacement/renovation risk
+MF1-ATTR-003,Operating profile,Number of Units / Unit of Measure / Occupancy (%) / Occupancy Date,Underwritten Rent Roll or Certified Rent Roll,source-field-confirmed,Build property operating and occupancy bridge
+MF1-ATTR-004,Operating profile,Ownership Interest,Title Policy,source-field-confirmed,Identify collateral ownership and cash-claim perimeter
+MF1-ATTR-005,Loan purpose and dates,Loan Purpose / Note Date / First Payment Date,Settlement Statement Loan Agreement or Promissory Note,source-field-confirmed,Join asset purpose and payment chronology
+MF1-ATTR-006,Principal and funding,Original Commitment / Initial Funded / Cut-off Date Balance / Balloon Balance,Loan Agreement Settlement Statement or Promissory Note,source-field-confirmed,Reconcile funded principal and current collateral balance
+MF1-ATTR-007,Funding mechanics,Future Funding Advance Conditions,Loan Agreement or Promissory Note,source-field-confirmed,Test unfunded commitment and future-draw burden
+MF1-ATTR-008,Rate and protections,Rate Type / Index / Margin / Floor / Cap / Cap Provider,Loan Agreement Promissory Note or Rate Cap Confirmation,source-field-confirmed,Model borrower interest and collateral cash-flow sensitivity
+MF1-ATTR-009,Structural terms,Amortization / ARD / Maturity / Extension Options and Requirements,Loan Agreement or Promissory Note,source-field-confirmed,Model maturity/refinancing and repayment waterfall
+MF1-ATTR-010,Credit and collateral,Cross-Collateralized and Cross-Defaulted Loan Flag,Loan Agreement or Promissory Note,source-field-confirmed,Map cross-collateral and default contagion

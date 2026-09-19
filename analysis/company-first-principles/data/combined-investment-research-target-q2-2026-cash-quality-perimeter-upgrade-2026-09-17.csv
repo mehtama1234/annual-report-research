@@ -1,0 +1,13 @@
+field,period,value_or_observation,status,interpretation,boundary
+operating cash flow,H1 ended August 1 2026,$4.519B,observed,period-matched operating cash numerator,not normalized owner cash
+property and equipment,H1 ended August 1 2026,$2.404B,observed,reported property spending,maintenance versus growth split remains open
+cash after property,H1 ended August 1 2026,$2.115B,derived,OCF less property spending,not normalized owner cash
+inventory cash-flow effect,H1 ended August 1 2026,$945M use,observed,working-capital burden,do not subtract again from OCF
+accounts payable cash-flow effect,H1 ended August 1 2026,$612M source,observed,working-capital support,settlement and supplier-finance timing remain open
+supplier-finance obligations,August 1 2026,$3.2B versus $3.0B January 31 2026,partial,eligible vendor obligation movement,not a cash-flow adjustment without settlement ledger
+attached-service revenue,H1 ended August 1 2026,$525M advertising; $269M credit-card profit sharing; $347M other revenue,observed,same-entity collection-side revenue perimeter,allocated service cost and common-owner cash remain open
+tariff refunds,H1 ended August 1 2026,$994M,observed,temporary gross-margin and EPS support,recurrence and future cash timing unproven
+operating lease liabilities,August 1 2026,$3.733B,observed,senior claim marker,H1 cash paid not disclosed
+tax provision,H1 ended August 1 2026,$835M,observed,accounting tax burden,H1 cash taxes not disclosed
+debt reduction and dividends,H1 ended August 1 2026,$1.070B debt reduction and $1.034B dividends,observed,senior/common capital claims,full owner-cash residual remains open
+share-based compensation,H1 ended August 1 2026,$154M,observed,owner dilution burden,full diluted-share and issuance bridge remains open

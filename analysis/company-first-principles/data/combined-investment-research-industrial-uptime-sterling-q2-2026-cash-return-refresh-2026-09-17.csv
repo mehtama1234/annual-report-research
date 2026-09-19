@@ -1,0 +1,18 @@
+period,metric,value,unit,interpretation,source
+H1 2026,operating cash flow,328.021,USD millions,reported OCF,2026 Q2 10-Q
+H1 2026,capital expenditures,69.646,USD millions,visible company capex,2026 Q2 10-Q
+H1 2026,cash acquisitions net of cash acquired,139.985,USD millions,visible acquisition cash,2026 Q2 10-Q
+H1 2026,earn-out payments,7.767,USD millions,visible acquisition-related cash,2026 Q2 10-Q
+H1 2026,cash residual after visible growth uses,110.623,USD millions,OCF less capex acquisitions earn-outs,calculated
+H1 2026,stock consideration,27.406,USD millions,economic owner claim not cash flow,2026 Q2 10-Q
+H1 2026,economic acquisition-capital residual,83.217,USD millions,cash residual less stock consideration screen,calculated
+June 30 2026,accounts receivable,770.671,USD millions,collection exposure,2026 Q2 10-Q
+June 30 2026,contract assets,156.295,USD millions,unbilled/retainage claim not cash,2026 Q2 10-Q
+June 30 2026,contract liabilities,802.601,USD millions,customer billing/work progression,2026 Q2 10-Q
+June 30 2026,contract-asset retainage,72.8,USD millions,future collection claim,2026 Q2 10-Q
+H1 2026,revenue from opening contract liabilities,488.4,USD millions,recognized revenue not collections,2026 Q2 10-Q
+H1 2026,prior-period contract-estimate increases,138.9,USD millions,estimate-quality prompt,2026 Q2 10-Q
+June 30 2026,signed contractual backlog,4330,USD millions,contracted visibility,2026 Q2 presentation
+June 30 2026,combined backlog,5600,USD millions,includes unsigned awards,2026 Q2 presentation
+June 30 2026,acquired signed backlog contribution,1320,USD millions,CEC and Stone Ridge perimeter,2026 Q2 presentation
+June 30 2026,acquired unsigned-award contribution,1240,USD millions,CEC and Stone Ridge perimeter,2026 Q2 presentation

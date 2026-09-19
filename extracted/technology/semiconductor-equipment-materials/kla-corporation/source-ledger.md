@@ -24,6 +24,14 @@ Date baseline: 2026-08-10
 - The packet's annual anchor is fiscal 2025, but its saved trailing quarter chain runs through FY26 Q4, FY26 Q3, and FY26 Q2 using the local IR PDFs and filed SEC reports already preserved in the sibling raw tree.
 - No separate locally saved transcript artifact exists for these in-scope KLA quarters.
 
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/technology/semiconductors/kla-corporation/2025-10k.html) | `f039f5fc93dff150218998ecfa33ba2dee0aebc9cd446ac3665d9e3a89910d17` |
+| FY2026 Form 10-K | [2026-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/technology/semiconductors/kla-corporation/2026-10k.html) | `b300ebc7ba2fad7d6818ce1793782e87451eb1235053837612d73242e91ae566` |
+| FY2026 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/technology/semiconductors/kla-corporation/companyfacts.json) | preserved |
+
 ## Missing evidence
 
 - No locally saved SEC submissions JSON file is present in the linked KLA raw tree.

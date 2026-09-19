@@ -85,6 +85,14 @@ The specific missing bridge is:
 
 `Distribution Inspection category recovery -> billing determinants -> billed revenue -> collected cash -> category allocation -> earned return`
 
+The parallel AEP customer-obligation chase is now recorded in the [AEP large-load proof chase](capital-flow-aep-large-load-customer-obligation-proof-chase-pass-1.md) and its [structured gate register](data/capital-flow-aep-large-load-customer-obligation-proof-chase-pass-1.csv). It preserves the distinction between the `69 GW` expected-load disclosure, effective tariff, approximately `$2B` of mixed financial security, executed LOA/ESA, interconnection approval, project allocation, billing determinant, and collected cash. Its current verdict is `hold-with-security-and-tariff-visible`.
+
+The parallel Duke route is now recorded in the [Duke ESA and Anderson project-recovery proof chase](capital-flow-duke-esa-project-recovery-proof-chase-pass-1.md) and its [structured gate register](data/capital-flow-duke-esa-project-recovery-proof-chase-pass-1.csv). It preserves the distinction between secured ESAs, customer protections, the `1,365 MW` approved Anderson project, cooperative ownership, project cost, CWIP/rate-base treatment, in-service timing, and collected cash. Its current verdict is `hold-with-approval-and-monitoring-visible`.
+
+The contractor cash route is now recorded in the [industrial-contractor project-cash proof chase](capital-flow-industrial-contractor-project-cash-proof-chase-pass-1.md) and its [structured gate register](data/capital-flow-industrial-contractor-project-cash-proof-chase-pass-1.csv). It keeps Sterling and MasTec backlog, funded scope, progress billing, contract assets, retainage, cost-to-complete, collections, capex, debt, and residual cash separate. Its current verdict is `hold-backlog-and-aggregate-cash-visible`.
+
+The turbine/equipment route is now recorded in the [AEP/Duke turbine-supplier cash proof chase](capital-flow-aep-duke-turbine-supplier-cash-proof-chase-pass-1.md) and its [structured gate register](data/capital-flow-aep-duke-turbine-supplier-cash-proof-chase-pass-1.csv). It keeps secured capacity, vendor mapping, order terms, deposits, delivery, supplier revenue, collection, utility approval, and owner residual separate. Its current verdict is `hold-capacity-visible`.
+
 The next artifact should be:
 
 `capital-flow-fpl-billing-determinant-category-receipt-proof-chase-pass-1`

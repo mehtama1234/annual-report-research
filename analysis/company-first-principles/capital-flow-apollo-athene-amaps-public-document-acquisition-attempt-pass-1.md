@@ -39,6 +39,16 @@ No row upgraded to return-model proof.
 
 All `9` document families remain controlled-document-needed.
 
+## 2026-09-18 exact-route recheck
+
+A narrow public-source recheck searched the exact CUSIP `02300A-AA-8`, the
+named statutory counterparty `Apollo Capital Markets Partner`, and the AMAPS 1
+consideration amount across SEC, Apollo, and Athene domains. It returned no
+relevant public result. This is a searched-negative for the public perimeter,
+not evidence that controlled or private settlement records do not exist. It
+does not change the proof grade or replace the requested trade, custodian,
+trustee, and allocation documents.
+
 ## Attempt Outcomes
 
 | Request | Document Family | Attempt Status | Proof Effect |
@@ -96,6 +106,9 @@ This pass proves:
 4. Apollo/Athene public filing gives a `2.550B USD` AMAPS 1 concentration reconciliation target
 5. trustee reports, Athene allocation support, and return model support were not found publicly
 6. the next step is access/request execution, not more broad AMAPS description
+
+The exact-route recheck reinforces that stop rule: do not repeat broad public
+searches unless a new filing or transaction-specific source appears.
 
 ## What It Does Not Prove
 

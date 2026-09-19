@@ -1,0 +1,5 @@
+unit,usable_transitions,within_company_demeaned_correlation,interpretation,status,source_artifact
+TJX,4,0.210861,weak-positive descriptive association in four nonzero real-wage transitions,descriptive-only,analysis/company-first-principles/data/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.csv
+Target,4,0.198533,weak-positive descriptive association in four nonzero real-wage transitions,descriptive-only,analysis/company-first-principles/data/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.csv
+Walmart,4,0.152991,weak-positive descriptive association in four nonzero real-wage transitions,descriptive-only,analysis/company-first-principles/data/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.csv
+Pooled-company-demeaned,12,0.113120,weak pooled within-company association after removing company means,descriptive-only,analysis/company-first-principles/data/combined-investment-research-through-cycle-retail-within-company-diagnostic-2026-09-16.csv

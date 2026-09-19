@@ -58,7 +58,7 @@ The next extraction should not try to parse all `9,612` pages. It should extract
 2. page `18` for net investment income
 3. pages `99-100` for IMR and AVR
 4. pages `450-452` for Schedule BA/D verification and summary
-5. pages `5813-5835` for Schedule BA detail
+5. pages `5813-5833` for Schedule BA detail (Part 1 `5813-5825`, Part 2 `5826-5829`, Part 3 `5830-5833`)
 6. pages `5836-6336` for Schedule D detail
 
 ## Decision
@@ -73,7 +73,7 @@ The Athene statutory source is no longer just a downloaded file. It has an execu
 
 ## Next Work
 
-1. Build a parser that extracts pages `3-6`, `18`, `99-100`, `450-452`, `5813-5835`, and `5836-6336`.
+1. Build a parser that extracts pages `3-6`, `18`, `99-100`, `450-452`, `5813-5833`, and `5834-6336`.
 2. Normalize Schedule D and BA rows into issuer/CUSIP, asset class, NAIC designation, cost, fair value, book value, income, interest received, maturity, and impairment fields.
 3. Separate Schedule D issuer-credit obligations from Schedule D asset-backed securities.
 4. Build a first legal-entity spread bridge from net investment income, liabilities/reserves, and asset base.

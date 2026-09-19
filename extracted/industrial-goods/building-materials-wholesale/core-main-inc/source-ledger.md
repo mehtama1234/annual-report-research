@@ -41,7 +41,30 @@ Use evidence tags:
 - AnnualReports is only a taxonomy and archive-confirmation layer here because it lagged at `2024`.
 - Core & Main’s canonical IR hub pages were Cloudflare-gated from the current shell environment, so the locally saved official company result pages and SEC filings are the operative evidence set.
 
+## Current repository raw artifacts
+
+The fiscal 2025 Form 10-K and Q1 2026 Form 10-Q have now been re-integrated
+under the current repository `raw/` tree. The prior packet and memo had mixed
+the fiscal 2024 $621M/$741M cash bridge with fiscal 2025 labels; the current
+10-K confirms fiscal 2025 OCF of $650M, capex of $46M, and acquisitions of $61M.
+
+| Artifact | Current repo path | SHA-256 |
+|---|---|---|
+| Fiscal 2025 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/building-materials-wholesale/core-main-inc/2025-10k.html) | `0e339090bef804d17b0a23b3f78c5ed8c79fc7a212b2408385a84fe489051612` |
+| Q1 2026 10-Q | [2026-q1-10q.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/building-materials-wholesale/core-main-inc/2026-q1-10q.html) | `1a9f4523eaef9cd25781ae7f332fd0d7769b0059f241a7f7011ee693796d83e5` |
+
 ## Missing evidence
+
+## Current repository companyfacts verification
+
+| Artifact | SHA-256 | Role |
+|---|---|---|
+| [FY2025 companyfacts](../../../../raw/sec/companyfacts/industrial-goods/building-materials-wholesale/core-main-inc/companyfacts.json) | `7b79c7b5a5373ba9f23e4cd175643c43447bc98dd186179cda3c1e5bf562f2cd` | Reproducible GAAP and cash-flow denominator extraction |
+
+The validator uses the filing’s actual `CY2025` frame because Core & Main’s
+52-week fiscal-year filing is tagged with an unusual `fy` value in companyfacts.
+It also reconciles consolidated net income of $462M to $441M attributable to
+common shareholders plus $21M of non-controlling-interest earnings.
 
 - No standalone earnings-call transcript artifact was identified or saved locally for `Q1 2026`, `Q4 2025`, or `Q3 2025`.
 - No investor presentation PDFs were preserved locally from the current shell environment for those quarters.

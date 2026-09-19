@@ -1,0 +1,4 @@
+classification_id,scope,candidate_count,same_page_book_value_matches,continuation_only_candidates,classification,current_status,next_action
+CFAASDRCC-001,Schedule D Part 1 Section 1,44,44,0,all candidates have same-page book-value matches to existing parsed rows,duplicate-or-continuation-pool-classified,No candidate is added; retain row-boundary evidence
+CFAASDRCC-002,Schedule D Part 1 Section 2,17,15,2,two candidates are continuation-only rows without a valid omitted book value and the other 15 match existing rows,duplicate-or-continuation-pool-classified,No candidate is added; preserve page-5972 fields for column-level parser review
+CFAASDRCC-003,Schedule D Part 1 Section 1 plus Section 2,61,59,2,all 61 candidates are classified as duplicate or continuation text and none is added as a holding,near-reconciled-candidate-boundary,Define final reconciliation tolerance and proceed to income/proceeds/liability joins

@@ -1,0 +1,9 @@
+id,metric,value,unit,formula_or_source,result_class,boundary,next_upgrade
+MF1RET-001,year_end_reported_holding_amount,218271953,USD,Same-CUSIP row packet holding row CFAASCSCRPD-0015,reported-denominator-proxy,Not proven cost basis or lot denominator,Acquisition and custody record
+MF1RET-002,selected_disposal_consideration,209559375,USD,Same-CUSIP row packet disposal row CFAASCSCRPD-0016,cash-like-candidate,Not bank settlement or borrower receipt,Settlement and trustee report
+MF1RET-003,selected_interest_dividend_field,1302655,USD,Same-CUSIP row packet disposal row CFAASCSCRPD-0016,row-income-candidate,Not independently receipt-verified or period-matched,Income and cash receipt schedule
+MF1RET-004,consideration_plus_row_income,210862030,USD,209559375 + 1302655,mechanical-gross-screen,Not realized return or total cash flow,Lot and period-matched cash bridge
+MF1RET-005,consideration_to_holding_ratio,96.0084,percent,209559375 / 218271953,diagnostic-only,Denominator is reported holding amount rather than proven cost basis,Source-confirmed cost and lot basis
+MF1RET-006,consideration_plus_income_to_holding_ratio,96.6052,percent,210862030 / 218271953,diagnostic-only,Not gross or net total return,Fees taxes liability cost and remittance
+MF1RET-007,mechanical_difference_to_holding_amount,-7409923,USD,210862030 - 218271953,diagnostic-only,Not gain loss or impairment,Column-level source inspection and return ledger
+MF1RET-008,overall_status,diagnostic-only,,Gross proceeds-plus-income screen assembled,return-unproven,No lot continuity Athene remittance liability cost or Apollo residual,Complete legal-owner-to-cash waterfall

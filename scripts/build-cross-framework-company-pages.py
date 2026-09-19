@@ -1116,6 +1116,14 @@ def load_detailed_company_analyses() -> tuple[dict[str, dict[str, Any]], dict[st
 
 def build_artifact_index(company_slugs: set[str]) -> dict[str, list[str]]:
     artifacts: dict[str, list[str]] = {slug: [] for slug in company_slugs}
+    # A small number of source packets use the issuer's shorter legal or IR
+    # directory name rather than the normalized roster slug. Keep the mapping
+    # explicit so packet discovery is reproducible and does not depend on
+    # manually editing generated registry files.
+    aliases = {
+        "astrana-health-inc": "astrana-health",
+        "the-tjx-companies-inc": "tjx-companies-inc",
+    }
     roots = [ROOT / "analysis" / "company-first-principles", ROOT / "extracted"]
     for root in roots:
         if not root.exists():
@@ -1125,7 +1133,8 @@ def build_artifact_index(company_slugs: set[str]) -> dict[str, list[str]]:
                 continue
             path_text = str(path.relative_to(ROOT))
             for company_slug in company_slugs:
-                if company_slug in path_text:
+                lookup_slugs = (company_slug, aliases.get(company_slug, ""))
+                if any(candidate and candidate in path_text for candidate in lookup_slugs):
                     artifacts[company_slug].append(path_text)
     return {slug: sorted(paths)[:12] for slug, paths in artifacts.items()}
 
@@ -1746,6 +1755,9 @@ def render_index(entries: list[dict[str, Any]], registry: dict[str, Any]) -> str
         )
         cards.append(f"<section><h2>{html.escape(sector)}</h2><div class=\"grid\">{links}</div></section>")
     counts = registry["counts"]
+    reader_company_count = len(list((ROOT / "analysis" / "deep-company-pages").glob("*.md")))
+    reader_explanation_count = len(list((ROOT / "analysis" / "first-principles").glob("*.md")))
+    reader_comparison_count = len(list((ROOT / "analysis" / "cross-sector").glob("*.md")))
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -1760,6 +1772,7 @@ def render_index(entries: list[dict[str, Any]], registry: dict[str, Any]) -> str
     <h1>Cross-Framework Company Analysis</h1>
     <p>{counts['companies']} company pages routed through annual-report evidence, Damodaran methods, Lyn Alden macro/liquidity methods, and other investor/strategy frameworks.</p>
     <p>{counts['detailed_first_principles_packets']} detailed first-principles pages, {counts['packet_backed_pages']} packet-backed pages, and {counts['roster_workbench_pages']} roster-workbench pages.</p>
+    <p><strong>Use the <a href="/">main research reader</a> for the editorial deep layer:</strong> it contains {reader_company_count} company studies, {reader_explanation_count} first-principles explanations, {reader_comparison_count} cross-company comparisons, source trails, and unresolved questions. This index is the broader framework map; a packet-backed page is a useful starting point, not a claim that every page has the same depth.</p>
   </header>
   <section class="exemplar-band">
     <h2>Finished Exemplar Pages</h2>

@@ -1,0 +1,6 @@
+case,parent_receipt_musd,athene_attribution_rate_pct,mechanical_athene_attribution_musd,common_owner_residual_musd,status,source_artifact,interpretation
+zero-attribution,750,0,0,NA,sensitivity-only,analysis/company-first-principles/capital-flow-apollo-athene-parent-receipt-attribution-frontier-2026-09-15.md,No part of the parent receipt is attributed to Athene
+quarter-attribution,750,25,187.5,NA,sensitivity-only,analysis/company-first-principles/capital-flow-apollo-athene-parent-receipt-attribution-frontier-2026-09-15.md,Mechanical attribution case; not a dated transfer proof
+half-attribution,750,50,375,NA,sensitivity-only,analysis/company-first-principles/capital-flow-apollo-athene-parent-receipt-attribution-frontier-2026-09-15.md,Mechanical attribution case; not a dated transfer proof
+three-quarter-attribution,750,75,562.5,NA,sensitivity-only,analysis/company-first-principles/capital-flow-apollo-athene-parent-receipt-attribution-frontier-2026-09-15.md,Mechanical attribution case; not a dated transfer proof
+full-attribution,750,100,750,NA,sensitivity-only,analysis/company-first-principles/capital-flow-apollo-athene-parent-receipt-attribution-frontier-2026-09-15.md,Upper-bound attribution case; not a dated transfer proof

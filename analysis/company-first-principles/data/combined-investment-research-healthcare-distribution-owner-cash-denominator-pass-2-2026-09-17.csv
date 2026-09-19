@@ -1,0 +1,26 @@
+company,period,object,value,unit,status,interpretation,what_it_does_not_prove,next_required_source
+McKesson,Q1 FY2027,operating_cash_flow,-220,USD millions,observed,quarterly operating cash was negative,annual normalized cash,longitudinal cash conversion
+McKesson,Q1 FY2027,visible_post_reinvestment_residual,-395,USD millions,diagnostic,OCF less PP&E software acquisitions,annual owner cash,comparable quarters
+McKesson,Q1 FY2027,receivables_and_inventory_cash_use,4448,USD millions,observed,operating assets absorbed cash,structural deterioration,seasonal normalization
+McKesson,Q1 FY2027,accounts_payable_cash_source,3773,USD millions,observed,vendor timing funded operations,repeatable cash margin,vendor settlement history
+McKesson,Q1 FY2027,Apollo_preferred_capital,1250,USD millions,observed,legal-entity capital contribution,common-owner cash,preferred terms and segment cash
+McKesson,Q1 FY2027,shareholder_returns,2600,USD millions,observed,capital allocation outflow,operating surplus,repurchase funding waterfall
+Cencora,9M FY2026,operating_cash_flow,1687.53,USD millions,observed,reported operating cash,acquisition-adjusted owner cash,cohort cash bridge
+Cencora,9M FY2026,capital_expenditures,511.033,USD millions,observed,physical reinvestment,maintenance/growth split,capex classification
+Cencora,9M FY2026,acquisition_cash,4973.696,USD millions,observed,large acquisition burden,post-close return,OneOncology cohort schedule
+Cencora,9M FY2026,post_capex_acquisition_residual,-3797.199,USD millions,diagnostic,visible acquisition funding gap,destruction of value,incremental gross profit and cash
+Cencora,9M FY2026,contingent_consideration,752.141,USD millions,observed,additional acquisition claim,settled cash or return,contingent consideration schedule
+Cencora,9M FY2026,senior_notes_raised,3000,USD millions,observed,debt funding source,acquisition-specific use,debt use-of-proceeds
+Cencora,9M FY2026,variable_rate_term_loans,1500,USD millions,observed,variable debt funding source,owner cash,interest and maturity schedule
+Cencora,9M FY2026,share_repurchases,1000,USD millions,observed,capital return,operating surplus,repurchase funding
+Cencora,9M FY2026,dividends,360.6,USD millions,observed,capital distribution,owner-cash residual,financing waterfall
+Cardinal,FY2026,operating_cash_flow,5174,USD millions,observed,strong reported cash,normalized owner cash,working-capital normalization
+Cardinal,FY2026,acquisitions,1991,USD millions,observed,growth investment,acquisition return,Solaris cohort return
+Cardinal,FY2026,capital_expenditures,649,USD millions,observed,physical reinvestment,maintenance/growth split,capex classification
+Cardinal,FY2026,post_acquisition_capex_residual,2534,USD millions,diagnostic,OCF less acquisitions and capex,distributable cash,senior claims and taxes
+Cardinal,FY2026,opioid_cash_paid,417,USD millions,observed,legal cash burden already inside OCF,additional deduction,remaining settlement schedule
+Cardinal,FY2026,repurchases,1358,USD millions,observed,capital return,operating surplus,financing bridge
+Cardinal,FY2026,dividends,491,USD millions,observed,capital distribution,owner-cash residual,financing bridge
+Cardinal,FY2026,long_term_debt_reduction,653,USD millions,observed,senior claim repayment,common-owner cash,full debt waterfall
+Cardinal,FY2026,post_listed_distributions_residual,32,USD millions,diagnostic,screen after listed uses,final owner cash,dilution/legal/tax/lease bridge
+Cardinal,FY2026,physician_management_units,500,USD millions,observed,retained economic/dilution claim,current cash deduction,unit and call-right schedule

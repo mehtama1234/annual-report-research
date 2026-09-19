@@ -42,3 +42,27 @@ Use evidence tags:
 ## Missing evidence
 
 - No official earnings-call transcript artifact was collected for Q4 `2025`, Q1 `2026`, or Q2 `2026`.
+
+## Current repo raw artifacts
+
+The Q1 and Q2 `2026` primary quarter filings and the Q2 SEC earnings exhibit
+have now been reintegrated into the current repository raw tree. The Q1
+earnings release remains represented by the earlier packet/ledger chain.
+
+| Artifact | Current repo path | SHA-256 |
+|---|---|---|
+| Q1 2026 10-Q | [2026-q1-10q.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2026-q1-10q.html) | `e228fcf3acd9e63fcc021f328df1050859cecca93755b39a3f1d5101efcda473` |
+| Q2 2026 10-Q | [2026-q2-10q.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2026-q2-10q.html) | `98b847279e2c1f7753634fb50adb9032057569c4d39e876ae557daef9517db66` |
+| Q2 2026 earnings exhibit | [2026-q2-earnings-exhibit.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2026-q2-earnings-exhibit.html) | `2343b223f471764d8d295755dfea7c4706be3b44f75fd2e381c740f7aff1dfc1` |
+
+## Current official-filing verification
+
+- The official SEC-hosted [Comfort Systems 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1035983/000110465926017530/fix-20251231x10k.htm) was rechecked for the full three-year financial statements, cost-to-cost revenue-recognition language, contract assets and liabilities, retainage, debt, acquisitions, contingent earn-outs, stock compensation, and capital expenditures.
+- The Q1 and Q2 `2026` SEC HTML filings and Q2 earnings exhibit are now re-integrated under this repository's `raw/` tree; the Q1 release remains packet-backed for this pass.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/general-contractors/comfort-systems-usa-inc/2025-10k.html) | `f84f17cbfd67d38ca36363f3213524dc62fd1106e8bbdebbb8160cb6ac6cfb8a` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/industrial-goods/general-contractors/comfort-systems-usa-inc/companyfacts.json) | `7c39703c55f5115c89b1922f0f5ec74210bf703e0ddd4b34cba0fa695472c62e` |

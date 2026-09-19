@@ -96,5 +96,5 @@ Apollo/Athene improves from local-source-acquired to summary statutory extractio
 
 1. Extract Schedule D Part 1 Section 1 issuer-credit obligations from pages `5836-5911`.
 2. Extract Schedule D Part 1 Section 2 asset-backed securities from pages `5912-6027`.
-3. Extract Schedule BA Part 1 and Part 2 from pages `5813-5829`.
+3. Extract Schedule BA Part 1, Part 2, and Part 3 from pages `5813-5833`.
 4. Build a first legal-entity spread bridge using statutory income, reserves/liabilities, and invested-asset base.

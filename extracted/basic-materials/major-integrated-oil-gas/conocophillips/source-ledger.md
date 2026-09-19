@@ -31,6 +31,19 @@ Use evidence tags:
 
 ## Reconciliation notes
 
+## Current SEC artifact integrity
+
+| Artifact | SHA-256 | Size | Role |
+|---|---|---:|---|
+| [2025 Form 10-K](../../../../raw/sec/basic-materials/major-integrated-oil-gas/conocophillips/2025-10k.html) | `770bf79d6864a4bb9845c3b56d263e4a06efbe720ff0900e34389e2666346ba7` | 5,308,912 bytes | Primary annual filing |
+| [SEC companyfacts](../../../../raw/sec/companyfacts/basic-materials/major-integrated-oil-gas/conocophillips/companyfacts.json) | `cccc8afe3602880e8f2909266e778aa195b42e745da669a801925c593720d2fc` | 4,981,846 bytes | GAAP denominator extraction |
+| [SEC submissions](../../../../raw/sec/basic-materials/major-integrated-oil-gas/conocophillips/submissions.json) | `4702a6e55da7f6c13d9026bca651e1630f42a70d05ef50f4ea10050973314d15` | — | Filing-index confirmation |
+
+The 2025 filing discloses a $12.553B capital program in its “Capital
+Expenditures and Investments” table. Because that amount is presented in the
+filing's capital-program table rather than a standard companyfacts tag, the
+validator checks the filing text as well as the GAAP facts.
+
 - As of `2026-08-10`, the correct trailing-quarter set is `Q2 2026`, `Q1 2026`, and `Q4 2025`.
 - AnnualReports.com is useful here for taxonomy and archive confirmation, but it still lagged at the `2024` package. The actual authoritative `2025` annual-report chain comes from company IR and SEC.
 - Although AnnualReports labels ConocoPhillips as `Major Integrated Oil & Gas`, the packet remains useful for the lane mission because the operating and messaging profile is much more upstream- and capital-discipline-led than a classic downstream-heavy integrated major.

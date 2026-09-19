@@ -1,0 +1,6 @@
+fiscal_year,revenue_usd_b,operating_cash_flow_usd_b,ppe_capex_usd_b,ocf_less_ppe_usd_b,ocf_margin,ar_plus_inventory_less_ap_usd_b,source
+FY2022,9.211883,3.312702,0.307320,3.005382,0.360,3.515428,SEC companyfacts
+FY2023,10.496056,3.669805,0.341591,3.328214,0.350,4.259119,SEC companyfacts
+FY2024,9.812247,3.308575,0.277384,3.031191,0.337,4.508335,SEC companyfacts
+FY2025,12.156162,4.081903,0.335259,3.746644,0.336,5.017555,SEC companyfacts
+FY2026,13.579476,4.143079,0.375945,3.767134,0.305,5.914078,SEC companyfacts

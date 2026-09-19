@@ -1,0 +1,15 @@
+field,value,comparison_or_context,status
+six_month_2026_operating_cash_flow,"$1.842B","six_month 2025 $1.361B",observed
+six_month_2026_investing_cash_use,"$824M","six_month 2025 $4.240B; prior year included Inari acquisition",observed
+acquisition_integration_adjustment,"$44M","six-month 2026 adjusted operating-income reconciliation",observed
+structural_optimization_adjustment,"$213M","six-month 2026; workforce, facilities, product exits and other charges",observed
+goodwill_other_impairment_adjustment,"$1M","six-month 2026",observed
+medical_device_regulation_adjustment,"$1M","six-month 2026",observed
+recall_related_adjustment,"$52M","six-month 2026",observed
+unsecured_notes_repaid,"$1.000B","six-month 2026 financing cash use",observed
+six_month_2026_financing_cash_use,"$1.605B","primarily note repayment and dividends",observed
+cash_investments_june_2026,"$3.476B","cash, equivalents, short-term investments and marketable securities",observed
+cash_investments_december_2025,"$4.100B","comparison date",observed
+authorized_repurchases_remaining,"$1.033B","June 30 2026; no repurchases in six months 2026",observed
+inari_cohort_return,"not disclosed in current filing","requires acquired revenue, margin, integration cash, amortization, inventory and incremental OCF",missing
+normalized_owner_cash,"not calculated","requires cohort return, claims, debt, working capital, PP&E, SBC and dilution bridge",missing

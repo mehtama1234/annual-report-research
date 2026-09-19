@@ -31,3 +31,14 @@ Date baseline: 2026-08-09
 - A local copy of the official `2025` annual report PDF.
 - Local copies of the official `4Q25` and `1Q26` earnings release, supplement, and transcript PDFs.
 - Local copies of the official `2Q26` supplement and transcript PDFs.
+
+## Current repository primary artifacts
+
+The following FY2025 SEC artifacts are preserved in the current workspace for
+machine-readable verification:
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/asset-management/t-rowe-price-group-inc/2025-10k.html) | `af9ff5690d4ce2d98677caab0f0ed5526ef5e77ee78b5cb57933f386b69738b6` |
+| SEC submissions index | [sec-submissions.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/asset-management/t-rowe-price-group-inc/sec-submissions.json) | preserved |
+| SEC companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/asset-management/t-rowe-price-group-inc/companyfacts.json) | `178d7f1c3c117a339a8987bba4313674fcbea48cff4bed2e770fa40556d17778` |

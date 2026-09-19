@@ -42,3 +42,13 @@ Use evidence tags:
 
 - No clean standalone official Q4 `2025` or Q1 `2026` presentation PDF artifacts were recovered in this pass.
 - No standalone verbatim earnings-call transcript artifacts were collected for Q4 `2025`, Q1 `2026`, or Q2 `2026`.
+
+## Current repository SEC artifact integrity
+
+| Artifact | SHA-256 | Role |
+|---|---|---|
+| [2025 Form 10-K](../../../../raw/sec/industrial-goods/pollution-treatment-controls/veralto-corporation/2025-10k.html) | `d78369b9ac39e802194944802962b93ae5c4ce03eabd7973f162d644fa65d569` | Primary annual filing |
+| [SEC companyfacts](../../../../raw/sec/companyfacts/industrial-goods/pollution-treatment-controls/veralto-corporation/companyfacts.json) | `44b7f37ee0fd81caef6109ecb945a3337800b2a57371e2075840bb04f4e4c258` | GAAP denominator extraction |
+
+The exact FY2025 denominator set is checked by
+`scripts/verify-veralto-filing-denominators.py`.

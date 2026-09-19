@@ -1,0 +1,24 @@
+period,object,value,unit,status,interpretation,what_it_does_not_prove,next_required_source
+9M FY2026,acquired_companies_net_cash,4973.696,USD millions,observed,current acquisition cash burden,post-close return,cohort cash-flow schedule
+9M FY2026,operating_cash_flow,1687.53,USD millions,observed,reported operating cash,acquisition-adjusted owner cash,cohort allocation
+9M FY2026,capital_expenditures,511.033,USD millions,observed,physical reinvestment,maintenance/growth split,capex classification
+9M FY2026,post_acquisition_capex_residual,-3797.199,USD millions,diagnostic,visible acquisition funding gap,destruction of value,incremental gross profit/cash
+9M FY2026,adjusted_free_cash_flow,1142.3,USD millions,management_metric,management-defined post-capex cash,acquisition-adjusted owner cash,definition and cohort bridge
+FY2026 Q3,oneoncology_cash_consideration,4648.72,USD millions,observed,named cash consideration,full economic consideration,purchase and cohort cash bridge
+FY2026 Q3,cash_acquired,58.891,USD millions,observed,purchase-accounting offset,operating cash generated,post-close cash flow
+FY2026 Q3,oneoncology_net_cash_paid,4589.829,USD millions,calculated,cash acquisition basis,full return,total consideration and return
+FY2026 Q3,contingent_consideration,752.141,USD millions,observed,future cohort claim,settlement or trigger,contingent consideration schedule
+FY2026 Q3,previously_held_equity_fair_value,1934.224,USD millions,observed,retained/pre-existing economic stake,post-close owner cash,ownership and distributions
+FY2026 Q3,pre_existing_receivable_settlement,51.99,USD millions,observed,transaction perimeter item,operating cash,settlement classification
+FY2026 Q3,estimated_total_consideration,7387.075,USD millions,observed,economic acquisition hurdle,return on capital,final purchase accounting
+FY2026 Q3,remeasurement_put_option_gain,1086.6,USD millions,observed,purchase-accounting gain,operating cash or performance,post-close cash bridge
+FY2026 Q3,acquired_intangible_assets,3062,USD millions,observed,amortization/economic hurdle,immediate cash deduction,amortization and margin schedule
+FY2026 Q3,management_service_agreement_intangible,2330,USD millions,observed,large acquired contractual/intangible claim,owner cash or return,service economics and retention
+9M FY2026,senior_notes_raised,3000,USD millions,observed,acquisition financing source,exact cohort funding,debt use-of-proceeds
+9M FY2026,variable_rate_term_loans,1500,USD millions,observed,variable financing source,owner cash,interest and maturity schedule
+9M FY2026,share_repurchases,1008,USD millions,observed,capital return,operating surplus,repurchase funding
+9M FY2026,dividends,360.6,USD millions,observed,capital distribution,owner cash residual,financing waterfall
+9M FY2026,working_capital_cash_use,1100,USD millions,observed,distribution/acquisition funding burden,permanent cash margin,seasonal normalization
+June 30 2026,cash,2815,USD millions,observed,consolidated liquidity,legal availability or owner cash,entity/perimeter reconciliation
+June 30 2026,accounts_receivable,25448,USD millions,observed,customer funding exposure,collectibility,aging and collections
+June 30 2026,inventory,21030,USD millions,observed,inventory funding exposure,turns or recoverability,inventory and VIE schedule

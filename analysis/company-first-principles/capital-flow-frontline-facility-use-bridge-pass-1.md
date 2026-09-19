@@ -26,7 +26,7 @@ It does not yet pass the facility-use bridge because the current evidence does n
 | Ares transaction role | passed | Ares says it served as lead arranger and bookrunner for a senior secured credit facility supporting Bain Capital's continued growth plans for Frontline Road Safety Holdings. |
 | Public BDC holder rows | passed | FSK and GSBD disclose Q2 2026 first-lien Frontline rows. |
 | Non-traded/private-credit vehicle rows | passed | K-FITS, ASIF, and GSPCC disclose Frontline debt or commitment rows across Q1/Q2 2026. |
-| Same-period control | passed | The Ares borrower summary selects Q2 2026 for Frontline with `198.6750M USD` fair value and `0.6120M USD` unfunded commitment. |
+| Same-period control | passed | The Ares borrower summary selects Q2 2026 for Frontline with `622.8244M USD` of reported fair-value breadth and `130.7960M USD` of reported commitments; the controlled three-vehicle lower bound remains `198.6750M USD`. |
 
 ## What Did Not Pass
 
@@ -38,6 +38,7 @@ It does not yet pass the facility-use bridge because the current evidence does n
 | Bain financing source summary | Needed to tie the acquisition and continued-growth wording to specific debt financing terms. |
 | Acquisition/use schedule | Needed to separate organic growth, add-on acquisitions, working capital, refinancing, and liquidity. |
 | Payoff or UCC evidence | Needed before making any bank-replacement or prior-debt-refinancing claim. |
+| Cash-interest and repayment records | Needed to distinguish contractual spread/PIK markers and fair-value marks from cash interest received, principal repayment, recovery, or realized lender return. |
 
 ## Current Safe Answer
 
@@ -55,7 +56,8 @@ Safe sentence:
 | Bain acquired or invested in Frontline from Sterling. | proven | Use. |
 | Ares had a lead-arranger/bookrunner role for a senior secured facility supporting continued growth plans. | proven from transaction release | Use. |
 | Multiple SEC-filed holder vehicles reported Frontline debt or commitments. | proven | Use. |
-| Q2 2026 same-period visible fair value is `198.6750M USD` with `0.6120M USD` unfunded commitment. | proven within generated controls | Use as partial holder exposure only. |
+| Q2 2026 same-period reported fair-value breadth is `622.8244M USD` with `130.7960M USD` reported commitments. | proven within generated controls | Use as non-controlled holder breadth only; retain `198.6750M USD` as the controlled lower bound. |
+| Contractual spreads, PIK markers, and fair values equal realized lender returns. | unproven | Do not use; cash-interest, principal, recovery, and repayment records are missing. |
 | The holder rows equal total facility size. | unproven | Do not use. |
 | The facility funded organic capex or productive capacity. | unproven | Do not use. |
 | The facility funded acquisitions or refinancing. | unproven | Do not use. |

@@ -40,3 +40,15 @@ Use evidence tags:
 
 - No dedicated local Aon `2Q26` company-posted results PDF or HTML capture was preserved in this workspace beyond the IR home pointer and the filed SEC materials.
 - No local prepared remarks or full earnings-call transcript capture was collected for `4Q25`, `1Q26`, or `2Q26`.
+
+## Current repository primary artifacts
+
+The following machine-readable SEC artifacts are preserved in the current
+workspace and supersede the stale legacy-tree paths above for filing
+verification:
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/insurance-brokers/aon-plc/2025-10k.html) | `938e6f95f04ae29a61509edfccacc03a6fa1cff2bfebf159a6409d50898cb442` |
+| SEC submissions index | [sec-submissions.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/insurance-brokers/aon-plc/sec-submissions.json) | preserved |
+| SEC companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/insurance-brokers/aon-plc/companyfacts.json) | `819d4d3a03c706da9d0db33b6640c98509d9eb9957a556433db54ecd9650a775` |

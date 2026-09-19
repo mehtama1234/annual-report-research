@@ -1,0 +1,3 @@
+company,period,operating_cash_flow_musd,property_equipment_spend_musd,mechanical_ocf_less_spend_musd,ar_change_musd,inventory_change_musd,ap_change_musd,operating_working_capital_change_musd,conversion_status,owner_cash_status,next_promotion_source
+WESCO,H1 2026,275.1,-51.6,223.5,615.4,409.2,709.8,314.8,reported-cash-conversion-screen,normalized-owner-cash-open,"same-period revenue/gross-profit, lease/tax, supplier-finance/acquisition, maintenance-capital and dilution bridge"
+Fastenal,H1 2026,644.1,-123.0,521.1,312.1,-12.8,83.0,216.3,reported-cash-conversion-screen,normalized-owner-cash-open,"same-period revenue/gross-profit, lease/tax, supplier-finance/acquisition, maintenance-capital and service-burden bridge"

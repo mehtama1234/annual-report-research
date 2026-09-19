@@ -1,0 +1,7 @@
+row_id,cusip,source_schedule,source_page,disposition,amount_usd,treatment,proof_boundary
+SVFRCB-001,G7741@-AC-4,Schedule D Part 4,6141,Paydown,35573813.00,selected-cash-like-candidate,settlement and column semantics remain open
+SVFRCB-002,G7741@-AC-4,Schedule D Part 5,6312,Direct 10/08/2025 Paydown,9884715.00,selected-cash-like-candidate,settlement and column semantics remain open
+SVFRCB-003,G7741@-AC-4,Schedule D Part 5,6312,PRIVATE 10/08/2025 Paydown,5292517.00,selected-cash-like-candidate,settlement and column semantics remain open
+SVFRCB-004,G7741@-AC-4,Schedule D Part 5,6312,Direct 10/15/2025 Tax Free Exchange,1327839430.00,noncash-transfer-hold,does not enter cash subtotal
+SVFRCB-005,G7741@-AC-4,Schedule D Part 5,6312,PRIVATE 10/16/2025 Tax Free Exchange,710957677.00,noncash-transfer-hold,does not enter cash subtotal
+SVFRCB-006,G7741@-AC-4,Schedule D Part 4 plus Part 5,6141 plus 6312,Mixed total,2089548152.00,headline-consideration-total,must not be treated as cash without settlement proof

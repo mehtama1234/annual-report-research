@@ -1,0 +1,8 @@
+field,observed_value,status,proof_boundary
+new_financing,$550M 0% senior unsecured exchangeable notes due 2032 including exercised $50M option; approximately $533.6M net proceeds,issued-and-proceeds-visible,exact capped-call cash cost final cash allocation and post-close liquidity remain open
+target_debt,$500M 7.875% senior unsecured notes due 2030,conditional redemption pending for September 24 2026,no final settlement or holder-payment record
+redemption_price,103.938% plus accrued and unpaid interest,notice term,final cash paid requires completed financing and settlement
+derived_redemption_cash_floor,$519.690M before accrued interest,calculated,$500M principal multiplied by 103.938%; excludes accrued interest fees taxes and settlement costs
+exchangeable_terms,0% notes with no principal accretion; initial exchange price approximately $96.80; maximum initial exchange amount up to 7,812,475 shares; capped-call cap price initially $123.20; cash up to principal and cash/shares above principal may settle exchange,final instrument settlement-election and dilution controls visible,actual exchange cash/share settlement capped-call cash cost and realized dilution remain open
+funding_condition,at least $500M aggregate gross debt-financing proceeds,condition satisfied by $550M issuance,does not prove September 24 redemption settlement or available-cash contribution
+co_issuers,PBF Holding and PBF Finance,legal route visible,does not allocate cash to refinery entities or common-owner residual

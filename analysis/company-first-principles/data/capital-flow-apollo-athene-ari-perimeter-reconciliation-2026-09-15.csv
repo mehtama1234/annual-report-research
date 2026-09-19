@@ -1,0 +1,5 @@
+source,description,amount_busd,comparison_to_athene_buyer_pct,interpretation,source_artifact
+ARI proxy,Approximately 9B portfolio perimeter,9.0,3.45,Round-number transaction perimeter; not final settlement cash,analysis/company-first-principles/capital-flow-apollo-athene-ari-perimeter-reconciliation-2026-09-15.md
+ARI Q2 2026 10-Q,Approximately 8.6B sale amount,8.6,-1.15,Subsequent seller-side accounting perimeter; loan-level adjustments not disclosed,analysis/company-first-principles/capital-flow-apollo-athene-ari-perimeter-reconciliation-2026-09-15.md
+Athene Q2 2026 10-Q,Approximately 8.7B purchased portfolio including accrued interest,8.7,0.0,Buyer-side acquired-asset perimeter; not proof of borrower receipts or Apollo cash,analysis/company-first-principles/capital-flow-apollo-athene-ari-perimeter-reconciliation-2026-09-15.md
+Athene Q2 2026 earnings release,ARI-linked AUM outflow after portfolio sale,7.8,not-comparable,Buyer management-reporting classification; not purchase consideration or cash settlement,analysis/company-first-principles/capital-flow-apollo-athene-ari-perimeter-reconciliation-2026-09-15.md

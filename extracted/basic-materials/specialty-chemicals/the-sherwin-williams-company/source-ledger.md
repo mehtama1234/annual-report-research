@@ -32,5 +32,17 @@ Date baseline: 2026-08-09
 
 ## Missing evidence
 
+## Current-workspace artifact verification
+
+| Artifact | SHA-256 | Use |
+|---|---|---|
+| [Sherwin-Williams 2025 Form 10-K](/home/mehtama1/git-repo/annual-report-research/raw/sec/basic-materials/specialty-chemicals/the-sherwin-williams-company/2025-10k.html) | `7029967919d97b8e207075b20c5516f0e011ba9fcfc5a93ff07c54c0fd8d88cc` | Filed revenue, cash flow, acquisition, capital, debt, and segment evidence |
+| [Sherwin-Williams companyfacts](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/basic-materials/specialty-chemicals/the-sherwin-williams-company/companyfacts.json) | `75ef555a24c3fad594f062ed70e1c36a9163efc4f86d0ae7b77281686593fad3` | Machine-readable multi-year denominator checks |
+| [Sherwin-Williams company packet](/home/mehtama1/git-repo/annual-report-research/extracted/basic-materials/specialty-chemicals/the-sherwin-williams-company/company-packet.md) | local packet | 2025–2026 operating and channel context |
+
+The 2025 filing gives a clean bridge: net operating cash of $3.452B, capital
+expenditures of $797.6M, and acquisitions net of cash acquired of $1.211B.
+Management also reports $789.8M of dividends and $1.656B of equity repurchases.
+
 - No direct local HTML snapshot of the AnnualReports company page is saved because the packet relies on a browser-verified verification note rather than a raw HTML capture.
 - No direct local HTML snapshot of the Sherwin-Williams investor pages is saved because shell fetches to those pages triggered a Cloudflare challenge on `2026-08-09`.

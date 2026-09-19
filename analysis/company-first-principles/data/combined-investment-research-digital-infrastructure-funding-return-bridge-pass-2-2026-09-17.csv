@@ -1,0 +1,22 @@
+company,period,object,value,unit,status,interpretation,what_it_does_not_prove,next_required_source
+Equinix,H1 2026,operating_cash_flow,1784,USD millions,observed,reported operating cash,owner cash,project return bridge
+Equinix,H1 2026,property_plant_equipment_purchases,2834,USD millions,observed,growth and maintenance capital combined,project return,capex classification and project ledger
+Equinix,H1 2026,real_estate_acquisitions,224,USD millions,observed,additional investment burden,post-close NOI or return,acquisition cohort return
+Equinix,H1 2026,full_visible_growth_residual,-1274,USD millions,calculated,OCF less PP&E less acquisitions,destruction of value,commencement and stabilized NOI
+Equinix,H1 2026,xscale_equity_method_investments,735,USD millions,observed,partner/JV capital surface,common-owner cash,JV ownership and project economics
+Equinix,June 30 2026,senior_note_principal,19873,USD millions,observed,senior financing claim,net debt or project allocation,debt maturity and project funding
+Equinix,June 30 2026,unaccrued_capex_commitments,6100,USD millions,observed,future liquidity claim,cash paid or project return,commitment schedule and project allocation
+Equinix,June 30 2026,other_purchase_commitments,2100,USD millions,observed,power/supplier claim,owner cash or liability timing,purchase and power contracts
+Equinix,H1 2026,dividends,1029,USD millions,observed,common distribution,distributable surplus,post-growth waterfall
+Digital Realty,H1 2026,operating_cash_flow,1595,USD millions,observed,reported operating cash,owner cash,project return bridge
+Digital Realty,H1 2026,cash_basis_capex,1627,USD millions,observed,total physical capital,project return,project capex ledger
+Digital Realty,H1 2026,development_capex,1477,USD millions,observed,development growth capital,stabilized return,project commencement/yield
+Digital Realty,H1 2026,recurring_capex,136,USD millions,observed,reported recurring-capital screen,full physical maintenance,maintenance definition
+Digital Realty,H1 2026,acquisition_asset_acquisition_spend,2170,USD millions,observed,additional investment burden,post-close NOI or return,acquisition cohort return
+Digital Realty,H1 2026,full_visible_growth_residual,-2202,USD millions,calculated,OCF less capex less acquisition screen,destruction of value,project return and partner funding
+Digital Realty,YTD 2026,ATM_equity_proceeds,2500,USD millions,observed,common-equity funding source,per-share value creation,share issuance and project allocation
+Digital Realty,June 30 2026,consolidated_debt,18768,USD millions,observed,senior financing claim,project debt service or return,debt maturity and project allocation
+Digital Realty,June 30 2026,pro_rata_unconsolidated_secured_debt,2000,USD millions,observed,off-parent project claim,common-owner residual,JV debt and guarantee schedule
+Digital Realty,May 2026,fund_contribution_gross_proceeds,447,USD millions,observed,partner-capital transaction,net cash return or retained economics,fund ownership and distribution waterfall
+Digital Realty,Q2 2026,bookings_at_share,208,USD millions,observed,demand/visibility signal,current cash or stabilized NOI,commencement and collection
+Digital Realty,July 2026,annualized_base_rent_from_hyperscale_leases,205,USD millions,observed,signed rent signal,realized cash or project return,commencement and tenant acceptance

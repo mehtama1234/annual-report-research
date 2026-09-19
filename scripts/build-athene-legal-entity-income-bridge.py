@@ -11,6 +11,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 COMPACT = ROOT / "analysis/company-first-principles/data/capital-flow-apollo-athene-statutory-compact-extraction-pass-1.csv"
 RECON = ROOT / "analysis/company-first-principles/data/capital-flow-apollo-athene-statutory-schedule-d-reconciliation-diagnostic-pass-1.csv"
+PAGE18_RECON = ROOT / "analysis/company-first-principles/data/capital-flow-apollo-athene-statutory-page18-schedule-d-income-reconciliation-pass-3.csv"
+LIABILITY_BRIDGE = ROOT / "analysis/company-first-principles/data/capital-flow-apollo-athene-statutory-liability-interest-burden-bridge-pass-1.csv"
+LIABILITY_LOB_BRIDGE = ROOT / "analysis/company-first-principles/data/capital-flow-apollo-athene-statutory-liability-interest-by-line-of-business-pass-1.csv"
+DERIVATIVE_HEDGE_BOUNDARY = ROOT / "analysis/company-first-principles/data/capital-flow-apollo-athene-statutory-derivative-hedge-boundary-pass-1.csv"
 OUT = ROOT / "analysis/company-first-principles/data/capital-flow-apollo-athene-statutory-legal-entity-income-cash-bridge-pass-1.csv"
 
 FIELDNAMES = [
@@ -51,6 +55,39 @@ def reconciliation_metrics() -> dict[str, Decimal]:
             metrics[f"{scope}:parser_book"] = Decimal(row["parser_value"])
             metrics[f"{scope}:reference_book"] = Decimal(row["statutory_reference_value"])
             metrics[f"{scope}:coverage"] = Decimal(row["coverage_ratio"])
+    return metrics
+
+
+def page18_reconciliation_metrics() -> dict[str, Decimal]:
+    metrics: dict[str, Decimal] = {}
+    with PAGE18_RECON.open(newline="") as f:
+        for row in csv.DictReader(f):
+            metrics[row["reconciliation_id"]] = Decimal(row["value_usd"])
+    return metrics
+
+
+def liability_metrics() -> dict[str, Decimal]:
+    metrics: dict[str, Decimal] = {}
+    with LIABILITY_BRIDGE.open(newline="") as f:
+        for row in csv.DictReader(f):
+            bridge_id = row["bridge_id"]
+            metrics[bridge_id] = Decimal(row["derived_difference_usd"] if bridge_id in {"LIBUR-003", "LIBUR-004", "LIBUR-005"} else row["value_usd"])
+    return metrics
+
+
+def liability_lob_metrics() -> dict[str, Decimal]:
+    metrics: dict[str, Decimal] = {}
+    with LIABILITY_LOB_BRIDGE.open(newline="") as f:
+        for row in csv.DictReader(f):
+            metrics[row["bridge_id"]] = Decimal(row["value_usd"])
+    return metrics
+
+
+def derivative_metrics() -> dict[str, Decimal]:
+    metrics: dict[str, Decimal] = {}
+    with DERIVATIVE_HEDGE_BOUNDARY.open(newline="") as f:
+        for row in csv.DictReader(f):
+            metrics[row["boundary_id"]] = Decimal(row["value_usd"])
     return metrics
 
 
@@ -96,6 +133,10 @@ def add(
 def main() -> None:
     compact = compact_metrics()
     recon = reconciliation_metrics()
+    page18_recon = page18_reconciliation_metrics()
+    liability = liability_metrics()
+    liability_lob = liability_lob_metrics()
+    derivative = derivative_metrics()
 
     schedule_d_book = compact["total_bonds_book_adjusted_carrying_value"]
     near_reconciled_schedule_d = recon["Schedule D Part 1 Section 1 plus Section 2:parser_book"]
@@ -175,6 +216,72 @@ def main() -> None:
         "Other unaffiliated plus affiliated bond income is visible against the Schedule D bond base.",
         "The statutory exhibit is category-level and does not assign income to CUSIPs.",
         "Separate affiliated, unaffiliated, issuer-credit, ABS, and other bond income where page detail allows.",
+    )
+    add(
+        rows,
+        "bond-income",
+        "page18_collected_bond_income_to_schedule_d_reconstructed_bond_base",
+        page18_recon["P18SDR-001"],
+        schedule_d_book,
+        "near-reconciled-statutory-collected-bond-control",
+        "The page-18 collected bond category is reconstructed from Part 1 and Part 4/5 Schedule D received fields plus the page-18 footnote adjustment within $2.",
+        "This is a legal-entity statutory income reconciliation, not borrower remittance, liability-adjusted return, or Apollo common-owner cash.",
+        "Carry the $2 source difference as tolerance and obtain liability-cost and named-settlement evidence.",
+    )
+    add(
+        rows,
+        "liability-funding",
+        "net_investment_income_less_contract_or_deposit_interest_adjustments",
+        liability["LIBUR-003"],
+        liability["LIBUR-001"],
+        "bounded-liability-burden-screen",
+        "The same-period statutory line for interest and adjustments on contract or deposit-type contract funds can be compared with net investment income.",
+        "Mechanical residual is not a normalized spread, distributable cash, return, or Apollo owner residual.",
+        "Allocate the burden by liability block and add expenses, hedges, taxes, capital charges, and owner claims.",
+    )
+    add(
+        rows,
+        "liability-funding",
+        "individual_annuity_liability_interest_burden_to_summary_liability_interest",
+        liability_lob["LIBLOB-002"],
+        liability_lob["LIBLOB-001"],
+        "line-of-business-allocation-visible",
+        "The statutory line-of-business schedules show the individual-annuity portion of the liability-interest-and-adjustments burden against the summary total.",
+        "The individual-annuity total still aggregates multiple product blocks and does not prove credited rates, asset allocation, or owner cash.",
+        "Obtain product/reserve-block credited-rate, duration, surrender, hedge, and expense allocation detail.",
+    )
+    add(
+        rows,
+        "liability-funding",
+        "group_annuity_liability_interest_burden_to_summary_liability_interest",
+        liability_lob["LIBLOB-003"],
+        liability_lob["LIBLOB-001"],
+        "line-of-business-allocation-visible",
+        "The statutory line-of-business schedules show the group-annuity portion of the liability-interest-and-adjustments burden against the summary total.",
+        "The group-annuity total does not identify contracts, credited rates, funding source, or legal-entity-to-Apollo cash.",
+        "Obtain group-annuity block-level credited-rate and liability-cost detail.",
+    )
+    add(
+        rows,
+        "hedge-and-liability-risk",
+        "gross_derivative_assets_to_core_invested_asset_base",
+        derivative["DERIV-001"],
+        invested_base,
+        "hedge-scale-visible",
+        "The statutory notes quantify a derivative asset population while describing indexed-annuity crediting and asset-liability mismatch hedge mechanisms.",
+        "Gross derivative assets are not hedge cost, cash settlement, hedge effectiveness, product allocation, or owner cash.",
+        "Join Schedule DB positions, derivative cash flows, gains/losses, and product or liability-block allocation.",
+    )
+    add(
+        rows,
+        "hedge-and-liability-risk",
+        "schedule_db_termination_considerations_to_part_a_ending_book_value",
+        derivative["DERIV-008"],
+        derivative["DERIV-013"],
+        "derivative-cash-control-visible",
+        "Schedule DB Part A shows consideration received or paid on terminations against the displayed ending book/adjusted carrying value.",
+        "This is a derivative turnover screen, not net hedge return, policyholder cost, parent receipt, or owner cash.",
+        "Match terminated contracts to counterparties, premiums, collateral, hedged items, liability purpose, and cash-flow classifications.",
     )
     add(
         rows,

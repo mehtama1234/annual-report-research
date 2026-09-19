@@ -41,3 +41,10 @@ Use evidence tags:
 
 - No separate official earnings-call transcript was collected for the in-scope quarters.
 - No locally downloaded Ferguson-hosted annual-report PDF was preserved because the shell-accessible IR index pages were Cloudflare-protected; the packet relies on direct SEC filings and official result-page URLs instead.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/2025-10k.html) | `f95463f8b8bdce67c4ebcc264d7b695fdafdd9ba11530d70284da1b9410d2fb8` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/industrial-goods/plumbing-hvac-distribution/ferguson-enterprises-inc/companyfacts.json) | `d26aa7651235a23cc2c6cb3d23f0df77f35b3d191541c6eb8cbbdd26e0fc5931` |

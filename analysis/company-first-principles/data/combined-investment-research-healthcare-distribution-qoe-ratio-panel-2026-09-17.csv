@@ -1,0 +1,4 @@
+company,fiscal_period,revenue_usd_b,ocf_usd_b,capex_usd_b,acquisition_investment_usd_b,ocf_conversion_pct,post_capex_conversion_pct,acquisition_intensity_pct,gaap_eps,adjusted_eps,adjusted_to_gaap_ratio,diagnostic_status
+McKesson,FY2025,359.100,6.085,0.859,0.024,1.695,1.455,0.007,,,,diagnostic
+Cencora,FY2025,321.300,3.875,0.668,4.292,1.206,0.998,1.335,7.96,16.00,2.010,diagnostic
+Cardinal Health,FY2025,222.600,2.397,0.547,5.300,1.077,0.831,2.381,6.45,8.24,1.277,diagnostic

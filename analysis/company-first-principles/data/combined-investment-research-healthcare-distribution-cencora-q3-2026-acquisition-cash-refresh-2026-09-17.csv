@@ -1,0 +1,17 @@
+period,metric,value,unit,interpretation,source
+9M FY2026,operating cash flow,1687.530,USD millions,reported OCF,2026 Q3 10-Q
+9M FY2026,capital expenditures,511.033,USD millions,visible reinvestment,2026 Q3 10-Q
+9M FY2026,acquisition cash net of cash acquired,4973.696,USD millions,visible acquisition burden,2026 Q3 10-Q
+9M FY2026,residual after acquisition and capex,-3797.199,USD millions,OCF less capex and acquisition cash,calculated
+9M FY2026,adjusted free cash flow,1142.3,USD millions,management metric after legal-settlement adjustment,2026 Q3 earnings release
+9M FY2026,share repurchases,1008.301,USD millions,financing distribution,2026 Q3 10-Q
+9M FY2026,cash dividends,360.561,USD millions,financing distribution,2026 Q3 10-Q
+June 30 2026,cash and cash equivalents,2815.291,USD millions,reported liquidity,2026 Q3 10-Q
+June 30 2026,total debt,11723.241,USD millions,senior claim,2026 Q3 10-Q
+June 30 2026,accounts receivable,25448.105,USD millions,working-capital exposure,2026 Q3 10-Q
+June 30 2026,inventories,21030.344,USD millions,working-capital exposure,2026 Q3 10-Q
+OneOncology,net cash paid,4589.829,USD millions,acquisition cash perimeter,2026 Q3 10-Q
+OneOncology,estimated contingent consideration,752.141,USD millions,retained-equity/conditional claim,2026 Q3 10-Q
+OneOncology,remeasurement gain,1086.6,USD millions,non-operating accounting gain,2026 Q3 10-Q
+9M FY2026,LIFO credit,381.896,USD millions,volatile adjustment,2026 Q3 earnings release
+9M FY2026,opioid/litigation credit,160.936,USD millions,claim-related adjustment,2026 Q3 earnings release

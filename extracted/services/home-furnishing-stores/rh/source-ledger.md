@@ -2,9 +2,18 @@
 
 Date baseline: 2026-08-10
 
+> **Local-artifact status:** The packet and this ledger are present in the
+> current checkout. RH's FY2025 10-K, Q3 FY25 10-Q/8-K, and Q1 FY26 10-Q have
+> been restored under
+> the documented `raw/sec/...` identity with SHA-256 records in
+> `notes/rh-wayfair-restored-artifacts-2026-09-14.tsv`. The remaining IR and
+> earlier quarterly artifacts still have legacy paths; see the [RH and Wayfair
+> reproducibility note](../../../../notes/reproducibility-gap-rh-wayfair-2026-09-14.md)
+> for the exact boundary and official recovery links.
+
 ## Sources
 
-| ID | Source | Date | Type | Why it matters | Tag | Local path |
+| ID | Source | Date | Type | Why it matters | Tag | Recorded legacy path |
 |---|---|---|---|---|---|---|
 | RH-T1 | AnnualReports.com RH verification note | 2026-08-10 | Aggregator verification note | Confirms RH taxonomy and shows AnnualReports still lagged at `2024` | `[Reported]` | [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/annualreports/services/home-furnishing-stores/rh/annualreports-verification.md) |
 | RH-T2 | RH IR source links note | 2026-08-10 | Official IR link map | Captures the authoritative annual and quarterly IR entry points | `[Disclosed]` | [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/home-furnishing-stores/rh/ir-source-links.md) |
@@ -15,13 +24,13 @@ Date baseline: 2026-08-10
 | RH-T7 | RH Q4 FY25 results PDF | 2026-04-02 | Earnings release PDF | Official year-end results artifact | `[Disclosed]` | [2025-q4-results.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/home-furnishing-stores/rh/2025-q4-results.pdf) |
 | RH-T8 | RH Q1 FY26 shareholder letter PDF | 2026-06-12 | Shareholder letter PDF | Official latest-quarter narrative artifact in scope | `[Disclosed]` | [2026-q1-shareholder-letter.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/home-furnishing-stores/rh/2026-q1-shareholder-letter.pdf) |
 | RH-T9 | RH SEC submissions JSON | 2026-08-10 | SEC index JSON | Verifies legal name, ticker, exchange, fiscal year-end, and the relevant filing chain | `[Filed]` | [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/home-furnishing-stores/rh/sec-submissions.json) |
-| RH-T10 | RH 2025 Form 10-K | 2026-04-09 | Annual filing HTML | Official annual filing for fiscal `2025` | `[Filed]` | [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/home-furnishing-stores/rh/2025-10k.html) |
-| RH-T11 | RH Q3 FY25 10-Q | 2025-12-11 | Quarterly filing HTML | Official quarterly filing for Q3 FY25 | `[Filed]` | [2025-q3-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/home-furnishing-stores/rh/2025-q3-10q.html) |
-| RH-T12 | RH Q3 FY25 8-K | 2025-12-11 | Current-report HTML | Official SEC wrapper for the Q3 FY25 results release | `[Filed]` | [2025-q3-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/home-furnishing-stores/rh/2025-q3-8k.html) |
+| RH-T10 | RH 2025 Form 10-K | 2026-04-09 | Annual filing HTML | Official annual filing for fiscal `2025` | `[Filed]` | [2025-10k.html](../../../../raw/sec/services/home-furnishing-stores/rh/2025-10k.html) |
+| RH-T11 | RH Q3 FY25 10-Q | 2025-12-11 | Quarterly filing HTML | Official quarterly filing for Q3 FY25 | `[Filed]` | [2025-q3-10q.html](../../../../raw/sec/services/home-furnishing-stores/rh/2025-q3-10q.html) |
+| RH-T12 | RH Q3 FY25 8-K | 2025-12-11 | Current-report HTML | Official SEC wrapper for the Q3 FY25 results release | `[Filed]` | [2025-q3-8k.html](../../../../raw/sec/services/home-furnishing-stores/rh/2025-q3-8k.html) |
 | RH-T13 | RH Q3 FY25 press release exhibit | 2025-12-11 | Earnings exhibit HTML | Preserves the official filed Q3 FY25 release text | `[Filed]` | [2025-q3-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/home-furnishing-stores/rh/2025-q3-press-release.html) |
 | RH-T14 | RH Q4 FY25 8-K | 2026-04-02 | Current-report HTML | Official SEC wrapper for the year-end release | `[Filed]` | [2025-q4-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/home-furnishing-stores/rh/2025-q4-8k.html) |
 | RH-T15 | RH Q4 FY25 press release exhibit | 2026-04-02 | Earnings exhibit HTML | Preserves the official filed year-end release text | `[Filed]` | [2025-q4-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/home-furnishing-stores/rh/2025-q4-press-release.html) |
-| RH-T16 | RH Q1 FY26 10-Q | 2026-06-12 | Quarterly filing HTML | Official quarterly filing for the latest quarter in scope | `[Filed]` | [2026-q1-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/home-furnishing-stores/rh/2026-q1-10q.html) |
+| RH-T16 | RH Q1 FY26 10-Q | 2026-06-12 | Quarterly filing HTML | Official quarterly filing for the latest quarter in scope | `[Filed]` | [2026-q1-10q.html](../../../../raw/sec/services/home-furnishing-stores/rh/2026-q1-10q.html) |
 | RH-T17 | RH Q1 FY26 8-K | 2026-06-12 | Current-report HTML | Official SEC wrapper for the latest-quarter results release | `[Filed]` | [2026-q1-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/home-furnishing-stores/rh/2026-q1-8k.html) |
 | RH-T18 | RH Q1 FY26 press release exhibit | 2026-06-12 | Earnings exhibit HTML | Preserves the official filed latest-quarter release text | `[Filed]` | [2026-q1-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/home-furnishing-stores/rh/2026-q1-press-release.html) |
 
@@ -38,4 +47,7 @@ Date baseline: 2026-08-10
 ## Missing evidence
 
 - No local earnings-call transcript was saved for RH in this batch.
+- The FY2025 10-K and Q1 FY26 10-Q are now locally recoverable. The IR PDFs,
+  SEC wrappers/exhibits, and earnings-call transcript remain unavailable in
+  this checkout and retain their recorded legacy paths.
 - The IR site relies heavily on shareholder-letter formatting, so the main interpretive narrative sits in those letters and filed exhibits rather than in a large separate transcript archive.

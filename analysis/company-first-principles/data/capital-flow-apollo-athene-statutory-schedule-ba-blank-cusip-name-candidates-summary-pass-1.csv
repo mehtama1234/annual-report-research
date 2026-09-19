@@ -1,0 +1,4 @@
+status,count,boundary
+ambiguous-or-partial-name-candidate,42,Candidate classification only; no fuzzy match is promoted.
+no-strong-name-candidate,9,Candidate classification only; no fuzzy match is promoted.
+unique-high-coverage-name-candidate,33,Candidate classification only; no fuzzy match is promoted.

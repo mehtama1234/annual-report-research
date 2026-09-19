@@ -1,0 +1,25 @@
+period,object,value,unit,status,interpretation,what_it_does_not_prove,next_required_source
+FY2025,operating_cash_flow,6085,USD millions,observed,annual reported cash,normalized annual owner cash,working-capital bridge
+FY2025,property_plant_equipment,537,USD millions,observed,physical reinvestment,maintenance/growth split,capex classification
+FY2025,capitalized_software,322,USD millions,approximate,technology investment,maintenance/growth split,software schedule
+FY2025,acquisitions,24,USD millions,observed,investment cash,return,acquisition cohort
+FY2025,mechanical_residual,5202,USD millions,calculated,OCF less listed uses,distributable cash,claims and working-capital normalization
+FY2025,share_repurchases,3146,USD millions,observed,capital return,operating surplus,repurchase funding
+FY2025,year_end_cash,5691,USD millions,observed,liquidity surface,legal availability,restricted cash and claims
+FY2025,long_term_debt,5654,USD millions,observed,senior claim,net debt or owner cash,debt schedule
+Q1 FY2027,operating_cash_flow,-220,USD millions,observed,quarterly negative conversion,annualized cash,matched-quarter panel
+Q1 FY2027,property_plant_equipment,112,USD millions,observed,physical reinvestment,maintenance/growth split,capex classification
+Q1 FY2027,capitalized_software,40,USD millions,observed,technology investment,maintenance/growth split,software schedule
+Q1 FY2027,acquisitions,23,USD millions,observed,investment cash,return,acquisition cohort
+Q1 FY2027,mechanical_residual,-395,USD millions,calculated,OCF less listed uses,permanent deficit,subsequent quarters
+Q1 FY2027,receivables_cash_use,2374,USD millions,observed,customer funding burden,structural deterioration,seasonal collections
+Q1 FY2027,inventory_cash_use,2074,USD millions,observed,inventory funding burden,obsolescence or persistence,inventory cycle
+Q1 FY2027,ap_drafts_cash_source,3773,USD millions,observed,vendor funding offset,repeatable cash margin,vendor settlement history
+March 31 2026,accounts_receivable,27985,USD millions,observed,comparison balance,collection quality,aging and receipts
+June 30 2026,accounts_receivable,30316,USD millions,observed,quarter-end exposure,collectibility,aging and receipts
+March 31 2026,inventory,24207,USD millions,observed,comparison balance,turns,inventory schedule
+June 30 2026,inventory,26259,USD millions,observed,quarter-end exposure,obsolescence,inventory schedule
+Q1 FY2027,shareholder_returns,2600,USD millions,approximate,capital allocation outflow,source of funds,financing waterfall
+Q1 FY2027,Apollo_preferred_capital,1250,USD millions,approximate,legal-entity funding contribution,common-owner cash,preferred/NCI terms
+Q1 FY2027,Medical_Surgical_Solutions_minority_ownership,13,percent,approximate,minority perimeter,segment common-owner cash,segment cash and redemption schedule
+Q1 FY2027,opioid_claim_credit,34,USD millions,observed,claim-related accounting credit,recurring cash or collection,claim cash schedule

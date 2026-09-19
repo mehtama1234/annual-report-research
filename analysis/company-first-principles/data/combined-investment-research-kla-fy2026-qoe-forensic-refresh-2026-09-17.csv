@@ -1,0 +1,23 @@
+field,fy2026_value,comparison_or_context,interpretation,status
+total_revenue,"$13.579B","FY2025 $12.156B; +12%","control-point scale; not owner cash",observed
+service_revenue,"$3.126B / 23%","FY2025 $2.683B; +16%","installed-base signal; service cost and renewal still required",observed
+single_customer_revenue_share,"approximately 19%","approximately 19% FY2025; 13% FY2024; TSMC identified","customer concentration and bargaining-power risk",observed
+international_revenue_share,"87%","89% FY2025 and FY2024","export, currency, tax, and geography exposure",observed
+china_taiwan_korea_revenue_share,"70.1%","ship-to geography; China 29.8%, Taiwan 26.8%, Korea 13.5%","regional concentration and policy exposure",calculated
+accounts_receivable,"$2.889B","$2.264B FY2025; +28%","cash conversion requires settlement; $641.8M operating-cash use",observed
+inventory,"$3.649B","$3.212B FY2025; +14%","cycle and obsolescence funding; $466.0M operating-cash use",observed
+accounts_payable_operating_cash_effect,"$172.4M","FY2026 cash-flow change","partial working-capital offset",observed
+deferred_system_revenue_operating_cash_effect,"$116.1M","FY2026 cash-flow change","contract-liability support, not earned margin",observed
+deferred_service_revenue_operating_cash_effect,"$(54.6)M","FY2026 cash-flow change","contract-liability movement reduced OCF",observed
+receivables_factored,"$515.5M","$230.6M FY2025; $254.9M FY2024","cash acceleration must be normalized for comparability",observed
+letters_of_credit_sold,"$86.0M","$55.5M FY2025; $22.2M FY2024","additional cash-conversion route",observed
+r_and_d,"$1.532B / 11% revenue","+13% year over year","potential economic maintenance burden",observed
+capital_expenditures,"$375.9M","$335.3M FY2025","narrow PP&E screen only",observed
+purchase_commitments,"$5.97B","majority due within next 12 months","supply and cash-claim burden",observed
+sbc,"$310.2M","$265.0M FY2025","dilution and noncash adjustment control",observed
+common_stock_repurchases,"$2.290B","$2.150B FY2025","capital return must be tested after SBC and reinvestment",observed
+dividends_and_equivalents,"$1.058B","$904.6M FY2025","common-owner cash use",observed
+senior_notes_principal,"$5.95B","maturities FY2029-FY2063","financing claim",observed
+fixed_rate_debt_swapped_to_floating,"$2.00B","100bp increase implies approximately $20M annual interest increase","rate sensitivity",observed
+ocf_less_ppe_screen,"$3.767B","$4.143B OCF less $375.9M capex","reported screen only; owner-cash promotion open",calculated
+normalized_owner_cash,"not calculated","requires maintenance R&D/service/inventory, factoring, claims, tax, debt, and dilution bridge","do not promote screen",missing

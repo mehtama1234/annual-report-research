@@ -38,3 +38,10 @@ Use evidence tags:
 ## Missing evidence
 
 - No official earnings-call transcript artifact was collected for Q4 2025, Q1 2026, or Q2 2026.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/industrial-electrical-equipment/vertiv-holdings-co/2025-10k.html) | `a11ed401fdc5988e5f3916033eee6f1b675d82dc5b0bfbcacdcc80d200d00bae` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/industrial-goods/electrical-equipment-supplies/vertiv-holdings-co/companyfacts.json) | `bd014465e4ffacad9de91c1c4afa057a4ec69ca9d2bded7fd660044be38a3ed3` |

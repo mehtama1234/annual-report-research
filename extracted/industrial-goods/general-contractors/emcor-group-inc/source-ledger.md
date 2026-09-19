@@ -41,3 +41,18 @@ Use evidence tags:
 ## Missing evidence
 
 - No official standalone earnings-call transcript artifact was collected for Q4 `2025`, Q1 `2026`, or Q2 `2026`.
+
+## Current repo raw artifacts
+
+The Q1 and Q2 `2026` primary quarter filings and the Q2 SEC earnings exhibit
+have now been reintegrated into the current repository raw tree. The Q1
+earnings release remains represented by the earlier packet/ledger chain.
+
+| Artifact | Current repo path | SHA-256 |
+|---|---|---|
+| Q1 2026 10-Q | [2026-q1-10q.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/general-contractors/emcor-group-inc/2026-q1-10q.html) | `e5fbab718f1f958dc2d8be4f9e178e5d8cf2d73e62c2be1fc4db5c0c47b65ade` |
+| Q2 2026 10-Q | [2026-q2-10q.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/general-contractors/emcor-group-inc/2026-q2-10q.html) | `f3616b5df806fd9e842f49c75c2197c7dbd78a403eb3940efc54b9b81d16a074` |
+| Q2 2026 earnings exhibit | [2026-q2-earnings-exhibit.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/general-contractors/emcor-group-inc/2026-q2-earnings-exhibit.html) | `aa800ad2e09576a311586477da3087c8b7f9a1dcb92693f12329476f7b835c58` |
+
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/general-contractors/emcor-group-inc/2025-10k.html) | `25eb2d14cda68250b69a22193aea3559687a2f2537b05d859cfd347153188426` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/industrial-goods/general-contractors/emcor-group-inc/companyfacts.json) | `84c31781c9a72f542041a31e473546dbd59c183699ea1b21ffd100425970df25` |

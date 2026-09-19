@@ -1,0 +1,23 @@
+company,period,metric,value,unit,status,interpretation,next_required_join
+Stryker,H1 2026,operating_cash_flow,1842,USD millions,observed,current operating cash improved post-Inari,Inari cohort margin and cash return
+Stryker,H1 2026,current_investing_cash_use,824,USD millions,observed,current investing burden is visible,property and acquisition cohort allocation
+Stryker,H1 2026,prior_period_inari_investing_context,4240,USD millions,observed,prior period carried major acquisition/property cash burden,post-close Inari return
+Stryker,H1 2026,debt_maturity_repayment,1000,USD millions,observed,senior financing claim reduced liquidity,debt/refinancing and owner-cash bridge
+Stryker,H1 2026,acquisition_integration_charges,44,USD millions,red-flag prompt,post-close integration burden remains visible,charge-to-cash-paid and cohort margin
+Stryker,H1 2026,structural_special_charges,213,USD millions,red-flag prompt,special-charge burden is material,recur/persist and cash-paid schedule
+Stryker,H1 2026,recall_related_charges,52,USD millions,red-flag prompt,quality claims affect earnings,recall cash and remediation schedule
+Intuitive Surgical,June 30 2026,da_vinci_installed_systems,11710,count,observed,installed base grew,procedures and cash pull-through
+Intuitive Surgical,June 30 2026,ion_installed_systems,1096,count,observed,second platform is scaling,utilization and economics
+Intuitive Surgical,H1 2026,instruments_accessories_revenue,3421,USD millions,observed,recurring consumable pull-through is visible,instruments per system and gross-margin bridge
+Intuitive Surgical,H1 2026,service_revenue,906,USD millions,observed,service layer is visible,service cost and renewal/collection bridge
+Intuitive Surgical,H1 2026,operating_lease_revenue,512,USD millions,observed,lease economics are material,lease receivables and cash collections
+Intuitive Surgical,H1 2026,variable_operating_lease_revenue,326,USD millions,observed,usage-linked revenue is material,usage-linked collection and system-cost recovery
+Intuitive Surgical,H1 2026,capitalized_stock_compensation,67.8,USD millions,observed,SBC scope crosses the balance sheet,full SBC and diluted-share reconciliation
+Intuitive Surgical,Q2 2026,share_repurchase_cash,380,USD millions,observed,capital return consumed cash,repurchase versus SBC and per-share cash
+Henry Schein,H1 2026,operating_cash_flow,145,USD millions,observed,reported operating cash is thin relative to sales,seasonal-normalized cash conversion
+Henry Schein,H1 2026,property_spending,55,USD millions,observed,physical reinvestment burden is visible,maintenance/growth classification
+Henry Schein,H1 2026,capitalized_software,30,USD millions,observed,software reinvestment is visible,maintenance/growth classification
+Henry Schein,H1 2026,acquisitions_and_equity_investments,30,USD millions,observed,investment cash burden is visible,acquisition/equity return
+Henry Schein,H1 2026,visible_pre_debt_residual,30,USD millions,diagnostic,OCF less listed reinvestment screen,senior claims and normalized owner cash
+Henry Schein,H1 2026,share_repurchase_cash,325,USD millions,observed,repurchases exceeded visible residual,funding bridge to debt/cash/securitization
+Henry Schein,June 27 2026,receivable_securitization_outstanding,430,USD millions,observed,liquidity depends partly on pledged receivables,collateral availability and collection stress

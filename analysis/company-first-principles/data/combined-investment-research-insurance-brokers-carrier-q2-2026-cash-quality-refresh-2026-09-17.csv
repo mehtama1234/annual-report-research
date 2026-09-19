@@ -1,0 +1,20 @@
+company,model,period,observed_metric,value,classification,boundary
+Marsh,broker/advisor,H1 2026,operating cash,$835M,observed,not normalized owner cash
+Marsh,broker/advisor,June 30 2026,commissions-and-fees receivables,$8.289B,observed,not a cash receipt
+Marsh,broker/advisor,June 30 2026,fiduciary cash,$12.203B,observed,not corporate cash
+Marsh,broker/advisor,H1 2026,share compensation,$235M,observed,requires dilution treatment
+Marsh,broker/advisor,H1 2026,acquisition consideration payments,$61M,observed,acquisition burden not recurring capex
+Arthur J. Gallagher,broker,H1 2026,operating cash,$967M,observed,not normalized owner cash
+Arthur J. Gallagher,broker,H1 2026,capital expenditures,$87M,observed,not total acquisition investment
+Arthur J. Gallagher,broker,H1 2026,acquisition earnout accretion,$22M,observed,requires cohort/earnout bridge
+Arthur J. Gallagher,broker,H1 2026,acquired-period revenue,$27M,observed,not full acquired return
+Chubb,carrier,Q2 2026,operating cash,$3.73B,observed,requires reserve and statutory reconciliation
+Chubb,carrier,Q2 2026,adjusted operating cash,$3.48B,adjusted,not clean owner cash
+Chubb,carrier,Q2 2026,P&C net premiums earned growth,5.5%,observed,not reserve adequacy or return proof
+Chubb,carrier,H1 2026,net unpaid losses and loss expenses at period end,$71.216B,observed,liability denominator not owner cash
+Chubb,carrier,H1 2026,gross unpaid losses and loss expenses at period end,$89.669B,observed,requires reinsurance recoverable reconciliation
+Chubb,carrier,H1 2026,reinsurance recoverable on unpaid losses,$18.453B,observed,assumes collectibility; not unrestricted cash
+Chubb,carrier,H1 2026,net losses and loss expenses paid,$11.353B,observed,claims cash burden; do not subtract twice from OCF
+Chubb,carrier,H1 2026,favorable prior-year reserve development,$584M,observed,requires cycle normalization; not recurring earnings proof
+Chubb,carrier,June 30 2026,worldwide 1-in-100 modeled pre-tax catastrophe PML,$5.650B,modeled,stress input not expected loss or reserve conclusion
+Chubb,carrier,June 30 2026,U.S. hurricane 1-in-100 modeled pre-tax catastrophe PML,$3.766B,modeled,5.0% of equity; assumes reinsurance collectibility

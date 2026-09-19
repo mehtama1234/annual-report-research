@@ -1,0 +1,3 @@
+continuity_id,period,source_page,cusip,issuer,book_value_usd,fair_value_usd,stated_rate,effective_rate,interest_due_accrued_usd,interest_received_usd,acquired_date,maturity_date,continuity_status,boundary
+BFFCR-001,FY2024,166,90231*-AA-0,2023 BEAR FINANCING L.P.,202125000,202771800,8.500,8.612,6585906,11604153,2024-01-05,2039-01-05,baseline-statutory-row,"not draw settlement borrower use liability cost or return"
+BFFCR-002,FY2025,239,90231*-AA-0,2023 BEAR FINANCING L.P.,202125000,202145213,8.500,6.999,6585906,17419245,2024-01-05,2039-01-05,period-continuity-row,"not draw settlement borrower use liability cost or return"

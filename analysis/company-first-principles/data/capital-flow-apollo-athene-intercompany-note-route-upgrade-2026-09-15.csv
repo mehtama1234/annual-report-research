@@ -1,0 +1,2 @@
+gate_id,entity,period,instrument,capacity_usd_m,receivable_usd_m,payable_usd_m,current_status,what_is_proven,missing_upgrade
+APO-091,Athene Holding Ltd. / Apollo Global Management Inc.,2026-06-30,"Unsecured revolving promissory note",500,279,0,athene-to-agm-financing-route-confirmed,"AHL is creditor and AGM borrower; period-end receivable balance and zero reciprocal AHL payable establish direct route direction","Intra-period draw and repayment dates bank account use of proceeds join to dividend receipt intercompany elimination and common-owner residual"

@@ -1,0 +1,22 @@
+period,object,value,unit,status,interpretation,what_it_does_not_prove,next_required_source
+FY2026,operating_cash_flow,5174,USD millions,observed,strong reported cash,normalized owner cash,working-capital bridge
+FY2026,acquisitions,1991,USD millions,observed,growth investment,acquisition return,Solaris and acquisition cohorts
+FY2026,property_and_equipment_capex,649,USD millions,observed,physical reinvestment,maintenance/growth split,capex classification
+FY2026,residual_after_acquisitions_capex,2534,USD millions,diagnostic,OCF less visible reinvestment,distributable owner cash,senior claims
+FY2026,treasury_share_purchases,1358,USD millions,observed,capital return,operating surplus,financing waterfall
+FY2026,dividends,491,USD millions,observed,capital distribution,owner cash residual,financing waterfall
+FY2026,long_term_debt_reduction,653,USD millions,observed,senior claim repayment,common-owner cash,debt schedule
+FY2026,residual_after_listed_uses,32,USD millions,diagnostic,stress screen after listed uses,final owner cash,tax lease NCI dilution bridge
+FY2026,solaris_acquisition_cash,1900,USD millions,approximate,largest named acquisition burden,post-close return,Solaris cohort financials
+FY2026,specialty_alliance_physician_management_units,500,USD millions,approximate,retained economic/dilution claim,current cash deduction,unit/call-right schedule
+FY2026,ADS_transaction_integration_cost,23,USD millions,observed,portfolio acquisition burden,nonrecurrence,charge persistence
+FY2026,GIA_Urology_transaction_integration_cost,11,USD millions,observed,portfolio acquisition burden,nonrecurrence,charge persistence
+FY2026,ION_transaction_integration_cost,5,USD millions,observed,portfolio acquisition burden,nonrecurrence,charge persistence
+FY2026,opioid_cash_paid,417,USD millions,observed,legal payment already inside OCF,additional deduction,remaining settlement and insurance schedule
+FY2026,prior_year_opioid_cash_paid,798,USD millions,observed,comparison legal burden,legal burden ended,remaining obligations
+FY2026,tariff_refund_receivable,200,USD millions,approximate,temporary receivable,realized cash or durable margin,collection/remittance evidence
+FY2026,tariff_net_operating_benefit,100,USD millions,approximate,temporary earnings benefit,recurring profit,refund and customer payback schedule
+FY2026,CVS_revenue_concentration,28,percent,observed,major customer exposure,collection/renewal quality,contract and receivable stress
+FY2026,CVS_gross_receivable_concentration,22,percent,observed,customer credit exposure,common-owner cash,aging and collections
+FY2026,top_five_customer_revenue_concentration,43,percent,observed,concentration broadens beyond CVS,customer durability,customer-level bridge
+FY2026,debt_and_finance_lease_obligations,8886,USD millions,observed,senior capital claim,net debt or owner cash,debt maturity and lease schedule

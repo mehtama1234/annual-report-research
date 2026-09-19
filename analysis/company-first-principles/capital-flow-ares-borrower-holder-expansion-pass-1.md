@@ -26,14 +26,14 @@ The normalized source set covers:
 
 ## Normalized Result
 
-The pass emits `83` normalized rows across `15` holder/source channel groups: `62` funded-holder rows, `8` pure unfunded-commitment rows, plus holder-locator and transaction-gap rows.
+The pass emits `95` normalized rows across `16` holder/source channel groups: `74` funded-holder rows, `8` pure unfunded-commitment rows, plus holder-locator and transaction-gap rows.
 
 The row-level table preserves every extracted row, including historical, comparative, mixed-quarter, and locator rows. Its row-level sums are useful for audit coverage, not for promoted exposure totals:
 
 | Metric | Amount | Boundary |
 |---|---:|---|
-| Row-level fair-value audit sum | `4259.3426M USD` | Mixed periods and comparative rows; do not promote as same-date exposure. |
-| Row-level unfunded-commitment audit sum | `332.1453M USD` | Mixed periods and commitment rows; do not add to drawn exposure. |
+| Row-level fair-value audit sum | `4683.4920M USD` | Mixed periods and comparative rows; do not promote as same-date exposure. |
+| Row-level unfunded-commitment audit sum | `462.3293M USD` | Mixed periods and commitment rows; do not add to drawn exposure. |
 | Unique borrower transaction / bank denominator context | `1500.0000M USD` | Atwell prior bank facility plus Jiffy sale value; not facility-size proof for the other borrowers. |
 
 For promoted borrower-level totals, use the master rollup rather than the row-level audit sum:
@@ -63,15 +63,16 @@ The taxonomy layer classifies each reporting entity or transaction source before
 | financing-source context | `1` | Legal-advisor financing context; not full lender group. |
 | middle-market lending fund | `1` | Middle-market fund holder visibility, often historical. |
 | multi-vehicle summary | `7` | Derived summary row; use underlying rows for holder proof. |
-| non-traded BDC / private credit fund | `15` | Private or non-listed credit vehicle visibility; investor channel still needs vehicle documents. |
+| non-traded BDC / private credit fund | `17` | Private or non-listed credit vehicle visibility; investor channel still needs vehicle documents. |
 | private credit / filing-source route evidence | `2` | Route evidence with unit/context limits. |
 | private credit fund | `4` | Private credit fund holder visibility; investor source still unproven. |
-| public BDC | `28` | SEC-reporting BDC holder rows; does not identify ultimate shareholder source. |
-| registered credit fund | `6` | Registered fund holder visibility; not whole facility proof. |
+| public BDC | `29` | SEC-reporting BDC holder rows; does not identify ultimate shareholder source. |
+| registered credit fund | `7` | Registered fund holder visibility; not whole facility proof. |
 | search status | `1` | Search-result status row; not exposure proof. |
 | sponsor transaction context | `2` | Sponsor transaction source; not lender allocation. |
 | transaction context | `3` | Transaction source context; not holder evidence or facility-size proof. |
 | transaction value context | `2` | Transaction value source; not debt facility size unless source says so. |
+| unclassified | `8` | Classification needs follow-up documentation. |
 
 ## Same-Period Borrower Summary
 
@@ -81,7 +82,7 @@ This table is the conservative current-period control. It deliberately excludes 
 |---|---|---:|---:|---:|---|---|
 | AeriTek | Q2 2026 | `2` | `59.6000M USD` | `0.0000M USD` | FY2025; FY2025 comparative; Q1 2026; Q3 2025 | Not full facility size or total debt. |
 | Atwell | Q2 2026 | `4` | `7.1860M USD` | `0.8880M USD` |  | Not full facility size or total debt. |
-| Frontline Road Safety | Q2 2026 | `4` | `198.6750M USD` | `0.6120M USD` | Q1 2026 | Not full facility size or total debt. |
+| Frontline Road Safety | Q2 2026 | `16` | `622.8244M USD` | `130.7960M USD` | Q1 2026 | Not full facility size or total debt. |
 | MAI Capital | Q2 2026 | `1` | `8.0000M USD` | `0.0000M USD` | 2025; FY2025 comparative; Q1 2026; Q3 2024 | Not full facility size or total debt. |
 | Precinmac | FY2024 | `4` | `274.8560M USD` | `8.3720M USD` |  | Not full facility size or total debt. |
 | Relation Insurance | Q2 2026 | `7` | `4.5480M USD` | `1.1960M USD` | FY2024; Q1 2026 | Not full facility size or total debt. |
@@ -95,7 +96,7 @@ This table is the conservative current-period control. It deliberately excludes 
 |---|---|---:|---:|---:|---:|---:|---:|---|
 | AeriTek | commercial refrigeration and foodservice equipment | `9` | `9` | `0` | `176.3085M USD` |  |  | `facility-size-missing` |
 | Atwell | critical infrastructure and engineering services | `5` | `5` | `3` | `16.1440M USD` | `1.7760M USD` | `200.0000M USD` | `prior-bank-denominator-visible; current-facility-size-missing` |
-| Frontline Road Safety | roadway safety and infrastructure services | `10` | `5` | `3` | `474.0427M USD` | `108.6000M USD` |  | `facility-size-missing` |
+| Frontline Road Safety | roadway safety and infrastructure services | `22` | `17` | `6` | `898.1921M USD` | `238.7840M USD` |  | `facility-size-missing` |
 | MAI Capital | wealth-management advisory consolidation | `11` | `8` | `4` | `113.5596M USD` | `26.2522M USD` |  | `facility-size-missing` |
 | Precinmac | precision manufacturing, aerospace, defense, semiconductor, and power | `5` | `5` | `3` | `549.7400M USD` | `16.7440M USD` |  | `facility-size-missing` |
 | Relation Insurance | insurance brokerage consolidation | `14` | `8` | `4` | `36.9690M USD` | `159.8200M USD` |  | `facility-size-missing` |

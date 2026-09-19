@@ -11,7 +11,18 @@ This note answers a narrower question than the earlier roadmap and audit files:
 - what is missing because lane closure is still too thin
 - what is missing because the synthesis is still below the intended proof standard
 
-This is based on the current `main` tree in `annual-report-research`, not on memory.
+This is based on the `main` tree as of `2026-08-11`, not on memory. It is a historical baseline, not the current completion state; the current tree should be checked against the live counts below before using any remaining-work claim.
+
+## Current reconciliation as of 2026-09-13
+
+The packet-support gaps recorded below have since been closed in the working tree:
+
+- `company-packet.md`: `524`
+- `company-profile.md`: `524`
+- `source-ledger.md`: `524`
+- remaining packet/profile/ledger parity gaps: `0`
+
+The remaining limitation is analytical depth, not missing packet-support files. The current valuation CSV contains `126` common-denominator rows. Apollo, Marsh, Chubb, and Ventas have specialized valuation treatments outside that CSV because their SOTP, broker-fee, insurer-capital, and REIT FFO/NAV denominators are not directly comparable to the common owner-cash rows.
 
 ## Bottom line
 
@@ -164,11 +175,11 @@ That means:
 
 ## Real remaining work
 
-If the goal is to finish the original mandate rather than do more maintenance theater, the remaining work is:
+If the goal is to finish the original mandate rather than do more maintenance theater, the remaining work, after the packet-support reconciliation above, is:
 
-1. close the `37` exact packet-support gaps
-2. deepen the thinnest requested sub-lanes with the most important missing flagship names
-3. raise the biggest synthesis claims to a stricter proof-page standard with named company evidence
+1. deepen the thinnest requested sub-lanes with the most important missing flagship names
+2. raise the biggest synthesis claims to a stricter proof-page standard with named company evidence
+3. complete comparable multi-year cash, capital, incentive, and valuation bridges for the companies still represented mainly by packet evidence
 
 ## Highest-value immediate next batch
 

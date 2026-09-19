@@ -44,5 +44,15 @@ Use evidence tags:
 
 ## Missing evidence
 
+## Current repository SEC artifact integrity
+
+| Artifact | SHA-256 | Role |
+|---|---|---|
+| [2025 Form 10-K](../../../../raw/sec/industrials/pollution-treatment-controls/ceco-environmental-corp/2025-10k.html) | `05466e9330d119ac849bb8dd4d94daa2f9306edf9fa63f4a76f3a6f34c9cb6ad` | Primary annual filing |
+| [SEC companyfacts](../../../../raw/sec/companyfacts/industrials/pollution-treatment-controls/ceco-environmental-corp/companyfacts.json) | `824632b2cee37c7e01d018d69301c7d3858a6c04b3f6d247269dfd16183adbd6` | GAAP denominator extraction |
+
+The exact FY2025 denominator set is checked by
+`scripts/verify-ceco-environmental-filing-denominators.py`.
+
 - No standalone earnings-call transcript artifact was identified or saved locally for `Q4 2025`, `Q1 2026`, or `Q2 2026`.
 - No `Q2 2026` `10-Q` was identified in the collected source set as of Monday, `2026-08-10`.

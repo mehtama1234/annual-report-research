@@ -28,3 +28,16 @@ Date baseline: 2026-08-08
 - A direct saved AnnualReports.com HTML artifact if shell access to `annualreports.com` becomes reliable later.
 - Local copies of the official `4Q25`, `1Q26`, and `2Q26` earnings-release PDFs and supplemental slide decks if a later fetch pass succeeds.
 - Local transcript artifacts if S&P Global posts or preserves them publicly in a later archive pass.
+
+## Current-workspace artifact verification
+
+| Artifact | SHA-256 | Use |
+|---|---|---|
+| [S&P Global 2025 Form 10-K](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/investment-brokerage-national/sp-global-inc/2025-10k.html) | `d0459da6541889f48ec4f3afaefcd9428540400b34b1c374ff02dfa8a6829fa4` | Filed segment, cash-flow, acquisition, disposition, debt, and capital-return evidence |
+| [S&P Global companyfacts](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/investment-brokerage-national/sp-global-inc/companyfacts.json) | `f392828aca3ccbf6288cd285dc099cfa91409c5dd08816846c4ac8d10b12291d` | Machine-readable denominator checks |
+| [S&P Global company packet](/home/mehtama1/git-repo/annual-report-research/extracted/financial/investment-brokerage-national/sp-global-inc/company-packet.md) | local packet | 2025–2026 operating context and latest quarter read-through |
+
+The filed 2025 cash bridge is $5.651B operating cash flow, $195M capital
+expenditures, $2.023B acquisitions net of cash acquired, and $1.549B proceeds
+from dispositions. The memo keeps the disposition proceeds separate from
+recurring cash and separately shows the $321M paid to noncontrolling interests.

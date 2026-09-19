@@ -34,3 +34,14 @@ Date baseline: 2026-08-08
 
 - A direct saved AnnualReports.com HTML artifact if shell access to `annualreports.com` becomes reliable later.
 - A saved `2Q26` Form `10-Q` if Apollo files it after the current collection date.
+
+## Current repository primary artifacts
+
+The following FY2025 SEC artifacts are preserved in the current workspace for
+machine-readable verification:
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/asset-management/apollo-global-management-inc/2025-10k.html) | `389943ddd07da957c60c2259ea020d34ef2f7e810e5a37919404a9d9bc7694d9` |
+| SEC submissions index | [sec-submissions.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/asset-management/apollo-global-management-inc/sec-submissions.json) | preserved |
+| SEC companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/asset-management/apollo-global-management-inc/companyfacts.json) | `93e28525e321a747035cd5ec42803a75303c84b45e6d6fcfccbc96618930838` |

@@ -29,3 +29,10 @@ Date baseline: 2026-08-10
 - No full `2025` annual-report PDF is saved locally for Grainger.
 - No earnings-call transcript is saved locally for Grainger.
 - No standalone SEC filing HTML is saved locally because direct archive requests returned `403`.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/industrial-equipment-components/ww-grainger-inc/2025-10k.html) | `6d453e86ce7328e35074ce0b9f5f729fb41bfe6300647bc46ab4b26029a1949d` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/industrial-goods/industrial-equipment-components/ww-grainger-inc/companyfacts.json) | `8d3ec595bc350ee93c25f411d8403337bf3535f81f761009d232be61774bb52b` |

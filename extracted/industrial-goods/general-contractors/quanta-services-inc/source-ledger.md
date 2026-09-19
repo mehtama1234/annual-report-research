@@ -38,6 +38,22 @@ Use evidence tags:
 - The official Quanta IR financial-results page is the cleanest bridge between the annual cycle and the last three quarters in scope.
 - No standalone glossy `2025` annual report PDF was exposed on the official financial-results page during this pass, but the official annual-report artifact is now saved locally through the SEC `ARS` filing path.
 
+## Current repository filing artifacts
+
+The fiscal 2025 10-K and Q1/Q2 2026 10-Qs are now preserved in the current
+repository SEC tree. Independent XBRL checks on the fiscal 2025 filing
+reproduce $2.230B of operating cash flow, $3.052B of net acquisition payments,
+$609M of PP&E purchases, $1.612B of operating income, and $181.9M of stock
+compensation. The backlog, contract-estimate, retainage, and acquisition-return
+questions therefore remain questions of economic quality rather than missing
+primary filing access.
+
+| Artifact | Current repo path | SHA-256 |
+|---|---|---|
+| Fiscal 2025 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/general-contractors/quanta-services-inc/2025-10k.html) | `dc2d12521fc9f5feb0511c4e076850b1b0a671dda07798d1155e8f4232c99f7b` |
+| Q1 2026 10-Q | [2026-q1-10q.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/general-contractors/quanta-services-inc/2026-q1-10q.html) | `0ac69962d949e82952cfede31ccbe8581f25452028d30c5dd4252b8c326d8c60` |
+| Q2 2026 10-Q | [2026-q2-10q.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/general-contractors/quanta-services-inc/2026-q2-10q.html) | `bab73becc52179586fe155bc1c0e3b8956e1dd08da291b8d5628ddf87151691a` |
+
 ## Missing evidence
 
 - No official earnings-call transcript artifact was collected for Q4 `2025`, Q1 `2026`, or Q2 `2026`.

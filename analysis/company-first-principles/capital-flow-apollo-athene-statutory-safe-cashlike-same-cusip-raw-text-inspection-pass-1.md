@@ -106,3 +106,10 @@ This pass does not prove:
 `apollo-athene-clean-same-cusip-raw-text-found-column-review-next`
 
 The next move is page-specific column/image inspection for pages `6276` and `6312`, then borrower/issuer mapping for the clean non-Treasury candidates.
+
+The [native coordinate diagnostic](data/capital-flow-apollo-athene-statutory-schedule-d-coordinate-column-diagnostic-2026-09-15.csv)
+now captures both held rows after expanding the CUSIP pattern to preserve the
+source's `*` marker. Page `6276` exposes the AMAPS row's positioned values
+including `268,000,000` and `3,986,842`; page `6312` exposes the Eliant row's
+positioned values including `1,806,570` and `43,047`. These are native
+coordinate observations only; they are not yet assigned to accounting columns.

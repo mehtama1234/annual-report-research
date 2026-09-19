@@ -1,0 +1,25 @@
+field,period,value,unit,status,what_it_proves,what_it_does_not_prove,next_required_source
+accounts_receivable,June 30 2026,770.671,USD millions,observed,collection exposure is material,project collections or cash realization,aging and collection roll-forward
+accounts_receivable_comparison,December 31 2025,501.163,USD millions,observed,receivables increased 269.508,that the increase converted to cash,aging and subsequent receipts
+contract_assets,June 30 2026,156.295,USD millions,observed,unbilled project claims are material,realized owner cash,project-level billing and settlement
+contract_assets_comparison,December 31 2025,101.154,USD millions,observed,contract assets increased 55.141,that the increase converted to cash,project-level billing and settlement
+contract_liabilities,June 30 2026,802.601,USD millions,observed,customer billing/work progression is material,collected cash or project profitability,project billings and collections
+contract_liabilities_comparison,December 31 2025,652.357,USD millions,observed,contract liabilities increased 150.244,that the increase is durable owner cash,project billings and collections
+contract_asset_retainage,June 30 2026,72.8,USD millions,observed,retainage is embedded in contract assets,collection timing or margin quality,retainage aging and release
+contract_liability_retainage,June 30 2026,197.1,USD millions,observed,customer retainage remains tied to completion,available owner cash,contract-by-contract completion and settlement
+accounts_payable,June 30 2026,316.019,USD millions,observed,supplier funding is material,supplier-finance-adjusted owner cash,supplier payment and finance disclosures
+operating_cash_flow,H1 2026,328.021,USD millions,observed,reported operating cash generation,normalized owner cash,working-capital and acquisition cohort bridge
+capital_expenditures,H1 2026,69.646,USD millions,observed,company capex burden is visible,maintenance versus growth capex or owner cash,capex classification and asset utilization
+mechanical_cash_after_capex,H1 2026,258.375,USD millions,diagnostic,operating cash less reported capex,acquisition-adjusted owner cash,recurring acquisition and earn-out burden
+cash_acquisitions,H1 2026,139.985,USD millions,observed,cash acquisition outflow is visible,recurring owner-cash burden,acquisition cohort cash returns
+earn_out_payments,H1 2026,7.767,USD millions,observed,earn-out cash burden is visible,full contingent consideration burden,earn-out schedule and operating contribution
+stock_consideration,H1 2026,27.406,USD millions,observed,equity consideration diluted the purchase price,that no owner burden exists,share-count and purchase-accounting bridge
+revenue_from_opening_contract_liabilities,H1 2026,488.4,USD millions,observed,prior billings converted into recognized revenue,that revenue converted to cash or margin,project revenue-to-cash reconciliation
+prior_period_estimate_changes,H1 2026,138.9,USD millions,red-flag prompt,estimate changes materially affected revenue,that accounting manipulation occurred,project margin and settlement reconciliation
+unapproved_claims_and_change_orders,June 30 2026,2.9,USD millions,red-flag prompt,unapproved claims remain in project price,that the claims are collectible,approval status and subsequent settlement
+signed_backlog,June 30 2026,4330,USD millions,observed,forward work is disclosed,project cash conversion or owner cash,project backlog-to-billing-to-cash roll-forward
+combined_backlog,June 30 2026,5600,USD millions,observed,acquisition and organic work are combined,organic project economics,cohort-separated backlog and cash returns
+acquired_backlog_contribution,June 30 2026,2560,USD millions,observed,acquired backlog is material,post-close cash return,CEC/Stone Ridge cohort cash bridge
+owner_funding,current source set,not captured,not disclosed,missing,project funding source is unresolved,capital was not required,project-level funding ledger
+project_collection,current source set,not captured,not disclosed,missing,no project collection ledger is available,receivables became cash,project collection ledger and subsequent receipts
+project_return,current source set,not calculable,not disclosed,missing,no project or acquisition-cohort return can be calculated,backlog implies owner cash,post-close cohort cash-flow and margin bridge

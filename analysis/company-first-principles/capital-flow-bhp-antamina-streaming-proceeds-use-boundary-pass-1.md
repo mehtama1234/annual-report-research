@@ -37,6 +37,33 @@ The upstream Wheaton bridge is:
 | Group capital context | BHP reports `9.8B USD` free cash flow, `10.3B USD` capex/exploration, and `8.7B USD` dividends. | `group-capital-allocation-context-visible` | Context is not allocation of Antamina proceeds. |
 | Source/use verdict | BHP receipt is visible; named use remains a hold. | `bhp-receipt-visible-use-allocation-hold` | Cash-all-the-way-through remains unproven. |
 
+## FY2026 financing-flow control
+
+BHP's consolidated cash-flow statement permits a mechanical classification
+check, but not a funds-flow attribution. FY2026 reported net financing cash
+flow was an outflow of `$3.280B`. The statement separately shows `$3.957B` of
+proceeds from interest-bearing liabilities, `$(2.363B)` of repayments of
+interest-bearing liabilities, `$4.300B` of streaming-arrangement proceeds,
+`$(41M)` of streaming-arrangement settlements, `$(6.756B)` of dividends, and
+`$(2.355B)` of dividends to non-controlling interests. The non-stream financing
+lines sum mechanically to `$(7.539B)`; including the `$41M` stream settlement
+but excluding the `$4.300B` stream receipt produces `$(7.580B)`, and adding the
+stream receipt returns to the reported `$(3.280B)` net financing flow.
+
+This is a classification and arithmetic control only. The same-period cash
+flow statement does not identify which dollars funded debt repayment,
+dividends, capex, retained liquidity, or any Antamina-related use. The
+`$(7.539B)`/`$(7.580B)` amounts must not be described as the use of the
+`$4.300B` receipt, and the stream receipt must not be netted against a chosen
+use without a treasury or board allocation record.
+
+| Mechanical control | Amount | What it proves | What it does not prove |
+| --- | ---: | --- | --- |
+| Reported net financing cash flow | `$(3.280B)` | The FY2026 financing section's net result | Any transaction-level allocation |
+| Non-stream financing lines, excluding both stream lines | `$(7.539B)` | Arithmetic remainder of the other financing lines | That the stream proceeds funded any one remainder line |
+| Non-stream lines plus stream settlement, excluding stream receipt | `$(7.580B)` | Arithmetic counterfactual with the `$41M` settlement retained | That the `$41M` matches a disclosed ounce or invoice ledger |
+| Stream receipt plus the preceding financing components | `$(3.280B)` | Reconciles to the reported net financing cash flow | A legal or bank-account waterfall |
+
 ## What Improved
 
 The money path now extends one step further:

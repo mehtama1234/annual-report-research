@@ -35,3 +35,18 @@ Date baseline: 2026-08-08
 ## Missing evidence
 
 - A direct saved AnnualReports.com HTML artifact if shell access to `annualreports.com` becomes reliable later.
+
+## Current-workspace artifact verification
+
+| Artifact | SHA-256 | Use |
+|---|---|---|
+| [Blackstone 2025 Form 10-K](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/asset-management/blackstone-inc/2025-10k.html) | `41f95da0a743445810635c3d775c2af06a94856fca571466d15f6e677fed8044` | Filed GAAP, cash-flow, debt, capital-return, clawback, and incentive evidence |
+| [Blackstone companyfacts](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/asset-management/blackstone-inc/companyfacts.json) | `86aaa3705410fcbc0b83a786c0174b7f44786ee4fc0dc05d1ee4c060812c417f` | Machine-readable denominator checks |
+| [Blackstone company packet](/home/mehtama1/git-repo/annual-report-research/extracted/financial/asset-management/blackstone-inc/company-packet.md) | local packet | FRE, DE, AUM, flows, deployment, realizations, and latest-quarter context |
+
+The 2025 filing's standard cash bridge is $4.663B operating cash flow, $115.7M
+of PP&E spending, and no material standard-tagged business-acquisition cash.
+That is not a complete owner-cash measure for Blackstone: fee-related earnings,
+distributable earnings, performance revenues, partner distributions, carried
+interest clawbacks, noncontrolling interests, and private-fund structures must
+be analyzed separately.

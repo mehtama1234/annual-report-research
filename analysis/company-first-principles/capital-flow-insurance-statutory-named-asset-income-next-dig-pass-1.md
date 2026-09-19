@@ -99,6 +99,35 @@ This is not full cash proof.
 
 But it is powerful bridge evidence because it gets to named statutory rows with interest received.
 
+The executed [Accordia matched-disposal coordinate extraction](capital-flow-kkr-global-atlantic-accordia-matched-disposal-coordinate-extraction-pass-1.md)
+now upgrades three same-CUSIP rows—Intel, Commonwealth Edison, and Orange—from
+raw event tokens to coordinate-column statutory disposal fields. The rows show
+`1.552579M USD` of consideration, `1.754251M USD` of book/adjusted carrying
+value at disposal, and `-201.672K USD` of realized gain/loss in aggregate.
+This is stronger proceeds-column evidence, but it does not prove custodian
+settlement cash, lot continuity, borrower use, liability-cost spread, waterfall,
+or final return.
+
+The subsequent [Athene raw-text inspection](capital-flow-apollo-athene-statutory-safe-cashlike-same-cusip-raw-text-inspection-pass-1.md)
+found all `19` selected holding and disposal/proceeds rows across `8` CUSIPs
+and `14` pages. `17` rows are inspection-ready and `2` remain on a short
+numeric-stream hold for page-specific column interpretation. This confirms raw
+source-row availability, not final statutory column semantics, borrower receipt,
+liability spread, or asset-level return.
+
+The page-specific coordinate diagnostic now preserves both previously held
+Athene rows: AMAPS `02300A-AA-8` on page `6276` and Eliant `28655*-AA-7` on
+page `6312`. Their native PDF positions expose the expected consideration and
+interest-like numeric fields, but the diagnostic intentionally leaves column
+assignment unresolved. This narrows the remaining parser issue without
+upgrading statutory proceeds to settlement cash.
+
+The Concord public acquisition pass now closes the broad-search loop: all eight
+document families were tested, with three controlled routes located and two
+public use/collateral proxies, but no Athene receipt or return upgrade. Future
+work should pursue the identified DealX, KBRA, trustee, and Athene routes rather
+than repeat general web searches.
+
 The next Accordia pass should choose the top `40` rows and rank them by:
 
 1. interest received
@@ -107,6 +136,12 @@ The next Accordia pass should choose the top `40` rows and rank them by:
 4. issuer traceability
 5. likely public source availability
 6. liability-cost or reinsurance/funds-held relevance
+
+The three coordinate-extracted disposal candidates now have a targeted
+[settlement request packet](capital-flow-kkr-global-atlantic-accordia-matched-disposal-settlement-request-packet-pass-1.md)
+for Intel, Commonwealth Edison, and Orange. The packet keeps the next source
+request at the named-CUSIP level and does not promote statutory consideration
+to settled cash or return.
 
 ## Why Blackstone, BlackRock, Brookfield, Ares, And Carlyle Are Lower
 

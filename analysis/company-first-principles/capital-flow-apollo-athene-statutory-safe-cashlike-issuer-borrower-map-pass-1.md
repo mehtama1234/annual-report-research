@@ -54,7 +54,7 @@ The map uses local Athene statutory rows as the base evidence, then adds public 
 1. Eliant: Apollo's SEC subsidiary exhibit lists Eliant Invest Holding LP and related Apollo Eliant entities. This supports platform-related issuer mapping, but not borrower/use proof.
 2. AMAPS: Apollo describes AMAPS as a structured credit product with diversified corporate and asset-backed credit collateral, and Apollo/Athene investment disclosure identifies investment-grade ABS debt issued by AMAPS 1 LLC. This supports wrapper mapping, but not underlying collateral or borrower receipt.
 3. Concord Music Royalties: Concord says it issued `1.765B USD` of senior notes, and KBRA says Series 2025 proceeds would redeem Series 2022-1 notes and support general corporate purposes. This supports borrower/wrapper and broad use proxy, but not Athene-specific cash receipt or remittance.
-4. MF1 2025-B2: SEC transaction material names MF1 2025-B2 LLC in securitization servicing exhibits, and Fitch identifies MF1 2025-B2 LLC as a rated structured-finance entity. This supports securitization-vehicle mapping, but not loan-level collateral cash flow.
+4. MF1: the Athene statutory candidate is MF1 2025-B2 LLC / CUSIP `592918-AA-4`, while the public servicing exhibit names separate MF1 2026-FL21 LLC; Fitch separately identifies MF1 2025-B2 LLC as a rated structured-finance entity. This supports a two-part securitization-vehicle map, but not a cross-series legal-owner join or loan-level collateral cash flow.
 5. Treasury rows: local statutory descriptions are enough to classify the issuer as U.S. Treasury and the lane as sovereign reserve/liquidity rather than private borrower use.
 
 ## What This Tells Us In Simple Terms

@@ -1,0 +1,10 @@
+field,period,value_or_observation,status,interpretation,boundary
+operating cash flow,FY2026,$6.874B,observed,annual operating cash numerator,not normalized owner cash
+property additions,FY2026,$1.957B,observed,reported property denominator,maintenance versus growth split remains open
+new stores,FY2026,$185M,observed,growth-category marker,does not prove incremental return
+store renovations and improvements,FY2026,$921M,observed,mixed capital category,maintenance versus growth unresolved
+offices and distribution centers,FY2026,$851M,observed,network and technology/property category,maintenance versus growth unresolved
+cash income taxes,FY2026,$1.471B,observed,senior operating burden,already embedded in OCF; do not subtract twice
+operating lease cash,FY2026,$2.214B,observed,senior operating burden,already embedded in OCF; do not subtract twice
+repairs and maintenance,FY2026,expensed as incurred,observed,prevents all maintenance being treated as PP&E,recurring operating burden still needs normalization
+cash after property,FY2026,$4.917B,derived,OCF less property additions,not normalized owner cash or a valuation multiple

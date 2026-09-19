@@ -1,0 +1,23 @@
+evidence_id,company,ticker,period,object,value,unit,source_anchor,what_it_proves,boundary,status
+ADUS-P2-001,Addus HomeCare Corporation,ADUS,H1 2026,total net service revenue,741.028,M USD,Addus Q2 2026 Form 10-Q,Scale of the service platform,Revenue is not collected cash,current-period-qualified
+ADUS-P2-002,Addus HomeCare Corporation,ADUS,H1 2026,personal-care revenue,577.089,M USD,Addus Q2 2026 Form 10-Q,Personal care is the dominant labor-backed service line,Does not prove branch contribution,current-period-qualified
+ADUS-P2-003,Addus HomeCare Corporation,ADUS,H1 2026,personal-care gross margin,28.3,percent,Addus Q2 2026 Form 10-Q,Personal-care margin is visible,Margin does not prove wage-adjusted owner cash,current-period-qualified
+ADUS-P2-004,Addus HomeCare Corporation,ADUS,H1 2026,hospice gross margin,45.2,percent,Addus Q2 2026 Form 10-Q,Hospice has separate service economics,Not interchangeable with personal care,current-period-qualified
+ADUS-P2-005,Addus HomeCare Corporation,ADUS,H1 2026,home-health gross margin,44.9,percent,Addus Q2 2026 Form 10-Q,Home health has separate clinical economics,Not interchangeable with personal care,current-period-qualified
+ADUS-P2-006,Addus HomeCare Corporation,ADUS,H1 2026,total gross margin,32.0,percent,Addus Q2 2026 Form 10-Q,Blended margin is visible,Can conceal mix and branch differences,diagnostic-only
+ADUS-P2-007,Addus HomeCare Corporation,ADUS,H1 2026,personal-care state/local/other government payer mix,50.0,percent,Addus Q2 2026 Form 10-Q,Government funding is a major payer source,Does not prove rate durability,current-period-qualified
+ADUS-P2-008,Addus HomeCare Corporation,ADUS,H1 2026,personal-care MCO payer mix,47.3,percent,Addus Q2 2026 Form 10-Q,Managed care is a major payer source,Does not prove collection or bargaining power,current-period-qualified
+ADUS-P2-009,Addus HomeCare Corporation,ADUS,H1 2026,Illinois share of total net service revenue,32.1,percent,Addus Q2 2026 Form 10-Q,State concentration is material,Does not establish state-level returns,concentration-control
+ADUS-P2-010,Addus HomeCare Corporation,ADUS,H1 2026,Illinois Department on Aging share of total net service revenue,17.8,percent,Addus Q2 2026 Form 10-Q,Named payer concentration is visible,Not a companywide reimbursement rate,concentration-control
+ADUS-P2-011,Addus HomeCare Corporation,ADUS,2026,Illinois hourly in-home-care rate,30.80,USD per hour,Addus Q2 2026 Form 10-Q,Rate reference is visible,Rate less wage is not branch profit,rate-reference
+ADUS-P2-012,Addus HomeCare Corporation,ADUS,2026,Illinois minimum direct-service-worker wage,18.75,USD per hour,Addus Q2 2026 Form 10-Q,Wage floor reference is visible,Other labor and overhead remain,wage-reference
+ADUS-P2-013,Addus HomeCare Corporation,ADUS,June 30 2026,offices,264,offices,Addus Q2 2026 Form 10-Q,Branch footprint is visible,Office count does not prove branch returns,operating-footprint
+ADUS-P2-014,Addus HomeCare Corporation,ADUS,June 30 2026,states,24,states,Addus Q2 2026 Form 10-Q,Geographic footprint is visible,State rates and labor differ,operating-footprint
+ADUS-P2-015,Addus HomeCare Corporation,ADUS,H1 2026,operating cash flow,92.376,M USD,Addus Q2 2026 Form 10-Q,Reported operating cash is reproducible,Timing effects prevent normalization,owner-cash-open
+ADUS-P2-016,Addus HomeCare Corporation,ADUS,H1 2026,accounts receivable change,5.834,M USD,Addus Q2 2026 Form 10-Q,AR supplied cash in the OCF bridge,Receipt timing requires later-period testing,working-capital-control
+ADUS-P2-017,Addus HomeCare Corporation,ADUS,June 30 2026,net accounts receivable,145.123,M USD,Addus Q2 2026 Form 10-Q,Ending AR balance is visible,Does not prove collectibility,working-capital-control
+ADUS-P2-018,Addus HomeCare Corporation,ADUS,H1 2026,HomeCourt acquisition cash,12.182,M USD,Addus Q2 2026 Form 10-Q,Acquisition cash use is visible,Acquired return is unjoined,owner-cash-open
+ADUS-P2-019,Addus HomeCare Corporation,ADUS,H1 2026,PP&E and technology cash use,3.050,M USD,Addus Q2 2026 Form 10-Q,Reinvestment cash use is visible,Maintenance/growth allocation is unresolved,owner-cash-open
+ADUS-P2-020,Addus HomeCare Corporation,ADUS,H1 2026,debt principal repayment,60.000,M USD,Addus Q2 2026 Form 10-Q,Financing allocation is visible,Not an operating cost or proof of surplus cash,financing-control
+ADUS-P2-021,Addus HomeCare Corporation,ADUS,June 30 2026,ending cash,99.566,M USD,Addus Q2 2026 Form 10-Q,Company-level cash is visible,Legal-entity availability and claims remain open,liquidity-open
+ADUS-P2-022,Addus HomeCare Corporation,ADUS,H1 2026,OCF less acquisition and PP&E screen,77.144,M USD,Calculated from Addus Q2 2026 Form 10-Q,Pre-financing diagnostic residual,Not normalized owner cash,diagnostic-only

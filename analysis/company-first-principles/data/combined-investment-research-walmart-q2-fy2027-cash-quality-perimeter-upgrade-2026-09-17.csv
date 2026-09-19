@@ -1,0 +1,14 @@
+field,period,value_or_observation,status,interpretation,boundary
+operating cash flow,H1 FY2027,$19.710B,observed,period-matched operating cash numerator,not normalized owner cash
+property and equipment payments,H1 FY2027,$14.181B,observed,reported property denominator,maintenance versus growth split remains open
+segment capital expenditures,H1 FY2027,"Walmart U.S. $10.453B; Walmart International $1.812B; Sam's Club U.S. $664M; corporate/support $1.252B",observed,segment-level capital denominator,maintenance versus growth and project-level return remain open
+reported free cash flow,H1 FY2027,$5.529B,observed,OCF less property payments,excludes debt service contractual obligations and acquisitions
+inventory cash-flow effect,H1 FY2027,$2.660B use,observed,working-capital burden,do not subtract again from OCF
+accounts-payable cash-flow effect,H1 FY2027,$1.648B source,observed,working-capital support,settlement and supplier-finance timing remain open
+supplier-finance obligations,July 31 2026,$6.4B versus $6.0B January 31 2026,partial,obligation movement visible,not a cash-flow adjustment without settlement ledger
+attached-service revenue,H1 FY2027,"$1.328B Sam's Club membership and other income; advertising, fulfillment, and data insights embedded in ecosystem disclosures",partial,current-period collection and revenue-recognition perimeter,allocated service cost and standalone cash collection remain open
+tariff refunds,Q2 FY2027,approximately $2.9B,observed,temporary margin and earnings support,recurrence and future cash timing unproven
+unrecognized-tax-benefit effects,Q2 FY2027,$0.4B tax benefit and $0.5B interest reduction,observed,nonrecurring earnings comparability marker,not recurring owner cash
+debt issuance and repayment,H1 FY2027,$4.230B issued and $2.303B repaid,observed,senior claim and funding visible,full debt-service and allocation bridge open
+dividends and repurchases,H1 FY2027,$3.945B dividends and $5.104B repurchases,observed,common capital-return claims visible,not proof of surplus cash
+NCI and diluted shares,H1 FY2027,"$323M NCI and 7,989M diluted shares",observed,common-owner denominator control,per-share normalized residual remains open

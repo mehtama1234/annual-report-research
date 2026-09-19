@@ -27,3 +27,10 @@ Date baseline: 2026-08-10
 
 - No quarter PDF or earnings-call transcript is saved locally for Cencora.
 - No standalone SEC filing HTML is saved locally because direct archive requests failed from this shell.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/healthcare/pharmaceutical-distribution/cencora-inc/2025-10k.html) | `fc3a6200cb455237a0cfe39e524d4700539fcbcf02c6704ce3f16bad089d026c` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/healthcare/pharmaceutical-distribution/cencora-inc/companyfacts.json) | preserved |

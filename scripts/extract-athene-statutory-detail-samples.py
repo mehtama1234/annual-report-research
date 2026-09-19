@@ -30,7 +30,9 @@ FULL_SCHEDULE_D_SPECS = [
 
 START_RE = re.compile(r"^(?P<id>(?:[A-Z0-9*@#]{6}-[A-Z0-9*@#]{2}-[A-Z0-9*@#]|[A-Z0-9]{6,9}[.*]))\s+\.{2,}\s*(?P<body>.*)")
 SUBTOTAL_RE = re.compile(r"^\d{6,7}\.")
-NAIC_RE = re.compile(r"\b(?P<naic>[1-6]\.[A-Z])\b|\b(?P<naic_plain>[1-6]\.)\b")
+# A plain designation such as ``6.`` may be followed by whitespace, but it
+# must not match the prefix of a decimal coupon such as ``3.935``.
+NAIC_RE = re.compile(r"\b(?P<naic>[1-6]\.[A-Z])\b|\b(?P<naic_plain>[1-6]\.)(?!\d)")
 MONEY_RE = re.compile(r"(?<![\w.])\(?\d{1,3}(?:,\d{3})+(?:\.\d+)?\)?(?![\w.])")
 DETAIL_MONEY_RE = re.compile(r"\(?\d{1,3}(?:,\d{3})+(?:\.\d+)?\)?")
 DETAIL_NUMBER_RE = re.compile(r"^\(?\d[\d,]*(?:\.\d+)?\)?$")
@@ -146,6 +148,39 @@ def abs_numeric_columns(raw: str) -> dict[str, str] | None:
     }
 
 
+def schedule_d_income_columns(raw: str) -> tuple[str, str]:
+    """Read the two interest columns without treating payment-at-maturity as cash.
+
+    Schedule D's trailing numeric columns are, after the five value columns,
+    unrealized/impairment/FX fields, stated/effective rates, interest income
+    due and accrued, interest received during the year, acquisition date,
+    maturity date, and payment due at maturity.  The earlier compact parser
+    used the final two numeric tokens, which silently assigned payment due at
+    maturity to received interest on many rows.
+    """
+    parts = [part.strip() for part in re.split(r"\.{2,}", raw)]
+    naic_idx = -1
+    for idx, part in enumerate(parts):
+        if NAIC_RE.search(part):
+            naic_idx = idx
+            break
+    if naic_idx < 0:
+        return "", ""
+    # The blank statutory columns vary by row, but the first acquisition date
+    # is stable. The two slots immediately before it are interest income due
+    # and accrued, then interest received during the year. This avoids using
+    # the final payment-at-maturity column as received cash.
+    date_index = next(
+        (idx for idx, part in enumerate(parts[naic_idx + 2 :], start=naic_idx + 2) if DATE_RE.fullmatch(part)),
+        -1,
+    )
+    if date_index < 2:
+        return "", ""
+    income = clean_numeric_slot(parts[date_index - 2])
+    received = clean_numeric_slot(parts[date_index - 1])
+    return income, received
+
+
 def normalized_schedule_d_row(
     row: dict[str, str],
     seq: int,
@@ -157,18 +192,19 @@ def normalized_schedule_d_row(
     raw = row["name_and_raw_terms"]
     values = money_tokens(raw)
     dates = date_tokens(raw)
+    # The Schedule D Part 1 Section 1 and Section 2 tables share the same
+    # leading numeric columns. Preserve dot-marker blanks for both sections;
+    # using compact numeric-token positions on issuer-credit rows shifts fair
+    # value, book value, or unrealized change whenever an earlier field is
+    # blank.
     is_abs = row["schedule"].endswith("Section 2")
-
-    # Schedule D columns are dense in extracted text. This sample intentionally
-    # uses a conservative positional parse and keeps the row boundary explicit.
-    corrected_abs = abs_numeric_columns(raw) if is_abs else None
-    actual_cost = corrected_abs["actual_cost"] if corrected_abs else (values[0] if len(values) > 0 else "")
-    par_value = corrected_abs["par_value"] if corrected_abs else ("" if is_abs else (values[1] if len(values) > 1 else ""))
-    fair_value = corrected_abs["fair_value"] if corrected_abs else (values[1] if is_abs and len(values) > 1 else (values[2] if len(values) > 2 else ""))
-    book_value = corrected_abs["book_adjusted_carrying_value"] if corrected_abs else (values[2] if is_abs and len(values) > 2 else (values[3] if len(values) > 3 else ""))
-    unrealized = corrected_abs["unrealized_valuation_change"] if corrected_abs else (values[3] if is_abs and len(values) > 3 else (values[4] if len(values) > 4 else ""))
-    interest_income = values[-2] if len(values) >= 2 else ""
-    interest_received = values[-1] if values else ""
+    source_columns = abs_numeric_columns(raw) if not is_abs else abs_numeric_columns(raw)
+    actual_cost = source_columns["actual_cost"] if source_columns else (values[0] if len(values) > 0 else "")
+    par_value = source_columns["par_value"] if source_columns else ("" if is_abs else (values[1] if len(values) > 1 else ""))
+    fair_value = source_columns["fair_value"] if source_columns else (values[1] if is_abs and len(values) > 1 else (values[2] if len(values) > 2 else ""))
+    book_value = source_columns["book_adjusted_carrying_value"] if source_columns else (values[2] if is_abs and len(values) > 2 else (values[3] if len(values) > 3 else ""))
+    unrealized = source_columns["unrealized_valuation_change"] if source_columns else (values[3] if is_abs and len(values) > 3 else (values[4] if len(values) > 4 else ""))
+    interest_income, interest_received = schedule_d_income_columns(raw)
 
     acquired_date = dates[-2] if len(dates) >= 2 else (dates[0] if dates else "")
     maturity_date = dates[-1] if dates else ""

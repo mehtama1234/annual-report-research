@@ -34,3 +34,17 @@ Date baseline: 2026-08-08
 
 - A saved direct `2Q26` earnings-call transcript artifact if KKR later exposes it through the event page or document library.
 - A saved direct KKR financial-data-supplement artifact for the in-scope quarters if a stable static-file URL is surfaced later.
+
+## Current-workspace artifact verification
+
+| Artifact | SHA-256 | Use |
+|---|---|---|
+| [KKR 2025 Form 10-K](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/asset-management/kkr-co-inc/2025-10k.html) | `bcf6bac309183058be2b205c932226f85dc551c7bb40a77a72fbc14fa653cb02` | Filed GAAP, insurance, cash-flow, acquisition, capital-return, and balance-sheet evidence |
+| [KKR companyfacts](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/asset-management/kkr-co-inc/companyfacts.json) | `81701b26a90bf9abe9cadad8cfccbf52fe0bd8ab3b87e6e15a38cebc7bc32bb1` | Machine-readable denominator checks |
+| [KKR company packet](/home/mehtama1/git-repo/annual-report-research/extracted/financial/asset-management/kkr-co-inc/company-packet.md) | local packet | FRE, TOE, ANI, AUM, FPAUM, insurance, wealth, monetization, and deployment context |
+
+The 2025 standard cash-flow tags report $477.8M consolidated operating cash
+flow, $160.8M of fixed-asset purchases, and $146.3M of acquisitions. KKR's
+insurance and consolidated-fund structure makes that cash line non-comparable
+to a simple fee-manager bridge; the memo keeps FRE, TOE, ANI, insurance flows,
+and common-owner claims separate.

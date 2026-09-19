@@ -41,3 +41,10 @@ Date baseline: 2026-08-09
 
 - No standalone SEC filing HTML or PDF artifact is saved locally beyond the SEC submissions JSON index.
 - No direct AnnualReports company-page HTML file is saved locally.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/energy/utilities/nextera-energy-inc/2025-10k.html) | `c9acc48394834880be0f585f88826d7ed2747cc59c31a293e0664aac78192249` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/energy/utilities/nextera-energy-inc/companyfacts.json) | `99e84510f602363147dc6c83321aa76859e185d0807019d1efc9e0da60491954` |

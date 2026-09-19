@@ -14,6 +14,20 @@ Relation can be used as evidence that private credit reaches an insurance-broker
 
 Current evidence does not prove that the Goldman Sachs holder rows are the same BayPine/Ares facility, nor does it prove total facility size, Ares allocation, use-of-proceeds split, bank repayment, bank termination, or full lender group.
 
+## 2026-09-18 targeted official-source recheck
+
+The targeted recheck found no promotion-grade document beyond the existing
+route. Ares's official Q2 2026 origination release again identifies itself as
+joint lead arranger and joint bookrunner for a senior secured facility
+supporting BayPine's acquisition. BayPine's acquisition announcement confirms
+the sponsor transaction but says financial terms were not disclosed. The
+public SEC search also surfaces older AQ Sunshine / Relation holder rows and a
+current 2033 first-lien marker, but those holder observations do not identify
+the acquisition facility, lender allocation, borrower receipt, or bank payoff.
+
+This recheck strengthens the dated transaction chronology only; it does not
+change the `hold-after-pass-1` resolution.
+
 ## What Is Proven
 
 | Evidence Layer | Status | Detail | Boundary |

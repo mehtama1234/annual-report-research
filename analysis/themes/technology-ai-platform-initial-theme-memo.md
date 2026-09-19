@@ -23,6 +23,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+- annual and quarterly packets for consumer ecosystems, cloud, chips,
+  networking, cybersecurity, enterprise workflow, devices, and services
+- packet fields covering AI exposure, revenue mix, backlog or RPO, capex,
+  operating margin, cash flow, installed base, customer demand, and strategy
+- exact facts used to separate infrastructure owners from software and control
+  layers and to identify the burden carried by each role
+- existing AI physical-capacity, software-control, and infrastructure proof
+  pages
+
 ## What This Memo Shows
 
 Large-cap technology is not one story. The companies winning in AI are winning in very different ways, with different costs and different risks. Some own infrastructure and must spend huge capital. Some own software layers above that infrastructure. Some own brands. Some own security. Some own distribution and labor. Thirteen major technology names prove that there is no single AI winner model—there are at least thirteen. This matters because investors and strategists often lump all AI-exposed technology together. The filings show they should not. The economics are fundamentally different depending on whether a company carries infrastructure burden or sits on top of it.
@@ -43,6 +54,7 @@ Large-cap technology is splitting into thirteen distinct models based on economi
 10. **Endpoint devices and printing** (HP): Ordinary refresh cycles, tariffs, mature-hardware mix
 11. **Semiconductor turnaround attempt** (Intel): Trying to translate AI relevance into manufacturing and execution improvements
 12. **Weaker consumer internet platform** (Snap): Trying to turn ad products, subscriptions, and AR into durable economics
+
 13. **Enterprise services through implementation** (Accenture): Monetizing consulting, implementation, and workflow redesign
 
 Not every strategically relevant AI name captures the same economics.
@@ -252,3 +264,14 @@ The following signals would suggest that large-cap technology is not actually sp
 11. **Can Snap ever monetize its scale without Alphabet-like distribution?** With `971M` MAU, the user base is real. But a Q2 `2026` net loss of `$164M` on revenue of `$1.599B` proves that scale alone does not work.
 
 12. **Which role is most exposed if AI spending resets faster than expected?** Infrastructure providers are most exposed to capex cycles. Software and services layers have more buffer.
+
+## Skeptical Reader Test
+
+- Does each AI claim identify the economic layer that captures value and the
+  physical, labor, capex, or regulatory burden it carries?
+- Are AI orders, backlog, ARR, and user growth separated from recognized
+  revenue, free cash flow, and return on incremental capital?
+- Are adjusted earnings, acquisition effects, tariff benefits, and realized or
+  unrealized gains reconciled before drawing a quality conclusion?
+- What next filing would show that the AI narrative is cyclical, commoditized,
+  policy-dependent, or uneconomic?

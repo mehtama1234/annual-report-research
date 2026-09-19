@@ -16,6 +16,20 @@ Not yet.
 
 Jiffy is strong as transaction-value and financing-role evidence, but it is not yet a holder-dollar case.
 
+## 2026-09-18 completion refresh
+
+Shell's official July 1, 2026 release confirms that the `$1.3B` sale of Jiffy
+Lube International and Premium Velocity Auto to a Monomoy affiliate closed.
+The completion evidence upgrades the transaction from announced to completed
+and preserves the perimeter distinction: Shell retained its lubricant brands
+and entered a long-term lubricant supply agreement with Monomoy. The release
+still does not disclose the senior-facility amount, lender allocation,
+borrower cash receipt, or bank payoff.
+
+The current safe status is therefore:
+
+`transaction-completed; Ares-financing-role-confirmed; holder-and-bank-role-unproven`
+
 ## What We Can Prove
 
 | Evidence | Source | Number / Fact | Claim Effect |
@@ -59,6 +73,8 @@ It does not yet support this stronger claim:
 
 `We can observe the funded Jiffy debt in SEC-filed holder schedules.`
 
+Completion of the sale does not change that holder-dollar boundary.
+
 ## What To Do Next
 
 The next Jiffy questions are:
@@ -77,3 +93,7 @@ Jiffy is a good transaction case, not yet a holder-dollar case.
 We can show a `1.3B USD` sale to Monomoy and Ares' joint-lead-arranger role for acquisition financing.
 
 We still cannot show the funded debt amount, Ares' allocation, or bank replacement.
+
+## Source refresh
+
+- [Shell completion announcement, July 1, 2026](https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2026/shell-completes-sale-of-jiffy-lube-international-and-premium-velocity-auto-to-monomoy-capital-partners.html)

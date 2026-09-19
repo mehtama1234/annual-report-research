@@ -81,13 +81,13 @@ Date baseline: 2026-08-10
 
 ## Source pointers
 
-- [annualreports-verification.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/annualreports/healthcare/medical-instruments-supplies/henry-schein-inc/annualreports-verification.md)
-- [ir-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/henry-schein-inc/ir-source-links.md)
-- [2025-annual-report.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/henry-schein-inc/2025-annual-report.pdf)
-- [2026-q2-earnings-presentation.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/henry-schein-inc/2026-q2-earnings-presentation.pdf)
-- [2026-q2-earnings-call-transcript.pdf](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/company-ir/healthcare/medical-instruments-supplies/henry-schein-inc/2026-q2-earnings-call-transcript.pdf)
-- [sec-source-links.md](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/henry-schein-inc/sec-source-links.md)
-- [sec-submissions.json](/home/manishmehta/ui-projects/annual-report-research-cli8-middle-layer/raw/sec/healthcare/medical-instruments-supplies/henry-schein-inc/sec-submissions.json)
+- [annualreports-verification.md](/home/mehtama1/git-repo/annual-report-research/raw/annualreports/healthcare/medical-instruments-supplies/henry-schein-inc/annualreports-verification.md)
+- [ir-source-links.md](/home/mehtama1/git-repo/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/henry-schein-inc/ir-source-links.md)
+- [2025-annual-report.pdf](/home/mehtama1/git-repo/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/henry-schein-inc/2025-annual-report.pdf)
+- [2026-q2-earnings-presentation.pdf](/home/mehtama1/git-repo/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/henry-schein-inc/2026-q2-earnings-presentation.pdf)
+- [2026-q2-earnings-call-transcript.pdf](/home/mehtama1/git-repo/annual-report-research/raw/company-ir/healthcare/medical-instruments-supplies/henry-schein-inc/2026-q2-earnings-call-transcript.pdf)
+- [sec-source-links.md](/home/mehtama1/git-repo/annual-report-research/raw/sec/healthcare/medical-instruments-supplies/henry-schein-inc/sec-source-links.md)
+- [sec-submissions.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/healthcare/medical-instruments-supplies/henry-schein-inc/sec-submissions.json)
 
 ## Working interpretation
 

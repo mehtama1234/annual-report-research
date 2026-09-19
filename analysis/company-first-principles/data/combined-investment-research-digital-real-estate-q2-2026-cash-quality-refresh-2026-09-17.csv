@@ -1,0 +1,16 @@
+company,period,metric,value,classification,boundary
+Equinix,H1 2026,operating cash,$1.784B,observed,not owner cash
+Equinix,H1 2026,PP&E capex,$2.834B,observed,growth and recurring capital not fully split
+Equinix,H1 2026,real-estate acquisitions,$224M,observed,acquisition burden
+Equinix,H1 2026,dividends,$1.029B,capital return,not residual owner cash
+Equinix,H1 2026,AFFO attributable to common stockholders,$2.233B,non-GAAP,requires add-back and capital reconciliation
+Equinix,FY2026,total-capex guidance,$5.0–6.0B,forward estimate,not realized project return
+Equinix,June 30 2026,unaccrued capex commitments,$6.1B,commitment,liquidity claim
+Digital Realty,H1 2026,operating cash,$1.595B,observed,not owner cash
+Digital Realty,H1 2026,cash-basis capex,$1.627B,observed,includes development and recurring capital
+Digital Realty,H1 2026,development capex,$1.477B,observed,requires stabilized-yield bridge
+Digital Realty,H1 2026,recurring capex,$136M,observed,not total reinvestment
+Digital Realty,H1 2026,acquisitions/asset acquisitions,$2.170B,observed,requires post-close return
+Digital Realty,YTD 2026,net ATM equity proceeds,$2.5B,financing,requires dilution/per-share test
+Digital Realty,June 30 2026,consolidated debt,$18.768B,financing,requires refinancing/liquidity stress
+Digital Realty,June 30 2026,backlog,$1.4B,visibility,not current cash

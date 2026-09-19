@@ -16,6 +16,10 @@ Supporting sources:
 
 `raw/primary-sources/capital-flow/borrower-transactions/auctane-stamps-com/paul-hastings-stamps-com-unitranche.html`
 
+The Q2 2026 holder-breadth companion is:
+
+`analysis/company-first-principles/data/capital-flow-auctane-q2-2026-holder-breadth-control.csv`
+
 ## Resolution Outcome
 
 `hold-after-pass-1 - confirmed bank-facility termination, post-close ancillary bank role unresolved`
@@ -79,12 +83,81 @@ The difference matters because banks can lose the term-loan or old credit-agreem
 
 Targeted public and local searches found no final credit agreement, funds-flow schedule, payoff letter, post-close lender list, or ancillary-bank-role map.
 
+### 2026 public continuation
+
+The later Auctane/WWEX combination provides a new dated capital-structure
+control. On March 25, 2026, Canyon Partners announced that it was lead
+arranger for a `$4.8B` unitranche financing supporting Thoma Bravo's merger of
+Auctane with WWEX Group. Thoma Bravo's March 3 announcement describes the
+transaction as a combination of its existing Auctane portfolio company with
+WWEX; WWEX and Auctane announced completion on June 1, 2026. This is a new
+2026 financing event, not evidence that the 2021 Stamps.com facility remained
+outstanding.
+
+Blue Owl Capital Corporation's June 30, 2026 SEC-filed schedule separately
+reports an Auctane first-lien senior secured loan at SOFR plus `5.75%`, with
+`$24.625M` par and `$24.256M` fair value, maturing June 2033. This is current
+holder-side private-credit evidence, not a full lender allocation or borrower
+receipt.
+
+The same-period SEC holder search finds a broader, independently reported
+signature:
+
+| SEC-filed vehicle | Instrument observation at June 30, 2026 | Safe interpretation |
+| --- | --- | --- |
+| Blue Owl Capital Corporation | `$24.625M` par / `$24.256M` fair value; SOFR + `5.75%`; `06/2033` | Current private-credit holder row. |
+| Goldman Sachs BDC | `$5.000M` par / `$4.925M` fair value; SOFR + `5.75%`; `06/01/2033` | Independent holder row with matching terms. |
+| Carlyle Tactical Private Credit Fund | `$5.000M` par / `$4.925M` fair value; SOFR + `5.75%`; `07/01/2033` | Independent holder row; date difference is a classification/term control, not proof of a separate facility. |
+| Sound Point Capital Interval Fund | `$10.494511M` par / `$10.363330M` fair value; SOFR + `5.75%`; `06/01/2033` | Additional holder-side breadth; not a facility-total estimate. |
+
+These rows share the key pricing and maturity signature and materially improve
+the public syndication footprint. They must not be summed into a promoted
+`$4.815B` facility total without a credit agreement, lender allocation, and
+overlap control; fair value and par are holder observations, not borrower
+receipt or total debt proof.
+
+A March 4, 2026 market report provides a useful but lower-grade lender-map
+lead: it describes a `$4.815B` unitranche, a `$275M` revolver, Ares Capital as
+administrative agent on the unitranche, and Ally as the sole revolver lender.
+The report attributes the details to market sources, so this is not promoted
+to primary mechanism proof. If confirmed by the 2026 credit agreement, it
+would show the precise coexistence pattern sought here: private credit carried
+the large unitranche while a bank retained the revolver role.
+
+The continuation improves the safe case from `2021 bank facility terminated`
+to `2021 bank facility terminated; 2026 private-credit unitranche and current
+holder evidence visible`. It still does not identify the full 2026 lender
+group, any bank revolver or letter-of-credit provider, treasury/hedging role,
+or the exact sources-and-uses and payoff waterfall.
+
+### 2026 credit-agreement search boundary
+
+A targeted search of SEC-indexed filings and official lender/transaction pages
+for `Auctane`, `WWEX Uni Topco Holdings`, the `$4.815B` unitranche, the `$275M`
+revolver, Ares as administrative agent, and Ally as revolver lender found
+holder schedules and historical WWEX debt rows, but no filed 2026 credit
+agreement, lender-allocation schedule, revolver agreement, payoff statement,
+or sources-and-uses document. The current-holder rows therefore establish
+syndication breadth only. They do not independently confirm the secondary
+report's exact lender roles.
+
+The next promotion-capable source is specifically the executed 2026 credit
+agreement or an agent/lender allocation schedule. Repeating broad name or
+CUSIP searches without that object should not upgrade the bank-role claim.
+
 Useful sources found or confirmed:
 
 - SEC closing 8-K: credit agreement termination at closing.
 - Paul Hastings: private-credit lender group and acquisition-debt context.
 - ABF Journal: Blackstone Credit, Ares-managed credit funds, PSP Investments Credit II, and Thoma Bravo Credit provided debt financing.
 - Bloomberg Law: unitranche/direct-lending financing was made through private-credit arms rather than bank-arranged.
+- [Canyon Partners' March 25, 2026 Auctane/WWEX financing announcement](https://www.canyonpartners.com/canyon-partners-acts-as-lead-arranger-in-the-4-8-billion-unitranche-financing-for-thoma-bravos-merger-of-auctane-and-wwex-group/): `$4.8B` unitranche lead-arranger disclosure.
+- [Thoma Bravo's March 3, 2026 transaction announcement](https://www.thomabravo.com/press-releases/thoma-bravo-to-acquire-wwex-group-and-combine-with-auctane-to-form-global-logistics-leader): Auctane/WWEX combination and transaction perimeter.
+- [Blue Owl Capital Corporation Q2 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1655888/000165588826000056/obdc-20260630.htm): current Auctane first-lien holder row.
+- [Goldman Sachs BDC Q2 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1572694/000119312526338331/gsbd-20260630.htm): matching Auctane first-lien holder row.
+- [Carlyle Tactical Private Credit Fund Q2 2026 schedule](https://www.sec.gov/Archives/edgar/data/1725472/000172547226000005/ctac-20260630.htm): matching Auctane term-loan holder row.
+- [Sound Point Capital Interval Fund Q2 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/2031283/000203128326000012/spcif-20260630.htm): additional matching Auctane term-loan holder row.
+- [March 4, 2026 market financing report](https://finance.yahoo.com/news/wwex-auctane-nets-5b-cov-163732712.html): secondary lead on the unitranche/revolver split and reported lender roles; requires credit-agreement confirmation.
 
 ## Next Exact Documents
 

@@ -1,0 +1,12 @@
+field,source_value,unit,derived_value,derived_unit,status,boundary
+BHP Antamina interest,33.75,percent,33.75,percent,source-observed,BHP mine interest is not a Wheaton receipt
+Initial BHP stream share,33.75,percent of payable silver,33.75,percent of payable silver,contractual,No delivery schedule disclosed
+Payable factor,90,percent,90,percent,contractual,Not an invoice or cash receipt
+Initial mechanical mine-production entitlement,33.75,percent x 90 percent of mine production,30.375,percent of mine production,derived,Not observed BHP-PMPA credits
+Post-threshold stream share,22.5,percent of payable silver,22.5,percent of payable silver,contractual,Threshold timing unresolved
+Post-threshold mechanical mine-production entitlement,22.5,percent x 90 percent of mine production,20.25,percent of mine production,derived,Not observed BHP-PMPA credits
+Initial threshold,100,million delivered ounces,100,million delivered ounces,contractual,No minimum or fixed delivery schedule
+BHP FY2026 payable silver,5.588,million ounces on 33.75 percent interest basis,5.0292,million ounces at 90 percent factor,derived mine denominator,Not a Wheaton delivery or cash receipt
+BHP-interest P&P contained silver,65.7,million contained ounces,59.13,million ounces at 90 percent factor,derived reserve screen,Contained reserves are not payable ounces or delivery curve
+Wheaton combined Q2 production,2.319,million ounces,2.319,million ounces,source-observed combined operating context,Includes BHP and legacy Glencore streams
+Wheaton combined Q2 sales,2.063,million ounces,2.063,million ounces,source-observed combined operating context,Does not identify BHP-only sold credits

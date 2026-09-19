@@ -24,6 +24,14 @@ The upstream normalized Ares borrower table is:
 
 `No full upgrade. The best current Ares borrower case is Frontline Road Safety. It passes operating-borrower, sponsor-transaction, Ares arranger-role, holder-dollar, commitment-context, instrument-marker, and same-period-control gates. It fails total facility size, use-of-proceeds, borrower cash generation, lender allocation, and bank-role proof.`
 
+## 2026-09-18 same-period holder refresh
+
+The controlled lower bound remains `$198.675M` across FSK, K-FITS, and GSBD.
+The current generated same-period summary shows `$622.824M` of reported fair
+value and `$130.796M` of reported unfunded commitments across captured Q2
+holder rows. The larger figure is a breadth view with unresolved facility and
+tranche overlap; it is not a promoted total-facility or Ares-allocation claim.
+
 ## Why Frontline Is The Test Case
 
 Frontline is stronger than most Ares borrower rows because it combines:

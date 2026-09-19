@@ -1,0 +1,9 @@
+gate_id,required_object,current_evidence,status,stop_rule
+AEP-LL-001,Q2 2026 state/RTO/customer-type table and footnotes supporting 69 GW,Company Q2 load disclosure and condition language,hold-definition,Do not combine Q4/Q1 contracted load with Q2 expected load until definitions reconcile.
+AEP-LL-002,AEP Ohio data-center tariff sheets and final PUCO order,Effective tariff with 25000 kW threshold study fee LOA/ESA and reimbursement mechanics,tariff-visible,Tariff mechanics do not prove a signed customer or collected fee.
+AEP-LL-003,Executed or redacted LOA/ESA/application,Filing identifies large-load security and agreement conditions but no executed customer contract is in packet,hold-execution,Do not promote prospective or Batch Zero load to customer cash.
+AEP-LL-004,Financial-security terms and release/forfeiture mechanics,Approximately 2B of cash collateral guarantees and letters of credit for prospective Batch Zero load,security-visible,Security is not unrestricted cash revenue or construction funding without legal terms.
+AEP-LL-005,Interconnection transmission-upgrade and cost-responsibility order,ERCOT/PUCT process and cost-responsibility references,hold-approval,Do not treat load request or tariff eligibility as approved plant or rate base.
+AEP-LL-006,Project allocation and utility spend,AEP capital plan secured turbines and named generation path,hold-allocation,Do not assign aggregate capex or turbines to a customer without project mapping.
+AEP-LL-007,Billing determinant minimum-demand reimbursement or customer contribution,Tariff provides threshold and cancellation/delay reimbursement mechanics,hold-billing,Do not call a study fee or potential reimbursement collected customer cash.
+AEP-LL-008,Period-matched billed/collected cash and residual bridge,Aggregate utility operating cash and capital structure only,hold-receipt,Do not promote aggregate utility OCF collateral or customer-offset estimates into project return.

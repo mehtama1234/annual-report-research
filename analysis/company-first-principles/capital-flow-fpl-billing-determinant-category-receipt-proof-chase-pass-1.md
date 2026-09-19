@@ -31,8 +31,28 @@ The local check covered:
 - `raw/primary-sources/capital-flow/power-grid-pilot/nextera/fpl-rate-case/final-trueup-2025/fpl-2025-sppcrc-final-trueup-petition-01960-2026.pdf`
 - `raw/primary-sources/capital-flow/power-grid-pilot/nextera/fpl-rate-case/factor-order-2026/fpl-2026-sppcrc-factor-order-psc-2025-0439.pdf`
 - `raw/primary-sources/capital-flow/power-grid-pilot/nextera/fpl-rate-case/project-detail-2025/fpl-2025-sppcrc-final-trueup-pankratz-ap1-ap2-01941-2026.pdf`
+- [FPL May 1, 2025 SPPCRC testimony and Forms 4P/5P/7P](https://www.floridapsc.com/library/FILINGS/2025/03306-2025/03306-2025.pdf)
 
 A public PSC search also surfaced filing routes for SPPCRC actual/estimated and billing-determinant language, including PSC filing `03306-2025`. That confirms the next search should stay inside PSC docket exhibits and workpapers rather than broad web material.
+
+## Official PSC source refresh — 2026-09-18
+
+The current public PSC packet adds a useful cost-perimeter control. FPL's
+Amended Form 6P in Docket `20250014-EI` reports the Distribution Inspection
+Program at `180,000` projects, `$38.5M` of 2025 capital cost, `$23.5M` of
+2025 cost of removal, `$4.0M` of O&M, and `$66.0M` of 2025 actual/estimated
+total cost. Its 2026 projection is `$45.4M` of capital, `$42.6M` of removal,
+`$4.1M` of O&M, and `$92.1M` total cost. The filing also states that, unless
+otherwise approved, 2026 cost of removal is recovered through base rates rather
+than SPPCRC.
+
+This improves the category denominator and separates base-rate recovery from
+SPPCRC recovery, but it does not supply billing determinants, customer cash
+collections, or a source-of-funds allocation for the Distribution Inspection
+category. The Q-11 result therefore remains `searched-negative` for the
+category-receipt join.
+
+Source: [FPL Amended Form 6P, Docket 20250014-EI](https://www.psc.state.fl.us/library/filings/2025/05621-2025/05621-2025.pdf).
 
 ## What We Can Prove Now
 
@@ -44,6 +64,7 @@ A public PSC search also surfaced filing routes for SPPCRC actual/estimated and 
 | Jurisdictional allocation mechanics | Pass with boundary | The factor order includes FPL jurisdictional separation factors. |
 | Distribution Inspection category recovery | Pass with boundary | Final true-up component rows show Distribution Inspection final recovery, expenditures, plant additions, equity, debt, and depreciation components. |
 | 2027 true-up bridge | Pass with boundary | The final true-up petition requests a `16.579976M USD` over-recovery including interest be included in January-December `2027` factors. |
+| Recovery-return mechanics | Pass with boundary | FPL's filed testimony states that projected capital revenue requirements include debt and equity return grossed up for income taxes on average monthly net investment, including CWIP, plus depreciation/amortization; the identified costs are allocated to retail customers using separation factors. The filing reports `$859.244393M` of total jurisdictional 2026 revenue requirements. |
 | Billing determinants | Hold | No normalized local source ties rate-class usage determinants to Distribution Inspection recovery. |
 | Category customer receipts | Hold | No local source ties billed or collected customer cash specifically to Distribution Inspection. |
 
@@ -75,7 +96,11 @@ Anything short of that remains a regulated recovery proxy.
 
 `fpl-billing-determinant-category-receipt-proof-chase-hold`
 
-The FPL customer-cash chase is executed against the current local packet. It improves the map by confirming aggregate clause revenue and rate-class factor authority, but it does not produce Distribution Inspection-specific customer receipt proof.
+The FPL customer-cash chase is executed against the current local packet and
+the May 1, 2025 public testimony. The testimony strengthens the mechanics
+boundary—SPPCRC recovery can include return on average monthly net investment,
+including CWIP, and is allocated through separation factors—but it does not
+produce Distribution Inspection-specific customer receipt proof.
 
 ## Safe Claim
 

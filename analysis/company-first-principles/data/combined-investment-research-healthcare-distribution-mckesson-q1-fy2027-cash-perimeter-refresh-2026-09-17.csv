@@ -1,0 +1,16 @@
+period,metric,value,unit,interpretation,source
+Q1 FY2027,operating cash flow,-220,USD millions,reported OCF use,2026 Q1 10-Q
+Q1 FY2027,PP&E cash spend,112,USD millions,visible reinvestment,2026 Q1 10-Q
+Q1 FY2027,capitalized software cash spend,40,USD millions,visible technology reinvestment,2026 Q1 10-Q
+Q1 FY2027,acquisitions net of cash acquired,23,USD millions,visible investment cash,2026 Q1 10-Q
+Q1 FY2027,residual after visible uses,-395,USD millions,OCF less PP&E software acquisitions,calculated
+Q1 FY2027,receivables cash-flow use,2374,USD millions,working-capital funding,2026 Q1 10-Q
+Q1 FY2027,inventory cash-flow use,2074,USD millions,working-capital funding,2026 Q1 10-Q
+Q1 FY2027,drafts and accounts payable cash benefit,3773,USD millions,vendor timing funding,2026 Q1 10-Q
+June 30 2026,receivables,30316,USD millions,balance-sheet exposure,2026 Q1 10-Q
+June 30 2026,inventories,26259,USD millions,balance-sheet exposure,2026 Q1 10-Q
+June 30 2026,cash and cash equivalents,5164,USD millions,reported liquidity,2026 Q1 10-Q
+June 1 2026,Apollo convertible preferred investment,1250,USD millions,legal-entity capital contribution,2026 Q1 10-Q
+June 1 2026,Apollo Medical-Surgical Solutions interest,13,percent,redeemable NCI perimeter,2026 Q1 10-Q
+Q1 FY2027,shareholder returns,2600,USD millions,repurchases and dividends,2026 earnings release
+Q1 FY2027,dividends,102,USD millions,financing distribution,2026 Q1 earnings release

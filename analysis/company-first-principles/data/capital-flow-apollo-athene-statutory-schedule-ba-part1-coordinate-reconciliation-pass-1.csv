@@ -1,0 +1,9 @@
+diagnostic_id,metric,parser_value,control_value,difference,status,boundary
+CFAASBACP-RECON-001,coordinate-parser-row-count,436,not-applicable,,source-population-visible,Includes CUSIP-bearing and blank-CUSIP rows identified by the first-column table geometry.
+CFAASBACP-RECON-002,book-adjusted-carrying-value-row-sum,17461797566,17461797562,4,coordinate-control-near-tie,Promotable as a control reconciliation only; not holding-level cash or return proof.
+CFAASBACP-RECON-003,rows-with-book-value,432,436,4,sparse-row-review-open,Rows with blank book value remain blank; no imputation from neighboring columns.
+CFAASBACP-RECON-004,actual_cost,15285961900,15285961900,0,control-near-tie,Part 1 page-5825 subtotal comparison; income and commitment differences are not promoted to cash receipt or owner cash.
+CFAASBACP-RECON-005,fair_value,17724920753,17724920754,-1,control-near-tie,Part 1 page-5825 subtotal comparison; income and commitment differences are not promoted to cash receipt or owner cash.
+CFAASBACP-RECON-006,book_adjusted_carrying_value,17461797566,17461797562,4,control-near-tie,Part 1 page-5825 subtotal comparison; income and commitment differences are not promoted to cash receipt or owner cash.
+CFAASBACP-RECON-007,investment_income,237086006,237086005,1,control-near-tie,Part 1 page-5825 subtotal comparison; income and commitment differences are not promoted to cash receipt or owner cash.
+CFAASBACP-RECON-008,commitment_for_additional_investment,4368051290,4368051289,1,control-near-tie,Part 1 page-5825 subtotal comparison; income and commitment differences are not promoted to cash receipt or owner cash.

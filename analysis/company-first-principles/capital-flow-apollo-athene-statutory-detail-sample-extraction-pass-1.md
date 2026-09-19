@@ -87,5 +87,5 @@ Apollo/Athene now has named statutory holding samples from Schedule BA and Sched
 
 1. Build a parser for Schedule D issuer-credit obligations pages `5836-5911`.
 2. Build a parser for Schedule D asset-backed securities pages `5912-6027`.
-3. Build a parser for Schedule BA pages `5813-5829`.
+3. Build a parser for Schedule BA pages `5813-5835`, keeping Parts 1, 2, and 3 separate; Part 3 continues through pages `5834-5835` and Schedule D begins at `5836`.
 4. Normalize fields into issuer/CUSIP, asset class, NAIC designation, cost, fair value, book value, income, received interest, OTTI, acquisition date, and maturity.

@@ -1,0 +1,4 @@
+company,period,observed_cash_bridge,open_allocation,ca06_status,next_joinable_object
+TJX,H1 FY2027,"OCF 3.345B; property 1.159B; category detail; annual lease/tax context","maintenance/growth split; supplier-finance settlement; service cost/collection; matched lease/tax cash",partial,"matched payment or project/capex schedule"
+Target,H1 2026,"OCF 4.519B; property 2.404B; supplier-finance obligation 3.2B; tariff refund 994M","maintenance/growth split; supplier-finance payment allocation; cash-paid lease/tax; attached-service cost/collection",partial,"matched H1 payment or allocation schedule"
+Walmart,H1 FY2027,"OCF 19.710B; property 14.181B; new-store category 1.087B; supplier-finance obligation 6.4B","full maintenance/growth allocation; H1 supplier-finance settlement; cash-paid lease/tax; ecosystem-service cost/collection",partial,"matched H1 settlement, project-capex, or service allocation schedule"

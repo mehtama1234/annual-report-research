@@ -1,0 +1,5 @@
+workbench_id,company,scenario,recurring_cash_usd_m,growth_capex_usd_m,acquisition_or_jv_cash_usd_m,mechanical_residual_usd_m,project_return_input,financing_and_dilution_input,status
+DIRW-001,Equinix,recurring-screen,1784,300,0,1484,"requires stabilized project NOI and total project capital","requires debt lease JV/VIE and dilution allocation","qualified-screen"
+DIRW-002,Equinix,full-visible-growth,1784,2834,224,-1274,"requires project/cabinet/megawatt return evidence","senior notes capex commitments leases JV/VIE and SBC remain open","diagnostic-only"
+DIRW-003,Digital Realty,recurring-screen,1595,136,0,1459,"requires stabilized development yield and total project capital","debt preferred OP units unconsolidated debt and ATM issuance remain open","qualified-screen"
+DIRW-004,Digital Realty,full-visible-growth,1595,1627,2170,-2202,"requires project/market/MW return evidence","debt partner funding fund economics and ATM dilution remain open","diagnostic-only"

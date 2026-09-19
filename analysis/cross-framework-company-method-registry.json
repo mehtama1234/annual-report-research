@@ -2122,7 +2122,12 @@
     {
       "analysis_stack": {
         "annual_report_takeaways": [
-          "Astrana Health now adds a healthcare enablement and delegated-risk middle-layer packet to CLI 8 through provider-network management care delivery care-enablement services physician alignment and payer-facing operating infrastructure, with AnnualReports current to `2025` but classified as `Medical Equipment Wholesale` and the authoritative annual-plus-quarter chain saved locally through official IR and SEC sources as of Monday, `2026-08-10`; the local archive includes the `Q2 2026` release chain but not a local `Q2 2026` `10-Q`."
+          "The `2025` annual chain describes Astrana as a `physician-centric`, `technology-powered`, `risk-bearing` healthcare company built around provider alignment, delegated-risk relationships, and clinical-enablement infrastructure.",
+          "Astrana reports through three segments: `Care Partners`, `Care Delivery`, and `Care Enablement`. Together they show a middle-layer model that manages physician networks, supports care operations, and monetizes platform services across providers and payers.",
+          "Full-year `2025` revenue reached `$3.1818 billion`, up `56%`. Adjusted EBITDA reached `$205.4 million`, up `21%`, and free cash flow reached `$104.5 million`.",
+          "`Care Partners` revenue reached `$3.0226 billion`, up `55%`, which is the clearest proof that the business is really about network-scale healthcare routing and risk-bearing infrastructure rather than a narrow service niche.",
+          "Management emphasized a `fully delegated, payer-agnostic care model`, an `AI-enabled technology platform`, and strong physician alignment. The Prospect integration was described as ahead of schedule.",
+          "Scale matters here. The annual materials describe more than `20,000 providers` and over `1.6 million patients` in value-based care arrangements. That makes Astrana a real healthcare channel operator, just not a literal box-distribution operator."
         ],
         "damodaran_questions": [
           "Use when risk has to become a required return, hurdle rate, beta, risk premium, or discount-rate input.",
@@ -2136,21 +2141,28 @@
           "Use when the company can look solvent on accounting numbers but fail or re-rate because funding access tightens first."
         ],
         "next_evidence_work": [
+          "Start from extracted/healthcare/medical-equipment-wholesale/astrana-health/company-packet.md and reconcile it to the company roster row.",
           "Read the latest annual report and last three quarterly materials before making a valuation claim.",
           "Extract the exact metric, period, and source path for each business-model or margin claim.",
           "Write the disconfirming test that would weaken the current thesis in the next filing window."
         ],
-        "operating_model_read": "Astrana Health now adds a healthcare enablement and delegated-risk middle-layer packet to CLI 8 through provider-network management care delivery care-enablement services physician alignment and payer-facing operating infrastructure, with AnnualReports current to `2025` but classified as `Medical Equipment Wholesale` and the authoritative annual-plus-quarter chain saved locally through official IR and SEC sources as of Monday, `2026-08-10`; the local archive includes the `Q2 2026` release chain but not a local `Q2 2026` `10-Q`.",
-        "packet_path": "",
+        "operating_model_read": "Astrana reflects a shift away from hospital-centric healthcare toward distributed care that still needs coordination, reimbursement management, and provider-system operating support.",
+        "packet_path": "extracted/healthcare/medical-equipment-wholesale/astrana-health/company-packet.md",
         "quarterly_takeaways": [
-          "Quarter to verify: Q2 2026",
-          "Quarter to verify: Q1 2026",
-          "Quarter to verify: Q4 2025"
+          "Results: revenue reached `$972.5 million`, up `49%` year over year. `Care Partners` revenue reached `$932.8 million`, up `48%`.",
+          "Profitability and cash flow: net income reached `$18.5 million`, adjusted EBITDA reached `$68.9 million`, six-month operating cash flow reached `$100.8 million`, and six-month free cash flow reached `$92.9 million`.",
+          "Management framing: the company called itself an `AI-native healthcare operating system`, said demand was accelerating from providers and payers, and raised `2026` adjusted EBITDA guidance while reaffirming revenue and free-cash-flow guidance.",
+          "Why it matters: the latest quarter shows the middle layer becoming more software-like and operating-system-like even while still depending on deeply physical care delivery and institutional reimbursement flows.",
+          "Filing note: as of Monday, `2026-08-10`, the local evidence set includes the `Q2 2026` earnings `8-K`, Exhibit `99.1`, official results page, presentation, and transcript, but not a local `Q2 2026` `10-Q`.",
+          "Results: revenue reached `$965.1 million`, up `56%` year over year. Adjusted EBITDA reached `$66.3 million`, up `82%`. Free cash flow reached `$64.1 million`, up `372%`."
         ],
         "signal_takeaways": [
-          "Sector/industry context to test: Healthcare / Medical Equipment Wholesale.",
-          "Use the local filing packet or source ledger to turn this roster-level signal into cited operating evidence.",
-          "Do not promote this page from routed analysis to finished memo until the packet-derived evidence is populated."
+          "Astrana reflects a shift away from hospital-centric healthcare toward distributed care that still needs coordination, reimbursement management, and provider-system operating support.",
+          "The cultural pattern here is not visible consumer branding. It is quiet dependence on healthcare routing systems that decide how patients, providers, and payers stay aligned in value-based care.",
+          "The company also reflects a broader societal demand for lower-cost, better-coordinated care outside the most expensive acute settings. That pushes power toward operators that can manage physician networks, referral flows, risk contracts, and clinical infrastructure.",
+          "Reimbursement and payer alignment are core operating variables. This is a middle-layer business whose economics depend on delegated-risk contracts, provider incentives, and medical-cost management.",
+          "Working-capital discipline still matters even in a healthcare-enablement packet. Cash flow, revenue-cycle execution, and integration discipline are part of the operating model, not side issues.",
+          "Integration risk matters. Prospect added scale, but it also raises execution demands across physician alignment, geographic expansion, clinical operations, and back-office systems."
         ],
         "strategy_framework_checks": [
           "Use when margins depend on supplier power, customer concentration, substitute products, or competitive intensity.",
@@ -2159,7 +2171,7 @@
         ],
         "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
       },
-      "analysis_status": "roster-workbench",
+      "analysis_status": "packet-backed",
       "company_name": "Astrana Health, Inc.",
       "company_slug": "astrana-health-inc",
       "coverage_status": "in-progress",
@@ -2325,7 +2337,11 @@
       "exchange": "NASDAQ",
       "has_detailed_first_principles_packet": false,
       "industry": "Medical Equipment Wholesale",
-      "local_artifacts": [],
+      "local_artifacts": [
+        "extracted/healthcare/medical-equipment-wholesale/astrana-health/company-packet.md",
+        "extracted/healthcare/medical-equipment-wholesale/astrana-health/company-profile.md",
+        "extracted/healthcare/medical-equipment-wholesale/astrana-health/source-ledger.md"
+      ],
       "lyn_alden_routes": [
         {
           "id": "lyn-fiscal-dominance-and-deficit-liquidity",
@@ -62114,7 +62130,12 @@
     {
       "analysis_stack": {
         "annual_report_takeaways": [
-          "TJX materially strengthens the archive's value-hunt and bargain-discovery lane because the annual and quarter materials show the largest and most internationally scaled off-price operator in the set, with fiscal `2026` net sales of `$60.4B`, comp sales up `5%`, over `5,200` stores, and repeated emphasis on treasure-hunt shopping, branded bargains, and prices generally `20%` to `60%` below full-price retailers."
+          "TJX is a strong blind-spot addition because `Services / Apparel Stores` is too shallow a label for what the company actually represents in the archive. The more useful read is a scaled off-price bargain-discovery and treasure-hunt retail system built on value perception, flexible buying, dense store footprints, and repeat in-store traffic.",
+          "AnnualReports was not current enough to anchor the annual package. As of Monday, August 10, 2026, the live AnnualReports page still showed `MOST RECENT 2024 Annual Report and Form 10K`, while the official and SEC chain already supported the fiscal `2025` annual package for the year ended `2026-01-31`.",
+          "The annual package was strong. Fiscal `2026` net sales were `$60.4B`, up `7%`; consolidated comparable sales increased `5%`; net income was `$5.5B`; and diluted earnings per share were `$4.87`, up `14%` versus fiscal `2025`.",
+          "The strategic language matters as much as the numbers. TJX describes itself as the leading off-price retailer of apparel and home fashions in the U.S. and worldwide and says it sells quality, fashionable, brand name, and designer merchandise at prices generally `20%` to `60%` below full-price retailers' regular prices on comparable merchandise.",
+          "The scale is also a major signal. The annual filing said TJX operated over `5,200` stores across its four segments, while the official overview page said the company operated in ten countries across three continents as of fiscal year-end.",
+          "That combination makes TJX especially useful for the blind-spot lane. It is evidence that bargain discovery is not just a stressed-consumer residual behavior. At scale, it is a durable retail system with its own operating model, cultural logic, and demand rhythm."
         ],
         "damodaran_questions": [
           "Use when the analysis risks confusing intrinsic value, market price, and the story attached to an asset.",
@@ -62128,21 +62149,28 @@
           "Use when deficits, interest expense, policy spending, or Treasury/liquidity conditions can change demand, funding costs, or valuation multiples."
         ],
         "next_evidence_work": [
+          "Start from extracted/services/apparel-stores/tjx-companies-inc/company-packet.md and reconcile it to the company roster row.",
           "Read the latest annual report and last three quarterly materials before making a valuation claim.",
           "Extract the exact metric, period, and source path for each business-model or margin claim.",
           "Write the disconfirming test that would weaken the current thesis in the next filing window."
         ],
-        "operating_model_read": "TJX materially strengthens the archive's value-hunt and bargain-discovery lane because the annual and quarter materials show the largest and most internationally scaled off-price operator in the set, with fiscal `2026` net sales of `$60.4B`, comp sales up `5%`, over `5,200` stores, and repeated emphasis on treasure-hunt shopping, branded bargains, and prices generally `20%` to `60%` below full-price retailers.",
-        "packet_path": "",
+        "operating_model_read": "Sector: TJX gives the archive a major off-price retail-format case from inside `Services / Apparel Stores`, reinforcing that source taxonomy does not cleanly map modern retail systems.",
+        "packet_path": "extracted/services/apparel-stores/tjx-companies-inc/company-packet.md",
         "quarterly_takeaways": [
-          "Quarter to verify: Q1 FY27",
-          "Quarter to verify: Q4 FY26",
-          "Quarter to verify: Q3 FY26"
+          "Results: `Q1 FY27` net sales were `$14.3B`, up `9%`; consolidated comparable sales increased `6%`; net income was `$1.3B`; and diluted earnings per share were `$1.19`, up `29%` versus the prior year.",
+          "Operating posture: pretax profit margin reached `12.0%`, up `1.7` percentage points versus last year and well above plan. Management raised full-year FY27 comp-sales, pretax-profit-margin, EPS, and buyback guidance after the quarter.",
+          "Structural themes: this quarter matters because it shows the value-hunt system still accelerating even after a strong annual close. Management said all divisions delivered strong comparable sales growth and increases in customer transactions, while branded merchandise availability remained outstanding.",
+          "Results: `Q4 FY26` net sales were `$17.7B`, up `9%`; comparable sales increased `5%`; net income was `$1.8B`; and diluted earnings per share were `$1.58`, up `28%` versus the prior year.",
+          "Full-year anchor: the same release closed fiscal `2026` with net sales of `$60.4B`, comparable sales up `5%`, net income of `$5.5B`, and diluted earnings per share of `$4.87`.",
+          "Operating posture: Q4 pretax profit margin reached `13.5%`, while adjusted pretax profit margin reached `12.2%`, both above plan. Management also said annual sales surpassed `$60B`, calling it a major milestone for the company."
         ],
         "signal_takeaways": [
-          "Sector/industry context to test: Services / Apparel Stores.",
-          "Use the local filing packet or source ledger to turn this roster-level signal into cited operating evidence.",
-          "Do not promote this page from routed analysis to finished memo until the packet-derived evidence is populated."
+          "Sector: TJX gives the archive a major off-price retail-format case from inside `Services / Apparel Stores`, reinforcing that source taxonomy does not cleanly map modern retail systems.",
+          "Consumer: this is one of the archive's clearest reads on value-hunt, bargain-discovery, and transaction-led retail demand. Consumers keep showing up when the mix of recognizable brands, pricing gap, and constantly changing assortment is attractive enough.",
+          "Cultural: TJX matters because it shows that treasure-hunt shopping is not only functional. It is also experiential. The consumer draw is part value and part repeated discovery.",
+          "Societal: the company is filing-backed evidence that mainstream consumers remain highly responsive to bargain-led formats even when many other discretionary retail channels are uneven, over-positioned, or struggling to hold attention.",
+          "Business model: the moat is not built first on memberships or ads. It is built on global sourcing flexibility, opportunistic buying, dense physical distribution, multi-banner scale, inventory turn, and consumer willingness to revisit stores for new finds.",
+          "Competitive positioning: TJX is most useful next to `Ross`, `Burlington`, `Walmart`, and weaker middle-market department-store or apparel names. It shows the stronger end of the value-hunt system at much larger scale."
         ],
         "strategy_framework_checks": [
           "Use when industry returns depend on whether capital is entering or leaving the sector.",
@@ -62151,7 +62179,7 @@
         ],
         "valuation_focus": "Translate the annual-report story into explicit growth, margin, reinvestment, risk, and capital-allocation assumptions before treating the company as attractive or unattractive."
       },
-      "analysis_status": "roster-workbench",
+      "analysis_status": "packet-backed",
       "company_name": "The TJX Companies, Inc.",
       "company_slug": "the-tjx-companies-inc",
       "coverage_status": "in-progress",
@@ -62317,7 +62345,11 @@
       "exchange": "NYSE",
       "has_detailed_first_principles_packet": false,
       "industry": "Apparel Stores",
-      "local_artifacts": [],
+      "local_artifacts": [
+        "extracted/services/apparel-stores/tjx-companies-inc/company-packet.md",
+        "extracted/services/apparel-stores/tjx-companies-inc/company-profile.md",
+        "extracted/services/apparel-stores/tjx-companies-inc/source-ledger.md"
+      ],
       "lyn_alden_routes": [
         {
           "id": "lyn-energy-and-commodity-underinvestment",
@@ -63261,8 +63293,8 @@
     "detailed_first_principles_pages": 2,
     "lyn_alden_methods": 6,
     "other_framework_methods": 6,
-    "packet_backed_pages": 234,
-    "roster_workbench_pages": 2,
+    "packet_backed_pages": 236,
+    "roster_workbench_pages": 0,
     "source_roster_rows": 243
   },
   "damodaran_method_library": "/home/mehtama1/git-repo/aswath-damodaran-courses-concepts-research/analysis/damodaran-method-library.json",
@@ -63275,6 +63307,6 @@
     "https://www.lynalden.com/newsletter-archives/",
     "https://www.lynalden.com/reshoring/"
   ],
-  "updated_on": "2026-09-01",
+  "updated_on": "2026-09-15",
   "workspace": "annual-report-research"
 }

@@ -1,0 +1,9 @@
+gate_id,required_object,current_evidence,status,stop_rule
+CONTRACTOR-001,Named utility data-center or infrastructure customer/cohort,Sterling site/infrastructure and MasTec communications/energy exposure,cohort-visible,Do not treat company backlog as a named funded customer.
+CONTRACTOR-002,Signed/funded scope and mobilization,Backlog and project narratives visible but executed scope not joined,hold-contract,Backlog is not a funded award or cash right.
+CONTRACTOR-003,Revenue and progress-billing determinant,Reported revenue and contract-account disclosures,hold-billing,Revenue recognition does not prove billed or collected cash.
+CONTRACTOR-004,Contract assets receivables retainage and aging,Working-capital and contract-balance diagnostics,hold-collection,Do not net contract assets or receivables into cash without aging and remittance.
+CONTRACTOR-005,Cost-to-complete rework claims and margin,Contractor QoE framework and reported margin,hold-cost,Do not promote backlog margin without cost-to-complete and claims evidence.
+CONTRACTOR-006,Project cohort cash conversion,Aggregate OCF and capex visible but project cash not allocated,hold-cohort,Aggregate OCF is not project-level collection or return.
+CONTRACTOR-007,Fleet/property capex debt leases and acquisition allocation,Sterling and MasTec capex acquisitions debt and dilution diagnostics,hold-residual,Do not treat OCF-less-PP&E as owner cash.
+CONTRACTOR-008,Common-owner residual after all burdens,No named project cash waterfall currently closes,hold-owner-cash,Keep the industrial-contractor lane qualified and unranked.

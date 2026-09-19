@@ -1,0 +1,22 @@
+field,value_usd,period,source_page,status,boundary
+Net admitted assets,12146052030,June 30 2026,2,current-entity-balance-sheet,Not unrestricted parent cash
+Bonds admitted,7371491778,June 30 2026,2,current-entity-asset-scale,Selected CUSIP rows not present in verification PDF
+Cash cash equivalents and short-term investments,259285675,June 30 2026,2,current-entity-ending-cash,Not KKR receipt or freely distributable cash
+Funds held under coinsurance,4240949059,June 30 2026,3,liability-funding-perimeter,Not named-asset liability allocation
+Total liabilities,11411694553,June 30 2026,3,senior-claim-context,Not common-owner residual
+Surplus,734357478,June 30 2026,3,statutory-capital-context,Not common-owner residual
+Net investment income summary operations,291515414,H1 2026,4,statutory-income-context,Not named-asset cash
+Net investment income cash flow,288780010,H1 2026,5,legal-entity-cash-flow,Not named-asset attribution
+Federal and foreign income taxes paid recovered,-31084689,H1 2026,5,legal-entity-tax-cash-control,Not asset allocation
+Net cash from operations,75717758,H1 2026,5,legal-entity-operating-cash-control,Not KKR cash or named-asset return
+Investment proceeds,764720855,H1 2026,5,investment-proceeds-source-use,Not joined to named CUSIPs
+Investments acquired,906632604,H1 2026,5,reinvestment-burden,Not named-asset funding allocation
+Net cash from investments,-163923359,H1 2026,5,investment-cash-burn-control,Not return calculation
+Net cash from financing and miscellaneous sources,111230318,H1 2026,5,financing-flow-context,Not KKR remittance or owner cash
+Net change in cash,23024717,H1 2026,5,cash-reconciliation,Not legal availability proof
+Ending cash cash equivalents and short-term investments,259285675,June 30 2026,5,legal-entity-ending-cash,Not unrestricted or upstream cash
+Schedule D bonds and stocks acquired,1055731999,H1 2026,SI01,statutory-book-activity-control,Not equivalent to cash-flow acquisitions or named-CUSIP funding
+Schedule D bonds and stocks disposed consideration,922749417,H1 2026,SI01,statutory-book-activity-control,Not equivalent to named-CUSIP settlement cash
+Schedule D current-year other-than-temporary impairment,25769216,H1 2026,SI01,statutory-book-activity-control,Aggregate statutory impairment not allocated to selected CUSIPs
+Schedule D prepayment penalties and acceleration-fee investment income,1027822,H1 2026,SI01,statutory-income-control,Not named-asset cash receipt or return
+Schedule D bonds and stocks ending book adjusted carrying value,8215277364,June 30 2026,SI01,statutory-book-balance-control,Not legal-entity cash or owner residual

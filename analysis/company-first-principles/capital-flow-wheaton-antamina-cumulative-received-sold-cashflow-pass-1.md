@@ -29,7 +29,7 @@ The upstream production receipt bridge is:
 | Cash flow generated | Antamina combined cash flow generated to date is `1.171862B USD`. | `combined-cash-flow-generated-visible` | Cumulative cash flow is not invoice cash by period. |
 | Units received and sold | Antamina combined units received and sold to date are `56.718M` silver ounces. | `combined-received-sold-units-visible` | Does not prove BHP-only deliveries or settlement cash. |
 | PBND | Antamina Q2 2026 payable ounces produced but not delivered are `1.412M` silver ounces. | `combined-pbnd-visible` | PBND is a delivery timing gap, not cash. |
-| Q2 production | Q2 release reports `2.3M` attributable silver ounces produced. | `post-close-production-visible` | Production is not sold or collected cash. |
+| Q2 production and sales | Q2 release reports `2.319M` combined attributable silver ounces produced and `2.063M` sold. | `post-close-production-visible` | Production and sales are not BHP-only settled or collected cash. |
 | H1 stream economics | Financial statements show `277.563M USD` revenue and `222.223M USD` OCF proxy. | `stream-economics-visible` | Does not reconcile to invoices or realized price. |
 | Cumulative cash-yield proxy | `1.171862B / 5.200000B = 22.536%`. | `derived-combined-cash-yield-proxy` | Not IRR, NPV, after-tax return, or BHP-only return. |
 | Unit cash proxy | `1.171862B / 56.718M oz = 20.66 USD/oz`. | `derived-combined-unit-cash-proxy` | Not realized price or delivery settlement detail. |

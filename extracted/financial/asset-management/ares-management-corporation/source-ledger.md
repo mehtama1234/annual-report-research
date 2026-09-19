@@ -31,3 +31,16 @@ Date baseline: 2026-08-08
 ## Missing evidence
 
 - A saved standalone earnings-call transcript artifact for the in-scope quarters if Ares later exposes one through its event pages or a third-party transcript host.
+
+## Current-workspace artifact verification
+
+| Artifact | SHA-256 | Use |
+|---|---|---|
+| [Ares 2025 Form 10-K](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/asset-management/ares-management-corporation/2025-10k.html) | `da8bc236697884ac3eb930e256563206b372773288ace95fcef4550017c12421` | Filed GAAP, company-only cash, acquisition, compensation, consolidation, and debt evidence |
+| [Ares companyfacts](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/asset-management/ares-management-corporation/companyfacts.json) | `8c091571a7b1a227c61280eca4fc86c2cf8b554133fbca993d8761ae40d2d955` | Machine-readable denominator checks |
+| [Ares company packet](/home/mehtama1/git-repo/annual-report-research/extracted/financial/asset-management/ares-management-corporation/company-packet.md) | local packet | FRE, realized income, AUM, FPAUM, fundraising, deployment, and dry-powder context |
+
+The filing's company-only 2025 bridge is $2.113B operating cash flow, $72.2M
+of furniture/equipment/leasehold spending, and $1.731B of acquisitions. The
+consolidated cash-flow statement is larger because certain funds are
+consolidated; those fund flows are not automatically common-owner cash.

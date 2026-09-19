@@ -30,3 +30,10 @@ Date baseline: 2026-08-08
 
 - A direct saved AnnualReports.com HTML artifact if shell access to `annualreports.com` becomes reliable later.
 - A standalone `2Q26` earnings-call transcript artifact if Chubb posts or preserves one publicly in a later archive pass.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/property-casualty-insurance/chubb-limited/2025-10k.html) | `0bc594268c6aeeaa5a0aae2b6da65acbd4ab33f6931a6f095d1fefa3c24485da` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/property-casualty-insurance/chubb-limited/companyfacts.json) | `07065f8a9b546ddb36d90c2a2af68c166bd58e598f6383aabbf37a081b44b44c` |

@@ -111,11 +111,27 @@ The second queue pass is Auctane/Stamps.com:
 
 It confirms the strongest narrow bank-facility takeout sentence, but keeps full bank-exclusion language blocked because post-close ancillary bank roles are not mapped.
 
+The later public record strengthens the time series: Canyon announced a
+`$4.8B` unitranche financing for the 2026 Auctane/WWEX merger, and Blue Owl's
+Q2 2026 SEC schedule reports a current Auctane first-lien position maturing in
+2033. This shows continued private-credit presence after the 2021 takeout;
+it still does not identify the full lender group or prove that banks had no
+revolver, letter-of-credit, treasury, hedging, or other ancillary role.
+
 The third queue pass is Medallia:
 
 `analysis/company-first-principles/capital-flow-medallia-lender-allocation-repayment-pass-1.md`
 
 It supports Medallia as a strong acquisition-finance, bank-credit-repayment, and lender-control case, but keeps full lender-allocation and broad bank-displacement language blocked.
+
+The current Medallia record is now stronger than the initial queue result:
+Q2 2026 SEC holder schedules show BCRED and Antares positions in the same
+2028 first-lien instrument with materially impaired fair-value marks, and the
+official August 3, 2026 release confirms the lender recapitalization completed,
+debt was significantly reduced, `$150M` of new capital was secured, and
+ownership transferred to the Blackstone/Apollo/FSK-led group. This is a
+completed lender-led control and credit-stress case; it is still not a
+dollar-level payoff, lender-allocation, or owner-cash bridge.
 
 The fourth queue pass is Guidehouse:
 

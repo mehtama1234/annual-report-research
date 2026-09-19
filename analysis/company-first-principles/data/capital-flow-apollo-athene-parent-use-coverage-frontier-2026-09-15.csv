@@ -1,0 +1,6 @@
+row_id,assumption_pct,athene_h1_parent_flow_musd,apollo_common_dividends_musd,apollo_common_repurchases_musd,apollo_preferred_dividends_musd,listed_parent_uses_musd,attributed_athene_flow_musd,coverage_pct,status,source_artifact,missing_upgrade
+APO-PUC-001,0,110,654,729,49,1432,0,0.00,sensitivity-only,analysis/company-first-principles/capital-flow-apollo-athene-parent-use-coverage-frontier-2026-09-15.md,Dated AGM receipt and source-priority ledger
+APO-PUC-002,25,110,654,729,49,1432,27.5,1.92,sensitivity-only,analysis/company-first-principles/capital-flow-apollo-athene-parent-use-coverage-frontier-2026-09-15.md,Dated AGM receipt and source-priority ledger
+APO-PUC-003,50,110,654,729,49,1432,55,3.84,sensitivity-only,analysis/company-first-principles/capital-flow-apollo-athene-parent-use-coverage-frontier-2026-09-15.md,Dated AGM receipt and source-priority ledger
+APO-PUC-004,75,110,654,729,49,1432,82.5,5.76,sensitivity-only,analysis/company-first-principles/capital-flow-apollo-athene-parent-use-coverage-frontier-2026-09-15.md,Dated AGM receipt and source-priority ledger
+APO-PUC-005,100,110,654,729,49,1432,110,7.68,sensitivity-only,analysis/company-first-principles/capital-flow-apollo-athene-parent-use-coverage-frontier-2026-09-15.md,Dated AGM receipt and source-priority ledger

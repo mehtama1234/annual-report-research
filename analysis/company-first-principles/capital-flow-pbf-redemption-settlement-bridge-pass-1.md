@@ -34,6 +34,7 @@ The upstream packet is:
 | Coupon mechanics | Old annual coupon `48.096M USD`; new annual coupon `36.250M USD`; simple annual coupon delta `11.846M USD`. | `coupon-proxy-visible` | Not after fees, tax, accrued interest, amortization, ABL effects, or liquidity opportunity cost. |
 | Cost markers | `7.9M USD` deferred financing costs and other net; `2.2M USD` loss on extinguishment. | `cost-markers-visible` | No detailed fee schedule, tax treatment, or NPV. |
 | Company cash support | H1 `2026` reported OCF `1.2651B USD`; insurance-adjusted OCF proxy `1.1538B USD`; cash interest `90.9M USD`. | `company-cash-support-visible` | Not refinery-level recurring return or refinancing value creation. |
+| Consolidated financing cash flow | PBF's H1 cash-flow statement shows `$500.0M` of 2034-note proceeds, `$(801.6M)` redemption of the 2028 notes, `$1.100B` of revolver borrowings, and `$(1.200B)` of revolver repayments | `financing-activity-reconciled` | Financing-activity classification and period totals; not a trustee settlement, account-level cash bridge, or source-priority allocation |
 
 ## What This Upgrades
 
@@ -64,11 +65,18 @@ Full settlement-ledger proof still requires:
 
 `pbf-completed-redemption-source-use-visible-settlement-ledger-hold`
 
+The subsequent [official 8-K financing mechanics pass](capital-flow-pbf-official-8k-financing-mechanics-pass-2-2026-09-17.md)
+adds the co-issuer, trustee, paying-agent, period-end net-proceeds, and
+financing-activities reconciliation. It does not close the settlement-ledger
+or refinancing-NPV gates.
+
 PBF is now the closest near-term named cash upgrade candidate. It has named source/use and completed debt retirement. It remains below settlement-ledger and economic-return proof.
+
+This is not full settlement-ledger proof.
 
 ## Safe Claim
 
-`PBF's Q2 2026 filing supports completed redemption source/use evidence: 500.0M USD of 2034 7.25% notes generated 492.1M USD of net proceeds, and those proceeds plus available cash redeemed all 801.6M USD of 2028 6.00% notes on June 25, 2026. Local calculations show a minimum 309.5M USD cash bridge before accrued interest, 301.6M USD principal reduction, and about 11.846M USD of simple annual coupon relief. This is not full settlement-ledger proof or refinancing value creation because accrued interest, cash-on-hand split, detailed fees, tax, liquidity effect, ABL availability, refinancing NPV, and refinery-level return remain missing.`
+`PBF's Q2 2026 filing supports completed redemption source/use evidence: 500.0M USD of 2034 7.25% notes generated 492.1M USD of net proceeds, and those proceeds plus available cash redeemed all 801.6M USD of 2028 6.00% notes on June 25, 2026. The consolidated financing statement also shows 500.0M USD of new-note proceeds, 801.6M USD of redemption, 1.100B USD of revolver borrowings, and 1.200B USD of revolver repayments. Local calculations show a minimum 309.5M USD cash bridge before accrued interest, 301.6M USD principal reduction, and about 11.846M USD of simple annual coupon relief. These are period financing movements, not a trustee settlement or account-level source-priority cash bridge; accrued interest, cash-on-hand split, detailed fees, tax, liquidity effect, ABL availability, refinancing NPV, and refinery-level return remain missing.`
 
 ## Next Source Package
 

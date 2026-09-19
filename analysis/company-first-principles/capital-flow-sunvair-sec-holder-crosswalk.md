@@ -19,6 +19,7 @@ Sunvair appears in multiple public credit-vehicle schedules:
 - Ares Capital Corporation reports Sunvair revolver and first-lien term-loan rows in Q2 2026.
 - Ares Strategic Income Fund reports Sunvair revolver and first-lien loan rows in Q1 2026.
 - CION Ares Diversified Credit Fund reports Sunvair revolver, term-loan, and delayed-draw rows in Q1 2026.
+- CION Ares Diversified Credit Fund's June 30, 2026 semi-annual report refreshes those three rows and also exposes CADCX's vehicle-level capital stack.
 
 ## Extracted Holder Rows
 
@@ -31,16 +32,25 @@ Sunvair appears in multiple public credit-vehicle schedules:
 | CION Ares Diversified Credit Fund | Sunvair Aerospace Group Inc. | Q1 2026 | 1st Lien Revolving Loan | `0.087M USD` | `0.087M USD` | `8.67% SOFR(Q) + 5.00%` | `05/2031` |
 | CION Ares Diversified Credit Fund | Sunvair Aerospace Group Inc. | Q1 2026 | 1st Lien Term Loan | `1.747M USD` | `1.746M USD` | `8.69% SOFR(Q) + 5.00%` | `05/2031` |
 | CION Ares Diversified Credit Fund | Sunvair Aerospace Group Inc. | Q1 2026 | 1st Lien Delay Draw Term Loan | `0.691M USD` | `0.691M USD` | `8.69% SOFR(Q) + 5.00%` | `05/2031` |
+| CION Ares Diversified Credit Fund | Sunvair Aerospace Group Inc. | Q2 2026 | 1st Lien Revolving Loan | `0.058M USD` | `0.049M USD` | `8.66% SOFR(Q) + 5.00%` | `05/2031` |
+| CION Ares Diversified Credit Fund | Sunvair Aerospace Group Inc. | Q2 2026 | 1st Lien Term Loan | `1.742M USD` | `1.722M USD` | `8.71% SOFR(Q) + 5.00%` | `05/2031` |
+| CION Ares Diversified Credit Fund | Sunvair Aerospace Group Inc. | Q2 2026 | 1st Lien Delay Draw Term Loan | `1.105M USD` | `1.094M USD` | `8.71% SOFR(Q) + 5.00%` | `05/2031` |
 
 The CSV also keeps ASIF 2024 and 2025 rows so the holder history is visible without double-counting prior periods.
 
 ## Cleanest Number
 
-The cleanest latest visible 2026 number is:
+The cleanest latest visible 2026 holder number, using ARCC Q2, ASIF Q1, and the refreshed CADCX Q2 rows without duplicating CADCX Q1, is:
 
-`68.1M USD ARCC Q2 2026 fair value + 35.7504M USD ASIF Q1 2026 fair value + 2.524M USD CADCX Q1 2026 fair value = 106.3744M USD`
+`68.1M USD ARCC Q2 2026 fair value + 35.7504M USD ASIF Q1 2026 fair value + 2.865M USD CADCX Q2 2026 fair value = 106.7154M USD`
 
 That is visible holder exposure, not total Sunvair debt.
+
+The CADCX semi-annual report also proves the vehicle-level capital stack as of
+June 30, 2026: `$7.280B` total assets, `$1.411B` debt, `$980M` mandatory
+redeemable preferred-share carrying value, `$2.552B` total liabilities, and
+`$4.728B` net assets. It names State Street, Wells, and BNP facilities, but
+does not allocate any one facility or capital source to Sunvair.
 
 ## Why This Matters
 
@@ -49,11 +59,14 @@ Before this pass, Sunvair was operating-context evidence:
 - Ares listed Sunvair as a Q2 2026 selected U.S. direct-lending borrower.
 - The selected-borrower map classifies it as aerospace MRO services.
 
-After this pass, Sunvair has lender-side debt evidence:
+After this pass, Sunvair has lender-side debt evidence and one vehicle-level
+funding-stack bridge:
 
 - ARCC discloses Sunvair first-lien exposure in Q2 2026.
 - ASIF discloses Sunvair first-lien and revolver exposure in Q1 2026.
 - CADCX discloses smaller Sunvair first-lien, revolver, and delayed-draw exposure in Q1 2026.
+- CADCX's June 2026 semi-annual report shows the registered fund's own debt,
+  preferred capital, common net assets, named facilities, and H1 debt turnover.
 
 ## Claim Update
 
@@ -68,6 +81,8 @@ It does not yet prove:
 - Prior bank repayment.
 - Whether the Ares Q2 2026 selected-borrower item was an amendment, add-on, refinancing, or new money.
 - How much borrowing funded acquisitions, organic capacity, refinancing, or working capital.
+- Which CADCX liability, preferred capital, common capital, or facility draw
+  funded the Sunvair position.
 
 ## What To Do Next
 
@@ -84,6 +99,6 @@ The next Sunvair questions are:
 
 Sunvair is now more than a named Ares deal example.
 
-We can show at least `106.3744M USD` of visible 2026 holder-level private-credit exposure across ARCC, ASIF, and CADCX.
+We can show at least `106.7154M USD` of visible 2026 holder-level private-credit exposure across ARCC, ASIF, and refreshed CADCX Q2 rows, using mixed reporting periods without duplicating CADCX's Q1 and Q2 positions.
 
 What we still cannot say is that this replaced a bank loan or equals the whole facility.

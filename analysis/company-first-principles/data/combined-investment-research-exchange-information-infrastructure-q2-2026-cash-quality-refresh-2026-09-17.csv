@@ -1,0 +1,15 @@
+company,model,period,metric,value,classification,boundary
+CME Group,exchange/clearing,H1 2026,total revenue,$3.586B,observed,not owner cash
+CME Group,exchange/clearing,H1 2026,clearing and transaction fees,$2.895B,observed,volume/rate revenue not durable cash
+CME Group,exchange/clearing,H1 2026,market data revenue,$462.2M,observed,not separated from technology and clearing burden
+CME Group,exchange/clearing,H1 2026,operating cash,$2.207B,observed,includes collateral-related timing and other adjustments
+CME Group,exchange/clearing,June 30 2026,Federal Reserve cash account,$138.5B,collateral context,not unrestricted corporate cash
+CME Group,exchange/clearing,H1 2026,performance-bond/guaranty-fund contribution change,-$1.545B,observed,collateral flow not revenue
+S&P Global,information/rating/index platform,H1 2026,revenue growth,10%,observed,includes mix/acquisition/transaction effects
+S&P Global,information/rating/index platform,H1 2026,operating cash,$2.476B,observed,requires acquisition/disposition and working-capital bridge
+S&P Global,information/rating/index platform,H1 2026,capital expenditures,$65M,observed,not total reinvestment
+S&P Global,information/rating/index platform,H1 2026,acquisitions,$26M,observed,not organic cash
+S&P Global,information/rating/index platform,H1 2026,disposition proceeds,$361M,observed,exceptional/nonrecurring inflow
+S&P Global,information/rating/index platform,H1 2026,free cash flow,$2.249B,non-GAAP,not comparable to CME collateral-adjusted cash
+S&P Global,information/rating/index platform,H1 2026,amortization of intangibles,$551M,noncash adjustment,requires acquisition replacement test
+S&P Global,information/rating/index platform,H1 2026,stock-based compensation,$95M,noncash adjustment,requires dilution treatment

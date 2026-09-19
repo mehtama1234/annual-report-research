@@ -40,3 +40,10 @@ Use evidence tags:
 
 - No local company-posted Marsh binary capture was preserved for the `1Q26` or `2Q26` quarterly release pages in this workspace.
 - No local prepared remarks or full earnings-call transcript capture was collected for `4Q25`, `1Q26`, or `2Q26`.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/insurance-brokers/marsh-mclennan-companies-inc/2025-10k.html) | `979facdf04211654464ad202ac13add1ee0b9576b763bb2f617c2342d6dcca4d` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/insurance-brokers/marsh-mclennan-companies-inc/companyfacts.json) | `ad691a077f6a124aa14b0954da357a14aa7be1638dbb7fd40d0aa1c9c6df50b7` |

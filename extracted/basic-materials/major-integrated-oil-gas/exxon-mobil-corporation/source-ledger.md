@@ -29,6 +29,17 @@ Use evidence tags:
 
 ## Reconciliation notes
 
+## Current SEC artifact integrity
+
+| Artifact | SHA-256 | Size | Role |
+|---|---|---:|---|
+| [2025 Form 10-K](../../../../raw/sec/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/2025-10k.html) | `3591db2246ab14c52465d32f69b459b000919c141a5656c81cf59acf0a805be8` | 5,591,068 bytes | Primary annual filing |
+| [SEC companyfacts](../../../../raw/sec/companyfacts/basic-materials/major-integrated-oil-gas/exxon-mobil-corporation/companyfacts.json) | `9b95535419e5662e3deed01de803e83deead477a4c81316e1c45186368fdd8b8` | 3,122,723 bytes | GAAP denominator extraction |
+
+The FY2025 denominator set is independently checked by
+`scripts/verify-exxon-mobil-filing-denominators.py`. OCF less PP&E is a
+screening residual, not ExxonMobil's own free-cash-flow definition.
+
 - The correct trailing-quarter set as of `2026-08-09` is `Q2 2026`, `Q1 2026`, and `Q4 2025`.
 - AnnualReports.com still appears lagged for several Basic Materials names, so this packet relies primarily on official ExxonMobil investor-relations pages and SEC filings.
 - The `Q1 2026` release heavily emphasizes estimated timing effects and an identified item tied to Middle East disruption; the cleaner operating read uses the company’s adjusted and timing-effect-excluded framing alongside reported GAAP earnings.

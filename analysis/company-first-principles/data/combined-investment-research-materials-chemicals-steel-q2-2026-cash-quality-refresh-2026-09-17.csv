@@ -1,0 +1,15 @@
+company,model,period,metric,value,classification,boundary
+Ecolab,specialty chemicals/service,H1 2026,operating cash,$1.1754B,observed,not normalized owner cash
+Ecolab,specialty chemicals/service,H1 2026,capital expenditures,$588.6M,observed,requires maintenance/growth split
+Ecolab,specialty chemicals/service,H1 2026,accounts receivable cash use,$197.0M,observed,requires collection/growth bridge
+Ecolab,specialty chemicals/service,H1 2026,inventory cash use,$131.4M,observed,requires demand/stocking bridge
+Ecolab,specialty chemicals/service,H1 2026,stock-based compensation,$75.1M,noncash adjustment,requires dilution treatment
+Ecolab,specialty chemicals/service,H1 2026,one-time Ovivo equity incentive payments,$60M,exceptional/acquisition,not recurring operating burden by assumption
+Nucor,steel/low-cost capacity,H1 2026,operating cash,$2.286B,observed,cycle and working-capital dependent
+Nucor,steel/low-cost capacity,H1 2026,capital expenditures,$1.232B,observed,project versus maintenance split open
+Nucor,steel/low-cost capacity,H1 2026,accounts receivable cash use,$952M,observed,working-capital investment
+Nucor,steel/low-cost capacity,H1 2026,inventory cash use,$560M,observed,working-capital investment
+Nucor,steel/low-cost capacity,H1 2026,accounts payable cash source,$454M,observed,supplier-finance/working-capital timing control
+Nucor,steel/low-cost capacity,FY2026,estimated capital expenditures,$2.50B,forward estimate,not realized return
+Nucor,steel/low-cost capacity,H1 2026,West Virginia/NTS expansion,major projects,observed,requires utilization and project-return bridge
+Nucor,steel/low-cost capacity,H1 2026,stock repurchases,$475M,capital return,not operating cash

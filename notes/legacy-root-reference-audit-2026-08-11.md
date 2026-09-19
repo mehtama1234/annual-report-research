@@ -25,14 +25,17 @@ The goal is to prove that live navigation has been normalized and that the remai
 
 As of `2026-08-11`, the remaining markdown footprint is:
 
-- files still containing the retired repo root: `555`
-- files where the remaining reference is specifically a `.../raw/...` provenance path: `553`
-- files where the remaining reference is historical or non-raw: `2`
+- files still containing the retired repo root: `633`
+- files where the remaining reference is specifically a `.../raw/...` provenance path: `628`
+- files where the remaining reference is historical or non-raw: `5`
 
 The remaining non-raw historical files are:
 
+- `analysis/company-first-principles/capital-flow-aep-duke-source-table-extraction-pass.md`
 - `notes/new-lanes-raw-blob-offload-2026-08-10.md`
 - `notes/legacy-root-reference-audit-2026-08-11.md`
+- `notes/new-lanes-five-company-raw-offload-2026-08-12.md`
+- `notes/remaining-worktrees-hygiene-plan-2026-08-12.md`
 
 Those notes intentionally preserve historical naming context:
 

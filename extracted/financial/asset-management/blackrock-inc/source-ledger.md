@@ -30,3 +30,14 @@ Date baseline: 2026-08-09
 - A direct saved AnnualReports HTML artifact.
 - Local transcript artifacts for the `Q4 2025`, `Q1 2026`, and `Q2 2026` earnings calls.
 - Local investor-presentation or earnings-supplement PDFs for the in-scope quarterly events.
+
+## Current repository primary artifacts
+
+The following FY2025 SEC artifacts are preserved in the current workspace for
+machine-readable verification:
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/asset-management/blackrock-inc/2025-10k.html) | `ae1e60a7e01f21e4398ba628b00df02181eb65f12a2d0c499b1613deac2d4493` |
+| SEC submissions index | [sec-submissions.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/financial/asset-management/blackrock-inc/sec-submissions.json) | preserved |
+| SEC companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/financial/asset-management/blackrock-inc/companyfacts.json) | `1626ac1989e2ec7baffb7d327f26bc2484865455f73e1d21058d678971cef0c6` |

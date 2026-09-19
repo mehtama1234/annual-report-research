@@ -53,3 +53,10 @@
 
 - A direct saved AnnualReports company-page HTML artifact if needed later.
 - Standalone transcript artifacts for Q4 2025, Q1 2026, and Q2 2026.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/real-estate/reit-specialty-real-estate/digital-realty-trust-inc/2025-10k.html) | `ef7e792602c7eaa03a1d06b019a971ab86fd5e54fcd94bf825348f6151b5165b` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/real-estate/reit-specialty-real-estate/digital-realty-trust-inc/companyfacts.json) | preserved |

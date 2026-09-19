@@ -1,0 +1,6 @@
+ticker,company,observation_date,price_usd,market_cap_musd,source_route
+TJX,TJX Companies,2026-09-17,122.84,137212.280,nasdaq-tjx
+TGT,Target,2026-09-17,154.68,70626.888,nasdaq-tgt
+WMT,Walmart,2026-09-17,107.50,857635.000,nasdaq-wmt
+APO,Apollo Global Management,2026-09-17,124.53,75990.918,nasdaq-apo
+WPM,Wheaton Precious Metals,2026-09-17,146.73,66515.068,nasdaq-wpm

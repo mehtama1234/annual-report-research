@@ -1,0 +1,5 @@
+company,period,reported_cash_after_property_musd,conservative_screen_cash_musd,screen_reduction_musd,reduction_pct_of_reported_cash,comparability_status,source_artifact,next_upgrade
+TJX,FY2026,4917,4464,453,9.212935,annual-qualified,analysis/company-first-principles/combined-investment-research-pilot-02-retail-cash-quality-support-dependency-2026-09-15.md,Same-period inventory capex lease tax and dilution normalization
+Target,H1 2026,2115,597,1518,71.773050,h1-qualified,analysis/company-first-principles/combined-investment-research-pilot-02-retail-cash-quality-support-dependency-2026-09-15.md,Full-year seasonality and supplier-finance settlement roll-forward
+Walmart,H1 FY2027,5529,981,4548,82.257189,h1-qualified,analysis/company-first-principles/combined-investment-research-pilot-02-retail-cash-quality-support-dependency-2026-09-15.md,Full-year tariff and payable timing plus maintenance-capex normalization
+TJX,H1 FY2027,2186,1631,555,25.388838,h1-qualified,analysis/company-first-principles/combined-investment-research-pilot-02-retail-cash-quality-support-dependency-2026-09-15.md,Temporary tariff/interchange support and per-share normalization

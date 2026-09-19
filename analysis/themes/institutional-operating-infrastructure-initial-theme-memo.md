@@ -22,6 +22,17 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+- annual and quarterly company packets for logistics, workplace services,
+  safety, waste, packaging, property operations, healthcare administration,
+  and enterprise workflow software
+- operating-model, strategy, growth-engine, constraint, and exact-fact fields
+  from those packets
+- cash, margin, backlog, route-density, recurring-revenue, and outsourcing
+  observations used to distinguish relationship control from burden carrying
+- existing sector briefs and proof pages for the cross-company comparison
+
 ## What This Memo Shows
 
 A significant part of the modern economy depends on companies that do not build brands, sell to consumers, or write software alone. Instead, they run the operating systems that keep institutions functioning: parcel networks, freight coordination, workplace safety, facilities management, waste processing, packaging, property operations, healthcare administration, and enterprise workflow software. This memo shows that the companies capturing the cleanest economics in many sectors are the ones that provide these hidden layers, not always the ones carrying the physical burden.
@@ -146,3 +157,14 @@ The headline businesses—consumer brands, technology companies, financial insti
 - [Consumer-goods value portfolio memo](/analysis/themes/consumer-goods-value-portfolio-initial-theme-memo.md)
 - [Real estate reckoning memo](/analysis/themes/real-estate-reckoning-initial-theme-memo.md)
 - [Cultural value trust and automation memo](/analysis/themes/cultural-value-trust-and-automation-initial-theme-memo.md)
+
+## Skeptical Reader Test
+
+- Does the memo distinguish durable outsourcing from temporary cost cutting or
+  weak internal demand?
+- Does each company show what operating layer it controls and what labor,
+  property, fleet, compliance, or technology burden it carries?
+- Are route density, backlog, recurring contracts, and workflow adoption tied
+  to cash and margin evidence rather than treated as automatic moat signals?
+- What next filing would show that the hidden-infrastructure thesis is actually
+  cyclical, commoditized, or uneconomic?

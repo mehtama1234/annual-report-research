@@ -1,0 +1,8 @@
+refresh_id,source_page,source_field,observation_usd_or_text,safe_use,remaining_boundary
+BFPCAR-001,36,credit agreement date,2024-01-05,"dated legal-credit route","draw date and bank settlement not shown"
+BFPCAR-002,36,senior loan commitment,245000000,"Accordia commitment to issue senior loan to Bear Financing","commitment is not proof of funded principal or borrower receipt"
+BFPCAR-003,36,affiliate perimeter,"Accordia and 2023 Bear Financing L.P. both indirect KKR subsidiaries; KKR ultimate controlling person","related-party legal-entity route","no elimination, allocation, liability cost, or owner residual"
+BFPCAR-004,166,CUSIP and issuer,"90231*-AA-0; 2023 BEAR FINANCING L.P.","matching Schedule D instrument identity","private instrument terms and collateral package remain open"
+BFPCAR-005,166,book and fair value,"202125000 book/par; 202771800 fair value","FY2024 owned-asset observation","not settled principal or realized return"
+BFPCAR-006,166,rates and income,"8.500% stated; 8.612% effective; 6585906 due/accrued; 11604153 interest received","period-specific statutory income and instrument-rate fields","cash settlement, liability cost, and return remain open"
+BFPCAR-007,166,dates,"acquired 2024-01-05; matures 2039-01-05","period continuity anchor","no amortization or repayment ledger"

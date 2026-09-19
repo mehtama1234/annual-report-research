@@ -44,7 +44,7 @@ These amounts are from the holder/source map and are in USD millions.
 | Non-traded BDC / private credit fund | `166.8635` | `130.5210` | `8` | K-FITS, ASIF, and Goldman Sachs Private Credit show mixed funded and commitment exposure. |
 | Middle-market lending fund | `27.8730` | `0.0000` | `1` | Phillip Street gives historical Relation exposure. |
 | Private credit fund | `26.4970` | `12.4010` | `1` | New Mountain shows MAI drawn and undrawn exposure. |
-| Registered credit fund | `2.5240` | `0.0000` | `1` | CION Ares shows smaller Sunvair exposure. |
+| Registered credit fund | `2.8650` | `0.0000` | `1` | CION Ares shows smaller Sunvair exposure; June 2026 semi-annual report now exposes the vehicle funding stack. |
 | Bank credit facility | `0.0000` | `0.0000` | `1` | Atwell has a prior `200.0000M USD` bank-facility denominator. |
 | Financing arranger role only | `0.0000` | `0.0000` | `1` | Jiffy has Ares arranger evidence and a `1300.0000M USD` transaction value but no holder row yet. |
 
@@ -59,7 +59,7 @@ These amounts are from the holder/source map and are in USD millions.
 | Blue Owl | `21.4120` | `8.3720` | `1` | Precinmac / Paris US Holdco. |
 | New Mountain | `26.4970` | `12.4010` | `1` | MAI Capital. |
 | Kayne Anderson | `10.0020` | `0.0000` | `1` | AeriTek. |
-| CION / Ares | `2.5240` | `0.0000` | `1` | Sunvair. |
+| CION / Ares | `2.8650` | `0.0000` | `1` | Sunvair; CADCX Q2 2026 holder row and vehicle-level funding stack. |
 | Goldman Sachs / Phillip Street | `27.8730` | `0.0000` | `1` | Historical Relation exposure. |
 | Bank lender group | `0.0000` | `0.0000` | `1` | Atwell prior bank facility denominator. |
 

@@ -8,6 +8,10 @@ The question is:
 
 `Do Medallia's acquisition debt, bank-credit repayment, private-credit lender identity, and later lender-led ownership transition form one clean capital-flow chain?`
 
+The Q2 2026 holder-stress control is structured in:
+
+`analysis/company-first-principles/data/capital-flow-medallia-q2-2026-holder-stress-control.csv`
+
 ## Resolution Outcome
 
 `hold-after-pass-1 - strong repayment and lender-control evidence, final lender allocation map incomplete`
@@ -28,6 +32,42 @@ It still does not pass the clean-chain test because the documents currently avai
 | Repayment of existing credit agreement | passed | The preliminary proxy says merger funding would repay obligations under the existing credit agreement and related fees and expenses. |
 | Lender-led ownership transition | passed | Medallia's 2026 announcement says ownership would transition from Thoma Bravo to an investor group led by Blackstone, Apollo, and FS KKR Capital Corp. |
 | New capital in transition | passed | The 2026 announcement states `150M USD` of new capital and a debt-reduction transaction. |
+
+## Q2 2026 holder-side stress control
+
+The current holder schedules add a direct lender-side control to the 2026
+recapitalization story. Blackstone Private Credit Fund's June 30, 2026 SEC
+10-Q reports two Medallia first-lien term-loan rows with the same SOFR plus
+`6.00%` pricing, `10/29/2028` maturity, and `9.97%` effective yield:
+
+| Holder row | Par | Amortized cost | Fair value | Safe interpretation |
+| --- | ---: | ---: | ---: | --- |
+| Acquired `10/29/2021` | `$897.116M` | `$869.650M` | `$444.072M` | Large current BCRED position with a roughly half-par fair-value mark. |
+| Acquired `08/16/2022` | `$221.271M` | `$214.379M` | `$109.529M` | Separate BCRED row with the same instrument signature and similar mark. |
+
+The two BCRED rows total `$1.118387B` par and `$553.601M` fair value, but
+they are holder-side marks rather than a borrower debt balance or cash flow.
+Antares Private Credit Fund's August 2026 SEC-filed schedule independently
+reports a Medallia first-lien term loan with the same `SOFR + 6.00%`, `9.97%`,
+and `10/29/2028` signature, with `$105M` par and `$60M` fair value. This
+independent holder observation supports broad lender exposure and stressed
+credit marks around the lender-led recapitalization; it does not prove lender
+allocation, payoff amount, or the source and use of the `$150M` new capital.
+
+The official [August 3, 2026 Medallia completion release](https://www.medallia.com/press-release/medallia-closes-150-million-capital-deal/)
+closes the event-status gap: Medallia says the recapitalization agreement with
+its lenders completed, outstanding debt was significantly reduced, `$150M` of
+new capital was secured, and ownership officially transferred to a group led
+by Blackstone-managed funds, Apollo, and FS KKR Capital Corp. This upgrades
+the route from announced lender-led recapitalization to completed
+lender-led-control event. The release still does not disclose the exact debt
+reduction, lender-by-lender allocation, cash settlement, or sources-and-uses
+waterfall.
+
+This is a quality-of-earnings and credit-cycle control, not a realized-loss or
+fraud conclusion. The marks can reflect restructuring, valuation, or other
+credit judgments, and the exact waterfall still requires the recapitalization
+agreement and lender allocation schedule.
 
 ## What Did Not Pass
 
@@ -83,6 +123,9 @@ That supports a stronger claim about private credit as a control path when spons
 | Existing credit agreement repayment and Wells Fargo Bank as administrative agent | `raw/primary-sources/capital-flow/borrower-transactions/medallia/medallia-2021-preliminary-proxy-prem14a.html` |
 | Lender-led ownership transition to group led by Blackstone, Apollo, and FS KKR | `raw/primary-sources/capital-flow/borrower-transactions/medallia/medallia-2026-lender-led-ownership-transition.html` |
 | `150M USD` new capital in 2026 transition | `raw/primary-sources/capital-flow/borrower-transactions/medallia/medallia-2026-lender-led-ownership-transition.html` |
+| Q2 2026 BCRED Medallia holder rows | [Blackstone Private Credit Fund Q2 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1803498/000180349826000048/bcred-20260630.htm) |
+| Q2 2026 Antares Medallia holder row | [Antares Private Credit Fund SEC-filed schedule](https://www.sec.gov/Archives/edgar/data/1976336/000110465926099743/none-20260820x424b3.htm) |
+| August 3, 2026 completed recapitalization | [Medallia completion release](https://www.medallia.com/press-release/medallia-closes-150-million-capital-deal/) |
 
 ## Next Exact Documents
 

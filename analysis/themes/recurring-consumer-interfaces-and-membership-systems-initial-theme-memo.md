@@ -24,6 +24,16 @@ Collection window:
 - `2025` annual reports
 - latest three reported quarters in scope as of `2026-08-09`
 
+## Packet Inputs Used
+
+- annual and quarterly company packets for retail, restaurants, media, travel,
+  gaming, payments, and apparel
+- packet fields covering membership, loyalty, stored value, subscriptions,
+  advertising, partner monetization, customer frequency, margin, and cash
+- exact company facts used to distinguish direct fees from repeat-spend and
+  interface economics
+- existing consumer, recreation, and cross-sector proof pages and watchlists
+
 ## What This Memo Shows
 
 The strongest consumer businesses today no longer earn revenue only at the moment of purchase. They have built membership systems, subscription services, loyalty programs, and owned customer interfaces into the core business model. This memo proves that pattern across 14 companies in retail, restaurants, media, travel, and payments. The claim is not that loyalty programs exist—companies have had those for decades. The claim is that the recurring interface itself has become the primary business asset. Companies now earn money from memberships, advertising overlays, wallet integration, and repeat engagement as much as from the underlying products.
@@ -225,3 +235,14 @@ If consumers become deeply cautious, some of the higher-margin second layers—a
 - [Services sector synthesis](/extracted/services/services-sector-synthesis-2026-08-09.md)
 - [Retail sector synthesis](/extracted/retail/retail-sector-synthesis-2026-08-09.md)
 - [Cultural value trust and automation memo](/analysis/themes/cultural-value-trust-and-automation-initial-theme-memo.md)
+
+## Skeptical Reader Test
+
+- Does the memo distinguish recurring revenue from recurring customer value,
+  promotions, deferred revenue, and partner-funded economics?
+- Does each company show whether it owns the customer interface or merely
+  participates in someone else's ecosystem?
+- Are membership, loyalty, stored-value, advertising, and subscription claims
+  tested against margin, cash, liability, and customer-frequency evidence?
+- What filing or recession signal would show that the interface is not a durable
+  moat but a costly retention or acquisition program?

@@ -1,0 +1,17 @@
+period,bridge_object,value,unit,status,safe_interpretation,what_it_does_not_prove,next_required_source
+FY2025,inari_consideration,4810,USD millions,observed,named acquisition burden,post-close return,Inari cohort revenue margin cash bridge
+H1 2025,prior_investing_cash_context,4240,USD millions,observed,comparison-period acquisition/property cash event,Inari-only cash return,investment cash allocation
+H1 2026,current_investing_cash_use,824,USD millions,observed,current investing burden,no Inari maintenance/growth allocation,property and cohort capex schedule
+H1 2026,operating_cash_flow,1842,USD millions,observed,consolidated operating cash improved,Inari incremental cash,segment/cohort cash bridge
+H1 2026,prior_operating_cash_flow,1361,USD millions,observed,comparison denominator,source of improvement,working-capital and cohort bridge
+H1 2026,acquisition_integration_costs,44,USD millions,observed,post-close integration burden,full cash-paid or recurrence schedule,cash-paid claims and Inari allocation
+H1 2026,structural_special_charges,213,USD millions,red-flag prompt,transformation/facility/product claims,nonrecurrence or owner cash,repeat-period and cash-paid schedule
+H1 2026,recall_related_matters,52,USD millions,red-flag prompt,quality claims are material,Inari attribution or settlement,recall cash and cohort allocation
+H1 2026,medical_device_regulation_costs,1,USD millions,observed,regulatory remediation is visible,cohort persistence,regulatory cash schedule
+H1 2026,goodwill_other_impairments,1,USD millions,observed,current impairment signal,platform value or future impairment,impairment and cohort economics
+H1 2026,debt_maturity_repayment,1000,USD millions,observed,senior financing claim consumed cash,acquisition-specific funding allocation,debt facility and use-of-proceeds ledger
+June 30 2026,cash_short_term_investments,3476,USD millions,observed,ending liquidity surface,distributable common-owner cash,liquidity buffer and claims schedule
+December 31 2025,cash_short_term_investments,4100,USD millions,observed,comparison liquidity surface,reason for decline,period cash waterfall
+FY2025,identified_intangibles,1860,USD millions,observed,large amortizable acquired-asset base,current cash cost or return,amortization and post-close margin
+FY2025,goodwill,3191,USD millions,observed,large acquisition value hurdle,current cash deduction,impairment and platform return
+FY2025,weighted_average_amortization_period,13,years,observed,amortization timing horizon,cohort return,amortization and margin schedule

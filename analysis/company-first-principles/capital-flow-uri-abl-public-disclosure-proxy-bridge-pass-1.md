@@ -32,6 +32,8 @@ It uses public disclosures only:
 | AR securitization purchase limit | `1.500B USD` | June `2026` receivables amendment. |
 | AR securitization balance | `1.414B USD` | Q2 `2026` 10-Q debt table. |
 | AR receivables collateral pool net of reserves/deductions | `1.779B USD` | Q2 `2026` 10-Q debt note. |
+| ABL borrowing capacity net of letters of credit | `2.802B USD` | Q2 `2026` 10-Q debt note. |
+| AR securitization borrowing capacity | `85M USD` | Q2 `2026` 10-Q debt note. |
 | Rental equipment net book value | `17.350B USD` | Q2 `2026` 10-Q balance sheet. |
 | OEC | `23.8B USD` | Q2 `2026` earnings release. |
 | H1 gross rental capex | `2.931B USD` | Q2 `2026` earnings release. |
@@ -41,7 +43,8 @@ It uses public disclosures only:
 
 | Bridge | Calculation | Result |
 |---|---|---:|
-| Implied ABL plus AR facility availability inside liquidity | `2.999B - 112M` | `2.887B USD` |
+| Filed ABL plus AR facility availability | `2.802B + 85M` | `2.887B USD` |
+| Reconciliation to total liquidity less cash | `2.999B - 112M` | `2.887B USD` |
 | Gross unused ABL stated capacity before constraints | `4.500B - 1.666B` | `2.834B USD` |
 | Gross unused AR purchase-limit capacity before constraints | `1.500B - 1.414B` | `86M USD` |
 | Gross unused ABL plus AR stated capacity before constraints | `2.834B + 86M` | `2.920B USD` |
@@ -70,21 +73,32 @@ This moves the public URI ABL work from:
 
 to:
 
-`public-disclosure-proxy-visible`
+`public-facility-availability-visible`
 
 It still does not make URI borrowing-base-grade.
+
+## September 17 public-source recheck
+
+The current SEC Q2 2026 10-Q was rechecked for a populated certificate,
+eligibility schedule, NOLV/appraisal, reserve schedule, or lender collateral
+report. It repeats the facility-level availability and covenant-status
+observations above, but no certificate components or source-to-purchase ledger
+were located. The recheck therefore confirms the move-on boundary: Q-13 remains
+`evidence-insufficient`, and `2.887B USD` remains a public availability proxy,
+not legal Combined Availability or lifecycle-return proof.
 
 The bridge is useful because it constrains the numbers:
 
 - disclosed total liquidity was not mostly cash
-- implied facility availability was about `2.887B USD`
+- filed facility availability was `2.802B USD` for ABL plus `85M USD` for AR
+  securitization, or `2.887B USD` in total
 - gross unused stated ABL plus AR capacity was about `2.920B USD`
 - the gap is small enough that public disclosures are directionally consistent
 - the filing says URI was above the springing-covenant availability threshold
 
 ## Safe Claim
 
-`Public Q2 2026 disclosures imply URI had about 2.887B USD of combined ABL plus AR securitization availability inside total liquidity, versus about 2.920B USD of gross unused stated ABL plus AR purchase-limit capacity before constraints. The small 33M USD difference should be treated as constraints, letters of credit, reserves, timing, definitions, or rounding unless a live availability schedule proves otherwise.`
+`Public Q2 2026 disclosures report 2.802B USD of ABL borrowing capacity net of letters of credit and 85M USD of AR securitization capacity, totaling 2.887B USD. That total reconciles to 2.999B USD of liquidity less 112M USD of cash. It is facility-level availability, not a populated borrowing-base certificate or proof of eligible equipment, NOLV, reserves, or live Combined Availability components.`
 
 ## Claims Not To Make Yet
 

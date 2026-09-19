@@ -14,6 +14,19 @@ Valcourt can be used as a strong borrower-destination case. It shows private-cre
 
 Current evidence does not prove which acquisition, add-on program, refinancing, amendment, or bank repayment was funded by the visible debt rows. The Q2 2026 ARCC row also has a different maturity from the older SDLP and Cliffwater rows, but current evidence does not prove whether it reflects a refinancing, extension, replacement tranche, separate debt package, or lender reallocation.
 
+## 2026 continuation-vehicle control
+
+Littlejohn announced that a continuation vehicle for Valcourt closed on May 27,
+2026, led by Carlyle AlpInvest and other institutional investors. The release
+says the transaction provided liquidity to existing Littlejohn fund investors,
+that Littlejohn reinvested, and that fresh capital would support organic and
+inorganic growth. It does not disclose financial terms, debt refinancing,
+borrower cash, lender allocation, or bank payoff.
+
+This adds a dated sponsor-liquidity and ownership event near the Q2 2026
+credit observations. It should be treated as transaction context, not as a
+debt-use or lender-settlement record.
+
 ## What Is Proven
 
 | Evidence Layer | Status | Detail | Boundary |
@@ -44,6 +57,7 @@ This is the conservative current-period control. It prevents the `342.0000M USD`
 | Q4 2025 | SDLP / ARCC exhibit | First-lien senior secured loan with `342.9000M USD` fair value and 11/2029 maturity. | Could reflect continuation or amendment, but not proven. |
 | Q1 2026 | SDLP / ARCC exhibit | First-lien senior secured loan with `342.0000M USD` fair value and 11/2029 maturity. | Latest SDLP holder row before Q2 2026; not same-period with ARCC Q2. |
 | Q2 2026 | Ares Capital Corporation | First-lien senior secured loan with `117.6000M USD` fair value and 05/2033 maturity. | Different maturity is a refinancing/add-on/reallocation lead, not proof. |
+| May 27, 2026 | Littlejohn / Carlyle AlpInvest | Continuation vehicle closed; terms undisclosed; Littlejohn reinvested and described fresh capital for organic and inorganic growth. | Sponsor liquidity and ownership context; not proof of debt proceeds, lender settlement, or borrower cash. |
 
 ## What Is Not Proven
 
@@ -86,3 +100,7 @@ It strengthens the destination answer:
 `Private credit reaches large commercial-services and building-maintenance roll-up platforms with observable lender-side exposure.`
 
 It does not upgrade the exact-use-of-proceeds, refinancing, bank-replacement, facility-size, or output-conversion answers.
+
+## Source refresh
+
+- [Littlejohn continuation-vehicle announcement, May 27, 2026](https://littlejohnllc.com/news/littlejohn-co-closes-continuation-vehicle-anchored-by-valcourt-group/)

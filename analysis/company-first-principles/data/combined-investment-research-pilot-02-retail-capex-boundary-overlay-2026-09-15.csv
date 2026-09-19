@@ -1,0 +1,2 @@
+overlay_id,company,period,operating_cash_flow_musd,total_capex_musd,identified_growth_capex_musd,implied_maintenance_ceiling_musd,ocf_less_implied_maintenance_musd,status,source_artifact,remaining_claims
+RCO-001,Walmart,H1 FY2027,19710,14181,1087,13094,6616,qualified-classification-boundary,analysis/company-first-principles/combined-investment-research-pilot-02-walmart-known-growth-capex-boundary.md,Inventory payable supplier-finance tariff pass-through leases taxes stock compensation attached-service costs debt dilution and seasonality

@@ -270,3 +270,14 @@ A skeptical reader should ask:
 - [Services freight brokerage and productivity memo](/analysis/themes/services-freight-brokerage-and-productivity-initial-theme-memo.md)
 - [Healthcare policy and portfolio memo](/analysis/themes/healthcare-policy-and-portfolio-initial-theme-memo.md)
 - [Institutional operating infrastructure memo](/analysis/themes/institutional-operating-infrastructure-initial-theme-memo.md)
+
+## Skeptical Reader Test
+
+- Does each cross-sector claim identify the named companies and packet facts
+  that support it rather than relying on a broad cultural narrative?
+- Does the memo separate consumer behavior, company-specific share capture,
+  temporary macro pressure, and durable structural change?
+- Does each claimed beneficiary have a corresponding burden carrier and an
+  explicit next-filing test that could weaken the interpretation?
+- Are trust, automation, membership, and outsourcing treated as hypotheses to
+  test rather than as automatic sources of durable economic profit?

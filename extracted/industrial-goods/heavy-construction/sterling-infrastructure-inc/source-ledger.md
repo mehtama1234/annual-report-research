@@ -46,4 +46,12 @@ Use evidence tags:
 ## Missing evidence
 
 - No standalone earnings-call transcript artifact was saved locally for `Q4 2025`, `Q1 2026`, or `Q2 2026`.
+- A reported Q2 2026 transcript is available at [Webull / Motley Fool](https://www.webull.com/news/15381645391258624) and is used only as `[Reported]` cross-check evidence in the deep memo; it is not treated as an official filing or a substitute for a locally preserved primary transcript.
 - No separate investor-presentation PDF was collected during this pass, despite references to conference-call slides.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/heavy-construction/sterling-infrastructure-inc/2025-10k.html) | `8937df1861324e4cfd31eb916c77db85d7af507c3af37f8d29270458509af556` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/industrial-goods/heavy-construction/sterling-infrastructure-inc/companyfacts.json) | `fced306d544a9bdb8d531f6f63d0378599cda4ea78145b0b06de35102a28e23c` |

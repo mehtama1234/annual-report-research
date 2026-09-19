@@ -1,0 +1,23 @@
+period,object,value,unit,status,mechanical_screen,what_it_does_not_prove,next_required_source
+June 30 2026,da_vinci_installed_systems,11710,count,observed,11.6% year-over-year growth,cohort margin or owner cash,platform-age and cohort ledger
+June 30 2026,prior_year_da_vinci_installed_systems,10488,count,observed,comparison denominator,utilization or cash conversion,platform-age and cohort ledger
+June 30 2026,ion_installed_systems,1096,count,observed,21.1% year-over-year growth,procedure economics or owner cash,platform-age and cohort ledger
+June 30 2026,prior_year_ion_installed_systems,905,count,observed,comparison denominator,utilization or cash conversion,platform-age and cohort ledger
+Q2 2026,worldwide_procedure_growth,16,percent,observed,procedure demand/use growth,absolute procedure count or cash per procedure,platform procedure table
+Q2 2026,da_vinci_procedure_growth,15,percent,observed,da Vinci procedure growth,cohort margin or cash collection,platform procedure table
+Q2 2026,ion_procedure_growth,36,percent,observed,Ion procedure growth,cohort margin or cash collection,platform procedure table
+Q2 2026,da_vinci_utilization_growth,3,percent,observed,procedures per system improved,absolute utilization and per-system cash,platform utilization table
+H1 2026,instruments_accessories_revenue,3421,USD millions,observed,recurring consumable layer,margin or platform allocation,product and procedure detail
+H1 2026,service_revenue,906,USD millions,observed,service layer,attachment and service cost,service cohort schedule
+H1 2026,operating_lease_revenue,512,USD millions,observed,lease revenue layer,lease profitability or collection,lease receivable and cash ledger
+H1 2026,variable_operating_lease_revenue,326,USD millions,observed,usage-linked lease layer,system-cost recovery or collection,usage-based lease cohort ledger
+H1 2026,recurring_revenue_surface,4839,USD millions,diagnostic,instruments plus service plus lease screen,common-owner cash or unit economics,margin and cash bridge
+H1 2026,recurring_surface_per_ending_da_vinci_system,413000,USD per system,diagnostic,mechanical denominator orientation,reported unit economics or owner cash,platform allocation and cohort timing
+Q2 2026,da_vinci_lease_placements,254,count,observed,lease placement activity,lease return or collection,lease cohort cash schedule
+Q2 2026,usage_based_da_vinci_placements,131,count,observed,usage-based placement activity,usage-based lease profitability,lease cohort cash schedule
+June 30 2026,da_vinci_operating_lease_base,3425,count,observed,leased installed base,lease cash collection or system recovery,lease cohort cash schedule
+June 30 2026,da_vinci_usage_based_lease_base,1903,count,observed,usage-based leased base,collection or margin,lease cohort cash schedule
+June 30 2026,ion_operating_lease_base,397,count,observed,leased Ion base,lease cash collection or system recovery,lease cohort cash schedule
+June 30 2026,ion_usage_based_lease_base,287,count,observed,usage-based Ion base,collection or margin,lease cohort cash schedule
+H1 2026,capitalized_stock_compensation,67.8,USD millions,observed,SBC crosses the balance sheet,full SBC and dilution claim,cash-flow and diluted-share reconciliation
+Q2 2026,share_repurchase_cash,380,USD millions,observed,capital-return outflow,distributable owner cash,repurchase/SBC/share-count bridge

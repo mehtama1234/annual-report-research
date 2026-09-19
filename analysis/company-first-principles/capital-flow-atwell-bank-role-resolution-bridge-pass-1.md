@@ -78,6 +78,44 @@ Current classification:
 
 `unresolved - replacement not proven`
 
+## Live public-route recheck — 2026-09-18
+
+A current public-route recheck found no new Atwell credit agreement, payoff
+letter, UCC termination, rating-agency capital-structure table, or lender
+allocation schedule that resolves the four-way classification. The latest
+holder evidence remains useful for identifying KKR-related first-lien slices,
+but it does not convert those slices into total facility size, cash received,
+or bank-facility disposition.
+
+The route therefore remains `replacement-not-proven; borrower-and-holder-
+evidence-visible`, and execution moves on to the next distinct source object
+rather than repeating the same Atwell search.
+
+## Official financing-role refresh — 2026-09-18
+
+Two current source routes strengthen the 2026 financing leg without resolving
+the prior-bank outcome:
+
+- Antares' own platform page lists `Advent International / Atwell` as an
+  `Undisclosed 1st Lien Credit Facility`, with Antares as `Joint Lead Arranger`
+  in April 2026. Antares explains that displayed transactions require it to be
+  an agent or arranger and to fit a new-platform, refinancing/recapitalization,
+  or material-add-on category, subject to sponsor consent.
+- Milbank's July 31, 2026 transaction announcement confirms that it advised
+  the financing sources on a `senior secured credit facility` supporting
+  Advent's acquisition of Atwell.
+
+These are stronger transaction-level financing-role sources than a holder row
+alone. They still do not disclose facility size, borrower cash, lender list,
+revolver participation, payoff of the `$200M` Bank of America-led facility, or
+whether the prior bank group remained alongside the new facility. The proof
+grade therefore remains unchanged:
+
+`2026 senior-secured financing-role-confirmed; bank-replacement-unproven`
+
+Sources: [Antares current platform transaction page](https://www.antares.com/)
+and [Milbank Atwell financing announcement](https://www.milbank.com/en/news/milbank-advises-on-financing-supporting-advents-acquisition-of-atwell.html).
+
 ## What This Upgrades
 
 This bridge upgrades Atwell from:

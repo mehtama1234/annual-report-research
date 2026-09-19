@@ -36,6 +36,18 @@ The upstream AMAPS source acquisition pass already supports:
 
 That is enough to justify a targeted document request. It is not enough to claim underlying borrower receipt, trustee remittance, Athene allocation, liability spread, or final return.
 
+## 2026-09-18 public-source recheck
+
+The official [Athene Q2 2026 Form 10-Q](https://ir.athene.com/sec-filings/all-sec-filings/content/0001527469-26-000056/ahl-20260630.htm) updates the AMAPS 1 concentration to `$2.544B` at June 30, 2026 versus `$2.550B` at December 31, 2025 and describes AMAPS broadly as Apollo-managed investment-grade structured securities backed by diversified credit and hybrid collateral. The [Apollo Q2 2026 Form 10-Q](https://ir.apollo.com/sec-filings/content/0001858681-26-000040/0001858681-26-000040.pdf) carries the same concentration perimeter.
+
+Exact searches for `AMAPS 1 LLC`, CUSIP `02300A-AA-8`, offering memorandum,
+trustee, collateral tape, rating rationale, and remittance did not locate an
+AMAPS 1-specific public offering document, collateral schedule, trustee
+report, or settlement record. The public LEI record confirms AMAPS 1 LLC as a
+Delaware legal entity, but adds no financing, collateral, or cash-flow facts.
+This strengthens the legal-entity and current-exposure boundary only; it does
+not reduce the nine controlled-document requests or upgrade the proof grade.
+
 ## Controlled Document Requests
 
 | Rank | Document Family | Cash-Loop Link | Likely Controller |

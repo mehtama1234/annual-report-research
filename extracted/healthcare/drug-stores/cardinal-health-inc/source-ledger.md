@@ -21,3 +21,10 @@ Date baseline: 2026-08-10
 
 - No local call-transcript PDF is yet saved for the latest quarter.
 - The packet currently relies on preserved official URLs and notes rather than a fully mirrored local SEC or IR binary set.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/healthcare/pharmaceutical-distribution/cardinal-health-inc/2025-10k.html) | `2ea9dd1678e586f2b7ff19acd33f5ad897ebf39ed01887518289254300eb3913` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/healthcare/pharmaceutical-distribution/cardinal-health-inc/companyfacts.json) | preserved |

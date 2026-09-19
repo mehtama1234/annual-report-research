@@ -40,3 +40,15 @@ Date baseline: 2026-08-10
 - The authoritative annual-report artifact comes from Ecolab's direct IR document CDN rather than the Cloudflare-blocked HTML landing page.
 - The authoritative filing chain comes from the SEC submissions JSON and downloaded SEC primary filings.
 - The main analytical value of this packet is taxonomy correction: `Specialty Chemicals` is the source label, but the useful system is embedded hygiene, water, contamination-control, pest, and compliance-service infrastructure.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/basic-materials/specialty-chemicals/ecolab-inc/2025-10k.html) | `044fd7a258a1b6303cd085d315bb870e033c3b89d12bc2db8f79d74da5bb84c1` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/basic-materials/specialty-chemicals/ecolab-inc/companyfacts.json) | `d1bde94130ee5039309a29a510152a8ae865bac9075851449780c3c9fcd6c135` |
+
+The exact FY2025 denominator set is checked by
+`scripts/verify-ecolab-filing-denominators.py`, including the filing's
+disclosed $1.6213B of acquisitions and investments in affiliates, net of cash
+acquired.

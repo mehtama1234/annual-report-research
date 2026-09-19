@@ -1,0 +1,22 @@
+period,metric,value,unit,interpretation,source
+Q2 2026,net sales,3458,USD millions,reported sales,SEC earnings release
+H1 2026,net sales,6826,USD millions,reported sales,SEC earnings release
+H1 2026,operating cash flow,145,USD millions,reported OCF,SEC 10-Q
+H1 2026,property and equipment capex,55,USD millions,visible reinvestment,SEC 10-Q
+H1 2026,capitalized software,30,USD millions,visible reinvestment,SEC 10-Q
+H1 2026,acquisition and equity investment cash,30,USD millions,visible investment cash,SEC 10-Q
+H1 2026,visible pre-debt residual,30,USD millions,OCF less listed investment cash,calculated
+H1 2026,receivables working-capital use,116,USD millions,cash absorption,SEC 10-Q
+H1 2026,inventory working-capital use,49,USD millions,cash absorption,SEC 10-Q
+June 27 2026,accounts receivable,1763,USD millions,balance-sheet exposure,SEC 10-Q
+June 27 2026,inventory,2059,USD millions,balance-sheet exposure,SEC 10-Q
+Q2 2026,restructuring charges,29,USD millions,excluded from non-GAAP,SEC 10-Q
+H1 2026,restructuring charges,41,USD millions,plan remains active,SEC 10-Q
+H1 2026,share repurchases,325,USD millions,financing distribution,SEC 10-Q
+June 27 2026,cash,157,USD millions,liquidity,SEC 10-Q
+June 27 2026,total debt,3462,USD millions,senior claim,SEC 10-Q
+June 27 2026,receivable securitization outstanding,430,USD millions,collateralized funding,SEC 10-Q
+June 27 2026,receivable securitization purchase limit,450,USD millions,remaining availability only 20M,SEC 10-Q
+June 27 2026,repurchase authorization remaining,455,USD millions,capital-allocation optionality,SEC earnings release
+H1 2026,non-GAAP diluted EPS,2.59,USD per share,adjusted earnings not owner cash,SEC earnings release
+June 27 2026,KKR strategic investment,250,USD millions,issued 3285152 shares,SEC 10-Q

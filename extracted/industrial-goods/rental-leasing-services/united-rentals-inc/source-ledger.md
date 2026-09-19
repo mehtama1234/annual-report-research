@@ -46,3 +46,10 @@ Use evidence tags:
 
 - No standalone earnings-call transcript artifact was identified or saved locally for `Q2 2026`, `Q1 2026`, or `Q4 2025`.
 - No direct `Q4 2025` investor presentation PDF was confirmed and saved locally from the current environment, although the official `Q4 2025` results page explicitly references that presentation.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/rental-leasing-services/united-rentals-inc/2025-10k.html) | `cfb5e48708aeaa230310a2dfdd85d52fcdc20e680af1a073dc1fb664ca5b5` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/industrial-goods/rental-leasing-services/united-rentals-inc/companyfacts.json) | `5ddcf2df8f2e74caa52a12353f0481cab3474d4886857cc84e286855752a1d9a` |

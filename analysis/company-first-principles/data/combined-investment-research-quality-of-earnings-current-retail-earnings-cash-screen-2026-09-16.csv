@@ -1,0 +1,4 @@
+screen_id,company,period,net_income_musd,net_income_basis,operating_cash_flow_musd,property_spending_musd,ocf_to_net_income,cash_after_property_musd,cash_after_property_to_net_income,status,source_artifact
+QOE-CURRENT-001,TJX,H1 FY2027,2852,consolidated net income,3345,1159,1.172861,2186,0.766480,reported-period-screen,analysis/company-first-principles/combined-investment-research-quality-of-earnings-current-retail-earnings-cash-screen-2026-09-16.md
+QOE-CURRENT-002,Target,H1 2026,2658,consolidated net earnings,4519,2404,1.700150,2115,0.795711,reported-period-screen,analysis/company-first-principles/combined-investment-research-quality-of-earnings-current-retail-earnings-cash-screen-2026-09-16.md
+QOE-CURRENT-003,Walmart,H1 FY2027,11696,net income attributable to Walmart,19710,14181,1.685192,5529,0.472726,reported-period-screen,analysis/company-first-principles/combined-investment-research-quality-of-earnings-current-retail-earnings-cash-screen-2026-09-16.md

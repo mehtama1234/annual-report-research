@@ -1,0 +1,22 @@
+field,value,comparison_or_context,status
+da_vinci_installed_base,"11,710 systems","June 30 2026; 10,488 June 30 2025; +12%",observed
+ion_installed_base,"1,096 systems","June 30 2026; 905 June 30 2025; +21%",observed
+q2_da_vinci_placements,"468 systems","Q2 2026; 246 da Vinci 5",observed
+q2_ion_placements,"55 systems","Q2 2026",observed
+q2_da_vinci_procedure_growth,"approximately 15%","year over year",observed
+q2_ion_procedure_growth,"approximately 36%","year over year",observed
+q2_utilization_growth,"approximately 3%","procedures per system per year, year over year",observed
+h1_instruments_accessories_revenue,"$3.421B","H1 2026; H1 2025 $2.842B",observed
+h1_service_revenue,"$906M","H1 2026; H1 2025 $754M",observed
+h1_operating_lease_revenue,"$512M","H1 2026; H1 2025 $409M",observed
+h1_variable_lease_revenue,"$326M","H1 2026; H1 2025 $242M; usage-based primary source",observed
+h1_recurring_revenue_surface,"$4.839B","instruments/accessories plus service plus operating lease revenue",calculated; not owner cash
+q2_da_vinci_operating_lease_placements,"254 systems","54% of total da Vinci placements; 131 usage-based",observed
+da_vinci_usage_based_lease_installed_base,"1,903 systems","of 3,425 da Vinci operating-lease systems",observed
+ion_usage_based_lease_installed_base,"287 systems","of 397 Ion operating-lease systems",observed
+q2_sbc_in_operating_income,"$213M","Q2 2026",observed; owner claim
+h1_capitalized_sbc,"$67.8M","capitalized to balance sheet; Q2 $32.9M",observed; scope boundary
+q2_tariff_refund_benefit,"$28M after tax","IEEPA prior-period refund included in GAAP and non-GAAP net income",observed; nonrecurring candidate
+q2_share_repurchases,"$380M","0.9 million shares",observed; financing distribution
+q2_cash_investments,"$8.63B","cash, equivalents and investments at quarter end",observed; liquidity context
+normalized_owner_cash,"not calculated","requires lease collection, inventory turns, support/R&D, SBC, dilution, and per-system cash bridge",missing

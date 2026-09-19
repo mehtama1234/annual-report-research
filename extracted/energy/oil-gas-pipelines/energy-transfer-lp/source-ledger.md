@@ -38,3 +38,10 @@ Date baseline: 2026-08-10
   - `Q2 2026`: results page, PDF release, presentation PDF, `10-Q`, and `8-K`
   - `Q1 2026`: results page, PDF release, presentation PDF, `10-Q`, and `8-K`
   - `Q4 2025`: results page, PDF release, presentation PDF, `10-K`, and `8-K`
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/energy/oil-gas-pipelines/energy-transfer-lp/2025-10k.html) | `566d79ec82604da3f8d5443aae36e926997c07531d60dc3c75906db70bc601ac` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/energy/oil-gas-pipelines/energy-transfer-lp/companyfacts.json) | `f1f8ee1934bed2d3207b00b183a557ba0a109e60c32e3bf3b180e21cb1847a03` |

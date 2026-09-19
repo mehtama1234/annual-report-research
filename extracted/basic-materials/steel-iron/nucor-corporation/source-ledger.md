@@ -29,6 +29,13 @@ Use evidence tags:
 
 ## Reconciliation notes
 
+## Current repository filing verification artifacts
+
+The exact FY2025 GAAP denominator set is checked by
+`scripts/verify-nucor-filing-denominators.py`. The validator anchors revenue,
+earnings, operating cash, PP&E, acquisitions, capital returns, cash, debt,
+working capital, goodwill, and SBC to the local SEC companyfacts artifact.
+
 - The correct trailing-quarter set as of `2026-08-09` is `Q2 2026`, `Q1 2026`, and `Q4 2025`.
 - AnnualReports remained useful for sector and industry taxonomy, but it still displayed the `2024` annual package for Nucor on `2026-08-09`, so the actual `2025` and `2026` evidence set relies mainly on Nucor investor-relations and SEC-hosted materials.
 - As of Sunday, August 9, 2026, I verified the `Q2 2026` earnings release and wrapper `8-K`, but I did not find a separately posted `Q2 2026` `10-Q` in the archive.
@@ -39,3 +46,10 @@ Use evidence tags:
 - No locally saved AnnualReports.com company page artifact for Nucor Corporation.
 - No locally saved official earnings-call transcript for `Q4 2025`, `Q1 2026`, or `Q2 2026`.
 - No separately located `Q2 2026` `10-Q` artifact as of `2026-08-09`.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/basic-materials/steel-iron/nucor-corporation/2025-10k.html) | `b37c95d560491ac0ade7ceff6b0d2a117e515e19c99c60c64abeb04256a83c9c` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/basic-materials/steel-iron/nucor-corporation/companyfacts.json) | `9265f148393edf83f2797761e24c52bc061277a636d7df476b888ffaf6c74f3a` |

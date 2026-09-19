@@ -1,0 +1,17 @@
+lane,company,equity_value,screen_basis,mechanical_screen,principal_unresolved_join,status
+cash logistics,Brink's,4404M,EV / management TTM reported FCF,15.2x EV,"H1 filed FCF; NCR funding; route collection; debt; dilution",diagnostic
+industrial distribution,WESCO,16771M,Annualized H1 mechanical cash,37.5x,"Receivable/inventory conversion; maintenance/service; channel durability",diagnostic
+industrial distribution,Fastenal,56375M,Annualized H1 mechanical cash,54.1x,"Embedded-service reinvestment; capital-return coverage; residual",diagnostic
+project execution,Sterling Infrastructure,16153M,Annualized H1 OCF less visible investments,31.3x,"Project margin/collection; acquisition return; dilution",diagnostic
+fleet lifecycle,United Rentals,63108M,Annualized OCF less gross rental capex,84.4x,"Replacement versus growth fleet capital; borrowing base; fleet cohorts",diagnostic
+process control,KLA,23318M,FY2026 OCF less PP&E,6.2x,"Factoring unwind; installed-base/service denominator; R&D; commitments",diagnostic
+semiconductor materials,Applied Materials,355656M,Annualized 9M FY2026 OCF less capex,74.5x,"Acceptance; AGS attachment; contract-liability conversion; China; SBC",diagnostic
+digital infrastructure,Equinix,101252M,Annualized H1 OCF less full-year recurring-capex guide,31.0x,"Project capital; commencement; stabilized NOI; power; JV; dilution",diagnostic
+digital infrastructure,Digital Realty,65844M,Annualized H1 OCF less H1 recurring capex,22.6x,"Development yield; commencement; partner/fund claims; ATM; debt",diagnostic
+specialty chemistry,Ecolab,76042M,Annualized H1 OCF less capex,64.8x,"Service/equipment; working capital; acquisition integration; dilution",diagnostic
+steel capacity,Nucor,56755M,Annualized H1 OCF less capex,26.9x,"Steel-cycle working capital; project ramp; refund normalization",diagnostic
+licensed collectibles,Funko,300.9M,Annualized H1 OCF less tooling/molds,32.2x,"Tariff support; royalties; inventory; debt; diluted residual",diagnostic
+toys entertainment digital,Spin Master,CAD 2000M,Annualized H1 OCF less PP&E and intangibles,11.2x,"Tariff refund; working capital; content/platform reinvestment; debt",diagnostic
+healthcare distribution,McKesson,104258M,FY2025 reported OCF less capex,20.0x,"Acquisition return; working capital; legal/preferred claims",diagnostic
+healthcare distribution,Cencora,59886M,FY2025 reported OCF less capex,18.7x,"OneOncology return; working capital; debt; residual",diagnostic
+healthcare distribution,Cardinal Health,53190M,FY2025 reported OCF less capex,28.8x,"CVS working capital; opioid/legal; acquisitions; dilution",diagnostic

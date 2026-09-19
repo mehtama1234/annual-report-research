@@ -30,3 +30,10 @@ Date baseline: 2026-08-10
 
 - No earnings-call transcript is saved locally for McKesson.
 - No standalone SEC filing HTML is saved locally because direct archive requests returned `403`.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/healthcare/pharmaceutical-distribution/mckesson-corporation/2025-10k.html) | `f28f3d674156808b330038434786882ec1f5f033727c8ffc8f3ef7d60df43df1` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/healthcare/pharmaceutical-distribution/mckesson-corporation/companyfacts.json) | preserved |

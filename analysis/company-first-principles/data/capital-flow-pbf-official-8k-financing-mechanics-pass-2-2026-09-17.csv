@@ -1,0 +1,8 @@
+gate,source_document,period,current_evidence,current_grade,what_it_does_not_prove
+legal issuer,May 28 2026 PBF closing 8-K,2026-05-28,PBF Holding and PBF Finance are co-issuers with named guarantors,issuer-and-guarantor-visible,operating-subsidiary settlement cash source
+transaction agents,May 28 2026 PBF closing 8-K,2026-05-28,Wilmington Trust is trustee and Deutsche Bank Trust Company Americas is paying agent registrar transfer agent and authenticating agent,agent-route-visible,actual payment file or holder-level distribution
+new debt source,May 28 2026 PBF closing 8-K,2026-05-28,$500.0M 7.250% senior notes due 2034 issued,source-instrument-visible,investor allocation or final account receipt
+net proceeds reconciliation,May 28 2026 closing 8-K and Q2 2026 10-Q,2026-05-28 to 2026-06-30,Closing 8-K reported approximately $492.7M and later Q2 10-Q reported $492.1M after discount and offering expenses,gross-to-net-period-reconciled,final fee schedule and treasury cash transfer
+stated use,Q2 2026 10-Q,2026-06-25,New-note proceeds and available cash funded full redemption of 2028 notes,documented-source-use-visible,source priority or exact available-cash account
+redemption mechanics,Q2 2026 10-Q and pricing announcement,2026-06-25,$801.6M principal redeemed at 100% plus accrued and unpaid interest through but excluding redemption date,redemption-formula-visible,exact accrued-interest amount paid
+financing activity reconciliation,PBF Holding Q2 2026 10-Q,H1 2026,Financing cash-flow categories reconcile issuance redemption revolver costs distributions contributions and insurance-premium financing,financing-activity-reconciled,trustee settlement cash bank wires or post-close liquidity headroom

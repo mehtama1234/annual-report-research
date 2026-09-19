@@ -29,6 +29,20 @@ required_files=(
   "scripts/run-insight-audit-stack.sh"
   "scripts/refresh-note-layer-boundary.sh"
   "scripts/resolve-offloaded-raw-path.py"
+  "scripts/verify-combined-investment-pilots.py"
+  "scripts/verify-combined-investment-completion-audit.py"
+  "scripts/verify-combined-investment-deliverables.py"
+  "analysis/company-first-principles/combined-investment-research-meaty-end-to-end-goal.md"
+  "analysis/company-first-principles/combined-investment-research-current-synthesis.md"
+  "analysis/company-first-principles/combined-investment-research-reviewers-guide.md"
+  "analysis/company-first-principles/combined-investment-research-completion-audit.md"
+  "analysis/company-first-principles/combined-investment-research-next-evidence-queue.md"
+  "analysis/company-first-principles/combined-investment-research-q2-2026-cross-sector-cash-quality-control-panel-2026-09-17.md"
+  "analysis/company-first-principles/combined-investment-research-q2-2026-valuation-liquidity-stress-matrix-2026-09-17.md"
+  "analysis/company-first-principles/combined-investment-research-q10-current-six-lane-macro-overlay-2026-09-17.md"
+  "analysis/company-first-principles/combined-investment-research-q2-2026-qoe-financial-shenanigans-panel-2026-09-17.md"
+  "analysis/company-first-principles/capital-flow-wheaton-antamina-q03-metal-credit-receipt-boundary-2026-09-17.md"
+  "analysis/company-first-principles/capital-flow-wheaton-antamina-q03-receivable-classification-boundary-2026-09-17.md"
   "scripts/verify-raw-evidence-governance.sh"
   "$note_boundary_report"
   "$note_boundary_json"
@@ -111,6 +125,21 @@ required_files=(
   "analysis/cross-sector/company-level-strategy-insight-guide-2026-08-10.md"
   "analysis/cross-sector/industry-level-strategy-guide-2026-08-10.md"
   "analysis/cross-sector/concrete-insights-and-curiosity-map-2026-08-10.md"
+  "analysis/cross-sector/company-and-cohort-writing-map-2026-09-14.md"
+  "analysis/cross-sector/semiconductor-control-points-forensic-comparison-2026-09-14.md"
+  "analysis/cross-sector/validation-assurance-and-test-control-comparison-2026-09-14.md"
+  "analysis/cross-sector/physical-content-optical-control-comparison-2026-09-14.md"
+  "analysis/cross-sector/installed-base-machinery-versus-electrical-control-forensic-comparison-2026-09-13.md"
+  "analysis/deep-company-pages/asml-holding-nv.md"
+  "analysis/deep-company-pages/lam-research-corporation.md"
+  "analysis/deep-company-pages/teradyne-inc.md"
+  "analysis/deep-company-pages/keysight-technologies-inc.md"
+  "analysis/deep-company-pages/amphenol-corporation.md"
+  "analysis/deep-company-pages/corning-inc.md"
+  "analysis/deep-company-pages/ciena-corporation.md"
+  "analysis/deep-company-pages/eaton-corporation.md"
+  "analysis/deep-company-pages/cummins-inc.md"
+  "analysis/deep-company-pages/caterpillar-inc.md"
   "extracted/technology/information-technology-services/dell-technologies-inc/company-packet.md"
   "extracted/technology/information-technology-services/dell-technologies-inc/company-profile.md"
   "extracted/services/catv-systems/comcast-corporation/company-packet.md"
@@ -242,7 +271,11 @@ required_files=(
 required_patterns=(
   "README.md:The packet fields should do explicit analytical work"
   "README.md:Different claim types also need different proof burdens"
+  "README.md:Combined investment pilot verifier"
   "README.md:Continuation mode alignment audit"
+  "START-HERE.md:98 dated analytical artifacts"
+  "analysis/company-first-principles/combined-investment-research-reviewers-guide.md:Latest cross-sector review anchors"
+  "analysis/company-first-principles/combined-investment-research-current-synthesis.md:Q-10 current six-lane macro overlay"
   "START-HERE.md:The packet fields should also do explicit analytical work"
   "START-HERE.md:Different claim types also need different proof burdens"
   "templates/lane-run-template.md:The packet fields should also do explicit analytical work"
@@ -1048,5 +1081,30 @@ for item in "${required_patterns[@]}"; do
     exit 1
   fi
 done
+
+python3 scripts/verify-combined-investment-pilots.py >/dev/null
+python3 scripts/verify-combined-investment-deliverables.py >/dev/null
+python3 scripts/verify-combined-investment-completion-audit.py >/dev/null
+python3 scripts/verify-integrated-oil-gas-q2-2026-cash-quality-refresh.py >/dev/null
+python3 scripts/verify-q2-2026-cross-sector-cash-quality-control-panel.py >/dev/null
+python3 scripts/verify-q2-2026-valuation-liquidity-stress-matrix.py >/dev/null
+python3 scripts/verify-wheaton-antamina-q03-metal-credit-receipt-boundary.py >/dev/null
+python3 scripts/verify-wheaton-antamina-q03-receivable-classification-boundary.py >/dev/null
+python3 scripts/verify-uri-abl-collateral-eligibility-bridge.py >/dev/null
+python3 scripts/verify-pbf-redemption-settlement-bridge.py >/dev/null
+python3 scripts/verify-ares-frontline-primary-source-refresh.py >/dev/null
+python3 scripts/verify-pbf-september-2026-conditional-redemption.py >/dev/null
+python3 scripts/verify-insurance-brokers-carrier-q2-2026-cash-quality-refresh.py >/dev/null
+python3 scripts/verify-exchange-information-infrastructure-q2-2026-cash-quality-refresh.py >/dev/null
+python3 scripts/verify-materials-chemicals-steel-q2-2026-cash-quality-refresh.py >/dev/null
+python3 scripts/verify-digital-real-estate-q2-2026-cash-quality-refresh.py >/dev/null
+python3 scripts/verify-healthcare-distribution-current-period-synthesis.py >/dev/null
+python3 scripts/verify-combined-investment-promotion-gate-execution-ledger.py >/dev/null
+python3 scripts/verify-retail-tjx-q2-2026-settlement-capex-boundary.py >/dev/null
+python3 scripts/verify-uri-q2-2026-availability-lifecycle-boundary.py >/dev/null
+python3 scripts/verify-retail-target-q2-2026-cash-quality-boundary.py >/dev/null
+python3 scripts/verify-retail-walmart-q2-fy27-capex-refund-boundary.py >/dev/null
+python3 scripts/verify-q10-current-six-lane-macro-overlay.py >/dev/null
+python3 scripts/verify-q2-2026-qoe-financial-shenanigans-panel.py >/dev/null
 
 printf 'insight-system-ok\n'

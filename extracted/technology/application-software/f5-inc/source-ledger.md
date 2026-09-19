@@ -38,3 +38,10 @@ Date baseline: `2026-08-10`
 - No standalone earnings-call transcript artifacts are saved locally for `Q1 FY2026`, `Q2 FY2026`, or `Q3 FY2026`.
 - No clean company-hosted IR HTML page is saved locally because the IR route returned a Cloudflare challenge in shell access.
 - The current SEC chain is still sufficient for packet work because the annual anchor, annual-report PDF, quarter wrappers, quarter exhibits, and quarter filings are all present.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/technology/networking-communications/f5-inc/2025-10k.html) | `e332a58856170ede998fc1596e0ddf200d905caec88710ea8b3a9922f0e61cdd` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/technology/networking-communications/f5-inc/companyfacts.json) | preserved |

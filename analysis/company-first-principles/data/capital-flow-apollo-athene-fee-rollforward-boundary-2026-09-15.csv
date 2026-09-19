@@ -1,0 +1,3 @@
+boundary_id,entity,opening_payable_musd,period_expense_musd,ending_payable_musd,mechanical_implied_settlement_musd,period,proof_status,source_artifact,missing_upgrade
+FEE-RF-01,Athene management fees,134,785,140,779,H1 2026,mechanical-rollforward-qualified,analysis/company-first-principles/capital-flow-apollo-athene-fee-rollforward-boundary-2026-09-15.md,Related-party settlement schedule and Apollo recipient cash account
+FEE-RF-02,ACRA contingent investment fees,365,NA,392,NA,H1 2026,payable-boundary-only,analysis/company-first-principles/capital-flow-apollo-athene-fee-rollforward-boundary-2026-09-15.md,Contingent-fee expense rollforward settlement terms and recipient cash

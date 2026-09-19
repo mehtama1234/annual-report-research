@@ -1,6 +1,7 @@
 # Sysco Corporation Company Packet
 
 Date baseline: 2026-08-12
+Current evidence update: 2026-09-14
 
 ## Snapshot
 
@@ -70,6 +71,7 @@ Date baseline: 2026-08-12
 - [2026-q3-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/food-wholesale/sysco-corp/2026-q3-earnings-release.pdf)
 - [2026-q4-earnings-release.pdf](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/company-ir/services/food-wholesale/sysco-corp/2026-q4-earnings-release.pdf)
 - [2025-10k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2025-10k.html)
+- [2026-10k.html](https://www.sec.gov/Archives/edgar/data/96021/000009602126000033/syy-20260627.htm)
 - [2026-q2-10q.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q2-10q.html)
 - [2026-q2-8k.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q2-8k.html)
 - [2026-q2-press-release.html](/home/manishmehta/ui-projects/annual-report-research-new-lanes/raw/sec/services/food-wholesale/sysco-corp/2026-q2-press-release.html)
@@ -94,8 +96,9 @@ Date baseline: 2026-08-12
   - AnnualReports for taxonomy and archive lag confirmation
   - company IR and SEC for the authoritative annual and quarter chain
 - The remaining nuance is temporal, not evidentiary:
-  - `Q4 FY26` is now locally proven through the earnings release, the SEC `8-K` wrapper, and the attached press-release exhibit
-  - the FY2026 `10-K` was not yet due as of `2026-08-10`, so it should not be treated as a missing artifact inside the required latest-three-quarters window
+  - `Q4 FY26` is proven through the earnings release and the SEC annual filing now available for fiscal year ended June 27, 2026
+  - the FY2026 `10-K` was filed on August 21, 2026 and supersedes the earlier August 10 packet qualification
+  - the current evidence chain now includes the FY2025 10-K, FY2026 10-K, and the latest-quarter release and filing materials
 - The right reading standard today is:
   - fully `proven` for annual-plus-quarter filing coverage and lane comparison work
   - still imperfect only in the narrow sense that no local prepared remarks or full earnings-call transcript are preserved

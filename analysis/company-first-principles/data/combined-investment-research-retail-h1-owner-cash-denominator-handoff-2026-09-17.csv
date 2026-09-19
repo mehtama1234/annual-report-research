@@ -1,0 +1,4 @@
+company,period,operating_cash_musd,property_spending_musd,cash_after_property_musd,support_candidate_musd,sbc_sensitivity_musd,supplier_finance_obligation_musd,identified_growth_floor_musd,annual_lease_cash_context_musd,annual_tax_cash_context_musd,service_cash_status,maintenance_status,promotion_status,next_joinable_source
+TJX,H1 FY2027,3345,1159,2186,750,85,,222,2214,1471,missing,missing,hold,"next filing with supplier-finance, lease/tax, service, and capitalized renovation detail"
+Target,H1 2026,4519,2404,2115,1364,154,3200,0,529,1091,missing,missing,hold,"matched H1 or next annual payment-date and maintenance/service allocation schedules"
+Walmart,H1 FY2027,19710,14181,5529,4548,,6400,1087,2315,5364,missing,partial-narrow-growth-floor,hold,"H1 supplier-finance allocation, project-level capex schedule, ecosystem burden, and common-owner claim bridge"

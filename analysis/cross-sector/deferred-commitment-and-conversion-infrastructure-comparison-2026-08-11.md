@@ -32,6 +32,7 @@ The memo should be read as a synthesis of those packet inputs rather than as a b
 
 - [Affirm Holdings, Inc.](../../extracted/technology/application-software/affirm-holdings-inc/company-packet.md)
 - [Synchrony Financial](../../extracted/financial/credit-services/synchrony-financial/company-packet.md)
+- [Upstart Holdings, Inc.](../../extracted/financial/credit-services/upstart-holdings-inc/company-packet.md)
 - [Airbnb, Inc.](../../extracted/technology/application-software/airbnb-inc/company-packet.md)
 
 ## Why These Three Belong Together
@@ -40,6 +41,7 @@ These companies all sit at a moment where the customer wants the outcome but may
 
 - Affirm reduces purchase friction through installment design, merchant-funded `0% APR` offers, and approval logic.
 - Synchrony reduces purchase friction through private-label, co-brand, installment, promotional-financing, and buy-now-pay-later structures embedded with merchants and providers.
+- Upstart reduces borrower and lender friction through automated underwriting, faster approval, and a marketplace that connects borrowers with bank and credit-union funding partners.
 - Airbnb reduces trip-booking friction through `Reserve Now, Pay Later` and `Pay Less Upfront`, turning payment timing into conversion support rather than into a separate financial product.
 
 The stronger conclusion is that payment timing has become part of the product.
@@ -50,7 +52,32 @@ The stronger conclusion is that payment timing has become part of the product.
 |---|---|---|
 | Affirm | Fiscal `2025` GMV reached about `$36.7B` and revenue reached about `$3.2B`. In `Q2 2026`, the `Big Nothing` `0% APR` event lifted GMV about `5%` for participating merchants overall and about `27%` when promoted on Affirm surfaces. More than `65%` of approved U.S. loan applications were presented with a `0% APR` offer, and `39%` of quarter transactions were `0% APR`. | Affirm is direct proof that financing design itself can change demand conversion rather than only fund a purchase that would have happened anyway. |
 | Synchrony | Full-year `2025` purchase volume exceeded `$182B`, more than `20M` new accounts were added, and nearly `70M` customers were engaged. In `Q2 2026`, purchase volume rose `8%` to `$49.8B`, while the packet says the business spans private label, co-brand, promotional financing, installment products, and buy now pay later. | Synchrony shows that deferred commitment is not just a fintech niche. It is embedded across retail, local services, health, and partner ecosystems as a sales tool. |
+| Upstart | Fiscal `2025` originations reached about `$11.0B` across `1,497,149` loans, with more than `90%` fully automated, approximately `$1.0B` of revenue, and approximately `$53.6M` of net income. In `Q2 2026`, originations reached about `$4.2B`; unsecured contribution margin was `62%`, while secured products remained negative `35%`. | Upstart shows that commitment friction also exists between a borrower and a lender: faster model-driven decisions can increase conversion and reduce origination labor, but the economics depend on external funding and full-cycle credit performance. |
 | Airbnb | In `Q4 2025`, `Reserve Now, Pay Later` had over `70%` adoption among eligible bookings during the early rollout period. In `Q1 2026`, about `20%` of global gross booking value came from `Reserve Now, Pay Later` bookings. The packet says `Pay Less Upfront` and `Reserve Now, Pay Later` turned payment flexibility into booking conversion and higher gross booking value. | Airbnb shows that the same logic has moved into travel. The company is not extending classic installment credit at scale. It is using payment timing to lower trip-commitment friction. |
+
+## Affirm current checkpoint: two engines, two valuation standards
+
+Affirm's Q3 fiscal 2026 results make the cohort distinction more precise.
+GMV was about `$11.6B`, revenue was `$1.039B`, and revenue less transaction
+costs was `$498M`. Active consumers reached `26.8M`, active merchants reached
+`515K`, and transactions per active consumer reached `6.7`. Affirm Card GMV
+was about `$2.1B`, up `146%` year over year.
+
+The network and conversion engine is visible in merchant fees, card usage,
+approval logic, and repeat transactions. The credit and funding engine is
+visible in expected credit losses, loan-sale gains, funding costs,
+securitization, warehouse facilities, and retained residual interests. The
+first engine can support a technology or payment-network valuation only if it
+produces cash independently of favorable credit spreads. The second requires
+normalized loss rates, funding costs, required capital, and stress-period
+liquidity.
+
+The current period also shows why adjusted metrics require a full bridge.
+Affirm reported an `8.5%` GAAP operating margin and a `27.0%` adjusted
+operating margin. For the nine months ended March 31, 2026, total stock
+compensation was `$379M`, including `$141M` capitalized into property,
+equipment, and software. Provision for losses was `$573M`. Strong RLTC growth
+therefore does not by itself prove common-owner cash generation.
 
 ## Commitment-Friction Map
 
@@ -174,6 +201,12 @@ Sometimes it only shifts timing forward.
 
 That is why this pattern has to be watched through both growth and credit or quality outcomes.
 
+Upstart's qualified valuation screen is now registered separately from merchant-
+linked credit. Loan originations remain a demand and workflow measure, not
+owner cash. The next proof is partner funding through a credit cycle, product-
+level lifetime returns, model and compliance cost, working capital, retained
+exposure, and cash per diluted share.
+
 ## Skeptical Reader Test
 
 A skeptical reader should be able to answer:
@@ -206,3 +239,5 @@ This memo gives the archive a more precise way to talk about payment and booking
 They shape whether the transaction happens at all.
 
 That is a distinct economic role, and it cuts across technology, finance, and travel more cleanly than sector labels do.
+
+Current Affirm evidence: [Q3 fiscal 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1820953/000162828026032294/afrm-20260331.htm) and [Q3 fiscal 2026 shareholder letter](https://www.sec.gov/Archives/edgar/data/1820953/000162828026032105/affirmfq326shareholderle.htm). See also the [Affirm dossier](../deep-company-pages/affirm-holdings-inc.md) for the credit, funding, SBC, and thesis-breaker bridge.

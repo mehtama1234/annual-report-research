@@ -1,0 +1,9 @@
+field,required_observation,promotion_consequence,current_status
+BHP entitlement,"Mine-interest percentage payable-silver basis and current stream percentage","Confirms denominator for BHP-only quantity test",confirmed-by-presentation
+Actual BHP quantity,"Ounces delivered or credited to Wheaton separated from legacy Glencore stream","Can split combined Q2 quantity only if explicit",open
+Payability and assay,"Payable ounces recovery or smelter/assay adjustment and PBND treatment","Prevents gross mine production substitution",open
+Pricing and settlement,"Quotation period realized price production payment invoice or credit-note amount settlement date and currency","Required for BHP-only settlement bridge",open
+Receipt location,"Wheaton legal entity receivable or cash account and settlement status","Required for named-cash evidence",open
+Reserve and plan,"Updated BHP-interest reserves mine plan production curve and 100M-ounce threshold timing","Can replace mechanical threshold screen",partial-management-profile-only
+Liability and recourse,"Updated guarantees recourse reduction and counterparty obligations","Updates legal-risk and claim map",open
+Financing allocation,"Antamina-specific debt interest tax or repayment allocation","Required for Antamina-specific after-tax return",open

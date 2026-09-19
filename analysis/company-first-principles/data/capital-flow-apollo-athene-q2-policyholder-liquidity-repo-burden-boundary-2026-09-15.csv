@@ -1,0 +1,5 @@
+gate_id,source,period,metric,value,status,what_is_proven,missing_upgrade
+APO-LIQ-001,Apollo Q2 2026 Form 10-Q,Q2 2026,Generally non-surrenderable share of net reserve liabilities,36%,reported-liability-liquidity-boundary,Contract rigidity is visible at Athene legal-entity level,Observed surrender behavior liquidity sufficiency and parent cash availability
+APO-LIQ-002,Apollo Q2 2026 Form 10-Q,Q2 2026,Net reserve liabilities subject to surrender penalty,54%,reported-liability-liquidity-boundary,Contract friction is visible at Athene legal-entity level,Stress-period surrender cash and funding response
+APO-LIQ-003,Apollo Q2 2026 Form 10-Q,June 30 2026,Repurchase-agreement payables and collateral,$3.2B payable / $3.4B collateral,reported-secured-funding-boundary,Current secured-funding and collateral context is visible,Haircuts margin calls maturity cash and realized sale losses
+APO-LIQ-004,Apollo Q2 2026 Form 10-Q,December 31 2025,Repurchase-agreement payables and collateral,$6.0B payable / $6.2B collateral,comparative-secured-funding-boundary,Prior-period comparison is visible,Attribution to rates policyholder flows investment performance or parent cash

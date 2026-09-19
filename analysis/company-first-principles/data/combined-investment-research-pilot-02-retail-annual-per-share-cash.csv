@@ -1,0 +1,4 @@
+company,period,cash_after_property_musd,diluted_shares_millions,reported_cash_after_property_per_share_usd,operating_lease_liabilities_musd,per_share_status,source_artifact,next_upgrade
+TJX,FY2026,4917,1128,4.359043,10620,reported-not-normalized,analysis/company-first-principles/combined-investment-research-pilot-02-retail-annual-per-share-cash.md,Normalize lease cash inventory turns taxes maintenance capex and SBC before valuation
+Target,FY2025,2835,455.6,6.222564,3834,reported-not-normalized,analysis/company-first-principles/combined-investment-research-pilot-02-retail-annual-per-share-cash.md,Normalize vendor income inventory timing tariff effects and maintenance capex
+Walmart,FY2026,14923,8022,1.860259,15572,reported-not-normalized,analysis/company-first-principles/combined-investment-research-pilot-02-retail-annual-per-share-cash.md,Normalize tax/payment timing maintenance capex lease cash SBC and attached-service economics

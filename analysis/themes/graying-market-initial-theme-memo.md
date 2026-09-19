@@ -104,3 +104,15 @@ Aging is not abstract. It is a chain of concrete business problems that show up 
 - [HCA company packet](/extracted/healthcare/medical-care-facilities/hca-healthcare-inc/company-packet.md)
 - [Abbott company packet](/extracted/healthcare/medical-instruments-supplies/abbott-laboratories/company-packet.md)
 - [Healthcare sector brief](/analysis/sectors/healthcare-sector-initial-brief.md)
+
+## Skeptical Reader Test
+
+- Does the memo distinguish demographic demand from the ability to pay, staff,
+  reimburse, and deliver care?
+- Does each company represent a different burden layer rather than merely
+  repeating the same aging thesis?
+- Are occupancy, admissions, medical cost, staffing, and recurring product use
+  tied to dated packet evidence?
+- What next filing would show that aging demand is being absorbed by labor,
+  affordability, reimbursement, or competition rather than converted into
+  durable economic profit?

@@ -32,8 +32,9 @@ The memo should be read as a synthesis of those packet inputs rather than as a g
 - [AdaptHealth Corp.](../../extracted/healthcare/medical-appliances-equipment/adapthealth-corp/company-packet.md)
 - [Cencora](../../extracted/healthcare/drug-stores/cencora-inc/company-packet.md)
 - [Sysco Corp.](../../extracted/services/retail-grocery-stores/sysco-corp/company-packet.md)
+- [US Foods Holding Corp.](../../extracted/services/retail-grocery-stores/us-foods-holding-corp/company-packet.md)
 
-## Why These Four Belong Together
+## Why These Five Belong Together
 
 These four businesses operate in different categories, but all depend on the same repeat mechanism:
 
@@ -41,6 +42,7 @@ These four businesses operate in different categories, but all depend on the sam
 - AdaptHealth keeps recurring home-medical demand moving through equipment access, consumable resupply, referral channels, and payor routing.
 - Cencora keeps drug and healthcare-product flow continuous for pharmacies, providers, and health systems.
 - Sysco keeps food and kitchen inventory moving for restaurants, hospitality, healthcare, and institutional buyers.
+- US Foods provides a second foodservice test: its route network, purchasing programs, private label, and MOXē tools serve roughly `250,000` locations across restaurants, healthcare, hospitality, government, and education.
 
 The stronger conclusion is that replenishment can be as powerful as subscription, even when it is not labeled that way.
 
@@ -52,15 +54,17 @@ The stronger conclusion is that replenishment can be as powerful as subscription
 | AdaptHealth | The `2025` annual filing said the company serviced about `4.3M` patients annually in all `50` states through about `640` locations and completed about `38,500` equipment and supply deliveries per day. The packet says Sleep Health, Respiratory Health, and Wellness at Home all produce resupply economics. | AdaptHealth shows that home-based healthcare demand often becomes a recurring replenishment loop rather than a one-time device sale. |
 | Cencora | Fiscal `2025` revenue reached `$321B`, adjusted operating income reached `$4.2B`, and adjusted free cash flow reached `$3.0B`. The packet says providers, pharmacies, and health systems rely on the company for recurring institutional replenishment and secure drug flow. | Cencora shows the institutional version: the repeat relationship is maintained through continuous pharmaceutical and healthcare-product throughput. |
 | Sysco | The packet describes Sysco as a pure middle-layer company connecting food producers to restaurants, hospitality venues, healthcare kitchens, education, and other institutional buyers that need dependable replenishment. In FY2026 Q2, sales increased `3.0%`, U.S. Foodservice volume increased `0.8%`, and local volume increased `1.2%`. | Sysco shows that replenishment is also a large service-economy pattern: meals, kitchens, and hospitality depend on recurring inventory flow rather than episodic purchases. |
+| US Foods | Fiscal `2025` sales reached `$39.424B`, operating cash flow `$1.369B`, and reported free cash flow `$965M`. The company served roughly `250,000` customer locations through more than `70` distribution facilities, over `6,500` trucks, and more than `90` cash-and-carry locations. | US Foods makes the foodservice proof harder to dismiss as a one-company observation and shows that route density, vendor programs, private label, and ordering tools are part of the repeat relationship. |
 
 ## Replenishment Map
 
-| Pattern layer | Chewy | AdaptHealth | Cencora | Sysco |
-|---|---|---|---|---|
-| What gets replenished | pet food, wellness items, prescriptions | respiratory supplies, sleep supplies, home-medical consumables, equipment support | pharmaceuticals and healthcare products | food, ingredients, kitchen inventory, institutional supplies |
-| Why repeat demand exists | pet care is a managed routine | chronic care and at-home treatment continue after discharge | care delivery cannot stop | kitchens and institutions need constant stock flow |
-| Relationship thickener | Autoship, pharmacy, app, account management | referral channels, payors, digital resupply, home-service execution | scale distribution, specialty handling, provider services | local service, logistics footprint, dependable fill rates |
-| Main fragility | retention, consumer sensitivity, pharmacy execution | reimbursement, field execution, supplier pricing, cash conversion | customer concentration, policy, reimbursement, working capital | food inflation, restaurant demand, routing efficiency, margin discipline |
+| Pattern layer | Chewy | AdaptHealth | Cencora | Sysco | US Foods |
+|---|---|---|---|---|---|
+| What gets replenished | pet food, wellness items, prescriptions | respiratory supplies, sleep supplies, home-medical consumables, equipment support | pharmaceuticals and healthcare products | food, ingredients, kitchen inventory, institutional supplies | food, ingredients, kitchen inventory, institutional supplies |
+| Why repeat demand exists | pet care is a managed routine | chronic care and at-home treatment continue after discharge | care delivery cannot stop | kitchens and institutions need constant stock flow | kitchens and institutions need constant stock flow |
+| Relationship thickener | Autoship, pharmacy, app, account management | referral channels, payors, digital resupply, home-service execution | scale distribution, specialty handling, provider services | local service, logistics footprint, dependable fill rates | local execution, private label, vendor programs, MOXē, delivery density |
+| Relationship thickener | Autoship, pharmacy, app, account management | referral channels, payors, digital resupply, home-service execution | scale distribution, specialty handling, provider services | local service, logistics footprint, dependable fill rates | local execution, private label, vendor programs, MOXē, delivery density |
+| Main fragility | retention, consumer sensitivity, pharmacy execution | reimbursement, field execution, supplier pricing, cash conversion | customer concentration, policy, reimbursement, working capital | food inflation, restaurant demand, routing efficiency, margin discipline | vendor-rebate timing, inventory, customer credit, debt, fleet and facility renewal |
 
 ## Exact Mechanism
 
@@ -111,6 +115,12 @@ the buyer may not think of the relationship as a subscription,
 
 but the operation depends on repeat fill, route reliability, and inventory continuity.
 
+### 5. US Foods provides the second foodservice test
+
+US Foods makes it possible to separate the foodservice pattern from Sysco's individual execution. Fiscal `2025` total case volume increased `1.0%`, with independent restaurant volume up `3.3%`, healthcare up `4.4%`, and hospitality up `2.9%`, while chain volume declined `3.5%`. Sales grew `4.1%` partly because food costs increased `2.6%`.
+
+That combination matters. The recurring relationship is real, but revenue growth is not the same as physical demand growth. A proper analysis must separate cases, price, food-cost inflation, mix, vendor rebates, and customer reclassification. US Foods also shows that the repeat relationship can be strengthened by private label, chef and sales support, and MOXē ordering and inventory tools, while the company still carries trucks, facilities, inventory, labor, credit, and debt.
+
 ## The Stronger Conclusion
 
 The stronger conclusion is that one of the archive's better hidden repeat-economics patterns is replenishment without subscription.
@@ -132,6 +142,7 @@ That is a different economic model from classic media subscription or paid membe
 | AdaptHealth | recurring home-medical resupply and care continuity | reimbursement complexity, field execution, supplier pricing, working-capital strain |
 | Cencora | institutional product-flow economics at giant scale | customer concentration, margin pressure, policy, traceability, working capital |
 | Sysco | recurring foodservice flow and route economics | route execution, inflation, customer churn, restaurant and hospitality cyclicality |
+| US Foods | route density, procurement scale, private label, and digital ordering embedded in repeat foodservice demand | inventory and vendor-rebate timing, fleet and facilities, customer credit, debt, and foodservice cyclicality |
 
 The shared pattern is that the economics look cleaner from the outside than the operating burden underneath.
 
@@ -168,6 +179,7 @@ The replenishment model is durable, but it is not easy.
 - AdaptHealth has to manage reimbursement, rollout complexity, and field-service productivity.
 - Cencora has to manage customer concentration, policy exposure, and the margin effects of drug mix.
 - Sysco has to manage routing, inflation, volume, and operating leverage in a cautious demand environment.
+- US Foods has to manage the same physical burdens while proving that case growth and margin improvement are not mainly food-cost inflation, vendor-rebate timing, or working-capital release.
 
 The broader lesson is that replenishment businesses often carry heavy logistics, working-capital, and service burdens beneath the repeat revenue surface.
 
@@ -203,12 +215,13 @@ This page is only strong if those four answers are visible from the evidence tab
 | AdaptHealth | deliveries per day, organic growth, adjusted EBITDA, free cash flow, `myAPP` growth, supplier-price and reimbursement commentary | tests whether home-medical replenishment stays both sticky and profitable |
 | Cencora | specialty mix, adjusted operating income, working capital, channel concentration, drug-mix commentary | tests whether institutional replenishment remains durable despite margin pressure |
 | Sysco | volume growth, local volume, gross profit, route efficiency, customer count, food-cost commentary | tests whether institutional kitchen replenishment remains reliable and embedded |
+| US Foods | case growth by customer type, gross margin, vendor receivables, inventory, free cash flow, debt, repurchases, and MOXē adoption | tests whether route density and digital embedment create owner cash after physical-network and balance-sheet burdens |
 
 ## Adjacent Names To Test Next
 
 - `Henry Schein` for office-based practitioner replenishment and workflow support
 - `McKesson` for another large institutional resupply and channel-services case
-- `US Foods` for a second foodservice replenishment comparison against Sysco
+- `Cardinal Health` for a third healthcare distribution comparison and a test of specialty versus broadline economics
 
 ## Why This Memo Improves The Repo
 

@@ -1,0 +1,28 @@
+period,object,value,unit,status,interpretation,what_it_does_not_prove,next_required_source
+FY2026,operating_cash_flow,4143,USD millions,observed,strong reported cash generation,cycle-normalized owner cash,multi-year cash bridge
+FY2026,capital_expenditures,375.945,USD millions,observed,PP&E reinvestment,full maintenance burden,capex classification
+FY2026,reported_free_cash_flow,3767.134,USD millions,calculated,OCF less PP&E,distributable owner cash,R&D/service/working-capital bridge
+FY2026,accounts_receivable,2889,USD millions,observed,customer funding exposure,collection quality,aging and subsequent receipts
+FY2025,accounts_receivable,2264,USD millions,observed,comparison denominator,reason for increase,customer settlement
+FY2026,inventory,3649,USD millions,observed,cycle/supply funding exposure,obsolescence or release,turns and reserve schedule
+FY2025,inventory,3212,USD millions,observed,comparison denominator,reason for increase,turns and reserve schedule
+FY2026,receivables_cash_flow_use,641.8,USD millions,observed,working capital absorbed cash,seasonality or persistence,multi-year cash conversion
+FY2026,inventory_cash_flow_use,466,USD millions,observed,working capital absorbed cash,obsolescence or later release,inventory cohort schedule
+FY2026,accounts_payable_cash_flow_source,172.4,USD millions,observed,supplier funding offset cash use,supplier-finance-adjusted cash,payment and supplier-finance notes
+FY2026,deferred_system_revenue_cash_flow_source,116.1,USD millions,observed,customer-funded liability supported cash,earned margin or free cash,delivery and acceptance schedule
+FY2026,deferred_service_revenue_cash_flow_use,54.6,USD millions,observed,service liability movement used cash,service economics,renewal and collection schedule
+FY2026,net_listed_working_capital_cash_use,873.9,USD millions,diagnostic,listed working-capital reconstruction,complete OCF attribution,filed cash-flow reconciliation
+FY2026,receivables_factored,515.5,USD millions,observed,cash acceleration was material,repeatability or collection quality,factoring unwind sensitivity
+FY2025,receivables_factored,230.6,USD millions,observed,comparison denominator,nonrecurrence,prior-period factoring detail
+FY2026,current_deferred_system_revenue,932.9,USD millions,observed,customer performance obligation,free cash or margin,delivery and acceptance
+FY2026,current_deferred_service_revenue,604.1,USD millions,observed,service performance obligation,free cash or service profit,renewal and cost schedule
+FY2026,noncurrent_deferred_service_revenue,238.1,USD millions,observed,long-duration service obligation,owner cash,renewal and cost schedule
+FY2026,research_and_development,1532,USD millions,observed,technical reinvestment claim,maintenance/growth split,R&D support and cycle floor
+FY2026,purchase_commitments,5970,USD millions,observed,supplier/liquidity claim,recognized liability or cash paid,commitment settlement and cancellation
+FY2026,stock_based_compensation,310.2,USD millions,observed,retention/dilution claim,full per-share burden,diluted-share bridge
+FY2026,dividends,1057.832,USD millions,observed,capital return,distributable surplus,post-reinvestment waterfall
+FY2026,common_stock_repurchases,2289.769,USD millions,observed,capital return,per-share value creation,capital-return and liquidity bridge
+FY2026,residual_after_listed_returns,419.533,USD millions,calculated,FCF less dividends and buybacks,normalized owner cash,debt/tax/liquidity/R&D bridge
+June 30 2026,long_term_debt,5887,USD millions,observed,senior claim,net debt or owner cash,debt maturity and interest schedule
+June 30 2026,cash_and_securities,4902,USD millions,observed,liquidity surface,distributable cash,restricted cash and buffer
+June 30 2026,revolver_capacity,1500,USD millions,observed,financing capacity,legal availability or owner cash,facility terms and covenants

@@ -36,6 +36,13 @@ Date baseline: 2026-08-10
   - the filed SEC `10-K` is the authoritative annual-content source
 - The official annual-reports page linked the `2025` annual report to an external Issuu route. The local capture of that external route was only a stub, so the packet should rely on the annual-reports page for confirmation and the `10-K` for content.
 - The trailing three-quarter window is fully covered through official IR results pages and PDFs plus the SEC filing chain:
-  - `Q2 2026`: results page, earnings tables PDF, earnings presentation PDF, `10-Q`, and `8-K`
+- `Q2 2026`: results page, earnings tables PDF, earnings presentation PDF, `10-Q`, and `8-K`
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/energy/utilities/oneok-inc/2025-10k.html) | `ba5ce972b5c9904bd498c7242c4c944ed82dafba65b12f233b2e602d22052537` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/energy/utilities/oneok-inc/companyfacts.json) | `61918bc1fd616045434ec1870e3bdff7b791b4d545ac6a125110cd5b99cf95c6` |
   - `Q1 2026`: results page, earnings tables PDF, earnings presentation PDF, `10-Q`, and `8-K`
   - `Q4 2025`: results page, earnings tables PDF, earnings presentation PDF, `10-K`, and `8-K`

@@ -1,0 +1,5 @@
+row_id,participant,nominal_mw,total_nominal_mw,capacity_share_pct,proposed_project_cost_usd,mechanical_cost_share_usd,status,do_not_infer,source_url
+DCAS-001,DEC / Duke,1170,1365,85.71,3218000000,2758285714.29,mechanical-allocation-sensitivity,not final Duke cash rate base paid capex or owner return,https://dms.psc.sc.gov/Attachments/Matter/e5ddc5b1-26d3-429d-b4ea-4a9a3fe5ab35
+DCAS-002,NCEMC,100,1365,7.33,3218000000,235750915.75,mechanical-allocation-sensitivity,not final legal funding contribution or cash allocation,https://dms.psc.sc.gov/Attachments/Matter/e5ddc5b1-26d3-429d-b4ea-4a9a3fe5ab35
+DCAS-003,Central,95,1365,6.96,3218000000,223963369.96,mechanical-allocation-sensitivity,not final legal funding contribution or cash allocation,https://dms.psc.sc.gov/Attachments/Matter/e5ddc5b1-26d3-429d-b4ea-4a9a3fe5ab35
+DCAS-004,Total,1365,1365,100.00,3218000000,3218000000.00,mechanical-reconciliation,does not prove paid cost rate base billing or return,https://dms.psc.sc.gov/Attachments/Matter/e5ddc5b1-26d3-429d-b4ea-4a9a3fe5ab35

@@ -1,0 +1,6 @@
+allocation_rate,term_principal_musd,allocated_bullet_musd,annualized_stream_ocf_proxy_musd,bullet_to_annualized_ocf_multiple,one_period_proxy_after_bullet_musd,status,source_artifact,next_upgrade
+0%,1500,0,444.446,0,444.446,illustrative-allocation-frontier,capital-flow-wheaton-antamina-term-maturity-bullet-coverage-screen-2026-09-16.md,PMPA-specific debt allocation and repayment source
+25%,1500,375,444.446,0.843916,69.446,illustrative-allocation-frontier,capital-flow-wheaton-antamina-term-maturity-bullet-coverage-screen-2026-09-16.md,PMPA-specific debt allocation and repayment source
+50%,1500,750,444.446,1.687832,-305.554,illustrative-allocation-frontier,capital-flow-wheaton-antamina-term-maturity-bullet-coverage-screen-2026-09-16.md,PMPA-specific debt allocation and repayment source
+75%,1500,1125,444.446,2.531748,-680.554,illustrative-allocation-frontier,capital-flow-wheaton-antamina-term-maturity-bullet-coverage-screen-2026-09-16.md,PMPA-specific debt allocation and repayment source
+100%,1500,1500,444.446,3.375664,-1055.554,illustrative-allocation-frontier,capital-flow-wheaton-antamina-term-maturity-bullet-coverage-screen-2026-09-16.md,PMPA-specific debt allocation and repayment source

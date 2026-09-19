@@ -30,5 +30,17 @@ Date baseline: 2026-08-10
 
 ## Missing evidence
 
+## Current repository SEC artifact integrity
+
+| Artifact | SHA-256 | Size | Role |
+|---|---|---:|---:|
+| [2025 Form 10-K](../../../../raw/sec/technology/diversified-communication-services/motorola-solutions-inc/2025-10k.html) | `8d8f10688d7e2b54939bf61a56074bfb2897ac5ffd78acf873a2b2143ec1f82b` | 3,456,048 bytes | Primary annual filing |
+| [SEC companyfacts](../../../../raw/sec/companyfacts/technology/diversified-communication-services/motorola-solutions-inc/companyfacts.json) | `566fb6c5ef55b80d4ed5c7057fc47b2afbca249357367f6eecd4a68b6e85f6a1` | 5,298,133 bytes | GAAP denominator extraction |
+
+The exact FY2025 GAAP denominator set is checked by
+`scripts/verify-motorola-solutions-filing-denominators.py`. The annual and
+earnings-call packet remains the source for backlog, software/services mix,
+customer lifecycle, and management framing.
+
 - The raw evidence has not been reintegrated into the current repo raw tree; the saved proof still lives in the imported raw workspace referenced by the packet's raw links.
 - No local Q2 `2026` transcript was saved.

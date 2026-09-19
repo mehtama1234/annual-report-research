@@ -43,3 +43,10 @@ Use evidence tags:
 - No standalone earnings-call transcript artifact was saved locally for `Q4 2025`, `Q1 2026`, or `Q2 2026`.
 - The shell-fetched IR HTML pages under `raw/company-ir/.../fastenal-company/` are challenge pages and are not relied on as substantive evidence in the packet.
 - The packet is still source-complete for the user’s target annual-plus-three-quarter window because the annual filing, annual-report PDF, quarter exhibits, quarter `10-Q` filings, and authoritative source maps are all preserved.
+
+## Current repository filing verification artifacts
+
+| Artifact | Current path | SHA-256 |
+|---|---|---|
+| FY2025 Form 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/industrial-supply/fastenal-company/2025-10k.html) | `2b991a99593936f2f50146ca9ae4b2f537ebc946d75a1dd01077c5cd1a82fa24` |
+| FY2025 companyfacts | [companyfacts.json](/home/mehtama1/git-repo/annual-report-research/raw/sec/companyfacts/industrial-goods/industrial-supply/fastenal-company/companyfacts.json) | `d2fa9f1d63d2647f81b2e1c9c080efffd9b37c2c7e56f933502b6f6b2d724a6e` |

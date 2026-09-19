@@ -1,0 +1,13 @@
+metric,value,status,boundary
+part3-coordinate-event-rows,168,source-visible,Coordinate rows across corrected Part 3 pages 5830-5835; Schedule D starts at page 5836.
+total-disposal-consideration-visible,4417190618,statutory-consideration-visible,Not proven bank receipt or owner cash.
+total-book-value-on-disposal-visible,4394911942,statutory-disposal-book-value-visible,Not a realized cash or return measure by itself.
+continuity-status:blank-cusip-event-no-continuity-key,84,classified,Identifier matching only; no lot-level or settlement inference.
+continuity-status:part3-cusip-no-part1-or-part2-match,2,classified,Identifier matching only; no lot-level or settlement inference.
+continuity-status:same-cusip-part1-and-part2-and-part3-visible,61,classified,Identifier matching only; no lot-level or settlement inference.
+continuity-status:same-cusip-part1-and-part3-visible,4,classified,Identifier matching only; no lot-level or settlement inference.
+continuity-status:same-cusip-part2-and-part3-visible,17,classified,Identifier matching only; no lot-level or settlement inference.
+amount-screen:no-part1-amount-screen,103,screened,"Same-identifier book-value comparison only; does not prove same lot, disposal settlement, borrower repayment, or owner cash."
+amount-screen:part3-book-vs-part1-book-exact-within-1,4,screened,"Same-identifier book-value comparison only; does not prove same lot, disposal settlement, borrower repayment, or owner cash."
+amount-screen:part3-book-vs-part1-book-large-or-multi-lot-delta,55,screened,"Same-identifier book-value comparison only; does not prove same lot, disposal settlement, borrower repayment, or owner cash."
+amount-screen:part3-book-vs-part1-book-near-within-1m,6,screened,"Same-identifier book-value comparison only; does not prove same lot, disposal settlement, borrower repayment, or owner cash."

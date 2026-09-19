@@ -41,7 +41,17 @@ Use evidence tags:
 - The correct trailing-quarter set as of `2026-08-10` is `Q2 2026`, `Q1 2026`, and `Q4 2025`.
 - The annual packet is anchored to the `2025` annual report and fiscal-year `10-K` for the year ended `2025-12-31`.
 - The earlier local SEC `submissions.json` capture in this folder was wrong because it used `CIK 0001037976`, which belongs to `JONES LANG LASALLE INC`, not MasTec. That incorrect file was removed rather than retained as bad evidence.
-- Because MasTec IR exposes company-hosted annual and quarter filing PDFs cleanly, the packet remains source-complete for the target window without needing local SEC HTML preservation.
+- Because MasTec IR exposes company-hosted annual and quarter filing PDFs cleanly, the packet remains source-complete for the target window; the annual SEC HTML and Q2 SEC HTML are now also preserved in the current repository tree for machine-readable verification.
+
+## Current repository raw artifacts
+
+The 2025 Form 10-K has also been preserved in the current repository SEC tree
+to make the deep dossier's primary annual filing locally auditable.
+
+| Artifact | Current repo path | SHA-256 |
+|---|---|---|
+| 2025 10-K | [2025-10k.html](/home/mehtama1/git-repo/annual-report-research/raw/sec/industrial-goods/engineering-construction/mastec-inc/2025-10k.html) | `80c706fe06e6efc2d5f7a03ad9d850a7977e2437486f5cd7bc7f2a12cf5d2c49` |
+| Q2 2026 10-Q | [mastec-2026-q2-10q.html](/home/mehtama1/git-repo/annual-report-research/raw/primary-sources/capital-flow/power-grid-pilot/mastec/q2-2026/mastec-2026-q2-10q.html) | `f13877bf3e7ebaefddff2740fa5b04a67638b79721022d0695be3e1c78be0f1e` |
 
 ## Missing evidence
 

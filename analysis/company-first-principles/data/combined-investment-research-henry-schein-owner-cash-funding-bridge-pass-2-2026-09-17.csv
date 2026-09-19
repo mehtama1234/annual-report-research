@@ -1,0 +1,24 @@
+period,object,value,unit,status,interpretation,what_it_does_not_prove,next_required_source
+H1 2026,operating_cash_flow,145,USD millions,observed,reported operating cash,normalized owner cash,cash-quality bridge
+H1 2026,property_and_equipment,55,USD millions,observed,physical reinvestment burden,maintenance/growth split,capex classification
+H1 2026,capitalized_software,30,USD millions,observed,software reinvestment burden,maintenance/growth split,software cash schedule
+H1 2026,acquisitions_equity_investments,30,USD millions,observed,investment cash burden,return on investment,acquisition/equity cohort return
+H1 2026,visible_pre_debt_residual,30,USD millions,diagnostic,OCF less listed reinvestment,distributable owner cash,senior claims and seasonality
+H1 2026,share_repurchase_cash,325,USD millions,observed,capital return outflow,source of funds,complete financing waterfall
+H1 2026,repurchase_less_visible_residual,295,USD millions,calculated,funding-gap screen,debt-funded attribution,beginning cash and financing bridge
+H1 2026,net_bank_credit_line_borrowing,261,USD millions,observed,credit-line funding increased,repurchases specifically funded by borrowing,debt draw/use schedule
+H1 2026,long_term_debt_issued,144,USD millions,observed,long-term financing source,repurchase-specific use,debt issuance and use of proceeds
+H1 2026,long_term_debt_repaid,50,USD millions,observed,senior claim repayment,net liquidity after all financing,debt maturity schedule
+June 27 2026,receivable_securitization_limit,450,USD millions,observed,available purchase-limit perimeter,unrestricted cash,facility agreement and eligibility
+June 27 2026,receivable_securitization_outstanding,430,USD millions,observed,95.6% facility utilization,common-owner liquidity,borrowing-base and reserve schedule
+June 27 2026,securitized_receivables_collateral,526,USD millions,observed,collateral backing is material,eligible availability or collections,collateral aging and dilution
+H1 2026,receivables_working_capital_use,116,USD millions,observed,receivables absorbed cash,seasonality or persistence,multi-period cash conversion
+H1 2026,inventory_working_capital_use,49,USD millions,observed,inventory absorbed cash,obsolescence or future release,inventory turns and reserve schedule
+H1 2026,ap_payables_funding,79,USD millions,observed,supplier/accrual funding offset cash use,supplier-finance-adjusted owner cash,payment and supplier-finance details
+June 27 2026,accounts_receivable,1763,USD millions,observed,receivable exposure,collectibility or unrestricted cash,aging and subsequent receipts
+June 27 2026,inventory,2059,USD millions,observed,inventory exposure,turns or recoverability,aging and reserve schedule
+June 27 2026,dso,45.7,days,observed,collection timing worsened versus 44.7,causality or persistence,seasonal-normalized DSO
+June 27 2026,inventory_turns,4.6,times,observed,inventory efficiency declined from 4.7,obsolescence or cash return,product-level turns
+H1 2026,restructuring_charges,41,USD millions,observed,2024 Plan remains a cost,amount paid or remaining obligation,cash-paid restructuring roll-forward
+H1 2026,KKR_cash_investment,250,USD millions,observed,named equity-capital event,net dilution or owner value,share issuance and ASR bridge
+H1 2026,KKR_shares_issued,3285152,shares,observed,share-count impact,fully diluted per-share economics,equity and diluted-share schedule

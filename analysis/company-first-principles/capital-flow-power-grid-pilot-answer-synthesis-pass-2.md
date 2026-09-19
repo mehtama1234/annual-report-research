@@ -64,6 +64,16 @@ The FPL remaining-source status page is:
 
 `/cluster/capital-flow-fpl-sppcrc-remaining-source-status-pass-1.md`
 
+The AEP large-load customer-obligation proof chase is:
+
+`capital-flow-aep-large-load-customer-obligation-proof-chase-pass-1.md`
+
+It keeps AEP's `69 GW` expected-load disclosure, tariff mechanics, approximately
+`$2B` of financial security, interconnection/cost-responsibility route, project
+allocation, billing determinants, and collected-cash bridge as separate gates. The
+current status is `hold-with-security-and-tariff-visible`; no LOA/ESA, collateral,
+turbine, or aggregate utility cash is promoted to customer-funded owner cash.
+
 ## Short Answer
 
 The pilot now proves an operating-return bridge, not full project-return proof.
@@ -224,3 +234,31 @@ Do not say:
 - negotiated-rate language proves committed shippers
 - named customer contracts disclose project economics
 - regulatory recovery framework proves every project category is recoverable
+turbine, or aggregate utility cash is promoted to customer-funded owner cash.
+
+The Duke ESA and Anderson County project-recovery proof chase is:
+
+`capital-flow-duke-esa-project-recovery-proof-chase-pass-1.md`
+
+It keeps secured ESAs, financial protections, Anderson approval conditions,
+cooperative ownership, project cost, CWIP, rate-base treatment, in-service timing,
+and receipts as separate gates. The current status is
+`hold-with-approval-and-monitoring-visible`.
+
+The industrial-contractor project-cash proof chase is:
+
+`capital-flow-industrial-contractor-project-cash-proof-chase-pass-1.md`
+
+It tests Sterling and MasTec through named customer/cohort, funded scope,
+progress billing, contract assets, receivables, retainage, cost-to-complete,
+collection, capex, debt, acquisition, and diluted residual gates. Its current
+status is `hold-backlog-and-aggregate-cash-visible`.
+
+The AEP/Duke turbine-supplier cash proof chase is:
+
+`capital-flow-aep-duke-turbine-supplier-cash-proof-chase-pass-1.md`
+
+It keeps secured versus under-evaluation capacity, vendor mapping, purchase terms,
+deposits, delivery, supplier revenue, collection, utility approval, and owner
+residual as separate gates. Its current status is
+`hold-capacity-visible`.

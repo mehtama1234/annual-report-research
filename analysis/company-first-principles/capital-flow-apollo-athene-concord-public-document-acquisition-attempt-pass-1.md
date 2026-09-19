@@ -36,6 +36,24 @@ No row upgraded to return-model proof.
 
 All `8` document families remain controlled-document-needed.
 
+## September 16, 2026 public recheck
+
+The targeted public recheck independently reconfirmed the boundary for the
+Series 2025-3 route. Concord's official closing release describes the `$1.765B`
+music-rights ABS, more than `1.3M` copyrights, Apollo Global Securities and
+ATLAS SP Securities as joint bookrunners, Redding Ridge as structuring agent,
+and Bank of New York Mellon as trustee. The KBRA Series 2025-3 new-issue page
+is publicly locatable but remains premium-gated. These observations strengthen
+the borrower, collateral, platform, and trustee map; they do not provide the
+offering memorandum, trustee remittance, Athene allocation, settlement account,
+or liability-cost return evidence.
+
+Sources: [Concord closing release](https://concord.com/news/concord-closes-1-765-billion-abs-to-fuel-continued-growth/)
+and [KBRA Series 2025-3 new-issue report page](https://www.kbra.com/publications/ZTyQYFzg/concord-music-royalties-llc-series-2025-3-new-issue-report?format=web).
+The KBRA route redirects to this canonical page and displays the premium-
+subscription requirement; no report body or downloadable attachment is
+available in the public response.
+
 ## Attempt Outcomes
 
 | Request | Document family | Attempt status | Proof effect |
@@ -47,14 +65,14 @@ All `8` document families remain controlled-document-needed.
 | `CFAACNCDR-005` | collateral catalog and royalty tape | public collateral proxy found; tape not found | collateral scale/type improves, but royalty cash-flow proof is not found |
 | `CFAACNCDR-006` | Athene allocation and trade support | not-found-public | Athene receipt remains hold |
 | `CFAACNCDR-007` | liability-cost and spread support | not-found-public | return model remains hold |
-| `CFAACNCDR-008` | rating surveillance full reports | located-premium-access-controlled | KBRA report/transaction routes exist, but full report content is premium-gated |
+| `CFAACNCDR-008` | rating surveillance full reports | located-premium-access-controlled | The exact Series 2025-3 new-issue report is located but premium-gated; the accessible July 2026 surveillance page supplies only the timely-interest proxy |
 
 ## What The Search Improved
 
 The public search improved three parts of the Concord route:
 
 1. The offering circular / indenture route is not hypothetical. A DealX document index appears to list an offering circular, indenture exhibits, and an indenture supplement for Concord Music Royalties.
-2. KBRA public releases and transaction pages identify rating-report and surveillance-report routes, but the full reports require premium access.
+2. KBRA public releases and transaction pages identify rating-report and surveillance-report routes, but the exact Series 2025-3 new-issue report and full surveillance reports require premium access or login. The accessible July 2026 page confirms the payment-date scope and timely-interest proxy; the underlying transaction pages do not expose the report tables in the public response.
 3. Public Concord, KBRA, Apollo, and Asset Securitization Report sources further support the borrower/wrapper/use/collateral route.
 
 ## What Still Blocks Full Proof
@@ -124,6 +142,8 @@ The next move is to pursue access-controlled routes first:
 - KBRA July `21`, `2025` rating release: `https://www.kbra.com/publications/bcGzRKWf`
 - KBRA June `25`, `2025` preliminary rating release: `https://www.kbra.com/publications/ZLhcMNKm`
 - KBRA new issue report route: `https://www.kbra.com/publications/GWGHRrZS/concord-music-royalties-llc-series-2025-1-new-issue-report?format=web`
+- KBRA Series 2025-3 new issue report route (premium-gated): `https://www.kbra.com/publications/ZTyQYFzg`
+- KBRA July `21`, `2026` surveillance page: `https://www.kbra.com/publications/xpNPQytP`
 - KBRA Concord transaction page: `https://www.kbra.com/sectors/abs/transactions?filterText=Concord+Music+Royalties,+LLC&sortField=Date`
 - Concord closing release: `https://concord.com/news/concord-closes-1-765-billion-abs-to-fuel-continued-growth/`
 - Apollo Concord ABS overview: `https://www.apollo.com/insights-news/insights/2025/01/apollo-leads-largest-ever-music-abs-transaction-for-concord`

@@ -1,0 +1,19 @@
+period,metric,value,unit,interpretation,source
+FY2026,operating cash flow,5174,USD millions,reported OCF,2026 10-K
+FY2026,acquisitions net of cash acquired,1991,USD millions,visible acquisition cash,2026 10-K
+FY2026,property and equipment capex,649,USD millions,visible reinvestment,2026 10-K
+FY2026,residual after acquisitions and capex,2534,USD millions,OCF less visible reinvestment,calculated
+FY2026,treasury-share purchases,1358,USD millions,financing distribution,2026 10-K
+FY2026,common dividends,491,USD millions,financing distribution,2026 10-K
+FY2026,long-term debt reduction,653,USD millions,senior-claim reduction,2026 10-K
+FY2026,residual after listed distributions,32,USD millions,stress screen not owner cash,calculated
+FY2026,opioid litigation cash paid,417,USD millions,already included in OCF,2026 10-K
+June 30 2026,cash and equivalents,4856,USD millions,reported liquidity,2026 10-K
+June 30 2026,total debt and finance lease obligations,8886,USD millions,senior claims,2026 10-K
+FY2026,CVS revenue concentration,28,percent,customer concentration,2026 10-K
+June 30 2026,CVS gross trade receivables concentration,22,percent,collection concentration,2026 10-K
+FY2026,Solaris acquisition cash,1900,USD millions,acquisition cohort,2026 10-K
+FY2026,physician and management unit consideration,500,USD millions,non-cash economic claim/dilution,2026 10-K
+FY2026,IEEPA tariff refund receivable,200,USD millions,temporary receivable,2026 10-K
+July 2026,National Opioid Settlement payment,374,USD millions,post-period legal cash payment; not included in FY2026 OCF,2026 10-K
+Through 2038,additional opioid settlement payments,3700,USD millions maximum stated,remaining legal claim schedule; not a present-period cash deduction,2026 10-K

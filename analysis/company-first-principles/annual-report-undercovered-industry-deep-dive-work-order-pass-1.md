@@ -103,3 +103,54 @@ It should contain:
 ## Decision Marker
 
 `annual-report-undercovered-industry-deep-dive-work-order-ready-execution`
+
+## First execution output
+
+The [services and cultural consumption deep dive](annual-report-services-cultural-consumption-deep-dive-pass-1.md)
+executes the first queue item with Chipotle, McDonalds, and Home Depot. It
+adds an article-grade explanation of time, convenience, ritual, price trust,
+and property upkeep while preserving the owner-cash, causal-demand, and
+franchise/integration proof boundaries.
+
+The second focused output is the [consumer goods and household identity deep
+dive](annual-report-consumer-goods-household-identity-deep-dive-pass-1.md).
+It uses the strongest available consumer-goods packets—Burlington, Ollies, and
+Lowes—to cover branded bargain discovery, closeout inventory dislocation, and
+home-upkeep workflow while explicitly recording that packaged-staples coverage
+is still missing.
+
+The third focused output is the [basic materials and input scarcity deep
+dive](annual-report-basic-materials-input-scarcity-deep-dive-pass-1.md). It
+uses CF Industries, West Fraser, and Sherwin-Williams to connect fertilizer,
+lumber, and coatings to food affordability, housing, and maintenance while
+separating strategic scarcity from shareholder pricing power.
+
+The fourth focused output is the [real-estate and scarce locations deep
+dive](annual-report-real-estate-scarce-locations-deep-dive-pass-1.md). It uses
+Equinix, Digital Realty, and McDonalds to test site, power, connectivity,
+franchise-property, tenant-payment, and funding control while recording that
+balanced tower, lodging, residential, and logistics REIT coverage remains open.
+
+The fifth focused output is the [broad technology control-points deep
+dive](annual-report-broad-technology-control-points-deep-dive-pass-1.md). It
+uses KLA, Fortinet, and Cloudflare to connect chip yield, network enforcement,
+and edge control to modern activity while separating recurring commitments
+from owner cash.
+
+The sixth focused output is the [healthcare care-infrastructure deep
+dive](annual-report-healthcare-care-infrastructure-deep-dive-pass-1.md). It
+uses Addus, DaVita, Option Care, and BrightSpring to connect aging in place,
+mandatory chronic treatment, alternate-site therapy, and complex-care
+coordination to labor, reimbursement, and owner-cash constraints.
+
+The seventh focused output is the [energy affordability and supply-route deep
+dive](annual-report-energy-affordability-supply-route-deep-dive-pass-1.md). It
+uses Energy Transfer, Cheniere, PBF, and Devon to connect upstream depletion,
+midstream routing, LNG export, and refining to usable energy and household
+affordability.
+
+The eighth focused output is the [ordinary-finance promises and credit deep
+dive](annual-report-ordinary-finance-promises-and-credit-deep-dive-pass-1.md).
+It uses JPMorgan, American Express, and Capital One to connect deposits,
+spending, lending, payments, funding cost, losses, and capital to everyday
+financial pressure.

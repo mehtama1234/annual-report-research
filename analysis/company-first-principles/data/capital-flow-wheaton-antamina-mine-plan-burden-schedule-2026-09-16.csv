@@ -1,0 +1,14 @@
+evidence_id,period,period_status,operating_cost_real_usd_m,capital_cost_nominal_usd_m,source_artifact,interpretation,remaining_gap
+MPB-001,2025,full,1387,825,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-002,2026,full,1409,850,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-003,2027,full,1351,667,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-004,2028,full,1367,464,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-005,2029,full,1492,333,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-006,2030,full,1435,221,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-007,2031,full,1318,155,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-008,2032,full,1252,190,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-009,2033,full,1066,70,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-010,2034,full,1053,108,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-011,2035,full,953,109,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-012,2036,partial,597,31,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Antamina mine-plan operating and capital burden,No silver or BHP tranche allocation
+MPB-TOTAL,2025-2036,total,14681,4022,raw/primary-sources/capital-flow/antamina/2025/antamina-technical-report-2024.pdf,Published mine-plan totals,Operating basis is real and capital basis is nominal; no cash-flow normalization

@@ -1,0 +1,11 @@
+entity,market_value_musd,valuation_case_or_multiple,implied_cash_or_earnings_musd,existing_base_input_musd,implied_difference_musd,calculation,boundary,status
+Target,71129.148,18x,3951.619,3000,951.619,"71129.148 / 18","Cash is reported-screen cash, not normalized owner cash",qualified
+Target,71129.148,24x,2963.714,3000,-36.286,"71129.148 / 24","Cash is reported-screen cash, not normalized owner cash",qualified
+Target,71129.148,30x,2370.972,3000,-629.028,"71129.148 / 30","Cash is reported-screen cash, not normalized owner cash",qualified
+Walmart,867607.5,30x,28920.250,18000,10920.250,"867607.5 / 30","Cash is illustrative normalized cash, not fully burden-adjusted owner cash",qualified
+Walmart,867607.5,38x,22831.776,18000,4831.776,"867607.5 / 38","Cash is illustrative normalized cash, not fully burden-adjusted owner cash",qualified
+Walmart,867607.5,45x,19280.167,18000,1280.167,"867607.5 / 45","Cash is illustrative normalized cash, not fully burden-adjusted owner cash",qualified
+Apollo,77803.276695,base-SRE-held,2981.967,2800,181.967,"(77803.276695 - 19.2 - 3.0 + 10.0) / 22","Required FRE assumes base SRE, principal value, and claims haircut",qualified
+Apollo,77803.276695,base-FRE-held,3867.213,3200,667.213,"(77803.276695 - 61.6 - 3.0 + 10.0) / 6","Required SRE assumes base FRE, principal value, and claims haircut",qualified
+Apollo,77803.276695,base-FRE-SRE-held,7003.277,3000,4003.277,"77803.276695 - 61.6 - 19.2 + 10.0","Required principal/performance value assumes base FRE, SRE, and claims haircut",qualified
+Wheaton,67812.000,not-identifiable,,,"","No clean public segment equity-value allocation for Antamina","Use transaction-level PMPA cash-flow burden screen instead",boundary-confirmed

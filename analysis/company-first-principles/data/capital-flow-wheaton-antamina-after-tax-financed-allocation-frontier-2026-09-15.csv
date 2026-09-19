@@ -1,0 +1,6 @@
+allocation_case,finance_allocation_pct,tax_allocation_pct,annualized_stream_ocf_proxy_musd,annualized_finance_cost_musd,annualized_tax_expense_musd,after_tax_financed_cash_musd,cash_to_upfront_pct,simple_payback_years,status,source_artifact,next_upgrade
+0%/0%,0,0,444.446,65.004,421.752,444.446,10.335953,9.674966,illustrative-allocation-frontier,capital-flow-wheaton-antamina-after-tax-financed-allocation-frontier-2026-09-15.md,PMPA-specific tax and debt allocation
+25%/25%,25,25,444.446,65.004,421.752,322.757,7.505977,13.322716,illustrative-allocation-frontier,capital-flow-wheaton-antamina-after-tax-financed-allocation-frontier-2026-09-15.md,PMPA-specific tax and debt allocation
+50%/50%,50,50,444.446,65.004,421.752,201.068,4.676000,21.385800,illustrative-allocation-frontier,capital-flow-wheaton-antamina-after-tax-financed-allocation-frontier-2026-09-15.md,PMPA-specific tax and debt allocation
+75%/75%,75,75,444.446,65.004,421.752,79.379,1.846023,54.170498,illustrative-allocation-frontier,capital-flow-wheaton-antamina-after-tax-financed-allocation-frontier-2026-09-15.md,PMPA-specific tax and debt allocation
+100%/100%,100,100,444.446,65.004,421.752,-42.310,-0.983953,,illustrative-allocation-frontier,capital-flow-wheaton-antamina-after-tax-financed-allocation-frontier-2026-09-15.md,PMPA-specific tax and debt allocation

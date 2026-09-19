@@ -1,0 +1,9 @@
+gate_id,required_object,current_evidence,status,stop_rule
+DUKE-ESA-001,Utility/customer split for 7.6 GW secured ESAs,Duke Q1 2026 secured-ESA disclosure,hold-split,Do not treat secured ESAs as Duke-owned or energized load without utility/customer mapping.
+DUKE-ESA-002,ESA financial-protection and minimum-obligation terms,Filing says arrangements include financial protections aligned to service costs,protection-visible,Do not promote control language to enforceable customer cash without terms or executed agreements.
+DUKE-ESA-003,Anderson County final order conditions,PSC Order 2026-244 certificate subject to permits consultations and certifications,approval-visible,Certificate approval is not rate-base approval paid capex or earned return.
+DUKE-ESA-004,Anderson cost and ownership allocation,Approximate 3.218B estimate plus 95 MW and 100 MW cooperative ownership and interim 100 percent DEC cost representation,allocation-partial,Sensitivity allocations do not replace final participation or funding agreements.
+DUKE-ESA-005,Construction/CWIP and financing schedule,Limited notice to proceed engineering/procurement major equipment and summer 2027 start,hold-CWIP,Do not treat monitoring or procurement as audited cash spend or rate-base transfer.
+DUKE-ESA-006,Customer contribution or recovery treatment,Project-specific rate-base CWIP contribution and rider treatment not disclosed,hold-recovery,Do not infer allowed return from certificate or resource-plan approval.
+DUKE-ESA-007,In-service and billed-revenue evidence,Early 2031 customer-service target,hold-in-service,Target date is not energized plant billing determinant or collected revenue.
+DUKE-ESA-008,Project cash debt service and common residual,No project-level receipts financing cost tax or common-owner residual,hold-receipt,Do not promote aggregate Duke OCF capex or secured-ESA volume into project return.

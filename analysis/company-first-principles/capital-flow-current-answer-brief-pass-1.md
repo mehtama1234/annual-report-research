@@ -161,7 +161,7 @@ The eighth queue pass is MAI Capital:
 
 `analysis/company-first-principles/capital-flow-mai-acquisition-financing-map-pass-1.md`
 
-It supports MAI as a wealth-management advisory consolidation borrower with Ares continued-M&A-strategy context and SEC-filed Ares/New Mountain holder evidence. The clean Q2 2026 same-period holder-visible number is `8.0000M USD` of ARCC fair value. The broader latest-visible holder reach is `35.2233M USD` funded fair value plus `12.4010M USD` undrawn commitment across mixed-period rows, but acquisition-to-facility mapping, facility size, bank role, lender group, and operating-output conversion remain unproven.
+It supports MAI as a wealth-management advisory consolidation borrower with Ares continued-M&A-strategy context and SEC-filed Ares/New Mountain holder evidence. The current Q2 2026 same-period holder-visible lower bound is `32.8580M USD` across ARCC and Guardian IV. The broader latest-visible holder reach is `60.0813M USD` funded fair value plus `12.4010M USD` undrawn commitment across mixed-period rows, but acquisition-to-facility mapping, facility size, bank role, lender group, Carlyle debt funding, and operating-output conversion remain unproven.
 
 The ninth queue pass is public BDC capital-stack decomposition:
 

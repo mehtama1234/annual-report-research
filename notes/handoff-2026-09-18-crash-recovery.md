@@ -173,6 +173,13 @@ owner cash.
   borrowings, Wells/UBS facilities, `226.6%` asset coverage, and `$330.8M`
   outstanding investment-funding commitments. MAI-specific liability
   allocation and bank-role proof remain open.
+- Carlyle announced that its funds completed a majority stake in MAI effective
+  June 4, 2026, at a valuation above `$2.8B`; this is ownership context only,
+  not debt source-of-funds evidence. The refreshed MAI crosswalk now shows a
+  Q2 2026 ARCC-plus-Guardian holder-visible lower bound of `$32.858M` and a
+  mixed-period funded lower bound of `$60.0813M`, plus a separate `$12.401M`
+  New Mountain undrawn commitment. These do not prove full facility size,
+  Carlyle debt funding, or bank replacement.
 - Apollo–Athene Q-07’s current Apollo Q2 filing reinforces subsidiary-dividend
   and legal-availability controls but still provides no AGM receiving account,
   remittance, or elimination schedule. Q-07 remains `receipt-unproven`.

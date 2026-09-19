@@ -6061,6 +6061,16 @@ borrowings, Wells and UBS facilities, and `226.6%` asset coverage. This is
 current holder-plus-vehicle evidence, not allocation of a Guardian liability
 to MAI or bank-replacement proof.
 
+MAI's ownership context also changed: Carlyle announced that its funds
+completed a majority-stake acquisition effective June 4, 2026, at a valuation
+above `$2.8B`, with employees retaining a large minority and management and
+operational independence continuing. That is an ownership event, not debt
+source-of-funds proof. Combining ARCC and Guardian IV produces a Q2 2026
+same-period holder-visible lower bound of `$32.858M`; combining those Q2 rows
+with ASIF and New Mountain Q1 rows produces `$60.0813M` of mixed-period funded
+fair value plus a separate `$12.401M` undrawn commitment. Neither figure is
+full MAI facility size or a Carlyle-funded debt balance.
+
 These controls strengthen the distinction between `transaction completed`,
 `arranger role`, `holder visibility`, and `borrower cash waterfall`. They do
 not change the broad bank-role conclusion: private credit can replace named
